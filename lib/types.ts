@@ -2,6 +2,8 @@ export type Track = {
   number: string
   title: string
   length: string | null
+  preview?: string | null
+  deezer_id?: string | null
 }
 
 export type Disc = {

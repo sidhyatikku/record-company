@@ -480,3 +480,189 @@
     animation: none;
   }
 }
+
+/* ---------- Preview player (iOS 6 aluminum) ---------- */
+.vinyl-spin {
+  animation-play-state: paused;
+}
+.is-playing .vinyl-spin {
+  animation-play-state: running;
+}
+
+.player-panel {
+  border: 1px solid #6f747b;
+  border-radius: 12px;
+  background:
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.05) 0 1px, rgba(0, 0, 0, 0.03) 1px 2px),
+    linear-gradient(#f6f7f8, #dfe2e5 48%, #c9cdd1 52%, #d6d9dc);
+  box-shadow:
+    inset 0 1px 0 #fff,
+    inset 0 -1px 0 rgba(0, 0, 0, 0.15),
+    0 10px 28px rgba(0, 0, 0, 0.55),
+    0 2px 4px rgba(0, 0, 0, 0.4);
+}
+.player-engraved {
+  color: #333a44;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.85);
+}
+
+.player-btn {
+  border-radius: 9999px;
+  color: #2f353d;
+  filter: drop-shadow(0 1px 0 rgba(255, 255, 255, 0.95));
+  transition: color 150ms ease, transform 100ms ease, filter 150ms ease;
+}
+.player-btn:hover:not(:disabled) {
+  color: #0d1014;
+}
+.player-btn:active:not(:disabled) {
+  transform: scale(0.92);
+}
+.player-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.player-btn:focus-visible {
+  outline: 2px solid #2f7fe8;
+  outline-offset: 2px;
+}
+.player-btn[data-active] {
+  color: #1d6ae0;
+  filter: drop-shadow(0 0 4px rgba(60, 150, 255, 0.85)) drop-shadow(0 1px 0 rgba(255, 255, 255, 0.9));
+}
+.player-btn-main {
+  border: 1px solid #7c828a;
+  background: radial-gradient(circle at 50% 30%, #ffffff, #e9ebee 45%, #bfc4ca);
+  box-shadow:
+    inset 0 1px 0 #fff,
+    0 2px 4px rgba(0, 0, 0, 0.4);
+  filter: none;
+}
+
+.ios-range {
+  --fill: 0%;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 24px;
+  background: transparent;
+  cursor: pointer;
+}
+.ios-range:disabled {
+  cursor: default;
+  opacity: 0.55;
+}
+.ios-range::-webkit-slider-runnable-track {
+  height: 9px;
+  border: 1px solid #5d636b;
+  border-radius: 9999px;
+  background:
+    linear-gradient(#5aa2f5, #1c62cf) 0 0 / var(--fill) 100% no-repeat,
+    linear-gradient(#d9dce0, #ffffff);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.45), 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+.ios-range::-moz-range-track {
+  height: 9px;
+  border: 1px solid #5d636b;
+  border-radius: 9999px;
+  background:
+    linear-gradient(#5aa2f5, #1c62cf) 0 0 / var(--fill) 100% no-repeat,
+    linear-gradient(#d9dce0, #ffffff);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.45), 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+.ios-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 22px;
+  height: 22px;
+  margin-top: -7.5px;
+  border: 1px solid #7c828a;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 32%, #ffffff, #e6e8eb 45%, #b6bbc2);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.45);
+}
+.ios-range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #7c828a;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 32%, #ffffff, #e6e8eb 45%, #b6bbc2);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.45);
+}
+.ios-range-sm::-webkit-slider-thumb {
+  width: 18px;
+  height: 18px;
+  margin-top: -5.5px;
+}
+.ios-range-sm::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+}
+.ios-range:focus-visible {
+  outline: none;
+}
+.ios-range:focus-visible::-webkit-slider-thumb {
+  box-shadow: 0 0 0 3px rgba(47, 127, 232, 0.6), 0 2px 3px rgba(0, 0, 0, 0.45);
+}
+.ios-range:focus-visible::-moz-range-thumb {
+  box-shadow: 0 0 0 3px rgba(47, 127, 232, 0.6), 0 2px 3px rgba(0, 0, 0, 0.45);
+}
+
+/* ---------- Tracklist now-playing ---------- */
+.track-row.is-playable {
+  cursor: pointer;
+}
+.track-row.is-playable:hover {
+  background: #eef3fb;
+}
+.track-row.is-current,
+.track-row.is-current:hover {
+  background: linear-gradient(#e6effc, #d3e2f7);
+}
+.track-row.is-current .track-title {
+  color: #1a5fc4;
+  font-weight: 700;
+}
+.track-row:not(.is-playable) .track-title {
+  color: #666;
+}
+.track-row:has(.track-title:focus-visible) {
+  box-shadow: inset 0 0 0 2px #2f7fe8;
+}
+
+.eq {
+  display: inline-flex;
+  height: 12px;
+  align-items: flex-end;
+  gap: 2px;
+}
+.eq > span {
+  width: 3px;
+  height: 100%;
+  border-radius: 1px;
+  background: linear-gradient(#5aa2f5, #1c62cf);
+  transform-origin: bottom;
+  animation: eq-bounce 900ms ease-in-out infinite;
+}
+.eq > span:nth-child(2) {
+  animation-delay: -300ms;
+}
+.eq > span:nth-child(3) {
+  animation-delay: -600ms;
+}
+.eq.is-paused > span {
+  animation-play-state: paused;
+}
+@keyframes eq-bounce {
+  0%,
+  100% {
+    transform: scaleY(0.3);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .eq > span {
+    animation: none;
+    transform: scaleY(0.7);
+  }
+}

@@ -158,6 +158,40 @@ function sectionFor(artist: string) {
   return /[A-Z]/.test(first) ? first : '#'
 }
 
+type RawTrack = {
+  number?: string | number
+  title?: string
+  length?: string | null
+  preview?: string | null
+  preview_url?: string | null
+  deezer_preview?: string | null
+  deezer_id?: string | number | null
+  deezer?: { id?: string | number | null; preview?: string | null } | null
+}
+
+/** Accepts the common Deezer preview field shapes so new JSON exports drop straight in. */
+function normalizeTracklist(raw: unknown): Tracklist | null {
+  if (!raw || typeof raw !== 'object') return null
+  const list = raw as Tracklist
+  return {
+    ...list,
+    discs: (list.discs ?? []).map((disc) => ({
+      ...disc,
+      tracks: ((disc.tracks ?? []) as RawTrack[]).map((t, i) => {
+        const preview = t.preview ?? t.preview_url ?? t.deezer_preview ?? t.deezer?.preview ?? null
+        const id = t.deezer_id ?? t.deezer?.id ?? null
+        return {
+          number: String(t.number ?? i + 1),
+          title: t.title ?? `Track ${i + 1}`,
+          length: t.length ?? null,
+          preview: typeof preview === 'string' && preview.startsWith('https://') ? preview : null,
+          deezer_id: id != null && /^\d+$/.test(String(id)) ? String(id) : null,
+        }
+      }),
+    })),
+  }
+}
+
 let cache: { albums: Album[]; byId: Map<string, Album> } | null = null
 
 function load() {
@@ -173,7 +207,7 @@ function load() {
     genres: data.genres ?? [],
     rating: data.rating ?? null,
     links: data.links ?? {},
-    tracklist: (data.tracklist as Tracklist | undefined) ?? null,
+    tracklist: normalizeTracklist(data.tracklist),
     cover,
     placeholder: false,
   }))
