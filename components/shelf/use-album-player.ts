@@ -11,25 +11,47 @@ export type PlayableTrack = {
   fallback: string | null
 }
 
-export function buildPlayableTracks(album: Album | undefined): PlayableTrack[] {
+export type DeezerAlbumPreviews = {
+  albumId: string | null
+  tracks: { id: string; title: string; preview: string; position: number | null; disc: number }[]
+}
+
+function normalizeTitle(value: string) {
+  return value
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/\(.*?\)|\[.*?\]/g, '')
+    .replace(/[^a-z0-9]+/g, '')
+}
+
+/**
+ * Preview URLs come only from the fresh per-album Deezer lookup, never from the stored JSON,
+ * because Deezer's signed links expire. Tracks the lookup can't match fall back to a per-track search.
+ */
+export function buildPlayableTracks(album: Album | undefined, deezer: DeezerAlbumPreviews | undefined): PlayableTrack[] {
   if (!album?.tracklist) return []
-  return album.tracklist.discs.flatMap((disc) =>
-    disc.tracks.map((track) => {
-      if (album.placeholder) {
-        return { number: track.number, title: track.title, length: track.length, src: null, fallback: null }
-      }
-      const params = new URLSearchParams({ artist: album.artist, title: track.title, album: album.title })
-      if (track.deezer_id) params.set('id', track.deezer_id)
-      const resolver = `/api/preview?${params}`
-      return {
-        number: track.number,
-        title: track.title,
-        length: track.length,
-        src: track.preview ?? resolver,
-        fallback: track.preview ? resolver : null,
-      }
-    }),
-  )
+  const ours = album.tracklist.discs.flatMap((disc) => disc.tracks)
+  const theirs = deezer?.tracks ?? []
+  const byTitle = new Map(theirs.map((t) => [normalizeTitle(t.title), t.preview]))
+  const sameLength = theirs.length === ours.length
+
+  return ours.map((track, index) => {
+    if (album.placeholder) {
+      return { number: track.number, title: track.title, length: track.length, src: null, fallback: null }
+    }
+    const params = new URLSearchParams({ artist: album.artist, title: track.title, album: album.title })
+    if (track.deezer_id) params.set('id', track.deezer_id)
+    const resolver = `/api/preview?${params}`
+    const fresh = byTitle.get(normalizeTitle(track.title)) ?? (sameLength ? theirs[index]?.preview : undefined)
+    return {
+      number: track.number,
+      title: track.title,
+      length: track.length,
+      src: fresh ?? resolver,
+      fallback: fresh ? resolver : null,
+    }
+  })
 }
 
 function shuffled<T>(items: T[]) {
@@ -41,9 +63,10 @@ function shuffled<T>(items: T[]) {
   return out
 }
 
-export function useAlbumPlayer(tracks: PlayableTrack[]) {
+export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: number) => Promise<string | null>) {
   const audioRef = useRef<HTMLAudioElement>(null)
   const usedFallback = useRef(false)
+  const usedRefresh = useRef(false)
   const [currentIndex, setCurrentIndex] = useState<number | null>(null)
   const [isPlaying, setIsPlaying] = useState(false)
   const [isBuffering, setIsBuffering] = useState(false)
@@ -65,6 +88,7 @@ export function useAlbumPlayer(tracks: PlayableTrack[]) {
     const track = tracks[index]
     if (!audio || !track?.src) return
     usedFallback.current = false
+    usedRefresh.current = false
     audio.src = track.src
     audio.volume = volume
     audio.muted = muted
@@ -160,6 +184,19 @@ export function useAlbumPlayer(tracks: PlayableTrack[]) {
       const audio = audioRef.current
       if (!audio || currentIndex == null) return
       const track = tracks[currentIndex]
+      const index = currentIndex
+      if (refreshSrc && !usedRefresh.current) {
+        usedRefresh.current = true
+        refreshSrc(index).then((src) => {
+          if (src && audioRef.current) {
+            audioRef.current.src = src
+            audioRef.current.play().catch(() => {})
+          } else {
+            audioRef.current?.dispatchEvent(new Event('error'))
+          }
+        })
+        return
+      }
       if (track?.fallback && !usedFallback.current) {
         usedFallback.current = true
         audio.src = track.fallback
