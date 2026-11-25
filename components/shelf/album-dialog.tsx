@@ -6,7 +6,8 @@ import type { Album, AlbumSummary } from '@/lib/types'
 import { AlbumDetails } from './album-details'
 import { PlayerControls } from './player-controls'
 import { buildPlayableTracks, useAlbumPlayer, type DeezerAlbumPreviews } from './use-album-player'
-import { VinylStage } from './vinyl-stage'
+import { FormatStage } from './format-stage'
+import type { ShelfView } from './views'
 
 const fetcher = async (url: string): Promise<Album> => {
   const res = await fetch(url)
@@ -29,10 +30,11 @@ function deezerLookupUrl(album: Album) {
 
 type AlbumDialogProps = {
   summary: AlbumSummary | null
+  view: ShelfView
   onClose: () => void
 }
 
-export function AlbumDialog({ summary, onClose }: AlbumDialogProps) {
+export function AlbumDialog({ summary, view, onClose }: AlbumDialogProps) {
   const dialogRef = useRef<HTMLDialogElement>(null)
 
   useEffect(() => {
@@ -52,12 +54,20 @@ export function AlbumDialog({ summary, onClose }: AlbumDialogProps) {
         if (e.target === dialogRef.current) onClose()
       }}
     >
-      {summary && <AlbumDialogBody key={summary.id} summary={summary} onClose={onClose} />}
+      {summary && <AlbumDialogBody key={summary.id} summary={summary} view={view} onClose={onClose} />}
     </dialog>
   )
 }
 
-function AlbumDialogBody({ summary, onClose }: { summary: AlbumSummary; onClose: () => void }) {
+function AlbumDialogBody({
+  summary,
+  view,
+  onClose,
+}: {
+  summary: AlbumSummary
+  view: ShelfView
+  onClose: () => void
+}) {
   const { data, error, isLoading } = useSWR<Album>(`/api/albums/${summary.id}`, fetcher, {
     revalidateOnFocus: false,
   })
@@ -92,7 +102,7 @@ function AlbumDialogBody({ summary, onClose }: { summary: AlbumSummary; onClose:
 
       <div className="grid min-h-0 flex-1 overflow-y-auto md:grid-cols-[1.1fr_1fr] md:overflow-hidden">
         <div className="linen flex flex-col items-center justify-center gap-8 p-6 sm:p-10 md:overflow-y-auto">
-          <VinylStage album={summary} playing={player.isPlaying} />
+          <FormatStage view={view} album={summary} playing={player.isPlaying} />
           <PlayerControls player={player} artist={summary.artist} isLoading={isLoading || previewsLoading || (!data && !error)} />
         </div>
         <div className="pinstripe border-t border-[#8d949c] p-5 sm:p-7 md:overflow-y-auto md:border-t-0 md:border-l md:shadow-[inset_4px_0_8px_-4px_rgba(0,0,0,0.35)]">

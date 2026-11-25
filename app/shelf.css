@@ -134,6 +134,10 @@
     linear-gradient(rgba(120, 66, 20, 0.22), rgba(120, 66, 20, 0.22)),
     var(--wood);
   background-size: auto, auto, auto, var(--wood-size);
+  /* Headroom so the top row's lifted cover isn't clipped by the sticky header. */
+  padding-top: var(--headroom, 72px);
+  background-origin: content-box, content-box, padding-box, padding-box;
+  background-clip: content-box, content-box, padding-box, padding-box;
   box-shadow:
     inset 10px 0 14px -8px rgba(30, 12, 0, 0.65),
     inset -10px 0 14px -8px rgba(30, 12, 0, 0.65),
