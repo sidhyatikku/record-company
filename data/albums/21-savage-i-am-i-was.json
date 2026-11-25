@@ -1,0 +1,130 @@
+{
+  "title": "i am > i was",
+  "artist": "21 Savage",
+  "year": 2018,
+  "release_date": "2018-12-21",
+  "type": "Album",
+  "description": "I Am > I Was is the second solo studio album by rapper 21 Savage, released on December 21, 2018. I Am > I Was features vocals by J. Cole, City Girls, Offset, Post Malone, Gunna, Lil Baby, Schoolboy Q, Project Pat, Childish Gambino, and Savage's cousin Young Nudy. The deluxe edition was released three days later, featuring one more song, which features an additional guest appearance from Travis Scott.",
+  "genres": [
+    "hip hop",
+    "pop",
+    "southern hip hop",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "pop",
+    "southern hip hop",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f56fbad2-66bc-4c51-b744-1349835e7a7c",
+    "wikipedia": "https://en.wikipedia.org/wiki/I_Am_Greater_than_I_Was",
+    "allmusic": "https://www.allmusic.com/album/mw0003236925",
+    "discogs": "https://www.discogs.com/master/1474682",
+    "wikidata": "https://www.wikidata.org/wiki/Q60028756"
+  },
+  "musicbrainz_id": "f56fbad2-66bc-4c51-b744-1349835e7a7c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3a1355ba-0fdb-406a-90f3-d7c41d1c3747",
+      "title": "i am > i was",
+      "disambiguation": "explicit",
+      "date": "2018-12-21",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "51:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "a lot",
+            "length": "4:49"
+          },
+          {
+            "number": "2",
+            "title": "break da law",
+            "length": "2:58"
+          },
+          {
+            "number": "3",
+            "title": "a&t",
+            "length": "3:32"
+          },
+          {
+            "number": "4",
+            "title": "out for the night",
+            "length": "2:17"
+          },
+          {
+            "number": "5",
+            "title": "gun smoke",
+            "length": "2:47"
+          },
+          {
+            "number": "6",
+            "title": "1.5",
+            "length": "2:29"
+          },
+          {
+            "number": "7",
+            "title": "all my friends",
+            "length": "3:32"
+          },
+          {
+            "number": "8",
+            "title": "can't leave without it",
+            "length": "3:25"
+          },
+          {
+            "number": "9",
+            "title": "asmr",
+            "length": "2:52"
+          },
+          {
+            "number": "10",
+            "title": "ball w/o you",
+            "length": "3:15"
+          },
+          {
+            "number": "11",
+            "title": "good day",
+            "length": "4:02"
+          },
+          {
+            "number": "12",
+            "title": "pad lock",
+            "length": "3:11"
+          },
+          {
+            "number": "13",
+            "title": "monster",
+            "length": "3:53"
+          },
+          {
+            "number": "14",
+            "title": "letter 2 my momma",
+            "length": "3:15"
+          },
+          {
+            "number": "15",
+            "title": "4L",
+            "length": "4:48"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "/Users/sid/Wallpapers/arts2/Album Art/21 Savage/i am - i was.jpg"
+}
