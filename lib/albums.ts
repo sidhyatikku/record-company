@@ -141,6 +141,23 @@ function makePlaceholder(index: number): Omit<Album, 'id'> {
   }
 }
 
+function artistSortKey(artist: string) {
+  return artist.trim().replace(/^the\s+/i, '')
+}
+
+function releaseSortKey(album: Pick<Album, 'releaseDate' | 'year'>) {
+  // Undated records sort after dated ones within the same artist.
+  return album.releaseDate ?? (album.year ? String(album.year) : '9999')
+}
+
+function sectionFor(artist: string) {
+  const first = artistSortKey(artist)
+    .normalize('NFD')
+    .charAt(0)
+    .toUpperCase()
+  return /[A-Z]/.test(first) ? first : '#'
+}
+
 let cache: { albums: Album[]; byId: Map<string, Album> } | null = null
 
 function load() {
@@ -166,7 +183,10 @@ function load() {
 
   const collator = new Intl.Collator('en', { numeric: true, sensitivity: 'base' })
   const sorted = [...real, ...placeholders].sort(
-    (a, b) => collator.compare(a.artist, b.artist) || (a.year ?? 0) - (b.year ?? 0),
+    (a, b) =>
+      collator.compare(artistSortKey(a.artist), artistSortKey(b.artist)) ||
+      collator.compare(a.artist, b.artist) ||
+      releaseSortKey(a).localeCompare(releaseSortKey(b)),
   )
 
   const used = new Set<string>()
@@ -193,8 +213,9 @@ export function getAlbumSummaries(): AlbumSummary[] {
       year: album.year,
       cover: album.cover,
       palette: PALETTES[h % PALETTES.length],
-      spineWidth: 11 + ((h >>> 5) % 9),
-      heightRatio: 0.9 + ((h >>> 9) % 11) / 100,
+      section: sectionFor(album.artist),
+      spineWidth: 3 + ((h >>> 5) % 3),
+      heightRatio: 0.985 + ((h >>> 9) % 4) / 200,
     }
   })
 }

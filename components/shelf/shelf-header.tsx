@@ -14,7 +14,7 @@ export function ShelfHeader({ query, onQueryChange, shown, total, onShuffle }: S
     <header className="wood-bar sticky top-0 z-50">
       <div className="flex flex-wrap items-center gap-x-6 gap-y-3 px-4 py-3 sm:px-8">
         <div className="mr-auto flex items-baseline gap-3">
-          <h1 className="engraved text-2xl font-bold tracking-tight sm:text-[28px]">Record Shelf</h1>
+          <h1 className="engraved text-2xl font-bold tracking-tight sm:text-[28px]">{"Sid's Record Shelf"}</h1>
           <p className="engraved text-sm font-bold opacity-80">
             {shown === total ? `${fmt.format(total)} records` : `${fmt.format(shown)} of ${fmt.format(total)}`}
           </p>

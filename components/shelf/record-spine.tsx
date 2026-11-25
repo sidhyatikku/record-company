@@ -42,13 +42,8 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
                 ? { backgroundImage: `url("${album.cover}")`, backgroundPosition: '8% center', backgroundSize: 'auto 100%' }
                 : undefined
             }
-          >
-            <span className="record-spine-text">
-              <span>{album.artist}</span>
-              <span className="spine-title">{album.title}</span>
-              {album.year && <span className="spine-year">{album.year}</span>}
-            </span>
-          </span>
+          />
+
           <span className="record-cover">
             {primed && (
               <AlbumCover

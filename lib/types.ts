@@ -53,6 +53,7 @@ export type AlbumSummary = {
   year: number | null
   cover: string | null
   palette: SpinePalette
+  section: string
   spineWidth: number
   heightRatio: number
 }

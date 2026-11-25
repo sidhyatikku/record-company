@@ -153,9 +153,9 @@
 .record {
   position: relative;
   flex: none;
+  --rh: calc((var(--slot) - 40px) * var(--hr));
   width: var(--w);
   height: var(--slot);
-  margin-right: 1px;
   padding: 0;
   border: 0;
   background: none;
@@ -180,7 +180,7 @@
 
 .record-lift {
   width: 100%;
-  height: calc((var(--slot) - 18px) * var(--hr));
+  height: var(--rh);
   transform: translateY(3px);
   transform-style: preserve-3d;
   transition: transform 560ms cubic-bezier(0.25, 0.8, 0.25, 1) 260ms;
@@ -214,65 +214,75 @@
   background-color: var(--bg);
   background-size: cover;
   color: var(--fg);
-  border-radius: 1px;
   backface-visibility: hidden;
   box-shadow:
-    inset 1px 0 0 rgba(255, 255, 255, 0.2),
-    inset -1px 0 0 rgba(0, 0, 0, 0.5);
+    inset 0.5px 0 0 rgba(255, 255, 255, 0.35),
+    inset -1px 0 0 rgba(0, 0, 0, 0.55);
 }
 .record-spine::after {
   content: '';
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(to right, rgba(0, 0, 0, 0.28), rgba(255, 255, 255, 0.14) 35%, rgba(0, 0, 0, 0.04) 62%, rgba(0, 0, 0, 0.38)),
-    linear-gradient(to bottom, rgba(20, 8, 0, 0.45), rgba(20, 8, 0, 0) 28%, rgba(20, 8, 0, 0) 88%, rgba(20, 8, 0, 0.25));
+    linear-gradient(to right, rgba(255, 255, 255, 0.18), rgba(0, 0, 0, 0.05) 50%, rgba(0, 0, 0, 0.35)),
+    linear-gradient(to bottom, rgba(20, 8, 0, 0.5), rgba(20, 8, 0, 0) 30%, rgba(20, 8, 0, 0) 85%, rgba(20, 8, 0, 0.3));
   transition: opacity 400ms ease;
 }
 .record:hover .record-spine::after {
   opacity: 0.55;
 }
 
-.record-spine-text {
+/* ---------- A–Z section dividers (record-store style index cards) ---------- */
+.divider {
+  position: relative;
+  flex: none;
+  width: 3px;
+  height: var(--slot);
+  margin-inline: 3px 1px;
+  display: flex;
+  align-items: flex-end;
+  z-index: 5;
+  pointer-events: none;
+}
+.divider::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: calc(var(--slot) - 34px);
+  transform: translateY(3px);
+  background: linear-gradient(to right, #fbf7ee, #d9d1bf);
+  box-shadow:
+    inset -1px 0 0 rgba(0, 0, 0, 0.25),
+    1px 0 2px rgba(30, 12, 0, 0.35);
+}
+.divider-tab {
   position: absolute;
-  inset: 10px 0;
+  left: 0;
+  bottom: calc(var(--slot) - 37px);
+  min-width: 26px;
+  height: 22px;
+  padding-inline: 6px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-  writing-mode: vertical-rl;
-  font-size: 8.5px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  line-height: 1;
-  text-transform: uppercase;
-  white-space: nowrap;
-  overflow: hidden;
-}
-.record-spine-text span {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  min-height: 0;
-}
-.record-spine-text .spine-title {
-  flex: 1;
-  font-weight: 400;
-  opacity: 0.85;
-}
-.record-spine-text .spine-year {
-  color: var(--accent);
-  flex: none;
-}
-.record[data-cover] .record-spine-text {
-  color: #fff;
-  text-shadow: 0 0 3px rgba(0, 0, 0, 0.9);
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 800;
+  color: #5a3712;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+  background: linear-gradient(to bottom, #fffdf7, #e9e1cd);
+  border: 1px solid rgba(120, 80, 30, 0.45);
+  border-bottom: 0;
+  border-radius: 6px 6px 0 0;
+  box-shadow:
+    inset 0 1px 0 #fff,
+    0 -1px 3px rgba(30, 12, 0, 0.25);
 }
 
 .record-cover {
   position: absolute;
   top: 0;
   left: 100%;
-  width: calc((var(--slot) - 18px) * var(--hr));
+  width: var(--rh);
   height: 100%;
   transform-origin: 0 50%;
   transform: rotateY(90deg);
