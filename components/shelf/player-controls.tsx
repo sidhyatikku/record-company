@@ -1,6 +1,6 @@
 'use client'
 
-import { Pause, Play, Shuffle, SkipBack, SkipForward, Volume1, Volume2, VolumeX } from 'lucide-react'
+import { MicOff, Pause, Play, Shuffle, SkipBack, SkipForward, Volume1, Volume2, VolumeX } from 'lucide-react'
 import type { CSSProperties } from 'react'
 import type { AlbumPlayer } from './use-album-player'
 
@@ -18,7 +18,7 @@ type PlayerControlsProps = {
 export function PlayerControls({ player, artist, isLoading }: PlayerControlsProps) {
   const { currentTrack, isPlaying, isBuffering, currentTime, shuffle, volume, muted } = player
   const disabled = isLoading || !player.hasPlayable
-  const duration = player.duration || (currentTrack ? 30 : 0)
+  const duration = player.duration || (currentTrack && !player.currentUnavailable ? 30 : 0)
   const progress = duration ? Math.min(100, (currentTime / duration) * 100) : 0
   const effectiveVolume = muted ? 0 : volume
   const VolumeIcon = effectiveVolume === 0 ? VolumeX : effectiveVolume < 0.5 ? Volume1 : Volume2
@@ -39,9 +39,16 @@ export function PlayerControls({ player, artist, isLoading }: PlayerControlsProp
             <p className="player-engraved line-clamp-1 text-[15px] font-bold">
               {currentTrack.number}. {currentTrack.title}
             </p>
-            <p className="player-engraved line-clamp-1 text-xs font-medium opacity-80">
-              {isBuffering && isPlaying ? 'Loading preview…' : `${artist} · Preview`}
-            </p>
+            {player.currentUnavailable ? (
+              <p className="preview-unavailable mt-0.5 inline-flex items-center gap-1.5 text-xs font-semibold">
+                <MicOff className="size-3.5" strokeWidth={2.5} aria-hidden />
+                No preview on Deezer for this song
+              </p>
+            ) : (
+              <p className="player-engraved line-clamp-1 text-xs font-medium opacity-80">
+                {isBuffering && isPlaying ? 'Loading preview…' : `${artist} · Preview`}
+              </p>
+            )}
           </>
         ) : (
           <p className="player-engraved text-[13px] font-medium">{status}</p>
@@ -59,7 +66,7 @@ export function PlayerControls({ player, artist, isLoading }: PlayerControlsProp
           max={duration || 30}
           step={0.1}
           value={currentTrack ? currentTime : 0}
-          disabled={disabled || !currentTrack}
+          disabled={disabled || !currentTrack || player.currentUnavailable}
           onChange={(e) => player.seek(Number(e.target.value))}
           style={{ '--fill': `${progress}%` } as CSSProperties}
           aria-label="Seek"

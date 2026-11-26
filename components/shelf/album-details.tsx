@@ -177,18 +177,33 @@ export function AlbumDetails({ summary, album, isLoading, error, player }: Album
                         const isCurrent = player?.currentIndex === index
                         const canPlay = player?.canPlay(index) ?? false
                         const isPlayingThis = isCurrent && Boolean(player?.isPlaying)
+                        const unavailable = Boolean(player?.hasPlayable) && !canPlay
                         return (
                           <tr
                             key={`${disc.disc}-${i}`}
                             aria-current={isCurrent ? 'true' : undefined}
-                            className={`track-row border-t border-[#e3e3e3] first:border-t-0 ${isCurrent ? 'is-current' : ''} ${canPlay ? 'is-playable' : ''}`}
-                            onClick={canPlay ? () => player?.select(index) : undefined}
+                            className={`track-row border-t border-[#e3e3e3] first:border-t-0 ${isCurrent ? 'is-current' : ''} ${canPlay ? 'is-playable' : ''} ${unavailable ? 'is-unavailable' : ''}`}
+                            onClick={canPlay || unavailable ? () => player?.select(index) : undefined}
                           >
                             <td className="w-10 py-2.5 pl-4 text-right text-sm text-[#8a8f98] tabular-nums">
-                              {isCurrent ? <NowPlayingIndicator playing={isPlayingThis} /> : track.number}
+                              {isCurrent && canPlay ? <NowPlayingIndicator playing={isPlayingThis} /> : track.number}
                             </td>
                             <td className="px-3 py-2.5">
-                              {canPlay ? (
+                              {unavailable ? (
+                                <button
+                                  type="button"
+                                  className="flex w-full items-center gap-2 text-left focus-visible:outline-none"
+                                  aria-disabled="true"
+                                  aria-label={`${track.title}, preview not available`}
+                                  onClick={(e) => {
+                                    e.stopPropagation()
+                                    player?.select(index)
+                                  }}
+                                >
+                                  <span className="track-title min-w-0 truncate font-medium">{track.title}</span>
+                                  <span className="no-preview-pill shrink-0">No preview</span>
+                                </button>
+                              ) : canPlay ? (
                                 <button
                                   type="button"
                                   className="track-title w-full text-left font-medium text-[#222] focus-visible:outline-none"

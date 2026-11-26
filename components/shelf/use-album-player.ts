@@ -13,7 +13,7 @@ export type PlayableTrack = {
 
 export type DeezerAlbumPreviews = {
   albumId: string | null
-  tracks: { id: string; title: string; preview: string; position: number | null; disc: number }[]
+  tracks: { id: string; title: string; preview: string | null; position: number | null; disc: number }[]
 }
 
 function normalizeTitle(value: string) {
@@ -33,7 +33,7 @@ export function buildPlayableTracks(album: Album | undefined, deezer: DeezerAlbu
   if (!album?.tracklist) return []
   const ours = album.tracklist.discs.flatMap((disc) => disc.tracks)
   const theirs = deezer?.tracks ?? []
-  const byTitle = new Map(theirs.map((t) => [normalizeTitle(t.title), t.preview]))
+  const byTitle = new Map(theirs.map((t) => [normalizeTitle(t.title), t]))
   const sameLength = theirs.length === ours.length
 
   return ours.map((track, index) => {
@@ -43,7 +43,11 @@ export function buildPlayableTracks(album: Album | undefined, deezer: DeezerAlbu
     const params = new URLSearchParams({ artist: album.artist, title: track.title, album: album.title })
     if (track.deezer_id) params.set('id', track.deezer_id)
     const resolver = `/api/preview?${params}`
-    const fresh = byTitle.get(normalizeTitle(track.title)) ?? (sameLength ? theirs[index]?.preview : undefined)
+    const match = byTitle.get(normalizeTitle(track.title)) ?? (sameLength ? theirs[index] : undefined)
+    if (match && !match.preview) {
+      return { number: track.number, title: track.title, length: track.length, src: null, fallback: null }
+    }
+    const fresh = match?.preview ?? undefined
     return {
       number: track.number,
       title: track.title,
@@ -67,6 +71,7 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
   const audioRef = useRef<HTMLAudioElement>(null)
   const usedFallback = useRef(false)
   const usedRefresh = useRef(false)
+  const userPicked = useRef(false)
   const [currentIndex, setCurrentIndex] = useState<number | null>(null)
   const [isPlaying, setIsPlaying] = useState(false)
   const [isBuffering, setIsBuffering] = useState(false)
@@ -83,10 +88,25 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
 
   const canPlay = (index: number) => Boolean(tracks[index]?.src) && !failed.has(index)
 
-  function playAt(index: number) {
+  function showUnavailable(index: number) {
+    const audio = audioRef.current
+    if (audio) {
+      audio.pause()
+      audio.removeAttribute('src')
+      audio.load()
+    }
+    setCurrentIndex(index)
+    setCurrentTime(0)
+    setDuration(0)
+    setIsBuffering(false)
+    setIsPlaying(false)
+  }
+
+  function playAt(index: number, fromUser = false) {
     const audio = audioRef.current
     const track = tracks[index]
     if (!audio || !track?.src) return
+    userPicked.current = fromUser
     usedFallback.current = false
     usedRefresh.current = false
     audio.src = track.src
@@ -103,7 +123,11 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
     const audio = audioRef.current
     if (!audio) return
     const position = currentIndex == null ? -1 : queue.indexOf(currentIndex)
-    const target = queue[position + direction]
+    let target: number | undefined = queue[position + direction]
+    if (position === -1 && currentIndex != null && !shuffle) {
+      target =
+        direction === 1 ? queue.find((i) => i > currentIndex) : [...queue].reverse().find((i) => i < currentIndex)
+    }
     if (target != null) {
       playAt(target)
     } else {
@@ -119,13 +143,18 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
       if (queue[0] != null) playAt(queue[0])
       return
     }
+    if (!canPlay(currentIndex)) {
+      step(1)
+      return
+    }
     if (audio.paused) audio.play().catch(() => {})
     else audio.pause()
   }
 
   function select(index: number) {
-    if (index === currentIndex) toggle()
-    else playAt(index)
+    if (!canPlay(index)) showUnavailable(index)
+    else if (index === currentIndex) toggle()
+    else playAt(index, true)
   }
 
   function prev() {
@@ -204,10 +233,13 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
         return
       }
       setIsBuffering(false)
-      setFailed((prev) => new Set(prev).add(currentIndex))
-      step(1)
+      setFailed((prev) => new Set(prev).add(index))
+      if (userPicked.current) showUnavailable(index)
+      else step(1)
     },
   }
+
+  const currentUnavailable = currentIndex != null && !canPlay(currentIndex)
 
   return {
     audioProps,
@@ -222,6 +254,7 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
     muted,
     shuffle,
     hasPlayable: playable.length > 0,
+    currentUnavailable,
     canPlay,
     select,
     toggle,

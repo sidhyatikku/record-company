@@ -73,11 +73,13 @@ export async function GET(request: NextRequest) {
 
   // Preview URLs are signed and expire, so always fetch the tracklist fresh.
   const result = await deezer<{ data?: DeezerTrack[] }>(`/album/${albumId}/tracks?limit=200`, false)
-  const tracks = (result?.data ?? []).flatMap((t) =>
-    isDeezerPreview(t.preview)
-      ? [{ id: String(t.id), title: t.title_short ?? t.title, preview: t.preview, position: t.track_position ?? null, disc: t.disk_number ?? 1 }]
-      : [],
-  )
+  const tracks = (result?.data ?? []).map((t) => ({
+    id: String(t.id),
+    title: t.title_short ?? t.title,
+    preview: isDeezerPreview(t.preview) ? t.preview : null,
+    position: t.track_position ?? null,
+    disc: t.disk_number ?? 1,
+  }))
 
   return NextResponse.json(
     { albumId: String(albumId), tracks },
