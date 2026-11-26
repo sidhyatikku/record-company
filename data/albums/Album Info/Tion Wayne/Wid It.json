@@ -15,13 +15,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM",
     "deezer": "https://www.deezer.com/album/251675492"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM",
       "title": "Wid It",
       "date": "2021-08-19"
     },

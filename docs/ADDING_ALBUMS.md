@@ -1,10 +1,24 @@
 # Adding albums
 
-The shelf always shows 1,973 slots. Each real album you add replaces a placeholder, and the shelf re-sorts by artist and release date automatically.
+The library is built from two parallel folder trees under `data/albums/`, one folder per artist:
+
+```text
+data/albums/
+├── Album Info/
+│   └── 21 Savage/
+│       ├── i am - i was.json
+│       └── Issa Album.json
+└── Album Art/            # stored with Git LFS
+    └── 21 Savage/
+        ├── i am - i was.jpg
+        └── Issa Album.jpg
+```
+
+An album's info file and artwork file share the same artist folder and file name, differing only by extension. The shelf sorts by artist, then release date, automatically.
 
 ## 1. Add the metadata
 
-Create `data/albums/<slug>.json`. Use a lowercase, hyphenated slug of artist and title, e.g. `21-savage-i-am-i-was`.
+Create `data/albums/Album Info/<Artist>/<Album title>.json`:
 
 ```json
 {
@@ -14,17 +28,13 @@ Create `data/albums/<slug>.json`. Use a lowercase, hyphenated slug of artist and
   "release_date": "2018-12-21",
   "type": "Album",
   "description": "I Am > I Was is the second solo studio album by rapper 21 Savage…",
-  "genres": ["hip hop", "pop", "southern hip hop", "trap"],
+  "genres": ["hip hop", "trap"],
   "rating": { "value_out_of_5": 4, "votes": 4 },
   "links": {
     "musicbrainz": "https://musicbrainz.org/release-group/…",
     "wikipedia": "https://en.wikipedia.org/wiki/…"
   },
-  "tracklist": {
-    "source": "musicbrainz",
-    "total_tracks": 15,
-    "…": "see data/albums/21-savage-i-am-i-was.json for the full shape"
-  }
+  "tracklist": { "source": "musicbrainz", "total_tracks": 15, "…": "…" }
 }
 ```
 
@@ -37,30 +47,29 @@ Create `data/albums/<slug>.json`. Use a lowercase, hyphenated slug of artist and
 | `description` | | Shown in the **About** panel |
 | `genres` | | Rendered as pills |
 | `rating` | | Star rating and vote count |
-| `links` | | External references |
-| `tracklist` | | MusicBrainz-shaped tracklist. Copy the structure from the existing example. |
+| `links` | | External references. Spotify links and IDs are stripped by the build. |
+| `tracklist` | | MusicBrainz-shaped tracklist |
 
 > **Tip:** Keep `title` and `artist` close to how they appear on Deezer. The matcher ignores case, accents, punctuation, and bracketed suffixes like "(Deluxe)", but very different spellings won't match.
 
 ## 2. Add the cover
 
-Save square artwork to `public/covers/<slug>.jpg`. About 600×600 px or larger looks sharp in the detail dialog.
+Save square artwork (`.jpg`, `.jpeg`, `.png` or `.webp`) to `data/albums/Album Art/<Artist>/<Album title>.<ext>`, using the same name as the info file. Albums without artwork are drawn with a generated palette.
 
-## 3. Register it
+## 3. Rebuild the library
 
-Import the JSON in `data/real-albums.ts` and add an entry:
-
-```ts
-import iAmIWas from './albums/21-savage-i-am-i-was.json'
-import myAlbum from './albums/my-artist-my-album.json'
-
-export const realAlbums: { data: RawAlbum; cover: string | null }[] = [
-  { data: iAmIWas, cover: '/covers/21-savage-i-am-i-was.jpg' },
-  { data: myAlbum, cover: '/covers/my-artist-my-album.jpg' },
-]
+```bash
+git lfs pull          # fetch artwork if you cloned without LFS
+pnpm build:library
 ```
 
-Use `cover: null` if you don't have artwork yet. The album is drawn with a generated palette instead.
+`scripts/build-library.mjs`:
+
+- reads every info file and strips Spotify IDs, URLs and tokens from it,
+- converts each cover to a web-sized WebP in `public/covers/<Artist>/<Album title>.webp`,
+- writes the manifest `data/library.json`, which `lib/albums.ts` loads at runtime.
+
+Commit the updated info files, `data/library.json` and `public/covers/`.
 
 ## 4. Check it
 
@@ -68,5 +77,5 @@ Run `pnpm dev` and then:
 
 - [ ] The album appears under the right letter on the shelf
 - [ ] Searching its title, artist, or a song name finds it
-- [ ] The detail dialog shows metadata and the tracklist
+- [ ] The detail dialog shows metadata, cover and tracklist
 - [ ] Previews load. Tracks Deezer doesn't carry show **No preview**.

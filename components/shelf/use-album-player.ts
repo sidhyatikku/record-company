@@ -37,9 +37,6 @@ export function buildPlayableTracks(album: Album | undefined, deezer: DeezerAlbu
   const sameLength = theirs.length === ours.length
 
   return ours.map((track, index) => {
-    if (album.placeholder) {
-      return { number: track.number, title: track.title, length: track.length, src: null, fallback: null }
-    }
     const params = new URLSearchParams({ artist: album.artist, title: track.title, album: album.title })
     if (track.deezer_id) params.set('id', track.deezer_id)
     const resolver = `/api/preview?${params}`

@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5",
     "deezer": "https://www.deezer.com/album/349408777"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5",
       "title": "Resurface",
       "date": "2022-09-16"
     },

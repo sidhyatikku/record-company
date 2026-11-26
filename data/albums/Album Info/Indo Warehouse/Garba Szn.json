@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/33t984L96FMID4D7B4u0bw",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/33t984L96FMID4D7B4u0bw",
       "title": "Garba Szn",
       "date": "2022-10-07"
     },

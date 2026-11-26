@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5vf7m4DTR6nvvS9MAnhJuU",
     "deezer": "https://www.deezer.com/album/854958002"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5vf7m4DTR6nvvS9MAnhJuU",
       "title": "Off the Hook",
       "date": "2010-01-01"
     },

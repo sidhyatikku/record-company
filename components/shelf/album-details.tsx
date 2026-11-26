@@ -133,12 +133,6 @@ export function AlbumDetails({ summary, album, isLoading, error, player, preview
         )}
       </div>
 
-      {album?.placeholder && (
-        <p className="rounded-lg border border-[#c2a35a] bg-[linear-gradient(#fff8dd,#f4e7b5)] px-4 py-2.5 text-sm text-[#5b4718] shadow-[0_1px_0_rgba(255,255,255,0.7)]">
-          Artwork and metadata for this record are still downloading. Placeholder details are shown for now.
-        </p>
-      )}
-
       {error ? (
         <p className="ios-group px-4 py-3 text-sm text-[#a3261d]">Couldn&apos;t load this record&apos;s details.</p>
       ) : isLoading || !album ? (

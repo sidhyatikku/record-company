@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/052nTMZcRW5CMhYL9V0z4L",
     "deezer": "https://www.deezer.com/album/687820731"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/052nTMZcRW5CMhYL9V0z4L",
       "title": "Say Goodbye",
       "date": "2023-11-24"
     },

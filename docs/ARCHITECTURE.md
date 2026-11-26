@@ -18,12 +18,16 @@ This document explains how Sid's Record Shelf is put together: where the data co
 
 ### The collection
 
-`lib/albums.ts` exports a collection of `COLLECTION_SIZE` (1,973) albums built from two sources:
+The source of truth is two per-artist folder trees: `data/albums/Album Info/<Artist>/<Title>.json` for metadata and `data/albums/Album Art/<Artist>/<Title>.<ext>` for artwork (stored with Git LFS).
 
-1. **Real albums**, registered in `data/real-albums.ts`. Each one pairs a metadata JSON from `data/albums/` with an optional cover in `public/covers/`.
-2. **Placeholder albums** that fill every remaining slot. They are generated deterministically from word lists and a palette table, so the same slot always has the same artist, title, colors, and tracklist. Placeholders are flagged so the detail dialog shows a "still downloading" notice and the player says previews aren't available.
+`scripts/build-library.mjs` (`pnpm build:library`) turns them into:
 
-The collection is sorted by artist, then release date. Each album gets a `section` letter (`#` for names starting with a digit or symbol), and `groupBySection` in `components/shelf/views.ts` turns the sorted list into contiguous A–Z sections.
+- `data/library.json`, a manifest of every album with its info path and cover URL, and
+- `public/covers/<Artist>/<Title>.webp`, web-sized covers.
+
+It also strips Spotify IDs, URLs and tokens from the info files. At runtime `lib/albums.ts` reads the manifest and info files on the server. Albums without artwork get a generated palette.
+
+The collection is sorted with the `#` section (names that don't start with A–Z) first, then by artist and release date. `groupBySection` in `components/shelf/views.ts` turns the sorted list into contiguous sections.
 
 ### Summary vs. full album
 

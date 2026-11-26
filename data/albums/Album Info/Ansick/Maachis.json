@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5K0h8r21qbKZr9GA3INkPm",
     "deezer": "https://www.deezer.com/album/485978965"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5K0h8r21qbKZr9GA3INkPm",
       "title": "Maachis",
       "date": "2023-09-07"
     },

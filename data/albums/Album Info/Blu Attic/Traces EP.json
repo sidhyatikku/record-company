@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/2DHyzTZ6Sjeu7LMnq0Fwsx",
     "deezer": "https://www.deezer.com/album/850537452"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/2DHyzTZ6Sjeu7LMnq0Fwsx",
       "title": "Traces EP",
       "date": "2025-11-26"
     },

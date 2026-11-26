@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4SxoKbf9ihagLHNGWD1zRa",
     "deezer": "https://www.deezer.com/album/981559161"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4SxoKbf9ihagLHNGWD1zRa",
       "title": "Without You / Eternal",
       "date": "2026-06-03"
     },

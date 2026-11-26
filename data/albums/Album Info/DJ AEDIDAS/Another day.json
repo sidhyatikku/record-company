@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0nP9UYEWFXkPCKRePoa6WK",
     "deezer": "https://www.deezer.com/album/480708725"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0nP9UYEWFXkPCKRePoa6WK",
       "title": "Another day",
       "date": "2016-11-08"
     },

@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04",
     "deezer": "https://www.deezer.com/album/159716902"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04",
       "title": "Tidalwave",
       "date": "2020-08-06"
     },

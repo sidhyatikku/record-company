@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4G4MNm6hYOAcgM4a07y4Pi",
     "deezer": "https://www.deezer.com/album/939818751"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4G4MNm6hYOAcgM4a07y4Pi",
       "title": "Still But Moving",
       "date": "2024-08-14"
     },

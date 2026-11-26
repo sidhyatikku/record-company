@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/6gdHvTodbPwBcwtJ6oPax9",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/6gdHvTodbPwBcwtJ6oPax9",
       "title": "Bandi Crack",
       "date": "2023-08-11"
     },

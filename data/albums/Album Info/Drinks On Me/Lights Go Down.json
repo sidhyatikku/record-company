@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1YTS3nXEQvTSKnJK8ccN0C",
     "deezer": "https://www.deezer.com/album/196107822"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1YTS3nXEQvTSKnJK8ccN0C",
       "title": "Lights Go Down",
       "date": "2021-01-22"
     },

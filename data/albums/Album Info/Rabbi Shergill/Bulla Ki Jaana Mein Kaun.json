@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1bLwSAdaBy3w7ddN6shiLA",
     "deezer": "https://www.deezer.com/album/272253222"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1bLwSAdaBy3w7ddN6shiLA",
       "title": "Bulla Ki Jaana Mein Kaun",
       "date": "2021-11-12"
     },

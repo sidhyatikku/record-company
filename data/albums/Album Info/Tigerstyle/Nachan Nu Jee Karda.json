@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1vxhgVMBDvsRMyaVGQfvD1",
     "deezer": "https://www.deezer.com/album/137797692"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1vxhgVMBDvsRMyaVGQfvD1",
       "title": "Nachan Nu Jee Karda",
       "date": "2020-01-01"
     },

@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4uolycov84dhgO5HEd5ISg",
     "deezer": "https://www.deezer.com/album/1015656051"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4uolycov84dhgO5HEd5ISg",
       "title": "Waiting For You",
       "date": "2025-03-07"
     },

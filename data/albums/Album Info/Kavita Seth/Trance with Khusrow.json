@@ -16,13 +16,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/6TFb65A4hs4ElFZb42OVib",
     "deezer": "https://www.deezer.com/album/632473451"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/6TFb65A4hs4ElFZb42OVib",
       "title": "Trance with Khusrow",
       "date": "2014-10-14"
     },

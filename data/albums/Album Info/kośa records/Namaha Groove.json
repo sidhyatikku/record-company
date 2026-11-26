@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1uZni8ZuCqH7k6AfxaCYCT",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1uZni8ZuCqH7k6AfxaCYCT",
       "title": "Namaha Groove",
       "date": "2019-11-02"
     },

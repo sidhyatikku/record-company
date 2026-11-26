@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/45gu6oDdqbfbDz0eLRHIAZ",
     "deezer": "https://www.deezer.com/album/722143831"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/45gu6oDdqbfbDz0eLRHIAZ",
       "title": "K-Pot",
       "date": "2023-05-24"
     },

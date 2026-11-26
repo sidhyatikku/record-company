@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/015JELAWqRE9TS7IYHkFVr",
     "deezer": "https://www.deezer.com/album/223241252"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/015JELAWqRE9TS7IYHkFVr",
       "title": "Algorithmblues",
       "date": "2021-05-14"
     },

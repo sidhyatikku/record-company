@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4907tH5ajWc1CvEZJVFkd9",
     "deezer": "https://www.deezer.com/album/730671931"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4907tH5ajWc1CvEZJVFkd9",
       "title": "Dere Duni",
       "date": "2025-03-28"
     },

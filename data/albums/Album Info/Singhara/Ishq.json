@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0N0o5xbONhJPWC5vhT4qKE",
     "deezer": "https://www.deezer.com/album/572778691"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0N0o5xbONhJPWC5vhT4qKE",
       "title": "Ishq",
       "date": "2024-05-04"
     },

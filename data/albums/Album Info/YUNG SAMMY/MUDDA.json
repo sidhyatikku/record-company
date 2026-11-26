@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn",
       "title": "MUDDA (feat. Seedhe Maut)",
       "date": "2025-10-15"
     },

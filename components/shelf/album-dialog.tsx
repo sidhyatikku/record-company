@@ -71,7 +71,7 @@ function AlbumDialogBody({
   const { data, error, isLoading } = useSWR<Album>(`/api/albums/${summary.id}`, fetcher, {
     revalidateOnFocus: false,
   })
-  const deezerKey = data && !data.placeholder ? deezerLookupUrl(data) : null
+  const deezerKey = data?.tracklist ? deezerLookupUrl(data) : null
   const { data: previews, isLoading: previewsLoading, mutate: refreshPreviews } = useSWR<DeezerAlbumPreviews>(
     deezerKey,
     previewFetcher,

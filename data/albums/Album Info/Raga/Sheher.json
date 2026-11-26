@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8",
     "deezer": "https://www.deezer.com/album/302968177"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8",
       "title": "Sheher",
       "date": "2022-03-22"
     },

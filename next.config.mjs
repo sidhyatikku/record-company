@@ -6,6 +6,12 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  outputFileTracingIncludes: {
+    '/**': ['./data/library.json'],
+  },
+  outputFileTracingExcludes: {
+    '/**': ['./data/albums/**', './public/covers/**'],
+  },
 }
 
 export default nextConfig

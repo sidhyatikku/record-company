@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4MU5QDNOKxdUM58D4U8ybl",
     "deezer": "https://www.deezer.com/album/156473752"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4MU5QDNOKxdUM58D4U8ybl",
       "title": "Doya",
       "date": "2020-06-22"
     },

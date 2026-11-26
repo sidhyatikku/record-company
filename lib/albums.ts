@@ -1,7 +1,6 @@
-import { realAlbums } from '@/data/real-albums'
+import { readFileSync } from 'node:fs'
+import path from 'node:path'
 import type { Album, AlbumSummary, SpinePalette, Tracklist } from './types'
-
-export const COLLECTION_SIZE = 1973
 
 const PALETTES: SpinePalette[] = [
   { background: '#151515', foreground: '#f2efe6', accent: '#c9a227' },
@@ -26,39 +25,8 @@ const PALETTES: SpinePalette[] = [
   { background: '#2b2b2b', foreground: '#d64933', accent: '#d64933' },
 ]
 
-const ARTIST_A = [
-  'The', 'Velvet', 'Midnight', 'Golden', 'Paper', 'Silver', 'Young', 'Neon', 'Blue', 'Lazy',
-  'Electric', 'Quiet', 'Burning', 'Hollow', 'Crystal', 'Northern', 'Wild', 'Sunday', 'Cosmic', 'Glass',
-]
-const ARTIST_B = [
-  'Harbors', 'Foxes', 'Saints', 'Machines', 'Parade', 'Comets', 'Ghosts', 'Rivers', 'Lions', 'Kites',
-  'Orchids', 'Satellites', 'Strangers', 'Engines', 'Tides', 'Wolves', 'Echoes', 'Palms', 'Sparrows', 'Lanterns',
-]
-const SOLO_FIRST = [
-  'Nina', 'Marcus', 'Lola', 'Andre', 'June', 'Otis', 'Mavis', 'Theo', 'Ruby', 'Calvin',
-  'Iris', 'Desmond', 'Ada', 'Felix', 'Nora', 'Isaac', 'Etta', 'Leon', 'Vera', 'Miles',
-]
-const SOLO_LAST = [
-  'Moreau', 'Holloway', 'Reyes', 'Okafor', 'Lindqvist', 'Bishop', 'Carter', 'Vance', 'Nakamura', 'Price',
-  'Delgado', 'Whitfield', 'Kane', 'Ashby', 'Monroe', 'Quinn', 'Sterling', 'Laurent', 'Ford', 'Ellis',
-]
-const TITLE_A = [
-  'Late', 'Static', 'Endless', 'Paper', 'Summer', 'Slow', 'Northern', 'Velvet', 'Second', 'Distant',
-  'Golden', 'Broken', 'Electric', 'Silent', 'Low', 'Midnight', 'Open', 'Hidden', 'Bright', 'Faded',
-]
-const TITLE_B = [
-  'Light', 'Hours', 'Weather', 'Motion', 'Rooms', 'Signals', 'Gardens', 'Season', 'Highway', 'Machines',
-  'Dreams', 'Water', 'Fever', 'Frequencies', 'Horizon', 'Letters', 'Youth', 'Cities', 'Stories', 'Tapes',
-]
-const TRACK_WORDS = [
-  'intro', 'run', 'home', 'fire', 'gold', 'night', 'drive', 'stay', 'falling', 'sun', 'blue', 'ocean',
-  'heart', 'echo', 'ghost', 'money', 'river', 'ride', 'wait', 'stars', 'rain', 'city', 'lost', 'free',
-]
-const GENRES = [
-  'hip hop', 'jazz', 'soul', 'rock', 'indie rock', 'electronic', 'ambient', 'r&b', 'funk', 'pop',
-  'folk', 'house', 'trap', 'disco', 'post-punk', 'shoegaze', 'blues', 'reggae', 'synth-pop', 'neo soul',
-]
-const TYPES = ['Album', 'Album', 'Album', 'EP', 'Compilation', 'Live']
+/** Entry shape written by `scripts/build-library.mjs` into `data/library.json`. */
+type LibraryEntry = Omit<Album, 'id'> & { folder: string }
 
 function hashString(value: string) {
   let h = 2166136261
@@ -69,20 +37,6 @@ function hashString(value: string) {
   return h >>> 0
 }
 
-function seededRandom(seed: number) {
-  let t = seed
-  return () => {
-    t = (t + 0x6d2b79f5) | 0
-    let r = Math.imul(t ^ (t >>> 15), 1 | t)
-    r = (r + Math.imul(r ^ (r >>> 7), 61 | r)) ^ r
-    return ((r ^ (r >>> 14)) >>> 0) / 4294967296
-  }
-}
-
-function pick<T>(rand: () => number, list: T[]) {
-  return list[Math.floor(rand() * list.length)]
-}
-
 function slugify(value: string) {
   return value
     .toLowerCase()
@@ -91,54 +45,6 @@ function slugify(value: string) {
     .trim()
     .replace(/[\s_]+/g, '-')
     .replace(/-+/g, '-')
-}
-
-function formatLength(totalSeconds: number) {
-  const m = Math.floor(totalSeconds / 60)
-  const s = totalSeconds % 60
-  return `${m}:${s.toString().padStart(2, '0')}`
-}
-
-function makePlaceholder(index: number): Omit<Album, 'id'> {
-  const rand = seededRandom(index * 7919 + 17)
-  const artist =
-    rand() > 0.45
-      ? `${pick(rand, SOLO_FIRST)} ${pick(rand, SOLO_LAST)}`
-      : `${pick(rand, ARTIST_A)} ${pick(rand, ARTIST_B)}`
-  const title = rand() > 0.3 ? `${pick(rand, TITLE_A)} ${pick(rand, TITLE_B)}` : pick(rand, TITLE_B)
-  const year = 1958 + Math.floor(rand() * 68)
-  const trackCount = 7 + Math.floor(rand() * 10)
-  let totalSeconds = 0
-  const tracks = Array.from({ length: trackCount }, (_, i) => {
-    const seconds = 130 + Math.floor(rand() * 220)
-    totalSeconds += seconds
-    const words = Array.from({ length: 1 + Math.floor(rand() * 3) }, () => pick(rand, TRACK_WORDS))
-    return { number: String(i + 1), title: words.join(' '), length: formatLength(seconds) }
-  })
-  const genreCount = 1 + Math.floor(rand() * 3)
-  const genres = Array.from(new Set(Array.from({ length: genreCount }, () => pick(rand, GENRES))))
-
-  const tracklist: Tracklist = {
-    source: 'placeholder',
-    total_tracks: trackCount,
-    total_length: formatLength(totalSeconds),
-    discs: [{ disc: 1, format: '12" Vinyl', title: null, tracks }],
-  }
-
-  return {
-    title,
-    artist,
-    year,
-    releaseDate: null,
-    type: pick(rand, TYPES),
-    description: null,
-    genres,
-    rating: null,
-    links: {},
-    tracklist,
-    cover: null,
-    placeholder: true,
-  }
 }
 
 function artistSortKey(artist: string) {
@@ -158,36 +64,17 @@ function sectionFor(artist: string) {
   return /[A-Z]/.test(first) ? first : '#'
 }
 
-type RawTrack = {
-  number?: string | number
-  title?: string
-  length?: string | null
-  preview?: string | null
-  preview_url?: string | null
-  deezer_preview?: string | null
-  deezer_id?: string | number | null
-  deezer?: { id?: string | number | null; preview?: string | null } | null
-}
-
-/** Accepts the common Deezer preview field shapes so new JSON exports drop straight in. */
-function normalizeTracklist(raw: unknown): Tracklist | null {
-  if (!raw || typeof raw !== 'object') return null
-  const list = raw as Tracklist
+function sanitizeTracklist(list: Tracklist | null): Tracklist | null {
+  if (!list) return null
   return {
     ...list,
-    discs: (list.discs ?? []).map((disc) => ({
+    discs: list.discs.map((disc) => ({
       ...disc,
-      tracks: ((disc.tracks ?? []) as RawTrack[]).map((t, i) => {
-        const preview = t.preview ?? t.preview_url ?? t.deezer_preview ?? t.deezer?.preview ?? null
-        const id = t.deezer_id ?? t.deezer?.id ?? null
-        return {
-          number: String(t.number ?? i + 1),
-          title: t.title ?? `Track ${i + 1}`,
-          length: t.length ?? null,
-          preview: typeof preview === 'string' && preview.startsWith('https://') ? preview : null,
-          deezer_id: id != null && /^\d+$/.test(String(id)) ? String(id) : null,
-        }
-      }),
+      tracks: disc.tracks.map((t) => ({
+        ...t,
+        preview: typeof t.preview === 'string' && t.preview.startsWith('https://') ? t.preview : null,
+        deezer_id: t.deezer_id && /^\d+$/.test(t.deezer_id) ? t.deezer_id : null,
+      })),
     })),
   }
 }
@@ -197,31 +84,20 @@ let cache: { albums: Album[]; byId: Map<string, Album> } | null = null
 function load() {
   if (cache) return cache
 
-  const real: Omit<Album, 'id'>[] = realAlbums.map(({ data, cover }) => ({
-    title: data.title,
-    artist: data.artist,
-    year: data.year ?? null,
-    releaseDate: data.release_date ?? null,
-    type: data.type ?? null,
-    description: data.description ?? null,
-    genres: data.genres ?? [],
-    rating: data.rating ?? null,
-    links: data.links ?? {},
-    tracklist: normalizeTracklist(data.tracklist),
-    cover,
-    placeholder: false,
-  }))
-
-  const placeholderCount = Math.max(0, COLLECTION_SIZE - real.length)
-  const placeholders = Array.from({ length: placeholderCount }, (_, i) => makePlaceholder(i))
+  const file = path.join(process.cwd(), 'data', 'library.json')
+  const { albums: entries } = JSON.parse(readFileSync(file, 'utf8')) as { albums: LibraryEntry[] }
 
   const collator = new Intl.Collator('en', { numeric: true, sensitivity: 'base' })
-  const sorted = [...real, ...placeholders].sort(
-    (a, b) =>
-      collator.compare(artistSortKey(a.artist), artistSortKey(b.artist)) ||
-      collator.compare(a.artist, b.artist) ||
-      releaseSortKey(a).localeCompare(releaseSortKey(b)),
-  )
+  const sorted = entries
+    .map(({ folder: _folder, ...album }) => ({ ...album, tracklist: sanitizeTracklist(album.tracklist) }))
+    .sort(
+      (a, b) =>
+        Number(sectionFor(a.artist) !== '#') - Number(sectionFor(b.artist) !== '#') ||
+        collator.compare(artistSortKey(a.artist), artistSortKey(b.artist)) ||
+        collator.compare(a.artist, b.artist) ||
+        releaseSortKey(a).localeCompare(releaseSortKey(b)) ||
+        collator.compare(a.title, b.title),
+    )
 
   const used = new Set<string>()
   const albums = sorted.map((album) => {

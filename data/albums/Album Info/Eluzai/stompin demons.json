@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4aq68xVmjLeJ8VT3w05nwr",
     "deezer": "https://www.deezer.com/album/367483487"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4aq68xVmjLeJ8VT3w05nwr",
       "title": "stompin demons",
       "date": "2022-10-28"
     },

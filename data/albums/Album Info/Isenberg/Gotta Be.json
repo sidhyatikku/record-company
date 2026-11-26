@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/6N0o5ahE5wkDzdnuz07prB",
     "deezer": "https://www.deezer.com/album/975292051"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/6N0o5ahE5wkDzdnuz07prB",
       "title": "Gotta Be",
       "date": "2021-02-02"
     },

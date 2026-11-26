@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0agchkBY40W1AA7J7ZmDrx",
     "deezer": "https://www.deezer.com/album/667303261"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0agchkBY40W1AA7J7ZmDrx",
       "title": "Beethoven: Piano Sonatas, Vol. 3",
       "date": "2007-09-25"
     },

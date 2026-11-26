@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf",
       "title": "Aja Sawariya (Remix)",
       "date": "2023-08-22"
     },

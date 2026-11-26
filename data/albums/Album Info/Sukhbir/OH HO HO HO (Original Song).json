@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5rjzvC3sxusUuShz1paV9R",
     "deezer": "https://www.deezer.com/album/57714932"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5rjzvC3sxusUuShz1paV9R",
       "title": "OH HO HO HO (Original Song)",
       "date": "1999-01-01"
     },

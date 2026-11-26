@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/2LXX7XZ4LtBEWxAfh0T9kj",
     "deezer": "https://www.deezer.com/album/622271041"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/2LXX7XZ4LtBEWxAfh0T9kj",
       "title": "Wav of Dev",
       "date": "2024-08-15"
     },

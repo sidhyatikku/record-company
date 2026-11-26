@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/49Qgb95zWh524MQfwJMVvx",
     "deezer": "https://www.deezer.com/album/319844487"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/49Qgb95zWh524MQfwJMVvx",
       "title": "The Shortlist",
       "date": "2022-05-27"
     },

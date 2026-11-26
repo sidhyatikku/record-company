@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4mnbilvTHXDR2mqtv7gBG5",
     "deezer": "https://www.deezer.com/album/614225932"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4mnbilvTHXDR2mqtv7gBG5",
       "title": "Some Jazz To Make Love On",
       "date": "2018-01-28"
     },
