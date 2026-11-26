@@ -50,7 +50,9 @@ function CdStage({ album, playing }: StageProps) {
           <div className="cd-hub absolute inset-[38%] rounded-full" />
         </div>
       </div>
-      <JewelCase album={album} eager className="absolute top-0 left-0 w-[68%]" />
+      <div className="absolute top-0 left-0 w-[68%]">
+        <JewelCase album={album} eager />
+      </div>
     </div>
   )
 }
