@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/6UEvm5vUjUmS9Jd9fasEMD",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/6UEvm5vUjUmS9Jd9fasEMD",
       "title": "Hurt",
       "date": "2025-08-19"
     },

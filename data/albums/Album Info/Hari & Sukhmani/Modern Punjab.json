@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R",
     "deezer": "https://www.deezer.com/album/660717661"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R",
       "title": "Modern Punjab",
       "date": "2024-11-08"
     },

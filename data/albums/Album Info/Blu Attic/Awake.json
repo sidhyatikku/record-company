@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/2YHS9doeOtqejj8BDCZYkZ",
     "deezer": "https://www.deezer.com/album/547719412"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/2YHS9doeOtqejj8BDCZYkZ",
       "title": "Awake",
       "date": "2023-02-10"
     },

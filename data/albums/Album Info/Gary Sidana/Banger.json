@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/3DpdEMUReP0JIk9vUHMB82",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/3DpdEMUReP0JIk9vUHMB82",
       "title": "Banger",
       "date": "2026-04-08"
     },

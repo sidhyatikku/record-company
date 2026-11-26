@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/2jHS8ql7jn3lTgwpQPd87R",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/2jHS8ql7jn3lTgwpQPd87R",
       "title": "The Greatest Relaxing Pieces",
       "date": "2011-05-24"
     },

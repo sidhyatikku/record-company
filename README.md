@@ -108,7 +108,7 @@ flowchart LR
     Search["/api/search"]
     DzAlbum["/api/deezer/album"]
     Preview["/api/preview"]
-    Data[(data/albums/*.json<br/>+ generated placeholders)]
+    Data[(data/library.json<br/>built from data/albums/)]
   end
 
   Deezer[(Deezer public API)]
@@ -123,7 +123,7 @@ flowchart LR
   Dialog -->|audio stream| CDN
 ```
 
-1. **Collection data.** `lib/albums.ts` builds the 1,973-album collection. Albums with real metadata come from `data/albums/*.json`. Every other slot is a deterministic placeholder with its own name, palette, and tracklist, so the shelf is always full.
+1. **Collection data.** `pnpm build:library` reads the per-artist folders in `data/albums/`, writes the manifest `data/library.json` and web-sized covers in `public/covers/`. `lib/albums.ts` loads that manifest at runtime.
 2. **Shelf rendering.** `components/shelf/` renders the bookcase for the selected format, grouped into A–Z sections.
 3. **Track matching.** When an album opens, `/api/deezer/album` finds the album on Deezer and returns each track's preview URL, or `null` when Deezer has none.
 4. **Playback.** `use-album-player.ts` drives a single `<audio>` element. If a signed preview URL has expired, it asks `/api/preview` for a fresh one. Tracks with no preview are marked unavailable and skipped.
@@ -149,22 +149,26 @@ See **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** for the full breakdown.
 │   ├── shelf/                     # All shelf, dialog, and player components
 │   └── ui/                        # shadcn/ui primitives
 ├── data/
-│   ├── albums/                    # Real album metadata (JSON)
-│   └── real-albums.ts             # Registry of real albums + cover paths
+│   ├── albums/
+│   │   ├── Album Info/<Artist>/   # Album metadata (JSON), one folder per artist
+│   │   └── Album Art/<Artist>/    # Original artwork (Git LFS)
+│   └── library.json               # Generated manifest (pnpm build:library)
+├── scripts/
+│   └── build-library.mjs          # Builds the manifest + WebP covers
 ├── lib/
 │   ├── albums.ts                  # Collection builder, sorting, search
 │   └── types.ts                   # Shared types
 ├── public/
-│   ├── covers/                    # Album artwork
+│   ├── covers/<Artist>/           # Generated WebP artwork
 │   └── textures/wood.png          # Shelf texture
 └── docs/                          # Project documentation
 ```
 
 ## Adding your own albums
 
-1. Save the album's metadata as `data/albums/<slug>.json`.
-2. Save its artwork as `public/covers/<slug>.jpg`.
-3. Register it in `data/real-albums.ts`.
+1. Save the album's metadata as `data/albums/Album Info/<Artist>/<Album title>.json`.
+2. Save its artwork with the same name under `data/albums/Album Art/<Artist>/`.
+3. Run `pnpm build:library`.
 
 The schema and a full walkthrough are in **[docs/ADDING_ALBUMS.md](docs/ADDING_ALBUMS.md)**.
 

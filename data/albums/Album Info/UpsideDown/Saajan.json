@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0p8Z2Bx9qOMRn4gyt7LAPh",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0p8Z2Bx9qOMRn4gyt7LAPh",
       "title": "Saajan",
       "date": "2026-05-22"
     },

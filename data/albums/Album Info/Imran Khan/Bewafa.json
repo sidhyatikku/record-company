@@ -15,13 +15,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5ree8vAP1owWzSh4PQU2z6",
     "deezer": "https://www.deezer.com/album/114446302"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5ree8vAP1owWzSh4PQU2z6",
       "title": "Bewafa",
       "date": "2009-07-27"
     },

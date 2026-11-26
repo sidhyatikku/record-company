@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5lmEqXyAXca00POQ5zhUBD",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5lmEqXyAXca00POQ5zhUBD",
       "title": "Sada (Afro Edit)",
       "date": "2024-12-15"
     },

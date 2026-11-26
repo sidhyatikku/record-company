@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/2vtViw60G5qna2Cnsd3NiX",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/2vtViw60G5qna2Cnsd3NiX",
       "title": "Sutha Sutha",
       "date": "2024-05-19"
     },

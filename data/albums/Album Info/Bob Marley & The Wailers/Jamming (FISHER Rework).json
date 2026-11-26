@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk",
     "deezer": "https://www.deezer.com/album/543075912"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk",
       "title": "Jamming (FISHER Rework)",
       "date": "2024-02-08"
     },

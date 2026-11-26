@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1QFIuHwEBFRwX8dSWwDlfx",
     "deezer": "https://www.deezer.com/album/602596052"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1QFIuHwEBFRwX8dSWwDlfx",
       "title": "Tere Karke",
       "date": "2024-06-28"
     },

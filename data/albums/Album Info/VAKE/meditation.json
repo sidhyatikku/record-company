@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/3K38W7i6aC8ZDK74NTPfKW",
     "deezer": "https://www.deezer.com/album/575902291"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/3K38W7i6aC8ZDK74NTPfKW",
       "title": "meditation",
       "date": "2024-04-26"
     },

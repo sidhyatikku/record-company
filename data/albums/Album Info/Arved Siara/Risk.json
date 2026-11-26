@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0HmYxSfxSD9BYwnXMRSlwM",
     "deezer": "https://www.deezer.com/album/563824682"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0HmYxSfxSD9BYwnXMRSlwM",
       "title": "Risk",
       "date": "2024-03-21"
     },

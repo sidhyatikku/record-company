@@ -13,13 +13,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4TBP8t57dAGvG6S8GOPByN",
     "deezer": "https://www.deezer.com/album/216168432"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4TBP8t57dAGvG6S8GOPByN",
       "title": "You Gotta Dance",
       "date": "2021-02-12"
     },

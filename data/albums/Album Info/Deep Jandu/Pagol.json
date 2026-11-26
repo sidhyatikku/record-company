@@ -15,13 +15,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7",
     "deezer": "https://www.deezer.com/album/232557952"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7",
       "title": "Pagol",
       "date": "2019"
     },

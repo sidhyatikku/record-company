@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o",
       "title": "Feathers",
       "date": "2020-05-15"
     },

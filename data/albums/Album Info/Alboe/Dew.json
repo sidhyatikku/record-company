@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/2EnjGdPy8MZnSR4Ic9pakp",
     "deezer": "https://www.deezer.com/album/481101615"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/2EnjGdPy8MZnSR4Ic9pakp",
       "title": "Dew",
       "date": "2023-09-13"
     },

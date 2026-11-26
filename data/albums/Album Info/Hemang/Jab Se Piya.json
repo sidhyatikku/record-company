@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0U9JqX4lmLZuV9TpXyAuzy",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0U9JqX4lmLZuV9TpXyAuzy",
       "title": "Jab Se Piya",
       "date": "2024-04-05"
     },

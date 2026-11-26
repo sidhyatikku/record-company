@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/6E7LFmb41BR8oI7R2PU0P5",
     "deezer": "https://www.deezer.com/album/664384761"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/6E7LFmb41BR8oI7R2PU0P5",
       "title": "Kyun Hai",
       "date": "2024-11-29"
     },

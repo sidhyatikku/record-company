@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1xVMXrTPlVE3lXxVMatbw0",
     "deezer": "https://www.deezer.com/album/421284017"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1xVMXrTPlVE3lXxVMatbw0",
       "title": "Talia",
       "date": "2021-04-16"
     },

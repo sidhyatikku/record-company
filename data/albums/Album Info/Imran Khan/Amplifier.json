@@ -15,13 +15,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/72xTc7ZZo6AkQGaBhhmTwg",
     "deezer": "https://www.deezer.com/album/114446322"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/72xTc7ZZo6AkQGaBhhmTwg",
       "title": "Amplifier",
       "date": "2009-07-27"
     },

@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/43xZ3KNYdcujC05LtvyD8E",
     "deezer": "https://www.deezer.com/album/555366482"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/43xZ3KNYdcujC05LtvyD8E",
       "title": "Moohfatt",
       "date": "2024-03-15"
     },

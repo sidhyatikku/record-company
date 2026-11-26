@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/3oZJoMsZBS55dI7ovPHGtY",
     "deezer": "https://www.deezer.com/album/135755812"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/3oZJoMsZBS55dI7ovPHGtY",
       "title": "Kuchh Bandishein",
       "date": "2020-01-01"
     },

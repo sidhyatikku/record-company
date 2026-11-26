@@ -45,7 +45,6 @@ export type Album = {
   links: Record<string, string>
   tracklist: Tracklist | null
   cover: string | null
-  placeholder: boolean
 }
 
 export type AlbumSummary = {

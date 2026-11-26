@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/7p3bl1FjXKHLgA9d2gzK0W",
     "deezer": "https://www.deezer.com/album/700093371"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/7p3bl1FjXKHLgA9d2gzK0W",
       "title": "Panjebaan",
       "date": "2004-02-13"
     },

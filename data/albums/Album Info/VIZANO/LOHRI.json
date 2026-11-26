@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1yV7KzUizlNImUvgCmyM1a",
     "deezer": "https://www.deezer.com/album/778318831"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1yV7KzUizlNImUvgCmyM1a",
       "title": "LOHRI",
       "date": "2025-08-07"
     },

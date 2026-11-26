@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/3VIjIG6JGQo2pZO6VaxvmR",
     "deezer": "https://www.deezer.com/album/15441066"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/3VIjIG6JGQo2pZO6VaxvmR",
       "title": "Sentimental Value",
       "date": "2017-02-23"
     },

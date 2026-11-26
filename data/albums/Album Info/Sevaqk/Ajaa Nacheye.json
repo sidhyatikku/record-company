@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5fLcMLHBRwzBHXnOhTlbHr",
     "deezer": "https://www.deezer.com/album/368165647"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5fLcMLHBRwzBHXnOhTlbHr",
       "title": "Ajaa Nacheye",
       "date": "2022-10-29"
     },

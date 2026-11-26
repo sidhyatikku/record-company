@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/0Mnt4lJ92jtY1RDKmKGjcG",
     "deezer": "https://www.deezer.com/album/95353112"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/0Mnt4lJ92jtY1RDKmKGjcG",
       "title": "Confluence",
       "date": "2019-05-21"
     },

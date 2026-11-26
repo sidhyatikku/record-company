@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/3gPJ57t1vPx8Gg2CvK3UFJ",
     "deezer": "https://www.deezer.com/album/433939197"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/3gPJ57t1vPx8Gg2CvK3UFJ",
       "title": "Let It Go",
       "date": "2023-04-28"
     },

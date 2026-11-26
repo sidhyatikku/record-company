@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri",
     "deezer": "https://www.deezer.com/album/1679168"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri",
       "title": "Essential Desi",
       "date": "2012-01-20"
     },

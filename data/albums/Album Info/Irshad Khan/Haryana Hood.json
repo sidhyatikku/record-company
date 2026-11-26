@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/7JoAiAKENyG9cVS2kJysFQ",
     "deezer": "https://www.deezer.com/album/428802537"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/7JoAiAKENyG9cVS2kJysFQ",
       "title": "Haryana Hood",
       "date": "2022-12-27"
     },

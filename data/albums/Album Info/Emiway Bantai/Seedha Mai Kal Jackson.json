@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p",
     "deezer": "https://www.deezer.com/album/944866491"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p",
       "title": "Seedha Mai Kal Jackson",
       "date": "2026-03-22"
     },

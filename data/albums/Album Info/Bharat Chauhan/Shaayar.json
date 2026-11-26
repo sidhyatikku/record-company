@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/4q0cNzhq7PZQX0ugAq3nhn",
     "deezer": "https://www.deezer.com/album/538647802"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/4q0cNzhq7PZQX0ugAq3nhn",
       "title": "Shaayar",
       "date": "2024-02-03"
     },

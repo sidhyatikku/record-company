@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1En4OI8FLHTeH3kPUFFDpv",
     "deezer": "https://www.deezer.com/album/802801641"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1En4OI8FLHTeH3kPUFFDpv",
       "title": "Bade Bade Cheques",
       "date": "2025-08-17"
     },

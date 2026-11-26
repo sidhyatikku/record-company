@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1VNqe03LcjJbuIYDq3hH9U",
     "deezer": null
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1VNqe03LcjJbuIYDq3hH9U",
       "title": "Dance on the Moon",
       "date": "2024-08-06"
     },

@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH",
     "deezer": "https://www.deezer.com/album/358182477"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH",
       "title": "Blue Romance",
       "date": "2021-01-01"
     },

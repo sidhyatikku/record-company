@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/6oqOIRE4s4HftTFtfJDp1Z",
     "deezer": "https://www.deezer.com/album/433982957"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/6oqOIRE4s4HftTFtfJDp1Z",
       "title": "Ultrasounds, Vol. 4",
       "date": "2022-12-02"
     },

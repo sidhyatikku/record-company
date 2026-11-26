@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/7i8XoI57X3IKbfyJ6B5pWx",
     "deezer": "https://www.deezer.com/album/120841892"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/7i8XoI57X3IKbfyJ6B5pWx",
       "title": "Testing Waters",
       "date": "2019-12-01"
     },

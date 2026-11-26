@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/1hULZ4KSqEUz9OguKtY0SV",
     "deezer": "https://www.deezer.com/album/300243947"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/1hULZ4KSqEUz9OguKtY0SV",
       "title": "Desire",
       "date": "2021-09-24"
     },

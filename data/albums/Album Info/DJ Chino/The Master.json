@@ -14,13 +14,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/5pttuud1r5sOynEyb09E9C",
     "deezer": "https://www.deezer.com/album/1644119"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/5pttuud1r5sOynEyb09E9C",
       "title": "The Master",
       "date": "2000-01-01"
     },

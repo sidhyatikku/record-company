@@ -12,13 +12,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR",
     "deezer": "https://www.deezer.com/album/556165572"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR",
       "title": "Desi Hood",
       "date": "2024-03-01"
     },

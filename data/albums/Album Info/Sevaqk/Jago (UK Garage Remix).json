@@ -11,13 +11,11 @@
   "genres_note": "Spotify artist genres (Spotify has no album genres)",
   "tags": [],
   "links": {
-    "spotify": "https://open.spotify.com/album/05vt9r3ryB9PGfD0eRNOTa",
     "deezer": "https://www.deezer.com/album/431820867"
   },
   "tracklist": {
     "source": "spotify",
     "edition": {
-      "spotify_album": "https://open.spotify.com/album/05vt9r3ryB9PGfD0eRNOTa",
       "title": "Jago (UK Garage Remix)",
       "date": "2023-04-28"
     },
