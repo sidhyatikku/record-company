@@ -1,0 +1,119 @@
+{
+  "title": "Lootera",
+  "artist": "Amit Trivedi",
+  "year": 2013,
+  "release_date": "2013-05-29",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "filmi"
+  ],
+  "tags": [
+    "2010s",
+    "bollywood",
+    "filmi",
+    "hindi film music",
+    "soundtrack"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/610f524d-923f-4863-982a-fad860a56e89",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/691660271"
+  },
+  "musicbrainz_id": "610f524d-923f-4863-982a-fad860a56e89",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/89fe4e13-6720-4728-a491-c00284e7b1e1",
+      "barcode": "8902894353533",
+      "title": "Lootera",
+      "disambiguation": "Original Motion Picture Soundtrack",
+      "date": "2013-05-29",
+      "country": "IN"
+    },
+    "total_tracks": 6,
+    "total_length": "25:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sawaar Loon",
+            "length": "4:15",
+            "artist": "Monali Thakur",
+            "deezer": {
+              "id": 3166828681,
+              "link": "https://www.deezer.com/track/3166828681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/1/0/2417e40f69b4f7547a41858693421a70.mp3?hdnea=exp=1795649148~acl=/api/1/1/2/4/1/0/2417e40f69b4f7547a41858693421a70.mp3*~data=user_id=0,application_id=42~hmac=8d3a1e9efe80cb62a5200cfb5e4bee261dd97fa7f520e25181383337f76856eb",
+              "preview_expires": "2026-11-25T23:25:48Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ankahee",
+            "length": "4:35",
+            "artist": "Amitabh Bhattacharya",
+            "deezer": {
+              "id": 3166828691,
+              "link": "https://www.deezer.com/track/3166828691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/6/0/40674e36aba48f8fb26232c3b49da589.mp3?hdnea=exp=1795649148~acl=/api/1/1/4/0/6/0/40674e36aba48f8fb26232c3b49da589.mp3*~data=user_id=0,application_id=42~hmac=611e17ab64c8325762da3dbae5b905f5ea1f7ef93aa63b04d955ff6af0418802",
+              "preview_expires": "2026-11-25T23:25:48Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Shikayatein",
+            "length": "4:30",
+            "artist": "Mohan Kanan & Amitabh Bhattacharya",
+            "deezer": {
+              "id": 3166828701,
+              "link": "https://www.deezer.com/track/3166828701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/6/0/7966378f94b7f10ca5b06e325fcb28b2.mp3?hdnea=exp=1795649148~acl=/api/1/1/7/9/6/0/7966378f94b7f10ca5b06e325fcb28b2.mp3*~data=user_id=0,application_id=42~hmac=681afb746a7597d1762c8ce9545709c4f005b517e708850f6e7841866c7e182b",
+              "preview_expires": "2026-11-25T23:25:48Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Monta Re",
+            "length": "3:58",
+            "artist": "Swanand Kirkire & Amitabh Bhattacharya",
+            "deezer": {
+              "id": 3166828711,
+              "link": "https://www.deezer.com/track/3166828711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/e/0/6fed67f4ae6e3c1bbfcf79bb2b919b8a.mp3?hdnea=exp=1795649148~acl=/api/1/1/6/f/e/0/6fed67f4ae6e3c1bbfcf79bb2b919b8a.mp3*~data=user_id=0,application_id=42~hmac=8d7247d25edd1f31238229c00666ee9bba87a410ea52e93f76b3c7a507b72575",
+              "preview_expires": "2026-11-25T23:25:48Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Zinda",
+            "length": "4:02",
+            "deezer": {
+              "id": 3166828721,
+              "link": "https://www.deezer.com/track/3166828721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/5/0/575cfa5c1093413ca3c21641a3d79901.mp3?hdnea=exp=1795649148~acl=/api/1/1/5/7/5/0/575cfa5c1093413ca3c21641a3d79901.mp3*~data=user_id=0,application_id=42~hmac=fece36ad1bbcf0fb34ef741c41f373ff404938683416d8d9b4a951056569e7f4",
+              "preview_expires": "2026-11-25T23:25:48Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Manmarziyan",
+            "length": "4:11",
+            "artist": "Shilpa Rao, Amitabh Bhattacharya & Amit Trivedi",
+            "deezer": {
+              "id": 3166828731,
+              "link": "https://www.deezer.com/track/3166828731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/b/0/9db176eacea0d5f7fb04d6bd3ba667df.mp3?hdnea=exp=1795649148~acl=/api/1/1/9/d/b/0/9db176eacea0d5f7fb04d6bd3ba667df.mp3*~data=user_id=0,application_id=42~hmac=f96c4733ed0234b16192b42e3cfabb6ef6195d642cb52ba3fcd7da9e196bc0d9",
+              "preview_expires": "2026-11-25T23:25:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Amit Trivedi/Lootera.jpg"
+}

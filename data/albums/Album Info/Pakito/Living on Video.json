@@ -1,0 +1,96 @@
+{
+  "title": "Living on Video",
+  "artist": "Pakito",
+  "year": 2005,
+  "release_date": "2005",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b5194c10-660a-3728-8633-62ac70665547",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/134957022"
+  },
+  "musicbrainz_id": "b5194c10-660a-3728-8633-62ac70665547",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f6cf99fb-021b-46d0-aaad-a7ebc0ed882c",
+      "barcode": "3616404208958",
+      "title": "Living on Video",
+      "disambiguation": null,
+      "date": "2009-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "25:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Living on Video (radio edit)",
+            "length": "3:19",
+            "deezer": {
+              "id": 896128842,
+              "link": "https://www.deezer.com/track/896128842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/0/0/79082ec4a285dc81fc85bba4b85f9653.mp3?hdnea=exp=1795719254~acl=/api/1/1/7/9/0/0/79082ec4a285dc81fc85bba4b85f9653.mp3*~data=user_id=0,application_id=42~hmac=38e7d75123a546f1b551817f2a048f13ad2631fb2268e3a9098c0ac32aa9e4ca",
+              "preview_expires": "2026-11-26T18:54:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Living on Video (Noot’s vocal radio edit)",
+            "length": "3:11",
+            "deezer": {
+              "id": 896128852,
+              "link": "https://www.deezer.com/track/896128852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/d/0/34de1683efee0cc57554baa286d278f4.mp3?hdnea=exp=1795719254~acl=/api/1/1/3/4/d/0/34de1683efee0cc57554baa286d278f4.mp3*~data=user_id=0,application_id=42~hmac=2529b7253dc4c400cdd5cd751224343d0668403ebfc0584238ccfdd8c7f16ead",
+              "preview_expires": "2026-11-26T18:54:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Living on Video (Noots vocal version)",
+            "length": "6:32",
+            "deezer": {
+              "id": 896128862,
+              "link": "https://www.deezer.com/track/896128862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/0/0/5903ae0cd7f5fae53f3256fec803cf65.mp3?hdnea=exp=1795719254~acl=/api/1/1/5/9/0/0/5903ae0cd7f5fae53f3256fec803cf65.mp3*~data=user_id=0,application_id=42~hmac=c4265397bcf47802bf9cf53a78f3754698ecf8a8cf42d59300571cb72a201642",
+              "preview_expires": "2026-11-26T18:54:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Living on Video (radio edit extended version)",
+            "length": "5:34",
+            "deezer": {
+              "id": 896128872,
+              "link": "https://www.deezer.com/track/896128872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/d/0/2ad51a38e76b038582f340f9c3564e2f.mp3?hdnea=exp=1795719254~acl=/api/1/1/2/a/d/0/2ad51a38e76b038582f340f9c3564e2f.mp3*~data=user_id=0,application_id=42~hmac=effd420e997aead049379154d1dae3a943e35d7c5d36bf775dfe0c6b00538ba4",
+              "preview_expires": "2026-11-26T18:54:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Living on Video (Klubbed remix)",
+            "length": "6:27",
+            "artist": "Pakito & Klubbed DJs",
+            "deezer": {
+              "id": 896128882,
+              "link": "https://www.deezer.com/track/896128882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/a/0/60a204764a4ab7fa6cb614a1fa9bef09.mp3?hdnea=exp=1795719254~acl=/api/1/1/6/0/a/0/60a204764a4ab7fa6cb614a1fa9bef09.mp3*~data=user_id=0,application_id=42~hmac=6a627535030437d18f82a0d3811dbf29fa805ac31b2eddc9bdde5c4e396dc76a",
+              "preview_expires": "2026-11-26T18:54:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pakito/Living on Video.jpg"
+}

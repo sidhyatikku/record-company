@@ -1,0 +1,50 @@
+{
+  "title": "Seedha Mai Kal Jackson",
+  "artist": "Emiway Bantai",
+  "year": 2026,
+  "release_date": "2026-03-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi hip hop",
+    "desi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p",
+    "deezer": "https://www.deezer.com/album/944866491"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p",
+      "title": "Seedha Mai Kal Jackson",
+      "date": "2026-03-22"
+    },
+    "total_tracks": 1,
+    "total_length": "2:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Seedha Mai Kal Jackson",
+            "length": "2:36",
+            "deezer": {
+              "id": 3914760641,
+              "link": "https://www.deezer.com/track/3914760641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/1/0/d51331336c83f828bd1cf28c1fc4fd1a.mp3?hdnea=exp=1795653932~acl=/api/1/1/d/5/1/0/d51331336c83f828bd1cf28c1fc4fd1a.mp3*~data=user_id=0,application_id=42~hmac=df189a29350b0c09597e2bb37dc756afa26fc69fc54598a37cde2ee9a3c93cc1",
+              "preview_expires": "2026-11-26T00:45:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Emiway Bantai/Seedha Mai Kal Jackson.jpg"
+}

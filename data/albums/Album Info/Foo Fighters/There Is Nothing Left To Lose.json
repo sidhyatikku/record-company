@@ -1,0 +1,189 @@
+{
+  "title": "There Is Nothing Left to Lose",
+  "artist": "Foo Fighters",
+  "year": 1999,
+  "release_date": "1999-10-04",
+  "type": "Album",
+  "description": "There Is Nothing Left to Lose is the third studio album by American rock band Foo Fighters, released on November 2, 1999, through Roswell and RCA Records. It marked the first studio credit for drummer Taylor Hawkins, although the frontman Dave Grohl still providing the drums on some of the songs, and this is the band's final release until But Here We Are (2023) which Grohl performed on drums, as Hawkins permanently assigned as the full-time drummer on the band's subsequent releases until his death. The album is often seen as a departure from the band's previous work, showcasing a softer, more experimental sound. Grohl has called it his favorite Foo Fighters album, stating that it was \"totally based on melody\" and that the recording process was a serene experience. The album was recorded using only three musicians; Grohl, Hawkins, and bassist Nate Mendel in the basement of Grohl's home in Alexandria, Virginia.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "post-grunge",
+    "hard rock",
+    "power pop"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "alternative and punk",
+    "post-grunge",
+    "hard rock",
+    "alternative",
+    "alternrock",
+    "energetic",
+    "hardnheavy",
+    "melodic",
+    "passionate",
+    "power pop",
+    "summer",
+    "warm"
+  ],
+  "rating": {
+    "value_out_of_5": 4.35,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1cfc9a17-1fdb-30dd-83ca-dce93c481492",
+    "wikipedia": "https://en.wikipedia.org/wiki/There_Is_Nothing_Left_to_Lose",
+    "allmusic": "https://www.allmusic.com/album/mw0000670897",
+    "discogs": "https://www.discogs.com/master/62148",
+    "wikidata": "https://www.wikidata.org/wiki/Q907605",
+    "deezer": "https://www.deezer.com/album/1430528"
+  },
+  "musicbrainz_id": "1cfc9a17-1fdb-30dd-83ca-dce93c481492",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f4c9a630-ac83-4497-8c49-de649862a382",
+      "barcode": "888880335630",
+      "title": "There Is Nothing Left to Lose",
+      "disambiguation": null,
+      "date": "",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "46:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stacked Actors",
+            "length": "4:16",
+            "deezer": {
+              "id": 15479796,
+              "link": "https://www.deezer.com/track/15479796",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/a/0/4ca692826f3e526c04d0847a2c424226.mp3?hdnea=exp=1795654284~acl=/api/1/1/4/c/a/0/4ca692826f3e526c04d0847a2c424226.mp3*~data=user_id=0,application_id=42~hmac=17f2c764fd731168ec953bda5f2900416b7eb983e5aa0c147a3e5577691d8611",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Breakout",
+            "length": "3:21",
+            "deezer": {
+              "id": 15479800,
+              "link": "https://www.deezer.com/track/15479800",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/2/0/cf245a64c4564b00bc87710395a7489d.mp3?hdnea=exp=1795654284~acl=/api/1/1/c/f/2/0/cf245a64c4564b00bc87710395a7489d.mp3*~data=user_id=0,application_id=42~hmac=0ab0e0bb82dbe1527c171ba0a638a1109430fb842b43fd0e1721ef0876bcc9ed",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Learn to Fly",
+            "length": "3:55",
+            "deezer": {
+              "id": 15479805,
+              "link": "https://www.deezer.com/track/15479805",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/d/0/fbd0d3ae57da41989d10357a030e65c3.mp3?hdnea=exp=1795654284~acl=/api/1/1/f/b/d/0/fbd0d3ae57da41989d10357a030e65c3.mp3*~data=user_id=0,application_id=42~hmac=ef285492e9feb086045524013929f97f66270de09fe2d35a77c87c80ca50f6d0",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Gimme Stitches",
+            "length": "3:42",
+            "deezer": {
+              "id": 15479807,
+              "link": "https://www.deezer.com/track/15479807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/9/0/d9991dc0d1c6bf770542c4addc687f67.mp3?hdnea=exp=1795654284~acl=/api/1/1/d/9/9/0/d9991dc0d1c6bf770542c4addc687f67.mp3*~data=user_id=0,application_id=42~hmac=d776f608638d4680e038e4b6e600d3b9edff226869d298db26c03d80178e7669",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Generator",
+            "length": "3:47",
+            "deezer": {
+              "id": 15479809,
+              "link": "https://www.deezer.com/track/15479809",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/a/0/5ca722582c1ed7f2bf87cbcc2feec95d.mp3?hdnea=exp=1795654284~acl=/api/1/1/5/c/a/0/5ca722582c1ed7f2bf87cbcc2feec95d.mp3*~data=user_id=0,application_id=42~hmac=29fe3e074e677cd560542750dcc06df9ce87bf5f04c17e65684111eae9ab74d5",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Aurora",
+            "length": "5:50",
+            "deezer": {
+              "id": 15479811,
+              "link": "https://www.deezer.com/track/15479811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/c/0/87c75988d4808eb4734ef07ea5e401de.mp3?hdnea=exp=1795654284~acl=/api/1/1/8/7/c/0/87c75988d4808eb4734ef07ea5e401de.mp3*~data=user_id=0,application_id=42~hmac=a7e99d943f91e2908c0ea27446efc3b52b2468b6f7286827e4cca716ac0ee7c3",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Live‐In Skin",
+            "length": "3:53",
+            "deezer": {
+              "id": 15479813,
+              "link": "https://www.deezer.com/track/15479813",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/d/0/dad59b54fb2023886705c1609c82d6f2.mp3?hdnea=exp=1795654284~acl=/api/1/1/d/a/d/0/dad59b54fb2023886705c1609c82d6f2.mp3*~data=user_id=0,application_id=42~hmac=1960f9221fd542481ca0d7633d35811ce95d0034cf3545d942085b67eff00282",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Next Year",
+            "length": "4:36",
+            "deezer": {
+              "id": 15479815,
+              "link": "https://www.deezer.com/track/15479815",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/3/0/d7364b0957aeb45a03b9bfcf56ef2b7b.mp3?hdnea=exp=1795654284~acl=/api/1/1/d/7/3/0/d7364b0957aeb45a03b9bfcf56ef2b7b.mp3*~data=user_id=0,application_id=42~hmac=58fbf5c46abe64d20fe873bd9a143e0c63356bcacee4103e89710eb4d784f395",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Headwires",
+            "length": "4:37",
+            "deezer": {
+              "id": 15479817,
+              "link": "https://www.deezer.com/track/15479817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/c/0/43cb27e628393ff267c678f96eda1aa2.mp3?hdnea=exp=1795654284~acl=/api/1/1/4/3/c/0/43cb27e628393ff267c678f96eda1aa2.mp3*~data=user_id=0,application_id=42~hmac=be8b51915bcb3b1ee78d87ecf88c30e0e15ff521957a02941e3fb3f315fcad25",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ain’t It the Life",
+            "length": "4:15",
+            "deezer": {
+              "id": 15479819,
+              "link": "https://www.deezer.com/track/15479819",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/b/0/c1bc19d6205938df629abe59a54288e2.mp3?hdnea=exp=1795654284~acl=/api/1/1/c/1/b/0/c1bc19d6205938df629abe59a54288e2.mp3*~data=user_id=0,application_id=42~hmac=fbe133d101728051d0994d6d3ca6606f0f454170f254a953f7cfd3bb1d4fc97a",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "M.I.A.",
+            "length": "4:03",
+            "deezer": {
+              "id": 15479821,
+              "link": "https://www.deezer.com/track/15479821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/f/0/4bf400119c395510a803e6a6e54ab2d2.mp3?hdnea=exp=1795654284~acl=/api/1/1/4/b/f/0/4bf400119c395510a803e6a6e54ab2d2.mp3*~data=user_id=0,application_id=42~hmac=a8fcdfca143926ca82ab749065ab1440f23d23a96a9fe6f6ba3daa9f2260129c",
+              "preview_expires": "2026-11-26T00:51:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Foo Fighters/There Is Nothing Left To Lose.jpg"
+}

@@ -1,0 +1,224 @@
+{
+  "title": "Mail on Sunday",
+  "artist": "Flo Rida",
+  "year": 2008,
+  "release_date": "2008-03-17",
+  "type": "Album",
+  "description": "Mail on Sunday is the debut studio album by American rapper Flo Rida, and was released on March 18, 2008 under Poe Boy Entertainment and Atlantic Records, serving as Flo Rida's follow-up to his 2007 mixtape Mr. Birthday Man. It spawned three singles; the first, \"Low\" was number one on the U.S. Billboard Hot 100 for 10 weeks. The second, and third singles, \"Elevator\", and \"In the Ayer\", were successful as well, being top 20 hits. \"Roll\" featuring Sean Kingston was not an official single, but it managed to peak at number 59 on the US Billboard Hot 100, and number 43 on the Canadian Hot 100 due to digital sales in both countries.",
+  "genres": [
+    "hip hop",
+    "pop rap",
+    "contemporary r&b",
+    "dance-pop",
+    "southern hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "pop rap",
+    "contemporary r&b",
+    "dance-pop",
+    "southern hip hop",
+    "thug rap",
+    "rap and hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/128a479e-576b-312e-92fb-a3b1908155e8",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mail_on_Sunday_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000504619",
+    "discogs": "https://www.discogs.com/master/86640",
+    "wikidata": "https://www.wikidata.org/wiki/Q3278180",
+    "deezer": "https://www.deezer.com/album/92083"
+  },
+  "musicbrainz_id": "128a479e-576b-312e-92fb-a3b1908155e8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fb2b95bc-6742-454c-ac63-c56fd1557f65",
+      "barcode": "075679993397",
+      "title": "Mail on Sunday",
+      "disambiguation": null,
+      "date": "2008-03-18",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "53:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "American Superstar",
+            "length": "3:42",
+            "artist": "Flo Rida feat. Lil Wayne",
+            "deezer": {
+              "id": 786795,
+              "link": "https://www.deezer.com/track/786795",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/1/0/c718696a363ac233253d646708b9f67a.mp3?hdnea=exp=1795654252~acl=/api/1/1/c/7/1/0/c718696a363ac233253d646708b9f67a.mp3*~data=user_id=0,application_id=42~hmac=aa2530a40afdae5e335e14f14c583995572d4d689d5d4402bca846e15dc52f49",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ack Like You Know",
+            "length": "3:44",
+            "deezer": {
+              "id": 786803,
+              "link": "https://www.deezer.com/track/786803",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/d/0/45dbed3354f481ed570825e649c723a5.mp3?hdnea=exp=1795654252~acl=/api/1/1/4/5/d/0/45dbed3354f481ed570825e649c723a5.mp3*~data=user_id=0,application_id=42~hmac=869c88e996379e9a73f459f28624ee475f29d709b79e583431bee6fe8a7f3fb6",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Elevator",
+            "length": "3:50",
+            "artist": "Flo Rida feat. Timbaland",
+            "deezer": {
+              "id": 786812,
+              "link": "https://www.deezer.com/track/786812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/7/0/117dd44d8fdb36ec955dd8d3eb44b6e5.mp3?hdnea=exp=1795654252~acl=/api/1/1/1/1/7/0/117dd44d8fdb36ec955dd8d3eb44b6e5.mp3*~data=user_id=0,application_id=42~hmac=cdc18ab449d04ce3f8f18f6611559260d38661b0a380ad76c509d0ef55253e30",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Roll",
+            "length": "3:59",
+            "artist": "Flo Rida feat. Sean Kingston",
+            "deezer": {
+              "id": 786818,
+              "link": "https://www.deezer.com/track/786818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/d/0/f5dc10a617a31b8781da6abb469de35d.mp3?hdnea=exp=1795654252~acl=/api/1/1/f/5/d/0/f5dc10a617a31b8781da6abb469de35d.mp3*~data=user_id=0,application_id=42~hmac=36b226ac00a0143e29b7796c580039d6eed993f7b92c865bba656b7643d172e0",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Low",
+            "length": "3:50",
+            "artist": "Flo Rida feat. T‐Pain",
+            "deezer": {
+              "id": 786826,
+              "link": "https://www.deezer.com/track/786826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92fd4d977c3f46f172facd1d7c6a548d.mp3?hdnea=exp=1795654252~acl=/api/1/1/9/2/f/0/92fd4d977c3f46f172facd1d7c6a548d.mp3*~data=user_id=0,application_id=42~hmac=07f062b454cf1fbf8ab4d61b7355c2e364c047a982749e1195feb52ec21526eb",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Priceless",
+            "length": "3:53",
+            "artist": "Flo Rida feat. Birdman",
+            "deezer": {
+              "id": 786834,
+              "link": "https://www.deezer.com/track/786834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/d/0/f4d2e18ae4acf8a6762f9d344055d549.mp3?hdnea=exp=1795654252~acl=/api/1/1/f/4/d/0/f4d2e18ae4acf8a6762f9d344055d549.mp3*~data=user_id=0,application_id=42~hmac=6310821cdf568cb4ff3f0e9eccb72bc2a9941adecc9a4bcd570cef7a5d64bd1a",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ms. Hangover",
+            "length": "3:58",
+            "deezer": {
+              "id": 786842,
+              "link": "https://www.deezer.com/track/786842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/6/0/a86c650f506946dd8c1fbecb37519593.mp3?hdnea=exp=1795654252~acl=/api/1/1/a/8/6/0/a86c650f506946dd8c1fbecb37519593.mp3*~data=user_id=0,application_id=42~hmac=a617a396d40b1822709a2f711d7daaa73c568e08233ee4642f4e071bfc7bb5ac",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Still Missin",
+            "length": "4:41",
+            "deezer": {
+              "id": 786851,
+              "link": "https://www.deezer.com/track/786851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/f/0/1bfab6e3b002fdf3df43f77f538419b6.mp3?hdnea=exp=1795654252~acl=/api/1/1/1/b/f/0/1bfab6e3b002fdf3df43f77f538419b6.mp3*~data=user_id=0,application_id=42~hmac=b6c966ed0401d58078a9c083a96f806e32e6b87d203be31c22687eb6fdcc0bfe",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "In the Ayer",
+            "length": "3:41",
+            "artist": "Flo Rida feat. will.i.am",
+            "deezer": {
+              "id": 786858,
+              "link": "https://www.deezer.com/track/786858",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/3/0/af317ba3b0ae94339ee0c95d9fbc1c4d.mp3?hdnea=exp=1795654252~acl=/api/1/1/a/f/3/0/af317ba3b0ae94339ee0c95d9fbc1c4d.mp3*~data=user_id=0,application_id=42~hmac=d7ea1f5122fb6be2a2ea89ac267bca28833d986dfafc187fe10136b790c45e65",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Me & U",
+            "length": "4:31",
+            "deezer": {
+              "id": 786866,
+              "link": "https://www.deezer.com/track/786866",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/0/0/e50ab9dbd168d8b8dec67f698092797f.mp3?hdnea=exp=1795654252~acl=/api/1/1/e/5/0/0/e50ab9dbd168d8b8dec67f698092797f.mp3*~data=user_id=0,application_id=42~hmac=1fc80355aba12e515efbeb7c4da58872d9af27322f16a597de6068bd05bc4f0d",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "All My Life",
+            "length": "3:33",
+            "deezer": {
+              "id": 786875,
+              "link": "https://www.deezer.com/track/786875",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/7/0/3178bf43f707fc8ec90cbc9077986351.mp3?hdnea=exp=1795654252~acl=/api/1/1/3/1/7/0/3178bf43f707fc8ec90cbc9077986351.mp3*~data=user_id=0,application_id=42~hmac=1a025cfd67c16191a28fc0f74a2eaccf7974a51514db10236ed18c87e9e1a0f5",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Don’t Know How to Act",
+            "length": "3:33",
+            "artist": "Flo Rida feat. Yung Joc",
+            "deezer": {
+              "id": 786883,
+              "link": "https://www.deezer.com/track/786883",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/d/0/32d1cd1b9b436ee03e7b2fbba8ee93ea.mp3?hdnea=exp=1795654252~acl=/api/1/1/3/2/d/0/32d1cd1b9b436ee03e7b2fbba8ee93ea.mp3*~data=user_id=0,application_id=42~hmac=2ebf162dc519acbb853da8800ae8f9ec765e43f161048ea66c5be752c2fe60b6",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Freaky Deaky",
+            "length": "3:17",
+            "artist": "Flo Rida feat. Trey Songz",
+            "deezer": {
+              "id": 786892,
+              "link": "https://www.deezer.com/track/786892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/1/0/cd1121c985b303b538a712853842dee7.mp3?hdnea=exp=1795654252~acl=/api/1/1/c/d/1/0/cd1121c985b303b538a712853842dee7.mp3*~data=user_id=0,application_id=42~hmac=364b29864cb57526da65788000c851b46f8b55bf96ce03d20a68530ee0295863",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Money Right",
+            "length": "3:17",
+            "artist": "Flo Rida feat. Rick Ross & Brisco",
+            "deezer": {
+              "id": 786897,
+              "link": "https://www.deezer.com/track/786897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/6/0/346000c3b31864be6c9700479eb7e90b.mp3?hdnea=exp=1795654252~acl=/api/1/1/3/4/6/0/346000c3b31864be6c9700479eb7e90b.mp3*~data=user_id=0,application_id=42~hmac=3c51dc3823317611616338b8479b014e0c038b5086667a2c96fcf1c6bc75468f",
+              "preview_expires": "2026-11-26T00:50:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Flo Rida/Mail on Sunday.jpg"
+}

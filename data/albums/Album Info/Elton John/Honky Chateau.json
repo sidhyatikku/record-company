@@ -1,0 +1,194 @@
+{
+  "title": "Honky Château",
+  "artist": "Elton John",
+  "year": 1972,
+  "release_date": "1972-05-19",
+  "type": "Album",
+  "description": "Honky Château is the fifth studio album by British musician Elton John. It was released on 19 May 1972, and was titled after the 18th century French chateau where it was recorded, Château d'Hérouville. The album reached number one on the US Billboard 200, the first of John's seven consecutive US number one albums.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "country rock",
+    "piano rock",
+    "pop",
+    "soft rock",
+    "classic rock",
+    "glam rock",
+    "singer-songwriter"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "country rock",
+    "piano rock",
+    "pop",
+    "soft rock",
+    "adult contemporary",
+    "album rock",
+    "classic rock",
+    "contemporary pop/rock",
+    "glam rock",
+    "oldies 70 s",
+    "pop/rock",
+    "rock/pop",
+    "singer-songwriter"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e17f2d6e-7849-37f9-a6d8-cda4d59cea28",
+    "wikipedia": "https://en.wikipedia.org/wiki/Honky_Ch%C3%A2teau",
+    "allmusic": "https://www.allmusic.com/album/mw0000650320",
+    "discogs": "https://www.discogs.com/master/85555",
+    "wikidata": "https://www.wikidata.org/wiki/Q1753042",
+    "deezer": "https://www.deezer.com/album/122698"
+  },
+  "musicbrainz_id": "e17f2d6e-7849-37f9-a6d8-cda4d59cea28",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d80fef1d-6a57-4af7-8836-3e3da30c0c55",
+      "barcode": "731452816221",
+      "title": "Honky Château",
+      "disambiguation": null,
+      "date": "",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "48:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Honky Cat",
+            "length": "5:13",
+            "deezer": {
+              "id": 1144859,
+              "link": "https://www.deezer.com/track/1144859",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/1/0/a412a4a8ec0aa14db6368d737cfa88a0.mp3?hdnea=exp=1795653820~acl=/api/1/1/a/4/1/0/a412a4a8ec0aa14db6368d737cfa88a0.mp3*~data=user_id=0,application_id=42~hmac=37e0cfc0207f5ccd5a16b321c49070540403f54a68b79c4601f20f5e987ef143",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Mellow",
+            "length": "5:32",
+            "deezer": {
+              "id": 1144860,
+              "link": "https://www.deezer.com/track/1144860",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/c/0/c3c95c0659b07fc8eaac226b9417bd04.mp3?hdnea=exp=1795653820~acl=/api/1/1/c/3/c/0/c3c95c0659b07fc8eaac226b9417bd04.mp3*~data=user_id=0,application_id=42~hmac=9c378cdf16f3066ac6b56d9a1064281121731e627695f63609ec38db2c205603",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I Think I’m Going to Kill Myself",
+            "length": "3:35",
+            "deezer": {
+              "id": 1144861,
+              "link": "https://www.deezer.com/track/1144861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/b/0/5eb41cbd9a9843f826f51a74d9a0a02b.mp3?hdnea=exp=1795653820~acl=/api/1/1/5/e/b/0/5eb41cbd9a9843f826f51a74d9a0a02b.mp3*~data=user_id=0,application_id=42~hmac=b962c072ff9cdbc13380f10bc8a325f70e07f7ec96a9c3ee08d49ca47aa5d12a",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Susie (Dramas)",
+            "length": "3:25",
+            "deezer": {
+              "id": 1144862,
+              "link": "https://www.deezer.com/track/1144862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/2/0/bd27a20e1de6b8bc66467bd4b1b64a02.mp3?hdnea=exp=1795653820~acl=/api/1/1/b/d/2/0/bd27a20e1de6b8bc66467bd4b1b64a02.mp3*~data=user_id=0,application_id=42~hmac=4efbcb3163c9748c00e9fa4f7b5722d3c290b8c00b4034182d55153f0bae3631",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Rocket Man (I Think It’s Going to Be a Long Long Time)",
+            "length": "4:41",
+            "deezer": {
+              "id": 1144863,
+              "link": "https://www.deezer.com/track/1144863",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/e/0/68e4d0114c05d6208e83e97e39aa77d1.mp3?hdnea=exp=1795653820~acl=/api/1/1/6/8/e/0/68e4d0114c05d6208e83e97e39aa77d1.mp3*~data=user_id=0,application_id=42~hmac=c186e86db1fceab37055832c91677962dda82bb60f1d2135c7da84f28ceaac9a",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Salvation",
+            "length": "3:58",
+            "deezer": {
+              "id": 1144864,
+              "link": "https://www.deezer.com/track/1144864",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/0/0/b4032957f9799a6cda8cc9c9ffe280b0.mp3?hdnea=exp=1795653820~acl=/api/1/1/b/4/0/0/b4032957f9799a6cda8cc9c9ffe280b0.mp3*~data=user_id=0,application_id=42~hmac=5e50012ebd6c68ce1658da4d53bad8f7422364413867e4a857474271f66e73b8",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Slave",
+            "length": "4:22",
+            "deezer": {
+              "id": 1144865,
+              "link": "https://www.deezer.com/track/1144865",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/d/0/acd243ec2ed78293a59a061edc232034.mp3?hdnea=exp=1795653820~acl=/api/1/1/a/c/d/0/acd243ec2ed78293a59a061edc232034.mp3*~data=user_id=0,application_id=42~hmac=3b88db644ce45bec3a7de2af161d25faa90c7c3bdbcef410a5a38fa4354c3eb3",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Amy",
+            "length": "4:03",
+            "deezer": {
+              "id": 1144866,
+              "link": "https://www.deezer.com/track/1144866",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/0/0/770704259efdefd70be8efa0d4c0c4a7.mp3?hdnea=exp=1795653820~acl=/api/1/1/7/7/0/0/770704259efdefd70be8efa0d4c0c4a7.mp3*~data=user_id=0,application_id=42~hmac=eb394a3f095f8802389e6fd00883f542975fe93b9a1ada76560286fc122fd9f4",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mona Lisas and Mad Hatters",
+            "length": "5:00",
+            "deezer": {
+              "id": 1144867,
+              "link": "https://www.deezer.com/track/1144867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/4/0/424a8f598293cb58e9a2fc953d2e374a.mp3?hdnea=exp=1795653820~acl=/api/1/1/4/2/4/0/424a8f598293cb58e9a2fc953d2e374a.mp3*~data=user_id=0,application_id=42~hmac=9b7a09a0bbda2ecd1bb4806f33dced31fef2e3e2a26aa07c58527e7490b44f3b",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Hercules",
+            "length": "5:35",
+            "deezer": {
+              "id": 1144868,
+              "link": "https://www.deezer.com/track/1144868",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/c/0/99cfd02532544520c40444188fec4f6f.mp3?hdnea=exp=1795653820~acl=/api/1/1/9/9/c/0/99cfd02532544520c40444188fec4f6f.mp3*~data=user_id=0,application_id=42~hmac=963177ab43b5613ee2c9056e15f41855491580bd92d28d0278c440662c1fecf6",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Slave (alternate “fast” version)",
+            "length": "2:53",
+            "deezer": {
+              "id": 1144869,
+              "link": "https://www.deezer.com/track/1144869",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/d/0/8bdce265c86f8500344797b467a7633a.mp3?hdnea=exp=1795653820~acl=/api/1/1/8/b/d/0/8bdce265c86f8500344797b467a7633a.mp3*~data=user_id=0,application_id=42~hmac=fd01f08873f3912abf101293fc2ab5005a91b9b0dc50399134845f5d9f7728d9",
+              "preview_expires": "2026-11-26T00:43:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Elton John/Honky Chateau.jpg"
+}

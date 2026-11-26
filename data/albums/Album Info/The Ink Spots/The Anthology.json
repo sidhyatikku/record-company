@@ -1,0 +1,580 @@
+{
+  "title": "The Anthology",
+  "artist": "The Ink Spots",
+  "year": 1998,
+  "release_date": "1998-06-16",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "pop"
+  ],
+  "tags": [
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/46c39900-86b1-3b47-8ae5-58ead161c382",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/70550082"
+  },
+  "musicbrainz_id": "46c39900-86b1-3b47-8ae5-58ead161c382",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/66fce340-e3a2-48e9-a8f4-537b8fab305e",
+      "barcode": "00602567849216",
+      "title": "The Anthology",
+      "disambiguation": null,
+      "date": "2018-08-17",
+      "country": "XW"
+    },
+    "total_tracks": 48,
+    "total_length": "2:24:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Your Feet’s Too Big",
+            "length": "2:48",
+            "deezer": {
+              "id": 540496592,
+              "link": "https://www.deezer.com/track/540496592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/4/0/d94af11b149ead40a14168b828473c95.mp3?hdnea=exp=1795721535~acl=/api/1/1/d/9/4/0/d94af11b149ead40a14168b828473c95.mp3*~data=user_id=0,application_id=42~hmac=edb0c5e3ee45c7c71374139c06917b11e92cd2d8b41e5b909fe62a5ff7297374",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Wish You the Best of Everything",
+            "length": "3:13",
+            "deezer": {
+              "id": 540496602,
+              "link": "https://www.deezer.com/track/540496602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/9/0/409c952816086a9771fd70fb78f503cd.mp3?hdnea=exp=1795721535~acl=/api/1/1/4/0/9/0/409c952816086a9771fd70fb78f503cd.mp3*~data=user_id=0,application_id=42~hmac=6f890b87284af3e5a8e74f4f863bdf192f15b9465c2f9bbee89eaa692867557c",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "If I Didn’t Care",
+            "length": "3:02",
+            "deezer": {
+              "id": 540496612,
+              "link": "https://www.deezer.com/track/540496612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/a/0/9fa2375205604701491fe1b86be452a2.mp3?hdnea=exp=1795721535~acl=/api/1/1/9/f/a/0/9fa2375205604701491fe1b86be452a2.mp3*~data=user_id=0,application_id=42~hmac=c5baa166e7f87aaa1d4f050da62472a3070d6529ce320b33645e7c43f93b21b4",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Just for a Thrill",
+            "length": "2:45",
+            "deezer": {
+              "id": 540496622,
+              "link": "https://www.deezer.com/track/540496622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/6/0/ec6e2c7312c66844d6b32bc9d35153f7.mp3?hdnea=exp=1795721535~acl=/api/1/1/e/c/6/0/ec6e2c7312c66844d6b32bc9d35153f7.mp3*~data=user_id=0,application_id=42~hmac=3614c3f0399e5d55ec08631c6ef1d6c66cd5cca6b461f2ef68a8f258375e505a",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "It’s Funny to Everyone but Me",
+            "length": "2:56",
+            "deezer": {
+              "id": 540496632,
+              "link": "https://www.deezer.com/track/540496632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/8/0/678145e24ecb726366a513390c8fc1f4.mp3?hdnea=exp=1795721535~acl=/api/1/1/6/7/8/0/678145e24ecb726366a513390c8fc1f4.mp3*~data=user_id=0,application_id=42~hmac=f39858e459f9a2089f592f4abf7dcf764b402c302eefa6e2c6e4ed9287959bd6",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Address Unknown",
+            "length": "2:53",
+            "deezer": {
+              "id": 540496642,
+              "link": "https://www.deezer.com/track/540496642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/d/0/e3d05c6f9744ae44bd373491b8155c3d.mp3?hdnea=exp=1795721535~acl=/api/1/1/e/3/d/0/e3d05c6f9744ae44bd373491b8155c3d.mp3*~data=user_id=0,application_id=42~hmac=d90e655fe98e31f36e70b44691dcc89d756915749362c8dfe740013c25ffe898",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "My Prayer",
+            "length": "3:13",
+            "deezer": {
+              "id": 540496652,
+              "link": "https://www.deezer.com/track/540496652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/5/0/e85d3c3e017f440d94a72b659a9b1812.mp3?hdnea=exp=1795721535~acl=/api/1/1/e/8/5/0/e85d3c3e017f440d94a72b659a9b1812.mp3*~data=user_id=0,application_id=42~hmac=062f5d42549986b5860098626219b86f9f2cdb299b1154bf219e35aa11ecb460",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Memories of You",
+            "length": "2:57",
+            "deezer": {
+              "id": 540496662,
+              "link": "https://www.deezer.com/track/540496662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/d/0/fad83889f2316bf1622020193bbcaa9d.mp3?hdnea=exp=1795721535~acl=/api/1/1/f/a/d/0/fad83889f2316bf1622020193bbcaa9d.mp3*~data=user_id=0,application_id=42~hmac=5b6378e79f140a2c53538fcd48e518db45972523546d90918ccb657846b248ac",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I’m Getting Sentimental Over You",
+            "length": "2:44",
+            "deezer": {
+              "id": 540496672,
+              "link": "https://www.deezer.com/track/540496672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/b/0/ccbd0100c1df8e1dcf1dcf8aac8f63a4.mp3?hdnea=exp=1795721535~acl=/api/1/1/c/c/b/0/ccbd0100c1df8e1dcf1dcf8aac8f63a4.mp3*~data=user_id=0,application_id=42~hmac=e1c01ac8cce4978774146e5a9d1885982a2900d27beded8b1f85fa7e44f1b617",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Bless You",
+            "length": "2:48",
+            "deezer": {
+              "id": 540496682,
+              "link": "https://www.deezer.com/track/540496682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/2/0/012ff9fd0adf25d3b58689b46925ee1c.mp3?hdnea=exp=1795721535~acl=/api/1/1/0/1/2/0/012ff9fd0adf25d3b58689b46925ee1c.mp3*~data=user_id=0,application_id=42~hmac=4877e7a22264b446da3f30c59947d260643c9673d90fac037fbfd670f8b7a4c5",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "When the Swallows Come Back to Capistrano",
+            "length": "3:01",
+            "deezer": {
+              "id": 540496692,
+              "link": "https://www.deezer.com/track/540496692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/7/0/df70f6cbd4f2a7b9eab54e28f30db612.mp3?hdnea=exp=1795721535~acl=/api/1/1/d/f/7/0/df70f6cbd4f2a7b9eab54e28f30db612.mp3*~data=user_id=0,application_id=42~hmac=c401249811da2ccc322fecebafb97973d81ba8e502ee60b8e3747a794353a991",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Whispering Grass (Don’t Tell the Trees)",
+            "length": "2:40",
+            "deezer": {
+              "id": 540496702,
+              "link": "https://www.deezer.com/track/540496702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/3/0/4e332d4199c0a1f69d8fadb5ec9c078a.mp3?hdnea=exp=1795721535~acl=/api/1/1/4/e/3/0/4e332d4199c0a1f69d8fadb5ec9c078a.mp3*~data=user_id=0,application_id=42~hmac=b99a94af18f9770f7645e217ba1940611ca9940b1d230a148c64ee1d17c1e7c2",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Maybe",
+            "length": "3:03",
+            "deezer": {
+              "id": 540496712,
+              "link": "https://www.deezer.com/track/540496712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/1/0/351ec52c4ee7e2170994a93e7a930374.mp3?hdnea=exp=1795721535~acl=/api/1/1/3/5/1/0/351ec52c4ee7e2170994a93e7a930374.mp3*~data=user_id=0,application_id=42~hmac=4714f48033f9f1beda18323d42549c9ef04694d6cf7d3082d248a050d716f995",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "We Three (My Echo, My Shadow, and Me)",
+            "length": "3:18",
+            "deezer": {
+              "id": 540496722,
+              "link": "https://www.deezer.com/track/540496722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/4/0/aa4f8ba43292cdf91fbc1c5e729d79e3.mp3?hdnea=exp=1795721535~acl=/api/1/1/a/a/4/0/aa4f8ba43292cdf91fbc1c5e729d79e3.mp3*~data=user_id=0,application_id=42~hmac=b363b0990e7e9b458814eac7645c0ffebdf6e3bdee6f394dc6fc06b8c6a0e7a9",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Java Jive",
+            "length": "3:01",
+            "deezer": {
+              "id": 540496732,
+              "link": "https://www.deezer.com/track/540496732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/0/0/000013a3f0ea70edb698863ff72c9437.mp3?hdnea=exp=1795721535~acl=/api/1/1/0/0/0/0/000013a3f0ea70edb698863ff72c9437.mp3*~data=user_id=0,application_id=42~hmac=fd70679caceac22e0506cdcfc30ee5a1ade1e57e132e1c0ff943126570f137f2",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I’ll Never Smile Again",
+            "length": "3:23",
+            "deezer": {
+              "id": 540496742,
+              "link": "https://www.deezer.com/track/540496742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/7/0/507a6709064e0f93f4dff5dd20df712a.mp3?hdnea=exp=1795721535~acl=/api/1/1/5/0/7/0/507a6709064e0f93f4dff5dd20df712a.mp3*~data=user_id=0,application_id=42~hmac=71ecfd52c9369fd4eb4ea75933cf8906f7b5c7a1d6cc4d49cf657728e2284f18",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Do I Worry?",
+            "length": "2:38",
+            "deezer": {
+              "id": 540496752,
+              "link": "https://www.deezer.com/track/540496752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/3/0/26391f727cef3991be770552c8cc06b5.mp3?hdnea=exp=1795721535~acl=/api/1/1/2/6/3/0/26391f727cef3991be770552c8cc06b5.mp3*~data=user_id=0,application_id=42~hmac=baf1fd4a50e8a4101f7d283f483b4dc42ab9841062a0917bc7921f40fede3827",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "My Greatest Mistake",
+            "length": "3:17",
+            "deezer": {
+              "id": 540496762,
+              "link": "https://www.deezer.com/track/540496762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/2/0/692e3e1c51e51c7a793f0ab7e4f7ced6.mp3?hdnea=exp=1795721535~acl=/api/1/1/6/9/2/0/692e3e1c51e51c7a793f0ab7e4f7ced6.mp3*~data=user_id=0,application_id=42~hmac=891b04ef3e01dde81ccafb7e691fa3a4ff28ccea9769c3956d3c0f4750fa3353",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Ring, Telephone, Ring",
+            "length": "3:07",
+            "deezer": {
+              "id": 540496772,
+              "link": "https://www.deezer.com/track/540496772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/6/0/cc6d052c30fea5546844bb476e6bee05.mp3?hdnea=exp=1795721535~acl=/api/1/1/c/c/6/0/cc6d052c30fea5546844bb476e6bee05.mp3*~data=user_id=0,application_id=42~hmac=9e2f077776b8dc498974a702fe0ef6b79755cad37b45959009eacbc712019422",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "I Can’t Stand Losing You",
+            "length": "3:13",
+            "deezer": {
+              "id": 540496782,
+              "link": "https://www.deezer.com/track/540496782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/d/0/5bdc25295c010cb547f9fd492ab759e3.mp3?hdnea=exp=1795721535~acl=/api/1/1/5/b/d/0/5bdc25295c010cb547f9fd492ab759e3.mp3*~data=user_id=0,application_id=42~hmac=b3ceb4947907ba86204a568d3a13e4633604dc4c0dbd911433e745dcfc17404e",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "That’s When Your Heartaches Begin",
+            "length": "3:20",
+            "deezer": {
+              "id": 540496792,
+              "link": "https://www.deezer.com/track/540496792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/0/0/480f599dcce58b2123a27a9482d69d5d.mp3?hdnea=exp=1795721535~acl=/api/1/1/4/8/0/0/480f599dcce58b2123a27a9482d69d5d.mp3*~data=user_id=0,application_id=42~hmac=5c2177367d853ee7439293a6898fb62c38eb1d0a6212f72998ee18ba9ba2eae7",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "I Wish I Could Say the Same",
+            "length": "3:16",
+            "deezer": {
+              "id": 540496802,
+              "link": "https://www.deezer.com/track/540496802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/b/0/a3b066b6e453ac367a6720adeee5ad81.mp3?hdnea=exp=1795721535~acl=/api/1/1/a/3/b/0/a3b066b6e453ac367a6720adeee5ad81.mp3*~data=user_id=0,application_id=42~hmac=8eee287e40903c73d2d2a922d34db1900bb71b7f9bbc2ec21a475e0a518a4b05",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "I’d Climb the Highest Mountain",
+            "length": "3:06",
+            "deezer": {
+              "id": 540496812,
+              "link": "https://www.deezer.com/track/540496812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/a/0/c7aab49766c4e887c34af30ea2312b76.mp3?hdnea=exp=1795721535~acl=/api/1/1/c/7/a/0/c7aab49766c4e887c34af30ea2312b76.mp3*~data=user_id=0,application_id=42~hmac=0948b3dfbf748cc9bfbbd102018041c460c0ec08b585107af2c2ada0f41e5e22",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "We’ll Meet Again",
+            "length": "3:12",
+            "deezer": {
+              "id": 540496822,
+              "link": "https://www.deezer.com/track/540496822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/2/0/90236223bd716ddd36011498351da805.mp3?hdnea=exp=1795721535~acl=/api/1/1/9/0/2/0/90236223bd716ddd36011498351da805.mp3*~data=user_id=0,application_id=42~hmac=6b4556bfbfbdd6ca88840ab73059f6914cedaa053cc934a92f769ecd7ac9ad81",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "(It Will Have to Do) Until the Real Thing Comes Along",
+            "length": "3:30",
+            "deezer": {
+              "id": 540496832,
+              "link": "https://www.deezer.com/track/540496832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/3/0/383e3a65b0f7e1f83139afe472913bac.mp3?hdnea=exp=1795721535~acl=/api/1/1/3/8/3/0/383e3a65b0f7e1f83139afe472913bac.mp3*~data=user_id=0,application_id=42~hmac=86d29d6f756a41c78d7bd55e56cc513dcf9dfffe5b30a0ab1994d63382f34349",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Don’t Want to Set the World on Fire",
+            "length": "3:01",
+            "deezer": {
+              "id": 540496842,
+              "link": "https://www.deezer.com/track/540496842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/4/0/2743dfcaa2a40103d33874d3244b1249.mp3?hdnea=exp=1795721535~acl=/api/1/1/2/7/4/0/2743dfcaa2a40103d33874d3244b1249.mp3*~data=user_id=0,application_id=42~hmac=857e81ce8320eee61a22b4b09a458529bfdc9af92b644bd0f8cef4be480f976d",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Someone’s Rocking My Dreamboat",
+            "length": "3:15",
+            "deezer": {
+              "id": 540496852,
+              "link": "https://www.deezer.com/track/540496852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/0/0/ee02ae0b5075e08f62f7ee945b54f16c.mp3?hdnea=exp=1795721535~acl=/api/1/1/e/e/0/0/ee02ae0b5075e08f62f7ee945b54f16c.mp3*~data=user_id=0,application_id=42~hmac=1e4782a75cc77803073a8a076b288ee18519cd13c4e3c2822c5a8b1ba609a960",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Don’t Tell a Lie About Me, Dear (And I Won’t Tell the Truth About You)",
+            "length": "3:05",
+            "deezer": {
+              "id": 540496862,
+              "link": "https://www.deezer.com/track/540496862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/7/0/927cf3800a2db63a6ab7fbcbc8d56bb7.mp3?hdnea=exp=1795721535~acl=/api/1/1/9/2/7/0/927cf3800a2db63a6ab7fbcbc8d56bb7.mp3*~data=user_id=0,application_id=42~hmac=5055ee022beabe345b62f92498bfea14689b4f8b57f44314ae2b13a5cc40d017",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Who Wouldn’t Love You?",
+            "length": "2:14",
+            "deezer": {
+              "id": 540496872,
+              "link": "https://www.deezer.com/track/540496872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/8/0/1384a0b9cddce36c6f9f67b075572d83.mp3?hdnea=exp=1795721535~acl=/api/1/1/1/3/8/0/1384a0b9cddce36c6f9f67b075572d83.mp3*~data=user_id=0,application_id=42~hmac=32c8ffeb60700c670f047a8d406b24db137d0f46b34ae6797f6da6b7b18d2a40",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ev’ry Night About This Time",
+            "length": "3:15",
+            "deezer": {
+              "id": 540496882,
+              "link": "https://www.deezer.com/track/540496882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/a/0/baa32229987ad3b7e2cb98ed016115df.mp3?hdnea=exp=1795721535~acl=/api/1/1/b/a/a/0/baa32229987ad3b7e2cb98ed016115df.mp3*~data=user_id=0,application_id=42~hmac=13ac48e097f060578bb04cc8be1ca7a725deaf785df577240bf2d16caeda8709",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Street of Dreams",
+            "length": "2:56",
+            "deezer": {
+              "id": 540496892,
+              "link": "https://www.deezer.com/track/540496892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/8/0/3a8d4f924391879f365f321ec8a1695d.mp3?hdnea=exp=1795721535~acl=/api/1/1/3/a/8/0/3a8d4f924391879f365f321ec8a1695d.mp3*~data=user_id=0,application_id=42~hmac=d6c4ab8bfff6e2e6bc75f077be212e44dec2301350df8180f8ef2e9c7516017d",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Don’t Get Around Much Anymore",
+            "length": "3:00",
+            "deezer": {
+              "id": 540496902,
+              "link": "https://www.deezer.com/track/540496902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/1/0/2610703ce60dbf76d80066f9fe50e175.mp3?hdnea=exp=1795721535~acl=/api/1/1/2/6/1/0/2610703ce60dbf76d80066f9fe50e175.mp3*~data=user_id=0,application_id=42~hmac=c4c0ef024871c15a2868c7d56065cbf9877c41efd1416c41600eae34a9027232",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I’ll Get By (As long as I Have You)",
+            "length": "2:50",
+            "deezer": {
+              "id": 540496912,
+              "link": "https://www.deezer.com/track/540496912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a18264aff25cb77d71c21f2a1d8376d9.mp3?hdnea=exp=1795721535~acl=/api/1/1/a/1/8/0/a18264aff25cb77d71c21f2a1d8376d9.mp3*~data=user_id=0,application_id=42~hmac=5794c4c0ac143cdc7bc2d60cac957a3c6023d9e5affe39346fdc0a0597093c8d",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Making Believe",
+            "length": "3:10",
+            "artist": "The Ink Spots & Ella Fitzgerald",
+            "deezer": {
+              "id": 540496922,
+              "link": "https://www.deezer.com/track/540496922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/0/0/3e06920181a2878edf193630146e7992.mp3?hdnea=exp=1795721535~acl=/api/1/1/3/e/0/0/3e06920181a2878edf193630146e7992.mp3*~data=user_id=0,application_id=42~hmac=b774c5004da85379380bbc5ff7b2b0573979139e96e826bba4b4fa704ee871da",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "I’m Beginning to See the Light",
+            "length": "2:43",
+            "deezer": {
+              "id": 540496932,
+              "link": "https://www.deezer.com/track/540496932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/f/0/5cf97808ab3d358b85ab322e205abbb3.mp3?hdnea=exp=1795721535~acl=/api/1/1/5/c/f/0/5cf97808ab3d358b85ab322e205abbb3.mp3*~data=user_id=0,application_id=42~hmac=72b218ef82187849fd9613bcbd6828b5dae476d59e8782e7d9f4f9347c40a583",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Sweetest Dream",
+            "length": "2:42",
+            "deezer": {
+              "id": 540496942,
+              "link": "https://www.deezer.com/track/540496942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/f/0/b4fc0956f3183135029ff888d9df1d05.mp3?hdnea=exp=1795721535~acl=/api/1/1/b/4/f/0/b4fc0956f3183135029ff888d9df1d05.mp3*~data=user_id=0,application_id=42~hmac=3ccb209625f41c58c13a5ef32fc6133f07a5de35a64ef7b7e248a822c7f010a8",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "The Gypsy",
+            "length": "2:45",
+            "deezer": {
+              "id": 540496952,
+              "link": "https://www.deezer.com/track/540496952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93a0181066d285ebe96b6aadb67e3f09.mp3?hdnea=exp=1795721535~acl=/api/1/1/9/3/a/0/93a0181066d285ebe96b6aadb67e3f09.mp3*~data=user_id=0,application_id=42~hmac=a5a494465bedc18ee9c16d022409e5b8d60646ad99bfbdad376e0001569bd44e",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Prisoner of Love",
+            "length": "2:59",
+            "deezer": {
+              "id": 540496962,
+              "link": "https://www.deezer.com/track/540496962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/c/0/c1c12a60cb5b1894db485f62d69a40fe.mp3?hdnea=exp=1795721535~acl=/api/1/1/c/1/c/0/c1c12a60cb5b1894db485f62d69a40fe.mp3*~data=user_id=0,application_id=42~hmac=69aab305dd857e8c72e3c1ceff9fe8260c4438ea11e3d25d9589bae51624b572",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "I Cover the Waterfront",
+            "length": "2:55",
+            "deezer": {
+              "id": 540496972,
+              "link": "https://www.deezer.com/track/540496972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/4/0/9346195c3c7e978d2e74bd14d8fe428d.mp3?hdnea=exp=1795721535~acl=/api/1/1/9/3/4/0/9346195c3c7e978d2e74bd14d8fe428d.mp3*~data=user_id=0,application_id=42~hmac=a7b6b17b20ce54bf0bbf9552801161f0a42ede2f623e23ae501d370261f6ce81",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I Get the Blues When It Rains",
+            "length": "2:40",
+            "deezer": {
+              "id": 540496982,
+              "link": "https://www.deezer.com/track/540496982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/8/0/138facabff31d925616ba084c8f22bed.mp3?hdnea=exp=1795721535~acl=/api/1/1/1/3/8/0/138facabff31d925616ba084c8f22bed.mp3*~data=user_id=0,application_id=42~hmac=aed03140e7a74ebe27016acf888844adcf5c7d2a2a69f5627afd54b0df8a6384",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "To Each His Own",
+            "length": "3:10",
+            "deezer": {
+              "id": 540496992,
+              "link": "https://www.deezer.com/track/540496992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f5aa58b707092c4240ff668d5b1466.mp3?hdnea=exp=1795721535~acl=/api/1/1/e/2/f/0/e2f5aa58b707092c4240ff668d5b1466.mp3*~data=user_id=0,application_id=42~hmac=c8182233795143c50205d35ffa72d3bdddb5240762c7eebd9c1255e56a5743d0",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "That’s Where I Came In",
+            "length": "2:50",
+            "deezer": {
+              "id": 540497002,
+              "link": "https://www.deezer.com/track/540497002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/2/0/1a2091d2191e2bd1e8121b311921451f.mp3?hdnea=exp=1795721535~acl=/api/1/1/1/a/2/0/1a2091d2191e2bd1e8121b311921451f.mp3*~data=user_id=0,application_id=42~hmac=8c185ecb7fa6f097fa9a6410a7171e05b957bc63212948cb526d86f49972f8e0",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Ask Anyone Who Knows",
+            "length": "3:18",
+            "deezer": {
+              "id": 540497012,
+              "link": "https://www.deezer.com/track/540497012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/a/0/8dac0ae61a6c24269476fb050b4bae89.mp3?hdnea=exp=1795721535~acl=/api/1/1/8/d/a/0/8dac0ae61a6c24269476fb050b4bae89.mp3*~data=user_id=0,application_id=42~hmac=6ba8d5658be7c25a4f2b79c1784dfd2340b6227b2606f77debdd879a7f616429",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "You Were Only Fooling (While I Was Falling in Love)",
+            "length": "2:52",
+            "deezer": {
+              "id": 540497022,
+              "link": "https://www.deezer.com/track/540497022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/9/0/ce9c9afafaa6f1efe2c99f3c5f09ed5a.mp3?hdnea=exp=1795721535~acl=/api/1/1/c/e/9/0/ce9c9afafaa6f1efe2c99f3c5f09ed5a.mp3*~data=user_id=0,application_id=42~hmac=84065d85c34f91d142960723c00ef6ebbeac27f2ebb3f79e0a666140a044a6be",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "You’re Breaking My Heart",
+            "length": "3:21",
+            "deezer": {
+              "id": 540497032,
+              "link": "https://www.deezer.com/track/540497032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/f/0/73fbde406f572d4f2ebdbc4b307b93ca.mp3?hdnea=exp=1795721535~acl=/api/1/1/7/3/f/0/73fbde406f572d4f2ebdbc4b307b93ca.mp3*~data=user_id=0,application_id=42~hmac=2e3ea23e38acec60d9d81b553d027a50500ae8bbe668209937882deda83d6b61",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Sometime",
+            "length": "2:53",
+            "deezer": {
+              "id": 540497042,
+              "link": "https://www.deezer.com/track/540497042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/e/0/dce9de817fab772ff05d7519904184b4.mp3?hdnea=exp=1795721535~acl=/api/1/1/d/c/e/0/dce9de817fab772ff05d7519904184b4.mp3*~data=user_id=0,application_id=42~hmac=9a00a250dfb411f22a6ff9ad588a069a69e9ee111ba4dfe27227288cd1c7d3fc",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "The Way It Used to Be",
+            "length": "3:17",
+            "deezer": {
+              "id": 540497052,
+              "link": "https://www.deezer.com/track/540497052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/f/0/1bf68b6dfbf35f433747ea2a711b3fcc.mp3?hdnea=exp=1795721535~acl=/api/1/1/1/b/f/0/1bf68b6dfbf35f433747ea2a711b3fcc.mp3*~data=user_id=0,application_id=42~hmac=2fc35dcb11c45497b8ff72ffd6f0ebb2f34698a1a3095d030fa6e987d7b23425",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "If",
+            "length": "2:58",
+            "deezer": {
+              "id": 540497062,
+              "link": "https://www.deezer.com/track/540497062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/1/0/cd15893101e8e8496b37a0e117a8a7f9.mp3?hdnea=exp=1795721535~acl=/api/1/1/c/d/1/0/cd15893101e8e8496b37a0e117a8a7f9.mp3*~data=user_id=0,application_id=42~hmac=09d0f71b88b03ab8df221d12a03e184beec682c99781ecb1444e8d572b58df33",
+              "preview_expires": "2026-11-26T19:32:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Ink Spots/The Anthology.jpg"
+}

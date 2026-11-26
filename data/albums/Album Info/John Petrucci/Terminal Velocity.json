@@ -1,0 +1,51 @@
+{
+  "title": "Terminal Velocity",
+  "artist": "John Petrucci",
+  "year": 2020,
+  "release_date": "2020-08-07",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/924238a8-b6dd-4cbd-ba44-125c8919b9e9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/162287362"
+  },
+  "musicbrainz_id": "924238a8-b6dd-4cbd-ba44-125c8919b9e9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cb006963-33ac-4388-866b-09955d0e3398",
+      "barcode": "195081668932",
+      "title": "Terminal Velocity",
+      "disambiguation": null,
+      "date": "2020-08-07",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "6:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Terminal Velocity",
+            "length": "6:08",
+            "deezer": {
+              "id": 1029801882,
+              "link": "https://www.deezer.com/track/1029801882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/5/0/f15e44f21157a7fae6e5dd4fd04c5bd1.mp3?hdnea=exp=1795655734~acl=/api/1/1/f/1/5/0/f15e44f21157a7fae6e5dd4fd04c5bd1.mp3*~data=user_id=0,application_id=42~hmac=ff118527bb579a28c8b4f58e70ac3a4697a9624fc3b20b2ec06187cb32f16704",
+              "preview_expires": "2026-11-26T01:15:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Petrucci/Terminal Velocity.jpg"
+}

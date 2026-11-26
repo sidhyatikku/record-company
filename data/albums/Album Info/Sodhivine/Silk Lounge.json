@@ -1,0 +1,68 @@
+{
+  "title": "Silk Lounge",
+  "artist": "Sodhivine",
+  "year": 2024,
+  "release_date": "2024-02-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4LJfGRZoCxg2Q1yF7P8gia",
+    "deezer": "https://www.deezer.com/album/541790552"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4LJfGRZoCxg2Q1yF7P8gia",
+      "title": "Silk Lounge",
+      "date": "2024-02-09"
+    },
+    "total_tracks": 3,
+    "total_length": "7:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Silk Lounge",
+            "length": "3:34",
+            "deezer": {
+              "id": 2642316872,
+              "link": "https://www.deezer.com/track/2642316872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/e/0/b2e0964fcdaebeb3c5e393d8a982aa3e.mp3?hdnea=exp=1795720836~acl=/api/1/1/b/2/e/0/b2e0964fcdaebeb3c5e393d8a982aa3e.mp3*~data=user_id=0,application_id=42~hmac=03a4c21abb2e30ee9f5526cf9f09b0de25ba91747db38aa5e91ffe1a1f0b1563",
+              "preview_expires": "2026-11-26T19:20:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tabla Flex",
+            "length": "2:11",
+            "deezer": {
+              "id": 2642316882,
+              "link": "https://www.deezer.com/track/2642316882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/d/0/c4d60b658823ff2094dae0197ab8b9c0.mp3?hdnea=exp=1795720836~acl=/api/1/1/c/4/d/0/c4d60b658823ff2094dae0197ab8b9c0.mp3*~data=user_id=0,application_id=42~hmac=05878d32d4b5bc8eb5c1dd2b170bcbee86cad357e33d486f6dd8bf2b680b95de",
+              "preview_expires": "2026-11-26T19:20:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dhum Dhum",
+            "length": "2:13",
+            "deezer": {
+              "id": 2642316892,
+              "link": "https://www.deezer.com/track/2642316892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/b/0/e3b20d9a6588f5691c32118652455e1a.mp3?hdnea=exp=1795720836~acl=/api/1/1/e/3/b/0/e3b20d9a6588f5691c32118652455e1a.mp3*~data=user_id=0,application_id=42~hmac=8d0e9277abd0594bf7eb92535d74be3be23358a80e917efef7d9d033b9964b63",
+              "preview_expires": "2026-11-26T19:20:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Sodhivine/Silk Lounge.jpg"
+}

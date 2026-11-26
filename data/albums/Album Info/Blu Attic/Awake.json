@@ -1,0 +1,61 @@
+{
+  "title": "Awake",
+  "artist": "Blu Attic",
+  "year": 2023,
+  "release_date": "2023-02-10",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2YHS9doeOtqejj8BDCZYkZ",
+    "deezer": "https://www.deezer.com/album/547719412"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2YHS9doeOtqejj8BDCZYkZ",
+      "title": "Awake",
+      "date": "2023-02-10"
+    },
+    "total_tracks": 2,
+    "total_length": "10:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Awake",
+            "length": "3:57",
+            "deezer": {
+              "id": 2662028872,
+              "link": "https://www.deezer.com/track/2662028872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/5/0/8156bdad30517043efbb96516e1a9272.mp3?hdnea=exp=1795652239~acl=/api/1/1/8/1/5/0/8156bdad30517043efbb96516e1a9272.mp3*~data=user_id=0,application_id=42~hmac=f56155a4370c213f936873bd3668dd565cca1cdc3de330a3624f21068d704bb4",
+              "preview_expires": "2026-11-26T00:17:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Awake - Extended Mix",
+            "length": "6:17",
+            "deezer": {
+              "id": 2662028892,
+              "link": "https://www.deezer.com/track/2662028892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/e/0/6de249890af14fb9eb7a881ae003f4c8.mp3?hdnea=exp=1795652239~acl=/api/1/1/6/d/e/0/6de249890af14fb9eb7a881ae003f4c8.mp3*~data=user_id=0,application_id=42~hmac=c56bcf60c25a920d8e1241da8e6a2475146ad642102661e8c0def980369a174a",
+              "preview_expires": "2026-11-26T00:17:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Blu Attic/Awake.jpg"
+}

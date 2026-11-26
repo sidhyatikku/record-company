@@ -1,0 +1,136 @@
+{
+  "title": "My Generation",
+  "artist": "The Who",
+  "year": 1991,
+  "release_date": "1991",
+  "type": "Album + Live",
+  "description": null,
+  "genres": [
+    "arena rock",
+    "classic rock",
+    "mod",
+    "rock"
+  ],
+  "tags": [
+    "arena rock",
+    "classic rock",
+    "mod",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b2e77472-77ba-4371-9374-df2ce87d9a90",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/320954667"
+  },
+  "musicbrainz_id": "b2e77472-77ba-4371-9374-df2ce87d9a90",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0f5fbb41-84fa-45b6-9598-01104a9e0789",
+      "barcode": "8004883020126",
+      "title": "My Generation",
+      "disambiguation": null,
+      "date": "1991",
+      "country": "IT"
+    },
+    "total_tracks": 16,
+    "total_length": "1:01:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Can’t Explain",
+            "length": "2:16"
+          },
+          {
+            "number": "2",
+            "title": "Fortune Teller",
+            "length": "2:30"
+          },
+          {
+            "number": "3",
+            "title": "Tattoo",
+            "length": "2:56"
+          },
+          {
+            "number": "4",
+            "title": "Young Man Blues",
+            "length": "5:25"
+          },
+          {
+            "number": "5",
+            "title": "Pinball Wizard",
+            "length": "2:39"
+          },
+          {
+            "number": "6",
+            "title": "Substitute",
+            "length": "2:01"
+          },
+          {
+            "number": "7",
+            "title": "Happy Jack",
+            "length": "2:10"
+          },
+          {
+            "number": "8",
+            "title": "I’m Free",
+            "length": "2:20"
+          },
+          {
+            "number": "9",
+            "title": "1921",
+            "length": "2:22"
+          },
+          {
+            "number": "10",
+            "title": "Summertime Blues",
+            "length": "3:34"
+          },
+          {
+            "number": "11",
+            "title": "See Me, Feel Me",
+            "length": "4:40"
+          },
+          {
+            "number": "12",
+            "title": "I’m a Boy",
+            "length": "2:34"
+          },
+          {
+            "number": "13",
+            "title": "Christmas",
+            "length": "0:48"
+          },
+          {
+            "number": "14",
+            "title": "The Acid Queen",
+            "length": "3:21"
+          },
+          {
+            "number": "15",
+            "title": "Shakin’ All Over",
+            "length": "8:18"
+          },
+          {
+            "number": "16",
+            "title": "My Generation",
+            "length": "13:17",
+            "deezer": {
+              "id": 1761640857,
+              "link": "https://www.deezer.com/track/1761640857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/6/0/9d6b05133de5ce3082bd676a78a1f1d0.mp3?hdnea=exp=1795721839~acl=/api/1/1/9/d/6/0/9d6b05133de5ce3082bd676a78a1f1d0.mp3*~data=user_id=0,application_id=42~hmac=a6ae99cb161330fa7fb10e7a528f03d71aeac8902ae1e8a2d34930a651b96b40",
+              "preview_expires": "2026-11-26T19:37:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Who/My Generation.jpg"
+}

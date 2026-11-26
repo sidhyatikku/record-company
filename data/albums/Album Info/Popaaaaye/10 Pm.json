@@ -1,0 +1,46 @@
+{
+  "title": "10 Pm",
+  "artist": "Popaaaaye",
+  "year": 2024,
+  "release_date": "2024-06-02",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5o5JMTr1MrmPGSyu3c6IdX",
+    "deezer": "https://www.deezer.com/album/595166822"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5o5JMTr1MrmPGSyu3c6IdX",
+      "title": "10 Pm",
+      "date": "2024-06-02"
+    },
+    "total_tracks": 1,
+    "total_length": "4:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "10 Pm",
+            "length": "4:50",
+            "deezer": {
+              "id": 2827562332,
+              "link": "https://www.deezer.com/track/2827562332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/1/0/b31f9e6ad19718569b916fa8ba2c0beb.mp3?hdnea=exp=1795719629~acl=/api/1/1/b/3/1/0/b31f9e6ad19718569b916fa8ba2c0beb.mp3*~data=user_id=0,application_id=42~hmac=600b62b8a4e1c2d9829f24a6880c975c0b24ae47c63739e34d88cf921fa56943",
+              "preview_expires": "2026-11-26T19:00:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Popaaaaye/10 Pm.jpg"
+}

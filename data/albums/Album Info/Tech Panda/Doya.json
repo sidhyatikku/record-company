@@ -1,0 +1,51 @@
+{
+  "title": "Doya",
+  "artist": "Tech Panda, Kenzani",
+  "year": 2020,
+  "release_date": "2020-06-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4MU5QDNOKxdUM58D4U8ybl",
+    "deezer": "https://www.deezer.com/album/156473752"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4MU5QDNOKxdUM58D4U8ybl",
+      "title": "Doya",
+      "date": "2020-06-22"
+    },
+    "total_tracks": 1,
+    "total_length": "3:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Doya",
+            "length": "3:24",
+            "deezer": {
+              "id": 1000806822,
+              "link": "https://www.deezer.com/track/1000806822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/d/0/fbda009df09f928e9f7d38e57a531309.mp3?hdnea=exp=1795721261~acl=/api/1/1/f/b/d/0/fbda009df09f928e9f7d38e57a531309.mp3*~data=user_id=0,application_id=42~hmac=6ecc90f69fff490109639e546a84917c774a65cf2fdb745344b08501da226dc0",
+              "preview_expires": "2026-11-26T19:27:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Doya.jpg"
+}

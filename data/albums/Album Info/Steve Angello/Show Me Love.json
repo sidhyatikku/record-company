@@ -1,0 +1,52 @@
+{
+  "title": "Show Me Love (Dubdogz Remix)",
+  "artist": "Steve Angello",
+  "year": 2021,
+  "release_date": "2021-02-05",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/29aecc15-fc8f-4aa1-843d-4ce829ff212d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/207057032"
+  },
+  "musicbrainz_id": "29aecc15-fc8f-4aa1-843d-4ce829ff212d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d19f77db-4508-4980-b1a8-36ed1eab823a",
+      "barcode": "8718591164347",
+      "title": "Show Me Love (Dubdogz remix)",
+      "disambiguation": null,
+      "date": "2021-02-05",
+      "country": "NL"
+    },
+    "total_tracks": 1,
+    "total_length": "3:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Show Me Love (Dubdogz remix)",
+            "length": "3:10",
+            "artist": "Steve Angello & Laidback Luke feat. Robin S",
+            "deezer": {
+              "id": 1241227312,
+              "link": "https://www.deezer.com/track/1241227312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/d/0/d1d0602b7100cff1c8853e005526082d.mp3?hdnea=exp=1795720981~acl=/api/1/1/d/1/d/0/d1d0602b7100cff1c8853e005526082d.mp3*~data=user_id=0,application_id=42~hmac=90916bd760421fee3f47c98aeaba43f79b3f194aa603175bc7406184642d1de6",
+              "preview_expires": "2026-11-26T19:23:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Steve Angello/Show Me Love.jpg"
+}

@@ -1,0 +1,293 @@
+{
+  "title": "Title of Record",
+  "artist": "Filter",
+  "year": 1999,
+  "release_date": "1999-08-23",
+  "type": "Album",
+  "description": "Title of Record is the second studio album by American rock band Filter, released on August 24, 1999, by Reprise Records. The album's earlier sessions were marred with slow progress due to lineup changes and frontman Richard Patrick's decision to construct his own studio for recording. However, progress improved after solidifying the lineup and bringing in further production help. In support of the album's release, Filter performed on the 1999 Family Values Tour.",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "alternative metal",
+    "electronic",
+    "industrial",
+    "heavy metal",
+    "industrial metal",
+    "post-grunge"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "alternative metal",
+    "electronic",
+    "industrial",
+    "alternative pop/rock",
+    "alternative/indie rock",
+    "alternative",
+    "hardnheavy",
+    "heavy alternative",
+    "heavy metal",
+    "industrial metal",
+    "pkg-jewel case",
+    "pop/rock",
+    "post-grunge"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8671a7a0-20b5-3634-8932-7d362d9075f1",
+    "wikipedia": "https://en.wikipedia.org/wiki/Title_of_Record",
+    "allmusic": "https://www.allmusic.com/album/mw0000248135",
+    "discogs": "https://www.discogs.com/master/8220",
+    "wikidata": "https://www.wikidata.org/wiki/Q3283509",
+    "deezer": "https://www.deezer.com/album/227782112"
+  },
+  "musicbrainz_id": "8671a7a0-20b5-3634-8932-7d362d9075f1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b3d61156-27ba-45c1-aa5a-ad465a302230",
+      "barcode": "888072099883",
+      "title": "Title of Record",
+      "disambiguation": "expanded edition",
+      "date": "2019",
+      "country": "XW"
+    },
+    "total_tracks": 20,
+    "total_length": "1:52:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sand",
+            "length": "0:37",
+            "deezer": {
+              "id": 1363253922,
+              "link": "https://www.deezer.com/track/1363253922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/6/0/8e67ce5435b14d7d334d5fdda07ccb47.mp3?hdnea=exp=1795654192~acl=/api/1/1/8/e/6/0/8e67ce5435b14d7d334d5fdda07ccb47.mp3*~data=user_id=0,application_id=42~hmac=8431e844f3cb5910ee78e3cc8b56954e5a02b2ed63ca890020ca59613e0936d2",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Welcome to the Fold",
+            "length": "7:40",
+            "deezer": {
+              "id": 1363253932,
+              "link": "https://www.deezer.com/track/1363253932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/9/0/8a979dc85488e5efbb9d670da666781b.mp3?hdnea=exp=1795654192~acl=/api/1/1/8/a/9/0/8a979dc85488e5efbb9d670da666781b.mp3*~data=user_id=0,application_id=42~hmac=7fe7ad32a8ed4a1e1762e9fab156d37a2970ac8acf69cbd89887967d265a8165",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Captain Bligh",
+            "length": "5:12",
+            "deezer": {
+              "id": 1363253942,
+              "link": "https://www.deezer.com/track/1363253942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/b/0/78bd5c736e73985c459e35e34f6691e1.mp3?hdnea=exp=1795654192~acl=/api/1/1/7/8/b/0/78bd5c736e73985c459e35e34f6691e1.mp3*~data=user_id=0,application_id=42~hmac=eeee9dce40d48af7e2cf671b81c52ba78d0c80728fedd5c3c57adc8e4badbc43",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "It’s Gonna Kill Me",
+            "length": "5:05",
+            "deezer": {
+              "id": 1363253952,
+              "link": "https://www.deezer.com/track/1363253952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/2/0/792bb44c688544a7687e672bb05d0a67.mp3?hdnea=exp=1795654192~acl=/api/1/1/7/9/2/0/792bb44c688544a7687e672bb05d0a67.mp3*~data=user_id=0,application_id=42~hmac=a2b74dd0ed816cfb89190e46dcbff06d80d57199ac34a74cd1218dd715df015b",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Best Things",
+            "length": "4:26",
+            "deezer": {
+              "id": 1363253962,
+              "link": "https://www.deezer.com/track/1363253962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/8/0/45865e704cda0ba9a87285d353acb732.mp3?hdnea=exp=1795654192~acl=/api/1/1/4/5/8/0/45865e704cda0ba9a87285d353acb732.mp3*~data=user_id=0,application_id=42~hmac=f6307661b0d19397d150a4458ef0789f7e997b392f11d13863190a48b05ba29a",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Take a Picture",
+            "length": "6:04",
+            "deezer": {
+              "id": 1363253972,
+              "link": "https://www.deezer.com/track/1363253972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/1/0/b91e67fce7065a4e90a6279ebc89f477.mp3?hdnea=exp=1795654192~acl=/api/1/1/b/9/1/0/b91e67fce7065a4e90a6279ebc89f477.mp3*~data=user_id=0,application_id=42~hmac=bc413925b30e1168866a0bac466c155c96dfee7f9553e150211ddfca25c7277a",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Skinny",
+            "length": "5:44",
+            "deezer": {
+              "id": 1363253982,
+              "link": "https://www.deezer.com/track/1363253982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/9/0/94998920d08c272fc30ba26cfec03b94.mp3?hdnea=exp=1795654192~acl=/api/1/1/9/4/9/0/94998920d08c272fc30ba26cfec03b94.mp3*~data=user_id=0,application_id=42~hmac=932278b9fb2636d0034f6dc3019a1bea96f689adf0623de00a826ee3e37c2065",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Will Lead You",
+            "length": "3:23",
+            "deezer": {
+              "id": 1363253992,
+              "link": "https://www.deezer.com/track/1363253992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/e/0/37edb5b469a4c62ad602ef2d3c03b1f3.mp3?hdnea=exp=1795654192~acl=/api/1/1/3/7/e/0/37edb5b469a4c62ad602ef2d3c03b1f3.mp3*~data=user_id=0,application_id=42~hmac=5b53fba87c42c7f16593ec0b7b4fdc9a18e26dfa97be32968ae5622f20654c1c",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Cancer",
+            "length": "6:39",
+            "deezer": {
+              "id": 1363254002,
+              "link": "https://www.deezer.com/track/1363254002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/1/0/561ef0b05fda5d48a7b14d4fb8183c92.mp3?hdnea=exp=1795654192~acl=/api/1/1/5/6/1/0/561ef0b05fda5d48a7b14d4fb8183c92.mp3*~data=user_id=0,application_id=42~hmac=bd96506dd418dd9f1ee35f9ccbdb73198243008ef9d5d4470fc7aeb01eb4417e",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Not the Only One",
+            "length": "5:50",
+            "deezer": {
+              "id": 1363254012,
+              "link": "https://www.deezer.com/track/1363254012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/d/0/c8d67f84aefd33322c02bc29b5c1e3c2.mp3?hdnea=exp=1795654192~acl=/api/1/1/c/8/d/0/c8d67f84aefd33322c02bc29b5c1e3c2.mp3*~data=user_id=0,application_id=42~hmac=d3fea2c53dafc1a943f7d8059df371e910b31de4448818723dbf37a6497577c7",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Miss Blue",
+            "length": "7:02",
+            "deezer": {
+              "id": 1363254022,
+              "link": "https://www.deezer.com/track/1363254022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/1/0/2b1e4d43a9366f48ddfac42c37c7f6cb.mp3?hdnea=exp=1795654192~acl=/api/1/1/2/b/1/0/2b1e4d43a9366f48ddfac42c37c7f6cb.mp3*~data=user_id=0,application_id=42~hmac=ba22b47ee1859c0b7ca4948c1da0f48897d4fd52b4f82ace274d91cef0525df8",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Jurassitol",
+            "length": "5:13",
+            "deezer": {
+              "id": 1363254032,
+              "link": "https://www.deezer.com/track/1363254032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/4/0/1d49bc198d050ca6f1b88c750281067f.mp3?hdnea=exp=1795654192~acl=/api/1/1/1/d/4/0/1d49bc198d050ca6f1b88c750281067f.mp3*~data=user_id=0,application_id=42~hmac=d3aaec2404aa7dfe3c99b0f0ea4e7135296696493befe03f962b0de176132c1f",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "(Can’t You) Trip Like I Do",
+            "length": "4:27",
+            "artist": "Filter feat. The Crystal Method",
+            "deezer": {
+              "id": 1363254042,
+              "link": "https://www.deezer.com/track/1363254042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/f/0/85f9afe54e955326fb4e6b5700bd5f18.mp3?hdnea=exp=1795654192~acl=/api/1/1/8/5/f/0/85f9afe54e955326fb4e6b5700bd5f18.mp3*~data=user_id=0,application_id=42~hmac=c21e51f6d2953cb62d0c13c55483fb2cbc6d299ad81ae88b5e76310e23f184e5",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Take a Picture (live at the Hammerstein Ballroom / 1999)",
+            "length": "7:13",
+            "deezer": {
+              "id": 1363254052,
+              "link": "https://www.deezer.com/track/1363254052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d71baded80e373fedd3e22574d789223.mp3?hdnea=exp=1795654192~acl=/api/1/1/d/7/1/0/d71baded80e373fedd3e22574d789223.mp3*~data=user_id=0,application_id=42~hmac=3da52022962226b93a0122992403f5cf1bc91ec7efb76dda87ac3477b323d155",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Take a Picture (H & H remix)",
+            "length": "4:14",
+            "deezer": {
+              "id": 1363254062,
+              "link": "https://www.deezer.com/track/1363254062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/0/0/de0d81cbd44c8ffce0e260aeed2f7132.mp3?hdnea=exp=1795654192~acl=/api/1/1/d/e/0/0/de0d81cbd44c8ffce0e260aeed2f7132.mp3*~data=user_id=0,application_id=42~hmac=fec7f2d83a1bbf67377979db60f07b21dfdfa0ede459b01c1b9040a9e7c10da9",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Take a Picture (Rennie Pilgrim mix)",
+            "length": "7:08",
+            "deezer": {
+              "id": 1363254072,
+              "link": "https://www.deezer.com/track/1363254072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/648a1469b20837fd8d82e5ba323c52de.mp3?hdnea=exp=1795654192~acl=/api/1/1/6/4/8/0/648a1469b20837fd8d82e5ba323c52de.mp3*~data=user_id=0,application_id=42~hmac=795273011d560d18bdcf3da546fe41dcf54376e4e170aa3b8498f1e4f4d28608",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "The Best Things (Humble Brothers remix)",
+            "length": "6:38",
+            "deezer": {
+              "id": 1363254082,
+              "link": "https://www.deezer.com/track/1363254082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/3/0/b13cb11643ca51f7ef0fb6e67e4d5c99.mp3?hdnea=exp=1795654192~acl=/api/1/1/b/1/3/0/b13cb11643ca51f7ef0fb6e67e4d5c99.mp3*~data=user_id=0,application_id=42~hmac=453ca6839d4083c650f15afe484f9f0eb5021dc6937bc067b540131b530a3215",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "The Best Things (Dub Pistols club mix)",
+            "length": "6:08",
+            "deezer": {
+              "id": 1363254092,
+              "link": "https://www.deezer.com/track/1363254092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/4/0/204e74c552724c251338d86a51ed2c90.mp3?hdnea=exp=1795654192~acl=/api/1/1/2/0/4/0/204e74c552724c251338d86a51ed2c90.mp3*~data=user_id=0,application_id=42~hmac=86af496cd22b28cd21207b2937d9f2500490afc656fe2d746ca615b0bebaf282",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Welcome to the Fold (Moving Fusion mix)",
+            "length": "6:47",
+            "deezer": {
+              "id": 1363254102,
+              "link": "https://www.deezer.com/track/1363254102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/0/0/3a0b6c6768e6181b7706b73535feba81.mp3?hdnea=exp=1795654192~acl=/api/1/1/3/a/0/0/3a0b6c6768e6181b7706b73535feba81.mp3*~data=user_id=0,application_id=42~hmac=2d23fc5183cfa1921a8301fd6abf637f32bf76eeadcdd6cae265f9f4a2a76c57",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Welcome to the Fold (FreQ Nasty mix)",
+            "length": "6:59",
+            "deezer": {
+              "id": 1363254112,
+              "link": "https://www.deezer.com/track/1363254112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/9/0/e790dd641e1149ec70518989d746cdec.mp3?hdnea=exp=1795654192~acl=/api/1/1/e/7/9/0/e790dd641e1149ec70518989d746cdec.mp3*~data=user_id=0,application_id=42~hmac=b58755451a3ed348e7210286f8cbea0a0e4a519d7f0d1b171d302211dad18726",
+              "preview_expires": "2026-11-26T00:49:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Filter/Title Of Record.jpg"
+}

@@ -1,0 +1,211 @@
+{
+  "title": "Wheels of Fire",
+  "artist": "Cream",
+  "year": 1968,
+  "release_date": "1968-06-14",
+  "type": "Album",
+  "description": "Wheels of Fire is the third album by the British rock band Cream. It was released in the US on 14 June 1968 as a two-disc vinyl LP, with one disc recorded in the studio and the other recorded live. It was released in the UK in the same format on 9 August.",
+  "genres": [
+    "blues rock",
+    "rock",
+    "psychedelic rock",
+    "hard rock",
+    "classic rock",
+    "blues"
+  ],
+  "tags": [
+    "blues rock",
+    "rock",
+    "psychedelic rock",
+    "hard rock",
+    "classic rock",
+    "blues"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 12
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d4cd45f8-9a77-3449-a23c-0167e181fb5e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wheels_of_Fire",
+    "allmusic": "https://www.allmusic.com/album/mw0000189640",
+    "discogs": "https://www.discogs.com/master/35706",
+    "wikidata": "https://www.wikidata.org/wiki/Q902413",
+    "deezer": "https://www.deezer.com/album/248343"
+  },
+  "musicbrainz_id": "d4cd45f8-9a77-3449-a23c-0167e181fb5e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/674754e3-7d41-4872-a28f-50a779fe3ec8",
+      "barcode": "731453181229",
+      "title": "Wheels of Fire",
+      "disambiguation": null,
+      "date": "",
+      "country": "US"
+    },
+    "total_tracks": 13,
+    "total_length": "1:20:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": "In the Studio",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "White Room",
+            "length": "5:03",
+            "deezer": {
+              "id": 2533768,
+              "link": "https://www.deezer.com/track/2533768",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/0/0/720776a71d1c2aa27af66dffa30f0237.mp3?hdnea=exp=1795652969~acl=/api/1/1/7/2/0/0/720776a71d1c2aa27af66dffa30f0237.mp3*~data=user_id=0,application_id=42~hmac=83044048a4ab324696725f8312a2434650d54240907d92695b45ad7ce29c72c2",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sitting on Top of the World",
+            "length": "5:01",
+            "deezer": {
+              "id": 2533769,
+              "link": "https://www.deezer.com/track/2533769",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/5/0/675ac195553812555acd9c057c5476e8.mp3?hdnea=exp=1795652969~acl=/api/1/1/6/7/5/0/675ac195553812555acd9c057c5476e8.mp3*~data=user_id=0,application_id=42~hmac=2104d06e3794ff3c0003cf3851633f14acccf683f346691d0b8dc077246c45b0",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Passing the Time",
+            "length": "4:37",
+            "deezer": {
+              "id": 2533770,
+              "link": "https://www.deezer.com/track/2533770",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/5/0/4752d1271edf337ce5d0af69c601c88b.mp3?hdnea=exp=1795652969~acl=/api/1/1/4/7/5/0/4752d1271edf337ce5d0af69c601c88b.mp3*~data=user_id=0,application_id=42~hmac=fb98cffa30d9efb903d2045c83445dffac5a731742484a34c9f9d902caf60e49",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "As You Said",
+            "length": "4:23",
+            "deezer": {
+              "id": 2533771,
+              "link": "https://www.deezer.com/track/2533771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/8/0/0a8c5b50baa0f7cb5662f74ca1ca44ca.mp3?hdnea=exp=1795652969~acl=/api/1/1/0/a/8/0/0a8c5b50baa0f7cb5662f74ca1ca44ca.mp3*~data=user_id=0,application_id=42~hmac=be34e7003ddc4ecdf5b7f68f2d1dbea32d6d933050b409736ac302a07af17c07",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Pressed Rat and Warthog",
+            "length": "3:18",
+            "deezer": {
+              "id": 2533772,
+              "link": "https://www.deezer.com/track/2533772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/8/0/54817acf9e649ad422c1daa8fab410bb.mp3?hdnea=exp=1795652969~acl=/api/1/1/5/4/8/0/54817acf9e649ad422c1daa8fab410bb.mp3*~data=user_id=0,application_id=42~hmac=14bcb3f0e52d94a7670d8bad69cddfb6d272f8d34fa7cb16cd4165f057871afd",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Politician",
+            "length": "4:17",
+            "deezer": {
+              "id": 2533773,
+              "link": "https://www.deezer.com/track/2533773",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/c/0/53c48ea21b4c4d65a10e8b0ca7ab2f81.mp3?hdnea=exp=1795652969~acl=/api/1/1/5/3/c/0/53c48ea21b4c4d65a10e8b0ca7ab2f81.mp3*~data=user_id=0,application_id=42~hmac=79761903738954d1eddd5a976594330e7fbbc089a47a2a9f2a2ccfaea16462dc",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Those Were the Days",
+            "length": "2:57",
+            "deezer": {
+              "id": 2533774,
+              "link": "https://www.deezer.com/track/2533774",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/9/0/d19a6b024b9d00842f8cdef0b186d30e.mp3?hdnea=exp=1795652969~acl=/api/1/1/d/1/9/0/d19a6b024b9d00842f8cdef0b186d30e.mp3*~data=user_id=0,application_id=42~hmac=df0d6b9e182b6ac03c6d2e4face8826cb1486a18add219de42bd359425f16c00",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Born Under a Bad Sign",
+            "length": "3:14",
+            "deezer": {
+              "id": 2533775,
+              "link": "https://www.deezer.com/track/2533775",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/0/0/a20bb5a720be97f1928ea68a4aba63bd.mp3?hdnea=exp=1795652969~acl=/api/1/1/a/2/0/0/a20bb5a720be97f1928ea68a4aba63bd.mp3*~data=user_id=0,application_id=42~hmac=2ecc39058b8ff31ffdaffddabfb5053df1be4d70cd05ef7b4c70b806ec96462c",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Deserted Cities of the Heart",
+            "length": "3:38",
+            "deezer": {
+              "id": 2533776,
+              "link": "https://www.deezer.com/track/2533776",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/7/0/7d759029e0329b1c9604b7203a80e01d.mp3?hdnea=exp=1795652969~acl=/api/1/1/7/d/7/0/7d759029e0329b1c9604b7203a80e01d.mp3*~data=user_id=0,application_id=42~hmac=0ab62a94b05e39ed783c793331eb0a03cc78a0b674223523f93912877fad7397",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": "Live at the Fillmore",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Crossroads",
+            "length": "4:18",
+            "deezer": {
+              "id": 2533777,
+              "link": "https://www.deezer.com/track/2533777",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/8/0/678f7f9e947b8e6831bcb7481c589800.mp3?hdnea=exp=1795652969~acl=/api/1/1/6/7/8/0/678f7f9e947b8e6831bcb7481c589800.mp3*~data=user_id=0,application_id=42~hmac=7ce235d21f59a27eea792e70ebcb573c2172913699a44772c67052deb946074f",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Spoonful",
+            "length": "16:47",
+            "deezer": {
+              "id": 2533778,
+              "link": "https://www.deezer.com/track/2533778",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/419a1acf54837164c01bfdbddfb60fee.mp3?hdnea=exp=1795652969~acl=/api/1/1/4/1/9/0/419a1acf54837164c01bfdbddfb60fee.mp3*~data=user_id=0,application_id=42~hmac=fd33ce5ec63878bc5957ae2a00e370da984dc002c4f07e0ccb594cd1178d3f1e",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Traintime",
+            "length": "7:02",
+            "deezer": {
+              "id": 2533779,
+              "link": "https://www.deezer.com/track/2533779",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/9/0/2790d22f14f5b4c5c72b895e51465987.mp3?hdnea=exp=1795652969~acl=/api/1/1/2/7/9/0/2790d22f14f5b4c5c72b895e51465987.mp3*~data=user_id=0,application_id=42~hmac=8eeaf2a25d5fa34ab805129bc2aa7f69b435a526a553e8e11a8bcfb988a1a4fd",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Toad",
+            "length": "16:16",
+            "deezer": {
+              "id": 2533780,
+              "link": "https://www.deezer.com/track/2533780",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/9/0/6c923f1db156ef37c1458b9021e4b0d1.mp3?hdnea=exp=1795652969~acl=/api/1/1/6/c/9/0/6c923f1db156ef37c1458b9021e4b0d1.mp3*~data=user_id=0,application_id=42~hmac=aa4fcb1b009e4333c1bf196bc9d22f824f6ba2378b1b15d35decee9e9552ac9b",
+              "preview_expires": "2026-11-26T00:29:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Cream/Wheels Of Fire.jpg"
+}

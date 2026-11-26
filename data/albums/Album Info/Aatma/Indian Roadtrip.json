@@ -1,0 +1,126 @@
+{
+  "title": "Indian Roadtrip",
+  "artist": "Aatma",
+  "year": 2023,
+  "release_date": "2023-08-11",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4TPGHZDRXvmM2Ialf0ym6k",
+    "deezer": "https://www.deezer.com/album/622912571"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4TPGHZDRXvmM2Ialf0ym6k",
+      "title": "Indian Roadtrip",
+      "date": "2023-08-11"
+    },
+    "total_tracks": 8,
+    "total_length": "37:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sunset at Taj Mahal",
+            "length": "4:39",
+            "deezer": {
+              "id": 2926844821,
+              "link": "https://www.deezer.com/track/2926844821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/0/0/6f0c0bc5e33680ba55c16ccc1f7ae121.mp3?hdnea=exp=1795648786~acl=/api/1/1/6/f/0/0/6f0c0bc5e33680ba55c16ccc1f7ae121.mp3*~data=user_id=0,application_id=42~hmac=d6f7edd093105d48345b0a34eb06ab20d017f0a013419280bed0cfb4adad8cb0",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Aankhon Mein",
+            "length": "4:04",
+            "artist": "Aatma, Shefali",
+            "deezer": {
+              "id": 2926844831,
+              "link": "https://www.deezer.com/track/2926844831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/9/0/1e95e0754ab4ac01e35f84cdfd0feee7.mp3?hdnea=exp=1795648786~acl=/api/1/1/1/e/9/0/1e95e0754ab4ac01e35f84cdfd0feee7.mp3*~data=user_id=0,application_id=42~hmac=6a8b25cc64948ddec1befb7d445bc44366600f58e3e4cb6126cb01be80009b1b",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Going Up",
+            "length": "4:32",
+            "artist": "Aatma, Mari",
+            "deezer": {
+              "id": 2926844841,
+              "link": "https://www.deezer.com/track/2926844841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/1/0/23104d94f6f92313046aaeb8d9eb316a.mp3?hdnea=exp=1795648786~acl=/api/1/1/2/3/1/0/23104d94f6f92313046aaeb8d9eb316a.mp3*~data=user_id=0,application_id=42~hmac=02f9a5334c46dabac4fbc8811c1684d8c2d2b70a95f3aad007e853bf488cca4d",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Train to Nowhere",
+            "length": "6:20",
+            "deezer": {
+              "id": 2926844851,
+              "link": "https://www.deezer.com/track/2926844851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/7/0/a0712fbba8a9bad8b7e50519b366b2b1.mp3?hdnea=exp=1795648786~acl=/api/1/1/a/0/7/0/a0712fbba8a9bad8b7e50519b366b2b1.mp3*~data=user_id=0,application_id=42~hmac=80234be0851b6f6cd5ef62f6b8a7489f866bb3ffe31ab23b0ed5ed00c473e6a5",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Safar",
+            "length": "3:50",
+            "deezer": {
+              "id": 2926844861,
+              "link": "https://www.deezer.com/track/2926844861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/e/0/40e9d4b63ad9f61b42c2f032b434534b.mp3?hdnea=exp=1795648786~acl=/api/1/1/4/0/e/0/40e9d4b63ad9f61b42c2f032b434534b.mp3*~data=user_id=0,application_id=42~hmac=702d454b249c545c8118ec9dbd3a330a5f2a677f7ed150947571bb4a7e644df3",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Winds of Assam",
+            "length": "5:11",
+            "deezer": {
+              "id": 2926844871,
+              "link": "https://www.deezer.com/track/2926844871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d052bcb2cc112f6d6400cadf4cd0d81.mp3?hdnea=exp=1795648786~acl=/api/1/1/0/d/0/0/0d052bcb2cc112f6d6400cadf4cd0d81.mp3*~data=user_id=0,application_id=42~hmac=a3c9d850ecf541df189cac045ba262b9a511773553386f681c91ecd1f070f357",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Purple Sunset",
+            "length": "4:36",
+            "deezer": {
+              "id": 2926844881,
+              "link": "https://www.deezer.com/track/2926844881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/2/0/d5264b3931cf75a5dc9cc993bbdb130d.mp3?hdnea=exp=1795648786~acl=/api/1/1/d/5/2/0/d5264b3931cf75a5dc9cc993bbdb130d.mp3*~data=user_id=0,application_id=42~hmac=b4efea880346a26d789be35f17fecfb2b12529feaa089d37559ac8da00442ff1",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Saathi Re",
+            "length": "4:02",
+            "artist": "Aatma, Shefali",
+            "deezer": {
+              "id": 2926844891,
+              "link": "https://www.deezer.com/track/2926844891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/a/0/b3a58a3641b55c48853c7bee52c5ebfd.mp3?hdnea=exp=1795648786~acl=/api/1/1/b/3/a/0/b3a58a3641b55c48853c7bee52c5ebfd.mp3*~data=user_id=0,application_id=42~hmac=1d6974b9e0438609b49797e92d593bc737bc3756973c2b4c0ddc44fccdb710f7",
+              "preview_expires": "2026-11-25T23:19:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Aatma/Indian Roadtrip.jpg"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "See the Light",
+  "artist": "Swedish House Mafia & Fridayy",
+  "year": 2023,
+  "release_date": "2023-05-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/23e0f7f1-29e8-42bd-a26d-30095616b2ab",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0004038034",
+    "deezer": "https://www.deezer.com/album/443505865"
+  },
+  "musicbrainz_id": "23e0f7f1-29e8-42bd-a26d-30095616b2ab",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/34330d13-332a-409f-b40d-9542d308a9ac",
+      "barcode": "0602455790613",
+      "title": "See the Light",
+      "disambiguation": null,
+      "date": "2023-05-26",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "5:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "See the Light",
+            "length": "5:09",
+            "deezer": {
+              "id": 2290980805,
+              "link": "https://www.deezer.com/track/2290980805",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/c/0/21c965622fa973c6ec2a913f9341ddb5.mp3?hdnea=exp=1795721127~acl=/api/1/1/2/1/c/0/21c965622fa973c6ec2a913f9341ddb5.mp3*~data=user_id=0,application_id=42~hmac=593b29ca46e018ae3dc53f3ff6a75e24cd5c1d321663921b6c594051eccefb37",
+              "preview_expires": "2026-11-26T19:25:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Swedish House Mafia/See The Light.jpg"
+}

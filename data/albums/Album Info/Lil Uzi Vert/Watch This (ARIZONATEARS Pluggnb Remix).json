@@ -1,0 +1,57 @@
+{
+  "title": "Watch This (ARIZONATEARS pluggnb remix)",
+  "artist": "Lil Uzi Vert",
+  "year": 2023,
+  "release_date": "2023-02-05",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [
+    "nightcore",
+    "pluggnb"
+  ],
+  "tags": [
+    "nightcore",
+    "pluggnb"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1197dc14-41a4-42af-890c-23fa9cdf6d0f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/404147857"
+  },
+  "musicbrainz_id": "1197dc14-41a4-42af-890c-23fa9cdf6d0f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/de152c73-f234-4456-a032-cac36b5c006d",
+      "barcode": "075679696724",
+      "title": "Watch This (ARIZONATEARS pluggnb remix)",
+      "disambiguation": null,
+      "date": "2023-02-05",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Watch This (ARIZONATEARS pluggnb remix)",
+            "length": "2:43",
+            "deezer": {
+              "id": 2137466087,
+              "link": "https://www.deezer.com/track/2137466087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/3/0/f33f422095a12388788139a62c73afd2.mp3?hdnea=exp=1795656492~acl=/api/1/1/f/3/3/0/f33f422095a12388788139a62c73afd2.mp3*~data=user_id=0,application_id=42~hmac=021667742f576900d633091e1cf85615153652f0cda2b5f9ffa4996901a055c4",
+              "preview_expires": "2026-11-26T01:28:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lil Uzi Vert/Watch This (ARIZONATEARS Pluggnb Remix).jpg"
+}

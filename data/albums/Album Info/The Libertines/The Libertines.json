@@ -1,0 +1,215 @@
+{
+  "title": "The Libertines",
+  "artist": "The Libertines",
+  "year": 2004,
+  "release_date": "2004-08-30",
+  "type": "Album",
+  "description": "The Libertines is the second studio album by the English indie rock band The Libertines. Released on 30 August 2004, it is particularly biographical of the relationship between frontmen Carl Barât and Pete Doherty. The album debuted at number one on the UK Albums Chart, selling 72,189 copies in its first week of release.",
+  "genres": [
+    "indie rock",
+    "rock",
+    "garage rock revival",
+    "punk rock"
+  ],
+  "tags": [
+    "indie rock",
+    "rock",
+    "breakup",
+    "garage rock revival",
+    "love",
+    "punk revival",
+    "punk rock",
+    "raw"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/95524ec1-dfa4-3da0-8e45-6ef9d229a2e2",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Libertines_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0001962368",
+    "discogs": "https://www.discogs.com/master/12351",
+    "wikidata": "https://www.wikidata.org/wiki/Q941744",
+    "deezer": "https://www.deezer.com/album/106488"
+  },
+  "musicbrainz_id": "95524ec1-dfa4-3da0-8e45-6ef9d229a2e2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/df497a8c-5859-4227-b7c6-7d23d5840a7f",
+      "barcode": null,
+      "title": "The Libertines",
+      "disambiguation": null,
+      "date": "2004",
+      "country": "US"
+    },
+    "total_tracks": 14,
+    "total_length": "42:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Can’t Stand Me Now",
+            "length": "3:24",
+            "deezer": {
+              "id": 946297,
+              "link": "https://www.deezer.com/track/946297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/8/0/fa8596a35dd51844261905ae2121179e.mp3?hdnea=exp=1795721572~acl=/api/1/1/f/a/8/0/fa8596a35dd51844261905ae2121179e.mp3*~data=user_id=0,application_id=42~hmac=91c27f2591339b0421aa91b6425c7cda3cb3b735ef54db5b7f78165c81e0e765",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Last Post on the Bugle",
+            "length": "2:33",
+            "deezer": {
+              "id": 946300,
+              "link": "https://www.deezer.com/track/946300",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/1/0/461094a3129a36f8c37ecfeb43e9122b.mp3?hdnea=exp=1795721572~acl=/api/1/1/4/6/1/0/461094a3129a36f8c37ecfeb43e9122b.mp3*~data=user_id=0,application_id=42~hmac=5050cb9f272964aa5f655f958e4e49e423f1b4f77075f49da249f64c223549c0",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Don’t Be Shy",
+            "length": "3:04",
+            "deezer": {
+              "id": 946301,
+              "link": "https://www.deezer.com/track/946301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/c/0/1bcf2dbfb1e68db003a9fb345ba37467.mp3?hdnea=exp=1795721572~acl=/api/1/1/1/b/c/0/1bcf2dbfb1e68db003a9fb345ba37467.mp3*~data=user_id=0,application_id=42~hmac=3bd964171dedc647bba65d080e7ab97869feb4b77c59b7e0a04fa810db4e86dd",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Man Who Would Be King",
+            "length": "3:59",
+            "deezer": {
+              "id": 946304,
+              "link": "https://www.deezer.com/track/946304",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/e/0/dde050787dd5c1c8429719f22714b7b5.mp3?hdnea=exp=1795721572~acl=/api/1/1/d/d/e/0/dde050787dd5c1c8429719f22714b7b5.mp3*~data=user_id=0,application_id=42~hmac=64c38f9d5e75160a478589aabb6a3f0a3668858970927b6795e03bf39f663cec",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Music When the Lights Go Out",
+            "length": "3:02",
+            "deezer": {
+              "id": 946306,
+              "link": "https://www.deezer.com/track/946306",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/3/0/7432cdf88e8980b2d89f6ca48ee50442.mp3?hdnea=exp=1795721572~acl=/api/1/1/7/4/3/0/7432cdf88e8980b2d89f6ca48ee50442.mp3*~data=user_id=0,application_id=42~hmac=bb9f1794dbe9d5fde934aa47009952a11aaecba919ad94890f6f96cf4d2f18af",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Narcissist",
+            "length": "2:11",
+            "deezer": {
+              "id": 946307,
+              "link": "https://www.deezer.com/track/946307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/8/0/25876a4e1d950c127af9727fcafad2a4.mp3?hdnea=exp=1795721572~acl=/api/1/1/2/5/8/0/25876a4e1d950c127af9727fcafad2a4.mp3*~data=user_id=0,application_id=42~hmac=101db0c235fe94d8b4c9680a1859ef73c32ff2264aa04e1b743a0b6c1de806da",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Ha Ha Wall",
+            "length": "2:30",
+            "deezer": {
+              "id": 946310,
+              "link": "https://www.deezer.com/track/946310",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/6/0/546507d5cf4e72a8c03b7a833e99f051.mp3?hdnea=exp=1795721572~acl=/api/1/1/5/4/6/0/546507d5cf4e72a8c03b7a833e99f051.mp3*~data=user_id=0,application_id=42~hmac=512ca83f7c448f757c36c09176ff49b0e4d1124b47f68072866b92133da89e56",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Arbeit macht frei",
+            "length": "1:14",
+            "deezer": {
+              "id": 946311,
+              "link": "https://www.deezer.com/track/946311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/f/0/0cf7c25a8d98a1dce79269cb56cae007.mp3?hdnea=exp=1795721572~acl=/api/1/1/0/c/f/0/0cf7c25a8d98a1dce79269cb56cae007.mp3*~data=user_id=0,application_id=42~hmac=cb42a7dfc263f875693d77859167e620917f08f8c7f0823851236252295f450b",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Campaign of Hate",
+            "length": "2:10",
+            "deezer": {
+              "id": 946314,
+              "link": "https://www.deezer.com/track/946314",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/2/0/be2782b1bf9fda1a13f4b9704f017317.mp3?hdnea=exp=1795721572~acl=/api/1/1/b/e/2/0/be2782b1bf9fda1a13f4b9704f017317.mp3*~data=user_id=0,application_id=42~hmac=61c2dfd78d35e509c06d7abae0bc43ddad4508c462451b396ff99f80854a23f7",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "What Katie Did",
+            "length": "3:50",
+            "deezer": {
+              "id": 946317,
+              "link": "https://www.deezer.com/track/946317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/e/0/c4e41c99084e8a1a9ff615a939410618.mp3?hdnea=exp=1795721572~acl=/api/1/1/c/4/e/0/c4e41c99084e8a1a9ff615a939410618.mp3*~data=user_id=0,application_id=42~hmac=91ef58ae878596dcf58701f1f872dfa68662fef8f8f9c2951e772de1bd66c352",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Tomblands",
+            "length": "2:06",
+            "deezer": {
+              "id": 946319,
+              "link": "https://www.deezer.com/track/946319",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/c/0/45ce5d7bed680962ee6d7add26a0a851.mp3?hdnea=exp=1795721572~acl=/api/1/1/4/5/c/0/45ce5d7bed680962ee6d7add26a0a851.mp3*~data=user_id=0,application_id=42~hmac=d5ffa44be820c5f687c4e8aded8c63573581945f5c4d37ead387f46b45bf0219",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Saga",
+            "length": "1:54",
+            "deezer": {
+              "id": 946321,
+              "link": "https://www.deezer.com/track/946321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/d/0/91db70bec81e0ecdfa8ef351a25d70b2.mp3?hdnea=exp=1795721572~acl=/api/1/1/9/1/d/0/91db70bec81e0ecdfa8ef351a25d70b2.mp3*~data=user_id=0,application_id=42~hmac=2bc60aaf076100e678411170cdd7ce8388f894582af0057aa8a1a2109b759af2",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Road to Ruin",
+            "length": "4:22",
+            "deezer": {
+              "id": 946323,
+              "link": "https://www.deezer.com/track/946323",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/b/0/52b7e64507c701cd566a8e0829ee7c8d.mp3?hdnea=exp=1795721572~acl=/api/1/1/5/2/b/0/52b7e64507c701cd566a8e0829ee7c8d.mp3*~data=user_id=0,application_id=42~hmac=0992d07bc1ef8da5d2e8ad01996a711849e6d9684276a91342db8473e03d8b38",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "What Became of the Likely Lads",
+            "length": "5:55",
+            "deezer": {
+              "id": 946326,
+              "link": "https://www.deezer.com/track/946326",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/8/0/2e8db6f1ef8844bc01637470d782fbfb.mp3?hdnea=exp=1795721572~acl=/api/1/1/2/e/8/0/2e8db6f1ef8844bc01637470d782fbfb.mp3*~data=user_id=0,application_id=42~hmac=6a5deaff0dd2ad5556284aaba6cdb716f669a39b04a6fd202f9e01272e1bd2fa",
+              "preview_expires": "2026-11-26T19:32:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Libertines/The Libertines.jpg"
+}

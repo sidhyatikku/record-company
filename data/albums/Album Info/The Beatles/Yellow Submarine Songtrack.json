@@ -1,0 +1,224 @@
+{
+  "title": "Yellow Submarine Songtrack",
+  "artist": "The Beatles",
+  "year": 1999,
+  "release_date": "1999-09-13",
+  "type": "Album + Compilation + Soundtrack",
+  "description": "Yellow Submarine Songtrack is a compilation and soundtrack album by the English rock band the Beatles, released in 1999 to coincide with a re-release of the 1968 animated film Yellow Submarine that same year. The film was re-released on 13 September 1999 in the United Kingdom and the following day in the United States. In contrast with other Beatles remasters available, the songs were fully remixed by Peter Cobbin at Abbey Road Studios from the original multitrack tapes, something not done for the original CD release of the Beatles catalogue in the late 1980s, nor the 2009 remastered albums.",
+  "genres": [
+    "rock",
+    "modern classical",
+    "pop rock",
+    "psychedelic pop"
+  ],
+  "tags": [
+    "rock",
+    "film score",
+    "film soundtrack",
+    "modern classical",
+    "pop rock",
+    "psychedelic pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9430dcc6-2164-4bec-bc33-9948f30063f7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yellow_Submarine_Songtrack",
+    "allmusic": "https://www.allmusic.com/album/mw0002339579",
+    "discogs": "https://www.discogs.com/master/65554",
+    "wikidata": "https://www.wikidata.org/wiki/Q1423277",
+    "deezer": "https://www.deezer.com/album/59393272"
+  },
+  "musicbrainz_id": "9430dcc6-2164-4bec-bc33-9948f30063f7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/741062e9-1956-4668-b964-73d4799aeb8b",
+      "barcode": "602537738953",
+      "title": "Yellow Submarine Songtrack",
+      "disambiguation": null,
+      "date": "2018-03-23",
+      "country": null
+    },
+    "total_tracks": 15,
+    "total_length": "45:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yellow Submarine",
+            "length": "2:39",
+            "deezer": {
+              "id": 475334042,
+              "link": "https://www.deezer.com/track/475334042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/8/0/51893c16724bec0cdef73e3550e51eab.mp3?hdnea=exp=1795721387~acl=/api/1/1/5/1/8/0/51893c16724bec0cdef73e3550e51eab.mp3*~data=user_id=0,application_id=42~hmac=f922e43aebe1ee71eb8126beadbbc603266b210cb8c07a65d8cc6c058152fbfa",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hey Bulldog",
+            "length": "3:12",
+            "deezer": {
+              "id": 475334052,
+              "link": "https://www.deezer.com/track/475334052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/d/0/12d957116c237d592d4990faca31e821.mp3?hdnea=exp=1795721387~acl=/api/1/1/1/2/d/0/12d957116c237d592d4990faca31e821.mp3*~data=user_id=0,application_id=42~hmac=bcf26981ee6cf7a1e7f988978c576012880823e2f5256c21c7a6088116aa746f",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Eleanor Rigby",
+            "length": "2:05",
+            "deezer": {
+              "id": 475334062,
+              "link": "https://www.deezer.com/track/475334062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/3/0/133b0a23356b23584f87baf309f164c5.mp3?hdnea=exp=1795721387~acl=/api/1/1/1/3/3/0/133b0a23356b23584f87baf309f164c5.mp3*~data=user_id=0,application_id=42~hmac=719178d5a3b69300b073f233f6dd440fb5bab0e1d312a6f4a4a7033267970419",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Love You To",
+            "length": "2:59",
+            "deezer": {
+              "id": 475334072,
+              "link": "https://www.deezer.com/track/475334072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/b/0/c1b29698af1cfe94e25d8b7d51296519.mp3?hdnea=exp=1795721387~acl=/api/1/1/c/1/b/0/c1b29698af1cfe94e25d8b7d51296519.mp3*~data=user_id=0,application_id=42~hmac=741242a926b94f8e3a13334102dd9645b9c7336f7bf93b4d7b473a6cfd1d5c9d",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "All Together Now",
+            "length": "2:11",
+            "deezer": {
+              "id": 475334082,
+              "link": "https://www.deezer.com/track/475334082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/a/0/36a119a0c92f4417715c99ffdbadcefc.mp3?hdnea=exp=1795721387~acl=/api/1/1/3/6/a/0/36a119a0c92f4417715c99ffdbadcefc.mp3*~data=user_id=0,application_id=42~hmac=b00be5856179c7ab78a379f031b6dba65ded4053e87765b33a62aa8610cff873",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lucy in the Sky With Diamonds",
+            "length": "3:28",
+            "deezer": {
+              "id": 475334092,
+              "link": "https://www.deezer.com/track/475334092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/1/0/0e19ec8f2c479c9102aee55dc1a207d7.mp3?hdnea=exp=1795721387~acl=/api/1/1/0/e/1/0/0e19ec8f2c479c9102aee55dc1a207d7.mp3*~data=user_id=0,application_id=42~hmac=5c19d3ee0a473c841ea946ddeabed01fa14ab9b4bf8f50fc77e2b1582235a515",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Think for Yourself",
+            "length": "2:19",
+            "deezer": {
+              "id": 475334102,
+              "link": "https://www.deezer.com/track/475334102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/7/0/c87bbde20cf3f7a05a3dc35298b2ed35.mp3?hdnea=exp=1795721387~acl=/api/1/1/c/8/7/0/c87bbde20cf3f7a05a3dc35298b2ed35.mp3*~data=user_id=0,application_id=42~hmac=3441af94f02a1e761f6729375a07b57bff41a6fdb99edab014e4968fdaa29f74",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+            "length": "2:01",
+            "deezer": {
+              "id": 475334112,
+              "link": "https://www.deezer.com/track/475334112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/4/0/9344a6fc846f703f4c9cc5b851ff9eeb.mp3?hdnea=exp=1795721387~acl=/api/1/1/9/3/4/0/9344a6fc846f703f4c9cc5b851ff9eeb.mp3*~data=user_id=0,application_id=42~hmac=7a2b651b9565bbc0a351345a52842f4d257e078afa9044e85a180d652a10c58d",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "With a Little Help From My Friends",
+            "length": "2:46",
+            "deezer": {
+              "id": 475334122,
+              "link": "https://www.deezer.com/track/475334122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/a/0/70a1836f0077f8e8b821c0ac29b4c380.mp3?hdnea=exp=1795721387~acl=/api/1/1/7/0/a/0/70a1836f0077f8e8b821c0ac29b4c380.mp3*~data=user_id=0,application_id=42~hmac=43f908ab0f901428ad02365782ce5a74800a530a37240058933ea9c6bc7fb677",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Baby You’re a Rich Man",
+            "length": "3:01",
+            "deezer": {
+              "id": 475334132,
+              "link": "https://www.deezer.com/track/475334132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/5/0/f851ab7ee9cc079fc137a1765d6dc8c1.mp3?hdnea=exp=1795721387~acl=/api/1/1/f/8/5/0/f851ab7ee9cc079fc137a1765d6dc8c1.mp3*~data=user_id=0,application_id=42~hmac=a02ba0467d3250ef09f2cf3fcebcfa16580c70645f0cd4315efb470852906205",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Only a Northern Song",
+            "length": "3:25",
+            "deezer": {
+              "id": 475334142,
+              "link": "https://www.deezer.com/track/475334142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/a/0/02a7f54a65b266ba5f01c67cf2dea188.mp3?hdnea=exp=1795721387~acl=/api/1/1/0/2/a/0/02a7f54a65b266ba5f01c67cf2dea188.mp3*~data=user_id=0,application_id=42~hmac=632f1dc3bc3b500823c179aaefd6a3e7e63528fbd1f69092c162ace20aeb6120",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "All You Need Is Love",
+            "length": "3:47",
+            "deezer": {
+              "id": 475334152,
+              "link": "https://www.deezer.com/track/475334152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/0/0/c10eb2fa061e97e35b2210451099df98.mp3?hdnea=exp=1795721387~acl=/api/1/1/c/1/0/0/c10eb2fa061e97e35b2210451099df98.mp3*~data=user_id=0,application_id=42~hmac=30c4ed975d4d1eabdef5e68bfdfe88f7ee87783a8bce8b60d59227b89165c81b",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "When I’m Sixty Four",
+            "length": "2:39",
+            "deezer": {
+              "id": 475334162,
+              "link": "https://www.deezer.com/track/475334162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/f/0/d2f2eb2a065400d8578634bc9146913e.mp3?hdnea=exp=1795721387~acl=/api/1/1/d/2/f/0/d2f2eb2a065400d8578634bc9146913e.mp3*~data=user_id=0,application_id=42~hmac=7a9db8f8e51bae0fcd8ed5d1a9d8d9281fbdec77651661501d5f82b4cac8615a",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Nowhere Man",
+            "length": "2:42",
+            "deezer": {
+              "id": 475334172,
+              "link": "https://www.deezer.com/track/475334172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/b/0/f6b7420ada836c373ea5b3bb3879617b.mp3?hdnea=exp=1795721387~acl=/api/1/1/f/6/b/0/f6b7420ada836c373ea5b3bb3879617b.mp3*~data=user_id=0,application_id=42~hmac=dd4bee7f0d87fcbf76965187a57754bd7e845ba2a187fce9c67db9003f3b35f5",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "It’s All Too Much",
+            "length": "6:26",
+            "deezer": {
+              "id": 475334182,
+              "link": "https://www.deezer.com/track/475334182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/a/0/90a14b93752b3ddda111f0ed23ab7103.mp3?hdnea=exp=1795721387~acl=/api/1/1/9/0/a/0/90a14b93752b3ddda111f0ed23ab7103.mp3*~data=user_id=0,application_id=42~hmac=64828c2b2c743ba187446fad1e58b7aefc80d3c36b66b776c46c9d80d7a80a08",
+              "preview_expires": "2026-11-26T19:29:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Beatles/Yellow Submarine Songtrack.jpg"
+}

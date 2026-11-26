@@ -1,0 +1,49 @@
+{
+  "title": "LOHRI",
+  "artist": "VIZANO",
+  "year": 2025,
+  "release_date": "2025-08-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "afro house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1yV7KzUizlNImUvgCmyM1a",
+    "deezer": "https://www.deezer.com/album/778318831"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1yV7KzUizlNImUvgCmyM1a",
+      "title": "LOHRI",
+      "date": "2025-08-07"
+    },
+    "total_tracks": 1,
+    "total_length": "2:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "LOHRI",
+            "length": "2:58",
+            "deezer": {
+              "id": 3431302621,
+              "link": "https://www.deezer.com/track/3431302621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/5/0/26545f1af225bf4b1944861bacad9bcf.mp3?hdnea=exp=1795724237~acl=/api/1/1/2/6/5/0/26545f1af225bf4b1944861bacad9bcf.mp3*~data=user_id=0,application_id=42~hmac=4c9690fe39935c5e8ea09f78f1ff1b3f04352ee1dfcd8bc728d6fcd8aa7dad17",
+              "preview_expires": "2026-11-26T20:17:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/VIZANO/LOHRI.jpg"
+}

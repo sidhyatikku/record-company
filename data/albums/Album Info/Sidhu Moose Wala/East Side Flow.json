@@ -1,0 +1,52 @@
+{
+  "title": "East Side Flow",
+  "artist": "Sidhu Moose Wala & Byg Byrd",
+  "year": 2019,
+  "release_date": "2019-03-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/92924a8a-9e57-4147-8b92-934f717c1fd3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/90611302"
+  },
+  "musicbrainz_id": "92924a8a-9e57-4147-8b92-934f717c1fd3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0f61375d-272d-43f5-b6cb-78d071465568",
+      "barcode": "3615937843599",
+      "title": "East Side Flow",
+      "disambiguation": null,
+      "date": "2019-03-17",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "East Side Flow",
+            "length": "3:44",
+            "artist": "Sidhu Moose Wala",
+            "deezer": {
+              "id": 649828422,
+              "link": "https://www.deezer.com/track/649828422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/6/0/d2637f8d04842fbdc0e996be7f0719b8.mp3?hdnea=exp=1795720578~acl=/api/1/1/d/2/6/0/d2637f8d04842fbdc0e996be7f0719b8.mp3*~data=user_id=0,application_id=42~hmac=da8728448b8b66f4ec41094759fc4671193c8ce1a6d4e187241ea5ff8c829a0a",
+              "preview_expires": "2026-11-26T19:16:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/East Side Flow.jpg"
+}

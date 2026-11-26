@@ -1,0 +1,51 @@
+{
+  "title": "Detox",
+  "artist": "Lil Baby",
+  "year": 2022,
+  "release_date": "2022-09-02",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c8a597d7-facf-44f8-9270-71dedbc17ae7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/351737687"
+  },
+  "musicbrainz_id": "c8a597d7-facf-44f8-9270-71dedbc17ae7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/55d1e51f-6422-4acb-8cc6-233e9730ec54",
+      "barcode": "602448520654",
+      "title": "Detox",
+      "disambiguation": null,
+      "date": "2022-09-02",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Detox",
+            "length": "2:41",
+            "deezer": {
+              "id": 1892947357,
+              "link": "https://www.deezer.com/track/1892947357",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/d/0/69d309855a7eba39ad27769561bcb29e.mp3?hdnea=exp=1795656462~acl=/api/1/1/6/9/d/0/69d309855a7eba39ad27769561bcb29e.mp3*~data=user_id=0,application_id=42~hmac=bcfcaf767fe9aa0ce83f1f99a9b57a6eb17cc10289b61104e621194d2d922a40",
+              "preview_expires": "2026-11-26T01:27:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lil Baby/Detox.png"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Bhai Hai",
+  "artist": "Fotty Seven, Bali & Enzo",
+  "year": 2024,
+  "release_date": "2024-06-14",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f46c5186-f0f8-4426-bc89-fd25a294c4d7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/599614082"
+  },
+  "musicbrainz_id": "f46c5186-f0f8-4426-bc89-fd25a294c4d7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/03dde663-a805-404e-95ef-652be8a1bf59",
+      "barcode": "3617388748669",
+      "title": "Bhai Hai",
+      "disambiguation": null,
+      "date": "2024-06-14",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bhai Hai",
+            "length": "2:24",
+            "deezer": {
+              "id": 2840562232,
+              "link": "https://www.deezer.com/track/2840562232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/d/0/eede09a60ff44983e53e05651d3c1a35.mp3?hdnea=exp=1795654306~acl=/api/1/1/e/e/d/0/eede09a60ff44983e53e05651d3c1a35.mp3*~data=user_id=0,application_id=42~hmac=8d5a5f1b07264b54c7659b5e00c1435f5d801df8522625938d812bbb67b9ed7c",
+              "preview_expires": "2026-11-26T00:51:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Fotty Seven/Bhai Hai.jpg"
+}

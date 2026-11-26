@@ -1,0 +1,110 @@
+{
+  "title": "Finalised",
+  "artist": "Groove Factory",
+  "year": 2002,
+  "release_date": "2002-01-01",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "bhangra"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6anIeGBVDP0MzvpTTqF3GP",
+    "deezer": "https://www.deezer.com/album/304976247"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6anIeGBVDP0MzvpTTqF3GP",
+      "title": "Finalised",
+      "date": "2002-01-01"
+    },
+    "total_tracks": 6,
+    "total_length": "31:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pardesi",
+            "length": "4:24",
+            "artist": "Groove Factory, Master Rakesh",
+            "deezer": {
+              "id": 1694115427,
+              "link": "https://www.deezer.com/track/1694115427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/6/0/c268c676aa2de880b6a81eaed2beb5a9.mp3?hdnea=exp=1795654792~acl=/api/1/1/c/2/6/0/c268c676aa2de880b6a81eaed2beb5a9.mp3*~data=user_id=0,application_id=42~hmac=380e5492401efcb6c59a0b8de1cc501c5fe0c9891b5da4ade418c3d229aaa1ea",
+              "preview_expires": "2026-11-26T00:59:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jogi",
+            "length": "4:50",
+            "artist": "Groove Factory, Feroz Khan",
+            "deezer": {
+              "id": 1694115437,
+              "link": "https://www.deezer.com/track/1694115437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/9/0/349da4cbdbf33328b7ecb705dda2a17a.mp3?hdnea=exp=1795654792~acl=/api/1/1/3/4/9/0/349da4cbdbf33328b7ecb705dda2a17a.mp3*~data=user_id=0,application_id=42~hmac=300da4d28ee03c51428b2876d1dc355e602b481a4c8c65f0ac117cbf458ea488",
+              "preview_expires": "2026-11-26T00:59:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hania",
+            "length": "5:57",
+            "artist": "Groove Factory, Javed Bashir",
+            "deezer": {
+              "id": 1694115447,
+              "link": "https://www.deezer.com/track/1694115447",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/a/0/9ca7faf94378b0c6d8f98a01aca47af6.mp3?hdnea=exp=1795654792~acl=/api/1/1/9/c/a/0/9ca7faf94378b0c6d8f98a01aca47af6.mp3*~data=user_id=0,application_id=42~hmac=84a7dd3f316185cd571aa4ceb72d36a04f5e9c21e5fda6b41f53ac0b59fd3d1a",
+              "preview_expires": "2026-11-26T00:59:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tasvir",
+            "length": "7:26",
+            "artist": "Groove Factory, Tabassam",
+            "deezer": {
+              "id": 1694115457,
+              "link": "https://www.deezer.com/track/1694115457",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/d/0/3ed635044b94d2bb5ff66381ceb42e0d.mp3?hdnea=exp=1795654792~acl=/api/1/1/3/e/d/0/3ed635044b94d2bb5ff66381ceb42e0d.mp3*~data=user_id=0,application_id=42~hmac=fd24ece36c4d0b0c31edce8e778f2e8a9832c1f314f55fa025c23d51cf132ada",
+              "preview_expires": "2026-11-26T00:59:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bhangra",
+            "length": "4:03",
+            "artist": "Groove Factory, Pappi Gill",
+            "deezer": {
+              "id": 1694115467,
+              "link": "https://www.deezer.com/track/1694115467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/d/0/80dcf5582ee4e02f80dcbe883876a12a.mp3?hdnea=exp=1795654792~acl=/api/1/1/8/0/d/0/80dcf5582ee4e02f80dcbe883876a12a.mp3*~data=user_id=0,application_id=42~hmac=d4672e637cc3891e023153753774bb9f4d4b63d6d93a03e96e7c997110db1aac",
+              "preview_expires": "2026-11-26T00:59:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hall Ve Rubba",
+            "length": "4:37",
+            "artist": "Groove Factory, Hans Raj Hans",
+            "deezer": {
+              "id": 1694115477,
+              "link": "https://www.deezer.com/track/1694115477",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/0/0/f50c817a8aedd76477642e42e31fd3a1.mp3?hdnea=exp=1795654792~acl=/api/1/1/f/5/0/0/f50c817a8aedd76477642e42e31fd3a1.mp3*~data=user_id=0,application_id=42~hmac=1a46ba1c99fe2315e6cea884d5440c4e766184da5a4f68ef200c80c1194d2b26",
+              "preview_expires": "2026-11-26T00:59:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Groove Factory/Finalised.jpg"
+}

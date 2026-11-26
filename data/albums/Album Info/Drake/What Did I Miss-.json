@@ -1,0 +1,63 @@
+{
+  "title": "What Did I Miss?",
+  "artist": "Drake",
+  "year": 2025,
+  "release_date": "2025-07-05",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "cloud rap",
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "cloud rap",
+    "pop rap",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a939393e-b551-487a-b879-76c60a006f8f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/782753961"
+  },
+  "musicbrainz_id": "a939393e-b551-487a-b879-76c60a006f8f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/324e5bcb-bfe3-4f08-bb02-3a31fa3ed2cb",
+      "barcode": "602478723582",
+      "title": "What Did I Miss?",
+      "disambiguation": "explicit",
+      "date": "2025-07-05",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "What Did I Miss?",
+            "length": "3:14",
+            "deezer": {
+              "id": 3444551431,
+              "link": "https://www.deezer.com/track/3444551431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/9/0/339398e06f86c9faed555d9b223f481c.mp3?hdnea=exp=1795653618~acl=/api/1/1/3/3/9/0/339398e06f86c9faed555d9b223f481c.mp3*~data=user_id=0,application_id=42~hmac=6d64313953fc3af80d632639eebf6ac8bfd0fd84c1aa978ad91b8f599c77a426",
+              "preview_expires": "2026-11-26T00:40:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/What Did I Miss-.jpg"
+}

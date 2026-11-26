@@ -1,0 +1,51 @@
+{
+  "title": "Break The Cycle (Luke Gomm Refix)",
+  "artist": "KiLLOWEN & Luke Gomm",
+  "year": 2022,
+  "release_date": "2022-12-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e12a0522-8e6f-4e79-bd47-77cd123e9d1f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/769226401"
+  },
+  "musicbrainz_id": "e12a0522-8e6f-4e79-bd47-77cd123e9d1f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f6971067-9698-44e2-9b1d-c3196acfa551",
+      "barcode": "3617053561654",
+      "title": "Break The Cycle (Luke Gomm Refix)",
+      "disambiguation": null,
+      "date": "2022-12-09",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Break The Cycle - Luke Gomm Refix",
+            "length": "3:21",
+            "deezer": {
+              "id": 3404502471,
+              "link": "https://www.deezer.com/track/3404502471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/2/0/f82cc5f1b2327349989f2b0337cd5fe6.mp3?hdnea=exp=1795656183~acl=/api/1/1/f/8/2/0/f82cc5f1b2327349989f2b0337cd5fe6.mp3*~data=user_id=0,application_id=42~hmac=25d80026111f985f967b49b17aa04725b8d7a95d0ff898bddbfb7d122c7b002d",
+              "preview_expires": "2026-11-26T01:23:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/KiLLOWEN/Break The Cycle (Luke Gomm Refix).png"
+}

@@ -1,0 +1,141 @@
+{
+  "title": "First Take",
+  "artist": "Roberta Flack",
+  "year": 1969,
+  "release_date": "1969",
+  "type": "Album",
+  "description": "First Take is the debut album by the American singer Roberta Flack. It was released on June 20, 1969, by Atlantic Records. In the 2020 edition of Rolling Stone's 500 Greatest Albums of All Time list, the album was ranked 451st.",
+  "genres": [
+    "soul",
+    "vocal jazz"
+  ],
+  "tags": [
+    "soul",
+    "vocal jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 3.25,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4455c04d-9368-4dc5-b35d-6ff8c407921f",
+    "wikipedia": "https://en.wikipedia.org/wiki/First_Take_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000193572",
+    "discogs": "https://www.discogs.com/master/82337",
+    "wikidata": "https://www.wikidata.org/wiki/Q5453862",
+    "deezer": "https://www.deezer.com/album/1345210"
+  },
+  "musicbrainz_id": "4455c04d-9368-4dc5-b35d-6ff8c407921f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/db3770cc-13eb-47d7-b304-b7fdef2606bf",
+      "barcode": "075678279263",
+      "title": "First Take",
+      "disambiguation": null,
+      "date": "2011-01-25",
+      "country": "US"
+    },
+    "total_tracks": 8,
+    "total_length": "45:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Compared to What",
+            "length": "5:16",
+            "deezer": {
+              "id": 14615234,
+              "link": "https://www.deezer.com/track/14615234",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/6/0/5660be9362737a01e1085414752becf5.mp3?hdnea=exp=1795720141~acl=/api/1/1/5/6/6/0/5660be9362737a01e1085414752becf5.mp3*~data=user_id=0,application_id=42~hmac=4889d637045cd67442a70ba3ad2f592e4b23b35c9931ea7758121350c49d53a1",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Angelitos Negros",
+            "length": "6:56",
+            "deezer": {
+              "id": 14615235,
+              "link": "https://www.deezer.com/track/14615235",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/9/0/bf9e17507df2b73372f836899537e892.mp3?hdnea=exp=1795720141~acl=/api/1/1/b/f/9/0/bf9e17507df2b73372f836899537e892.mp3*~data=user_id=0,application_id=42~hmac=849c488554aeb30f9e47542694d3b914d47826097de5b4a6d92d1a4fbaadb04a",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Our Ages or Our Hearts",
+            "length": "6:10",
+            "deezer": {
+              "id": 14615236,
+              "link": "https://www.deezer.com/track/14615236",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/1/0/071b89a0f8b20ddbfe6433898c65e715.mp3?hdnea=exp=1795720141~acl=/api/1/1/0/7/1/0/071b89a0f8b20ddbfe6433898c65e715.mp3*~data=user_id=0,application_id=42~hmac=220bb8838ae1546429af172e448551f02f90292db1e94ea9eed3af3aa9870629",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Told Jesus",
+            "length": "6:09",
+            "deezer": {
+              "id": 14615237,
+              "link": "https://www.deezer.com/track/14615237",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/1/0/f31a9fb72ed16a79550100e82798e595.mp3?hdnea=exp=1795720141~acl=/api/1/1/f/3/1/0/f31a9fb72ed16a79550100e82798e595.mp3*~data=user_id=0,application_id=42~hmac=8be1b5a8f1399c750819117fb15c30820b4d79cfb1d5c1209728399cf8583b89",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hey, That’s No Way to Say Goodbye",
+            "length": "4:08",
+            "deezer": {
+              "id": 14615238,
+              "link": "https://www.deezer.com/track/14615238",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/f/0/d0f21811c055164b83d5e97bc4e74e36.mp3?hdnea=exp=1795720141~acl=/api/1/1/d/0/f/0/d0f21811c055164b83d5e97bc4e74e36.mp3*~data=user_id=0,application_id=42~hmac=ea0895269b82f40a121b5913a2da69a5b042d1abe62c02a9c7c155a76eedb593",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The First Time Ever I Saw Your Face",
+            "length": "4:21",
+            "deezer": {
+              "id": 14615239,
+              "link": "https://www.deezer.com/track/14615239",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/8/0/55855ed4d3abb50fe15b92b95cc29f8d.mp3?hdnea=exp=1795720141~acl=/api/1/1/5/5/8/0/55855ed4d3abb50fe15b92b95cc29f8d.mp3*~data=user_id=0,application_id=42~hmac=730b5d5125c763aa3a3249ae6cf315a1c1aa77a5cf407a8667ffd8b246520772",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Tryin’ Times",
+            "length": "5:08",
+            "deezer": {
+              "id": 14615240,
+              "link": "https://www.deezer.com/track/14615240",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/8/0/8d87f15845796db35a3ea34894082bf0.mp3?hdnea=exp=1795720141~acl=/api/1/1/8/d/8/0/8d87f15845796db35a3ea34894082bf0.mp3*~data=user_id=0,application_id=42~hmac=3cffbde78ec8ba331f420206b975c05780fb600e647dcf478c36bed5b3468d1f",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ballad of the Sad Young Men",
+            "length": "7:00",
+            "deezer": {
+              "id": 14615241,
+              "link": "https://www.deezer.com/track/14615241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/4/0/1c49b7c05f3108faaa1581d8a9f32d4d.mp3?hdnea=exp=1795720141~acl=/api/1/1/1/c/4/0/1c49b7c05f3108faaa1581d8a9f32d4d.mp3*~data=user_id=0,application_id=42~hmac=a8d346c677d8bd9bc5722cc594569c2075df3bd2a334910d35465089dd052b46",
+              "preview_expires": "2026-11-26T19:09:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Roberta Flack/First Take.jpg"
+}

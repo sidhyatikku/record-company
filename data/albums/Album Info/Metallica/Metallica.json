@@ -1,0 +1,195 @@
+{
+  "title": "Metallica",
+  "artist": "Metallica",
+  "year": 1991,
+  "release_date": "1991-08-12",
+  "type": "Album",
+  "description": "Metallica is the fifth studio album by the American heavy metal band Metallica. It was released on August 12, 1991, by Elektra Records. Recording sessions took place at One on One Recording Studios in Los Angeles over an eight-month span that frequently found Metallica at odds with their new producer Bob Rock. The album marked a change in the band's music from the thrash metal style of their previous four albums to a slower, heavier, and more refined sound.",
+  "genres": [
+    "heavy metal",
+    "hard rock",
+    "metal",
+    "rock",
+    "thrash metal"
+  ],
+  "tags": [
+    "heavy metal",
+    "hard rock",
+    "metal",
+    "rock",
+    "thrash metal",
+    "jahrescharts 2024",
+    "new wave of american heavy metal",
+    "nwoahm"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 72
+  },
+  "musicbrainz_annotation": "'''Attention!''' This album known sometimes as ''The Black Album'' is correctly named simply '''''Metallica'''''. ''The Black Album'' is only a fan-composed name. Please do not add it or rename it.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e8f70201-8899-3f0c-9e07-5d6495bc8046",
+    "wikipedia": "https://en.wikipedia.org/wiki/Metallica_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000311315",
+    "discogs": "https://www.discogs.com/master/6651",
+    "wikidata": "https://www.wikidata.org/wiki/Q213516",
+    "deezer": "https://www.deezer.com/album/14590596"
+  },
+  "musicbrainz_id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/264b958d-e9fd-4cde-9759-e9d40df12a94",
+      "barcode": "731451002229",
+      "title": "Metallica",
+      "disambiguation": "Made in Germany",
+      "date": "1991",
+      "country": "XE"
+    },
+    "total_tracks": 12,
+    "total_length": "1:02:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Enter Sandman",
+            "length": "5:32",
+            "deezer": {
+              "id": 136408134,
+              "link": "https://www.deezer.com/track/136408134",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/b/0/88b01d4a2caf5a833ade9e07a9d93612.mp3?hdnea=exp=1795718384~acl=/api/1/1/8/8/b/0/88b01d4a2caf5a833ade9e07a9d93612.mp3*~data=user_id=0,application_id=42~hmac=5b51cdc4f56483f13b02db97c71a22c8e6970449f31af7bd10338aa625d7862e",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sad but True",
+            "length": "5:25",
+            "deezer": {
+              "id": 136408136,
+              "link": "https://www.deezer.com/track/136408136",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/d/0/fddbc86ef3cf4509a5819bdaad2ad703.mp3?hdnea=exp=1795718384~acl=/api/1/1/f/d/d/0/fddbc86ef3cf4509a5819bdaad2ad703.mp3*~data=user_id=0,application_id=42~hmac=0bb9ee84d3539570f667afb6af16cc42c562c5391ec2fdddbbba29ff7b8940f1",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Holier Than Thou",
+            "length": "3:48",
+            "deezer": {
+              "id": 136408138,
+              "link": "https://www.deezer.com/track/136408138",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/f/0/82f39ee2b4ca247fa437c1bd74d9f4bd.mp3?hdnea=exp=1795718384~acl=/api/1/1/8/2/f/0/82f39ee2b4ca247fa437c1bd74d9f4bd.mp3*~data=user_id=0,application_id=42~hmac=02b20917816cdaee6986e43cd86dbaaff02a53e147cfbee46ff31129f503115d",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Unforgiven",
+            "length": "6:27",
+            "deezer": {
+              "id": 136408140,
+              "link": "https://www.deezer.com/track/136408140",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/d/0/70de6acdf9b743ac6bba4eff47c80f7f.mp3?hdnea=exp=1795718384~acl=/api/1/1/7/0/d/0/70de6acdf9b743ac6bba4eff47c80f7f.mp3*~data=user_id=0,application_id=42~hmac=8285d1afe386050df942c3c27ba4d743075fc8f5a90442737cdc370518473646",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Wherever I May Roam",
+            "length": "6:44",
+            "deezer": {
+              "id": 136408142,
+              "link": "https://www.deezer.com/track/136408142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/f/0/8ff31365db0c9990706ae6e015a6bbac.mp3?hdnea=exp=1795718384~acl=/api/1/1/8/f/f/0/8ff31365db0c9990706ae6e015a6bbac.mp3*~data=user_id=0,application_id=42~hmac=9b7e83aba9c04271034dd8f95be41ca7d64c6da0d88d14ccddbb14a8e0d09263",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Don’t Tread on Me",
+            "length": "4:00",
+            "deezer": {
+              "id": 136408144,
+              "link": "https://www.deezer.com/track/136408144",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/b/0/ebb18ada318d67cf9be228454b4ddf8c.mp3?hdnea=exp=1795718384~acl=/api/1/1/e/b/b/0/ebb18ada318d67cf9be228454b4ddf8c.mp3*~data=user_id=0,application_id=42~hmac=c8a6d4a9238b305ad9b373428634cd3f62c8684e598515a5559d842e6142e506",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Through the Never",
+            "length": "4:04",
+            "deezer": {
+              "id": 136408146,
+              "link": "https://www.deezer.com/track/136408146",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a6441941e169c193e87cdf584a0f8f1.mp3?hdnea=exp=1795718384~acl=/api/1/1/8/a/6/0/8a6441941e169c193e87cdf584a0f8f1.mp3*~data=user_id=0,application_id=42~hmac=d024d702ef2a214ea4695a0f09603ca6902a7bcb3bf05cc30296d0c877d8319e",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Nothing Else Matters",
+            "length": "6:29",
+            "deezer": {
+              "id": 136408148,
+              "link": "https://www.deezer.com/track/136408148",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/8/0/16896d5206bee23f9eb6139cb83fb80c.mp3?hdnea=exp=1795718384~acl=/api/1/1/1/6/8/0/16896d5206bee23f9eb6139cb83fb80c.mp3*~data=user_id=0,application_id=42~hmac=4668cccf516625f4b1cc57906bcbcf151fee59210ead7e002acdf30fbb7c3012",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Of Wolf and Man",
+            "length": "4:17",
+            "deezer": {
+              "id": 136408150,
+              "link": "https://www.deezer.com/track/136408150",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/e/0/38e6934ab2232a1b2b3ba540731194ec.mp3?hdnea=exp=1795718384~acl=/api/1/1/3/8/e/0/38e6934ab2232a1b2b3ba540731194ec.mp3*~data=user_id=0,application_id=42~hmac=5c3fc81621749f2ac3b1ce9f086c86dc45c0520c61834579dde29dac332f8c0a",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The God That Failed",
+            "length": "5:09",
+            "deezer": {
+              "id": 136408152,
+              "link": "https://www.deezer.com/track/136408152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/9/0/d39e645f48866f944f510c7ef1957684.mp3?hdnea=exp=1795718384~acl=/api/1/1/d/3/9/0/d39e645f48866f944f510c7ef1957684.mp3*~data=user_id=0,application_id=42~hmac=96f19e6200e0e27d85253ad0b11c59a0ebaa7894f16748f856a222d5d8d43cb6",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "My Friend of Misery",
+            "length": "6:50",
+            "deezer": {
+              "id": 136408154,
+              "link": "https://www.deezer.com/track/136408154",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/2/0/d128fc698b50d653371eec454a852836.mp3?hdnea=exp=1795718384~acl=/api/1/1/d/1/2/0/d128fc698b50d653371eec454a852836.mp3*~data=user_id=0,application_id=42~hmac=1f2d13c84ad6098ac419c859bc313e56818edbd685fe144a583936d1191a9b4c",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Struggle Within",
+            "length": "3:54",
+            "deezer": {
+              "id": 136408156,
+              "link": "https://www.deezer.com/track/136408156",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/6/0/4461835c80b2284991e5df9b656f0d14.mp3?hdnea=exp=1795718384~acl=/api/1/1/4/4/6/0/4461835c80b2284991e5df9b656f0d14.mp3*~data=user_id=0,application_id=42~hmac=5e83efea5872f38618be1fd090a8b2d3950c6741f019fee3da26364027bac1f2",
+              "preview_expires": "2026-11-26T18:39:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Metallica/Metallica.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Ganges",
+  "artist": "Morgentau",
+  "year": 2020,
+  "release_date": "2020-05-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2Lm2ZsJm7htVuUtiD0j08z",
+    "deezer": "https://www.deezer.com/album/356753577"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2Lm2ZsJm7htVuUtiD0j08z",
+      "title": "Ganges",
+      "date": "2020-05-22"
+    },
+    "total_tracks": 1,
+    "total_length": "4:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ganges",
+            "length": "4:29",
+            "deezer": {
+              "id": 1914348897,
+              "link": "https://www.deezer.com/track/1914348897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff56120569bb7ca515ed45b6de4c88b1.mp3?hdnea=exp=1795718593~acl=/api/1/1/f/f/5/0/ff56120569bb7ca515ed45b6de4c88b1.mp3*~data=user_id=0,application_id=42~hmac=dde61a4dbffcc2374607acfa4ad7263a3f017fd87c3dac93c680e066eccdad86",
+              "preview_expires": "2026-11-26T18:43:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Morgentau/Ganges.jpg"
+}

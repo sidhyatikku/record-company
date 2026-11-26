@@ -1,0 +1,100 @@
+{
+  "title": "Snow ((Hey Oh))",
+  "artist": "Red Hot Chili Peppers",
+  "year": 2006,
+  "release_date": "2006-11-06",
+  "type": "Single",
+  "description": "\"Snow (Hey Oh)\" (occasionally stylized as \"Snow ((Hey Oh))\") is a song by American band Red Hot Chili Peppers from their 2006 double album, Stadium Arcadium. The song was released as the follow-up single to \"Tell Me Baby\" in 2006, and became the band's third straight number one hit on the Billboard Modern Rock chart, a spot it held for five straight weeks. The single was their 11th to top that chart, setting a record they still hold, extended in 2016 to 13 number ones.",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "pop",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/113a1de9-5dbb-310d-91a4-df402278b5e7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Snow_(Hey_Oh)",
+    "discogs": "https://www.discogs.com/master/42568",
+    "wikidata": "https://www.wikidata.org/wiki/Q2068337",
+    "deezer": "https://www.deezer.com/album/365206"
+  },
+  "musicbrainz_id": "113a1de9-5dbb-310d-91a4-df402278b5e7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5a4aa5b6-2f8e-463a-865f-4c45aef54d3a",
+      "barcode": "093624312567",
+      "title": "Snow ((Hey Oh))",
+      "disambiguation": null,
+      "date": "2006-11-20",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "17:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Snow ((Hey Oh))",
+            "length": "5:35",
+            "deezer": {
+              "id": 3912707,
+              "link": "https://www.deezer.com/track/3912707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/9/0/8199a2b66b31069b367d7fb0e2b31e61.mp3?hdnea=exp=1795720048~acl=/api/1/1/8/1/9/0/8199a2b66b31069b367d7fb0e2b31e61.mp3*~data=user_id=0,application_id=42~hmac=79cb131c970e2f61a4f7c6c949ee84acf5ab858a114f06b1792e93f4d431a128",
+              "preview_expires": "2026-11-26T19:07:28Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Funny Face",
+            "length": "4:46",
+            "deezer": {
+              "id": 3912708,
+              "link": "https://www.deezer.com/track/3912708",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/e/0/84e558d5e2e72c80158089d8fd72b7ae.mp3?hdnea=exp=1795720048~acl=/api/1/1/8/4/e/0/84e558d5e2e72c80158089d8fd72b7ae.mp3*~data=user_id=0,application_id=42~hmac=5d9be159df943dbcaf3b14cbf24f7cd1a4a38caa5c6435fa58818004918de8c4",
+              "preview_expires": "2026-11-26T19:07:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I’ll Be Your Domino",
+            "length": "3:55",
+            "deezer": {
+              "id": 3912709,
+              "link": "https://www.deezer.com/track/3912709",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/f/0/90f2ffffe03cadc4a56e853ff52e77ef.mp3?hdnea=exp=1795720048~acl=/api/1/1/9/0/f/0/90f2ffffe03cadc4a56e853ff52e77ef.mp3*~data=user_id=0,application_id=42~hmac=0bfef55da4aed94607091ac9856925229b61e9eae43f934c6a6c2ff9f18a8a16",
+              "preview_expires": "2026-11-26T19:07:28Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Permutation (live in Montreal, 2006)",
+            "length": "3:42",
+            "deezer": {
+              "id": 3912710,
+              "link": "https://www.deezer.com/track/3912710",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/5/0/ea57020928a427d2a0e16e02c80e1595.mp3?hdnea=exp=1795720048~acl=/api/1/1/e/a/5/0/ea57020928a427d2a0e16e02c80e1595.mp3*~data=user_id=0,application_id=42~hmac=3e77de1000ad208f75eae98fca0076954c8cd346b69e54e4c483290d754d29e5",
+              "preview_expires": "2026-11-26T19:07:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Red Hot Chili Peppers/Snow (Hey Oh).jpg"
+}

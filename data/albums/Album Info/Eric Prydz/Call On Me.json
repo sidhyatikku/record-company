@@ -1,0 +1,75 @@
+{
+  "title": "Call on Me",
+  "artist": "Eric Prydz",
+  "year": 2004,
+  "release_date": "2004-09-13",
+  "type": "Single",
+  "description": "\"Call on Me\" is a song by the Swedish DJ and producer Eric Prydz, released on 13 September 2004. It is based on a replayed sample of the 1982 Steve Winwood song \"Valerie\", and was inspired by a similar track created by the French duo Together. Its music video features women performing aerobics.",
+  "genres": [
+    "electronic",
+    "house",
+    "french house",
+    "disco",
+    "progressive house",
+    "edm",
+    "electro house"
+  ],
+  "tags": [
+    "electronic",
+    "house",
+    "french house",
+    "nu-disco",
+    "disco",
+    "progressive house",
+    "edm",
+    "electro house"
+  ],
+  "rating": {
+    "value_out_of_5": 2,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b28b3fb9-f741-31b4-ab5c-43c3deca2a31",
+    "wikipedia": "https://en.wikipedia.org/wiki/Call_on_Me_(Eric_Prydz_song)",
+    "allmusic": "https://www.allmusic.com/album/mw0000381365",
+    "discogs": "https://www.discogs.com/master/62591",
+    "wikidata": "https://www.wikidata.org/wiki/Q2227079",
+    "deezer": "https://www.deezer.com/album/15632846"
+  },
+  "musicbrainz_id": "b28b3fb9-f741-31b4-ab5c-43c3deca2a31",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1e496580-c089-4d71-9fc2-6833e2bf55d0",
+      "barcode": "5051823101059",
+      "title": "Call on Me (radio mix)",
+      "disambiguation": null,
+      "date": "",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "2:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Call on Me (radio mix)",
+            "length": "2:51",
+            "deezer": {
+              "id": 144203048,
+              "link": "https://www.deezer.com/track/144203048",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/f/0/71f1901f67bb17848433352c23eb2491.mp3?hdnea=exp=1795654034~acl=/api/1/1/7/1/f/0/71f1901f67bb17848433352c23eb2491.mp3*~data=user_id=0,application_id=42~hmac=58c55e8548f4cc2c8dc479bd22bdb868347995a5cc2a12206901dad370c58a8a",
+              "preview_expires": "2026-11-26T00:47:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eric Prydz/Call On Me.png"
+}

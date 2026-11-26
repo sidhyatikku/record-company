@@ -1,0 +1,51 @@
+{
+  "title": "Drugs I Like",
+  "artist": "Nate Band",
+  "year": 2025,
+  "release_date": "2025-06-13",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/db9fb776-2d47-4079-942e-f49c4cde2da2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/768309221"
+  },
+  "musicbrainz_id": "db9fb776-2d47-4079-942e-f49c4cde2da2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/46bd4815-93ee-4fc3-b275-96fb55cff535",
+      "barcode": "741728324923",
+      "title": "Drugs I Like",
+      "disambiguation": null,
+      "date": "2025-06-13",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Drugs I Like",
+            "length": "3:19",
+            "deezer": {
+              "id": 3401947571,
+              "link": "https://www.deezer.com/track/3401947571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/e/0/c1ead747edba1068881fe5db95d32e06.mp3?hdnea=exp=1795718734~acl=/api/1/1/c/1/e/0/c1ead747edba1068881fe5db95d32e06.mp3*~data=user_id=0,application_id=42~hmac=ae66d2157f1fed4e905f0adaed7fc7b6609c885de59c3dac3d4ce14840a1e68a",
+              "preview_expires": "2026-11-26T18:45:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/nate band/Drugs I Like.jpg"
+}

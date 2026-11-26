@@ -1,0 +1,46 @@
+{
+  "title": "Waterfalls",
+  "artist": "James Hype feat. Sam Harper & Bobby Harvey",
+  "year": 2025,
+  "release_date": "2025-08-08",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/493ba241-e5b4-4014-a105-093f5d1476d2",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0004759104",
+    "deezer": null
+  },
+  "musicbrainz_id": "493ba241-e5b4-4014-a105-093f5d1476d2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/352434e7-632d-42ba-b065-f44e4b18a41f",
+      "barcode": "00602478740718",
+      "title": "Waterfalls",
+      "disambiguation": null,
+      "date": "2025-08-08",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Waterfalls",
+            "length": "2:01"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/James Hype/Waterfalls.jpg"
+}

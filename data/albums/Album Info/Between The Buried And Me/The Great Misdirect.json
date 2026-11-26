@@ -1,0 +1,121 @@
+{
+  "title": "The Great Misdirect",
+  "artist": "Between the Buried and Me",
+  "year": 2009,
+  "release_date": "2009-10-26",
+  "type": "Album",
+  "description": "The Great Misdirect is the fifth studio album by the American progressive metal band Between the Buried and Me. It was released on October 27, 2009 through Victory Records and was produced by Jamie King. Despite containing only six tracks, the album reaches nearly an hour in total time length. The album contains their longest song, \"Swim to the Moon\", which surpasses 17 minutes. Frontman Tommy Giles Rogers described The Great Misdirect as \"some of the best material we've ever created.\"",
+  "genres": [
+    "progressive metal",
+    "metalcore",
+    "rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "metalcore",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/40fb55dc-3f50-45cb-a550-5593677ad227",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Misdirect",
+    "allmusic": "https://www.allmusic.com/album/mw0001334080",
+    "discogs": "https://www.discogs.com/master/235402",
+    "wikidata": "https://www.wikidata.org/wiki/Q1091586",
+    "deezer": "https://www.deezer.com/album/45434741"
+  },
+  "musicbrainz_id": "40fb55dc-3f50-45cb-a550-5593677ad227",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3ca5fab5-1d7c-44bf-9744-a6ff7f211f7e",
+      "barcode": "886443184077",
+      "title": "The Great Misdirect",
+      "disambiguation": null,
+      "date": "2017-07-07",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "59:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mirrors",
+            "length": "3:38",
+            "deezer": {
+              "id": 388977641,
+              "link": "https://www.deezer.com/track/388977641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/b/0/45b73f7bcf84dcfcf1c281a49f1829b2.mp3?hdnea=exp=1795651968~acl=/api/1/1/4/5/b/0/45b73f7bcf84dcfcf1c281a49f1829b2.mp3*~data=user_id=0,application_id=42~hmac=e86931996495b5c28a668c086e9c26d6598f5a501112329660336ca63366156a",
+              "preview_expires": "2026-11-26T00:12:48Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Obfuscation",
+            "length": "9:15",
+            "deezer": {
+              "id": 388977651,
+              "link": "https://www.deezer.com/track/388977651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/d/0/2ddd283c6a59547763e8d1bb6d527a18.mp3?hdnea=exp=1795651968~acl=/api/1/1/2/d/d/0/2ddd283c6a59547763e8d1bb6d527a18.mp3*~data=user_id=0,application_id=42~hmac=44e983aa88d0d47e7a3894bf7c744d3962b0396401507f1bd28a2189a5503d6a",
+              "preview_expires": "2026-11-26T00:12:48Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Disease, Injury, Madness",
+            "length": "11:03",
+            "deezer": {
+              "id": 388977661,
+              "link": "https://www.deezer.com/track/388977661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/2/0/86211157d8b1788ae2715c58fae1bbc0.mp3?hdnea=exp=1795651968~acl=/api/1/1/8/6/2/0/86211157d8b1788ae2715c58fae1bbc0.mp3*~data=user_id=0,application_id=42~hmac=d5ae2d311d24756dcc9ff7cc614db585725af48c6bd95a0e476527af75932b24",
+              "preview_expires": "2026-11-26T00:12:48Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Fossil Genera (A Feed From Cloud Mountain)",
+            "length": "12:11",
+            "deezer": {
+              "id": 388977671,
+              "link": "https://www.deezer.com/track/388977671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/0/0/8104e68c69b35ed0f40c29c126143d45.mp3?hdnea=exp=1795651968~acl=/api/1/1/8/1/0/0/8104e68c69b35ed0f40c29c126143d45.mp3*~data=user_id=0,application_id=42~hmac=9a9ab5dd784d15238a3301fb94c4eefcb9bba5b19f94fcf7d8b56376d25be07d",
+              "preview_expires": "2026-11-26T00:12:48Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Desert of Song",
+            "length": "5:33",
+            "deezer": {
+              "id": 388977681,
+              "link": "https://www.deezer.com/track/388977681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/9/0/dc938e59208f05933368827877878bc3.mp3?hdnea=exp=1795651968~acl=/api/1/1/d/c/9/0/dc938e59208f05933368827877878bc3.mp3*~data=user_id=0,application_id=42~hmac=282187667d9a7f7d4a3c3a9f3b6fb09a796277c9df08d35f69e6bf802e3c8d1a",
+              "preview_expires": "2026-11-26T00:12:48Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Swim to the Moon",
+            "length": "17:54",
+            "deezer": {
+              "id": 388977691,
+              "link": "https://www.deezer.com/track/388977691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/8/0/5e8ca4ae1882d67cecf0a8cd93139057.mp3?hdnea=exp=1795651968~acl=/api/1/1/5/e/8/0/5e8ca4ae1882d67cecf0a8cd93139057.mp3*~data=user_id=0,application_id=42~hmac=5738e6355a602d23e8d86927fc05c3a00239d1539e16ba8b1af33345c586ab9a",
+              "preview_expires": "2026-11-26T00:12:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Between The Buried And Me/The Great Misdirect.jpg"
+}

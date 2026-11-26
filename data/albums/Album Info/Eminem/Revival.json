@@ -1,0 +1,281 @@
+{
+  "title": "Revival",
+  "artist": "Eminem",
+  "year": 2017,
+  "release_date": "2017-12-15",
+  "type": "Album",
+  "description": "Revival is the ninth studio album by the American rapper Eminem, released on December 15, 2017, through Shady Records, Goliath Artists, Aftermath Entertainment, and Interscope Records. It was executive-produced by Dr. Dre and Rick Rubin and its producers include Mr. Porter, Emile, Just Blaze, Alex da Kid, Fredwreck, and DJ Khalil. It features appearances from Beyoncé, Ed Sheeran, Alicia Keys, X Ambassadors, Skylar Grey, Kehlani, Pink and Phresher. It was handled by Rubin, Mr. Porter, Emile, Just Blaze, Alex da Kid, Fredwreck, and DJ Khalil.",
+  "genres": [
+    "hip hop",
+    "pop rap",
+    "rap rock",
+    "conscious hip hop",
+    "political hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "pop rap",
+    "rap rock",
+    "angry",
+    "conscious hip hop",
+    "male vocalist",
+    "political",
+    "political hip hop",
+    "sampling",
+    "vulgar"
+  ],
+  "rating": {
+    "value_out_of_5": 2.8,
+    "votes": 18
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cfc62e61-686c-46cd-a453-608979646f71",
+    "wikipedia": "https://en.wikipedia.org/wiki/Revival_(Eminem_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003132751",
+    "discogs": "https://www.discogs.com/master/1283505",
+    "wikidata": "https://www.wikidata.org/wiki/Q42565390",
+    "deezer": "https://www.deezer.com/album/53227232"
+  },
+  "musicbrainz_id": "cfc62e61-686c-46cd-a453-608979646f71",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5949fefd-f62d-42c9-a795-8a277a7eb4ab",
+      "barcode": "0602567332558",
+      "title": "Revival",
+      "disambiguation": "explicit, 24bit/44khz",
+      "date": "2017-12-15",
+      "country": null
+    },
+    "total_tracks": 19,
+    "total_length": "1:17:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Walk on Water",
+            "length": "5:04",
+            "artist": "Eminem feat. Beyoncé",
+            "deezer": {
+              "id": 439484722,
+              "link": "https://www.deezer.com/track/439484722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56ad18a1e4aaa7e5e0e2e376ee8d1704.mp3?hdnea=exp=1795653906~acl=/api/1/1/5/6/a/0/56ad18a1e4aaa7e5e0e2e376ee8d1704.mp3*~data=user_id=0,application_id=42~hmac=d5f152939573c9dbb36b455590258debd2b099a28208882c27a508d6d1033394",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Believe",
+            "length": "5:15",
+            "deezer": {
+              "id": 439484732,
+              "link": "https://www.deezer.com/track/439484732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/d/0/f8d555e6c554bbc145baf41ac43149f2.mp3?hdnea=exp=1795653906~acl=/api/1/1/f/8/d/0/f8d555e6c554bbc145baf41ac43149f2.mp3*~data=user_id=0,application_id=42~hmac=9f3d550ff28fb05485c9ba3684f514223df1a85fe058a003ef7caca12c2e890b",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Chloraseptic",
+            "length": "5:01",
+            "artist": "Eminem feat. PHRESHER",
+            "deezer": {
+              "id": 439484742,
+              "link": "https://www.deezer.com/track/439484742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/6/0/af6948509baf4ee45b6f04117bc5a3fe.mp3?hdnea=exp=1795653906~acl=/api/1/1/a/f/6/0/af6948509baf4ee45b6f04117bc5a3fe.mp3*~data=user_id=0,application_id=42~hmac=d8398f974a490a98181b48cde66e6cb3451c7328bf76e5a3e473b1baba3592a1",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Untouchable",
+            "length": "6:10",
+            "deezer": {
+              "id": 439484752,
+              "link": "https://www.deezer.com/track/439484752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/c/0/13c8c8eac12444148a9e735f7fb3b6a6.mp3?hdnea=exp=1795653906~acl=/api/1/1/1/3/c/0/13c8c8eac12444148a9e735f7fb3b6a6.mp3*~data=user_id=0,application_id=42~hmac=2126e75126a1c9372454bcc57c92d6a9e56dc19dce26dfc854b9cf51e3292cc7",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "River",
+            "length": "3:41",
+            "artist": "Eminem feat. Ed Sheeran",
+            "deezer": {
+              "id": 439484762,
+              "link": "https://www.deezer.com/track/439484762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/a/0/61aa2b64569a6a9d3a955b839d6ce1e7.mp3?hdnea=exp=1795653906~acl=/api/1/1/6/1/a/0/61aa2b64569a6a9d3a955b839d6ce1e7.mp3*~data=user_id=0,application_id=42~hmac=59a62ab110413d3defeddcc046f5398ec67418f8e1a398049dcfa1256dbcf3cc",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Remind Me (intro)",
+            "length": "0:26",
+            "deezer": {
+              "id": 439484772,
+              "link": "https://www.deezer.com/track/439484772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/a/0/b1afd5e462528cdbb1fc43fd0d23122d.mp3?hdnea=exp=1795653906~acl=/api/1/1/b/1/a/0/b1afd5e462528cdbb1fc43fd0d23122d.mp3*~data=user_id=0,application_id=42~hmac=7688dad0dda7986150280d3db6ff1979b196a8812849b4462197eb40c223dc75",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Remind Me",
+            "length": "3:45",
+            "deezer": {
+              "id": 439484782,
+              "link": "https://www.deezer.com/track/439484782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/f/0/7cf4c3b22094c9e54a64305fa18abea9.mp3?hdnea=exp=1795653906~acl=/api/1/1/7/c/f/0/7cf4c3b22094c9e54a64305fa18abea9.mp3*~data=user_id=0,application_id=42~hmac=03661c093c1682907275b8943092ff55c9f598b1f46dbcd8f543a159d4b73cff",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Revival (interlude)",
+            "length": "0:52",
+            "deezer": {
+              "id": 439484792,
+              "link": "https://www.deezer.com/track/439484792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/f/0/e5ff633fe83277ed97aecb70e6adbbdc.mp3?hdnea=exp=1795653906~acl=/api/1/1/e/5/f/0/e5ff633fe83277ed97aecb70e6adbbdc.mp3*~data=user_id=0,application_id=42~hmac=50bd1175489b50c6ca509be1b4956dbd74e59c4c1974de0fe6e4d0a8dd01ba33",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Like Home",
+            "length": "4:05",
+            "artist": "Eminem feat. Alicia Keys",
+            "deezer": {
+              "id": 439484802,
+              "link": "https://www.deezer.com/track/439484802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/b/0/37bd55f4ce2a8a822f458ca3ad910f39.mp3?hdnea=exp=1795653906~acl=/api/1/1/3/7/b/0/37bd55f4ce2a8a822f458ca3ad910f39.mp3*~data=user_id=0,application_id=42~hmac=32ddf774cb5284d3aac2d2973a4ac1dcfcbbf6c6601683a38cd4ca6d7af39228",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Bad Husband",
+            "length": "4:48",
+            "artist": "Eminem feat. X Ambassadors",
+            "deezer": {
+              "id": 439484812,
+              "link": "https://www.deezer.com/track/439484812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/0/0/100a4ec71fc0ecef123694457fdd1d9e.mp3?hdnea=exp=1795653906~acl=/api/1/1/1/0/0/0/100a4ec71fc0ecef123694457fdd1d9e.mp3*~data=user_id=0,application_id=42~hmac=d3d970a06f2364087462f6c8acdfcf2e5132235a1f41e1519db0ebe4fa9f8278",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Tragic Endings",
+            "length": "4:12",
+            "artist": "Eminem feat. Skylar Grey",
+            "deezer": {
+              "id": 439484822,
+              "link": "https://www.deezer.com/track/439484822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/c/0/2ac88b3fba343f9be0c9ebbc83569a28.mp3?hdnea=exp=1795653906~acl=/api/1/1/2/a/c/0/2ac88b3fba343f9be0c9ebbc83569a28.mp3*~data=user_id=0,application_id=42~hmac=0531bfbb08a7cd8ff8ac37dee9ecc4ee9df15bfd283c9dd9ac09317f3f64c48b",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Framed",
+            "length": "4:13",
+            "deezer": {
+              "id": 439484832,
+              "link": "https://www.deezer.com/track/439484832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/9/0/b49d393abfe313396251663342d1300c.mp3?hdnea=exp=1795653906~acl=/api/1/1/b/4/9/0/b49d393abfe313396251663342d1300c.mp3*~data=user_id=0,application_id=42~hmac=9b26971cd36512c676832c5a759c3754e69c90c13ac46dd174ba9dd19a9d2fbf",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Nowhere Fast",
+            "length": "4:24",
+            "artist": "Eminem feat. Kehlani",
+            "deezer": {
+              "id": 439484842,
+              "link": "https://www.deezer.com/track/439484842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/8/0/cb8501094b7e069d253e6002dfc3225d.mp3?hdnea=exp=1795653906~acl=/api/1/1/c/b/8/0/cb8501094b7e069d253e6002dfc3225d.mp3*~data=user_id=0,application_id=42~hmac=ea20d6a25bc31c1f17eaf21b7124d5e179b1e696a2fe424f129f2d229a6e4065",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Heat",
+            "length": "4:10",
+            "deezer": {
+              "id": 439484852,
+              "link": "https://www.deezer.com/track/439484852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/e/0/9def6806c3613159de86f3a2132b4573.mp3?hdnea=exp=1795653906~acl=/api/1/1/9/d/e/0/9def6806c3613159de86f3a2132b4573.mp3*~data=user_id=0,application_id=42~hmac=355adbec62543e69e5b9ee47c20c47276e36cb489da8594cff4485cdec0f1174",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Offended",
+            "length": "5:21",
+            "deezer": {
+              "id": 439484862,
+              "link": "https://www.deezer.com/track/439484862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/2/0/1a2237348d071f64f815503346eac019.mp3?hdnea=exp=1795653906~acl=/api/1/1/1/a/2/0/1a2237348d071f64f815503346eac019.mp3*~data=user_id=0,application_id=42~hmac=b8748b6e6aea7e225530703b007a3c144d8e1addf975081c8ca7b56ea880e2c1",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Need Me",
+            "length": "4:25",
+            "artist": "Eminem feat. P!nk",
+            "deezer": {
+              "id": 439484872,
+              "link": "https://www.deezer.com/track/439484872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/4/0/6c4130cd30f4b7b1c9f43da883b6ed82.mp3?hdnea=exp=1795653906~acl=/api/1/1/6/c/4/0/6c4130cd30f4b7b1c9f43da883b6ed82.mp3*~data=user_id=0,application_id=42~hmac=e3aa3d1a8bbc558456db5d384528a4dfc07aa580ca92e827f1b8115df76f2015",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "In Your Head",
+            "length": "3:03",
+            "deezer": {
+              "id": 439484882,
+              "link": "https://www.deezer.com/track/439484882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/9/0/329302c5d19c7ad438c439988237ec67.mp3?hdnea=exp=1795653906~acl=/api/1/1/3/2/9/0/329302c5d19c7ad438c439988237ec67.mp3*~data=user_id=0,application_id=42~hmac=84fd568029a22b3822126402390e3840f8f264f5284fed376fc270cdf5202152",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Castle",
+            "length": "4:15",
+            "deezer": {
+              "id": 439484892,
+              "link": "https://www.deezer.com/track/439484892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/c/0/e7cd55bcbea96c244772518d1e4ca848.mp3?hdnea=exp=1795653906~acl=/api/1/1/e/7/c/0/e7cd55bcbea96c244772518d1e4ca848.mp3*~data=user_id=0,application_id=42~hmac=a0805474989fecbb17b64841b7b1f056a03ac114fdc2cf4383c48e13ab26d235",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Arose",
+            "length": "4:35",
+            "deezer": {
+              "id": 439484902,
+              "link": "https://www.deezer.com/track/439484902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/b/0/21b1ccd316d9c9afa23c2aca4cfb3e2b.mp3?hdnea=exp=1795653906~acl=/api/1/1/2/1/b/0/21b1ccd316d9c9afa23c2aca4cfb3e2b.mp3*~data=user_id=0,application_id=42~hmac=2794fab8d457434ddb47db23cc6a8e69e7b65d88b9f52150f8f329522fa9e993",
+              "preview_expires": "2026-11-26T00:45:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eminem/Revival.jpg"
+}

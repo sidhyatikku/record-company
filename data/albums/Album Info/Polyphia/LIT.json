@@ -1,0 +1,55 @@
+{
+  "title": "LIT",
+  "artist": "Polyphia",
+  "year": 2017,
+  "release_date": "2017-01-13",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4001b7dc-51d2-477d-9e01-8a68a9657075",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/14972619"
+  },
+  "musicbrainz_id": "4001b7dc-51d2-477d-9e01-8a68a9657075",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/39ccdc93-4543-4f77-869c-ba96b4133498",
+      "barcode": "886446310992",
+      "title": "LIT",
+      "disambiguation": null,
+      "date": "2017-01-13",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "LIT",
+            "length": "4:12",
+            "deezer": {
+              "id": 139293391,
+              "link": "https://www.deezer.com/track/139293391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/1/0/e410d0a2ba4d0a5f6d8796ac63483d8a.mp3?hdnea=exp=1795719601~acl=/api/1/1/e/4/1/0/e410d0a2ba4d0a5f6d8796ac63483d8a.mp3*~data=user_id=0,application_id=42~hmac=c76b19afd7f2dbd13ffbbb7f11148e0e1ce5c5f7707c15e73b069d1772cc5642",
+              "preview_expires": "2026-11-26T19:00:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Polyphia/LIT.jpg"
+}

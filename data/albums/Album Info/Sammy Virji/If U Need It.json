@@ -1,0 +1,71 @@
+{
+  "title": "If U Need It",
+  "artist": "Sammy Virji",
+  "year": 2023,
+  "release_date": "2023-11-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bass house",
+    "bassline",
+    "dance",
+    "house",
+    "uk garage"
+  ],
+  "tags": [
+    "artist name on cover",
+    "bass house",
+    "bassline",
+    "dance",
+    "english",
+    "garage",
+    "house",
+    "old school bassline",
+    "title on cover",
+    "uk",
+    "uk dance",
+    "uk garage",
+    "united kingdom"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/605abfc6-f9ca-4eaf-9a84-395d67cc531f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/505337571"
+  },
+  "musicbrainz_id": "605abfc6-f9ca-4eaf-9a84-395d67cc531f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3417b524-a4e5-4329-a4ac-790732ba8aa7",
+      "barcode": "00602458636703",
+      "title": "If U Need It",
+      "disambiguation": null,
+      "date": "2023-11-03",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "If U Need It",
+            "length": "3:00",
+            "deezer": {
+              "id": 2516525761,
+              "link": "https://www.deezer.com/track/2516525761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/8/0/298bedc28349de2acdf8e331734e3641.mp3?hdnea=exp=1795720314~acl=/api/1/1/2/9/8/0/298bedc28349de2acdf8e331734e3641.mp3*~data=user_id=0,application_id=42~hmac=a7047b7e73dce88c43fcb42318d4ca316b1dfa6ed654393c1d9196d8a96dce4e",
+              "preview_expires": "2026-11-26T19:11:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sammy Virji/If U Need It.jpg"
+}

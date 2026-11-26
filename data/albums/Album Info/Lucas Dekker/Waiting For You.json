@@ -1,0 +1,49 @@
+{
+  "title": "Waiting For You",
+  "artist": "Lucas Dekker",
+  "year": 2025,
+  "release_date": "2025-03-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4uolycov84dhgO5HEd5ISg",
+    "deezer": "https://www.deezer.com/album/1015656051"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4uolycov84dhgO5HEd5ISg",
+      "title": "Waiting For You",
+      "date": "2025-03-07"
+    },
+    "total_tracks": 1,
+    "total_length": "2:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Waiting For You",
+            "length": "2:56",
+            "deezer": {
+              "id": 4117926781,
+              "link": "https://www.deezer.com/track/4117926781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/f/0/d7fffa35ee1f31a62f66a23eaff0ce7e.mp3?hdnea=exp=1795656708~acl=/api/1/1/d/7/f/0/d7fffa35ee1f31a62f66a23eaff0ce7e.mp3*~data=user_id=0,application_id=42~hmac=1e826b5e0db2b0086054efb8a0ea5a63e323ad614f73215aafd0cb6be510ffd8",
+              "preview_expires": "2026-11-26T01:31:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Lucas Dekker/Waiting For You.jpg"
+}

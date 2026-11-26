@@ -1,0 +1,55 @@
+{
+  "title": "A Fire Inside of Me",
+  "artist": "Lucas Dekker",
+  "year": 2024,
+  "release_date": "2024-03-21",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/93872269-9be8-4b0e-8845-414d8c66e78a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/565120892"
+  },
+  "musicbrainz_id": "93872269-9be8-4b0e-8845-414d8c66e78a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/69fae433-bf6e-41f8-a309-ac832cbfa958",
+      "barcode": "198469969478",
+      "title": "A Fire Inside of Me",
+      "disambiguation": null,
+      "date": "2024-03-21",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "A Fire Inside of Me",
+            "length": "3:58",
+            "deezer": {
+              "id": 2722964752,
+              "link": "https://www.deezer.com/track/2722964752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/2/0/1121d1dacb05fbf905a1cecb4f9a38c6.mp3?hdnea=exp=1795656676~acl=/api/1/1/1/1/2/0/1121d1dacb05fbf905a1cecb4f9a38c6.mp3*~data=user_id=0,application_id=42~hmac=2af33fb0ce6a479538d194def09da57cd173733efd41b785fc0999018f73b99e",
+              "preview_expires": "2026-11-26T01:31:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lucas Dekker/A Fire Inside Of Me.jpg"
+}

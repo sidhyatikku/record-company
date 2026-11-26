@@ -1,0 +1,171 @@
+{
+  "title": "Euphoria",
+  "artist": "Enrique Iglesias",
+  "year": 2010,
+  "release_date": "2010-07-05",
+  "type": "Album",
+  "description": "Euphoria is the ninth studio album by Spanish singer-songwriter Enrique Iglesias. The album is a joint-release by Universal Republic and Universal Music Latino and was released on 5 July 2010 internationally and in the US on 6 July 2010. The album features guest appearances by Akon, Usher, Juan Luis Guerra, Pitbull, Nicole Scherzinger, Puerto Rican reggaeton duo Wisin & Yandel and Ludacris. The album consists of songs in English, and Spanish.",
+  "genres": [
+    "pop",
+    "latin"
+  ],
+  "tags": [
+    "rnb/swing",
+    "pop latino",
+    "pop",
+    "latin"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7e5977ba-b8b7-4c05-9d8d-b28a4c51273b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Euphoria_(Enrique_Iglesias_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002002499",
+    "discogs": "https://www.discogs.com/master/264109",
+    "wikidata": "https://www.wikidata.org/wiki/Q992667",
+    "deezer": "https://www.deezer.com/album/602669"
+  },
+  "musicbrainz_id": "7e5977ba-b8b7-4c05-9d8d-b28a4c51273b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f7fd4f04-e8a6-4e8d-b78f-0b4e48e72e5d",
+      "barcode": "602527419916",
+      "title": "Euphoria",
+      "disambiguation": null,
+      "date": "2010-07-06",
+      "country": "US"
+    },
+    "total_tracks": 10,
+    "total_length": "38:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cuando me enamoro",
+            "length": "3:20",
+            "artist": "Enrique Iglesias featuring Juan Luis Guerra",
+            "deezer": {
+              "id": 6531879,
+              "link": "https://www.deezer.com/track/6531879",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/9/0/c39053dd7210a09c8524caca43b4983d.mp3?hdnea=exp=1795654006~acl=/api/1/1/c/3/9/0/c39053dd7210a09c8524caca43b4983d.mp3*~data=user_id=0,application_id=42~hmac=5b96d79fca294a0350fad953affd7b9b54e54bc23f53b906edacb401d29fe507",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "No me digas que no",
+            "length": "4:30",
+            "artist": "Enrique Iglesias featuring Wisin & Yandel",
+            "deezer": {
+              "id": 6531881,
+              "link": "https://www.deezer.com/track/6531881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/a/0/1aaa18fa876b37f0ffbb8fa520b9179c.mp3?hdnea=exp=1795654006~acl=/api/1/1/1/a/a/0/1aaa18fa876b37f0ffbb8fa520b9179c.mp3*~data=user_id=0,application_id=42~hmac=cae371e5fe49e49d6dcc4165380aa2618a7837fd72c71da7f3da5db04e2a12b2",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ayer",
+            "length": "3:33",
+            "deezer": {
+              "id": 6531882,
+              "link": "https://www.deezer.com/track/6531882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/a/0/33a6194a2c6dc187d0cb8cac59051e4a.mp3?hdnea=exp=1795654006~acl=/api/1/1/3/3/a/0/33a6194a2c6dc187d0cb8cac59051e4a.mp3*~data=user_id=0,application_id=42~hmac=fe9d89dcffe41f7c0268e829318877fcf190c91aef3c1601d189fa6986970ec5",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dile que",
+            "length": "3:40",
+            "deezer": {
+              "id": 6531883,
+              "link": "https://www.deezer.com/track/6531883",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/3/0/70373d188f03d706e76070dcbc0b3143.mp3?hdnea=exp=1795654006~acl=/api/1/1/7/0/3/0/70373d188f03d706e76070dcbc0b3143.mp3*~data=user_id=0,application_id=42~hmac=5b78320f22ed1d092b693736f8d5ff79e3a8f6c64e96e9018e036c07030e2a5a",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Like It",
+            "length": "3:51",
+            "artist": "Enrique Iglesias featuring Pitbull",
+            "deezer": {
+              "id": 6531884,
+              "link": "https://www.deezer.com/track/6531884",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/1/0/a3193c51e8c5181008fdcc5ad5e7a436.mp3?hdnea=exp=1795654006~acl=/api/1/1/a/3/1/0/a3193c51e8c5181008fdcc5ad5e7a436.mp3*~data=user_id=0,application_id=42~hmac=62b4cefe70d97044d3269b72b7fd56c0c60ce2f12a7bef89f7a7da70c189cc9c",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "One Day at a Time",
+            "length": "4:04",
+            "artist": "Enrique Iglesias featuring Akon",
+            "deezer": {
+              "id": 6531886,
+              "link": "https://www.deezer.com/track/6531886",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/f/0/b1ff236aee93aa17ecda267e95aa2a7c.mp3?hdnea=exp=1795654006~acl=/api/1/1/b/1/f/0/b1ff236aee93aa17ecda267e95aa2a7c.mp3*~data=user_id=0,application_id=42~hmac=3a249640480ff501739fe9e1682dd6cd9ce8989e69d9d035992966a491ac714a",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Heartbeat",
+            "length": "4:17",
+            "artist": "Enrique Iglesias featuring Nicole Scherzinger",
+            "deezer": {
+              "id": 6531887,
+              "link": "https://www.deezer.com/track/6531887",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/e/0/0ae41b1a337727689376e42047918598.mp3?hdnea=exp=1795654006~acl=/api/1/1/0/a/e/0/0ae41b1a337727689376e42047918598.mp3*~data=user_id=0,application_id=42~hmac=37f462a4fd767cb275ef3d35e109fae99722198b1364014b317205b2589c0cd1",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dirty Dancer",
+            "length": "3:35",
+            "artist": "Enrique Iglesias with Usher",
+            "deezer": {
+              "id": 6531888,
+              "link": "https://www.deezer.com/track/6531888",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/2/0/a72e22da24eabe4294e0bf3feff61af0.mp3?hdnea=exp=1795654006~acl=/api/1/1/a/7/2/0/a72e22da24eabe4294e0bf3feff61af0.mp3*~data=user_id=0,application_id=42~hmac=d176e56000d19eb2cbf8c0c2b5872b0227cf2083bfc2a963432e392c2a0232d8",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Tú y yo",
+            "length": "4:01",
+            "deezer": {
+              "id": 6531889,
+              "link": "https://www.deezer.com/track/6531889",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/4/0/924aeebd8925f250aa6d33f22099e6d5.mp3?hdnea=exp=1795654006~acl=/api/1/1/9/2/4/0/924aeebd8925f250aa6d33f22099e6d5.mp3*~data=user_id=0,application_id=42~hmac=cc5ce2c35ca9e92cac708dc9e6a6d8d64483599c2a82b6402cdebff18d0be641",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "No me digas que no",
+            "length": "4:06",
+            "deezer": {
+              "id": 6531890,
+              "link": "https://www.deezer.com/track/6531890",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/f/0/f4f9f0274d74599da6e23963331eee7b.mp3?hdnea=exp=1795654006~acl=/api/1/1/f/4/f/0/f4f9f0274d74599da6e23963331eee7b.mp3*~data=user_id=0,application_id=42~hmac=91ae987320eb38693762790b088746bc1ff14636480b4a5656884f662584fae7",
+              "preview_expires": "2026-11-26T00:46:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Enrique Iglesias/Euphoria.jpg"
+}

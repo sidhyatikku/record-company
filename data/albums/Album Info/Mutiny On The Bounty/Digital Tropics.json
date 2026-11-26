@@ -1,0 +1,154 @@
+{
+  "title": "Digital Tropics",
+  "artist": "Mutiny on the Bounty",
+  "year": 2014,
+  "release_date": "2014-04-17",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "rock"
+  ],
+  "tags": [
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a7ad468c-0c96-42b7-9dad-08627c503de1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/9710328"
+  },
+  "musicbrainz_id": "a7ad468c-0c96-42b7-9dad-08627c503de1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/28b49cd2-b4e8-491b-931a-22224809630c",
+      "barcode": "4260080811637",
+      "title": "Digital Tropics",
+      "disambiguation": null,
+      "date": "2014-04-17",
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "45:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Telekinesis",
+            "length": "5:02",
+            "deezer": {
+              "id": 95435084,
+              "link": "https://www.deezer.com/track/95435084",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "2",
+            "title": "Countach",
+            "length": "3:50",
+            "deezer": {
+              "id": 95435086,
+              "link": "https://www.deezer.com/track/95435086",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dance Automaton Dance",
+            "length": "4:00",
+            "deezer": {
+              "id": 95435088,
+              "link": "https://www.deezer.com/track/95435088",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ice Ice Iceland",
+            "length": "5:23",
+            "deezer": {
+              "id": 95435090,
+              "link": "https://www.deezer.com/track/95435090",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "5",
+            "title": "Mkl Jksn",
+            "length": "4:04",
+            "deezer": {
+              "id": 95435092,
+              "link": "https://www.deezer.com/track/95435092",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "6",
+            "title": "Strobocop",
+            "length": "3:55",
+            "deezer": {
+              "id": 95435094,
+              "link": "https://www.deezer.com/track/95435094",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "Fin de Siècle",
+            "length": "4:15",
+            "deezer": {
+              "id": 95435096,
+              "link": "https://www.deezer.com/track/95435096",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ballet Mécanique",
+            "length": "4:53",
+            "deezer": {
+              "id": 95435098,
+              "link": "https://www.deezer.com/track/95435098",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ecliptic",
+            "length": "4:24",
+            "deezer": {
+              "id": 95435100,
+              "link": "https://www.deezer.com/track/95435100",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sonars",
+            "length": "5:44",
+            "deezer": {
+              "id": 95435102,
+              "link": "https://www.deezer.com/track/95435102",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mutiny On The Bounty/Digital Tropics.jpg"
+}

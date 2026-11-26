@@ -1,0 +1,51 @@
+{
+  "title": "Move",
+  "artist": "Adam Port & Stryv",
+  "year": 2024,
+  "release_date": "2024-06-07",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0f22e40d-b6ad-45ff-8054-e7fd5cd1f3cb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/593916522"
+  },
+  "musicbrainz_id": "0f22e40d-b6ad-45ff-8054-e7fd5cd1f3cb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6a4c5a0e-6f42-4a01-b367-86a36e4f1b00",
+      "barcode": "4251353210455",
+      "title": "Move",
+      "disambiguation": null,
+      "date": "2024-06-07",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Move",
+            "length": "2:58",
+            "deezer": {
+              "id": 2823893032,
+              "link": "https://www.deezer.com/track/2823893032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/6/0/7d6745ebb326eef6cd74ace29e2ba229.mp3?hdnea=exp=1795648918~acl=/api/1/1/7/d/6/0/7d6745ebb326eef6cd74ace29e2ba229.mp3*~data=user_id=0,application_id=42~hmac=7b9c60893ea9d8a8692e097345d1b4539e8b8ed3baa5e953488e6301176c9538",
+              "preview_expires": "2026-11-25T23:21:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Adam Port/Move.jpg"
+}

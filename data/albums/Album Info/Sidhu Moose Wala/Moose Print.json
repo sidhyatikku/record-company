@@ -1,0 +1,74 @@
+{
+  "title": "Moose Print",
+  "artist": "Sidhu Moose Wala",
+  "year": 2025,
+  "release_date": "2025-06-11",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/43a40415-61e7-4e8a-8d9b-20b57df604f4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/770700981"
+  },
+  "musicbrainz_id": "43a40415-61e7-4e8a-8d9b-20b57df604f4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3a40c8cd-6f09-42ff-8bb6-e6a587c64684",
+      "barcode": "5063655949785",
+      "title": "Moose Print",
+      "disambiguation": null,
+      "date": "2025-06-11",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "9:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "0008",
+            "length": "2:12",
+            "artist": "Sidhu Moose Wala & Jenny Johal",
+            "deezer": {
+              "id": 3408975781,
+              "link": "https://www.deezer.com/track/3408975781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/a/0/baa5c9b6f455972f7c24b548a3b672ec.mp3?hdnea=exp=1795720591~acl=/api/1/1/b/a/a/0/baa5c9b6f455972f7c24b548a3b672ec.mp3*~data=user_id=0,application_id=42~hmac=5774b0958896698481c10c68cc21185162d1bd918742dd68f82f97db97f008c8",
+              "preview_expires": "2026-11-26T19:16:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Neal",
+            "length": "3:20",
+            "deezer": {
+              "id": 3408975791,
+              "link": "https://www.deezer.com/track/3408975791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/4/0/d14d9f0dfa872b0a2bf2a9ae3b647129.mp3?hdnea=exp=1795720591~acl=/api/1/1/d/1/4/0/d14d9f0dfa872b0a2bf2a9ae3b647129.mp3*~data=user_id=0,application_id=42~hmac=8ffdf6c7cc075a916b62b6bebd15672f723875542fca20c1f8e586f533723398",
+              "preview_expires": "2026-11-26T19:16:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take Notes",
+            "length": "3:36",
+            "deezer": {
+              "id": 3408975801,
+              "link": "https://www.deezer.com/track/3408975801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/a/0/72a8391cadbb14caf60313627fe45f2b.mp3?hdnea=exp=1795720591~acl=/api/1/1/7/2/a/0/72a8391cadbb14caf60313627fe45f2b.mp3*~data=user_id=0,application_id=42~hmac=9e134f44c63773eaaf80de7c9450f6f3c94536b35a4f566212739911e0878054",
+              "preview_expires": "2026-11-26T19:16:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Moose Print.jpg"
+}

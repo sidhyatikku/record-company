@@ -1,0 +1,418 @@
+{
+  "title": "Nothing but the Beat",
+  "artist": "David Guetta",
+  "year": 2011,
+  "release_date": "2011-08-24",
+  "type": "Album",
+  "description": "Nothing but the Beat is the fifth studio album by French DJ and record producer David Guetta. It was released on 26 August 2011 as a double album. The first disc features collaborations with artists from the R&B, hip hop and pop worlds such as Lil Wayne, Taio Cruz, Nicki Minaj, Ludacris, Snoop Dogg, Afrojack, Chris Brown, Flo Rida, Usher, Jennifer Hudson, Dev, Timbaland, Jessie J and Sia. Also making guest appearances are will.i.am and Akon whom both previously collaborated with Guetta on his fourth studio album, One Love. In comparison, the second disc features purely instrumental tracks. The album is also Guetta's first album not to feature long-time collaborator Chris Willis on vocals. Critical reviews of the album were mixed.",
+  "genres": [
+    "electro house",
+    "electronic",
+    "house",
+    "electro",
+    "electropop",
+    "progressive house",
+    "dance-pop",
+    "festival progressive house",
+    "hip house"
+  ],
+  "tags": [
+    "electro house",
+    "electronic",
+    "house",
+    "electro",
+    "electropop",
+    "progressive house",
+    "dance-pop",
+    "none",
+    "festival progressive house",
+    "hip house",
+    "rhythmic",
+    "summer"
+  ],
+  "rating": {
+    "value_out_of_5": 4.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a2709bdb-e16e-4f71-b1aa-cc68119fb782",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nothing_but_the_Beat",
+    "allmusic": "https://www.allmusic.com/album/mw0002187771",
+    "discogs": "https://www.discogs.com/master/481648",
+    "wikidata": "https://www.wikidata.org/wiki/Q609073",
+    "deezer": "https://www.deezer.com/album/6168389"
+  },
+  "musicbrainz_id": "a2709bdb-e16e-4f71-b1aa-cc68119fb782",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7328c58f-81c6-4105-90ca-54e0d7199f65",
+      "barcode": "5099973523550",
+      "title": "Nothing But the Beat Ultimate",
+      "disambiguation": null,
+      "date": "2011-08-26",
+      "country": "BS"
+    },
+    "total_tracks": 30,
+    "total_length": "2:00:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Titanium",
+            "length": "4:05",
+            "artist": "David Guetta feat. Sia",
+            "deezer": {
+              "id": 62847142,
+              "link": "https://www.deezer.com/track/62847142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/0/0/6704168518eedd6eff222b5fb55f86c0.mp3?hdnea=exp=1795653185~acl=/api/1/1/6/7/0/0/6704168518eedd6eff222b5fb55f86c0.mp3*~data=user_id=0,application_id=42~hmac=2e0b9664fd82ec1155a88b0ae55bd39fffe11c80d78838b2ac8747d871639685",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Turn Me On",
+            "length": "3:20",
+            "artist": "David Guetta feat. Nicki Minaj",
+            "deezer": {
+              "id": 62847143,
+              "link": "https://www.deezer.com/track/62847143",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/0/0/5a09c583db468503756f75125ecf0613.mp3?hdnea=exp=1795653185~acl=/api/1/1/5/a/0/0/5a09c583db468503756f75125ecf0613.mp3*~data=user_id=0,application_id=42~hmac=b14ca9cf2c49b00bbf2ff30183a709382f5f5e32649b784728c03d286c835148",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "She Wolf (Falling to Pieces)",
+            "length": "3:42",
+            "artist": "David Guetta feat. Sia",
+            "deezer": {
+              "id": 62847144,
+              "link": "https://www.deezer.com/track/62847144",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/d/0/91db2fc594b1f18122dfc1aff7bd875d.mp3?hdnea=exp=1795653185~acl=/api/1/1/9/1/d/0/91db2fc594b1f18122dfc1aff7bd875d.mp3*~data=user_id=0,application_id=42~hmac=32902e7e6101488255ea63da47813a952f44379645522fc1d3c0d90b9b5e21f8",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Without You",
+            "length": "3:28",
+            "artist": "David Guetta feat. Usher",
+            "deezer": {
+              "id": 62847145,
+              "link": "https://www.deezer.com/track/62847145",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/a/0/b2a1058f9cd4bcaff6fd6689c0db72c5.mp3?hdnea=exp=1795653185~acl=/api/1/1/b/2/a/0/b2a1058f9cd4bcaff6fd6689c0db72c5.mp3*~data=user_id=0,application_id=42~hmac=0db159d7211640b61ad2b7b18b5f6af91df7bc66f70399cb71b31a3a3d51f03d",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Can Only Imagine",
+            "length": "3:30",
+            "artist": "David Guetta feat. Chris Brown & Lil Wayne",
+            "deezer": {
+              "id": 62847146,
+              "link": "https://www.deezer.com/track/62847146",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/6/0/556853bf735ae4b1c2925cfb1a7216af.mp3?hdnea=exp=1795653185~acl=/api/1/1/5/5/6/0/556853bf735ae4b1c2925cfb1a7216af.mp3*~data=user_id=0,application_id=42~hmac=0ff4df05de42e18a62bc8cc8fa2bf137e6ce62547f4e11d9d59bea490f3d9a6f",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Play Hard",
+            "length": "3:21",
+            "artist": "David Guetta feat. Ne‐Yo & Akon",
+            "deezer": {
+              "id": 62847147,
+              "link": "https://www.deezer.com/track/62847147",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/9/0/81926596f6d0f4acfc92c65f3a2a7eb1.mp3?hdnea=exp=1795653185~acl=/api/1/1/8/1/9/0/81926596f6d0f4acfc92c65f3a2a7eb1.mp3*~data=user_id=0,application_id=42~hmac=4f36289e1600ec56568f4b83017dfbb2870e4d75a720ea990bd53f5281e2eaca",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Wild One Two (Edit)",
+            "length": "3:10",
+            "artist": "Jack Back feat. David Guetta, Nicky Romero & Sia",
+            "deezer": {
+              "id": 67102111,
+              "link": "https://www.deezer.com/track/67102111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/1/0/8d1a43cf24193d2d322710523c902c48.mp3?hdnea=exp=1795653185~acl=/api/1/1/8/d/1/0/8d1a43cf24193d2d322710523c902c48.mp3*~data=user_id=0,application_id=42~hmac=fb75dabdba3e96e0464ca2456ca9ca7cc139939ba1cd6e1fa991b72e77dc2678",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Just One Last Time",
+            "length": "3:47",
+            "artist": "David Guetta feat. Taped Rai",
+            "deezer": {
+              "id": 62847148,
+              "link": "https://www.deezer.com/track/62847148",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/8/0/ab84492a5babd4dd68e1c7cf45d2e56a.mp3?hdnea=exp=1795653185~acl=/api/1/1/a/b/8/0/ab84492a5babd4dd68e1c7cf45d2e56a.mp3*~data=user_id=0,application_id=42~hmac=f1cc189e570cb36be3d98dbae27960f723a7873194cc0b125541a1bca6a956e0",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "In My Head",
+            "length": "3:51",
+            "artist": "David Guetta & Daddy’s Groove feat. Nervo",
+            "deezer": {
+              "id": 62847149,
+              "link": "https://www.deezer.com/track/62847149",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/f/0/82ff883060be0be623bbddd63ff84e69.mp3?hdnea=exp=1795653185~acl=/api/1/1/8/2/f/0/82ff883060be0be623bbddd63ff84e69.mp3*~data=user_id=0,application_id=42~hmac=0c7b2336e996a8bb8a47de76280f5d75477db8fe4db5a762f4a7150cab4e918f",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Where Them Girls At",
+            "length": "3:15",
+            "artist": "David Guetta feat. Nicki Minaj & Flo Rida",
+            "deezer": {
+              "id": 62847150,
+              "link": "https://www.deezer.com/track/62847150",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/1/0/c51082f95148f0fbfe29856440ab4b99.mp3?hdnea=exp=1795653185~acl=/api/1/1/c/5/1/0/c51082f95148f0fbfe29856440ab4b99.mp3*~data=user_id=0,application_id=42~hmac=67b9a7fbf33e4e17a568138c67029e4bae3867a821a3848403f1f5a8687cece5",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Little Bad Girl",
+            "length": "3:12",
+            "artist": "David Guetta feat. Taio Cruz & Ludacris",
+            "deezer": {
+              "id": 62847151,
+              "link": "https://www.deezer.com/track/62847151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/a/0/ffad5d64b725fcf1dbf8ce355810ce5f.mp3?hdnea=exp=1795653185~acl=/api/1/1/f/f/a/0/ffad5d64b725fcf1dbf8ce355810ce5f.mp3*~data=user_id=0,application_id=42~hmac=6dbfee5d7d36227ddd9ea50ffff9a592f3b1ebcd34eefd4eaf0266ba2077b386",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Sweat (Remix)",
+            "length": "3:16",
+            "artist": "Snoop Dogg vs. David Guetta"
+          },
+          {
+            "number": "13",
+            "title": "Crank It Up",
+            "length": "3:13",
+            "artist": "David Guetta feat. Akon",
+            "deezer": {
+              "id": 62847152,
+              "link": "https://www.deezer.com/track/62847152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/4/0/b24d648cc6cc9e79636447c60c942b96.mp3?hdnea=exp=1795653185~acl=/api/1/1/b/2/4/0/b24d648cc6cc9e79636447c60c942b96.mp3*~data=user_id=0,application_id=42~hmac=8172cf53e77cb2e86eedfc3fd286d1d399be506b7e48b09135976b7d7bd49230",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Nothing Really Matters",
+            "length": "3:40",
+            "artist": "David Guetta feat. will.i.am",
+            "deezer": {
+              "id": 62847153,
+              "link": "https://www.deezer.com/track/62847153",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/9/0/5893e00340750dd50052bbe432b7d174.mp3?hdnea=exp=1795653185~acl=/api/1/1/5/8/9/0/5893e00340750dd50052bbe432b7d174.mp3*~data=user_id=0,application_id=42~hmac=a535b8110b687df21638d39a86717c61d2cc93587e6d9ba7077597fd71e895bb",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "I Just Wanna F.",
+            "length": "3:23",
+            "artist": "David Guetta & Afrojack feat. Timbaland & DEV",
+            "deezer": {
+              "id": 62847154,
+              "link": "https://www.deezer.com/track/62847154",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/0/0/4f0497e4e60324acad184d7c1155a888.mp3?hdnea=exp=1795653185~acl=/api/1/1/4/f/0/0/4f0497e4e60324acad184d7c1155a888.mp3*~data=user_id=0,application_id=42~hmac=ba27907ffc419936b037979117489416d8ba082eea9fc7ded1f1965a0c36f207",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Night of Your Life",
+            "length": "3:42",
+            "artist": "David Guetta feat. Jennifer Hudson",
+            "deezer": {
+              "id": 62847155,
+              "link": "https://www.deezer.com/track/62847155",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/6/0/3c61391fec9b809ced76ada72d533385.mp3?hdnea=exp=1795653185~acl=/api/1/1/3/c/6/0/3c61391fec9b809ced76ada72d533385.mp3*~data=user_id=0,application_id=42~hmac=ca03afb22de35f52b199f32094672732ae48be626b9c22ef702480fb92684a1a",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Repeat",
+            "length": "3:26",
+            "artist": "David Guetta feat. Jessie J",
+            "deezer": {
+              "id": 62847156,
+              "link": "https://www.deezer.com/track/62847156",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/7/0/6e7c649bc8c7833f36390e955136144a.mp3?hdnea=exp=1795653185~acl=/api/1/1/6/e/7/0/6e7c649bc8c7833f36390e955136144a.mp3*~data=user_id=0,application_id=42~hmac=6bda04ce5f6b0fe454ccae5e749c02e489d9cdf5279dfd1962425c7b1e53b38e",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Every Chance We Get We Run",
+            "length": "4:00",
+            "artist": "David Guetta & Alesso feat. Tegan & Sara",
+            "deezer": {
+              "id": 62847157,
+              "link": "https://www.deezer.com/track/62847157",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/c/0/f7c955a4cb088c6d3e8c0720d25b102d.mp3?hdnea=exp=1795653185~acl=/api/1/1/f/7/c/0/f7c955a4cb088c6d3e8c0720d25b102d.mp3*~data=user_id=0,application_id=42~hmac=4b6fd0a2e6fc00d1cf8e4056b28fa0f9ac0a15a8c7013d91df2f7514f017c53f",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sunshine",
+            "length": "6:01",
+            "artist": "David Guetta & Avicii",
+            "deezer": {
+              "id": 62847158,
+              "link": "https://www.deezer.com/track/62847158",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/4/0/81496be4a7f9ddcc0a890ab8554406b0.mp3?hdnea=exp=1795653185~acl=/api/1/1/8/1/4/0/81496be4a7f9ddcc0a890ab8554406b0.mp3*~data=user_id=0,application_id=42~hmac=828485f3e1ea5673139abb9bf314ee31330b89bd1a98e1b5f426b76971f096c4",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lunar",
+            "length": "5:17",
+            "artist": "David Guetta & Afrojack",
+            "deezer": {
+              "id": 62847159,
+              "link": "https://www.deezer.com/track/62847159",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/b/0/6db2e468f82be0cee8f4f3883b1fad2f.mp3?hdnea=exp=1795653185~acl=/api/1/1/6/d/b/0/6db2e468f82be0cee8f4f3883b1fad2f.mp3*~data=user_id=0,application_id=42~hmac=0bba1c1c80dab196eb3f11af62b36b6e0402d5c1d327f95a82bb186b33bc8a1b",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "What the F***",
+            "length": "4:08",
+            "deezer": {
+              "id": 62847160,
+              "link": "https://www.deezer.com/track/62847160",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/1/0/b418d57b535ec54bc8a2fe159b7dd9ee.mp3?hdnea=exp=1795653185~acl=/api/1/1/b/4/1/0/b418d57b535ec54bc8a2fe159b7dd9ee.mp3*~data=user_id=0,application_id=42~hmac=70ff1ff8d27ae5cd660cb14fa77f7762388791758bed3eb6d1612e600f835d73",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Metropolis",
+            "length": "5:30",
+            "artist": "David Guetta & Nicky Romero",
+            "deezer": {
+              "id": 62847161,
+              "link": "https://www.deezer.com/track/62847161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/3/0/a732bc4899b703302aafcd0554d7e089.mp3?hdnea=exp=1795653185~acl=/api/1/1/a/7/3/0/a732bc4899b703302aafcd0554d7e089.mp3*~data=user_id=0,application_id=42~hmac=90d5d45bf8262fd7b34b637dc880d2734d9dfebeb3aba37f176dd6b67581e4b2",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Alphabeat",
+            "length": "4:29",
+            "deezer": {
+              "id": 62847162,
+              "link": "https://www.deezer.com/track/62847162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/f/0/8ef7ceaf8c1c4d6c67cfe3c6ff68e35a.mp3?hdnea=exp=1795653185~acl=/api/1/1/8/e/f/0/8ef7ceaf8c1c4d6c67cfe3c6ff68e35a.mp3*~data=user_id=0,application_id=42~hmac=92a6603d4d2c7fb5525ce2325e75dd915ed38eb8c373a9fbc2efbc3ed854d200",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Metro Music",
+            "length": "4:13",
+            "deezer": {
+              "id": 62847163,
+              "link": "https://www.deezer.com/track/62847163",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/2/0/f229977ca7d4094496d9d2261b937125.mp3?hdnea=exp=1795653185~acl=/api/1/1/f/2/2/0/f229977ca7d4094496d9d2261b937125.mp3*~data=user_id=0,application_id=42~hmac=ffeb96f824563412218e9071d4fbd52134046e6e621bbd7c03a9ca3395529015",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Toy Story",
+            "length": "3:45",
+            "deezer": {
+              "id": 62847164,
+              "link": "https://www.deezer.com/track/62847164",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/0/0/a20deb51fe2dde274ffeb14f672d4910.mp3?hdnea=exp=1795653185~acl=/api/1/1/a/2/0/0/a20deb51fe2dde274ffeb14f672d4910.mp3*~data=user_id=0,application_id=42~hmac=acd51fad8419ab85e3090946bb4e2030b02c4a4ce0e3ab6bcf8b6a36eca2588f",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Future",
+            "length": "4:17",
+            "artist": "David Guetta & Afrojack",
+            "deezer": {
+              "id": 62847165,
+              "link": "https://www.deezer.com/track/62847165",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/a/0/43acd27a7e8c511dc39a5e1aa4c2ca0a.mp3?hdnea=exp=1795653185~acl=/api/1/1/4/3/a/0/43acd27a7e8c511dc39a5e1aa4c2ca0a.mp3*~data=user_id=0,application_id=42~hmac=cf47aa81a4222c1ac5f68bcfc928fdce3c9bdb61b185421c246777122ea857af",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dreams",
+            "length": "4:49",
+            "deezer": {
+              "id": 62847166,
+              "link": "https://www.deezer.com/track/62847166",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/f/0/d6ff24f80978486fb1d20feb0156d555.mp3?hdnea=exp=1795653185~acl=/api/1/1/d/6/f/0/d6ff24f80978486fb1d20feb0156d555.mp3*~data=user_id=0,application_id=42~hmac=12ba5fda038246f0a7e861fd5de2a905933ed13c11ba0f9ca4cf8d66e4690fec",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Paris",
+            "length": "4:41",
+            "deezer": {
+              "id": 62847167,
+              "link": "https://www.deezer.com/track/62847167",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/f/0/d8fd9a85674ea3a9327cf35f9e616cf1.mp3?hdnea=exp=1795653185~acl=/api/1/1/d/8/f/0/d8fd9a85674ea3a9327cf35f9e616cf1.mp3*~data=user_id=0,application_id=42~hmac=94114a39b242f31e0d5a6595709789209ad8202368a6e3c6fa39b88515bb7e82",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Glasgow",
+            "length": "5:14",
+            "deezer": {
+              "id": 62847168,
+              "link": "https://www.deezer.com/track/62847168",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/8/0/528677b96a6c65499c93b5e792e4c501.mp3?hdnea=exp=1795653185~acl=/api/1/1/5/2/8/0/528677b96a6c65499c93b5e792e4c501.mp3*~data=user_id=0,application_id=42~hmac=dfa54907d0af65b9e436c62f6877ca415d98b3fded2bcf4bd733b1fdf48744d7",
+              "preview_expires": "2026-11-26T00:33:05Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Little Bad Girl (Club Mix) (Instrumental)",
+            "length": "5:12",
+            "artist": "David Guetta, Ludacris & Taio Cruz"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/David Guetta/Nothing but the Beat.jpg"
+}

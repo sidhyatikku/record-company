@@ -1,0 +1,51 @@
+{
+  "title": "Let You Go",
+  "artist": "Biscits",
+  "year": 2020,
+  "release_date": "2020-08-28",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4cf2a29e-4f18-4f41-8613-61d368f07698",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/688477291"
+  },
+  "musicbrainz_id": "4cf2a29e-4f18-4f41-8613-61d368f07698",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e6225369-fd51-4a3b-a7a3-812cb61840fb",
+      "barcode": "735119561875",
+      "title": "Let Me Show You",
+      "disambiguation": null,
+      "date": "2020-08-28",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Let Me Show You",
+            "length": "3:29",
+            "deezer": {
+              "id": 3158426441,
+              "link": "https://www.deezer.com/track/3158426441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/d/0/e9d73681d1e14b2146f5971c4d976176.mp3?hdnea=exp=1795652061~acl=/api/1/1/e/9/d/0/e9d73681d1e14b2146f5971c4d976176.mp3*~data=user_id=0,application_id=42~hmac=d94a8adaf3a14ee9ffa8dcd3e1020abf8ca31070eccc9fe39ebe49204de993b3",
+              "preview_expires": "2026-11-26T00:14:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Biscits/Let You Go.jpg"
+}

@@ -1,0 +1,179 @@
+{
+  "title": "Spice",
+  "artist": "Spice Girls",
+  "year": 1996,
+  "release_date": "1996-09-19",
+  "type": "Album",
+  "description": "Spice is the debut studio album by English girl group the Spice Girls, released in Japan on 19 September 1996 and in the United Kingdom on 4 November 1996 by Virgin Records. The album was recorded between 1995 and 1996 at Olympic Studios in Barnes, London, and Strongroom Studios in Shoreditch, London, by producers Matt Rowe and Richard Stannard, and the production duo Absolute. Spice is a pop album that incorporates styles such as dance, R&B and hip hop. It is considered to be the record that brought teen pop back, opening the doors for a wave of teen pop artists. Conceptually, the album centered on the idea of Girl Power, and the hype surrounding the group was compared to Beatlemania.",
+  "genres": [
+    "pop",
+    "dance",
+    "electronic",
+    "hip hop",
+    "rock",
+    "ballad",
+    "dance-pop",
+    "synth-pop"
+  ],
+  "tags": [
+    "pop",
+    "rnb swing",
+    "dance",
+    "electronic",
+    "hip hop",
+    "rock",
+    "5+ wochen",
+    "ballad",
+    "dance-pop",
+    "offizielle charts",
+    "rerip pop",
+    "synth-pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4180845c-8700-3fda-af8f-0b9f3a932009",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spice_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000089458",
+    "discogs": "https://www.discogs.com/master/77259",
+    "wikidata": "https://www.wikidata.org/wiki/Q818781",
+    "deezer": "https://www.deezer.com/album/302002"
+  },
+  "musicbrainz_id": "4180845c-8700-3fda-af8f-0b9f3a932009",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1f3322d5-a884-4052-918a-52ad61c45f1c",
+      "barcode": "724384217457",
+      "title": "Spice",
+      "disambiguation": null,
+      "date": "2016-08-15",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "40:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wannabe (radio edit)",
+            "length": "2:53",
+            "deezer": {
+              "id": 3133738,
+              "link": "https://www.deezer.com/track/3133738",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/c/0/b8cac96000eea3ee3fb1c6c363c2d95e.mp3?hdnea=exp=1795720899~acl=/api/1/1/b/8/c/0/b8cac96000eea3ee3fb1c6c363c2d95e.mp3*~data=user_id=0,application_id=42~hmac=504edfa14ac6ed0977c80bd4d364254262022625532d0c4283352b4f884c57f3",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Say You’ll Be There (single mix)",
+            "length": "3:56",
+            "deezer": {
+              "id": 3133739,
+              "link": "https://www.deezer.com/track/3133739",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/5/0/8951e31c59ba9fdb02d64be92f24b33f.mp3?hdnea=exp=1795720899~acl=/api/1/1/8/9/5/0/8951e31c59ba9fdb02d64be92f24b33f.mp3*~data=user_id=0,application_id=42~hmac=8a95fa5917651c04c3aa768fe43b55005fecd8f19eb144d837472f515d64502a",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "2 Become 1",
+            "length": "4:01",
+            "deezer": {
+              "id": 3133740,
+              "link": "https://www.deezer.com/track/3133740",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/2/0/7e237bdd237e19fd59447e9f3e959175.mp3?hdnea=exp=1795720899~acl=/api/1/1/7/e/2/0/7e237bdd237e19fd59447e9f3e959175.mp3*~data=user_id=0,application_id=42~hmac=544daf4d96ef9875c3d94cf7669af75dce9690578b874f8489615135c23d992e",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Love Thing",
+            "length": "3:39",
+            "deezer": {
+              "id": 3133741,
+              "link": "https://www.deezer.com/track/3133741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/3/0/3239b516dffb6b5d24814d33317553c2.mp3?hdnea=exp=1795720899~acl=/api/1/1/3/2/3/0/3239b516dffb6b5d24814d33317553c2.mp3*~data=user_id=0,application_id=42~hmac=c91abd0d10a645ed0c6e721b4ff5dc7aea780756fa2f95a1a197fc5e615fce17",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Last Time Lover",
+            "length": "4:12",
+            "deezer": {
+              "id": 3133742,
+              "link": "https://www.deezer.com/track/3133742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/0/0/75064575bf3af88a992637d4163436b5.mp3?hdnea=exp=1795720899~acl=/api/1/1/7/5/0/0/75064575bf3af88a992637d4163436b5.mp3*~data=user_id=0,application_id=42~hmac=01c8f61a4f2530992519ee289a0f153fd462c8e5cc05dae1b597f9375848d5a8",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mama",
+            "length": "5:05",
+            "deezer": {
+              "id": 3133743,
+              "link": "https://www.deezer.com/track/3133743",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/e/0/b1e756bc7019258c584faa4aa5473550.mp3?hdnea=exp=1795720899~acl=/api/1/1/b/1/e/0/b1e756bc7019258c584faa4aa5473550.mp3*~data=user_id=0,application_id=42~hmac=a55c082ae1a0096286aa62a4baa867e5f5e08be90a525e9fd74587c144bffae0",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Who Do You Think You Are",
+            "length": "4:01",
+            "deezer": {
+              "id": 3133744,
+              "link": "https://www.deezer.com/track/3133744",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/9/0/dd9d1acaa7abab4159ddab9bf2867980.mp3?hdnea=exp=1795720899~acl=/api/1/1/d/d/9/0/dd9d1acaa7abab4159ddab9bf2867980.mp3*~data=user_id=0,application_id=42~hmac=55608493f2641a212abd03669acd9272ba09d8949d6f1e0918f827eb2d8dda7c",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Something Kinda Funny",
+            "length": "4:05",
+            "deezer": {
+              "id": 3133745,
+              "link": "https://www.deezer.com/track/3133745",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/a/0/a2ac514c4c4385913e4fce3a10eeb58f.mp3?hdnea=exp=1795720899~acl=/api/1/1/a/2/a/0/a2ac514c4c4385913e4fce3a10eeb58f.mp3*~data=user_id=0,application_id=42~hmac=0ed9380c077354d3e9b06d34fc5883f4f893614e26ec1f00a258f155f1ff1175",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Naked",
+            "length": "4:26",
+            "deezer": {
+              "id": 3133746,
+              "link": "https://www.deezer.com/track/3133746",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/0/0/d400b2679e880e552ec86c5cb7f00632.mp3?hdnea=exp=1795720899~acl=/api/1/1/d/4/0/0/d400b2679e880e552ec86c5cb7f00632.mp3*~data=user_id=0,application_id=42~hmac=0b1cca52266dfd889fded6eae9bfae61cb72f1b35f3c5153cda6ed208998e2b8",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "If U Can’t Dance",
+            "length": "3:49",
+            "deezer": {
+              "id": 3133747,
+              "link": "https://www.deezer.com/track/3133747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/2/0/f92848a6ec6d0ed01bebc1b0580cfed8.mp3?hdnea=exp=1795720899~acl=/api/1/1/f/9/2/0/f92848a6ec6d0ed01bebc1b0580cfed8.mp3*~data=user_id=0,application_id=42~hmac=83c6c5f34f4d13022e4aee090e04f33d7ceca3a994ae374e7e231d22d1117308",
+              "preview_expires": "2026-11-26T19:21:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Spice Girls/Spice.jpg"
+}

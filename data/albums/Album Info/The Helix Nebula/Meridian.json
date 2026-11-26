@@ -1,0 +1,111 @@
+{
+  "title": "Meridian",
+  "artist": "The Helix Nebula",
+  "year": 2014,
+  "release_date": "2014-08-29",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "progressive metal"
+  ],
+  "tags": [
+    "progressive metal"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e2acdbb5-1c3d-46c7-89da-53d4abd3b653",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/8521729"
+  },
+  "musicbrainz_id": "e2acdbb5-1c3d-46c7-89da-53d4abd3b653",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/44c2b43e-fc4c-4012-b197-57cfa5dc50ca",
+      "barcode": "859713133723",
+      "title": "Meridian",
+      "disambiguation": null,
+      "date": "2014-08-29",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "27:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sea of Suns",
+            "length": "5:45",
+            "deezer": {
+              "id": 84553833,
+              "link": "https://www.deezer.com/track/84553833",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/a/0/a9aec75c54f91df2579829763a4bb127.mp3?hdnea=exp=1795721518~acl=/api/1/1/a/9/a/0/a9aec75c54f91df2579829763a4bb127.mp3*~data=user_id=0,application_id=42~hmac=10b0a396ebdddf5c433b520a4b3eadf5bd1e4230be72976bf273618acb21e459",
+              "preview_expires": "2026-11-26T19:31:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Temple",
+            "length": "3:47",
+            "deezer": {
+              "id": 84553835,
+              "link": "https://www.deezer.com/track/84553835",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/e/0/39e08a4bf4ea3c265d3b42c4a757890a.mp3?hdnea=exp=1795721518~acl=/api/1/1/3/9/e/0/39e08a4bf4ea3c265d3b42c4a757890a.mp3*~data=user_id=0,application_id=42~hmac=900ea1d283e7cf7f54faf4f84a88428e405cf40cc43563662e23bc0fd8181feb",
+              "preview_expires": "2026-11-26T19:31:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Convalescence",
+            "length": "3:16",
+            "deezer": {
+              "id": 84553837,
+              "link": "https://www.deezer.com/track/84553837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/1/0/591b964777620f58a725c02ce4666a02.mp3?hdnea=exp=1795721518~acl=/api/1/1/5/9/1/0/591b964777620f58a725c02ce4666a02.mp3*~data=user_id=0,application_id=42~hmac=77906ae939502a801d257b4c7e700a0d7e33aa45f76d5225616fee1b6653a3b5",
+              "preview_expires": "2026-11-26T19:31:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Time Piece",
+            "length": "4:03",
+            "deezer": {
+              "id": 84553839,
+              "link": "https://www.deezer.com/track/84553839",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/e/0/37efee879a85e85b6f9162a2930e9b5b.mp3?hdnea=exp=1795721518~acl=/api/1/1/3/7/e/0/37efee879a85e85b6f9162a2930e9b5b.mp3*~data=user_id=0,application_id=42~hmac=68d786de26653a894aaad582aa98273e1c8c4af88dcc670ba3abe76823f66897",
+              "preview_expires": "2026-11-26T19:31:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sailing Stone",
+            "length": "5:30",
+            "artist": "The Helix Nebula feat. Plini",
+            "deezer": {
+              "id": 84553841,
+              "link": "https://www.deezer.com/track/84553841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/4/0/9544b97318d04f2be4e9835f8c006c64.mp3?hdnea=exp=1795721518~acl=/api/1/1/9/5/4/0/9544b97318d04f2be4e9835f8c006c64.mp3*~data=user_id=0,application_id=42~hmac=3d2283c811f0d87a4acca8419271c2e5f95227c9557754f00f4c76340bcdb0ae",
+              "preview_expires": "2026-11-26T19:31:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Crystal Plains",
+            "length": "5:30",
+            "deezer": {
+              "id": 84553843,
+              "link": "https://www.deezer.com/track/84553843",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/0/0/280812a22a51cc853bb63401e960f1c1.mp3?hdnea=exp=1795721518~acl=/api/1/1/2/8/0/0/280812a22a51cc853bb63401e960f1c1.mp3*~data=user_id=0,application_id=42~hmac=f8ee057a817b8c937c19a8735f01a963d2aa9eb673e7e2a41a04486d055350f4",
+              "preview_expires": "2026-11-26T19:31:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Helix Nebula/Meridian.jpg"
+}

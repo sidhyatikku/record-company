@@ -1,0 +1,51 @@
+{
+  "title": "Leon the Professional",
+  "artist": "Knucks",
+  "year": 2022,
+  "release_date": "2022-03-03",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c732a178-6d91-45e0-9efc-d8edca7c1abd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/294711212"
+  },
+  "musicbrainz_id": "c732a178-6d91-45e0-9efc-d8edca7c1abd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/276d5a1c-1d26-4554-a134-36001a049a8b",
+      "barcode": "3616844263852",
+      "title": "Leon the Professional",
+      "disambiguation": null,
+      "date": "2022-03-03",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Leon the Professional",
+            "length": "3:01",
+            "deezer": {
+              "id": 1651995292,
+              "link": "https://www.deezer.com/track/1651995292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/9/0/74926552b82c21fa36b2efb01decd513.mp3?hdnea=exp=1795656264~acl=/api/1/1/7/4/9/0/74926552b82c21fa36b2efb01decd513.mp3*~data=user_id=0,application_id=42~hmac=d80aa6240ff9a246fd3061cd67e47bbdbab068335d1110853fd6d12aeb20539a",
+              "preview_expires": "2026-11-26T01:24:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Knucks/Leon the Professional.jpg"
+}

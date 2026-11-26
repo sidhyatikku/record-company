@@ -1,0 +1,44 @@
+{
+  "title": "Maya",
+  "artist": "Alboe",
+  "year": 2022,
+  "release_date": "2022-03-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3xAxWVdjrP7BFDb4kEYi7s",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3xAxWVdjrP7BFDb4kEYi7s",
+      "title": "Maya",
+      "date": "2022-03-24"
+    },
+    "total_tracks": 1,
+    "total_length": "5:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Maya",
+            "length": "5:48"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Alboe/Maya.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Dhuan",
+  "artist": "Alboe",
+  "year": 2026,
+  "release_date": "2026-09-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1IZBz8XLCGOY1s6jIgXMrn",
+    "deezer": "https://www.deezer.com/album/1054627322"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1IZBz8XLCGOY1s6jIgXMrn",
+      "title": "Dhuan",
+      "date": "2026-09-03"
+    },
+    "total_tracks": 1,
+    "total_length": "5:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dhuan",
+            "length": "5:08",
+            "artist": "Alboe, Mai3ya",
+            "deezer": {
+              "id": 4224939752,
+              "link": "https://www.deezer.com/track/4224939752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/1/0/b61bd8e6225351a7f2eb48bd834f11e6.mp3?hdnea=exp=1795649061~acl=/api/1/1/b/6/1/0/b61bd8e6225351a7f2eb48bd834f11e6.mp3*~data=user_id=0,application_id=42~hmac=a7c6b5d08beddd7d0430e3696337bf6b74fc60905be564e60f25bfa75169e889",
+              "preview_expires": "2026-11-25T23:24:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Alboe/Dhuan.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "title": "I Found You",
+  "artist": "Daniel Kyo",
+  "year": 2013,
+  "release_date": "2013-10-28",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b06f6d4c-b4cf-403c-98e0-669f35e1977a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/7031330"
+  },
+  "musicbrainz_id": "b06f6d4c-b4cf-403c-98e0-669f35e1977a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f5a4e7ef-47b1-4904-9ca3-08cfc0a26594",
+      "barcode": null,
+      "title": "I Found You",
+      "disambiguation": null,
+      "date": "2013-10-28",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "27:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Found You (original mix)",
+            "length": "6:05",
+            "deezer": {
+              "id": 71565945,
+              "link": "https://www.deezer.com/track/71565945",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/6/0/c7630095379419aba11c21f21079f0de.mp3?hdnea=exp=1795653092~acl=/api/1/1/c/7/6/0/c7630095379419aba11c21f21079f0de.mp3*~data=user_id=0,application_id=42~hmac=b5bbdd065433a2621bfdad74b38a94cfcc79a1e21b933a211efd0cfe225c0909",
+              "preview_expires": "2026-11-26T00:31:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "That Kind Of Music (original mix)",
+            "length": "6:28",
+            "deezer": {
+              "id": 71565946,
+              "link": "https://www.deezer.com/track/71565946",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/d/0/09d8b551c93a7cfe53e9cfc62b3aa39a.mp3?hdnea=exp=1795653092~acl=/api/1/1/0/9/d/0/09d8b551c93a7cfe53e9cfc62b3aa39a.mp3*~data=user_id=0,application_id=42~hmac=5edda3299d1b49593e963e57506faad26460457b891f347983d938f6a727ceb3",
+              "preview_expires": "2026-11-26T00:31:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "As Sweet As Last Time (El Txef A remix)",
+            "length": "8:29",
+            "deezer": {
+              "id": 71565947,
+              "link": "https://www.deezer.com/track/71565947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/6/0/ed67e2ebcae9477d2984ca65b5bc3317.mp3?hdnea=exp=1795653092~acl=/api/1/1/e/d/6/0/ed67e2ebcae9477d2984ca65b5bc3317.mp3*~data=user_id=0,application_id=42~hmac=899edb38ca74517e7e5900bde7decc924124bce8c749ef5e1b37bd6c87ae425a",
+              "preview_expires": "2026-11-26T00:31:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "As Sweet As Last Time (original mix)",
+            "length": "6:43",
+            "artist": "Daniel Kyo & El_Txef_A",
+            "deezer": {
+              "id": 71565948,
+              "link": "https://www.deezer.com/track/71565948",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/2/0/342405df77ab2b2780d1d02c316eeae8.mp3?hdnea=exp=1795653092~acl=/api/1/1/3/4/2/0/342405df77ab2b2780d1d02c316eeae8.mp3*~data=user_id=0,application_id=42~hmac=852948473051eb48a96d4f2d8c549cd93c74c5b56ba17066abdb4faee280c83c",
+              "preview_expires": "2026-11-26T00:31:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Daniel Kyo/I Found You.jpg"
+}

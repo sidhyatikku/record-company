@@ -1,0 +1,154 @@
+{
+  "title": "ANIMA",
+  "artist": "Thom Yorke",
+  "year": 2019,
+  "release_date": "2019-06-26",
+  "type": "Album",
+  "description": "Anima is the third studio album by the English musician Thom Yorke, released on 27 June 2019 through XL Recordings. It was produced by Yorke's longtime collaborator Nigel Godrich.",
+  "genres": [
+    "electronic",
+    "ambient pop",
+    "rock"
+  ],
+  "tags": [
+    "electronic",
+    "ambient pop",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.75,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/447435e2-8395-45f5-812b-f03f7525c8d6",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anima_(Thom_Yorke_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003292927",
+    "discogs": "https://www.discogs.com/master/1578177",
+    "wikidata": "https://www.wikidata.org/wiki/Q64760277",
+    "deezer": "https://www.deezer.com/album/101793962"
+  },
+  "musicbrainz_id": "447435e2-8395-45f5-812b-f03f7525c8d6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f4f39eef-fa47-48e4-bc57-9ef53393164c",
+      "barcode": "191404098752",
+      "title": "ANIMA",
+      "disambiguation": null,
+      "date": "2019-06-26",
+      "country": "XE"
+    },
+    "total_tracks": 9,
+    "total_length": "47:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Traffic",
+            "length": "5:18",
+            "deezer": {
+              "id": 703866562,
+              "link": "https://www.deezer.com/track/703866562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/1/0/ce1fb7bb4c20e0b063a9fb0828e7d9fe.mp3?hdnea=exp=1795721870~acl=/api/1/1/c/e/1/0/ce1fb7bb4c20e0b063a9fb0828e7d9fe.mp3*~data=user_id=0,application_id=42~hmac=048c2065db8389f77f2b2e7584d7f58c181adac75141776c66515dae5745799d",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Last I Heard (…He Was Circling the Drain)",
+            "length": "5:07",
+            "deezer": {
+              "id": 703866572,
+              "link": "https://www.deezer.com/track/703866572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/8/0/3f80c0b17f0be39165f428a5ed980711.mp3?hdnea=exp=1795721870~acl=/api/1/1/3/f/8/0/3f80c0b17f0be39165f428a5ed980711.mp3*~data=user_id=0,application_id=42~hmac=47b27155f5cf50ed0f437f3815a76ea7d284bb811948f23ba29e91a34281ab1a",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Twist",
+            "length": "7:03",
+            "deezer": {
+              "id": 703866582,
+              "link": "https://www.deezer.com/track/703866582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/9/0/9d998f684b616a2a6d49d22aea7aa8aa.mp3?hdnea=exp=1795721870~acl=/api/1/1/9/d/9/0/9d998f684b616a2a6d49d22aea7aa8aa.mp3*~data=user_id=0,application_id=42~hmac=b464a26b31981fee4fb74fd2fa44319484390e5f623259d795e0d6de33cebbf6",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dawn Chorus",
+            "length": "5:23",
+            "deezer": {
+              "id": 703866592,
+              "link": "https://www.deezer.com/track/703866592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/a/0/74a74be2c44bea42bd191ead1c099b97.mp3?hdnea=exp=1795721870~acl=/api/1/1/7/4/a/0/74a74be2c44bea42bd191ead1c099b97.mp3*~data=user_id=0,application_id=42~hmac=67d0b7da0be2fe533bf052f111551043f668328f383fc6f2e789a63b62419461",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Am a Very Rude Person",
+            "length": "3:45",
+            "deezer": {
+              "id": 703866602,
+              "link": "https://www.deezer.com/track/703866602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/6/0/3667d19c1fe283b0269d2139a67e9f65.mp3?hdnea=exp=1795721870~acl=/api/1/1/3/6/6/0/3667d19c1fe283b0269d2139a67e9f65.mp3*~data=user_id=0,application_id=42~hmac=54791f441206350467f9f5cb08213a41ed2dce7ec68eb3048f06e93609d9fde3",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Not the News",
+            "length": "3:57",
+            "deezer": {
+              "id": 703866612,
+              "link": "https://www.deezer.com/track/703866612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/c/0/71c44999de2dfe1d80cbecab4c3b227e.mp3?hdnea=exp=1795721870~acl=/api/1/1/7/1/c/0/71c44999de2dfe1d80cbecab4c3b227e.mp3*~data=user_id=0,application_id=42~hmac=e12467baebf5cdcd3f52204fbd0c59b192187ea5cba67cc438a4d7ff5b90e252",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Axe",
+            "length": "6:59",
+            "deezer": {
+              "id": 703866622,
+              "link": "https://www.deezer.com/track/703866622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/2/0/f72ac66b0ba4c238db8b3edce5a3b4cd.mp3?hdnea=exp=1795721870~acl=/api/1/1/f/7/2/0/f72ac66b0ba4c238db8b3edce5a3b4cd.mp3*~data=user_id=0,application_id=42~hmac=56b9b9b7a0b1b64f982476ef42ed024ab26180fb1c0913591d4d5d17c9319e40",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Impossible Knots",
+            "length": "4:20",
+            "deezer": {
+              "id": 703866632,
+              "link": "https://www.deezer.com/track/703866632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/0/0/270c4df0c6d313ffd8bfbd801d95c707.mp3?hdnea=exp=1795721870~acl=/api/1/1/2/7/0/0/270c4df0c6d313ffd8bfbd801d95c707.mp3*~data=user_id=0,application_id=42~hmac=6d96cb6064af2913e39575f2d3fdbf529f7d9b32484d5e47951c18bf52b5209c",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Runwayaway",
+            "length": "5:57",
+            "deezer": {
+              "id": 703866642,
+              "link": "https://www.deezer.com/track/703866642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/2/0/9629e93894ad48123786b0247a0166b0.mp3?hdnea=exp=1795721870~acl=/api/1/1/9/6/2/0/9629e93894ad48123786b0247a0166b0.mp3*~data=user_id=0,application_id=42~hmac=38d03abfacf9fcefc16424390aafc07f300bdd649a47100c705a4a4e95bd274f",
+              "preview_expires": "2026-11-26T19:37:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Thom Yorke/ANIMA.jpg"
+}

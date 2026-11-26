@@ -1,0 +1,144 @@
+{
+  "title": "Kailasa",
+  "artist": "Kailash Kher",
+  "year": 2006,
+  "release_date": "2006-02-24",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "indian pop"
+  ],
+  "tags": [
+    "indian pop",
+    "pop/debut"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1fab27c6-647a-3033-88ab-4a9c8b8f499a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/75155"
+  },
+  "musicbrainz_id": "1fab27c6-647a-3033-88ab-4a9c8b8f499a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/597cf7d7-e4fe-4980-b1ca-05673e6f89f3",
+      "barcode": "888880944832",
+      "title": "Kailasa",
+      "disambiguation": null,
+      "date": "2006-02-24",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "39:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Teri Deewani",
+            "length": "5:24",
+            "deezer": {
+              "id": 584604,
+              "link": "https://www.deezer.com/track/584604",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/8/0/5e85091f8dc342640740201988ef9d90.mp3?hdnea=exp=1795655822~acl=/api/1/1/5/e/8/0/5e85091f8dc342640740201988ef9d90.mp3*~data=user_id=0,application_id=42~hmac=0854dcc26e579cc945c59aac29bdfd07ee3ef6b54618dc0ae06d7526d3fb75ca",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tauba Tauba",
+            "length": "3:52",
+            "deezer": {
+              "id": 584608,
+              "link": "https://www.deezer.com/track/584608",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/5/0/f85e202c14f5cba654a7175f4726efec.mp3?hdnea=exp=1795655822~acl=/api/1/1/f/8/5/0/f85e202c14f5cba654a7175f4726efec.mp3*~data=user_id=0,application_id=42~hmac=d939282e6257d91874be0bd105326847f4c229a271110ce1f5495bdbcb5a7934",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dilruba",
+            "length": "3:58",
+            "deezer": {
+              "id": 584612,
+              "link": "https://www.deezer.com/track/584612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/1/0/1a1ae02b9f612dc80b296d59761e4f79.mp3?hdnea=exp=1795655822~acl=/api/1/1/1/a/1/0/1a1ae02b9f612dc80b296d59761e4f79.mp3*~data=user_id=0,application_id=42~hmac=b193b2c09feb3db79dd16fa767b6e7722c35c922a21c14b6f122b6cac9c71fb3",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Jana Jogi De Naal",
+            "length": "4:17",
+            "deezer": {
+              "id": 584616,
+              "link": "https://www.deezer.com/track/584616",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/c/0/1fcc8949013691781d2b033164e47aaf.mp3?hdnea=exp=1795655822~acl=/api/1/1/1/f/c/0/1fcc8949013691781d2b033164e47aaf.mp3*~data=user_id=0,application_id=42~hmac=8a59fad34e6ebc75652c246a57e28e397b5e0f341a5ef884d258edbbaa58aee3",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Kaise Main Kahoon",
+            "length": "4:16",
+            "deezer": {
+              "id": 584618,
+              "link": "https://www.deezer.com/track/584618",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/a/0/46a7115d8dc8e27a046239a66eb7d4e5.mp3?hdnea=exp=1795655822~acl=/api/1/1/4/6/a/0/46a7115d8dc8e27a046239a66eb7d4e5.mp3*~data=user_id=0,application_id=42~hmac=b25159f98f9d2c60a9842df7c2a0842bac9899b6207eb75af71a68018208721e",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Naiharwa",
+            "length": "4:35",
+            "deezer": {
+              "id": 584624,
+              "link": "https://www.deezer.com/track/584624",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/b/0/2eb73922d17fe9e9e3ae0d5decca92ea.mp3?hdnea=exp=1795655822~acl=/api/1/1/2/e/b/0/2eb73922d17fe9e9e3ae0d5decca92ea.mp3*~data=user_id=0,application_id=42~hmac=88f05c6c7dd0541310636beb653c0eafbbb100995a73be4125281444090a2225",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Albela Sajan",
+            "length": "4:48",
+            "deezer": {
+              "id": 584626,
+              "link": "https://www.deezer.com/track/584626",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/b/0/a4b3195047f2346fda2d3557fcc975d2.mp3?hdnea=exp=1795655822~acl=/api/1/1/a/4/b/0/a4b3195047f2346fda2d3557fcc975d2.mp3*~data=user_id=0,application_id=42~hmac=b5ab559a31ce642aa1a2758c365a0886648cf73b0324fa2290f49535541e5e96",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Tauba Tauba - Remix",
+            "length": "3:36",
+            "deezer": {
+              "id": 584630,
+              "link": "https://www.deezer.com/track/584630",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/8/0/2d8c28d5bfa3e14f32df44775a6fa959.mp3?hdnea=exp=1795655822~acl=/api/1/1/2/d/8/0/2d8c28d5bfa3e14f32df44775a6fa959.mp3*~data=user_id=0,application_id=42~hmac=f831d005cdfb02c0df19d53139b1a2006d0954bf454c5155e3f9dc726040d6e4",
+              "preview_expires": "2026-11-26T01:17:02Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Allah Ke Bande - Live",
+            "length": "4:35",
+            "deezer": {
+              "id": 13207517,
+              "link": "https://www.deezer.com/track/13207517",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kailasa/Kailasa.jpg"
+}

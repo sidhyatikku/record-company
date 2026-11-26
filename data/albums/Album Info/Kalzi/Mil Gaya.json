@@ -1,0 +1,49 @@
+{
+  "title": "Mil Gaya",
+  "artist": "Kalzi",
+  "year": 2024,
+  "release_date": "2024-10-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1aRiCpXtVSDr5ypfGkgeb4",
+    "deezer": "https://www.deezer.com/album/646292201"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1aRiCpXtVSDr5ypfGkgeb4",
+      "title": "Mil Gaya",
+      "date": "2024-10-03"
+    },
+    "total_tracks": 1,
+    "total_length": "2:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mil Gaya",
+            "length": "2:12",
+            "deezer": {
+              "id": 3007451331,
+              "link": "https://www.deezer.com/track/3007451331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c02b1d4d18a99626fabd96f2f3190e6.mp3?hdnea=exp=1795655849~acl=/api/1/1/1/c/0/0/1c02b1d4d18a99626fabd96f2f3190e6.mp3*~data=user_id=0,application_id=42~hmac=0dcfed516c5259c83d1ef10221f958417845a0fa62238270f51125c6a795675e",
+              "preview_expires": "2026-11-26T01:17:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kalzi/Mil Gaya.jpg"
+}

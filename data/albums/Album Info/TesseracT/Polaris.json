@@ -1,0 +1,155 @@
+{
+  "title": "Polaris",
+  "artist": "TesseracT",
+  "year": 2015,
+  "release_date": "2015-09-18",
+  "type": "Album",
+  "description": "Polaris is the third studio album by British progressive metal band Tesseract. It was released on 18 September 2015, both digitally and physically on vinyl and CD. There is also a 2-disc version with the album mixed in 5.1 surround sound.",
+  "genres": [
+    "djent",
+    "progressive metal",
+    "heavy metal",
+    "rock"
+  ],
+  "tags": [
+    "djent",
+    "progressive metal",
+    "heavy metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2e9f8abb-874f-4611-93d9-0da7f960e8d7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Polaris_(Tesseract_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002863183",
+    "wikidata": "https://www.wikidata.org/wiki/Q20718314",
+    "deezer": "https://www.deezer.com/album/11234142"
+  },
+  "musicbrainz_id": "2e9f8abb-874f-4611-93d9-0da7f960e8d7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/926254f7-8e34-4b3e-8918-6dfee698f2ee",
+      "barcode": "802644832524",
+      "title": "Polaris",
+      "disambiguation": null,
+      "date": "2015-09-18",
+      "country": "GB"
+    },
+    "total_tracks": 9,
+    "total_length": "46:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dystopia",
+            "length": "6:51",
+            "deezer": {
+              "id": 107749912,
+              "link": "https://www.deezer.com/track/107749912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/2/0/a926a18a6038d33980019161c029bda8.mp3?hdnea=exp=1795721306~acl=/api/1/1/a/9/2/0/a926a18a6038d33980019161c029bda8.mp3*~data=user_id=0,application_id=42~hmac=4581a721a1871cf8da9fd75079509046142d7f70e634819663a8a15118816b5b",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hexes",
+            "length": "5:18",
+            "deezer": {
+              "id": 107749914,
+              "link": "https://www.deezer.com/track/107749914",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/e/0/67e63d7a9983ea69bb7ddf33e454422e.mp3?hdnea=exp=1795721306~acl=/api/1/1/6/7/e/0/67e63d7a9983ea69bb7ddf33e454422e.mp3*~data=user_id=0,application_id=42~hmac=8055d2622d3e250e288346e81a28757f360085482a71f6682bef9a7245b7d158",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Survival",
+            "length": "4:25",
+            "deezer": {
+              "id": 107749916,
+              "link": "https://www.deezer.com/track/107749916",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/2/0/b3270b2933526fe88b7d4f8b6b5ce146.mp3?hdnea=exp=1795721306~acl=/api/1/1/b/3/2/0/b3270b2933526fe88b7d4f8b6b5ce146.mp3*~data=user_id=0,application_id=42~hmac=f0e4dc32f32d6e1960d60ef351ce9be2323739651641ce95b46099395c96392f",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tourniquet",
+            "length": "5:59",
+            "deezer": {
+              "id": 107749918,
+              "link": "https://www.deezer.com/track/107749918",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/a/0/f0af2c1bf45a1565b317c11fd5ce1b75.mp3?hdnea=exp=1795721306~acl=/api/1/1/f/0/a/0/f0af2c1bf45a1565b317c11fd5ce1b75.mp3*~data=user_id=0,application_id=42~hmac=0cd0064ae8208ba85b29384fbac42e6edd38620c60fd5a390623b978f2a5a40a",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Utopia",
+            "length": "5:34",
+            "deezer": {
+              "id": 107749920,
+              "link": "https://www.deezer.com/track/107749920",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/9/0/df9429ff119374fc70e28b602f93915d.mp3?hdnea=exp=1795721306~acl=/api/1/1/d/f/9/0/df9429ff119374fc70e28b602f93915d.mp3*~data=user_id=0,application_id=42~hmac=40083a9d7021d676cf54b974911458398d1a764ec1b6c09b13a5a084e0c4bd55",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Phoenix",
+            "length": "3:54",
+            "deezer": {
+              "id": 107749922,
+              "link": "https://www.deezer.com/track/107749922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/4/0/42486e8ddc52302b3188a9e3423be278.mp3?hdnea=exp=1795721306~acl=/api/1/1/4/2/4/0/42486e8ddc52302b3188a9e3423be278.mp3*~data=user_id=0,application_id=42~hmac=b33143d693f145abd0ac64b3afc01a1b133261a489a62a0b8113e6571296ff25",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Messenger",
+            "length": "3:35",
+            "deezer": {
+              "id": 107749924,
+              "link": "https://www.deezer.com/track/107749924",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/1/0/6716af987e25a5d372522d7342c5ff4e.mp3?hdnea=exp=1795721306~acl=/api/1/1/6/7/1/0/6716af987e25a5d372522d7342c5ff4e.mp3*~data=user_id=0,application_id=42~hmac=672486633e6ceade0f51aa9f369b1fb8475d54c27fc94444933a288d52421c91",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cages",
+            "length": "5:29",
+            "deezer": {
+              "id": 107749926,
+              "link": "https://www.deezer.com/track/107749926",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/3/0/56359b9a314682c785819cd2a9eaaa4d.mp3?hdnea=exp=1795721306~acl=/api/1/1/5/6/3/0/56359b9a314682c785819cd2a9eaaa4d.mp3*~data=user_id=0,application_id=42~hmac=6620545f8c2d85474e388cb61265c3a00548f9345624ec0a6448095f3218250b",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Seven Names",
+            "length": "5:40",
+            "deezer": {
+              "id": 107749928,
+              "link": "https://www.deezer.com/track/107749928",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/5/0/3459240277851e2271f2e24db4ff1b74.mp3?hdnea=exp=1795721306~acl=/api/1/1/3/4/5/0/3459240277851e2271f2e24db4ff1b74.mp3*~data=user_id=0,application_id=42~hmac=a7634650d861f347a53c4766a961f7e3d6b08a964863ba0bffd6643fc119288d",
+              "preview_expires": "2026-11-26T19:28:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/TesseracT/Polaris.jpg"
+}

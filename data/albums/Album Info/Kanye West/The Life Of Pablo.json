@@ -1,0 +1,281 @@
+{
+  "title": "The Life of Pablo",
+  "artist": "Kanye West",
+  "year": 2016,
+  "release_date": "2016-02-14",
+  "type": "Album",
+  "description": "The Life of Pablo is the seventh studio album by the American rapper Kanye West. It was released on February 14, 2016, through GOOD Music and Def Jam Recordings. West recorded it between 2013 and 2016, and led its production with the executive producers Rick Rubin and Noah Goldstein. Guest appearances include The-Dream, Kelly Price, Chance the Rapper, Kirk Franklin, Kid Cudi, Desiigner, Rihanna, Young Thug, Chris Brown, the Weeknd, Ty Dolla Sign, Vic Mensa, Sia, Frank Ocean, Kendrick Lamar, Post Malone, and Sampha.",
+  "genres": [
+    "hip hop",
+    "contemporary r&b",
+    "experimental hip hop",
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "updated release",
+    "contemporary r&b",
+    "experimental hip hop",
+    "pop rap",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 23
+  },
+  "musicbrainz_annotation": "'''WARNING''': This album is a \"living breathing changing creative expression\", so the Recordings will differ between Releases.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8c18657a-6338-490d-a952-897663596b96",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Life_of_Pablo",
+    "allmusic": "https://www.allmusic.com/album/mw0002913866",
+    "discogs": "https://www.discogs.com/master/958466",
+    "wikidata": "https://www.wikidata.org/wiki/Q21996865",
+    "deezer": "https://www.deezer.com/album/13357219"
+  },
+  "musicbrainz_id": "8c18657a-6338-490d-a952-897663596b96",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/03f03619-385a-4ed9-9974-cdcdf6404cf5",
+      "barcode": "00602557027334",
+      "title": "The Life of Pablo",
+      "disambiguation": "explicit, reworked tracks",
+      "date": "2016-06-15",
+      "country": "XW"
+    },
+    "total_tracks": 20,
+    "total_length": "1:06:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ultralight Beam",
+            "length": "5:21",
+            "deezer": {
+              "id": 126772729,
+              "link": "https://www.deezer.com/track/126772729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/9/0/4d9cd4b3eebf0e8eb35ad352582f6234.mp3?hdnea=exp=1795655916~acl=/api/1/1/4/d/9/0/4d9cd4b3eebf0e8eb35ad352582f6234.mp3*~data=user_id=0,application_id=42~hmac=8c06ba381ee683df7c517fd28a77f2120d53142ebfad5aff8185d01d574c9fb1",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Father Stretch My Hands, Pt. 1",
+            "length": "2:16",
+            "deezer": {
+              "id": 126772731,
+              "link": "https://www.deezer.com/track/126772731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/6/0/0b68f7d18d33ebae98b6ceb257a3fc8f.mp3?hdnea=exp=1795655916~acl=/api/1/1/0/b/6/0/0b68f7d18d33ebae98b6ceb257a3fc8f.mp3*~data=user_id=0,application_id=42~hmac=b56139234a79aef103d4c34bf60ad6304da7ac1985b9136cca85ace83b770eeb",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Pt. 2",
+            "length": "2:10",
+            "deezer": {
+              "id": 126772733,
+              "link": "https://www.deezer.com/track/126772733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/e/0/d8ef2b4d2a1e4b8a2673a8f2aa2b654b.mp3?hdnea=exp=1795655916~acl=/api/1/1/d/8/e/0/d8ef2b4d2a1e4b8a2673a8f2aa2b654b.mp3*~data=user_id=0,application_id=42~hmac=2c8b76b68c8953d72934e7312650e756884d621d7c93056e79f288345133850d",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Famous",
+            "length": "3:16",
+            "deezer": {
+              "id": 126772735,
+              "link": "https://www.deezer.com/track/126772735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/6/0/4562c6160749e5b1b3fc961f8d5db494.mp3?hdnea=exp=1795655916~acl=/api/1/1/4/5/6/0/4562c6160749e5b1b3fc961f8d5db494.mp3*~data=user_id=0,application_id=42~hmac=480ec8c4a8ee8b553e28eedb5fbf4c29f54b1bc1c57ce8329fe4a52dd98ee7bb",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Feedback",
+            "length": "2:27",
+            "deezer": {
+              "id": 126772737,
+              "link": "https://www.deezer.com/track/126772737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a13fcf64a9992b197d5d007f0256c896.mp3?hdnea=exp=1795655916~acl=/api/1/1/a/1/3/0/a13fcf64a9992b197d5d007f0256c896.mp3*~data=user_id=0,application_id=42~hmac=77260a1e201b7233404b47a54417799396077a9c6b34259f5026c9a5152fe1fd",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Low Lights",
+            "length": "2:12",
+            "deezer": {
+              "id": 126772739,
+              "link": "https://www.deezer.com/track/126772739",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/3/0/773db103bd02ebf1e3d37677b889aaa6.mp3?hdnea=exp=1795655916~acl=/api/1/1/7/7/3/0/773db103bd02ebf1e3d37677b889aaa6.mp3*~data=user_id=0,application_id=42~hmac=ced8ff1e5a1a28fdd25a26a665e26f92bbf15e06632d3f97f86a2a0e8df4ea12",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Highlights",
+            "length": "3:20",
+            "deezer": {
+              "id": 126772741,
+              "link": "https://www.deezer.com/track/126772741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/8/0/978a180229ff31c4b58a01dcacedc21b.mp3?hdnea=exp=1795655916~acl=/api/1/1/9/7/8/0/978a180229ff31c4b58a01dcacedc21b.mp3*~data=user_id=0,application_id=42~hmac=f91baea72bcbe395c24d099e3a8cdea3063b9e5048e6f42f7289b3598d703e6d",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Freestyle 4",
+            "length": "2:03",
+            "deezer": {
+              "id": 126772743,
+              "link": "https://www.deezer.com/track/126772743",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/5/0/ce5b6005243dd261ef78c1f9e98494fe.mp3?hdnea=exp=1795655916~acl=/api/1/1/c/e/5/0/ce5b6005243dd261ef78c1f9e98494fe.mp3*~data=user_id=0,application_id=42~hmac=faccfab6b633678a676e008a0e01a74f6b5aef9192d265bb42f262a82aebf3b8",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I Love Kanye",
+            "length": "0:45",
+            "deezer": {
+              "id": 126772745,
+              "link": "https://www.deezer.com/track/126772745",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/662ce3a0e9b1e86d70a5e336105361fb.mp3?hdnea=exp=1795655916~acl=/api/1/1/6/6/2/0/662ce3a0e9b1e86d70a5e336105361fb.mp3*~data=user_id=0,application_id=42~hmac=d3c10ee7d7c530980499d601f13e606fbfdab3b0b02b8348b8dda02fc63c8d05",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Waves",
+            "length": "3:02",
+            "deezer": {
+              "id": 126772747,
+              "link": "https://www.deezer.com/track/126772747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/7/0/18763d113a27a346164df56035dd701d.mp3?hdnea=exp=1795655916~acl=/api/1/1/1/8/7/0/18763d113a27a346164df56035dd701d.mp3*~data=user_id=0,application_id=42~hmac=6c9dac22e0b738889215b9f26ff22c647691600e5e840c88df45c29ca65ebaf6",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "FML",
+            "length": "3:56",
+            "deezer": {
+              "id": 126772749,
+              "link": "https://www.deezer.com/track/126772749",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/4/0/a440826f7a08bf301f35b73a034875fe.mp3?hdnea=exp=1795655916~acl=/api/1/1/a/4/4/0/a440826f7a08bf301f35b73a034875fe.mp3*~data=user_id=0,application_id=42~hmac=63f6c74855590b1fd44df71c7e0ba9a3e2234dc54dc351223116feae93791ffd",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Real Friends",
+            "length": "4:12",
+            "deezer": {
+              "id": 126772751,
+              "link": "https://www.deezer.com/track/126772751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/7/0/577aecd4e6b9253bc276e984ebeebadf.mp3?hdnea=exp=1795655916~acl=/api/1/1/5/7/7/0/577aecd4e6b9253bc276e984ebeebadf.mp3*~data=user_id=0,application_id=42~hmac=ffc42b12df7f2b40691ac8b64e36f1a69ba7bbdb79f8d74aba333f0b030f52b5",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Wolves",
+            "length": "5:02",
+            "deezer": {
+              "id": 126772753,
+              "link": "https://www.deezer.com/track/126772753",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/9/0/d69d1d06aa745627496102f49de770b7.mp3?hdnea=exp=1795655916~acl=/api/1/1/d/6/9/0/d69d1d06aa745627496102f49de770b7.mp3*~data=user_id=0,application_id=42~hmac=10964c374ceb04834ffb363164b39c87799c037b0bb148ba21e4859cf6d49dc2",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Frank’s Track",
+            "length": "0:38",
+            "deezer": {
+              "id": 126772755,
+              "link": "https://www.deezer.com/track/126772755",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/5/0/9f50ecb848181e903ad469bb854110e7.mp3?hdnea=exp=1795655916~acl=/api/1/1/9/f/5/0/9f50ecb848181e903ad469bb854110e7.mp3*~data=user_id=0,application_id=42~hmac=125d069b21556beb1a1cf7a10c7b5a0acdfdc4c5702c104cc40a5ab5a291c469",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Siiiiiiiiilver Surffffeeeeer Intermission",
+            "length": "0:57",
+            "deezer": {
+              "id": 126772757,
+              "link": "https://www.deezer.com/track/126772757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/0/0/64099b7f272c626ce0da571bccf57c4d.mp3?hdnea=exp=1795655916~acl=/api/1/1/6/4/0/0/64099b7f272c626ce0da571bccf57c4d.mp3*~data=user_id=0,application_id=42~hmac=5959339c046f1f1ea56f6afd83c9930e48583b431289b561dbd5bc8f21bb8fa1",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "30 Hours",
+            "length": "5:23",
+            "deezer": {
+              "id": 126772759,
+              "link": "https://www.deezer.com/track/126772759",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/e/0/f4e307874d1108a81fdb640d2b5d4f95.mp3?hdnea=exp=1795655916~acl=/api/1/1/f/4/e/0/f4e307874d1108a81fdb640d2b5d4f95.mp3*~data=user_id=0,application_id=42~hmac=652b7f6dfeb6f0c826e74f60fa373d04facb299b723fb8a52e96178252355487",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "No More Parties in LA",
+            "length": "6:14",
+            "deezer": {
+              "id": 126772761,
+              "link": "https://www.deezer.com/track/126772761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/f/0/b6fb6664db0d50a883a8e2aa828e28b9.mp3?hdnea=exp=1795655916~acl=/api/1/1/b/6/f/0/b6fb6664db0d50a883a8e2aa828e28b9.mp3*~data=user_id=0,application_id=42~hmac=b26bce890fea10c191f1bc730c5350177c6292f54d955fa1d8baf082e283cb4d",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Facts (Charlie Heat version)",
+            "length": "3:21",
+            "deezer": {
+              "id": 126772763,
+              "link": "https://www.deezer.com/track/126772763",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/0/0/6407280394f163f871f9b4c94c6677f0.mp3?hdnea=exp=1795655916~acl=/api/1/1/6/4/0/0/6407280394f163f871f9b4c94c6677f0.mp3*~data=user_id=0,application_id=42~hmac=cfe25afe1e74d4c6a1b48ae16d9e93f0955970979fcfc9dd1d86d877498b3cf5",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Fade",
+            "length": "3:14",
+            "deezer": {
+              "id": 126772765,
+              "link": "https://www.deezer.com/track/126772765",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/a/0/8da28a2f07ce33ed8ec5cff1a9fec652.mp3?hdnea=exp=1795655916~acl=/api/1/1/8/d/a/0/8da28a2f07ce33ed8ec5cff1a9fec652.mp3*~data=user_id=0,application_id=42~hmac=4f77e1567407559b50ef67841bf2c0da0c725f36cc01808a3cbe07c15ce07986",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Saint Pablo",
+            "length": "6:12",
+            "deezer": {
+              "id": 126772767,
+              "link": "https://www.deezer.com/track/126772767",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/1/0/87188b90de7f795025ff4e921896bd9a.mp3?hdnea=exp=1795655916~acl=/api/1/1/8/7/1/0/87188b90de7f795025ff4e921896bd9a.mp3*~data=user_id=0,application_id=42~hmac=f063ec7685d69e2a55b2d9610b1cfb3d11d3a2c703eb89a3acfb3b75b69344bf",
+              "preview_expires": "2026-11-26T01:18:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kanye West/The Life Of Pablo.jpg"
+}

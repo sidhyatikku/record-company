@@ -1,0 +1,112 @@
+{
+  "title": "Anahata",
+  "artist": "Handbook",
+  "year": 2020,
+  "release_date": "2020-01-16",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "instrumental",
+    "instrumental hip hop"
+  ],
+  "tags": [
+    "instrumental",
+    "instrumental hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b382f675-a392-4597-8b08-6e8f3902c549",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/966467511"
+  },
+  "musicbrainz_id": "b382f675-a392-4597-8b08-6e8f3902c549",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fa8fef87-d8be-446f-a0f6-fbe41ee245f2",
+      "barcode": "195036465272",
+      "title": "Anahata",
+      "disambiguation": null,
+      "date": "2020-01-16",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "19:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Eyes (edit)",
+            "length": "2:56",
+            "deezer": {
+              "id": 3975214691,
+              "link": "https://www.deezer.com/track/3975214691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/4/0/0c416ad98f97951bfc5f437fc1506936.mp3?hdnea=exp=1795654928~acl=/api/1/1/0/c/4/0/0c416ad98f97951bfc5f437fc1506936.mp3*~data=user_id=0,application_id=42~hmac=24d3d2f51c908ee0e2ec6a006a376e4e684bce70573a3333b0124887afd95fb8",
+              "preview_expires": "2026-11-26T01:02:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Morning Routine",
+            "length": "3:09",
+            "deezer": {
+              "id": 3975214701,
+              "link": "https://www.deezer.com/track/3975214701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/3/0/67302d1a9793e88935f1df5fc65127e1.mp3?hdnea=exp=1795654928~acl=/api/1/1/6/7/3/0/67302d1a9793e88935f1df5fc65127e1.mp3*~data=user_id=0,application_id=42~hmac=3f926804ac46ddc1f234b6e634c2f8b853b13e0ab73edbf94d82c4ca946c214f",
+              "preview_expires": "2026-11-26T01:02:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Holi",
+            "length": "3:11",
+            "deezer": {
+              "id": 3975214711,
+              "link": "https://www.deezer.com/track/3975214711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/7/0/1f743b0efa6fdb8b8ec48f26030429e4.mp3?hdnea=exp=1795654928~acl=/api/1/1/1/f/7/0/1f743b0efa6fdb8b8ec48f26030429e4.mp3*~data=user_id=0,application_id=42~hmac=0fa475a3aab56751a940d20a4290d1aa6449b776607393e73fc0212eac0d2b47",
+              "preview_expires": "2026-11-26T01:02:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kush Mountain",
+            "length": "3:11",
+            "deezer": {
+              "id": 3975214721,
+              "link": "https://www.deezer.com/track/3975214721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/9/0/e19f1d27e666ed7f8a1767fb23fff812.mp3?hdnea=exp=1795654928~acl=/api/1/1/e/1/9/0/e19f1d27e666ed7f8a1767fb23fff812.mp3*~data=user_id=0,application_id=42~hmac=7a0e2e07ec70303b24f80827060192e7b0872eb029fcb293f55f8efcbde84d78",
+              "preview_expires": "2026-11-26T01:02:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Chant",
+            "length": "3:01",
+            "deezer": {
+              "id": 3975214731,
+              "link": "https://www.deezer.com/track/3975214731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/2/0/d420513aeefbb4b6883b5afc1092577e.mp3?hdnea=exp=1795654928~acl=/api/1/1/d/4/2/0/d420513aeefbb4b6883b5afc1092577e.mp3*~data=user_id=0,application_id=42~hmac=55c593e27e1d9389271574368af49b0ff012a623ceb5fc8edb97fcaf9e5728bf",
+              "preview_expires": "2026-11-26T01:02:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "My Closest Friend",
+            "length": "4:17",
+            "deezer": {
+              "id": 3975214741,
+              "link": "https://www.deezer.com/track/3975214741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/7/0/82730cc4692e5c7f16bee5467811e797.mp3?hdnea=exp=1795654928~acl=/api/1/1/8/2/7/0/82730cc4692e5c7f16bee5467811e797.mp3*~data=user_id=0,application_id=42~hmac=d02fe12dae19c810e1ff861d655e3d6f1b1503e1a4724f524984da9c7add535c",
+              "preview_expires": "2026-11-26T01:02:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Handbook/Anahata.jpg"
+}

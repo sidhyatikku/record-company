@@ -1,0 +1,77 @@
+{
+  "title": "Ultrasounds, Vol. 4",
+  "artist": "Emz",
+  "year": 2022,
+  "release_date": "2022-12-02",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "drum and bass",
+    "uk garage",
+    "bassline",
+    "jungle"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6oqOIRE4s4HftTFtfJDp1Z",
+    "deezer": "https://www.deezer.com/album/433982957"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6oqOIRE4s4HftTFtfJDp1Z",
+      "title": "Ultrasounds, Vol. 4",
+      "date": "2022-12-02"
+    },
+    "total_tracks": 3,
+    "total_length": "11:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stellar",
+            "length": "3:24",
+            "artist": "Sir Hiss, Emz",
+            "deezer": {
+              "id": 2254365187,
+              "link": "https://www.deezer.com/track/2254365187",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/5/0/f75beb9ba22107d1079e954918562813.mp3?hdnea=exp=1795653958~acl=/api/1/1/f/7/5/0/f75beb9ba22107d1079e954918562813.mp3*~data=user_id=0,application_id=42~hmac=5075e9638fa5b8c146e1bb5f08fefbd66327d59baee729bf9ffc2cd60892a665",
+              "preview_expires": "2026-11-26T00:45:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Good Good",
+            "length": "4:08",
+            "artist": "Kanobie, Emz",
+            "deezer": {
+              "id": 2254365197,
+              "link": "https://www.deezer.com/track/2254365197",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/9/0/949c612727557de67d625df7f3e7fd25.mp3?hdnea=exp=1795653958~acl=/api/1/1/9/4/9/0/949c612727557de67d625df7f3e7fd25.mp3*~data=user_id=0,application_id=42~hmac=1f3483590e9d74851acccf35e309eb82ebd33c9e0ee40b46d85a5721ddd5f93d",
+              "preview_expires": "2026-11-26T00:45:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "E-Style",
+            "length": "3:34",
+            "artist": "Emz, Gemi",
+            "deezer": {
+              "id": 2254365207,
+              "link": "https://www.deezer.com/track/2254365207",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/1/0/261070a7f698d7325a6c8aacf3ac5988.mp3?hdnea=exp=1795653958~acl=/api/1/1/2/6/1/0/261070a7f698d7325a6c8aacf3ac5988.mp3*~data=user_id=0,application_id=42~hmac=2f032f4ceebfa5b9ea7df40a1c286ccc54ce019458ca13a4e37650082b1d5559",
+              "preview_expires": "2026-11-26T00:45:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Emz/Ultrasounds, Vol. 4.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "title": "The Dark Knight Rises",
+  "artist": "Hans Zimmer",
+  "year": 2012,
+  "release_date": "2012-07-17",
+  "type": "Album + Soundtrack",
+  "description": "The Dark Knight Rises: Original Motion Picture Soundtrack is the soundtrack to the film of the same name, which is the sequel to Christopher Nolan's 2008 film The Dark Knight. The soundtrack was released on July 17, 2012. The CD edition of the album contains an exclusive code to unlock three bonus tracks, titled \"Bombers Over Ibiza ,\" \"No Stone Unturned,\" and \"Risen from Darkness\". Two additional bonus tracks, \"The Shadows Betray You\" and \"The End,\" are digital-download exclusive tracks. The soundtrack was officially released online for streaming purposes on July 10.",
+  "genres": [
+    "classical",
+    "modern classical"
+  ],
+  "tags": [
+    "soundtrack",
+    "score",
+    "classical",
+    "contemporary",
+    "modern classical"
+  ],
+  "rating": {
+    "value_out_of_5": 4.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1bcca26f-c410-4236-a5b6-ba99acf973f9",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises_(soundtrack)",
+    "allmusic": "https://www.allmusic.com/album/mw0002378556",
+    "wikidata": "https://www.wikidata.org/wiki/Q7728960",
+    "deezer": "https://www.deezer.com/album/90169162"
+  },
+  "musicbrainz_id": "1bcca26f-c410-4236-a5b6-ba99acf973f9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/57a98eee-61e5-4fbf-a3bc-047af4007912",
+      "barcode": null,
+      "title": "The Dark Knight Rises",
+      "disambiguation": "Z+ App Origins Pack",
+      "date": "2012",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "52:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wayne Manor - Suite",
+            "length": "21:55",
+            "artist": "Hans Zimmer & James Newton Howard"
+          },
+          {
+            "number": "2",
+            "title": "Bane - Suite",
+            "length": "19:49",
+            "artist": "Hans Zimmer & James Newton Howard"
+          },
+          {
+            "number": "3",
+            "title": "Selina Kyle - Suite",
+            "length": "5:41",
+            "artist": "Hans Zimmer & James Newton Howard"
+          },
+          {
+            "number": "4",
+            "title": "Orphan - Suite",
+            "length": "4:54",
+            "artist": "Hans Zimmer & James Newton Howard"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Hans Zimmer/The Dark Knight Rises (Original Motion Picture Soundtrack).jpg"
+}

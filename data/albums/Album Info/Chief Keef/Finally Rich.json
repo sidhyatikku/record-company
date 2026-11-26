@@ -1,0 +1,192 @@
+{
+  "title": "Finally Rich",
+  "artist": "Chief Keef",
+  "year": 2012,
+  "release_date": "2012-12-18",
+  "type": "Album",
+  "description": "Finally Rich is the debut studio album by American rapper Chief Keef. It was released on December 18, 2012 by Glory Boyz Entertainment and Interscope Records. The album features guest appearances from 50 Cent, Wiz Khalifa, Lil Reese, Rick Ross, Young Jeezy, Master P, French Montana, and Fat Trel, while the bulk of its production was handled by Keef's longtime collaborator Young Chop.",
+  "genres": [
+    "hip hop",
+    "chicago drill",
+    "gangsta rap"
+  ],
+  "tags": [
+    "hip hop",
+    "chicago drill",
+    "bop",
+    "gangsta rap"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/249eeae3-9e0f-4d19-a580-9b80bf054f41",
+    "wikipedia": "https://en.wikipedia.org/wiki/Finally_Rich",
+    "discogs": "https://www.discogs.com/master/701431",
+    "wikidata": "https://www.wikidata.org/wiki/Q2031821",
+    "deezer": "https://www.deezer.com/album/6172485"
+  },
+  "musicbrainz_id": "249eeae3-9e0f-4d19-a580-9b80bf054f41",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/42eb57c6-e6c2-49cd-ad22-681f0cff2e3c",
+      "barcode": "602537240395",
+      "title": "Finally Rich",
+      "disambiguation": "explicit",
+      "date": "2012-12-18",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "45:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Love Sosa",
+            "length": "4:06",
+            "deezer": {
+              "id": 62892170,
+              "link": "https://www.deezer.com/track/62892170",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/5/0/405fd3a3dee5eff6240cc5d27d23eea6.mp3?hdnea=exp=1795652759~acl=/api/1/1/4/0/5/0/405fd3a3dee5eff6240cc5d27d23eea6.mp3*~data=user_id=0,application_id=42~hmac=54e3405f6293a94a2f238519a4279da968b30126553c86bf8c6f3e9d74c730f1",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hallelujah",
+            "length": "3:02",
+            "deezer": {
+              "id": 62892171,
+              "link": "https://www.deezer.com/track/62892171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/2/0/ad2ee4d1479d970ec78a54ba275a2880.mp3?hdnea=exp=1795652759~acl=/api/1/1/a/d/2/0/ad2ee4d1479d970ec78a54ba275a2880.mp3*~data=user_id=0,application_id=42~hmac=41f47a8ecfbd4b12d2b903829cfb98e4fd94f6862677842da0af02694814dd6f",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I Don’t Like",
+            "length": "4:54",
+            "artist": "Chief Keef feat. Lil Reese",
+            "deezer": {
+              "id": 62892172,
+              "link": "https://www.deezer.com/track/62892172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/8/0/848444aaf0d1fd30d72b64a9e38efd0e.mp3?hdnea=exp=1795652759~acl=/api/1/1/8/4/8/0/848444aaf0d1fd30d72b64a9e38efd0e.mp3*~data=user_id=0,application_id=42~hmac=d957363084b898bfbff2a6dab475019e64cf8ac8ffbde7c033609044b94e5824",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "No Tomorrow",
+            "length": "3:10",
+            "deezer": {
+              "id": 62892173,
+              "link": "https://www.deezer.com/track/62892173",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/c/0/e8c6aedc2d4ad56f7760c0b6ac6d3f5c.mp3?hdnea=exp=1795652759~acl=/api/1/1/e/8/c/0/e8c6aedc2d4ad56f7760c0b6ac6d3f5c.mp3*~data=user_id=0,application_id=42~hmac=d9e901e234df63f3678a73cec2c607f4db3ba538c40f8e9b790158426aa15554",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hate Bein’ Sober",
+            "length": "4:40",
+            "artist": "Chief Keef feat. 50 Cent & Wiz Khalifa",
+            "deezer": {
+              "id": 62892174,
+              "link": "https://www.deezer.com/track/62892174",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/f/0/c3fa92921be9c20cae996021ef24e46f.mp3?hdnea=exp=1795652759~acl=/api/1/1/c/3/f/0/c3fa92921be9c20cae996021ef24e46f.mp3*~data=user_id=0,application_id=42~hmac=cee0339ae1b60e77acc034dba5201ada06eaaade1e78f65920c3471e39ccba15",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Kay Kay",
+            "length": "3:08",
+            "deezer": {
+              "id": 62892175,
+              "link": "https://www.deezer.com/track/62892175",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a5a2d5fc8f3ad1bac8e9a75f29e8215.mp3?hdnea=exp=1795652759~acl=/api/1/1/7/a/5/0/7a5a2d5fc8f3ad1bac8e9a75f29e8215.mp3*~data=user_id=0,application_id=42~hmac=3c363a3d5efb40d5b79490f9d5709b923526ddabacaa25043bfc8e011414ad86",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Laughin’ to the Bank",
+            "length": "3:47",
+            "deezer": {
+              "id": 62892176,
+              "link": "https://www.deezer.com/track/62892176",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/6/0/f4621456d61afd047e2faef902e1b2ad.mp3?hdnea=exp=1795652759~acl=/api/1/1/f/4/6/0/f4621456d61afd047e2faef902e1b2ad.mp3*~data=user_id=0,application_id=42~hmac=deeda1829029da374cf44093cc34694e05ef5f30ac6558c0a74e774822eb5af0",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Diamonds",
+            "length": "3:06",
+            "artist": "Chief Keef feat. French Montana",
+            "deezer": {
+              "id": 62892177,
+              "link": "https://www.deezer.com/track/62892177",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/9/0/fa9d336c8ac80650c93d77cdbcc576db.mp3?hdnea=exp=1795652759~acl=/api/1/1/f/a/9/0/fa9d336c8ac80650c93d77cdbcc576db.mp3*~data=user_id=0,application_id=42~hmac=8cdcd0de110c95ff2b21e0023dacf642586fe0bd62909687baeb2c1e8ea2a5e9",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ballin’",
+            "length": "3:38",
+            "deezer": {
+              "id": 62892178,
+              "link": "https://www.deezer.com/track/62892178",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/a/0/a2ad704b1eb8e71711ec85de100c1488.mp3?hdnea=exp=1795652759~acl=/api/1/1/a/2/a/0/a2ad704b1eb8e71711ec85de100c1488.mp3*~data=user_id=0,application_id=42~hmac=0771ce02dfa064f80dc65439c846836597dce02e686704755452b7225bbd6999",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Understand Me",
+            "length": "4:04",
+            "artist": "Chief Keef feat. Young Jeezy",
+            "deezer": {
+              "id": 62892179,
+              "link": "https://www.deezer.com/track/62892179",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/e/0/71e3de6410513fb8585fcf131150fbe9.mp3?hdnea=exp=1795652759~acl=/api/1/1/7/1/e/0/71e3de6410513fb8585fcf131150fbe9.mp3*~data=user_id=0,application_id=42~hmac=71bf580d89b217f8d261d53890c69267268bf33bb4422e9f3ad6df54f4df298c",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "3Hunna",
+            "length": "3:29",
+            "artist": "Chief Keef feat. Rick Ross",
+            "deezer": {
+              "id": 62892180,
+              "link": "https://www.deezer.com/track/62892180",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/7/0/2e71e4c092e5e26d12e25934e3eb0fa1.mp3?hdnea=exp=1795652759~acl=/api/1/1/2/e/7/0/2e71e4c092e5e26d12e25934e3eb0fa1.mp3*~data=user_id=0,application_id=42~hmac=c4521f19115a54c69c943ae2d088585f76487e809e7b740261a1cdaed5ac115f",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Finally Rich",
+            "length": "4:09",
+            "deezer": {
+              "id": 62892181,
+              "link": "https://www.deezer.com/track/62892181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/0/0/430c70d8cec63a890ae65420787cf103.mp3?hdnea=exp=1795652759~acl=/api/1/1/4/3/0/0/430c70d8cec63a890ae65420787cf103.mp3*~data=user_id=0,application_id=42~hmac=9b4eee0690e299ab07516dc2f94b0f416617e1a433e356c8c68e09c110479044",
+              "preview_expires": "2026-11-26T00:25:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chief Keef/Finally Rich.jpg"
+}

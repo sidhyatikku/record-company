@@ -1,0 +1,510 @@
+{
+  "title": "Tango in the Night",
+  "artist": "Fleetwood Mac",
+  "year": 1987,
+  "release_date": "1987-04-09",
+  "type": "Album",
+  "description": "Tango in the Night is the fourteenth studio album by the British-American rock band Fleetwood Mac, released on 13 April 1987 by Warner Bros. Records. It is the fifth and final studio album with the band's most successful lineup of Lindsey Buckingham, Mick Fleetwood, Christine McVie, John McVie, and Stevie Nicks, though Christine McVie would make guest appearances on the band's 2003 album, Say You Will. This lineup did not reconvene again for another album until 1997's live album The Dance.",
+  "genres": [
+    "rock",
+    "pop",
+    "pop rock",
+    "soft rock",
+    "aor",
+    "classic rock",
+    "electronic"
+  ],
+  "tags": [
+    "rock",
+    "pop",
+    "pop rock",
+    "adult contemporary",
+    "soft rock",
+    "album rock",
+    "pop/rock",
+    "aor",
+    "classic rock",
+    "contemporary pop/rock",
+    "electronic"
+  ],
+  "rating": {
+    "value_out_of_5": 4.75,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/680b3cd8-426b-3112-bcf3-42cd66f75fa9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tango_in_the_Night",
+    "allmusic": "https://www.allmusic.com/album/mw0000189877",
+    "discogs": "https://www.discogs.com/master/38735",
+    "wikidata": "https://www.wikidata.org/wiki/Q1388984",
+    "deezer": "https://www.deezer.com/album/38692011"
+  },
+  "musicbrainz_id": "680b3cd8-426b-3112-bcf3-42cd66f75fa9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5d746c3b-db67-4130-bc5a-d18d3f8cc852",
+      "barcode": "603497879007",
+      "title": "Tango in the Night",
+      "disambiguation": "deluxe edition",
+      "date": "2017-03-31",
+      "country": "XW"
+    },
+    "total_tracks": 39,
+    "total_length": "2:58:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Big Love",
+            "length": "3:44",
+            "deezer": {
+              "id": 341024771,
+              "link": "https://www.deezer.com/track/341024771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/d/0/91d7171f19496b25d3821a9bd5ed0210.mp3?hdnea=exp=1795654243~acl=/api/1/1/9/1/d/0/91d7171f19496b25d3821a9bd5ed0210.mp3*~data=user_id=0,application_id=42~hmac=6b268dfa54066b5e4180b19a8fee141877c4cfcbce0276f5ee774a1a7f299202",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Seven Wonders",
+            "length": "3:42",
+            "deezer": {
+              "id": 341024781,
+              "link": "https://www.deezer.com/track/341024781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/8/0/ef8f2f2d07f6b0d9e2bd3569de396ac2.mp3?hdnea=exp=1795654243~acl=/api/1/1/e/f/8/0/ef8f2f2d07f6b0d9e2bd3569de396ac2.mp3*~data=user_id=0,application_id=42~hmac=5448f2c2b2d7b956d2b0416ec27d5e785ec963561a9d4b590b2a1b664d938e45",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Everywhere",
+            "length": "3:47",
+            "deezer": {
+              "id": 341024791,
+              "link": "https://www.deezer.com/track/341024791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/6/0/e46138e6d65ddaab234f5d31caf73909.mp3?hdnea=exp=1795654243~acl=/api/1/1/e/4/6/0/e46138e6d65ddaab234f5d31caf73909.mp3*~data=user_id=0,application_id=42~hmac=24fb2be07e61156423e5cf4f7ac63eb2d6d4275c33a85b35a7dff0f802cc084f",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Caroline",
+            "length": "3:54",
+            "deezer": {
+              "id": 341024801,
+              "link": "https://www.deezer.com/track/341024801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/d/0/3dd4c8ded5d338ceaa07291759d1dc3c.mp3?hdnea=exp=1795654243~acl=/api/1/1/3/d/d/0/3dd4c8ded5d338ceaa07291759d1dc3c.mp3*~data=user_id=0,application_id=42~hmac=2c67110d79ecf1183c9994c6ecce5c75baef46391faee04b210774cbb4b1ff61",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tango in the Night",
+            "length": "4:03",
+            "deezer": {
+              "id": 341024811,
+              "link": "https://www.deezer.com/track/341024811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/5/0/f052db49c424d9e02fd3659ab2286b02.mp3?hdnea=exp=1795654243~acl=/api/1/1/f/0/5/0/f052db49c424d9e02fd3659ab2286b02.mp3*~data=user_id=0,application_id=42~hmac=b6299282be3a5295445d157f994792a144ce547f698a1f86f413dc8816ab29c4",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mystified",
+            "length": "3:10",
+            "deezer": {
+              "id": 341024821,
+              "link": "https://www.deezer.com/track/341024821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f985db66fa663857a98dcdef7948cca3.mp3?hdnea=exp=1795654243~acl=/api/1/1/f/9/8/0/f985db66fa663857a98dcdef7948cca3.mp3*~data=user_id=0,application_id=42~hmac=89c389055a32d673ddbdc4a7c24d1c7f912538cce86446670ae1a24b5ddee17f",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Little Lies",
+            "length": "3:41",
+            "deezer": {
+              "id": 341024831,
+              "link": "https://www.deezer.com/track/341024831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/c/0/04ca57aa206b1f2a48acda1d53a0362c.mp3?hdnea=exp=1795654243~acl=/api/1/1/0/4/c/0/04ca57aa206b1f2a48acda1d53a0362c.mp3*~data=user_id=0,application_id=42~hmac=306f55855dcd1debc9e886bed855078399e7314ef56ce75c888eb66669708e92",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Family Man",
+            "length": "4:07",
+            "deezer": {
+              "id": 341024841,
+              "link": "https://www.deezer.com/track/341024841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/4/0/494b7541fdf0250cf8439bebbb75d5ad.mp3?hdnea=exp=1795654243~acl=/api/1/1/4/9/4/0/494b7541fdf0250cf8439bebbb75d5ad.mp3*~data=user_id=0,application_id=42~hmac=8805043ead289baf352be8c66d769d584744755f76daf016a2d3a533f3ac3f5d",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Welcome to the Room… Sara",
+            "length": "3:42",
+            "deezer": {
+              "id": 341024851,
+              "link": "https://www.deezer.com/track/341024851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/d/0/8bd83494e04346591be519dff4d62567.mp3?hdnea=exp=1795654243~acl=/api/1/1/8/b/d/0/8bd83494e04346591be519dff4d62567.mp3*~data=user_id=0,application_id=42~hmac=40c420278ca11b61ee3ae20e4134f0b405f7934f3b8df2a3a9f582e305ecf50e",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Isn’t It Midnight",
+            "length": "4:14",
+            "deezer": {
+              "id": 341024861,
+              "link": "https://www.deezer.com/track/341024861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/d/0/f3da1828718ee5a5d9bf1ee1dccac801.mp3?hdnea=exp=1795654243~acl=/api/1/1/f/3/d/0/f3da1828718ee5a5d9bf1ee1dccac801.mp3*~data=user_id=0,application_id=42~hmac=4f601dd3e45b1e5f0bde7e2357967ec3f4b2753dff2a2fd16106fb41de1d3b98",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "When I See You Again",
+            "length": "3:49",
+            "deezer": {
+              "id": 341024871,
+              "link": "https://www.deezer.com/track/341024871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/c/0/77cce156dd2f4ff9574fd7ed626b7b70.mp3?hdnea=exp=1795654243~acl=/api/1/1/7/7/c/0/77cce156dd2f4ff9574fd7ed626b7b70.mp3*~data=user_id=0,application_id=42~hmac=5e3484b65861e16770a66fdab40385f7a039856c9b001f65121c76e5d51b8f45",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "You and I, Pt. II",
+            "length": "2:40",
+            "deezer": {
+              "id": 341024881,
+              "link": "https://www.deezer.com/track/341024881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/0/0/e20be349a3f045a7b1b75aeff60c3cf6.mp3?hdnea=exp=1795654243~acl=/api/1/1/e/2/0/0/e20be349a3f045a7b1b75aeff60c3cf6.mp3*~data=user_id=0,application_id=42~hmac=c28b67ea65eccff3e902e394013b1acf9520599aa187878cee1a1daa528ebeeb",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Down Endless Street",
+            "length": "4:29",
+            "deezer": {
+              "id": 341024891,
+              "link": "https://www.deezer.com/track/341024891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/5/0/2e5cc54924d6f2ffe7c4fecca8ac202d.mp3?hdnea=exp=1795654243~acl=/api/1/1/2/e/5/0/2e5cc54924d6f2ffe7c4fecca8ac202d.mp3*~data=user_id=0,application_id=42~hmac=58dbb20ec13eb4be609aff23fdce6f3e7d93e837bc8d063da8ff879fc1152144",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Special Kind of Love (demo)",
+            "length": "2:53",
+            "deezer": {
+              "id": 341024901,
+              "link": "https://www.deezer.com/track/341024901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/a/0/62a10e243e67e4cb6cac29397adbe5ee.mp3?hdnea=exp=1795654243~acl=/api/1/1/6/2/a/0/62a10e243e67e4cb6cac29397adbe5ee.mp3*~data=user_id=0,application_id=42~hmac=23b2af59e8d5242f0565564cc0559c4dca9bc6f5f9f482079d857164817aebe8",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Seven Wonders (early version)",
+            "length": "4:34",
+            "deezer": {
+              "id": 341024911,
+              "link": "https://www.deezer.com/track/341024911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/4/0/7d4ff3df297d922bc3f58d3cc5804adb.mp3?hdnea=exp=1795654243~acl=/api/1/1/7/d/4/0/7d4ff3df297d922bc3f58d3cc5804adb.mp3*~data=user_id=0,application_id=42~hmac=427219ed4ede7d5d38f6bd6f6d379bd43bdf2eb9f3daacfd4ab1c182d2ccd9cc",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tango in the Night (demo)",
+            "length": "4:42",
+            "deezer": {
+              "id": 341024921,
+              "link": "https://www.deezer.com/track/341024921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/0/0/270fbb99b22b170dffd1d175221eebd9.mp3?hdnea=exp=1795654243~acl=/api/1/1/2/7/0/0/270fbb99b22b170dffd1d175221eebd9.mp3*~data=user_id=0,application_id=42~hmac=f1a5b97e761d0fea305119817aadf24b7a9cf8cbd1bb6660680d5dc17b4e68a4",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Mystified (alternate version)",
+            "length": "3:28",
+            "deezer": {
+              "id": 341024931,
+              "link": "https://www.deezer.com/track/341024931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/9/0/909603a4ff235a27e4b3b6b8a9b40ac9.mp3?hdnea=exp=1795654243~acl=/api/1/1/9/0/9/0/909603a4ff235a27e4b3b6b8a9b40ac9.mp3*~data=user_id=0,application_id=42~hmac=c0138215ae2ba9b059a399419e2517d6aa14ef3b3f58b9177409faa144af1bbe",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Book of Miracles (instrumental)",
+            "length": "4:32",
+            "deezer": {
+              "id": 341024941,
+              "link": "https://www.deezer.com/track/341024941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/2/0/502b5dc6824a6fc411e62dec16027455.mp3?hdnea=exp=1795654243~acl=/api/1/1/5/0/2/0/502b5dc6824a6fc411e62dec16027455.mp3*~data=user_id=0,application_id=42~hmac=2a144d9f54337f992c2d258b80f558831add4f39364e3f8a242aa8af0e38e2ba",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Where We Belong (demo)",
+            "length": "2:53",
+            "deezer": {
+              "id": 341024951,
+              "link": "https://www.deezer.com/track/341024951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/2/0/8a2cba56e6d6bb39d67c66812b3bc4d0.mp3?hdnea=exp=1795654243~acl=/api/1/1/8/a/2/0/8a2cba56e6d6bb39d67c66812b3bc4d0.mp3*~data=user_id=0,application_id=42~hmac=c285f8922d330f498772da2d7eaee020192be40a68c1eb2890588775d23dc426",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ricky",
+            "length": "4:27",
+            "deezer": {
+              "id": 341024961,
+              "link": "https://www.deezer.com/track/341024961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/b/0/44b3ddeee3a2c1d32fb1bf3c01c573aa.mp3?hdnea=exp=1795654243~acl=/api/1/1/4/4/b/0/44b3ddeee3a2c1d32fb1bf3c01c573aa.mp3*~data=user_id=0,application_id=42~hmac=b952b4249a531fb2eef3c1edc83490305c4767cde0f92b1e38f5aea59d54375b",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Juliet (run‐through)",
+            "length": "5:04",
+            "deezer": {
+              "id": 341024971,
+              "link": "https://www.deezer.com/track/341024971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/1/0/99195fffaaa5a5fa6a515700260cf10e.mp3?hdnea=exp=1795654243~acl=/api/1/1/9/9/1/0/99195fffaaa5a5fa6a515700260cf10e.mp3*~data=user_id=0,application_id=42~hmac=9764e5c4973ba9337984bda90ef7811f764a09dd5592a1ebdaf9f809350ec785",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Isn’t It Midnight (alternate mix)",
+            "length": "3:39",
+            "deezer": {
+              "id": 341024981,
+              "link": "https://www.deezer.com/track/341024981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/f/0/bbfeebbf5cf7ef43c7119d41b0be0d46.mp3?hdnea=exp=1795654243~acl=/api/1/1/b/b/f/0/bbfeebbf5cf7ef43c7119d41b0be0d46.mp3*~data=user_id=0,application_id=42~hmac=621187db13f555b1a583d03d43080b54468bb3b31d916d409001cdaf8265ec6a",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Ooh My Love (demo)",
+            "length": "3:51",
+            "deezer": {
+              "id": 341024991,
+              "link": "https://www.deezer.com/track/341024991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/f/0/0bf43c4f30bc045dfee01708dd03d296.mp3?hdnea=exp=1795654243~acl=/api/1/1/0/b/f/0/0bf43c4f30bc045dfee01708dd03d296.mp3*~data=user_id=0,application_id=42~hmac=f3002b473436e2da85232390a9329313cb57ede967ac82732a14ead880880d5f",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Mystified (instrumental demo)",
+            "length": "3:18",
+            "deezer": {
+              "id": 341025001,
+              "link": "https://www.deezer.com/track/341025001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fef9688b63222bc6e346f87ba2566da6.mp3?hdnea=exp=1795654243~acl=/api/1/1/f/e/f/0/fef9688b63222bc6e346f87ba2566da6.mp3*~data=user_id=0,application_id=42~hmac=f2508283c54dde0888a70c21a1506f4026ca6d4c3214e2de6184d7aff261660a",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "You and I, Pt. II (full version)",
+            "length": "6:28",
+            "deezer": {
+              "id": 341025011,
+              "link": "https://www.deezer.com/track/341025011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/0/0/20096249f6859480b6b906a732aeff44.mp3?hdnea=exp=1795654243~acl=/api/1/1/2/0/0/0/20096249f6859480b6b906a732aeff44.mp3*~data=user_id=0,application_id=42~hmac=19c4801f34e392557ee1e92db2e94f0f64e94d291edd28157ca49cc5c4c67892",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 3,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Big Love (extended remix)",
+            "length": "6:43",
+            "deezer": {
+              "id": 341025021,
+              "link": "https://www.deezer.com/track/341025021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/6/0/056e88f0822effca5a9c5a4c62d028ac.mp3?hdnea=exp=1795654243~acl=/api/1/1/0/5/6/0/056e88f0822effca5a9c5a4c62d028ac.mp3*~data=user_id=0,application_id=42~hmac=6437de6180629cf5b152aa75d13b00c8d6ef90ac0cd92be8b2b310770c15b6fb",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Big Love (House on the Hill dub)",
+            "length": "3:01",
+            "deezer": {
+              "id": 341025031,
+              "link": "https://www.deezer.com/track/341025031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/b/0/6bbae316b6e960f8b42ed4125ab052eb.mp3?hdnea=exp=1795654243~acl=/api/1/1/6/b/b/0/6bbae316b6e960f8b42ed4125ab052eb.mp3*~data=user_id=0,application_id=42~hmac=9832705fdc324f36a30c9bf44cca000b2facbd6076d9812acb5cd99451765dfc",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Big Love (piano dub)",
+            "length": "6:37",
+            "deezer": {
+              "id": 341025041,
+              "link": "https://www.deezer.com/track/341025041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/3/0/6e31e246d44e39233b2a09ade9b74158.mp3?hdnea=exp=1795654243~acl=/api/1/1/6/e/3/0/6e31e246d44e39233b2a09ade9b74158.mp3*~data=user_id=0,application_id=42~hmac=94a1368ff7a394a6f4550c7aec666b8f0f9dd50abc25656317069eba7faadd09",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Big Love (remix / edit)",
+            "length": "3:41",
+            "deezer": {
+              "id": 341025051,
+              "link": "https://www.deezer.com/track/341025051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/d/0/13d970e3f3f9e4ee28ed2eec49f0791c.mp3?hdnea=exp=1795654243~acl=/api/1/1/1/3/d/0/13d970e3f3f9e4ee28ed2eec49f0791c.mp3*~data=user_id=0,application_id=42~hmac=9a95409f6d8c4363fd7f0923d4adf3d42bf07a3bcd219112238748b31d81ac64",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Seven Wonders (extended version)",
+            "length": "6:26",
+            "deezer": {
+              "id": 341025061,
+              "link": "https://www.deezer.com/track/341025061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/2/0/0425e8643d6ecefe7703d6fc677e657b.mp3?hdnea=exp=1795654243~acl=/api/1/1/0/4/2/0/0425e8643d6ecefe7703d6fc677e657b.mp3*~data=user_id=0,application_id=42~hmac=4594a00dc0a6faf6d348f28a8c55b7ba85d00a5fb7bf4ac34437183c9a79d625",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Seven Wonders (dub)",
+            "length": "4:34",
+            "deezer": {
+              "id": 341025071,
+              "link": "https://www.deezer.com/track/341025071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/a/0/b1a5ec6f0f68772c05c2b4bd1950b41f.mp3?hdnea=exp=1795654243~acl=/api/1/1/b/1/a/0/b1a5ec6f0f68772c05c2b4bd1950b41f.mp3*~data=user_id=0,application_id=42~hmac=b415f337caef73468facf5f0185278402b36ef4d5dca97217b5fb8621041660e",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Little Lies (extended version)",
+            "length": "6:15",
+            "deezer": {
+              "id": 341025081,
+              "link": "https://www.deezer.com/track/341025081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/2/0/cb25f13ef2efc6172257e0157227ae46.mp3?hdnea=exp=1795654243~acl=/api/1/1/c/b/2/0/cb25f13ef2efc6172257e0157227ae46.mp3*~data=user_id=0,application_id=42~hmac=08594204484ca39e9b3e90e69d13baf2ac0d876853fe24ea53f38848fe7256b6",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Little Lies (dub)",
+            "length": "4:14",
+            "deezer": {
+              "id": 341025091,
+              "link": "https://www.deezer.com/track/341025091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/6/0/5860ce24f2e853a72839347c198b5bde.mp3?hdnea=exp=1795654243~acl=/api/1/1/5/8/6/0/5860ce24f2e853a72839347c198b5bde.mp3*~data=user_id=0,application_id=42~hmac=99c562e1e3807636028d6a4131f1863c357e675865d72e775db0061b0ec742d5",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Family Man (extended vocal remix)",
+            "length": "8:31",
+            "deezer": {
+              "id": 341025101,
+              "link": "https://www.deezer.com/track/341025101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/b/0/c7bde4051a6bf2867e532e19eb9253e8.mp3?hdnea=exp=1795654243~acl=/api/1/1/c/7/b/0/c7bde4051a6bf2867e532e19eb9253e8.mp3*~data=user_id=0,application_id=42~hmac=89fc7ce7ea0fa7c91b75d9c9db745aefd7e0415f86988362b9817579778552d9",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Family Man (I’m a Jazz Man dub)",
+            "length": "8:52",
+            "deezer": {
+              "id": 341025111,
+              "link": "https://www.deezer.com/track/341025111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/3/0/1a3284e49751a4c1cd946ee8639b3b3f.mp3?hdnea=exp=1795654243~acl=/api/1/1/1/a/3/0/1a3284e49751a4c1cd946ee8639b3b3f.mp3*~data=user_id=0,application_id=42~hmac=f6dd1c22368435085182339e80d875dbfef1b5490d143128d1d1cd78d7e09f2a",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Family Man (extended guitar version)",
+            "length": "6:28",
+            "deezer": {
+              "id": 341025121,
+              "link": "https://www.deezer.com/track/341025121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/6/0/ae6e8d0a803e77b1d0d416701d8f20d1.mp3?hdnea=exp=1795654243~acl=/api/1/1/a/e/6/0/ae6e8d0a803e77b1d0d416701d8f20d1.mp3*~data=user_id=0,application_id=42~hmac=4f22442da75360201c0ff6f905505a9305bf10805dd708a0b8d75f5fbfbbc288",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Family Man (bonus beats)",
+            "length": "4:38",
+            "deezer": {
+              "id": 341025131,
+              "link": "https://www.deezer.com/track/341025131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/9/0/c8978c77e0c685b6ad650df5b40b58d7.mp3?hdnea=exp=1795654243~acl=/api/1/1/c/8/9/0/c8978c77e0c685b6ad650df5b40b58d7.mp3*~data=user_id=0,application_id=42~hmac=fa88a1d5964ec698b5774b918d94a901c2a8fedabd1aa1b94a3befe187de2d22",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Everywhere (12″ version)",
+            "length": "5:50",
+            "deezer": {
+              "id": 341025141,
+              "link": "https://www.deezer.com/track/341025141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/7/0/de7f391a8d0a552056b7ca2070ea9a3a.mp3?hdnea=exp=1795654243~acl=/api/1/1/d/e/7/0/de7f391a8d0a552056b7ca2070ea9a3a.mp3*~data=user_id=0,application_id=42~hmac=220291b84aedc2cb5558b57271f1964ea414912f30a5cf735c2935b556168c7e",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Everywhere (dub)",
+            "length": "3:55",
+            "deezer": {
+              "id": 341025151,
+              "link": "https://www.deezer.com/track/341025151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a18aa356a13ede984b7b071ed9479204.mp3?hdnea=exp=1795654243~acl=/api/1/1/a/1/8/0/a18aa356a13ede984b7b071ed9479204.mp3*~data=user_id=0,application_id=42~hmac=db1a7db0cb6375414f7bc453cf0a515527607c70d685b9a7ac74c8f10879dced",
+              "preview_expires": "2026-11-26T00:50:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Fleetwood Mac/Tango In the Night.jpg"
+}

@@ -1,0 +1,276 @@
+{
+  "title": "Laya Project",
+  "artist": "Laya Project",
+  "year": 2007,
+  "release_date": "2007",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "ambient",
+    "electronic",
+    "folk"
+  ],
+  "tags": [
+    "ambient",
+    "electronic",
+    "folk"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/efc33946-2dda-44a4-b104-c6d6dc5dd9ce",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0002200811",
+    "deezer": "https://www.deezer.com/album/15109807"
+  },
+  "musicbrainz_id": "efc33946-2dda-44a4-b104-c6d6dc5dd9ce",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/514ad302-4e95-45cc-976c-d2740e2c8aa2",
+      "barcode": "0689076087766",
+      "title": "Laya Project",
+      "disambiguation": null,
+      "date": "2009-05-15",
+      "country": "XW"
+    },
+    "total_tracks": 20,
+    "total_length": "1:35:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Glorious Sun (remix)",
+            "length": "3:21",
+            "deezer": {
+              "id": 140344833,
+              "link": "https://www.deezer.com/track/140344833",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/d/0/6fd258b17452d8649d4d824e60d342e1.mp3?hdnea=exp=1795656415~acl=/api/1/1/6/f/d/0/6fd258b17452d8649d4d824e60d342e1.mp3*~data=user_id=0,application_id=42~hmac=0b2e9e011cc5a0747e3ef9706beed78cf4f00e2e09cf589e79034768d7c6d63f",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Muliya",
+            "length": "6:09",
+            "deezer": {
+              "id": 140344835,
+              "link": "https://www.deezer.com/track/140344835",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/0/0/9f024f356603aa16f5969f7b1b2544dd.mp3?hdnea=exp=1795656415~acl=/api/1/1/9/f/0/0/9f024f356603aa16f5969f7b1b2544dd.mp3*~data=user_id=0,application_id=42~hmac=e1c1e423980911d45fe024762b13786168bf09d1988225554a466f95cc10d790",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "A New Day",
+            "length": "4:03",
+            "deezer": {
+              "id": 140344837,
+              "link": "https://www.deezer.com/track/140344837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/3/0/d93869dec6e1728796b7b16884758231.mp3?hdnea=exp=1795656415~acl=/api/1/1/d/9/3/0/d93869dec6e1728796b7b16884758231.mp3*~data=user_id=0,application_id=42~hmac=d9fa6ba03df47b48817c6aa294e5cce60750aae21c33719f297e800b57cee8c4",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hai La Sa",
+            "length": "5:55",
+            "deezer": {
+              "id": 140344839,
+              "link": "https://www.deezer.com/track/140344839",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/e/0/4fe07bc7766b18ae8ff21886e34a5cb8.mp3?hdnea=exp=1795656415~acl=/api/1/1/4/f/e/0/4fe07bc7766b18ae8ff21886e34a5cb8.mp3*~data=user_id=0,application_id=42~hmac=3bf028aa55e3199061ca7d0900e39a64eff6a34581bdc96c9fe304026d6d868b",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ya Allah",
+            "length": "7:29",
+            "deezer": {
+              "id": 140344841,
+              "link": "https://www.deezer.com/track/140344841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/4/0/a44a4eca7b7935a138a80067824497e2.mp3?hdnea=exp=1795656415~acl=/api/1/1/a/4/4/0/a44a4eca7b7935a138a80067824497e2.mp3*~data=user_id=0,application_id=42~hmac=4b3458c2ac66123b4b9de77e0feac0bfdc0f83e2123dccb617ea50dd6e224baa",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Tapatam",
+            "length": "5:58",
+            "deezer": {
+              "id": 140344843,
+              "link": "https://www.deezer.com/track/140344843",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/7/0/de721fcd917393bdccaaad49117266c5.mp3?hdnea=exp=1795656415~acl=/api/1/1/d/e/7/0/de721fcd917393bdccaaad49117266c5.mp3*~data=user_id=0,application_id=42~hmac=a16cf705c0b8448231650c78d8a4cc0b861aaf2adc92a8d3cf167c5f0f25bbc4",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Farihi",
+            "length": "1:22",
+            "deezer": {
+              "id": 140344845,
+              "link": "https://www.deezer.com/track/140344845",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/2/0/d528d563bd773dbda6f4d43a28f9e073.mp3?hdnea=exp=1795656415~acl=/api/1/1/d/5/2/0/d528d563bd773dbda6f4d43a28f9e073.mp3*~data=user_id=0,application_id=42~hmac=3e5b240745fa4bc2e54d5d4a9a936ac895e1fc74abb0350c80bb2cba71b9e5d4",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Touare",
+            "length": "6:13",
+            "deezer": {
+              "id": 140344847,
+              "link": "https://www.deezer.com/track/140344847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/c/0/7ac592c66d124511246d056367f7d4d1.mp3?hdnea=exp=1795656415~acl=/api/1/1/7/a/c/0/7ac592c66d124511246d056367f7d4d1.mp3*~data=user_id=0,application_id=42~hmac=1de94230afa16f49c43001fbab7e6ee34742bac1ab8f657064249a040e644924",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Waterside Tales",
+            "length": "4:36",
+            "deezer": {
+              "id": 140344849,
+              "link": "https://www.deezer.com/track/140344849",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/deeb65b5bd752f227bd29ae15f966382.mp3?hdnea=exp=1795656415~acl=/api/1/1/d/e/e/0/deeb65b5bd752f227bd29ae15f966382.mp3*~data=user_id=0,application_id=42~hmac=1793478b3625d808e6a57153b426094fdf3a8e1d9a952b2475b2bc7c404f4a7c",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Glorious Sun",
+            "length": "4:30",
+            "deezer": {
+              "id": 140344851,
+              "link": "https://www.deezer.com/track/140344851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/3/0/5a3825985e738b11ebe4fd3fc8e904b4.mp3?hdnea=exp=1795656415~acl=/api/1/1/5/a/3/0/5a3825985e738b11ebe4fd3fc8e904b4.mp3*~data=user_id=0,application_id=42~hmac=d64501be7f26d6bac8ecf592f8f04a9a0d25522f0807ca87b35bca9af3aa7a06",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sunrise in Injumbakkam",
+            "length": "2:55",
+            "deezer": {
+              "id": 140344853,
+              "link": "https://www.deezer.com/track/140344853",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/6/0/5c652f2a2190cab4cefffef659bf3a21.mp3?hdnea=exp=1795656415~acl=/api/1/1/5/c/6/0/5c652f2a2190cab4cefffef659bf3a21.mp3*~data=user_id=0,application_id=42~hmac=c8ff72a805f418339cfefd4d595b0dc3b552843ea3982e506369169ab4d20be9",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Rain Buddha",
+            "length": "3:59",
+            "deezer": {
+              "id": 140344855,
+              "link": "https://www.deezer.com/track/140344855",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/b/0/9ab06e29dd217129a7f164088ffcaf60.mp3?hdnea=exp=1795656415~acl=/api/1/1/9/a/b/0/9ab06e29dd217129a7f164088ffcaf60.mp3*~data=user_id=0,application_id=42~hmac=eb0d93d7c6c6d110641addb22863b48ce400b07941bbdc9e06d125eb32a6f342",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Prem Jam",
+            "length": "2:20",
+            "deezer": {
+              "id": 140344857,
+              "link": "https://www.deezer.com/track/140344857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/5/0/6c561ae171f1c50fb14dc8575252f82e.mp3?hdnea=exp=1795656415~acl=/api/1/1/6/c/5/0/6c561ae171f1c50fb14dc8575252f82e.mp3*~data=user_id=0,application_id=42~hmac=57fcfb554e78ea89951708130ac3c41c2888fb8894eacee948970d1f5e5ef973",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Poothai",
+            "length": "1:42",
+            "deezer": {
+              "id": 140344859,
+              "link": "https://www.deezer.com/track/140344859",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/1/0/251230cbfebe3789ac314d8dbd1efb24.mp3?hdnea=exp=1795656415~acl=/api/1/1/2/5/1/0/251230cbfebe3789ac314d8dbd1efb24.mp3*~data=user_id=0,application_id=42~hmac=12818eddc1489cf379f9fbf57f62dd9956f36d136b00c73a2ac50b0cd95103bc",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Sunset in Akkarai",
+            "length": "4:16",
+            "deezer": {
+              "id": 140344861,
+              "link": "https://www.deezer.com/track/140344861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/4/0/d240c464e85cee8fb759bf35093193cc.mp3?hdnea=exp=1795656415~acl=/api/1/1/d/2/4/0/d240c464e85cee8fb759bf35093193cc.mp3*~data=user_id=0,application_id=42~hmac=6e6b30cfc4f833bca6f77d3b2de1536c73d08c176470ccb0be55db8318e7fd31",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Nium Nium",
+            "length": "6:56",
+            "deezer": {
+              "id": 140344863,
+              "link": "https://www.deezer.com/track/140344863",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/4/0/124f70d44bb0ca1a7b8490eccdc84973.mp3?hdnea=exp=1795656415~acl=/api/1/1/1/2/4/0/124f70d44bb0ca1a7b8490eccdc84973.mp3*~data=user_id=0,application_id=42~hmac=6d4f07a4685841a35b555020ccf47231bc1bcb37680e3cdc109721823121d2a3",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Katalu Talu",
+            "length": "4:35",
+            "deezer": {
+              "id": 140344865,
+              "link": "https://www.deezer.com/track/140344865",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/3/0/3234899388bf2bf116ef8305a5378673.mp3?hdnea=exp=1795656415~acl=/api/1/1/3/2/3/0/3234899388bf2bf116ef8305a5378673.mp3*~data=user_id=0,application_id=42~hmac=e3cfca3b8bdebde0aa459811a491e756b231e8fa40c07d717db9a385a99c4a25",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Going to Seville",
+            "length": "1:19",
+            "deezer": {
+              "id": 140344867,
+              "link": "https://www.deezer.com/track/140344867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/c/0/d2ccf0c7eb94dd8d637cccf5ba3bc943.mp3?hdnea=exp=1795656415~acl=/api/1/1/d/2/c/0/d2ccf0c7eb94dd8d637cccf5ba3bc943.mp3*~data=user_id=0,application_id=42~hmac=8f5a873d39f751e2c7ee9000156776a7192d9cd867a25d9eb75dc159429b3e5e",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Music",
+            "length": "0:42",
+            "deezer": {
+              "id": 140344869,
+              "link": "https://www.deezer.com/track/140344869",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/9/0/249a7ffa97e8a4b3f35f5d8f3b1ad829.mp3?hdnea=exp=1795656415~acl=/api/1/1/2/4/9/0/249a7ffa97e8a4b3f35f5d8f3b1ad829.mp3*~data=user_id=0,application_id=42~hmac=3f707fb725d798902db9272ffc861570d7fb66b87c35040f944ea9bcf18d2184",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Laya Mantra",
+            "length": "16:50",
+            "deezer": {
+              "id": 140344871,
+              "link": "https://www.deezer.com/track/140344871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/0/0/3b055b30e024005e79a0783d89e6a9f2.mp3?hdnea=exp=1795656415~acl=/api/1/1/3/b/0/0/3b055b30e024005e79a0783d89e6a9f2.mp3*~data=user_id=0,application_id=42~hmac=eb63a6ec3a49c47fe564582668d279c40521765c817fb35698619ea7b6ceafe2",
+              "preview_expires": "2026-11-26T01:26:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Laya Project/Laya Project.jpg"
+}

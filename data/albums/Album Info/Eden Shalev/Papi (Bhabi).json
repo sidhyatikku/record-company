@@ -1,0 +1,51 @@
+{
+  "title": "Papi",
+  "artist": "MR.BLACK & Eden Shalev",
+  "year": 2023,
+  "release_date": "2023-05-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/69c5546a-b5a9-4a0c-a4df-ba06b73fa28c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/439369137"
+  },
+  "musicbrainz_id": "69c5546a-b5a9-4a0c-a4df-ba06b73fa28c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4ccd214f-8eb6-4763-b776-54b95c1f0ad6",
+      "barcode": "8720923549661",
+      "title": "Papi",
+      "disambiguation": null,
+      "date": "2023-05-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Papi (extended mix)",
+            "length": "3:50",
+            "deezer": {
+              "id": 2276153667,
+              "link": "https://www.deezer.com/track/2276153667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/4/0/b64689971802285cbbdffa6421afba44.mp3?hdnea=exp=1795653795~acl=/api/1/1/b/6/4/0/b64689971802285cbbdffa6421afba44.mp3*~data=user_id=0,application_id=42~hmac=2366679cd85e96460add17b44548e04fc1aca89784ef0e83cef714e6e6ff4c68",
+              "preview_expires": "2026-11-26T00:43:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eden Shalev/Papi (Bhabi).jpg"
+}

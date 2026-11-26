@@ -1,0 +1,61 @@
+{
+  "title": "World, Hold On (Children of the Sky)",
+  "artist": "Bob Sinclar feat. Steve Edwards",
+  "year": 2006,
+  "release_date": "2006-04-20",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house",
+    "electronic",
+    "pop soul"
+  ],
+  "tags": [
+    "house",
+    "electronic",
+    "pop soul",
+    "electronic and space music"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ff3ecc1f-1894-395d-95ac-889138e91518",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/95593",
+    "deezer": "https://www.deezer.com/album/539052292"
+  },
+  "musicbrainz_id": "ff3ecc1f-1894-395d-95ac-889138e91518",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/35bfbd7e-64d0-4a20-92fc-3c8a84b29500",
+      "barcode": "3615936136951",
+      "title": "World, Hold On (Children of the Sky) (radio edit)",
+      "disambiguation": null,
+      "date": "2006-06-06",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "World, Hold On (Children of the Sky) (radio edit)",
+            "length": "3:24",
+            "deezer": {
+              "id": 2633773772,
+              "link": "https://www.deezer.com/track/2633773772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/7/0/1273f07e08e22fd935aae4e9e09df4bc.mp3?hdnea=exp=1795652400~acl=/api/1/1/1/2/7/0/1273f07e08e22fd935aae4e9e09df4bc.mp3*~data=user_id=0,application_id=42~hmac=b606a79f14380e5d3bfa6abac69b367d0db7fc4c22fd89643c141208fd5d7c3c",
+              "preview_expires": "2026-11-26T00:20:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bob Sinclar/World Hold on (Children of the Sky) [Radio Edit].jpg"
+}

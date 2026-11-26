@@ -1,0 +1,190 @@
+{
+  "title": "RTRN II JUNGLE",
+  "artist": "Chase & Status",
+  "year": 2019,
+  "release_date": "2019-05-31",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "drum and bass",
+    "electronic"
+  ],
+  "tags": [
+    "drum and bass",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7be965fb-ed34-4ca1-b19d-0eb7aeefda81",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003278957",
+    "discogs": "https://www.discogs.com/master/1575503",
+    "deezer": "https://www.deezer.com/album/98185562"
+  },
+  "musicbrainz_id": "7be965fb-ed34-4ca1-b19d-0eb7aeefda81",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/734e0f83-fb75-4754-959e-dffb3b483e91",
+      "barcode": "602577829291",
+      "title": "RTRN II JUNGLE",
+      "disambiguation": "explicit",
+      "date": "2019-05-31",
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "46:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shut Up",
+            "length": "4:02",
+            "artist": "Chase & Status feat. Suku",
+            "deezer": {
+              "id": 685813272,
+              "link": "https://www.deezer.com/track/685813272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/9/0/949397270a0529255594b11235637950.mp3?hdnea=exp=1795652717~acl=/api/1/1/9/4/9/0/949397270a0529255594b11235637950.mp3*~data=user_id=0,application_id=42~hmac=53e22ae4194237f19317a4f9339b76960e71ecb26e448fa761f8ce0628c84c64",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Heater",
+            "length": "3:15",
+            "artist": "Chase & Status feat. General Levy",
+            "deezer": {
+              "id": 685813282,
+              "link": "https://www.deezer.com/track/685813282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/d/0/64d61d1fa802f1348451e314ae9f5efc.mp3?hdnea=exp=1795652717~acl=/api/1/1/6/4/d/0/64d61d1fa802f1348451e314ae9f5efc.mp3*~data=user_id=0,application_id=42~hmac=9ce9c0e04defd8900962a92d0ac2356d413dc54b515bbfce194c609b77b5ae88",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Original Business",
+            "length": "4:12",
+            "deezer": {
+              "id": 685813292,
+              "link": "https://www.deezer.com/track/685813292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/b/0/c5beec42e4d9be599ef9af8a561bc687.mp3?hdnea=exp=1795652717~acl=/api/1/1/c/5/b/0/c5beec42e4d9be599ef9af8a561bc687.mp3*~data=user_id=0,application_id=42~hmac=5f769ec7efabd7085ffdb6fab488d831c9ca8921daa6b5d4dd9ef11b0fe6c7cb",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Murder Music",
+            "length": "3:34",
+            "artist": "Chase & Status feat. Kabaka Pyramid",
+            "deezer": {
+              "id": 685813302,
+              "link": "https://www.deezer.com/track/685813302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/c/0/b2c8227b72c66b8a116b5ff953b0dc7b.mp3?hdnea=exp=1795652717~acl=/api/1/1/b/2/c/0/b2c8227b72c66b8a116b5ff953b0dc7b.mp3*~data=user_id=0,application_id=42~hmac=cb639fc93f87cdcb6baad96826c77c22812eb7e330a73fc29b7d6fff4e8711f3",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Program",
+            "length": "4:12",
+            "artist": "Chase & Status feat. IRAH",
+            "deezer": {
+              "id": 685813312,
+              "link": "https://www.deezer.com/track/685813312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/5/0/9456d413cfa8e1ba0c9e15111c966f8a.mp3?hdnea=exp=1795652717~acl=/api/1/1/9/4/5/0/9456d413cfa8e1ba0c9e15111c966f8a.mp3*~data=user_id=0,application_id=42~hmac=185da9b40c7ff8f26bcc9d2d43242c4170bccbb680db8a9a10eb49e5480f4481",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Cool n Crisp",
+            "length": "4:07",
+            "artist": "Chase & Status feat. Natty Campbell",
+            "deezer": {
+              "id": 685813322,
+              "link": "https://www.deezer.com/track/685813322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/5/0/aa5322c913f9b77d38420b7d16bfcbcc.mp3?hdnea=exp=1795652717~acl=/api/1/1/a/a/5/0/aa5322c913f9b77d38420b7d16bfcbcc.mp3*~data=user_id=0,application_id=42~hmac=22d55133345d8ead45e845fe9ef1d36bde48556a6caeb50db4a14dabacf7d6ed",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Weed & Rum",
+            "length": "3:22",
+            "artist": "Chase & Status feat. Masicka",
+            "deezer": {
+              "id": 685813332,
+              "link": "https://www.deezer.com/track/685813332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/a/0/dca184074393a57eb233c9539fe53311.mp3?hdnea=exp=1795652717~acl=/api/1/1/d/c/a/0/dca184074393a57eb233c9539fe53311.mp3*~data=user_id=0,application_id=42~hmac=bc56bf62932cd422e806b05415af93abf68c80d8b187bef7a7a8d0b071f70f4e",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Burning",
+            "length": "4:00",
+            "artist": "Chase & Status feat. Cocoa Tea",
+            "deezer": {
+              "id": 685813342,
+              "link": "https://www.deezer.com/track/685813342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/3/0/a435b1262594a66efab5e6cb809de0c8.mp3?hdnea=exp=1795652717~acl=/api/1/1/a/4/3/0/a435b1262594a66efab5e6cb809de0c8.mp3*~data=user_id=0,application_id=42~hmac=47af8a70f50c48b2a0efec540edca14568a345b7e2ec8c54abd5169b0154e331",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Retreat2018",
+            "length": "4:36",
+            "artist": "Chase & Status feat. Cutty Ranks",
+            "deezer": {
+              "id": 685813352,
+              "link": "https://www.deezer.com/track/685813352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/0/0/99097690304804c3dbbb8f3f50bd4b18.mp3?hdnea=exp=1795652717~acl=/api/1/1/9/9/0/0/99097690304804c3dbbb8f3f50bd4b18.mp3*~data=user_id=0,application_id=42~hmac=58a9a24a090497e1d162e87f88ab272068d45501387a17403d84b68954e4ef34",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Delete",
+            "length": "3:01",
+            "artist": "Chase & Status feat. Burro Banton",
+            "deezer": {
+              "id": 685813362,
+              "link": "https://www.deezer.com/track/685813362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/4/0/ee42aa8311b2bbc30e28cf816c889655.mp3?hdnea=exp=1795652717~acl=/api/1/1/e/e/4/0/ee42aa8311b2bbc30e28cf816c889655.mp3*~data=user_id=0,application_id=42~hmac=edd4de396b9201fcaa613e1e3bf323d4d1b7ed61d2dc8733aa5668c06027fcc2",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Bubble",
+            "length": "3:44",
+            "artist": "Chase & Status feat. New Kidz",
+            "deezer": {
+              "id": 685813372,
+              "link": "https://www.deezer.com/track/685813372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/2/0/b620aae220a01a51f027fe695591e9f3.mp3?hdnea=exp=1795652717~acl=/api/1/1/b/6/2/0/b620aae220a01a51f027fe695591e9f3.mp3*~data=user_id=0,application_id=42~hmac=4fa4f8e8942fcb21200cf78d242d9d910800682475070701642f00a46c8e08b1",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Disaster",
+            "length": "4:17",
+            "deezer": {
+              "id": 685813382,
+              "link": "https://www.deezer.com/track/685813382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/7/0/397779f3abce9852afface260dbc448c.mp3?hdnea=exp=1795652717~acl=/api/1/1/3/9/7/0/397779f3abce9852afface260dbc448c.mp3*~data=user_id=0,application_id=42~hmac=16a3d288463bb6332e8c6482b7d54079a16db2cfaaa2ac383769b490d10a337c",
+              "preview_expires": "2026-11-26T00:25:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chase & Status/RTRN II JUNGLE.jpg"
+}

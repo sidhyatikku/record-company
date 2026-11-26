@@ -1,0 +1,237 @@
+{
+  "title": "Rockstar",
+  "artist": "A. R. Rahman & Irshad Kamil",
+  "year": 2011,
+  "release_date": "2011-09-30",
+  "type": "Album + Soundtrack",
+  "description": "Rockstar is the soundtrack album, composed by A. R. Rahman, to the 2011 Hindi musical film of the same name, directed by Imtiaz Ali, and starring Ranbir Kapoor and Nargis Fakhri in the lead roles. The lyrics for all the songs of the album were penned by Irshad Kamil. The film also stars Shammi Kapoor, who makes his last silver screen appearance in the film. The film is jointly produced by Shree Ashtavinayak Cine Vision Ltd and Eros International. The album features fourteen tracks, and was released on 30 September 2011 by T-Series to extremely positive critical reception and hysterical response from fans, grabbing nominations and numerous music awards held in the subsequent year. The entire album topped the iTunes world charts 2011 and continued its legacy until early 2012. The Indian Express has termed the film's soundtrack 'A Milestone for Bollywood'.",
+  "genres": [
+    "filmi",
+    "pop"
+  ],
+  "tags": [
+    "2010s",
+    "bollywood",
+    "filmi",
+    "hindi film music",
+    "pop",
+    "soundtrack"
+  ],
+  "rating": {
+    "value_out_of_5": 4.6,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/325bf45e-bc99-4707-b34d-c6fedaaf091c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rockstar_(soundtrack)",
+    "allmusic": "https://www.allmusic.com/album/mw0002246412",
+    "discogs": "https://www.discogs.com/master/1320667",
+    "wikidata": "https://www.wikidata.org/wiki/Q7355590",
+    "deezer": "https://www.deezer.com/album/697203661"
+  },
+  "musicbrainz_id": "325bf45e-bc99-4707-b34d-c6fedaaf091c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1eb706d2-eb60-46fa-8a62-586def81760b",
+      "barcode": "8902894697408",
+      "title": "Rockstar",
+      "disambiguation": null,
+      "date": "2011-10-01",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "1:07:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Phir Se Ud Chala",
+            "length": "4:29",
+            "artist": "Mohit Chauhan",
+            "deezer": {
+              "id": 3183626571,
+              "link": "https://www.deezer.com/track/3183626571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/b/0/86b418995f19d3c2c841855aaad88521.mp3?hdnea=exp=1795648755~acl=/api/1/1/8/6/b/0/86b418995f19d3c2c841855aaad88521.mp3*~data=user_id=0,application_id=42~hmac=bd8e4edac18afd7ad8e6bb835b86ceab5af265a5106c69d7d7790bd78795ba74",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jo Bhi Main",
+            "length": "4:34",
+            "artist": "Mohit Chauhan",
+            "deezer": {
+              "id": 3183626601,
+              "link": "https://www.deezer.com/track/3183626601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/e/0/6ae635c426f3ef4adc12ca5ad178a174.mp3?hdnea=exp=1795648755~acl=/api/1/1/6/a/e/0/6ae635c426f3ef4adc12ca5ad178a174.mp3*~data=user_id=0,application_id=42~hmac=49190e534851176be006619717a6b481fd332faf4631d0117f967f3cb409a139",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Katiya Karun",
+            "length": "3:58",
+            "artist": "Harshdeep Kaur",
+            "deezer": {
+              "id": 3183626621,
+              "link": "https://www.deezer.com/track/3183626621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/e/0/1aeaa01880988ef8aa14b13153401a44.mp3?hdnea=exp=1795648755~acl=/api/1/1/1/a/e/0/1aeaa01880988ef8aa14b13153401a44.mp3*~data=user_id=0,application_id=42~hmac=a5be138e16dde700b03387483524041c074789fed24d08acceb74ee2866ae8f4",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kun Faya Kun",
+            "length": "7:50",
+            "artist": "A. R. Rahman, Javed Ali, Mohit Chauhan & Nizami Brothers",
+            "deezer": {
+              "id": 3183626641,
+              "link": "https://www.deezer.com/track/3183626641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/e/0/19efdeb628a3a6998b3e84dd77eba0a2.mp3?hdnea=exp=1795648755~acl=/api/1/1/1/9/e/0/19efdeb628a3a6998b3e84dd77eba0a2.mp3*~data=user_id=0,application_id=42~hmac=e0906b7651a3e165b4745c248ed58c188af9263672307e326b9c838409d58e94",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sheher Mein",
+            "length": "4:02",
+            "artist": "Mohit Chauhan & Karthik",
+            "deezer": {
+              "id": 3183626661,
+              "link": "https://www.deezer.com/track/3183626661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/5/0/20542999ca495b6033c9ebff1aca4f52.mp3?hdnea=exp=1795648755~acl=/api/1/1/2/0/5/0/20542999ca495b6033c9ebff1aca4f52.mp3*~data=user_id=0,application_id=42~hmac=784f775b1093408fdcfac04cf22f885a5651ee79ad5079e92c42b480108b5963",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Haawa Haawa",
+            "length": "5:40",
+            "artist": "Mohit Chauhan, Viviane Chaix, Tanvi Shah, Suvi Suresh & Shalini",
+            "deezer": {
+              "id": 3183626691,
+              "link": "https://www.deezer.com/track/3183626691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/9/0/c590dd4329f9e0b4f4712f4992d2e003.mp3?hdnea=exp=1795648755~acl=/api/1/1/c/5/9/0/c590dd4329f9e0b4f4712f4992d2e003.mp3*~data=user_id=0,application_id=42~hmac=e1d78a15ca77ac1dce1e9ca42860921625598cfabd1300291c0b2d0cb6cbed7f",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Aur Ho",
+            "length": "5:32",
+            "artist": "Mohit Chauhan & Alma Ferovic",
+            "deezer": {
+              "id": 3183626711,
+              "link": "https://www.deezer.com/track/3183626711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/6/0/f967e8304c4100c6088f1f5c5f5799c7.mp3?hdnea=exp=1795648755~acl=/api/1/1/f/9/6/0/f967e8304c4100c6088f1f5c5f5799c7.mp3*~data=user_id=0,application_id=42~hmac=f4ae333db2183201986c16d1303b50db10f71a8d3260bf330b9923870b5b1922",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Tango For Taj",
+            "length": "2:58",
+            "artist": "A. R. Rahman",
+            "deezer": {
+              "id": 3183626731,
+              "link": "https://www.deezer.com/track/3183626731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/2/0/412fd1fc76ce0a7c7880f035cb257295.mp3?hdnea=exp=1795648755~acl=/api/1/1/4/1/2/0/412fd1fc76ce0a7c7880f035cb257295.mp3*~data=user_id=0,application_id=42~hmac=dbe884af267583401b0f7a8bf13461f69d3616887baa66f4782855fbd2f8ee63",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Tum Ko",
+            "length": "5:45",
+            "artist": "Kavita Krishnamurthy",
+            "deezer": {
+              "id": 3183626751,
+              "link": "https://www.deezer.com/track/3183626751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/a/0/aeae0f4caeb2998e0de41a56226b8019.mp3?hdnea=exp=1795648755~acl=/api/1/1/a/e/a/0/aeae0f4caeb2998e0de41a56226b8019.mp3*~data=user_id=0,application_id=42~hmac=6fcd450424a9996752788642788a8772f196cd80d4bd48fc1c4fde9c51eb6f07",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Dichotomy Of Fame",
+            "length": "2:40",
+            "artist": "A. R. Rahman",
+            "deezer": {
+              "id": 3183626781,
+              "link": "https://www.deezer.com/track/3183626781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/c/0/6dce9f368f90f50fd2eacdbfa0b3360f.mp3?hdnea=exp=1795648755~acl=/api/1/1/6/d/c/0/6dce9f368f90f50fd2eacdbfa0b3360f.mp3*~data=user_id=0,application_id=42~hmac=8ca59a12683a0b8654d57d294f2b035190db43e3e803abb58c18fe5ff23c47a1",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Nadaan Parinde",
+            "length": "6:24",
+            "artist": "A. R. Rahman & Mohit Chauhan",
+            "deezer": {
+              "id": 3183626801,
+              "link": "https://www.deezer.com/track/3183626801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/e/0/95e78026c65f2fcfbda0d3dca29a82c5.mp3?hdnea=exp=1795648755~acl=/api/1/1/9/5/e/0/95e78026c65f2fcfbda0d3dca29a82c5.mp3*~data=user_id=0,application_id=42~hmac=3a22dc0a99dc3b9d32ca248ebd47654632b286f726fc1971bc5d08ee121a4a3b",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Tum Ho",
+            "length": "5:16",
+            "artist": "Mohit Chauhan & Suzanne D’Mello",
+            "deezer": {
+              "id": 3183626821,
+              "link": "https://www.deezer.com/track/3183626821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/3/0/6332afc7f1ee8395b6b1cd12416c6c7c.mp3?hdnea=exp=1795648755~acl=/api/1/1/6/3/3/0/6332afc7f1ee8395b6b1cd12416c6c7c.mp3*~data=user_id=0,application_id=42~hmac=bc828c0c1459b9e77e04751ff5eadf1399644f7ff147923cc9840be69540a8c5",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Saadda Haq",
+            "length": "6:03",
+            "artist": "Mohit Chauhan",
+            "deezer": {
+              "id": 3183626841,
+              "link": "https://www.deezer.com/track/3183626841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/b/0/13bf72971b5ca3c0a90c18c200e7884f.mp3?hdnea=exp=1795648755~acl=/api/1/1/1/3/b/0/13bf72971b5ca3c0a90c18c200e7884f.mp3*~data=user_id=0,application_id=42~hmac=736a9c507f5c6ff6836d290933ee2a74248661d87db3147c0d3931345c8e4e10",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Meeting Place",
+            "length": "1:10",
+            "artist": "Ranbir Kapoor",
+            "deezer": {
+              "id": 3183626871,
+              "link": "https://www.deezer.com/track/3183626871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/9/0/e0963bb64db9c496fb92a604cecb9087.mp3?hdnea=exp=1795648755~acl=/api/1/1/e/0/9/0/e0963bb64db9c496fb92a604cecb9087.mp3*~data=user_id=0,application_id=42~hmac=a4ff17da92b3ad31a1a86fbac5df2b340edee15f0aadedb9c8f31989ed03f69d",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Jaagran (Rockstar)",
+            "length": "1:03",
+            "artist": "Mohit Chauhan",
+            "deezer": {
+              "id": 3183626891,
+              "link": "https://www.deezer.com/track/3183626891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/8/0/5a84b4855e7e749744af7144b2984379.mp3?hdnea=exp=1795648755~acl=/api/1/1/5/a/8/0/5a84b4855e7e749744af7144b2984379.mp3*~data=user_id=0,application_id=42~hmac=a2efca516405a5c5086f9b3daff45a2138b405e13351b72a8f881abf5d79ee8a",
+              "preview_expires": "2026-11-25T23:19:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/A.R. Rahman/Rockstar.jpg"
+}

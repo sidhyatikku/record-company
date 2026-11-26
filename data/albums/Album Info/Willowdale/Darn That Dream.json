@@ -1,0 +1,77 @@
+{
+  "title": "Darn That Dream",
+  "artist": "Willowdale",
+  "year": 2021,
+  "release_date": "2021-01-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4847ac50-7195-45b2-b899-c0a8656eb0ac",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/358183757"
+  },
+  "musicbrainz_id": "4847ac50-7195-45b2-b899-c0a8656eb0ac",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3a283726-a0a2-4e3f-94c2-7e152b14893a",
+      "barcode": "7340198208349",
+      "title": "Darn That Dream",
+      "disambiguation": null,
+      "date": "2021-01-08",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "13:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Darn That Dream",
+            "length": "3:52",
+            "deezer": {
+              "id": 1921992377,
+              "link": "https://www.deezer.com/track/1921992377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/3/0/ba361254f93afd0642da7e0af9737215.mp3?hdnea=exp=1795724362~acl=/api/1/1/b/a/3/0/ba361254f93afd0642da7e0af9737215.mp3*~data=user_id=0,application_id=42~hmac=59e67c5563d6d10bd5f2d14cdd926200d23e8a5b8fcb4e68f827c617ec5d4e67",
+              "preview_expires": "2026-11-26T20:19:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Do Nothing Til You Hear From Me",
+            "length": "4:44",
+            "deezer": {
+              "id": 1921992387,
+              "link": "https://www.deezer.com/track/1921992387",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/8/0/2084716713ec630125bce9da7b39d5e6.mp3?hdnea=exp=1795724362~acl=/api/1/1/2/0/8/0/2084716713ec630125bce9da7b39d5e6.mp3*~data=user_id=0,application_id=42~hmac=7d9e56e7d5550edf9ac1126a7e7e1077cf1ac4ba484a06ebb83dfbaa15cb3bcc",
+              "preview_expires": "2026-11-26T20:19:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Yesterdays",
+            "length": "4:38",
+            "deezer": {
+              "id": 1921992397,
+              "link": "https://www.deezer.com/track/1921992397",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/f/0/65f80380f1faf7ad474f3a3cf90a24b7.mp3?hdnea=exp=1795724362~acl=/api/1/1/6/5/f/0/65f80380f1faf7ad474f3a3cf90a24b7.mp3*~data=user_id=0,application_id=42~hmac=2c2cac4f58ef02b194587db507046d4ec14c1b24622a12c07371790d7b603685",
+              "preview_expires": "2026-11-26T20:19:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Willowdale/Darn That Dream.png"
+}

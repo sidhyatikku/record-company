@@ -1,0 +1,51 @@
+{
+  "title": "Oh My",
+  "artist": "Luude, Issey Cross feat. Moby",
+  "year": 2023,
+  "release_date": "2023-01-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c5b5c2d8-6286-4dee-940d-236ca3705ab2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/372865327"
+  },
+  "musicbrainz_id": "c5b5c2d8-6286-4dee-940d-236ca3705ab2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b43e72ea-bcb8-425c-be99-ebe19e099bb2",
+      "barcode": "5054197415661",
+      "title": "Oh My",
+      "disambiguation": null,
+      "date": "2023-01-12",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Oh My",
+            "length": "2:40",
+            "deezer": {
+              "id": 2000893517,
+              "link": "https://www.deezer.com/track/2000893517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/2/0/d923ce7fbe3c9224ba3ad7cdadaf5e9a.mp3?hdnea=exp=1795718100~acl=/api/1/1/d/9/2/0/d923ce7fbe3c9224ba3ad7cdadaf5e9a.mp3*~data=user_id=0,application_id=42~hmac=76266737d30470e18ca81e31ee0ffc44de43a0feac8c0f46c37848e5a9fb63dd",
+              "preview_expires": "2026-11-26T18:35:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Luude/Oh My.jpg"
+}

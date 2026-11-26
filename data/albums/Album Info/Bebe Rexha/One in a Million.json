@@ -1,0 +1,55 @@
+{
+  "title": "One in a Million",
+  "artist": "Bebe Rexha & David Guetta",
+  "year": 2023,
+  "release_date": "2023-08-04",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "pop"
+  ],
+  "tags": [
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4856ab0e-a784-43f7-a55f-853402d5162d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/470097235"
+  },
+  "musicbrainz_id": "4856ab0e-a784-43f7-a55f-853402d5162d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f52b8b94-b3a7-4a71-a96d-a8ba5c7edbc2",
+      "barcode": "054391413413",
+      "title": "One in a Million",
+      "disambiguation": null,
+      "date": "2023-08-04",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "One in a Million",
+            "length": "2:41",
+            "deezer": {
+              "id": 2388039025,
+              "link": "https://www.deezer.com/track/2388039025",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/0/0/6d049ebba751cce7014f494076f5576c.mp3?hdnea=exp=1795651905~acl=/api/1/1/6/d/0/0/6d049ebba751cce7014f494076f5576c.mp3*~data=user_id=0,application_id=42~hmac=8692a005ad7fa9769ac2113ce80b73c0839d28e0d59e089a9c773eb2ef1fa7f8",
+              "preview_expires": "2026-11-26T00:11:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bebe Rexha/One in a Million.jpg"
+}

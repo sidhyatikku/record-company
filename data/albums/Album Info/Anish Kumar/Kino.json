@@ -1,0 +1,62 @@
+{
+  "title": "Kino",
+  "artist": "Anish Kumar & Hagop Tchaparian",
+  "year": 2025,
+  "release_date": "2025-02-14",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/57038159-1402-4260-8372-d3320cc67b16",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/698101751"
+  },
+  "musicbrainz_id": "57038159-1402-4260-8372-d3320cc67b16",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e184fe70-1798-4ac6-9772-930e462d7e87",
+      "barcode": "5059449205663",
+      "title": "Kino - Extended",
+      "disambiguation": null,
+      "date": "2025-02-14",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "10:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Part I",
+            "length": "5:44",
+            "deezer": {
+              "id": 3186540931,
+              "link": "https://www.deezer.com/track/3186540931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/3/0/9b3b924eea79061ac47f931e3d6a5c62.mp3?hdnea=exp=1795649245~acl=/api/1/1/9/b/3/0/9b3b924eea79061ac47f931e3d6a5c62.mp3*~data=user_id=0,application_id=42~hmac=79d5b5dfc7b31f85aa647be230e5b3373366aa8d0254312c33f03ce17cd9e485",
+              "preview_expires": "2026-11-25T23:27:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Part II",
+            "length": "4:57",
+            "deezer": {
+              "id": 3186540941,
+              "link": "https://www.deezer.com/track/3186540941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/1/0/a21a9d7b0efa875612aa46bb69a6cd81.mp3?hdnea=exp=1795649245~acl=/api/1/1/a/2/1/0/a21a9d7b0efa875612aa46bb69a6cd81.mp3*~data=user_id=0,application_id=42~hmac=8be73119e2c4802e0d825d40fcde8987e4645c5896669841ecf040b843d99988",
+              "preview_expires": "2026-11-25T23:27:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/Kino.jpg"
+}

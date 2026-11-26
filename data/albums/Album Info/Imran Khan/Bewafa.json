@@ -1,0 +1,53 @@
+{
+  "title": "Bewafa",
+  "artist": "Imran Khan",
+  "year": 2009,
+  "release_date": "2009-07-27",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "desi",
+    "desi hip hop",
+    "punjabi pop",
+    "punjabi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5ree8vAP1owWzSh4PQU2z6",
+    "deezer": "https://www.deezer.com/album/114446302"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5ree8vAP1owWzSh4PQU2z6",
+      "title": "Bewafa",
+      "date": "2009-07-27"
+    },
+    "total_tracks": 1,
+    "total_length": "3:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bewafa",
+            "length": "3:43",
+            "deezer": {
+              "id": 773629382,
+              "link": "https://www.deezer.com/track/773629382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/d/0/f8d19adc04638fde26af9b51f1defcda.mp3?hdnea=exp=1795655200~acl=/api/1/1/f/8/d/0/f8d19adc04638fde26af9b51f1defcda.mp3*~data=user_id=0,application_id=42~hmac=f2298f60799d9cc73f634bdc9de67d4794cb9a001fd43852e244e2928d096dce",
+              "preview_expires": "2026-11-26T01:06:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Imran Khan/Bewafa.jpg"
+}

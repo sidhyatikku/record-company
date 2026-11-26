@@ -1,0 +1,106 @@
+{
+  "title": "AK Cuts: Vol. 2",
+  "artist": "Anish Kumar",
+  "year": 2026,
+  "release_date": "2026-02-13",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a8f2a369-6e6e-47fb-9b26-82c0da56a0f4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/855139372"
+  },
+  "musicbrainz_id": "a8f2a369-6e6e-47fb-9b26-82c0da56a0f4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/491b07d4-3f1a-444d-8971-4d1a997e6742",
+      "barcode": "5059449333526",
+      "title": "AK Cuts: Vol. 2",
+      "disambiguation": null,
+      "date": "2026-02-13",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "26:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Crankshaft",
+            "length": "7:33",
+            "deezer": {
+              "id": 3651881582,
+              "link": "https://www.deezer.com/track/3651881582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/b/0/77b37e69410537b7c32bb836caf04eb0.mp3?hdnea=exp=1795649192~acl=/api/1/1/7/7/b/0/77b37e69410537b7c32bb836caf04eb0.mp3*~data=user_id=0,application_id=42~hmac=4999726d636dd5be9c46f7ce866deee90879b61e1962a4f265e7fb71bc96dcde",
+              "preview_expires": "2026-11-25T23:26:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Heart Wants a Heart",
+            "length": "3:48",
+            "deezer": {
+              "id": 3651881592,
+              "link": "https://www.deezer.com/track/3651881592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/c/0/68c9bc4772aa3c53d66756a7df2f42c1.mp3?hdnea=exp=1795649192~acl=/api/1/1/6/8/c/0/68c9bc4772aa3c53d66756a7df2f42c1.mp3*~data=user_id=0,application_id=42~hmac=3e040e141d54cf1e25c43e4ad3c009965d5077903d89475e744cba1ac59511f3",
+              "preview_expires": "2026-11-25T23:26:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Memphis Players",
+            "length": "2:47",
+            "deezer": {
+              "id": 3651881602,
+              "link": "https://www.deezer.com/track/3651881602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/d/0/19d780395ba4a421973d4c4e83f090e1.mp3?hdnea=exp=1795649192~acl=/api/1/1/1/9/d/0/19d780395ba4a421973d4c4e83f090e1.mp3*~data=user_id=0,application_id=42~hmac=d13ad118971864df4b8aee696aafacd87f5a00214249e598790290ae7c65652a",
+              "preview_expires": "2026-11-25T23:26:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "One Thousand People",
+            "length": "4:12",
+            "deezer": {
+              "id": 3651881612,
+              "link": "https://www.deezer.com/track/3651881612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/d/0/f4d220b59f6f09c25c8a7583327c065c.mp3?hdnea=exp=1795649192~acl=/api/1/1/f/4/d/0/f4d220b59f6f09c25c8a7583327c065c.mp3*~data=user_id=0,application_id=42~hmac=ea3b2b10ac7d2fbc6a22c03451d655e789aea3708ce7cb5907528b8dff1fef56",
+              "preview_expires": "2026-11-25T23:26:32Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Throttle",
+            "length": "3:46",
+            "deezer": {
+              "id": 3651881622,
+              "link": "https://www.deezer.com/track/3651881622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/8/0/8881cfd7575c80cfa42f22e8cf56c58e.mp3?hdnea=exp=1795649192~acl=/api/1/1/8/8/8/0/8881cfd7575c80cfa42f22e8cf56c58e.mp3*~data=user_id=0,application_id=42~hmac=173a0cdff970b1eae6f326114842967a59e09fe40ee782b46e621f216d0115f3",
+              "preview_expires": "2026-11-25T23:26:32Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Occam's Razor",
+            "length": "4:28",
+            "deezer": {
+              "id": 3651881632,
+              "link": "https://www.deezer.com/track/3651881632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/d/0/86d311de3ffaa27fa20e20580c03eb97.mp3?hdnea=exp=1795649192~acl=/api/1/1/8/6/d/0/86d311de3ffaa27fa20e20580c03eb97.mp3*~data=user_id=0,application_id=42~hmac=ba9c04ffaa052b4dfea3b841112d2b675268e6bdb4e48a08d488181c42c64d8d",
+              "preview_expires": "2026-11-25T23:26:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/AK Cuts- Vol. 2.jpg"
+}

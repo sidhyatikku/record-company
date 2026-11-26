@@ -1,0 +1,101 @@
+{
+  "title": "Pulse",
+  "artist": "Sithu Aye",
+  "year": 2014,
+  "release_date": "2014-01-24",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/21dbb574-2565-4cc7-a8e8-dee0f58edc6e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/117410872"
+  },
+  "musicbrainz_id": "21dbb574-2565-4cc7-a8e8-dee0f58edc6e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8e4819ea-25b1-46f0-91c2-ee886ca50a49",
+      "barcode": null,
+      "title": "Pulse",
+      "disambiguation": null,
+      "date": "2014-01-24",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "27:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pulse, Part I",
+            "length": "6:43",
+            "artist": "Sithu Aye feat. Plini",
+            "deezer": {
+              "id": 796067052,
+              "link": "https://www.deezer.com/track/796067052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/c/0/6ccf41f9256edfbf991e65420670a916.mp3?hdnea=exp=1795720705~acl=/api/1/1/6/c/c/0/6ccf41f9256edfbf991e65420670a916.mp3*~data=user_id=0,application_id=42~hmac=d15e74c2bee6bbe25f6e7bc258f8f91e7a84dc0140e3c98804ca510932c874cd",
+              "preview_expires": "2026-11-26T19:18:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Messenger",
+            "length": "5:40",
+            "artist": "Sithu Aye feat. Aaron Marshall",
+            "deezer": {
+              "id": 796067062,
+              "link": "https://www.deezer.com/track/796067062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/8/0/838436e8b90a5c8b64ddab4f9b5096a2.mp3?hdnea=exp=1795720705~acl=/api/1/1/8/3/8/0/838436e8b90a5c8b64ddab4f9b5096a2.mp3*~data=user_id=0,application_id=42~hmac=9e4724c68549c2a1b2c291a182d66274fd62c6a0b7667a8b0ad614eea8913922",
+              "preview_expires": "2026-11-26T19:18:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Shiny",
+            "length": "5:06",
+            "deezer": {
+              "id": 796067072,
+              "link": "https://www.deezer.com/track/796067072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/8/0/9b899531a73671b38fda6d609d6f6922.mp3?hdnea=exp=1795720705~acl=/api/1/1/9/b/8/0/9b899531a73671b38fda6d609d6f6922.mp3*~data=user_id=0,application_id=42~hmac=d3edd87024ac985aa0c65792057260748f37a6727752a28cd0d3cd4f383e94a7",
+              "preview_expires": "2026-11-26T19:18:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Lights! Camera! Explosions!",
+            "length": "4:24",
+            "deezer": {
+              "id": 796067082,
+              "link": "https://www.deezer.com/track/796067082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/0/0/650dd4399e84cb7b3302415eb88db102.mp3?hdnea=exp=1795720705~acl=/api/1/1/6/5/0/0/650dd4399e84cb7b3302415eb88db102.mp3*~data=user_id=0,application_id=42~hmac=ad030935d8fa628ee8e7d53fa00a35b7ae1bec7a3dda3077968038759c5e8ee9",
+              "preview_expires": "2026-11-26T19:18:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Pulse, Part II",
+            "length": "5:17",
+            "deezer": {
+              "id": 796067092,
+              "link": "https://www.deezer.com/track/796067092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/f/0/d3f29b5c14117b8eaec939f9eca1905b.mp3?hdnea=exp=1795720705~acl=/api/1/1/d/3/f/0/d3f29b5c14117b8eaec939f9eca1905b.mp3*~data=user_id=0,application_id=42~hmac=1dd016f88b2a1b7281c8626f956b8053145884d2210061904e61d13e2c540b18",
+              "preview_expires": "2026-11-26T19:18:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/Pulse.jpg"
+}

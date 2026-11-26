@@ -1,0 +1,49 @@
+{
+  "title": "Tere Karke",
+  "artist": "Kalzi",
+  "year": 2024,
+  "release_date": "2024-06-28",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1QFIuHwEBFRwX8dSWwDlfx",
+    "deezer": "https://www.deezer.com/album/602596052"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1QFIuHwEBFRwX8dSWwDlfx",
+      "title": "Tere Karke",
+      "date": "2024-06-28"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tere Karke",
+            "length": "2:41",
+            "deezer": {
+              "id": 2849849152,
+              "link": "https://www.deezer.com/track/2849849152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/d/0/b1d2f56d8e2a8927c3a00e24dc465197.mp3?hdnea=exp=1795655858~acl=/api/1/1/b/1/d/0/b1d2f56d8e2a8927c3a00e24dc465197.mp3*~data=user_id=0,application_id=42~hmac=7ed1d98cec9b23764cfaadf6e81d71b085a08c94235bd702778ae6a2d33e42da",
+              "preview_expires": "2026-11-26T01:17:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kalzi/Tere Karke.jpg"
+}

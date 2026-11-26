@@ -1,0 +1,183 @@
+{
+  "title": "Awara",
+  "artist": "Arjan Dhillon",
+  "year": 2021,
+  "release_date": "2021-11-25",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/20584252-315d-418f-9f1a-65d9e9d26ab2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/274858732"
+  },
+  "musicbrainz_id": "20584252-315d-418f-9f1a-65d9e9d26ab2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9a8b5b4e-84a5-48f9-b139-4b15702304ed",
+      "barcode": "3616842087658",
+      "title": "Awara",
+      "disambiguation": null,
+      "date": "2021-11-25",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "45:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Score",
+            "length": "3:39",
+            "deezer": {
+              "id": 1563559362,
+              "link": "https://www.deezer.com/track/1563559362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/1/0/b412bdaa4a57c3916015964a8a698e6b.mp3?hdnea=exp=1795651669~acl=/api/1/1/b/4/1/0/b412bdaa4a57c3916015964a8a698e6b.mp3*~data=user_id=0,application_id=42~hmac=4572e83c7f7e3e51d0437d155bde2ac9e40f65434b30765bf229536c60688011",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Fire Fur",
+            "length": "2:37",
+            "deezer": {
+              "id": 1563559372,
+              "link": "https://www.deezer.com/track/1563559372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/c/0/c8c74deda469d14f6a595a35900430f2.mp3?hdnea=exp=1795651669~acl=/api/1/1/c/8/c/0/c8c74deda469d14f6a595a35900430f2.mp3*~data=user_id=0,application_id=42~hmac=c617736e500dc54babbc548b0ecd1d9d04ad5e5c8ed5d797d445efcad2e34732",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Shama Paiya",
+            "length": "4:15",
+            "deezer": {
+              "id": 1563559382,
+              "link": "https://www.deezer.com/track/1563559382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/3/0/7d3daa52e7c5dc472fe9d216de8c4758.mp3?hdnea=exp=1795651669~acl=/api/1/1/7/d/3/0/7d3daa52e7c5dc472fe9d216de8c4758.mp3*~data=user_id=0,application_id=42~hmac=f059d0fdf433668baa3347cd6bdf37e37c08e498ac61fa07517e7f5926b9a2db",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hold On",
+            "length": "3:02",
+            "deezer": {
+              "id": 1563559392,
+              "link": "https://www.deezer.com/track/1563559392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/d/0/6fd20b6f701189f87e5105c65ddfbf08.mp3?hdnea=exp=1795651669~acl=/api/1/1/6/f/d/0/6fd20b6f701189f87e5105c65ddfbf08.mp3*~data=user_id=0,application_id=42~hmac=a734cc9bb0fa7b2e143e41bff4ac95facf688a11aa5ab0be3aae6ac7cd9d3daf",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sangdi Sangdi",
+            "length": "3:38",
+            "deezer": {
+              "id": 1563559402,
+              "link": "https://www.deezer.com/track/1563559402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/e/0/64eddb8ac8bf6401a82f7830fe75936f.mp3?hdnea=exp=1795651669~acl=/api/1/1/6/4/e/0/64eddb8ac8bf6401a82f7830fe75936f.mp3*~data=user_id=0,application_id=42~hmac=7216456bd11626ff65ea2eef2c068347adc1d316b8f762ca81dda32277e1c073",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mahol",
+            "length": "3:26",
+            "deezer": {
+              "id": 1563559412,
+              "link": "https://www.deezer.com/track/1563559412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/a/0/05a89d5730f4d5bdc89df34b88d8405b.mp3?hdnea=exp=1795651669~acl=/api/1/1/0/5/a/0/05a89d5730f4d5bdc89df34b88d8405b.mp3*~data=user_id=0,application_id=42~hmac=99ef861814706a82049c98aa1ae251b74593d2e8bb62ff7081782c73d07a6744",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Why Arjan",
+            "length": "4:10",
+            "deezer": {
+              "id": 1563559422,
+              "link": "https://www.deezer.com/track/1563559422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/5/0/fc50af487cac95f07742144654975a9c.mp3?hdnea=exp=1795651669~acl=/api/1/1/f/c/5/0/fc50af487cac95f07742144654975a9c.mp3*~data=user_id=0,application_id=42~hmac=e5517631356cd576a1a13e09f95b43fadf215c149bcb59ebc84d6c6004019289",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dass Billo",
+            "length": "2:49",
+            "deezer": {
+              "id": 1563559432,
+              "link": "https://www.deezer.com/track/1563559432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/3/0/503a58001d25fbe240a1e30c7be7d1f0.mp3?hdnea=exp=1795651669~acl=/api/1/1/5/0/3/0/503a58001d25fbe240a1e30c7be7d1f0.mp3*~data=user_id=0,application_id=42~hmac=7434508d58cda049b22fb193443ed16341e42ec10989639987a4653d297b15b6",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mandeer",
+            "length": "3:10",
+            "deezer": {
+              "id": 1563559442,
+              "link": "https://www.deezer.com/track/1563559442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/a/0/68a3e4b474d113fadfe65abc7e005e9d.mp3?hdnea=exp=1795651669~acl=/api/1/1/6/8/a/0/68a3e4b474d113fadfe65abc7e005e9d.mp3*~data=user_id=0,application_id=42~hmac=e5de27a98dfbd585740ad90f1f5b6cae66a85b57724986e65b8dd57d17e7d266",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Mehal",
+            "length": "4:23",
+            "deezer": {
+              "id": 1563559452,
+              "link": "https://www.deezer.com/track/1563559452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/3/0/e33b51b59b051dd736f5c46ed41823a9.mp3?hdnea=exp=1795651669~acl=/api/1/1/e/3/3/0/e33b51b59b051dd736f5c46ed41823a9.mp3*~data=user_id=0,application_id=42~hmac=cc5f65f50bcc92f548c67a630d458000069c1492ee4fb4a9e4bcc24658117028",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Sade Aala",
+            "length": "2:58",
+            "deezer": {
+              "id": 1563559462,
+              "link": "https://www.deezer.com/track/1563559462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/5/0/cc58defba718674bffac2ee74211be29.mp3?hdnea=exp=1795651669~acl=/api/1/1/c/c/5/0/cc58defba718674bffac2ee74211be29.mp3*~data=user_id=0,application_id=42~hmac=906731c69bc422c8177918a5f1527dff0aa16f330dba4cd45416a9cac02ca4b3",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Dope",
+            "length": "4:03",
+            "deezer": {
+              "id": 1563559472,
+              "link": "https://www.deezer.com/track/1563559472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/5/0/fa59cc8e3a16c654cd272698faeb7679.mp3?hdnea=exp=1795651669~acl=/api/1/1/f/a/5/0/fa59cc8e3a16c654cd272698faeb7679.mp3*~data=user_id=0,application_id=42~hmac=93134c0ffc7ded9022aad6dd12b2b6cb28f470e9a79dcae508a84e0c67fc66d8",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Danabaad",
+            "length": "3:47",
+            "deezer": {
+              "id": 1563559482,
+              "link": "https://www.deezer.com/track/1563559482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/d/0/5ad2dec47942513fa11474a68d438f79.mp3?hdnea=exp=1795651669~acl=/api/1/1/5/a/d/0/5ad2dec47942513fa11474a68d438f79.mp3*~data=user_id=0,application_id=42~hmac=faa0f0e66dda8784e872869e2507d38a1334aff5f5ddaedd5db0f2dc7d23a5cc",
+              "preview_expires": "2026-11-26T00:07:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Arjan Dhillon/Awara.jpg"
+}

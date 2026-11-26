@@ -1,0 +1,319 @@
+{
+  "title": "Abbey Road",
+  "artist": "The Beatles",
+  "year": 1969,
+  "release_date": "1969-09-26",
+  "type": "Album",
+  "description": "Abbey Road is the eleventh studio album by the English rock band the Beatles, released on 26 September 1969 by Apple Records. It is the last album the group recorded – although Let It Be had mostly been recorded earlier, its release was delayed due to production issues. Abbey Road was mostly recorded in April, July and August 1969, and topped the record charts in both the United States and the United Kingdom. A double A-side single from the album, \"Something\" / \"Come Together\", was released in October, which also topped the charts in the US.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "pop",
+    "classic rock",
+    "psychedelic",
+    "psychedelic rock",
+    "ambient",
+    "art pop",
+    "art rock",
+    "dance",
+    "jazz",
+    "merseybeat",
+    "progressive pop",
+    "psychedelic pop",
+    "beat music",
+    "britpop",
+    "classical",
+    "electronic",
+    "hard rock",
+    "house",
+    "progressive",
+    "rock and roll",
+    "trance"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "pop",
+    "classic rock",
+    "medley",
+    "mellow",
+    "melodic",
+    "psychedelic",
+    "psychedelic rock",
+    "romantic",
+    "sentimental",
+    "summer",
+    "uplifting",
+    "warm",
+    "bittersweet",
+    "eclectic",
+    "happy",
+    "love",
+    "lush",
+    "5+ wochen",
+    "60s",
+    "ambient",
+    "art pop",
+    "art rock",
+    "artist on cover",
+    "car on cover",
+    "dance",
+    "energetic",
+    "jazz",
+    "male vocalist",
+    "merseybeat",
+    "optimistic",
+    "playful",
+    "progressive pop",
+    "psychedelic pop",
+    "quirky",
+    "rhythm and blues",
+    "spring",
+    "triumphant",
+    "alternative",
+    "bassy",
+    "beat music",
+    "bright",
+    "britpop",
+    "classical",
+    "compassionate",
+    "daytime",
+    "discogs/the most popular album released every year from 1950 to 2020",
+    "electronic",
+    "english",
+    "farewell",
+    "friendship",
+    "hard rock",
+    "hiphop",
+    "house",
+    "offizielle charts",
+    "progressive",
+    "rock and roll",
+    "suite",
+    "trance"
+  ],
+  "rating": {
+    "value_out_of_5": 4.55,
+    "votes": 74
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9162580e-5df4-32de-80cc-f45a8d8a9b1d",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbey_Road",
+    "allmusic": "https://www.allmusic.com/album/abbey-road-mw0000192938",
+    "discogs": "https://www.discogs.com/master/24047",
+    "wikidata": "https://www.wikidata.org/wiki/Q173643",
+    "deezer": "https://www.deezer.com/album/12047952"
+  },
+  "musicbrainz_id": "9162580e-5df4-32de-80cc-f45a8d8a9b1d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/31765b9f-e969-4257-855f-c7ea1f657b2a",
+      "barcode": "00602547670342",
+      "title": "Abbey Road",
+      "disambiguation": null,
+      "date": "2015-12-24",
+      "country": "XW"
+    },
+    "total_tracks": 17,
+    "total_length": "47:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Come Together",
+            "length": "4:20",
+            "deezer": {
+              "id": 116348452,
+              "link": "https://www.deezer.com/track/116348452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/2/0/b2215e49d659c178394641df9945e645.mp3?hdnea=exp=1795721360~acl=/api/1/1/b/2/2/0/b2215e49d659c178394641df9945e645.mp3*~data=user_id=0,application_id=42~hmac=ea282c24c68270f1de46590620b132429bd35b8378018e8bed32500996630820",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Something",
+            "length": "3:02",
+            "deezer": {
+              "id": 116348454,
+              "link": "https://www.deezer.com/track/116348454",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/d/0/8fdd63845967dc8758b23b224842824f.mp3?hdnea=exp=1795721360~acl=/api/1/1/8/f/d/0/8fdd63845967dc8758b23b224842824f.mp3*~data=user_id=0,application_id=42~hmac=18f5a5642eb3a784d971e9373e5b5f7382ea35bb207c292b18b68581fd7b7175",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Maxwell’s Silver Hammer",
+            "length": "3:28",
+            "deezer": {
+              "id": 116348456,
+              "link": "https://www.deezer.com/track/116348456",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/6/0/c061143052687acfc90ca82bf71ef74b.mp3?hdnea=exp=1795721360~acl=/api/1/1/c/0/6/0/c061143052687acfc90ca82bf71ef74b.mp3*~data=user_id=0,application_id=42~hmac=5cda318f3ff22b47b987068eca58413b19ad664676c7d1c73b249dbd762373cd",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Oh! Darling",
+            "length": "3:27",
+            "deezer": {
+              "id": 116348458,
+              "link": "https://www.deezer.com/track/116348458",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/2/0/7d25ac5c52aa772c418c3a6d535acce9.mp3?hdnea=exp=1795721360~acl=/api/1/1/7/d/2/0/7d25ac5c52aa772c418c3a6d535acce9.mp3*~data=user_id=0,application_id=42~hmac=0bbd2636510228d9367686373f25969a9d5f55e7202556e46a9628f44a1642f3",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Octopus’s Garden",
+            "length": "2:51",
+            "deezer": {
+              "id": 116348460,
+              "link": "https://www.deezer.com/track/116348460",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/c/0/37c4283ab15ba969041c18eb042c2de2.mp3?hdnea=exp=1795721360~acl=/api/1/1/3/7/c/0/37c4283ab15ba969041c18eb042c2de2.mp3*~data=user_id=0,application_id=42~hmac=7f0c30c7878030ec04583dd703bcebc6f7e361b3b2bbf18da6c0d2114a730d39",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Want You (She’s So Heavy)",
+            "length": "7:47",
+            "deezer": {
+              "id": 116348462,
+              "link": "https://www.deezer.com/track/116348462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/8/0/2d8e3c6c2f89ae4acafbe8dda6935c0d.mp3?hdnea=exp=1795721360~acl=/api/1/1/2/d/8/0/2d8e3c6c2f89ae4acafbe8dda6935c0d.mp3*~data=user_id=0,application_id=42~hmac=3573228b59c34274808df30afc69f823082c0b78f8b2ffcd8f6068f01cccc74c",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Here Comes the Sun",
+            "length": "3:06",
+            "deezer": {
+              "id": 116348464,
+              "link": "https://www.deezer.com/track/116348464",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/0/0/d702cdd1d89e261b22fc740f854c1a0f.mp3?hdnea=exp=1795721360~acl=/api/1/1/d/7/0/0/d702cdd1d89e261b22fc740f854c1a0f.mp3*~data=user_id=0,application_id=42~hmac=07343501fd243a621ffee369822a971913dd9763bef42067461a01b98adec89c",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Because",
+            "length": "2:46",
+            "deezer": {
+              "id": 116348466,
+              "link": "https://www.deezer.com/track/116348466",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/c/0/e4cc3c0dfe433bb07dbe1e12d77f9b2e.mp3?hdnea=exp=1795721360~acl=/api/1/1/e/4/c/0/e4cc3c0dfe433bb07dbe1e12d77f9b2e.mp3*~data=user_id=0,application_id=42~hmac=8cc6cd0e05b9c1433e4067d60e340453224edae2aeb51bdf5d25b85c20f76549",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "You Never Give Me Your Money",
+            "length": "4:03",
+            "deezer": {
+              "id": 116348468,
+              "link": "https://www.deezer.com/track/116348468",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/9/0/3392ef920c75bbd9ffe0fc4764361c85.mp3?hdnea=exp=1795721360~acl=/api/1/1/3/3/9/0/3392ef920c75bbd9ffe0fc4764361c85.mp3*~data=user_id=0,application_id=42~hmac=68b6781e0227e673e513c0ddb563d7a32df7182ec8f2ea4750e2c6d31381b05c",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sun King",
+            "length": "2:26",
+            "deezer": {
+              "id": 116348470,
+              "link": "https://www.deezer.com/track/116348470",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/e/0/daef515972e86fd7dd4411c7900109de.mp3?hdnea=exp=1795721360~acl=/api/1/1/d/a/e/0/daef515972e86fd7dd4411c7900109de.mp3*~data=user_id=0,application_id=42~hmac=cc60b47154480bf3e66b9033146e902d9c0ff50a69fd19a57370a8974f0ee8e0",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Mean Mr Mustard",
+            "length": "1:07",
+            "deezer": {
+              "id": 116348472,
+              "link": "https://www.deezer.com/track/116348472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/5/0/97598e48eb616d129b859de4703122fa.mp3?hdnea=exp=1795721360~acl=/api/1/1/9/7/5/0/97598e48eb616d129b859de4703122fa.mp3*~data=user_id=0,application_id=42~hmac=091b21522655fdad14d4d57c0133cfdeaa53d9b6f6371918efb1ffe4087da67b",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Polythene Pam",
+            "length": "1:13",
+            "deezer": {
+              "id": 116348474,
+              "link": "https://www.deezer.com/track/116348474",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/6/0/8b6a08753b6035f1b20bf3d7d34798e1.mp3?hdnea=exp=1795721360~acl=/api/1/1/8/b/6/0/8b6a08753b6035f1b20bf3d7d34798e1.mp3*~data=user_id=0,application_id=42~hmac=336b41405336fde450bfbcd9360cb9dd92e552df35582c3a32ed049efb7057c1",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "She Came In Through the Bathroom Window",
+            "length": "1:59",
+            "deezer": {
+              "id": 116348476,
+              "link": "https://www.deezer.com/track/116348476",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/b/0/78bbc57652781eb350e31bc6577c5411.mp3?hdnea=exp=1795721360~acl=/api/1/1/7/8/b/0/78bbc57652781eb350e31bc6577c5411.mp3*~data=user_id=0,application_id=42~hmac=4d0c68e40b17efbb23fe3de3fb5a3d563d418e28db769d4a1700c5fbfd18eefc",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Golden Slumbers",
+            "length": "1:32",
+            "deezer": {
+              "id": 116348478,
+              "link": "https://www.deezer.com/track/116348478",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/7/0/1374990848127f5a0fc1f684da126d22.mp3?hdnea=exp=1795721360~acl=/api/1/1/1/3/7/0/1374990848127f5a0fc1f684da126d22.mp3*~data=user_id=0,application_id=42~hmac=d80621ccb0353375d65c2ae5556428e3e1a56cc7cfb49ccd075c6b99d126a58d",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Carry That Weight",
+            "length": "1:36",
+            "deezer": {
+              "id": 116348480,
+              "link": "https://www.deezer.com/track/116348480",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/f/0/aff00e40daefb6162b25f561230823fc.mp3?hdnea=exp=1795721360~acl=/api/1/1/a/f/f/0/aff00e40daefb6162b25f561230823fc.mp3*~data=user_id=0,application_id=42~hmac=83fbdff9c5cfa7232f19e09675dc95fc8b4511473852c92d7fc7d7be3e9c617b",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "The End",
+            "length": "2:22",
+            "deezer": {
+              "id": 116348482,
+              "link": "https://www.deezer.com/track/116348482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/8/0/4f8ae80b5b03241dd8e2a615079771f4.mp3?hdnea=exp=1795721360~acl=/api/1/1/4/f/8/0/4f8ae80b5b03241dd8e2a615079771f4.mp3*~data=user_id=0,application_id=42~hmac=62a808f9548afd866edd571d3b0805d43cfacd417c4e7002eed9aad7a24e5475",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Her Majesty",
+            "length": "0:26",
+            "deezer": {
+              "id": 116348484,
+              "link": "https://www.deezer.com/track/116348484",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/8/0/7b8182934d91ac6ea0cc86404161588c.mp3?hdnea=exp=1795721360~acl=/api/1/1/7/b/8/0/7b8182934d91ac6ea0cc86404161588c.mp3*~data=user_id=0,application_id=42~hmac=bbea9a4729802ceb64921fa45aa29583a3a6aa5a8e6dae77fd99c852abcdeab2",
+              "preview_expires": "2026-11-26T19:29:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Beatles/Abbey Road.jpg"
+}

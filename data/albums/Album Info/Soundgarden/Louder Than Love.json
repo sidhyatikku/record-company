@@ -1,0 +1,197 @@
+{
+  "title": "Louder Than Love",
+  "artist": "Soundgarden",
+  "year": 1989,
+  "release_date": "1989-09-05",
+  "type": "Album",
+  "description": "Louder Than Love is the second studio album and major-label debut by American rock band Soundgarden. It was released on September 5, 1989, by A&M Records. After touring in support of their debut album, Ultramega OK (1988), Soundgarden left SST, signed with A&M and began work on their first album for a major label. The songs on the album featured a metal-leaning grunge sound with some songs featuring unusual or unorthodox time signatures.",
+  "genres": [
+    "rock",
+    "alternative metal",
+    "alternative rock",
+    "grunge",
+    "heavy metal",
+    "pop"
+  ],
+  "tags": [
+    "rock",
+    "alternative metal",
+    "alternative rock",
+    "grunge",
+    "1989",
+    "alternative pop/rock",
+    "alternative/indie rock",
+    "heavy metal",
+    "pop",
+    "pop/rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e0c68e83-bc36-3146-af81-7d595e146b14",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louder_Than_Love",
+    "allmusic": "https://www.allmusic.com/album/mw0000205314",
+    "discogs": "https://www.discogs.com/master/11375",
+    "wikidata": "https://www.wikidata.org/wiki/Q595556",
+    "deezer": "https://www.deezer.com/album/321113527"
+  },
+  "musicbrainz_id": "e0c68e83-bc36-3146-af81-7d595e146b14",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f052f552-46bf-41c8-87a3-905f05e958af",
+      "barcode": "075021525221",
+      "title": "Louder Than Love",
+      "disambiguation": null,
+      "date": "1989-09-05",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "53:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ugly Truth",
+            "length": "5:27",
+            "deezer": {
+              "id": 1762582737,
+              "link": "https://www.deezer.com/track/1762582737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/9/0/3c92c48056a6c4c288483e62fbcee02b.mp3?hdnea=exp=1795720878~acl=/api/1/1/3/c/9/0/3c92c48056a6c4c288483e62fbcee02b.mp3*~data=user_id=0,application_id=42~hmac=03810aa295a9db68602cd446587d37fca902bac71c4312bfa50a22f425534f56",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hands All Over",
+            "length": "6:00",
+            "deezer": {
+              "id": 1762582747,
+              "link": "https://www.deezer.com/track/1762582747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/8/0/a48daf97b9201d3208f85336ec9df00f.mp3?hdnea=exp=1795720878~acl=/api/1/1/a/4/8/0/a48daf97b9201d3208f85336ec9df00f.mp3*~data=user_id=0,application_id=42~hmac=4d70fc9385b3fd1a1ab02c8140fa2719766c43136d38519db13444d0e7cd27c0",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gun",
+            "length": "4:42",
+            "deezer": {
+              "id": 1762582757,
+              "link": "https://www.deezer.com/track/1762582757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/d/0/45df53890ebd2115752b7e8bff049eea.mp3?hdnea=exp=1795720878~acl=/api/1/1/4/5/d/0/45df53890ebd2115752b7e8bff049eea.mp3*~data=user_id=0,application_id=42~hmac=032202f078df57be5a658563cc9ab9d879d5bb661ab8f2158bdca9baaccc329d",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Power Trip",
+            "length": "4:12",
+            "deezer": {
+              "id": 1762582767,
+              "link": "https://www.deezer.com/track/1762582767",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/a/0/ffa6b444eec17ab8fcb898999943908f.mp3?hdnea=exp=1795720878~acl=/api/1/1/f/f/a/0/ffa6b444eec17ab8fcb898999943908f.mp3*~data=user_id=0,application_id=42~hmac=f3fa47f6395393f65a8d267a37c992b59d10f944beee272475506da3d5ec3e7b",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Get on the Snake",
+            "length": "3:44",
+            "deezer": {
+              "id": 1762582777,
+              "link": "https://www.deezer.com/track/1762582777",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/e/0/01e093d9a86ef9149eb60450882985eb.mp3?hdnea=exp=1795720878~acl=/api/1/1/0/1/e/0/01e093d9a86ef9149eb60450882985eb.mp3*~data=user_id=0,application_id=42~hmac=896943f26bdd60220a3b7919ede1a544b6d231214f70b3abed8de7b2444b9f20",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Full On Kevin’s Mom",
+            "length": "3:38",
+            "deezer": {
+              "id": 1762582787,
+              "link": "https://www.deezer.com/track/1762582787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/7/0/5a70e00f4d86c1ef1d2efc6770f688a0.mp3?hdnea=exp=1795720878~acl=/api/1/1/5/a/7/0/5a70e00f4d86c1ef1d2efc6770f688a0.mp3*~data=user_id=0,application_id=42~hmac=e0778f874b59c928640612f27022101bb981d999d59221b93a3e3bc569c3eed8",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Loud Love",
+            "length": "4:57",
+            "deezer": {
+              "id": 1762582797,
+              "link": "https://www.deezer.com/track/1762582797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/1/0/fa1a435071bcf2bc042ea209d2e59343.mp3?hdnea=exp=1795720878~acl=/api/1/1/f/a/1/0/fa1a435071bcf2bc042ea209d2e59343.mp3*~data=user_id=0,application_id=42~hmac=c31ccfbdd45be69627b614154cc245eae8f12e769917756aaa467afebbc7e599",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Awake",
+            "length": "4:21",
+            "deezer": {
+              "id": 1762582807,
+              "link": "https://www.deezer.com/track/1762582807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/3/0/f73788ff07a96f06bd1c45dc7625d08a.mp3?hdnea=exp=1795720878~acl=/api/1/1/f/7/3/0/f73788ff07a96f06bd1c45dc7625d08a.mp3*~data=user_id=0,application_id=42~hmac=0710365013d723e54eda744d166ee03983b9a776da083b4bd8bde1afbbd30edf",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "No Wrong No Right",
+            "length": "4:49",
+            "deezer": {
+              "id": 1762582817,
+              "link": "https://www.deezer.com/track/1762582817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/e/0/01e67ad00cba2436d9334665871f7765.mp3?hdnea=exp=1795720878~acl=/api/1/1/0/1/e/0/01e67ad00cba2436d9334665871f7765.mp3*~data=user_id=0,application_id=42~hmac=21b4e148bb37293377c87e24d3cc65971fd0c5a6693d999254ad052854d8c2b2",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Uncovered",
+            "length": "4:32",
+            "deezer": {
+              "id": 1762582827,
+              "link": "https://www.deezer.com/track/1762582827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/0/0/7a0ecfc77889555c60d7d29c7cd4df57.mp3?hdnea=exp=1795720878~acl=/api/1/1/7/a/0/0/7a0ecfc77889555c60d7d29c7cd4df57.mp3*~data=user_id=0,application_id=42~hmac=f6c43308eb9b72c277d7c5984bd8792dc703f3a37936115eb8deefe36c694426",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Big Dumb Sex",
+            "length": "4:11",
+            "deezer": {
+              "id": 1762582837,
+              "link": "https://www.deezer.com/track/1762582837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/8/0/d284f8be8376e820292a2540a835340b.mp3?hdnea=exp=1795720878~acl=/api/1/1/d/2/8/0/d284f8be8376e820292a2540a835340b.mp3*~data=user_id=0,application_id=42~hmac=74865066edc8424e5233c4a67105335485e63be4690a6a23f52e3ceecd9649b7",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Full On (reprise)",
+            "length": "2:42",
+            "deezer": {
+              "id": 1762582847,
+              "link": "https://www.deezer.com/track/1762582847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/f/0/f5f45486afefe22d9ab55141ecfac9e0.mp3?hdnea=exp=1795720878~acl=/api/1/1/f/5/f/0/f5f45486afefe22d9ab55141ecfac9e0.mp3*~data=user_id=0,application_id=42~hmac=c14fb1fe30e136e874babf2dc173d60c05c7a0e1777f17cc08a7e019b9dc554c",
+              "preview_expires": "2026-11-26T19:21:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Soundgarden/Louder Than Love.jpg"
+}

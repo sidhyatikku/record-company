@@ -1,0 +1,52 @@
+{
+  "title": "Out for Action",
+  "artist": "Snak the Ripper, Young Sin & Evil Ebenezer",
+  "year": 2020,
+  "release_date": "2020",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/13772e37-a277-42a3-9af9-a6b58d2f95b2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/177214702"
+  },
+  "musicbrainz_id": "13772e37-a277-42a3-9af9-a6b58d2f95b2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4ec77344-8a52-4cdc-b43b-6cc612fe6c17",
+      "barcode": null,
+      "title": "Out for Action",
+      "disambiguation": null,
+      "date": "2020",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "4:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1/1",
+            "title": "Out for Action",
+            "length": "4:09",
+            "artist": "Snak the Ripper",
+            "deezer": {
+              "id": 1097827692,
+              "link": "https://www.deezer.com/track/1097827692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/3/0/ed34cf521197c2c05caa502a6c3e3ba7.mp3?hdnea=exp=1795720826~acl=/api/1/1/e/d/3/0/ed34cf521197c2c05caa502a6c3e3ba7.mp3*~data=user_id=0,application_id=42~hmac=48b7481c1e50ec8b3efb8cd32377fb48b7af19a6ce0741b74f75d83ec807dea0",
+              "preview_expires": "2026-11-26T19:20:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Snak The Ripper/Out for Action.jpg"
+}

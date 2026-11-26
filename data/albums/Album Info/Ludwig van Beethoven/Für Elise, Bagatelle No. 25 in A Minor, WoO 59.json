@@ -1,0 +1,52 @@
+{
+  "title": "Für Elise, Bagatelle no. 25 in A Minor, WoO 59",
+  "artist": "Ludwig van Beethoven; Igor Levit",
+  "year": 2015,
+  "release_date": "2015-01-01",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/335daf9b-7598-4dfe-ab6a-4b520deff3fd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/136755002"
+  },
+  "musicbrainz_id": "335daf9b-7598-4dfe-ab6a-4b520deff3fd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8fd7c854-fe69-4e71-8a39-057f87665e31",
+      "barcode": "886448365846",
+      "title": "Für Elise, Bagatelle no. 25 in A Minor, WoO 59",
+      "disambiguation": null,
+      "date": "2015-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bagatelle no. 25 in A minor, WoO 59 \"Für Elise\"",
+            "length": "3:34",
+            "artist": "Ludwig van Beethoven",
+            "deezer": {
+              "id": 905209802,
+              "link": "https://www.deezer.com/track/905209802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/e/0/e7ebf13a1a1f7e44065c445d04db4bb4.mp3?hdnea=exp=1795656744~acl=/api/1/1/e/7/e/0/e7ebf13a1a1f7e44065c445d04db4bb4.mp3*~data=user_id=0,application_id=42~hmac=beb1cf07fcea690d2342512c75dca8434728a8fca1f67cbf410087a16906fa31",
+              "preview_expires": "2026-11-26T01:32:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Ludwig van Beethoven/Für Elise, Bagatelle No. 25 in A Minor, WoO 59.jpg"
+}

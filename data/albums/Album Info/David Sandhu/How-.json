@@ -1,0 +1,51 @@
+{
+  "title": "How?",
+  "artist": "David Sandhu",
+  "year": 2021,
+  "release_date": "2021-12-31",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "punjabi hip hop",
+    "punjabi pop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7a9iPHt8B4d5qxMXZ4Horo",
+    "deezer": "https://www.deezer.com/album/283263932"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7a9iPHt8B4d5qxMXZ4Horo",
+      "title": "How?",
+      "date": "2021-12-31"
+    },
+    "total_tracks": 1,
+    "total_length": "3:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "How?",
+            "length": "3:13",
+            "artist": "David Sandhu, Fouji . Jas Dhaliwal",
+            "deezer": {
+              "id": 1603425002,
+              "link": "https://www.deezer.com/track/1603425002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/8/0/8c8bd6cd093bfe3a531388a01ad3c3fc.mp3?hdnea=exp=1795653202~acl=/api/1/1/8/c/8/0/8c8bd6cd093bfe3a531388a01ad3c3fc.mp3*~data=user_id=0,application_id=42~hmac=52446821ceeee2c54c68a4d5b4ea5712c5c46f67d9f6fd514afe32926c7f58af",
+              "preview_expires": "2026-11-26T00:33:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/David Sandhu/How-.jpg"
+}

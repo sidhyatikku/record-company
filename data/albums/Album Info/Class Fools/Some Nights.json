@@ -1,0 +1,51 @@
+{
+  "title": "Some Nights",
+  "artist": "Class Fools",
+  "year": 2023,
+  "release_date": "2023-08-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/eb514ec6-293c-456d-8b74-185260b1abbf",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/613999502"
+  },
+  "musicbrainz_id": "eb514ec6-293c-456d-8b74-185260b1abbf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/06b483e7-eebd-48d7-85fd-e951160c89c8",
+      "barcode": null,
+      "title": "Some Nights",
+      "disambiguation": null,
+      "date": "2023-08-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Some Nights",
+            "length": "2:48",
+            "deezer": {
+              "id": 2886129732,
+              "link": "https://www.deezer.com/track/2886129732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/3/0/5630d6c5808006684026401b64c71394.mp3?hdnea=exp=1795652850~acl=/api/1/1/5/6/3/0/5630d6c5808006684026401b64c71394.mp3*~data=user_id=0,application_id=42~hmac=582dcbfc3c893eb6560734b644fba906aeb841518844acd7ed116ca83675519d",
+              "preview_expires": "2026-11-26T00:27:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Class Fools/Some Nights.jpg"
+}

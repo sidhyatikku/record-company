@@ -1,0 +1,60 @@
+{
+  "title": "Ahimsa",
+  "artist": "U2 + A. R. Rahman",
+  "year": 2019,
+  "release_date": "2019-11-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "pop",
+    "pop rock",
+    "rock"
+  ],
+  "tags": [
+    "pop",
+    "pop rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3dc705c1-823b-4390-800c-8c0fe84f026b",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1673000",
+    "deezer": "https://www.deezer.com/album/336970187"
+  },
+  "musicbrainz_id": "3dc705c1-823b-4390-800c-8c0fe84f026b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7b07cf10-c395-4361-9665-c8399bc7bdb8",
+      "barcode": "00602508568053",
+      "title": "Ahimsa",
+      "disambiguation": null,
+      "date": "2019-11-22",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ahimsa",
+            "length": "3:51",
+            "deezer": {
+              "id": 1829077047,
+              "link": "https://www.deezer.com/track/1829077047",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a75fb26d61abd657b3c57ac53ae2dc0d.mp3?hdnea=exp=1795722087~acl=/api/1/1/a/7/5/0/a75fb26d61abd657b3c57ac53ae2dc0d.mp3*~data=user_id=0,application_id=42~hmac=b3a1104aaf886960c2dd94028a185d629283d4d76a50e74ca9e3c0ef0f48ab71",
+              "preview_expires": "2026-11-26T19:41:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/U2/Ahimsa.jpg"
+}

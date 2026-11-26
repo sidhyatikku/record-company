@@ -1,0 +1,125 @@
+{
+  "title": "Rapture",
+  "artist": "iiO",
+  "year": 2001,
+  "release_date": "2001-10-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic",
+    "progressive house",
+    "trance",
+    "house"
+  ],
+  "tags": [
+    "electronic",
+    "progressive house",
+    "trance",
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/705cbf6d-d2dd-304b-abe8-ba0a819f450a",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/59264",
+    "deezer": "https://www.deezer.com/album/1016368"
+  },
+  "musicbrainz_id": "705cbf6d-d2dd-304b-abe8-ba0a819f450a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0328e37a-6f5a-4070-9a8e-4aeecfd7845a",
+      "barcode": "8713748022297",
+      "title": "Rapture",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "NL"
+    },
+    "total_tracks": 10,
+    "total_length": "1:12:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rapture (original radio edit)",
+            "length": "3:15"
+          },
+          {
+            "number": "2",
+            "title": "Rapture (Creamer & Stephane K edit)",
+            "length": "4:26"
+          },
+          {
+            "number": "3",
+            "title": "Rapture (Riva edit)",
+            "length": "4:06"
+          },
+          {
+            "number": "4",
+            "title": "Rapture (original extended)",
+            "length": "6:50",
+            "deezer": {
+              "id": 11110004,
+              "link": "https://www.deezer.com/track/11110004",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/2/0/3220498c7e3edec1d7e3fe2278c5fbb3.mp3?hdnea=exp=1795655172~acl=/api/1/1/3/2/2/0/3220498c7e3edec1d7e3fe2278c5fbb3.mp3*~data=user_id=0,application_id=42~hmac=9da79511030d4941990c79e5a780c731a5c51ed958ec34924d97a31b9ac37fe7",
+              "preview_expires": "2026-11-26T01:06:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Rapture (Creamer & Stephane K remix)",
+            "length": "9:56"
+          },
+          {
+            "number": "6",
+            "title": "Rapture (Riva remix)",
+            "length": "7:45",
+            "deezer": {
+              "id": 11110000,
+              "link": "https://www.deezer.com/track/11110000",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e3947a7a40bcf66979712fecdab5565.mp3?hdnea=exp=1795655172~acl=/api/1/1/2/e/3/0/2e3947a7a40bcf66979712fecdab5565.mp3*~data=user_id=0,application_id=42~hmac=e2eb62efcbe326a07b095c268b9e136648be2e6050cef58c93c054c17745ec26",
+              "preview_expires": "2026-11-26T01:06:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Rapture (Aloud remix)",
+            "length": "5:56",
+            "deezer": {
+              "id": 11110002,
+              "link": "https://www.deezer.com/track/11110002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/8/0/998f786342381754d91851828bfc08a9.mp3?hdnea=exp=1795655172~acl=/api/1/1/9/9/8/0/998f786342381754d91851828bfc08a9.mp3*~data=user_id=0,application_id=42~hmac=ab4bc72dc7cd7797f087b510c7d61ff421357adcae5d0e692671f5ed166e32e7",
+              "preview_expires": "2026-11-26T01:06:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rapture (Soulside remix)",
+            "length": "6:39",
+            "deezer": {
+              "id": 11110003,
+              "link": "https://www.deezer.com/track/11110003",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/5/0/095f67fa8bef3598632737cc6e9efeec.mp3?hdnea=exp=1795655172~acl=/api/1/1/0/9/5/0/095f67fa8bef3598632737cc6e9efeec.mp3*~data=user_id=0,application_id=42~hmac=03511c47f3e6e8d204bae7b1bdbfc73179f6b9de6dc2340e8033d5512201480a",
+              "preview_expires": "2026-11-26T01:06:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Rapture (Deep Dish Miami dub)",
+            "length": "10:55"
+          },
+          {
+            "number": "10",
+            "title": "Rapture (Deep Dish Space mix)",
+            "length": "12:29"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/iio/Rapture.jpg"
+}

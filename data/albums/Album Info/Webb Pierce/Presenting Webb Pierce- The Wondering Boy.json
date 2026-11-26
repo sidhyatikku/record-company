@@ -1,0 +1,125 @@
+{
+  "title": "Webb Pierce",
+  "artist": "Webb Pierce",
+  "year": 1955,
+  "release_date": "1955",
+  "type": "Album",
+  "description": "Webb Pierce is an album from honky-tonk singer Webb Pierce that was released in October 1955 on the Decca label. AllMusic gave the album four-and-a-half stars.",
+  "genres": [
+    "country",
+    "classic country"
+  ],
+  "tags": [
+    "country",
+    "classic country"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/55a307ee-32b2-4898-9698-d363505e16d8",
+    "wikipedia": "https://en.wikipedia.org/wiki/Webb_Pierce_(1955_album)",
+    "wikidata": "https://www.wikidata.org/wiki/Q104876719",
+    "deezer": "https://www.deezer.com/album/194603"
+  },
+  "musicbrainz_id": "55a307ee-32b2-4898-9698-d363505e16d8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1b576de2-4732-481f-9154-fd840f2ef818",
+      "barcode": null,
+      "title": "Webb Pierce",
+      "disambiguation": null,
+      "date": "1955",
+      "country": "CA"
+    },
+    "total_tracks": 12,
+    "total_length": "29:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "12\" Vinyl",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A1",
+            "title": "In the Jailhouse Now",
+            "length": "2:07",
+            "deezer": {
+              "id": 1900817,
+              "link": "https://www.deezer.com/track/1900817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/9/0/c895a369683a37dd620bf658607a039e.mp3?hdnea=exp=1795724285~acl=/api/1/1/c/8/9/0/c895a369683a37dd620bf658607a039e.mp3*~data=user_id=0,application_id=42~hmac=6530deb6d9ae0fc2f82ef4061114f5908f6c1a002afd656462346e3087afceae",
+              "preview_expires": "2026-11-26T20:18:05Z"
+            }
+          },
+          {
+            "number": "A2",
+            "title": "More and More",
+            "length": "2:19",
+            "deezer": {
+              "id": 1900815,
+              "link": "https://www.deezer.com/track/1900815",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/7/0/b37954d1862f9fe722e0f9d40c353e64.mp3?hdnea=exp=1795724285~acl=/api/1/1/b/3/7/0/b37954d1862f9fe722e0f9d40c353e64.mp3*~data=user_id=0,application_id=42~hmac=2e991adaecbc83e23b7195ba3fa7f500ef7e5206a7e014b3bcdaaa04e9e39670",
+              "preview_expires": "2026-11-26T20:18:05Z"
+            }
+          },
+          {
+            "number": "A3",
+            "title": "Even Tho'",
+            "length": "2:44"
+          },
+          {
+            "number": "A4",
+            "title": "Your Good for Nothing Heart",
+            "length": "2:21"
+          },
+          {
+            "number": "A5",
+            "title": "You're Not Mine Anymore",
+            "length": "2:34"
+          },
+          {
+            "number": "A6",
+            "title": "I Haven't Got the Heart",
+            "length": "2:04"
+          },
+          {
+            "number": "B1",
+            "title": "Sparkling Brown Eyes",
+            "length": "2:51"
+          },
+          {
+            "number": "B2",
+            "title": "You Just Can't Be True",
+            "length": "2:07"
+          },
+          {
+            "number": "B3",
+            "title": "New Silver Bells",
+            "length": "2:36"
+          },
+          {
+            "number": "B4",
+            "title": "I'm Walking the Dog",
+            "length": "2:24"
+          },
+          {
+            "number": "B5",
+            "title": "I'll Go on Alone",
+            "length": "2:40"
+          },
+          {
+            "number": "B6",
+            "title": "I Don't Care",
+            "length": "2:25",
+            "deezer": {
+              "id": 1900818,
+              "link": "https://www.deezer.com/track/1900818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb1f475d484922c02e784fde15f37802.mp3?hdnea=exp=1795724285~acl=/api/1/1/b/b/1/0/bb1f475d484922c02e784fde15f37802.mp3*~data=user_id=0,application_id=42~hmac=c7bbbb13116b2c55ef6b5d57771092bfb98b985b652a860f901acf69ad946311",
+              "preview_expires": "2026-11-26T20:18:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Webb Pierce/Presenting Webb Pierce- The Wondering Boy.jpg"
+}

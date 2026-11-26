@@ -1,0 +1,51 @@
+{
+  "title": "Green Light",
+  "artist": "AC Slater × Bleu Clair ft. Kate Wild",
+  "year": 2021,
+  "release_date": "2021-08-13",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f3fde896-bd1e-4553-867c-6fec92ddd70c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/245799942"
+  },
+  "musicbrainz_id": "f3fde896-bd1e-4553-867c-6fec92ddd70c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4be2bafa-892e-44ed-8320-5ee478807f32",
+      "barcode": "190296521751",
+      "title": "Green Light",
+      "disambiguation": null,
+      "date": "2021-08-13",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Green Light",
+            "length": "2:38",
+            "deezer": {
+              "id": 1439373092,
+              "link": "https://www.deezer.com/track/1439373092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/a/0/13aa4ec3c1ee261f52cc299b0a8922ef.mp3?hdnea=exp=1795648800~acl=/api/1/1/1/3/a/0/13aa4ec3c1ee261f52cc299b0a8922ef.mp3*~data=user_id=0,application_id=42~hmac=9d7b550d97c5fe0275c4edb9aa70ed65bb0e15599d8b990fa4014ff50931e2de",
+              "preview_expires": "2026-11-25T23:20:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AC Slater/Green Light.jpg"
+}

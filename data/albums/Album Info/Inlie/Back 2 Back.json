@@ -1,0 +1,51 @@
+{
+  "title": "Back 2 Back",
+  "artist": "Inlie",
+  "year": 2023,
+  "release_date": "2023-07-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/972a06f5-e181-4911-8315-31c93a3fef91",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/584922072"
+  },
+  "musicbrainz_id": "972a06f5-e181-4911-8315-31c93a3fef91",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bc526bda-2345-4da6-83e6-e2fd250fc811",
+      "barcode": null,
+      "title": "Back 2 Back",
+      "disambiguation": null,
+      "date": "2023-07-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Back 2 Back",
+            "length": "3:06",
+            "deezer": {
+              "id": 2794678832,
+              "link": "https://www.deezer.com/track/2794678832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/2/0/ec255f671f6885f5ab2b618e1acdbcae.mp3?hdnea=exp=1795655265~acl=/api/1/1/e/c/2/0/ec255f671f6885f5ab2b618e1acdbcae.mp3*~data=user_id=0,application_id=42~hmac=5c18a686e3b08179e401654b38b5284b270bc95f3538fd384c3e6ef777eef252",
+              "preview_expires": "2026-11-26T01:07:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Inlie/Back 2 Back.jpg"
+}

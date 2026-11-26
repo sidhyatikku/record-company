@@ -1,0 +1,51 @@
+{
+  "title": "Tripasia",
+  "artist": "Cloonee",
+  "year": 2022,
+  "release_date": "2022-03-25",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/93f78b51-3b2f-4b87-9e81-a0cd0f163bc3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/459071295"
+  },
+  "musicbrainz_id": "93f78b51-3b2f-4b87-9e81-a0cd0f163bc3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a4d57b4f-9684-4b2a-9518-2d7e78b1e9c1",
+      "barcode": null,
+      "title": "Tripasia",
+      "disambiguation": null,
+      "date": "2022-03-25",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tripasia",
+            "length": "2:56",
+            "deezer": {
+              "id": 2347842705,
+              "link": "https://www.deezer.com/track/2347842705",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/e/0/bde6fee4a8528faf45ccd7ede0b990fd.mp3?hdnea=exp=1795652871~acl=/api/1/1/b/d/e/0/bde6fee4a8528faf45ccd7ede0b990fd.mp3*~data=user_id=0,application_id=42~hmac=5a9078e79f359f37f9c933b1bb16562159144b499a7fbb60bdc925d622ab324e",
+              "preview_expires": "2026-11-26T00:27:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Cloonee/Tripasia.jpg"
+}

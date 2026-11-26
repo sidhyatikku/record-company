@@ -1,0 +1,52 @@
+{
+  "title": "See Me",
+  "artist": "Oppidan & camoufly",
+  "year": 2023,
+  "release_date": "2023-08-03",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bd7d1fea-c18a-4bae-80e6-9eb1fd959375",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/459615335"
+  },
+  "musicbrainz_id": "bd7d1fea-c18a-4bae-80e6-9eb1fd959375",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8ad3afad-0ea8-4d13-a37f-c49933b6d402",
+      "barcode": "5055199563862",
+      "title": "See Me",
+      "disambiguation": null,
+      "date": "2023-08-03",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "See Me",
+            "length": "3:05",
+            "artist": "Oppidan, camoufly & SHIMA",
+            "deezer": {
+              "id": 2350001575,
+              "link": "https://www.deezer.com/track/2350001575",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25fd4dc5104f86449f8bf7373a6b16d0.mp3?hdnea=exp=1795719198~acl=/api/1/1/2/5/f/0/25fd4dc5104f86449f8bf7373a6b16d0.mp3*~data=user_id=0,application_id=42~hmac=2189a4ea407b3bbf58721b71ef53dcbb353cfe54be20749691fa19c6ed02442a",
+              "preview_expires": "2026-11-26T18:53:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Oppidan/See Me.png"
+}

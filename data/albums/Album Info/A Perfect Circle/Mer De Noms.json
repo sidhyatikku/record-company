@@ -1,0 +1,202 @@
+{
+  "title": "Mer de noms",
+  "artist": "A Perfect Circle",
+  "year": 2000,
+  "release_date": "2000-05-23",
+  "type": "Album",
+  "description": "Mer de Noms is the debut studio album by American rock supergroup A Perfect Circle. The album was released on May 23, 2000, and entered the Billboard 200 at No. 4, making it the highest ever Billboard 200 debut for a rock band's first album. It sold over 188,000 copies in the first week, and was certified platinum by the RIAA later that same year. Three singles were released in promotion of the album, \"Judith\", \"3 Libras\", and \"The Hollow\", all of which hit the top 20 of both the Billboard US Modern Rock Tracks and Mainstream Rock charts.",
+  "genres": [
+    "alternative rock",
+    "alternative metal",
+    "rock",
+    "heavy metal",
+    "metal",
+    "post-grunge",
+    "progressive rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "alternative metal",
+    "rock",
+    "alternative pop/rock",
+    "progressive rock_alternative rock",
+    "alternative/indie rock",
+    "hardnheavy",
+    "pop/rock",
+    "prog rock",
+    "progressive rock_alternative rock_alternative rock",
+    "heavy metal",
+    "metal",
+    "post-grunge",
+    "progressive rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.7,
+    "votes": 20
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b2d16a29-8953-3e14-bc76-4c775b3d8afd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mer_de_Noms",
+    "allmusic": "https://www.allmusic.com/album/mw0000066317",
+    "discogs": "https://www.discogs.com/master/20866",
+    "wikidata": "https://www.wikidata.org/wiki/Q1887488",
+    "deezer": "https://www.deezer.com/album/302117"
+  },
+  "musicbrainz_id": "b2d16a29-8953-3e14-bc76-4c775b3d8afd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/86b56d2d-cdef-4ed8-8e3e-79080c6cbe46",
+      "barcode": "724384925352",
+      "title": "Mer de noms",
+      "disambiguation": "explicit",
+      "date": "2000-05-23",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "44:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Hollow",
+            "length": "3:01",
+            "deezer": {
+              "id": 3135439,
+              "link": "https://www.deezer.com/track/3135439",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/f/0/4ff239e7ba9097cfbccd54dc47f809a0.mp3?hdnea=exp=1795651519~acl=/api/1/1/4/f/f/0/4ff239e7ba9097cfbccd54dc47f809a0.mp3*~data=user_id=0,application_id=42~hmac=cb350fab844b17fd92af93615bacc7eb29397786ee34a0eed1601defe7298649",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Magdalena",
+            "length": "4:08",
+            "deezer": {
+              "id": 3135440,
+              "link": "https://www.deezer.com/track/3135440",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/7/0/6971ad7d6c911208c781bc2aef31ad6b.mp3?hdnea=exp=1795651519~acl=/api/1/1/6/9/7/0/6971ad7d6c911208c781bc2aef31ad6b.mp3*~data=user_id=0,application_id=42~hmac=31fd4876a35c894a12bafc0ce7629813a7e6a45975159aaca4edc6cb6698b807",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Rose",
+            "length": "3:28",
+            "deezer": {
+              "id": 3135441,
+              "link": "https://www.deezer.com/track/3135441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/3/0/6931e2897ba571382512dc9bbfa38f96.mp3?hdnea=exp=1795651519~acl=/api/1/1/6/9/3/0/6931e2897ba571382512dc9bbfa38f96.mp3*~data=user_id=0,application_id=42~hmac=2e323591ddc3b65556bd0a2895c3d34d411f3e9e65bd58725aed9306a480c857",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Judith",
+            "length": "4:09",
+            "deezer": {
+              "id": 3135442,
+              "link": "https://www.deezer.com/track/3135442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/2/0/a5217b9b6eeba1e14a84f2d023831c27.mp3?hdnea=exp=1795651519~acl=/api/1/1/a/5/2/0/a5217b9b6eeba1e14a84f2d023831c27.mp3*~data=user_id=0,application_id=42~hmac=a943922f36530d4c599a5b22ab90d287853b4b737cd52394a4b83f3e5b3b5ba7",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Orestes",
+            "length": "4:50",
+            "deezer": {
+              "id": 3135443,
+              "link": "https://www.deezer.com/track/3135443",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/1/0/9218b6a40e695810fdd356b05eae106d.mp3?hdnea=exp=1795651519~acl=/api/1/1/9/2/1/0/9218b6a40e695810fdd356b05eae106d.mp3*~data=user_id=0,application_id=42~hmac=15b2fef4daa4d479fdb692a772438327ccab96fde0b3684d0f1fe56569ebba22",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "3 Libras",
+            "length": "3:42",
+            "deezer": {
+              "id": 3135444,
+              "link": "https://www.deezer.com/track/3135444",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/e/0/c4e3e693d08a8e6cca45c2fe87d4b428.mp3?hdnea=exp=1795651519~acl=/api/1/1/c/4/e/0/c4e3e693d08a8e6cca45c2fe87d4b428.mp3*~data=user_id=0,application_id=42~hmac=3f96966b6697142631cf052c23350891b00cfcafbd61df3418e9268b9f6be2bc",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Sleeping Beauty",
+            "length": "4:13",
+            "deezer": {
+              "id": 3135445,
+              "link": "https://www.deezer.com/track/3135445",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/5/0/4f5cd0da03e8e81540cb5c5b83936df0.mp3?hdnea=exp=1795651519~acl=/api/1/1/4/f/5/0/4f5cd0da03e8e81540cb5c5b83936df0.mp3*~data=user_id=0,application_id=42~hmac=c1934f04444ef9a1c5b38b100f3cb94abaf633c1c9e416caade2d20b1ec72865",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Thomas",
+            "length": "3:31",
+            "deezer": {
+              "id": 3135446,
+              "link": "https://www.deezer.com/track/3135446",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/8/0/5c8efbf775a9258dc1c5bc59c3835ad1.mp3?hdnea=exp=1795651519~acl=/api/1/1/5/c/8/0/5c8efbf775a9258dc1c5bc59c3835ad1.mp3*~data=user_id=0,application_id=42~hmac=23483e99cdf30bf41a14a616ec0faafcd2eb3cda920791bedc665fccd7c5e061",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Renholdër",
+            "length": "2:27",
+            "deezer": {
+              "id": 3135447,
+              "link": "https://www.deezer.com/track/3135447",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/b/0/3fb18305417ca96d66ffb7817d2d3c84.mp3?hdnea=exp=1795651519~acl=/api/1/1/3/f/b/0/3fb18305417ca96d66ffb7817d2d3c84.mp3*~data=user_id=0,application_id=42~hmac=f477f73d99fae2364625398d92026c099e8687a362391e3aa413da81878d6dca",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Thinking of You",
+            "length": "4:37",
+            "deezer": {
+              "id": 3135448,
+              "link": "https://www.deezer.com/track/3135448",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/0/0/d7078b29b287aef2acdeeb0587e7dc5a.mp3?hdnea=exp=1795651519~acl=/api/1/1/d/7/0/0/d7078b29b287aef2acdeeb0587e7dc5a.mp3*~data=user_id=0,application_id=42~hmac=446986edc6e7145b09b706bd99c7f47d8796b60a64378521203e0f6d1a87568d",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Breña",
+            "length": "4:26",
+            "deezer": {
+              "id": 3135449,
+              "link": "https://www.deezer.com/track/3135449",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/2/0/4a2a2163cb60cc347a3bd9da1f5d4d7f.mp3?hdnea=exp=1795651519~acl=/api/1/1/4/a/2/0/4a2a2163cb60cc347a3bd9da1f5d4d7f.mp3*~data=user_id=0,application_id=42~hmac=aae4cd88a2f390b09882cb781f69af21c68b185a70b250d322887328e1656d3f",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Over",
+            "length": "2:21",
+            "deezer": {
+              "id": 3135450,
+              "link": "https://www.deezer.com/track/3135450",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/1/0/9713698893686fae03e1142169c97d6d.mp3?hdnea=exp=1795651519~acl=/api/1/1/9/7/1/0/9713698893686fae03e1142169c97d6d.mp3*~data=user_id=0,application_id=42~hmac=641e16ad9586f3b01ca9639f879e9e26f29a3358d45129f80a23ce6a162c35b0",
+              "preview_expires": "2026-11-26T00:05:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/A Perfect Circle/Mer De Noms.jpg"
+}

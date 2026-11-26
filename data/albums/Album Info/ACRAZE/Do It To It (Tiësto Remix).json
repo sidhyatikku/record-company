@@ -1,0 +1,71 @@
+{
+  "title": "Do It to It",
+  "artist": "ACRAZE feat. Cherish",
+  "year": 2021,
+  "release_date": "2021-08-20",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance",
+    "house",
+    "tech house"
+  ],
+  "tags": [
+    "dance",
+    "house",
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f07136f0-700c-4cec-9c59-0774fe71bb7d",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/2377996",
+    "deezer": "https://www.deezer.com/album/796184141"
+  },
+  "musicbrainz_id": "f07136f0-700c-4cec-9c59-0774fe71bb7d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f5a94e12-5b12-45ae-8d1b-9be6e7eb0ec7",
+      "barcode": "842812162916",
+      "title": "Do It To It (Tiësto remix)",
+      "disambiguation": null,
+      "date": "2022-02-25",
+      "country": "GB"
+    },
+    "total_tracks": 2,
+    "total_length": "4:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Do It To It (Tiësto remix)",
+            "length": "2:05",
+            "deezer": {
+              "id": 3483167581,
+              "link": "https://www.deezer.com/track/3483167581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/c/0/1dc41edd5083a7d4b6b7c120673c7d2c.mp3?hdnea=exp=1795648886~acl=/api/1/1/1/d/c/0/1dc41edd5083a7d4b6b7c120673c7d2c.mp3*~data=user_id=0,application_id=42~hmac=ef3b8cfa02894ca1c842bc24685640bd3cc0ad758f70f0cf36acef64a1aad533",
+              "preview_expires": "2026-11-25T23:21:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Do It To It",
+            "length": "2:38",
+            "deezer": {
+              "id": 3483167591,
+              "link": "https://www.deezer.com/track/3483167591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/a/0/1caa0a01091b5536399c69c08832806c.mp3?hdnea=exp=1795648886~acl=/api/1/1/1/c/a/0/1caa0a01091b5536399c69c08832806c.mp3*~data=user_id=0,application_id=42~hmac=b926e70e0a9f66f00a1a7cd75aaa30470dfbcfdad74cd959064c75e06f26732d",
+              "preview_expires": "2026-11-25T23:21:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/ACRAZE/Do It To It (Tiësto Remix).jpg"
+}

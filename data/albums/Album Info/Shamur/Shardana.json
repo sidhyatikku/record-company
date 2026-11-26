@@ -1,0 +1,120 @@
+{
+  "title": "Shardana (The Album)",
+  "artist": "Shamur",
+  "year": 2008,
+  "release_date": "2008",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a7dfed52-d75b-432b-b3e7-ba6481fb1482",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001664712",
+    "deezer": null
+  },
+  "musicbrainz_id": "a7dfed52-d75b-432b-b3e7-ba6481fb1482",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7425caaa-9c83-4d5f-9edb-001a53000b54",
+      "barcode": null,
+      "title": "Shardana (The Album)",
+      "disambiguation": null,
+      "date": "2008",
+      "country": null
+    },
+    "total_tracks": 15,
+    "total_length": "51:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro (Dancehall)",
+            "length": "3:52"
+          },
+          {
+            "number": "2",
+            "title": "Let It Play (feat. Lumidee)",
+            "length": "3:00"
+          },
+          {
+            "number": "3",
+            "title": "Rock Your Body (Hu La La La)",
+            "length": "3:32"
+          },
+          {
+            "number": "4",
+            "title": "Baby Boy",
+            "length": "3:35"
+          },
+          {
+            "number": "5",
+            "title": "Get Funky",
+            "length": "2:56"
+          },
+          {
+            "number": "6",
+            "title": "Gonna Make It",
+            "length": "3:12"
+          },
+          {
+            "number": "7",
+            "title": "The One (feat. M.I.L.A.D.)",
+            "length": "3:20"
+          },
+          {
+            "number": "8",
+            "title": "Shake This Way",
+            "length": "3:24"
+          },
+          {
+            "number": "9",
+            "title": "Let the Music Play",
+            "length": "3:41"
+          },
+          {
+            "number": "10",
+            "title": "Groove India",
+            "length": "3:38"
+          },
+          {
+            "number": "11",
+            "title": "Leja Deja (feat. Priya)",
+            "length": "3:26"
+          },
+          {
+            "number": "12",
+            "title": "Asian Night",
+            "length": "3:45"
+          },
+          {
+            "number": "13",
+            "title": "Baby Boy (Bobby B remix)",
+            "length": "4:14"
+          },
+          {
+            "number": "14",
+            "title": "Let the Music Play (DJ Lee remix)",
+            "length": "3:15"
+          },
+          {
+            "number": "15",
+            "title": "Get Funky (European version)",
+            "length": "2:57"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Shamur/Shardana.jpg"
+}

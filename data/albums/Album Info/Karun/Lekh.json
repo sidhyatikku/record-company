@@ -1,0 +1,123 @@
+{
+  "title": "Lekh",
+  "artist": "Karun",
+  "year": 2019,
+  "release_date": "2019-05-17",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0ecdc67b-f7c6-4da5-a06e-89a2fcb4c181",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/582232412"
+  },
+  "musicbrainz_id": "0ecdc67b-f7c6-4da5-a06e-89a2fcb4c181",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/768ae70b-224a-4b75-937c-c47b0f58833f",
+      "barcode": "0193663724946",
+      "title": "Lekh",
+      "disambiguation": null,
+      "date": "2019-05-17",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "19:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Gulaam",
+            "length": "1:49",
+            "deezer": {
+              "id": 2784188392,
+              "link": "https://www.deezer.com/track/2784188392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/e/0/d9e8316b5165d6e0566e4d736e5d92a4.mp3?hdnea=exp=1795656004~acl=/api/1/1/d/9/e/0/d9e8316b5165d6e0566e4d736e5d92a4.mp3*~data=user_id=0,application_id=42~hmac=172fd72ff7051f23e34d96bb129ef5d78bbca7e7f462a60920209bf4f0799a1e",
+              "preview_expires": "2026-11-26T01:20:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Qissa",
+            "length": "3:20",
+            "artist": "Karun & Nanku",
+            "deezer": {
+              "id": 2784188402,
+              "link": "https://www.deezer.com/track/2784188402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/1/0/0914e41fe5f131db883181476aacc083.mp3?hdnea=exp=1795656004~acl=/api/1/1/0/9/1/0/0914e41fe5f131db883181476aacc083.mp3*~data=user_id=0,application_id=42~hmac=f2d32a6d053736307178de721369b4de4568cbd16c7ad498bc7874b523b5ab00",
+              "preview_expires": "2026-11-26T01:20:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Nakli",
+            "length": "2:48",
+            "artist": "Karun & Nanku",
+            "deezer": {
+              "id": 2784188412,
+              "link": "https://www.deezer.com/track/2784188412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/b/0/d4bc4daed11b079ea635fbc7805d40fd.mp3?hdnea=exp=1795656004~acl=/api/1/1/d/4/b/0/d4bc4daed11b079ea635fbc7805d40fd.mp3*~data=user_id=0,application_id=42~hmac=30f9799afc6450ff73d5f9e2fe6edddf517186333fe0d7da9065da5004256614",
+              "preview_expires": "2026-11-26T01:20:04Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "KIT",
+            "length": "3:12",
+            "artist": "Karun & Nanku",
+            "deezer": {
+              "id": 2784188422,
+              "link": "https://www.deezer.com/track/2784188422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/9/0/059ae108925823326c42a2af8156eb98.mp3?hdnea=exp=1795656004~acl=/api/1/1/0/5/9/0/059ae108925823326c42a2af8156eb98.mp3*~data=user_id=0,application_id=42~hmac=5b44b6c00e01a84a50772f5057db89d263302f518bc6a11ac2c33c0f445700bc",
+              "preview_expires": "2026-11-26T01:20:04Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Nazdeekiyan",
+            "length": "2:36",
+            "artist": "Karun & Nanku",
+            "deezer": {
+              "id": 2784188432,
+              "link": "https://www.deezer.com/track/2784188432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/8/0/28895f300f6ac3b2feee8e8d97e1cd63.mp3?hdnea=exp=1795656004~acl=/api/1/1/2/8/8/0/28895f300f6ac3b2feee8e8d97e1cd63.mp3*~data=user_id=0,application_id=42~hmac=f5a7c9b1c56a1d68dc113b3a531c80b8bab85db5b52e8acf9bf8f1a5513614b4",
+              "preview_expires": "2026-11-26T01:20:04Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dhadhkan",
+            "length": "2:34",
+            "artist": "Karun & Nanku",
+            "deezer": {
+              "id": 2784188442,
+              "link": "https://www.deezer.com/track/2784188442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/0/0/380aaf7cfbe30a70b45d6bab4ff5943e.mp3?hdnea=exp=1795656004~acl=/api/1/1/3/8/0/0/380aaf7cfbe30a70b45d6bab4ff5943e.mp3*~data=user_id=0,application_id=42~hmac=8c0e6535178be97c9efc7ff15316dea3b29c5e76a744ffe9268faa92d9f6f2d2",
+              "preview_expires": "2026-11-26T01:20:04Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mrityu",
+            "length": "3:02",
+            "artist": "Karun, Nanku & Multani",
+            "deezer": {
+              "id": 2784188452,
+              "link": "https://www.deezer.com/track/2784188452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/8/0/a68ed9fd4b43213f8d6bee5c68ac3ce5.mp3?hdnea=exp=1795656004~acl=/api/1/1/a/6/8/0/a68ed9fd4b43213f8d6bee5c68ac3ce5.mp3*~data=user_id=0,application_id=42~hmac=1c897454d0b13e6060a1f5c53b76bc19ddc9575b674296cb6944fafb2c49b7ed",
+              "preview_expires": "2026-11-26T01:20:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karun/Lekh.jpg"
+}

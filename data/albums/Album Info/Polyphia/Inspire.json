@@ -1,0 +1,107 @@
+{
+  "title": "Inspire",
+  "artist": "Polyphia",
+  "year": 2013,
+  "release_date": "2013-04-21",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "djent",
+    "melodic metalcore",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "djent",
+    "melodic metalcore",
+    "progressive metal",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6f5181fa-b021-45b4-8c59-aea6daf7948d",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/987699",
+    "deezer": "https://www.deezer.com/album/8372086"
+  },
+  "musicbrainz_id": "6f5181fa-b021-45b4-8c59-aea6daf7948d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a98fbebc-bc40-47e2-a411-8e7077272aea",
+      "barcode": "887516989025",
+      "title": "Inspire",
+      "disambiguation": null,
+      "date": "2013-04-21",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "20:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ignite",
+            "length": "1:52",
+            "deezer": {
+              "id": 83318760,
+              "link": "https://www.deezer.com/track/83318760",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/7/0/b67196e9f8a3becee8acefe488fb6f6f.mp3?hdnea=exp=1795719595~acl=/api/1/1/b/6/7/0/b67196e9f8a3becee8acefe488fb6f6f.mp3*~data=user_id=0,application_id=42~hmac=f65a8150cf18bd34058298cbdabcffaa4e5c7a1d63898f9386526f7f736a136a",
+              "preview_expires": "2026-11-26T18:59:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Persevere",
+            "length": "3:50",
+            "artist": "Polyphia feat. Aaron Marshall",
+            "deezer": {
+              "id": 83318762,
+              "link": "https://www.deezer.com/track/83318762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/f/0/62f51537d0cf9ba103b69fa1a5c30629.mp3?hdnea=exp=1795719595~acl=/api/1/1/6/2/f/0/62f51537d0cf9ba103b69fa1a5c30629.mp3*~data=user_id=0,application_id=42~hmac=40a63c963f76593a1d01fe718c8955653e187d623642f02c251ba8c9a6e240f9",
+              "preview_expires": "2026-11-26T18:59:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Inspire",
+            "length": "5:26",
+            "deezer": {
+              "id": 83318764,
+              "link": "https://www.deezer.com/track/83318764",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/d/0/bbd3519c4ad323a364685d398b2f4f61.mp3?hdnea=exp=1795719595~acl=/api/1/1/b/b/d/0/bbd3519c4ad323a364685d398b2f4f61.mp3*~data=user_id=0,application_id=42~hmac=3715d64eae9ea9ada92d7b5ba5a7298ed464221f987291f138d96e343b53b2a3",
+              "preview_expires": "2026-11-26T18:59:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Transcend",
+            "length": "5:00",
+            "deezer": {
+              "id": 83318766,
+              "link": "https://www.deezer.com/track/83318766",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/7/0/2276e37d52417a5c2b9ae884e89a0130.mp3?hdnea=exp=1795719595~acl=/api/1/1/2/2/7/0/2276e37d52417a5c2b9ae884e89a0130.mp3*~data=user_id=0,application_id=42~hmac=0957a551bd18476e52a5d3d533f2d662baea185551d23c3babf0509d551f011d",
+              "preview_expires": "2026-11-26T18:59:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Impassion",
+            "length": "4:48",
+            "deezer": {
+              "id": 83318768,
+              "link": "https://www.deezer.com/track/83318768",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/e/0/9ee2bc1bea8c45fa6d9bb87e6e0b8325.mp3?hdnea=exp=1795719595~acl=/api/1/1/9/e/e/0/9ee2bc1bea8c45fa6d9bb87e6e0b8325.mp3*~data=user_id=0,application_id=42~hmac=88cc7f40f14a64168ecb0715ac837a0d8aeb1b2ecfbb87f13aa1a711306dc2c9",
+              "preview_expires": "2026-11-26T18:59:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Polyphia/Inspire.jpg"
+}

@@ -1,0 +1,180 @@
+{
+  "title": "Tribute",
+  "artist": "John Newman",
+  "year": 2013,
+  "release_date": "2013-10-14",
+  "type": "Album",
+  "description": "Tribute is the debut studio album by English singer John Newman. It was released in the United Kingdom on 14 October 2013 by Universal and Island Records. The album includes the singles \"Love Me Again\", \"Cheating\", \"Losing Sleep\" and \"Out of My Head\". A deluxe edition of the album contains three bonus tracks. The album was produced by Ant Whiting, John Newman, Steve Booker and Mike Spencer. The album entered the UK Albums Chart at number one.",
+  "genres": [
+    "pop",
+    "pop soul",
+    "dance-pop",
+    "neo soul",
+    "rock"
+  ],
+  "tags": [
+    "pop",
+    "pop soul",
+    "dance-pop",
+    "neo soul",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4f43a558-0559-4cfd-9851-a3dea9bbab04",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tribute_(John_Newman_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002558883",
+    "discogs": "https://www.discogs.com/master/607653",
+    "wikidata": "https://www.wikidata.org/wiki/Q15037607",
+    "deezer": "https://www.deezer.com/album/6996434"
+  },
+  "musicbrainz_id": "4f43a558-0559-4cfd-9851-a3dea9bbab04",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c484e9e6-9a8b-4581-a382-08a21cc4ee82",
+      "barcode": "00602537435593",
+      "title": "Tribute",
+      "disambiguation": null,
+      "date": "2013-10-14",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "44:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tribute",
+            "length": "5:38",
+            "deezer": {
+              "id": 71265200,
+              "link": "https://www.deezer.com/track/71265200",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/d/0/5ad8479cf56616c4c989712211a53d7f.mp3?hdnea=exp=1795655718~acl=/api/1/1/5/a/d/0/5ad8479cf56616c4c989712211a53d7f.mp3*~data=user_id=0,application_id=42~hmac=f64f6e07fdb0b61821f64b4dbf3ab7c32c3bad631122bdc355b8c4964083ea1d",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Love Me Again",
+            "length": "4:00",
+            "deezer": {
+              "id": 71265201,
+              "link": "https://www.deezer.com/track/71265201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/c/0/24c24e99d5fc9c57cf038e991cf7abd1.mp3?hdnea=exp=1795655718~acl=/api/1/1/2/4/c/0/24c24e99d5fc9c57cf038e991cf7abd1.mp3*~data=user_id=0,application_id=42~hmac=414ce9dc3e0347095827bcd5194848628b8e622b431b2184fc2a266ac7f19302",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Losing Sleep",
+            "length": "4:42",
+            "deezer": {
+              "id": 71265202,
+              "link": "https://www.deezer.com/track/71265202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/1/0/c41000b661049800fb3048dd25ec71f5.mp3?hdnea=exp=1795655718~acl=/api/1/1/c/4/1/0/c41000b661049800fb3048dd25ec71f5.mp3*~data=user_id=0,application_id=42~hmac=97b0f312fd66811efed27a01e51616b394b23353799e5e3a5f5b7434e16d0e27",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Easy",
+            "length": "3:40",
+            "deezer": {
+              "id": 71265203,
+              "link": "https://www.deezer.com/track/71265203",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/3/0/c433a9e8572b9861adfe5d8fcec5b443.mp3?hdnea=exp=1795655718~acl=/api/1/1/c/4/3/0/c433a9e8572b9861adfe5d8fcec5b443.mp3*~data=user_id=0,application_id=42~hmac=4e60965eba46d3f26c1099a2912abb6aa13da4606c78d2e91fdf4dc9f280993c",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Try",
+            "length": "3:35",
+            "deezer": {
+              "id": 71265204,
+              "link": "https://www.deezer.com/track/71265204",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/a/0/2da16887761f68832d5868925df8bb6c.mp3?hdnea=exp=1795655718~acl=/api/1/1/2/d/a/0/2da16887761f68832d5868925df8bb6c.mp3*~data=user_id=0,application_id=42~hmac=2b48a612de47da6810509ce42103166452851b148dcdc2bbd078f2f9ab408775",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Out of My Head",
+            "length": "3:51",
+            "deezer": {
+              "id": 71265205,
+              "link": "https://www.deezer.com/track/71265205",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/e/0/1be3c5dfb8c780d0eb00103cd245a7a3.mp3?hdnea=exp=1795655718~acl=/api/1/1/1/b/e/0/1be3c5dfb8c780d0eb00103cd245a7a3.mp3*~data=user_id=0,application_id=42~hmac=78518659f6fbaea6863312a00045295a6dc97f6a4900597acc809231c3c9fe3f",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Cheating",
+            "length": "3:42",
+            "deezer": {
+              "id": 71265207,
+              "link": "https://www.deezer.com/track/71265207",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/3/0/253b590d553af1e54c9f158de6ab98b8.mp3?hdnea=exp=1795655718~acl=/api/1/1/2/5/3/0/253b590d553af1e54c9f158de6ab98b8.mp3*~data=user_id=0,application_id=42~hmac=0a49595fa1aa371e9ac0f207edb422ca3ec62f0fa28a3a7e1cf4795d30d524f4",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Running",
+            "length": "4:20",
+            "deezer": {
+              "id": 71265208,
+              "link": "https://www.deezer.com/track/71265208",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/5/0/0e534426715ed331920ededa9dc56a72.mp3?hdnea=exp=1795655718~acl=/api/1/1/0/e/5/0/0e534426715ed331920ededa9dc56a72.mp3*~data=user_id=0,application_id=42~hmac=57762ba0b1adb5d9ef9e7bcd17028ff4921345494f05ec9ef2ac1886f1a942d9",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Gold Dust",
+            "length": "3:33",
+            "deezer": {
+              "id": 71265210,
+              "link": "https://www.deezer.com/track/71265210",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/c/0/e5c5649a8c77dd6adecdbca711675006.mp3?hdnea=exp=1795655718~acl=/api/1/1/e/5/c/0/e5c5649a8c77dd6adecdbca711675006.mp3*~data=user_id=0,application_id=42~hmac=b978df7f664f508f8a8da064aeb273db333d8d0b6d2735d6ddd15c28512e0635",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Goodnight Goodbye",
+            "length": "3:44",
+            "deezer": {
+              "id": 71265212,
+              "link": "https://www.deezer.com/track/71265212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/f/0/cbf482ab173a5595b4f60be5565b6c2a.mp3?hdnea=exp=1795655718~acl=/api/1/1/c/b/f/0/cbf482ab173a5595b4f60be5565b6c2a.mp3*~data=user_id=0,application_id=42~hmac=3a5c1107666b635c6b8ff3c47e9b46823c82eda3ea8167f5057f7898a483751e",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "All I Need Is You",
+            "length": "3:23",
+            "deezer": {
+              "id": 71265214,
+              "link": "https://www.deezer.com/track/71265214",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25f5a4deecc93488d6538179e75c5982.mp3?hdnea=exp=1795655718~acl=/api/1/1/2/5/f/0/25f5a4deecc93488d6538179e75c5982.mp3*~data=user_id=0,application_id=42~hmac=2891afb2c24ab4c33476b768360de8a26db5579a57725e5adc6f9dc3b20444d9",
+              "preview_expires": "2026-11-26T01:15:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Newman/Tribute.jpg"
+}

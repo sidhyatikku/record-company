@@ -1,0 +1,55 @@
+{
+  "title": "The Jackie",
+  "artist": "Bas with J. Cole and Lil Tjay",
+  "year": 2021,
+  "release_date": "2021-07-09",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "pop rap",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/63a7e34b-b00b-4efd-bc6e-dbd39fc9c6bf",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "63a7e34b-b00b-4efd-bc6e-dbd39fc9c6bf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8318f6ab-1a3d-4990-b716-ebabcfea4b11",
+      "barcode": "00602438560066",
+      "title": "The Jackie",
+      "disambiguation": "explicit",
+      "date": "2021-07-09",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Jackie",
+            "length": "3:24"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bas/The Jackie.jpg"
+}

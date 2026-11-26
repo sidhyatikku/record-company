@@ -1,0 +1,647 @@
+{
+  "title": "Something Else by The Kinks",
+  "artist": "The Kinks",
+  "year": 1967,
+  "release_date": "1967-09-15",
+  "type": "Album",
+  "description": "Something Else by the Kinks, often referred to simply as Something Else, is the fifth studio album by the English rock band the Kinks, released on 15 September 1967 by Pye Records. The album continued the Kinks' trend toward an eccentric baroque pop and music hall-influenced style defined by frontman Ray Davies' observational and introspective lyrics. It also marked the final involvement of American producer Shel Talmy in the Kinks' 1960s studio recordings; henceforth Ray Davies would produce the group's recordings. Many of the songs feature the keyboard work of Nicky Hopkins and the backing vocals of Davies's wife, Rasa. The album was preceded by the singles \"Waterloo Sunset\", one of the group's most acclaimed songs, and the Dave Davies solo record \"Death of a Clown\", both of which charted in the UK top 3.",
+  "genres": [
+    "baroque pop",
+    "folk rock",
+    "pop rock",
+    "rock",
+    "mod",
+    "pop",
+    "psychedelic pop",
+    "sunshine pop"
+  ],
+  "tags": [
+    "am pop",
+    "baroque pop",
+    "folk rock",
+    "pop rock",
+    "rock",
+    "contemporary pop/rock",
+    "mod",
+    "pop",
+    "psychedelic pop",
+    "rock & roll",
+    "sunshine pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ab0ea2d3-a273-3d7f-855b-f9930a1395cf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Something_Else_by_the_Kinks",
+    "allmusic": "https://www.allmusic.com/album/mw0000199387",
+    "discogs": "https://www.discogs.com/master/73396",
+    "wikidata": "https://www.wikidata.org/wiki/Q535579",
+    "deezer": "https://www.deezer.com/album/905339502"
+  },
+  "musicbrainz_id": "ab0ea2d3-a273-3d7f-855b-f9930a1395cf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ffcaf99a-9daf-4890-a8ba-1c6bc6641605",
+      "barcode": "5414939494376",
+      "title": "Something Else by The Kinks",
+      "disambiguation": "deluxe",
+      "date": "",
+      "country": "AF"
+    },
+    "total_tracks": 52,
+    "total_length": "2:23:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "David Watts",
+            "length": "2:29",
+            "deezer": {
+              "id": 3803570162,
+              "link": "https://www.deezer.com/track/3803570162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/3/0/403d0c83d2bb9c7b3e9af578a45f84ed.mp3?hdnea=exp=1795721564~acl=/api/1/1/4/0/3/0/403d0c83d2bb9c7b3e9af578a45f84ed.mp3*~data=user_id=0,application_id=42~hmac=763dfde6c4ce3f5dcd0f71f192219fdab831b6fb08f2635573aeb63593173339",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Death of a Clown",
+            "length": "3:02",
+            "deezer": {
+              "id": 3803570172,
+              "link": "https://www.deezer.com/track/3803570172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/9/0/0e962c51b320242fa336f23c68f53b4c.mp3?hdnea=exp=1795721564~acl=/api/1/1/0/e/9/0/0e962c51b320242fa336f23c68f53b4c.mp3*~data=user_id=0,application_id=42~hmac=4afb931743c5e798f63c72c0247b20131d811ebbf300ab26d6b7518e91fb9eb2",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Two Sisters",
+            "length": "1:59",
+            "deezer": {
+              "id": 3803570182,
+              "link": "https://www.deezer.com/track/3803570182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/5/0/7556c64800d52b70995f214ed6a47fc4.mp3?hdnea=exp=1795721564~acl=/api/1/1/7/5/5/0/7556c64800d52b70995f214ed6a47fc4.mp3*~data=user_id=0,application_id=42~hmac=2ce5c55ef2924783f21b945b6d22eb4010302a75ffdd88228d39161cfa4c9762",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "No Return",
+            "length": "2:02",
+            "deezer": {
+              "id": 3803570192,
+              "link": "https://www.deezer.com/track/3803570192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/4/0/5b43b7845acee55042fde2ce91651737.mp3?hdnea=exp=1795721564~acl=/api/1/1/5/b/4/0/5b43b7845acee55042fde2ce91651737.mp3*~data=user_id=0,application_id=42~hmac=55ea370cbf064b02e150ef1c32ae8bc06ab6c00d6fe5cf8ab37b9b69197b3e60",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Harry Rag",
+            "length": "2:16",
+            "deezer": {
+              "id": 3803570202,
+              "link": "https://www.deezer.com/track/3803570202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/9/0/6999ecdb91fa0e75cdfe0897dcdd5b57.mp3?hdnea=exp=1795721564~acl=/api/1/1/6/9/9/0/6999ecdb91fa0e75cdfe0897dcdd5b57.mp3*~data=user_id=0,application_id=42~hmac=2a1e5b934d4fef5c8d0c9e91174cf7caaa88d7a455c7cb0b196e394d580f7331",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Tin Soldier Man",
+            "length": "2:49",
+            "deezer": {
+              "id": 3803570212,
+              "link": "https://www.deezer.com/track/3803570212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/4/0/56408c3a9ea4a338d187726b62cf8de8.mp3?hdnea=exp=1795721564~acl=/api/1/1/5/6/4/0/56408c3a9ea4a338d187726b62cf8de8.mp3*~data=user_id=0,application_id=42~hmac=3228e1e2cd70452bce8157c0450817c49c84b4b416725e772838a460e9753c09",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Situation Vacant",
+            "length": "3:15",
+            "deezer": {
+              "id": 3803570222,
+              "link": "https://www.deezer.com/track/3803570222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/0/0/af053d5ff0efef7d39ad19e0c136c74e.mp3?hdnea=exp=1795721564~acl=/api/1/1/a/f/0/0/af053d5ff0efef7d39ad19e0c136c74e.mp3*~data=user_id=0,application_id=42~hmac=89b25edc45fdd8b89005f27040507484c855112df64d12e33ed6dab5b1dd422f",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Love Me Till the Sun Shines",
+            "length": "3:17",
+            "deezer": {
+              "id": 3803570232,
+              "link": "https://www.deezer.com/track/3803570232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/6/0/7a6215ec75dfb42233ef14f74d3a2a69.mp3?hdnea=exp=1795721564~acl=/api/1/1/7/a/6/0/7a6215ec75dfb42233ef14f74d3a2a69.mp3*~data=user_id=0,application_id=42~hmac=52f77a54a9a0d41cc3812341c90adefabef92fc921b3559aa8ecb88f60bf53a2",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lazy Old Sun",
+            "length": "2:48",
+            "deezer": {
+              "id": 3803570242,
+              "link": "https://www.deezer.com/track/3803570242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/c/0/29c92a392b1d1983610e962e823c06c4.mp3?hdnea=exp=1795721564~acl=/api/1/1/2/9/c/0/29c92a392b1d1983610e962e823c06c4.mp3*~data=user_id=0,application_id=42~hmac=e3af639d7dc01899f8c861096e04969a1d669ec1a26993e63969824f4e763abf",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Afternoon Tea",
+            "length": "3:25",
+            "deezer": {
+              "id": 3803570252,
+              "link": "https://www.deezer.com/track/3803570252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d06fbfb2d46ed9a65c20182f7ccc27d.mp3?hdnea=exp=1795721564~acl=/api/1/1/0/d/0/0/0d06fbfb2d46ed9a65c20182f7ccc27d.mp3*~data=user_id=0,application_id=42~hmac=3e7e90828bbca492f2b2df98a4d8ff529c75fe0b5c57a3dc2a80ec2daceb5a0c",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Funny Face",
+            "length": "2:16",
+            "deezer": {
+              "id": 3803570262,
+              "link": "https://www.deezer.com/track/3803570262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/2/0/38249f0e593ad98e7af3d0beb33d44e4.mp3?hdnea=exp=1795721564~acl=/api/1/1/3/8/2/0/38249f0e593ad98e7af3d0beb33d44e4.mp3*~data=user_id=0,application_id=42~hmac=cc5b95efb4f72c7fb4c7406fa582dd5edb49a05d8c6c891469f11f9bf1e2717d",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "End of the Season",
+            "length": "2:57",
+            "deezer": {
+              "id": 3803570272,
+              "link": "https://www.deezer.com/track/3803570272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/d/0/d4d20be61ca89150fc853556fe180108.mp3?hdnea=exp=1795721564~acl=/api/1/1/d/4/d/0/d4d20be61ca89150fc853556fe180108.mp3*~data=user_id=0,application_id=42~hmac=74aaa813cdb258a0652bf43241f0c369c1e20352f7dc509321cab42eb4285ae7",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Waterloo Sunset",
+            "length": "3:14",
+            "deezer": {
+              "id": 3803570282,
+              "link": "https://www.deezer.com/track/3803570282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/6/0/ff6916848def121cf36ce254ec772a5a.mp3?hdnea=exp=1795721564~acl=/api/1/1/f/f/6/0/ff6916848def121cf36ce254ec772a5a.mp3*~data=user_id=0,application_id=42~hmac=9290f8fc9c7876a044cc6e6eecff3bdab76270e53c1c25c87c000c9786673013",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Act Nice and Gentle",
+            "length": "2:38",
+            "deezer": {
+              "id": 3803570292,
+              "link": "https://www.deezer.com/track/3803570292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/8/0/9e81c6f8c9ed137480cac94545e7e279.mp3?hdnea=exp=1795721564~acl=/api/1/1/9/e/8/0/9e81c6f8c9ed137480cac94545e7e279.mp3*~data=user_id=0,application_id=42~hmac=ae6bb57abce761ec1eebd6c522fe7e5fb196ce27964164aafae03f3f1d83677c",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Mr. Pleasant",
+            "length": "2:58",
+            "deezer": {
+              "id": 3803570302,
+              "link": "https://www.deezer.com/track/3803570302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/a/0/eea593f3d5580545bbfd3d44e70d5908.mp3?hdnea=exp=1795721564~acl=/api/1/1/e/e/a/0/eea593f3d5580545bbfd3d44e70d5908.mp3*~data=user_id=0,application_id=42~hmac=d028bd3f3e7c753dc93067f6622c9f8aa3f8dadabba7a38c1d970766e8bad40a",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Susannah’s Still Alive (mono mix)",
+            "length": "2:23",
+            "deezer": {
+              "id": 3803570322,
+              "link": "https://www.deezer.com/track/3803570322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/a/0/dfa493936c1bb2c1dde2319a9405c6c2.mp3?hdnea=exp=1795721564~acl=/api/1/1/d/f/a/0/dfa493936c1bb2c1dde2319a9405c6c2.mp3*~data=user_id=0,application_id=42~hmac=427a0d8d672f35840b3acc31e4ed4d5c062d7ea2c35b3f898278b8b364b00860",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Autumn Almanac",
+            "length": "3:04",
+            "deezer": {
+              "id": 3803570332,
+              "link": "https://www.deezer.com/track/3803570332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/8/0/868cbc1e7da8143832676fddacb2b3c5.mp3?hdnea=exp=1795721564~acl=/api/1/1/8/6/8/0/868cbc1e7da8143832676fddacb2b3c5.mp3*~data=user_id=0,application_id=42~hmac=a665b90c0a7ad9c3643adfc4815c158c4dffb4b04f0e833966039b8c7300e5fb",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Harry Rag (mono alternate take)",
+            "length": "2:13",
+            "deezer": {
+              "id": 3803570342,
+              "link": "https://www.deezer.com/track/3803570342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/9/0/629441620041c0a829cdf382c6c9ba0f.mp3?hdnea=exp=1795721564~acl=/api/1/1/6/2/9/0/629441620041c0a829cdf382c6c9ba0f.mp3*~data=user_id=0,application_id=42~hmac=3b9b41d040c80e078b67b3fe8db99b27bd0aee6c008cc4e2cebc7fd2f2033492",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "David Watts (mono alternate take)",
+            "length": "2:32",
+            "deezer": {
+              "id": 3803570352,
+              "link": "https://www.deezer.com/track/3803570352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/5/0/59517ef33b830e142fa2a958cc38b854.mp3?hdnea=exp=1795721564~acl=/api/1/1/5/9/5/0/59517ef33b830e142fa2a958cc38b854.mp3*~data=user_id=0,application_id=42~hmac=2498c180b94aad68831a05bd361e2274e7cb046c4c7a9a0096b69b752e116730",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Afternoon Tea (Canadian mono mix)",
+            "length": "3:17",
+            "deezer": {
+              "id": 3803570362,
+              "link": "https://www.deezer.com/track/3803570362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/f/0/59f13476f3c0912fbf4e3da9dd5f6256.mp3?hdnea=exp=1795721564~acl=/api/1/1/5/9/f/0/59f13476f3c0912fbf4e3da9dd5f6256.mp3*~data=user_id=0,application_id=42~hmac=322c0944f30118e739629d8d31be6d1238e703e6e9725f827c492b3d1171f498",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Sunny Afternoon (live at Maida Vale Studios, 1967)",
+            "length": "2:52",
+            "deezer": {
+              "id": 3803570372,
+              "link": "https://www.deezer.com/track/3803570372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/1/0/341c246c276d0d43f1523236b40cf334.mp3?hdnea=exp=1795721564~acl=/api/1/1/3/4/1/0/341c246c276d0d43f1523236b40cf334.mp3*~data=user_id=0,application_id=42~hmac=99af6791970fbd20c10b8caf42c21d68dfb2a8ea5f3b3a69d9e724320fb64767",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Autumn Almanac (live at the BBC)",
+            "length": "3:05",
+            "deezer": {
+              "id": 3803570382,
+              "link": "https://www.deezer.com/track/3803570382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/e/0/94e8a09f407a8dae46355e751d0bc933.mp3?hdnea=exp=1795721564~acl=/api/1/1/9/4/e/0/94e8a09f407a8dae46355e751d0bc933.mp3*~data=user_id=0,application_id=42~hmac=6d453546544ff95885ba680093715fe6d2d4d057c75bd62172f29f0a8f9f2f17",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "Mr. Pleasant (live at Maida Vale Studios, 1967)",
+            "length": "2:48",
+            "deezer": {
+              "id": 3803570392,
+              "link": "https://www.deezer.com/track/3803570392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/8/0/aa8322b80a14013282f502850f126699.mp3?hdnea=exp=1795721564~acl=/api/1/1/a/a/8/0/aa8322b80a14013282f502850f126699.mp3*~data=user_id=0,application_id=42~hmac=a25a18571d6fbe6565310f1638435704497bce3b031d0a3fad2f3357dc67404f",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Susannah’s Still Alive (live at Maida Vale Studios, 1967)",
+            "length": "2:14",
+            "deezer": {
+              "id": 3803570402,
+              "link": "https://www.deezer.com/track/3803570402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/7/0/9576c748dc82caa5d88a56f6cde1d977.mp3?hdnea=exp=1795721564~acl=/api/1/1/9/5/7/0/9576c748dc82caa5d88a56f6cde1d977.mp3*~data=user_id=0,application_id=42~hmac=95d18150d9606a7b960d23a19c18683f7c8f0266fb3dc70a03abf75308a42541",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "David Watts (live at Maida Vale Studios, 1967)",
+            "length": "2:10",
+            "deezer": {
+              "id": 3803570412,
+              "link": "https://www.deezer.com/track/3803570412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/9/0/bc9f95466e15da9eb7a28707e1d5ad77.mp3?hdnea=exp=1795721564~acl=/api/1/1/b/c/9/0/bc9f95466e15da9eb7a28707e1d5ad77.mp3*~data=user_id=0,application_id=42~hmac=1cf602c58b9f2791d37b5fdc91608ecd065c4beb0520a142d1e074c9ec651660",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "Love Me Till the Sun Shines (live at the Playhouse Theatre, 1967)",
+            "length": "2:19",
+            "deezer": {
+              "id": 3803570422,
+              "link": "https://www.deezer.com/track/3803570422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/4/0/c249b303a982a2310cb8452da3e71902.mp3?hdnea=exp=1795721564~acl=/api/1/1/c/2/4/0/c249b303a982a2310cb8452da3e71902.mp3*~data=user_id=0,application_id=42~hmac=7849490fed81709007081f4728def9e8f7ba11ff5cb2fb0bebc43d3e4404c2f8",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "Death of a Clown (live at the BBC)",
+            "length": "2:45",
+            "deezer": {
+              "id": 3803570432,
+              "link": "https://www.deezer.com/track/3803570432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/8/0/868fa89ef8e7b7d68ca8ff7cac57e336.mp3?hdnea=exp=1795721564~acl=/api/1/1/8/6/8/0/868fa89ef8e7b7d68ca8ff7cac57e336.mp3*~data=user_id=0,application_id=42~hmac=b5fd11c9466eafeb87773643681987d45ff03260a85cd8f977f5d86f3ff17226",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "Good Luck Charm (BBC live)",
+            "length": "1:17",
+            "deezer": {
+              "id": 3803570442,
+              "link": "https://www.deezer.com/track/3803570442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/d/0/2bd8dcb9d2e9fb3564727ecc637ef57e.mp3?hdnea=exp=1795721564~acl=/api/1/1/2/b/d/0/2bd8dcb9d2e9fb3564727ecc637ef57e.mp3*~data=user_id=0,application_id=42~hmac=f33ef31d2588340ece35b90f9974be16efc5b127634683d367da052d33dd052f",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "Harry Rag (live at the BBC)",
+            "length": "2:27",
+            "deezer": {
+              "id": 3803570452,
+              "link": "https://www.deezer.com/track/3803570452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/8/0/a98c35fbd70e51722e318ab7bd764c10.mp3?hdnea=exp=1795721564~acl=/api/1/1/a/9/8/0/a98c35fbd70e51722e318ab7bd764c10.mp3*~data=user_id=0,application_id=42~hmac=14940a6d572ac714dc8d516847b767b670ce07f663d362af4b1943c1e902a462",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "Little Women (mono backing track)",
+            "length": "2:13",
+            "deezer": {
+              "id": 3803570462,
+              "link": "https://www.deezer.com/track/3803570462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/3/0/b6345900ceaf239c5f2187c68ff99c15.mp3?hdnea=exp=1795721564~acl=/api/1/1/b/6/3/0/b6345900ceaf239c5f2187c68ff99c15.mp3*~data=user_id=0,application_id=42~hmac=a2566dc99a44128ca341a60211f16493abc2d767f6982ce970d01fb4de659424",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "David Watts (stereo mix)",
+            "length": "2:41",
+            "deezer": {
+              "id": 3803570472,
+              "link": "https://www.deezer.com/track/3803570472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/4/0/ab473e24c57a2fefe59d9c7810db9e3f.mp3?hdnea=exp=1795721564~acl=/api/1/1/a/b/4/0/ab473e24c57a2fefe59d9c7810db9e3f.mp3*~data=user_id=0,application_id=42~hmac=97dd5e1a1b8de702e1904137a4ab01ec790a0f1b3ad7cdcd5bd9105b2fb1156f",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Death of a Clown (stereo mix)",
+            "length": "3:13",
+            "deezer": {
+              "id": 3803570482,
+              "link": "https://www.deezer.com/track/3803570482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/6/0/126f875f9f7b16603390b279b9d5441f.mp3?hdnea=exp=1795721564~acl=/api/1/1/1/2/6/0/126f875f9f7b16603390b279b9d5441f.mp3*~data=user_id=0,application_id=42~hmac=63ac34834319e07bdfb91a34316a715666fe8a70c6996a794d759b0640c8dabc",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Two Sisters (stereo mix)",
+            "length": "2:02",
+            "deezer": {
+              "id": 3803570492,
+              "link": "https://www.deezer.com/track/3803570492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/6/0/c96697bcd6a40d03dd3dfec6e333a093.mp3?hdnea=exp=1795721564~acl=/api/1/1/c/9/6/0/c96697bcd6a40d03dd3dfec6e333a093.mp3*~data=user_id=0,application_id=42~hmac=9286a4be06dc5e792114c547e4e044e6da76688d2cc3b1477f9d7693f9443787",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "No Return (stereo mix)",
+            "length": "2:00",
+            "deezer": {
+              "id": 3803570502,
+              "link": "https://www.deezer.com/track/3803570502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/7/0/9273993369d2fdc7ab2ca156563bd58a.mp3?hdnea=exp=1795721564~acl=/api/1/1/9/2/7/0/9273993369d2fdc7ab2ca156563bd58a.mp3*~data=user_id=0,application_id=42~hmac=0ab64d2656abc5bdec2d4fce5305f0854ea600f6e6aab6104bbcc10d2905f93b",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Harry Rag (stereo mix)",
+            "length": "2:15",
+            "deezer": {
+              "id": 3803570512,
+              "link": "https://www.deezer.com/track/3803570512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/b/0/efb24c372de78187367cd96eee80f897.mp3?hdnea=exp=1795721564~acl=/api/1/1/e/f/b/0/efb24c372de78187367cd96eee80f897.mp3*~data=user_id=0,application_id=42~hmac=36ac8d2ab671ed18e050f62cb567710fb58cf80b9cb51074623f4ca1c48f40ce",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Tin Soldier Man (stereo mix)",
+            "length": "2:47",
+            "deezer": {
+              "id": 3803570522,
+              "link": "https://www.deezer.com/track/3803570522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/6/0/ce61ee96c7790c2f81546388988484f7.mp3?hdnea=exp=1795721564~acl=/api/1/1/c/e/6/0/ce61ee96c7790c2f81546388988484f7.mp3*~data=user_id=0,application_id=42~hmac=cb3c86f451a83745dd2cc56f5a1c34e7a3120e0557530c044c62e9b3188dbeee",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Situation Vacant",
+            "length": "3:15",
+            "deezer": {
+              "id": 3803570532,
+              "link": "https://www.deezer.com/track/3803570532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/a/0/63abf70967f4a957ab788eda80c4434a.mp3?hdnea=exp=1795721564~acl=/api/1/1/6/3/a/0/63abf70967f4a957ab788eda80c4434a.mp3*~data=user_id=0,application_id=42~hmac=c83d9f058da3eb9898da87f7e294a3932e40b3a37b2923a333e8f8043f42ccdb",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Love Me Till the Sun Shines (stereo mix)",
+            "length": "3:17",
+            "deezer": {
+              "id": 3803570542,
+              "link": "https://www.deezer.com/track/3803570542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/2/0/682f2341432b37184c49fb85338012e1.mp3?hdnea=exp=1795721564~acl=/api/1/1/6/8/2/0/682f2341432b37184c49fb85338012e1.mp3*~data=user_id=0,application_id=42~hmac=b58eab4b92339b2597d49148e963e36aee11ae5b3c2100c22ab3f7efd5409fb8",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lazy Old Sun (stereo mix)",
+            "length": "2:46",
+            "deezer": {
+              "id": 3803570552,
+              "link": "https://www.deezer.com/track/3803570552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/b/0/fdb89fac558c1322adce3822f2752fe1.mp3?hdnea=exp=1795721564~acl=/api/1/1/f/d/b/0/fdb89fac558c1322adce3822f2752fe1.mp3*~data=user_id=0,application_id=42~hmac=121fc37237f557ded55f349d7784aa2170e9fd9774e372a04fbabcbebc7eecf2",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Afternoon Tea (stereo mix)",
+            "length": "3:25",
+            "deezer": {
+              "id": 3803570562,
+              "link": "https://www.deezer.com/track/3803570562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/6/0/3e681aa4f89a3c1d1a32d0b79654bf9e.mp3?hdnea=exp=1795721564~acl=/api/1/1/3/e/6/0/3e681aa4f89a3c1d1a32d0b79654bf9e.mp3*~data=user_id=0,application_id=42~hmac=e2e42b5a42f89bab78fffe53f36da8f5271faf651b50a35a64811ce2a18b1556",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Funny Face (stereo mix)",
+            "length": "2:16",
+            "deezer": {
+              "id": 3803570572,
+              "link": "https://www.deezer.com/track/3803570572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/8/0/0d80aeae4fd71c0dcfb754f213bfb779.mp3?hdnea=exp=1795721564~acl=/api/1/1/0/d/8/0/0d80aeae4fd71c0dcfb754f213bfb779.mp3*~data=user_id=0,application_id=42~hmac=0f201aff919552992ad7b09fad27e23b5b1d9253c23170bdf7390aebcd4cf2cf",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "End of the Season (stereo mix)",
+            "length": "2:58",
+            "deezer": {
+              "id": 3803570582,
+              "link": "https://www.deezer.com/track/3803570582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/c/0/e8cbee01b4a825a6e88044efd1a762bc.mp3?hdnea=exp=1795721564~acl=/api/1/1/e/8/c/0/e8cbee01b4a825a6e88044efd1a762bc.mp3*~data=user_id=0,application_id=42~hmac=d175193fa038a8c204fd7a2833b7492c9a3bdbac03f4c1da6e514e6312795f11",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Waterloo Sunset (stereo mix)",
+            "length": "3:18",
+            "deezer": {
+              "id": 3803570592,
+              "link": "https://www.deezer.com/track/3803570592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/4/0/b8494141a771b57751bc5b4b5a6ec4ce.mp3?hdnea=exp=1795721564~acl=/api/1/1/b/8/4/0/b8494141a771b57751bc5b4b5a6ec4ce.mp3*~data=user_id=0,application_id=42~hmac=7abced33be70ff577ab6684d53e2d52a9925b145370a1a977fca7d0ff44a4cc8",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Susannah’s Still Alive",
+            "length": "2:21",
+            "deezer": {
+              "id": 3803570612,
+              "link": "https://www.deezer.com/track/3803570612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/3/0/e33349071831a41660dd675f1f7cbd1f.mp3?hdnea=exp=1795721564~acl=/api/1/1/e/3/3/0/e33349071831a41660dd675f1f7cbd1f.mp3*~data=user_id=0,application_id=42~hmac=9e555e45c26c8983b903b218e4f47553717783a904ac166ff45c84e2f50631a7",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Autumn Almanac (stereo mix)",
+            "length": "3:14",
+            "deezer": {
+              "id": 3803570622,
+              "link": "https://www.deezer.com/track/3803570622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/2/0/d42d14b01cbce2a8b99b7d8bd107bc73.mp3?hdnea=exp=1795721564~acl=/api/1/1/d/4/2/0/d42d14b01cbce2a8b99b7d8bd107bc73.mp3*~data=user_id=0,application_id=42~hmac=9f67298289ec02e591ce97dc4c22c11d213bd16864cc3b729d937eefc69afcb0",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Sand on My Shoes (stereo mix)",
+            "length": "3:08",
+            "deezer": {
+              "id": 3803570632,
+              "link": "https://www.deezer.com/track/3803570632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/5/0/4e5716a10526162a71826104a7b0bf42.mp3?hdnea=exp=1795721564~acl=/api/1/1/4/e/5/0/4e5716a10526162a71826104a7b0bf42.mp3*~data=user_id=0,application_id=42~hmac=8bd00e15855c1dadcafe2bf579a953287c5da8e6a8e34643c25eda46357dfe7e",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Afternoon Tea (stereo alternate version)",
+            "length": "3:41",
+            "deezer": {
+              "id": 3803570642,
+              "link": "https://www.deezer.com/track/3803570642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/7/0/2679c7e012b434450a80a8d16da0c836.mp3?hdnea=exp=1795721564~acl=/api/1/1/2/6/7/0/2679c7e012b434450a80a8d16da0c836.mp3*~data=user_id=0,application_id=42~hmac=b164f2884174cab9a6a97ee925fbdcd5de47b544dbb0d11178e1805f119d46ed",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Mr. Pleasant (stereo alternate version)",
+            "length": "3:15",
+            "deezer": {
+              "id": 3803570652,
+              "link": "https://www.deezer.com/track/3803570652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/0/0/ff075ecd24c5ea0916a543549d976379.mp3?hdnea=exp=1795721564~acl=/api/1/1/f/f/0/0/ff075ecd24c5ea0916a543549d976379.mp3*~data=user_id=0,application_id=42~hmac=65a71c0324ae3d414fca0dce3416dee2a751f4884023e8984430afa4e086f671",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Lazy Old Sun (stereo alternate vocal version)",
+            "length": "3:13",
+            "deezer": {
+              "id": 3803570662,
+              "link": "https://www.deezer.com/track/3803570662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/f/0/40fe2561c9df6070381a52a72a4523a1.mp3?hdnea=exp=1795721564~acl=/api/1/1/4/0/f/0/40fe2561c9df6070381a52a72a4523a1.mp3*~data=user_id=0,application_id=42~hmac=7bde3e09ca0ee3c47fd5b87cd7f6d917a2b152de7610a37e72eb427429ddd799",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Funny Face (stereo alternate version)",
+            "length": "2:40",
+            "deezer": {
+              "id": 3803570672,
+              "link": "https://www.deezer.com/track/3803570672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/d/0/07d8342f06504e8f892001b9e92abbbb.mp3?hdnea=exp=1795721564~acl=/api/1/1/0/7/d/0/07d8342f06504e8f892001b9e92abbbb.mp3*~data=user_id=0,application_id=42~hmac=faab90d0370c1db7e33b46b9c2034fcf011c6a4a0ac86e0c64a1c3c734c12ba1",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Afternoon Tea (German stereo mix)",
+            "length": "3:17",
+            "deezer": {
+              "id": 3803570682,
+              "link": "https://www.deezer.com/track/3803570682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/d/0/75d9f9b6aa69188de47b79006087dcfc.mp3?hdnea=exp=1795721564~acl=/api/1/1/7/5/d/0/75d9f9b6aa69188de47b79006087dcfc.mp3*~data=user_id=0,application_id=42~hmac=7a96a5879ddc91b8168398f80585997bbabb557217ab190fe735495c6e73e6dc",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Tin Soldier Man (stereo alternate backing track)",
+            "length": "3:06",
+            "deezer": {
+              "id": 3803570692,
+              "link": "https://www.deezer.com/track/3803570692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/0/0/b00f27e916c7e86ba40d8621bc9d4456.mp3?hdnea=exp=1795721564~acl=/api/1/1/b/0/0/0/b00f27e916c7e86ba40d8621bc9d4456.mp3*~data=user_id=0,application_id=42~hmac=12f87a285f2beaebe3023901fae46e3548398f468487dea52b90c4c8abfd2d55",
+              "preview_expires": "2026-11-26T19:32:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Kinks/Something Else.jpg"
+}

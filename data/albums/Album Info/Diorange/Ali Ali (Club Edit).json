@@ -1,0 +1,51 @@
+{
+  "title": "Ali Ali",
+  "artist": "Diorange, A.R. Rahman & Nooran Sisters",
+  "year": 2023,
+  "release_date": "2023-05-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a7f81a6a-f243-43b0-92f3-195fe7d3bee4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/443484125"
+  },
+  "musicbrainz_id": "a7f81a6a-f243-43b0-92f3-195fe7d3bee4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5dbde4b6-8dd7-4c19-8dcd-42c20a3f8ab4",
+      "barcode": "602455828293",
+      "title": "Ali Ali",
+      "disambiguation": null,
+      "date": "2023-05-26",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:04",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ali Ali",
+            "length": "2:04",
+            "deezer": {
+              "id": 2290904495,
+              "link": "https://www.deezer.com/track/2290904495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/2/0/4c23c58a80d84c06392c1624b6efbb6d.mp3?hdnea=exp=1795653361~acl=/api/1/1/4/c/2/0/4c23c58a80d84c06392c1624b6efbb6d.mp3*~data=user_id=0,application_id=42~hmac=c23dc01f48803b6b8140e7ae4679af13362bc80584456ea2c9b5aa5a79d65e13",
+              "preview_expires": "2026-11-26T00:36:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Diorange/Ali Ali (Club Edit).jpg"
+}

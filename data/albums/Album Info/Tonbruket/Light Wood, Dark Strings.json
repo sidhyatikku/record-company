@@ -1,0 +1,128 @@
+{
+  "title": "Light Wood, Dark Strings",
+  "artist": "Tonbruket",
+  "year": 2023,
+  "release_date": "2023-10-13",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d4b13bd4-7ca1-4c9a-96e8-6a3961f7730f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/478800975"
+  },
+  "musicbrainz_id": "d4b13bd4-7ca1-4c9a-96e8-6a3961f7730f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/93833fbf-0d62-4019-8ea3-766cc3577a20",
+      "barcode": "196922602443",
+      "title": "Light Wood, Dark Strings",
+      "disambiguation": null,
+      "date": "2023-10-13",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "46:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Buckaroo",
+            "length": "7:24",
+            "deezer": {
+              "id": 2420668705,
+              "link": "https://www.deezer.com/track/2420668705",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/7/0/227fab331e9f5e9b616412a37f4b9c27.mp3?hdnea=exp=1795721955~acl=/api/1/1/2/2/7/0/227fab331e9f5e9b616412a37f4b9c27.mp3*~data=user_id=0,application_id=42~hmac=859607c4c08746f993d4a589bf537443638535d77757e7d14845c359292a1a8f",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Östra Ämtervik Revisited",
+            "length": "4:40",
+            "deezer": {
+              "id": 2420668725,
+              "link": "https://www.deezer.com/track/2420668725",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/a/0/3ea66b2d6194263e1f0699489fdb6ec4.mp3?hdnea=exp=1795721955~acl=/api/1/1/3/e/a/0/3ea66b2d6194263e1f0699489fdb6ec4.mp3*~data=user_id=0,application_id=42~hmac=77bf166787b80232c4ab778b5e5af23df5b7637f373268ef23575130a9bbe18d",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hermetic Boogey",
+            "length": "6:14",
+            "deezer": {
+              "id": 2420668755,
+              "link": "https://www.deezer.com/track/2420668755",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/b/0/4cb1401ce90be2495e36918246b172aa.mp3?hdnea=exp=1795721955~acl=/api/1/1/4/c/b/0/4cb1401ce90be2495e36918246b172aa.mp3*~data=user_id=0,application_id=42~hmac=0550c36eba0ca62d3c3f2c5b37cb59096c67fe594f95b45191d15308900e3ff3",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Light Wood, Dark Strings",
+            "length": "5:45",
+            "deezer": {
+              "id": 2420668765,
+              "link": "https://www.deezer.com/track/2420668765",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/6/0/ae613b3b9b25627d2540ebdedc04cd7b.mp3?hdnea=exp=1795721955~acl=/api/1/1/a/e/6/0/ae613b3b9b25627d2540ebdedc04cd7b.mp3*~data=user_id=0,application_id=42~hmac=94d913ca64eff5b5389d60b1de2209893691f0ca55ebf763724ba1dc4a574178",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Stratopaus",
+            "length": "6:14",
+            "deezer": {
+              "id": 2420668795,
+              "link": "https://www.deezer.com/track/2420668795",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/e/0/06e0d1ab8a226b487337b2a63f5e4411.mp3?hdnea=exp=1795721955~acl=/api/1/1/0/6/e/0/06e0d1ab8a226b487337b2a63f5e4411.mp3*~data=user_id=0,application_id=42~hmac=63a1dd5db7c19e0b158a3780a3ae4d3abfe356316b353a17835ae985375de9fe",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Västertorps Hjärta",
+            "length": "5:59",
+            "deezer": {
+              "id": 2420668815,
+              "link": "https://www.deezer.com/track/2420668815",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/a/0/4fade9bd2e032732f5e0f4827840c9ed.mp3?hdnea=exp=1795721955~acl=/api/1/1/4/f/a/0/4fade9bd2e032732f5e0f4827840c9ed.mp3*~data=user_id=0,application_id=42~hmac=ef2d318fa08ab5901e254e9d14debb8d8fbaac5cb5731e50ace3ead570627cc9",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Love in Its Splendor",
+            "length": "6:35",
+            "deezer": {
+              "id": 2420668835,
+              "link": "https://www.deezer.com/track/2420668835",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/8/0/b7840128a40f69e296cf7a6d21877b13.mp3?hdnea=exp=1795721955~acl=/api/1/1/b/7/8/0/b7840128a40f69e296cf7a6d21877b13.mp3*~data=user_id=0,application_id=42~hmac=4cdbbf18e4aeb0e55b36f3ce8a415d05a4917417556487d44a12cebd34a1816f",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Exit Blurred",
+            "length": "3:33",
+            "deezer": {
+              "id": 2420668855,
+              "link": "https://www.deezer.com/track/2420668855",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/d/0/7ad0915e0f3a2953be1cbaa02b96ff72.mp3?hdnea=exp=1795721955~acl=/api/1/1/7/a/d/0/7ad0915e0f3a2953be1cbaa02b96ff72.mp3*~data=user_id=0,application_id=42~hmac=c88b1f21d1568c54c1afc97656665133af27cecfb97dcc83c4434053a63af67a",
+              "preview_expires": "2026-11-26T19:39:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Tonbruket/Light Wood, Dark Strings.png"
+}

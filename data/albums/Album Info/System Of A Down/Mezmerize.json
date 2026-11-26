@@ -1,0 +1,182 @@
+{
+  "title": "Mezmerize",
+  "artist": "System of a Down",
+  "year": 2005,
+  "release_date": "2005-05-16",
+  "type": "Album",
+  "description": "Mezmerize is the fourth studio album by the Armenian-American heavy metal band System of a Down, released on May 17, 2005, by American Recordings and Columbia Records. Upon its release, the album received acclaim from critics. The album sold over 450,000 copies within the first week, and immediately topped the Billboard 200.",
+  "genres": [
+    "alternative metal",
+    "metal",
+    "avant-garde metal",
+    "heavy metal",
+    "thrash metal"
+  ],
+  "tags": [
+    "alternative metal",
+    "metal",
+    "avant-garde metal",
+    "alternative",
+    "avantgarde",
+    "heavy metal",
+    "thrash metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 25
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8d18c070-adea-353f-a089-cbd2543342dd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mezmerize",
+    "allmusic": "https://www.allmusic.com/album/mw0000209577",
+    "discogs": "https://www.discogs.com/master/35665",
+    "wikidata": "https://www.wikidata.org/wiki/Q462427",
+    "deezer": "https://www.deezer.com/album/73123"
+  },
+  "musicbrainz_id": "8d18c070-adea-353f-a089-cbd2543342dd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/62c28f7f-e8e2-4a94-b2bb-e0c77b3364af",
+      "barcode": "827969064825",
+      "title": "Mezmerize",
+      "disambiguation": null,
+      "date": "2005-05-17",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "36:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Soldier Side (intro)",
+            "length": "1:04",
+            "deezer": {
+              "id": 559787,
+              "link": "https://www.deezer.com/track/559787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/9/0/2e94631e1a3f983994006c933c4e0518.mp3?hdnea=exp=1795721146~acl=/api/1/1/2/e/9/0/2e94631e1a3f983994006c933c4e0518.mp3*~data=user_id=0,application_id=42~hmac=21d3ca819aeb1fbf4bd17f3d777bcab8b758f835574f651ad78a77c6dc2ad72f",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "B.Y.O.B.",
+            "length": "4:15",
+            "deezer": {
+              "id": 559789,
+              "link": "https://www.deezer.com/track/559789",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/6/0/9e6bc6855a505c0890cd7bfb37fffba3.mp3?hdnea=exp=1795721146~acl=/api/1/1/9/e/6/0/9e6bc6855a505c0890cd7bfb37fffba3.mp3*~data=user_id=0,application_id=42~hmac=a26963b4a9e7a6b1b7d144fc72b3c244fec2326bdc2556cfa91579182d01167b",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Revenga",
+            "length": "3:48",
+            "deezer": {
+              "id": 559790,
+              "link": "https://www.deezer.com/track/559790",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/2/0/f4209057ed706105c344b103a734146a.mp3?hdnea=exp=1795721146~acl=/api/1/1/f/4/2/0/f4209057ed706105c344b103a734146a.mp3*~data=user_id=0,application_id=42~hmac=dd4243689f7d9e1ac34b3ec22809ebd50772cf7963728091af63d3f0d4a56562",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Cigaro",
+            "length": "2:12",
+            "deezer": {
+              "id": 559788,
+              "link": "https://www.deezer.com/track/559788",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/c/0/9dc33f683c480281521e993e8dd5bd17.mp3?hdnea=exp=1795721146~acl=/api/1/1/9/d/c/0/9dc33f683c480281521e993e8dd5bd17.mp3*~data=user_id=0,application_id=42~hmac=b6ff483ac2d76f62f7d5970e83b09ca8105312db3790ea7a293bb65a34555577",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Radio/Video",
+            "length": "4:09",
+            "deezer": {
+              "id": 559728,
+              "link": "https://www.deezer.com/track/559728",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/6/0/0f6662a9c3b4bf25bedf902619474b4b.mp3?hdnea=exp=1795721146~acl=/api/1/1/0/f/6/0/0f6662a9c3b4bf25bedf902619474b4b.mp3*~data=user_id=0,application_id=42~hmac=e4769b7fc4c74938b13f5bf826e231c598f720f96ff70fe30757ae8d58928756",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "This Cocaine Makes Me Feel Like I’m on This Song",
+            "length": "2:08",
+            "deezer": {
+              "id": 559724,
+              "link": "https://www.deezer.com/track/559724",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c0960877c31d2e70a22731fd59db650.mp3?hdnea=exp=1795721146~acl=/api/1/1/1/c/0/0/1c0960877c31d2e70a22731fd59db650.mp3*~data=user_id=0,application_id=42~hmac=a74e6b643c02d644c127c5f164bfd7911a42b149652c6faa4f7442bf738b72bc",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Violent Pornography",
+            "length": "3:31",
+            "deezer": {
+              "id": 559725,
+              "link": "https://www.deezer.com/track/559725",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/4/0/694b356dc6eb0b5b12365709f1a11c2d.mp3?hdnea=exp=1795721146~acl=/api/1/1/6/9/4/0/694b356dc6eb0b5b12365709f1a11c2d.mp3*~data=user_id=0,application_id=42~hmac=584f760440e9d0082743cbb71e5892ee0a84a7101f0a37be7e79dd3af65a144e",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Question!",
+            "length": "3:21",
+            "deezer": {
+              "id": 559727,
+              "link": "https://www.deezer.com/track/559727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/b/0/02b14db21833b99ace4b482e0edcbf4a.mp3?hdnea=exp=1795721146~acl=/api/1/1/0/2/b/0/02b14db21833b99ace4b482e0edcbf4a.mp3*~data=user_id=0,application_id=42~hmac=61186dda05b2c0a13c6c4f5651e805fbfb5121c89df0ecb7103e8cc9090c1fc5",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sad Statue",
+            "length": "3:26",
+            "deezer": {
+              "id": 559729,
+              "link": "https://www.deezer.com/track/559729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/b/0/9db63e27b58a5e14c1a266786cecb752.mp3?hdnea=exp=1795721146~acl=/api/1/1/9/d/b/0/9db63e27b58a5e14c1a266786cecb752.mp3*~data=user_id=0,application_id=42~hmac=02f6ff775f9298012900901b9e50ee2c3fce5d0908f6705d14790e88e42c5516",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Old School Hollywood",
+            "length": "2:57",
+            "deezer": {
+              "id": 559726,
+              "link": "https://www.deezer.com/track/559726",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/e/0/5bed8badb9ea80182f30cf028140c5fe.mp3?hdnea=exp=1795721146~acl=/api/1/1/5/b/e/0/5bed8badb9ea80182f30cf028140c5fe.mp3*~data=user_id=0,application_id=42~hmac=afa8db3691df531d42885f4d1edebdf77003491b878556c153e97c55dadf57f1",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Lost in Hollywood",
+            "length": "5:21",
+            "deezer": {
+              "id": 559730,
+              "link": "https://www.deezer.com/track/559730",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/3/0/7437501df261e99e53a76c0a457aabde.mp3?hdnea=exp=1795721146~acl=/api/1/1/7/4/3/0/7437501df261e99e53a76c0a457aabde.mp3*~data=user_id=0,application_id=42~hmac=1313d8ffd53b216c4c7a4dfb11be40354001e74a740003684edcf1c2f93fd979",
+              "preview_expires": "2026-11-26T19:25:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/System Of A Down/Mezmerize.jpg"
+}

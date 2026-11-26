@@ -1,0 +1,96 @@
+{
+  "title": "I See You Baby",
+  "artist": "Groove Armada feat. Gram’ma Funk",
+  "year": 1999,
+  "release_date": "1999-11-15",
+  "type": "Single",
+  "description": "\"I See You Baby\" is a song by British duo Groove Armada, featuring Gram'ma Funk on vocals. The song was later remixed by Fatboy Slim, with this latter version appearing in airplay. It was also remixed by Futureshock.",
+  "genres": [
+    "big beat",
+    "house",
+    "electronic",
+    "trip hop",
+    "disco"
+  ],
+  "tags": [
+    "big beat",
+    "house",
+    "electronic",
+    "trip hop",
+    "disco"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/088b00d4-f371-3966-b7e6-530bd0aa76bc",
+    "wikipedia": "https://en.wikipedia.org/wiki/I_See_You_Baby",
+    "discogs": "https://www.discogs.com/master/68806",
+    "wikidata": "https://www.wikidata.org/wiki/Q5978902",
+    "deezer": "https://www.deezer.com/album/1003723331"
+  },
+  "musicbrainz_id": "088b00d4-f371-3966-b7e6-530bd0aa76bc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/107d5bde-61ec-4ab8-85bb-18a05cfb3abf",
+      "barcode": "724389643022",
+      "title": "I See You Baby",
+      "disambiguation": null,
+      "date": "1999",
+      "country": "XE"
+    },
+    "total_tracks": 6,
+    "total_length": "30:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I See You Baby (radio edit)",
+            "length": "4:02",
+            "artist": "Groove Armada featuring Gram’ma Funk",
+            "deezer": {
+              "id": 4081964781,
+              "link": "https://www.deezer.com/track/4081964781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/7/0/b3760ef73762e84b31fdcc271af4825b.mp3?hdnea=exp=1795654788~acl=/api/1/1/b/3/7/0/b3760ef73762e84b31fdcc271af4825b.mp3*~data=user_id=0,application_id=42~hmac=7c3d3b9bf6cbe974a7a231e700f60f9b1cf8ce24a0ffc73d621d2ed52cac77eb",
+              "preview_expires": "2026-11-26T00:59:48Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I See You Baby (LP version)",
+            "length": "4:42",
+            "artist": "Groove Armada featuring Gram’ma Funk"
+          },
+          {
+            "number": "3",
+            "title": "I See You Baby (Fatboy Slim radio edit)",
+            "length": "4:07",
+            "artist": "Groove Armada featuring Gram’ma Funk"
+          },
+          {
+            "number": "4",
+            "title": "I See You Baby (GA Full Frontal mix)",
+            "length": "4:53",
+            "artist": "Groove Armada featuring Gram’ma Funk"
+          },
+          {
+            "number": "5",
+            "title": "I See You Baby (Futureshock Strip Down)",
+            "length": "7:08",
+            "artist": "Groove Armada featuring Gram’ma Funk"
+          },
+          {
+            "number": "6",
+            "title": "I See You Baby (Fatboy Slim remix)",
+            "length": "5:45",
+            "artist": "Groove Armada featuring Gram’ma Funk"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Groove Armada/I See You Baby.jpg"
+}

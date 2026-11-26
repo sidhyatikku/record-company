@@ -1,0 +1,110 @@
+{
+  "title": "LSD and the Search for God",
+  "artist": "LSD and the Search for God",
+  "year": 2007,
+  "release_date": "2007-01-16",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "rock",
+    "shoegaze",
+    "dream pop",
+    "noise pop"
+  ],
+  "tags": [
+    "rock",
+    "shoegaze",
+    "dream pop",
+    "noise pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d5a4b729-16ea-3643-a789-f163d6b6ff61",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/50278",
+    "deezer": "https://www.deezer.com/album/1039383712"
+  },
+  "musicbrainz_id": "d5a4b729-16ea-3643-a789-f163d6b6ff61",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/eecea632-0a7a-4c60-90ce-aafb63dfbf6a",
+      "barcode": "688981076421",
+      "title": "LSD and the Search for God",
+      "disambiguation": null,
+      "date": "2007-01-16",
+      "country": "US"
+    },
+    "total_tracks": 5,
+    "total_length": "22:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "This Time",
+            "length": "3:18",
+            "deezer": {
+              "id": 4180166742,
+              "link": "https://www.deezer.com/track/4180166742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/5/0/d95894ba8850b2e6f7610fbdd360e6ee.mp3?hdnea=exp=1795656666~acl=/api/1/1/d/9/5/0/d95894ba8850b2e6f7610fbdd360e6ee.mp3*~data=user_id=0,application_id=42~hmac=3cd0613992c83a8fab08cff969ceba3ea4c5cf77c1600f987bf739572dbb5d1f",
+              "preview_expires": "2026-11-26T01:31:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Don't Care",
+            "length": "4:02",
+            "deezer": {
+              "id": 4180166752,
+              "link": "https://www.deezer.com/track/4180166752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/2/0/5c25181e1c44b687df0931c4991f3781.mp3?hdnea=exp=1795656666~acl=/api/1/1/5/c/2/0/5c25181e1c44b687df0931c4991f3781.mp3*~data=user_id=0,application_id=42~hmac=9abfba0ee9298405199cc41527ab72752de6fed3f18a92106646f21381a93c0d",
+              "preview_expires": "2026-11-26T01:31:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Backwards",
+            "length": "4:18",
+            "deezer": {
+              "id": 4180166762,
+              "link": "https://www.deezer.com/track/4180166762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/b/0/3eb96518c3d2c632c66669685bc7db2f.mp3?hdnea=exp=1795656666~acl=/api/1/1/3/e/b/0/3eb96518c3d2c632c66669685bc7db2f.mp3*~data=user_id=0,application_id=42~hmac=a752b8dfc9fa18545dc640fbde15223009e326412c0ae4562e45811f8c545a24",
+              "preview_expires": "2026-11-26T01:31:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Starting Over",
+            "length": "5:04",
+            "deezer": {
+              "id": 4180166772,
+              "link": "https://www.deezer.com/track/4180166772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/5/0/8c559bdd6e9702655d275b4d00d53dad.mp3?hdnea=exp=1795656666~acl=/api/1/1/8/c/5/0/8c559bdd6e9702655d275b4d00d53dad.mp3*~data=user_id=0,application_id=42~hmac=8a7aee1865fd5f6b3cb858c5753ed71654ab7a8d0a417b77bb5da5f8c9619c29",
+              "preview_expires": "2026-11-26T01:31:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Starshine",
+            "length": "5:19",
+            "deezer": {
+              "id": 4180166782,
+              "link": "https://www.deezer.com/track/4180166782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/9/0/0d99adb72f25c15e004f3d8ec770db6c.mp3?hdnea=exp=1795656666~acl=/api/1/1/0/d/9/0/0d99adb72f25c15e004f3d8ec770db6c.mp3*~data=user_id=0,application_id=42~hmac=9fdac8905021aadfafac73da5d96488fbe20b332ba8ab948dbc2e070cfeb1029",
+              "preview_expires": "2026-11-26T01:31:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/LSD and the Search for God/LSD and the Search for God.jpg"
+}

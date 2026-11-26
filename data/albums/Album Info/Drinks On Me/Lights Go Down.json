@@ -1,0 +1,51 @@
+{
+  "title": "Lights Go Down",
+  "artist": "Drinks On Me, Why So Low",
+  "year": 2021,
+  "release_date": "2021-01-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage",
+    "bassline",
+    "bass house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1YTS3nXEQvTSKnJK8ccN0C",
+    "deezer": "https://www.deezer.com/album/196107822"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1YTS3nXEQvTSKnJK8ccN0C",
+      "title": "Lights Go Down",
+      "date": "2021-01-22"
+    },
+    "total_tracks": 1,
+    "total_length": "2:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lights Go Down",
+            "length": "2:32",
+            "deezer": {
+              "id": 1191012572,
+              "link": "https://www.deezer.com/track/1191012572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/9/0/f49c2c348d121f312acda8b59944e397.mp3?hdnea=exp=1795653724~acl=/api/1/1/f/4/9/0/f49c2c348d121f312acda8b59944e397.mp3*~data=user_id=0,application_id=42~hmac=80882a83ce0f13a15f67f966b9d5931a8db783f85204b358a9a71fc8baffd5bd",
+              "preview_expires": "2026-11-26T00:42:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Drinks On Me/Lights Go Down.jpg"
+}

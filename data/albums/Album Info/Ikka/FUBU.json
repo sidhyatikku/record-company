@@ -1,0 +1,100 @@
+{
+  "title": "FUBU",
+  "artist": "Ikka",
+  "year": 2025,
+  "release_date": "2025-08-11",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6ead900f-52cb-4629-a095-53b45dff15c4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/799703501"
+  },
+  "musicbrainz_id": "6ead900f-52cb-4629-a095-53b45dff15c4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2a1ad8a5-73c9-4475-8885-454378b9f573",
+      "barcode": "8903431111852",
+      "title": "FUBU",
+      "disambiguation": null,
+      "date": "2025-08-11",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "15:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "FUBU",
+            "length": "2:19",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3492826791,
+              "link": "https://www.deezer.com/track/3492826791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/b/0/57bd813e2e4c27e018273513ed4f928d.mp3?hdnea=exp=1795655178~acl=/api/1/1/5/7/b/0/57bd813e2e4c27e018273513ed4f928d.mp3*~data=user_id=0,application_id=42~hmac=a450db90e4590473fe3599a44968be8980978258afcd22991ccdbf53e57cb237",
+              "preview_expires": "2026-11-26T01:06:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ambulance",
+            "length": "3:02",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3492826801,
+              "link": "https://www.deezer.com/track/3492826801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/7/0/0a744c4cfcc8faf2c559d3af6ee5d1bd.mp3?hdnea=exp=1795655178~acl=/api/1/1/0/a/7/0/0a744c4cfcc8faf2c559d3af6ee5d1bd.mp3*~data=user_id=0,application_id=42~hmac=26a12c19addc07fc96f332d425c6586cf96d530a467519f5d765a96b9070c006",
+              "preview_expires": "2026-11-26T01:06:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dogs & Snakes",
+            "length": "2:55",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3492826811,
+              "link": "https://www.deezer.com/track/3492826811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/2/0/032f5e0cb99dea780f0fca6b66343907.mp3?hdnea=exp=1795655178~acl=/api/1/1/0/3/2/0/032f5e0cb99dea780f0fca6b66343907.mp3*~data=user_id=0,application_id=42~hmac=93dc59003c8dbb1a2d66e7be41c348c9563c0f4bdf5a7e5ab1acf3295575bce4",
+              "preview_expires": "2026-11-26T01:06:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Art Samajh Aata Nahi",
+            "length": "3:35",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3492826821,
+              "link": "https://www.deezer.com/track/3492826821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/d/0/a5dcc7a7bbde8f72615c8bb60d342d43.mp3?hdnea=exp=1795655178~acl=/api/1/1/a/5/d/0/a5dcc7a7bbde8f72615c8bb60d342d43.mp3*~data=user_id=0,application_id=42~hmac=259c3fb3fa4b43b49308f707c55fcd7cbf337f59382288f9bd500b77a8522e55",
+              "preview_expires": "2026-11-26T01:06:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sunta Hoon Rawal",
+            "length": "3:11",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3492826831,
+              "link": "https://www.deezer.com/track/3492826831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/e/0/89e42e9aca1c1f83a9d7d44b5970bae1.mp3?hdnea=exp=1795655178~acl=/api/1/1/8/9/e/0/89e42e9aca1c1f83a9d7d44b5970bae1.mp3*~data=user_id=0,application_id=42~hmac=7c4e8e652cdc763a409740234bf73003d020b89e980e17b69f7a9ca4599ef3a6",
+              "preview_expires": "2026-11-26T01:06:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Ikka/FUBU.jpg"
+}

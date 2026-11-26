@@ -1,0 +1,62 @@
+{
+  "title": "Rasputin",
+  "artist": "Majestic x Boney M.",
+  "year": 2021,
+  "release_date": "2021-02-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance",
+    "pop"
+  ],
+  "tags": [
+    "dance",
+    "disco house",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d0e542f7-3295-4541-97be-88a82920417c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/207384052"
+  },
+  "musicbrainz_id": "d0e542f7-3295-4541-97be-88a82920417c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5586677e-19d6-46ea-9acf-691a49cac1fa",
+      "barcode": "886449096350",
+      "title": "Rasputin",
+      "disambiguation": null,
+      "date": "2021-02-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rasputin",
+            "length": "3:06",
+            "deezer": {
+              "id": 1242670642,
+              "link": "https://www.deezer.com/track/1242670642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/9/0/3a9e99640907e78c48a74c9febe83036.mp3?hdnea=exp=1795718187~acl=/api/1/1/3/a/9/0/3a9e99640907e78c48a74c9febe83036.mp3*~data=user_id=0,application_id=42~hmac=9ad730d339e9e65cc99ecfce3372697591a020ea289aec9131c070006a151a00",
+              "preview_expires": "2026-11-26T18:36:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Majestic/Rasputin.jpg"
+}

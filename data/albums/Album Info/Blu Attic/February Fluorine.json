@@ -1,0 +1,61 @@
+{
+  "title": "February Fluorine",
+  "artist": "Blu Attic",
+  "year": 2022,
+  "release_date": "2022-10-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6qo6p6XPsnmtYDsFkJ2jV0",
+    "deezer": "https://www.deezer.com/album/547720052"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6qo6p6XPsnmtYDsFkJ2jV0",
+      "title": "February Fluorine",
+      "date": "2022-10-07"
+    },
+    "total_tracks": 2,
+    "total_length": "11:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "February Fluorine",
+            "length": "4:34",
+            "deezer": {
+              "id": 2662032482,
+              "link": "https://www.deezer.com/track/2662032482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/f/0/1df721cfb5e4714b30ca390a710de53a.mp3?hdnea=exp=1795652242~acl=/api/1/1/1/d/f/0/1df721cfb5e4714b30ca390a710de53a.mp3*~data=user_id=0,application_id=42~hmac=48a65cacde954eab17b57a21e7fcf955a4bb513def5cf0a38547e280be6af77e",
+              "preview_expires": "2026-11-26T00:17:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "February Fluorine - Extended Mix",
+            "length": "7:22",
+            "deezer": {
+              "id": 2662032512,
+              "link": "https://www.deezer.com/track/2662032512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/9/0/86963b5104173b10ebc5a870fa3048f4.mp3?hdnea=exp=1795652242~acl=/api/1/1/8/6/9/0/86963b5104173b10ebc5a870fa3048f4.mp3*~data=user_id=0,application_id=42~hmac=456e3dafa1853e052f4241ec709cfb70fdb2d66d4d5115fb92ed85808d09cd6a",
+              "preview_expires": "2026-11-26T00:17:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Blu Attic/February Fluorine.jpg"
+}

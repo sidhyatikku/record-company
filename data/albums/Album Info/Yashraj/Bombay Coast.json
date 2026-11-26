@@ -1,0 +1,52 @@
+{
+  "title": "Bombay Coast",
+  "artist": "Yashraj, MLHVR & Adil",
+  "year": 2023,
+  "release_date": "2023-04-28",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f5aff109-583d-42df-aba8-79fdc0314ae9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/500230181"
+  },
+  "musicbrainz_id": "f5aff109-583d-42df-aba8-79fdc0314ae9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d8f442c8-f15f-49be-a07a-2a37fce3fa04",
+      "barcode": "00602458714180",
+      "title": "Bombay Coast",
+      "disambiguation": null,
+      "date": "2023-04-28",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bombay Coast",
+            "length": "3:08",
+            "artist": "Yashraj, MLHVR, Adil & Deorachit",
+            "deezer": {
+              "id": 2498890471,
+              "link": "https://www.deezer.com/track/2498890471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/f/0/67f0b6174599cd5ce9c1ab8bd369c7c6.mp3?hdnea=exp=1795724441~acl=/api/1/1/6/7/f/0/67f0b6174599cd5ce9c1ab8bd369c7c6.mp3*~data=user_id=0,application_id=42~hmac=83c6090526be547677f4cf1cdd6a7f01a871eb7cfcdfae5a0b34dec697f29136",
+              "preview_expires": "2026-11-26T20:20:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yashraj/Bombay Coast.jpg"
+}

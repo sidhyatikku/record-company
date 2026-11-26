@@ -1,0 +1,117 @@
+{
+  "title": "Still Rollin",
+  "artist": "Shubh",
+  "year": 2023,
+  "release_date": "2023-05-19",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/15b68353-676e-4b81-a867-4ddc6db4f948",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/441003677"
+  },
+  "musicbrainz_id": "15b68353-676e-4b81-a867-4ddc6db4f948",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/84dc1347-f56f-40a0-8d63-53e4da15618b",
+      "barcode": "197188915704",
+      "title": "Still Rollin",
+      "disambiguation": null,
+      "date": "2023-05-19",
+      "country": "IN"
+    },
+    "total_tracks": 7,
+    "total_length": "21:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Still Rollin",
+            "length": "3:19",
+            "deezer": {
+              "id": 2282321197,
+              "link": "https://www.deezer.com/track/2282321197",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/b/0/66b56fe82081734337fb455ee0a37399.mp3?hdnea=exp=1795720553~acl=/api/1/1/6/6/b/0/66b56fe82081734337fb455ee0a37399.mp3*~data=user_id=0,application_id=42~hmac=a8005ddea07e73c4405ec226bbd11a0a622985e587fb18b0ebcec5386ba72808",
+              "preview_expires": "2026-11-26T19:15:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ice",
+            "length": "2:54",
+            "deezer": {
+              "id": 2282321207,
+              "link": "https://www.deezer.com/track/2282321207",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/1/0/f416c5a32904f817141c0e5d88a3ce6c.mp3?hdnea=exp=1795720553~acl=/api/1/1/f/4/1/0/f416c5a32904f817141c0e5d88a3ce6c.mp3*~data=user_id=0,application_id=42~hmac=c78772fe67bed392a2a4d16f858adf55d8560d81a0d643520be66fdd25e1ad4b",
+              "preview_expires": "2026-11-26T19:15:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Cheques",
+            "length": "3:03",
+            "deezer": {
+              "id": 2282321217,
+              "link": "https://www.deezer.com/track/2282321217",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/a/0/8faa82eaee92a1cb9538ac58c25b2195.mp3?hdnea=exp=1795720553~acl=/api/1/1/8/f/a/0/8faa82eaee92a1cb9538ac58c25b2195.mp3*~data=user_id=0,application_id=42~hmac=e990dbf91902dfb90fbb6420173f9ae821d857370910f2f5d65bcc8723b11cc1",
+              "preview_expires": "2026-11-26T19:15:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "OG",
+            "length": "3:17",
+            "deezer": {
+              "id": 2282321227,
+              "link": "https://www.deezer.com/track/2282321227",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/6/0/fb69e559f335e75782ad39f74da5429e.mp3?hdnea=exp=1795720553~acl=/api/1/1/f/b/6/0/fb69e559f335e75782ad39f74da5429e.mp3*~data=user_id=0,application_id=42~hmac=b010009c12fa7143531409e8a50be05753ca0f850839f0fc8ee94e227cdaee63",
+              "preview_expires": "2026-11-26T19:15:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ruthless",
+            "length": "3:24",
+            "deezer": {
+              "id": 2282321237,
+              "link": "https://www.deezer.com/track/2282321237",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/6/0/4566644cd5655b660a1b7fff322c9285.mp3?hdnea=exp=1795720553~acl=/api/1/1/4/5/6/0/4566644cd5655b660a1b7fff322c9285.mp3*~data=user_id=0,application_id=42~hmac=2470a66a93ce73e693a5bd72315292f7b927c581f225b925fb78e6f9da670159",
+              "preview_expires": "2026-11-26T19:15:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dior",
+            "length": "2:19",
+            "deezer": {
+              "id": 2282321247,
+              "link": "https://www.deezer.com/track/2282321247",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/6/0/706c978d3baf526baa90e97a03b793af.mp3?hdnea=exp=1795720553~acl=/api/1/1/7/0/6/0/706c978d3baf526baa90e97a03b793af.mp3*~data=user_id=0,application_id=42~hmac=14acf72517e7245b2f95c5fc501148d7bb9fcbd6e2a0b79e5125e13ed9c7aaac",
+              "preview_expires": "2026-11-26T19:15:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Flow (Outro)",
+            "length": "2:53",
+            "deezer": {
+              "id": 2282321257,
+              "link": "https://www.deezer.com/track/2282321257",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd2f01933e350301185cfd4b83aa3aa2.mp3?hdnea=exp=1795720553~acl=/api/1/1/d/d/2/0/dd2f01933e350301185cfd4b83aa3aa2.mp3*~data=user_id=0,application_id=42~hmac=6ac25f7d74694eac46576a263c2bf5ebd44cd50ad316285d669e8f970b777802",
+              "preview_expires": "2026-11-26T19:15:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Shubh/Still Rollin.jpg"
+}

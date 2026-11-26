@@ -1,0 +1,52 @@
+{
+  "title": "Brown Baddie",
+  "artist": "Jasmine Sandlas, Raga, Hashbass",
+  "year": 2025,
+  "release_date": "2025-07-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "desi",
+    "punjabi pop",
+    "bollywood"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2mTYckRlK0eXylewmpvP90",
+    "deezer": "https://www.deezer.com/album/1065176271"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2mTYckRlK0eXylewmpvP90",
+      "title": "Brown Baddie",
+      "date": "2025-07-08"
+    },
+    "total_tracks": 1,
+    "total_length": "2:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Brown Baddie",
+            "length": "2:36",
+            "deezer": {
+              "id": 4251608941,
+              "link": "https://www.deezer.com/track/4251608941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/c/0/b9cbfe14fecd4fdac6a205c2ec2b5fe6.mp3?hdnea=exp=1795655438~acl=/api/1/1/b/9/c/0/b9cbfe14fecd4fdac6a205c2ec2b5fe6.mp3*~data=user_id=0,application_id=42~hmac=20f787af8eec626f5f884e158a7b979a7d5dabdb867adcf8aba06b60df52c108",
+              "preview_expires": "2026-11-26T01:10:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Jasmine Sandlas/Brown Baddie.jpg"
+}

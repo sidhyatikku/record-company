@@ -1,0 +1,129 @@
+{
+  "title": "all my exes live in brooklyn",
+  "artist": "jigitz",
+  "year": 2025,
+  "release_date": "2025-07-25",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ed566af4-5031-4fa5-b18e-884ac4c40275",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/772305411"
+  },
+  "musicbrainz_id": "ed566af4-5031-4fa5-b18e-884ac4c40275",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b8d1304d-1649-4e79-a2ed-b3eb7305ba00",
+      "barcode": "198704559631",
+      "title": "all my exes live in brooklyn",
+      "disambiguation": null,
+      "date": "2025-07-25",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "18:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "leave",
+            "length": "0:49",
+            "deezer": {
+              "id": 3414042331,
+              "link": "https://www.deezer.com/track/3414042331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/5/0/5c51294993d5f1175baddc9ddcfec543.mp3?hdnea=exp=1795655603~acl=/api/1/1/5/c/5/0/5c51294993d5f1175baddc9ddcfec543.mp3*~data=user_id=0,application_id=42~hmac=ac1fbf6071bab58c000b5216e70b5affdec23ec6187c621e3689971f56990e56",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "tell you straight",
+            "length": "2:05",
+            "deezer": {
+              "id": 3414042341,
+              "link": "https://www.deezer.com/track/3414042341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/0/0/590a3874469cc9abc60f7ca0b299b605.mp3?hdnea=exp=1795655603~acl=/api/1/1/5/9/0/0/590a3874469cc9abc60f7ca0b299b605.mp3*~data=user_id=0,application_id=42~hmac=b0666997a9b89d16125515eb8352107f6627c3cefb331dd82ef9a27be8ff0619",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "pressure",
+            "length": "2:42",
+            "deezer": {
+              "id": 3414042351,
+              "link": "https://www.deezer.com/track/3414042351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/5/0/7e5cc18152faea5fda04d3e9509009ca.mp3?hdnea=exp=1795655603~acl=/api/1/1/7/e/5/0/7e5cc18152faea5fda04d3e9509009ca.mp3*~data=user_id=0,application_id=42~hmac=7cc52049202515eb9209e3a26e8b9b6eb3f6e0265eef2746ab2eb60a1102c6de",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "let me go* pt 2",
+            "length": "2:47",
+            "deezer": {
+              "id": 3414042361,
+              "link": "https://www.deezer.com/track/3414042361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/c/0/d5c61d3c28d0eac19e8e1dd06d1c5db4.mp3?hdnea=exp=1795655603~acl=/api/1/1/d/5/c/0/d5c61d3c28d0eac19e8e1dd06d1c5db4.mp3*~data=user_id=0,application_id=42~hmac=514b06f1ea11efb72084b774e774862da5e43f3a3560bee945962a5db17b70c7",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "dollaz n dollaz",
+            "length": "2:25",
+            "artist": "jigitz & Lay Bankz",
+            "deezer": {
+              "id": 3414042371,
+              "link": "https://www.deezer.com/track/3414042371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/d/0/c5da3e67cd4c2687868019c0b73296fb.mp3?hdnea=exp=1795655603~acl=/api/1/1/c/5/d/0/c5da3e67cd4c2687868019c0b73296fb.mp3*~data=user_id=0,application_id=42~hmac=33bf7c6fa95262897cd01c440949a487f6e1a4075d8b74c905e71187a4998af7",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "say you'll never leave",
+            "length": "2:47",
+            "deezer": {
+              "id": 3414042381,
+              "link": "https://www.deezer.com/track/3414042381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/0/0/d70e414769e83db4ffc5f623af86f622.mp3?hdnea=exp=1795655603~acl=/api/1/1/d/7/0/0/d70e414769e83db4ffc5f623af86f622.mp3*~data=user_id=0,application_id=42~hmac=46b161acbb4a34f2f3c464e025299aaf61a0063ae69d1b2adaf81ae863e836d3",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "make believe",
+            "length": "2:17",
+            "deezer": {
+              "id": 3414042391,
+              "link": "https://www.deezer.com/track/3414042391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/b/0/b0b026833975970b556296bfd70981ce.mp3?hdnea=exp=1795655603~acl=/api/1/1/b/0/b/0/b0b026833975970b556296bfd70981ce.mp3*~data=user_id=0,application_id=42~hmac=d150e5c39df6d6afa0fe01848558f360f54cbb178a5291c6a02f8677d2543a47",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "free myself",
+            "length": "2:48",
+            "deezer": {
+              "id": 3414042401,
+              "link": "https://www.deezer.com/track/3414042401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/6/0/d5602b20425e3317f5ff52536149a84a.mp3?hdnea=exp=1795655603~acl=/api/1/1/d/5/6/0/d5602b20425e3317f5ff52536149a84a.mp3*~data=user_id=0,application_id=42~hmac=ce269cb4d1f49c1db40bfaa1d4897115f76a44d9f239a9d91cc6cd84637c94d9",
+              "preview_expires": "2026-11-26T01:13:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/jigitz/all my exes live in brooklyn.jpg"
+}

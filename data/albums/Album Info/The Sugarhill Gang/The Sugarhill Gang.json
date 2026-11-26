@@ -1,0 +1,124 @@
+{
+  "title": "Sugarhill Gang",
+  "artist": "The Sugarhill Gang",
+  "year": 1980,
+  "release_date": "1980",
+  "type": "Album",
+  "description": "Sugarhill Gang is the self-titled debut album by the rap group the Sugarhill Gang. It is considered to be the first hip hop studio album, leading to more studio albums by other rappers.",
+  "genres": [
+    "disco",
+    "funk",
+    "hip hop",
+    "east coast hip hop",
+    "soul"
+  ],
+  "tags": [
+    "disco",
+    "funk",
+    "hip hop",
+    "disco rap",
+    "east coast hip hop",
+    "funk soul",
+    "soul"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/51302e56-54ce-35d8-9ec6-66926dc8054f",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugarhill_Gang_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000067810",
+    "discogs": "https://www.discogs.com/master/124359",
+    "wikidata": "https://www.wikidata.org/wiki/Q1132705",
+    "deezer": "https://www.deezer.com/album/1345760"
+  },
+  "musicbrainz_id": "51302e56-54ce-35d8-9ec6-66926dc8054f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c6d86183-bd8f-4ea5-bf47-062894931515",
+      "barcode": "081227856960",
+      "title": "The Sugarhill Gang",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 6,
+    "total_length": "40:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Here I Am",
+            "length": "5:17",
+            "deezer": {
+              "id": 14619496,
+              "link": "https://www.deezer.com/track/14619496",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/5/0/5e55ec258405afe682e01011b498b5f1.mp3?hdnea=exp=1795721795~acl=/api/1/1/5/e/5/0/5e55ec258405afe682e01011b498b5f1.mp3*~data=user_id=0,application_id=42~hmac=3b647d0ff5ae94ef9bdc8956ae6a82ba190556a3e0e169b7c1af6c4543d303b8",
+              "preview_expires": "2026-11-26T19:36:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rapper's Reprise",
+            "length": "7:52",
+            "artist": "The Sugarhill Gang - The Sequence",
+            "deezer": {
+              "id": 14619497,
+              "link": "https://www.deezer.com/track/14619497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/d/0/36d910da2dd5e89d4a9761dc343846b8.mp3?hdnea=exp=1795721795~acl=/api/1/1/3/6/d/0/36d910da2dd5e89d4a9761dc343846b8.mp3*~data=user_id=0,application_id=42~hmac=26dcbe4736f7526b317b63115f4e39df19c43fcc01197d040e1d11bbf84f67da",
+              "preview_expires": "2026-11-26T19:36:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bad News (Don't Bother Me)",
+            "length": "6:49",
+            "deezer": {
+              "id": 14619498,
+              "link": "https://www.deezer.com/track/14619498",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/6/0/6a671bf7de9c31ac1966360bfed870d8.mp3?hdnea=exp=1795721795~acl=/api/1/1/6/a/6/0/6a671bf7de9c31ac1966360bfed870d8.mp3*~data=user_id=0,application_id=42~hmac=1ccadb5da162f758bcc874e1dc4058f7f84577af5d1cd79d130c5f6c38dd6085",
+              "preview_expires": "2026-11-26T19:36:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sugarhill Groove",
+            "length": "9:45",
+            "deezer": {
+              "id": 14619499,
+              "link": "https://www.deezer.com/track/14619499",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/2/0/9f2a60c17c0eca17f84ac13348c42c1e.mp3?hdnea=exp=1795721795~acl=/api/1/1/9/f/2/0/9f2a60c17c0eca17f84ac13348c42c1e.mp3*~data=user_id=0,application_id=42~hmac=71e50b8019b1b894fe76528e54d916f7a7edd6b2bb92b3c9ce35577fe3134e3a",
+              "preview_expires": "2026-11-26T19:36:35Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Passion Play",
+            "length": "5:14",
+            "deezer": {
+              "id": 14619500,
+              "link": "https://www.deezer.com/track/14619500",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/1/0/c11b7ccb285a00f8848c933b5e173b9c.mp3?hdnea=exp=1795721795~acl=/api/1/1/c/1/1/0/c11b7ccb285a00f8848c933b5e173b9c.mp3*~data=user_id=0,application_id=42~hmac=d7fb1436bc71936064c5a625dcd140b1a410ea855f9ee6c1935c487fd6fbc3cd",
+              "preview_expires": "2026-11-26T19:36:35Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rapper's Delight (7\" single version)",
+            "length": "5:05",
+            "deezer": {
+              "id": 14619501,
+              "link": "https://www.deezer.com/track/14619501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/4/0/b9474ee549b61d6caaf2a6de8099736c.mp3?hdnea=exp=1795721795~acl=/api/1/1/b/9/4/0/b9474ee549b61d6caaf2a6de8099736c.mp3*~data=user_id=0,application_id=42~hmac=3e129646ece422c16ed1891e135d1379eff19b0625c4d421e23a15a8b3eeb616",
+              "preview_expires": "2026-11-26T19:36:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Sugarhill Gang/The Sugarhill Gang.jpg"
+}

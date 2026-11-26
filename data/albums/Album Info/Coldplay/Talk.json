@@ -1,0 +1,90 @@
+{
+  "title": "Talk",
+  "artist": "Coldplay",
+  "year": 2005,
+  "release_date": "2005-12-02",
+  "type": "Single",
+  "description": "\"Talk\" is a song by the British rock band Coldplay. Built around a motif from Kraftwerk's 1981 song \"Computer Love\", it was written by all members of the band and appeared on their third album, X&Y. In the United States, the song entered at number 86 on the Billboard Hot 100 and elsewhere in the world its success varied. It peaked at number one in the Netherlands on both the Dutch Top 40 and Single Top 100 charts, becoming the band's first number-one single there.",
+  "genres": [
+    "pop rock",
+    "rock",
+    "alternative rock",
+    "electronic"
+  ],
+  "tags": [
+    "pop rock",
+    "rock",
+    "alternative rock",
+    "electronic",
+    "remix"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2cc618bc-da20-38d5-bb0b-838b8ef829d0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talk_(Coldplay_song)",
+    "discogs": "https://www.discogs.com/master/26872",
+    "wikidata": "https://www.wikidata.org/wiki/Q76163433",
+    "deezer": "https://www.deezer.com/album/112545552"
+  },
+  "musicbrainz_id": "2cc618bc-da20-38d5-bb0b-838b8ef829d0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/15e0e484-0061-41d6-ac8d-cec92e9063fb",
+      "barcode": "0094635073553",
+      "title": "Talk",
+      "disambiguation": null,
+      "date": "2005-12-19",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "13:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Talk (radio edit)",
+            "length": "4:26",
+            "deezer": {
+              "id": 762710492,
+              "link": "https://www.deezer.com/track/762710492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/6/0/de65db4c6d1adf80f0ad0cfc05d04245.mp3?hdnea=exp=1795652908~acl=/api/1/1/d/e/6/0/de65db4c6d1adf80f0ad0cfc05d04245.mp3*~data=user_id=0,application_id=42~hmac=bd78a6d4ea306aa3a803556ad1002d013266d64178a359afe869172ef8dbf044",
+              "preview_expires": "2026-11-26T00:28:28Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sleeping Sun",
+            "length": "3:11",
+            "deezer": {
+              "id": 762710502,
+              "link": "https://www.deezer.com/track/762710502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/d/0/4adfd9d222ca6f58bec95a63a2a24a0b.mp3?hdnea=exp=1795652908~acl=/api/1/1/4/a/d/0/4adfd9d222ca6f58bec95a63a2a24a0b.mp3*~data=user_id=0,application_id=42~hmac=2cca632eff975ee8e3b69020f269da375610ac73e8ac53fdffd497693503b4df",
+              "preview_expires": "2026-11-26T00:28:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gravity",
+            "length": "6:21",
+            "deezer": {
+              "id": 762710512,
+              "link": "https://www.deezer.com/track/762710512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2dc3337a135df46006c7c1a1cb466f2.mp3?hdnea=exp=1795652908~acl=/api/1/1/f/2/d/0/f2dc3337a135df46006c7c1a1cb466f2.mp3*~data=user_id=0,application_id=42~hmac=8cc17ea94380a8912444d69afe825a17be04a52a0d5f5f41df0c931cd3540a0e",
+              "preview_expires": "2026-11-26T00:28:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Coldplay/Talk.jpg"
+}

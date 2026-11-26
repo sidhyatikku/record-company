@@ -1,0 +1,76 @@
+{
+  "title": "Sandesha",
+  "artist": "Hardbone boy",
+  "year": 2024,
+  "release_date": "2024-09-28",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ab4b22b3-8ae1-4608-b234-7d8fd44d5fb8",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/642871651"
+  },
+  "musicbrainz_id": "ab4b22b3-8ae1-4608-b234-7d8fd44d5fb8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e654dc34-367d-4232-ab4c-67f1db21bac4",
+      "barcode": "198846352671",
+      "title": "Sandesha",
+      "disambiguation": null,
+      "date": "2024-09-28",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "7:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kahan pe?",
+            "length": "2:26",
+            "artist": "Hardbone boy & Major!",
+            "deezer": {
+              "id": 2993547101,
+              "link": "https://www.deezer.com/track/2993547101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/2/0/1328772d1e18e8ac41c0342922b69dc0.mp3?hdnea=exp=1795654998~acl=/api/1/1/1/3/2/0/1328772d1e18e8ac41c0342922b69dc0.mp3*~data=user_id=0,application_id=42~hmac=82cb0012cc5b23cfba52707d39377674758371f1d572164f39189cd1112e23a8",
+              "preview_expires": "2026-11-26T01:03:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dekha!",
+            "length": "2:22",
+            "artist": "Hardbone boy & SINASH",
+            "deezer": {
+              "id": 2993547111,
+              "link": "https://www.deezer.com/track/2993547111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/c/0/2ccc37638b2d55dd240c7de6615931dd.mp3?hdnea=exp=1795654998~acl=/api/1/1/2/c/c/0/2ccc37638b2d55dd240c7de6615931dd.mp3*~data=user_id=0,application_id=42~hmac=7892323f4f8f4138262674e1f42872010ff847bd3ff59e83d51a33756a9265be",
+              "preview_expires": "2026-11-26T01:03:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hatasha.",
+            "length": "2:46",
+            "artist": "Hardbone boy & SINASH",
+            "deezer": {
+              "id": 2993547121,
+              "link": "https://www.deezer.com/track/2993547121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/0/0/7708892518d5f47ee5103d9843a84835.mp3?hdnea=exp=1795654998~acl=/api/1/1/7/7/0/0/7708892518d5f47ee5103d9843a84835.mp3*~data=user_id=0,application_id=42~hmac=0a9f47199a7b4e8ceea9c36b6b0d328d89c6cbde65871dfa3090105e43cb58b7",
+              "preview_expires": "2026-11-26T01:03:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Hardbone boy/Sandesha.jpg"
+}

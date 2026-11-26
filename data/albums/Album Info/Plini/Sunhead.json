@@ -1,0 +1,95 @@
+{
+  "title": "Sunhead",
+  "artist": "Plini",
+  "year": 2018,
+  "release_date": "2018-07-27",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "jazz",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "fusion",
+    "jazz",
+    "progressive metal",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6d6a1168-f6c3-46c5-ab68-dc09a4ccdb42",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003206484",
+    "discogs": "https://www.discogs.com/master/1478299",
+    "deezer": "https://www.deezer.com/album/221642322"
+  },
+  "musicbrainz_id": "6d6a1168-f6c3-46c5-ab68-dc09a4ccdb42",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b0d451e4-2b32-4aca-8151-517ea56d6bb1",
+      "barcode": "859727638580",
+      "title": "Sunhead",
+      "disambiguation": null,
+      "date": "2018-07-27",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "20:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kind",
+            "length": "4:00",
+            "deezer": {
+              "id": 1333998522,
+              "link": "https://www.deezer.com/track/1333998522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/0/0/5d08747be31fa0716bf9b128dd03e706.mp3?hdnea=exp=1795719571~acl=/api/1/1/5/d/0/0/5d08747be31fa0716bf9b128dd03e706.mp3*~data=user_id=0,application_id=42~hmac=f6edc39b5a21c662d8722c3044f5d6f9a87515a39527aa0a4ee4b98424e06136",
+              "preview_expires": "2026-11-26T18:59:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Salt + Charcoal",
+            "length": "4:30",
+            "deezer": {
+              "id": 1333998532,
+              "link": "https://www.deezer.com/track/1333998532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/e/0/42e919fabff42182127dbb87c6616585.mp3?hdnea=exp=1795719571~acl=/api/1/1/4/2/e/0/42e919fabff42182127dbb87c6616585.mp3*~data=user_id=0,application_id=42~hmac=cd3b73127698487f05e513d7c36dd2cd819d00d58f317521254f43367a727ba0",
+              "preview_expires": "2026-11-26T18:59:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Flâneur",
+            "length": "6:00",
+            "deezer": {
+              "id": 1333998542,
+              "link": "https://www.deezer.com/track/1333998542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/f/0/dafa60166928902be313d63bdf858e09.mp3?hdnea=exp=1795719571~acl=/api/1/1/d/a/f/0/dafa60166928902be313d63bdf858e09.mp3*~data=user_id=0,application_id=42~hmac=3eb5e82c7ba9fbc85ad75c09031fb2893fbe8bb391690395a94f388e67b8e98a",
+              "preview_expires": "2026-11-26T18:59:31Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sunhead",
+            "length": "5:30",
+            "deezer": {
+              "id": 1333998552,
+              "link": "https://www.deezer.com/track/1333998552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/7/0/44703b7a8a66e9395d73f71816f022b0.mp3?hdnea=exp=1795719571~acl=/api/1/1/4/4/7/0/44703b7a8a66e9395d73f71816f022b0.mp3*~data=user_id=0,application_id=42~hmac=e1e71e0de40b9f2760accb35b03504afa1aa40188e75683888981ed78d67da8d",
+              "preview_expires": "2026-11-26T18:59:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Plini/Sunhead.jpg"
+}

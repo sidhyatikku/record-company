@@ -1,0 +1,51 @@
+{
+  "title": "Sundown",
+  "artist": "Biscits",
+  "year": 2020,
+  "release_date": "2020-04-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/23ebcb37-91fc-4ba4-8a11-549d37741e1e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/508631211"
+  },
+  "musicbrainz_id": "23ebcb37-91fc-4ba4-8a11-549d37741e1e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/24c6f318-fd40-47a6-ae64-4659d9e9771c",
+      "barcode": "9355974144818",
+      "title": "Sundown",
+      "disambiguation": null,
+      "date": "2020-04-17",
+      "country": "AU"
+    },
+    "total_tracks": 1,
+    "total_length": "3:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sundown",
+            "length": "3:31",
+            "deezer": {
+              "id": 2527724461,
+              "link": "https://www.deezer.com/track/2527724461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/8/0/948ad59de486a82dc1f465604897c1ce.mp3?hdnea=exp=1795652066~acl=/api/1/1/9/4/8/0/948ad59de486a82dc1f465604897c1ce.mp3*~data=user_id=0,application_id=42~hmac=cfb3a7a8ffdbf83eb507a5bcf873e6a7fd55114666d9ce47f39164da189fbbaa",
+              "preview_expires": "2026-11-26T00:14:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Biscits/Sundown.jpg"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Yosemite",
+  "artist": "KETTAMA & Interplanetary Criminal",
+  "year": 2024,
+  "release_date": "2024-12-13",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/663669aa-731a-4659-a4c8-6a4d295bb54e",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0004448673",
+    "deezer": "https://www.deezer.com/album/792270461"
+  },
+  "musicbrainz_id": "663669aa-731a-4659-a4c8-6a4d295bb54e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/647a0fbe-b16a-4ac3-9818-967ff5cfe5c8",
+      "barcode": "044003438026",
+      "title": "Yosemite",
+      "disambiguation": null,
+      "date": "2024-12-13",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yosemite",
+            "length": "4:26",
+            "deezer": {
+              "id": 3472405361,
+              "link": "https://www.deezer.com/track/3472405361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/a/0/8ba522075649f24e314af4644bcd1256.mp3?hdnea=exp=1795656143~acl=/api/1/1/8/b/a/0/8ba522075649f24e314af4644bcd1256.mp3*~data=user_id=0,application_id=42~hmac=efd8a501788acc79644c3ef00250ffda2d0520e8400e3a7525bbd4b11ac0cbf7",
+              "preview_expires": "2026-11-26T01:22:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/KETTAMA/Yosemite.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Galat Launda",
+  "artist": "Fotty Seven",
+  "year": 2019,
+  "release_date": "2019-08-30",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3EWbKyCtC6R2sIoQFc9ZHm",
+    "deezer": "https://www.deezer.com/album/109547392"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3EWbKyCtC6R2sIoQFc9ZHm",
+      "title": "Galat Launda",
+      "date": "2019-08-30"
+    },
+    "total_tracks": 1,
+    "total_length": "2:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Galat Launda",
+            "length": "2:21",
+            "artist": "Fotty Seven, MojoJojo",
+            "deezer": {
+              "id": 743811712,
+              "link": "https://www.deezer.com/track/743811712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/e/0/8fe2f9f9d3d9f8e1b99afb38f76a0716.mp3?hdnea=exp=1795654318~acl=/api/1/1/8/f/e/0/8fe2f9f9d3d9f8e1b99afb38f76a0716.mp3*~data=user_id=0,application_id=42~hmac=8ae21a6748a70b37b9fdb23922026ae9607ab0235ca33638a7865134f219a67d",
+              "preview_expires": "2026-11-26T00:51:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Fotty Seven/Galat Launda.jpg"
+}

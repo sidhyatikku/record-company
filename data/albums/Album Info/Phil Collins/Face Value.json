@@ -1,0 +1,331 @@
+{
+  "title": "Face Value",
+  "artist": "Phil Collins",
+  "year": 1981,
+  "release_date": "1981-02-13",
+  "type": "Album",
+  "description": "Face Value is the debut studio album by the English drummer and singer-songwriter Phil Collins, released on 13 February 1981, by Virgin Records in the United Kingdom and Atlantic Records in North America. After separating from his first wife around 1979, Collins began to write songs during a break in activity from Genesis with much of the material concerning his personal life. The album was recorded from mid-1980 to early 1981 with Collins and Hugh Padgham as producers. Additional musicians include the Phenix Horns, Alphonso Johnson, and Eric Clapton.",
+  "genres": [
+    "pop rock",
+    "rock",
+    "pop",
+    "soft rock",
+    "sophisti-pop"
+  ],
+  "tags": [
+    "adult contemporary",
+    "pop rock",
+    "rock",
+    "pop",
+    "soft rock",
+    "sophisti-pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1cbc1a5a-5512-3f8e-997b-d9281b83722b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Face_Value_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000189462",
+    "discogs": "https://www.discogs.com/master/553",
+    "wikidata": "https://www.wikidata.org/wiki/Q682937",
+    "deezer": "https://www.deezer.com/album/11935122"
+  },
+  "musicbrainz_id": "1cbc1a5a-5512-3f8e-997b-d9281b83722b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dbe8bf00-52a0-41d3-b880-413440cef7a1",
+      "barcode": "603497889761",
+      "title": "Face Value",
+      "disambiguation": "deluxe edition",
+      "date": "2016-01-29",
+      "country": null
+    },
+    "total_tracks": 24,
+    "total_length": "1:48:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "In the Air Tonight",
+            "length": "5:36",
+            "deezer": {
+              "id": 115180790,
+              "link": "https://www.deezer.com/track/115180790",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/6/0/8e6f38374ada899a90b5e53a236e16fa.mp3?hdnea=exp=1795719460~acl=/api/1/1/8/e/6/0/8e6f38374ada899a90b5e53a236e16fa.mp3*~data=user_id=0,application_id=42~hmac=1363ab30f9ff77d4e68af57a6e2cca98877f3912c1df12234123651678664358",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "This Must Be Love",
+            "length": "3:56",
+            "deezer": {
+              "id": 115180792,
+              "link": "https://www.deezer.com/track/115180792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/0/0/860960751e05e8e10eb022baea2f68f9.mp3?hdnea=exp=1795719460~acl=/api/1/1/8/6/0/0/860960751e05e8e10eb022baea2f68f9.mp3*~data=user_id=0,application_id=42~hmac=3a0deb3bd55afd3235309a42d0f2ee4fc2675cec458241878633b980293a18de",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Behind the Lines",
+            "length": "3:56",
+            "deezer": {
+              "id": 115180794,
+              "link": "https://www.deezer.com/track/115180794",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/b/0/a4b22a81291b57366e908bfbf221ad55.mp3?hdnea=exp=1795719460~acl=/api/1/1/a/4/b/0/a4b22a81291b57366e908bfbf221ad55.mp3*~data=user_id=0,application_id=42~hmac=a43f887814b9ed9e6e64d6bdb6eed7b6f3a825a2ddf9f5cae6910ebac395ece0",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Roof Is Leaking",
+            "length": "3:17",
+            "deezer": {
+              "id": 115180796,
+              "link": "https://www.deezer.com/track/115180796",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/7/0/c37ab04183b8a235f1d5a33af5d9c9ee.mp3?hdnea=exp=1795719460~acl=/api/1/1/c/3/7/0/c37ab04183b8a235f1d5a33af5d9c9ee.mp3*~data=user_id=0,application_id=42~hmac=378237be6de0e290203e7044f5e85faf3400d131a7fa0672721263216e9b34db",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Droned",
+            "length": "2:50",
+            "deezer": {
+              "id": 115180798,
+              "link": "https://www.deezer.com/track/115180798",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/0/0/6c046715607ab5026a579cef29c3e6fc.mp3?hdnea=exp=1795719460~acl=/api/1/1/6/c/0/0/6c046715607ab5026a579cef29c3e6fc.mp3*~data=user_id=0,application_id=42~hmac=1e8eaf5e82f02a1979590678d91445e0a1ecadce45822bee6b1ad34ac240713a",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hand in Hand",
+            "length": "5:23",
+            "deezer": {
+              "id": 115180800,
+              "link": "https://www.deezer.com/track/115180800",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/6/0/5a6a5734a7918aff7d57e8bb7404c3c4.mp3?hdnea=exp=1795719460~acl=/api/1/1/5/a/6/0/5a6a5734a7918aff7d57e8bb7404c3c4.mp3*~data=user_id=0,application_id=42~hmac=0fefe51a888503340e3fe59b1e05ed46959720edeac0dabc61acb12c033d5c86",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Missed Again",
+            "length": "3:46",
+            "deezer": {
+              "id": 115180802,
+              "link": "https://www.deezer.com/track/115180802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/9/0/1f9e25810fc3f815b70a328933d8f61d.mp3?hdnea=exp=1795719460~acl=/api/1/1/1/f/9/0/1f9e25810fc3f815b70a328933d8f61d.mp3*~data=user_id=0,application_id=42~hmac=c3e06d4abd704df693b0831438d4a1d4930f7eb8b555f7903b6d18af4ad40fbf",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "You Know What I Mean",
+            "length": "2:33",
+            "deezer": {
+              "id": 115180804,
+              "link": "https://www.deezer.com/track/115180804",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/7/0/087f43e9b590fe3d2d9b2c3b1c4ec3b8.mp3?hdnea=exp=1795719460~acl=/api/1/1/0/8/7/0/087f43e9b590fe3d2d9b2c3b1c4ec3b8.mp3*~data=user_id=0,application_id=42~hmac=5d59e1d674e54d3e44c469a33c70b4a4d86c00a4c73cb7fbf4ed2b082fff0636",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Thunder and Lightning",
+            "length": "4:14",
+            "deezer": {
+              "id": 115180806,
+              "link": "https://www.deezer.com/track/115180806",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/2/0/3b20b754ae7e9b0e32ef1c81ce450051.mp3?hdnea=exp=1795719460~acl=/api/1/1/3/b/2/0/3b20b754ae7e9b0e32ef1c81ce450051.mp3*~data=user_id=0,application_id=42~hmac=606e9b6e8b4126156a7254276da978b0eae812369c6c1963359688c8f4c87b96",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Not Moving",
+            "length": "2:35",
+            "deezer": {
+              "id": 115180808,
+              "link": "https://www.deezer.com/track/115180808",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/3/0/103352c0d3410c1c602265d0a55fc9d4.mp3?hdnea=exp=1795719460~acl=/api/1/1/1/0/3/0/103352c0d3410c1c602265d0a55fc9d4.mp3*~data=user_id=0,application_id=42~hmac=fa11b06b1de1189cd4474ef297654c578cc190e19d932c409b606ea61d63c32f",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "If Leaving Me Is Easy",
+            "length": "4:55",
+            "deezer": {
+              "id": 115180810,
+              "link": "https://www.deezer.com/track/115180810",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/b/0/b8b6f87fa5aa1208fc92f82f667db985.mp3?hdnea=exp=1795719460~acl=/api/1/1/b/8/b/0/b8b6f87fa5aa1208fc92f82f667db985.mp3*~data=user_id=0,application_id=42~hmac=9d74bdd29b035218a2af8ccb9af1f423f109f626e49247bd2d84e351c81c67f7",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Tomorrow Never Knows",
+            "length": "4:52",
+            "deezer": {
+              "id": 115180812,
+              "link": "https://www.deezer.com/track/115180812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/8/0/af8cbe18c256273e009cf7d72def1ffd.mp3?hdnea=exp=1795719460~acl=/api/1/1/a/f/8/0/af8cbe18c256273e009cf7d72def1ffd.mp3*~data=user_id=0,application_id=42~hmac=47df714298a3d18b563ab1960c9b5f7c4da5e95b2b6f762f7c067fbda552bfc0",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Misunderstanding (live)",
+            "length": "4:43",
+            "deezer": {
+              "id": 115180814,
+              "link": "https://www.deezer.com/track/115180814",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/6/0/41601b25f3db38490cc4a460a24111cd.mp3?hdnea=exp=1795719460~acl=/api/1/1/4/1/6/0/41601b25f3db38490cc4a460a24111cd.mp3*~data=user_id=0,application_id=42~hmac=123ce22eee786724a5945182a28009e7a90be9cc26460cd371def13d46a42d85",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "If Leaving Me Is Easy (live)",
+            "length": "7:24",
+            "deezer": {
+              "id": 115180816,
+              "link": "https://www.deezer.com/track/115180816",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/c/0/f1c775c207455f5339fcc0dacf287422.mp3?hdnea=exp=1795719460~acl=/api/1/1/f/1/c/0/f1c775c207455f5339fcc0dacf287422.mp3*~data=user_id=0,application_id=42~hmac=6f3d58f8f54d973c2722b8a40d8f7cdab0bd2a2ffcffccea373836cbb5b18752",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "In the Air Tonight (live)",
+            "length": "7:52",
+            "deezer": {
+              "id": 115180818,
+              "link": "https://www.deezer.com/track/115180818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/c/0/a0cbd38b10b3d5f0448fb2728d5f4415.mp3?hdnea=exp=1795719460~acl=/api/1/1/a/0/c/0/a0cbd38b10b3d5f0448fb2728d5f4415.mp3*~data=user_id=0,application_id=42~hmac=38b92b80366dfe9ce03a9ef3c2e77027caa2ce79dcdb81bb68a72bce666e6e51",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Behind the Lines (live)",
+            "length": "3:40",
+            "deezer": {
+              "id": 115180820,
+              "link": "https://www.deezer.com/track/115180820",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/1/0/f01863f1bcf9faf68990b080d8563785.mp3?hdnea=exp=1795719460~acl=/api/1/1/f/0/1/0/f01863f1bcf9faf68990b080d8563785.mp3*~data=user_id=0,application_id=42~hmac=76bfe03b2685d07174d30b55a51011836a4bc230f3129951fd088c698d0b34c3",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Roof Is Leaking (demo)",
+            "length": "3:12",
+            "deezer": {
+              "id": 115180822,
+              "link": "https://www.deezer.com/track/115180822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/7/0/f67915c6f026eb1fa437f1d779388c7c.mp3?hdnea=exp=1795719460~acl=/api/1/1/f/6/7/0/f67915c6f026eb1fa437f1d779388c7c.mp3*~data=user_id=0,application_id=42~hmac=e4d6c5d4b81a61f93114c173fecb4126ed4105329089cccd0e3c1d1ed77ede75",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hand in Hand (live)",
+            "length": "9:48",
+            "deezer": {
+              "id": 115180824,
+              "link": "https://www.deezer.com/track/115180824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/4/0/7045f664821ba640b369cc428304c4b0.mp3?hdnea=exp=1795719460~acl=/api/1/1/7/0/4/0/7045f664821ba640b369cc428304c4b0.mp3*~data=user_id=0,application_id=42~hmac=e1d905fc085372c7e95f00d9fefdbfe5eb4d2e29663988f42b906faeb582ccc1",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Missed Again (live)",
+            "length": "4:23",
+            "deezer": {
+              "id": 115180826,
+              "link": "https://www.deezer.com/track/115180826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/c/0/6fc484c19aa534a932358d2d0472ce08.mp3?hdnea=exp=1795719460~acl=/api/1/1/6/f/c/0/6fc484c19aa534a932358d2d0472ce08.mp3*~data=user_id=0,application_id=42~hmac=74dbfffd28b4471adf1410070f06f88a5190dc561a01cefa3c8fed2fa6017037",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "…And So to F (live)",
+            "length": "6:22",
+            "deezer": {
+              "id": 115180828,
+              "link": "https://www.deezer.com/track/115180828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/5/0/4e59ab47dd5cd0f14d0e0bb4fd84e51f.mp3?hdnea=exp=1795719460~acl=/api/1/1/4/e/5/0/4e59ab47dd5cd0f14d0e0bb4fd84e51f.mp3*~data=user_id=0,application_id=42~hmac=ebc1724a16af7b1a2c83140405a345b01ff85ffd26c09010eed6eb844c0bcfa7",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "This Must Be Love (demo)",
+            "length": "3:44",
+            "deezer": {
+              "id": 115180830,
+              "link": "https://www.deezer.com/track/115180830",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/7/0/d37ee471a12124283448f0d711ff40c8.mp3?hdnea=exp=1795719460~acl=/api/1/1/d/3/7/0/d37ee471a12124283448f0d711ff40c8.mp3*~data=user_id=0,application_id=42~hmac=32d206fac4b8e0f33c7ac0d46f1125c064bc92f48e527e318156ccb60be43031",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Please Don’t Ask (demo)",
+            "length": "4:01",
+            "deezer": {
+              "id": 115180832,
+              "link": "https://www.deezer.com/track/115180832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/9/0/b59f9825ab0e8ab3be423e8534677d25.mp3?hdnea=exp=1795719460~acl=/api/1/1/b/5/9/0/b59f9825ab0e8ab3be423e8534677d25.mp3*~data=user_id=0,application_id=42~hmac=732edf24eb4a5676ba301a7a740a8e0bae133873e69e7bc71424e24d15b9c364",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Misunderstanding (demo)",
+            "length": "2:54",
+            "deezer": {
+              "id": 115180834,
+              "link": "https://www.deezer.com/track/115180834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/7/0/be74f975a4f4ed003afcf91a4e28de06.mp3?hdnea=exp=1795719460~acl=/api/1/1/b/e/7/0/be74f975a4f4ed003afcf91a4e28de06.mp3*~data=user_id=0,application_id=42~hmac=dc0aae779b927d2adbaaa7bd8edf14418bca1e7f49eb0bc6c6c723da291f0ccf",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Against All Odds (demo)",
+            "length": "2:59",
+            "deezer": {
+              "id": 115180836,
+              "link": "https://www.deezer.com/track/115180836",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/5/0/b25e135b7431cf553c124662152171a9.mp3?hdnea=exp=1795719460~acl=/api/1/1/b/2/5/0/b25e135b7431cf553c124662152171a9.mp3*~data=user_id=0,application_id=42~hmac=c462959b14b6df55aed0c58d1a9e49a40042c57d2e8a471992da7d0abd4b95a2",
+              "preview_expires": "2026-11-26T18:57:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Phil Collins/Face Value.jpg"
+}

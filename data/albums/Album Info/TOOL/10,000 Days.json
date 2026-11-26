@@ -1,0 +1,181 @@
+{
+  "title": "10,000 Days",
+  "artist": "Tool",
+  "year": 2006,
+  "release_date": "2006-04-28",
+  "type": "Album",
+  "description": "10,000 Days is the fourth studio album by the American rock band Tool. The album was released by Tool Dissectional and Volcano Entertainment in parts of Europe on April 28, 2006, in Australia on April 29, 2006, in the United Kingdom on May 1, 2006, and in North America on May 2, 2006. It marked the first time since recording 1993's Undertow that the band had worked at Grandmaster and without producer David Bottrill. 10,000 Days spawned three top ten rock singles: \"Vicarious\", \"The Pot\", and \"Jambi\".",
+  "genres": [
+    "progressive metal",
+    "alternative metal",
+    "progressive rock",
+    "metal",
+    "heavy metal"
+  ],
+  "tags": [
+    "progressive metal",
+    "alternative metal",
+    "progressive rock",
+    "metal",
+    "hardnheavy",
+    "heavy metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 42
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ecfd0a01-57c8-3949-990a-1a950942e0e0",
+    "wikipedia": "https://en.wikipedia.org/wiki/10%2C000_Days_(Tool_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000389803",
+    "discogs": "https://www.discogs.com/master/1576",
+    "wikidata": "https://www.wikidata.org/wiki/Q163807",
+    "deezer": "https://www.deezer.com/album/105611582"
+  },
+  "musicbrainz_id": "ecfd0a01-57c8-3949-990a-1a950942e0e0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/99506955-a90e-4287-b99e-af94d494bd6e",
+      "barcode": "886447824771",
+      "title": "10,000 Days",
+      "disambiguation": null,
+      "date": "2019-08-01",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "1:15:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Vicarious",
+            "length": "7:06",
+            "deezer": {
+              "id": 722078342,
+              "link": "https://www.deezer.com/track/722078342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/8/0/c48994ff4213623b87e37fa7f7c63a1e.mp3?hdnea=exp=1795721961~acl=/api/1/1/c/4/8/0/c48994ff4213623b87e37fa7f7c63a1e.mp3*~data=user_id=0,application_id=42~hmac=d4067fa92902f1bc14f89cd29a2bbbc7794971312003aebc1146031701427640",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jambi",
+            "length": "7:29",
+            "deezer": {
+              "id": 722078352,
+              "link": "https://www.deezer.com/track/722078352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/7/0/2a7cc6fc6493b9e0eadce3a3653cb7c0.mp3?hdnea=exp=1795721961~acl=/api/1/1/2/a/7/0/2a7cc6fc6493b9e0eadce3a3653cb7c0.mp3*~data=user_id=0,application_id=42~hmac=bed923e2b253a4a05270c46a90be863ae5c20e94f852259481af8d9be755aaf0",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wings for Marie, Pt. 1",
+            "length": "6:11",
+            "deezer": {
+              "id": 722078362,
+              "link": "https://www.deezer.com/track/722078362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/5/0/8659863e5e1fb0c3833b9f048459a21f.mp3?hdnea=exp=1795721961~acl=/api/1/1/8/6/5/0/8659863e5e1fb0c3833b9f048459a21f.mp3*~data=user_id=0,application_id=42~hmac=54177f12fd8b51a7631a72b1b35f406e46b6874b248e977526f188a97be6037d",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "10,000 Days (Wings, Pt 2)",
+            "length": "11:14",
+            "deezer": {
+              "id": 722078372,
+              "link": "https://www.deezer.com/track/722078372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/1/0/09143f10f64b2b563f0539951c3515c8.mp3?hdnea=exp=1795721961~acl=/api/1/1/0/9/1/0/09143f10f64b2b563f0539951c3515c8.mp3*~data=user_id=0,application_id=42~hmac=28e70e39ebdbf56fa632533d9c6fb377450e4540539e7c483864d64c9e0c2d9a",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Pot",
+            "length": "6:22",
+            "deezer": {
+              "id": 722078382,
+              "link": "https://www.deezer.com/track/722078382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/9/0/439c7e1fee3194c0edf43fd56165ece9.mp3?hdnea=exp=1795721961~acl=/api/1/1/4/3/9/0/439c7e1fee3194c0edf43fd56165ece9.mp3*~data=user_id=0,application_id=42~hmac=dc5e242c49fc3c5f0fc019ca9bc71274d7a0685d2ff8fdfea2ce26bbf1190cfa",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lipan Conjuring",
+            "length": "1:11",
+            "deezer": {
+              "id": 722078392,
+              "link": "https://www.deezer.com/track/722078392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/c/0/07cece24152d52605d9547a033e2f6a7.mp3?hdnea=exp=1795721961~acl=/api/1/1/0/7/c/0/07cece24152d52605d9547a033e2f6a7.mp3*~data=user_id=0,application_id=42~hmac=6a9a37539658b86508acd332a9435b6e37e0c85bbc8af55b24e38221c86c4816",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Lost Keys (Blame Hofman)",
+            "length": "3:46",
+            "deezer": {
+              "id": 722078402,
+              "link": "https://www.deezer.com/track/722078402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/4/0/eb49d3ba81badcd1a68b92f2b9ee7895.mp3?hdnea=exp=1795721961~acl=/api/1/1/e/b/4/0/eb49d3ba81badcd1a68b92f2b9ee7895.mp3*~data=user_id=0,application_id=42~hmac=2061aa248f3ecd0d39f0f23cbfec1b00eaccdb6208f2631b51e8f7baaaaa094c",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rosetta Stoned",
+            "length": "11:11",
+            "deezer": {
+              "id": 722078412,
+              "link": "https://www.deezer.com/track/722078412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/4/0/a74903d06634961c0ee69e7d00b70e72.mp3?hdnea=exp=1795721961~acl=/api/1/1/a/7/4/0/a74903d06634961c0ee69e7d00b70e72.mp3*~data=user_id=0,application_id=42~hmac=4751ea0e8526ab1b0c381bb2a8bcd8f6e761cc96b4dfa2e53d3b928cb5f0c87c",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Intension",
+            "length": "7:21",
+            "deezer": {
+              "id": 722078422,
+              "link": "https://www.deezer.com/track/722078422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/0/0/8203c640090470a26cefd0676caa72d4.mp3?hdnea=exp=1795721961~acl=/api/1/1/8/2/0/0/8203c640090470a26cefd0676caa72d4.mp3*~data=user_id=0,application_id=42~hmac=c14db33c46af3af6b82ca6cc5928a4f388af49ae70bb5d5f5df18e99dd123589",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Right in Two",
+            "length": "8:56",
+            "deezer": {
+              "id": 722078432,
+              "link": "https://www.deezer.com/track/722078432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/7/0/0a7be0538dea439af505a201ce233115.mp3?hdnea=exp=1795721961~acl=/api/1/1/0/a/7/0/0a7be0538dea439af505a201ce233115.mp3*~data=user_id=0,application_id=42~hmac=60760b917dab9208030dac83c94ce07e011fee8aeadcccd3c23f2324541d8569",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Viginti Tres",
+            "length": "5:01",
+            "deezer": {
+              "id": 722078442,
+              "link": "https://www.deezer.com/track/722078442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/1/0/221a2db4261dcde7053e1f403f24155f.mp3?hdnea=exp=1795721961~acl=/api/1/1/2/2/1/0/221a2db4261dcde7053e1f403f24155f.mp3*~data=user_id=0,application_id=42~hmac=c483e3d91d73025d59584d03ec74e2150b5d3677b01cb8ef75671b4f5492d0ca",
+              "preview_expires": "2026-11-26T19:39:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/TOOL/10,000 Days.jpg"
+}

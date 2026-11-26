@@ -1,0 +1,162 @@
+{
+  "title": "The John Denver Collection",
+  "artist": "John Denver",
+  "year": 1997,
+  "release_date": "1997-06-17",
+  "type": "Album + Compilation",
+  "description": "The John Denver Collection is a 5-CD compilation of the original songs performed by American singer-songwriter John Denver. It was released in 1995.",
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d4d81359-dc0a-4a50-86b1-6ec989d979f9",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_John_Denver_Collection",
+    "wikidata": "https://www.wikidata.org/wiki/Q7743368",
+    "deezer": "https://www.deezer.com/album/113845392"
+  },
+  "musicbrainz_id": "d4d81359-dc0a-4a50-86b1-6ec989d979f9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b3ea524b-1262-4e9f-84d6-eaf7797da0b2",
+      "barcode": "669910667255",
+      "title": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+      "disambiguation": null,
+      "date": "1997-06-17",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "41:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Take Me Home, Country Roads",
+            "length": "3:18",
+            "deezer": {
+              "id": 769749602,
+              "link": "https://www.deezer.com/track/769749602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/5/0/d15df29115c8642df63232db09037e41.mp3?hdnea=exp=1795655665~acl=/api/1/1/d/1/5/0/d15df29115c8642df63232db09037e41.mp3*~data=user_id=0,application_id=42~hmac=420332fd579cf2aa8da17cff23ca94890b74a1bbd5cd6af4d71c24079045e905",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Homegrown Tomatoes",
+            "length": "3:13",
+            "deezer": {
+              "id": 769749612,
+              "link": "https://www.deezer.com/track/769749612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/e/0/65e51b1d85316d8f54cc67338558551f.mp3?hdnea=exp=1795655665~acl=/api/1/1/6/5/e/0/65e51b1d85316d8f54cc67338558551f.mp3*~data=user_id=0,application_id=42~hmac=9884d7e2f8c54a50fce570643e583b63a02600fc3cea8e427a03d3159095cb7d",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Eagles and Horses",
+            "length": "4:49",
+            "deezer": {
+              "id": 769749622,
+              "link": "https://www.deezer.com/track/769749622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/3/0/be35c97fdfeb5f8f26351a36ec513474.mp3?hdnea=exp=1795655665~acl=/api/1/1/b/e/3/0/be35c97fdfeb5f8f26351a36ec513474.mp3*~data=user_id=0,application_id=42~hmac=cc26c1ff0052f6525e7e78bdd70a32dc69a23b719d4ca6448ba85a0a06ab95c0",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ponies",
+            "length": "4:28",
+            "deezer": {
+              "id": 769749632,
+              "link": "https://www.deezer.com/track/769749632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/e/0/c8e1ba788f2d05c0ce9daf44310fa815.mp3?hdnea=exp=1795655665~acl=/api/1/1/c/8/e/0/c8e1ba788f2d05c0ce9daf44310fa815.mp3*~data=user_id=0,application_id=42~hmac=69849dd5fb58d3866d7b7342d59dabb488b4715e34a599310066cbe462ec7a04",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "High, Wide and Handsome",
+            "length": "3:25",
+            "deezer": {
+              "id": 769749642,
+              "link": "https://www.deezer.com/track/769749642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/5/0/39553e8e4bb7c1d26e0c0e7e8c9f1d3b.mp3?hdnea=exp=1795655665~acl=/api/1/1/3/9/5/0/39553e8e4bb7c1d26e0c0e7e8c9f1d3b.mp3*~data=user_id=0,application_id=42~hmac=1dfc688be318eac403638b8d0fe2bf875cedcb4f3c84726c4852825303c10b09",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hold on to Me",
+            "length": "4:16",
+            "deezer": {
+              "id": 769749652,
+              "link": "https://www.deezer.com/track/769749652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/f/0/61fad5f0c41fefb353662b66ec4af617.mp3?hdnea=exp=1795655665~acl=/api/1/1/6/1/f/0/61fad5f0c41fefb353662b66ec4af617.mp3*~data=user_id=0,application_id=42~hmac=d0170a45fd2a789c2fc1b89867b643bbf7d9d7478967f44721a0c425b945837d",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Whispering Jesse",
+            "length": "3:01",
+            "deezer": {
+              "id": 769749662,
+              "link": "https://www.deezer.com/track/769749662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/3/0/cf3da995e9eb07c564bac180a1b93ce3.mp3?hdnea=exp=1795655665~acl=/api/1/1/c/f/3/0/cf3da995e9eb07c564bac180a1b93ce3.mp3*~data=user_id=0,application_id=42~hmac=2c08fad1808e62322762d6ad6b2e792f891a912e3be864354fc2e860f5a84f5b",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Never a Doubt",
+            "length": "3:46",
+            "deezer": {
+              "id": 769749672,
+              "link": "https://www.deezer.com/track/769749672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/c/0/4dcdd1eda968cb5ee072a856ad738821.mp3?hdnea=exp=1795655665~acl=/api/1/1/4/d/c/0/4dcdd1eda968cb5ee072a856ad738821.mp3*~data=user_id=0,application_id=42~hmac=f7e73599196d952b50dd730f2adc77711db6f1cbc71ea36297dea6be2be1df96",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Eagle and the Hawk",
+            "length": "3:01",
+            "deezer": {
+              "id": 769749682,
+              "link": "https://www.deezer.com/track/769749682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/f/0/aafd22904a007c3476c1e2236cb45107.mp3?hdnea=exp=1795655665~acl=/api/1/1/a/a/f/0/aafd22904a007c3476c1e2236cb45107.mp3*~data=user_id=0,application_id=42~hmac=0a2968985a839c07279e5948065cc100c10a3eeb4a5d1c73819a868618759b62",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I Watch You Sleeping",
+            "length": "5:00",
+            "deezer": {
+              "id": 769749692,
+              "link": "https://www.deezer.com/track/769749692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/0/0/06046724f7b6b9d98d5e4536e8329d3b.mp3?hdnea=exp=1795655665~acl=/api/1/1/0/6/0/0/06046724f7b6b9d98d5e4536e8329d3b.mp3*~data=user_id=0,application_id=42~hmac=96e70ffc4cac8daa7c34f14d809105cc801d7b805d9337a376af8060c81c2aef",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "For You",
+            "length": "3:17",
+            "deezer": {
+              "id": 769749702,
+              "link": "https://www.deezer.com/track/769749702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/9/0/de902a20658059b2ac43ee1bdae24f36.mp3?hdnea=exp=1795655665~acl=/api/1/1/d/e/9/0/de902a20658059b2ac43ee1bdae24f36.mp3*~data=user_id=0,application_id=42~hmac=87edbe05535599c267172031695d677fbe20bd929280727122c27db07c483926",
+              "preview_expires": "2026-11-26T01:14:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Denver/The John Denver Collection, Vol 1- Take Me Home Country Roads.jpg"
+}

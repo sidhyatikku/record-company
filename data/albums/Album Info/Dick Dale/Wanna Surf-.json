@@ -1,0 +1,248 @@
+{
+  "title": "Wanna Surf?",
+  "artist": "Dick Dale",
+  "year": null,
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e48147a9-cb47-4ef9-9df4-b71645bba07f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/278693342"
+  },
+  "musicbrainz_id": "e48147a9-cb47-4ef9-9df4-b71645bba07f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1a6f0680-02c7-4274-9650-5ee27f4498f5",
+      "barcode": null,
+      "title": "Wanna Surf?",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 19,
+    "total_length": "42:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Surf Beat",
+            "length": "3:00",
+            "deezer": {
+              "id": 1582164132,
+              "link": "https://www.deezer.com/track/1582164132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/9/0/e29f494695c24c9b8f3ff7319316a616.mp3?hdnea=exp=1795653329~acl=/api/1/1/e/2/9/0/e29f494695c24c9b8f3ff7319316a616.mp3*~data=user_id=0,application_id=42~hmac=450995a97a47cccbbf1f6457d0b20dcbb20f3e9bbf9356107942ab7604939c15",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sloop John B",
+            "length": "2:51",
+            "deezer": {
+              "id": 1582164152,
+              "link": "https://www.deezer.com/track/1582164152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/8/0/4184cb65aacb8cbb87c6c3e97138aa51.mp3?hdnea=exp=1795653329~acl=/api/1/1/4/1/8/0/4184cb65aacb8cbb87c6c3e97138aa51.mp3*~data=user_id=0,application_id=42~hmac=29eab690eacb17ddc39cace36fc1bfa44bd8ebf8bce867e04540578a27f05646",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take It Off",
+            "length": "2:11",
+            "deezer": {
+              "id": 1582164182,
+              "link": "https://www.deezer.com/track/1582164182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/e/0/57e1697841bc5622a55cea8f4263f7ba.mp3?hdnea=exp=1795653329~acl=/api/1/1/5/7/e/0/57e1697841bc5622a55cea8f4263f7ba.mp3*~data=user_id=0,application_id=42~hmac=d541ec4f9ac6d066458ca12be06c62436d38deccbaa1ce03a44bd48d0d34170c",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Misirlou",
+            "length": "2:16",
+            "deezer": {
+              "id": 1582164192,
+              "link": "https://www.deezer.com/track/1582164192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/c/0/90ca0f7db53ef5362cbb7d334cdce66a.mp3?hdnea=exp=1795653329~acl=/api/1/1/9/0/c/0/90ca0f7db53ef5362cbb7d334cdce66a.mp3*~data=user_id=0,application_id=42~hmac=f7b519109c6eac8fcf052927c3ba727d1964355e4f628348abc4fa35324d8249",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Mr Peppermint Man",
+            "length": "2:25",
+            "deezer": {
+              "id": 1582164202,
+              "link": "https://www.deezer.com/track/1582164202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/2/0/652cbf670b7dca3bbbf3395e0a053622.mp3?hdnea=exp=1795653329~acl=/api/1/1/6/5/2/0/652cbf670b7dca3bbbf3395e0a053622.mp3*~data=user_id=0,application_id=42~hmac=f8f2fd00636d1f352e26e46015a563123c1ebffe203115122896b9c47da8722f",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Fairest of Them All",
+            "length": "1:56",
+            "deezer": {
+              "id": 1582164212,
+              "link": "https://www.deezer.com/track/1582164212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/6/0/376163a2312d4e125196c4d51d966608.mp3?hdnea=exp=1795653329~acl=/api/1/1/3/7/6/0/376163a2312d4e125196c4d51d966608.mp3*~data=user_id=0,application_id=42~hmac=8d39ff9e8ee98b164b7a1914b20c58af46c0db6170446f076b683db32c018b3b",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Well Never Hear the End of It",
+            "length": "2:11",
+            "deezer": {
+              "id": 1582164222,
+              "link": "https://www.deezer.com/track/1582164222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/7/0/0d7373b06273cd1b4282f94cab7ebd5b.mp3?hdnea=exp=1795653329~acl=/api/1/1/0/d/7/0/0d7373b06273cd1b4282f94cab7ebd5b.mp3*~data=user_id=0,application_id=42~hmac=5a39cd5259203c1b04f0fbce79aa92acc812282dae06e1283647f1f0ca36e285",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Jungle Fever",
+            "length": "2:16",
+            "deezer": {
+              "id": 1582164232,
+              "link": "https://www.deezer.com/track/1582164232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/4/0/ea4f414c2759d005be7fe1e277a15907.mp3?hdnea=exp=1795653329~acl=/api/1/1/e/a/4/0/ea4f414c2759d005be7fe1e277a15907.mp3*~data=user_id=0,application_id=42~hmac=1596ec44664458e8c4c33b52dd0f965aaca7328dcd8444fc249ce385491bf4a3",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ooh‐Whee‐Marie",
+            "length": "2:16",
+            "deezer": {
+              "id": 1582164242,
+              "link": "https://www.deezer.com/track/1582164242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/a/0/12a3b559a08ba3e901ef35aaf880a158.mp3?hdnea=exp=1795653329~acl=/api/1/1/1/2/a/0/12a3b559a08ba3e901ef35aaf880a158.mp3*~data=user_id=0,application_id=42~hmac=71cc299a1d4c2c9e677fc5c0a469580beddaf4627c83aceaf55112122b51e0d6",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Jessie Pearl",
+            "length": "2:14",
+            "deezer": {
+              "id": 1582164252,
+              "link": "https://www.deezer.com/track/1582164252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/0/0/150dfe26e141fe4b05ee86397d9898b1.mp3?hdnea=exp=1795653329~acl=/api/1/1/1/5/0/0/150dfe26e141fe4b05ee86397d9898b1.mp3*~data=user_id=0,application_id=42~hmac=4f8bc4ee10962ea14c8a7ec9bc06aac45a56bfe8aa20b09aed9c4d4716baa478",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Stop Teasin",
+            "length": "2:13",
+            "deezer": {
+              "id": 1582164262,
+              "link": "https://www.deezer.com/track/1582164262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/7/0/4d76baf615e94fdeeefc1b3e0bb57c33.mp3?hdnea=exp=1795653329~acl=/api/1/1/4/d/7/0/4d76baf615e94fdeeefc1b3e0bb57c33.mp3*~data=user_id=0,application_id=42~hmac=a791c2a1d10687d7a93a68881b6427e47308e96ea5c82a187e688869c82a4a10",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "DelTone Rock",
+            "length": "2:39",
+            "deezer": {
+              "id": 1582164272,
+              "link": "https://www.deezer.com/track/1582164272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/2/0/e2228f1f90f17ef6d890597becc843c0.mp3?hdnea=exp=1795653329~acl=/api/1/1/e/2/2/0/e2228f1f90f17ef6d890597becc843c0.mp3*~data=user_id=0,application_id=42~hmac=929f890190d3b84a7abc18aea3f7b970002e5f7164ee7f0d25eae8fe4d2b4c63",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "St Louis Blues",
+            "length": "2:29",
+            "deezer": {
+              "id": 1582164282,
+              "link": "https://www.deezer.com/track/1582164282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/a/0/95ad0de02c62a005ee3a37fe311b9d5d.mp3?hdnea=exp=1795653329~acl=/api/1/1/9/5/a/0/95ad0de02c62a005ee3a37fe311b9d5d.mp3*~data=user_id=0,application_id=42~hmac=89be57465f111118e5d62163685ba256d89e5170a1dd28acda4b3f5e96e038b2",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Eight Til Midnight",
+            "length": "2:08",
+            "deezer": {
+              "id": 1582164292,
+              "link": "https://www.deezer.com/track/1582164292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/e/0/99e8928bbf1d230c5ff534cc01c81e3a.mp3?hdnea=exp=1795653329~acl=/api/1/1/9/9/e/0/99e8928bbf1d230c5ff534cc01c81e3a.mp3*~data=user_id=0,application_id=42~hmac=1ecacabb9e780998c4b45a342374fa396bdafb055ba790b78e2399fbddae53ed",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Surfin'Drums",
+            "length": null,
+            "deezer": {
+              "id": 1582164302,
+              "link": "https://www.deezer.com/track/1582164302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/b/0/5cb195aaa7766c50073dda67f0f52a45.mp3?hdnea=exp=1795653329~acl=/api/1/1/5/c/b/0/5cb195aaa7766c50073dda67f0f52a45.mp3*~data=user_id=0,application_id=42~hmac=a35e7fb5fd4bb490f9382cecca81821c9c0be7b8e9b80b2b28258bd34a0cee14",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Shake ’n’ Stomp",
+            "length": "2:12",
+            "deezer": {
+              "id": 1582164312,
+              "link": "https://www.deezer.com/track/1582164312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/0/0/20011541a43ed066fc56ca2739c562c5.mp3?hdnea=exp=1795653329~acl=/api/1/1/2/0/0/0/20011541a43ed066fc56ca2739c562c5.mp3*~data=user_id=0,application_id=42~hmac=e88583844f94824c164f678abc7e4d10967ad72d038e84ad3417eb82e0f125cb",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Death of a Gremmie",
+            "length": "2:47",
+            "deezer": {
+              "id": 1582164322,
+              "link": "https://www.deezer.com/track/1582164322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/8/0/db8047ebbdbcac10fb2ac2541f20cf20.mp3?hdnea=exp=1795653329~acl=/api/1/1/d/b/8/0/db8047ebbdbcac10fb2ac2541f20cf20.mp3*~data=user_id=0,application_id=42~hmac=35a574e0271b60ddb2591622c618ef69f299c4d8f88f2852d6338ab51a044b4f",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Let’s Go Trippin’",
+            "length": "2:10",
+            "deezer": {
+              "id": 1582164332,
+              "link": "https://www.deezer.com/track/1582164332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/a/0/6badf2b889a47ace388a6b5c48abc4ea.mp3?hdnea=exp=1795653329~acl=/api/1/1/6/b/a/0/6badf2b889a47ace388a6b5c48abc4ea.mp3*~data=user_id=0,application_id=42~hmac=5bf5afba023e8483541bd47c7d24404255a072831d1a97e2315732cc16233acf",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Misirlou (Alternative take)",
+            "length": "2:15",
+            "deezer": {
+              "id": 1582164342,
+              "link": "https://www.deezer.com/track/1582164342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/0/0/5c00fb055b60f6205b8b99a9c315a11e.mp3?hdnea=exp=1795653329~acl=/api/1/1/5/c/0/0/5c00fb055b60f6205b8b99a9c315a11e.mp3*~data=user_id=0,application_id=42~hmac=06d45ee9ea3fc377818c6b20846d8407ca001325c3519791c08fb2ee6b5d266d",
+              "preview_expires": "2026-11-26T00:35:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dick Dale/Wanna Surf-.jpg"
+}

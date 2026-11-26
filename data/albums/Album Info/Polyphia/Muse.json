@@ -1,0 +1,180 @@
+{
+  "title": "Muse",
+  "artist": "Polyphia",
+  "year": 2014,
+  "release_date": "2014-09-02",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "rock",
+    "djent",
+    "progressive metal"
+  ],
+  "tags": [
+    "rock",
+    "djent",
+    "progressive metal"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d31c5bb6-1f28-4380-bb0a-074a8f68f4d6",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/812258",
+    "deezer": "https://www.deezer.com/album/157874092"
+  },
+  "musicbrainz_id": "d31c5bb6-1f28-4380-bb0a-074a8f68f4d6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0a5cf9b4-9a75-48cf-9c63-579352c471f0",
+      "barcode": "859738995726",
+      "title": "Muse",
+      "disambiguation": null,
+      "date": "2014-09-02",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "44:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "87",
+            "length": "4:46",
+            "deezer": {
+              "id": 1007172302,
+              "link": "https://www.deezer.com/track/1007172302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/8/0/568c6f7ad65503ec1fc7451f4029a90e.mp3?hdnea=exp=1795719605~acl=/api/1/1/5/6/8/0/568c6f7ad65503ec1fc7451f4029a90e.mp3*~data=user_id=0,application_id=42~hmac=6bf66826e1ea9d3e4a09d25bcf338332ad78d5ecfe6658d85cd1b167971ead26",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sweet Tea",
+            "length": "4:20",
+            "artist": "Polyphia feat. Aaron Marshall",
+            "deezer": {
+              "id": 1007172312,
+              "link": "https://www.deezer.com/track/1007172312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/9/0/fa9da19ccc73c17e08e0c0ba65b9e3f5.mp3?hdnea=exp=1795719605~acl=/api/1/1/f/a/9/0/fa9da19ccc73c17e08e0c0ba65b9e3f5.mp3*~data=user_id=0,application_id=42~hmac=ed7f74129a3cd84be321eb6d3fbfcacd6486a7dcd5e791965685ecd148bdc3bb",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Champagne",
+            "length": "4:25",
+            "artist": "Polyphia feat. Nick Johnston",
+            "deezer": {
+              "id": 1007172322,
+              "link": "https://www.deezer.com/track/1007172322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/c/0/dbcdb1073c307eba637715934f7dfa2f.mp3?hdnea=exp=1795719605~acl=/api/1/1/d/b/c/0/dbcdb1073c307eba637715934f7dfa2f.mp3*~data=user_id=0,application_id=42~hmac=a475966e5cc4dc79d854ec3b6415ccac8c76468339b01cbb3cdee08fa536ba34",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Aviator",
+            "length": "4:15",
+            "artist": "Polyphia feat. Jason Richardson",
+            "deezer": {
+              "id": 1007172332,
+              "link": "https://www.deezer.com/track/1007172332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/e/0/c1ef7f09b8a0d4569ef3637762f9c6c3.mp3?hdnea=exp=1795719605~acl=/api/1/1/c/1/e/0/c1ef7f09b8a0d4569ef3637762f9c6c3.mp3*~data=user_id=0,application_id=42~hmac=34b3f22d9e1d35508fe98cf5e529ac58f131a21f2d1c2089921a4b6fc5d83a28",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Jungle",
+            "length": "3:47",
+            "artist": "Polyphia feat. Jakub Żytecki",
+            "deezer": {
+              "id": 1007172342,
+              "link": "https://www.deezer.com/track/1007172342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/5/0/ce50ca6014d073e91470fd938a6f6d87.mp3?hdnea=exp=1795719605~acl=/api/1/1/c/e/5/0/ce50ca6014d073e91470fd938a6f6d87.mp3*~data=user_id=0,application_id=42~hmac=b9b9e5f9b7c02da12ecc152e2972a2f6f1939956602e4263a1db670bad58ffb0",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Memory",
+            "length": "3:37",
+            "deezer": {
+              "id": 1007172352,
+              "link": "https://www.deezer.com/track/1007172352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/8/0/218fd341221fc140ea08cd977e455d63.mp3?hdnea=exp=1795719605~acl=/api/1/1/2/1/8/0/218fd341221fc140ea08cd977e455d63.mp3*~data=user_id=0,application_id=42~hmac=56399cc0edbb8ab22f03f107e346c0acf7c230d5c5e3e12c68534518f73a036d",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mood Swing",
+            "length": "3:53",
+            "deezer": {
+              "id": 1007172362,
+              "link": "https://www.deezer.com/track/1007172362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/4/0/68487879bb6dace8adee2007586e2e00.mp3?hdnea=exp=1795719605~acl=/api/1/1/6/8/4/0/68487879bb6dace8adee2007586e2e00.mp3*~data=user_id=0,application_id=42~hmac=178632226f2a0665135bf4f0d252dce0fa054fc01d402c449a359717d61ba8f3",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Hourglass",
+            "length": "4:12",
+            "artist": "Polyphia feat. Nick Sampson",
+            "deezer": {
+              "id": 1007172372,
+              "link": "https://www.deezer.com/track/1007172372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/2/0/d726e45d3bc57208fb6ee358f32eea9c.mp3?hdnea=exp=1795719605~acl=/api/1/1/d/7/2/0/d726e45d3bc57208fb6ee358f32eea9c.mp3*~data=user_id=0,application_id=42~hmac=6be12db3685871b5abf96cefd5b8c50da157abbc82a17c4c0950515ae00d3eb7",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "James Franco",
+            "length": "3:16",
+            "deezer": {
+              "id": 1007172382,
+              "link": "https://www.deezer.com/track/1007172382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9fc9276cfb667cab981c4e34d7e922b.mp3?hdnea=exp=1795719605~acl=/api/1/1/f/9/f/0/f9fc9276cfb667cab981c4e34d7e922b.mp3*~data=user_id=0,application_id=42~hmac=1fb3cc29e3109020f2daaa7f8290b43e4d51e7ad69aa5039f5769cad822bcf02",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Baditude",
+            "length": "3:34",
+            "artist": "Polyphia feat. Mario Camarena & Erick Hansel",
+            "deezer": {
+              "id": 1007172392,
+              "link": "https://www.deezer.com/track/1007172392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/2/0/23240739cfd859c52c1ce4599b605d10.mp3?hdnea=exp=1795719605~acl=/api/1/1/2/3/2/0/23240739cfd859c52c1ce4599b605d10.mp3*~data=user_id=0,application_id=42~hmac=a0482e0a93102a34f616aa9b0fbafb049a254dc642ef21171289b56cd1982707",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Finale",
+            "length": "4:50",
+            "deezer": {
+              "id": 1007172402,
+              "link": "https://www.deezer.com/track/1007172402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/f/0/28fe9b22dc9dd6851634624a77126f22.mp3?hdnea=exp=1795719605~acl=/api/1/1/2/8/f/0/28fe9b22dc9dd6851634624a77126f22.mp3*~data=user_id=0,application_id=42~hmac=b8d9d9d0cdfa0ae0cf05de59d1da9b4e6fbf225dd18bc64e0c2221f0de7d3e85",
+              "preview_expires": "2026-11-26T19:00:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Polyphia/Muse.jpg"
+}

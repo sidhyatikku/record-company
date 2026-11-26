@@ -1,0 +1,214 @@
+{
+  "title": "Audioslave",
+  "artist": "Audioslave",
+  "year": 2002,
+  "release_date": "2002-11-15",
+  "type": "Album",
+  "description": "Audioslave is the debut studio album by American rock supergroup Audioslave, released on November 18, 2002, through Epic Records and Interscope Records. In the United States, it has been certified triple platinum by the RIAA. The album spawned the singles \"Cochise\", \"Like a Stone\", \"Show Me How to Live\", \"I Am the Highway\", and \"What You Are\"; \"Like a Stone\" was nominated for Best Hard Rock Performance at the 46th Grammy Awards.",
+  "genres": [
+    "hard rock",
+    "post-grunge",
+    "alternative metal",
+    "alternative rock",
+    "rock"
+  ],
+  "tags": [
+    "hard rock",
+    "post-grunge",
+    "alternative metal",
+    "alternative rock",
+    "rock",
+    "alternative and punk"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 16
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/38b34599-6352-389b-ad6a-02866357dabe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audioslave_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000229110",
+    "discogs": "https://www.discogs.com/master/33763",
+    "wikidata": "https://www.wikidata.org/wiki/Q674283",
+    "deezer": "https://www.deezer.com/album/97953"
+  },
+  "musicbrainz_id": "38b34599-6352-389b-ad6a-02866357dabe",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e1e0705a-b309-4620-bc5d-15e81b0eda03",
+      "barcode": "5099751013020",
+      "title": "Audioslave",
+      "disambiguation": null,
+      "date": "2002-11-18",
+      "country": null
+    },
+    "total_tracks": 14,
+    "total_length": "1:05:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cochise",
+            "length": "3:42",
+            "deezer": {
+              "id": 851046,
+              "link": "https://www.deezer.com/track/851046",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/1/0/5417270f374a21388be2896afcbd51d6.mp3?hdnea=exp=1795651722~acl=/api/1/1/5/4/1/0/5417270f374a21388be2896afcbd51d6.mp3*~data=user_id=0,application_id=42~hmac=f6f49fb311c29a91822c51200e3f168f68d7264f07647e8786a28770ad1fee70",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Show Me How to Live",
+            "length": "4:38",
+            "deezer": {
+              "id": 851050,
+              "link": "https://www.deezer.com/track/851050",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/a/0/29a997b1946bf99abdeeb1fb621489f5.mp3?hdnea=exp=1795651722~acl=/api/1/1/2/9/a/0/29a997b1946bf99abdeeb1fb621489f5.mp3*~data=user_id=0,application_id=42~hmac=fc55a934cffaa35492a235129d39af51b1ab5c6eea4c1fff6f44308bedf156fa",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gasoline",
+            "length": "4:39",
+            "deezer": {
+              "id": 851053,
+              "link": "https://www.deezer.com/track/851053",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/2/0/73205adb097ae66b69eee6696722ed61.mp3?hdnea=exp=1795651722~acl=/api/1/1/7/3/2/0/73205adb097ae66b69eee6696722ed61.mp3*~data=user_id=0,application_id=42~hmac=1693a2f9cd19a0d41b4c15d52c55963f5e5e703d01ada357fba9fe3abffb9ca7",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "What You Are",
+            "length": "4:09",
+            "deezer": {
+              "id": 851055,
+              "link": "https://www.deezer.com/track/851055",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/0/0/480a46d6d632166b53afef163cf99f8c.mp3?hdnea=exp=1795651722~acl=/api/1/1/4/8/0/0/480a46d6d632166b53afef163cf99f8c.mp3*~data=user_id=0,application_id=42~hmac=080bc9b7b1df1fa8ab1475f8592016ed46cd177bed9d82e2f0cd09c9b4dcb347",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Like a Stone",
+            "length": "4:54",
+            "deezer": {
+              "id": 851057,
+              "link": "https://www.deezer.com/track/851057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686255b1a32679574a923e449c860416.mp3?hdnea=exp=1795651722~acl=/api/1/1/6/8/6/0/686255b1a32679574a923e449c860416.mp3*~data=user_id=0,application_id=42~hmac=5fc7f132d0aa63f631eea64299ab591aff865a529bd9174c6c05c0e10963bfed",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Set It Off",
+            "length": "4:23",
+            "deezer": {
+              "id": 851058,
+              "link": "https://www.deezer.com/track/851058",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/1/0/d4195643763c712e261828cce4ac15be.mp3?hdnea=exp=1795651722~acl=/api/1/1/d/4/1/0/d4195643763c712e261828cce4ac15be.mp3*~data=user_id=0,application_id=42~hmac=2b0c34c79154af39b707543372b3937d8a72755c53acb8f113a47247191e1ac6",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Shadow on the Sun",
+            "length": "5:43",
+            "deezer": {
+              "id": 851061,
+              "link": "https://www.deezer.com/track/851061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/d/0/dad4104c63cbc102cc15797ab42fe0e7.mp3?hdnea=exp=1795651722~acl=/api/1/1/d/a/d/0/dad4104c63cbc102cc15797ab42fe0e7.mp3*~data=user_id=0,application_id=42~hmac=8c77e099f023219ede3b8170c61e15e9243fc7e696d313ce5c729512b24b54b9",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Am the Highway",
+            "length": "5:35",
+            "deezer": {
+              "id": 851063,
+              "link": "https://www.deezer.com/track/851063",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/5/0/215eedab4eeca2efca82d01f6ee8716a.mp3?hdnea=exp=1795651722~acl=/api/1/1/2/1/5/0/215eedab4eeca2efca82d01f6ee8716a.mp3*~data=user_id=0,application_id=42~hmac=674f6107edde4096755df2169055b2e11dfcc04bdb5986af5296eecdcc16783f",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Exploder",
+            "length": "3:26",
+            "deezer": {
+              "id": 851066,
+              "link": "https://www.deezer.com/track/851066",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/e/0/d1e293cf8ebd7e5a13b695121023785e.mp3?hdnea=exp=1795651722~acl=/api/1/1/d/1/e/0/d1e293cf8ebd7e5a13b695121023785e.mp3*~data=user_id=0,application_id=42~hmac=b7d78b7313b77cfea74b0bb184aaf5e044fa143b5471d39b3e61edbcc342c2a7",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Hypnotize",
+            "length": "3:27",
+            "deezer": {
+              "id": 851067,
+              "link": "https://www.deezer.com/track/851067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/b/0/c2b152131cea769e381a84dc9e8863f8.mp3?hdnea=exp=1795651722~acl=/api/1/1/c/2/b/0/c2b152131cea769e381a84dc9e8863f8.mp3*~data=user_id=0,application_id=42~hmac=cd59d8175ee2d51b8b5dffdabfa51e62b0d45298af218048ed8344da0988a16a",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Bring ’em Back Alive",
+            "length": "5:29",
+            "deezer": {
+              "id": 851069,
+              "link": "https://www.deezer.com/track/851069",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/3/0/3a35a606130a023b0822c0af89952d02.mp3?hdnea=exp=1795651722~acl=/api/1/1/3/a/3/0/3a35a606130a023b0822c0af89952d02.mp3*~data=user_id=0,application_id=42~hmac=4dcd2cd2d0b7ff74dff4f38888b284473bdfa43781c765d6dbb4edb7ae42d58b",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Light My Way",
+            "length": "5:03",
+            "deezer": {
+              "id": 851071,
+              "link": "https://www.deezer.com/track/851071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/c/0/fec4521e42b4e47327d8045fd6140fef.mp3?hdnea=exp=1795651722~acl=/api/1/1/f/e/c/0/fec4521e42b4e47327d8045fd6140fef.mp3*~data=user_id=0,application_id=42~hmac=22147dbf7b0925eabb94d28c64e55201012770c6f86c7abea3b98cac3dc1c0a7",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Getaway Car",
+            "length": "4:59",
+            "deezer": {
+              "id": 851073,
+              "link": "https://www.deezer.com/track/851073",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/1/0/e0155e09ba7993c171b38d986c05ccbb.mp3?hdnea=exp=1795651722~acl=/api/1/1/e/0/1/0/e0155e09ba7993c171b38d986c05ccbb.mp3*~data=user_id=0,application_id=42~hmac=a3706b5ae6cde14eb81bcc8568fe22b9126a18a834aa65945970403dd6256974",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "The Last Remaining Light",
+            "length": "5:17",
+            "deezer": {
+              "id": 851075,
+              "link": "https://www.deezer.com/track/851075",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/4/0/cb417e3c202d704d1dedca17f30728ac.mp3?hdnea=exp=1795651722~acl=/api/1/1/c/b/4/0/cb417e3c202d704d1dedca17f30728ac.mp3*~data=user_id=0,application_id=42~hmac=0fe7edd4f8d381414b34de839e415df8a7abe0446ca03f446844f0c4f4795947",
+              "preview_expires": "2026-11-26T00:08:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Audioslave/Audioslave.jpg"
+}

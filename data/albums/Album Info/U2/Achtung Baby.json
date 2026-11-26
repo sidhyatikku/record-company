@@ -1,0 +1,291 @@
+{
+  "title": "Achtung Baby",
+  "artist": "U2",
+  "year": 1991,
+  "release_date": "1991-11-18",
+  "type": "Album",
+  "description": "Achtung Baby is the seventh studio album by the Irish rock band U2. It was produced by Daniel Lanois and Brian Eno, and was released on 18 November 1991 by Island Records. After criticism of their 1988 documentary film and album Rattle and Hum and a sense of creative stagnation, U2 shifted their direction to incorporate influences from alternative, industrial, and electronic dance music into their sound. Thematically, Achtung Baby is darker, more introspective, and at times more flippant than their previous work. For his lyrics, lead vocalist Bono was partly inspired by the failed marriages of two friends, including U2's guitarist the Edge.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "alternative rock",
+    "alternative dance",
+    "dance-rock",
+    "indie rock",
+    "electronic",
+    "pop",
+    "post-punk"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "alternative rock",
+    "alternative dance",
+    "dance-rock",
+    "indie rock",
+    "90s",
+    "adult alternative pop/rock",
+    "adult alternative rock",
+    "album rock",
+    "alternative",
+    "alternative pop/rock",
+    "alternative/indie rock",
+    "classic pop and rock",
+    "college rock",
+    "contemporary pop/rock",
+    "electronic",
+    "pop",
+    "pop/rock",
+    "post-punk",
+    "rock ballad",
+    "rock pop",
+    "synthpop",
+    "vyrzukhisuc-album"
+  ],
+  "rating": {
+    "value_out_of_5": 4.35,
+    "votes": 39
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/744c7a1b-ac79-35c4-bd92-7e2c6a24c8d8",
+    "wikipedia": "https://en.wikipedia.org/wiki/Achtung_Baby",
+    "allmusic": "https://www.allmusic.com/album/mw0000202435",
+    "discogs": "https://www.discogs.com/master/20774",
+    "wikidata": "https://www.wikidata.org/wiki/Q308801",
+    "deezer": "https://www.deezer.com/album/1316058"
+  },
+  "musicbrainz_id": "744c7a1b-ac79-35c4-bd92-7e2c6a24c8d8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0ff822f3-5834-482f-a520-519b11ecffb3",
+      "barcode": "602557097399",
+      "title": "Achtung Baby (deluxe edition)",
+      "disambiguation": "hi-res audio",
+      "date": "2011",
+      "country": "US"
+    },
+    "total_tracks": 26,
+    "total_length": "1:58:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Zoo Station",
+            "length": "4:36",
+            "deezer": {
+              "id": 14343464,
+              "link": "https://www.deezer.com/track/14343464",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/3/0/e732984470a8226566ff529af2169ed7.mp3?hdnea=exp=1795722079~acl=/api/1/1/e/7/3/0/e732984470a8226566ff529af2169ed7.mp3*~data=user_id=0,application_id=42~hmac=ef3bc746c2e405db060d4ea306bbf3b4ebdd68fc2616c6286e79cec697182253",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Even Better Than the Real Thing",
+            "length": "3:41",
+            "deezer": {
+              "id": 14343465,
+              "link": "https://www.deezer.com/track/14343465",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/9/0/91926023452e77c2d7f5b69d7447afa0.mp3?hdnea=exp=1795722079~acl=/api/1/1/9/1/9/0/91926023452e77c2d7f5b69d7447afa0.mp3*~data=user_id=0,application_id=42~hmac=fc40269b5751588c6b40aa068d6ef7d5f73dcba71d80dc6cade6bc38013e1059",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "One",
+            "length": "4:36",
+            "deezer": {
+              "id": 14343466,
+              "link": "https://www.deezer.com/track/14343466",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/c/0/06c5a9b640cf5e5d86344d7f0d892194.mp3?hdnea=exp=1795722079~acl=/api/1/1/0/6/c/0/06c5a9b640cf5e5d86344d7f0d892194.mp3*~data=user_id=0,application_id=42~hmac=93afddd4e96954e8a1287dbbc8eaf7ecf1724027b94f017565141762cee57ab2",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Until the End of the World",
+            "length": "4:39",
+            "deezer": {
+              "id": 14343467,
+              "link": "https://www.deezer.com/track/14343467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/9/0/8494b44294942d1e0faefc8fb00e45a9.mp3?hdnea=exp=1795722079~acl=/api/1/1/8/4/9/0/8494b44294942d1e0faefc8fb00e45a9.mp3*~data=user_id=0,application_id=42~hmac=7359b2b69f60dca60cf1f6a1c98ba79f14e0968cba999ed4f8e736300ed16e23",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Who’s Gonna Ride Your Wild Horses",
+            "length": "5:17",
+            "deezer": {
+              "id": 14343468,
+              "link": "https://www.deezer.com/track/14343468",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/9/0/589343501449ef09eabd52acfb647957.mp3?hdnea=exp=1795722079~acl=/api/1/1/5/8/9/0/589343501449ef09eabd52acfb647957.mp3*~data=user_id=0,application_id=42~hmac=0d6a9cc3a0320e5c0d4bde38b2da6bb3f7d6046d137656ff0ab8daf194a6f197",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "So Cruel",
+            "length": "5:49",
+            "deezer": {
+              "id": 14343469,
+              "link": "https://www.deezer.com/track/14343469",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/f/0/78f4f35a7246e8a61bdc58e7ae9a2e55.mp3?hdnea=exp=1795722079~acl=/api/1/1/7/8/f/0/78f4f35a7246e8a61bdc58e7ae9a2e55.mp3*~data=user_id=0,application_id=42~hmac=e28d2ca89df306da270a37620852a8c1063e381f5b6b302994d66e5d6c2a311a",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Fly",
+            "length": "4:29",
+            "deezer": {
+              "id": 14343470,
+              "link": "https://www.deezer.com/track/14343470",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/1/0/cd14c7ee8ea35016e377639552085873.mp3?hdnea=exp=1795722079~acl=/api/1/1/c/d/1/0/cd14c7ee8ea35016e377639552085873.mp3*~data=user_id=0,application_id=42~hmac=c72771fee49625c466269a999d91c856c04e93e158625474a515ba507e058ddb",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mysterious Ways",
+            "length": "4:04",
+            "deezer": {
+              "id": 14343471,
+              "link": "https://www.deezer.com/track/14343471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/2/0/162643cbc0e259f47e9e0823e2389c42.mp3?hdnea=exp=1795722079~acl=/api/1/1/1/6/2/0/162643cbc0e259f47e9e0823e2389c42.mp3*~data=user_id=0,application_id=42~hmac=0c80f720e91a14384c31ec0d0c4a977f72e308a88938c154e059b4fb49fc7f73",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Tryin’ to Throw Your Arms Around the World",
+            "length": "3:53",
+            "deezer": {
+              "id": 14343472,
+              "link": "https://www.deezer.com/track/14343472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/0/0/df0b381618e98c4d3e7a705cf4cc2e4b.mp3?hdnea=exp=1795722079~acl=/api/1/1/d/f/0/0/df0b381618e98c4d3e7a705cf4cc2e4b.mp3*~data=user_id=0,application_id=42~hmac=a78a96cd0fa82670af92abded7f61230a103bfbb6fb124318c17d61331210eb5",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ultra Violet (Light My Way)",
+            "length": "5:31",
+            "deezer": {
+              "id": 14343473,
+              "link": "https://www.deezer.com/track/14343473",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/d/0/c3df2e7e207bdf58b7d4ff115df90dfd.mp3?hdnea=exp=1795722079~acl=/api/1/1/c/3/d/0/c3df2e7e207bdf58b7d4ff115df90dfd.mp3*~data=user_id=0,application_id=42~hmac=6c202f129623448145c946f742520ed893e5e7e441da61e817d1eeaf556f2b31",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Acrobat",
+            "length": "4:30",
+            "deezer": {
+              "id": 14343474,
+              "link": "https://www.deezer.com/track/14343474",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/1/0/db1b74dc6ebab068481c3e6bdda04d19.mp3?hdnea=exp=1795722079~acl=/api/1/1/d/b/1/0/db1b74dc6ebab068481c3e6bdda04d19.mp3*~data=user_id=0,application_id=42~hmac=ba400720c57d9f71377eecf620b704b7fc66eba147fec60fb94c9546f49fae45",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Love Is Blindness",
+            "length": "4:23",
+            "deezer": {
+              "id": 14343475,
+              "link": "https://www.deezer.com/track/14343475",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/f/0/61fe29c95325a636a400160df03b04c0.mp3?hdnea=exp=1795722079~acl=/api/1/1/6/1/f/0/61fe29c95325a636a400160df03b04c0.mp3*~data=user_id=0,application_id=42~hmac=dc91c7f46531f49e0c6b134dbbfd3c88c74a2b9f7afe7d8b6f97035172aa0995",
+              "preview_expires": "2026-11-26T19:41:19Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lady With the Spinning Head (UV1)",
+            "length": "3:57"
+          },
+          {
+            "number": "2",
+            "title": "Blow Your House Down",
+            "length": "3:30"
+          },
+          {
+            "number": "3",
+            "title": "Salomé",
+            "length": "4:35"
+          },
+          {
+            "number": "4",
+            "title": "Even Better Than the Real Thing (single version)",
+            "length": "3:41"
+          },
+          {
+            "number": "5",
+            "title": "Satellite of Love",
+            "length": "4:03"
+          },
+          {
+            "number": "6",
+            "title": "Who's Gonna Ride Your Wild Horses (Temple Bar remix)",
+            "length": "4:52"
+          },
+          {
+            "number": "7",
+            "title": "Paint It Black",
+            "length": "3:25"
+          },
+          {
+            "number": "8",
+            "title": "Even Better Than the Real Thing (Fish Out of Water remix)",
+            "length": "4:06"
+          },
+          {
+            "number": "9",
+            "title": "Mysterious Ways (The Perfecto remix)",
+            "length": "7:06"
+          },
+          {
+            "number": "10",
+            "title": "Night and Day (Steel String remix)",
+            "length": "6:59"
+          },
+          {
+            "number": "11",
+            "title": "The Lounge Fly Mix",
+            "length": "6:30"
+          },
+          {
+            "number": "12",
+            "title": "Fortunate Son",
+            "length": "2:43"
+          },
+          {
+            "number": "13",
+            "title": "Alex Descends Into Hell for a Bottle of Milk/Korova 1",
+            "length": "3:39"
+          },
+          {
+            "number": "14",
+            "title": "Where Did It All Go Wrong?",
+            "length": "3:59"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/U2/Achtung Baby.jpg"
+}

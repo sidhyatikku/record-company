@@ -1,0 +1,176 @@
+{
+  "title": "American Idiot",
+  "artist": "Green Day",
+  "year": 2004,
+  "release_date": "2004-09-20",
+  "type": "Album",
+  "description": "American Idiot is the seventh studio album by the American rock band Green Day, released on September 21, 2004, by Reprise Records. The album was produced by Rob Cavallo in collaboration with the group. Recording sessions for American Idiot took place at Studio 880 in Oakland and Ocean Way Recording in Hollywood, both in California, between 2003 and 2004. A concept album, dubbed a \"punk rock opera\" by the band members, American Idiot follows the story of Jesus of Suburbia, a lower-middle-class American adolescent anti-hero. The album expresses the disillusionment and dissent of a generation that came of age in a period shaped by tumultuous events such as 9/11 and the Iraq War.",
+  "genres": [
+    "alternative rock",
+    "punk rock",
+    "pop punk",
+    "pop rock",
+    "rock",
+    "rock opera",
+    "alternative punk",
+    "power pop",
+    "punk"
+  ],
+  "tags": [
+    "alternative rock",
+    "punk rock",
+    "pop punk",
+    "pop rock",
+    "rock",
+    "rock opera",
+    "alternative",
+    "5+ wochen",
+    "alternative and punk",
+    "alternative punk",
+    "alternative/indie",
+    "contemporary rock",
+    "offizielle charts",
+    "power pop",
+    "punk",
+    "punk revival",
+    "rebellious",
+    "romantic",
+    "urban"
+  ],
+  "rating": {
+    "value_out_of_5": 3.95,
+    "votes": 29
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Idiot",
+    "allmusic": "https://www.allmusic.com/album/mw0000387172",
+    "discogs": "https://www.discogs.com/master/33161",
+    "wikidata": "https://www.wikidata.org/wiki/Q151714",
+    "deezer": "https://www.deezer.com/album/92118"
+  },
+  "musicbrainz_id": "de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1790c881-b35b-4c3e-a489-e011e5143476",
+      "barcode": "093624877769",
+      "title": "American Idiot",
+      "disambiguation": null,
+      "date": "2004-09-21",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "57:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "American Idiot",
+            "length": "2:53",
+            "deezer": {
+              "id": 787169,
+              "link": "https://www.deezer.com/track/787169",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/5/0/f0588279f8c34556f96be5b6876067a5.mp3?hdnea=exp=1795654751~acl=/api/1/1/f/0/5/0/f0588279f8c34556f96be5b6876067a5.mp3*~data=user_id=0,application_id=42~hmac=e45da3b47515b5dd20181876f6901c9696d3d23a4ae1476624ce2315ed23a205",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jesus of Suburbia",
+            "length": "9:08",
+            "deezer": {
+              "id": 787181,
+              "link": "https://www.deezer.com/track/787181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/f/0/fff56b20ef9ab0c988085ada1df26189.mp3?hdnea=exp=1795654751~acl=/api/1/1/f/f/f/0/fff56b20ef9ab0c988085ada1df26189.mp3*~data=user_id=0,application_id=42~hmac=db61a47f411d49950af9d7b983f48bc19a9f794e7902bc283ba1e436e7141f0d",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Holiday / Boulevard of Broken Dreams",
+            "length": "8:13",
+            "deezer": {
+              "id": 787190,
+              "link": "https://www.deezer.com/track/787190",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/9/0/a69a4b0b10117e75a6538be80ec17075.mp3?hdnea=exp=1795654751~acl=/api/1/1/a/6/9/0/a69a4b0b10117e75a6538be80ec17075.mp3*~data=user_id=0,application_id=42~hmac=e5e875ef55c84b4ae3782330ecfbc288cfd12f1d02d92311fe2e6e1520a9b261",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Are We the Waiting / St. Jimmy",
+            "length": "5:38",
+            "deezer": {
+              "id": 787198,
+              "link": "https://www.deezer.com/track/787198",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/a/0/53a5298a03765b02078816c84230f708.mp3?hdnea=exp=1795654751~acl=/api/1/1/5/3/a/0/53a5298a03765b02078816c84230f708.mp3*~data=user_id=0,application_id=42~hmac=641ca750422ba70d6a87ffe277d02a47fef0f62dd865d49952fe4d511bde8d19",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Give Me Novacaine / She’s a Rebel",
+            "length": "5:26",
+            "deezer": {
+              "id": 787206,
+              "link": "https://www.deezer.com/track/787206",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/a/0/66aa4e316140306fea30d1efd0ebd060.mp3?hdnea=exp=1795654751~acl=/api/1/1/6/6/a/0/66aa4e316140306fea30d1efd0ebd060.mp3*~data=user_id=0,application_id=42~hmac=65c7df9905ad11397fa4fb91e7d498fe5382aea215d7f6af48041c4101046a37",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Extraordinary Girl / Letterbomb",
+            "length": "7:40",
+            "deezer": {
+              "id": 787212,
+              "link": "https://www.deezer.com/track/787212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/1/0/691f1df8c53b4aa845977c043e072702.mp3?hdnea=exp=1795654751~acl=/api/1/1/6/9/1/0/691f1df8c53b4aa845977c043e072702.mp3*~data=user_id=0,application_id=42~hmac=58eeebd8d8701dce9de5286352817bb9c3c7744ef888201217b6ceab8b5b4039",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Wake Me Up When September Ends",
+            "length": "4:45",
+            "deezer": {
+              "id": 787220,
+              "link": "https://www.deezer.com/track/787220",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/6/0/bb66508b99da72124abbdd4b5c9b3f88.mp3?hdnea=exp=1795654751~acl=/api/1/1/b/b/6/0/bb66508b99da72124abbdd4b5c9b3f88.mp3*~data=user_id=0,application_id=42~hmac=af8d7d2b5ec1ea1f8e213806849eb1c022afba14df94beda52793de2f62663fd",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Homecoming",
+            "length": "9:18",
+            "deezer": {
+              "id": 787230,
+              "link": "https://www.deezer.com/track/787230",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/f/0/0dfaf8e4e1e1d68231d8f796d79751b3.mp3?hdnea=exp=1795654751~acl=/api/1/1/0/d/f/0/0dfaf8e4e1e1d68231d8f796d79751b3.mp3*~data=user_id=0,application_id=42~hmac=88db8dbdb8514323718d3a0e3504277dc087d81e9150ab91d184295b69f6254e",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Whatsername",
+            "length": "4:12",
+            "deezer": {
+              "id": 787235,
+              "link": "https://www.deezer.com/track/787235",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/4/0/4e4ecc9d591984e3dbc38e43b3e2f3fb.mp3?hdnea=exp=1795654751~acl=/api/1/1/4/e/4/0/4e4ecc9d591984e3dbc38e43b3e2f3fb.mp3*~data=user_id=0,application_id=42~hmac=98bb8dc1297c84bf583719e007829fe5fd1f639fa870216567fcc70c88af0d58",
+              "preview_expires": "2026-11-26T00:59:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Green Day/American Idiot.jpg"
+}

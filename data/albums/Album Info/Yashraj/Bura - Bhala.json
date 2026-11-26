@@ -1,0 +1,51 @@
+{
+  "title": "Bura / Bhala",
+  "artist": "Yashraj & Akash Shravan",
+  "year": 2022,
+  "release_date": "2022-11-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f227cc48-ea4d-4909-ba29-97365308c8cb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/500230191"
+  },
+  "musicbrainz_id": "f227cc48-ea4d-4909-ba29-97365308c8cb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/98b951f6-3e43-4fbc-8893-bedf782c2d51",
+      "barcode": "00602458714425",
+      "title": "Bura / Bhala",
+      "disambiguation": null,
+      "date": "2022-11-18",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bura / Bhala",
+            "length": "3:03",
+            "deezer": {
+              "id": 2498890481,
+              "link": "https://www.deezer.com/track/2498890481",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/d/0/b0d72aa834937da665348832c19965e3.mp3?hdnea=exp=1795724449~acl=/api/1/1/b/0/d/0/b0d72aa834937da665348832c19965e3.mp3*~data=user_id=0,application_id=42~hmac=b8d6e94110b1d39b76646a8d6915f8401ec271cc311230a68a616b176f37c357",
+              "preview_expires": "2026-11-26T20:20:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yashraj/Bura - Bhala.jpg"
+}

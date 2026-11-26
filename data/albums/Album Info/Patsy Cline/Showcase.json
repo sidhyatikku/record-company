@@ -1,0 +1,195 @@
+{
+  "title": "Showcase",
+  "artist": "Patsy Cline",
+  "year": 1961,
+  "release_date": "1961-11-27",
+  "type": "Album",
+  "description": "Showcase is the second studio album by American country music singer Patsy Cline, recorded with The Jordanaires and released November 27, 1961. It was Cline's second studio album and her first since Patsy Cline in 1957.",
+  "genres": [
+    "country",
+    "nashville sound",
+    "pop"
+  ],
+  "tags": [
+    "country",
+    "nashville sound",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b952a2b4-07df-31f1-911a-25af1a8631d9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Showcase_(Patsy_Cline_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000195207",
+    "discogs": "https://www.discogs.com/master/170127",
+    "wikidata": "https://www.wikidata.org/wiki/Q7148238",
+    "deezer": "https://www.deezer.com/album/70491102"
+  },
+  "musicbrainz_id": "b952a2b4-07df-31f1-911a-25af1a8631d9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c03887fc-fb9c-432d-825a-a7a12d09fef0",
+      "barcode": "00602567823957",
+      "title": "Showcase",
+      "disambiguation": null,
+      "date": "2013-08-08",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "29:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Fall to Pieces (single version)",
+            "length": "2:50",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187032,
+              "link": "https://www.deezer.com/track/540187032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785aa42efd590528a231c6913a1a8881.mp3?hdnea=exp=1795719398~acl=/api/1/1/7/8/5/0/785aa42efd590528a231c6913a1a8881.mp3*~data=user_id=0,application_id=42~hmac=f945b33234bb3aa20845c758b91dc4380ea7e3c329b480abff1e5385605138dd",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Foolin’ ’Round",
+            "length": "2:13",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187042,
+              "link": "https://www.deezer.com/track/540187042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/9/0/609c06eb54c9b2ff2ac11817f89d912d.mp3?hdnea=exp=1795719398~acl=/api/1/1/6/0/9/0/609c06eb54c9b2ff2ac11817f89d912d.mp3*~data=user_id=0,application_id=42~hmac=d147cb71ffe19e28b7011368fa32b15c0bbc2140ffbd3dfc441395d76c1e1f87",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Wayward Wind",
+            "length": "3:20",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187052,
+              "link": "https://www.deezer.com/track/540187052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/c/0/9ccf3a6e6066f8209c18df6fbad7eb8b.mp3?hdnea=exp=1795719398~acl=/api/1/1/9/c/c/0/9ccf3a6e6066f8209c18df6fbad7eb8b.mp3*~data=user_id=0,application_id=42~hmac=c962b87fc11fab755973247cdffa33246015f46775bd4767ef2d993ac7faf0a5",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "South of the Border (Down Mexico Way)",
+            "length": "2:26",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187062,
+              "link": "https://www.deezer.com/track/540187062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/8/0/0c8a57370df8d6646be903dd780c4736.mp3?hdnea=exp=1795719398~acl=/api/1/1/0/c/8/0/0c8a57370df8d6646be903dd780c4736.mp3*~data=user_id=0,application_id=42~hmac=f888eec204c0bd2de149e90693ec80e8008255597ff8aa82f07f99b4b78165ae",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Love You So Much It Hurts",
+            "length": "2:14",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187072,
+              "link": "https://www.deezer.com/track/540187072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/f/0/05f7e497bd7ec939091c495bd12fd0df.mp3?hdnea=exp=1795719398~acl=/api/1/1/0/5/f/0/05f7e497bd7ec939091c495bd12fd0df.mp3*~data=user_id=0,application_id=42~hmac=885f915e7f5e753d889f4f348beca1750c7a575394b7eede0663171da6ca0821",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Seven Lonely Days",
+            "length": "2:13",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187082,
+              "link": "https://www.deezer.com/track/540187082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/e/0/a7e87084f27d840c016c869dd43b8a47.mp3?hdnea=exp=1795719398~acl=/api/1/1/a/7/e/0/a7e87084f27d840c016c869dd43b8a47.mp3*~data=user_id=0,application_id=42~hmac=58b7e8be2058e8682be86a4865596ad8757775cefad3a988360c1075e7ed8708",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Crazy (single version)",
+            "length": "2:44",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187092,
+              "link": "https://www.deezer.com/track/540187092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/b/0/a2b56c3922a6bb1dbf8fbb6da36e809b.mp3?hdnea=exp=1795719398~acl=/api/1/1/a/2/b/0/a2b56c3922a6bb1dbf8fbb6da36e809b.mp3*~data=user_id=0,application_id=42~hmac=2d9a67e0589d3a0a1512149cdfdc7001f57b165ca68205ce4e5581a787583d92",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "San Antonio Rose",
+            "length": "2:20",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187102,
+              "link": "https://www.deezer.com/track/540187102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/0/0/ba0b51744aee7ba07ee1dc63cd32113c.mp3?hdnea=exp=1795719398~acl=/api/1/1/b/a/0/0/ba0b51744aee7ba07ee1dc63cd32113c.mp3*~data=user_id=0,application_id=42~hmac=0c482e8fffa5e002a6206a099ad9e78405b96a4e5435cc9bf3544bd4aba1d1c4",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "True Love",
+            "length": "2:08",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187112,
+              "link": "https://www.deezer.com/track/540187112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/f/0/b5fec15b16b7d0762a6f4cc257292875.mp3?hdnea=exp=1795719398~acl=/api/1/1/b/5/f/0/b5fec15b16b7d0762a6f4cc257292875.mp3*~data=user_id=0,application_id=42~hmac=5e18b4cc0bec186f971107bf1fb675b2ed8c2b222bef136b4aa6e8a6365c3e26",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Walkin’ After Midnight",
+            "length": "2:00",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187122,
+              "link": "https://www.deezer.com/track/540187122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/d/0/0dd73a48446000b8ab292475f330042a.mp3?hdnea=exp=1795719398~acl=/api/1/1/0/d/d/0/0dd73a48446000b8ab292475f330042a.mp3*~data=user_id=0,application_id=42~hmac=ca2c339acff70e5acd6617cf9926dc6b08b78b1ad8bb9ebb8f9a3dc4dc5e56eb",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "A Poor Man’s Roses (Or a Rich Man’s Gold)",
+            "length": "2:36",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187132,
+              "link": "https://www.deezer.com/track/540187132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/3/0/1e393ec811b2286e35492c2b97cb60e7.mp3?hdnea=exp=1795719398~acl=/api/1/1/1/e/3/0/1e393ec811b2286e35492c2b97cb60e7.mp3*~data=user_id=0,application_id=42~hmac=759851c484ac53524b43d38264fd56a7e9c8128def048e295b50015d6766784b",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Have You Ever Been Lonely (Have You Ever Been Blue)",
+            "length": "2:10",
+            "artist": "Patsy Cline & The Jordanaires",
+            "deezer": {
+              "id": 540187142,
+              "link": "https://www.deezer.com/track/540187142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/d/0/01d562518db031e6a51d517ba85e9950.mp3?hdnea=exp=1795719398~acl=/api/1/1/0/1/d/0/01d562518db031e6a51d517ba85e9950.mp3*~data=user_id=0,application_id=42~hmac=183d85878b57cbd9f1967846867f8bb91400e466382342d115b72be300df18c6",
+              "preview_expires": "2026-11-26T18:56:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Patsy Cline/Showcase.jpg"
+}

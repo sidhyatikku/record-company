@@ -1,0 +1,44 @@
+{
+  "title": "RAJA",
+  "artist": "SUKHA",
+  "year": 2024,
+  "release_date": "2024-08-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5xqv4eEYSohXW8XGe3By9n",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5xqv4eEYSohXW8XGe3By9n",
+      "title": "RAJA",
+      "date": "2024-08-26"
+    },
+    "total_tracks": 1,
+    "total_length": "2:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "RAJA",
+            "length": "2:40"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/SUKHA/RAJA.jpg"
+}

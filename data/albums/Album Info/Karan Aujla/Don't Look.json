@@ -1,0 +1,52 @@
+{
+  "title": "Don’t Look 2",
+  "artist": "Karan Aujla & G-Funk",
+  "year": 2024,
+  "release_date": "2024-06-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b46f24b2-e0eb-45c1-9196-325b36ec2533",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/598094902"
+  },
+  "musicbrainz_id": "b46f24b2-e0eb-45c1-9196-325b36ec2533",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7b921d79-5d1a-4a4e-bf45-b8179f19eddf",
+      "barcode": "5063483861808",
+      "title": "Don’t Look 2",
+      "disambiguation": null,
+      "date": "2024-06-09",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don’t Look 2",
+            "length": "3:19",
+            "artist": "Karan Aujla",
+            "deezer": {
+              "id": 2836686952,
+              "link": "https://www.deezer.com/track/2836686952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/4/0/9745edf1408455825a596e5e8cd2af16.mp3?hdnea=exp=1795655927~acl=/api/1/1/9/7/4/0/9745edf1408455825a596e5e8cd2af16.mp3*~data=user_id=0,application_id=42~hmac=6e1dbdcdff65a7d205b71c35bed8fed60c9c9d7222ea49f198b22119093441b7",
+              "preview_expires": "2026-11-26T01:18:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karan Aujla/Don't Look.jpg"
+}

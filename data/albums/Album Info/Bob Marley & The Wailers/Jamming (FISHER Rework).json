@@ -1,0 +1,50 @@
+{
+  "title": "Jamming (FISHER Rework)",
+  "artist": "Bob Marley & The Wailers, FISHER",
+  "year": 2024,
+  "release_date": "2024-02-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk",
+    "deezer": "https://www.deezer.com/album/543075912"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk",
+      "title": "Jamming (FISHER Rework)",
+      "date": "2024-02-08"
+    },
+    "total_tracks": 1,
+    "total_length": "3:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jamming - FISHER Rework",
+            "length": "3:22",
+            "deezer": {
+              "id": 2647294042,
+              "link": "https://www.deezer.com/track/2647294042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/a/0/d1ad13388656965ed0c92cbb3a7714e5.mp3?hdnea=exp=1795652375~acl=/api/1/1/d/1/a/0/d1ad13388656965ed0c92cbb3a7714e5.mp3*~data=user_id=0,application_id=42~hmac=2c17702876256dd1ba0b5172cdde78f3cf802c75ae33b1ec20bd312229cecb23",
+              "preview_expires": "2026-11-26T00:19:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Bob Marley & The Wailers/Jamming (FISHER Rework).jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Salt + Charcoal",
+  "artist": "Plini",
+  "year": 2018,
+  "release_date": "2018-03-23",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "djent",
+    "jazz",
+    "progressive",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "djent",
+    "jazz",
+    "progressive",
+    "progressive metal",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2d0636a5-9f37-41ad-9907-67e50a5d04fe",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/221650862"
+  },
+  "musicbrainz_id": "2d0636a5-9f37-41ad-9907-67e50a5d04fe",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/23049802-d915-41f4-87d3-4cf745b36d48",
+      "barcode": "9353450148077",
+      "title": "Salt + Charcoal",
+      "disambiguation": null,
+      "date": "2018-03-23",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Salt + Charcoal",
+            "length": "4:20",
+            "deezer": {
+              "id": 1334092372,
+              "link": "https://www.deezer.com/track/1334092372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/3/0/c0305915c730ef432cbc6260a72d3832.mp3?hdnea=exp=1795719562~acl=/api/1/1/c/0/3/0/c0305915c730ef432cbc6260a72d3832.mp3*~data=user_id=0,application_id=42~hmac=b76596b73a3d8b10a4f9da1f2c9ae32c9cf5055ed974883e37191ece94a28df2",
+              "preview_expires": "2026-11-26T18:59:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Plini/Salt + Charcoal.jpg"
+}

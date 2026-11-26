@@ -1,0 +1,52 @@
+{
+  "title": "Moohfatt",
+  "artist": "Rawal",
+  "year": 2024,
+  "release_date": "2024-03-15",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "hindi indie",
+    "indian indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/43xZ3KNYdcujC05LtvyD8E",
+    "deezer": "https://www.deezer.com/album/555366482"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/43xZ3KNYdcujC05LtvyD8E",
+      "title": "Moohfatt",
+      "date": "2024-03-15"
+    },
+    "total_tracks": 1,
+    "total_length": "2:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Moohfatt",
+            "length": "2:49",
+            "deezer": {
+              "id": 2687024452,
+              "link": "https://www.deezer.com/track/2687024452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/1/0/9c120d66c5d868e129553da7082f5a76.mp3?hdnea=exp=1795719996~acl=/api/1/1/9/c/1/0/9c120d66c5d868e129553da7082f5a76.mp3*~data=user_id=0,application_id=42~hmac=18586ce40d7ccfe82b46cf28f67ab7f27c2eeb11e17d7a7aa00c35c886c60d37",
+              "preview_expires": "2026-11-26T19:06:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Rawal/Moohfatt.jpg"
+}

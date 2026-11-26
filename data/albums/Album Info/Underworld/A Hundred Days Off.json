@@ -1,0 +1,168 @@
+{
+  "title": "A Hundred Days Off",
+  "artist": "Underworld",
+  "year": 2002,
+  "release_date": "2002-09-04",
+  "type": "Album",
+  "description": "A Hundred Days Off is the sixth album by British electronic music group Underworld. The album produced two UK Singles Chart entries: \"Two Months Off\", which reached No. 12, and \"Dinosaur Adventure 3D\", which reached No. 34. Although this was the first album since Darren Emerson's departure from the group in 2001, the album is not a huge stylistic makeover as the main focus of the band is still trance, techno, and house, although without the thumping beats that defined their previous album Beaucoup Fish. Instead, the album explores more of an ambient and experimental music style.",
+  "genres": [
+    "electronic",
+    "house",
+    "soft rock",
+    "techno"
+  ],
+  "tags": [
+    "electronic",
+    "house",
+    "electronica dance",
+    "dance and electronica",
+    "soft rock",
+    "techno"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2d0bd26f-7a0d-3644-b019-6e97a83139ec",
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Hundred_Days_Off",
+    "discogs": "https://www.discogs.com/master/46549",
+    "wikidata": "https://www.wikidata.org/wiki/Q3273820",
+    "deezer": "https://www.deezer.com/album/8141152"
+  },
+  "musicbrainz_id": "2d0bd26f-7a0d-3644-b019-6e97a83139ec",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c4be4e85-53eb-4034-81c8-46479a0b7d20",
+      "barcode": null,
+      "title": "A Hundred Days Off",
+      "disambiguation": null,
+      "date": "2014",
+      "country": "XE"
+    },
+    "total_tracks": 10,
+    "total_length": "1:01:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mo Move",
+            "length": "6:54",
+            "deezer": {
+              "id": 81292308,
+              "link": "https://www.deezer.com/track/81292308",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/9/0/9697943f071a6d88b2355f716e64c613.mp3?hdnea=exp=1795722126~acl=/api/1/1/9/6/9/0/9697943f071a6d88b2355f716e64c613.mp3*~data=user_id=0,application_id=42~hmac=f90581e2be4e4cdb485aa54cd7db33241f8a163fcde608bcd15e2bd2bf6474f5",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Two Months Off",
+            "length": "9:08",
+            "deezer": {
+              "id": 81292310,
+              "link": "https://www.deezer.com/track/81292310",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/1/0/e31c7234de23e92398c3d9615b66ff9a.mp3?hdnea=exp=1795722126~acl=/api/1/1/e/3/1/0/e31c7234de23e92398c3d9615b66ff9a.mp3*~data=user_id=0,application_id=42~hmac=730dfc72fc8b14035084c3f74c94796ffb1debd8911adc858a8d4f17091d3a9d",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Twist",
+            "length": "6:24",
+            "deezer": {
+              "id": 81292312,
+              "link": "https://www.deezer.com/track/81292312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/d/0/66d4c7cc83000b4382b943d026472927.mp3?hdnea=exp=1795722126~acl=/api/1/1/6/6/d/0/66d4c7cc83000b4382b943d026472927.mp3*~data=user_id=0,application_id=42~hmac=17d7c3608ea42adf0cb01945d8a43225028b5875c7b2906882cc7d158e59f804",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sola Sistim",
+            "length": "6:26",
+            "deezer": {
+              "id": 81292314,
+              "link": "https://www.deezer.com/track/81292314",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/1/0/0115f7126bccfc9bd8ab301684efe0f6.mp3?hdnea=exp=1795722126~acl=/api/1/1/0/1/1/0/0115f7126bccfc9bd8ab301684efe0f6.mp3*~data=user_id=0,application_id=42~hmac=5ffe2d55a899ad864fcd515edf3544906b1f915ce2d3ad712f191a50c4736c75",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Little Speaker",
+            "length": "8:38",
+            "deezer": {
+              "id": 81292316,
+              "link": "https://www.deezer.com/track/81292316",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/5/0/a85315f1287c97a58a6f5cb2ac973ab5.mp3?hdnea=exp=1795722126~acl=/api/1/1/a/8/5/0/a85315f1287c97a58a6f5cb2ac973ab5.mp3*~data=user_id=0,application_id=42~hmac=35dfb18f794a6a9f54c068309cee2e500a57f0e96dd93d43e70c6e6104dcff46",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Trim",
+            "length": "3:23",
+            "deezer": {
+              "id": 81292318,
+              "link": "https://www.deezer.com/track/81292318",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/3/0/3331ebf6f3385ec0769b5d01a0d52e35.mp3?hdnea=exp=1795722126~acl=/api/1/1/3/3/3/0/3331ebf6f3385ec0769b5d01a0d52e35.mp3*~data=user_id=0,application_id=42~hmac=4f81a5168b53794a3d39143208285f8de04cec4d20af5b4403fe12a636c8d8e7",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ess Gee",
+            "length": "2:22",
+            "deezer": {
+              "id": 81292320,
+              "link": "https://www.deezer.com/track/81292320",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/b/0/f0b33d8ce620fcaf8237498fab292314.mp3?hdnea=exp=1795722126~acl=/api/1/1/f/0/b/0/f0b33d8ce620fcaf8237498fab292314.mp3*~data=user_id=0,application_id=42~hmac=d97d2ed309c12b9091972689886a9ebfd87c25fbfe90d8440c909bac287b056e",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dinosaur Adventure 3D",
+            "length": "7:56",
+            "deezer": {
+              "id": 81292322,
+              "link": "https://www.deezer.com/track/81292322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/6/0/3a67ca4426e15d83cacf222835b237af.mp3?hdnea=exp=1795722126~acl=/api/1/1/3/a/6/0/3a67ca4426e15d83cacf222835b237af.mp3*~data=user_id=0,application_id=42~hmac=916e6d192258f946d86a611f2f0b24223b6f5ba6bbc5a2c427cd2a10f4d01619",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ballet Lane",
+            "length": "3:39",
+            "deezer": {
+              "id": 81292324,
+              "link": "https://www.deezer.com/track/81292324",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/a/0/01a6af0025beeee153376e8299c31fc7.mp3?hdnea=exp=1795722126~acl=/api/1/1/0/1/a/0/01a6af0025beeee153376e8299c31fc7.mp3*~data=user_id=0,application_id=42~hmac=fcc2d1b07d7df83042543d0c8604a91686c6759bcf2826c79a24f4071a4560a8",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Luetin",
+            "length": "7:00",
+            "deezer": {
+              "id": 81292326,
+              "link": "https://www.deezer.com/track/81292326",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/1/0/631e9c099368f928c6b0353c64671888.mp3?hdnea=exp=1795722126~acl=/api/1/1/6/3/1/0/631e9c099368f928c6b0353c64671888.mp3*~data=user_id=0,application_id=42~hmac=8356f0e54c5bcea82c2b232ccbbf77395982beddbb72ff2a8b9a5611a5543484",
+              "preview_expires": "2026-11-26T19:42:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Underworld/A Hundred Days Off.jpg"
+}

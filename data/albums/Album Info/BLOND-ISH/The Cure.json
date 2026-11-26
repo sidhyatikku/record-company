@@ -1,0 +1,51 @@
+{
+  "title": "The Cure",
+  "artist": "BLOND:ISH × KeeQ feat. Chloe Paige",
+  "year": 2024,
+  "release_date": "2024-06-27",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b2cee5ff-22b2-4128-a012-f25824b9d266",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/687839761"
+  },
+  "musicbrainz_id": "b2cee5ff-22b2-4128-a012-f25824b9d266",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e588975e-4d33-4c5a-8dc6-ddcf5754417a",
+      "barcode": "826194671198",
+      "title": "The Cure",
+      "disambiguation": null,
+      "date": "2024-06-27",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Cure",
+            "length": "3:54",
+            "deezer": {
+              "id": 3156247041,
+              "link": "https://www.deezer.com/track/3156247041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/0/0/d407abec22a81d847adb7aba2c2df599.mp3?hdnea=exp=1795652230~acl=/api/1/1/d/4/0/0/d407abec22a81d847adb7aba2c2df599.mp3*~data=user_id=0,application_id=42~hmac=bed908fd1eb2ade3850b80c80e449dfdbbeba3b4b3f2fc1bfe9fb70fff77ad36",
+              "preview_expires": "2026-11-26T00:17:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/BLOND-ISH/The Cure.png"
+}

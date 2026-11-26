@@ -1,0 +1,207 @@
+{
+  "title": "Teenage Dream",
+  "artist": "Katy Perry",
+  "year": 2010,
+  "release_date": "2010-08-24",
+  "type": "Album",
+  "description": "Teenage Dream is the third studio album by the American singer-songwriter Katy Perry. It was released on August 24, 2010, through Capitol Records and follows her second album One of the Boys (2008). Primarily a pop record, Teenage Dream also contains elements of disco, electronic, rock, funk, house, hi-NRG, and hip hop, that revolve around young love, partying, self-empowerment, and personal growth. Perry co-wrote the album, and worked with a number of producers such as Max Martin, Dr. Luke, Benny Blanco, Stargate, and Greg Wells.",
+  "genres": [
+    "pop",
+    "synth-pop",
+    "dance-pop",
+    "ballad",
+    "electro",
+    "electronic",
+    "electropop",
+    "pop rap",
+    "pop rock",
+    "power pop",
+    "teen pop"
+  ],
+  "tags": [
+    "pop",
+    "synth-pop",
+    "dance-pop",
+    "ballad",
+    "bubblegum",
+    "contemporary pop/rock",
+    "electro",
+    "electronic",
+    "electropop",
+    "pop rap",
+    "pop rock",
+    "pop/rock",
+    "power pop",
+    "teen pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 13
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e6f683c9-fc85-412c-a352-d6e411fc2603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teenage_Dream",
+    "allmusic": "https://www.allmusic.com/album/mw0002011446",
+    "discogs": "https://www.discogs.com/master/271611",
+    "wikidata": "https://www.wikidata.org/wiki/Q186188",
+    "deezer": "https://www.deezer.com/album/936722571"
+  },
+  "musicbrainz_id": "e6f683c9-fc85-412c-a352-d6e411fc2603",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/380bdb3d-340c-46e0-97d1-90c22ac9f043",
+      "barcode": "05099990895456",
+      "title": "Teenage Dream",
+      "disambiguation": "explicit",
+      "date": "2010-08-27",
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "46:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Teenage Dream",
+            "length": "3:48",
+            "deezer": {
+              "id": 3892148681,
+              "link": "https://www.deezer.com/track/3892148681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/e/0/6ae69a2885e688f9f1777b7cfa078dd1.mp3?hdnea=exp=1795656049~acl=/api/1/1/6/a/e/0/6ae69a2885e688f9f1777b7cfa078dd1.mp3*~data=user_id=0,application_id=42~hmac=2503408588d6cd2d8635ce60288caa5f503b2ded50c8e7db690f8d9f656bea1b",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Last Friday Night (T.G.I.F.)",
+            "length": "3:51",
+            "deezer": {
+              "id": 3892148691,
+              "link": "https://www.deezer.com/track/3892148691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/7/0/307cf74394a18acb95bc8ccb7a8c7308.mp3?hdnea=exp=1795656049~acl=/api/1/1/3/0/7/0/307cf74394a18acb95bc8ccb7a8c7308.mp3*~data=user_id=0,application_id=42~hmac=15bcd520a96c6727b95be476b8b1ac94f4d0d8a3954265085a29246bbf86fe63",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "California Gurls",
+            "length": "3:55",
+            "artist": "Katy Perry feat. Snoop Dogg",
+            "deezer": {
+              "id": 3892148701,
+              "link": "https://www.deezer.com/track/3892148701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/d/0/9bdab1549273ccc3e5e025ebdfcd0a2e.mp3?hdnea=exp=1795656049~acl=/api/1/1/9/b/d/0/9bdab1549273ccc3e5e025ebdfcd0a2e.mp3*~data=user_id=0,application_id=42~hmac=e3a0c1a06d17171faf32cce352f09f443cb4cbd40c142d42b44f40c9442dc7a0",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Firework",
+            "length": "3:48",
+            "deezer": {
+              "id": 3892148711,
+              "link": "https://www.deezer.com/track/3892148711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/6/0/2969c47d51c57c1cee58fd3b2514dfdb.mp3?hdnea=exp=1795656049~acl=/api/1/1/2/9/6/0/2969c47d51c57c1cee58fd3b2514dfdb.mp3*~data=user_id=0,application_id=42~hmac=d820602f88aac129d1e97a1138750ca29426e0aa773aea305b2a0a852f90978f",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Peacock",
+            "length": "3:52",
+            "deezer": {
+              "id": 3892148721,
+              "link": "https://www.deezer.com/track/3892148721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/3/0/043b10c9395d43e4b696fc15f2a254f8.mp3?hdnea=exp=1795656049~acl=/api/1/1/0/4/3/0/043b10c9395d43e4b696fc15f2a254f8.mp3*~data=user_id=0,application_id=42~hmac=c17ab15f089d81e0cbe97f3dabc4148c1fb4e4c17d04c0afa136268523891347",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Circle the Drain",
+            "length": "4:33",
+            "deezer": {
+              "id": 3892148731,
+              "link": "https://www.deezer.com/track/3892148731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/2/0/412563fd10e36b858c80b8daad4e00d5.mp3?hdnea=exp=1795656049~acl=/api/1/1/4/1/2/0/412563fd10e36b858c80b8daad4e00d5.mp3*~data=user_id=0,application_id=42~hmac=790743e0354592eecdb88a86e4106103eb1abd81e474be8f7f13c7c2abac82a0",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The One That Got Away",
+            "length": "3:47",
+            "deezer": {
+              "id": 3892148741,
+              "link": "https://www.deezer.com/track/3892148741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/4/0/ab40e8ebefc4b7cf4287d66cc974c4e5.mp3?hdnea=exp=1795656049~acl=/api/1/1/a/b/4/0/ab40e8ebefc4b7cf4287d66cc974c4e5.mp3*~data=user_id=0,application_id=42~hmac=520106aa9b8c844d348a9bf98239e2be8e06fb3c8862f4e90037040d670e328f",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "E.T.",
+            "length": "3:26",
+            "deezer": {
+              "id": 3892148751,
+              "link": "https://www.deezer.com/track/3892148751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/1/0/9e12c257b887368423ec2b08f4a8c00f.mp3?hdnea=exp=1795656049~acl=/api/1/1/9/e/1/0/9e12c257b887368423ec2b08f4a8c00f.mp3*~data=user_id=0,application_id=42~hmac=d03a58bc43f17c5ba1cc2b941ee82b20b41b3a6d44aa697ee6fc60330978c071",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Who Am I Living For?",
+            "length": "4:09",
+            "deezer": {
+              "id": 3892148761,
+              "link": "https://www.deezer.com/track/3892148761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/4/0/674214a3d52a76f0588d241c734fc38b.mp3?hdnea=exp=1795656049~acl=/api/1/1/6/7/4/0/674214a3d52a76f0588d241c734fc38b.mp3*~data=user_id=0,application_id=42~hmac=4ba5d870a142f40bd1ef095ba4dc32041a145b5c4a15feac9e9819c8e2f272c5",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Pearl",
+            "length": "4:08",
+            "deezer": {
+              "id": 3892148771,
+              "link": "https://www.deezer.com/track/3892148771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/1/0/86121895ca796dcecb2a2279f317b2e1.mp3?hdnea=exp=1795656049~acl=/api/1/1/8/6/1/0/86121895ca796dcecb2a2279f317b2e1.mp3*~data=user_id=0,application_id=42~hmac=ff1b58761389391855f93acf33d51dcb9de6717c9376598d632d3f1448a0ad59",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hummingbird Heartbeat",
+            "length": "3:32",
+            "deezer": {
+              "id": 3892148781,
+              "link": "https://www.deezer.com/track/3892148781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/9/0/879be4818ba2a15db89feeba902a6c22.mp3?hdnea=exp=1795656049~acl=/api/1/1/8/7/9/0/879be4818ba2a15db89feeba902a6c22.mp3*~data=user_id=0,application_id=42~hmac=c12899a7a9c2529027aea30444f8b9e1b95f6b307b29574551346ddbaef86875",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Not Like the Movies",
+            "length": "4:01",
+            "deezer": {
+              "id": 3892148791,
+              "link": "https://www.deezer.com/track/3892148791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/9/0/c196af8d31c2d8228ca0cd63ca5c2319.mp3?hdnea=exp=1795656049~acl=/api/1/1/c/1/9/0/c196af8d31c2d8228ca0cd63ca5c2319.mp3*~data=user_id=0,application_id=42~hmac=bafe00067b7a2286d3f04c78af7f684fa417d9b751047e0a720028e886c66698",
+              "preview_expires": "2026-11-26T01:20:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Katy Perry/Teenage Dream.jpg"
+}

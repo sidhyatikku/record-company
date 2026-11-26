@@ -1,0 +1,201 @@
+{
+  "title": "Very Necessary",
+  "artist": "Salt‐N‐Pepa",
+  "year": 1993,
+  "release_date": "1993-10-18",
+  "type": "Album",
+  "description": "Very Necessary is the fourth studio album by American hip hop group Salt-N-Pepa, released on October 12, 1993, by Next Plateau Records and London Records. As the group's last album to feature writing and production from their manager and primary producer Hurby Azor, it spawned four singles, including \"Shoop\", \"Whatta Man\", and \"None of Your Business\", which earned the group their first Grammy Award, in the category Best Rap Performance by a Duo or Group.",
+  "genres": [
+    "hip hop",
+    "pop rap"
+  ],
+  "tags": [
+    "hip hop",
+    "hip-hop",
+    "pop rap",
+    "rap"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4ec41ccd-e2b5-3e7a-8a4b-33d143b601d9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Very_Necessary",
+    "allmusic": "https://www.allmusic.com/album/mw0000103052",
+    "discogs": "https://www.discogs.com/master/100463",
+    "wikidata": "https://www.wikidata.org/wiki/Q3283804",
+    "deezer": "https://www.deezer.com/album/70113312"
+  },
+  "musicbrainz_id": "4ec41ccd-e2b5-3e7a-8a4b-33d143b601d9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8738253d-8033-4937-afb5-f19eeb3ce4b2",
+      "barcode": "0602567825869",
+      "title": "Very Necessary",
+      "disambiguation": null,
+      "date": "2003",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "51:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Groove Me",
+            "length": "4:23",
+            "artist": "Salt‐N‐Pepa feat. Styowlz",
+            "deezer": {
+              "id": 537989502,
+              "link": "https://www.deezer.com/track/537989502",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "2",
+            "title": "No One Does It Better",
+            "length": "3:54",
+            "deezer": {
+              "id": 537989512,
+              "link": "https://www.deezer.com/track/537989512",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "Somebody’s Gettin’ on My Nerves",
+            "length": "3:57",
+            "deezer": {
+              "id": 537989522,
+              "link": "https://www.deezer.com/track/537989522",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "4",
+            "title": "Whatta Man",
+            "length": "5:08",
+            "artist": "Salt‐N‐Pepa feat. En Vogue",
+            "deezer": {
+              "id": 537989532,
+              "link": "https://www.deezer.com/track/537989532",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "5",
+            "title": "None of Your Business",
+            "length": "3:33",
+            "deezer": {
+              "id": 537989542,
+              "link": "https://www.deezer.com/track/537989542",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "6",
+            "title": "Step",
+            "length": "3:11",
+            "deezer": {
+              "id": 537989552,
+              "link": "https://www.deezer.com/track/537989552",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "Shoop",
+            "length": "4:09",
+            "deezer": {
+              "id": 537989562,
+              "link": "https://www.deezer.com/track/537989562",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "8",
+            "title": "Heaven or Hell",
+            "length": "4:45",
+            "artist": "Salt‐N‐Pepa feat. Styowlz",
+            "deezer": {
+              "id": 537989572,
+              "link": "https://www.deezer.com/track/537989572",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "9",
+            "title": "Big Shot",
+            "length": "3:50",
+            "deezer": {
+              "id": 537989582,
+              "link": "https://www.deezer.com/track/537989582",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sexy Noises Turn Me On",
+            "length": "3:58",
+            "deezer": {
+              "id": 537989592,
+              "link": "https://www.deezer.com/track/537989592",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "11",
+            "title": "Somma Time Man",
+            "length": "3:26",
+            "deezer": {
+              "id": 537989602,
+              "link": "https://www.deezer.com/track/537989602",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "12",
+            "title": "Break of Dawn",
+            "length": "3:46",
+            "deezer": {
+              "id": 537989612,
+              "link": "https://www.deezer.com/track/537989612",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "13",
+            "title": "I’ve Got AIDS",
+            "length": "3:19",
+            "deezer": {
+              "id": 537989622,
+              "link": "https://www.deezer.com/track/537989622",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Salt-N-Pepa/Very Necessary.jpg"
+}

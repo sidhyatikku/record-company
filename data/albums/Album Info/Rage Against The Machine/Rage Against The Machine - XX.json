@@ -1,0 +1,363 @@
+{
+  "title": "Rage Against the Machine",
+  "artist": "Rage Against the Machine",
+  "year": 1992,
+  "release_date": "1992-11-06",
+  "type": "Album",
+  "description": "Rage Against the Machine is the debut studio album by American rock band Rage Against the Machine, released on November 3, 1992, by Epic Records. The album was based largely on the band's first commercial demo tape of the same name, completed 11 months prior to the album's release. The tape contained earlier recordings of seven of the ten songs.",
+  "genres": [
+    "alternative metal",
+    "funk metal",
+    "rap metal",
+    "rock",
+    "metal",
+    "alternative rock",
+    "heavy metal",
+    "hip hop",
+    "political hip hop",
+    "pop",
+    "post-hardcore"
+  ],
+  "tags": [
+    "alternative metal",
+    "funk metal",
+    "rap metal",
+    "rock",
+    "crossover",
+    "metal",
+    "alternative pop/rock",
+    "alternative rock",
+    "anarchism",
+    "crime",
+    "discogs/the most popular album released every year from 1950 to 2020",
+    "hardnheavy",
+    "heavy metal",
+    "hip hop",
+    "perfect debut",
+    "political hip hop",
+    "pop",
+    "post-hardcore",
+    "raw",
+    "rhythm & blues",
+    "violence"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 39
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1305859b-8937-397f-9c33-39f62eb672fb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000091696",
+    "discogs": "https://www.discogs.com/master/7939",
+    "wikidata": "https://www.wikidata.org/wiki/Q540943",
+    "deezer": "https://www.deezer.com/album/6088193"
+  },
+  "musicbrainz_id": "1305859b-8937-397f-9c33-39f62eb672fb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f832e1e4-fa82-4e25-9bf2-bdb763535f1c",
+      "barcode": "886443678750",
+      "title": "Rage Against the Machine XX",
+      "disambiguation": "20th anniversary special edition",
+      "date": "2012-11-27",
+      "country": "XW"
+    },
+    "total_tracks": 25,
+    "total_length": "2:06:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bombtrack",
+            "length": "4:03",
+            "deezer": {
+              "id": 62082828,
+              "link": "https://www.deezer.com/track/62082828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/6/0/4a6c529841fcd5910805de176659a689.mp3?hdnea=exp=1795719939~acl=/api/1/1/4/a/6/0/4a6c529841fcd5910805de176659a689.mp3*~data=user_id=0,application_id=42~hmac=77db2c925dd292fd20d3eb43f750a23dde1c4cb1fe2537c00a2e291c071b4072",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Killing in the Name",
+            "length": "5:14",
+            "deezer": {
+              "id": 62082829,
+              "link": "https://www.deezer.com/track/62082829",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/0/0/010c6f527fdcc5abe6b0764fd5e6eb31.mp3?hdnea=exp=1795719939~acl=/api/1/1/0/1/0/0/010c6f527fdcc5abe6b0764fd5e6eb31.mp3*~data=user_id=0,application_id=42~hmac=5642a011692f62405424b3063f2fb024d56fd572be098681dcdb93ab778db96a",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take the Power Back",
+            "length": "5:36",
+            "deezer": {
+              "id": 62082830,
+              "link": "https://www.deezer.com/track/62082830",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/2/0/dc2a04fb8a7c97919e625588901f8713.mp3?hdnea=exp=1795719939~acl=/api/1/1/d/c/2/0/dc2a04fb8a7c97919e625588901f8713.mp3*~data=user_id=0,application_id=42~hmac=77e271c7cbe59f5a4c953c1c3629fc0ed90136146ec5f7643ed9883410376471",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Settle for Nothing",
+            "length": "4:47",
+            "deezer": {
+              "id": 62082831,
+              "link": "https://www.deezer.com/track/62082831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/b/0/b6b2d2e005a4c9c7c106d4932f3a9ed0.mp3?hdnea=exp=1795719939~acl=/api/1/1/b/6/b/0/b6b2d2e005a4c9c7c106d4932f3a9ed0.mp3*~data=user_id=0,application_id=42~hmac=7529ce37cd17b57b3565dad480ea20ce1afd1d63116f2db4ad4c1543eb5b9198",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bullet in the Head",
+            "length": "5:07",
+            "deezer": {
+              "id": 62082832,
+              "link": "https://www.deezer.com/track/62082832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/c/0/21c6ff36ee2c6eee8e3fd0a6b8d5e47f.mp3?hdnea=exp=1795719939~acl=/api/1/1/2/1/c/0/21c6ff36ee2c6eee8e3fd0a6b8d5e47f.mp3*~data=user_id=0,application_id=42~hmac=766391946c85cf883ffcf4a0b5c98bc34961e25f65c73c6e5fd2f68a73c932e0",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Know Your Enemy",
+            "length": "4:55",
+            "deezer": {
+              "id": 62082833,
+              "link": "https://www.deezer.com/track/62082833",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/8/0/348de6cbe986848bc86224beb1ccfaf1.mp3?hdnea=exp=1795719939~acl=/api/1/1/3/4/8/0/348de6cbe986848bc86224beb1ccfaf1.mp3*~data=user_id=0,application_id=42~hmac=b967d616058cd2befe1f656f86f7ea2f545f131757e43efefb6a8b2e5ca615ce",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Wake Up",
+            "length": "6:04",
+            "deezer": {
+              "id": 62082834,
+              "link": "https://www.deezer.com/track/62082834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/a/0/06afa079a1611d2573ebfd934464a906.mp3?hdnea=exp=1795719939~acl=/api/1/1/0/6/a/0/06afa079a1611d2573ebfd934464a906.mp3*~data=user_id=0,application_id=42~hmac=ff37dad96221446d996bd084eb319c87aa464b277d34418c7fd9278536ff8a37",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Fistful of Steel",
+            "length": "5:31",
+            "deezer": {
+              "id": 62082835,
+              "link": "https://www.deezer.com/track/62082835",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/e/0/ccef38336578d8d6b8938e914fc472de.mp3?hdnea=exp=1795719939~acl=/api/1/1/c/c/e/0/ccef38336578d8d6b8938e914fc472de.mp3*~data=user_id=0,application_id=42~hmac=d9672326b79c3cb68732d3ce672cbd7d36f84fbe972f0a86927c204beebdeb45",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Township Rebellion",
+            "length": "5:24",
+            "deezer": {
+              "id": 62082836,
+              "link": "https://www.deezer.com/track/62082836",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/8/0/118001e168fdee9cf1a927c99ec9d1b4.mp3?hdnea=exp=1795719939~acl=/api/1/1/1/1/8/0/118001e168fdee9cf1a927c99ec9d1b4.mp3*~data=user_id=0,application_id=42~hmac=51edc46cc81457fe2650c0448d8ef66aabab001dff70d291fdc14964d070920f",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Freedom",
+            "length": "6:06",
+            "deezer": {
+              "id": 62082837,
+              "link": "https://www.deezer.com/track/62082837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/5/0/7b593154f7c59cc96a2cf5e321aa4120.mp3?hdnea=exp=1795719939~acl=/api/1/1/7/b/5/0/7b593154f7c59cc96a2cf5e321aa4120.mp3*~data=user_id=0,application_id=42~hmac=b22f874bbfc7fde4e4e66c0cb45d1962a9aaae0b9b8b700f07db6ef6b383f303",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Bombtrack (live at 1st Avenue, Minneapolis, MN - April 1993)",
+            "length": "5:57",
+            "deezer": {
+              "id": 62082838,
+              "link": "https://www.deezer.com/track/62082838",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/8/0/c18138aeb719e8cb8209ae9efdf5017a.mp3?hdnea=exp=1795719939~acl=/api/1/1/c/1/8/0/c18138aeb719e8cb8209ae9efdf5017a.mp3*~data=user_id=0,application_id=42~hmac=2c000dfd5fd6b165048780fcd2f315e8f9dfc6703e0c81497b2fc50321eb6b25",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Bullet in the Head (live at Melkweg, Amsterdam - February 1993)",
+            "length": "5:43",
+            "deezer": {
+              "id": 62082839,
+              "link": "https://www.deezer.com/track/62082839",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/8/0/28845ee45c95ce211acd1fe8435a2858.mp3?hdnea=exp=1795719939~acl=/api/1/1/2/8/8/0/28845ee45c95ce211acd1fe8435a2858.mp3*~data=user_id=0,application_id=42~hmac=e95dcaa075a292f189cd241f3486eacf256eaa3decd29e363c314469f83ca9cd",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Take the Power Back (live at 86th Street Music Hall, Vancouver, B.C. - April 1993)",
+            "length": "6:09",
+            "deezer": {
+              "id": 62082840,
+              "link": "https://www.deezer.com/track/62082840",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/a/0/04a64b951e600e1197befa96b6f1b138.mp3?hdnea=exp=1795719939~acl=/api/1/1/0/4/a/0/04a64b951e600e1197befa96b6f1b138.mp3*~data=user_id=0,application_id=42~hmac=ad73284e2521e4a6d1a502fe81900ca291f396fa6066fd831cb18374f856eeb0",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bombtrack (demo)",
+            "length": "4:04",
+            "deezer": {
+              "id": 62082841,
+              "link": "https://www.deezer.com/track/62082841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/b/0/ddb617a08ae23301b29a2ff1f811e0f1.mp3?hdnea=exp=1795719939~acl=/api/1/1/d/d/b/0/ddb617a08ae23301b29a2ff1f811e0f1.mp3*~data=user_id=0,application_id=42~hmac=3618d2753a45639501c64e246165548267cfe2310ee737c0f335aceedbe858a8",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Take the Power Back (demo)",
+            "length": "5:40",
+            "deezer": {
+              "id": 62082842,
+              "link": "https://www.deezer.com/track/62082842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/a/0/6ba729002d6d5633c470e451c70beef4.mp3?hdnea=exp=1795719939~acl=/api/1/1/6/b/a/0/6ba729002d6d5633c470e451c70beef4.mp3*~data=user_id=0,application_id=42~hmac=4d9385738bb5b16ff65e0c7fa0980ed54bda8330956289a6725382d264f91900",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bullet in the Head (demo)",
+            "length": "5:09",
+            "deezer": {
+              "id": 62082843,
+              "link": "https://www.deezer.com/track/62082843",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c021ced0491ff08ebc90c986c222292.mp3?hdnea=exp=1795719939~acl=/api/1/1/1/c/0/0/1c021ced0491ff08ebc90c986c222292.mp3*~data=user_id=0,application_id=42~hmac=b4e3722adc4e76067a7ef0849a377fdd0c1847fe7af175b4d36657a75bb8cc5e",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Darkness of Greed (demo)",
+            "length": "3:40",
+            "deezer": {
+              "id": 62082844,
+              "link": "https://www.deezer.com/track/62082844",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/6/0/0762a0f19b6f0504b768730dcb3d18c4.mp3?hdnea=exp=1795719939~acl=/api/1/1/0/7/6/0/0762a0f19b6f0504b768730dcb3d18c4.mp3*~data=user_id=0,application_id=42~hmac=cce249e7910dd835085092e683e845cfd0caf5913374041d1dbcd866fcd19ba0",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Clear the Lane (demo)",
+            "length": "3:47",
+            "deezer": {
+              "id": 62082845,
+              "link": "https://www.deezer.com/track/62082845",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f9cb6547108a56e719e87f7934cdd7.mp3?hdnea=exp=1795719939~acl=/api/1/1/5/5/f/0/55f9cb6547108a56e719e87f7934cdd7.mp3*~data=user_id=0,application_id=42~hmac=bb94e88742cf9a5c4c90153ffe0d2b68f2da3e044633f82ce1b2ea5a909c6284",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Township Rebellion (demo)",
+            "length": "4:19",
+            "deezer": {
+              "id": 62082846,
+              "link": "https://www.deezer.com/track/62082846",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/1/0/351773aeab9f4b757e6ce606797ae1db.mp3?hdnea=exp=1795719939~acl=/api/1/1/3/5/1/0/351773aeab9f4b757e6ce606797ae1db.mp3*~data=user_id=0,application_id=42~hmac=236ae1d8318de8b77c8ea15e48283989417f09cf0abfb4aba56b1cc2b98be14f",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Know Your Enemy (demo)",
+            "length": "4:18",
+            "deezer": {
+              "id": 62082847,
+              "link": "https://www.deezer.com/track/62082847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/a/0/9dae3e8b8065a00ba6684e4ba374df48.mp3?hdnea=exp=1795719939~acl=/api/1/1/9/d/a/0/9dae3e8b8065a00ba6684e4ba374df48.mp3*~data=user_id=0,application_id=42~hmac=7ca083cd5e248de92b09acabf1a3039d2a5ac8282ec1e311dcbdd022755d57db",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mindset’s a Threat (demo)",
+            "length": "3:56",
+            "deezer": {
+              "id": 62082848,
+              "link": "https://www.deezer.com/track/62082848",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/d/0/c2da4ba2bde874d45e9e16e42c585c70.mp3?hdnea=exp=1795719939~acl=/api/1/1/c/2/d/0/c2da4ba2bde874d45e9e16e42c585c70.mp3*~data=user_id=0,application_id=42~hmac=c72496cb40ef855de681d45e1d26b73975b95fc164c9bc68e082ecce03b80fac",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Killing in the Name (demo)",
+            "length": "6:27",
+            "deezer": {
+              "id": 62082849,
+              "link": "https://www.deezer.com/track/62082849",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/6/0/b761c709f6aefbdcd7bd7ccfe1784c6d.mp3?hdnea=exp=1795719939~acl=/api/1/1/b/7/6/0/b761c709f6aefbdcd7bd7ccfe1784c6d.mp3*~data=user_id=0,application_id=42~hmac=03141db413a43246bccc8fedb00a43b699f6d77160478ac17eda857462eb4e19",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Autologic (demo)",
+            "length": "4:06",
+            "deezer": {
+              "id": 62082850,
+              "link": "https://www.deezer.com/track/62082850",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/5/0/f35e7ff41e3387ca18024424159a81ba.mp3?hdnea=exp=1795719939~acl=/api/1/1/f/3/5/0/f35e7ff41e3387ca18024424159a81ba.mp3*~data=user_id=0,application_id=42~hmac=81d60a6444416759be7571523db932bbf6b748e1385698a0c6cafdb5fc944257",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Narrows (demo)",
+            "length": "4:36",
+            "deezer": {
+              "id": 62082851,
+              "link": "https://www.deezer.com/track/62082851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/5/0/f1529eb15c7e1b6f356d3a1a4a623864.mp3?hdnea=exp=1795719939~acl=/api/1/1/f/1/5/0/f1529eb15c7e1b6f356d3a1a4a623864.mp3*~data=user_id=0,application_id=42~hmac=4143f9b773f11ca46b0ad3347795c3e9fdac29d0caf8ff5d5210553c6b2937ce",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Freedom (demo)",
+            "length": "5:41",
+            "deezer": {
+              "id": 62082852,
+              "link": "https://www.deezer.com/track/62082852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/a/0/95a3b5487e1305460d17e08b5a5e4d60.mp3?hdnea=exp=1795719939~acl=/api/1/1/9/5/a/0/95a3b5487e1305460d17e08b5a5e4d60.mp3*~data=user_id=0,application_id=42~hmac=ccb47e9729d8bff36e6a654fe3ed1bdef309cf9d59b89114c59988fe41f6de83",
+              "preview_expires": "2026-11-26T19:05:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Rage Against The Machine/Rage Against The Machine - XX.jpg"
+}

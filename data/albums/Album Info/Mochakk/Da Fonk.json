@@ -1,0 +1,64 @@
+{
+  "title": "Da Fonk",
+  "artist": "Mochakk",
+  "year": 2022,
+  "release_date": "2022-07-01",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5db06843-0a3e-4e26-acc0-e6b27027ff59",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/327791677"
+  },
+  "musicbrainz_id": "5db06843-0a3e-4e26-acc0-e6b27027ff59",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/028a76e2-73bc-485c-953b-f51213d13c48",
+      "barcode": "091012552663",
+      "title": "Da Fonk",
+      "disambiguation": null,
+      "date": "2022-07-01",
+      "country": null
+    },
+    "total_tracks": 2,
+    "total_length": "11:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Da Fonk",
+            "length": "6:06",
+            "artist": "Mochakk feat. Joni",
+            "deezer": {
+              "id": 1792654027,
+              "link": "https://www.deezer.com/track/1792654027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/5/0/c6592ff47e53e26229127c7586ae9c1d.mp3?hdnea=exp=1795718565~acl=/api/1/1/c/6/5/0/c6592ff47e53e26229127c7586ae9c1d.mp3*~data=user_id=0,application_id=42~hmac=54c1ad2a36847b382da8959c60966ba7393d9765c154912b18c8d5370aa2e214",
+              "preview_expires": "2026-11-26T18:42:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Da Fonk (dub)",
+            "length": "5:51",
+            "artist": "Mochakk feat. Joni",
+            "deezer": {
+              "id": 1792654037,
+              "link": "https://www.deezer.com/track/1792654037",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/7/0/0f75f590abdda366b6c943f8e6b67c27.mp3?hdnea=exp=1795718565~acl=/api/1/1/0/f/7/0/0f75f590abdda366b6c943f8e6b67c27.mp3*~data=user_id=0,application_id=42~hmac=7da35f9ba883d49d9698c72b5b4ccaadb9211455f7fc5e8624d1440a3338b857",
+              "preview_expires": "2026-11-26T18:42:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mochakk/Da Fonk.jpg"
+}

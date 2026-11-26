@@ -1,0 +1,51 @@
+{
+  "title": "Check It Out",
+  "artist": "Parmish Verma & Paradox",
+  "year": 2023,
+  "release_date": "2023-06-27",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c608ed14-ba6a-4983-8660-f8fb7bf5d112",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/453347455"
+  },
+  "musicbrainz_id": "c608ed14-ba6a-4983-8660-f8fb7bf5d112",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e417dfe3-f66c-4a6d-902e-bf4fd687b7f9",
+      "barcode": "3617223400820",
+      "title": "Check It Out",
+      "disambiguation": null,
+      "date": "2023-06-27",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Check It Out",
+            "length": "3:16",
+            "deezer": {
+              "id": 2327506355,
+              "link": "https://www.deezer.com/track/2327506355",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f54674adfc605a364c2c60338fde6b6.mp3?hdnea=exp=1795719366~acl=/api/1/1/0/f/5/0/0f54674adfc605a364c2c60338fde6b6.mp3*~data=user_id=0,application_id=42~hmac=3d479ddd40ad63a4d84c5fe23c800b7d5e03d2fa0a74feb4d4700e0a52093fc0",
+              "preview_expires": "2026-11-26T18:56:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Parmish Verma/Check It Out.jpg"
+}

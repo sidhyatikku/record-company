@@ -1,0 +1,500 @@
+{
+  "title": "Sinatra 80th: All the Best",
+  "artist": "Frank Sinatra",
+  "year": 1995,
+  "release_date": "1995-11-14",
+  "type": "Album + Compilation",
+  "description": "Sinatra 80th: All the Best is a double compilation disc album by Frank Sinatra. On the final track, \"The Christmas Song\" is recorded both by Sinatra and Nat King Cole. The title, like the previous album, was released and named to coincide with Frank Sinatra's birthday, as he was celebrating his 80th at the time.",
+  "genres": [
+    "jazz",
+    "pop"
+  ],
+  "tags": [
+    "jazz",
+    "pop",
+    "vocal"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/360691cf-6151-3a3a-9f69-8599996002eb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sinatra_80th%3A_All_the_Best",
+    "allmusic": "https://www.allmusic.com/album/mw0000645686",
+    "discogs": "https://www.discogs.com/master/522729",
+    "wikidata": "https://www.wikidata.org/wiki/Q7521837",
+    "deezer": "https://www.deezer.com/album/301890"
+  },
+  "musicbrainz_id": "360691cf-6151-3a3a-9f69-8599996002eb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/017c90b3-11ff-4c43-80cb-ca1b4a4173c5",
+      "barcode": "724385547928",
+      "title": "Sinatra 80th: All the Best",
+      "disambiguation": null,
+      "date": "1995-11-14",
+      "country": "US"
+    },
+    "total_tracks": 40,
+    "total_length": "2:00:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lean Baby",
+            "length": "2:34",
+            "deezer": {
+              "id": 3132162,
+              "link": "https://www.deezer.com/track/3132162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/d/0/7dd54a07dcba850bf7a5029896ab85d0.mp3?hdnea=exp=1795654380~acl=/api/1/1/7/d/d/0/7dd54a07dcba850bf7a5029896ab85d0.mp3*~data=user_id=0,application_id=42~hmac=eeb2ad0de543055d9490bc13c3954ad2e0f41e6761c1237002ce3eb09fd6147c",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I’m Walking Behind You",
+            "length": "2:58",
+            "deezer": {
+              "id": 3132163,
+              "link": "https://www.deezer.com/track/3132163",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/4/0/a0465ada7f460bb8200a8f8008b179e7.mp3?hdnea=exp=1795654380~acl=/api/1/1/a/0/4/0/a0465ada7f460bb8200a8f8008b179e7.mp3*~data=user_id=0,application_id=42~hmac=5bc8494ff8898b0896e81c7df0e5fab9d87f62ccd4abde10f588b5559bca67eb",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I’ve Got the World on a String",
+            "length": "2:11",
+            "deezer": {
+              "id": 3132164,
+              "link": "https://www.deezer.com/track/3132164",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/9/0/1399f701f33f349b75bc659061ad3da1.mp3?hdnea=exp=1795654380~acl=/api/1/1/1/3/9/0/1399f701f33f349b75bc659061ad3da1.mp3*~data=user_id=0,application_id=42~hmac=f6a9d7c94652d98f20ae48dd9ac879c2629b73ddb36e82c5dfc5b8cc2187ad88",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "From Here to Eternity",
+            "length": "3:00",
+            "deezer": {
+              "id": 3132165,
+              "link": "https://www.deezer.com/track/3132165",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/e/0/6ce871394bbb2b78d6d6f66871d99266.mp3?hdnea=exp=1795654380~acl=/api/1/1/6/c/e/0/6ce871394bbb2b78d6d6f66871d99266.mp3*~data=user_id=0,application_id=42~hmac=f4a0a1232f1a6481c75ab7b92d6209a480ec54e6d76416d921e004ee3642f7be",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "South of the Border",
+            "length": "2:50",
+            "deezer": {
+              "id": 3132166,
+              "link": "https://www.deezer.com/track/3132166",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/c/0/5ac59aefa9bfa0c8efb50a8b21fdf8fa.mp3?hdnea=exp=1795654380~acl=/api/1/1/5/a/c/0/5ac59aefa9bfa0c8efb50a8b21fdf8fa.mp3*~data=user_id=0,application_id=42~hmac=5a8af5ea478a3d22778887e5983d619e21fcee165c8d858412c2220b88c56cdd",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Young at Heart",
+            "length": "2:51",
+            "deezer": {
+              "id": 3132167,
+              "link": "https://www.deezer.com/track/3132167",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/b/0/21b474aaf195aea68437a68654ba40ab.mp3?hdnea=exp=1795654380~acl=/api/1/1/2/1/b/0/21b474aaf195aea68437a68654ba40ab.mp3*~data=user_id=0,application_id=42~hmac=471863ff05751e2f882e602a0bb35df2509d07d06bae23ab0d2b2bfdefeb671b",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Three Coins in the Fountain",
+            "length": "3:06",
+            "deezer": {
+              "id": 3132168,
+              "link": "https://www.deezer.com/track/3132168",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/5/0/3450ef0aa57901e94d03367a62f97205.mp3?hdnea=exp=1795654380~acl=/api/1/1/3/4/5/0/3450ef0aa57901e94d03367a62f97205.mp3*~data=user_id=0,application_id=42~hmac=bcdaa2b57b9a2e049caa3b0d56c02b1ee2c36d669c1a1733ea93b74e64f377da",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Come Fly With Me",
+            "length": "3:19",
+            "deezer": {
+              "id": 3132169,
+              "link": "https://www.deezer.com/track/3132169",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/0/0/4707cc5f10a777d836f851cde17b391a.mp3?hdnea=exp=1795654380~acl=/api/1/1/4/7/0/0/4707cc5f10a777d836f851cde17b391a.mp3*~data=user_id=0,application_id=42~hmac=19d0c141026007d154f683a5eb238e027a8850e67383234022e6cb04953b221e",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Someone to Watch Over Me",
+            "length": "2:57",
+            "deezer": {
+              "id": 3132170,
+              "link": "https://www.deezer.com/track/3132170",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/4/0/63450454d670483d7745f25ebb1462a2.mp3?hdnea=exp=1795654380~acl=/api/1/1/6/3/4/0/63450454d670483d7745f25ebb1462a2.mp3*~data=user_id=0,application_id=42~hmac=e7643bdc152b6c1bdc69b95739e25d4d0e29ba98528a334c48d515ac56c19849",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Melody of Love",
+            "length": "3:06",
+            "deezer": {
+              "id": 3132171,
+              "link": "https://www.deezer.com/track/3132171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/a/0/64a36392963e98de172d15e172153226.mp3?hdnea=exp=1795654380~acl=/api/1/1/6/4/a/0/64a36392963e98de172d15e172153226.mp3*~data=user_id=0,application_id=42~hmac=7d394282ff22ed37cba28329e5218c58249513539abcb450c64ff07d683e9453",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Night and Day",
+            "length": "4:00",
+            "deezer": {
+              "id": 3132172,
+              "link": "https://www.deezer.com/track/3132172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/1/0/431f6a2f74f2b4f97b9c8bef9b4a385a.mp3?hdnea=exp=1795654380~acl=/api/1/1/4/3/1/0/431f6a2f74f2b4f97b9c8bef9b4a385a.mp3*~data=user_id=0,application_id=42~hmac=b953c350d7315379f66908c009d67255c900fbf52b38d6199b3e774146a5552b",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Learnin’ the Blues",
+            "length": "3:02",
+            "deezer": {
+              "id": 3132173,
+              "link": "https://www.deezer.com/track/3132173",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/5/0/8e570c968bc0cd4d6fa994dedad584ef.mp3?hdnea=exp=1795654380~acl=/api/1/1/8/e/5/0/8e570c968bc0cd4d6fa994dedad584ef.mp3*~data=user_id=0,application_id=42~hmac=9a8a96a3d7ee9e1d0285b354a48590048c4f03f92dd3adb70240077db737b138",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Same Old Saturday Night",
+            "length": "2:30",
+            "deezer": {
+              "id": 3132174,
+              "link": "https://www.deezer.com/track/3132174",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/2/0/4f2f5764ec998bed60dd362ab1cddc34.mp3?hdnea=exp=1795654380~acl=/api/1/1/4/f/2/0/4f2f5764ec998bed60dd362ab1cddc34.mp3*~data=user_id=0,application_id=42~hmac=ca1aca9cf7669cd8fadec3cf1d9e5cfed0ceb1b6bfafd6b3593429d972f3edfa",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Love and Marriage",
+            "length": "2:39",
+            "deezer": {
+              "id": 3132175,
+              "link": "https://www.deezer.com/track/3132175",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/4/0/154161e90e3f03e8ba3ecebad7736ede.mp3?hdnea=exp=1795654380~acl=/api/1/1/1/5/4/0/154161e90e3f03e8ba3ecebad7736ede.mp3*~data=user_id=0,application_id=42~hmac=f922718e84a0c55ed3abf7e384d907b5d36ad234cdacfa14dea67ec9498f152d",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "The Impatient Years",
+            "length": "3:16",
+            "deezer": {
+              "id": 3132176,
+              "link": "https://www.deezer.com/track/3132176",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d1d747fd0574d6c5ea6822c02ad4cdf.mp3?hdnea=exp=1795654380~acl=/api/1/1/7/d/1/0/7d1d747fd0574d6c5ea6822c02ad4cdf.mp3*~data=user_id=0,application_id=42~hmac=3e05ddf6107140b41a498a1930bb82d6e09122ebae3198835d8eccf60498d07f",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "(Love Is) The Tender Trap",
+            "length": "2:58",
+            "deezer": {
+              "id": 3132177,
+              "link": "https://www.deezer.com/track/3132177",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/b/0/78b0a334145d970049c6d02483d73a08.mp3?hdnea=exp=1795654380~acl=/api/1/1/7/8/b/0/78b0a334145d970049c6d02483d73a08.mp3*~data=user_id=0,application_id=42~hmac=a87d2fffd7552fe6f1e22f989d2fbc985171bb50872b58d921c74f745a7d8423",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "How Little We Know",
+            "length": "2:39",
+            "deezer": {
+              "id": 3132178,
+              "link": "https://www.deezer.com/track/3132178",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/a/0/ecae65fc72a3a39872e576f97af2872f.mp3?hdnea=exp=1795654380~acl=/api/1/1/e/c/a/0/ecae65fc72a3a39872e576f97af2872f.mp3*~data=user_id=0,application_id=42~hmac=edf45801aed74d6d42ad67096be9bf7827dcf8f212a8a95083ef280510f14918",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Wait for Me",
+            "length": "2:52",
+            "deezer": {
+              "id": 3132179,
+              "link": "https://www.deezer.com/track/3132179",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/f/0/59fde261a69f83a9ecb6482ed53a6ef9.mp3?hdnea=exp=1795654380~acl=/api/1/1/5/9/f/0/59fde261a69f83a9ecb6482ed53a6ef9.mp3*~data=user_id=0,application_id=42~hmac=3522ab51574fd3eaeb1adf792045ecb21a53d73aaa677b18712097bf56ac1b69",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "The Lady Is a Tramp",
+            "length": "3:15",
+            "deezer": {
+              "id": 3132180,
+              "link": "https://www.deezer.com/track/3132180",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/c/0/08cbdd63743f6cd795f6b84c9f6705fd.mp3?hdnea=exp=1795654380~acl=/api/1/1/0/8/c/0/08cbdd63743f6cd795f6b84c9f6705fd.mp3*~data=user_id=0,application_id=42~hmac=bf4839bba79204e4b3e30872f0016462a6ba63fe6096d6ccc8c4e48bb63eb9ae",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Well Did You Evah?",
+            "length": "3:49",
+            "artist": "Frank Sinatra feat. Bing Crosby",
+            "deezer": {
+              "id": 3132181,
+              "link": "https://www.deezer.com/track/3132181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/e/0/dae829d8640e89da04b71ff09a25822a.mp3?hdnea=exp=1795654380~acl=/api/1/1/d/a/e/0/dae829d8640e89da04b71ff09a25822a.mp3*~data=user_id=0,application_id=42~hmac=efaa7ee278f725ce6c431e13a3f8337a8aed8a809a017ea96edd52c17e7a2bc4",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hey! Jealous Lover",
+            "length": "2:22",
+            "deezer": {
+              "id": 3132182,
+              "link": "https://www.deezer.com/track/3132182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/f/0/5afeeb05e99a450614a1b3e661727e5c.mp3?hdnea=exp=1795654380~acl=/api/1/1/5/a/f/0/5afeeb05e99a450614a1b3e661727e5c.mp3*~data=user_id=0,application_id=42~hmac=7603762e16235be8ea39bd334b6014e34416f582f5367000adad3b5e7ab01375",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I’ve Got You Under My Skin",
+            "length": "3:43",
+            "deezer": {
+              "id": 3132183,
+              "link": "https://www.deezer.com/track/3132183",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/b/0/c0ba47f1701454a0cb999c1f69f798ff.mp3?hdnea=exp=1795654380~acl=/api/1/1/c/0/b/0/c0ba47f1701454a0cb999c1f69f798ff.mp3*~data=user_id=0,application_id=42~hmac=5604bf0626d6d40510a426dcc782fe0b4e52144cd46cee6febaf1fcfa7763685",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "All the Way",
+            "length": "2:53",
+            "deezer": {
+              "id": 3132184,
+              "link": "https://www.deezer.com/track/3132184",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/8/0/5184a09829fd8ad96a0d612f6995f580.mp3?hdnea=exp=1795654380~acl=/api/1/1/5/1/8/0/5184a09829fd8ad96a0d612f6995f580.mp3*~data=user_id=0,application_id=42~hmac=f9da28fad35e2333817ba491d11df8050a5749d0d2416f35be417f89b22c8402",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Chicago",
+            "length": "2:12",
+            "deezer": {
+              "id": 3132185,
+              "link": "https://www.deezer.com/track/3132185",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/f/0/3afb7e0b0946cc9a2ce75df86facac03.mp3?hdnea=exp=1795654380~acl=/api/1/1/3/a/f/0/3afb7e0b0946cc9a2ce75df86facac03.mp3*~data=user_id=0,application_id=42~hmac=a55a05a82a651cec482f982be6221edf2ea54dad989cdbe2dff9feb937f1fcae",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Witchcraft",
+            "length": "2:54",
+            "deezer": {
+              "id": 3132186,
+              "link": "https://www.deezer.com/track/3132186",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/a/0/96a09393467187aab81b8895ed9f9eca.mp3?hdnea=exp=1795654380~acl=/api/1/1/9/6/a/0/96a09393467187aab81b8895ed9f9eca.mp3*~data=user_id=0,application_id=42~hmac=81810b4650aef17f38e59c6153d7026603f4707703100d556fb69e993e7c3440",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "How Are Ya’ Fixed for Love?",
+            "length": "2:27",
+            "artist": "Frank Sinatra feat. Keely Smith",
+            "deezer": {
+              "id": 3132187,
+              "link": "https://www.deezer.com/track/3132187",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/9/0/1d9c19f3ce4059151717ed965bacc023.mp3?hdnea=exp=1795654380~acl=/api/1/1/1/d/9/0/1d9c19f3ce4059151717ed965bacc023.mp3*~data=user_id=0,application_id=42~hmac=cc2999265d02bb45b7456281bfd30b259f5934a49ee8e87d8f78a196bf9cbff3",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "No One Ever Tells You",
+            "length": "3:25",
+            "deezer": {
+              "id": 3132188,
+              "link": "https://www.deezer.com/track/3132188",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/e/0/a5e20d37cd8d6de4ca4d6ee76d56ce36.mp3?hdnea=exp=1795654380~acl=/api/1/1/a/5/e/0/a5e20d37cd8d6de4ca4d6ee76d56ce36.mp3*~data=user_id=0,application_id=42~hmac=683cf226637bbe4ab47f834fa6decd2469394752ca88bfa9b13d4b163ebc9889",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Time After Time",
+            "length": "3:28",
+            "deezer": {
+              "id": 3132189,
+              "link": "https://www.deezer.com/track/3132189",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/a/0/7caafd7e5c5e3bc885d02fa793d4bfb5.mp3?hdnea=exp=1795654380~acl=/api/1/1/7/c/a/0/7caafd7e5c5e3bc885d02fa793d4bfb5.mp3*~data=user_id=0,application_id=42~hmac=e9f98682dffad1df6d3128c6fd30a86ca7d46462ef1fbf2b05c020f4c38baca5",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "In the Wee Small Hours of the Morning",
+            "length": "3:00",
+            "deezer": {
+              "id": 3132190,
+              "link": "https://www.deezer.com/track/3132190",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/8/0/698963831e2962286f1c55002c02619a.mp3?hdnea=exp=1795654380~acl=/api/1/1/6/9/8/0/698963831e2962286f1c55002c02619a.mp3*~data=user_id=0,application_id=42~hmac=712e9eaa0b8c8505135cbd52ead751c7da77320e957bfaf67e306052c325de40",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "You Make Me Feel So Young",
+            "length": "2:55",
+            "deezer": {
+              "id": 3132191,
+              "link": "https://www.deezer.com/track/3132191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/2/0/ef282691e2f0d48919570afc0ad5b8e3.mp3?hdnea=exp=1795654380~acl=/api/1/1/e/f/2/0/ef282691e2f0d48919570afc0ad5b8e3.mp3*~data=user_id=0,application_id=42~hmac=52054a590827eaef08b615533c47e2950cc586cfad994d95630925c8d208aa2e",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "I Get a Kick Out of You",
+            "length": "2:54",
+            "deezer": {
+              "id": 3132192,
+              "link": "https://www.deezer.com/track/3132192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/0/0/740802fd25c89cb26418b701d88ab51a.mp3?hdnea=exp=1795654380~acl=/api/1/1/7/4/0/0/740802fd25c89cb26418b701d88ab51a.mp3*~data=user_id=0,application_id=42~hmac=3695bac8877106c660d7d64e7b0d60ccf6cb730354f80f2a55d6171effc8e545",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "All My Tomorrows",
+            "length": "3:14",
+            "deezer": {
+              "id": 3132193,
+              "link": "https://www.deezer.com/track/3132193",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/4/0/504f88bfd6fd5c340a5f5f1864c4fab5.mp3?hdnea=exp=1795654380~acl=/api/1/1/5/0/4/0/504f88bfd6fd5c340a5f5f1864c4fab5.mp3*~data=user_id=0,application_id=42~hmac=6174728f79882f056ef0830d67b756b62a2af6f800fcaa156c91fe20bb2beca1",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "High Hopes",
+            "length": "2:42",
+            "deezer": {
+              "id": 3132194,
+              "link": "https://www.deezer.com/track/3132194",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/3/0/603cea886b371111b804d051114bd3a8.mp3?hdnea=exp=1795654380~acl=/api/1/1/6/0/3/0/603cea886b371111b804d051114bd3a8.mp3*~data=user_id=0,application_id=42~hmac=47ef6886c6ab8a425dcd6ced8ab49fea41006604fe4a75048424ac6a11da1d13",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "What Is This Thing Called Love",
+            "length": "2:33",
+            "deezer": {
+              "id": 3132195,
+              "link": "https://www.deezer.com/track/3132195",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/3/0/b7311ee711e18721e0b06a25d77c2489.mp3?hdnea=exp=1795654380~acl=/api/1/1/b/7/3/0/b7311ee711e18721e0b06a25d77c2489.mp3*~data=user_id=0,application_id=42~hmac=dd3925e6f952d496e33451eb68c5d92f60d07bf8736e220b079b868fd05e2a55",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "The Moon Was Yellow",
+            "length": "3:01",
+            "deezer": {
+              "id": 3132196,
+              "link": "https://www.deezer.com/track/3132196",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/a/0/5eaae70d03d879b7412e3ea7fda5db4f.mp3?hdnea=exp=1795654380~acl=/api/1/1/5/e/a/0/5eaae70d03d879b7412e3ea7fda5db4f.mp3*~data=user_id=0,application_id=42~hmac=6472166940bd1b5695553b7accdd0a8aabca53693d55024bec5ca6346f55bf65",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I Love Paris",
+            "length": "1:51",
+            "deezer": {
+              "id": 3132197,
+              "link": "https://www.deezer.com/track/3132197",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/f/0/93fc59ac46f5116552062f34381eead4.mp3?hdnea=exp=1795654380~acl=/api/1/1/9/3/f/0/93fc59ac46f5116552062f34381eead4.mp3*~data=user_id=0,application_id=42~hmac=8d562eb4b8b7b4b39f89dabbb1e9d702d1d3e6bf40d26828edd0d8d369c17a16",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Blues in the Night",
+            "length": "4:44",
+            "deezer": {
+              "id": 3132198,
+              "link": "https://www.deezer.com/track/3132198",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/f/0/adf3302b19693981bd889176ff85e8fc.mp3?hdnea=exp=1795654380~acl=/api/1/1/a/d/f/0/adf3302b19693981bd889176ff85e8fc.mp3*~data=user_id=0,application_id=42~hmac=bd6535f9cfed09ec1bbdcea9522edcd23ebc7d80b3335cb4c69d48e79c0fdf08",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Guess I’ll Hang My Tears Out to Dry",
+            "length": "3:59",
+            "deezer": {
+              "id": 3132199,
+              "link": "https://www.deezer.com/track/3132199",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/1/0/4811cfee6f4f68fad0f413cadca64388.mp3?hdnea=exp=1795654380~acl=/api/1/1/4/8/1/0/4811cfee6f4f68fad0f413cadca64388.mp3*~data=user_id=0,application_id=42~hmac=84b7bab3e3cdfaecb9be5751f023ca3dfea14e60f8825a26d119a682bf6bcee9",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Nice ’n’ Easy",
+            "length": "2:46",
+            "deezer": {
+              "id": 3132200,
+              "link": "https://www.deezer.com/track/3132200",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/d/0/0edaca90548a74c92632b2ecc85874fb.mp3?hdnea=exp=1795654380~acl=/api/1/1/0/e/d/0/0edaca90548a74c92632b2ecc85874fb.mp3*~data=user_id=0,application_id=42~hmac=ca667f1321df3a48599c01337f684a2431b2cfc629d2e552e25a6b9961a46495",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "The Christmas Song",
+            "length": "3:13",
+            "artist": "Frank Sinatra feat. Nat King Cole",
+            "deezer": {
+              "id": 3132201,
+              "link": "https://www.deezer.com/track/3132201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/8/0/fd8b993ef4cd01afadeb697b25d12852.mp3?hdnea=exp=1795654380~acl=/api/1/1/f/d/8/0/fd8b993ef4cd01afadeb697b25d12852.mp3*~data=user_id=0,application_id=42~hmac=5c19d7f73d2d1fc850381cba6717743fba4bd2691e40b031096c3783d076c0be",
+              "preview_expires": "2026-11-26T00:53:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Frank Sinatra/Sinatra 80th- All The Best.jpg"
+}

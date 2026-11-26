@@ -1,0 +1,51 @@
+{
+  "title": "Elevate",
+  "artist": "Nemzzz",
+  "year": 2021,
+  "release_date": "2021-10-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9429671d-8519-46bb-86b1-34b4ea98cba1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/267465722"
+  },
+  "musicbrainz_id": "9429671d-8519-46bb-86b1-34b4ea98cba1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0d9ecf65-072e-45ef-8778-c6df0e2774ee",
+      "barcode": "5059863941574",
+      "title": "Elevate",
+      "disambiguation": null,
+      "date": "2021-10-22",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Elevate",
+            "length": "2:26",
+            "deezer": {
+              "id": 1529938292,
+              "link": "https://www.deezer.com/track/1529938292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/3/0/803d12faa87089deeeab4ae71f9efea0.mp3?hdnea=exp=1795718824~acl=/api/1/1/8/0/3/0/803d12faa87089deeeab4ae71f9efea0.mp3*~data=user_id=0,application_id=42~hmac=a1df3b2761ac2bc8e6c9b7d195b265d76f1eae664949b2449679e812c845841b",
+              "preview_expires": "2026-11-26T18:47:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nemzzz/Elevate.jpg"
+}

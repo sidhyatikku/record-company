@@ -1,0 +1,59 @@
+{
+  "title": "Bass Inside",
+  "artist": "AC Slater",
+  "year": 2016,
+  "release_date": "2016-04-04",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bass house",
+    "electronic",
+    "house"
+  ],
+  "tags": [
+    "bass house",
+    "electronic",
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c0df01ca-03a8-4f2f-b2a5-3fbeb79c36f1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/12714198"
+  },
+  "musicbrainz_id": "c0df01ca-03a8-4f2f-b2a5-3fbeb79c36f1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d3c9880d-b9a9-4ec3-991d-6bfb34c398eb",
+      "barcode": "075679910899",
+      "title": "Bass Inside",
+      "disambiguation": null,
+      "date": "2016-04-04",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bass Inside",
+            "length": "4:24",
+            "deezer": {
+              "id": 121657886,
+              "link": "https://www.deezer.com/track/121657886",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/3/0/27322cf753d4f7bfcb1293bbb9675766.mp3?hdnea=exp=1795648796~acl=/api/1/1/2/7/3/0/27322cf753d4f7bfcb1293bbb9675766.mp3*~data=user_id=0,application_id=42~hmac=7e949ac4f3fe9460b60b261a7ce38ccfb5995df9c89aa92ae11833e75e182d78",
+              "preview_expires": "2026-11-25T23:19:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AC Slater/Bass Inside.jpg"
+}

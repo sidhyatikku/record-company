@@ -1,0 +1,231 @@
+{
+  "title": "RENT’S DUE",
+  "artist": "Nemzzz",
+  "year": 2025,
+  "release_date": "2025-03-28",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fc8901bc-91e3-4d10-8f77-699606824b21",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/742271721"
+  },
+  "musicbrainz_id": "fc8901bc-91e3-4d10-8f77-699606824b21",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d2d90ffb-271a-4f9f-8757-6771a2cb2c51",
+      "barcode": "5034644617237",
+      "title": "RENT'S DUE (DELUXE)",
+      "disambiguation": null,
+      "date": "2025-03-31",
+      "country": "XW"
+    },
+    "total_tracks": 17,
+    "total_length": "36:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "COLD",
+            "length": "2:23",
+            "deezer": {
+              "id": 3324082651,
+              "link": "https://www.deezer.com/track/3324082651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/3/0/26363c4afdcba58ed9c8daefa75e1e10.mp3?hdnea=exp=1795718832~acl=/api/1/1/2/6/3/0/26363c4afdcba58ed9c8daefa75e1e10.mp3*~data=user_id=0,application_id=42~hmac=4579d21ce418ef477a626695b9602f5c0104acc67c202b6eeafd36bd3ccc3d89",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "MOTION",
+            "length": "2:09",
+            "deezer": {
+              "id": 3324082661,
+              "link": "https://www.deezer.com/track/3324082661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/f/0/7afd198d483d8b7d7a35648b54630f36.mp3?hdnea=exp=1795718832~acl=/api/1/1/7/a/f/0/7afd198d483d8b7d7a35648b54630f36.mp3*~data=user_id=0,application_id=42~hmac=d5b6ceab31eaf28436a545d6f422dbf5d34162bcf08adeb4f8c7bb9cc16c1ecb",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "TURKS & CAICOS",
+            "length": "1:53",
+            "deezer": {
+              "id": 3324082671,
+              "link": "https://www.deezer.com/track/3324082671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/d/0/bcd13f7eca8f648d72041ffd499bd41a.mp3?hdnea=exp=1795718832~acl=/api/1/1/b/c/d/0/bcd13f7eca8f648d72041ffd499bd41a.mp3*~data=user_id=0,application_id=42~hmac=f62c6e7007fbfbb628557245c0458b741e12d87d2bda64db4052f9e4eb8c9fae",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "DTM",
+            "length": "2:15",
+            "deezer": {
+              "id": 3324082681,
+              "link": "https://www.deezer.com/track/3324082681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/2/0/c82bd7e4826535bb297594604cefc6bc.mp3?hdnea=exp=1795718832~acl=/api/1/1/c/8/2/0/c82bd7e4826535bb297594604cefc6bc.mp3*~data=user_id=0,application_id=42~hmac=2169075fcce00c742960777de93d3a3386d35de9ea4f31c1c9cb4ef9b9142370",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "DILEMMA",
+            "length": "2:40",
+            "artist": "Nemzzz feat. Central Cee",
+            "deezer": {
+              "id": 3324082691,
+              "link": "https://www.deezer.com/track/3324082691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/b/0/77bd4e1c27b97024e52316276dc380e0.mp3?hdnea=exp=1795718832~acl=/api/1/1/7/7/b/0/77bd4e1c27b97024e52316276dc380e0.mp3*~data=user_id=0,application_id=42~hmac=269b1a00aa1cb4b16425579e12713e874d449a85409526956c92c39cc975a67a",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "MIAMI",
+            "length": "2:03",
+            "artist": "Nemzzz feat. Kyle Richh",
+            "deezer": {
+              "id": 3324082701,
+              "link": "https://www.deezer.com/track/3324082701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/3/0/3631f4078bae84ea412f67319c28f743.mp3?hdnea=exp=1795718832~acl=/api/1/1/3/6/3/0/3631f4078bae84ea412f67319c28f743.mp3*~data=user_id=0,application_id=42~hmac=77afafb16c80dddfd6b34d4812f0601e928df5f26a9a71a4898609784748d4f2",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "SORRY",
+            "length": "1:39",
+            "deezer": {
+              "id": 3324082711,
+              "link": "https://www.deezer.com/track/3324082711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/f/0/0cfdd6119df6d021396acd92e35a9d05.mp3?hdnea=exp=1795718832~acl=/api/1/1/0/c/f/0/0cfdd6119df6d021396acd92e35a9d05.mp3*~data=user_id=0,application_id=42~hmac=eaffdce472aa97a093f62a6b5b689d8c9e701557e078925c1e762fc1ba517d13",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "BAD GAL RIRI",
+            "length": "2:15",
+            "deezer": {
+              "id": 3324082721,
+              "link": "https://www.deezer.com/track/3324082721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/6/0/b96927b2e5f138eec82ec9e29eaed8b1.mp3?hdnea=exp=1795718832~acl=/api/1/1/b/9/6/0/b96927b2e5f138eec82ec9e29eaed8b1.mp3*~data=user_id=0,application_id=42~hmac=dc363d109f32599ae40ecf152d8fe4225c0929c59809db764cb1d6b94ea98a7a",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "BMF",
+            "length": "1:45",
+            "deezer": {
+              "id": 3324082731,
+              "link": "https://www.deezer.com/track/3324082731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/3/0/5c3d9525673a54c75d71edf796f47c0b.mp3?hdnea=exp=1795718832~acl=/api/1/1/5/c/3/0/5c3d9525673a54c75d71edf796f47c0b.mp3*~data=user_id=0,application_id=42~hmac=1cec96b4748518f5f48e12c88e6696104ef60d81e48ed4c0b63c5e092af2a815",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "BAD DECISIONS",
+            "length": "2:19",
+            "deezer": {
+              "id": 3324082741,
+              "link": "https://www.deezer.com/track/3324082741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/9/0/869fd0cdf1622621623d45a2169f2a2b.mp3?hdnea=exp=1795718832~acl=/api/1/1/8/6/9/0/869fd0cdf1622621623d45a2169f2a2b.mp3*~data=user_id=0,application_id=42~hmac=d9815a4fef8b4d8d66b574ef1ff9cdd2b9db9337068ca9f8e931ec96945c76ae",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "STOP IT!",
+            "length": "1:38",
+            "deezer": {
+              "id": 3324082751,
+              "link": "https://www.deezer.com/track/3324082751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/b/0/a0b172ba19a96ee9112ee254853ec4a3.mp3?hdnea=exp=1795718832~acl=/api/1/1/a/0/b/0/a0b172ba19a96ee9112ee254853ec4a3.mp3*~data=user_id=0,application_id=42~hmac=2180e2d1b181412b5d1af3c636a5ecb8cc0c3ef92fad5a670bc7f565ad205f3f",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "NO DETAIL",
+            "length": "2:24",
+            "deezer": {
+              "id": 3324082761,
+              "link": "https://www.deezer.com/track/3324082761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/6/0/516b1a3b7311d4c3c5445792e3305fa5.mp3?hdnea=exp=1795718832~acl=/api/1/1/5/1/6/0/516b1a3b7311d4c3c5445792e3305fa5.mp3*~data=user_id=0,application_id=42~hmac=fccdbc811d689696924ca1e40a2f3fd389927a0644f4f014e2b4915c528e48a4",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "PAID",
+            "length": "2:18",
+            "deezer": {
+              "id": 3324082771,
+              "link": "https://www.deezer.com/track/3324082771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/9/0/16924b1884d9e3a644da70c0be30f838.mp3?hdnea=exp=1795718832~acl=/api/1/1/1/6/9/0/16924b1884d9e3a644da70c0be30f838.mp3*~data=user_id=0,application_id=42~hmac=0e0315e23f7595be05bd9123d50ee7efb4de2ea6069b83943088143276357f69",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "TASTE",
+            "length": "2:46",
+            "artist": "Nemzzz feat. D‐Block Europe",
+            "deezer": {
+              "id": 3324082781,
+              "link": "https://www.deezer.com/track/3324082781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/f/0/7ff02f34cb869b696464ef2034199bf3.mp3?hdnea=exp=1795718832~acl=/api/1/1/7/f/f/0/7ff02f34cb869b696464ef2034199bf3.mp3*~data=user_id=0,application_id=42~hmac=eb8550f6f6114bdd43021b064e2068ed13691eace62efe97c22be21009c7d7a9",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "CHANT",
+            "length": "2:07",
+            "artist": "Nemzzz feat. Chy Cartier",
+            "deezer": {
+              "id": 3324082791,
+              "link": "https://www.deezer.com/track/3324082791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/2/0/682ba0a25cb55940022d5d4f5146b95d.mp3?hdnea=exp=1795718832~acl=/api/1/1/6/8/2/0/682ba0a25cb55940022d5d4f5146b95d.mp3*~data=user_id=0,application_id=42~hmac=7ad5406ea5a51099386b1435d6c5a12428c0d18b731ab0699597f74a21e79336",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "OKOK",
+            "length": "1:53",
+            "deezer": {
+              "id": 3324082801,
+              "link": "https://www.deezer.com/track/3324082801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/d/0/24de6f114d843dc1d4062b14d44e26f8.mp3?hdnea=exp=1795718832~acl=/api/1/1/2/4/d/0/24de6f114d843dc1d4062b14d44e26f8.mp3*~data=user_id=0,application_id=42~hmac=bd0a608196bde26906da3584fcaa39afe72dc7ddbf5194ab9d9996262328e587",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "SAMPLE",
+            "length": "2:19",
+            "deezer": {
+              "id": 3324082811,
+              "link": "https://www.deezer.com/track/3324082811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/d/0/d9daa82eb377f35953fa993c3b5bc88f.mp3?hdnea=exp=1795718832~acl=/api/1/1/d/9/d/0/d9daa82eb377f35953fa993c3b5bc88f.mp3*~data=user_id=0,application_id=42~hmac=565637ce04201d0cdf3c6bf8b1734448eefdce5de30358e7974967762ef5fdee",
+              "preview_expires": "2026-11-26T18:47:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nemzzz/RENT'S DUE.jpg"
+}

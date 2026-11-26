@@ -1,0 +1,79 @@
+{
+  "title": "Sugar, Sugar",
+  "artist": "The Archies",
+  "year": 1969,
+  "release_date": "1969-09-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bubblegum pop",
+    "pop",
+    "pop rock",
+    "rock"
+  ],
+  "tags": [
+    "bubblegum pop",
+    "pop",
+    "pop rock",
+    "rock",
+    "soundtrack"
+  ],
+  "rating": {
+    "value_out_of_5": 2,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/dc3fc902-3957-337e-9629-5d14e8b879cf",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/90410",
+    "wikidata": "https://www.wikidata.org/wiki/Q129004162",
+    "deezer": "https://www.deezer.com/album/131800"
+  },
+  "musicbrainz_id": "dc3fc902-3957-337e-9629-5d14e8b879cf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dedb2c2b-e044-45fa-a677-e133c20722de",
+      "barcode": null,
+      "title": "Sugar, Sugar",
+      "disambiguation": null,
+      "date": "",
+      "country": "US"
+    },
+    "total_tracks": 2,
+    "total_length": "7:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sugar, Sugar",
+            "length": "2:52",
+            "deezer": {
+              "id": 1254117,
+              "link": "https://www.deezer.com/track/1254117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/c/0/cec778dd3722ce5127406a62e2e1a7ce.mp3?hdnea=exp=1795721329~acl=/api/1/1/c/e/c/0/cec778dd3722ce5127406a62e2e1a7ce.mp3*~data=user_id=0,application_id=42~hmac=d34bc8b64141bb2e784d18fee5f5300902d9e0164aaa0e28d9c3e15f7bbaf0b8",
+              "preview_expires": "2026-11-26T19:28:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sugar, Sugar (Mark Pistel remix)",
+            "length": "4:55",
+            "deezer": {
+              "id": 1254132,
+              "link": "https://www.deezer.com/track/1254132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/1/0/521472ca71520c051e6a35dfa9d67c27.mp3?hdnea=exp=1795721329~acl=/api/1/1/5/2/1/0/521472ca71520c051e6a35dfa9d67c27.mp3*~data=user_id=0,application_id=42~hmac=e3b234e899acc6b29797eadfbf3b1226208a948b30343d1166c2da6772e8fc14",
+              "preview_expires": "2026-11-26T19:28:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Archies/Sugar, Sugar.jpg"
+}

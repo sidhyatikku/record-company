@@ -1,0 +1,51 @@
+{
+  "title": "Tenten",
+  "artist": "NOTION, Unknown T & D38",
+  "year": 2025,
+  "release_date": "2025-04-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0664bcaf-a0f3-4889-878c-c2d58b4e7b11",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/737583101"
+  },
+  "musicbrainz_id": "0664bcaf-a0f3-4889-878c-c2d58b4e7b11",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9a06d323-9c25-4d3b-8e31-48f68d830e75",
+      "barcode": "602478068249",
+      "title": "Tenten",
+      "disambiguation": null,
+      "date": "2025-04-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tenten",
+            "length": "3:29",
+            "deezer": {
+              "id": 3309846341,
+              "link": "https://www.deezer.com/track/3309846341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/b/0/97b0483d7d9c90bd97d064e335db10ac.mp3?hdnea=exp=1795719015~acl=/api/1/1/9/7/b/0/97b0483d7d9c90bd97d064e335db10ac.mp3*~data=user_id=0,application_id=42~hmac=89a63f175b28a1b4f719fff25fff43b53ea80b3f5e325f92146d821bd063b9d2",
+              "preview_expires": "2026-11-26T18:50:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/NOTION/TENTEN.jpg"
+}

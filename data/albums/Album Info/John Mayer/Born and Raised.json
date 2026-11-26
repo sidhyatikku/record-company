@@ -1,0 +1,189 @@
+{
+  "title": "Born and Raised",
+  "artist": "John Mayer",
+  "year": 2012,
+  "release_date": "2012-05-18",
+  "type": "Album",
+  "description": "Born and Raised is the fifth studio album by American singer-songwriter John Mayer, released on May 22, 2012, by Columbia Records. It marked yet another change in Mayer's musical style, incorporating elements of folk and Americana, as well as influences from Bob Dylan, Neil Young, David Crosby, Stephen Stills, and Graham Nash. Its cover, as well as that of the single \"Queen of California\", was designed by David Adrian Smith.",
+  "genres": [
+    "country rock",
+    "blues rock",
+    "folk rock",
+    "rock"
+  ],
+  "tags": [
+    "country rock",
+    "blues rock",
+    "folk rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b748838f-c34a-4085-8df2-acce9f1d7e9f",
+    "wikipedia": "https://en.wikipedia.org/wiki/Born_and_Raised_(John_Mayer_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002339580",
+    "discogs": "https://www.discogs.com/master/443931",
+    "wikidata": "https://www.wikidata.org/wiki/Q2699315",
+    "deezer": "https://www.deezer.com/album/2794101"
+  },
+  "musicbrainz_id": "b748838f-c34a-4085-8df2-acce9f1d7e9f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fa2ff295-fc7f-423b-860b-44764c83e74a",
+      "barcode": "886443406308",
+      "title": "Born and Raised",
+      "disambiguation": null,
+      "date": "2012-05-22",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "46:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Queen of California",
+            "length": "4:10",
+            "deezer": {
+              "id": 29360171,
+              "link": "https://www.deezer.com/track/29360171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/5/0/5e508c45280c7ace9af7f27f9a156d8e.mp3?hdnea=exp=1795655680~acl=/api/1/1/5/e/5/0/5e508c45280c7ace9af7f27f9a156d8e.mp3*~data=user_id=0,application_id=42~hmac=5d2253426ef8d572d3951e703b07c1799b690969d4715b5920a673b6016f79b3",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Age of Worry",
+            "length": "2:38",
+            "deezer": {
+              "id": 29360181,
+              "link": "https://www.deezer.com/track/29360181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/3/0/483811ff743e21e0f2ad6f90af755fed.mp3?hdnea=exp=1795655680~acl=/api/1/1/4/8/3/0/483811ff743e21e0f2ad6f90af755fed.mp3*~data=user_id=0,application_id=42~hmac=4ceff380953875a1cc4ff23841775019183804c00389e1397bc41bd525210fd6",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Shadow Days",
+            "length": "3:48",
+            "deezer": {
+              "id": 29360191,
+              "link": "https://www.deezer.com/track/29360191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/c/0/2bcdda695ad28ad2040e058dac673ae9.mp3?hdnea=exp=1795655680~acl=/api/1/1/2/b/c/0/2bcdda695ad28ad2040e058dac673ae9.mp3*~data=user_id=0,application_id=42~hmac=fb2c832083d8f871f07ef58d8304365feff2d0e348813ac715315a030d451dac",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Speak for Me",
+            "length": "3:45",
+            "deezer": {
+              "id": 29360201,
+              "link": "https://www.deezer.com/track/29360201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/1/0/b2138d838cec0a80b431077855d24c98.mp3?hdnea=exp=1795655680~acl=/api/1/1/b/2/1/0/b2138d838cec0a80b431077855d24c98.mp3*~data=user_id=0,application_id=42~hmac=3e4adfd588e6b5950d1b99fe54c75429ceabf8df80419caf754efc071b6c283a",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Something Like Olivia",
+            "length": "3:01",
+            "deezer": {
+              "id": 29360211,
+              "link": "https://www.deezer.com/track/29360211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/2/0/8121f696a9416c27993dee9c7d0796e0.mp3?hdnea=exp=1795655680~acl=/api/1/1/8/1/2/0/8121f696a9416c27993dee9c7d0796e0.mp3*~data=user_id=0,application_id=42~hmac=53ed57e4bcd2bd29514413734c70798003f05a3b2ab927d9007271d519250de5",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Born and Raised",
+            "length": "4:48",
+            "deezer": {
+              "id": 29360221,
+              "link": "https://www.deezer.com/track/29360221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/f/0/68f7c2ec9d047c69e074c6dfee0393fe.mp3?hdnea=exp=1795655680~acl=/api/1/1/6/8/f/0/68f7c2ec9d047c69e074c6dfee0393fe.mp3*~data=user_id=0,application_id=42~hmac=f0485a5e11cc54816f0c604fe77b68d0f2a14bad288bd2398ec737540d3690cb",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "If I Ever Get Around to Living",
+            "length": "5:22",
+            "deezer": {
+              "id": 29360231,
+              "link": "https://www.deezer.com/track/29360231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/8/0/4d8c41ccce5fc416e445963ab5ae219b.mp3?hdnea=exp=1795655680~acl=/api/1/1/4/d/8/0/4d8c41ccce5fc416e445963ab5ae219b.mp3*~data=user_id=0,application_id=42~hmac=5b25f4271245683e93e8e200320e40a3c78a818a8334163ec64c06afea760c0c",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Love Is a Verb",
+            "length": "2:24",
+            "deezer": {
+              "id": 29360241,
+              "link": "https://www.deezer.com/track/29360241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/c/0/9ac82a7da4c5a07b688c302c5df86e0f.mp3?hdnea=exp=1795655680~acl=/api/1/1/9/a/c/0/9ac82a7da4c5a07b688c302c5df86e0f.mp3*~data=user_id=0,application_id=42~hmac=b52aef58865ba0f5f0c271231c210c2badc967f0012ba67f5bdd69f1c04a2a72",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Walt Grace’s Submarine Test, January 1967",
+            "length": "5:08",
+            "deezer": {
+              "id": 29360251,
+              "link": "https://www.deezer.com/track/29360251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/1/0/391f3bd808edd5957440dd3b96534f0d.mp3?hdnea=exp=1795655680~acl=/api/1/1/3/9/1/0/391f3bd808edd5957440dd3b96534f0d.mp3*~data=user_id=0,application_id=42~hmac=52cb6a87365a61558b2d3635222d500089932b405927eae0930cc5d4e12b06d6",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Whiskey, Whiskey, Whiskey",
+            "length": "4:39",
+            "deezer": {
+              "id": 29360261,
+              "link": "https://www.deezer.com/track/29360261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/f/0/aff4e4bed1915d6e8858d7769e016167.mp3?hdnea=exp=1795655680~acl=/api/1/1/a/f/f/0/aff4e4bed1915d6e8858d7769e016167.mp3*~data=user_id=0,application_id=42~hmac=13e23148b77c8927edce740ef887a7e0015b088cda5b7eef749010ea81de7dae",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "A Face to Call Home",
+            "length": "4:45",
+            "deezer": {
+              "id": 29360271,
+              "link": "https://www.deezer.com/track/29360271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a7514fd596353a6804084a781059cb7c.mp3?hdnea=exp=1795655680~acl=/api/1/1/a/7/5/0/a7514fd596353a6804084a781059cb7c.mp3*~data=user_id=0,application_id=42~hmac=1b9db6affb6405e7d48ac04a1ff2282bd3ca96260f51b280c7e716c47ce36263",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Born and Raised (reprise)",
+            "length": "2:01",
+            "deezer": {
+              "id": 29360281,
+              "link": "https://www.deezer.com/track/29360281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/c/0/56c4c6c2bbb9ec49caaefa5f48432744.mp3?hdnea=exp=1795655680~acl=/api/1/1/5/6/c/0/56c4c6c2bbb9ec49caaefa5f48432744.mp3*~data=user_id=0,application_id=42~hmac=57a9d514b57a5269f104a16f73c6c8a062ba3006ab38122f620052e6635917da",
+              "preview_expires": "2026-11-26T01:14:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Mayer/Born and Raised.jpg"
+}

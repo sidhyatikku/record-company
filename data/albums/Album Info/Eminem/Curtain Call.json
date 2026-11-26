@@ -1,0 +1,345 @@
+{
+  "title": "Curtain Call: The Hits",
+  "artist": "Eminem",
+  "year": 2005,
+  "release_date": "2005-12-02",
+  "type": "Album + Compilation",
+  "description": "Curtain Call: The Hits is the first greatest hits album by the American rapper Eminem. It was released on December 6, 2005, under Shady Records, Goliath Artists, Aftermath Entertainment, WEB Entertainment, and Interscope Records. The album collects Eminem's most popular singles, as well as three new songs: \"Fack\", \"When I'm Gone\", and \"Shake That\" featuring Nate Dogg. A live version of \"Stan\" performed with English singer-songwriter Elton John at the 43rd Grammy Awards is also included as a bonus track.",
+  "genres": [
+    "hip hop",
+    "pop rap",
+    "hardcore hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "rap",
+    "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+    "hip hop rap",
+    "pop rap",
+    "comedy rap",
+    "5+ wochen",
+    "english",
+    "gangsta",
+    "hardcore hip hop",
+    "hip-hop",
+    "no genre info",
+    "offizielle charts",
+    "rap and hip hop",
+    "top40"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1a18928e-1d32-32f2-a10e-e1f76e86bc8b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Curtain_Call%3A_The_Hits",
+    "allmusic": "https://www.allmusic.com/album/mw0000673369",
+    "discogs": "https://www.discogs.com/master/19951",
+    "wikidata": "https://www.wikidata.org/wiki/Q373514",
+    "deezer": "https://www.deezer.com/album/224581"
+  },
+  "musicbrainz_id": "1a18928e-1d32-32f2-a10e-e1f76e86bc8b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9e5b03b0-3618-46ef-b009-646c9ec82e2f",
+      "barcode": "602498890844",
+      "title": "Curtain Call: The Hits",
+      "disambiguation": "deluxe edition",
+      "date": "2005-12-06",
+      "country": null
+    },
+    "total_tracks": 24,
+    "total_length": "1:51:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro",
+            "length": "0:34",
+            "deezer": {
+              "id": 2248416,
+              "link": "https://www.deezer.com/track/2248416",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/6/0/d2678559f758db9e148e429475f14a88.mp3?hdnea=exp=1795653866~acl=/api/1/1/d/2/6/0/d2678559f758db9e148e429475f14a88.mp3*~data=user_id=0,application_id=42~hmac=63587a2b3e3a51b5a7c071a9ed19c0585a7ec1a570fcb35ab0b9a5a6447da3e1",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "FACK",
+            "length": "3:26",
+            "deezer": {
+              "id": 2248417,
+              "link": "https://www.deezer.com/track/2248417",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/b/0/c4bd0243e091a6a1b109c06543b532b7.mp3?hdnea=exp=1795653866~acl=/api/1/1/c/4/b/0/c4bd0243e091a6a1b109c06543b532b7.mp3*~data=user_id=0,application_id=42~hmac=629f65c13a439f4cf72ffe236aeba9fb666aa482841478d59d554b608bb042dc",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Way I Am",
+            "length": "4:51",
+            "deezer": {
+              "id": 2248419,
+              "link": "https://www.deezer.com/track/2248419",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/2/0/2e22eedde36f592ceed2caa9439ffd86.mp3?hdnea=exp=1795653866~acl=/api/1/1/2/e/2/0/2e22eedde36f592ceed2caa9439ffd86.mp3*~data=user_id=0,application_id=42~hmac=f2d5663312d783718bf5a8be2760a0e7904127712d0d1860a96d54b5e2eebd7e",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "My Name Is",
+            "length": "4:29",
+            "deezer": {
+              "id": 2248420,
+              "link": "https://www.deezer.com/track/2248420",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/c/0/bdc51623d58600791c11720906bac5b3.mp3?hdnea=exp=1795653866~acl=/api/1/1/b/d/c/0/bdc51623d58600791c11720906bac5b3.mp3*~data=user_id=0,application_id=42~hmac=f8182246491e9bb402efc084d53456a7b9e9bd6de961ca4e055407c7f5bb1291",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Stan",
+            "length": "6:44",
+            "artist": "Eminem feat. Dido",
+            "deezer": {
+              "id": 2248421,
+              "link": "https://www.deezer.com/track/2248421",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/2/0/b12a45a11b396586adf4b124aaa192bc.mp3?hdnea=exp=1795653866~acl=/api/1/1/b/1/2/0/b12a45a11b396586adf4b124aaa192bc.mp3*~data=user_id=0,application_id=42~hmac=1269a44d19f6720632084cc1bd990142628682cbd269ebeeb27961e7dd4cf117",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lose Yourself",
+            "length": "5:26",
+            "deezer": {
+              "id": 2248423,
+              "link": "https://www.deezer.com/track/2248423",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/a/0/27a14827ff1e82c5e40e8b6a934a8637.mp3?hdnea=exp=1795653866~acl=/api/1/1/2/7/a/0/27a14827ff1e82c5e40e8b6a934a8637.mp3*~data=user_id=0,application_id=42~hmac=c572a48b3de390781323ab0f20f7203fe16c0accac6bb67ee05fd5f471bf6e13",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Shake That",
+            "length": "4:34",
+            "artist": "Eminem feat. Nate Dogg",
+            "deezer": {
+              "id": 2248424,
+              "link": "https://www.deezer.com/track/2248424",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/e/0/5fec5acaaf90645e08bd607470c5a8c8.mp3?hdnea=exp=1795653866~acl=/api/1/1/5/f/e/0/5fec5acaaf90645e08bd607470c5a8c8.mp3*~data=user_id=0,application_id=42~hmac=2bd32cd37d4c69ef212911f60c822ca1958d563134ef3b7048e62b6fbbb49238",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sing for the Moment",
+            "length": "5:40",
+            "deezer": {
+              "id": 2248426,
+              "link": "https://www.deezer.com/track/2248426",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/e/0/38e237931c2f8a721ba46b4eb8b3114d.mp3?hdnea=exp=1795653866~acl=/api/1/1/3/8/e/0/38e237931c2f8a721ba46b4eb8b3114d.mp3*~data=user_id=0,application_id=42~hmac=8be1f24451db45818fda8602d25870a104a36e955d7dd336c66f10957788bf30",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Without Me",
+            "length": "4:51",
+            "deezer": {
+              "id": 2248427,
+              "link": "https://www.deezer.com/track/2248427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/7/0/387643513bf2e2750434a13f923904b8.mp3?hdnea=exp=1795653866~acl=/api/1/1/3/8/7/0/387643513bf2e2750434a13f923904b8.mp3*~data=user_id=0,application_id=42~hmac=f9dcd57998ad07802333048aa08d76b0fe70615a7c05ca927faedd0d48d35e98",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Like Toy Soldiers",
+            "length": "4:56",
+            "deezer": {
+              "id": 2248429,
+              "link": "https://www.deezer.com/track/2248429",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/4/0/64439db2532a2accd002443d6567dbd3.mp3?hdnea=exp=1795653866~acl=/api/1/1/6/4/4/0/64439db2532a2accd002443d6567dbd3.mp3*~data=user_id=0,application_id=42~hmac=7eb32a23b8b242ebd4e6750f82b00028208ac64b94e37a7b3626119b3ff3b90f",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Real Slim Shady",
+            "length": "4:45",
+            "deezer": {
+              "id": 2248430,
+              "link": "https://www.deezer.com/track/2248430",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/8/0/8884d70117209dbf5b9df927eda209da.mp3?hdnea=exp=1795653866~acl=/api/1/1/8/8/8/0/8884d70117209dbf5b9df927eda209da.mp3*~data=user_id=0,application_id=42~hmac=2125265da373605ab88bb7b92caf336e4e3297d7aaac252eac0f9dd9070c688a",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Mockingbird",
+            "length": "4:11",
+            "deezer": {
+              "id": 2248431,
+              "link": "https://www.deezer.com/track/2248431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/5/0/e4589311b7cdd524d1767bc2b7b6e17f.mp3?hdnea=exp=1795653866~acl=/api/1/1/e/4/5/0/e4589311b7cdd524d1767bc2b7b6e17f.mp3*~data=user_id=0,application_id=42~hmac=ef4ca710f10e3a128872fa3c2f95aebfa01fe47b79d720d213a7633d9428767f",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Guilty Conscience",
+            "length": "3:20",
+            "artist": "Eminem feat. Dr. Dre",
+            "deezer": {
+              "id": 2248432,
+              "link": "https://www.deezer.com/track/2248432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/8/0/768cf81a59e24941a2bda7e37d9ba777.mp3?hdnea=exp=1795653866~acl=/api/1/1/7/6/8/0/768cf81a59e24941a2bda7e37d9ba777.mp3*~data=user_id=0,application_id=42~hmac=785b1a1cb0448a2b378144b86dd38b8d580996a2cec74eada7b2c739f3672a65",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Cleanin’ Out My Closet",
+            "length": "4:59",
+            "deezer": {
+              "id": 2248434,
+              "link": "https://www.deezer.com/track/2248434",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/1/0/561b807340dbf2254ef2ca98adf15a2e.mp3?hdnea=exp=1795653866~acl=/api/1/1/5/6/1/0/561b807340dbf2254ef2ca98adf15a2e.mp3*~data=user_id=0,application_id=42~hmac=028c986fb1e4af5326515f25be4eabcb17f50ba9ab6491049fd86ce64ab10de7",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Just Lose It",
+            "length": "4:09",
+            "deezer": {
+              "id": 2248435,
+              "link": "https://www.deezer.com/track/2248435",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/a/0/14a97f6e1d03afc7644d4ef599127994.mp3?hdnea=exp=1795653866~acl=/api/1/1/1/4/a/0/14a97f6e1d03afc7644d4ef599127994.mp3*~data=user_id=0,application_id=42~hmac=16882ab92ba6003b13f39677f939df3c8e32ded4d33e5d42dda8fbbf9a99960b",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "When I’m Gone",
+            "length": "4:41",
+            "deezer": {
+              "id": 2248436,
+              "link": "https://www.deezer.com/track/2248436",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/2/0/c72dbc40b00bc4ded650d065be249fe2.mp3?hdnea=exp=1795653866~acl=/api/1/1/c/7/2/0/c72dbc40b00bc4ded650d065be249fe2.mp3*~data=user_id=0,application_id=42~hmac=ff1dd77e43000bf0ad71b21812a3a5d70d4ee9280e792851b4869e8ad12fd402",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Stan (live at 43rd Grammy Awards)",
+            "length": "6:20",
+            "artist": "Eminem feat. Elton John",
+            "deezer": {
+              "id": 2248437,
+              "link": "https://www.deezer.com/track/2248437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/5/0/a35fa5c61b7c52fdb01033f3ff498328.mp3?hdnea=exp=1795653866~acl=/api/1/1/a/3/5/0/a35fa5c61b7c52fdb01033f3ff498328.mp3*~data=user_id=0,application_id=42~hmac=c1453d87a1c1168661338c8f1fea09767a825ec3ddc74233fadd508f27967c92",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dead Wrong",
+            "length": "4:57",
+            "artist": "The Notorious B.I.G. feat. Eminem",
+            "deezer": {
+              "id": 4674799,
+              "link": "https://www.deezer.com/track/4674799",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/c/0/0fc9221cee56e698b3cb12048c07cb9a.mp3?hdnea=exp=1795653866~acl=/api/1/1/0/f/c/0/0fc9221cee56e698b3cb12048c07cb9a.mp3*~data=user_id=0,application_id=42~hmac=3c58f0210eb85cfa78e90a4e9aa2ec18194a15adf95a4f7e42c5203fa2409ee2",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Role Model",
+            "length": "3:25",
+            "deezer": {
+              "id": 2248438,
+              "link": "https://www.deezer.com/track/2248438",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/b/0/7cb9b4219e41ec741df10bea128dfa47.mp3?hdnea=exp=1795653866~acl=/api/1/1/7/c/b/0/7cb9b4219e41ec741df10bea128dfa47.mp3*~data=user_id=0,application_id=42~hmac=c7943683db90e3e494ead52ca6b0e4a4804cdebc8e3fc28e0558e67c222d3899",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kill You",
+            "length": "4:25",
+            "deezer": {
+              "id": 2248439,
+              "link": "https://www.deezer.com/track/2248439",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/f/0/b4f2e9e9ccaa92d252ba0ff5d189460d.mp3?hdnea=exp=1795653866~acl=/api/1/1/b/4/f/0/b4f2e9e9ccaa92d252ba0ff5d189460d.mp3*~data=user_id=0,application_id=42~hmac=2590f1ae55b6a5a85c27f294fbce3e7e6e9414d48abd4943acc1dd6c9d5222f8",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Shit On You",
+            "length": "5:28",
+            "artist": "D12",
+            "deezer": {
+              "id": 2248441,
+              "link": "https://www.deezer.com/track/2248441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/d/0/e3d659e8d87e19ab213f8c96d4b296f3.mp3?hdnea=exp=1795653866~acl=/api/1/1/e/3/d/0/e3d659e8d87e19ab213f8c96d4b296f3.mp3*~data=user_id=0,application_id=42~hmac=66bb4d83ae6d34f1d30137843df1173e1198968a7e6e72d2c291f216bf039275",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Criminal",
+            "length": "5:14",
+            "deezer": {
+              "id": 2248443,
+              "link": "https://www.deezer.com/track/2248443",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/e/0/6be5435dac5ccfd0e98ed85001846846.mp3?hdnea=exp=1795653866~acl=/api/1/1/6/b/e/0/6be5435dac5ccfd0e98ed85001846846.mp3*~data=user_id=0,application_id=42~hmac=ea47adc65bb6a66921dd2f50efbb5931a2f048a134c1bda204e45cd18bc561bc",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Renegade",
+            "length": "5:36",
+            "artist": "JAY-Z feat. Eminem",
+            "deezer": {
+              "id": 2248445,
+              "link": "https://www.deezer.com/track/2248445",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/3/0/0c39107d4d4b0ea1cc897bdb3ad9c08a.mp3?hdnea=exp=1795653866~acl=/api/1/1/0/c/3/0/0c39107d4d4b0ea1cc897bdb3ad9c08a.mp3*~data=user_id=0,application_id=42~hmac=32a62b7cb6245686bc2ab13d14979b0f39144f42478f666b933504eeb681b8e8",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Just Don’t Give A Fuck",
+            "length": "4:02",
+            "deezer": {
+              "id": 2248446,
+              "link": "https://www.deezer.com/track/2248446",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/d/0/a0d037054f1e5a23c9fa25e19903dabb.mp3?hdnea=exp=1795653866~acl=/api/1/1/a/0/d/0/a0d037054f1e5a23c9fa25e19903dabb.mp3*~data=user_id=0,application_id=42~hmac=676990a2d8424d08fc33a870aef14d465b7565db4ed9b2b20f414b709d15bce3",
+              "preview_expires": "2026-11-26T00:44:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eminem/Curtain Call.jpg"
+}

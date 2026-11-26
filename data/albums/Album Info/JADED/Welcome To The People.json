@@ -1,0 +1,63 @@
+{
+  "title": "Welcome To The People",
+  "artist": "JADED",
+  "year": 2021,
+  "release_date": "2021-09-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d6ead90a-5057-49dc-a194-e508f53eb5bd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/253715422"
+  },
+  "musicbrainz_id": "d6ead90a-5057-49dc-a194-e508f53eb5bd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/600cc90b-8141-436c-aa24-59f68d61f21d",
+      "barcode": "810072041524",
+      "title": "Welcome To The People",
+      "disambiguation": null,
+      "date": "2021-09-10",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "6:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Welcome To The People",
+            "length": "2:41",
+            "deezer": {
+              "id": 1472916592,
+              "link": "https://www.deezer.com/track/1472916592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/a/0/52a52d0ba15322c7ad32d00ffbd360bc.mp3?hdnea=exp=1795655395~acl=/api/1/1/5/2/a/0/52a52d0ba15322c7ad32d00ffbd360bc.mp3*~data=user_id=0,application_id=42~hmac=ab6f8a1cb67492406e2df073ffba4e317decc8b789fb33f1f7a71600cb036445",
+              "preview_expires": "2026-11-26T01:09:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Wale",
+            "length": "3:22",
+            "artist": "JADED feat. RoRo",
+            "deezer": {
+              "id": 1472916602,
+              "link": "https://www.deezer.com/track/1472916602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/1/0/9212ed26116b326bde275f9f1e6c3f3d.mp3?hdnea=exp=1795655395~acl=/api/1/1/9/2/1/0/9212ed26116b326bde275f9f1e6c3f3d.mp3*~data=user_id=0,application_id=42~hmac=48e7b8c134bf3998f738b93e700df6b1c1abfa2ccda2f983578d7bd9479fd441",
+              "preview_expires": "2026-11-26T01:09:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/JADED/Welcome To The People.jpg"
+}

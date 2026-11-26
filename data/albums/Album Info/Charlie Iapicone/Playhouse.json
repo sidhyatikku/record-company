@@ -1,0 +1,51 @@
+{
+  "title": "Playhouse",
+  "artist": "Charlie iapicone",
+  "year": 2023,
+  "release_date": "2023-03-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7c825fd8-160c-4ddc-8c6a-2bf2ace9f835",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/421847887"
+  },
+  "musicbrainz_id": "7c825fd8-160c-4ddc-8c6a-2bf2ace9f835",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f567d201-8d13-429a-bfcf-f9c1927f7d2e",
+      "barcode": null,
+      "title": "Playhouse",
+      "disambiguation": null,
+      "date": "2023-03-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Playhouse",
+            "length": "3:30",
+            "deezer": {
+              "id": 2208565297,
+              "link": "https://www.deezer.com/track/2208565297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/a/0/7fad4972b8f4cc724d40471514f73687.mp3?hdnea=exp=1795652709~acl=/api/1/1/7/f/a/0/7fad4972b8f4cc724d40471514f73687.mp3*~data=user_id=0,application_id=42~hmac=8fb37e17be3a91973a853e349b69d1a4859386f99e4164627f5db6bee390f5be",
+              "preview_expires": "2026-11-26T00:25:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Charlie Iapicone/Playhouse.jpg"
+}

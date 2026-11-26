@@ -1,0 +1,251 @@
+{
+  "title": "ICEMAN",
+  "artist": "Drake",
+  "year": 2026,
+  "release_date": "2026-05-15",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "pop rap",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/34009a25-def9-4e37-b3be-803b154902c0",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0004812349",
+    "deezer": "https://www.deezer.com/album/983236081"
+  },
+  "musicbrainz_id": "34009a25-def9-4e37-b3be-803b154902c0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0fd96371-ed4c-4646-9d24-8002b23d8bc1",
+      "barcode": "00600574207005",
+      "title": "ICEMAN",
+      "disambiguation": null,
+      "date": "2026-05-15",
+      "country": "XW"
+    },
+    "total_tracks": 18,
+    "total_length": "1:08:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Make Them Cry",
+            "length": "5:08",
+            "deezer": {
+              "id": 4022917741,
+              "link": "https://www.deezer.com/track/4022917741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/c/0/f3c19a0cbb03874d243b136a9eb6d5b5.mp3?hdnea=exp=1795653548~acl=/api/1/1/f/3/c/0/f3c19a0cbb03874d243b136a9eb6d5b5.mp3*~data=user_id=0,application_id=42~hmac=1da55a8e30a1d43e92ec1712139a4ead0b7536eef52fec85a299a60d0f152d2d",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dust",
+            "length": "3:09",
+            "deezer": {
+              "id": 4022917751,
+              "link": "https://www.deezer.com/track/4022917751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/6/0/78681edcd5e1369f6eddbe783aeaf122.mp3?hdnea=exp=1795653548~acl=/api/1/1/7/8/6/0/78681edcd5e1369f6eddbe783aeaf122.mp3*~data=user_id=0,application_id=42~hmac=00eb44e5be21fe0838c5c2715128ba3b0597d0898ff384dd34af6beed33334f2",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Whisper My Name",
+            "length": "3:43",
+            "deezer": {
+              "id": 4022917761,
+              "link": "https://www.deezer.com/track/4022917761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/9/0/fc902a2c4d3add205c45309109fcf943.mp3?hdnea=exp=1795653548~acl=/api/1/1/f/c/9/0/fc902a2c4d3add205c45309109fcf943.mp3*~data=user_id=0,application_id=42~hmac=941ee80b0fea461ea8811bbe1224a872337729083eb3338fa53632873e056a18",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Janice STFU",
+            "length": "3:57",
+            "deezer": {
+              "id": 4022917771,
+              "link": "https://www.deezer.com/track/4022917771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/2/0/7324c7d1edf2e198c43ec4f5c80670fc.mp3?hdnea=exp=1795653548~acl=/api/1/1/7/3/2/0/7324c7d1edf2e198c43ec4f5c80670fc.mp3*~data=user_id=0,application_id=42~hmac=ec284f144335b4451976f58e4a404c017a13ebbe22b9fbbfe94c27a665867b72",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ran To Atlanta",
+            "length": "4:07",
+            "artist": "Drake, Future & Molly Santana",
+            "deezer": {
+              "id": 4022917781,
+              "link": "https://www.deezer.com/track/4022917781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/5/0/565ad8cd5f9fa975beac7bc92f4e50a2.mp3?hdnea=exp=1795653548~acl=/api/1/1/5/6/5/0/565ad8cd5f9fa975beac7bc92f4e50a2.mp3*~data=user_id=0,application_id=42~hmac=f213b206f5d85b185aca94c3f09d3de317e247be0f46a66be01541f484401a86",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Shabang",
+            "length": "3:09",
+            "deezer": {
+              "id": 4022917791,
+              "link": "https://www.deezer.com/track/4022917791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/4/0/fe4ce0c7912e3a02f26be7ac4aab4f3d.mp3?hdnea=exp=1795653548~acl=/api/1/1/f/e/4/0/fe4ce0c7912e3a02f26be7ac4aab4f3d.mp3*~data=user_id=0,application_id=42~hmac=216519bfee961236568e8833f3f7b11789ced5cfb1f361624085977c582cfcc6",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Make Them Pay",
+            "length": "5:02",
+            "deezer": {
+              "id": 4022917801,
+              "link": "https://www.deezer.com/track/4022917801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/0/0/2607803b6ca2884577ba324df734d36f.mp3?hdnea=exp=1795653548~acl=/api/1/1/2/6/0/0/2607803b6ca2884577ba324df734d36f.mp3*~data=user_id=0,application_id=42~hmac=b291434d8bb619e0924c6bb2044812ffe9332c7fa7381e091403af70b376bfc2",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Burning Bridges",
+            "length": "3:46",
+            "deezer": {
+              "id": 4022917811,
+              "link": "https://www.deezer.com/track/4022917811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/3/0/6430b74c2c1cc62fee02364ddb410f76.mp3?hdnea=exp=1795653548~acl=/api/1/1/6/4/3/0/6430b74c2c1cc62fee02364ddb410f76.mp3*~data=user_id=0,application_id=42~hmac=b4279dfcb8aec0240e16de242c870711d6a42c8dcc92231fc70367e3f284391c",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "National Treasures",
+            "length": "3:21",
+            "deezer": {
+              "id": 4022917821,
+              "link": "https://www.deezer.com/track/4022917821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/d/0/97d16a361784464e6e647b6afe1f61ec.mp3?hdnea=exp=1795653548~acl=/api/1/1/9/7/d/0/97d16a361784464e6e647b6afe1f61ec.mp3*~data=user_id=0,application_id=42~hmac=39c6b0b2863b1b5f44dbeb4162a150f74293d17daaf2ff009ee3ff2b95845a3b",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "B's On The Table",
+            "length": "2:18",
+            "artist": "Drake & 21 Savage",
+            "deezer": {
+              "id": 4022917831,
+              "link": "https://www.deezer.com/track/4022917831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/5/0/d65bfaf21dd61c331e964a90982d51e6.mp3?hdnea=exp=1795653548~acl=/api/1/1/d/6/5/0/d65bfaf21dd61c331e964a90982d51e6.mp3*~data=user_id=0,application_id=42~hmac=a637c1483b68a1f87a6a1f02ac4bed75d17d564b28ed1f466027b61db4be54c1",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "What Did I Miss?",
+            "length": "3:14",
+            "deezer": {
+              "id": 4022917841,
+              "link": "https://www.deezer.com/track/4022917841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f60f4d4aa19d279c0a6a2d76d5a11261.mp3?hdnea=exp=1795653548~acl=/api/1/1/f/6/0/0/f60f4d4aa19d279c0a6a2d76d5a11261.mp3*~data=user_id=0,application_id=42~hmac=4ae436c4d49c4763a148530197c359f524399c17f30d68135e7bd4eb3a5a9363",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Plot Twist",
+            "length": "3:16",
+            "deezer": {
+              "id": 4022917851,
+              "link": "https://www.deezer.com/track/4022917851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/d/0/4ed082085b9d2a7efd4f13f42009f400.mp3?hdnea=exp=1795653548~acl=/api/1/1/4/e/d/0/4ed082085b9d2a7efd4f13f42009f400.mp3*~data=user_id=0,application_id=42~hmac=e21d2bae2249672472152e443ebea7c6b6bc601b277b8cedccb93ddc4a13f667",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "2 Hard 4 The Radio",
+            "length": "3:04",
+            "deezer": {
+              "id": 4022917861,
+              "link": "https://www.deezer.com/track/4022917861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/9/0/fd92485b16bd9222546a8e5b5f6ed86b.mp3?hdnea=exp=1795653548~acl=/api/1/1/f/d/9/0/fd92485b16bd9222546a8e5b5f6ed86b.mp3*~data=user_id=0,application_id=42~hmac=ef9f816d676fa8995e45f2bbee2ae7060b29f7538df75b09d086c25443de7405",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Make Them Remember",
+            "length": "5:24",
+            "deezer": {
+              "id": 4022917871,
+              "link": "https://www.deezer.com/track/4022917871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc36b23fb87b48e670d8c96e9c45105c.mp3?hdnea=exp=1795653548~acl=/api/1/1/f/c/3/0/fc36b23fb87b48e670d8c96e9c45105c.mp3*~data=user_id=0,application_id=42~hmac=d5e14877c9c6622b86c18992547fb9c718a1a48bb7b7bbfe1c5a02e8a89c4aca",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Little Birdie",
+            "length": "2:57",
+            "deezer": {
+              "id": 4022917881,
+              "link": "https://www.deezer.com/track/4022917881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/d/0/a5d03fe40677934d79b9a4a022fc1be1.mp3?hdnea=exp=1795653548~acl=/api/1/1/a/5/d/0/a5d03fe40677934d79b9a4a022fc1be1.mp3*~data=user_id=0,application_id=42~hmac=4261002ef15a034dd62d5d7eb9c368bd35f3627c0846d00875f1a4950aca0ae9",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Don’t Worry",
+            "length": "4:06",
+            "deezer": {
+              "id": 4022917891,
+              "link": "https://www.deezer.com/track/4022917891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/0/0/8f06c45ba3b2aea9095804f1a0f60991.mp3?hdnea=exp=1795653548~acl=/api/1/1/8/f/0/0/8f06c45ba3b2aea9095804f1a0f60991.mp3*~data=user_id=0,application_id=42~hmac=c6c44921806b5fbdc05f21954d3a421af3829dd6ea9609f7b2043870322830d1",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Firm Friends",
+            "length": "5:02",
+            "deezer": {
+              "id": 4022917901,
+              "link": "https://www.deezer.com/track/4022917901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/2/0/6f243e06d774bf26569187b7e7738b80.mp3?hdnea=exp=1795653548~acl=/api/1/1/6/f/2/0/6f243e06d774bf26569187b7e7738b80.mp3*~data=user_id=0,application_id=42~hmac=6755f5bec92594a2cd17b1921e6b570a49039a6031a821a21a244e1aebdf5a3d",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Make Them Know",
+            "length": "4:08",
+            "deezer": {
+              "id": 4022917911,
+              "link": "https://www.deezer.com/track/4022917911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/0/0/c80f882164a0ec5420d1cfe974daef04.mp3?hdnea=exp=1795653548~acl=/api/1/1/c/8/0/0/c80f882164a0ec5420d1cfe974daef04.mp3*~data=user_id=0,application_id=42~hmac=c3de99b4425c17a60839c4b469a7fcbc00b16789d9c92695822607cfa535f66d",
+              "preview_expires": "2026-11-26T00:39:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/ICEMAN.jpg"
+}

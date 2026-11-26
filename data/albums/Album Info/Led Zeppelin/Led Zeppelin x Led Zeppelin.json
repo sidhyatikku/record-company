@@ -1,0 +1,378 @@
+{
+  "title": "Led Zeppelin x Led Zeppelin",
+  "artist": "Led Zeppelin",
+  "year": 2018,
+  "release_date": "2018-09-27",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "rock",
+    "classic rock",
+    "trance"
+  ],
+  "tags": [
+    "rock",
+    "classic rock",
+    "trance"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/07e182ae-6567-4bc4-90f0-73619c942d73",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/73903112"
+  },
+  "musicbrainz_id": "07e182ae-6567-4bc4-90f0-73619c942d73",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/25a9c57a-a49b-4f4d-a73a-bcf35f01168c",
+      "barcode": "0603497854981",
+      "title": "Led Zeppelin x Led Zeppelin",
+      "disambiguation": null,
+      "date": "2018-09-27",
+      "country": "XW"
+    },
+    "total_tracks": 30,
+    "total_length": "2:36:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Immigrant Song",
+            "length": "2:26",
+            "deezer": {
+              "id": 558728642,
+              "link": "https://www.deezer.com/track/558728642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/6/0/da673b90d280a0e06f09d8ed5b755a19.mp3?hdnea=exp=1795656448~acl=/api/1/1/d/a/6/0/da673b90d280a0e06f09d8ed5b755a19.mp3*~data=user_id=0,application_id=42~hmac=0d36b536fec6938566ec502b16d6bad6a64db167a02e749de13791e9bcfb0490",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rock and Roll (Sunset Sound mix)",
+            "length": "3:43",
+            "deezer": {
+              "id": 558728652,
+              "link": "https://www.deezer.com/track/558728652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/2/0/aa2f2ad6dd2dfed158b2b853b527b22d.mp3?hdnea=exp=1795656448~acl=/api/1/1/a/a/2/0/aa2f2ad6dd2dfed158b2b853b527b22d.mp3*~data=user_id=0,application_id=42~hmac=97bd2164c18dfb3eea2ab746004049520b4b5d0fc6ec1ee863b409022338b69e",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Whole Lotta Love",
+            "length": "5:34",
+            "deezer": {
+              "id": 558728662,
+              "link": "https://www.deezer.com/track/558728662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd23df0f86f086c25c38defe367417f9.mp3?hdnea=exp=1795656448~acl=/api/1/1/d/d/2/0/dd23df0f86f086c25c38defe367417f9.mp3*~data=user_id=0,application_id=42~hmac=f80ab96b167f851dfba1de54ce9df29ee25e657db549f1631642a3e5ff73bcf3",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Black Dog",
+            "length": "4:55",
+            "deezer": {
+              "id": 558728672,
+              "link": "https://www.deezer.com/track/558728672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/0/0/c107eecef522651f031e2bd76cb491be.mp3?hdnea=exp=1795656448~acl=/api/1/1/c/1/0/0/c107eecef522651f031e2bd76cb491be.mp3*~data=user_id=0,application_id=42~hmac=d6510c61cf8dce9389e6e6467d42449e4eaf3b314d0bc7cd90f6ee794af0a4f8",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Stairway to Heaven",
+            "length": "8:02",
+            "deezer": {
+              "id": 558728682,
+              "link": "https://www.deezer.com/track/558728682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/6/0/26692783366247f9e456227bc4eb9550.mp3?hdnea=exp=1795656448~acl=/api/1/1/2/6/6/0/26692783366247f9e456227bc4eb9550.mp3*~data=user_id=0,application_id=42~hmac=e330c75ecb1fccc72ad0bc296bc9252e410470dd90351850a4b48181ebeab1bc",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Good Times Bad Times",
+            "length": "2:46",
+            "deezer": {
+              "id": 558728692,
+              "link": "https://www.deezer.com/track/558728692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/d/0/08d381d0cb4093948c544d3a564fefed.mp3?hdnea=exp=1795656448~acl=/api/1/1/0/8/d/0/08d381d0cb4093948c544d3a564fefed.mp3*~data=user_id=0,application_id=42~hmac=85e2cbedf15811107cd2b2dbe0f6b1de1deab120b9a74e3ed5bf24b5eb0a5517",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Going to California",
+            "length": "3:32",
+            "deezer": {
+              "id": 558728702,
+              "link": "https://www.deezer.com/track/558728702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/9/0/5c9f2baa1045efe89d68c45fefc4a0cf.mp3?hdnea=exp=1795656448~acl=/api/1/1/5/c/9/0/5c9f2baa1045efe89d68c45fefc4a0cf.mp3*~data=user_id=0,application_id=42~hmac=dce2a373de8c24fb48639e58a7fb8f3ae5462bb06609e61a8672e52d6352ff52",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ramble On",
+            "length": "4:34",
+            "deezer": {
+              "id": 558728712,
+              "link": "https://www.deezer.com/track/558728712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/0/0/d10adf5b02fecafa1a1e82c5b8123925.mp3?hdnea=exp=1795656448~acl=/api/1/1/d/1/0/0/d10adf5b02fecafa1a1e82c5b8123925.mp3*~data=user_id=0,application_id=42~hmac=df898e34767ac9fce74ee5f5db0108e6469d3bd2f1299238e96700dec437179f",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Kashmir",
+            "length": "8:37",
+            "deezer": {
+              "id": 558728722,
+              "link": "https://www.deezer.com/track/558728722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/0/0/8d03f9a22b39f3801189ca58b476f0ca.mp3?hdnea=exp=1795656448~acl=/api/1/1/8/d/0/0/8d03f9a22b39f3801189ca58b476f0ca.mp3*~data=user_id=0,application_id=42~hmac=3b8fe698cd243c7f9a5791e985287bb5c84ee47b343e7077cfb2e48ae8a66ff7",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Over the Hills and Far Away",
+            "length": "4:50",
+            "deezer": {
+              "id": 558728732,
+              "link": "https://www.deezer.com/track/558728732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/a/0/79a8f0a27e158ff81deb6b258dbf0580.mp3?hdnea=exp=1795656448~acl=/api/1/1/7/9/a/0/79a8f0a27e158ff81deb6b258dbf0580.mp3*~data=user_id=0,application_id=42~hmac=f13776aa50dce2dbdb33f7b163172f8f93ec0fca18f83b77c74bf7f056aee90a",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hey, Hey, What Can I Do",
+            "length": "3:56",
+            "deezer": {
+              "id": 558728742,
+              "link": "https://www.deezer.com/track/558728742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/7/0/fc78b5dfeb5cc3df9490d7b91adfef71.mp3?hdnea=exp=1795656448~acl=/api/1/1/f/c/7/0/fc78b5dfeb5cc3df9490d7b91adfef71.mp3*~data=user_id=0,application_id=42~hmac=1729bbd2ae7d406dd944c908c7ca5676e7fc37ab6d5d7c51fa90ec9113ea75c7",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "D’Yer Mak’Er",
+            "length": "4:22",
+            "deezer": {
+              "id": 558728752,
+              "link": "https://www.deezer.com/track/558728752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/0/0/9c04be2b963faea32915297a1ba747e6.mp3?hdnea=exp=1795656448~acl=/api/1/1/9/c/0/0/9c04be2b963faea32915297a1ba747e6.mp3*~data=user_id=0,application_id=42~hmac=ea2c98d5ab6676ca66cd2377ab06bd8fc17d494e7fa8f6873c57e1e4bfc612f4",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "When the Levee Breaks",
+            "length": "7:08",
+            "deezer": {
+              "id": 558728762,
+              "link": "https://www.deezer.com/track/558728762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/6/0/756587aec4665b754f4805f41aebd3db.mp3?hdnea=exp=1795656448~acl=/api/1/1/7/5/6/0/756587aec4665b754f4805f41aebd3db.mp3*~data=user_id=0,application_id=42~hmac=b3a61c50ce782aef05bd13aecf23d994f18940073ee04b9a8c26f2b43ea8755b",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "All My Love",
+            "length": "5:53",
+            "deezer": {
+              "id": 558728772,
+              "link": "https://www.deezer.com/track/558728772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/f/0/dffa743579127db5bdc7e3d25be49a35.mp3?hdnea=exp=1795656448~acl=/api/1/1/d/f/f/0/dffa743579127db5bdc7e3d25be49a35.mp3*~data=user_id=0,application_id=42~hmac=dd041c57473caec0af1eff9360c945200b02ba89ea99e1d23ffe42a55e4cb6db",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Babe I’m Gonna Leave You",
+            "length": "6:42",
+            "deezer": {
+              "id": 558728782,
+              "link": "https://www.deezer.com/track/558728782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/1/0/1c17da7ec4e5e428d1daf5b992e1850d.mp3?hdnea=exp=1795656448~acl=/api/1/1/1/c/1/0/1c17da7ec4e5e428d1daf5b992e1850d.mp3*~data=user_id=0,application_id=42~hmac=af84909fa8f0025ca33ff8c5fe31bdfa92e7558d4cefa56202429256fb99788f",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Heartbreaker",
+            "length": "4:14",
+            "deezer": {
+              "id": 558728792,
+              "link": "https://www.deezer.com/track/558728792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/9/0/6a95c04dfcd8bbef15f86fbc31a4354b.mp3?hdnea=exp=1795656448~acl=/api/1/1/6/a/9/0/6a95c04dfcd8bbef15f86fbc31a4354b.mp3*~data=user_id=0,application_id=42~hmac=5bf6a446ef3b1efa7e596e05578406bd8ca022ecb25bb80b039f0f598ed18266",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Dazed and Confused",
+            "length": "6:28",
+            "deezer": {
+              "id": 558728802,
+              "link": "https://www.deezer.com/track/558728802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/c/0/33cfa0aa5a61d8621f70d555b5d84a9c.mp3?hdnea=exp=1795656448~acl=/api/1/1/3/3/c/0/33cfa0aa5a61d8621f70d555b5d84a9c.mp3*~data=user_id=0,application_id=42~hmac=b8bd04d4fac9a4a4058dddc1acbacbc284a6c0d4be4384737bc255835682889c",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "The Song Remains the Same",
+            "length": "5:29",
+            "deezer": {
+              "id": 558728812,
+              "link": "https://www.deezer.com/track/558728812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/2/0/55280f6d1d78beaf62104b9b30229b23.mp3?hdnea=exp=1795656448~acl=/api/1/1/5/5/2/0/55280f6d1d78beaf62104b9b30229b23.mp3*~data=user_id=0,application_id=42~hmac=b75b5b096c0185f51953935433514dc266aa695f4ea4001449a63678c0f645cc",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Fool in the Rain",
+            "length": "6:10",
+            "deezer": {
+              "id": 558728822,
+              "link": "https://www.deezer.com/track/558728822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/e/0/0ce3820c3f77642f38816b3b74ac7662.mp3?hdnea=exp=1795656448~acl=/api/1/1/0/c/e/0/0ce3820c3f77642f38816b3b74ac7662.mp3*~data=user_id=0,application_id=42~hmac=1e6c538e28555725857ae179f337c0d8e381a8671b3b77920afa235217e7f96b",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "The Ocean",
+            "length": "4:31",
+            "deezer": {
+              "id": 558728832,
+              "link": "https://www.deezer.com/track/558728832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/c/0/64c0f7b1c11b5e28bb01f3eb010ed281.mp3?hdnea=exp=1795656448~acl=/api/1/1/6/4/c/0/64c0f7b1c11b5e28bb01f3eb010ed281.mp3*~data=user_id=0,application_id=42~hmac=548fcc18e99a280d0856e8b91a259a8916dfe2047813174aff87b53b532eb934",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "What Is and What Should Never Be",
+            "length": "4:46",
+            "deezer": {
+              "id": 558728842,
+              "link": "https://www.deezer.com/track/558728842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/e/0/4ee48cb81af6429c07644bb02c6d9a1c.mp3?hdnea=exp=1795656448~acl=/api/1/1/4/e/e/0/4ee48cb81af6429c07644bb02c6d9a1c.mp3*~data=user_id=0,application_id=42~hmac=6ffa9f6282a6b4bd3a5e49a690db482e763d0ab79004a4f12cbebb36fdbe3f2e",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Houses of the Holy",
+            "length": "4:04",
+            "deezer": {
+              "id": 558728852,
+              "link": "https://www.deezer.com/track/558728852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/1/0/0d105f162f6c0a4e235ff49f663a7506.mp3?hdnea=exp=1795656448~acl=/api/1/1/0/d/1/0/0d105f162f6c0a4e235ff49f663a7506.mp3*~data=user_id=0,application_id=42~hmac=c415e34f96ef18ba15bf4b407cda3e5b876c0a8d60a4802e22bc067abc50f323",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "Since I’ve Been Loving You",
+            "length": "7:24",
+            "deezer": {
+              "id": 558728862,
+              "link": "https://www.deezer.com/track/558728862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/3/0/c037f639acc1bc92eb9d9f245cf91df5.mp3?hdnea=exp=1795656448~acl=/api/1/1/c/0/3/0/c037f639acc1bc92eb9d9f245cf91df5.mp3*~data=user_id=0,application_id=42~hmac=a7f9c6f6dff31c59c59835f402bc2f1d07e0049bb0eac24ed6843147a2366d42",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Misty Mountain Hop",
+            "length": "4:38",
+            "deezer": {
+              "id": 558728872,
+              "link": "https://www.deezer.com/track/558728872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/e/0/39ebd0b8c57ce86ffbad4fdb87c7f1d8.mp3?hdnea=exp=1795656448~acl=/api/1/1/3/9/e/0/39ebd0b8c57ce86ffbad4fdb87c7f1d8.mp3*~data=user_id=0,application_id=42~hmac=f80e5fb9eb1693f1049abab78ac32024f3cf381a55b7dbde747356a2218e21b2",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "Communication Breakdown",
+            "length": "2:30",
+            "deezer": {
+              "id": 558728882,
+              "link": "https://www.deezer.com/track/558728882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/f/0/51f1ebeca2fe7de61692752d0f19532e.mp3?hdnea=exp=1795656448~acl=/api/1/1/5/1/f/0/51f1ebeca2fe7de61692752d0f19532e.mp3*~data=user_id=0,application_id=42~hmac=efb965b2dac8168402ca68d5c960220f0415cbd7ebabb1b9ce06fe64838a52c7",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "Thank You",
+            "length": "4:49",
+            "deezer": {
+              "id": 558728892,
+              "link": "https://www.deezer.com/track/558728892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/6/0/e06382cdeed9acb6e71ec3190c40d53b.mp3?hdnea=exp=1795656448~acl=/api/1/1/e/0/6/0/e06382cdeed9acb6e71ec3190c40d53b.mp3*~data=user_id=0,application_id=42~hmac=efc1fee483548cdeb44ad6251e5c681631ac9103a756cc83ac0bffded3537636",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "No Quarter",
+            "length": "7:02",
+            "deezer": {
+              "id": 558728902,
+              "link": "https://www.deezer.com/track/558728902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f34f5f47428459e6e024d52d2fdcf69.mp3?hdnea=exp=1795656448~acl=/api/1/1/6/f/3/0/6f34f5f47428459e6e024d52d2fdcf69.mp3*~data=user_id=0,application_id=42~hmac=3e580cb6a9c37f1aa5598b60206403d08760f18efd0ba662b4e3cfbfcc23c28d",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "Trampled Under Foot",
+            "length": "5:36",
+            "deezer": {
+              "id": 558728912,
+              "link": "https://www.deezer.com/track/558728912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/1/0/b61ee4c1f1d62250f971516ab7ae97a3.mp3?hdnea=exp=1795656448~acl=/api/1/1/b/6/1/0/b61ee4c1f1d62250f971516ab7ae97a3.mp3*~data=user_id=0,application_id=42~hmac=828114f8d812ec5d1fa982170e9ecd4fd55979b9e0084fd2b25dc263f0822d4f",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "I Can’t Quit You Baby",
+            "length": "4:42",
+            "deezer": {
+              "id": 558728922,
+              "link": "https://www.deezer.com/track/558728922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/3/0/e93e91f589618c0ef84b8c1aa9f90917.mp3?hdnea=exp=1795656448~acl=/api/1/1/e/9/3/0/e93e91f589618c0ef84b8c1aa9f90917.mp3*~data=user_id=0,application_id=42~hmac=b1e0b5a4da789cab151d662277bab4b212b064c2987ada362f57f6868a781ee4",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "In the Evening",
+            "length": "6:53",
+            "deezer": {
+              "id": 558728932,
+              "link": "https://www.deezer.com/track/558728932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/419837434b5c92b74cbf6472cf4eb2a1.mp3?hdnea=exp=1795656448~acl=/api/1/1/4/1/9/0/419837434b5c92b74cbf6472cf4eb2a1.mp3*~data=user_id=0,application_id=42~hmac=975965a70c634498f53030a2345b610cce84332c8f20ccb8d39a950ddb6caf2f",
+              "preview_expires": "2026-11-26T01:27:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Led Zeppelin/Led Zeppelin x Led Zeppelin.jpg"
+}

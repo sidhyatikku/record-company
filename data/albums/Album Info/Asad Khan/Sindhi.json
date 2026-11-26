@@ -1,0 +1,51 @@
+{
+  "title": "Sindhi",
+  "artist": "Asad Khan",
+  "year": 2025,
+  "release_date": "2025-07-24",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/12b23d71-d4d1-49a0-8833-6341a0de6f80",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/792506531"
+  },
+  "musicbrainz_id": "12b23d71-d4d1-49a0-8833-6341a0de6f80",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b9f6fe2b-a908-4502-8f87-941b9264b93a",
+      "barcode": null,
+      "title": "Sindhi",
+      "disambiguation": null,
+      "date": "2025-07-24",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sindhi",
+            "length": "4:06",
+            "deezer": {
+              "id": 3473173111,
+              "link": "https://www.deezer.com/track/3473173111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/1/0/ee1b3921205751d4c1bcaeda64d47d48.mp3?hdnea=exp=1795651714~acl=/api/1/1/e/e/1/0/ee1b3921205751d4c1bcaeda64d47d48.mp3*~data=user_id=0,application_id=42~hmac=5fca28c6d61ab4111928ac0ca761677682b3ef837cb364383177f602c7749703",
+              "preview_expires": "2026-11-26T00:08:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Asad Khan/Sindhi.jpg"
+}

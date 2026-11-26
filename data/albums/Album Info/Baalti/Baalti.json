@@ -1,0 +1,84 @@
+{
+  "title": "Baalti",
+  "artist": "Baalti",
+  "year": 2021,
+  "release_date": "2021-08-27",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1f45ce59-c85f-4923-aee2-68fe4cb37e00",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/245610372"
+  },
+  "musicbrainz_id": "1f45ce59-c85f-4923-aee2-68fe4cb37e00",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/159408f0-4157-442e-9151-4ff7c757295f",
+      "barcode": "853565993023",
+      "title": "Baalti",
+      "disambiguation": null,
+      "date": "2021-08-27",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "18:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Aame",
+            "length": "2:29",
+            "deezer": {
+              "id": 1438716412,
+              "link": "https://www.deezer.com/track/1438716412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/d/0/57dc213a312da46dbad8b1d3fab674c2.mp3?hdnea=exp=1795651767~acl=/api/1/1/5/7/d/0/57dc213a312da46dbad8b1d3fab674c2.mp3*~data=user_id=0,application_id=42~hmac=19590b37eb3a9b510ff4798dd0819bd70c5f39afad93fb6d6541f665e270b634",
+              "preview_expires": "2026-11-26T00:09:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ustad",
+            "length": "6:12",
+            "deezer": {
+              "id": 1438716422,
+              "link": "https://www.deezer.com/track/1438716422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/5/0/9a5b1068a832463c9ff0f5156d2cbef2.mp3?hdnea=exp=1795651767~acl=/api/1/1/9/a/5/0/9a5b1068a832463c9ff0f5156d2cbef2.mp3*~data=user_id=0,application_id=42~hmac=cc1830a7d06a63046c1c1b0bba1fae824689bcea69718c789dd751610757a77e",
+              "preview_expires": "2026-11-26T00:09:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kolkata ’78",
+            "length": "5:39",
+            "deezer": {
+              "id": 1438716432,
+              "link": "https://www.deezer.com/track/1438716432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/5/0/9b56dfeb24fddeada039e2c165b97424.mp3?hdnea=exp=1795651767~acl=/api/1/1/9/b/5/0/9b56dfeb24fddeada039e2c165b97424.mp3*~data=user_id=0,application_id=42~hmac=f08154120b48caade4a95485940baa2d3978fdadaf2dbe918fa948d4ee28830d",
+              "preview_expires": "2026-11-26T00:09:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Me & You & Rob From M.A.D.",
+            "length": "4:28",
+            "deezer": {
+              "id": 1438716442,
+              "link": "https://www.deezer.com/track/1438716442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/e/0/d4ea785dbe8c95f1cd077356f8c92666.mp3?hdnea=exp=1795651767~acl=/api/1/1/d/4/e/0/d4ea785dbe8c95f1cd077356f8c92666.mp3*~data=user_id=0,application_id=42~hmac=fe9d5bf02205a984964000a4ffc76343d702f45c28b6c5dfe747cf9d3426b5e1",
+              "preview_expires": "2026-11-26T00:09:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Baalti/Baalti.jpg"
+}

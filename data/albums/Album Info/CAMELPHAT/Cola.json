@@ -1,0 +1,72 @@
+{
+  "title": "Cola",
+  "artist": "CamelPhat & Elderbrook",
+  "year": 2017,
+  "release_date": "2017-06-16",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house",
+    "dance",
+    "electronic"
+  ],
+  "tags": [
+    "house",
+    "dance",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/052bc99d-9c66-4942-a40a-d1ce4e66ddd7",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003061963",
+    "discogs": "https://www.discogs.com/master/1196596",
+    "deezer": "https://www.deezer.com/album/687782021"
+  },
+  "musicbrainz_id": "052bc99d-9c66-4942-a40a-d1ce4e66ddd7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9c39d31b-030d-40da-a878-958bbdd58e26",
+      "barcode": "826194369798",
+      "title": "Cola",
+      "disambiguation": null,
+      "date": "2017-06-16",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "10:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cola",
+            "length": "3:44",
+            "deezer": {
+              "id": 3155943031,
+              "link": "https://www.deezer.com/track/3155943031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/e/0/0fe309160160436160820735766b5446.mp3?hdnea=exp=1795652651~acl=/api/1/1/0/f/e/0/0fe309160160436160820735766b5446.mp3*~data=user_id=0,application_id=42~hmac=e404ca28574dd0d106b98d130db8891c841c7f72609bf8c077b6428288e79f04",
+              "preview_expires": "2026-11-26T00:24:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Cola (club mix)",
+            "length": "6:56",
+            "deezer": {
+              "id": 3155943041,
+              "link": "https://www.deezer.com/track/3155943041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/3/0/ea3e79adff26415fb51802c520ab239d.mp3?hdnea=exp=1795652651~acl=/api/1/1/e/a/3/0/ea3e79adff26415fb51802c520ab239d.mp3*~data=user_id=0,application_id=42~hmac=63b0679d166cf94512102bb79a16ce3f4ebae7a5401e59ae7436afb0277deb74",
+              "preview_expires": "2026-11-26T00:24:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/CAMELPHAT/Cola.jpg"
+}

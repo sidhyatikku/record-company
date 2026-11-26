@@ -1,0 +1,119 @@
+{
+  "title": "Talaash",
+  "artist": "Ram Sampath",
+  "year": 2012,
+  "release_date": "2012-10-19",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "filmi"
+  ],
+  "tags": [
+    "2010s",
+    "bollywood",
+    "filmi",
+    "hindi film music",
+    "soundtrack"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/087ffaea-e1c4-4557-b8f0-4dc5b890aa0e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/696127191"
+  },
+  "musicbrainz_id": "087ffaea-e1c4-4557-b8f0-4dc5b890aa0e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/69bf700c-b549-4153-b42c-b76e59f111ed",
+      "barcode": "8902894351379",
+      "title": "Talaash",
+      "disambiguation": null,
+      "date": "2012-10-19",
+      "country": "IN"
+    },
+    "total_tracks": 6,
+    "total_length": "26:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Muskaanein Jhooti Hai",
+            "length": "3:20",
+            "artist": "Suman Sridhar",
+            "deezer": {
+              "id": 3180585621,
+              "link": "https://www.deezer.com/track/3180585621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/2/0/552652f7aca6aa6d186b684f6743539b.mp3?hdnea=exp=1795719973~acl=/api/1/1/5/5/2/0/552652f7aca6aa6d186b684f6743539b.mp3*~data=user_id=0,application_id=42~hmac=22463ed065c9bfad599b8f1f5c36286deb80bcfed306645847ec08fa6ae873de",
+              "preview_expires": "2026-11-26T19:06:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jee Le Zaraa",
+            "length": "3:37",
+            "artist": "Vishal Dadlani",
+            "deezer": {
+              "id": 3180585631,
+              "link": "https://www.deezer.com/track/3180585631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/7/0/bd75cb2154948a5dc56a6bba34074dbc.mp3?hdnea=exp=1795719973~acl=/api/1/1/b/d/7/0/bd75cb2154948a5dc56a6bba34074dbc.mp3*~data=user_id=0,application_id=42~hmac=9fa02d0fd41e509a0939c397c3f818ecc4c792627e3a2bc604ac32f7cef66600",
+              "preview_expires": "2026-11-26T19:06:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Jiya Laage Na",
+            "length": "4:39",
+            "artist": "Sona Mohapatra & Ravindra Upadhyay",
+            "deezer": {
+              "id": 3180585641,
+              "link": "https://www.deezer.com/track/3180585641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/1/0/19161e91078e1f309651540ebbf8640d.mp3?hdnea=exp=1795719973~acl=/api/1/1/1/9/1/0/19161e91078e1f309651540ebbf8640d.mp3*~data=user_id=0,application_id=42~hmac=942820620e4899625fa524b17498de247d854d26d4609de13b807b1ff8c6fb7c",
+              "preview_expires": "2026-11-26T19:06:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hona Hai Kya",
+            "length": "4:45",
+            "deezer": {
+              "id": 3180585651,
+              "link": "https://www.deezer.com/track/3180585651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/9/0/8890e09b1655df762e88efd81ab96cff.mp3?hdnea=exp=1795719973~acl=/api/1/1/8/8/9/0/8890e09b1655df762e88efd81ab96cff.mp3*~data=user_id=0,application_id=42~hmac=fb3f2db222e985df59fa0c425cced83f52affb45f9dce1c355c48dfcc7beea96",
+              "preview_expires": "2026-11-26T19:06:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Laakh Duniya Kahe",
+            "length": "6:06",
+            "artist": "Ram Sampath & Nisha Mascarenhas",
+            "deezer": {
+              "id": 3180585661,
+              "link": "https://www.deezer.com/track/3180585661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/2/0/2f258d2029cabb1ae92a4971f055495f.mp3?hdnea=exp=1795719973~acl=/api/1/1/2/f/2/0/2f258d2029cabb1ae92a4971f055495f.mp3*~data=user_id=0,application_id=42~hmac=84083af44a0413af868b037205eea521318b3703695938181a9b282d844809c5",
+              "preview_expires": "2026-11-26T19:06:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Jee Le Zaraa (remix)",
+            "length": "3:56",
+            "artist": "Vishal Dadlani",
+            "deezer": {
+              "id": 3180585671,
+              "link": "https://www.deezer.com/track/3180585671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/5/0/1e59c49dcb98bc2bd48806a061c92abd.mp3?hdnea=exp=1795719973~acl=/api/1/1/1/e/5/0/1e59c49dcb98bc2bd48806a061c92abd.mp3*~data=user_id=0,application_id=42~hmac=56a4cd452d9fda2f48fed109490791b64172a44bb4edbb40e5b64c59fca52235",
+              "preview_expires": "2026-11-26T19:06:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Ram Sampath/Talaash.jpg"
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Garba Szn",
+  "artist": "Indo Warehouse, Kahani, Kunal Merchant",
+  "year": 2022,
+  "release_date": "2022-10-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "gujarati garba"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/33t984L96FMID4D7B4u0bw",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/33t984L96FMID4D7B4u0bw",
+      "title": "Garba Szn",
+      "date": "2022-10-07"
+    },
+    "total_tracks": 3,
+    "total_length": "15:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Baaje",
+            "length": "4:25",
+            "artist": "Kahani, Kunal Merchant, Aditya Rao, Indo Warehouse"
+          },
+          {
+            "number": "2",
+            "title": "Dholida",
+            "length": "7:27",
+            "artist": "Kahani, Kunal Merchant, Indo Warehouse"
+          },
+          {
+            "number": "3",
+            "title": "Natho",
+            "length": "3:26",
+            "artist": "Kahani, Kunal Merchant, Indo Warehouse"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Indo Warehouse/Garba Szn.jpg"
+}

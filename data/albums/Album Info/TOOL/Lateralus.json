@@ -1,0 +1,232 @@
+{
+  "title": "Lateralus",
+  "artist": "Tool",
+  "year": 2001,
+  "release_date": "2001-05-14",
+  "type": "Album",
+  "description": "Lateralus is the third studio album by the American rock band Tool. It was released on May 15, 2001, through Volcano Entertainment. The album was recorded at Cello Studios in Hollywood and The Hook, Big Empty Space, and The Lodge, in North Hollywood, between October 2000 and January 2001. David Bottrill, who had produced the band's previous release Ænima, produced the album along with the band, and it became the last Tool album produced by Bottrill to date. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package.",
+  "genres": [
+    "alternative metal",
+    "progressive metal",
+    "progressive rock",
+    "rock",
+    "heavy metal",
+    "alternative rock",
+    "art rock",
+    "hard rock",
+    "metal",
+    "pop",
+    "progressive",
+    "psychedelic"
+  ],
+  "tags": [
+    "alternative metal",
+    "progressive metal",
+    "progressive rock",
+    "rock",
+    "heavy metal",
+    "alternative rock",
+    "art rock",
+    "dense",
+    "epic",
+    "existential",
+    "hard rock",
+    "heavy",
+    "hypnotic",
+    "introspective",
+    "male vocalist",
+    "meditative",
+    "metal",
+    "mysterious",
+    "philosophical",
+    "polyrhythmic",
+    "pop",
+    "progressive",
+    "psychedelic",
+    "rhythmic",
+    "serious",
+    "spiritual",
+    "technical",
+    "uncommon time signatures"
+  ],
+  "rating": {
+    "value_out_of_5": 4.6,
+    "votes": 44
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/02f79295-21e1-34cc-82f2-63219eec4f0a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lateralus",
+    "allmusic": "https://www.allmusic.com/album/mw0000002072",
+    "discogs": "https://www.discogs.com/master/1517",
+    "wikidata": "https://www.wikidata.org/wiki/Q368280",
+    "deezer": "https://www.deezer.com/album/105611632"
+  },
+  "musicbrainz_id": "02f79295-21e1-34cc-82f2-63219eec4f0a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ea5777f4-867b-4ce2-bfa9-8f3a2239812d",
+      "barcode": "886447824764",
+      "title": "Lateralus",
+      "disambiguation": null,
+      "date": "2019-08-02",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "1:16:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Grudge",
+            "length": "8:37",
+            "deezer": {
+              "id": 722078492,
+              "link": "https://www.deezer.com/track/722078492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/8/0/d68ec2e8151ba01b3754f5cbc6a6042f.mp3?hdnea=exp=1795721973~acl=/api/1/1/d/6/8/0/d68ec2e8151ba01b3754f5cbc6a6042f.mp3*~data=user_id=0,application_id=42~hmac=2e6097f430d52b693eac32d5dbce6be5ab360ab438e96e46c2007cdc02d06494",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Eon Blue Apocalypse",
+            "length": "1:04",
+            "deezer": {
+              "id": 722078502,
+              "link": "https://www.deezer.com/track/722078502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/b/0/f8b2984764c8c95407c327cc4ba1059b.mp3?hdnea=exp=1795721973~acl=/api/1/1/f/8/b/0/f8b2984764c8c95407c327cc4ba1059b.mp3*~data=user_id=0,application_id=42~hmac=e80cd986c2e9fa3c384f7f34f7bc6bf6dff29b3490c432fd1ac2554e057197e9",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Patient",
+            "length": "7:14",
+            "deezer": {
+              "id": 722078512,
+              "link": "https://www.deezer.com/track/722078512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/7/0/407d305e230e60607b1b7b9532946df3.mp3?hdnea=exp=1795721973~acl=/api/1/1/4/0/7/0/407d305e230e60607b1b7b9532946df3.mp3*~data=user_id=0,application_id=42~hmac=78f634a6e00b800203c798fb5313588d4fe29c4308e0fbbf918089f47db20753",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mantra",
+            "length": "1:13",
+            "deezer": {
+              "id": 722078522,
+              "link": "https://www.deezer.com/track/722078522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/7/0/1470cc93c9b320889d02c8bb25649049.mp3?hdnea=exp=1795721973~acl=/api/1/1/1/4/7/0/1470cc93c9b320889d02c8bb25649049.mp3*~data=user_id=0,application_id=42~hmac=ba98f9a9a7808e30738b4d74afe2710e5088d87c4fd1ed36f9f7706a673f59a4",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Schism",
+            "length": "6:48",
+            "deezer": {
+              "id": 722078532,
+              "link": "https://www.deezer.com/track/722078532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/f/0/8efee6d17ef7eb4417bc051907daa137.mp3?hdnea=exp=1795721973~acl=/api/1/1/8/e/f/0/8efee6d17ef7eb4417bc051907daa137.mp3*~data=user_id=0,application_id=42~hmac=c827df9285933a876601b11249ed7cebf72c270fe7f4ce79ef30db739b11d0c9",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Parabol",
+            "length": "3:04",
+            "deezer": {
+              "id": 722078542,
+              "link": "https://www.deezer.com/track/722078542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/8/0/fb80c98d9090b1056eff0f878f858870.mp3?hdnea=exp=1795721973~acl=/api/1/1/f/b/8/0/fb80c98d9090b1056eff0f878f858870.mp3*~data=user_id=0,application_id=42~hmac=3f2b4cddf97cec2c8f38707c3fac6957f280e24a00b49aac397a574ed182844e",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Parabola",
+            "length": "6:04",
+            "deezer": {
+              "id": 722078552,
+              "link": "https://www.deezer.com/track/722078552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/4/0/7b4ba39117ac8ae475b6d0dfce093d28.mp3?hdnea=exp=1795721973~acl=/api/1/1/7/b/4/0/7b4ba39117ac8ae475b6d0dfce093d28.mp3*~data=user_id=0,application_id=42~hmac=7427b614622ac89a6631e6671ba77836288d09e233f9c22d58f9ab15a80ec2fb",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ticks & Leeches",
+            "length": "8:10",
+            "deezer": {
+              "id": 722078562,
+              "link": "https://www.deezer.com/track/722078562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/5/0/0853c09e79cc21b45edc39329169b23d.mp3?hdnea=exp=1795721973~acl=/api/1/1/0/8/5/0/0853c09e79cc21b45edc39329169b23d.mp3*~data=user_id=0,application_id=42~hmac=227dc5d62aaa200d74934f5bc202755df3deb54da3c3aeab7c7e004a70c30061",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lateralus",
+            "length": "9:25",
+            "deezer": {
+              "id": 722078572,
+              "link": "https://www.deezer.com/track/722078572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/a/0/c6ace5e9440dc3aee15ccb1c6b6b0826.mp3?hdnea=exp=1795721973~acl=/api/1/1/c/6/a/0/c6ace5e9440dc3aee15ccb1c6b6b0826.mp3*~data=user_id=0,application_id=42~hmac=3908ca02684f8fc18e12a63695940e12f209926ddb8d2fb2bd3ca0efddea49a5",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Disposition",
+            "length": "4:46",
+            "deezer": {
+              "id": 722078582,
+              "link": "https://www.deezer.com/track/722078582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/4/0/f6470af22f753d1be573259080021dba.mp3?hdnea=exp=1795721973~acl=/api/1/1/f/6/4/0/f6470af22f753d1be573259080021dba.mp3*~data=user_id=0,application_id=42~hmac=1e0471b6520c2b98ca0fb050a0a9e2219b93b876c91d2f5b485be04d7c1faeb1",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Reflection",
+            "length": "11:08",
+            "deezer": {
+              "id": 722078592,
+              "link": "https://www.deezer.com/track/722078592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/c/0/d6c9a64c57fd63383ae1a16f65a66ef4.mp3?hdnea=exp=1795721973~acl=/api/1/1/d/6/c/0/d6c9a64c57fd63383ae1a16f65a66ef4.mp3*~data=user_id=0,application_id=42~hmac=5462e191cb0609f19382d482f69983937bb2b66a87db4ea2529567e8c47dc9ef",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Triad",
+            "length": "6:38",
+            "deezer": {
+              "id": 722078602,
+              "link": "https://www.deezer.com/track/722078602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/5/0/81572bd171d545dba666512c5dd77f0d.mp3?hdnea=exp=1795721973~acl=/api/1/1/8/1/5/0/81572bd171d545dba666512c5dd77f0d.mp3*~data=user_id=0,application_id=42~hmac=5e300abc5daf3d7ead405e9bda566d7748ab71de80325baa01964442feb90048",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Faaip de Oiad",
+            "length": "2:39",
+            "deezer": {
+              "id": 722078612,
+              "link": "https://www.deezer.com/track/722078612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/a/0/99a0e4b53ed294ff50a3d2c268a271c9.mp3?hdnea=exp=1795721973~acl=/api/1/1/9/9/a/0/99a0e4b53ed294ff50a3d2c268a271c9.mp3*~data=user_id=0,application_id=42~hmac=bd9dca92cdac25272b504fbf70328eeeb7ede065afc48857816695520480ca2e",
+              "preview_expires": "2026-11-26T19:39:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/TOOL/Lateralus.jpg"
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Justified",
+  "artist": "Justin Timberlake",
+  "year": 2002,
+  "release_date": "2002-11-04",
+  "type": "Album",
+  "description": "Justified is the debut solo studio album by American singer Justin Timberlake. It was released on November 5, 2002, by Jive Records. The album was written and recorded in a six-week period as Timberlake's boy band NSYNC was on hiatus. For his solo album, he began to adopt a more mature image as an R&B artist, as opposed to the previous pop music recorded by the group. The majority of the album was produced by the Neptunes and Timbaland, and features guest appearances by Janet Jackson, Clipse, and Bubba Sparxxx. It primarily is an R&B album that also contains influences of dance-pop, funk, and soul music.",
+  "genres": [
+    "pop",
+    "contemporary r&b",
+    "dance-pop",
+    "hip hop",
+    "teen pop"
+  ],
+  "tags": [
+    "pop",
+    "contemporary r&b",
+    "dance-pop",
+    "hip hop",
+    "hip-hop",
+    "general pop vocal",
+    "rnb swing",
+    "teen pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.15,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/424620c6-e416-3ce8-bfcc-d5c59952456d",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justified_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000662206",
+    "discogs": "https://www.discogs.com/master/90819",
+    "wikidata": "https://www.wikidata.org/wiki/Q513151",
+    "deezer": "https://www.deezer.com/album/108359"
+  },
+  "musicbrainz_id": "424620c6-e416-3ce8-bfcc-d5c59952456d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2b2c1242-b6fc-42d5-bf27-92fe3cb73132",
+      "barcode": "012414182326",
+      "title": "Justified",
+      "disambiguation": null,
+      "date": "2002-11-05",
+      "country": "US"
+    },
+    "total_tracks": 13,
+    "total_length": "1:04:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Señorita",
+            "length": "4:59",
+            "deezer": {
+              "id": 970667,
+              "link": "https://www.deezer.com/track/970667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/4/0/fe427d9520dafca335b4f009ad330c27.mp3?hdnea=exp=1795655800~acl=/api/1/1/f/e/4/0/fe427d9520dafca335b4f009ad330c27.mp3*~data=user_id=0,application_id=42~hmac=da5e0890e7e207586f1a551557950994f81d45d1ee839ee444d08fd400cd45ec",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Like I Love You",
+            "length": "4:42",
+            "deezer": {
+              "id": 970668,
+              "link": "https://www.deezer.com/track/970668",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/4/0/7949e06622724c723e28a9e5a2f13093.mp3?hdnea=exp=1795655800~acl=/api/1/1/7/9/4/0/7949e06622724c723e28a9e5a2f13093.mp3*~data=user_id=0,application_id=42~hmac=4eb3fbb7e386689d00e0076c2e44230714529b0336e668dae2cf74a8834a3741",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "(Oh No) What You Got",
+            "length": "4:35",
+            "deezer": {
+              "id": 969487,
+              "link": "https://www.deezer.com/track/969487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/b/0/f5b6183cab94156eec21a5db841d1a36.mp3?hdnea=exp=1795655800~acl=/api/1/1/f/5/b/0/f5b6183cab94156eec21a5db841d1a36.mp3*~data=user_id=0,application_id=42~hmac=6ed9862e17a2f5557a6844fc11f56ee9146a7a22685c82c40e0d273f51849e92",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Take It From Here",
+            "length": "6:18",
+            "deezer": {
+              "id": 969490,
+              "link": "https://www.deezer.com/track/969490",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/a/0/1cab32059cb8e604cd2bf0449a9f5a22.mp3?hdnea=exp=1795655800~acl=/api/1/1/1/c/a/0/1cab32059cb8e604cd2bf0449a9f5a22.mp3*~data=user_id=0,application_id=42~hmac=a4390815f2e9323e62bf5d8f2fa70f98885fb8a7cc22007df8099188b334e07b",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Cry Me a River",
+            "length": "4:52",
+            "deezer": {
+              "id": 969494,
+              "link": "https://www.deezer.com/track/969494",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/8/0/08891458dc02f34c09c6429e193237ae.mp3?hdnea=exp=1795655800~acl=/api/1/1/0/8/8/0/08891458dc02f34c09c6429e193237ae.mp3*~data=user_id=0,application_id=42~hmac=f6b84e5a8ae88fad9d21a180d7810e16410e0d00106cfee1b0f3cd7ac469c276",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rock Your Body",
+            "length": "4:31",
+            "deezer": {
+              "id": 970410,
+              "link": "https://www.deezer.com/track/970410",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/3/0/573b2988e156a13778eb3c7facd5129a.mp3?hdnea=exp=1795655800~acl=/api/1/1/5/7/3/0/573b2988e156a13778eb3c7facd5129a.mp3*~data=user_id=0,application_id=42~hmac=eb98b64a06409b02d0379797ade96a4b73a7748609464f5ebeeab85ba0755000",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Nothin’ Else",
+            "length": "5:03",
+            "deezer": {
+              "id": 970671,
+              "link": "https://www.deezer.com/track/970671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/d/0/60dd7e8502abefd1a25466cfadc70c6d.mp3?hdnea=exp=1795655800~acl=/api/1/1/6/0/d/0/60dd7e8502abefd1a25466cfadc70c6d.mp3*~data=user_id=0,application_id=42~hmac=3e5847711a5e663565da23fbfcc9f7aa7b83e29cf1ea7894d7408f94ebcce3b0",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Last Night",
+            "length": "4:51",
+            "deezer": {
+              "id": 969496,
+              "link": "https://www.deezer.com/track/969496",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/e/0/5eea3d11aa55db8f6265ee2a8d875b80.mp3?hdnea=exp=1795655800~acl=/api/1/1/5/e/e/0/5eea3d11aa55db8f6265ee2a8d875b80.mp3*~data=user_id=0,application_id=42~hmac=74607e36eb9b2059eb461b28102887fae3bd8188ce48ea967865ec2cb52a22d0",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Still on My Brain",
+            "length": "4:42",
+            "deezer": {
+              "id": 970412,
+              "link": "https://www.deezer.com/track/970412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/c/0/46cbfe7dc3612b15b4403fd2436a6d29.mp3?hdnea=exp=1795655800~acl=/api/1/1/4/6/c/0/46cbfe7dc3612b15b4403fd2436a6d29.mp3*~data=user_id=0,application_id=42~hmac=f3949136e58ac5338f2c183bc73d4032b88b5e51b33fad90413aeaafb964026c",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "(And She Said) Take Me Now",
+            "length": "5:35",
+            "deezer": {
+              "id": 969501,
+              "link": "https://www.deezer.com/track/969501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/2/0/552dc218252ffedee75bec86ec29776b.mp3?hdnea=exp=1795655800~acl=/api/1/1/5/5/2/0/552dc218252ffedee75bec86ec29776b.mp3*~data=user_id=0,application_id=42~hmac=7368b7904c98d4223b42d849bdb3cd83eef298fcaff3bbb970f0209abe8151bb",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Right for Me",
+            "length": "4:34",
+            "deezer": {
+              "id": 970414,
+              "link": "https://www.deezer.com/track/970414",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/7/0/a0792b3bed88c3540b90a14ca4b4fbda.mp3?hdnea=exp=1795655800~acl=/api/1/1/a/0/7/0/a0792b3bed88c3540b90a14ca4b4fbda.mp3*~data=user_id=0,application_id=42~hmac=f7f9732522624fea517e0a73ada1cc480d528f81785a64485dd7215ba5170784",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Let’s Take a Ride",
+            "length": "4:48",
+            "deezer": {
+              "id": 969503,
+              "link": "https://www.deezer.com/track/969503",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/a/0/5aad4c3526fe74ebd1e908e75eab3938.mp3?hdnea=exp=1795655800~acl=/api/1/1/5/a/a/0/5aad4c3526fe74ebd1e908e75eab3938.mp3*~data=user_id=0,application_id=42~hmac=42c5c3d6da071e812d90f45d4fb5810373f2d9dab061c1706baf293fb8f7b0bc",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Never Again",
+            "length": "4:35",
+            "deezer": {
+              "id": 970200,
+              "link": "https://www.deezer.com/track/970200",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/a/0/b7a9fdef8e5443078b4aec23e071fa07.mp3?hdnea=exp=1795655800~acl=/api/1/1/b/7/a/0/b7a9fdef8e5443078b4aec23e071fa07.mp3*~data=user_id=0,application_id=42~hmac=753e66f15b9b169f159b2fd1f128d6978b43d62150170ab73ede2437da4d344b",
+              "preview_expires": "2026-11-26T01:16:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Justin Timberlake/Justified.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "The Cigarette",
+  "artist": "LNRT",
+  "year": 2025,
+  "release_date": "2025-09-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "rally house",
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6lkHLQZbDy2yAVnLAUsPTZ",
+    "deezer": "https://www.deezer.com/album/818123281"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6lkHLQZbDy2yAVnLAUsPTZ",
+      "title": "The Cigarette",
+      "date": "2025-09-26"
+    },
+    "total_tracks": 1,
+    "total_length": "2:59",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Cigarette",
+            "length": "2:59",
+            "deezer": {
+              "id": 3546598341,
+              "link": "https://www.deezer.com/track/3546598341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/b/0/51be9ddccf6550b6c6a3d4e774616bd7.mp3?hdnea=exp=1795656590~acl=/api/1/1/5/1/b/0/51be9ddccf6550b6c6a3d4e774616bd7.mp3*~data=user_id=0,application_id=42~hmac=d8af8508eea86120e048656e8ff91d49dfc524f5589a7807fc463408b99a500f",
+              "preview_expires": "2026-11-26T01:29:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/LNRT/The Cigarette.jpg"
+}

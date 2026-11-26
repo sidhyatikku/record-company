@@ -1,0 +1,49 @@
+{
+  "title": "Lost in Orbit",
+  "artist": "Dan Evans‐Parker",
+  "year": 2020,
+  "release_date": "2020-05-21",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3f043e4c-8bf3-46a3-af08-ad4f50ce473a",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "3f043e4c-8bf3-46a3-af08-ad4f50ce473a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e8f624eb-5daa-48d8-ba5e-9d71e33a16f2",
+      "barcode": "7330065029375",
+      "title": "Lost in Orbit",
+      "disambiguation": null,
+      "date": "2020-05-21",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lost in Orbit",
+            "length": "2:34"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dan Evans-Parker/Lost in Orbit.jpg"
+}

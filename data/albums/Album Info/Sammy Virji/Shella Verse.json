@@ -1,0 +1,55 @@
+{
+  "title": "Shella Verse",
+  "artist": "Sammy Virji & Flowdan",
+  "year": 2023,
+  "release_date": "2023-06-30",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "grime"
+  ],
+  "tags": [
+    "grime"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b29e9fed-8946-42a4-9832-7c1576b412a6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/459304905"
+  },
+  "musicbrainz_id": "b29e9fed-8946-42a4-9832-7c1576b412a6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6884920f-1c25-4516-a136-da2ea6452056",
+      "barcode": "602455946614",
+      "title": "Shella Verse",
+      "disambiguation": "explicit",
+      "date": "2023-06-30",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shella Verse",
+            "length": "2:44",
+            "deezer": {
+              "id": 2348965535,
+              "link": "https://www.deezer.com/track/2348965535",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/9/0/939a987debeab4f30b856d22aa8fd55a.mp3?hdnea=exp=1795720317~acl=/api/1/1/9/3/9/0/939a987debeab4f30b856d22aa8fd55a.mp3*~data=user_id=0,application_id=42~hmac=9900436401e26c2cc0e9164a47234f39269112e1b1c1ec745e2d24c9929de395",
+              "preview_expires": "2026-11-26T19:11:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sammy Virji/Shella Verse.jpg"
+}

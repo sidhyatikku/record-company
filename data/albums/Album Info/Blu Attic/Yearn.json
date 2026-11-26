@@ -1,0 +1,44 @@
+{
+  "title": "Yearn",
+  "artist": "Blu Attic, Adarsh Saxena",
+  "year": 2024,
+  "release_date": "2024-03-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1BVkrtlxrOekPW2fmFN7Xn",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1BVkrtlxrOekPW2fmFN7Xn",
+      "title": "Yearn",
+      "date": "2024-03-08"
+    },
+    "total_tracks": 1,
+    "total_length": "3:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yearn",
+            "length": "3:17"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Blu Attic/Yearn.jpg"
+}

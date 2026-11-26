@@ -1,0 +1,217 @@
+{
+  "title": "The Black Album",
+  "artist": "Jay‐Z",
+  "year": 2003,
+  "release_date": "2003-11-14",
+  "type": "Album",
+  "description": "The Black Album is the eighth studio album by American rapper Jay-Z, released on November 14, 2003, through Roc-A-Fella Records and The Island Def Jam Music Group. It was advertised as his final album before retiring, which is also a recurring theme throughout the songs, although Jay-Z resumed his recording career in 2005. For the album, Jay-Z wanted to enlist a different producer for each song, working with Just Blaze, Kanye West, the Neptunes, Eminem, DJ Quik, Timbaland, 9th Wonder and Rick Rubin, among others. The album also features an uncredited guest appearance by Pharrell Williams.",
+  "genres": [
+    "hip hop",
+    "east coast hip hop",
+    "hardcore hip hop",
+    "pop rap"
+  ],
+  "tags": [
+    "hip hop",
+    "east coast rap",
+    "east coast hip hop",
+    "hardcore hip hop",
+    "pop rap",
+    "hardcore rap",
+    "hip-hop",
+    "hip hop rap",
+    "rap hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.2,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/77befaa0-662e-3d84-ba45-c862e16dc109",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000693993",
+    "discogs": "https://www.discogs.com/master/47051",
+    "wikidata": "https://www.wikidata.org/wiki/Q2563740",
+    "deezer": "https://www.deezer.com/album/321210477"
+  },
+  "musicbrainz_id": "77befaa0-662e-3d84-ba45-c862e16dc109",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dcb09143-f938-3381-bd4e-94034cc40d34",
+      "barcode": "602498611210",
+      "title": "The Black Album",
+      "disambiguation": null,
+      "date": "2003-11-18",
+      "country": "US"
+    },
+    "total_tracks": 14,
+    "total_length": "55:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Interlude",
+            "length": "1:22",
+            "deezer": {
+              "id": 1763297837,
+              "link": "https://www.deezer.com/track/1763297837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/e/0/e0e860b8658e38b1066228910e749507.mp3?hdnea=exp=1795655515~acl=/api/1/1/e/0/e/0/e0e860b8658e38b1066228910e749507.mp3*~data=user_id=0,application_id=42~hmac=da1a881b24fce067527b03cc5f7fd173e118e6b3a79d4eb0c9afc4e3bca125fd",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "December 4th",
+            "length": "4:34",
+            "deezer": {
+              "id": 1763297847,
+              "link": "https://www.deezer.com/track/1763297847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/6/0/a2676670a5d74e888feba56c42e30cf2.mp3?hdnea=exp=1795655515~acl=/api/1/1/a/2/6/0/a2676670a5d74e888feba56c42e30cf2.mp3*~data=user_id=0,application_id=42~hmac=26878dabe45b0b8db4c204382affe201e138b5066760d9822b973f7e892b0377",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "What More Can I Say",
+            "length": "4:55",
+            "deezer": {
+              "id": 1763297857,
+              "link": "https://www.deezer.com/track/1763297857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/3/0/ca36aba54a95610dcb65d371cd76a633.mp3?hdnea=exp=1795655515~acl=/api/1/1/c/a/3/0/ca36aba54a95610dcb65d371cd76a633.mp3*~data=user_id=0,application_id=42~hmac=218e4c9d1185a4c051d85dc0b24b8b67957890562450b6ad92c1a7c83b3b201e",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Encore",
+            "length": "4:11",
+            "deezer": {
+              "id": 1763297867,
+              "link": "https://www.deezer.com/track/1763297867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/4/0/e44b9ce3cb649f2d4e0f94b2591e95c5.mp3?hdnea=exp=1795655515~acl=/api/1/1/e/4/4/0/e44b9ce3cb649f2d4e0f94b2591e95c5.mp3*~data=user_id=0,application_id=42~hmac=d8851d42a946495745ff35b9874ad8f6adaffb54d8f4498d6a1202379be10b4a",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Change Clothes",
+            "length": "4:18",
+            "artist": "Jay‐Z feat. Pharrell Williams",
+            "deezer": {
+              "id": 1763297887,
+              "link": "https://www.deezer.com/track/1763297887",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/2/0/3f2c7cdca100259344c3f4b11d69e8eb.mp3?hdnea=exp=1795655515~acl=/api/1/1/3/f/2/0/3f2c7cdca100259344c3f4b11d69e8eb.mp3*~data=user_id=0,application_id=42~hmac=446bed7b7cd870619b987ad124a831f8de0a06ee6c00fa70e217e69b60c047b9",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dirt Off Your Shoulder",
+            "length": "4:05",
+            "deezer": {
+              "id": 1763297897,
+              "link": "https://www.deezer.com/track/1763297897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/a/0/b9a6020570fc94818115313c856c2425.mp3?hdnea=exp=1795655515~acl=/api/1/1/b/9/a/0/b9a6020570fc94818115313c856c2425.mp3*~data=user_id=0,application_id=42~hmac=02add73f3c8249fce3b1c37714c37bdc9ad9617900fa0f2d7f6e03010b07980a",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Threat",
+            "length": "4:07",
+            "deezer": {
+              "id": 1763297917,
+              "link": "https://www.deezer.com/track/1763297917",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/b/0/1cbcdb9f1890070587c7b89dd2f10791.mp3?hdnea=exp=1795655515~acl=/api/1/1/1/c/b/0/1cbcdb9f1890070587c7b89dd2f10791.mp3*~data=user_id=0,application_id=42~hmac=3946c19e24e8cf37072cf4082212ec4a4c113b52943fe8a317c6e85bd1540651",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Moment of Clarity",
+            "length": "4:24",
+            "deezer": {
+              "id": 1763297927,
+              "link": "https://www.deezer.com/track/1763297927",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/f/0/9ef2e82363d4791810889d341c3202ce.mp3?hdnea=exp=1795655515~acl=/api/1/1/9/e/f/0/9ef2e82363d4791810889d341c3202ce.mp3*~data=user_id=0,application_id=42~hmac=a13ce7ae586912899a53c2debc107326597e5ea3b9710717c111e759f4b93955",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "99 Problems",
+            "length": "3:55",
+            "deezer": {
+              "id": 1763297947,
+              "link": "https://www.deezer.com/track/1763297947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/9/0/13972c3152c6b014304fb9b24506ab5f.mp3?hdnea=exp=1795655515~acl=/api/1/1/1/3/9/0/13972c3152c6b014304fb9b24506ab5f.mp3*~data=user_id=0,application_id=42~hmac=1a6623b51b8f7e05cecfd9845e57ffe5bdcd956ecfcdbee7a5f41fadc17cdd35",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Public Service Announcement (interlude)",
+            "length": "2:53",
+            "deezer": {
+              "id": 1763297967,
+              "link": "https://www.deezer.com/track/1763297967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/0/0/710406f46d96b0b51659a1fee24e5963.mp3?hdnea=exp=1795655515~acl=/api/1/1/7/1/0/0/710406f46d96b0b51659a1fee24e5963.mp3*~data=user_id=0,application_id=42~hmac=3e33db35a8735667cf75179f1d083b623f9c227027b48fa0e0444f8e037d4151",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Justify My Thug",
+            "length": "4:04",
+            "deezer": {
+              "id": 1763297977,
+              "link": "https://www.deezer.com/track/1763297977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/8/0/5385f715949e06479b73863a406c43a4.mp3?hdnea=exp=1795655515~acl=/api/1/1/5/3/8/0/5385f715949e06479b73863a406c43a4.mp3*~data=user_id=0,application_id=42~hmac=366efbe35fc660c65f0d42e4d2540caffb8813f4d9642ef9effeaec6b7b14aaf",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Lucifer",
+            "length": "3:12",
+            "deezer": {
+              "id": 1763297987,
+              "link": "https://www.deezer.com/track/1763297987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/0/0/5b0ae32f18991b03c564567897c3ae22.mp3?hdnea=exp=1795655515~acl=/api/1/1/5/b/0/0/5b0ae32f18991b03c564567897c3ae22.mp3*~data=user_id=0,application_id=42~hmac=875419762473e261f3f23a6e19fc7e90db1e64db7b5201e2e910c21aa3497207",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Allure",
+            "length": "4:52",
+            "deezer": {
+              "id": 1763297997,
+              "link": "https://www.deezer.com/track/1763297997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/c/0/98c21d0a82f50c8ddbed8912ef583412.mp3?hdnea=exp=1795655515~acl=/api/1/1/9/8/c/0/98c21d0a82f50c8ddbed8912ef583412.mp3*~data=user_id=0,application_id=42~hmac=4124649d1113b5faccb0abf09bc2c26d26c55285631d552b6cd4b47ca777a61a",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "My 1st Song",
+            "length": "4:45",
+            "deezer": {
+              "id": 1763298007,
+              "link": "https://www.deezer.com/track/1763298007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/9/0/569c5b7c732398d28c3bcf239d56bd26.mp3?hdnea=exp=1795655515~acl=/api/1/1/5/6/9/0/569c5b7c732398d28c3bcf239d56bd26.mp3*~data=user_id=0,application_id=42~hmac=3c3c41e2eba6a13f54cbe499aff8c737e2bd4aec0dd2da9ea84509336b008fcd",
+              "preview_expires": "2026-11-26T01:11:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/JAŸ-Z/The Black Album.jpg"
+}

@@ -1,0 +1,173 @@
+{
+  "title": "Abraxas",
+  "artist": "Santana",
+  "year": 1970,
+  "release_date": "1970-09-23",
+  "type": "Album",
+  "description": "Abraxas is the second studio album by the American rock band Santana. It was released on September 23, 1970, by Columbia Records and became the band's first album to top the Billboard 200 in the United States. In 2020, Rolling Stone magazine ranked the album number 334 on its list of the \"500 Greatest Albums of All Time\".",
+  "genres": [
+    "rock",
+    "latin rock",
+    "latin",
+    "classic rock",
+    "hard rock",
+    "psychedelic rock",
+    "blues rock",
+    "psychedelic"
+  ],
+  "tags": [
+    "rock",
+    "latin rock",
+    "latin",
+    "classic rock",
+    "hard rock",
+    "psychedelic rock",
+    "album rock",
+    "jazz-rock",
+    "blues rock",
+    "funk soul",
+    "blues-rock",
+    "fusion",
+    "psychedelic",
+    "rock & roll",
+    "rock music",
+    "rock/pop",
+    "santana"
+  ],
+  "rating": {
+    "value_out_of_5": 4.55,
+    "votes": 18
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/43424c73-fc58-36b0-b9cf-f8b057ac0603",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraxas_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000191745",
+    "discogs": "https://www.discogs.com/master/31598",
+    "wikidata": "https://www.wikidata.org/wiki/Q284798",
+    "deezer": "https://www.deezer.com/album/7740828"
+  },
+  "musicbrainz_id": "43424c73-fc58-36b0-b9cf-f8b057ac0603",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e91c52c3-5cb5-43ad-91df-16edeb97ded5",
+      "barcode": "886444593038",
+      "title": "Abraxas",
+      "disambiguation": null,
+      "date": "2014-04-25",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "37:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Singing Winds, Crying Beasts",
+            "length": "4:51",
+            "deezer": {
+              "id": 77879659,
+              "link": "https://www.deezer.com/track/77879659",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/1/0/651ec90c75087837b4b31872a6684635.mp3?hdnea=exp=1795720333~acl=/api/1/1/6/5/1/0/651ec90c75087837b4b31872a6684635.mp3*~data=user_id=0,application_id=42~hmac=36cfa356002a617f74f86dd1062493f4f58698205b2dffb621d5675002e86acc",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Black Magic Woman / Gypsy Queen",
+            "length": "5:20",
+            "deezer": {
+              "id": 77879660,
+              "link": "https://www.deezer.com/track/77879660",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/0/0/ac0481df6a4a19d54e33476f6e3c288c.mp3?hdnea=exp=1795720333~acl=/api/1/1/a/c/0/0/ac0481df6a4a19d54e33476f6e3c288c.mp3*~data=user_id=0,application_id=42~hmac=ade1127130e83f4435f3d4bddd0052d9216c036ac320dfda63b6ef8a3a5b58be",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Oye como va",
+            "length": "4:20",
+            "deezer": {
+              "id": 77879661,
+              "link": "https://www.deezer.com/track/77879661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc36f513dbbc39be628442a241b8d737.mp3?hdnea=exp=1795720333~acl=/api/1/1/f/c/3/0/fc36f513dbbc39be628442a241b8d737.mp3*~data=user_id=0,application_id=42~hmac=0c8cb8307f73600063a2bd9b17c06dd209972404868667742a0c0c56712fd67b",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Incident at Neshabur",
+            "length": "5:02",
+            "deezer": {
+              "id": 77879662,
+              "link": "https://www.deezer.com/track/77879662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/6/0/7563ca0675f5d639fa96f678aa9a1749.mp3?hdnea=exp=1795720333~acl=/api/1/1/7/5/6/0/7563ca0675f5d639fa96f678aa9a1749.mp3*~data=user_id=0,application_id=42~hmac=42460e20a44987e0215e8890266373897512b8d912dbee6c0c90250a16a0b4bc",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Se acabó",
+            "length": "2:54",
+            "deezer": {
+              "id": 77879663,
+              "link": "https://www.deezer.com/track/77879663",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/b/0/b7bfcf1c3465bfd4142e8f2f77628c14.mp3?hdnea=exp=1795720333~acl=/api/1/1/b/7/b/0/b7bfcf1c3465bfd4142e8f2f77628c14.mp3*~data=user_id=0,application_id=42~hmac=52b670fd9839b44d2dfef1d4a717328d90c1f69c123aa850d7e27377f8c31a8a",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mother’s Daughter",
+            "length": "4:31",
+            "deezer": {
+              "id": 77879664,
+              "link": "https://www.deezer.com/track/77879664",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/2/0/cd2f461f088b0aca0c1a42af2c108d8b.mp3?hdnea=exp=1795720333~acl=/api/1/1/c/d/2/0/cd2f461f088b0aca0c1a42af2c108d8b.mp3*~data=user_id=0,application_id=42~hmac=4df8047328fe005e72e5bafb88703821936a277883bd99d5fce20789c5d89618",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Samba pa ti",
+            "length": "4:50",
+            "deezer": {
+              "id": 77879665,
+              "link": "https://www.deezer.com/track/77879665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/d/0/ccd6ef3db48a4559335425618131469f.mp3?hdnea=exp=1795720333~acl=/api/1/1/c/c/d/0/ccd6ef3db48a4559335425618131469f.mp3*~data=user_id=0,application_id=42~hmac=e50563f543b7faa22bb6c464c97b5ea328a9a6411502daf07585b78d81a8efc3",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Hope You’re Feeling Better",
+            "length": "4:09",
+            "deezer": {
+              "id": 77879666,
+              "link": "https://www.deezer.com/track/77879666",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/5/0/21533477e63a3b06df639c5fe6153296.mp3?hdnea=exp=1795720333~acl=/api/1/1/2/1/5/0/21533477e63a3b06df639c5fe6153296.mp3*~data=user_id=0,application_id=42~hmac=253c480701ec0216c06f230094310113df7e586903aab86ecdae44643df7c8aa",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "El Nicoya",
+            "length": "1:29",
+            "deezer": {
+              "id": 77879667,
+              "link": "https://www.deezer.com/track/77879667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/a/0/34a46a43d4cd6471695f5967a5b2e416.mp3?hdnea=exp=1795720333~acl=/api/1/1/3/4/a/0/34a46a43d4cd6471695f5967a5b2e416.mp3*~data=user_id=0,application_id=42~hmac=7de8f8c7c350bdcd950796d6cd4da946b6a830ae1d05135d375f5403f5f7a0d7",
+              "preview_expires": "2026-11-26T19:12:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Santana/Abraxas.jpg"
+}

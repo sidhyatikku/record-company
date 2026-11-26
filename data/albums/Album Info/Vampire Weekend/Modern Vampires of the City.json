@@ -1,0 +1,194 @@
+{
+  "title": "Modern Vampires of the City",
+  "artist": "Vampire Weekend",
+  "year": 2013,
+  "release_date": "2013-05-06",
+  "type": "Album",
+  "description": "Modern Vampires of the City is the third studio album by American indie rock band Vampire Weekend, released on May 14, 2013, by XL Recordings. The group began to write songs for the album during soundchecks on the supporting concert tour for their previous album, 2010's Contra. After a period in which each member explored individual musical projects, they regrouped and continued working on Modern Vampires of the City in 2011. With no deadline in mind, the band brought in an outside record producer for the first time, Ariel Rechtshaid, to record the album.",
+  "genres": [
+    "indie rock",
+    "indie pop",
+    "art pop",
+    "baroque pop",
+    "chamber pop",
+    "rock"
+  ],
+  "tags": [
+    "indie rock",
+    "indie pop",
+    "art pop",
+    "baroque pop",
+    "chamber pop",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 11
+  },
+  "musicbrainz_annotation": "The title \"Modern Vampires of the City\" is quoted from the song \"[http://musicbrainz.org/work/7f1e8c4e-b97e-497e-8aad-e8e01623345e|One Blood]\" by [http://musicbrainz.org/artist/065324d1-12c2-485f-955d-9eef408f92a6|Junior Reid].",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/eb143c5a-9a85-4bce-a78c-f7faf72c0169",
+    "wikipedia": "https://en.wikipedia.org/wiki/Modern_Vampires_of_the_City",
+    "allmusic": "https://www.allmusic.com/album/mw0002489977",
+    "discogs": "https://www.discogs.com/master/553916",
+    "wikidata": "https://www.wikidata.org/wiki/Q6888924",
+    "deezer": "https://www.deezer.com/album/176532302"
+  },
+  "musicbrainz_id": "eb143c5a-9a85-4bce-a78c-f7faf72c0169",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/83ce6184-193f-4de7-b466-8917aa2dc29f",
+      "barcode": "634904055660",
+      "title": "Modern Vampires of the City",
+      "disambiguation": null,
+      "date": "2013-05-14",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "43:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Obvious Bicycle",
+            "length": "4:11",
+            "deezer": {
+              "id": 1094913082,
+              "link": "https://www.deezer.com/track/1094913082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/8/0/0886e89bda09b0bd77015de2ba52c7ca.mp3?hdnea=exp=1795722162~acl=/api/1/1/0/8/8/0/0886e89bda09b0bd77015de2ba52c7ca.mp3*~data=user_id=0,application_id=42~hmac=edfd8a0a32f7fab3f65c2bf805d8352e211fdccc239f2b8e1314989e0d685afd",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Unbelievers",
+            "length": "3:23",
+            "deezer": {
+              "id": 1094913092,
+              "link": "https://www.deezer.com/track/1094913092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/9/0/2b99383e03290967b9d632473dd40a88.mp3?hdnea=exp=1795722162~acl=/api/1/1/2/b/9/0/2b99383e03290967b9d632473dd40a88.mp3*~data=user_id=0,application_id=42~hmac=3054dc49de537c21869bd0d79bb560dc55f63df2afcc54d2439dec33f5c03de3",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Step",
+            "length": "4:12",
+            "deezer": {
+              "id": 1094913102,
+              "link": "https://www.deezer.com/track/1094913102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/4/0/7f4af8848443e3d9a9e39fc5cce0a4e0.mp3?hdnea=exp=1795722162~acl=/api/1/1/7/f/4/0/7f4af8848443e3d9a9e39fc5cce0a4e0.mp3*~data=user_id=0,application_id=42~hmac=e590e56fee2ce9c42e9d2f310dcda1910c70abf143cb3cf006715a16356d90b2",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Diane Young",
+            "length": "2:40",
+            "deezer": {
+              "id": 1094913112,
+              "link": "https://www.deezer.com/track/1094913112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/2/0/b42a84f0066e41b0225035fd9c0be1f8.mp3?hdnea=exp=1795722162~acl=/api/1/1/b/4/2/0/b42a84f0066e41b0225035fd9c0be1f8.mp3*~data=user_id=0,application_id=42~hmac=880dfd306dabb1e67c65b89cb868702ecca98a2fb3e7c27291b47c0549f34ddc",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Don’t Lie",
+            "length": "3:33",
+            "deezer": {
+              "id": 1094913122,
+              "link": "https://www.deezer.com/track/1094913122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/1/0/521f2fca2e4971456007a76db9dc74be.mp3?hdnea=exp=1795722162~acl=/api/1/1/5/2/1/0/521f2fca2e4971456007a76db9dc74be.mp3*~data=user_id=0,application_id=42~hmac=548cb3a9164489cdf1f3674a3638e7b9205b8a0cb0539263ead310ac9aca59be",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hannah Hunt",
+            "length": "3:58",
+            "deezer": {
+              "id": 1094913132,
+              "link": "https://www.deezer.com/track/1094913132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/f/0/2ef0990386d9ab696b33cccafb06a2ff.mp3?hdnea=exp=1795722162~acl=/api/1/1/2/e/f/0/2ef0990386d9ab696b33cccafb06a2ff.mp3*~data=user_id=0,application_id=42~hmac=e0dc33e87cd1af97c5f896f66c07c4b905ff4e4809aa5a6ffd7e8ed6a613bb89",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Everlasting Arms",
+            "length": "3:03",
+            "deezer": {
+              "id": 1094913142,
+              "link": "https://www.deezer.com/track/1094913142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/a/0/c4aa11aa496e351335e3a8dff8638888.mp3?hdnea=exp=1795722162~acl=/api/1/1/c/4/a/0/c4aa11aa496e351335e3a8dff8638888.mp3*~data=user_id=0,application_id=42~hmac=9bc5b36ff639369c512c3567eaab5518a12816ed8d420736d43f1ea1400728da",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Finger Back",
+            "length": "3:26",
+            "deezer": {
+              "id": 1094913152,
+              "link": "https://www.deezer.com/track/1094913152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/3/0/30389f7ed85b3f4ffabe46a0d19578d0.mp3?hdnea=exp=1795722162~acl=/api/1/1/3/0/3/0/30389f7ed85b3f4ffabe46a0d19578d0.mp3*~data=user_id=0,application_id=42~hmac=ea4efec63a767204a6e7afe46ba514e9cc7cadf77d8af561c782abf8ea1810f1",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Worship You",
+            "length": "3:21",
+            "deezer": {
+              "id": 1094913162,
+              "link": "https://www.deezer.com/track/1094913162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/8/0/438f1429bc183caf2c972e8481dc3a0c.mp3?hdnea=exp=1795722162~acl=/api/1/1/4/3/8/0/438f1429bc183caf2c972e8481dc3a0c.mp3*~data=user_id=0,application_id=42~hmac=dc67826d700db18027921c07423924dc4e5b7da41c9508480dc37dab95d6a949",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ya Hey",
+            "length": "5:13",
+            "deezer": {
+              "id": 1094913172,
+              "link": "https://www.deezer.com/track/1094913172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/5/0/a153bd17ce79c169ba465cf9ace89176.mp3?hdnea=exp=1795722162~acl=/api/1/1/a/1/5/0/a153bd17ce79c169ba465cf9ace89176.mp3*~data=user_id=0,application_id=42~hmac=9cd0d6b5125b784acbf918338abeb0c820f743bd84bea41569ba62ba3ff6af48",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hudson",
+            "length": "4:15",
+            "deezer": {
+              "id": 1094913182,
+              "link": "https://www.deezer.com/track/1094913182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/f/0/5ff39460a4f3336399cd087eb0d01a92.mp3?hdnea=exp=1795722162~acl=/api/1/1/5/f/f/0/5ff39460a4f3336399cd087eb0d01a92.mp3*~data=user_id=0,application_id=42~hmac=0a585080b6cba9e4fc98a6a623b3481d9a25b4ab46bd27eaa73177bb0ec91d6f",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Young Lion",
+            "length": "1:45",
+            "deezer": {
+              "id": 1094913192,
+              "link": "https://www.deezer.com/track/1094913192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/6/0/786a3394b6d139b897dfaf015ed6e616.mp3?hdnea=exp=1795722162~acl=/api/1/1/7/8/6/0/786a3394b6d139b897dfaf015ed6e616.mp3*~data=user_id=0,application_id=42~hmac=9604b8d865fdae394412457cbe4a8f2017e3ebc0daf991b00eab4360d14e7f3a",
+              "preview_expires": "2026-11-26T19:42:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Vampire Weekend/Modern Vampires of the City.jpg"
+}

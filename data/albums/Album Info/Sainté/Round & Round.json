@@ -1,0 +1,49 @@
+{
+  "title": "Round & Round",
+  "artist": "Sainté",
+  "year": 2020,
+  "release_date": "2020-06-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk drill"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5vnjKzllcyHiTZUyzYe4kh",
+    "deezer": "https://www.deezer.com/album/242120472"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5vnjKzllcyHiTZUyzYe4kh",
+      "title": "Round & Round",
+      "date": "2020-06-26"
+    },
+    "total_tracks": 1,
+    "total_length": "2:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Round & Round",
+            "length": "2:18",
+            "deezer": {
+              "id": 1424364422,
+              "link": "https://www.deezer.com/track/1424364422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/f/0/8af3e958a77f8971583cbf9d9c0e5d98.mp3?hdnea=exp=1795720261~acl=/api/1/1/8/a/f/0/8af3e958a77f8971583cbf9d9c0e5d98.mp3*~data=user_id=0,application_id=42~hmac=f6c198202df7dbbe53d14a6ac7fb50455adc71277a8299fd5d0e3e6d031781b9",
+              "preview_expires": "2026-11-26T19:11:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Sainté/Round & Round.jpg"
+}

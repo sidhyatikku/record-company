@@ -1,0 +1,97 @@
+{
+  "title": "My Type EP",
+  "artist": "Saint Motel",
+  "year": 2014,
+  "release_date": "2014-08-15",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "alternative rock",
+    "progressive pop",
+    "electronic",
+    "pop",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "progressive pop",
+    "electronic",
+    "pop",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/79dc899a-744f-4145-9386-af2260fafed8",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/935187",
+    "deezer": "https://www.deezer.com/album/8270540"
+  },
+  "musicbrainz_id": "79dc899a-744f-4145-9386-af2260fafed8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6dff6ef4-ab96-48bf-9636-dfbc8362829f",
+      "barcode": "825646264025",
+      "title": "My Type",
+      "disambiguation": null,
+      "date": "2014-08-15",
+      "country": "AL"
+    },
+    "total_tracks": 4,
+    "total_length": "14:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "My Type",
+            "length": "3:26",
+            "deezer": {
+              "id": 82411222,
+              "link": "https://www.deezer.com/track/82411222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/2/0/4a2d8e1e7926653d3b5ad09de96b6c7b.mp3?hdnea=exp=1795720250~acl=/api/1/1/4/a/2/0/4a2d8e1e7926653d3b5ad09de96b6c7b.mp3*~data=user_id=0,application_id=42~hmac=fcb9b020f859b12eaaf5941160fb8a5d89025e825f6985d0b97e60d5d54bb27d",
+              "preview_expires": "2026-11-26T19:10:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ace in the Hole",
+            "length": "3:46",
+            "deezer": {
+              "id": 82411224,
+              "link": "https://www.deezer.com/track/82411224",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/0/0/a000a610aa4d99001135a491eca2bbe6.mp3?hdnea=exp=1795720250~acl=/api/1/1/a/0/0/0/a000a610aa4d99001135a491eca2bbe6.mp3*~data=user_id=0,application_id=42~hmac=2d37c2e645077eb01a7e20267807e983ebf54ed1976b00ee518db95b6fde8f2f",
+              "preview_expires": "2026-11-26T19:10:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Cold Cold Man",
+            "length": "3:50",
+            "deezer": {
+              "id": 82411226,
+              "link": "https://www.deezer.com/track/82411226",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/7/0/1c76ff2754b21a488ecb07374da15478.mp3?hdnea=exp=1795720250~acl=/api/1/1/1/c/7/0/1c76ff2754b21a488ecb07374da15478.mp3*~data=user_id=0,application_id=42~hmac=83248023457f1a988fe37002be80aad1e1d3b77221718a551219311f124df343",
+              "preview_expires": "2026-11-26T19:10:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Midnight Movies",
+            "length": "3:43",
+            "deezer": {
+              "id": 82411228,
+              "link": "https://www.deezer.com/track/82411228",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/f/0/83fc04804d71b0d99e1f4f24925cc377.mp3?hdnea=exp=1795720250~acl=/api/1/1/8/3/f/0/83fc04804d71b0d99e1f4f24925cc377.mp3*~data=user_id=0,application_id=42~hmac=ce5ed176661dee131840156e7cdbbbbee2dca28a7f29e081c6ead830de54d8e4",
+              "preview_expires": "2026-11-26T19:10:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Saint Motel/My Type EP.jpg"
+}

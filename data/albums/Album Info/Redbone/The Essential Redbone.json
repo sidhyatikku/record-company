@@ -1,0 +1,197 @@
+{
+  "title": "The Essential Redbone",
+  "artist": "Redbone",
+  "year": 2003,
+  "release_date": "2003-06-10",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [
+    "255"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a17112e3-7cdb-3684-a6e3-1b11e898e5c8",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0000035241",
+    "deezer": "https://www.deezer.com/album/77197"
+  },
+  "musicbrainz_id": "a17112e3-7cdb-3684-a6e3-1b11e898e5c8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2adbadc3-9343-41b1-9fc1-6e3f1b8b6754",
+      "barcode": "696998607224",
+      "title": "The Essential Redbone",
+      "disambiguation": null,
+      "date": "2003-06-10",
+      "country": "US"
+    },
+    "total_tracks": 14,
+    "total_length": "52:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Light as a Feather",
+            "length": "1:54",
+            "deezer": {
+              "id": 609157,
+              "link": "https://www.deezer.com/track/609157",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/c/0/85cb524451795b6435a591fa4f277a32.mp3?hdnea=exp=1795720064~acl=/api/1/1/8/5/c/0/85cb524451795b6435a591fa4f277a32.mp3*~data=user_id=0,application_id=42~hmac=1fa58b476d277c33d80cf3a8ace79b7f812d800bd5bf2a4ca271def67440138d",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Witch Queen of New Orleans",
+            "length": "2:45",
+            "deezer": {
+              "id": 609203,
+              "link": "https://www.deezer.com/track/609203",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/3/0/c438b29a2ef1c78bd016086d22f21b30.mp3?hdnea=exp=1795720064~acl=/api/1/1/c/4/3/0/c438b29a2ef1c78bd016086d22f21b30.mp3*~data=user_id=0,application_id=42~hmac=5caa666daf437013cc6b53eca06621113ecfc33b7d91977bf931f92fcaed4128",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Come and Get Your Love",
+            "length": "5:00",
+            "deezer": {
+              "id": 609167,
+              "link": "https://www.deezer.com/track/609167",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/5/0/5a5776a147fe66f71eab9a1a080e65ea.mp3?hdnea=exp=1795720064~acl=/api/1/1/5/a/5/0/5a5776a147fe66f71eab9a1a080e65ea.mp3*~data=user_id=0,application_id=42~hmac=f1924ca741dcaa6dd2825c925761537cf264a73f986718093b7ee4027cfedebc",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "One Monkey",
+            "length": "4:06",
+            "deezer": {
+              "id": 609162,
+              "link": "https://www.deezer.com/track/609162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/3/0/ae32c15e68b311c2ad38ec5132eb8348.mp3?hdnea=exp=1795720064~acl=/api/1/1/a/e/3/0/ae32c15e68b311c2ad38ec5132eb8348.mp3*~data=user_id=0,application_id=42~hmac=aba02e4447937600a5b2220c76364eca1c56a12dc6d36ff9b31f032ddcd6508f",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Clouds in My Sunshine",
+            "length": "4:43",
+            "deezer": {
+              "id": 609164,
+              "link": "https://www.deezer.com/track/609164",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/7/0/50737926e72b80594eb26629b2a1c130.mp3?hdnea=exp=1795720064~acl=/api/1/1/5/0/7/0/50737926e72b80594eb26629b2a1c130.mp3*~data=user_id=0,application_id=42~hmac=962aa4336390e6052796205030e1efdeafe0307a43d56e3e782c2ad1ef9223a0",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Maggie",
+            "length": "5:07",
+            "deezer": {
+              "id": 609151,
+              "link": "https://www.deezer.com/track/609151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/0/0/4501ecd7577a4d81e3ada9eb6f358594.mp3?hdnea=exp=1795720064~acl=/api/1/1/4/5/0/0/4501ecd7577a4d81e3ada9eb6f358594.mp3*~data=user_id=0,application_id=42~hmac=cc08b44f7de501487cfea9e97b5b78f5322dbf112fdc7e2efb845764722cf08a",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Niji Trance",
+            "length": "3:26",
+            "deezer": {
+              "id": 609194,
+              "link": "https://www.deezer.com/track/609194",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/9/0/af9652c0352ee970e59aae7f4f0e2b31.mp3?hdnea=exp=1795720064~acl=/api/1/1/a/f/9/0/af9652c0352ee970e59aae7f4f0e2b31.mp3*~data=user_id=0,application_id=42~hmac=3cbfa785c4fb8c52dde72321b7249eed1cced1d5cba032d053d2c6340f18959f",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "One More Time",
+            "length": "3:00",
+            "deezer": {
+              "id": 609170,
+              "link": "https://www.deezer.com/track/609170",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/0/0/100f134b44069d1d04014d78b85e1a35.mp3?hdnea=exp=1795720064~acl=/api/1/1/1/0/0/0/100f134b44069d1d04014d78b85e1a35.mp3*~data=user_id=0,application_id=42~hmac=0de6c411a98940648b27d57249457fb3b25171673e8b570158b569b6912ab19e",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Niki Hokey",
+            "length": "3:16",
+            "deezer": {
+              "id": 609178,
+              "link": "https://www.deezer.com/track/609178",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/9/0/8c9c226489c11f7c2d2d2c487208598d.mp3?hdnea=exp=1795720064~acl=/api/1/1/8/c/9/0/8c9c226489c11f7c2d2d2c487208598d.mp3*~data=user_id=0,application_id=42~hmac=9094c448b2d0a785dfc6c204729728ede501b0a9c1a864ad2bcad0cd93d00edf",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Message From a Drum",
+            "length": "3:59",
+            "deezer": {
+              "id": 609169,
+              "link": "https://www.deezer.com/track/609169",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/6/0/b36f9b69f9bed0429c215e7a6fafe751.mp3?hdnea=exp=1795720064~acl=/api/1/1/b/3/6/0/b36f9b69f9bed0429c215e7a6fafe751.mp3*~data=user_id=0,application_id=42~hmac=f071bd20e60e120652448c862eae965da3bd0386382cca6ffe45d2a9be4b8e25",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Fais-Do",
+            "length": "2:34",
+            "deezer": {
+              "id": 609205,
+              "link": "https://www.deezer.com/track/609205",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/f/0/dbf7c225eb16d8c84be9520fdda19d01.mp3?hdnea=exp=1795720064~acl=/api/1/1/d/b/f/0/dbf7c225eb16d8c84be9520fdda19d01.mp3*~data=user_id=0,application_id=42~hmac=d2568b7e3055a40f2912c9f5f31aeeab5b14f12be1c42e74e20f4f487628bb43",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Jerico",
+            "length": "3:49",
+            "deezer": {
+              "id": 609180,
+              "link": "https://www.deezer.com/track/609180",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/f/0/b7fa66129dcbcf23867632f46bc42305.mp3?hdnea=exp=1795720064~acl=/api/1/1/b/7/f/0/b7fa66129dcbcf23867632f46bc42305.mp3*~data=user_id=0,application_id=42~hmac=58b2ec8a077e24b24939414847f39609d8fc1c421fbfeb2686127d7d460c6325",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Wovoka",
+            "length": "3:00",
+            "deezer": {
+              "id": 609161,
+              "link": "https://www.deezer.com/track/609161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/5/0/055c511b84115dcf0273c85ef28c20ce.mp3?hdnea=exp=1795720064~acl=/api/1/1/0/5/5/0/055c511b84115dcf0273c85ef28c20ce.mp3*~data=user_id=0,application_id=42~hmac=f7aa8838efb7fb666ccde1bc8e448035e9e74e5542c537652455d8012e79a361",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Chant: 13th Hour",
+            "length": "5:37",
+            "deezer": {
+              "id": 609176,
+              "link": "https://www.deezer.com/track/609176",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/9/0/bd96f949e419a1024344902f65c02592.mp3?hdnea=exp=1795720064~acl=/api/1/1/b/d/9/0/bd96f949e419a1024344902f65c02592.mp3*~data=user_id=0,application_id=42~hmac=47eb8356180b1d86db7e6c6a25b83773c84e7f7d7b966ae004c6d00010865520",
+              "preview_expires": "2026-11-26T19:07:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Redbone/The Essential Redbone.jpg"
+}

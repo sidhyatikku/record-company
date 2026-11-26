@@ -1,0 +1,236 @@
+{
+  "title": "Random Access Memories",
+  "artist": "Daft Punk",
+  "year": 2013,
+  "release_date": "2013-05-17",
+  "type": "Album",
+  "description": "Random Access Memories is the fourth and final studio album by the French electronic music duo Daft Punk. It was released on 17 May 2013 through Columbia Records. The album pays tribute to late 1970s and early 1980s American music, particularly from Los Angeles. This theme is reflected in the packaging and promotional campaign, which included billboards, television advertisements and a web series. Recording sessions took place from 2008 to 2012 at Henson, Conway and Capitol Studios in California, Electric Lady Studios in New York City, and Gang Recording Studio in Paris, France.",
+  "genres": [
+    "electronic",
+    "disco",
+    "funk",
+    "electro",
+    "french house",
+    "pop",
+    "club",
+    "dance",
+    "electro-disco",
+    "electronica",
+    "electropop",
+    "house",
+    "nu disco",
+    "progressive house",
+    "synth funk",
+    "synth-pop"
+  ],
+  "tags": [
+    "electronic",
+    "disco",
+    "funk",
+    "club/dance",
+    "electro",
+    "french house",
+    "house music",
+    "leftfield house",
+    "pop",
+    "club",
+    "dance",
+    "dance music",
+    "electro-disco",
+    "electronica",
+    "electropop",
+    "funk / soul",
+    "house",
+    "nu disco",
+    "offizielle charts",
+    "progressive house",
+    "synth funk",
+    "synth-pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.05,
+    "votes": 43
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/aa997ea0-2936-40bd-884d-3af8a0e064dc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Random_Access_Memories",
+    "allmusic": "https://www.allmusic.com/album/mw0002521619",
+    "discogs": "https://www.discogs.com/master/556257",
+    "wikidata": "https://www.wikidata.org/wiki/Q8119033",
+    "deezer": "https://www.deezer.com/album/6575789"
+  },
+  "musicbrainz_id": "aa997ea0-2936-40bd-884d-3af8a0e064dc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5000a285-b67e-4cfc-b54b-2b98f1810d2e",
+      "barcode": "886443927087",
+      "title": "Random Access Memories",
+      "disambiguation": null,
+      "date": "2013-05-17",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "1:14:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Give Life Back to Music",
+            "length": "4:34",
+            "deezer": {
+              "id": 67238728,
+              "link": "https://www.deezer.com/track/67238728",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/7/0/f57885aeb81258994e3d44d33867e85e.mp3?hdnea=exp=1795653051~acl=/api/1/1/f/5/7/0/f57885aeb81258994e3d44d33867e85e.mp3*~data=user_id=0,application_id=42~hmac=fed89f603ce739e4256ac124d1d723ef852b80f1d2f2fabefe2480ae9b52bfc1",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Game of Love",
+            "length": "5:21",
+            "deezer": {
+              "id": 67238729,
+              "link": "https://www.deezer.com/track/67238729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/5/0/475fc61bd3272b9036d4ba0e3837451b.mp3?hdnea=exp=1795653051~acl=/api/1/1/4/7/5/0/475fc61bd3272b9036d4ba0e3837451b.mp3*~data=user_id=0,application_id=42~hmac=2433ee38f27bf775f28ba524c5c594c59465d7fa7fbe98460790b2c0234bed8f",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Giorgio by Moroder",
+            "length": "9:04",
+            "deezer": {
+              "id": 67238730,
+              "link": "https://www.deezer.com/track/67238730",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/6/0/226a352b5354e78a964d5dad5875ded9.mp3?hdnea=exp=1795653051~acl=/api/1/1/2/2/6/0/226a352b5354e78a964d5dad5875ded9.mp3*~data=user_id=0,application_id=42~hmac=b8848b6a2fd6c67f4274d98ac36cec12bfe699f24e4c76248a462a3195ae70aa",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Within",
+            "length": "3:48",
+            "deezer": {
+              "id": 67238731,
+              "link": "https://www.deezer.com/track/67238731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/9/0/10972c895bf5b6303939096203323285.mp3?hdnea=exp=1795653051~acl=/api/1/1/1/0/9/0/10972c895bf5b6303939096203323285.mp3*~data=user_id=0,application_id=42~hmac=44bf9cbfd8fd4a9da51ac902cb83b6e5ba18d6cb6d90bae80c3407423f56b78a",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Instant Crush",
+            "length": "5:37",
+            "artist": "Daft Punk feat. Julian Casablancas",
+            "deezer": {
+              "id": 67238732,
+              "link": "https://www.deezer.com/track/67238732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/b/0/d6bc80aadfa1d7625d59a6620f229371.mp3?hdnea=exp=1795653051~acl=/api/1/1/d/6/b/0/d6bc80aadfa1d7625d59a6620f229371.mp3*~data=user_id=0,application_id=42~hmac=060f2b7a7d41e7ef8ecb7b5f6e704dc789514d092346c3c44ce12ea12aeaf99d",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lose Yourself to Dance",
+            "length": "5:53",
+            "artist": "Daft Punk feat. Pharrell Williams",
+            "deezer": {
+              "id": 67238733,
+              "link": "https://www.deezer.com/track/67238733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e53185570f71c51bf4903d1e78ed5348.mp3?hdnea=exp=1795653051~acl=/api/1/1/e/5/3/0/e53185570f71c51bf4903d1e78ed5348.mp3*~data=user_id=0,application_id=42~hmac=28120d7a2ba482b5b1ec25f537a399c24f27d40d618b5ae15834259f47821a85",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Touch",
+            "length": "8:18",
+            "artist": "Daft Punk feat. Paul Williams",
+            "deezer": {
+              "id": 67238734,
+              "link": "https://www.deezer.com/track/67238734",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/4/0/904b68e3325517e6d8faf07852b9cf8c.mp3?hdnea=exp=1795653051~acl=/api/1/1/9/0/4/0/904b68e3325517e6d8faf07852b9cf8c.mp3*~data=user_id=0,application_id=42~hmac=fba246038c519ca35b3966f29f9d14ad92a47d82ba94bf0d6f428b987c859875",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Get Lucky",
+            "length": "6:07",
+            "artist": "Daft Punk feat. Pharrell Williams",
+            "deezer": {
+              "id": 67238735,
+              "link": "https://www.deezer.com/track/67238735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/a/0/c8a61130657a2cf58e3ac751e7950617.mp3?hdnea=exp=1795653051~acl=/api/1/1/c/8/a/0/c8a61130657a2cf58e3ac751e7950617.mp3*~data=user_id=0,application_id=42~hmac=0cd887e970a73cdf175bcec478d42297e155becee38365eecce10f9208ddafa9",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Beyond",
+            "length": "4:50",
+            "deezer": {
+              "id": 67238736,
+              "link": "https://www.deezer.com/track/67238736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/5/0/885c72be5aa016fb7560aa01cd979850.mp3?hdnea=exp=1795653051~acl=/api/1/1/8/8/5/0/885c72be5aa016fb7560aa01cd979850.mp3*~data=user_id=0,application_id=42~hmac=7654c55c8a715c62fc1c48762f967841b973049ae4d55976ef549abbdf2b4ea0",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Motherboard",
+            "length": "5:41",
+            "deezer": {
+              "id": 67238737,
+              "link": "https://www.deezer.com/track/67238737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/f/0/1bffd335a2958cbdace9fc6249a6b78e.mp3?hdnea=exp=1795653051~acl=/api/1/1/1/b/f/0/1bffd335a2958cbdace9fc6249a6b78e.mp3*~data=user_id=0,application_id=42~hmac=f4720c6d40beab586f607d00e4d6a0297979510de7aa9e8870ecd5ebe026c8b9",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Fragments of Time",
+            "length": "4:39",
+            "artist": "Daft Punk feat. Todd Edwards",
+            "deezer": {
+              "id": 67238738,
+              "link": "https://www.deezer.com/track/67238738",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/0/0/14035d6807f81fd20c5c6c4451be2af2.mp3?hdnea=exp=1795653051~acl=/api/1/1/1/4/0/0/14035d6807f81fd20c5c6c4451be2af2.mp3*~data=user_id=0,application_id=42~hmac=f16582b38e37567b07696abeaa22d7f82dbb714e4684b9374d554f60be1f1360",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Doin’ It Right",
+            "length": "4:11",
+            "artist": "Daft Punk feat. Panda Bear",
+            "deezer": {
+              "id": 67238739,
+              "link": "https://www.deezer.com/track/67238739",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/a/0/60a2977a8361f6ea2298eccface4a8a6.mp3?hdnea=exp=1795653051~acl=/api/1/1/6/0/a/0/60a2977a8361f6ea2298eccface4a8a6.mp3*~data=user_id=0,application_id=42~hmac=3b970e2f6400c89770ac48a79844b296d0b9ea7a40420a897f7612965e4b7868",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Contact",
+            "length": "6:21",
+            "deezer": {
+              "id": 67238740,
+              "link": "https://www.deezer.com/track/67238740",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/3/0/ab34cff630d89acd2b5aacf98a6d79c5.mp3?hdnea=exp=1795653051~acl=/api/1/1/a/b/3/0/ab34cff630d89acd2b5aacf98a6d79c5.mp3*~data=user_id=0,application_id=42~hmac=57e0e6a3d1445a6ebfbd8f22f6cda3992bb88eac14cc10bc2769065fac0597f1",
+              "preview_expires": "2026-11-26T00:30:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Daft Punk/Random Access Memories.jpg"
+}

@@ -1,0 +1,176 @@
+{
+  "title": "Harvest",
+  "artist": "Neil Young",
+  "year": 1972,
+  "release_date": "1972-02-14",
+  "type": "Album",
+  "description": "Harvest is the fourth studio album by Canadian-American musician Neil Young, released on February 15, 1972, by Reprise Records. It featured the London Symphony Orchestra on two tracks and vocals by guests David Crosby, Graham Nash, Linda Ronstadt, Stephen Stills, and James Taylor. It topped the Billboard 200 album chart for two weeks, and spawned two hit singles, \"Old Man\", which peaked at No. 31 on the US Billboard Hot 100, and \"Heart of Gold\", which reached No. 1. It was the best-selling album of 1972 in the United States.",
+  "genres": [
+    "rock",
+    "folk rock",
+    "country rock",
+    "classic rock",
+    "rock and roll",
+    "singer-songwriter"
+  ],
+  "tags": [
+    "rock",
+    "folk rock",
+    "country rock",
+    "classic rock",
+    "male vocal",
+    "1–4 wochen",
+    "english",
+    "offizielle charts",
+    "rock and roll",
+    "singer-songwriter",
+    "singer/songwriter"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 19
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b25419cf-71bf-3a54-8cd4-2161c61056a0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvest_(Neil_Young_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000192539",
+    "discogs": "https://www.discogs.com/master/37615",
+    "wikidata": "https://www.wikidata.org/wiki/Q537983",
+    "deezer": "https://www.deezer.com/album/356690"
+  },
+  "musicbrainz_id": "b25419cf-71bf-3a54-8cd4-2161c61056a0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b1a54793-b8cf-43d5-be2a-dcf5a25ee1ec",
+      "barcode": "093624978985",
+      "title": "Harvest",
+      "disambiguation": "2009 remaster",
+      "date": "2009",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "37:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Out on the Weekend",
+            "length": "4:32",
+            "deezer": {
+              "id": 3826691,
+              "link": "https://www.deezer.com/track/3826691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/9/0/ed96831c9f37149379d233426cdbe8d6.mp3?hdnea=exp=1795718797~acl=/api/1/1/e/d/9/0/ed96831c9f37149379d233426cdbe8d6.mp3*~data=user_id=0,application_id=42~hmac=251e6893fdaae7a28ec85e86ffd0ce14fc958f91d5f4ee7a4db690fb87d54018",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Harvest",
+            "length": "3:09",
+            "deezer": {
+              "id": 3826692,
+              "link": "https://www.deezer.com/track/3826692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/a/0/9ea1835bd3ae03b1efe39c456f797841.mp3?hdnea=exp=1795718797~acl=/api/1/1/9/e/a/0/9ea1835bd3ae03b1efe39c456f797841.mp3*~data=user_id=0,application_id=42~hmac=aaf1ee568af0247f2935d9beb5ac22039e62bf3b4dd66f052246998d817c9450",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "A Man Needs a Maid",
+            "length": "4:02",
+            "deezer": {
+              "id": 3826693,
+              "link": "https://www.deezer.com/track/3826693",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/9/0/7e907aceaa24c27b524c43eafc0e3cfb.mp3?hdnea=exp=1795718797~acl=/api/1/1/7/e/9/0/7e907aceaa24c27b524c43eafc0e3cfb.mp3*~data=user_id=0,application_id=42~hmac=707599fcfc5116c57d2a30523246bda84e6d359574c84ec07989ee92d278a0ba",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Heart of Gold",
+            "length": "3:07",
+            "deezer": {
+              "id": 3826694,
+              "link": "https://www.deezer.com/track/3826694",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/1/0/f111f5883eb1cf18f801cd2b9cc1a206.mp3?hdnea=exp=1795718797~acl=/api/1/1/f/1/1/0/f111f5883eb1cf18f801cd2b9cc1a206.mp3*~data=user_id=0,application_id=42~hmac=77b664e502554a25c277d1c85732daf3a0a5164904ed612c2daa5102b87ce839",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Are You Ready for the Country?",
+            "length": "3:24",
+            "deezer": {
+              "id": 3826695,
+              "link": "https://www.deezer.com/track/3826695",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/d/0/86d3836f6945b9684f9264a09317c0b9.mp3?hdnea=exp=1795718797~acl=/api/1/1/8/6/d/0/86d3836f6945b9684f9264a09317c0b9.mp3*~data=user_id=0,application_id=42~hmac=9a7a04a25a5b6631bf7cf83265455c492f251e1e198771a3702984d8ad275c7c",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Old Man",
+            "length": "3:22",
+            "deezer": {
+              "id": 3826696,
+              "link": "https://www.deezer.com/track/3826696",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/d/0/53d9ccb7ceb85349de41099824652a4f.mp3?hdnea=exp=1795718797~acl=/api/1/1/5/3/d/0/53d9ccb7ceb85349de41099824652a4f.mp3*~data=user_id=0,application_id=42~hmac=4f73a34c804b9317acf26ec73228d491a682de77952d55ae9615dc2b0993eb05",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "There’s a World",
+            "length": "2:59",
+            "deezer": {
+              "id": 3826697,
+              "link": "https://www.deezer.com/track/3826697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/e/0/6fe249fd06f3e26e9be60ac1c7d7d3c1.mp3?hdnea=exp=1795718797~acl=/api/1/1/6/f/e/0/6fe249fd06f3e26e9be60ac1c7d7d3c1.mp3*~data=user_id=0,application_id=42~hmac=c926e92fffb8fda707e1859c86332ea5af6e5ab6a98d3c0198facab7ea1df373",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Alabama",
+            "length": "4:02",
+            "deezer": {
+              "id": 3826698,
+              "link": "https://www.deezer.com/track/3826698",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/2/0/9f22861416e7138620a268af8830ba3a.mp3?hdnea=exp=1795718797~acl=/api/1/1/9/f/2/0/9f22861416e7138620a268af8830ba3a.mp3*~data=user_id=0,application_id=42~hmac=eaaef642a284220d09c971ae6cc1ea1c2428b151019d3d38737d49806e886583",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Needle and the Damage Done",
+            "length": "2:03",
+            "deezer": {
+              "id": 3826699,
+              "link": "https://www.deezer.com/track/3826699",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/9/0/0f948e9872c51496715b4ba486e93d0e.mp3?hdnea=exp=1795718797~acl=/api/1/1/0/f/9/0/0f948e9872c51496715b4ba486e93d0e.mp3*~data=user_id=0,application_id=42~hmac=1f4a928ab1af929ee9eb7d0f50113b13f8d340955d08f3272e4b1e4f89617f6b",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Words (Between the Lines of Age)",
+            "length": "6:47",
+            "deezer": {
+              "id": 3826700,
+              "link": "https://www.deezer.com/track/3826700",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/9/0/a49ab595abdf7c7d95d745a3cfd91391.mp3?hdnea=exp=1795718797~acl=/api/1/1/a/4/9/0/a49ab595abdf7c7d95d745a3cfd91391.mp3*~data=user_id=0,application_id=42~hmac=b727a564f8724a4d29ea49e787b76f510ec39fdea92805fae63749a1fa96eb7a",
+              "preview_expires": "2026-11-26T18:46:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Neil Young/Harvest.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Back In Time",
+  "artist": "Lucas Dekker",
+  "year": 2024,
+  "release_date": "2024-12-27",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4VguAcaoYpYKjEAKvRacvO",
+    "deezer": "https://www.deezer.com/album/1015655561"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4VguAcaoYpYKjEAKvRacvO",
+      "title": "Back In Time",
+      "date": "2024-12-27"
+    },
+    "total_tracks": 1,
+    "total_length": "2:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Back In Time",
+            "length": "2:25",
+            "deezer": {
+              "id": 4117925321,
+              "link": "https://www.deezer.com/track/4117925321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/d/0/f8d219f2f454cdc98328e9acc06cb3a1.mp3?hdnea=exp=1795656679~acl=/api/1/1/f/8/d/0/f8d219f2f454cdc98328e9acc06cb3a1.mp3*~data=user_id=0,application_id=42~hmac=6c5295bbc9f58f0c4dcb7445ef2090c8a46a8ddb05e94c476a27f966cfa7e34d",
+              "preview_expires": "2026-11-26T01:31:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Lucas Dekker/Back In Time.jpg"
+}

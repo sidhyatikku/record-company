@@ -1,0 +1,179 @@
+{
+  "title": "life's a beach",
+  "artist": "easy life",
+  "year": 2021,
+  "release_date": "2021-05-28",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "indie pop",
+    "pop"
+  ],
+  "tags": [
+    "indie pop",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cde210cf-7347-4023-bdf6-6102ce737242",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/2148610",
+    "deezer": "https://www.deezer.com/album/231717362"
+  },
+  "musicbrainz_id": "cde210cf-7347-4023-bdf6-6102ce737242",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e4472ac6-b653-4d8d-9944-c0c173a2e140",
+      "barcode": null,
+      "title": "life's a beach",
+      "disambiguation": null,
+      "date": "2021-05-28",
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "34:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "a message to myself",
+            "length": "2:08",
+            "deezer": {
+              "id": 1379074892,
+              "link": "https://www.deezer.com/track/1379074892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/7/0/fa785fac096df90a6e1d8c9b17836c35.mp3?hdnea=exp=1795654990~acl=/api/1/1/f/a/7/0/fa785fac096df90a6e1d8c9b17836c35.mp3*~data=user_id=0,application_id=42~hmac=7451f0bcc6dd65cee15e7d7e70801249c0bed59351aead0b3b5d228353249f5b",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "have a great day",
+            "length": "3:22",
+            "deezer": {
+              "id": 1379074902,
+              "link": "https://www.deezer.com/track/1379074902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/2/0/c322ac3a49307e7113febf3747bda86c.mp3?hdnea=exp=1795654990~acl=/api/1/1/c/3/2/0/c322ac3a49307e7113febf3747bda86c.mp3*~data=user_id=0,application_id=42~hmac=acdee54daa9b58d250b1a3d409dea26e82aedd4953259b7812f026f2cd0764fa",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "ocean view",
+            "length": "2:54",
+            "deezer": {
+              "id": 1379074912,
+              "link": "https://www.deezer.com/track/1379074912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/2/0/ee28e9300f5a03464739db67026db7de.mp3?hdnea=exp=1795654990~acl=/api/1/1/e/e/2/0/ee28e9300f5a03464739db67026db7de.mp3*~data=user_id=0,application_id=42~hmac=f35d970664032171911c965eacbc442a87ae834e934df441aa6f369cf0b22707",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "skeletons",
+            "length": "2:58",
+            "deezer": {
+              "id": 1379074922,
+              "link": "https://www.deezer.com/track/1379074922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/5/0/9e5eab6d4dcb4326148c069dc0e7da77.mp3?hdnea=exp=1795654990~acl=/api/1/1/9/e/5/0/9e5eab6d4dcb4326148c069dc0e7da77.mp3*~data=user_id=0,application_id=42~hmac=3ec3ee767795df2d5bd29062f43b159ddd7bf20b4a8c1ed10e37d0b654060b86",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "daydreams",
+            "length": "2:35",
+            "deezer": {
+              "id": 1379074942,
+              "link": "https://www.deezer.com/track/1379074942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/e/0/71ecbfa8d1aa784fda6b0233441025d0.mp3?hdnea=exp=1795654990~acl=/api/1/1/7/1/e/0/71ecbfa8d1aa784fda6b0233441025d0.mp3*~data=user_id=0,application_id=42~hmac=51015ade11e58af29bc3e58918899441953d515e66346f28615ea4134a3285ae",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "life's a beach (interlude)",
+            "length": "0:33",
+            "deezer": {
+              "id": 1379074952,
+              "link": "https://www.deezer.com/track/1379074952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/9/0/769559a8e7bcdd061979e94eaae695a9.mp3?hdnea=exp=1795654990~acl=/api/1/1/7/6/9/0/769559a8e7bcdd061979e94eaae695a9.mp3*~data=user_id=0,application_id=42~hmac=05a126d79becdd442cd02adaa3d1a82cf027d42de1bc3b4652473952b514fb83",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "living strange",
+            "length": "2:31",
+            "deezer": {
+              "id": 1379074962,
+              "link": "https://www.deezer.com/track/1379074962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/b/0/c3b021c1362cd7b1202ca72baa52dff6.mp3?hdnea=exp=1795654990~acl=/api/1/1/c/3/b/0/c3b021c1362cd7b1202ca72baa52dff6.mp3*~data=user_id=0,application_id=42~hmac=11d6b5b2b46cf9b0a7b7982ecbafa6038e3ece7924ae84d4e1e27b8180aa82be",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "compliments",
+            "length": "3:26",
+            "deezer": {
+              "id": 1379074982,
+              "link": "https://www.deezer.com/track/1379074982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/c/0/3ac8ce63aba122234d7605b475d30032.mp3?hdnea=exp=1795654990~acl=/api/1/1/3/a/c/0/3ac8ce63aba122234d7605b475d30032.mp3*~data=user_id=0,application_id=42~hmac=426d44cdeab19b1b05d30a546f950c287c9a01888ecb5aeed02c70eede80981b",
+              "preview_expires": "2026-11-26T01:03:10Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "lifeboat",
+            "length": "2:28",
+            "deezer": {
+              "id": 1379074992,
+              "link": "https://www.deezer.com/track/1379074992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/7/0/7c76b5371893a689a6189cce0afdce1d.mp3?hdnea=exp=1795654991~acl=/api/1/1/7/c/7/0/7c76b5371893a689a6189cce0afdce1d.mp3*~data=user_id=0,application_id=42~hmac=3071d48c5f62ee94a22fdd201dd1ac8358252ea833d0d12be274ded8d8c57f76",
+              "preview_expires": "2026-11-26T01:03:11Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "nightmares",
+            "length": "3:27",
+            "deezer": {
+              "id": 1379075002,
+              "link": "https://www.deezer.com/track/1379075002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/c/0/04ca3f372a21e7940b31ad2abef175d6.mp3?hdnea=exp=1795654991~acl=/api/1/1/0/4/c/0/04ca3f372a21e7940b31ad2abef175d6.mp3*~data=user_id=0,application_id=42~hmac=c79cbb917c2b9c3504d38d46684fef5d959cbeffffcc02a28deb6571d5e3d366",
+              "preview_expires": "2026-11-26T01:03:11Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "homesickness",
+            "length": "3:33",
+            "deezer": {
+              "id": 1379075012,
+              "link": "https://www.deezer.com/track/1379075012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/c/0/b3c4ce52085dc6036690daaa9b2bb883.mp3?hdnea=exp=1795654991~acl=/api/1/1/b/3/c/0/b3c4ce52085dc6036690daaa9b2bb883.mp3*~data=user_id=0,application_id=42~hmac=e2c715737689daf866c8253736ea433367eaf39b9dba5aa31efdfbaa73c03d5f",
+              "preview_expires": "2026-11-26T01:03:11Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "music to walk home to",
+            "length": "4:20",
+            "deezer": {
+              "id": 1379075022,
+              "link": "https://www.deezer.com/track/1379075022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/6/0/536d6209a8da0b52fe1eda972b93a0b6.mp3?hdnea=exp=1795654991~acl=/api/1/1/5/3/6/0/536d6209a8da0b52fe1eda972b93a0b6.mp3*~data=user_id=0,application_id=42~hmac=c3e0bc1fbc0cf94571c48d0ae2610a6e29d9143177a9d2329f4e083e5a9070e7",
+              "preview_expires": "2026-11-26T01:03:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/hard life/life's a beach.jpg"
+}

@@ -1,0 +1,266 @@
+{
+  "title": "Global Warming",
+  "artist": "Pitbull",
+  "year": 2012,
+  "release_date": "2012-11-16",
+  "type": "Album",
+  "description": "Global Warming is the seventh studio album recorded by Cuban-American rapper Pitbull. It was released on November 16, 2012 through Mr. 305, Polo Grounds and RCA Records. A teaser for the release was first released onto Pitbull's official Facebook and YouTube channel on September 17, 2012. The production on the album was handled by multiple producers including TJR, Afrojack, Sir Nolan, DJ Buddha, Adam Messinger and Nasri. The album also features guest appearances by Christina Aguilera, Usher, Kesha, Chris Brown, Enrique Iglesias, Jennifer Lopez and Shakira among others.",
+  "genres": [
+    "pop rap",
+    "dance-pop",
+    "pop",
+    "electropop",
+    "hip house",
+    "electronic",
+    "hip hop"
+  ],
+  "tags": [
+    "pop rap",
+    "dance-pop",
+    "pop",
+    "electropop",
+    "hip house",
+    "latin rap",
+    "electronic",
+    "hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ff3d0e03-e51f-4cbb-b59b-52d96f478662",
+    "wikipedia": "https://en.wikipedia.org/wiki/Global_Warming_(Pitbull_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002349062",
+    "discogs": "https://www.discogs.com/master/508911",
+    "wikidata": "https://www.wikidata.org/wiki/Q80322",
+    "deezer": "https://www.deezer.com/album/7109065"
+  },
+  "musicbrainz_id": "ff3d0e03-e51f-4cbb-b59b-52d96f478662",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/da600e90-b622-4e1b-ad17-98ebe123daa1",
+      "barcode": "886444305686",
+      "title": "Global Warming: Meltdown (Deluxe Version)",
+      "disambiguation": "explicit",
+      "date": "2013-11-22",
+      "country": "XW"
+    },
+    "total_tracks": 17,
+    "total_length": "57:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Global Warming",
+            "length": "1:25",
+            "artist": "Pitbull feat. Sensato",
+            "deezer": {
+              "id": 72332236,
+              "link": "https://www.deezer.com/track/72332236",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/9/0/979df2927af8d86bac6e1dcb1eed3980.mp3?hdnea=exp=1795719510~acl=/api/1/1/9/7/9/0/979df2927af8d86bac6e1dcb1eed3980.mp3*~data=user_id=0,application_id=42~hmac=01098a7df6b9e2de79d0d1fabfe9cc2942d0fb3f7f235d35404dd2bf88b91e42",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Don’t Stop the Party",
+            "length": "3:26",
+            "artist": "Pitbull feat. TJR",
+            "deezer": {
+              "id": 72332237,
+              "link": "https://www.deezer.com/track/72332237",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/f/0/6af2016659db76ee6017aa1cce37e6ad.mp3?hdnea=exp=1795719510~acl=/api/1/1/6/a/f/0/6af2016659db76ee6017aa1cce37e6ad.mp3*~data=user_id=0,application_id=42~hmac=938f9cb3598da887ff4769d6ea73bacb93f6864029b32ca5f697fd24dbdc5b9a",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Feel This Moment",
+            "length": "3:50",
+            "artist": "Pitbull feat. Christina Aguilera",
+            "deezer": {
+              "id": 72332238,
+              "link": "https://www.deezer.com/track/72332238",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/3/0/7432c157a62918c174950a722058f49b.mp3?hdnea=exp=1795719510~acl=/api/1/1/7/4/3/0/7432c157a62918c174950a722058f49b.mp3*~data=user_id=0,application_id=42~hmac=d112e2c8152893f16ef299a75da538d5e8628cfe939dc3b23a43db5778509813",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Back in Time (Featured in “Men in Black 3”)",
+            "length": "3:27",
+            "deezer": {
+              "id": 72332239,
+              "link": "https://www.deezer.com/track/72332239",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/9/0/269db3c1c8eb6ff55903c7f639c3a618.mp3?hdnea=exp=1795719510~acl=/api/1/1/2/6/9/0/269db3c1c8eb6ff55903c7f639c3a618.mp3*~data=user_id=0,application_id=42~hmac=65b3a9cc18f4eeae203c201cc8ad5c60da4636261f56a17faabff0b9403cac62",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hope We Meet Again",
+            "length": "3:41",
+            "artist": "Pitbull feat. Chris Brown",
+            "deezer": {
+              "id": 72332240,
+              "link": "https://www.deezer.com/track/72332240",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/1/0/5a1c39563913de4762e7377551fa65f2.mp3?hdnea=exp=1795719510~acl=/api/1/1/5/a/1/0/5a1c39563913de4762e7377551fa65f2.mp3*~data=user_id=0,application_id=42~hmac=2abe9e0a3d7b41f76474cef21baf1c32d18bae3f7924d7401a925cd3c08b8287",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Party Ain’t Over",
+            "length": "4:03",
+            "artist": "Pitbull feat. Usher & Afrojack",
+            "deezer": {
+              "id": 72332241,
+              "link": "https://www.deezer.com/track/72332241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/2/0/f6245b618eff5d48cf94ee703db556c6.mp3?hdnea=exp=1795719510~acl=/api/1/1/f/6/2/0/f6245b618eff5d48cf94ee703db556c6.mp3*~data=user_id=0,application_id=42~hmac=3a11b5eac527c685412b8410cd8816953e120b040ba3ce5d1db80b93a88c550a",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Drinks for You (Ladies Anthem)",
+            "length": "3:17",
+            "artist": "Pitbull feat. Jennifer Lopez",
+            "deezer": {
+              "id": 72332242,
+              "link": "https://www.deezer.com/track/72332242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/4/0/0b4bafdaff2bd79284644d16e7961167.mp3?hdnea=exp=1795719510~acl=/api/1/1/0/b/4/0/0b4bafdaff2bd79284644d16e7961167.mp3*~data=user_id=0,application_id=42~hmac=2b75ee2ae0ae87f9805e6fb950ef6348711b59da16560ca7b54418da8d6ab268",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Have Some Fun",
+            "length": "4:05",
+            "artist": "Pitbull feat. The Wanted & Afrojack",
+            "deezer": {
+              "id": 72332243,
+              "link": "https://www.deezer.com/track/72332243",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/6/0/fb66f39d876932bd93e13bc9909ac62d.mp3?hdnea=exp=1795719510~acl=/api/1/1/f/b/6/0/fb66f39d876932bd93e13bc9909ac62d.mp3*~data=user_id=0,application_id=42~hmac=fe0167ff997c012ac46e01d2a82d67414b51913a8d61e0ad9de3d43db2c70138",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Outta Nowhere",
+            "length": "3:27",
+            "artist": "Pitbull feat. Danny Mercer",
+            "deezer": {
+              "id": 72332244,
+              "link": "https://www.deezer.com/track/72332244",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/e/0/8be08b6331ebfe9e6d438935cc54f990.mp3?hdnea=exp=1795719510~acl=/api/1/1/8/b/e/0/8be08b6331ebfe9e6d438935cc54f990.mp3*~data=user_id=0,application_id=42~hmac=982bbc816c60226d0cb3fc7e00d63b630473227bfa9c76e56648dd95bc8c29de",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Tchu Tchu Tcha",
+            "length": "3:26",
+            "artist": "Pitbull feat. Enrique Iglesias",
+            "deezer": {
+              "id": 72332245,
+              "link": "https://www.deezer.com/track/72332245",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/3/0/b13fdf32cf252cc59cfb8a8779b10517.mp3?hdnea=exp=1795719510~acl=/api/1/1/b/1/3/0/b13fdf32cf252cc59cfb8a8779b10517.mp3*~data=user_id=0,application_id=42~hmac=d50a6cd835dc75f7b3b736979f17f1f089abb69c0937a140c383f71b9f1c519c",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Last Night",
+            "length": "3:40",
+            "artist": "Pitbull feat. Afrojack & Havana Brown",
+            "deezer": {
+              "id": 72332246,
+              "link": "https://www.deezer.com/track/72332246",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/7/0/32706214f6215e08ceaf5520c9b5b227.mp3?hdnea=exp=1795719510~acl=/api/1/1/3/2/7/0/32706214f6215e08ceaf5520c9b5b227.mp3*~data=user_id=0,application_id=42~hmac=e0b14f2186f4c8dc2a2212c16431e49694c97eb4e4e0b05c8c57c0c38eee44fd",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I’m Off That",
+            "length": "3:17",
+            "deezer": {
+              "id": 72332247,
+              "link": "https://www.deezer.com/track/72332247",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/3/0/d73e163d183b77fc88704e75f696d7b0.mp3?hdnea=exp=1795719510~acl=/api/1/1/d/7/3/0/d73e163d183b77fc88704e75f696d7b0.mp3*~data=user_id=0,application_id=42~hmac=e232eec5d1e3fc718cc7fedde4e648800813a2d1e110800394a8df24efa176f6",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Timber",
+            "length": "3:24",
+            "artist": "Pitbull feat. Ke$ha",
+            "deezer": {
+              "id": 72332248,
+              "link": "https://www.deezer.com/track/72332248",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/8/0/4d8345ed1ed0de6acd438e69eee8cb8e.mp3?hdnea=exp=1795719510~acl=/api/1/1/4/d/8/0/4d8345ed1ed0de6acd438e69eee8cb8e.mp3*~data=user_id=0,application_id=42~hmac=27b0b8e635213cc449a162dd431957d026758eb4da363f28feee6448bfab5af2",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "That High",
+            "length": "3:14",
+            "artist": "Pitbull feat. Kelly Rowland",
+            "deezer": {
+              "id": 72332249,
+              "link": "https://www.deezer.com/track/72332249",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/1/0/56176b417b46d30d5397b9423bec8073.mp3?hdnea=exp=1795719510~acl=/api/1/1/5/6/1/0/56176b417b46d30d5397b9423bec8073.mp3*~data=user_id=0,application_id=42~hmac=af7e7c0876d97b6abcdbea18a6d6ec7ceb740bc3f1b4c54e91e437d62e7b76e1",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Do It",
+            "length": "3:41",
+            "artist": "Pitbull feat. Mayer Hawthorne",
+            "deezer": {
+              "id": 72332250,
+              "link": "https://www.deezer.com/track/72332250",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ca429597aa86fc80cbae3142c3496.mp3?hdnea=exp=1795719510~acl=/api/1/1/f/6/5/0/f65ca429597aa86fc80cbae3142c3496.mp3*~data=user_id=0,application_id=42~hmac=bd8a181af7b158ff283b17b1adea49ce2f16724cb6b34ff60c048dc98c60e4e8",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Sun in California",
+            "length": "3:01",
+            "artist": "Pitbull feat. Mohombi & PLAYB4CK",
+            "deezer": {
+              "id": 72332251,
+              "link": "https://www.deezer.com/track/72332251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/1/0/7313b9f67dc0cca5ce030766480a4875.mp3?hdnea=exp=1795719510~acl=/api/1/1/7/3/1/0/7313b9f67dc0cca5ce030766480a4875.mp3*~data=user_id=0,application_id=42~hmac=87d962c6f19468889e68e7e2df101882bf14e62464f356eeaab25a3c8a3ef2f4",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "All the Things",
+            "length": "3:26",
+            "artist": "Pitbull feat. INNA",
+            "deezer": {
+              "id": 72332252,
+              "link": "https://www.deezer.com/track/72332252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/7/0/cd799ac1aa4f02aec7c986fc32217b88.mp3?hdnea=exp=1795719510~acl=/api/1/1/c/d/7/0/cd799ac1aa4f02aec7c986fc32217b88.mp3*~data=user_id=0,application_id=42~hmac=98014ea803eba167c2be5e375f725b8887b841f9d218f4408d5bde51971d3762",
+              "preview_expires": "2026-11-26T18:58:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pitbull/Global Warming- Meltdown.jpg"
+}

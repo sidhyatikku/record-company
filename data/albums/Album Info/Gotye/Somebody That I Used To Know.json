@@ -1,0 +1,84 @@
+{
+  "title": "Somebody That I Used to Know",
+  "artist": "Gotye feat. Kimbra",
+  "year": 2011,
+  "release_date": "2011-07-05",
+  "type": "Single",
+  "description": "\"Somebody That I Used to Know\" is a song written, produced, and performed by the Belgian-Australian singer-songwriter Gotye, featuring vocals from the New Zealand singer Kimbra. The song was released in Australia and New Zealand through Eleven Music on 5 July 2011 as the second single from Gotye's third studio album, Making Mirrors (2011). It was later released by Universal Music in December 2011 in the United Kingdom, and 20 January 2012 in Ireland and the United States.",
+  "genres": [
+    "indie pop",
+    "art pop",
+    "electronic",
+    "alternative pop",
+    "pop",
+    "trance"
+  ],
+  "tags": [
+    "indie pop",
+    "art pop",
+    "electronic",
+    "alternative pop",
+    "pop",
+    "todd in the shadows",
+    "trance"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f6ba16a7-2054-4f3f-8dcb-90903cf0e6dd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know",
+    "discogs": "https://www.discogs.com/master/408913",
+    "wikidata": "https://www.wikidata.org/wiki/Q1995194",
+    "deezer": "https://www.deezer.com/album/12461156"
+  },
+  "musicbrainz_id": "f6ba16a7-2054-4f3f-8dcb-90903cf0e6dd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3d191558-4e73-4d01-9ee1-08b18b58088c",
+      "barcode": "00602527925349",
+      "title": "Somebody That I Used to Know",
+      "disambiguation": null,
+      "date": "2011-12-12",
+      "country": null
+    },
+    "total_tracks": 2,
+    "total_length": "6:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Somebody That I Used to Know",
+            "length": "4:05",
+            "deezer": {
+              "id": 119615552,
+              "link": "https://www.deezer.com/track/119615552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/4/0/674feceb9fbf9750da387769b0fc7816.mp3?hdnea=exp=1795654702~acl=/api/1/1/6/7/4/0/674feceb9fbf9750da387769b0fc7816.mp3*~data=user_id=0,application_id=42~hmac=94d13def156c92184dd12f8ec93e39949deb6c7a159d96e08d0765f2c5ec9f67",
+              "preview_expires": "2026-11-26T00:58:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Easy Way Out",
+            "length": "1:58",
+            "artist": "Gotye",
+            "deezer": {
+              "id": 119615550,
+              "link": "https://www.deezer.com/track/119615550",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/9/0/c89b69584f28ed5f91b6578d78478235.mp3?hdnea=exp=1795654702~acl=/api/1/1/c/8/9/0/c89b69584f28ed5f91b6578d78478235.mp3*~data=user_id=0,application_id=42~hmac=d05ef64869d7c8bc29e3796620d04e3391d448f4dda9e764d73fed3803bf8875",
+              "preview_expires": "2026-11-26T00:58:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Gotye/Somebody That I Used To Know.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Kalyug (Original Motion Picture Soundtrack)",
+  "artist": "Various Artists",
+  "year": 2005,
+  "release_date": "2005-12-09",
+  "type": "Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2Q0Z1ydGSTDwJLmZGQhjL9",
+    "deezer": "https://www.deezer.com/album/90184612"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2Q0Z1ydGSTDwJLmZGQhjL9",
+      "title": "Kalyug (Original Motion Picture Soundtrack)",
+      "date": "2005-12-09"
+    },
+    "total_tracks": 7,
+    "total_length": "33:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Aadat",
+            "length": "5:34",
+            "artist": "Jal, Mithoon, Atif Aslam"
+          },
+          {
+            "number": "2",
+            "title": "Jiya Dhadak Dhadak Jaye",
+            "length": "5:19",
+            "artist": "Rohail Hyatt, Faisal Rafi, Rahat Fateh Ali Khan"
+          },
+          {
+            "number": "3",
+            "title": "Tujhe Dekh Dekh",
+            "length": "2:46",
+            "artist": "Rohail Hyatt, Faisal Rafi, Rahat Fateh Ali Khan"
+          },
+          {
+            "number": "4",
+            "title": "Aadat - Remix",
+            "length": "4:05",
+            "artist": "Jal, Mithoon, Atif Aslam, DJ Suketu"
+          },
+          {
+            "number": "5",
+            "title": "Dheere Dheere",
+            "length": "5:25",
+            "artist": "Anu Malik, Alisha Chinai"
+          },
+          {
+            "number": "6",
+            "title": "Thi Meri Dastan",
+            "length": "4:18",
+            "artist": "Anu Malik, Anuradha Paudwal, Amit Sana"
+          },
+          {
+            "number": "7",
+            "title": "Yeh Pal",
+            "length": "6:29",
+            "artist": "Anu Malik, Najam Sheraz"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Various Artists/Kalyug.jpg"
+}

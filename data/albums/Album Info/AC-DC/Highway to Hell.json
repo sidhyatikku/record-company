@@ -1,0 +1,169 @@
+{
+  "title": "Highway to Hell",
+  "artist": "AC/DC",
+  "year": 1979,
+  "release_date": "1979-07-27",
+  "type": "Album",
+  "description": "Highway to Hell is the sixth studio album by Australian hard rock band AC/DC, released on 27 July 1979, by Albert Productions and Atlantic Records. It is the first of three albums produced by Robert John \"Mutt\" Lange, and is the last album featuring lead singer Bon Scott, who died on 19 February 1980.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "blues rock",
+    "arena rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "album rock",
+    "blues rock",
+    "arena rock",
+    "aussie rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 33
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f85647ec-a69b-3b0a-ad04-bb6076c4dcf1",
+    "wikipedia": "https://en.wikipedia.org/wiki/Highway_to_Hell",
+    "allmusic": "https://www.allmusic.com/album/mw0000649805",
+    "discogs": "https://www.discogs.com/master/8522",
+    "wikidata": "https://www.wikidata.org/wiki/Q285929",
+    "deezer": "https://www.deezer.com/album/9410086"
+  },
+  "musicbrainz_id": "f85647ec-a69b-3b0a-ad04-bb6076c4dcf1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1d398309-a4a9-481a-88cd-72a323d7e7dc",
+      "barcode": "886444889896",
+      "title": "Highway to Hell",
+      "disambiguation": "remastered",
+      "date": "2020",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "41:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Highway to Hell",
+            "length": "3:28",
+            "deezer": {
+              "id": 92719900,
+              "link": "https://www.deezer.com/track/92719900",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d7183d3dd28d85289690100ef5d7c78e.mp3?hdnea=exp=1795648879~acl=/api/1/1/d/7/1/0/d7183d3dd28d85289690100ef5d7c78e.mp3*~data=user_id=0,application_id=42~hmac=02f09ecc2c2d5e5c9d5b23697681ce930419b23c680350f6d370ccbf2e127b0e",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Girls Got Rhythm",
+            "length": "3:24",
+            "deezer": {
+              "id": 92719902,
+              "link": "https://www.deezer.com/track/92719902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/b/0/3fb125cc850cd0d1853c2cbd3248cdf7.mp3?hdnea=exp=1795648879~acl=/api/1/1/3/f/b/0/3fb125cc850cd0d1853c2cbd3248cdf7.mp3*~data=user_id=0,application_id=42~hmac=3a249456649570f0d6ad3f05cf3978ff6967d5ca1851df925077c7214b888ff6",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Walk All Over You",
+            "length": "5:10",
+            "deezer": {
+              "id": 92719904,
+              "link": "https://www.deezer.com/track/92719904",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/9/0/859875ec8e80bdf0352035604d7dfa66.mp3?hdnea=exp=1795648879~acl=/api/1/1/8/5/9/0/859875ec8e80bdf0352035604d7dfa66.mp3*~data=user_id=0,application_id=42~hmac=02f7f07cb858009d9ceb1f82d9d97df23d4d5700bdb5b2d1bf143129bff237d3",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Touch Too Much",
+            "length": "4:27",
+            "deezer": {
+              "id": 92719906,
+              "link": "https://www.deezer.com/track/92719906",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/d/0/55d6926f98d7c32493d233d1bf160549.mp3?hdnea=exp=1795648879~acl=/api/1/1/5/5/d/0/55d6926f98d7c32493d233d1bf160549.mp3*~data=user_id=0,application_id=42~hmac=f015f8cca46b45f0eea770e6496f69ac399f0c25ab7c8a38300eb0b04b70c38a",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Beating Around the Bush",
+            "length": "3:56",
+            "deezer": {
+              "id": 92719908,
+              "link": "https://www.deezer.com/track/92719908",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/6/0/6c66d7d29143f2c09e3c20ae6b865356.mp3?hdnea=exp=1795648879~acl=/api/1/1/6/c/6/0/6c66d7d29143f2c09e3c20ae6b865356.mp3*~data=user_id=0,application_id=42~hmac=7e6be3fcc8d30bf9d099abb7b90d61e229f8d90401254cea0207135ad96128cc",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Shot Down in Flames",
+            "length": "3:23",
+            "deezer": {
+              "id": 92719910,
+              "link": "https://www.deezer.com/track/92719910",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/6/0/6e69b22b83b2a6b887822bf1aff017ac.mp3?hdnea=exp=1795648879~acl=/api/1/1/6/e/6/0/6e69b22b83b2a6b887822bf1aff017ac.mp3*~data=user_id=0,application_id=42~hmac=b04adf112fbaff9f81be0c9dc339acf96cccc7f30f07d50893621cd2f680b052",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Get It Hot",
+            "length": "2:35",
+            "deezer": {
+              "id": 92719912,
+              "link": "https://www.deezer.com/track/92719912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/9/0/6d92045ecc961902ac7c946f1f1637b4.mp3?hdnea=exp=1795648879~acl=/api/1/1/6/d/9/0/6d92045ecc961902ac7c946f1f1637b4.mp3*~data=user_id=0,application_id=42~hmac=41e2867f6d61ab2e3b32812e4a15ee455cb58120992c073d2507b7d507ade710",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "If You Want Blood (You’ve Got It)",
+            "length": "4:37",
+            "deezer": {
+              "id": 92719914,
+              "link": "https://www.deezer.com/track/92719914",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/2/0/ad2737de857bdf171a4998952634cb9f.mp3?hdnea=exp=1795648879~acl=/api/1/1/a/d/2/0/ad2737de857bdf171a4998952634cb9f.mp3*~data=user_id=0,application_id=42~hmac=c8ccf672f31dde443352c20b1425ce14958ad8818872e5816c475ba1ff23fe09",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Love Hungry Man",
+            "length": "4:17",
+            "deezer": {
+              "id": 92719916,
+              "link": "https://www.deezer.com/track/92719916",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/f/0/d1f9979a16001af5093903b8f9d19995.mp3?hdnea=exp=1795648879~acl=/api/1/1/d/1/f/0/d1f9979a16001af5093903b8f9d19995.mp3*~data=user_id=0,application_id=42~hmac=47a42d56e0fa5deb7facc03229c354ddf9ea243414bdb56ed5264f7916e5ff0b",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Night Prowler",
+            "length": "6:18",
+            "deezer": {
+              "id": 92719918,
+              "link": "https://www.deezer.com/track/92719918",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/6/0/aa61c48825273cc823fec821fe9cbf51.mp3?hdnea=exp=1795648879~acl=/api/1/1/a/a/6/0/aa61c48825273cc823fec821fe9cbf51.mp3*~data=user_id=0,application_id=42~hmac=881f1a001842f98efb2bd0744718b4857891194f59c1522fffd39864eddc66be",
+              "preview_expires": "2026-11-25T23:21:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AC-DC/Highway to Hell.jpg"
+}

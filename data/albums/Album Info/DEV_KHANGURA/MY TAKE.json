@@ -1,0 +1,43 @@
+{
+  "title": "MY TAKE",
+  "artist": "DEV_KHANGURA",
+  "year": 2025,
+  "release_date": "2025-10-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "punjabi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0204nkxBAP09ibq9rrFq17",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0204nkxBAP09ibq9rrFq17",
+      "title": "MY TAKE",
+      "date": "2025-10-24"
+    },
+    "total_tracks": 1,
+    "total_length": "2:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "MY TAKE",
+            "length": "2:23"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/DEV_KHANGURA/MY TAKE.jpg"
+}

@@ -1,0 +1,101 @@
+{
+  "title": "The Weekend",
+  "artist": "Michael Gray",
+  "year": 2004,
+  "release_date": "2004-10-04",
+  "type": "Single",
+  "description": "\"The Weekend\" is a song by English DJ Michael Gray, with vocals provided by singer Shèna. It was released on 1 November 2004 and peaked at number seven on the UK Singles Chart, topped the UK and Hungarian dance charts, and reached the top 20 in several other countries, including Australia, Italy, and the Netherlands. In the United States, it peaked at number five on the Billboard Dance Radio Airplay chart in February 2005.",
+  "genres": [
+    "house",
+    "electronic",
+    "pop"
+  ],
+  "tags": [
+    "house",
+    "electronic",
+    "dance & house",
+    "dance and electronica",
+    "dance house",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3a91e1e3-580a-3a56-bfa9-2f84bb3e5137",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Weekend_(Michael_Gray_song)",
+    "discogs": "https://www.discogs.com/master/80162",
+    "wikidata": "https://www.wikidata.org/wiki/Q922991",
+    "deezer": "https://www.deezer.com/album/7787141"
+  },
+  "musicbrainz_id": "3a91e1e3-580a-3a56-bfa9-2f84bb3e5137",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6fa3b2f2-5872-472a-b624-6b86210b72c9",
+      "barcode": "8718274950663",
+      "title": "The Weekend",
+      "disambiguation": null,
+      "date": "2004-10-04",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "28:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Weekend (radio edit)",
+            "length": "3:12",
+            "deezer": {
+              "id": 78304463,
+              "link": "https://www.deezer.com/track/78304463",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb1ea756f10eb1fbac46831edaef63be.mp3?hdnea=exp=1795718425~acl=/api/1/1/b/b/1/0/bb1ea756f10eb1fbac46831edaef63be.mp3*~data=user_id=0,application_id=42~hmac=dc910f8a9d1c6fa00934fa8520e582f21fd778dbc2b959e465831dca042a308d",
+              "preview_expires": "2026-11-26T18:40:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Weekend (extended vocal mix)",
+            "length": "8:08",
+            "deezer": {
+              "id": 78304464,
+              "link": "https://www.deezer.com/track/78304464",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/5/0/3a5494b04d8dd284050fce71656fa256.mp3?hdnea=exp=1795718425~acl=/api/1/1/3/a/5/0/3a5494b04d8dd284050fce71656fa256.mp3*~data=user_id=0,application_id=42~hmac=d5ac3560ae39047d2962cdcf94ce82a161076e8a7f05d84880e38ea6afc65532",
+              "preview_expires": "2026-11-26T18:40:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Weekend (original 12\" mix)",
+            "length": "7:53",
+            "deezer": {
+              "id": 78304465,
+              "link": "https://www.deezer.com/track/78304465",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/8/0/99884ff7e99c521c8b014b68228b7837.mp3?hdnea=exp=1795718425~acl=/api/1/1/9/9/8/0/99884ff7e99c521c8b014b68228b7837.mp3*~data=user_id=0,application_id=42~hmac=a02fd55d28c6eded69c68265451ae2d530fe8165f2e3823636347e9d6c7151dc",
+              "preview_expires": "2026-11-26T18:40:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Weekend (Nic Fanciulli vocal mix)",
+            "length": "8:54",
+            "deezer": {
+              "id": 78304466,
+              "link": "https://www.deezer.com/track/78304466",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/4/0/1042cb33af6b8b0df553b343f7211178.mp3?hdnea=exp=1795718425~acl=/api/1/1/1/0/4/0/1042cb33af6b8b0df553b343f7211178.mp3*~data=user_id=0,application_id=42~hmac=226964b438a2a7bf90862dfa9114a7f3d9b8c5f7a3fc3917449fe28b4424857d",
+              "preview_expires": "2026-11-26T18:40:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Michael Gray/The Weekend.jpg"
+}

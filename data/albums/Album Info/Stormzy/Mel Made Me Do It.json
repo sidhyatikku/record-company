@@ -1,0 +1,62 @@
+{
+  "title": "Mel Made Me Do It",
+  "artist": "Stormzy",
+  "year": 2022,
+  "release_date": "2022-09-22",
+  "type": "Single",
+  "description": "\"Mel Made Me Do It\" is a song by English rapper Stormzy, released as a single on 23 September 2022 through 0207 Def Jam and #Merky. It contains guest appearances from Jamaican musician Stylo G and English actress Michaela Coel. The song, Stormzy's longest, was written by him and producer Knox Brown. It was released alongside its 11-minute music video, which includes a variety of cameo appearances from Usain Bolt and Louis Theroux amongst others.",
+  "genres": [
+    "drill",
+    "grime",
+    "hip hop",
+    "uk drill"
+  ],
+  "tags": [
+    "drill",
+    "grime",
+    "hip hop",
+    "uk drill",
+    "uk rap"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ce83ba63-9da1-44fe-a4b8-33a7ab1965bf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mel_Made_Me_Do_It",
+    "deezer": "https://www.deezer.com/album/358465317"
+  },
+  "musicbrainz_id": "ce83ba63-9da1-44fe-a4b8-33a7ab1965bf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b5b25091-c13e-4d68-83c6-731fb035872e",
+      "barcode": "602448175892",
+      "title": "Mel Made Me Do It",
+      "disambiguation": null,
+      "date": "2022-09-22",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "7:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mel Made Me Do It",
+            "length": "7:21",
+            "deezer": {
+              "id": 1923123347,
+              "link": "https://www.deezer.com/track/1923123347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/e/0/32ef9e86d2cd4e5e04f4ed6f6be97431.mp3?hdnea=exp=1795721024~acl=/api/1/1/3/2/e/0/32ef9e86d2cd4e5e04f4ed6f6be97431.mp3*~data=user_id=0,application_id=42~hmac=883f32005974ad7c190c5a9987472c1fd48a4686134ec28b8b8b9efb18f2cd5d",
+              "preview_expires": "2026-11-26T19:23:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Stormzy/Mel Made Me Do It.jpg"
+}

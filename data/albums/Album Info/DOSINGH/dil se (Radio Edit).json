@@ -1,0 +1,46 @@
+{
+  "title": "dil se (Radio Edit)",
+  "artist": "DOSINGH",
+  "year": 2024,
+  "release_date": "2024-10-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4mFGKfYMhjyt6GVUbpMFmN",
+    "deezer": "https://www.deezer.com/album/658363711"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4mFGKfYMhjyt6GVUbpMFmN",
+      "title": "dil se (Radio Edit)",
+      "date": "2024-10-17"
+    },
+    "total_tracks": 1,
+    "total_length": "3:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "dil se - Radio Edit",
+            "length": "3:12",
+            "deezer": {
+              "id": 3050631071,
+              "link": "https://www.deezer.com/track/3050631071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/5/0/ba56d55a4714379b0e25b62ef6e281d1.mp3?hdnea=exp=1795653502~acl=/api/1/1/b/a/5/0/ba56d55a4714379b0e25b62ef6e281d1.mp3*~data=user_id=0,application_id=42~hmac=71db040ab40dc8cbac6f133079a5d788255373ee11ec1ca46cb2ecdf7a530fe6",
+              "preview_expires": "2026-11-26T00:38:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/DOSINGH/dil se (Radio Edit).jpg"
+}

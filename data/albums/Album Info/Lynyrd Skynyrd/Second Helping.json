@@ -1,0 +1,183 @@
+{
+  "title": "Second Helping",
+  "artist": "Lynyrd Skynyrd",
+  "year": 1974,
+  "release_date": "1974-04-15",
+  "type": "Album",
+  "description": "Second Helping is the second studio album by Lynyrd Skynyrd, released on April 15, 1974. It features the band's biggest hit single, \"Sweet Home Alabama\", an answer song to Neil Young's \"Alabama\" and \"Southern Man\", which reached No. 8 on the Billboard Hot 100 chart in August 1974.",
+  "genres": [
+    "southern rock",
+    "rock",
+    "classic rock",
+    "hard rock",
+    "americana"
+  ],
+  "tags": [
+    "southern rock",
+    "rock",
+    "classic rock",
+    "hard rock",
+    "70s",
+    "americana",
+    "film scores",
+    "films/games"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cbff20dc-1ed7-3579-9a60-c705e88bdf19",
+    "wikipedia": "https://en.wikipedia.org/wiki/Second_Helping",
+    "allmusic": "https://www.allmusic.com/album/mw0000273339",
+    "discogs": "https://www.discogs.com/master/70584",
+    "wikidata": "https://www.wikidata.org/wiki/Q568846",
+    "deezer": "https://www.deezer.com/album/2375511"
+  },
+  "musicbrainz_id": "cbff20dc-1ed7-3579-9a60-c705e88bdf19",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6b92306d-9a91-470b-adcd-7cd69767aab3",
+      "barcode": "008811164829",
+      "title": "Second Helping",
+      "disambiguation": null,
+      "date": "1997-11-04",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "53:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sweet Home Alabama",
+            "length": "4:44",
+            "deezer": {
+              "id": 24949681,
+              "link": "https://www.deezer.com/track/24949681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/8/0/908367b8d697a174034bce8c338339f6.mp3?hdnea=exp=1795718124~acl=/api/1/1/9/0/8/0/908367b8d697a174034bce8c338339f6.mp3*~data=user_id=0,application_id=42~hmac=9bb79de82e5b86e7bdc0af185a9ccefbbd9f1b2c2208afe10475631eb7c77602",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Need You",
+            "length": "6:56",
+            "deezer": {
+              "id": 24949691,
+              "link": "https://www.deezer.com/track/24949691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/c/0/c3ca0af619262287eb2a87c04f11eaac.mp3?hdnea=exp=1795718124~acl=/api/1/1/c/3/c/0/c3ca0af619262287eb2a87c04f11eaac.mp3*~data=user_id=0,application_id=42~hmac=a2b5822ca736085c204bbfe98ff7a94b0cdc667fddf768d85eec2f7083d61df4",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Don't Ask Me No Questions",
+            "length": "3:27",
+            "deezer": {
+              "id": 24949701,
+              "link": "https://www.deezer.com/track/24949701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdd5196aa3a597e8a398ae0bae1b42e.mp3?hdnea=exp=1795718124~acl=/api/1/1/f/f/d/0/ffdd5196aa3a597e8a398ae0bae1b42e.mp3*~data=user_id=0,application_id=42~hmac=3a0121ac45d2537734cb22a4c2bb1530eae32d3525586c9e96a131cac5709bf9",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Workin' for MCA",
+            "length": "4:49",
+            "deezer": {
+              "id": 24949711,
+              "link": "https://www.deezer.com/track/24949711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/7/0/6d74dcca5de1b6012b85878f08556693.mp3?hdnea=exp=1795718124~acl=/api/1/1/6/d/7/0/6d74dcca5de1b6012b85878f08556693.mp3*~data=user_id=0,application_id=42~hmac=1eedbcde7b12717aa88ad8c66c764a2679832533b4d31e1c967503c2b3f2e994",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Ballad of Curtis Loew",
+            "length": "4:52",
+            "deezer": {
+              "id": 24949721,
+              "link": "https://www.deezer.com/track/24949721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/f/0/d6f23e63fb876cbb61a49deb22189201.mp3?hdnea=exp=1795718124~acl=/api/1/1/d/6/f/0/d6f23e63fb876cbb61a49deb22189201.mp3*~data=user_id=0,application_id=42~hmac=9716287ece4f114c9c87676b25439f3639069fe684ffaf0c44d13fb1c7b7763e",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Swamp Music",
+            "length": "3:31",
+            "deezer": {
+              "id": 24949731,
+              "link": "https://www.deezer.com/track/24949731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/9/0/0a995bdee5f7be06bed89a716d4f04aa.mp3?hdnea=exp=1795718124~acl=/api/1/1/0/a/9/0/0a995bdee5f7be06bed89a716d4f04aa.mp3*~data=user_id=0,application_id=42~hmac=70a6e82305d27d00f1ac40ee63f826376a5156a9ca683358117c384cd0aab6ad",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Needle and the Spoon",
+            "length": "3:54",
+            "deezer": {
+              "id": 24949741,
+              "link": "https://www.deezer.com/track/24949741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/7/0/af7cc96ffc33a4cbc6cdc274973fe1a3.mp3?hdnea=exp=1795718124~acl=/api/1/1/a/f/7/0/af7cc96ffc33a4cbc6cdc274973fe1a3.mp3*~data=user_id=0,application_id=42~hmac=7b3502d54822454128ba0c74c751a9fa481f4fdc31b55cb208c41a2218400646",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Call Me the Breeze",
+            "length": "5:10",
+            "deezer": {
+              "id": 24949751,
+              "link": "https://www.deezer.com/track/24949751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/c/0/75c1a3ffecea2864126009ee4f247b84.mp3?hdnea=exp=1795718124~acl=/api/1/1/7/5/c/0/75c1a3ffecea2864126009ee4f247b84.mp3*~data=user_id=0,application_id=42~hmac=8f8ff8194cf1e713cdeba7b36d6122ff8f546f19c8892f30f6a2a8723f861143",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Don't Ask Me No Questions (single version)",
+            "length": "3:31",
+            "deezer": {
+              "id": 24949761,
+              "link": "https://www.deezer.com/track/24949761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/a/0/5fa36971e091cde0e352cd181a151516.mp3?hdnea=exp=1795718124~acl=/api/1/1/5/f/a/0/5fa36971e091cde0e352cd181a151516.mp3*~data=user_id=0,application_id=42~hmac=dc4d0bd7900c98f4a0331c31cb26bc554ee6c1a4b679b8568e3be01630dceea1",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Was I Right or Wrong (demo)",
+            "length": "5:33",
+            "deezer": {
+              "id": 24949771,
+              "link": "https://www.deezer.com/track/24949771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/7/0/aa72c82236c56a9c72567b052fbf9b35.mp3?hdnea=exp=1795718124~acl=/api/1/1/a/a/7/0/aa72c82236c56a9c72567b052fbf9b35.mp3*~data=user_id=0,application_id=42~hmac=21c47eddf83b48c7db0253eacbbbe84edcc4a5a8e84efd0904e7ec6af31c726a",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Take Your Time",
+            "length": "7:29",
+            "deezer": {
+              "id": 24949781,
+              "link": "https://www.deezer.com/track/24949781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/e/0/00e60481aa472d489de03a6491dd685e.mp3?hdnea=exp=1795718124~acl=/api/1/1/0/0/e/0/00e60481aa472d489de03a6491dd685e.mp3*~data=user_id=0,application_id=42~hmac=b92a5b2e06fb53e7f6c6597a27422324bf2d70b250d7ffbacb52b36bff674b4f",
+              "preview_expires": "2026-11-26T18:35:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lynyrd Skynyrd/Second Helping.jpg"
+}

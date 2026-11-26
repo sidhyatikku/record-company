@@ -1,0 +1,51 @@
+{
+  "title": "Bore Bore",
+  "artist": "Karma & Sez on the Beat",
+  "year": 2025,
+  "release_date": "2025-10-14",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5563db2d-f7b8-492c-9694-948a9007711d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/833228171"
+  },
+  "musicbrainz_id": "5563db2d-f7b8-492c-9694-948a9007711d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/84570daf-e63e-4ef4-b9c0-40043421aa83",
+      "barcode": "5026854091556",
+      "title": "Bore Bore",
+      "disambiguation": null,
+      "date": "2025-10-14",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bore Bore",
+            "length": "2:57",
+            "deezer": {
+              "id": 3588684451,
+              "link": "https://www.deezer.com/track/3588684451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b792696f0aedd7f2b8fdfa3a7f0f09d.mp3?hdnea=exp=1795655950~acl=/api/1/1/7/b/7/0/7b792696f0aedd7f2b8fdfa3a7f0f09d.mp3*~data=user_id=0,application_id=42~hmac=b0634b2c32b57e6091f038f25a1fcdfb4ca4ec1d3f8055589ca8fc0bab3903b3",
+              "preview_expires": "2026-11-26T01:19:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karma/Bore Bore.jpg"
+}

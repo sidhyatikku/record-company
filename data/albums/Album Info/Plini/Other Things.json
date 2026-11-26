@@ -1,0 +1,97 @@
+{
+  "title": "Other Things",
+  "artist": "Plini",
+  "year": 2013,
+  "release_date": "2013-03-11",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "progressive metal",
+    "djent",
+    "jazz",
+    "jazz fusion",
+    "metal",
+    "progressive",
+    "progressive rock",
+    "rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "djent",
+    "fusion",
+    "jazz",
+    "jazz fusion",
+    "metal",
+    "progressive",
+    "progressive rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.75,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e1db894f-4b75-4e31-8b46-75dfd8297dd5",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1453621",
+    "deezer": "https://www.deezer.com/album/221642372"
+  },
+  "musicbrainz_id": "e1db894f-4b75-4e31-8b46-75dfd8297dd5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ee4fa9c2-cfae-4f01-a034-c6b23fccb980",
+      "barcode": "859709782072",
+      "title": "Other Things",
+      "disambiguation": null,
+      "date": "2013-03-11",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "12:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Heart",
+            "length": "3:39",
+            "deezer": {
+              "id": 1333998612,
+              "link": "https://www.deezer.com/track/1333998612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/5/0/fa5a11e3318020d163566dd0196b5842.mp3?hdnea=exp=1795719558~acl=/api/1/1/f/a/5/0/fa5a11e3318020d163566dd0196b5842.mp3*~data=user_id=0,application_id=42~hmac=2536ecd7d30f394aaa83d3fa1a82da86bd80241787ba62c0728900b6f75efd8c",
+              "preview_expires": "2026-11-26T18:59:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Other Things",
+            "length": "3:03",
+            "deezer": {
+              "id": 1333998622,
+              "link": "https://www.deezer.com/track/1333998622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/a/0/d8af79e6469243aa75cc7c4a9bfa5c83.mp3?hdnea=exp=1795719558~acl=/api/1/1/d/8/a/0/d8af79e6469243aa75cc7c4a9bfa5c83.mp3*~data=user_id=0,application_id=42~hmac=b3fa4779ce8e6012bf9e4f8c21e1a92c3cf9c277f031b5d34d6b3e844989af20",
+              "preview_expires": "2026-11-26T18:59:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Selenium Forest",
+            "length": "6:05",
+            "deezer": {
+              "id": 1333998632,
+              "link": "https://www.deezer.com/track/1333998632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/8/0/d38bb752370f134be93c40889ce6e54d.mp3?hdnea=exp=1795719558~acl=/api/1/1/d/3/8/0/d38bb752370f134be93c40889ce6e54d.mp3*~data=user_id=0,application_id=42~hmac=57f240ba6323ac339a20d1745c902198853c9ec8bb68da4dbc60c76ffab2e919",
+              "preview_expires": "2026-11-26T18:59:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Plini/Other Things.jpg"
+}

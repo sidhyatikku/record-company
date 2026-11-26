@@ -1,0 +1,220 @@
+{
+  "title": "Time",
+  "artist": "Mr.Kitty",
+  "year": 2014,
+  "release_date": "2014-07-08",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "new wave",
+    "pop",
+    "synth-pop"
+  ],
+  "tags": [
+    "electronic",
+    "indie",
+    "new wave",
+    "pop",
+    "synth-pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/153a7696-e9fa-48c6-a624-fb8bd3ed222f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/14556456"
+  },
+  "musicbrainz_id": "153a7696-e9fa-48c6-a624-fb8bd3ed222f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/09ae0c03-dfd1-444c-84a8-96870774b324",
+      "barcode": "616450974909",
+      "title": "Time",
+      "disambiguation": null,
+      "date": "2014-10-06",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "59:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "XIII",
+            "length": "3:36",
+            "deezer": {
+              "id": 136145484,
+              "link": "https://www.deezer.com/track/136145484",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/0/0/950f5b5db0b882a6eb65bbf41f165f82.mp3?hdnea=exp=1795718616~acl=/api/1/1/9/5/0/0/950f5b5db0b882a6eb65bbf41f165f82.mp3*~data=user_id=0,application_id=42~hmac=ac1298db70d4f9993b8ff4d8d6ca371a7e95035213f0cd3d41afafc408457bd1",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rats",
+            "length": "3:29",
+            "deezer": {
+              "id": 136145486,
+              "link": "https://www.deezer.com/track/136145486",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/1/0/d61951117d783d0705890caebd53fdad.mp3?hdnea=exp=1795718616~acl=/api/1/1/d/6/1/0/d61951117d783d0705890caebd53fdad.mp3*~data=user_id=0,application_id=42~hmac=ac9f013ab128c54a28ef8aa87a8a994067b7a03467927a42df6e81d2a2d41316",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Glow",
+            "length": "3:45",
+            "deezer": {
+              "id": 136145488,
+              "link": "https://www.deezer.com/track/136145488",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/4/0/d043a2b125c16275a9280d221c9e26f7.mp3?hdnea=exp=1795718616~acl=/api/1/1/d/0/4/0/d043a2b125c16275a9280d221c9e26f7.mp3*~data=user_id=0,application_id=42~hmac=cd36cafaa68c42ab1d624198fc72183c7352755495598bf0257046927c3d6d17",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hollow",
+            "length": "4:12",
+            "deezer": {
+              "id": 136145490,
+              "link": "https://www.deezer.com/track/136145490",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/2/0/5d2fa22e2cd58ec459a70df34d2e9984.mp3?hdnea=exp=1795718616~acl=/api/1/1/5/d/2/0/5d2fa22e2cd58ec459a70df34d2e9984.mp3*~data=user_id=0,application_id=42~hmac=24ec686f6e63513a6e4ab08c7787e17737efeb1e052bbaf2fb5e9e44be15548c",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Devour",
+            "length": "4:13",
+            "deezer": {
+              "id": 136145492,
+              "link": "https://www.deezer.com/track/136145492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/9/0/1f9ef026d59c25d84517ea9d547e0c7b.mp3?hdnea=exp=1795718616~acl=/api/1/1/1/f/9/0/1f9ef026d59c25d84517ea9d547e0c7b.mp3*~data=user_id=0,application_id=42~hmac=2c915450c903abd8954a831d555fc47cb57867b5757bf712bbbe63a10bd25148",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Neglect",
+            "length": "3:36",
+            "deezer": {
+              "id": 136145494,
+              "link": "https://www.deezer.com/track/136145494",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/e/0/d8e87488acdd63330d086a77c3a9c710.mp3?hdnea=exp=1795718616~acl=/api/1/1/d/8/e/0/d8e87488acdd63330d086a77c3a9c710.mp3*~data=user_id=0,application_id=42~hmac=961716b62da3cded42499c3ad42c86db19b8cf6cb84fc2f801d0bf2c3d57cef9",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Serenity",
+            "length": "4:06",
+            "deezer": {
+              "id": 136145496,
+              "link": "https://www.deezer.com/track/136145496",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e535c64ff17c56959939f66df5e56ecd.mp3?hdnea=exp=1795718616~acl=/api/1/1/e/5/3/0/e535c64ff17c56959939f66df5e56ecd.mp3*~data=user_id=0,application_id=42~hmac=0793d98c8074e4d099017428f8a0bfefa66461e6e3ff1fdfdb7c477b18e38626",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Pathogen",
+            "length": "3:20",
+            "deezer": {
+              "id": 136145498,
+              "link": "https://www.deezer.com/track/136145498",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/a/0/fba8e59b4577b0156d2c39559829651e.mp3?hdnea=exp=1795718616~acl=/api/1/1/f/b/a/0/fba8e59b4577b0156d2c39559829651e.mp3*~data=user_id=0,application_id=42~hmac=331b3de3c5dfa023d8de7ad2c8f0b4e506a364fc58090f33b2a69b02814ae0e6",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "After Dark",
+            "length": "4:19",
+            "deezer": {
+              "id": 136145500,
+              "link": "https://www.deezer.com/track/136145500",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/1/0/c11bc7c30dd643b9c2ac965c80ab1717.mp3?hdnea=exp=1795718616~acl=/api/1/1/c/1/1/0/c11bc7c30dd643b9c2ac965c80ab1717.mp3*~data=user_id=0,application_id=42~hmac=032563282fbeadbd7aafcd0fbe97d0f470a0cccb136239ad7d83832a075dd70b",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Laceration",
+            "length": "3:40",
+            "deezer": {
+              "id": 136145502,
+              "link": "https://www.deezer.com/track/136145502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/1/0/6f1956a9ee713d38feee60371d6c2b08.mp3?hdnea=exp=1795718616~acl=/api/1/1/6/f/1/0/6f1956a9ee713d38feee60371d6c2b08.mp3*~data=user_id=0,application_id=42~hmac=bf434ea0b4449c8f00615111bda1d691a65dd2ad99e2117664f11d7eb2098f05",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Black Truth",
+            "length": "3:50",
+            "deezer": {
+              "id": 136145504,
+              "link": "https://www.deezer.com/track/136145504",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f9867ba05fcb6d87d34335594f88e4da.mp3?hdnea=exp=1795718616~acl=/api/1/1/f/9/8/0/f9867ba05fcb6d87d34335594f88e4da.mp3*~data=user_id=0,application_id=42~hmac=76b219d25ca846fdc697c1b3243bc2a8a7252c3d32a4f3b33abff3b71103b2aa",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Into Nothing",
+            "length": "4:29",
+            "deezer": {
+              "id": 136145506,
+              "link": "https://www.deezer.com/track/136145506",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/7/0/0e7b98d9fe13af5168e976cdb739bdd9.mp3?hdnea=exp=1795718616~acl=/api/1/1/0/e/7/0/0e7b98d9fe13af5168e976cdb739bdd9.mp3*~data=user_id=0,application_id=42~hmac=3da66cbdc998316828ae7a7d92051a0c0fe801f8ee18977ec31a45799b4d127a",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Hold Me Down",
+            "length": "3:57",
+            "deezer": {
+              "id": 136145508,
+              "link": "https://www.deezer.com/track/136145508",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/6/0/4b68e286c42b0f123e9a2e7aa438b995.mp3?hdnea=exp=1795718616~acl=/api/1/1/4/b/6/0/4b68e286c42b0f123e9a2e7aa438b995.mp3*~data=user_id=0,application_id=42~hmac=3cccb7922809caa533e3c995bdc9058168ef02de61aa7558e79f75faf98ea9e0",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Shadow Dancer",
+            "length": "4:15",
+            "deezer": {
+              "id": 136145510,
+              "link": "https://www.deezer.com/track/136145510",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/f/0/22f4234fae229c6f5fcd76bf3799b889.mp3?hdnea=exp=1795718616~acl=/api/1/1/2/2/f/0/22f4234fae229c6f5fcd76bf3799b889.mp3*~data=user_id=0,application_id=42~hmac=8a53cba115ff7375bec578b4fa4c14c8c5f905a181e341e9189950f997d82932",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Child of the Earth",
+            "length": "4:14",
+            "deezer": {
+              "id": 136145512,
+              "link": "https://www.deezer.com/track/136145512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/e/0/5ae7f326e1f69bb15a6856ec8fc149c2.mp3?hdnea=exp=1795718616~acl=/api/1/1/5/a/e/0/5ae7f326e1f69bb15a6856ec8fc149c2.mp3*~data=user_id=0,application_id=42~hmac=b21a80319e29c440f7510fe9ef4d963983b5f475d9b2b9fbab784a338aeed29f",
+              "preview_expires": "2026-11-26T18:43:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mr.Kitty/Time.png"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "NOW IT'S GONE",
+  "artist": "In Parallel",
+  "year": 2024,
+  "release_date": "2024-10-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5f7e2084-b434-4eed-a0dd-ad58147a9efa",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/654389941"
+  },
+  "musicbrainz_id": "5f7e2084-b434-4eed-a0dd-ad58147a9efa",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/04a087a1-4076-47de-bd0c-76ad136bab1a",
+      "barcode": "797885461964",
+      "title": "NOW IT'S GONE",
+      "disambiguation": null,
+      "date": "2024-10-17",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "NOW IT'S GONE",
+            "length": "2:23",
+            "deezer": {
+              "id": 3037846761,
+              "link": "https://www.deezer.com/track/3037846761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/5/0/025d3420648258ef2da7faf17627e964.mp3?hdnea=exp=1795655203~acl=/api/1/1/0/2/5/0/025d3420648258ef2da7faf17627e964.mp3*~data=user_id=0,application_id=42~hmac=375b47dfda4ffb5ffcb2e1ae9f1c650d8ee856a1a8cbd388650cd38384ed621a",
+              "preview_expires": "2026-11-26T01:06:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/IN PARALLEL/NOW IT'S GONE.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "The Perfect Girl (The Motion retrowave remix)",
+  "artist": "Mareux",
+  "year": 2022,
+  "release_date": "2022-05-16",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/254a48e6-6ba4-446c-a326-cac0d7ca067b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/318311977"
+  },
+  "musicbrainz_id": "254a48e6-6ba4-446c-a326-cac0d7ca067b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9cd7bf00-1f8e-4dc8-bac8-40371f8864c7",
+      "barcode": "054391890030",
+      "title": "The Perfect Girl (The Motion retrowave remix)",
+      "disambiguation": null,
+      "date": "2022-05-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Perfect Girl (The Motion retrowave remix)",
+            "length": "3:01",
+            "deezer": {
+              "id": 1750100907,
+              "link": "https://www.deezer.com/track/1750100907",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/e/0/e1e966f245fe10d534b5fa4733948a18.mp3?hdnea=exp=1795718234~acl=/api/1/1/e/1/e/0/e1e966f245fe10d534b5fa4733948a18.mp3*~data=user_id=0,application_id=42~hmac=efcd35f9f64992ae49c0a86b3c6618d1cbee6b8e94683357e4c9dbc230b50215",
+              "preview_expires": "2026-11-26T18:37:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mareux/The Perfect Girl (The Motion Retrowave Remix).jpg"
+}

@@ -1,0 +1,262 @@
+{
+  "title": "Begin The Beguine",
+  "artist": "Artie Shaw and His Orchestra",
+  "year": 1987,
+  "release_date": "1987",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "swing",
+    "big band",
+    "jazz"
+  ],
+  "tags": [
+    "swing",
+    "big band",
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f70b7105-f6e8-48cf-a57d-411bac869bb6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/121442"
+  },
+  "musicbrainz_id": "f70b7105-f6e8-48cf-a57d-411bac869bb6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/81c79c86-6ec2-4e39-acd3-a8ffa8054e42",
+      "barcode": "078635627428",
+      "title": "Begin The Beguine",
+      "disambiguation": null,
+      "date": "1987",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "1:05:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nightmare",
+            "length": "2:47",
+            "deezer": {
+              "id": 1131210,
+              "link": "https://www.deezer.com/track/1131210",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/9/0/4f9ac082836c676bdc252d7e5c4426d0.mp3?hdnea=exp=1795651704~acl=/api/1/1/4/f/9/0/4f9ac082836c676bdc252d7e5c4426d0.mp3*~data=user_id=0,application_id=42~hmac=a6b249600035b4445ea5a339d9d1ccc237e9ebe950976b7d008051610982d38c",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Indian Love Call",
+            "length": "3:06",
+            "deezer": {
+              "id": 1131211,
+              "link": "https://www.deezer.com/track/1131211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/1/0/7c163d8141db199dcfcac6f730ea71a4.mp3?hdnea=exp=1795651704~acl=/api/1/1/7/c/1/0/7c163d8141db199dcfcac6f730ea71a4.mp3*~data=user_id=0,application_id=42~hmac=5c4a1fdb1639e7c563a63b6497616deafcb5926d7cf8484189142af0fad3394b",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Back Bay Shuffle",
+            "length": "3:10",
+            "deezer": {
+              "id": 1131212,
+              "link": "https://www.deezer.com/track/1131212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/3/0/7c39f30603cb5dae297ca6ac83451673.mp3?hdnea=exp=1795651704~acl=/api/1/1/7/c/3/0/7c39f30603cb5dae297ca6ac83451673.mp3*~data=user_id=0,application_id=42~hmac=f5c6203892a1ea2bf4af8ab716b8cdf617c366110b14d43822c8c58d4584332b",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Any Old Time",
+            "length": "3:09",
+            "deezer": {
+              "id": 1131527,
+              "link": "https://www.deezer.com/track/1131527",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/9/0/769585e63002b8d19f554a17f4e0240b.mp3?hdnea=exp=1795651704~acl=/api/1/1/7/6/9/0/769585e63002b8d19f554a17f4e0240b.mp3*~data=user_id=0,application_id=42~hmac=67db016548bf2abded0d2eb1dc1b5f1fa3923dcbd195c10e2319a615d28bd889",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Traffic Jam",
+            "length": "2:12",
+            "deezer": {
+              "id": 1131445,
+              "link": "https://www.deezer.com/track/1131445",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/3/0/7936035015f261989d07311a7660ebef.mp3?hdnea=exp=1795651704~acl=/api/1/1/7/9/3/0/7936035015f261989d07311a7660ebef.mp3*~data=user_id=0,application_id=42~hmac=930cc9e6e540f0a77c594d51bce0cfc24e31d4e55701f17ddcc59e909c5fcad1",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Comes Love",
+            "length": "3:13",
+            "deezer": {
+              "id": 1131213,
+              "link": "https://www.deezer.com/track/1131213",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/0/0/df08bfd06da4b7757b9aa9374beb1886.mp3?hdnea=exp=1795651704~acl=/api/1/1/d/f/0/0/df08bfd06da4b7757b9aa9374beb1886.mp3*~data=user_id=0,application_id=42~hmac=90d6deb866b2f26a0968a5915bfc7544923d1163d5f1a5305407c3de16600f85",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "What Is This Thing Called Love?",
+            "length": "3:13",
+            "deezer": {
+              "id": 1131214,
+              "link": "https://www.deezer.com/track/1131214",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/c/0/14c7d6ceb39accb0fc0445842b376720.mp3?hdnea=exp=1795651704~acl=/api/1/1/1/4/c/0/14c7d6ceb39accb0fc0445842b376720.mp3*~data=user_id=0,application_id=42~hmac=ffe6069114c32f1585c879414ac0d31685a0a640d1dda33957ce9110c613483a",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Begin The Beguine",
+            "length": "3:11",
+            "deezer": {
+              "id": 1131215,
+              "link": "https://www.deezer.com/track/1131215",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/8/0/7283699e54a751f57ce250e7af04d91b.mp3?hdnea=exp=1795651704~acl=/api/1/1/7/2/8/0/7283699e54a751f57ce250e7af04d91b.mp3*~data=user_id=0,application_id=42~hmac=cc8388751b4f2f8e52f0e527fcda1f3cc750649d01744563abd90db5ec73087a",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Oh! Lady Be Good",
+            "length": "3:05",
+            "deezer": {
+              "id": 1131529,
+              "link": "https://www.deezer.com/track/1131529",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/7/0/367d1fd3d87e88c71f0c515e5703ccd4.mp3?hdnea=exp=1795651704~acl=/api/1/1/3/6/7/0/367d1fd3d87e88c71f0c515e5703ccd4.mp3*~data=user_id=0,application_id=42~hmac=14865a824824004f19a9031b7f84458e4828ac8c4206f238b707a1aa1b924029",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Frenesi",
+            "length": "3:01",
+            "deezer": {
+              "id": 1131216,
+              "link": "https://www.deezer.com/track/1131216",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/0/0/000275f1d808ed979eb7fcbe000f4da0.mp3?hdnea=exp=1795651704~acl=/api/1/1/0/0/0/0/000275f1d808ed979eb7fcbe000f4da0.mp3*~data=user_id=0,application_id=42~hmac=a11d3fe207d95c1bc9f1bf94db270644deb5d9bf662ecbeffe972400534f129d",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Serenade To A Savage",
+            "length": "2:28",
+            "deezer": {
+              "id": 1131217,
+              "link": "https://www.deezer.com/track/1131217",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/9/0/9a9c6001f93ecace420e210a50cdd638.mp3?hdnea=exp=1795651704~acl=/api/1/1/9/a/9/0/9a9c6001f93ecace420e210a50cdd638.mp3*~data=user_id=0,application_id=42~hmac=1f806496c42d7df7d3777631cc82d6b9486d8b4b184f2cfe7bbbe4296bd5ee05",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Deep Purple",
+            "length": "3:09",
+            "deezer": {
+              "id": 1131531,
+              "link": "https://www.deezer.com/track/1131531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/e/0/aee016d46cd50c427a80d63817d843e0.mp3?hdnea=exp=1795651704~acl=/api/1/1/a/e/e/0/aee016d46cd50c427a80d63817d843e0.mp3*~data=user_id=0,application_id=42~hmac=b5a495f662107fdf1ee104ae1156a4c65599e9fb231d27c09076dc26ba3dd32c",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Special Delivery Stomp",
+            "length": "2:41",
+            "deezer": {
+              "id": 1131218,
+              "link": "https://www.deezer.com/track/1131218",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/f/0/cdfa6a428b1d24a9a43749170f08c02d.mp3?hdnea=exp=1795651704~acl=/api/1/1/c/d/f/0/cdfa6a428b1d24a9a43749170f08c02d.mp3*~data=user_id=0,application_id=42~hmac=6c340f546040e7a622d594601f79054faeea77e8dc7b5344960b15281a0724f4",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Summit Ridge Drive",
+            "length": "3:20",
+            "deezer": {
+              "id": 1131219,
+              "link": "https://www.deezer.com/track/1131219",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/8/0/f180f2c24fb49c71ec3e4b69e302e546.mp3?hdnea=exp=1795651704~acl=/api/1/1/f/1/8/0/f180f2c24fb49c71ec3e4b69e302e546.mp3*~data=user_id=0,application_id=42~hmac=00f131e666a516329f2988b67ac6f697d898b17316f10a6821c07f8f36058651",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Temptation",
+            "length": "3:02",
+            "deezer": {
+              "id": 1131220,
+              "link": "https://www.deezer.com/track/1131220",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/7/0/c67467472e9c04565f98f0a1f35ff522.mp3?hdnea=exp=1795651704~acl=/api/1/1/c/6/7/0/c67467472e9c04565f98f0a1f35ff522.mp3*~data=user_id=0,application_id=42~hmac=6881ed7c8f1ec5ccd8c631d321c15639f0ec5a72d4f1a0b212c54e7c72ff61a8",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Star Dust",
+            "length": "3:30",
+            "deezer": {
+              "id": 1131533,
+              "link": "https://www.deezer.com/track/1131533",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/a/0/f4a251c34835404303c8cfa9a4dcbdeb.mp3?hdnea=exp=1795651704~acl=/api/1/1/f/4/a/0/f4a251c34835404303c8cfa9a4dcbdeb.mp3*~data=user_id=0,application_id=42~hmac=71a7f1bcbcf85b0490de333ed36622168df12b7926266bf8c58d059ba97f0892",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Blues (Parts 1 & 2)",
+            "length": "6:21"
+          },
+          {
+            "number": "18",
+            "title": "Moonglow",
+            "length": "3:25",
+            "deezer": {
+              "id": 1131222,
+              "link": "https://www.deezer.com/track/1131222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/5/0/2a59bba50b332e473b5e5ff36a2372a0.mp3?hdnea=exp=1795651704~acl=/api/1/1/2/a/5/0/2a59bba50b332e473b5e5ff36a2372a0.mp3*~data=user_id=0,application_id=42~hmac=c86e7b36ba58b85169d2d86ab53746bc0b1c1adbf245eebb987a9a0904642491",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Moon Ray",
+            "length": "3:03",
+            "deezer": {
+              "id": 1131448,
+              "link": "https://www.deezer.com/track/1131448",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/1/0/fe173bae98b1c4423c98b8839a1c13a6.mp3?hdnea=exp=1795651704~acl=/api/1/1/f/e/1/0/fe173bae98b1c4423c98b8839a1c13a6.mp3*~data=user_id=0,application_id=42~hmac=62dda03f8d53c4e102f6496642ad0a744149f57fa3034f97d9c104341b7d95e2",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "The Carioca",
+            "length": "4:03",
+            "deezer": {
+              "id": 1131223,
+              "link": "https://www.deezer.com/track/1131223",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/3/0/863dfd5314d3527e958c77449847c373.mp3?hdnea=exp=1795651704~acl=/api/1/1/8/6/3/0/863dfd5314d3527e958c77449847c373.mp3*~data=user_id=0,application_id=42~hmac=7365f98d830a80184514bd3519ac906d2715533249e0ef4ccf5ad6d8142ffd13",
+              "preview_expires": "2026-11-26T00:08:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Artie Shaw/Begin The Beguine.jpg"
+}

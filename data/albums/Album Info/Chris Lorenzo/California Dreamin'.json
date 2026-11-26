@@ -1,0 +1,58 @@
+{
+  "title": "California Dreamin'",
+  "artist": "Chris Lorenzo feat. High Jinx",
+  "year": 2021,
+  "release_date": "2021-10-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance",
+    "tech house"
+  ],
+  "tags": [
+    "dance",
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ed2b3015-d820-4d91-b89e-c87fe56b61b9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/262576662"
+  },
+  "musicbrainz_id": "ed2b3015-d820-4d91-b89e-c87fe56b61b9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9b5048f8-7ca6-43d2-847f-c5585599b0ca",
+      "barcode": "00602438961955",
+      "title": "California Dreamin'",
+      "disambiguation": "original mix",
+      "date": "2021-10-08",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "California Dreamin'",
+            "length": "3:17",
+            "artist": "Chris Lorenzo ft. High Jinx",
+            "deezer": {
+              "id": 1509535182,
+              "link": "https://www.deezer.com/track/1509535182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/c/0/acc2582a598e68d31236592b1ef9a9f6.mp3?hdnea=exp=1795652808~acl=/api/1/1/a/c/c/0/acc2582a598e68d31236592b1ef9a9f6.mp3*~data=user_id=0,application_id=42~hmac=3ccc277f4821c9c8780f448be83c1b2e9968a505b03396509af40cb9473447ce",
+              "preview_expires": "2026-11-26T00:26:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chris Lorenzo/California Dreamin'.jpg"
+}

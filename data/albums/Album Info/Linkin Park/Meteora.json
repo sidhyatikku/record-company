@@ -1,0 +1,266 @@
+{
+  "title": "Meteora",
+  "artist": "Linkin Park",
+  "year": 2003,
+  "release_date": "2003-03-24",
+  "type": "Album",
+  "description": "Meteora is the second studio album by American rock band Linkin Park, released on March 25, 2003, through Warner Bros. Records. It followed Reanimation, a collaboration album which featured remixes of songs included on their 2000 debut studio album Hybrid Theory. The album was produced by the band alongside Don Gilmore. The title Meteora is taken from the Greek Orthodox monasteries originally bearing the name. Meteora has a similar sound to Hybrid Theory, as described by critics, and the album took almost a year to be recorded. It is the first Linkin Park studio album to feature bassist Dave \"Phoenix\" Farrell after he rejoined the band in 2000 following his temporary touring with other bands.",
+  "genres": [
+    "nu metal",
+    "alternative metal",
+    "alternative rock",
+    "rap rock",
+    "rap metal",
+    "electronic",
+    "rock",
+    "alternative pop",
+    "heavy metal",
+    "metal",
+    "pop",
+    "post-grunge",
+    "post-industrial",
+    "rapcore"
+  ],
+  "tags": [
+    "nu metal",
+    "alternative metal",
+    "alternative rock",
+    "rap rock",
+    "rap metal",
+    "electronic",
+    "rock",
+    "alternative and punk",
+    "alternative",
+    "alternative pop",
+    "alternative/indie rock",
+    "energetic",
+    "heavy metal",
+    "introspective",
+    "jahrescharts 2024",
+    "laut.de",
+    "lonely",
+    "melancholic",
+    "melodic",
+    "metal",
+    "passionate",
+    "pop",
+    "post-grunge",
+    "post-industrial",
+    "rapcore",
+    "rebellious",
+    "urban"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 47
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/09474d62-17dd-3a4f-98fb-04c65f38a479",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meteora_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000020746",
+    "discogs": "https://www.discogs.com/master/74533",
+    "wikidata": "https://www.wikidata.org/wiki/Q19858",
+    "deezer": "https://www.deezer.com/album/102192"
+  },
+  "musicbrainz_id": "09474d62-17dd-3a4f-98fb-04c65f38a479",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a41c04e9-136b-4ef0-8556-1abad0453a88",
+      "barcode": "093624449362",
+      "title": "Meteora",
+      "disambiguation": "bonus edition",
+      "date": "2006-08-29",
+      "country": null
+    },
+    "total_tracks": 16,
+    "total_length": "46:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Foreword",
+            "length": "0:13",
+            "deezer": {
+              "id": 904587,
+              "link": "https://www.deezer.com/track/904587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/7/0/717f9db1d4cd21fbff9429ae7d5077f6.mp3?hdnea=exp=1795656539~acl=/api/1/1/7/1/7/0/717f9db1d4cd21fbff9429ae7d5077f6.mp3*~data=user_id=0,application_id=42~hmac=c3ade21a4d2f3834a916bb659f5848d3881fc805d313055efcc2ffd06e301f22",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Don’t Stay",
+            "length": "3:08",
+            "deezer": {
+              "id": 904588,
+              "link": "https://www.deezer.com/track/904588",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/3/0/893158e9e533d955d94def003a4bb3d1.mp3?hdnea=exp=1795656539~acl=/api/1/1/8/9/3/0/893158e9e533d955d94def003a4bb3d1.mp3*~data=user_id=0,application_id=42~hmac=f3aa8bfae1e9e1c299215e156713b2d6c97460f992cb1893628adebd1aa5ddb7",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Somewhere I Belong",
+            "length": "3:34",
+            "deezer": {
+              "id": 904589,
+              "link": "https://www.deezer.com/track/904589",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/7/0/70748cd9030247f2f9063820bc1e5017.mp3?hdnea=exp=1795656539~acl=/api/1/1/7/0/7/0/70748cd9030247f2f9063820bc1e5017.mp3*~data=user_id=0,application_id=42~hmac=3df930fd08a5ee4f253827018c386f79e617fcb121f11f3e978862423d0c555d",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Lying from You",
+            "length": "2:55",
+            "deezer": {
+              "id": 904590,
+              "link": "https://www.deezer.com/track/904590",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/2/0/d2252ff4b9536eae31bfbdd862ccc9cd.mp3?hdnea=exp=1795656539~acl=/api/1/1/d/2/2/0/d2252ff4b9536eae31bfbdd862ccc9cd.mp3*~data=user_id=0,application_id=42~hmac=b27a99f15da6da4d8e0cc59f84a8eb0e99d69e35b38405a6b21a3a0e0ee6b637",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hit the Floor",
+            "length": "2:44",
+            "deezer": {
+              "id": 904591,
+              "link": "https://www.deezer.com/track/904591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/5/0/565f57d2dfcb73390022d89fcc9176a3.mp3?hdnea=exp=1795656539~acl=/api/1/1/5/6/5/0/565f57d2dfcb73390022d89fcc9176a3.mp3*~data=user_id=0,application_id=42~hmac=18eebc0ee9ec39a157cc96e5f5b9328a8d61a59fbd45ac04a8043f5c5aaeac5e",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Easier to Run",
+            "length": "3:24",
+            "deezer": {
+              "id": 904592,
+              "link": "https://www.deezer.com/track/904592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/3/0/1431952d29234b66e546df29646c0ad1.mp3?hdnea=exp=1795656539~acl=/api/1/1/1/4/3/0/1431952d29234b66e546df29646c0ad1.mp3*~data=user_id=0,application_id=42~hmac=da4730423b66ed6d949d209eded7a5c7a1b07a9dc8d9ffcb9f8d702e87147ee2",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Faint",
+            "length": "2:43",
+            "deezer": {
+              "id": 904593,
+              "link": "https://www.deezer.com/track/904593",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/7/0/0377f1a5f8b1dd2dbd4aa7b3c0803f05.mp3?hdnea=exp=1795656539~acl=/api/1/1/0/3/7/0/0377f1a5f8b1dd2dbd4aa7b3c0803f05.mp3*~data=user_id=0,application_id=42~hmac=14a6c2de028a014f6f23ee916da59768a22f0ed9989a45d6ef33a192a665aee7",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Figure.09",
+            "length": "3:18",
+            "deezer": {
+              "id": 904594,
+              "link": "https://www.deezer.com/track/904594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/9/0/6996061b8545e6fd977e59a258c2929f.mp3?hdnea=exp=1795656539~acl=/api/1/1/6/9/9/0/6996061b8545e6fd977e59a258c2929f.mp3*~data=user_id=0,application_id=42~hmac=625ddc4c3d333b69c189c9220cb81d7214d5e179dad468e42adfa21b477b1a88",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Breaking the Habit",
+            "length": "3:17",
+            "deezer": {
+              "id": 904595,
+              "link": "https://www.deezer.com/track/904595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/6/0/046d901f9aaa58a09571d81770610d4c.mp3?hdnea=exp=1795656539~acl=/api/1/1/0/4/6/0/046d901f9aaa58a09571d81770610d4c.mp3*~data=user_id=0,application_id=42~hmac=7d7bf464b602369c48612568ee0d1a4cb9b9ccaa3ffe1920249e8a81efc6ebc3",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "From the Inside",
+            "length": "2:54",
+            "deezer": {
+              "id": 904596,
+              "link": "https://www.deezer.com/track/904596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/d/0/47daed52ac560f7dd531cf9fca07112c.mp3?hdnea=exp=1795656539~acl=/api/1/1/4/7/d/0/47daed52ac560f7dd531cf9fca07112c.mp3*~data=user_id=0,application_id=42~hmac=8981762a833057676c2230f1eafea04750e2148f149f3e39a3ec05ae74257d6e",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Nobody’s Listening",
+            "length": "2:59",
+            "deezer": {
+              "id": 904597,
+              "link": "https://www.deezer.com/track/904597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/c/0/76c801e139d29cb1ec955b9e6665e0d8.mp3?hdnea=exp=1795656539~acl=/api/1/1/7/6/c/0/76c801e139d29cb1ec955b9e6665e0d8.mp3*~data=user_id=0,application_id=42~hmac=0fa43a43f9ae0be8679a9a9b3ec24a49be8d7a962e8fef56b83eaf8c933cc82c",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Session",
+            "length": "2:24",
+            "deezer": {
+              "id": 904598,
+              "link": "https://www.deezer.com/track/904598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/4/0/3c4ec48f130c928f183880a1d2d51851.mp3?hdnea=exp=1795656539~acl=/api/1/1/3/c/4/0/3c4ec48f130c928f183880a1d2d51851.mp3*~data=user_id=0,application_id=42~hmac=213b2c70cf3549cf9139c11152e958023a9ad3a54fd9475a686681d5f3297f74",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Numb",
+            "length": "3:06",
+            "deezer": {
+              "id": 904599,
+              "link": "https://www.deezer.com/track/904599",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/b/0/42b05e42e6f684b6a2de860831cfa91a.mp3?hdnea=exp=1795656539~acl=/api/1/1/4/2/b/0/42b05e42e6f684b6a2de860831cfa91a.mp3*~data=user_id=0,application_id=42~hmac=a90b503d9f4006aad8b94acfe2c62b4ebc4c74d8149168097bf8342eb110a448",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Lying from You (live LP Underground Tour 2003)",
+            "length": "3:04",
+            "deezer": {
+              "id": 904600,
+              "link": "https://www.deezer.com/track/904600",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/a/0/83a3e1cac07d340f2024ccb9170a0488.mp3?hdnea=exp=1795656539~acl=/api/1/1/8/3/a/0/83a3e1cac07d340f2024ccb9170a0488.mp3*~data=user_id=0,application_id=42~hmac=a185f7309964b2b88bc76e482d7606d0a674214fd3f70273f4a54b843a572c1d",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "From the Inside (live LP Underground Tour 2003)",
+            "length": "2:56",
+            "deezer": {
+              "id": 904601,
+              "link": "https://www.deezer.com/track/904601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/8/0/ff8357e1e2ea6b27051aa68bd9c2dbc6.mp3?hdnea=exp=1795656539~acl=/api/1/1/f/f/8/0/ff8357e1e2ea6b27051aa68bd9c2dbc6.mp3*~data=user_id=0,application_id=42~hmac=632164c417266cd996e0badab7e54923506dfe24ffad0ec4a239da5a1a29f5d2",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Easier to Run (live LP Underground Tour 2003)",
+            "length": "3:22",
+            "deezer": {
+              "id": 904602,
+              "link": "https://www.deezer.com/track/904602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/f/0/4df6c20d4fcaedb95f88e0cb224e37cb.mp3?hdnea=exp=1795656539~acl=/api/1/1/4/d/f/0/4df6c20d4fcaedb95f88e0cb224e37cb.mp3*~data=user_id=0,application_id=42~hmac=6a48da32fdb246ad18a814f7a8451c081d00f0442e64f921e153140357d474d4",
+              "preview_expires": "2026-11-26T01:28:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Linkin Park/Meteora.jpg"
+}

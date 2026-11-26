@@ -1,0 +1,155 @@
+{
+  "title": "Shiva Moon",
+  "artist": "Prem Joshua",
+  "year": 2003,
+  "release_date": "2003",
+  "type": "Album + Remix",
+  "description": null,
+  "genres": [
+    "ambient",
+    "downtempo",
+    "electronic",
+    "jungle",
+    "trance"
+  ],
+  "tags": [
+    "ambient",
+    "downtempo",
+    "electronic",
+    "jungle",
+    "trance"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/48e3d25f-43c2-3a15-9310-7fc6dfcb218b",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/116613",
+    "deezer": "https://www.deezer.com/album/115047132"
+  },
+  "musicbrainz_id": "48e3d25f-43c2-3a15-9310-7fc6dfcb218b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/69be7bcb-cb47-415e-b4c7-d5fe20ee6e79",
+      "barcode": "717147000229",
+      "title": "Shiva Moon",
+      "disambiguation": null,
+      "date": "2019-11-01",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "50:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Darbari NYC (Diamond Turban remix)",
+            "length": "6:58",
+            "deezer": {
+              "id": 776289352,
+              "link": "https://www.deezer.com/track/776289352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/b/0/75bf0e5d6c8f03e1d0fdc8e0a8871a75.mp3?hdnea=exp=1795719683~acl=/api/1/1/7/5/b/0/75bf0e5d6c8f03e1d0fdc8e0a8871a75.mp3*~data=user_id=0,application_id=42~hmac=49c70e993633dd66f977ff7040dc012f2588bb15a445e857fd2483541643ffc2",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shiva Moon (intro)",
+            "length": "1:36",
+            "deezer": {
+              "id": 776289362,
+              "link": "https://www.deezer.com/track/776289362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/7/0/1a7ccb1c4b2e9cf241d5d763dc555b01.mp3?hdnea=exp=1795719683~acl=/api/1/1/1/a/7/0/1a7ccb1c4b2e9cf241d5d763dc555b01.mp3*~data=user_id=0,application_id=42~hmac=97b7ab58d0528697ff6fd6bacc291e18feb91ac8304e739194a7cd6d09347722",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Shiva Moon (Moon Nectar remix)",
+            "length": "6:40",
+            "deezer": {
+              "id": 776289372,
+              "link": "https://www.deezer.com/track/776289372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d002ae464d7b8427e5cc5456574fd97.mp3?hdnea=exp=1795719683~acl=/api/1/1/0/d/0/0/0d002ae464d7b8427e5cc5456574fd97.mp3*~data=user_id=0,application_id=42~hmac=a66eadb302e50f4f7804d0af8ef5ee34c4b21af66f866e34a20d253635fa667e",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tangerine Thumri (Orange Turban mix)",
+            "length": "7:12",
+            "artist": "Prem Joshua feat. Maneesh de Moor",
+            "deezer": {
+              "id": 776289382,
+              "link": "https://www.deezer.com/track/776289382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/a/0/b6aa0d8bbce8dc843cd39b5443573157.mp3?hdnea=exp=1795719683~acl=/api/1/1/b/6/a/0/b6aa0d8bbce8dc843cd39b5443573157.mp3*~data=user_id=0,application_id=42~hmac=48ea08e6f49824ed34b62328f95d65e055b0d55f8af8e8057a2258201110580f",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bolo Hari (Bombay Lounge remix)",
+            "length": "5:53",
+            "deezer": {
+              "id": 776289392,
+              "link": "https://www.deezer.com/track/776289392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/c/0/3dcdafa18bc8565073160b48653ce5c2.mp3?hdnea=exp=1795719683~acl=/api/1/1/3/d/c/0/3dcdafa18bc8565073160b48653ce5c2.mp3*~data=user_id=0,application_id=42~hmac=ada236495d8ed1339e35ca3865fda7269ad5535b8681bcce8cb9bd46a390d3c7",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Tilang Tantra (Temple mix)",
+            "length": "5:25",
+            "artist": "Prem Joshua feat. Maneesh de Moor",
+            "deezer": {
+              "id": 776289402,
+              "link": "https://www.deezer.com/track/776289402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/d/0/d0db7d53d28e4be772d018ff2491c168.mp3?hdnea=exp=1795719683~acl=/api/1/1/d/0/d/0/d0db7d53d28e4be772d018ff2491c168.mp3*~data=user_id=0,application_id=42~hmac=d4776788f2455438f1809454415ab6d56ea3c6f063d2796d6a038f522af1ca61",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Saffron Dreams (Spice Shop remix)",
+            "length": "7:27",
+            "deezer": {
+              "id": 776289412,
+              "link": "https://www.deezer.com/track/776289412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/e/0/54e97a8a2bfda0dd45e3640f097fd4f2.mp3?hdnea=exp=1795719683~acl=/api/1/1/5/4/e/0/54e97a8a2bfda0dd45e3640f097fd4f2.mp3*~data=user_id=0,application_id=42~hmac=c225db8d82ec832342afec5989b157ccd7aa7517b535834df5f398869d83b875",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Omar (Purple Turban mix)",
+            "length": "4:32",
+            "artist": "Prem Joshua feat. Maneesh de Moor",
+            "deezer": {
+              "id": 776289422,
+              "link": "https://www.deezer.com/track/776289422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/e/0/f3e6ab5bf5e9f1abc8212b4d93259873.mp3?hdnea=exp=1795719683~acl=/api/1/1/f/3/e/0/f3e6ab5bf5e9f1abc8212b4d93259873.mp3*~data=user_id=0,application_id=42~hmac=bca20be9310cb524fd9e54a4606c0e22f8ee18900cfaab0a5e6a6662b44418c6",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Seventh Eclipse (Timbuktu remix)",
+            "length": "4:59",
+            "deezer": {
+              "id": 776289432,
+              "link": "https://www.deezer.com/track/776289432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/c/0/33c1c76216b65a4eb18f83c5595f5786.mp3?hdnea=exp=1795719683~acl=/api/1/1/3/3/c/0/33c1c76216b65a4eb18f83c5595f5786.mp3*~data=user_id=0,application_id=42~hmac=cf71b065cffe9b52d0bac7d19c38cdccbdae2ba7873b64d469022c25a948ebde",
+              "preview_expires": "2026-11-26T19:01:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Prem Joshua/Shiva Moon.jpg"
+}

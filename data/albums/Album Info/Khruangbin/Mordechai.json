@@ -1,0 +1,171 @@
+{
+  "title": "Mordechai",
+  "artist": "Khruangbin",
+  "year": 2020,
+  "release_date": "2020-06-26",
+  "type": "Album",
+  "description": "Mordechai is the third studio album by American musical trio Khruangbin. It was released June 26, 2020, under Dead Oceans and Night Time Stories.",
+  "genres": [
+    "funk",
+    "contemporary r&b",
+    "disco",
+    "neo-psychedelia",
+    "psychedelic",
+    "rock"
+  ],
+  "tags": [
+    "funk",
+    "contemporary r&b",
+    "disco",
+    "neo-psychedelia",
+    "psychedelic",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/53e6ec80-ddc7-4db8-80f8-5e081545c856",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mordechai_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003380594",
+    "discogs": "https://www.discogs.com/master/1727923",
+    "wikidata": "https://www.wikidata.org/wiki/Q97354467",
+    "deezer": "https://www.deezer.com/album/135203602"
+  },
+  "musicbrainz_id": "53e6ec80-ddc7-4db8-80f8-5e081545c856",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e34c6379-ed1e-49d4-a99b-7d44e7fc2675",
+      "barcode": "656605149363",
+      "title": "Mordechai",
+      "disambiguation": null,
+      "date": "2020-06-26",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "43:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "First Class",
+            "length": "4:46",
+            "deezer": {
+              "id": 898168142,
+              "link": "https://www.deezer.com/track/898168142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/9/0/789d8aedf62dd08e5db5782bde6b9a92.mp3?hdnea=exp=1795656162~acl=/api/1/1/7/8/9/0/789d8aedf62dd08e5db5782bde6b9a92.mp3*~data=user_id=0,application_id=42~hmac=997e382b3e79804c07ff69d659cd002c641f8450125f6da87aeee0f2c5b7e8ac",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Time (You and I)",
+            "length": "5:42",
+            "deezer": {
+              "id": 898168152,
+              "link": "https://www.deezer.com/track/898168152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/4/0/cf4be5ade8a1054f799dbaa01c471669.mp3?hdnea=exp=1795656162~acl=/api/1/1/c/f/4/0/cf4be5ade8a1054f799dbaa01c471669.mp3*~data=user_id=0,application_id=42~hmac=ff8b37cb15d283bc55714561a7388aed6c3dd59121ffc95fc8ac37fec509f7d0",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Connaissais de Face",
+            "length": "4:20",
+            "deezer": {
+              "id": 898168162,
+              "link": "https://www.deezer.com/track/898168162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/a/0/dca9eba43f81f0f9793ed268910ad4cb.mp3?hdnea=exp=1795656162~acl=/api/1/1/d/c/a/0/dca9eba43f81f0f9793ed268910ad4cb.mp3*~data=user_id=0,application_id=42~hmac=c18af3f6ce70128f3de22fea4e60bc684a3eed36f56ed7004c9d23b12245c010",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Father Bird, Mother Bird",
+            "length": "3:05",
+            "deezer": {
+              "id": 898168172,
+              "link": "https://www.deezer.com/track/898168172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/d/0/f3d79cd76d2e0bd0f7f4bca0f44e315a.mp3?hdnea=exp=1795656162~acl=/api/1/1/f/3/d/0/f3d79cd76d2e0bd0f7f4bca0f44e315a.mp3*~data=user_id=0,application_id=42~hmac=61a1ff172fb2019f7ce8da04c7adc1d59b9b343450757408ff907640ff2b10ce",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "If There Is No Question",
+            "length": "5:53",
+            "deezer": {
+              "id": 898168182,
+              "link": "https://www.deezer.com/track/898168182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/6/0/27627ef7a0205ea00373525f7051336a.mp3?hdnea=exp=1795656162~acl=/api/1/1/2/7/6/0/27627ef7a0205ea00373525f7051336a.mp3*~data=user_id=0,application_id=42~hmac=8894eec5ae143a7693a492bd31ffecccb0c1060495c6718727c6b892b632f458",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Pelota",
+            "length": "2:47",
+            "deezer": {
+              "id": 898168192,
+              "link": "https://www.deezer.com/track/898168192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/1/0/1816335c01fdecfc696d9db3c54df624.mp3?hdnea=exp=1795656162~acl=/api/1/1/1/8/1/0/1816335c01fdecfc696d9db3c54df624.mp3*~data=user_id=0,application_id=42~hmac=bb6d8ec42236043f70064849851a58bc77b8c123af391e11f31d8b5cd2ce13eb",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "One to Remember",
+            "length": "4:30",
+            "deezer": {
+              "id": 898168202,
+              "link": "https://www.deezer.com/track/898168202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/4/0/8f4c8489ea588cad63262f9d2b4b686b.mp3?hdnea=exp=1795656162~acl=/api/1/1/8/f/4/0/8f4c8489ea588cad63262f9d2b4b686b.mp3*~data=user_id=0,application_id=42~hmac=cef2cc6397e8f7fb833d7cd9dcff8609db6d7be49fb480f2b87dd22bd061d7c2",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dearest Alfred",
+            "length": "3:58",
+            "deezer": {
+              "id": 898168212,
+              "link": "https://www.deezer.com/track/898168212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/1/0/a31f580ddec5d754a2dbf49563748fbc.mp3?hdnea=exp=1795656162~acl=/api/1/1/a/3/1/0/a31f580ddec5d754a2dbf49563748fbc.mp3*~data=user_id=0,application_id=42~hmac=d081ac66a422c4f9ec455fae9fbb9a8df4d666f65a77a2d13f820b615210a637",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "So We Won’t Forget",
+            "length": "4:58",
+            "deezer": {
+              "id": 898168222,
+              "link": "https://www.deezer.com/track/898168222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/2/0/fd219b5114d4a5b69aef6712cac039dc.mp3?hdnea=exp=1795656162~acl=/api/1/1/f/d/2/0/fd219b5114d4a5b69aef6712cac039dc.mp3*~data=user_id=0,application_id=42~hmac=cbe1d3fa7d7c6294413744749f69c35d8a5807bc8cf6aa3ac15a76de963339c8",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Shida",
+            "length": "3:54",
+            "deezer": {
+              "id": 898168232,
+              "link": "https://www.deezer.com/track/898168232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/c/0/d5c2c749c19170b0362b5035267c5309.mp3?hdnea=exp=1795656162~acl=/api/1/1/d/5/c/0/d5c2c749c19170b0362b5035267c5309.mp3*~data=user_id=0,application_id=42~hmac=5599a84e9e2e15f10c94e9154a82f144d55862bdf34817ab05d04bd86945eb39",
+              "preview_expires": "2026-11-26T01:22:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Khruangbin/Mordechai.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "pick your poison",
+  "artist": "KiLLOWEN",
+  "year": 2025,
+  "release_date": "2025-02-20",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5BdXnsAUWVL9pMnTelBzSX",
+    "deezer": "https://www.deezer.com/album/878857192"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5BdXnsAUWVL9pMnTelBzSX",
+      "title": "pick your poison",
+      "date": "2025-02-20"
+    },
+    "total_tracks": 1,
+    "total_length": "2:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "pick your poison",
+            "length": "2:17",
+            "deezer": {
+              "id": 3720786412,
+              "link": "https://www.deezer.com/track/3720786412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/4/0/224e35bd265959f7acff33bafac18361.mp3?hdnea=exp=1795656194~acl=/api/1/1/2/2/4/0/224e35bd265959f7acff33bafac18361.mp3*~data=user_id=0,application_id=42~hmac=d3cecc0a5e91836fddd45e2d8991a431eafa5ba0f85e588b658ead2bac887f48",
+              "preview_expires": "2026-11-26T01:23:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/KiLLOWEN/pick your poison.jpg"
+}

@@ -1,0 +1,296 @@
+{
+  "title": "Kind of Blue",
+  "artist": "Miles Davis",
+  "year": 1959,
+  "release_date": "1959-08-17",
+  "type": "Album",
+  "description": "Kind of Blue is a studio album by the American jazz musician Miles Davis, released on August 17, 1959, through Columbia Records. For this album, Davis led a sextet featuring saxophonists John Coltrane and Julian \"Cannonball\" Adderley, pianist Bill Evans, bassist Paul Chambers, and drummer Jimmy Cobb, with new band pianist Wynton Kelly replacing Evans on \"Freddie Freeloader\". The album was recorded at Columbia's 30th Street Studio in New York City in two sessions on March 2 and April 22, 1959.",
+  "genres": [
+    "jazz",
+    "cool jazz",
+    "modal jazz",
+    "hard bop",
+    "post-bop"
+  ],
+  "tags": [
+    "jazz",
+    "cool jazz",
+    "modal jazz",
+    "hard bop",
+    "jazz instrument",
+    "modal",
+    "modal music",
+    "post-bop",
+    "trumpet jazz",
+    "discogs/the most popular album released every year from 1950 to 2020"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 43
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8e8a594f-2175-38c7-a871-abb68ec363e7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kind_of_Blue",
+    "allmusic": "https://www.allmusic.com/album/mw0000191710",
+    "discogs": "https://www.discogs.com/master/5460",
+    "wikidata": "https://www.wikidata.org/wiki/Q283221",
+    "deezer": "https://www.deezer.com/album/262078"
+  },
+  "musicbrainz_id": "8e8a594f-2175-38c7-a871-abb68ec363e7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0b84b56e-b0c6-4319-8d81-49cdd0ee3737",
+      "barcode": "888880696069",
+      "title": "Kind of Blue",
+      "disambiguation": "legacy edition",
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 21,
+    "total_length": "2:00:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "So What",
+            "length": "9:22",
+            "deezer": {
+              "id": 2711778,
+              "link": "https://www.deezer.com/track/2711778",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/2/0/d42ba522e8be4541d2224beb3ae4644c.mp3?hdnea=exp=1795718476~acl=/api/1/1/d/4/2/0/d42ba522e8be4541d2224beb3ae4644c.mp3*~data=user_id=0,application_id=42~hmac=5fe673e153dd96ba302876eeaac95aa4ca46bd1b211503a934b2610064bf7aed",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Freddie Freeloader",
+            "length": "9:46",
+            "deezer": {
+              "id": 2711779,
+              "link": "https://www.deezer.com/track/2711779",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/7/0/ac7314d52f0db69c18433f40771b7eff.mp3?hdnea=exp=1795718476~acl=/api/1/1/a/c/7/0/ac7314d52f0db69c18433f40771b7eff.mp3*~data=user_id=0,application_id=42~hmac=2fd86af1138cb77f8f21df2a358aa94885a2e90aaf6b74b5adcd3699dbb9fe06",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Blue in Green",
+            "length": "5:37",
+            "deezer": {
+              "id": 2711780,
+              "link": "https://www.deezer.com/track/2711780",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/7/0/0b7890226dcc6b3ab4b416934f6d8bae.mp3?hdnea=exp=1795718476~acl=/api/1/1/0/b/7/0/0b7890226dcc6b3ab4b416934f6d8bae.mp3*~data=user_id=0,application_id=42~hmac=f49436ebdc367ddb12bc15b8fc561e969bcd635820b5bd99bcb95544d352fb15",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "All Blues",
+            "length": "11:32",
+            "deezer": {
+              "id": 2711781,
+              "link": "https://www.deezer.com/track/2711781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/d/0/a2db313f3c35437168ba02e50de4bef4.mp3?hdnea=exp=1795718476~acl=/api/1/1/a/2/d/0/a2db313f3c35437168ba02e50de4bef4.mp3*~data=user_id=0,application_id=42~hmac=2bb2ae10fcd6eb6deb5e10060e5ed3c6b7b32c54f0c127bcde55c2c8438fb27a",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Flamenco Sketches",
+            "length": "9:26",
+            "deezer": {
+              "id": 2711782,
+              "link": "https://www.deezer.com/track/2711782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/57174eed03d14166d20d00f85787ec9c.mp3?hdnea=exp=1795718476~acl=/api/1/1/5/7/1/0/57174eed03d14166d20d00f85787ec9c.mp3*~data=user_id=0,application_id=42~hmac=825c4497ad2abce3bb201f70a8ac5f089a2f021435e95137638f1e639c1a8dce",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Flamenco Sketches (alternate take)",
+            "length": "9:31",
+            "deezer": {
+              "id": 2711790,
+              "link": "https://www.deezer.com/track/2711790",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/e/0/16eeafb969bfd6e5eeb87a14e6681e51.mp3?hdnea=exp=1795718476~acl=/api/1/1/1/6/e/0/16eeafb969bfd6e5eeb87a14e6681e51.mp3*~data=user_id=0,application_id=42~hmac=bf51cdd60dbc32f277e3072268c15331f1647fe015da9ae0dff9986cbb9c1eb6",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Freddie Freeloader (studio sequence 1)",
+            "length": "0:51",
+            "deezer": {
+              "id": 2711784,
+              "link": "https://www.deezer.com/track/2711784",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/a/0/acabf4a108da718bfae0739f8e496c58.mp3?hdnea=exp=1795718476~acl=/api/1/1/a/c/a/0/acabf4a108da718bfae0739f8e496c58.mp3*~data=user_id=0,application_id=42~hmac=779da48156fcb99178eecadaa880ec63cd8745608e2a9d041d5462063dac8374",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Freddie Freeloader (false start)",
+            "length": "1:25",
+            "deezer": {
+              "id": 2711785,
+              "link": "https://www.deezer.com/track/2711785",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/e/0/ebedd76fe61ea03b069f6ef2ecebd687.mp3?hdnea=exp=1795718476~acl=/api/1/1/e/b/e/0/ebedd76fe61ea03b069f6ef2ecebd687.mp3*~data=user_id=0,application_id=42~hmac=f1985bc9de0f37a7336981c9817cc84ca7daa12c0b4f6b8bfec6d6d1f1aa9667",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Freddie Freeloader (studio sequence 2)",
+            "length": "1:28",
+            "deezer": {
+              "id": 2711786,
+              "link": "https://www.deezer.com/track/2711786",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/2/0/212865aca34707980baf58638a702579.mp3?hdnea=exp=1795718476~acl=/api/1/1/2/1/2/0/212865aca34707980baf58638a702579.mp3*~data=user_id=0,application_id=42~hmac=d2090b28a40c14097aa6d922db1753dc3d6a3d73a663f0d4a95e56fb73682fd0",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "So What (studio sequence 1)",
+            "length": "1:54",
+            "deezer": {
+              "id": 2711787,
+              "link": "https://www.deezer.com/track/2711787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/a/0/75acbe3a049a4d8acbe2dbbec0a7b9c7.mp3?hdnea=exp=1795718476~acl=/api/1/1/7/5/a/0/75acbe3a049a4d8acbe2dbbec0a7b9c7.mp3*~data=user_id=0,application_id=42~hmac=fb359ee961c7590ef8a8cdf0476134611cf95627930c3c267f5fc579274a025f",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "So What (studio sequence 2)",
+            "length": "0:11",
+            "deezer": {
+              "id": 2711788,
+              "link": "https://www.deezer.com/track/2711788",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a50118dfef75f3e24af8a0a946dd0b7.mp3?hdnea=exp=1795718476~acl=/api/1/1/7/a/5/0/7a50118dfef75f3e24af8a0a946dd0b7.mp3*~data=user_id=0,application_id=42~hmac=a4ab54f784559e0053a7ba4a145e4a60a9a724f5899b3351dc4c86638dac0c42",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Blue in Green (studio sequence)",
+            "length": "1:56",
+            "deezer": {
+              "id": 2711789,
+              "link": "https://www.deezer.com/track/2711789",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/4/0/2d42ff94abd371354e5cb42f4f40266b.mp3?hdnea=exp=1795718476~acl=/api/1/1/2/d/4/0/2d42ff94abd371354e5cb42f4f40266b.mp3*~data=user_id=0,application_id=42~hmac=3bac851c5344412343713a64f4a4dfe2bf016864b17862713724957fef0b59dc",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Flamenco Sketches (studio sequence 1)",
+            "length": "0:42",
+            "deezer": {
+              "id": 2711791,
+              "link": "https://www.deezer.com/track/2711791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/b/0/96b9591fdb9951903b1ba6671ca8d97f.mp3?hdnea=exp=1795718476~acl=/api/1/1/9/6/b/0/96b9591fdb9951903b1ba6671ca8d97f.mp3*~data=user_id=0,application_id=42~hmac=315938020c99444e4aa4f6e40a1e3eaa8069794c1b1f3e226dc990effcae1940",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Flamenco Sketches (studio sequence 2)",
+            "length": "1:09"
+          },
+          {
+            "number": "15",
+            "title": "All Blues (studio sequence)",
+            "length": "0:18",
+            "deezer": {
+              "id": 2711792,
+              "link": "https://www.deezer.com/track/2711792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/9/0/999ed92d8ee08354ab6a4fdaacf2dec5.mp3?hdnea=exp=1795718476~acl=/api/1/1/9/9/9/0/999ed92d8ee08354ab6a4fdaacf2dec5.mp3*~data=user_id=0,application_id=42~hmac=9bc346dfa7f61ac64c46261ed6ae6bf54ec264455a35c30b75821ff27ccc51c0",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "On Green Dolphin Street",
+            "length": "9:49",
+            "deezer": {
+              "id": 2711793,
+              "link": "https://www.deezer.com/track/2711793",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/0/0/c7010c6c382fb5287543e3c0204528be.mp3?hdnea=exp=1795718476~acl=/api/1/1/c/7/0/0/c7010c6c382fb5287543e3c0204528be.mp3*~data=user_id=0,application_id=42~hmac=854a8aa3308f5edb9ce867686ebcd7850bd38bd6108d8400fa4e85f0a245beb1",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Fran‐Dance",
+            "length": "5:49",
+            "deezer": {
+              "id": 2711794,
+              "link": "https://www.deezer.com/track/2711794",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/f/0/39fe41d71795df8d69d104f617fe3c2f.mp3?hdnea=exp=1795718476~acl=/api/1/1/3/9/f/0/39fe41d71795df8d69d104f617fe3c2f.mp3*~data=user_id=0,application_id=42~hmac=803d0610d398055457ceb3e37f396d8c9b4056b73dcd3d4673038c775c8e31f9",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Stella by Starlight",
+            "length": "4:44",
+            "deezer": {
+              "id": 2711795,
+              "link": "https://www.deezer.com/track/2711795",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/5/0/1d50c59f9b3684ec15781b231a2ae79b.mp3?hdnea=exp=1795718476~acl=/api/1/1/1/d/5/0/1d50c59f9b3684ec15781b231a2ae79b.mp3*~data=user_id=0,application_id=42~hmac=1c272830fede4df7e9007067550e96e9da5c18d6ef48203010739341be4420e9",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Love for Sale",
+            "length": "11:47",
+            "deezer": {
+              "id": 2711796,
+              "link": "https://www.deezer.com/track/2711796",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/5/0/ab53a55d4b451c4a9ef6db9c756c4423.mp3?hdnea=exp=1795718476~acl=/api/1/1/a/b/5/0/ab53a55d4b451c4a9ef6db9c756c4423.mp3*~data=user_id=0,application_id=42~hmac=0e58f1bb7cd5129c7a88959cf97433d1a1431481e7ab613674cae07ac8b3e2d0",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Fran‐Dance (alternate take)",
+            "length": "5:51",
+            "deezer": {
+              "id": 2711797,
+              "link": "https://www.deezer.com/track/2711797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/d/0/50df9fb61b10a30d8f390cc1a81fef78.mp3?hdnea=exp=1795718476~acl=/api/1/1/5/0/d/0/50df9fb61b10a30d8f390cc1a81fef78.mp3*~data=user_id=0,application_id=42~hmac=b9a9b32aa2309f9d3df99146ea1a348b13eb23f4ebd0e46462d476c88c36d045",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "So What (live at Kurhaus, Den Haag, Holland – April 1960)",
+            "length": "17:29",
+            "deezer": {
+              "id": 2711798,
+              "link": "https://www.deezer.com/track/2711798",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/3/0/563ffad0bf1b2a48e74891a623fbf697.mp3?hdnea=exp=1795718476~acl=/api/1/1/5/6/3/0/563ffad0bf1b2a48e74891a623fbf697.mp3*~data=user_id=0,application_id=42~hmac=70e3e21fb4106a7589eea98ef1aa4b38b4387dd9cfd608fc9af998283bd30cc2",
+              "preview_expires": "2026-11-26T18:41:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Miles Davis/Kind Of Blue.jpg"
+}

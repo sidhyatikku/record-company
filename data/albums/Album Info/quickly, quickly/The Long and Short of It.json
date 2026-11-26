@@ -1,0 +1,176 @@
+{
+  "title": "The Long and Short of It",
+  "artist": "quickly, quickly",
+  "year": 2021,
+  "release_date": "2021-08-20",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "experimental",
+    "hip hop",
+    "indie pop"
+  ],
+  "tags": [
+    "electronic",
+    "experimental",
+    "hip hop",
+    "indie pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1834b1fc-5dd9-4f57-b8b6-d4b7ce056831",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/230718232"
+  },
+  "musicbrainz_id": "1834b1fc-5dd9-4f57-b8b6-d4b7ce056831",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/07375d0d-fdb6-4e9f-b16f-554f45814031",
+      "barcode": "804297838304",
+      "title": "The Long and Short of It",
+      "disambiguation": null,
+      "date": "2021-08-20",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "37:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Phases",
+            "length": "5:53",
+            "artist": "quickly, quickly ft. Sharrif Simmons",
+            "deezer": {
+              "id": 1374776892,
+              "link": "https://www.deezer.com/track/1374776892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/4/0/9c42998757781b97b37c6319185ba723.mp3?hdnea=exp=1795719803~acl=/api/1/1/9/c/4/0/9c42998757781b97b37c6319185ba723.mp3*~data=user_id=0,application_id=42~hmac=0ca1d849501cb4f08f1edacca61973b1a4bcfddfb35c3025b20805be273fc5a9",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Come Visit Me",
+            "length": "3:13",
+            "deezer": {
+              "id": 1374776902,
+              "link": "https://www.deezer.com/track/1374776902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/2/0/cc2bcc649d7ed582e21c19a1b9a3b856.mp3?hdnea=exp=1795719803~acl=/api/1/1/c/c/2/0/cc2bcc649d7ed582e21c19a1b9a3b856.mp3*~data=user_id=0,application_id=42~hmac=9727a531c0503b98717e5b6464a5dc20fb84e602e98c5c73276fe99cbde72462",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Interlude",
+            "length": "1:43",
+            "deezer": {
+              "id": 1374776912,
+              "link": "https://www.deezer.com/track/1374776912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/4/0/844bbe523424b68bd8fcecc03909b2d4.mp3?hdnea=exp=1795719803~acl=/api/1/1/8/4/4/0/844bbe523424b68bd8fcecc03909b2d4.mp3*~data=user_id=0,application_id=42~hmac=6b0dbdb92a0d2610c3aca2166a861e4af318159f3df21bf12c86476a6a01bd52",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Shee",
+            "length": "3:40",
+            "deezer": {
+              "id": 1374776922,
+              "link": "https://www.deezer.com/track/1374776922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/5/0/6551431fbccbcc30af951486d18b1db5.mp3?hdnea=exp=1795719803~acl=/api/1/1/6/5/5/0/6551431fbccbcc30af951486d18b1db5.mp3*~data=user_id=0,application_id=42~hmac=64ce88de54565502ed3b4564997d793096a96992aba8329cc84b2cdd85e781a3",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Leave It",
+            "length": "3:51",
+            "deezer": {
+              "id": 1374776932,
+              "link": "https://www.deezer.com/track/1374776932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/0/0/c508fbcc2fb640c54720ab1d61094164.mp3?hdnea=exp=1795719803~acl=/api/1/1/c/5/0/0/c508fbcc2fb640c54720ab1d61094164.mp3*~data=user_id=0,application_id=42~hmac=6821fad2bcfc04aa232dbb4b3044a8dd266e33124966ed3fa572caf1c8785866",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Am Close to the River",
+            "length": "4:32",
+            "deezer": {
+              "id": 1374776942,
+              "link": "https://www.deezer.com/track/1374776942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/9/0/de9d5318346a76b6ee551adb2e42a39c.mp3?hdnea=exp=1795719803~acl=/api/1/1/d/e/9/0/de9d5318346a76b6ee551adb2e42a39c.mp3*~data=user_id=0,application_id=42~hmac=e138365b09f0c2396aa32ccd101d3fe0cdcc0286d98132469b8ef8ee16b57203",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Feel",
+            "length": "2:48",
+            "deezer": {
+              "id": 1374776952,
+              "link": "https://www.deezer.com/track/1374776952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/b/0/28bb7b6c8366e54d61b98d2b3eae6446.mp3?hdnea=exp=1795719803~acl=/api/1/1/2/8/b/0/28bb7b6c8366e54d61b98d2b3eae6446.mp3*~data=user_id=0,application_id=42~hmac=e318c3e108acb711aba881911a867a2dd77ef65b525a71882751ea99eb82aecd",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "A Conversation",
+            "length": "1:18",
+            "deezer": {
+              "id": 1374776962,
+              "link": "https://www.deezer.com/track/1374776962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/5/0/6655d18b547300c1010d7153b865fdc5.mp3?hdnea=exp=1795719803~acl=/api/1/1/6/6/5/0/6655d18b547300c1010d7153b865fdc5.mp3*~data=user_id=0,application_id=42~hmac=d038432e105a1f2a7a8ae19058ad4643b6bf165d66582de8dc6ffe3a128b1b0d",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Everything is Different (To Me)",
+            "length": "4:24",
+            "deezer": {
+              "id": 1374776972,
+              "link": "https://www.deezer.com/track/1374776972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/3/0/a33ca83509ecf7dc29576e51880f8480.mp3?hdnea=exp=1795719803~acl=/api/1/1/a/3/3/0/a33ca83509ecf7dc29576e51880f8480.mp3*~data=user_id=0,application_id=42~hmac=1700f4335da4232281a1d9c769810832a13e40952d1c55ecd177487cefda95fa",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Wy",
+            "length": "4:14",
+            "deezer": {
+              "id": 1374776982,
+              "link": "https://www.deezer.com/track/1374776982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/9/0/de9c47216a85584554d71a1f555be45f.mp3?hdnea=exp=1795719803~acl=/api/1/1/d/e/9/0/de9c47216a85584554d71a1f555be45f.mp3*~data=user_id=0,application_id=42~hmac=0d14e0bb1eb42d5c768a53a2963db5117108602024fd7f1ce84db55f5e956d17",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Otto's Dance",
+            "length": "1:47",
+            "deezer": {
+              "id": 1374776992,
+              "link": "https://www.deezer.com/track/1374776992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/1/0/a0106a16ac245a13462155e9f1ca008d.mp3?hdnea=exp=1795719803~acl=/api/1/1/a/0/1/0/a0106a16ac245a13462155e9f1ca008d.mp3*~data=user_id=0,application_id=42~hmac=842b0fd6e5c15852fcc940d82f11e47a2d3d3a815858e15731336c8270b2f8be",
+              "preview_expires": "2026-11-26T19:03:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/quickly, quickly/The Long and Short of It.jpg"
+}

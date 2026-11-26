@@ -1,0 +1,52 @@
+{
+  "title": "410",
+  "artist": "Sidhu Moose Wala, Sunny Malton & Offgrid",
+  "year": 2024,
+  "release_date": "2024-04-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d0336d87-29f4-429b-999d-6150082d071b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/700570351"
+  },
+  "musicbrainz_id": "d0336d87-29f4-429b-999d-6150082d071b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/98a34623-acd0-4caa-8b16-e48520aafac7",
+      "barcode": "5063483302141",
+      "title": "410",
+      "disambiguation": null,
+      "date": "2024-04-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "410",
+            "length": "3:55",
+            "artist": "Sidhu Moose Wala & Sunny Malton",
+            "deezer": {
+              "id": 3194693801,
+              "link": "https://www.deezer.com/track/3194693801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/6/0/bf6f71a8922cb1d315292d0647f30ebf.mp3?hdnea=exp=1795720564~acl=/api/1/1/b/f/6/0/bf6f71a8922cb1d315292d0647f30ebf.mp3*~data=user_id=0,application_id=42~hmac=bcd43f8d1036227a9c59c172850ff9c98a04ba99ffcfdd55fced9e55ccf24554",
+              "preview_expires": "2026-11-26T19:16:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/410.jpg"
+}

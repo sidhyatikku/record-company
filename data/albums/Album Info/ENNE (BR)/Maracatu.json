@@ -1,0 +1,50 @@
+{
+  "title": "Maracatu",
+  "artist": "ENNE (BR), Duarte",
+  "year": 2022,
+  "release_date": "2022-04-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "tech house",
+    "latin house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/52EESoke49CgUPtuMlw5AJ",
+    "deezer": "https://www.deezer.com/album/459071355"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/52EESoke49CgUPtuMlw5AJ",
+      "title": "Maracatu",
+      "date": "2022-04-29"
+    },
+    "total_tracks": 1,
+    "total_length": "2:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Maracatu",
+            "length": "2:47",
+            "deezer": {
+              "id": 2347843065,
+              "link": "https://www.deezer.com/track/2347843065",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/1/0/bc1ef02777f936d0b7637392b53026d4.mp3?hdnea=exp=1795654001~acl=/api/1/1/b/c/1/0/bc1ef02777f936d0b7637392b53026d4.mp3*~data=user_id=0,application_id=42~hmac=49020bb1c9e8315e790abc1fa79ae981ec0d062f50fb755e71cecd0a8952e3e2",
+              "preview_expires": "2026-11-26T00:46:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/ENNE (BR)/Maracatu.jpg"
+}

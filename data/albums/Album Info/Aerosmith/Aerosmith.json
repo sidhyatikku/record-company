@@ -1,0 +1,151 @@
+{
+  "title": "Aerosmith",
+  "artist": "Aerosmith",
+  "year": 1973,
+  "release_date": "1973-01-05",
+  "type": "Album",
+  "description": "Aerosmith is the debut studio album by the American rock band Aerosmith, released on January 5, 1973, by Columbia Records. \"Dream On\", originally released as a single in 1973, became an American top ten hit when re-released on December 27, 1975. The album peaked at number 21 on the US Billboard 200 album chart in 1976.",
+  "genres": [
+    "hard rock",
+    "blues rock",
+    "rock"
+  ],
+  "tags": [
+    "hard rock",
+    "blues rock",
+    "rock",
+    "album rock",
+    "dream on",
+    "contemporary pop/rock",
+    "1–4 wochen",
+    "classic hard rock",
+    "offizielle charts",
+    "pop/rock",
+    "rollingstone.de"
+  ],
+  "rating": {
+    "value_out_of_5": 4.05,
+    "votes": 20
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8a58cc1a-be0d-3b1b-8d0d-aa8f467a59da",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aerosmith_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000192744",
+    "discogs": "https://www.discogs.com/master/27413",
+    "wikidata": "https://www.wikidata.org/wiki/Q281133",
+    "deezer": "https://www.deezer.com/album/941014611"
+  },
+  "musicbrainz_id": "8a58cc1a-be0d-3b1b-8d0d-aa8f467a59da",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ed40de0a-9dfa-3673-abba-4174b5c618cf",
+      "barcode": "074645736020",
+      "title": "Aerosmith",
+      "disambiguation": null,
+      "date": "1993-09-07",
+      "country": "US"
+    },
+    "total_tracks": 8,
+    "total_length": "35:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Make It",
+            "length": "3:41",
+            "deezer": {
+              "id": 3903961311,
+              "link": "https://www.deezer.com/track/3903961311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/0/0/980e3717b21e5f6699cfd29029462399.mp3?hdnea=exp=1795648966~acl=/api/1/1/9/8/0/0/980e3717b21e5f6699cfd29029462399.mp3*~data=user_id=0,application_id=42~hmac=3fd6f59588347b8eca7c0b9054d289b07a9cc5fc91c5e1a5a7735dfad481b6f5",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Somebody",
+            "length": "3:45",
+            "deezer": {
+              "id": 3903961321,
+              "link": "https://www.deezer.com/track/3903961321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/6/0/536e86b4f501dd5c5e294ab0cac5307f.mp3?hdnea=exp=1795648966~acl=/api/1/1/5/3/6/0/536e86b4f501dd5c5e294ab0cac5307f.mp3*~data=user_id=0,application_id=42~hmac=74f823990c5068790f2646769ea73206cfce2ff1645c0f617bd313e6bec796a6",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dream On",
+            "length": "4:28",
+            "deezer": {
+              "id": 3903961331,
+              "link": "https://www.deezer.com/track/3903961331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/d/0/04df30279e475410b6bc370db26aa014.mp3?hdnea=exp=1795648966~acl=/api/1/1/0/4/d/0/04df30279e475410b6bc370db26aa014.mp3*~data=user_id=0,application_id=42~hmac=ebbcf1e3209acb764cfc7104143d7ba4a0b210494b8337a027b95d5f3970bf5b",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "One Way Street",
+            "length": "7:02",
+            "deezer": {
+              "id": 3903961341,
+              "link": "https://www.deezer.com/track/3903961341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/a/0/1ba5cb6151233f253437faaf0b13a6f3.mp3?hdnea=exp=1795648966~acl=/api/1/1/1/b/a/0/1ba5cb6151233f253437faaf0b13a6f3.mp3*~data=user_id=0,application_id=42~hmac=9cdb251f97fb829bcab48bfbea5be585c2a9c6265a70aaf20e024b96b1a440af",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Mama Kin",
+            "length": "4:29",
+            "deezer": {
+              "id": 3903961351,
+              "link": "https://www.deezer.com/track/3903961351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/2/0/1d2ba8ae934ddf7f0bbb89390b6c675b.mp3?hdnea=exp=1795648966~acl=/api/1/1/1/d/2/0/1d2ba8ae934ddf7f0bbb89390b6c675b.mp3*~data=user_id=0,application_id=42~hmac=1d3da2b4f65d1531396d7b62d521f177abcb43127585dc551cb81fa3d4c56d3d",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Write Me",
+            "length": "4:12",
+            "deezer": {
+              "id": 3903961361,
+              "link": "https://www.deezer.com/track/3903961361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/c/0/68c85753530cdda470bd4f0c7d03df99.mp3?hdnea=exp=1795648966~acl=/api/1/1/6/8/c/0/68c85753530cdda470bd4f0c7d03df99.mp3*~data=user_id=0,application_id=42~hmac=fd7d213233170e5d1fc21f71ba3ddb9edd20d4fa08c82bf4153c196b7edbfe64",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Movin’ Out",
+            "length": "5:02",
+            "deezer": {
+              "id": 3903961371,
+              "link": "https://www.deezer.com/track/3903961371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/e/0/4fe2281bde2780569ae44057d7ac8183.mp3?hdnea=exp=1795648966~acl=/api/1/1/4/f/e/0/4fe2281bde2780569ae44057d7ac8183.mp3*~data=user_id=0,application_id=42~hmac=8b414535e4e27de538b188f84556f1e54fac0b07252c0dfe59d5fb0ea6a4b9b2",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Walkin’ the Dog",
+            "length": "3:13",
+            "deezer": {
+              "id": 3903961381,
+              "link": "https://www.deezer.com/track/3903961381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/1/0/f91a8f5a57e0e2736a1290e6c971b3b3.mp3?hdnea=exp=1795648966~acl=/api/1/1/f/9/1/0/f91a8f5a57e0e2736a1290e6c971b3b3.mp3*~data=user_id=0,application_id=42~hmac=e57ea553d8c690ef38ea92793778924483aad11a8f95bddfa620cec1e54a6cf6",
+              "preview_expires": "2026-11-25T23:22:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Aerosmith/Aerosmith.jpg"
+}

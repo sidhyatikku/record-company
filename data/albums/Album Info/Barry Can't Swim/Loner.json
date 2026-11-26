@@ -1,0 +1,180 @@
+{
+  "title": "Loner",
+  "artist": "Barry Can’t Swim",
+  "year": 2025,
+  "release_date": "2025-07-11",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0761b8f9-f975-4865-a995-a35204d1ab74",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0004501678",
+    "discogs": "https://www.discogs.com/master/3904858",
+    "deezer": "https://www.deezer.com/album/727025761"
+  },
+  "musicbrainz_id": "0761b8f9-f975-4865-a995-a35204d1ab74",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2d0ff636-1ae7-4119-9721-4af9e1c3fb68",
+      "barcode": "5054429203578",
+      "title": "Loner",
+      "disambiguation": null,
+      "date": "2025-07-11",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "41:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Person You’d Like to Be",
+            "length": "3:18",
+            "deezer": {
+              "id": 3277394861,
+              "link": "https://www.deezer.com/track/3277394861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/4/0/8b41b8e6ac4f88b0092688ac8e6bc23a.mp3?hdnea=exp=1795651876~acl=/api/1/1/8/b/4/0/8b41b8e6ac4f88b0092688ac8e6bc23a.mp3*~data=user_id=0,application_id=42~hmac=536dbcd5b8e65219c2673a9cf46f85b3763502dd14002121df271e9ec937e998",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Different",
+            "length": "3:27",
+            "deezer": {
+              "id": 3277394871,
+              "link": "https://www.deezer.com/track/3277394871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/4/0/f0447b7495668f92d5627a344bd69e72.mp3?hdnea=exp=1795651876~acl=/api/1/1/f/0/4/0/f0447b7495668f92d5627a344bd69e72.mp3*~data=user_id=0,application_id=42~hmac=6c023cabab92e3396989f789a4ded6349b1446197a324fbf30956b4c2c0be5d1",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kimpton",
+            "length": "3:48",
+            "artist": "Barry Can’t Swim with O’Flynn",
+            "deezer": {
+              "id": 3277394881,
+              "link": "https://www.deezer.com/track/3277394881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/9/0/5299a420a87181c8b2c77a4b1f482c97.mp3?hdnea=exp=1795651876~acl=/api/1/1/5/2/9/0/5299a420a87181c8b2c77a4b1f482c97.mp3*~data=user_id=0,application_id=42~hmac=bfbc4eda0b67604e1f53d5554667a7d0f9a6c959a33a687215ecb9d55b9e8dae",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "All My Friends",
+            "length": "3:20",
+            "deezer": {
+              "id": 3277394891,
+              "link": "https://www.deezer.com/track/3277394891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/2/0/ab2fd82d64a105ff14b46a414323621e.mp3?hdnea=exp=1795651876~acl=/api/1/1/a/b/2/0/ab2fd82d64a105ff14b46a414323621e.mp3*~data=user_id=0,application_id=42~hmac=bfe596c76145cde42bef999f10c0b83558f79283044165d18cd78692a0c3ffe9",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "About to Begin",
+            "length": "3:30",
+            "deezer": {
+              "id": 3277394901,
+              "link": "https://www.deezer.com/track/3277394901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/2/0/e824649f9b7af39d984bcdaea051c98c.mp3?hdnea=exp=1795651876~acl=/api/1/1/e/8/2/0/e824649f9b7af39d984bcdaea051c98c.mp3*~data=user_id=0,application_id=42~hmac=99bf424ed75465f03b39343d651fe83ecea40ea460952a6ea3d56e9929611d47",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Still Riding",
+            "length": "3:37",
+            "deezer": {
+              "id": 3277394911,
+              "link": "https://www.deezer.com/track/3277394911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/8/0/7b8f542a761df13f5e281593868dc88d.mp3?hdnea=exp=1795651876~acl=/api/1/1/7/b/8/0/7b8f542a761df13f5e281593868dc88d.mp3*~data=user_id=0,application_id=42~hmac=749ea3d9ed2516156b461bc6ad12382a6382a6236d346a428dda1a0561391822",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Cars Pass by Like Childhood Sweethearts",
+            "length": "3:06",
+            "deezer": {
+              "id": 3277394921,
+              "link": "https://www.deezer.com/track/3277394921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/0/0/0c0e16d54b2bebb7d6f0c25a3b9cec01.mp3?hdnea=exp=1795651876~acl=/api/1/1/0/c/0/0/0c0e16d54b2bebb7d6f0c25a3b9cec01.mp3*~data=user_id=0,application_id=42~hmac=b5f7a1353e126252838a49f545172a8a211fe35cb69d4c198baf54ec8de8d355",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Machine Noise for a Quiet Daydream",
+            "length": "2:36",
+            "artist": "Barry Can’t Swim feat. Séamus",
+            "deezer": {
+              "id": 3277394931,
+              "link": "https://www.deezer.com/track/3277394931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/3/0/b33f4bc38613319da1b50b47cc4ee798.mp3?hdnea=exp=1795651876~acl=/api/1/1/b/3/3/0/b33f4bc38613319da1b50b47cc4ee798.mp3*~data=user_id=0,application_id=42~hmac=26aab1c613637733b74bb2fbf66f4fd65331b32a364c7c1ff9cb5c21d2470eb1",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Like It’s Part of the Dance",
+            "length": "4:33",
+            "deezer": {
+              "id": 3277394941,
+              "link": "https://www.deezer.com/track/3277394941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/4/0/c04fe7b3c12f50bdfaa65c3f687425d4.mp3?hdnea=exp=1795651876~acl=/api/1/1/c/0/4/0/c04fe7b3c12f50bdfaa65c3f687425d4.mp3*~data=user_id=0,application_id=42~hmac=377cad2062bfe1b5fed0aff75004269136f84235e0f2a6e90a6eef42743a4b0c",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Childhood",
+            "length": "3:52",
+            "deezer": {
+              "id": 3277394951,
+              "link": "https://www.deezer.com/track/3277394951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/b/0/3abe20bb6d349482da6dfb842ac52f52.mp3?hdnea=exp=1795651876~acl=/api/1/1/3/a/b/0/3abe20bb6d349482da6dfb842ac52f52.mp3*~data=user_id=0,application_id=42~hmac=5a36aade5d94fd3a52b0f1995138d4de6e2187beb89f7ab5a3e312339fbdd638",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Marriage",
+            "length": "3:15",
+            "deezer": {
+              "id": 3277394961,
+              "link": "https://www.deezer.com/track/3277394961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/d/0/ecd4a43c17a6af1c7f7131bdfc3ca303.mp3?hdnea=exp=1795651876~acl=/api/1/1/e/c/d/0/ecd4a43c17a6af1c7f7131bdfc3ca303.mp3*~data=user_id=0,application_id=42~hmac=cb8041cf0119a90b782906c584f7620e2971ae9180f033a7fb9ea387780194e7",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Wandering Mt. Moon",
+            "length": "3:04",
+            "deezer": {
+              "id": 3277394971,
+              "link": "https://www.deezer.com/track/3277394971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/d/0/82d8bcd37361e33a1de0a811a155d2b8.mp3?hdnea=exp=1795651876~acl=/api/1/1/8/2/d/0/82d8bcd37361e33a1de0a811a155d2b8.mp3*~data=user_id=0,application_id=42~hmac=35cd3941a399c3ef88f014dde83d50e44de94eb7f811c04f02c46231f93843ee",
+              "preview_expires": "2026-11-26T00:11:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Barry Can't Swim/Loner.png"
+}

@@ -1,0 +1,178 @@
+{
+  "title": "Fragile",
+  "artist": "Yes",
+  "year": 1971,
+  "release_date": "1971-11-12",
+  "type": "Album",
+  "description": "Fragile is the fourth studio album by the English progressive rock band Yes, released in the United Kingdom on 12 November 1971 and in the United States on 4 January 1972 by Atlantic Records. The record marked the studio debut of keyboardist Rick Wakeman, who replaced founding member Tony Kaye following the promotional tour for the band's breakthrough release, The Yes Album (1971).",
+  "genres": [
+    "progressive rock",
+    "rock",
+    "art rock",
+    "symphonic prog"
+  ],
+  "tags": [
+    "progressive rock",
+    "rock",
+    "art rock",
+    "symphonic prog"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 26
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b1176e7b-fa2e-3b28-959a-d8f55b5b6ccf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fragile_(Yes_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000391610",
+    "discogs": "https://www.discogs.com/master/34934",
+    "wikidata": "https://www.wikidata.org/wiki/Q835488",
+    "deezer": "https://www.deezer.com/album/608458282"
+  },
+  "musicbrainz_id": "b1176e7b-fa2e-3b28-959a-d8f55b5b6ccf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/39049278-cb1d-4e9d-aa25-ec5e529913eb",
+      "barcode": "603497984565",
+      "title": "Fragile (deluxe edition)",
+      "disambiguation": null,
+      "date": "2008-01-28",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "1:00:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Roundabout",
+            "length": "8:36",
+            "deezer": {
+              "id": 2868964622,
+              "link": "https://www.deezer.com/track/2868964622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/3/0/103074f8fb856286d5b81f4c1c41cca3.mp3?hdnea=exp=1795724480~acl=/api/1/1/1/0/3/0/103074f8fb856286d5b81f4c1c41cca3.mp3*~data=user_id=0,application_id=42~hmac=e3e9a9c9be7dd517abbbec26225651b8945ba1811f06c760198a4bd4892a7e89",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Cans and Brahms",
+            "length": "1:43",
+            "deezer": {
+              "id": 2868964632,
+              "link": "https://www.deezer.com/track/2868964632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/c/0/78cce01e192e1a557e1b1d01a29f6985.mp3?hdnea=exp=1795724480~acl=/api/1/1/7/8/c/0/78cce01e192e1a557e1b1d01a29f6985.mp3*~data=user_id=0,application_id=42~hmac=150a73525cdcf205bc0544cbe82c60ce38e17939881e0e9b1d72c5ce1b3bfb73",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "We Have Heaven",
+            "length": "1:40",
+            "deezer": {
+              "id": 2868964642,
+              "link": "https://www.deezer.com/track/2868964642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/a/0/01a0f0f871a8bd149aca93f48cdf15ad.mp3?hdnea=exp=1795724480~acl=/api/1/1/0/1/a/0/01a0f0f871a8bd149aca93f48cdf15ad.mp3*~data=user_id=0,application_id=42~hmac=878aaf2d8ce1121b0030fd6750791ca2b5d18bfe447f2e11ee0f6a1bd1b006b0",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "South Side of the Sky",
+            "length": "7:58",
+            "deezer": {
+              "id": 2868964652,
+              "link": "https://www.deezer.com/track/2868964652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/b/0/16b731e8ee6a8e574f7f6a710cb51aa6.mp3?hdnea=exp=1795724480~acl=/api/1/1/1/6/b/0/16b731e8ee6a8e574f7f6a710cb51aa6.mp3*~data=user_id=0,application_id=42~hmac=733bd0906a9f0072f943bf9581ed9a40e8aebdf66fb73f9c77cef04c4bdd0d09",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Five Per Cent for Nothing",
+            "length": "0:38",
+            "deezer": {
+              "id": 2868964662,
+              "link": "https://www.deezer.com/track/2868964662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/4/0/5b49f538576488340ef2bbee7187d072.mp3?hdnea=exp=1795724480~acl=/api/1/1/5/b/4/0/5b49f538576488340ef2bbee7187d072.mp3*~data=user_id=0,application_id=42~hmac=608a020d094ddbc5d0db9cb8901fd6c7ba7fa9bcf1c4697c3134d24855ca6641",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Long Distance Runaround",
+            "length": "3:30",
+            "deezer": {
+              "id": 2868964682,
+              "link": "https://www.deezer.com/track/2868964682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/f/0/fdf847913a2004c69757c71e62a4e818.mp3?hdnea=exp=1795724480~acl=/api/1/1/f/d/f/0/fdf847913a2004c69757c71e62a4e818.mp3*~data=user_id=0,application_id=42~hmac=b694f948c0c786f699a698eb9295363d51fc303ee749e362bed32d4fbd64989e",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Fish (Schindleria Praematurus)",
+            "length": "2:42",
+            "deezer": {
+              "id": 2868964692,
+              "link": "https://www.deezer.com/track/2868964692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/d/0/59d2ffe43f993747a5ef2bfc940cfb9b.mp3?hdnea=exp=1795724480~acl=/api/1/1/5/9/d/0/59d2ffe43f993747a5ef2bfc940cfb9b.mp3*~data=user_id=0,application_id=42~hmac=9f58d629bcba70fd8f3ff98cc2315eb988ca774ed3d0408b5fff627530776427",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mood for a Day",
+            "length": "3:03",
+            "deezer": {
+              "id": 2868964702,
+              "link": "https://www.deezer.com/track/2868964702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/7/0/2c72cc33736eb467a43ddae4ac36a018.mp3?hdnea=exp=1795724480~acl=/api/1/1/2/c/7/0/2c72cc33736eb467a43ddae4ac36a018.mp3*~data=user_id=0,application_id=42~hmac=86e876064fd665e4a3876b760edaebd010ba2dab5accf8357ec55424e003dee2",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Heart of the Sunrise",
+            "length": "11:33",
+            "deezer": {
+              "id": 2868964712,
+              "link": "https://www.deezer.com/track/2868964712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/4/0/8743761a88fccf78445fc60b5ce6baaf.mp3?hdnea=exp=1795724480~acl=/api/1/1/8/7/4/0/8743761a88fccf78445fc60b5ce6baaf.mp3*~data=user_id=0,application_id=42~hmac=30d32d9825c573a361f4060620009d188f2fd2e635353a7afc1f61fb2d81fa22",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "America",
+            "length": "10:33",
+            "deezer": {
+              "id": 2868964992,
+              "link": "https://www.deezer.com/track/2868964992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/d/0/8ddb2cc34c0eb35e3fb6ca190e893f1a.mp3?hdnea=exp=1795724480~acl=/api/1/1/8/d/d/0/8ddb2cc34c0eb35e3fb6ca190e893f1a.mp3*~data=user_id=0,application_id=42~hmac=d75d70a9f254a7fe64fe33808be9357ac9257b18200b52f704046f15ede4d9d0",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Roundabout (early rough mix)",
+            "length": "8:35",
+            "deezer": {
+              "id": 2868965002,
+              "link": "https://www.deezer.com/track/2868965002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/5/0/cd5e8411fcf4ead409301989463ba913.mp3?hdnea=exp=1795724480~acl=/api/1/1/c/d/5/0/cd5e8411fcf4ead409301989463ba913.mp3*~data=user_id=0,application_id=42~hmac=74d91887fc360d41b10d8905a9c18d4cdc992000fc9f9f2e78d95d1a8f01ffd0",
+              "preview_expires": "2026-11-26T20:21:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yes/Fragile.jpg"
+}

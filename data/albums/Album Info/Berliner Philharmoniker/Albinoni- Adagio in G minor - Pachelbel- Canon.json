@@ -1,0 +1,107 @@
+{
+  "title": "Albinoni: Adagio / Pachelbel: Canon",
+  "artist": "Albinoni, Pachelbel; Berliner Philharmoniker, Herbert von Karajan",
+  "year": 1984,
+  "release_date": "1984",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "classical"
+  ],
+  "tags": [
+    "classical",
+    "neo-romantic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/863da4c2-7b14-3cb4-ad65-d06502ace183",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001940267",
+    "discogs": "https://www.discogs.com/master/288277",
+    "deezer": null
+  },
+  "musicbrainz_id": "863da4c2-7b14-3cb4-ad65-d06502ace183",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/68a0be78-7170-4f02-82c5-5602caa669a0",
+      "barcode": "028941330925",
+      "title": "Albinoni: Adagio / Pachelbel: Canon",
+      "disambiguation": "made in France by PDO",
+      "date": "1984",
+      "country": "XE"
+    },
+    "total_tracks": 10,
+    "total_length": "55:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Adagio in G minor for Strings and Organ",
+            "length": "11:52",
+            "artist": "Tomaso Albinoni / Remo Giazotto"
+          },
+          {
+            "number": "2",
+            "title": "Concerto for Flute, Strings and Harpsichord in G minor, op. 10 no. 2 “La notte”, RV 439: I. Largo – Fantasmi. Presto",
+            "length": "3:25",
+            "artist": "Antonio Vivaldi"
+          },
+          {
+            "number": "3",
+            "title": "Concerto for Flute, Strings and Harpsichord in G minor, op. 10 no. 2 “La notte”, RV 439: II. Largo – Presto",
+            "length": "2:15",
+            "artist": "Antonio Vivaldi"
+          },
+          {
+            "number": "4",
+            "title": "Concerto for Flute, Strings and Harpsichord in G minor, op. 10 no. 2 “La notte”, RV 439: III. Il sonno. Largo – Allegro",
+            "length": "3:44",
+            "artist": "Antonio Vivaldi"
+          },
+          {
+            "number": "5",
+            "title": "Air, from the Suite for Orchestra no. 3 in D major, BWV 1068",
+            "length": "6:06",
+            "artist": "Johann Sebastian Bach"
+          },
+          {
+            "number": "6",
+            "title": "Canon and Gigue in D major for 3 Violins and Basso Continuo",
+            "length": "7:09",
+            "artist": "Johann Pachelbel / Max Seiffert"
+          },
+          {
+            "number": "7",
+            "title": "Dance of the Blessed Spirits, from the opera “Orpheus and Eurydice”",
+            "length": "6:51",
+            "artist": "Christoph Willibald Gluck"
+          },
+          {
+            "number": "8",
+            "title": "Serenata notturna in D major, K. 239: I. Marcia. Maestoso",
+            "length": "4:24",
+            "artist": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "number": "9",
+            "title": "Serenata notturna in D major, K. 239: II. Menuetto",
+            "length": "4:40",
+            "artist": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "number": "10",
+            "title": "Serenata notturna in D major, K. 239: III. Rondeau. Allegretto – Adagio – Allegro",
+            "length": "4:49",
+            "artist": "Wolfgang Amadeus Mozart"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Berliner Philharmoniker/Albinoni- Adagio in G minor - Pachelbel- Canon.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Rita Ora",
+  "artist": "KiLLOWEN",
+  "year": 2024,
+  "release_date": "2024-04-11",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/35VzPncRf26vXH0lFZjE47",
+    "deezer": "https://www.deezer.com/album/788234961"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/35VzPncRf26vXH0lFZjE47",
+      "title": "Rita Ora",
+      "date": "2024-04-11"
+    },
+    "total_tracks": 1,
+    "total_length": "2:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rita Ora",
+            "length": "2:03",
+            "deezer": {
+              "id": 3460402041,
+              "link": "https://www.deezer.com/track/3460402041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/2/0/5226ee06e67cb7c7aa947c4debd85c94.mp3?hdnea=exp=1795656199~acl=/api/1/1/5/2/2/0/5226ee06e67cb7c7aa947c4debd85c94.mp3*~data=user_id=0,application_id=42~hmac=259e4d6241e3b3befdbe2656ebfd8cdb93f2d6e6101067da7e06e2954f8c33c4",
+              "preview_expires": "2026-11-26T01:23:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/KiLLOWEN/Rita Ora.jpg"
+}

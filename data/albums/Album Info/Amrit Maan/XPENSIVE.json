@@ -1,0 +1,95 @@
+{
+  "title": "Xpensive",
+  "artist": "Amrit Maan",
+  "year": 2022,
+  "release_date": "2022-12-07",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0eefb0fa-e3df-4d7b-88d1-98764fc43a1e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/383966417"
+  },
+  "musicbrainz_id": "0eefb0fa-e3df-4d7b-88d1-98764fc43a1e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2d74c92a-7c20-48bb-b940-2ddf76dbf9ab",
+      "barcode": "8902633340794",
+      "title": "Xpensive",
+      "disambiguation": null,
+      "date": "2022-12-07",
+      "country": "IN"
+    },
+    "total_tracks": 5,
+    "total_length": "14:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Supreme",
+            "length": "2:48",
+            "deezer": {
+              "id": 2056559877,
+              "link": "https://www.deezer.com/track/2056559877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/d/0/efd1974c3d2cd395638db7a1ffa748f9.mp3?hdnea=exp=1795649152~acl=/api/1/1/e/f/d/0/efd1974c3d2cd395638db7a1ffa748f9.mp3*~data=user_id=0,application_id=42~hmac=89b4d3a7d207eabfe699b0d356ef3533c85b05cc7182bf40c80fa4313536e1e5",
+              "preview_expires": "2026-11-25T23:25:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Burberry",
+            "length": "3:16",
+            "deezer": {
+              "id": 2056559887,
+              "link": "https://www.deezer.com/track/2056559887",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/9/0/0a99a7d3e087e84ce240cbb74d418d2a.mp3?hdnea=exp=1795649152~acl=/api/1/1/0/a/9/0/0a99a7d3e087e84ce240cbb74d418d2a.mp3*~data=user_id=0,application_id=42~hmac=58dff68529e9f10d1d46ccecbcbe184a36befe375c19ddce1fa1da95863a51bc",
+              "preview_expires": "2026-11-25T23:25:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dont You Know",
+            "length": "3:01",
+            "deezer": {
+              "id": 2056559897,
+              "link": "https://www.deezer.com/track/2056559897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/c/0/95cb722d5e2d2818264f9f75f6c508dc.mp3?hdnea=exp=1795649152~acl=/api/1/1/9/5/c/0/95cb722d5e2d2818264f9f75f6c508dc.mp3*~data=user_id=0,application_id=42~hmac=bf0be5116acee5a9c269ff0fb3dcea0061c77c22c5d7844f5e4c81f742eda6f9",
+              "preview_expires": "2026-11-25T23:25:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Medicine",
+            "length": "2:42",
+            "deezer": {
+              "id": 2056559907,
+              "link": "https://www.deezer.com/track/2056559907",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/6/0/9e61333e7444741db328419f708823bb.mp3?hdnea=exp=1795649152~acl=/api/1/1/9/e/6/0/9e61333e7444741db328419f708823bb.mp3*~data=user_id=0,application_id=42~hmac=f30281c7ea52d6dfa8bf0650c7a90672bd2013319543e87adf7542cd2d6e1ad4",
+              "preview_expires": "2026-11-25T23:25:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Straight Up",
+            "length": "3:02",
+            "deezer": {
+              "id": 2056559917,
+              "link": "https://www.deezer.com/track/2056559917",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/f/0/e4f82e480dbf68b1ac60155756c8b4e7.mp3?hdnea=exp=1795649152~acl=/api/1/1/e/4/f/0/e4f82e480dbf68b1ac60155756c8b4e7.mp3*~data=user_id=0,application_id=42~hmac=2b174895538a27d6490d063dd01f67510afdae91982bb10c048a0cdedb62ac46",
+              "preview_expires": "2026-11-25T23:25:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Amrit Maan/XPENSIVE.jpg"
+}

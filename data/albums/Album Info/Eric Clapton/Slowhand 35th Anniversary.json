@@ -1,0 +1,211 @@
+{
+  "title": "Slowhand",
+  "artist": "Eric Clapton",
+  "year": 1977,
+  "release_date": "1977",
+  "type": "Album",
+  "description": "Slowhand is the fifth solo studio album by Eric Clapton. Released on 25 November 1977 by RSO Records, and titled after Clapton's nickname, it is one of his most commercially and critically successful studio albums. Slowhand produced the two hit singles \"Lay Down Sally\" and \"Wonderful Tonight\", reached various international music charts and was honoured with numerous awards and recording certifications. In 2012, a deluxe edition was released to celebrate the album's 35th anniversary.",
+  "genres": [
+    "rock",
+    "blues rock",
+    "classic rock",
+    "electric blues",
+    "pop",
+    "blues"
+  ],
+  "tags": [
+    "rock",
+    "blues rock",
+    "adult contemporary",
+    "album rock",
+    "classic rock",
+    "electric blues",
+    "pop",
+    "blues",
+    "blues-rock",
+    "contemporary pop/rock",
+    "pop/rock",
+    "rock ballad",
+    "rock ballads"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/02c2b0c7-065d-38b4-8ac0-3391839f2418",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slowhand",
+    "allmusic": "https://www.allmusic.com/album/mw0000189410",
+    "discogs": "https://www.discogs.com/master/433056",
+    "wikidata": "https://www.wikidata.org/wiki/Q549602",
+    "deezer": "https://www.deezer.com/album/6134071"
+  },
+  "musicbrainz_id": "02c2b0c7-065d-38b4-8ac0-3391839f2418",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a45e08b1-82ed-4da8-983c-ab37f0dfc92f",
+      "barcode": "00600753407196",
+      "title": "Slowhand",
+      "disambiguation": "35th anniversary edition",
+      "date": "2012-12-03",
+      "country": null
+    },
+    "total_tracks": 13,
+    "total_length": "53:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cocaine",
+            "length": "3:42",
+            "deezer": {
+              "id": 62497875,
+              "link": "https://www.deezer.com/track/62497875",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/b/0/b4ba733be88e593f1200d43eff2d6714.mp3?hdnea=exp=1795654026~acl=/api/1/1/b/4/b/0/b4ba733be88e593f1200d43eff2d6714.mp3*~data=user_id=0,application_id=42~hmac=9ce0618c6d3e9e24e62a085117bbbfb1cf7de55df2797f06189b3369dfec44a1",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Wonderful Tonight",
+            "length": "3:45",
+            "deezer": {
+              "id": 62497876,
+              "link": "https://www.deezer.com/track/62497876",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/b/0/83b66215f8423efed5622a045a1ef0eb.mp3?hdnea=exp=1795654026~acl=/api/1/1/8/3/b/0/83b66215f8423efed5622a045a1ef0eb.mp3*~data=user_id=0,application_id=42~hmac=f0a1b971b7148230f36ab0fdddab806ee7f9893f1874bedc3ed045d97d0b346e",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lay Down Sally",
+            "length": "3:56",
+            "deezer": {
+              "id": 62497877,
+              "link": "https://www.deezer.com/track/62497877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee2c5a47077e48981a1cd541f0da553.mp3?hdnea=exp=1795654026~acl=/api/1/1/d/e/e/0/dee2c5a47077e48981a1cd541f0da553.mp3*~data=user_id=0,application_id=42~hmac=1772b98b373c1ab9a0ea0ecd78c17f605b35f48c70ea5c345b87612d01891b57",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Next Time You See Her",
+            "length": "4:01",
+            "deezer": {
+              "id": 62497878,
+              "link": "https://www.deezer.com/track/62497878",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/9/0/7f9a9900ef400286bacbe36cc61763a0.mp3?hdnea=exp=1795654026~acl=/api/1/1/7/f/9/0/7f9a9900ef400286bacbe36cc61763a0.mp3*~data=user_id=0,application_id=42~hmac=a8e9dd3f1fda75ac199be28520d9ea90fe071d090cb5cb3908102d8c7483fb6c",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "We’re All the Way",
+            "length": "2:34",
+            "deezer": {
+              "id": 62497879,
+              "link": "https://www.deezer.com/track/62497879",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/4/0/3b433b03eec77099046cc1eb5c84ec41.mp3?hdnea=exp=1795654026~acl=/api/1/1/3/b/4/0/3b433b03eec77099046cc1eb5c84ec41.mp3*~data=user_id=0,application_id=42~hmac=75114c6855b698394fba807fdc7a57d2a8ea11a53347b90b76779dc65bc73aac",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Core",
+            "length": "8:45",
+            "deezer": {
+              "id": 62497880,
+              "link": "https://www.deezer.com/track/62497880",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/0/0/ad0c03b14fef0ebe509aad123071ecd2.mp3?hdnea=exp=1795654026~acl=/api/1/1/a/d/0/0/ad0c03b14fef0ebe509aad123071ecd2.mp3*~data=user_id=0,application_id=42~hmac=c4d23460faff516c8fb95f17a694ce6a35441e0820bc5f4b7c69fab0eb1fb029",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "May You Never",
+            "length": "3:02",
+            "deezer": {
+              "id": 62497881,
+              "link": "https://www.deezer.com/track/62497881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/f/0/ccf6b3d4746dc1793748d82f2ce13c74.mp3?hdnea=exp=1795654026~acl=/api/1/1/c/c/f/0/ccf6b3d4746dc1793748d82f2ce13c74.mp3*~data=user_id=0,application_id=42~hmac=53182b19ed6ceb837d61120157999bc5031c02ee2aec1b80ec51ef2cdc6de34d",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mean Old Frisco",
+            "length": "4:42",
+            "deezer": {
+              "id": 62497882,
+              "link": "https://www.deezer.com/track/62497882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/1/0/ef1edae4ed3097e242ce8d013a8ebb03.mp3?hdnea=exp=1795654026~acl=/api/1/1/e/f/1/0/ef1edae4ed3097e242ce8d013a8ebb03.mp3*~data=user_id=0,application_id=42~hmac=2498b79e6a61a174849b518d7a28e15f3a9ddfcb651fa7a2548343ffde136f1b",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Peaches and Diesel",
+            "length": "4:51",
+            "deezer": {
+              "id": 62497883,
+              "link": "https://www.deezer.com/track/62497883",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/3/0/4f37f132c60dca24889abdd6682dd1bd.mp3?hdnea=exp=1795654026~acl=/api/1/1/4/f/3/0/4f37f132c60dca24889abdd6682dd1bd.mp3*~data=user_id=0,application_id=42~hmac=875c1ee10ee3dc678416d728135097ba56c69c6c136ac5142cb24cb261e6b3c3",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Looking at the Rain",
+            "length": "3:42",
+            "deezer": {
+              "id": 62497884,
+              "link": "https://www.deezer.com/track/62497884",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92fb81aaf5e32e30968df3a7ed4b82d7.mp3?hdnea=exp=1795654026~acl=/api/1/1/9/2/f/0/92fb81aaf5e32e30968df3a7ed4b82d7.mp3*~data=user_id=0,application_id=42~hmac=6cd4934210ca17c83175aab26472ec2c5fcd107d45e019db4627aad64606a984",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Alberta",
+            "length": "2:44",
+            "deezer": {
+              "id": 62497885,
+              "link": "https://www.deezer.com/track/62497885",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/6/0/bd61e33ae3b8682bae4995c7da82f159.mp3?hdnea=exp=1795654026~acl=/api/1/1/b/d/6/0/bd61e33ae3b8682bae4995c7da82f159.mp3*~data=user_id=0,application_id=42~hmac=36ad74e46b10850997d5952a55324fdeff2b9c73924ad3ccd462549f636f6fde",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Greyhound Bus",
+            "length": "2:59",
+            "deezer": {
+              "id": 62497886,
+              "link": "https://www.deezer.com/track/62497886",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/6/0/2867bbf3bb7d8ee35ead2f4c2ed47f64.mp3?hdnea=exp=1795654026~acl=/api/1/1/2/8/6/0/2867bbf3bb7d8ee35ead2f4c2ed47f64.mp3*~data=user_id=0,application_id=42~hmac=03745f6e2826177cab9068748e59d7f0dbdbff64a8745a319c54fa0b3b0a74ee",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Stars, Strays and Ashtrays",
+            "length": "4:39",
+            "deezer": {
+              "id": 62497887,
+              "link": "https://www.deezer.com/track/62497887",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/d/0/43dea6f81035224bad45b2b29e9a2d94.mp3?hdnea=exp=1795654026~acl=/api/1/1/4/3/d/0/43dea6f81035224bad45b2b29e9a2d94.mp3*~data=user_id=0,application_id=42~hmac=b7f17c0c27a3aa2aca200aaafae6092fd82fc01f359e83d2d74674247726cdcf",
+              "preview_expires": "2026-11-26T00:47:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eric Clapton/Slowhand 35th Anniversary.jpg"
+}

@@ -1,0 +1,144 @@
+{
+  "title": "Dig",
+  "artist": "Miles Davis featuring Sonny Rollins",
+  "year": 1956,
+  "release_date": "1956",
+  "type": "Album",
+  "description": "Dig, also reissued as Diggin' with the Miles Davis Sextet, is an album by Miles Davis on Prestige Records, catalogue number 7012. It features tracks from a 1951 session at Apex Studios. First released in the 12-inch LP format in 1956, the original album was later released as Diggin' with the catalogue number PR 7281 and a different cover. Dig was reissued as a compact disc with additional tracks.",
+  "genres": [
+    "jazz",
+    "bebop",
+    "hard bop"
+  ],
+  "tags": [
+    "jazz",
+    "bebop",
+    "hard bop",
+    "bop",
+    "cool",
+    "jazz instrument",
+    "miles davis",
+    "trumpet jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 3.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/933c977e-8312-353e-b4ef-55d0dd90bd30",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dig_(Miles_Davis_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000652733",
+    "discogs": "https://www.discogs.com/master/199001",
+    "wikidata": "https://www.wikidata.org/wiki/Q1097288",
+    "deezer": "https://www.deezer.com/album/662295"
+  },
+  "musicbrainz_id": "933c977e-8312-353e-b4ef-55d0dd90bd30",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/334bdd0e-752f-4d5e-9357-3f9aefa63087",
+      "barcode": "888072323278",
+      "title": "Dig",
+      "disambiguation": null,
+      "date": "2010-10-04",
+      "country": "GB"
+    },
+    "total_tracks": 7,
+    "total_length": "45:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dig",
+            "length": "7:39",
+            "artist": "Miles Davis feat. Sonny Rollins",
+            "deezer": {
+              "id": 7180050,
+              "link": "https://www.deezer.com/track/7180050",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/b/0/cfb7176830db1c674d843c3a46b4a4ef.mp3?hdnea=exp=1795718467~acl=/api/1/1/c/f/b/0/cfb7176830db1c674d843c3a46b4a4ef.mp3*~data=user_id=0,application_id=42~hmac=e1a19a68599d09d60b186082c326b57bf98fdf2e843f00046e26b8a3b9ba5d57",
+              "preview_expires": "2026-11-26T18:41:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "It's Only a Paper Moon",
+            "length": "5:28",
+            "artist": "Miles Davis feat. Sonny Rollins",
+            "deezer": {
+              "id": 7180051,
+              "link": "https://www.deezer.com/track/7180051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/4/0/ac4b90dc169e012cd03c1ba5a365f4ce.mp3?hdnea=exp=1795718467~acl=/api/1/1/a/c/4/0/ac4b90dc169e012cd03c1ba5a365f4ce.mp3*~data=user_id=0,application_id=42~hmac=02125ef10ee90ac9a0d9f874dbadd8cf2e99fea132f527bdc287128abf9d2684",
+              "preview_expires": "2026-11-26T18:41:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Denial",
+            "length": "5:44",
+            "artist": "Miles Davis feat. Sonny Rollins",
+            "deezer": {
+              "id": 7180052,
+              "link": "https://www.deezer.com/track/7180052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/3/0/6a35e4a97a5b881657193f37a6a3bf75.mp3?hdnea=exp=1795718467~acl=/api/1/1/6/a/3/0/6a35e4a97a5b881657193f37a6a3bf75.mp3*~data=user_id=0,application_id=42~hmac=79849dbb135e17458a569ba49332443d94738bd41d16f1466bd6ceb9f1221d98",
+              "preview_expires": "2026-11-26T18:41:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bluing",
+            "length": "10:01",
+            "artist": "Miles Davis feat. Sonny Rollins",
+            "deezer": {
+              "id": 7180053,
+              "link": "https://www.deezer.com/track/7180053",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/a/0/90a1f92fcabd6327f0e9dadbd070e9ff.mp3?hdnea=exp=1795718467~acl=/api/1/1/9/0/a/0/90a1f92fcabd6327f0e9dadbd070e9ff.mp3*~data=user_id=0,application_id=42~hmac=a36e29c17fbcdc489c274fe42dfb085594b0b2f194a54f8556266d34f519f076",
+              "preview_expires": "2026-11-26T18:41:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Out of the Blue",
+            "length": "6:20",
+            "artist": "Miles Davis feat. Sonny Rollins",
+            "deezer": {
+              "id": 7180054,
+              "link": "https://www.deezer.com/track/7180054",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/5/0/535c1934e960961d7d5e9f1f35b99a8f.mp3?hdnea=exp=1795718467~acl=/api/1/1/5/3/5/0/535c1934e960961d7d5e9f1f35b99a8f.mp3*~data=user_id=0,application_id=42~hmac=4c6429f68ed44cbd2b7f7f50a439860de477809745fe4cb47feb5037d282beb6",
+              "preview_expires": "2026-11-26T18:41:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "My Old Flame",
+            "length": "6:35",
+            "artist": "Miles Davis feat. Sonny Rollins",
+            "deezer": {
+              "id": 7180055,
+              "link": "https://www.deezer.com/track/7180055",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/7/0/0c7348aa9c608e35d54dba5bbf4f4b2c.mp3?hdnea=exp=1795718467~acl=/api/1/1/0/c/7/0/0c7348aa9c608e35d54dba5bbf4f4b2c.mp3*~data=user_id=0,application_id=42~hmac=a9b3d1571d4b54dbaf03c1c29aceb2c836db6f32a12a158635a8cfd81273df89",
+              "preview_expires": "2026-11-26T18:41:07Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Conception",
+            "length": "4:01",
+            "artist": "Miles Davis feat. Sonny Rollins",
+            "deezer": {
+              "id": 7180056,
+              "link": "https://www.deezer.com/track/7180056",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/0/0/bd081591ebf6ff24e66023899f4f3030.mp3?hdnea=exp=1795718467~acl=/api/1/1/b/d/0/0/bd081591ebf6ff24e66023899f4f3030.mp3*~data=user_id=0,application_id=42~hmac=0418755caf4e74e8264117411d9bdf6a13a58079518f95a05045a8d472ced9a3",
+              "preview_expires": "2026-11-26T18:41:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Miles Davis/Dig.jpg"
+}

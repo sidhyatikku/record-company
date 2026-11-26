@@ -1,0 +1,189 @@
+{
+  "title": "Just As I Am",
+  "artist": "Bill Withers",
+  "year": 1971,
+  "release_date": "1971-05-01",
+  "type": "Album",
+  "description": "Just as I Am is the debut studio album by American soul musician Bill Withers, released on May 1, 1971, by Sussex Records. The album features the hit single \"Ain't No Sunshine\", which was ranked at number 280 on Rolling Stone magazine's list of the 500 Greatest Songs of All Time. The album is also known for featuring the single \"Grandma's Hands,\" which reached number 18 on the Best Selling Soul Singles chart and 42 on the Billboard Hot 100. Booker T. Jones produced, arranged, and played keyboards and guitar on Just as I Am. The album was later reissued as a dual disc with the DVD side featuring all the tracks in 5.1 Surround Sound.",
+  "genres": [
+    "soul",
+    "deep soul",
+    "smooth soul"
+  ],
+  "tags": [
+    "soul",
+    "classic soul r b",
+    "classic soul / r&b",
+    "deep soul",
+    "smooth soul"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a72ee504-15b5-343c-bfd7-e71f9272e0e5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Just_as_I_Am_(Bill_Withers_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000398977",
+    "discogs": "https://www.discogs.com/master/92867",
+    "wikidata": "https://www.wikidata.org/wiki/Q6316602",
+    "deezer": "https://www.deezer.com/album/230313"
+  },
+  "musicbrainz_id": "a72ee504-15b5-343c-bfd7-e71f9272e0e5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5a56f097-b98c-4b35-ade1-f4fa311be2c4",
+      "barcode": "0888880482099",
+      "title": "Just As I Am",
+      "disambiguation": null,
+      "date": "2015-04-30",
+      "country": "FR"
+    },
+    "total_tracks": 12,
+    "total_length": "35:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Harlem",
+            "length": "3:24",
+            "deezer": {
+              "id": 2312056,
+              "link": "https://www.deezer.com/track/2312056",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/9/0/0599e46ac2f3ca029625dafea4885a3e.mp3?hdnea=exp=1795652029~acl=/api/1/1/0/5/9/0/0599e46ac2f3ca029625dafea4885a3e.mp3*~data=user_id=0,application_id=42~hmac=cf674eb46398025da0e29613d522d248cc56e4d842f71d3210f0d30619aef5f6",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ain’t No Sunshine",
+            "length": "2:05",
+            "deezer": {
+              "id": 2312047,
+              "link": "https://www.deezer.com/track/2312047",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/a/0/f1ab5f45e10298bb0d2f637eaea67e06.mp3?hdnea=exp=1795652029~acl=/api/1/1/f/1/a/0/f1ab5f45e10298bb0d2f637eaea67e06.mp3*~data=user_id=0,application_id=42~hmac=2125f5a0095b61f4823a3b3cbea035171d306af79119a85b4ef706a40451ce74",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Grandma’s Hands",
+            "length": "2:01",
+            "deezer": {
+              "id": 2312048,
+              "link": "https://www.deezer.com/track/2312048",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/e/0/53e279d02aa1722c9a93cd5a7a3a435c.mp3?hdnea=exp=1795652029~acl=/api/1/1/5/3/e/0/53e279d02aa1722c9a93cd5a7a3a435c.mp3*~data=user_id=0,application_id=42~hmac=9fe41a02e3e15d302ced5097eb551139b064ef7a3075680c4f9494ec7d503943",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sweet Wanomi",
+            "length": "2:34",
+            "deezer": {
+              "id": 2312049,
+              "link": "https://www.deezer.com/track/2312049",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/c/0/21c4dd58f717af5bee78ea875c3a186f.mp3?hdnea=exp=1795652029~acl=/api/1/1/2/1/c/0/21c4dd58f717af5bee78ea875c3a186f.mp3*~data=user_id=0,application_id=42~hmac=80de25b54c0ae8f572b048155771333ad54c75d50ca5ebcc060d1e4bd8696bc3",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Everybody’s Talkin’",
+            "length": "3:26",
+            "deezer": {
+              "id": 2312057,
+              "link": "https://www.deezer.com/track/2312057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/1/0/0419cf064884f4d889888de8dcec313f.mp3?hdnea=exp=1795652029~acl=/api/1/1/0/4/1/0/0419cf064884f4d889888de8dcec313f.mp3*~data=user_id=0,application_id=42~hmac=25dcff89239e49307d59b12abde487362a5da5665abe6e01f1e062e43882fd4a",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Do It Good",
+            "length": "2:53",
+            "deezer": {
+              "id": 2312050,
+              "link": "https://www.deezer.com/track/2312050",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/5/0/be5f8cb568c5f9d5d860114dc95137d3.mp3?hdnea=exp=1795652029~acl=/api/1/1/b/e/5/0/be5f8cb568c5f9d5d860114dc95137d3.mp3*~data=user_id=0,application_id=42~hmac=4b5f4ed43908addf3642c363cee7a9d6716123232e0832898bd51e64eb0ff3d9",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Hope She’ll Be Happier",
+            "length": "3:50",
+            "deezer": {
+              "id": 2312051,
+              "link": "https://www.deezer.com/track/2312051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/1/0/8919d89955393bda7a57351818fe123d.mp3?hdnea=exp=1795652029~acl=/api/1/1/8/9/1/0/8919d89955393bda7a57351818fe123d.mp3*~data=user_id=0,application_id=42~hmac=8e8b015858b06f3989141d5179c8d840147d3da3a4731edfdca27f5a95550814",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Let It Be",
+            "length": "2:35",
+            "deezer": {
+              "id": 2312052,
+              "link": "https://www.deezer.com/track/2312052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/e/0/b6ea1b1f39397d39ef1c336d209d7434.mp3?hdnea=exp=1795652029~acl=/api/1/1/b/6/e/0/b6ea1b1f39397d39ef1c336d209d7434.mp3*~data=user_id=0,application_id=42~hmac=64e5eab70220e0173968aaaf4cbb44df19fc42be943cd14f2c5f18772c9735a7",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I’m Her Daddy",
+            "length": "3:17",
+            "deezer": {
+              "id": 2312053,
+              "link": "https://www.deezer.com/track/2312053",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/0/0/bf03d0f21c69a0596f01347319562305.mp3?hdnea=exp=1795652029~acl=/api/1/1/b/f/0/0/bf03d0f21c69a0596f01347319562305.mp3*~data=user_id=0,application_id=42~hmac=a812bdbfb5e81179679b898d8bca064f7d8c575be83f7a46455a047ed89330d4",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "In My Heart",
+            "length": "4:20",
+            "deezer": {
+              "id": 2312058,
+              "link": "https://www.deezer.com/track/2312058",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/e/0/69edd900ec5339e8b9739b2caeb0380f.mp3?hdnea=exp=1795652029~acl=/api/1/1/6/9/e/0/69edd900ec5339e8b9739b2caeb0380f.mp3*~data=user_id=0,application_id=42~hmac=2364fa2dc655d796b36968b7bb6a0921ffa9e9b13de90a04ea3aff291badee38",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Moanin’ and Groanin’",
+            "length": "2:59",
+            "deezer": {
+              "id": 2312054,
+              "link": "https://www.deezer.com/track/2312054",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/4/0/334aa225b77c67538d3413f1a3d48964.mp3?hdnea=exp=1795652029~acl=/api/1/1/3/3/4/0/334aa225b77c67538d3413f1a3d48964.mp3*~data=user_id=0,application_id=42~hmac=f60573b590daa453278aab5e74c4b22054d9ae2c0d2cbb2f4b02de0de07b9008",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Better Off Dead",
+            "length": "2:17",
+            "deezer": {
+              "id": 2312055,
+              "link": "https://www.deezer.com/track/2312055",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/5/0/015d1c6e144b7dc101bf31d3ffbf184f.mp3?hdnea=exp=1795652029~acl=/api/1/1/0/1/5/0/015d1c6e144b7dc101bf31d3ffbf184f.mp3*~data=user_id=0,application_id=42~hmac=61f0096fec7ef2e7d2f3adcc049858b67d951482dd259b66c3dd5eadfeb0b522",
+              "preview_expires": "2026-11-26T00:13:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bill Withers/Just As I Am.jpg"
+}

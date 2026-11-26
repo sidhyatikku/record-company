@@ -1,0 +1,51 @@
+{
+  "title": "Jind Mahi",
+  "artist": "Diljit Dosanjh",
+  "year": 2018,
+  "release_date": "2018-11-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f740ba19-627c-4f29-bd83-2125ff7d550e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/79837182"
+  },
+  "musicbrainz_id": "f740ba19-627c-4f29-bd83-2125ff7d550e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/248e4bbc-2be3-4fd2-b8d1-5e654f8e962e",
+      "barcode": "3615935392808",
+      "title": "Jind Mahi",
+      "disambiguation": null,
+      "date": "2018-11-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jind Mahi",
+            "length": "2:55",
+            "deezer": {
+              "id": 593407372,
+              "link": "https://www.deezer.com/track/593407372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/5/0/b455f22cc5009e5561a93f1ab551a660.mp3?hdnea=exp=1795653351~acl=/api/1/1/b/4/5/0/b455f22cc5009e5561a93f1ab551a660.mp3*~data=user_id=0,application_id=42~hmac=7824933ba189b93e01b3fd96d60eb43ca4a75ba862b68ebe1e26abca28e1c93a",
+              "preview_expires": "2026-11-26T00:35:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Diljit Dosanjh/Jind Mahi (MTV Unplugged).jpg"
+}

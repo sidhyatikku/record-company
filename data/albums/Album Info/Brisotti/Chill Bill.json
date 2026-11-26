@@ -1,0 +1,51 @@
+{
+  "title": "Chill Bill",
+  "artist": "Brisotti",
+  "year": 2021,
+  "release_date": "2021-09-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "tech house",
+    "techengue",
+    "latin house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3YoEwnQVPynp845F49r4nc",
+    "deezer": "https://www.deezer.com/album/256385132"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3YoEwnQVPynp845F49r4nc",
+      "title": "Chill Bill",
+      "date": "2021-09-17"
+    },
+    "total_tracks": 1,
+    "total_length": "6:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Chill Bill",
+            "length": "6:36",
+            "deezer": {
+              "id": 1484478452,
+              "link": "https://www.deezer.com/track/1484478452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/d/0/80d76ea7baded4438a9568a8cfab9b81.mp3?hdnea=exp=1795652540~acl=/api/1/1/8/0/d/0/80d76ea7baded4438a9568a8cfab9b81.mp3*~data=user_id=0,application_id=42~hmac=e73b82d04fb0226ec97ac87e7d1ff8db31cd297aa2cef591d69d23c094981855",
+              "preview_expires": "2026-11-26T00:22:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Brisotti/Chill Bill.jpg"
+}

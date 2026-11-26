@@ -1,0 +1,128 @@
+{
+  "title": "Baran",
+  "artist": "Parvaaz",
+  "year": 2014,
+  "release_date": "2014-08-22",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/442c075f-9f7c-45af-9a3b-c742603fcab6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1028749062"
+  },
+  "musicbrainz_id": "442c075f-9f7c-45af-9a3b-c742603fcab6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c38208ae-a54b-4d5f-b06c-0f7b164d27cc",
+      "barcode": null,
+      "title": "Baran",
+      "disambiguation": null,
+      "date": "2014-08-22",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "57:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": null,
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beparwah",
+            "length": "5:43",
+            "deezer": {
+              "id": 4152966712,
+              "link": "https://www.deezer.com/track/4152966712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/e/0/e9e711020ebdc30ef28cc5a2a1ed9f93.mp3?hdnea=exp=1795719371~acl=/api/1/1/e/9/e/0/e9e711020ebdc30ef28cc5a2a1ed9f93.mp3*~data=user_id=0,application_id=42~hmac=0d5e4a9d088512780642177d31f3d45c270afd69e237be2195832d1e300e939f",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ab Ki Ye Subah",
+            "length": "7:26",
+            "deezer": {
+              "id": 4152966722,
+              "link": "https://www.deezer.com/track/4152966722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/8/0/04804539e4854fff30c1ffd551c70340.mp3?hdnea=exp=1795719371~acl=/api/1/1/0/4/8/0/04804539e4854fff30c1ffd551c70340.mp3*~data=user_id=0,application_id=42~hmac=cad60cedaa86bca1d12a027202888a77c65656a55e2d965de056809656dfd46c",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gul Gulshan",
+            "length": "7:05",
+            "deezer": {
+              "id": 4152966732,
+              "link": "https://www.deezer.com/track/4152966732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a56279a9e6ec6377c1ac9777605180c.mp3?hdnea=exp=1795719371~acl=/api/1/1/7/a/5/0/7a56279a9e6ec6377c1ac9777605180c.mp3*~data=user_id=0,application_id=42~hmac=972c5757bc82510dc0893251dcfd4789178b3aa009f3e3fb97810f30fbc4f12f",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Roz Roz",
+            "length": "4:10",
+            "deezer": {
+              "id": 4152966742,
+              "link": "https://www.deezer.com/track/4152966742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/3/0/4c3f2341c607e0a86748e78afbd517dc.mp3?hdnea=exp=1795719371~acl=/api/1/1/4/c/3/0/4c3f2341c607e0a86748e78afbd517dc.mp3*~data=user_id=0,application_id=42~hmac=b78f174f689202f91c8de0ec320cda8004e57a4c877feeeb12a34b712b1fdd5d",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Baran",
+            "length": "13:27",
+            "deezer": {
+              "id": 4152966752,
+              "link": "https://www.deezer.com/track/4152966752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/4/0/3c43161b05cede107cf63b97db206942.mp3?hdnea=exp=1795719371~acl=/api/1/1/3/c/4/0/3c43161b05cede107cf63b97db206942.mp3*~data=user_id=0,application_id=42~hmac=ac086e8000ed25fb97f49cd4fbd05ebba9830dc5ebfa915878b468ba63c9c363",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ghaib",
+            "length": "3:54",
+            "deezer": {
+              "id": 4152966762,
+              "link": "https://www.deezer.com/track/4152966762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/4/0/b44598a2558d850fbb18ab85ea1f14b6.mp3?hdnea=exp=1795719371~acl=/api/1/1/b/4/4/0/b44598a2558d850fbb18ab85ea1f14b6.mp3*~data=user_id=0,application_id=42~hmac=757f9b1993f44c39202be6ec2c1a4d085bd07273d29ca35244967510e18ba23b",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Fitnah",
+            "length": "6:36",
+            "deezer": {
+              "id": 4152966772,
+              "link": "https://www.deezer.com/track/4152966772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/c/0/e6cf1edf1ef7b40232939fe70cb0f61a.mp3?hdnea=exp=1795719371~acl=/api/1/1/e/6/c/0/e6cf1edf1ef7b40232939fe70cb0f61a.mp3*~data=user_id=0,application_id=42~hmac=78ffccb32db93a3a599fda46ed771c62ec4819b056f6b4e94ef106a99408a313",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ziyankar",
+            "length": "8:40",
+            "deezer": {
+              "id": 4152966782,
+              "link": "https://www.deezer.com/track/4152966782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/8/0/698f4d3e50a210f4c5b97e90ca75ea6b.mp3?hdnea=exp=1795719371~acl=/api/1/1/6/9/8/0/698f4d3e50a210f4c5b97e90ca75ea6b.mp3*~data=user_id=0,application_id=42~hmac=e1af70f3387ba08969e4420c50995ce03c3abe78603e0202e4006d643b1c8855",
+              "preview_expires": "2026-11-26T18:56:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Parvaaz/Baran.jpg"
+}

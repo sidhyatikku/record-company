@@ -1,0 +1,177 @@
+{
+  "title": "Heavier Things",
+  "artist": "John Mayer",
+  "year": 2003,
+  "release_date": "2003-09-09",
+  "type": "Album",
+  "description": "Heavier Things is the second studio album by American singer-songwriter John Mayer, released on September 9, 2003, by Aware and Columbia Records. It debuted at number one on the US Billboard 200, selling over 317,000 copies in its first week. Despite some criticism towards Mayer's songwriting, Heavier Things received generally positive reviews.",
+  "genres": [
+    "rock",
+    "blues rock",
+    "pop rock",
+    "pop",
+    "alternative rock",
+    "soft rock"
+  ],
+  "tags": [
+    "rock",
+    "adult alternative pop/rock",
+    "blues rock",
+    "pop rock",
+    "alternative country-rock",
+    "pop",
+    "acoustic",
+    "alternative pop/rock",
+    "alternative rock",
+    "alternative/indie rock",
+    "pop/rock",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b6d8aecb-39c7-3287-9b3c-f57fe35a610c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heavier_Things",
+    "allmusic": "https://www.allmusic.com/album/mw0000692769",
+    "discogs": "https://www.discogs.com/master/170455",
+    "wikidata": "https://www.wikidata.org/wiki/Q3129140",
+    "deezer": "https://www.deezer.com/album/6885383"
+  },
+  "musicbrainz_id": "b6d8aecb-39c7-3287-9b3c-f57fe35a610c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3b5f65d8-e4c9-4c0b-b932-529f0b191d5b",
+      "barcode": "696998618527",
+      "title": "Heavier Things",
+      "disambiguation": null,
+      "date": "2003-09-09",
+      "country": "US"
+    },
+    "total_tracks": 10,
+    "total_length": "46:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Clarity",
+            "length": "4:32",
+            "deezer": {
+              "id": 70196423,
+              "link": "https://www.deezer.com/track/70196423",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/2/0/8d2b3bee8d03ec549ff796303e7a0c66.mp3?hdnea=exp=1795655692~acl=/api/1/1/8/d/2/0/8d2b3bee8d03ec549ff796303e7a0c66.mp3*~data=user_id=0,application_id=42~hmac=bf116ca79915207a1887877d4aec969672142cfe94fd1cee121650d1bc27782c",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bigger Than My Body",
+            "length": "4:27",
+            "deezer": {
+              "id": 70196424,
+              "link": "https://www.deezer.com/track/70196424",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/c/0/beced100eb50fac904d37883f087cec0.mp3?hdnea=exp=1795655692~acl=/api/1/1/b/e/c/0/beced100eb50fac904d37883f087cec0.mp3*~data=user_id=0,application_id=42~hmac=bd2fbffa515b07f4ce562526701e01871540ba30d8e3b486166086dad1b9ff4a",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Something's Missing",
+            "length": "5:06",
+            "deezer": {
+              "id": 70196425,
+              "link": "https://www.deezer.com/track/70196425",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/6/0/50681914986266be27ca7e39cd563ada.mp3?hdnea=exp=1795655692~acl=/api/1/1/5/0/6/0/50681914986266be27ca7e39cd563ada.mp3*~data=user_id=0,application_id=42~hmac=9711522bb99c8d02f141b5411314c079c8170d929dd216c7d77796e4af33d1ae",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "New Deep",
+            "length": "4:09",
+            "deezer": {
+              "id": 70196426,
+              "link": "https://www.deezer.com/track/70196426",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/b/0/e0b83aab8c0ae851b1cc30fd57c65a2d.mp3?hdnea=exp=1795655692~acl=/api/1/1/e/0/b/0/e0b83aab8c0ae851b1cc30fd57c65a2d.mp3*~data=user_id=0,application_id=42~hmac=bf50df6d5dbd23e1a9640ad4a466186516f8c9750de4a86d5e14fc1b5daf5db9",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Come Back to Bed",
+            "length": "5:25",
+            "deezer": {
+              "id": 70196427,
+              "link": "https://www.deezer.com/track/70196427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/e/0/e2e2e9dcacf0523c9bdcc8c291a30d9d.mp3?hdnea=exp=1795655692~acl=/api/1/1/e/2/e/0/e2e2e9dcacf0523c9bdcc8c291a30d9d.mp3*~data=user_id=0,application_id=42~hmac=d3c3b9867c4ea2f3d9eb9b8c6da10b6cfaf63d27b87536156da2449287f8dff7",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Home Life",
+            "length": "4:14",
+            "deezer": {
+              "id": 70196428,
+              "link": "https://www.deezer.com/track/70196428",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/d/0/ded5a8a7bb9794a8b3c433263c6f6a1e.mp3?hdnea=exp=1795655692~acl=/api/1/1/d/e/d/0/ded5a8a7bb9794a8b3c433263c6f6a1e.mp3*~data=user_id=0,application_id=42~hmac=8157cf2f9bf5e898c50a61ec8fae223579925200e1672a96049ab7e809ea5df7",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Split Screen Sadness",
+            "length": "5:06",
+            "deezer": {
+              "id": 70196429,
+              "link": "https://www.deezer.com/track/70196429",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/c/0/b9c4cacaade09a5556f2fa2281e119c4.mp3?hdnea=exp=1795655692~acl=/api/1/1/b/9/c/0/b9c4cacaade09a5556f2fa2281e119c4.mp3*~data=user_id=0,application_id=42~hmac=a1b5ac6bd83356b0e6712516fd5f9cee1c43a2b6e8fca2815dac9cf37eaa1853",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Daughters",
+            "length": "3:59",
+            "deezer": {
+              "id": 70196430,
+              "link": "https://www.deezer.com/track/70196430",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/4/0/a3457b55bbe0f06b872c63a6abfd98f1.mp3?hdnea=exp=1795655692~acl=/api/1/1/a/3/4/0/a3457b55bbe0f06b872c63a6abfd98f1.mp3*~data=user_id=0,application_id=42~hmac=abf615f1dc5826c1a452a5dd375a02b15811c729461cb8adf1aa43d880dd1e21",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Only Heart",
+            "length": "3:50",
+            "deezer": {
+              "id": 70196431,
+              "link": "https://www.deezer.com/track/70196431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/1/0/d61a407b9f1a38b6a0d795a9f24ea258.mp3?hdnea=exp=1795655692~acl=/api/1/1/d/6/1/0/d61a407b9f1a38b6a0d795a9f24ea258.mp3*~data=user_id=0,application_id=42~hmac=b3ccd70ec3132e9f5956de026c3cde2df00f38713cf68cd9259a661e4c369e7f",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Wheel",
+            "length": "5:35",
+            "deezer": {
+              "id": 70196432,
+              "link": "https://www.deezer.com/track/70196432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/7/0/a972c8bd349b2ace7db95bbf7fbc69dd.mp3?hdnea=exp=1795655692~acl=/api/1/1/a/9/7/0/a972c8bd349b2ace7db95bbf7fbc69dd.mp3*~data=user_id=0,application_id=42~hmac=0329102d15cfb8a1eaa49e3d569c34dbfe67cb993a6a51721c155a79c9b8ec6c",
+              "preview_expires": "2026-11-26T01:14:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Mayer/Heavier Things.jpg"
+}

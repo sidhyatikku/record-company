@@ -1,0 +1,119 @@
+{
+  "title": "Aerosmith’s Greatest Hits",
+  "artist": "Aerosmith",
+  "year": 1980,
+  "release_date": "1980-10",
+  "type": "Album + Compilation",
+  "description": "Greatest Hits, later re-released as Greatest Hits 1973–1988, is the first greatest hits compilation album by American hard rock band Aerosmith, released by Columbia Records on November 11, 1980.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "blues rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "album rock",
+    "blues rock",
+    "bright",
+    "drugs",
+    "energetic",
+    "hedonism",
+    "hypnotic",
+    "male vocalist",
+    "melodic",
+    "playful",
+    "provocative",
+    "rebellious",
+    "sentimental",
+    "sexual",
+    "theatrical"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6feaecba-88b1-3a6a-91fb-2f6a3aacfada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greatest_Hits_(Aerosmith_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000188903",
+    "discogs": "https://www.discogs.com/master/27701",
+    "wikidata": "https://www.wikidata.org/wiki/Q1191101",
+    "deezer": null
+  },
+  "musicbrainz_id": "6feaecba-88b1-3a6a-91fb-2f6a3aacfada",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e8c02223-e27c-404a-91df-4a035228a998",
+      "barcode": "074645736723",
+      "title": "Aerosmith’s Greatest Hits",
+      "disambiguation": null,
+      "date": "2011-08-26",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "37:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dream On",
+            "length": "4:24"
+          },
+          {
+            "number": "2",
+            "title": "Same Old Song and Dance",
+            "length": "3:02"
+          },
+          {
+            "number": "3",
+            "title": "Sweet Emotion",
+            "length": "3:12"
+          },
+          {
+            "number": "4",
+            "title": "Walk This Way",
+            "length": "3:31"
+          },
+          {
+            "number": "5",
+            "title": "Last Child",
+            "length": "3:26"
+          },
+          {
+            "number": "6",
+            "title": "Back in the Saddle",
+            "length": "4:39"
+          },
+          {
+            "number": "7",
+            "title": "Draw the Line",
+            "length": "3:21"
+          },
+          {
+            "number": "8",
+            "title": "Kings and Queens",
+            "length": "3:47"
+          },
+          {
+            "number": "9",
+            "title": "Come Together",
+            "length": "3:44"
+          },
+          {
+            "number": "10",
+            "title": "Remember (Walking in the Sand)",
+            "length": "4:03"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Aerosmith/Aerosmith's Greatest Hits.jpg"
+}

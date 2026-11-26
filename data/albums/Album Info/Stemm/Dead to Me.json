@@ -1,0 +1,172 @@
+{
+  "title": "Dead to Me",
+  "artist": "STEMM",
+  "year": 2001,
+  "release_date": "2001",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ec355940-b589-3d5d-b9b9-2cb0d1df73ba",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/57608082"
+  },
+  "musicbrainz_id": "ec355940-b589-3d5d-b9b9-2cb0d1df73ba",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0b3e9b0a-1da5-4166-868d-307e204c5b38",
+      "barcode": "660355597923",
+      "title": "Dead to Me",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "41:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro",
+            "length": "0:21",
+            "deezer": {
+              "id": 465221012,
+              "link": "https://www.deezer.com/track/465221012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/f/0/78f3374960b6d9117c8779464f9876db.mp3?hdnea=exp=1795720966~acl=/api/1/1/7/8/f/0/78f3374960b6d9117c8779464f9876db.mp3*~data=user_id=0,application_id=42~hmac=d20a4377964ed34740c8b3836946b0ec27d5bd23249411360d8a08afecd8cbdd",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Slippin'",
+            "length": "5:15",
+            "deezer": {
+              "id": 465221022,
+              "link": "https://www.deezer.com/track/465221022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/d/0/7cd81db47218b6784a8be0750043b693.mp3?hdnea=exp=1795720966~acl=/api/1/1/7/c/d/0/7cd81db47218b6784a8be0750043b693.mp3*~data=user_id=0,application_id=42~hmac=8172a15357e11dc07e945b7073dbe8e6efa5ed8f74791c19b6f84562edf000ab",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Perfect",
+            "length": "3:15",
+            "deezer": {
+              "id": 465221032,
+              "link": "https://www.deezer.com/track/465221032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/9/0/bc91536e0107dfb301974a25f4c34ae5.mp3?hdnea=exp=1795720966~acl=/api/1/1/b/c/9/0/bc91536e0107dfb301974a25f4c34ae5.mp3*~data=user_id=0,application_id=42~hmac=d6f23dd926f35fe89c4a37a9cf44cdbd53202a250f4cc40d9a2c92ce52ae5010",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Down",
+            "length": "5:20",
+            "deezer": {
+              "id": 465221042,
+              "link": "https://www.deezer.com/track/465221042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/f/0/6afda39074178cb216968e48d4bacad0.mp3?hdnea=exp=1795720966~acl=/api/1/1/6/a/f/0/6afda39074178cb216968e48d4bacad0.mp3*~data=user_id=0,application_id=42~hmac=72ab7e98db58259634c7793261b43f8afdb0b672891e2d274a7160a2338fb295",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Out of Context",
+            "length": "4:16",
+            "deezer": {
+              "id": 465221052,
+              "link": "https://www.deezer.com/track/465221052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/8/0/e78271e9c91d2ab27d3a1dcfd091be55.mp3?hdnea=exp=1795720966~acl=/api/1/1/e/7/8/0/e78271e9c91d2ab27d3a1dcfd091be55.mp3*~data=user_id=0,application_id=42~hmac=b139d4b88c73f3cca0d42f6d5d846bcde5121b76c348758100a6825040e6ac4a",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Noize",
+            "length": "0:09",
+            "deezer": {
+              "id": 465221062,
+              "link": "https://www.deezer.com/track/465221062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/7/0/b67b1c82fdd02a2f56ce60fb393ed047.mp3?hdnea=exp=1795720966~acl=/api/1/1/b/6/7/0/b67b1c82fdd02a2f56ce60fb393ed047.mp3*~data=user_id=0,application_id=42~hmac=7ebe67db0f4e7ec98fc2393976618f9c9f96d244fa197e1cc47226da258938a7",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Please",
+            "length": "5:02",
+            "deezer": {
+              "id": 465221072,
+              "link": "https://www.deezer.com/track/465221072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/2/0/40261d7750949c14a55fc40845c05f65.mp3?hdnea=exp=1795720966~acl=/api/1/1/4/0/2/0/40261d7750949c14a55fc40845c05f65.mp3*~data=user_id=0,application_id=42~hmac=15b9d372933aed34bb5bbfedcb3981b3b900c9f15063f4b125a5f9f45c3bbde4",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Intermission",
+            "length": "1:55",
+            "deezer": {
+              "id": 465221082,
+              "link": "https://www.deezer.com/track/465221082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/5/0/b756c9b6e7e48995a153fa85098f52a0.mp3?hdnea=exp=1795720966~acl=/api/1/1/b/7/5/0/b756c9b6e7e48995a153fa85098f52a0.mp3*~data=user_id=0,application_id=42~hmac=ba0fa375f24b27628b8a42e845da54edcb41362d94a4c012e825be9393d796bc",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Realize",
+            "length": "4:01",
+            "deezer": {
+              "id": 465221092,
+              "link": "https://www.deezer.com/track/465221092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/f/0/0efd0e8db33478f0ed0770506b0d1af4.mp3?hdnea=exp=1795720966~acl=/api/1/1/0/e/f/0/0efd0e8db33478f0ed0770506b0d1af4.mp3*~data=user_id=0,application_id=42~hmac=59d885ca9740b47323c790954cc86e4565537a906debc52cb97de191246e600e",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Part of Each",
+            "length": "4:10",
+            "deezer": {
+              "id": 465221102,
+              "link": "https://www.deezer.com/track/465221102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/4/0/dd4b542b0105600388ae563e1b94fae7.mp3?hdnea=exp=1795720966~acl=/api/1/1/d/d/4/0/dd4b542b0105600388ae563e1b94fae7.mp3*~data=user_id=0,application_id=42~hmac=6aa1b0253374ffd06b2ee9ddf7f102642c815090654a9016bd4db74d8efc9f3a",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Bum-Rushed",
+            "length": "3:41",
+            "deezer": {
+              "id": 465221112,
+              "link": "https://www.deezer.com/track/465221112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/e/0/c6e9f08ca299a32a4c5853bbf91de49a.mp3?hdnea=exp=1795720966~acl=/api/1/1/c/6/e/0/c6e9f08ca299a32a4c5853bbf91de49a.mp3*~data=user_id=0,application_id=42~hmac=9e57e6a2003281ea80590051e9741ad2d03c28d72dcc6c4e6d14513ab5dee17f",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Burn",
+            "length": "3:55",
+            "deezer": {
+              "id": 465221122,
+              "link": "https://www.deezer.com/track/465221122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/e/0/d7ef2cdd237b62ca14458af7d69dafad.mp3?hdnea=exp=1795720966~acl=/api/1/1/d/7/e/0/d7ef2cdd237b62ca14458af7d69dafad.mp3*~data=user_id=0,application_id=42~hmac=ef57e57b206c3674815b575aff369c003d319c0eaa1203b82c83405bbcba4d0e",
+              "preview_expires": "2026-11-26T19:22:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Stemm/Dead to Me.jpg"
+}

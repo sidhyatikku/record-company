@@ -1,0 +1,49 @@
+{
+  "title": "Stairway to the Stars",
+  "artist": "Figgy Mold",
+  "year": 2021,
+  "release_date": "2021-01-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c2a24b7b-6208-455e-b6c5-aef2fe646ed2",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "c2a24b7b-6208-455e-b6c5-aef2fe646ed2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e6c30b02-966d-4ef5-b642-48f49fe3d0c3",
+      "barcode": "7330065042695",
+      "title": "Stairway to the Stars",
+      "disambiguation": null,
+      "date": "2021-01-07",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stairway to the Stars",
+            "length": "4:39"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Figgy Mold/Stairway to the Stars.png"
+}

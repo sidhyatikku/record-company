@@ -1,0 +1,102 @@
+{
+  "title": "Singles (2012–2014)",
+  "artist": "Plini",
+  "year": 2017,
+  "release_date": "2017-07-14",
+  "type": "EP + Compilation",
+  "description": null,
+  "genres": [
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/17f78190-feba-40b5-b43e-7ec2e1f3df5f",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/2464966",
+    "deezer": "https://www.deezer.com/album/221642272"
+  },
+  "musicbrainz_id": "17f78190-feba-40b5-b43e-7ec2e1f3df5f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2af284e4-8a58-445f-8331-6865be9fa88a",
+      "barcode": "859721658089",
+      "title": "Singles (2012–2014)",
+      "disambiguation": null,
+      "date": "2017-07-14",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "16:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Moonflower",
+            "length": "2:43",
+            "deezer": {
+              "id": 1333998432,
+              "link": "https://www.deezer.com/track/1333998432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/5/0/ec56de05284407240e13f5a27ba28095.mp3?hdnea=exp=1795719568~acl=/api/1/1/e/c/5/0/ec56de05284407240e13f5a27ba28095.mp3*~data=user_id=0,application_id=42~hmac=408141161fa75f0b92a2ce483a081ebafc604fd91e8ba977eb6a11fff8d29c03",
+              "preview_expires": "2026-11-26T18:59:28Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "1745 7381 3265 2578",
+            "length": "3:03",
+            "deezer": {
+              "id": 1333998442,
+              "link": "https://www.deezer.com/track/1333998442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/1/0/d21a5b10c926c1e5be8a2a3c8e688a3b.mp3?hdnea=exp=1795719568~acl=/api/1/1/d/2/1/0/d21a5b10c926c1e5be8a2a3c8e688a3b.mp3*~data=user_id=0,application_id=42~hmac=da952f45f3c290af032d3538aabb977717a1855fe38489a6574fcbc4f376742d",
+              "preview_expires": "2026-11-26T18:59:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Cloudburst",
+            "length": "3:34",
+            "deezer": {
+              "id": 1333998452,
+              "link": "https://www.deezer.com/track/1333998452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a956e2880b2351ba428acbfb9f111ec.mp3?hdnea=exp=1795719568~acl=/api/1/1/4/a/9/0/4a956e2880b2351ba428acbfb9f111ec.mp3*~data=user_id=0,application_id=42~hmac=5407b5d58f3a1fe2a9a66ce90b0513ec235057b20f54ec9700db1b7f455e0e85",
+              "preview_expires": "2026-11-26T18:59:28Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Atlas",
+            "length": "3:53",
+            "deezer": {
+              "id": 1333998462,
+              "link": "https://www.deezer.com/track/1333998462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/6/0/c66dff41a82b4d7c52320c563658cff8.mp3?hdnea=exp=1795719568~acl=/api/1/1/c/6/6/0/c66dff41a82b4d7c52320c563658cff8.mp3*~data=user_id=0,application_id=42~hmac=889bef1f80e72d8354cab198e14f176de8a6462cf25ec7b14e6fe9e9723eeeaf",
+              "preview_expires": "2026-11-26T18:59:28Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ko Ki",
+            "length": "3:20",
+            "deezer": {
+              "id": 1333998472,
+              "link": "https://www.deezer.com/track/1333998472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/e/0/85e2d19ffe3f9795e51a42d6892cb8e1.mp3?hdnea=exp=1795719568~acl=/api/1/1/8/5/e/0/85e2d19ffe3f9795e51a42d6892cb8e1.mp3*~data=user_id=0,application_id=42~hmac=d9c4cd8f27c0f51364e5bc4e5175aea2806b8c4219cea3f5ad82c22a47a5aaca",
+              "preview_expires": "2026-11-26T18:59:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Plini/Singles (2012-2014).jpg"
+}

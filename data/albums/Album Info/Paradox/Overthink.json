@@ -1,0 +1,122 @@
+{
+  "title": "Overthink",
+  "artist": "Paradox",
+  "year": 2022,
+  "release_date": "2022-09-25",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e0884220-18b8-4ef9-8b7b-b431c57e2745",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/359586657"
+  },
+  "musicbrainz_id": "e0884220-18b8-4ef9-8b7b-b431c57e2745",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3016e2a1-d380-434d-ba1a-45e0788c4b39",
+      "barcode": "3617051447493",
+      "title": "Overthink",
+      "disambiguation": null,
+      "date": "2022-09-25",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "20:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro-Vert",
+            "length": "0:58",
+            "deezer": {
+              "id": 1927192057,
+              "link": "https://www.deezer.com/track/1927192057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/d/0/72dd43ed2e6da5ee85ef7268d65c0f87.mp3?hdnea=exp=1795719347~acl=/api/1/1/7/2/d/0/72dd43ed2e6da5ee85ef7268d65c0f87.mp3*~data=user_id=0,application_id=42~hmac=67b7b6e3d962e14bcabfdd1da19c66d52a91b3a8c873019dac25c312862d887c",
+              "preview_expires": "2026-11-26T18:55:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Fomo",
+            "length": "4:10",
+            "artist": "Paradox & ZelliX",
+            "deezer": {
+              "id": 1927192067,
+              "link": "https://www.deezer.com/track/1927192067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/4/0/eb4d1fa7917d17cd7e49539d9347384e.mp3?hdnea=exp=1795719347~acl=/api/1/1/e/b/4/0/eb4d1fa7917d17cd7e49539d9347384e.mp3*~data=user_id=0,application_id=42~hmac=261408aa0a7afa30cf25c07cef94a8e44d3ab6b88c15c79f55298032128f70c1",
+              "preview_expires": "2026-11-26T18:55:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Zimmedaar",
+            "length": "3:05",
+            "artist": "Paradox, A.O.D. & Arpit Bala",
+            "deezer": {
+              "id": 1927192077,
+              "link": "https://www.deezer.com/track/1927192077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/8/0/738280bd263231dab4fd750c36ae2edc.mp3?hdnea=exp=1795719347~acl=/api/1/1/7/3/8/0/738280bd263231dab4fd750c36ae2edc.mp3*~data=user_id=0,application_id=42~hmac=d2bad78123dead6a4d158a8c3ad40fb8f325a64ffd19cd85da36b931034f0e3a",
+              "preview_expires": "2026-11-26T18:55:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Glitch",
+            "length": "3:30",
+            "artist": "Paradox & ISHH",
+            "deezer": {
+              "id": 1927192087,
+              "link": "https://www.deezer.com/track/1927192087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/6/0/2f699b099c79d36e088aaed85f183fd3.mp3?hdnea=exp=1795719347~acl=/api/1/1/2/f/6/0/2f699b099c79d36e088aaed85f183fd3.mp3*~data=user_id=0,application_id=42~hmac=e8d34561355d88560459e2bc714fd5e3982cbe1df22db6ad6aaf6b9ada4f7d55",
+              "preview_expires": "2026-11-26T18:55:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Paheli",
+            "length": "3:56",
+            "artist": "Paradox, A.O.D., Cecilia Mangte, lekhak & Bhappa",
+            "deezer": {
+              "id": 1927192097,
+              "link": "https://www.deezer.com/track/1927192097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/a/0/49a4944b8b74cc67d7cba981f8b10317.mp3?hdnea=exp=1795719347~acl=/api/1/1/4/9/a/0/49a4944b8b74cc67d7cba981f8b10317.mp3*~data=user_id=0,application_id=42~hmac=f708d6e131f738ff7ed65c619fa891f39c9cdacf9f8adbd005e662fdf19e7939",
+              "preview_expires": "2026-11-26T18:55:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Itni Shakti",
+            "length": "2:43",
+            "artist": "Paradox & PINNOCIO",
+            "deezer": {
+              "id": 1927192107,
+              "link": "https://www.deezer.com/track/1927192107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/8/0/e287a432f5c546a194b08c5e909d7277.mp3?hdnea=exp=1795719347~acl=/api/1/1/e/2/8/0/e287a432f5c546a194b08c5e909d7277.mp3*~data=user_id=0,application_id=42~hmac=51d2b9609f0b42b805924cf15538e51d1410e61d5303224f848dad56b55b716b",
+              "preview_expires": "2026-11-26T18:55:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Think Over",
+            "length": "2:13",
+            "deezer": {
+              "id": 1927192117,
+              "link": "https://www.deezer.com/track/1927192117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/2/0/d2261e31f62ddd1af9f114bf5965d4a4.mp3?hdnea=exp=1795719347~acl=/api/1/1/d/2/2/0/d2261e31f62ddd1af9f114bf5965d4a4.mp3*~data=user_id=0,application_id=42~hmac=7f582d91682c8e7737b7a59b5131870f0c6ca91c28c7a49f8e19583bb7cd3551",
+              "preview_expires": "2026-11-26T18:55:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Paradox/Overthink.jpg"
+}

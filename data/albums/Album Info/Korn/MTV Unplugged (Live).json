@@ -1,0 +1,187 @@
+{
+  "title": "MTV Unplugged",
+  "artist": "Korn",
+  "year": 2007,
+  "release_date": "2007-03-05",
+  "type": "Album + Live",
+  "description": "MTV Unplugged: Korn is an acoustic live album by American nu metal band Korn, released worldwide on March 5, 2007, and on the following day in the United States.",
+  "genres": [
+    "rock",
+    "alternative metal",
+    "heavy metal",
+    "nu metal",
+    "post-grunge"
+  ],
+  "tags": [
+    "unplugged",
+    "rock",
+    "alternative metal",
+    "heavy metal",
+    "nu metal",
+    "acoustic",
+    "nü metal",
+    "pop/rock",
+    "post-grunge",
+    "rap-metal"
+  ],
+  "rating": {
+    "value_out_of_5": 2,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/27ca441b-d904-4d13-bea9-f7ecec4ec0da",
+    "wikipedia": "https://en.wikipedia.org/wiki/MTV_Unplugged_(Korn_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000482242",
+    "discogs": "https://www.discogs.com/master/32785",
+    "wikidata": "https://www.wikidata.org/wiki/Q633407",
+    "deezer": "https://www.deezer.com/album/271904842"
+  },
+  "musicbrainz_id": "27ca441b-d904-4d13-bea9-f7ecec4ec0da",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cc34412d-004e-44d9-8037-b986c4b7ecc7",
+      "barcode": "5054526425774",
+      "title": "MTV Unplugged",
+      "disambiguation": null,
+      "date": "2007-03-05",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "44:42",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blind (live at MTV studio, NYC, 2006)",
+            "length": "3:29",
+            "deezer": {
+              "id": 1549514022,
+              "link": "https://www.deezer.com/track/1549514022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/a/0/3cab12133d31293c0cecff10dcd9cad4.mp3?hdnea=exp=1795656295~acl=/api/1/1/3/c/a/0/3cab12133d31293c0cecff10dcd9cad4.mp3*~data=user_id=0,application_id=42~hmac=94aad5ebcc76dac348fb2ee7806a03709973c1b2578560636a04c85978eb2912",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hollow Life (live at MTV studio, NYC, 2006)",
+            "length": "3:24",
+            "deezer": {
+              "id": 1549514032,
+              "link": "https://www.deezer.com/track/1549514032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/3/0/4b3ab4b533546e045f7d7c2c6ff84321.mp3?hdnea=exp=1795656295~acl=/api/1/1/4/b/3/0/4b3ab4b533546e045f7d7c2c6ff84321.mp3*~data=user_id=0,application_id=42~hmac=ddee95f1266dd47bcf5744168b35c1f8852b9ec371a63a3e318ffc134c5e0569",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Freak on a Leash (live at MTV studio, NYC, 2006)",
+            "length": "3:55",
+            "artist": "Korn feat. Amy Lee",
+            "deezer": {
+              "id": 1549514042,
+              "link": "https://www.deezer.com/track/1549514042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/c/0/06cec6d71f37eedadb93d9220ecbc434.mp3?hdnea=exp=1795656295~acl=/api/1/1/0/6/c/0/06cec6d71f37eedadb93d9220ecbc434.mp3*~data=user_id=0,application_id=42~hmac=0cae0d71228744a0758938cc167833634941732d5629652df7b7893eb01c6de1",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Falling Away From Me (live at MTV studio, NYC, 2006)",
+            "length": "3:55",
+            "deezer": {
+              "id": 1549514052,
+              "link": "https://www.deezer.com/track/1549514052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/d/0/3fd619eaafbb03949b0be2a0ae0d9cd8.mp3?hdnea=exp=1795656295~acl=/api/1/1/3/f/d/0/3fd619eaafbb03949b0be2a0ae0d9cd8.mp3*~data=user_id=0,application_id=42~hmac=56416d125e1ef8057e032e50b74688b4a8bb2929837cb1ae79c6d8bac48df73e",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Creep (live at MTV studio, NYC, 2006)",
+            "length": "3:51",
+            "deezer": {
+              "id": 1549514062,
+              "link": "https://www.deezer.com/track/1549514062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/b/0/35b48e8ac9b7268786a3f418d65046da.mp3?hdnea=exp=1795656295~acl=/api/1/1/3/5/b/0/35b48e8ac9b7268786a3f418d65046da.mp3*~data=user_id=0,application_id=42~hmac=f26a2e45c43ceb5d09d936daaccbe34ecbc67ceb97bd1ea05b1379d7583fa326",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Love Song (live at MTV studio, NYC, 2006)",
+            "length": "3:50",
+            "deezer": {
+              "id": 1549514072,
+              "link": "https://www.deezer.com/track/1549514072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/f/0/aefebb6dc207853b41c7f74f6eb58df2.mp3?hdnea=exp=1795656295~acl=/api/1/1/a/e/f/0/aefebb6dc207853b41c7f74f6eb58df2.mp3*~data=user_id=0,application_id=42~hmac=60960bb99736268ee8c86ac96ba6f1d8a46229274fdbffd2a6552e6a920d22e5",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Got the Life (live at MTV studio, NYC, 2006)",
+            "length": "3:48",
+            "deezer": {
+              "id": 1549514082,
+              "link": "https://www.deezer.com/track/1549514082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/1/0/f911d65bcfc3e236041f5018379ffbbe.mp3?hdnea=exp=1795656295~acl=/api/1/1/f/9/1/0/f911d65bcfc3e236041f5018379ffbbe.mp3*~data=user_id=0,application_id=42~hmac=0ab71eb52af07fe937a64d5bbb3ef1540472f5ea91eb6e45552c0a66399532bc",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Twisted Transistor (live at MTV studio, NYC, 2006)",
+            "length": "3:00",
+            "deezer": {
+              "id": 1549514122,
+              "link": "https://www.deezer.com/track/1549514122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/5/0/56501e64ca8422e6dc8ea687d41b53e5.mp3?hdnea=exp=1795656295~acl=/api/1/1/5/6/5/0/56501e64ca8422e6dc8ea687d41b53e5.mp3*~data=user_id=0,application_id=42~hmac=032d6c79d19c1b7c30a4154dcbd9162899102fa54f95edbd2807c4dbfe714501",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Coming Undone (live at MTV studio, NYC, 2006)",
+            "length": "3:35",
+            "deezer": {
+              "id": 1549514152,
+              "link": "https://www.deezer.com/track/1549514152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f252c32a3c6c2a4249f218586668ac.mp3?hdnea=exp=1795656295~acl=/api/1/1/e/2/f/0/e2f252c32a3c6c2a4249f218586668ac.mp3*~data=user_id=0,application_id=42~hmac=1957982265fda8e2b7a1c1ab9ed91357a413add22547cf51e352123d21af1ab2",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Make Me Bad / In Between Days (live at MTV studio, NYC, 2006)",
+            "length": "5:35",
+            "artist": "Korn feat. The Cure",
+            "deezer": {
+              "id": 1549514182,
+              "link": "https://www.deezer.com/track/1549514182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/7/0/a67c93ce577be03e1f907b7616865d60.mp3?hdnea=exp=1795656295~acl=/api/1/1/a/6/7/0/a67c93ce577be03e1f907b7616865d60.mp3*~data=user_id=0,application_id=42~hmac=8284097aed42b6259620da714568b7112a2ec4d3a1e8fb945a13d3dcb00b8a4e",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Throw Me Away (live at MTV studio, NYC, 2006)",
+            "length": "6:20",
+            "deezer": {
+              "id": 1549514212,
+              "link": "https://www.deezer.com/track/1549514212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/3/0/a03a5ee459c55bf20ab4d92317eef47c.mp3?hdnea=exp=1795656295~acl=/api/1/1/a/0/3/0/a03a5ee459c55bf20ab4d92317eef47c.mp3*~data=user_id=0,application_id=42~hmac=340f1e7dbd3866621e6e86197f9a8b6c4630ab0c64158679c29becd078a22d25",
+              "preview_expires": "2026-11-26T01:24:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Korn/MTV Unplugged (Live).jpg"
+}

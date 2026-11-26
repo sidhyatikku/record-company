@@ -1,0 +1,59 @@
+{
+  "title": "Laugh Now Cry Later",
+  "artist": "Drake feat. Lil Durk",
+  "year": 2020,
+  "release_date": "2020-08-14",
+  "type": "Single",
+  "description": "\"Laugh Now Cry Later\" is a song by Canadian rapper Drake featuring American rapper Lil Durk. It was released through Republic Records and OVO Sound as a single on August 14, 2020. The two artists wrote the song alongside producers Cardo, Rogét Chahayed, G. Ry, Bryan Yepes and Yung Exclusive. It was originally the intended lead single from Drake's sixth studio album, Certified Lover Boy (2021).",
+  "genres": [],
+  "tags": [
+    "alt hip hop",
+    "hip-hop/rap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/07c7c6fa-c9bb-46ba-a23e-3515960ce42b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laugh_Now_Cry_Later",
+    "wikidata": "https://www.wikidata.org/wiki/Q98410692",
+    "deezer": "https://www.deezer.com/album/166946302"
+  },
+  "musicbrainz_id": "07c7c6fa-c9bb-46ba-a23e-3515960ce42b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7817b28f-88d8-43fc-81ff-c3c4dc4b8477",
+      "barcode": "00602435131771",
+      "title": "Laugh Now Cry Later",
+      "disambiguation": "explicit",
+      "date": "2020-08-14",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Laugh Now Cry Later",
+            "length": "4:21",
+            "deezer": {
+              "id": 1050306812,
+              "link": "https://www.deezer.com/track/1050306812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/e/0/f4e7e0195c2d4aaf11c03718539ec9dd.mp3?hdnea=exp=1795653558~acl=/api/1/1/f/4/e/0/f4e7e0195c2d4aaf11c03718539ec9dd.mp3*~data=user_id=0,application_id=42~hmac=fcdab87d8363d54d1b2461c2b9c17ae586f9ffabb21d3a1470d5ac446976ca3a",
+              "preview_expires": "2026-11-26T00:39:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/Laugh Now Cry Later.jpg"
+}

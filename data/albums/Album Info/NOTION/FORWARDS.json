@@ -1,0 +1,142 @@
+{
+  "title": "FORWARDS",
+  "artist": "NOTION",
+  "year": 2024,
+  "release_date": "2024-08-30",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1781a6d2-4815-4be4-8383-57a332e0fff8",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/633146111"
+  },
+  "musicbrainz_id": "1781a6d2-4815-4be4-8383-57a332e0fff8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bb0c8a90-93f3-43f1-b89c-147b441b1fba",
+      "barcode": null,
+      "title": "FORWARDS",
+      "disambiguation": null,
+      "date": "2024-08-30",
+      "country": "US"
+    },
+    "total_tracks": 9,
+    "total_length": "34:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "GRAVITY",
+            "length": "4:12",
+            "deezer": {
+              "id": 2959866581,
+              "link": "https://www.deezer.com/track/2959866581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/1/0/451b8a72aabd4b355e30092812a76e70.mp3?hdnea=exp=1795719008~acl=/api/1/1/4/5/1/0/451b8a72aabd4b355e30092812a76e70.mp3*~data=user_id=0,application_id=42~hmac=72415ace029f909e2cf93e0b95eb497b3ef6da00aa4d7b96d463b16c17e7fe5e",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "TEMPORARY FRIENDS",
+            "length": "3:02",
+            "artist": "NOTION feat. Charlotte Plank",
+            "deezer": {
+              "id": 2959866591,
+              "link": "https://www.deezer.com/track/2959866591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/0/0/f30cc263527d111d7528f52958e1c6e0.mp3?hdnea=exp=1795719008~acl=/api/1/1/f/3/0/0/f30cc263527d111d7528f52958e1c6e0.mp3*~data=user_id=0,application_id=42~hmac=d114dff4a74d0eba2e1a3248cd07bfc25ff103b8c29903cbd58fed7b549c09c7",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "TV DREAMS",
+            "length": "4:00",
+            "deezer": {
+              "id": 2959866601,
+              "link": "https://www.deezer.com/track/2959866601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/9/0/3d94125dea116ee848b364f92777564c.mp3?hdnea=exp=1795719008~acl=/api/1/1/3/d/9/0/3d94125dea116ee848b364f92777564c.mp3*~data=user_id=0,application_id=42~hmac=26dafd21261f08d505f4e8a46aa8389b7040f4b2530aa969867ec154e9f8548d",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "FEEL LIKE ME",
+            "length": "5:13",
+            "deezer": {
+              "id": 2959866611,
+              "link": "https://www.deezer.com/track/2959866611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/1/0/741071c5ab4d71f769611405d6ba12bb.mp3?hdnea=exp=1795719008~acl=/api/1/1/7/4/1/0/741071c5ab4d71f769611405d6ba12bb.mp3*~data=user_id=0,application_id=42~hmac=9ec56a39fbbbff3b2cc801801fbd199f679f0daa1a2be25f6815da0b55625519",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "BACKBONE",
+            "length": "3:06",
+            "artist": "NOTION feat. Olivia Rose",
+            "deezer": {
+              "id": 2959866621,
+              "link": "https://www.deezer.com/track/2959866621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/a/0/d8a0bc3be8028c6fdd3a67b1f4c25ce8.mp3?hdnea=exp=1795719008~acl=/api/1/1/d/8/a/0/d8a0bc3be8028c6fdd3a67b1f4c25ce8.mp3*~data=user_id=0,application_id=42~hmac=1d45f177354385b533ad8812b9cbd2d9d578b91998b8c56f93d5e2390eaafc22",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "STYLING",
+            "length": "3:26",
+            "deezer": {
+              "id": 2959866631,
+              "link": "https://www.deezer.com/track/2959866631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/b/0/e4b76a4b53a043bbebed90c042806393.mp3?hdnea=exp=1795719008~acl=/api/1/1/e/4/b/0/e4b76a4b53a043bbebed90c042806393.mp3*~data=user_id=0,application_id=42~hmac=ab9596a3cefb4ac351dc8016ec7022fba8c5979c2d7639398c0d212baff7f148",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "THINK ABOUT U",
+            "length": "3:28",
+            "deezer": {
+              "id": 2959866641,
+              "link": "https://www.deezer.com/track/2959866641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/b/0/71be438eb85dcf2ae1b3999d96f0bd61.mp3?hdnea=exp=1795719008~acl=/api/1/1/7/1/b/0/71be438eb85dcf2ae1b3999d96f0bd61.mp3*~data=user_id=0,application_id=42~hmac=eb9f60ac11ea884fbebfd065e5b6ae05be3b0bec1d591e72ee9c42edac10aa99",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "SECRETS",
+            "length": "4:13",
+            "artist": "NOTION feat. Cameron Hayes",
+            "deezer": {
+              "id": 2959866651,
+              "link": "https://www.deezer.com/track/2959866651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/4/0/59468e1d7b4bf702245a0d89d80acd91.mp3?hdnea=exp=1795719008~acl=/api/1/1/5/9/4/0/59468e1d7b4bf702245a0d89d80acd91.mp3*~data=user_id=0,application_id=42~hmac=cbf47558f29cd6f7ad8318557b49389587d3d45b2b0d4907a701e20200f1233c",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "LITTLE STEPS",
+            "length": "3:37",
+            "deezer": {
+              "id": 2959866661,
+              "link": "https://www.deezer.com/track/2959866661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/7/0/8b73db14cc8db76f7d683e52f0a9be5b.mp3?hdnea=exp=1795719008~acl=/api/1/1/8/b/7/0/8b73db14cc8db76f7d683e52f0a9be5b.mp3*~data=user_id=0,application_id=42~hmac=bb702fb370547d66b731de7964c6acaaa1b4a3da7bd342c2ef4137a1adf70d84",
+              "preview_expires": "2026-11-26T18:50:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/NOTION/FORWARDS.jpg"
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Yas",
+  "artist": "Polyphia",
+  "year": 2018,
+  "release_date": "2018-09-24",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fa21751c-8307-48e2-8d16-7354b6619338",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/69790562"
+  },
+  "musicbrainz_id": "fa21751c-8307-48e2-8d16-7354b6619338",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dca90859-4a50-462c-a6fd-1c84760a9e9f",
+      "barcode": "192562841945",
+      "title": "Yas",
+      "disambiguation": null,
+      "date": "2018-09-24",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yas",
+            "length": "3:23",
+            "artist": "Polyphia, Mario Camarena & Erick Hansel",
+            "deezer": {
+              "id": 536359152,
+              "link": "https://www.deezer.com/track/536359152",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Polyphia/Yas.jpg"
+}

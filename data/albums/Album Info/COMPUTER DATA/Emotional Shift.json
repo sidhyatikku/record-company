@@ -1,0 +1,85 @@
+{
+  "title": "Emotional Shift EP",
+  "artist": "COMPUTER DATA",
+  "year": 2018,
+  "release_date": "2018-11-22",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "dance",
+    "deep house",
+    "electronic",
+    "house",
+    "synthwave"
+  ],
+  "tags": [
+    "dance",
+    "deep house",
+    "electronic",
+    "house",
+    "synthwave"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/dc48fe8c-1505-4991-9dc7-0b98f89df660",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/977182021"
+  },
+  "musicbrainz_id": "dc48fe8c-1505-4991-9dc7-0b98f89df660",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e806552c-23dd-43e6-af9a-91b6400bf16d",
+      "barcode": null,
+      "title": "Emotional Shift EP",
+      "disambiguation": null,
+      "date": "2018-11-22",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "22:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fog",
+            "length": "9:03",
+            "deezer": {
+              "id": 4005802921,
+              "link": "https://www.deezer.com/track/4005802921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/0/0/be023103cb20c59ab38b670842e9d20d.mp3?hdnea=exp=1795652954~acl=/api/1/1/b/e/0/0/be023103cb20c59ab38b670842e9d20d.mp3*~data=user_id=0,application_id=42~hmac=3234158246d2f3a299f1741658fb464c74b956e17268fc3def5144a61cccf8c8",
+              "preview_expires": "2026-11-26T00:29:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Healing",
+            "length": "6:15",
+            "deezer": {
+              "id": 4005802931,
+              "link": "https://www.deezer.com/track/4005802931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/e/0/94ee1bd9011bf3533bc41242511dc25a.mp3?hdnea=exp=1795652954~acl=/api/1/1/9/4/e/0/94ee1bd9011bf3533bc41242511dc25a.mp3*~data=user_id=0,application_id=42~hmac=3f0dae6f9cbf0624735d064b033ff9c0ea2c596799a8367164255bfae0c9eea7",
+              "preview_expires": "2026-11-26T00:29:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "U",
+            "length": "7:33",
+            "deezer": {
+              "id": 4005802941,
+              "link": "https://www.deezer.com/track/4005802941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/9/0/ec955ffc5038969a2985aa645b2db99a.mp3?hdnea=exp=1795652954~acl=/api/1/1/e/c/9/0/ec955ffc5038969a2985aa645b2db99a.mp3*~data=user_id=0,application_id=42~hmac=5bea7091da58945b2195c8b7c4bf4cb324916c9484a086af30597e4b722329ec",
+              "preview_expires": "2026-11-26T00:29:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/COMPUTER DATA/Emotional Shift.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Toosie Slide",
+  "artist": "Drake",
+  "year": 2020,
+  "release_date": "2020-04-03",
+  "type": "Single",
+  "description": "\"Toosie Slide\" is a song by Canadian rapper Drake from his commercial mixtape Dark Lane Demo Tapes (2020). Written alongside producer OZ, it was released as the lead single on April 3, 2020, through Republic and OVO. The song is titled after social media influencer, Toosie, who had previously helped the song go viral. A video was released alongside the song, showing Drake quarantined, due to the COVID-19 pandemic. He also demonstrates the Toosie Slide dance in his Toronto mansion. The song debuted at number eighteen on the US Bubbling Under Hot 100 before debuting at number one on the main Billboard Hot 100 chart the next week, making Drake the first male artist to accomplish three number-one debuts.",
+  "genres": [
+    "hip hop",
+    "trap"
+  ],
+  "tags": [
+    "alt hip hop",
+    "hip hop",
+    "todd in the shadows",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/00292009-9c43-4c92-9262-88e95a4774a4",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toosie_Slide",
+    "deezer": "https://www.deezer.com/album/139608572"
+  },
+  "musicbrainz_id": "00292009-9c43-4c92-9262-88e95a4774a4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/441b176b-abe6-43cb-8365-dec83ae200cb",
+      "barcode": "00602508991455",
+      "title": "Toosie Slide",
+      "disambiguation": null,
+      "date": "2020-04-03",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Toosie Slide",
+            "length": "4:07",
+            "deezer": {
+              "id": 919708552,
+              "link": "https://www.deezer.com/track/919708552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/2/0/0c2b974e0db59b2aec53f76806cdb486.mp3?hdnea=exp=1795653606~acl=/api/1/1/0/c/2/0/0c2b974e0db59b2aec53f76806cdb486.mp3*~data=user_id=0,application_id=42~hmac=a29bbcee74e909acf9116039483992c116348395a6405dac3047cf71de20e766",
+              "preview_expires": "2026-11-26T00:40:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/Toosie Slide.jpg"
+}

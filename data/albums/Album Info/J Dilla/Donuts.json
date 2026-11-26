@@ -1,0 +1,399 @@
+{
+  "title": "Donuts",
+  "artist": "J Dilla",
+  "year": 2006,
+  "release_date": "2006-02-07",
+  "type": "Album",
+  "description": "Donuts is the second studio album by the American hip-hop producer J Dilla, as well as the final album to be released in his lifetime. It was released on February 7, 2006, by Stones Throw Records, on his 32nd birthday, just three days before his death. Produced in 2005, it is an instrumental hip-hop album structured in an infinite loop, consisting of 31 tracks with 34 different samples from rock, jazz, and soul.",
+  "genres": [
+    "instrumental hip hop",
+    "hip hop",
+    "instrumental",
+    "plunderphonics"
+  ],
+  "tags": [
+    "hip-hop",
+    "instrumental hip hop",
+    "hip hop",
+    "instrumental",
+    "plunderphonics"
+  ],
+  "rating": {
+    "value_out_of_5": 4.6,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6b78c33a-64c4-3472-99e9-be45a392acb4",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donuts_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000393641",
+    "discogs": "https://www.discogs.com/master/68208",
+    "wikidata": "https://www.wikidata.org/wiki/Q4346634",
+    "deezer": "https://www.deezer.com/album/54294542"
+  },
+  "musicbrainz_id": "6b78c33a-64c4-3472-99e9-be45a392acb4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d5f87adc-f67c-47e7-a8f5-f94a5b3d2ff5",
+      "barcode": "659457212629",
+      "title": "Donuts",
+      "disambiguation": "extra text on cover",
+      "date": "2006-02-07",
+      "country": "US"
+    },
+    "total_tracks": 31,
+    "total_length": "43:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Donuts (outro)",
+            "length": "0:13",
+            "deezer": {
+              "id": 445960812,
+              "link": "https://www.deezer.com/track/445960812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/1/0/0d109fe8314205bfdea09e06f71e0da0.mp3?hdnea=exp=1795655336~acl=/api/1/1/0/d/1/0/0d109fe8314205bfdea09e06f71e0da0.mp3*~data=user_id=0,application_id=42~hmac=8572d83caff1472dd4b9ef330a05ed7b45e101105f4abaaf609a7e51b116d091",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Workinonit",
+            "length": "2:57",
+            "deezer": {
+              "id": 445960822,
+              "link": "https://www.deezer.com/track/445960822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/d/0/14dbcdccb8b0e042d5b85de0c1f0e99c.mp3?hdnea=exp=1795655336~acl=/api/1/1/1/4/d/0/14dbcdccb8b0e042d5b85de0c1f0e99c.mp3*~data=user_id=0,application_id=42~hmac=a702f75985b81198f66d958350bd232ebb46adb7930920a7e696d531feded920",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Waves",
+            "length": "1:39",
+            "deezer": {
+              "id": 445960832,
+              "link": "https://www.deezer.com/track/445960832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/0/0/23009f4add273dde0278d8fa2b515379.mp3?hdnea=exp=1795655336~acl=/api/1/1/2/3/0/0/23009f4add273dde0278d8fa2b515379.mp3*~data=user_id=0,application_id=42~hmac=e77767c82873ec42f638cefd151fb1230da81a87baa0f629817fae15aa5209f5",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Light My Fire",
+            "length": "0:36",
+            "deezer": {
+              "id": 445960842,
+              "link": "https://www.deezer.com/track/445960842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/5/0/8e5076d0e5cf309d451a74eda3e6d433.mp3?hdnea=exp=1795655336~acl=/api/1/1/8/e/5/0/8e5076d0e5cf309d451a74eda3e6d433.mp3*~data=user_id=0,application_id=42~hmac=2bb1ab76acbadb852d4a023c0fbcfd6b3cf0b5eebe870c5d792728455f046a17",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The New",
+            "length": "0:50",
+            "deezer": {
+              "id": 445960852,
+              "link": "https://www.deezer.com/track/445960852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/b/0/80b520073d2dd7ae6a01849630efa1bb.mp3?hdnea=exp=1795655336~acl=/api/1/1/8/0/b/0/80b520073d2dd7ae6a01849630efa1bb.mp3*~data=user_id=0,application_id=42~hmac=01ad73eda4648554d75e1ede21c9bd538134be0e1b3c5a609c558d84f3cf3b79",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Stop",
+            "length": "1:39",
+            "deezer": {
+              "id": 445960862,
+              "link": "https://www.deezer.com/track/445960862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/f/0/17fa2b9c9d69d7aa521e24fc95340a6d.mp3?hdnea=exp=1795655336~acl=/api/1/1/1/7/f/0/17fa2b9c9d69d7aa521e24fc95340a6d.mp3*~data=user_id=0,application_id=42~hmac=7e4d460d59533cd01bdee6b859a48fd539b53362d6a4f2e4afeec7db35d0d61d",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "People",
+            "length": "1:24",
+            "deezer": {
+              "id": 445960872,
+              "link": "https://www.deezer.com/track/445960872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/e/0/53e89b7a9b2a604f747f990ee8dacdd2.mp3?hdnea=exp=1795655336~acl=/api/1/1/5/3/e/0/53e89b7a9b2a604f747f990ee8dacdd2.mp3*~data=user_id=0,application_id=42~hmac=2145859e08ab896edc4385cd5cf37c91be12cfcd2ef990c955e27fac11fb3acc",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Diff’rence",
+            "length": "1:52",
+            "deezer": {
+              "id": 445960882,
+              "link": "https://www.deezer.com/track/445960882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/c/0/7ac3f8818dcb2104e2fc95403d96ac71.mp3?hdnea=exp=1795655336~acl=/api/1/1/7/a/c/0/7ac3f8818dcb2104e2fc95403d96ac71.mp3*~data=user_id=0,application_id=42~hmac=26879e45aceedf39ee0377aa79e1ba0bce32e3571be5f6ad4b65f7aafd5fb69f",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mash",
+            "length": "1:31",
+            "deezer": {
+              "id": 445960892,
+              "link": "https://www.deezer.com/track/445960892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/7/0/1278e1f62c97d8ba1357c4e2a83b87a6.mp3?hdnea=exp=1795655336~acl=/api/1/1/1/2/7/0/1278e1f62c97d8ba1357c4e2a83b87a6.mp3*~data=user_id=0,application_id=42~hmac=aea234af4cb5fd5f894d03a0460fa4f1d31dff3ab55a67fc72a12e0d2aaa87dc",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Time: The Donut of the Heart",
+            "length": "1:39",
+            "deezer": {
+              "id": 445960902,
+              "link": "https://www.deezer.com/track/445960902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/d/0/81d1827b676b880b32eed6622a1fe56a.mp3?hdnea=exp=1795655336~acl=/api/1/1/8/1/d/0/81d1827b676b880b32eed6622a1fe56a.mp3*~data=user_id=0,application_id=42~hmac=0eef0e2877ba9d63b1dcf045df172e7ee2976b6ae7ee882954bc86152629760c",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Glazed",
+            "length": "1:21",
+            "deezer": {
+              "id": 445960912,
+              "link": "https://www.deezer.com/track/445960912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/8/0/af88e491799c6f43b72213d935d0e3d6.mp3?hdnea=exp=1795655336~acl=/api/1/1/a/f/8/0/af88e491799c6f43b72213d935d0e3d6.mp3*~data=user_id=0,application_id=42~hmac=1d9dd4a9bcd899d0b67a67a9f2a4656ccc05d2496bd173bf122bce531dbdfdbd",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Airworks",
+            "length": "1:45",
+            "deezer": {
+              "id": 445960922,
+              "link": "https://www.deezer.com/track/445960922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/9/0/879ff30ba39546b2ccf6e56128d65eb9.mp3?hdnea=exp=1795655336~acl=/api/1/1/8/7/9/0/879ff30ba39546b2ccf6e56128d65eb9.mp3*~data=user_id=0,application_id=42~hmac=f6b969a78ea1461d4fa6a4af62f579f9bafbc81d8bdb9e2c2798f219a9143835",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Lightworks",
+            "length": "1:55",
+            "deezer": {
+              "id": 445960932,
+              "link": "https://www.deezer.com/track/445960932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/a/0/c7adac8ed4e9dec68ddb17b37e217cac.mp3?hdnea=exp=1795655336~acl=/api/1/1/c/7/a/0/c7adac8ed4e9dec68ddb17b37e217cac.mp3*~data=user_id=0,application_id=42~hmac=80b2e9eea73851bec2f3d5a842fa828f0ca01ed0500a12dc8a09218fbe9f080e",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Stepson of the Clapper",
+            "length": "1:01",
+            "deezer": {
+              "id": 445960942,
+              "link": "https://www.deezer.com/track/445960942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/f/0/d1f86591c5b4ab9f7b58d5b4774d486f.mp3?hdnea=exp=1795655336~acl=/api/1/1/d/1/f/0/d1f86591c5b4ab9f7b58d5b4774d486f.mp3*~data=user_id=0,application_id=42~hmac=75c995349f82e72fbc2e0b4481fda7f32f590d35d19b122d9d6b84ff882c36ff",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "The Twister (Huh, What)",
+            "length": "1:17",
+            "deezer": {
+              "id": 445960952,
+              "link": "https://www.deezer.com/track/445960952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/f/0/dcf45b737775b257d3bf08a58d19cc15.mp3?hdnea=exp=1795655336~acl=/api/1/1/d/c/f/0/dcf45b737775b257d3bf08a58d19cc15.mp3*~data=user_id=0,application_id=42~hmac=051f4c0de2d6ab77d917fc07d8dfd378332432e4a5c9c0dd92325cff19ad1a69",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "One Eleven",
+            "length": "1:11",
+            "deezer": {
+              "id": 445960962,
+              "link": "https://www.deezer.com/track/445960962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/d/0/66d9fdd8350bdab13f05fea5e7f90c49.mp3?hdnea=exp=1795655336~acl=/api/1/1/6/6/d/0/66d9fdd8350bdab13f05fea5e7f90c49.mp3*~data=user_id=0,application_id=42~hmac=e7e3b48a050899f854af0c46f41cf92b71e39369176156f9bd7ab5d09029564f",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Two Can Win",
+            "length": "1:47",
+            "deezer": {
+              "id": 445960972,
+              "link": "https://www.deezer.com/track/445960972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fff5dd21befc861e7a7e12c53b3cc4.mp3?hdnea=exp=1795655336~acl=/api/1/1/b/3/f/0/b3fff5dd21befc861e7a7e12c53b3cc4.mp3*~data=user_id=0,application_id=42~hmac=e31f055050f8e93510c766dcf4c473402912f02002ebe5f9f24122b0e152ea95",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Don’t Cry",
+            "length": "1:59",
+            "deezer": {
+              "id": 445960982,
+              "link": "https://www.deezer.com/track/445960982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/6/0/6f61209bbcf3be5bcc31b79e1140ec01.mp3?hdnea=exp=1795655336~acl=/api/1/1/6/f/6/0/6f61209bbcf3be5bcc31b79e1140ec01.mp3*~data=user_id=0,application_id=42~hmac=a7a595af3f94d603a8d87b58250b06fbf026485804eb3b9bda7c609b2f335f3c",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Anti‐American Graffiti",
+            "length": "1:54",
+            "deezer": {
+              "id": 445960992,
+              "link": "https://www.deezer.com/track/445960992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/d/0/05d92ac8ec90ee3a8b3de2c43b98e039.mp3?hdnea=exp=1795655336~acl=/api/1/1/0/5/d/0/05d92ac8ec90ee3a8b3de2c43b98e039.mp3*~data=user_id=0,application_id=42~hmac=786fa0f80a3a95f038778ab7645242aa116ee98d79edf890784a7f98eb7c57fb",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Geek Down",
+            "length": "1:20",
+            "deezer": {
+              "id": 445961002,
+              "link": "https://www.deezer.com/track/445961002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/0/0/f506f6e058aaeaa80ddc88e46d190012.mp3?hdnea=exp=1795655336~acl=/api/1/1/f/5/0/0/f506f6e058aaeaa80ddc88e46d190012.mp3*~data=user_id=0,application_id=42~hmac=115606db0b491359e1ad1836bbadbd40d5e230758aea1d2b57c4bbd4ec5483af",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Thunder",
+            "length": "0:54",
+            "deezer": {
+              "id": 445961012,
+              "link": "https://www.deezer.com/track/445961012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/6/0/ff67a4efe1fbeb7b07dfde48e821c9ab.mp3?hdnea=exp=1795655336~acl=/api/1/1/f/f/6/0/ff67a4efe1fbeb7b07dfde48e821c9ab.mp3*~data=user_id=0,application_id=42~hmac=579f2a5ac9ddf70a8b0c020ec354555bdf28d54e8e8417664be93e99ec3c22c9",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Gobstopper",
+            "length": "1:05",
+            "deezer": {
+              "id": 445961022,
+              "link": "https://www.deezer.com/track/445961022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/d/0/dfdbbf3ded46ddbc69c8790e0c08a518.mp3?hdnea=exp=1795655336~acl=/api/1/1/d/f/d/0/dfdbbf3ded46ddbc69c8790e0c08a518.mp3*~data=user_id=0,application_id=42~hmac=02814bce7a5ae7094a70e24835efd040fe5b8ba52ffdc6f3ffa52d0a5ba25c25",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "One for Ghost",
+            "length": "1:18",
+            "deezer": {
+              "id": 445961032,
+              "link": "https://www.deezer.com/track/445961032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/f/0/d9f52b1b1666265aed50cc4532353b0c.mp3?hdnea=exp=1795655336~acl=/api/1/1/d/9/f/0/d9f52b1b1666265aed50cc4532353b0c.mp3*~data=user_id=0,application_id=42~hmac=22eff798b1d1d99c05327b0d73ce4cc3eaf9f9d7cef4f99fc2cc84b43e206273",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Dilla Says Go",
+            "length": "1:16",
+            "deezer": {
+              "id": 445961042,
+              "link": "https://www.deezer.com/track/445961042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/8/0/9586df9178ab2b234a879326370f0ebd.mp3?hdnea=exp=1795655336~acl=/api/1/1/9/5/8/0/9586df9178ab2b234a879326370f0ebd.mp3*~data=user_id=0,application_id=42~hmac=ffe91245d63505d2dd71511d68510bc1567f0d55701d5d77f6ff1efff1d10c4d",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "Walkinonit",
+            "length": "1:15",
+            "deezer": {
+              "id": 445961052,
+              "link": "https://www.deezer.com/track/445961052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/4/0/db407b2e10046002b63dce760fefa9ce.mp3?hdnea=exp=1795655336~acl=/api/1/1/d/b/4/0/db407b2e10046002b63dce760fefa9ce.mp3*~data=user_id=0,application_id=42~hmac=eb8899dafc44f81dc18472002f1c4853efafafe7794ddcb6ebf40486a20e2f29",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "The Factory",
+            "length": "1:24",
+            "deezer": {
+              "id": 445961062,
+              "link": "https://www.deezer.com/track/445961062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/9/0/8f956f11f616a93ccaba0cc9aa532655.mp3?hdnea=exp=1795655336~acl=/api/1/1/8/f/9/0/8f956f11f616a93ccaba0cc9aa532655.mp3*~data=user_id=0,application_id=42~hmac=226112b02d4b3ee13a932db58ee9b5b6088258c74130ed7e21cd3af0ca4c56c0",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "U‐Love",
+            "length": "1:01",
+            "deezer": {
+              "id": 445961072,
+              "link": "https://www.deezer.com/track/445961072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/4/0/c74d6edd6a30e0ba68d6b4d5a6cebf97.mp3?hdnea=exp=1795655336~acl=/api/1/1/c/7/4/0/c74d6edd6a30e0ba68d6b4d5a6cebf97.mp3*~data=user_id=0,application_id=42~hmac=1172f14ad7943ac4242195d4d729bd2d862e05377e66b7f9248e2ec77b5e347e",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "Hi.",
+            "length": "1:17",
+            "deezer": {
+              "id": 445961082,
+              "link": "https://www.deezer.com/track/445961082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/0/0/2b090074ddd2d50b943637b855e079df.mp3?hdnea=exp=1795655336~acl=/api/1/1/2/b/0/0/2b090074ddd2d50b943637b855e079df.mp3*~data=user_id=0,application_id=42~hmac=adcb2022beeb6490bc3fefa58c42d5fae4a9b97339396f4519ca8a63b281d9cb",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "Bye.",
+            "length": "1:28",
+            "deezer": {
+              "id": 445961092,
+              "link": "https://www.deezer.com/track/445961092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/6/0/3961fb96edf0e271811a9a2c67c61987.mp3?hdnea=exp=1795655336~acl=/api/1/1/3/9/6/0/3961fb96edf0e271811a9a2c67c61987.mp3*~data=user_id=0,application_id=42~hmac=322363b5123de29d4de9fb341bce502b9c7dad746fe147412c431fc1d2cfdcfa",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "Last Donut of the Night",
+            "length": "1:40",
+            "deezer": {
+              "id": 445961102,
+              "link": "https://www.deezer.com/track/445961102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/0/0/b406535e8d149490170241a8bff51ec8.mp3?hdnea=exp=1795655336~acl=/api/1/1/b/4/0/0/b406535e8d149490170241a8bff51ec8.mp3*~data=user_id=0,application_id=42~hmac=bdf70e55d7e803116b1f079a07e921bfd9ca9af8f8f07be67f9cb52e95f8b724",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          },
+          {
+            "number": "31",
+            "title": "Welcome to the Show",
+            "length": "1:12",
+            "deezer": {
+              "id": 445961112,
+              "link": "https://www.deezer.com/track/445961112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/d/0/26d6cbbfaa830dd2627cfc0228a09f89.mp3?hdnea=exp=1795655336~acl=/api/1/1/2/6/d/0/26d6cbbfaa830dd2627cfc0228a09f89.mp3*~data=user_id=0,application_id=42~hmac=944672379ed08f9565df8686c5050ff2821cb774842c35a8c837e12072da5600",
+              "preview_expires": "2026-11-26T01:08:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/J Dilla/Donuts.jpg"
+}

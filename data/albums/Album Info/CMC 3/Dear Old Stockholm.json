@@ -1,0 +1,77 @@
+{
+  "title": "Dear Old Stockholm",
+  "artist": "CMC 3",
+  "year": 2020,
+  "release_date": "2020-10-02",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e250fdc6-fe1e-46cc-a0c1-e668d0fd9295",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/356432087"
+  },
+  "musicbrainz_id": "e250fdc6-fe1e-46cc-a0c1-e668d0fd9295",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/deeb28fe-2ab6-48ae-bdb6-2ab6009f2a91",
+      "barcode": "7340198203665",
+      "title": "Dear Old Stockholm",
+      "disambiguation": null,
+      "date": "2020-10-02",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "12:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dear Old Stockholm",
+            "length": "4:16",
+            "deezer": {
+              "id": 1912867577,
+              "link": "https://www.deezer.com/track/1912867577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/1/0/1817556881eaf9e93fd7c6fce694e34f.mp3?hdnea=exp=1795652880~acl=/api/1/1/1/8/1/0/1817556881eaf9e93fd7c6fce694e34f.mp3*~data=user_id=0,application_id=42~hmac=fabf225438ba887f4cceb86bc89229b7dc08d0545e969d1e88a19547faed98c6",
+              "preview_expires": "2026-11-26T00:28:00Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Once I Had a Secret Love",
+            "length": "4:18",
+            "deezer": {
+              "id": 1912867587,
+              "link": "https://www.deezer.com/track/1912867587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/b/0/95beaea59b3547fed78e8a22e2c4b4e5.mp3?hdnea=exp=1795652880~acl=/api/1/1/9/5/b/0/95beaea59b3547fed78e8a22e2c4b4e5.mp3*~data=user_id=0,application_id=42~hmac=8e76320ae70525cd4e07b2cce44b01d3fc9dcd86a8af2dc63c6c2d0448125a07",
+              "preview_expires": "2026-11-26T00:28:00Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Elsa",
+            "length": "3:55",
+            "deezer": {
+              "id": 1912867597,
+              "link": "https://www.deezer.com/track/1912867597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/9/0/0e96275ce25bdeb21c6a45c53ad429ca.mp3?hdnea=exp=1795652880~acl=/api/1/1/0/e/9/0/0e96275ce25bdeb21c6a45c53ad429ca.mp3*~data=user_id=0,application_id=42~hmac=05b20d0838a5f10bbe9ccb6ee8a29103b6385e9d15de12d9d9f73cf68be1eba3",
+              "preview_expires": "2026-11-26T00:28:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/CMC 3/Dear Old Stockholm.png"
+}

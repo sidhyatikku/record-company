@@ -1,0 +1,180 @@
+{
+  "title": "Imagine",
+  "artist": "John Lennon",
+  "year": 1971,
+  "release_date": "1971-09-09",
+  "type": "Album",
+  "description": "Imagine is the second solo studio album by the English musician John Lennon, released on 9 September 1971 by Apple Records. Co-produced by Lennon, his wife Yoko Ono and Phil Spector, the album's elaborate sound contrasts the basic, small-group arrangements of his first album, John Lennon/Plastic Ono Band (1970). The opening title track is widely considered to be his signature song.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "pop",
+    "singer-songwriter",
+    "soft rock",
+    "folk",
+    "rock and roll"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "pop",
+    "rock singer-songwriter",
+    "album rock",
+    "singer-songwriter",
+    "soft rock",
+    "5+ wochen",
+    "contemporary pop/rock",
+    "folk",
+    "offizielle charts",
+    "rock and roll",
+    "rock/pop",
+    "singer/songwriter"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 17
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f242f304-0f1f-33a5-81a2-7a965b30e3b5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imagine_(John_Lennon_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000198860",
+    "discogs": "https://www.discogs.com/master/72879",
+    "wikidata": "https://www.wikidata.org/wiki/Q333266",
+    "deezer": "https://www.deezer.com/album/664237"
+  },
+  "musicbrainz_id": "f242f304-0f1f-33a5-81a2-7a965b30e3b5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fa36373e-a03b-49b9-b158-074be4fea4cf",
+      "barcode": "05099990650253",
+      "title": "Imagine",
+      "disambiguation": null,
+      "date": "2010-10-01",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "39:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Imagine",
+            "length": "3:07",
+            "deezer": {
+              "id": 7193834,
+              "link": "https://www.deezer.com/track/7193834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/9/0/fc9e6e7fd857d23c06e58da584e8e7d5.mp3?hdnea=exp=1795655669~acl=/api/1/1/f/c/9/0/fc9e6e7fd857d23c06e58da584e8e7d5.mp3*~data=user_id=0,application_id=42~hmac=728db816341f7a4fa630818df0e0201b71889d70c623128ee782742af5bd64e1",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Crippled Inside",
+            "length": "3:53",
+            "deezer": {
+              "id": 7193835,
+              "link": "https://www.deezer.com/track/7193835",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/c/0/68c5fed378f9663b43c235cb61460b32.mp3?hdnea=exp=1795655669~acl=/api/1/1/6/8/c/0/68c5fed378f9663b43c235cb61460b32.mp3*~data=user_id=0,application_id=42~hmac=3f21948a3656b80d6e1095933de6405add9c3d3c70dc3a71458a5bb4096adcf7",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Jealous Guy",
+            "length": "4:17",
+            "deezer": {
+              "id": 7193836,
+              "link": "https://www.deezer.com/track/7193836",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/8/0/7a89811022e917633fe86e9685842fd5.mp3?hdnea=exp=1795655669~acl=/api/1/1/7/a/8/0/7a89811022e917633fe86e9685842fd5.mp3*~data=user_id=0,application_id=42~hmac=b35e7eeb041d5f7d44f2fa505aa68a7183363355ce9499f0265fd5e5ed144479",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "It’s So Hard",
+            "length": "2:30",
+            "deezer": {
+              "id": 7193837,
+              "link": "https://www.deezer.com/track/7193837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/9/0/3b9d403f0c028d708b35b0dcf0b9236c.mp3?hdnea=exp=1795655669~acl=/api/1/1/3/b/9/0/3b9d403f0c028d708b35b0dcf0b9236c.mp3*~data=user_id=0,application_id=42~hmac=f3d75ac98ccf417fe85f895d92608594d13c47a64e40a71729901c469e8ebe4e",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Don’t Wanna Be a Soldier Mama I Don’t Wanna Die",
+            "length": "6:08",
+            "deezer": {
+              "id": 7193838,
+              "link": "https://www.deezer.com/track/7193838",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/a/0/bda70f4d9f6edcb9145226e21298736a.mp3?hdnea=exp=1795655669~acl=/api/1/1/b/d/a/0/bda70f4d9f6edcb9145226e21298736a.mp3*~data=user_id=0,application_id=42~hmac=7896e3d973be2d2f74feb3e72f9744f56a6a8e1131d56bdbd25fd42d6b96d40f",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Gimme Some Truth",
+            "length": "3:18",
+            "deezer": {
+              "id": 7193839,
+              "link": "https://www.deezer.com/track/7193839",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b7857fcfb2b03528d438017cbab1874.mp3?hdnea=exp=1795655669~acl=/api/1/1/7/b/7/0/7b7857fcfb2b03528d438017cbab1874.mp3*~data=user_id=0,application_id=42~hmac=6f5d4d467aafc838fa2fa7333d20f4f46a96f2a998fec4698e231dc8e8ecb9e9",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Oh My Love",
+            "length": "2:49",
+            "deezer": {
+              "id": 7193840,
+              "link": "https://www.deezer.com/track/7193840",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/f/0/3ef30b6861e981c79332057878a64b59.mp3?hdnea=exp=1795655669~acl=/api/1/1/3/e/f/0/3ef30b6861e981c79332057878a64b59.mp3*~data=user_id=0,application_id=42~hmac=6efdd5f301aa437ffbceff6114a24cd11ea2ffc5ece0753fd0af05e944a8c619",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "How Do You Sleep?",
+            "length": "5:38",
+            "deezer": {
+              "id": 7193841,
+              "link": "https://www.deezer.com/track/7193841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/2/0/2c20ce4d35663abaa6517eb2ae2edf48.mp3?hdnea=exp=1795655669~acl=/api/1/1/2/c/2/0/2c20ce4d35663abaa6517eb2ae2edf48.mp3*~data=user_id=0,application_id=42~hmac=4afe3f2cd92c46ed5032a5c033f4f9220ca98820f7a7923d8d7d5bc05b649822",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "How?",
+            "length": "3:47",
+            "deezer": {
+              "id": 7193842,
+              "link": "https://www.deezer.com/track/7193842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/0/0/520812c5cd10a9b546d4114807f14f85.mp3?hdnea=exp=1795655669~acl=/api/1/1/5/2/0/0/520812c5cd10a9b546d4114807f14f85.mp3*~data=user_id=0,application_id=42~hmac=2d6fe995ce64a6ff79429e195f59a8b085a85d14229a41f6571c268c5d1bedf2",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Oh Yoko!",
+            "length": "4:18",
+            "deezer": {
+              "id": 7193843,
+              "link": "https://www.deezer.com/track/7193843",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/6/0/a36308e84bbd7534990cdc649d68c804.mp3?hdnea=exp=1795655669~acl=/api/1/1/a/3/6/0/a36308e84bbd7534990cdc649d68c804.mp3*~data=user_id=0,application_id=42~hmac=76b3491d0d440cf146d13c0f68ce61a834d0d80234359f22848a9452493a908b",
+              "preview_expires": "2026-11-26T01:14:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Lennon/Imagine.jpg"
+}

@@ -1,0 +1,234 @@
+{
+  "title": "A Bigger Bang",
+  "artist": "The Rolling Stones",
+  "year": 2005,
+  "release_date": "2005-06-09",
+  "type": "Album",
+  "description": "A Bigger Bang is the twenty-second British and the twenty-fourth American studio album by the English rock band the Rolling Stones, released through Virgin Records on 5 September 2005. It was the band's last album of original material recorded entirely with Charlie Watts on drums before his death in 2021.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "blues rock",
+    "classic rock"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "blues rock",
+    "classic rock",
+    "rock & roll"
+  ],
+  "rating": {
+    "value_out_of_5": 3.35,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6d1a87c3-9e11-36d8-8c41-3e11b974fde7",
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Bigger_Bang",
+    "allmusic": "https://www.allmusic.com/album/mw0000408720",
+    "discogs": "https://www.discogs.com/master/30203",
+    "wikidata": "https://www.wikidata.org/wiki/Q300333",
+    "deezer": "https://www.deezer.com/album/384230"
+  },
+  "musicbrainz_id": "6d1a87c3-9e11-36d8-8c41-3e11b974fde7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6ef33bc9-a364-454e-a164-323bdba1049b",
+      "barcode": "602527173016",
+      "title": "A Bigger Bang",
+      "disambiguation": "2009 remaster",
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 16,
+    "total_length": "1:04:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rough Justice",
+            "length": "3:11",
+            "deezer": {
+              "id": 4124718,
+              "link": "https://www.deezer.com/track/4124718",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/e/0/e7e3d6e0049f05a13881cc6f73ac8e47.mp3?hdnea=exp=1795721666~acl=/api/1/1/e/7/e/0/e7e3d6e0049f05a13881cc6f73ac8e47.mp3*~data=user_id=0,application_id=42~hmac=34749f663b5e1631248982daf8752d1b4d70e06bf640f5c0a1f58a3d75691d38",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Let Me Down Slow",
+            "length": "4:15",
+            "deezer": {
+              "id": 4124719,
+              "link": "https://www.deezer.com/track/4124719",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/2/0/3a204c935f2a52993af9b7dace1a9d2a.mp3?hdnea=exp=1795721666~acl=/api/1/1/3/a/2/0/3a204c935f2a52993af9b7dace1a9d2a.mp3*~data=user_id=0,application_id=42~hmac=92f2ebdaf9e8c2e792d41c9298e4ce1c29b2015ddab5983295cc184b30aa868c",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "It Won’t Take Long",
+            "length": "3:55",
+            "deezer": {
+              "id": 4124720,
+              "link": "https://www.deezer.com/track/4124720",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/7/0/727ccdccece95e2aa815a6de0ec270f9.mp3?hdnea=exp=1795721666~acl=/api/1/1/7/2/7/0/727ccdccece95e2aa815a6de0ec270f9.mp3*~data=user_id=0,application_id=42~hmac=59af09d3eb14b0a1759072aa9fd87467ecfb7f62cb86f81a70337880f86b5c8d",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Rain Fall Down",
+            "length": "4:54",
+            "deezer": {
+              "id": 4124721,
+              "link": "https://www.deezer.com/track/4124721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/9/0/2098921e4fae4f13acd042c1e903cb9b.mp3?hdnea=exp=1795721666~acl=/api/1/1/2/0/9/0/2098921e4fae4f13acd042c1e903cb9b.mp3*~data=user_id=0,application_id=42~hmac=485373157cecde5c2a43c1950beabe74b7cd945635949521ab9a522937a3823d",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Streets of Love",
+            "length": "5:09",
+            "deezer": {
+              "id": 4124722,
+              "link": "https://www.deezer.com/track/4124722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/4/0/774fa11395387c9459b29bacb43d49ee.mp3?hdnea=exp=1795721666~acl=/api/1/1/7/7/4/0/774fa11395387c9459b29bacb43d49ee.mp3*~data=user_id=0,application_id=42~hmac=28d48517a1be5365cb60a0c906229ea60cc6872c6ce226c243488a710ca8f95b",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Back of My Hand",
+            "length": "3:32",
+            "deezer": {
+              "id": 4124723,
+              "link": "https://www.deezer.com/track/4124723",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/5/0/6b5648ccab477d6d068fc74f8f71760d.mp3?hdnea=exp=1795721666~acl=/api/1/1/6/b/5/0/6b5648ccab477d6d068fc74f8f71760d.mp3*~data=user_id=0,application_id=42~hmac=81160971451dba7ed8dc9d48469cefd6e2079052207a1b3266b3855f15ec9996",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "She Saw Me Coming",
+            "length": "3:13",
+            "deezer": {
+              "id": 4124724,
+              "link": "https://www.deezer.com/track/4124724",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/3/0/d43ed94f699cdb7c692eb8cd92ca571e.mp3?hdnea=exp=1795721666~acl=/api/1/1/d/4/3/0/d43ed94f699cdb7c692eb8cd92ca571e.mp3*~data=user_id=0,application_id=42~hmac=557ff0d7c23e6d9bd86d863151e8f03b2b5703e749684ba3b4c45a231341c7f3",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Biggest Mistake",
+            "length": "4:05",
+            "deezer": {
+              "id": 4124725,
+              "link": "https://www.deezer.com/track/4124725",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/2/0/b32bcfbd51960b1172ef048ab82ec6e0.mp3?hdnea=exp=1795721666~acl=/api/1/1/b/3/2/0/b32bcfbd51960b1172ef048ab82ec6e0.mp3*~data=user_id=0,application_id=42~hmac=ee8ac6871eebcf4016c65839b8311841a1859896650e21e8609957f9b76a27e7",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "This Place Is Empty",
+            "length": "3:17",
+            "deezer": {
+              "id": 4124726,
+              "link": "https://www.deezer.com/track/4124726",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/6/0/6c65dbd0b360a976b1680867fe7a2ce0.mp3?hdnea=exp=1795721666~acl=/api/1/1/6/c/6/0/6c65dbd0b360a976b1680867fe7a2ce0.mp3*~data=user_id=0,application_id=42~hmac=859fff97bec58242154e691a6b094b0266409daba62a012ff14ba1d3ad55b12e",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Oh No, Not You Again",
+            "length": "3:47",
+            "deezer": {
+              "id": 4124727,
+              "link": "https://www.deezer.com/track/4124727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/9/0/759882592e94a3ecbb5def3e4b149ca0.mp3?hdnea=exp=1795721666~acl=/api/1/1/7/5/9/0/759882592e94a3ecbb5def3e4b149ca0.mp3*~data=user_id=0,application_id=42~hmac=def54d9b71127ffbd1f9e77296d5a2ffe3002fde647434159f6d325b8e426dd4",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Dangerous Beauty",
+            "length": "3:48",
+            "deezer": {
+              "id": 4124728,
+              "link": "https://www.deezer.com/track/4124728",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/1/0/b21114d576b1bc03515f1829329374af.mp3?hdnea=exp=1795721666~acl=/api/1/1/b/2/1/0/b21114d576b1bc03515f1829329374af.mp3*~data=user_id=0,application_id=42~hmac=cf683bb1cf032925c056777156439fbae38afcc5f5bb2d8e2705136461839561",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Laugh, I Nearly Died",
+            "length": "4:54",
+            "deezer": {
+              "id": 4124729,
+              "link": "https://www.deezer.com/track/4124729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/1/0/03107b0e485a1fdbc205a824f0e7181d.mp3?hdnea=exp=1795721666~acl=/api/1/1/0/3/1/0/03107b0e485a1fdbc205a824f0e7181d.mp3*~data=user_id=0,application_id=42~hmac=afd1c8ed0bbf85df938b42dea7e63a46556c6ad64f975c52e36b3cb3492e9fee",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Sweet Neo Con",
+            "length": "4:34",
+            "deezer": {
+              "id": 4124730,
+              "link": "https://www.deezer.com/track/4124730",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/b/0/e1bcf0f7e886b2c8c16c777d57e935fc.mp3?hdnea=exp=1795721666~acl=/api/1/1/e/1/b/0/e1bcf0f7e886b2c8c16c777d57e935fc.mp3*~data=user_id=0,application_id=42~hmac=06c004aff349a9f0903285461550600d80459fb6731657b0978683dcc3e15558",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Look What the Cat Dragged In",
+            "length": "3:57",
+            "deezer": {
+              "id": 4124731,
+              "link": "https://www.deezer.com/track/4124731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/9/0/b89f9669a78a1a7c8cc6c0de3b3f69f3.mp3?hdnea=exp=1795721666~acl=/api/1/1/b/8/9/0/b89f9669a78a1a7c8cc6c0de3b3f69f3.mp3*~data=user_id=0,application_id=42~hmac=4d679e294e6284284fd382ead727d2b4b32b2f4c88ed66959023ba98c956e5e2",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Driving Too Fast",
+            "length": "3:57",
+            "deezer": {
+              "id": 4124732,
+              "link": "https://www.deezer.com/track/4124732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/f/0/adf69dd8b98000bb21ab819b11498ef0.mp3?hdnea=exp=1795721666~acl=/api/1/1/a/d/f/0/adf69dd8b98000bb21ab819b11498ef0.mp3*~data=user_id=0,application_id=42~hmac=66a905256a5ded403c57af0ea89692bc8b4b459ca3c27aa55b5667dc170897f2",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Infamy",
+            "length": "3:48",
+            "deezer": {
+              "id": 4124733,
+              "link": "https://www.deezer.com/track/4124733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/d/0/96d92135d049ea4c8f6bc3525cef8ac4.mp3?hdnea=exp=1795721666~acl=/api/1/1/9/6/d/0/96d92135d049ea4c8f6bc3525cef8ac4.mp3*~data=user_id=0,application_id=42~hmac=932d1b8de3ed743f752f172dce41bbbbcf83f259e82c946ec5824763ec6eb7d0",
+              "preview_expires": "2026-11-26T19:34:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Rolling Stones/A Bigger Bang (2009 Re-Mastered).jpg"
+}

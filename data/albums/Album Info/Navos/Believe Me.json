@@ -1,0 +1,61 @@
+{
+  "title": "Believe Me",
+  "artist": "Navos",
+  "year": 2021,
+  "release_date": "2021-01-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance-pop",
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "tags": [
+    "dance-pop",
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e63670dd-53de-4fcb-a32c-bb1528caf600",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/204930092"
+  },
+  "musicbrainz_id": "e63670dd-53de-4fcb-a32c-bb1528caf600",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bdffeeab-6c21-4ecc-82d8-aab1dc803204",
+      "barcode": "0602435807386",
+      "title": "Believe Me",
+      "disambiguation": null,
+      "date": "2021-01-22",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Believe Me",
+            "length": "3:08",
+            "deezer": {
+              "id": 1231342332,
+              "link": "https://www.deezer.com/track/1231342332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/9/0/929b257e758530796280697da69abc08.mp3?hdnea=exp=1795718773~acl=/api/1/1/9/2/9/0/929b257e758530796280697da69abc08.mp3*~data=user_id=0,application_id=42~hmac=aced72d2ac3de882a849e401d4962a79448f366fef34afdc261000cdf5ecc3cd",
+              "preview_expires": "2026-11-26T18:46:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Navos/Believe Me.jpg"
+}

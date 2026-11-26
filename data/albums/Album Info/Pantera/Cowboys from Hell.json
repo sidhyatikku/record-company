@@ -1,0 +1,116 @@
+{
+  "title": "Cowboys From Hell",
+  "artist": "Pantera",
+  "year": 1994,
+  "release_date": "1994",
+  "type": "Album + Live",
+  "description": null,
+  "genres": [
+    "heavy metal",
+    "rock"
+  ],
+  "tags": [
+    "heavy metal",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e3a21f38-64a2-4383-a73c-adccd534769e",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/2974981",
+    "deezer": "https://www.deezer.com/album/85363"
+  },
+  "musicbrainz_id": "e3a21f38-64a2-4383-a73c-adccd534769e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/993b2f4f-7637-43a8-8466-3d757caa468a",
+      "barcode": null,
+      "title": "Cowboys From Hell",
+      "disambiguation": null,
+      "date": "1994",
+      "country": "IT"
+    },
+    "total_tracks": 9,
+    "total_length": "54:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mouth for War",
+            "length": "3:56"
+          },
+          {
+            "number": "2",
+            "title": "This Love",
+            "length": "5:51"
+          },
+          {
+            "number": "3",
+            "title": "Medley: Walk / Psycho Holiday",
+            "length": "10:14",
+            "deezer": {
+              "id": 714407,
+              "link": "https://www.deezer.com/track/714407",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/b/0/63bf9891483329c8a98dda6ecf5098bb.mp3?hdnea=exp=1795719314~acl=/api/1/1/6/3/b/0/63bf9891483329c8a98dda6ecf5098bb.mp3*~data=user_id=0,application_id=42~hmac=e91f2d288ad99f1ef3607e98af25fc3efd0e34763edfc5c10e10f248d8d5f7c9",
+              "preview_expires": "2026-11-26T18:55:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Cemetery Gates",
+            "length": "7:16",
+            "deezer": {
+              "id": 714420,
+              "link": "https://www.deezer.com/track/714420",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/7/0/1c7791a02657b844e18b9b0f49c925fc.mp3?hdnea=exp=1795719314~acl=/api/1/1/1/c/7/0/1c7791a02657b844e18b9b0f49c925fc.mp3*~data=user_id=0,application_id=42~hmac=2378e2fffbc5bae823415e86f0cf8b3e55d9d45ceb411bedc21342a4c8cf342d",
+              "preview_expires": "2026-11-26T18:55:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Medley: Cowboys From Hell / Purple Haze",
+            "length": "5:38",
+            "deezer": {
+              "id": 714397,
+              "link": "https://www.deezer.com/track/714397",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/4/0/8e4388dd89ba46774071e51f25e54ba3.mp3?hdnea=exp=1795719314~acl=/api/1/1/8/e/4/0/8e4388dd89ba46774071e51f25e54ba3.mp3*~data=user_id=0,application_id=42~hmac=562862f1d2d4338a0c1dec3f918d586ecb87153b0657e49b0d79a895975c80c6",
+              "preview_expires": "2026-11-26T18:55:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mouth for War",
+            "length": "4:05"
+          },
+          {
+            "number": "7",
+            "title": "Medley: Domination / Hollow",
+            "length": "7:40",
+            "deezer": {
+              "id": 714426,
+              "link": "https://www.deezer.com/track/714426",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/9/0/369e87fff1e92a8578a938d0069a020b.mp3?hdnea=exp=1795719314~acl=/api/1/1/3/6/9/0/369e87fff1e92a8578a938d0069a020b.mp3*~data=user_id=0,application_id=42~hmac=0113072b26967eeb2634c49c87fcea5202dfa702e9f666e65e2eefde84f0327a",
+              "preview_expires": "2026-11-26T18:55:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rise",
+            "length": "4:32"
+          },
+          {
+            "number": "9",
+            "title": "This Love",
+            "length": "5:09"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pantera/Cowboys from Hell.jpg"
+}

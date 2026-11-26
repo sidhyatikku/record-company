@@ -1,0 +1,62 @@
+{
+  "title": "Turn off the Lights",
+  "artist": "Chris Lake ft. Alexis Roberts",
+  "year": 2018,
+  "release_date": "2018-02-23",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7c09fec6-cd38-473c-9354-7a87fc3990c9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/652144211"
+  },
+  "musicbrainz_id": "7c09fec6-cd38-473c-9354-7a87fc3990c9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0b871426-dd44-4ba2-ad99-96aadf932408",
+      "barcode": "735119180922",
+      "title": "Turn off the Lights",
+      "disambiguation": null,
+      "date": "2018-02-23",
+      "country": "US"
+    },
+    "total_tracks": 2,
+    "total_length": "6:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Turn off the Lights",
+            "length": "3:30",
+            "deezer": {
+              "id": 3031056271,
+              "link": "https://www.deezer.com/track/3031056271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/a/0/5ba55020ccae2333f1a0534fb6cc65d5.mp3?hdnea=exp=1795652801~acl=/api/1/1/5/b/a/0/5ba55020ccae2333f1a0534fb6cc65d5.mp3*~data=user_id=0,application_id=42~hmac=71b41c989672a6135f511af55eb60e62cea3535566a97b926c4ebdd8d051672a",
+              "preview_expires": "2026-11-26T00:26:41Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Turn off the Lights (Cages remix)",
+            "length": "3:28",
+            "deezer": {
+              "id": 3031056281,
+              "link": "https://www.deezer.com/track/3031056281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/4/0/8f4740789a453e996fe8929d3b359900.mp3?hdnea=exp=1795652801~acl=/api/1/1/8/f/4/0/8f4740789a453e996fe8929d3b359900.mp3*~data=user_id=0,application_id=42~hmac=df61c332ecae993dc704b139fdfb6ca204084a28cd6fa00e251143c2b062144c",
+              "preview_expires": "2026-11-26T00:26:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chris Lake/Turn off the Lights.jpg"
+}

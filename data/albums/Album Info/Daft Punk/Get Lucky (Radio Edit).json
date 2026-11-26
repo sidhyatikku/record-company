@@ -1,0 +1,73 @@
+{
+  "title": "Get Lucky",
+  "artist": "Daft Punk feat. Pharrell Williams",
+  "year": 2013,
+  "release_date": "2013-04-19",
+  "type": "Single",
+  "description": "\"Get Lucky\" is a song by the French electronic music duo Daft Punk featuring American musician Pharrell Williams and American guitarist Nile Rodgers. Daft Punk released the song as the lead single from their fourth studio album, Random Access Memories, on 19 April 2013. Before its release as a single, it was featured in television advertisements broadcast during Saturday Night Live (SNL), after which Rodgers and Williams announced their involvement in the track. \"Get Lucky\" is a house-inspired disco, funk, and pop track with lyrics that, according to Williams, are about the good fortune of connecting with someone, as well as sexual chemistry. Upon release, it received widespread acclaim from music critics, who praised Williams's vocals and Rodgers's guitar riffs.",
+  "genres": [
+    "electronic",
+    "deep house",
+    "disco",
+    "electro",
+    "funk",
+    "pop"
+  ],
+  "tags": [
+    "electronic",
+    "deep house",
+    "disco",
+    "electro",
+    "funk",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9b7ce16c-8310-4cc5-aad5-09893a5a8297",
+    "wikipedia": "https://en.wikipedia.org/wiki/Get_Lucky_(Daft_Punk_song)",
+    "allmusic": "https://www.allmusic.com/album/mw0002542006",
+    "discogs": "https://www.discogs.com/master/546596",
+    "wikidata": "https://www.wikidata.org/wiki/Q11510350",
+    "deezer": "https://www.deezer.com/album/6516139"
+  },
+  "musicbrainz_id": "9b7ce16c-8310-4cc5-aad5-09893a5a8297",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1ddb40a4-d7d7-44f3-8f12-7617484e7983",
+      "barcode": "886443973442",
+      "title": "Get Lucky (radio edit)",
+      "disambiguation": null,
+      "date": "2013-04-19",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Get Lucky (radio edit)",
+            "length": "4:08",
+            "artist": "Daft Punk feat. Pharrell Williams & Nile Rodgers",
+            "deezer": {
+              "id": 66609426,
+              "link": "https://www.deezer.com/track/66609426",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/f/0/1bf80a82992903ff685ba1b7275223f8.mp3?hdnea=exp=1795653041~acl=/api/1/1/1/b/f/0/1bf80a82992903ff685ba1b7275223f8.mp3*~data=user_id=0,application_id=42~hmac=c4322492e7527849794aee650d71d0434cae2fed752fee9a9c8fa901b67e4b16",
+              "preview_expires": "2026-11-26T00:30:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Daft Punk/Get Lucky (Radio Edit).jpg"
+}

@@ -1,0 +1,237 @@
+{
+  "title": "Hot Chocolate",
+  "artist": "Hot Chocolate",
+  "year": 1975,
+  "release_date": "1975",
+  "type": "Album",
+  "description": "Hot Chocolate is the second studio album by British soul band Hot Chocolate. It was released in November 1975 on the RAK Records label, owned by Mickie Most, who was the band's producer. The album peaked at number thirty-four on the UK Albums Chart and forty-one on the US Billboard 200 album chart.",
+  "genres": [
+    "funk",
+    "disco",
+    "electronic",
+    "pop",
+    "pop soul",
+    "r&b",
+    "soul"
+  ],
+  "tags": [
+    "funk",
+    "disco",
+    "rhythm & blues",
+    "electronic",
+    "funk soul",
+    "pop",
+    "pop soul",
+    "r&b",
+    "soul"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/eaba1031-d58e-31d9-b022-8b7522cfca35",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hot_Chocolate_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000531761",
+    "discogs": "https://www.discogs.com/master/75827",
+    "wikidata": "https://www.wikidata.org/wiki/Q20711671",
+    "deezer": "https://www.deezer.com/album/359668"
+  },
+  "musicbrainz_id": "eaba1031-d58e-31d9-b022-8b7522cfca35",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fa747126-6f88-4db7-bfd1-db8a537e0873",
+      "barcode": "5099968511050",
+      "title": "Hot Chocolate",
+      "disambiguation": null,
+      "date": "2009-07-24",
+      "country": "XW"
+    },
+    "total_tracks": 16,
+    "total_length": "1:01:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hello America",
+            "length": "3:24",
+            "deezer": {
+              "id": 3851846,
+              "link": "https://www.deezer.com/track/3851846",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/d/0/b8d823d40864c9d013d3155ad1fdf4b2.mp3?hdnea=exp=1795655127~acl=/api/1/1/b/8/d/0/b8d823d40864c9d013d3155ad1fdf4b2.mp3*~data=user_id=0,application_id=42~hmac=c7c51d38d289bf99b9d24f023ae70b830ab304fec0a7a4c2ef92c85d08c4d34d",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Street",
+            "length": "5:08",
+            "deezer": {
+              "id": 3851847,
+              "link": "https://www.deezer.com/track/3851847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/1/0/e311e681d78648030cf03c0f28799ca8.mp3?hdnea=exp=1795655127~acl=/api/1/1/e/3/1/0/e311e681d78648030cf03c0f28799ca8.mp3*~data=user_id=0,application_id=42~hmac=e0f988f0a5ffba4339968045ef9bd817afab904835c419dc6b4eb5327e5a13b2",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Call the Police",
+            "length": "3:58",
+            "deezer": {
+              "id": 3851848,
+              "link": "https://www.deezer.com/track/3851848",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/f/0/89f5f187d264c6a7e91f17896bf60fa1.mp3?hdnea=exp=1795655127~acl=/api/1/1/8/9/f/0/89f5f187d264c6a7e91f17896bf60fa1.mp3*~data=user_id=0,application_id=42~hmac=f6e0715607db9e11d3827060e7b7fd775dd5ca488b4a9540e3da6b92ef848c91",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dollar Sign",
+            "length": "2:58",
+            "deezer": {
+              "id": 3851849,
+              "link": "https://www.deezer.com/track/3851849",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/6/0/7561a0e43acfe4333d11e331a292600a.mp3?hdnea=exp=1795655127~acl=/api/1/1/7/5/6/0/7561a0e43acfe4333d11e331a292600a.mp3*~data=user_id=0,application_id=42~hmac=7bfbb5cb3b0de4ca54f869631d9644c8648f568b0d8ea2c97b5bd52ad147c1d5",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "You Sexy Thing",
+            "length": "4:04",
+            "deezer": {
+              "id": 3851850,
+              "link": "https://www.deezer.com/track/3851850",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/7/0/e27c02c33b535cc2153cf10088175026.mp3?hdnea=exp=1795655127~acl=/api/1/1/e/2/7/0/e27c02c33b535cc2153cf10088175026.mp3*~data=user_id=0,application_id=42~hmac=b2166bbdbd2fbed58a4c73b5b82929056593f50988d9b74afd3c1da2ffa9f819",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "A Child’s Prayer",
+            "length": "3:51",
+            "deezer": {
+              "id": 3851851,
+              "link": "https://www.deezer.com/track/3851851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/4/0/ae45d62a9e3583889377d2d70e13df95.mp3?hdnea=exp=1795655127~acl=/api/1/1/a/e/4/0/ae45d62a9e3583889377d2d70e13df95.mp3*~data=user_id=0,application_id=42~hmac=0ae781bf49c4fb80bf8e41b2901e9cd4b3814fd44597814c60bef2b49226218a",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "A Warm Smile",
+            "length": "5:24",
+            "deezer": {
+              "id": 3851852,
+              "link": "https://www.deezer.com/track/3851852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/b/0/deb6d1d3d5f13ed7bf5455bdebff02a0.mp3?hdnea=exp=1795655127~acl=/api/1/1/d/e/b/0/deb6d1d3d5f13ed7bf5455bdebff02a0.mp3*~data=user_id=0,application_id=42~hmac=19e4722d159c0e8276061b5ac0237a77450b9fe2e197b53b34cd5ccb53d2851d",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Amazing Skin Song",
+            "length": "4:05",
+            "deezer": {
+              "id": 3851853,
+              "link": "https://www.deezer.com/track/3851853",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/3/0/60384607835218bb610353035503766f.mp3?hdnea=exp=1795655127~acl=/api/1/1/6/0/3/0/60384607835218bb610353035503766f.mp3*~data=user_id=0,application_id=42~hmac=ca594835dcd3c0004323148f0c43c2f30eaa446b52ab3b2114bfb87b1f20e4a3",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Love’s Coming on Strong",
+            "length": "3:42",
+            "deezer": {
+              "id": 3851854,
+              "link": "https://www.deezer.com/track/3851854",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/4/0/534ebda42f258d4d2dd6f32f280775c2.mp3?hdnea=exp=1795655127~acl=/api/1/1/5/3/4/0/534ebda42f258d4d2dd6f32f280775c2.mp3*~data=user_id=0,application_id=42~hmac=01cc01c7abd3afab0788f6d954e2fde3ee757a59bcb795234c61406d780c6b8c",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Lay Me Down",
+            "length": "3:28",
+            "deezer": {
+              "id": 3851855,
+              "link": "https://www.deezer.com/track/3851855",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/8/0/218c12d7ef0ebadb232c77a1858d0c30.mp3?hdnea=exp=1795655127~acl=/api/1/1/2/1/8/0/218c12d7ef0ebadb232c77a1858d0c30.mp3*~data=user_id=0,application_id=42~hmac=048621a87f3c301ca86dfd2067acd74f6f3e81e1956f1d80137c871e2cb79ffa",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Cheri Babe",
+            "length": "2:52",
+            "deezer": {
+              "id": 3851856,
+              "link": "https://www.deezer.com/track/3851856",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/c/0/4ac8223201d45aa9f76ab1ca8b31b03d.mp3?hdnea=exp=1795655127~acl=/api/1/1/4/a/c/0/4ac8223201d45aa9f76ab1ca8b31b03d.mp3*~data=user_id=0,application_id=42~hmac=0d7d879b1b1a1b58f4d498923fb0f5b5de35abbc04b973ec208cb5119a883b2d",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Sexy Lady",
+            "length": "3:20",
+            "deezer": {
+              "id": 3851857,
+              "link": "https://www.deezer.com/track/3851857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/9/0/4b9f376064ee8bfadd65da027d4362ff.mp3?hdnea=exp=1795655127~acl=/api/1/1/4/b/9/0/4b9f376064ee8bfadd65da027d4362ff.mp3*~data=user_id=0,application_id=42~hmac=90469ab69208dd6a3d566be1d4fb913399a791690786823d14d2fea88943707b",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Blue Night",
+            "length": "4:01",
+            "deezer": {
+              "id": 3851858,
+              "link": "https://www.deezer.com/track/3851858",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/3/0/0f31566031dba9179e3ff21680b9e301.mp3?hdnea=exp=1795655127~acl=/api/1/1/0/f/3/0/0f31566031dba9179e3ff21680b9e301.mp3*~data=user_id=0,application_id=42~hmac=93fe91b0c1960849c29e97cd24618b02ec4e06b065a4ce20f42bf4a3d84728cd",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "You Sexy Thing (single version)",
+            "length": "4:01",
+            "deezer": {
+              "id": 3851859,
+              "link": "https://www.deezer.com/track/3851859",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/6/0/00634b2961e60834a7462926c2e41230.mp3?hdnea=exp=1795655127~acl=/api/1/1/0/0/6/0/00634b2961e60834a7462926c2e41230.mp3*~data=user_id=0,application_id=42~hmac=9fe3d62d0fb5a745fbe994faea485296c00dbd04ed26f51319db0e56a949a398",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Everything Should Be Funky",
+            "length": "3:05",
+            "deezer": {
+              "id": 3851860,
+              "link": "https://www.deezer.com/track/3851860",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/a/0/1fab4a99480c171a23ff722c9c70a99a.mp3?hdnea=exp=1795655127~acl=/api/1/1/1/f/a/0/1fab4a99480c171a23ff722c9c70a99a.mp3*~data=user_id=0,application_id=42~hmac=51e900d6f814f67ce81aa628308e4c28ce2630f862f8285a4cfac09434b32cb0",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "You Sexy Thing (7″ version)",
+            "length": "4:03",
+            "deezer": {
+              "id": 3851861,
+              "link": "https://www.deezer.com/track/3851861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/8/0/e582aaf976206577f93c0b82ab76eaba.mp3?hdnea=exp=1795655127~acl=/api/1/1/e/5/8/0/e582aaf976206577f93c0b82ab76eaba.mp3*~data=user_id=0,application_id=42~hmac=b601b5852988443df108965d40711bcc73803df2bb7cf80dd56e6300932dbf75",
+              "preview_expires": "2026-11-26T01:05:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Hot Chocolate/Hot Chocolate.jpg"
+}

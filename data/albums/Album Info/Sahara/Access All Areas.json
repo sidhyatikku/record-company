@@ -1,0 +1,132 @@
+{
+  "title": "Access All Areas",
+  "artist": "Sahara",
+  "year": null,
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e6b4d4db-036a-37f1-9e04-32d8b68630f2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/572583061"
+  },
+  "musicbrainz_id": "e6b4d4db-036a-37f1-9e04-32d8b68630f2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/85f40e97-4d49-4519-9b56-78b2c7fd93e2",
+      "barcode": null,
+      "title": "Access All Areas",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 9,
+    "total_length": "39:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": null,
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sonie Ni Sonie",
+            "length": "3:28",
+            "deezer": {
+              "id": 2748575461,
+              "link": "https://www.deezer.com/track/2748575461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/7/0/8070bcf84a7c0a3a2fefb99ad1dde085.mp3?hdnea=exp=1795720238~acl=/api/1/1/8/0/7/0/8070bcf84a7c0a3a2fefb99ad1dde085.mp3*~data=user_id=0,application_id=42~hmac=b72009e8032dc00bfbf0183112ba17d4698f7d1f349f79e1fd90d5ef5873a649",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hundia",
+            "length": "4:12",
+            "deezer": {
+              "id": 2748575471,
+              "link": "https://www.deezer.com/track/2748575471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/f/0/f7f42b079dfcd7e80576fadb3ff84343.mp3?hdnea=exp=1795720238~acl=/api/1/1/f/7/f/0/f7f42b079dfcd7e80576fadb3ff84343.mp3*~data=user_id=0,application_id=42~hmac=bc689f6f9b4f895e5b2a962d70eda0e61c2134d69ccbce986eb403ce1a5ed2bf",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sone Da Challa (Desi)",
+            "length": "2:58",
+            "deezer": {
+              "id": 2748575481,
+              "link": "https://www.deezer.com/track/2748575481",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/f/0/86f1acd6d6162b6a5202fc9ed9a37993.mp3?hdnea=exp=1795720238~acl=/api/1/1/8/6/f/0/86f1acd6d6162b6a5202fc9ed9a37993.mp3*~data=user_id=0,application_id=42~hmac=5d1e774825480fffc338dcb295979464731c034ffaa0adcbda86481bea34011a",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Gal Sun Ja",
+            "length": "4:28",
+            "deezer": {
+              "id": 2748575491,
+              "link": "https://www.deezer.com/track/2748575491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/2/0/3e2884c6ce162d5d40f8831749a27099.mp3?hdnea=exp=1795720238~acl=/api/1/1/3/e/2/0/3e2884c6ce162d5d40f8831749a27099.mp3*~data=user_id=0,application_id=42~hmac=56b0aad563462f7d7e36ddbb2fc01eb6580ad09efcb5ec9f1ffdf8b95d448e54",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sone Da Challa (Hip-Hop Mix)",
+            "length": "3:06",
+            "deezer": {
+              "id": 2748575501,
+              "link": "https://www.deezer.com/track/2748575501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/5/0/875adbab61cdbf7c6b144e9438e309d2.mp3?hdnea=exp=1795720238~acl=/api/1/1/8/7/5/0/875adbab61cdbf7c6b144e9438e309d2.mp3*~data=user_id=0,application_id=42~hmac=fd6fe65e849e66552250b1c2a39f3a8c404cd4c454110ff53357dd9f08b82356",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ajja",
+            "length": "4:16",
+            "deezer": {
+              "id": 2748575511,
+              "link": "https://www.deezer.com/track/2748575511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/f/0/0df95ca194babb0cdc1467e8a1f5f3d8.mp3?hdnea=exp=1795720238~acl=/api/1/1/0/d/f/0/0df95ca194babb0cdc1467e8a1f5f3d8.mp3*~data=user_id=0,application_id=42~hmac=dad025cf0ba729ad0f5cc0af5985ddda195fb64d295435987f73f896aa480255",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Dhol Punjabian Da",
+            "length": "3:37",
+            "deezer": {
+              "id": 2748575521,
+              "link": "https://www.deezer.com/track/2748575521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/a/0/b7a42fa94df9ac0024d827514322d307.mp3?hdnea=exp=1795720238~acl=/api/1/1/b/7/a/0/b7a42fa94df9ac0024d827514322d307.mp3*~data=user_id=0,application_id=42~hmac=20c1e5a40ebe73165fc1ff4d0b91aa99bc7234b717b23618bbacbd9f1e55ffbc",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mele Vich",
+            "length": "6:06",
+            "deezer": {
+              "id": 2748575541,
+              "link": "https://www.deezer.com/track/2748575541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/e/0/4ee2737f7f5127ff8b64527d9d00af27.mp3?hdnea=exp=1795720238~acl=/api/1/1/4/e/e/0/4ee2737f7f5127ff8b64527d9d00af27.mp3*~data=user_id=0,application_id=42~hmac=766f1e519dd740530ed218a43bc98dbe4f073629f9538cf2725bfd40d0cdb003",
+              "preview_expires": "2026-11-26T19:10:38Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sonie Ni Sonie",
+            "length": "7:20"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sahara/Access All Areas.jpg"
+}

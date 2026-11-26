@@ -1,0 +1,84 @@
+{
+  "title": "Yaar Daadhi",
+  "artist": "Ahsan Pervaiz Mehdi",
+  "year": 2023,
+  "release_date": "2023-08-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/621WkXfmodFRPZDX3sFt55",
+    "deezer": "https://www.deezer.com/album/1063859011"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/621WkXfmodFRPZDX3sFt55",
+      "title": "Yaar Daadhi",
+      "date": "2023-08-12"
+    },
+    "total_tracks": 4,
+    "total_length": "10:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yaar Daadhi",
+            "length": "2:55",
+            "artist": "Ahsan Pervaiz Mehdi, Shaan Shahid",
+            "deezer": {
+              "id": 4248039851,
+              "link": "https://www.deezer.com/track/4248039851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/6/0/1d6b455ca4b690490f4af07b60275764.mp3?hdnea=exp=1795649002~acl=/api/1/1/1/d/6/0/1d6b455ca4b690490f4af07b60275764.mp3*~data=user_id=0,application_id=42~hmac=aa9cc550e62a5c52115305eb464c19b2fe187a7e81184c91c974f4cea047d16f",
+              "preview_expires": "2026-11-25T23:23:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Raatan Aagayan",
+            "length": "2:30",
+            "deezer": {
+              "id": 4248039861,
+              "link": "https://www.deezer.com/track/4248039861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/2/0/e72d441705198283eb7ccb1eadb43028.mp3?hdnea=exp=1795649002~acl=/api/1/1/e/7/2/0/e72d441705198283eb7ccb1eadb43028.mp3*~data=user_id=0,application_id=42~hmac=8a810243d5e94cff50f5b8fde66d1a56f90a36c826c87f59f8ef3d8785df110e",
+              "preview_expires": "2026-11-25T23:23:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wajaan",
+            "length": "2:40",
+            "deezer": {
+              "id": 4248039871,
+              "link": "https://www.deezer.com/track/4248039871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/6/0/7660f6c36532d35d600b026e7b284d03.mp3?hdnea=exp=1795649002~acl=/api/1/1/7/6/6/0/7660f6c36532d35d600b026e7b284d03.mp3*~data=user_id=0,application_id=42~hmac=6ecc66d19b055ca66832618687ba3140c02d04b6da640bc4e616b044e75df439",
+              "preview_expires": "2026-11-25T23:23:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mastaana",
+            "length": "2:20",
+            "deezer": {
+              "id": 4248039881,
+              "link": "https://www.deezer.com/track/4248039881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/5/0/be53239dfb24e3812a2aee17c55043ad.mp3?hdnea=exp=1795649002~acl=/api/1/1/b/e/5/0/be53239dfb24e3812a2aee17c55043ad.mp3*~data=user_id=0,application_id=42~hmac=9b43a3baf9336c9a13bb630cb8aa4c7cd4b58986f95d5e8f5c251044cba2785e",
+              "preview_expires": "2026-11-25T23:23:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Ahsan Pervaiz Mehdi/Yaar Daadhi.jpg"
+}

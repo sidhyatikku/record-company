@@ -1,0 +1,134 @@
+{
+  "title": "Mama Said Knock You Out",
+  "artist": "L.L. Cool J",
+  "year": 1990,
+  "release_date": "1990-09-18",
+  "type": "Album",
+  "description": "Mama Said Knock You Out is the fourth studio album by American rapper LL Cool J. It was produced mostly by Marley Marl and recorded at his \"House of Hits\" home studio in Chestnut Ridge and at Chung King House of Metal in New York City. After the disappointing reception of LL Cool's 1989 album Walking with a Panther, Mama Said Knock You Out was released by Def Jam Recordings on September 14, 1990, to commercial and critical success.",
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "east coast rap",
+    "hardcore rap"
+  ],
+  "rating": {
+    "value_out_of_5": 3.75,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a1440823-4a3f-38c3-8649-a346a86fe1ec",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mama_Said_Knock_You_Out",
+    "allmusic": "https://www.allmusic.com/album/mw0000309159",
+    "discogs": "https://www.discogs.com/master/79689",
+    "wikidata": "https://www.wikidata.org/wiki/Q636979",
+    "deezer": "https://www.deezer.com/album/113018712"
+  },
+  "musicbrainz_id": "a1440823-4a3f-38c3-8649-a346a86fe1ec",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d012b269-86de-4a3e-9d7c-5d0ab45a633b",
+      "barcode": "731454242820",
+      "title": "Mama Said Knock You Out",
+      "disambiguation": null,
+      "date": "2000-04-04",
+      "country": "XE"
+    },
+    "total_tracks": 15,
+    "total_length": "1:09:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Enhanced CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Boomin’ System",
+            "length": "3:44"
+          },
+          {
+            "number": "2",
+            "title": "Around the Way Girl",
+            "length": "4:08"
+          },
+          {
+            "number": "3",
+            "title": "Eat ’em Up L Chill",
+            "length": "4:40"
+          },
+          {
+            "number": "4",
+            "title": "Mr. Good Bar",
+            "length": "3:45"
+          },
+          {
+            "number": "5",
+            "title": "Murdergram",
+            "length": "3:56"
+          },
+          {
+            "number": "6",
+            "title": "Cheesy Rat Blues",
+            "length": "5:09"
+          },
+          {
+            "number": "7",
+            "title": "Farmers Blvd. (Our Anthem)",
+            "length": "4:28"
+          },
+          {
+            "number": "8",
+            "title": "Mama Said Knock You Out",
+            "length": "4:53",
+            "deezer": {
+              "id": 765838752,
+              "link": "https://www.deezer.com/track/765838752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/9/0/18991fa3937ef48c7b6dd8c132a31cae.mp3?hdnea=exp=1795656582~acl=/api/1/1/1/8/9/0/18991fa3937ef48c7b6dd8c132a31cae.mp3*~data=user_id=0,application_id=42~hmac=8e18953990b8c49706c6c4fe6ce66f4886125ab2d0e759117ddbccd5def51a8d",
+              "preview_expires": "2026-11-26T01:29:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Milky Cereal",
+            "length": "3:57"
+          },
+          {
+            "number": "10",
+            "title": "Jingling Baby (Remixed but Still Jingling)",
+            "length": "4:59"
+          },
+          {
+            "number": "11",
+            "title": "To da Break of Dawn",
+            "length": "4:34"
+          },
+          {
+            "number": "12",
+            "title": "6 Minutes of Pleasure",
+            "length": "4:36"
+          },
+          {
+            "number": "13",
+            "title": "Illegal Search",
+            "length": "4:34"
+          },
+          {
+            "number": "14",
+            "title": "The Power of God",
+            "length": "4:25"
+          },
+          {
+            "number": "15",
+            "title": "Mama Said Knock You Out (Steering mix)",
+            "length": "7:19"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/LL COOL J/Mama Said Knock You Out.png"
+}

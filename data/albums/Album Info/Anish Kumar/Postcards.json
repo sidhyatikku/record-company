@@ -1,0 +1,88 @@
+{
+  "title": "Postcards",
+  "artist": "Anish Kumar",
+  "year": 2022,
+  "release_date": "2022-07-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c9a779ae-291d-4a14-a9fa-073488a1b4c9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/353210037"
+  },
+  "musicbrainz_id": "c9a779ae-291d-4a14-a9fa-073488a1b4c9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/40e955bc-f16d-4d5f-a911-c7a06d9a2123",
+      "barcode": "5056494913505",
+      "title": "Postcards",
+      "disambiguation": null,
+      "date": "2022-07-29",
+      "country": "GB"
+    },
+    "total_tracks": 4,
+    "total_length": "12:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hummingbird",
+            "length": "2:58",
+            "deezer": {
+              "id": 1899041347,
+              "link": "https://www.deezer.com/track/1899041347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/7/0/b577bb4969345b02b20d17279b52d236.mp3?hdnea=exp=1795649252~acl=/api/1/1/b/5/7/0/b577bb4969345b02b20d17279b52d236.mp3*~data=user_id=0,application_id=42~hmac=4086fcf3a3fb54acfeaaa731ec02a2b49f243ffafa781afe11fb72fad0b726ff",
+              "preview_expires": "2026-11-25T23:27:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Steamroller",
+            "length": "2:55",
+            "deezer": {
+              "id": 1899041357,
+              "link": "https://www.deezer.com/track/1899041357",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/1/0/bd1ed11b3198bb5c7232e1c90bbb490b.mp3?hdnea=exp=1795649252~acl=/api/1/1/b/d/1/0/bd1ed11b3198bb5c7232e1c90bbb490b.mp3*~data=user_id=0,application_id=42~hmac=0b77c854e1b760bf9c82d4f70d6a6256e83403da5e549ed81d8945db33a571b0",
+              "preview_expires": "2026-11-25T23:27:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bhāvachakra",
+            "length": "3:32",
+            "deezer": {
+              "id": 1899041367,
+              "link": "https://www.deezer.com/track/1899041367",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/0/0/4b022ec19886c436b910ecfc1eb222e3.mp3?hdnea=exp=1795649252~acl=/api/1/1/4/b/0/0/4b022ec19886c436b910ecfc1eb222e3.mp3*~data=user_id=0,application_id=42~hmac=16a11016192a1657028e76c19f3ade5e6a2be63f663945bb927d81350bb18451",
+              "preview_expires": "2026-11-25T23:27:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Return to Sender",
+            "length": "3:26",
+            "deezer": {
+              "id": 1899041377,
+              "link": "https://www.deezer.com/track/1899041377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/8/0/c6847c61951374df3d29316f3f27986e.mp3?hdnea=exp=1795649252~acl=/api/1/1/c/6/8/0/c6847c61951374df3d29316f3f27986e.mp3*~data=user_id=0,application_id=42~hmac=9d8a4d43688e29aab7519f8977f965a65f5fda3deb4e6e09ae92e32077856d31",
+              "preview_expires": "2026-11-25T23:27:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/Postcards.jpg"
+}

@@ -1,0 +1,251 @@
+{
+  "title": "Are You Experienced",
+  "artist": "The Jimi Hendrix Experience",
+  "year": 1967,
+  "release_date": "1967-05-12",
+  "type": "Album",
+  "description": "Are You Experienced is the debut studio album by the Jimi Hendrix Experience, released in May 1967. The album was an immediate critical and commercial success, and is widely regarded as one of the greatest albums of all time. It features Jimi Hendrix's innovative approach to songwriting and electric guitar playing, which soon established a new direction in psychedelic and rock music as a whole.",
+  "genres": [
+    "blues rock",
+    "psychedelic rock",
+    "rock",
+    "acid rock",
+    "hard rock",
+    "classic rock",
+    "psychedelic"
+  ],
+  "tags": [
+    "blues rock",
+    "psychedelic rock",
+    "rock",
+    "acid rock",
+    "hard rock",
+    "classic rock",
+    "energetic",
+    "psychedelic"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 23
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/da40e720-2097-3730-8a7f-0c2ddbff4a96",
+    "wikipedia": "https://en.wikipedia.org/wiki/Are_You_Experienced",
+    "allmusic": "https://www.allmusic.com/album/mw0000537390",
+    "discogs": "https://www.discogs.com/master/24497",
+    "wikidata": "https://www.wikidata.org/wiki/Q640397",
+    "deezer": "https://www.deezer.com/album/455130"
+  },
+  "musicbrainz_id": "da40e720-2097-3730-8a7f-0c2ddbff4a96",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/60a8a8eb-127b-4ae2-abeb-c850994f1dd6",
+      "barcode": "884977413885",
+      "title": "Are You Experienced",
+      "disambiguation": null,
+      "date": "2010-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 17,
+    "total_length": "1:00:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Purple Haze",
+            "length": "2:50",
+            "deezer": {
+              "id": 4969001,
+              "link": "https://www.deezer.com/track/4969001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/9/0/74938aaed8f9ba9b7a6429c3f2591adc.mp3?hdnea=exp=1795655610~acl=/api/1/1/7/4/9/0/74938aaed8f9ba9b7a6429c3f2591adc.mp3*~data=user_id=0,application_id=42~hmac=c44f813e39a6abb6d75f3d914ca6a90ad0e1d4d0234f8f367fbf98d73318ae80",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Manic Depression",
+            "length": "3:42",
+            "deezer": {
+              "id": 4969002,
+              "link": "https://www.deezer.com/track/4969002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/4/0/5741bc00007b484ab55a479f10c65661.mp3?hdnea=exp=1795655610~acl=/api/1/1/5/7/4/0/5741bc00007b484ab55a479f10c65661.mp3*~data=user_id=0,application_id=42~hmac=60452d9ee8ba5a5e682959ab46eed12e7f355ed49eadf2eea46956ad80fe18ee",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hey Joe",
+            "length": "3:30",
+            "deezer": {
+              "id": 4969003,
+              "link": "https://www.deezer.com/track/4969003",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/e/0/cfe2307580dc4763e06f6b4134c07f26.mp3?hdnea=exp=1795655610~acl=/api/1/1/c/f/e/0/cfe2307580dc4763e06f6b4134c07f26.mp3*~data=user_id=0,application_id=42~hmac=22dcd63c4f49a56d75669611ac4c678042f2b029ba3f1008648c21ed22c165c5",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Love or Confusion",
+            "length": "3:12",
+            "deezer": {
+              "id": 4969004,
+              "link": "https://www.deezer.com/track/4969004",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/b/0/64b769d79adc289c2d4e9d15b4dd33e9.mp3?hdnea=exp=1795655610~acl=/api/1/1/6/4/b/0/64b769d79adc289c2d4e9d15b4dd33e9.mp3*~data=user_id=0,application_id=42~hmac=60bc5193eaab2e14c3316e569831d0b268640f0242cc40e7c7dfd75549377e23",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "May This Be Love",
+            "length": "3:10",
+            "deezer": {
+              "id": 4969005,
+              "link": "https://www.deezer.com/track/4969005",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/d/0/46d47a38208fd815dcae924100bfb578.mp3?hdnea=exp=1795655610~acl=/api/1/1/4/6/d/0/46d47a38208fd815dcae924100bfb578.mp3*~data=user_id=0,application_id=42~hmac=ac3e1e9e62d1fc9370659559ff152e453f3ecd6a0298d76fa61e68c8ed278100",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Don’t Live Today",
+            "length": "3:54",
+            "deezer": {
+              "id": 4969006,
+              "link": "https://www.deezer.com/track/4969006",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/9/0/c995ecc89c6a4881a153bb53f612a6d5.mp3?hdnea=exp=1795655610~acl=/api/1/1/c/9/9/0/c995ecc89c6a4881a153bb53f612a6d5.mp3*~data=user_id=0,application_id=42~hmac=c1251061b45a38a7ece4d05ed8c4ada2b3d92c8959c642076ab299f6c2a2ca07",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Wind Cries Mary",
+            "length": "3:20",
+            "deezer": {
+              "id": 4969007,
+              "link": "https://www.deezer.com/track/4969007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/6/0/c362ce3e157bf9ff993607176fd8f2b6.mp3?hdnea=exp=1795655610~acl=/api/1/1/c/3/6/0/c362ce3e157bf9ff993607176fd8f2b6.mp3*~data=user_id=0,application_id=42~hmac=49902f1b905a9ae7013700f22e1e657ba5dedd4d14870a252af4ce3b56beb75f",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Fire",
+            "length": "2:43",
+            "deezer": {
+              "id": 4969008,
+              "link": "https://www.deezer.com/track/4969008",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/f/0/5dfb7838657dca350b779ac58200d62b.mp3?hdnea=exp=1795655610~acl=/api/1/1/5/d/f/0/5dfb7838657dca350b779ac58200d62b.mp3*~data=user_id=0,application_id=42~hmac=7f87afaf1f933176181ffb7e442322e290b847b6032bc8a5f60e4f908cd4ea3b",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Third Stone From the Sun",
+            "length": "6:44",
+            "deezer": {
+              "id": 4969009,
+              "link": "https://www.deezer.com/track/4969009",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/7/0/c177b140870c5374d2d0bb46171260f4.mp3?hdnea=exp=1795655610~acl=/api/1/1/c/1/7/0/c177b140870c5374d2d0bb46171260f4.mp3*~data=user_id=0,application_id=42~hmac=d59eea1c453e87e696dc4a5cd052d6c33e92e7718782efa67e2578e7008c6a51",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Foxy Lady",
+            "length": "3:18",
+            "deezer": {
+              "id": 4969010,
+              "link": "https://www.deezer.com/track/4969010",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/3/0/b3332517b0bc9a6fef8b52c1e4d5f548.mp3?hdnea=exp=1795655610~acl=/api/1/1/b/3/3/0/b3332517b0bc9a6fef8b52c1e4d5f548.mp3*~data=user_id=0,application_id=42~hmac=3bbe6780443bdb270524c13093bfc5faa442334f7a86a9b34e75049f7a0235bb",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Are You Experienced?",
+            "length": "4:15",
+            "deezer": {
+              "id": 4969011,
+              "link": "https://www.deezer.com/track/4969011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/d/0/99d7632838ca5f68af9a462289f1b25b.mp3?hdnea=exp=1795655610~acl=/api/1/1/9/9/d/0/99d7632838ca5f68af9a462289f1b25b.mp3*~data=user_id=0,application_id=42~hmac=a5c87534f23ae02a651195b54c31cd324df0e9e6fdeaed93ac74e212646ffca8",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Stone Free",
+            "length": "3:35",
+            "deezer": {
+              "id": 4969012,
+              "link": "https://www.deezer.com/track/4969012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/e/0/21e522d0499086897ed5cd8a7eb7d22c.mp3?hdnea=exp=1795655610~acl=/api/1/1/2/1/e/0/21e522d0499086897ed5cd8a7eb7d22c.mp3*~data=user_id=0,application_id=42~hmac=a61e26f604dc5c9040ead806efed1b14e404db1930f5f9f2bf780899a3ad242a",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "51st Anniversary",
+            "length": "3:15",
+            "deezer": {
+              "id": 4969013,
+              "link": "https://www.deezer.com/track/4969013",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/7/0/f47831ddd03af092d3a4ca3bb387d6af.mp3?hdnea=exp=1795655610~acl=/api/1/1/f/4/7/0/f47831ddd03af092d3a4ca3bb387d6af.mp3*~data=user_id=0,application_id=42~hmac=d1f56a39ea3f50c72fe2c5cc54ccf5b9fb3002114037eb56fe2179785f754a04",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Highway Chile",
+            "length": "3:32",
+            "deezer": {
+              "id": 4969014,
+              "link": "https://www.deezer.com/track/4969014",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/1/0/7713dc67e2ca8e44acd371d0b6f9a313.mp3?hdnea=exp=1795655610~acl=/api/1/1/7/7/1/0/7713dc67e2ca8e44acd371d0b6f9a313.mp3*~data=user_id=0,application_id=42~hmac=4b427216763fc59b424f328ae44fc6c6559d1342483a30d02df9af548472e635",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Can You See Me",
+            "length": "2:32",
+            "deezer": {
+              "id": 4969015,
+              "link": "https://www.deezer.com/track/4969015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/9/0/e79390cc846e8b22e47a9adecdd5abc7.mp3?hdnea=exp=1795655610~acl=/api/1/1/e/7/9/0/e79390cc846e8b22e47a9adecdd5abc7.mp3*~data=user_id=0,application_id=42~hmac=1cbbc0d0a77bde743cbc92011f42c91af7da0829822e7c91dc6816597e97223f",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Remember",
+            "length": "2:48",
+            "deezer": {
+              "id": 4969016,
+              "link": "https://www.deezer.com/track/4969016",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/0/0/1b09766c24bd9e8e3f6878811e75cc60.mp3?hdnea=exp=1795655610~acl=/api/1/1/1/b/0/0/1b09766c24bd9e8e3f6878811e75cc60.mp3*~data=user_id=0,application_id=42~hmac=d6603eba9feff35cd42f2094b421d3572bacbdc2e91e5c2962fa8f70140ad9e5",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Red House",
+            "length": "3:50",
+            "deezer": {
+              "id": 4969017,
+              "link": "https://www.deezer.com/track/4969017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/0/0/4608504b4955d1b502b754199b1f63a3.mp3?hdnea=exp=1795655610~acl=/api/1/1/4/6/0/0/4608504b4955d1b502b754199b1f63a3.mp3*~data=user_id=0,application_id=42~hmac=7a6cb9420af57cd6f61a4837c3f93fe65165cb87fd184dd8d6f91b412b01a5ae",
+              "preview_expires": "2026-11-26T01:13:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jimi Hendrix/Are You Experienced.jpg"
+}

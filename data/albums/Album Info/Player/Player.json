@@ -1,0 +1,159 @@
+{
+  "title": "Player",
+  "artist": "Player",
+  "year": 1977,
+  "release_date": "1977",
+  "type": "Album",
+  "description": "Player is the debut album from Los Angeles, California-based rock band Player, released on October 3, 1977 under RSO Records.",
+  "genres": [
+    "soft rock",
+    "rock"
+  ],
+  "tags": [
+    "soft rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e8d69ecf-e034-3717-be18-f14e3459d05e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Player_(Player_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000863701",
+    "discogs": "https://www.discogs.com/master/140693",
+    "wikidata": "https://www.wikidata.org/wiki/Q624961",
+    "deezer": "https://www.deezer.com/album/93658742"
+  },
+  "musicbrainz_id": "e8d69ecf-e034-3717-be18-f14e3459d05e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4bbeec24-63da-44ef-bc98-1fa4ea530ba6",
+      "barcode": "602577245428",
+      "title": "Player",
+      "disambiguation": null,
+      "date": "2019-04-19",
+      "country": "GB"
+    },
+    "total_tracks": 10,
+    "total_length": "39:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Come on Out",
+            "length": "3:49",
+            "deezer": {
+              "id": 665411502,
+              "link": "https://www.deezer.com/track/665411502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/5/0/f1567e611c5c00e7f3af06408318ea54.mp3?hdnea=exp=1795719549~acl=/api/1/1/f/1/5/0/f1567e611c5c00e7f3af06408318ea54.mp3*~data=user_id=0,application_id=42~hmac=deea318457c087e582b5b8dc900b56b7833c5f3b0f1215038cb4caf665b66984",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Baby Come Back",
+            "length": "4:16",
+            "deezer": {
+              "id": 665411512,
+              "link": "https://www.deezer.com/track/665411512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/3/0/1137031651e224ab1111832ccc19168f.mp3?hdnea=exp=1795719549~acl=/api/1/1/1/1/3/0/1137031651e224ab1111832ccc19168f.mp3*~data=user_id=0,application_id=42~hmac=7a36216b466053b624ae5f3a16f5324773ff877c7ab835e542f2cf6e01a2eca5",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Goodbye (That’s All I Ever Heard)",
+            "length": "3:50",
+            "deezer": {
+              "id": 665411522,
+              "link": "https://www.deezer.com/track/665411522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/b/0/c9b8460b5a9dc474f70f80653f61e04d.mp3?hdnea=exp=1795719549~acl=/api/1/1/c/9/b/0/c9b8460b5a9dc474f70f80653f61e04d.mp3*~data=user_id=0,application_id=42~hmac=7785d4a20ea2c7a29ed9a040eddaa14e8c9d2e63437be23ebbfd073b9a693ead",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Melanie",
+            "length": "3:45",
+            "deezer": {
+              "id": 665411532,
+              "link": "https://www.deezer.com/track/665411532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/3/0/073b755e446c4441f4b1df7bac071a13.mp3?hdnea=exp=1795719549~acl=/api/1/1/0/7/3/0/073b755e446c4441f4b1df7bac071a13.mp3*~data=user_id=0,application_id=42~hmac=25fa2db133664ca40e4c391fef2659be47e44d86377c489d7434d8fe5d837e3b",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Every Which Way",
+            "length": "3:46",
+            "deezer": {
+              "id": 665411542,
+              "link": "https://www.deezer.com/track/665411542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/b/0/52b192cb6623fe983e1be6c109111c4f.mp3?hdnea=exp=1795719549~acl=/api/1/1/5/2/b/0/52b192cb6623fe983e1be6c109111c4f.mp3*~data=user_id=0,application_id=42~hmac=af50782ccb1f773d1c7c5f5cd215d5ae7d8eb42360aa878a4050ba967f86c814",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "This Time I’m in It for Love",
+            "length": "4:25",
+            "deezer": {
+              "id": 665411552,
+              "link": "https://www.deezer.com/track/665411552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/f/0/2ffaa24f0dc78f33ed1b7893a2485278.mp3?hdnea=exp=1795719549~acl=/api/1/1/2/f/f/0/2ffaa24f0dc78f33ed1b7893a2485278.mp3*~data=user_id=0,application_id=42~hmac=e9b513601bb4b390de7ee538913fe97294f67e1e198e6e5ff6e81780673d0651",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Love Is Where You Find It",
+            "length": "4:09",
+            "deezer": {
+              "id": 665411562,
+              "link": "https://www.deezer.com/track/665411562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/d/0/a1d1ac259fa3920111a39ebe5ce11c24.mp3?hdnea=exp=1795719549~acl=/api/1/1/a/1/d/0/a1d1ac259fa3920111a39ebe5ce11c24.mp3*~data=user_id=0,application_id=42~hmac=74aeab137282af58b427414067297ec64e6548872ce21f7a22e21759b4b87d6a",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Movin’ Up",
+            "length": "3:00",
+            "deezer": {
+              "id": 665411572,
+              "link": "https://www.deezer.com/track/665411572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/7/0/f971bf9694b962a740b316e45fe1829a.mp3?hdnea=exp=1795719549~acl=/api/1/1/f/9/7/0/f971bf9694b962a740b316e45fe1829a.mp3*~data=user_id=0,application_id=42~hmac=bfcca11d3d408c6a69c9f7f50691d8d5a0da2b2909a8c1a37f370c1cce875dac",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Cancellation",
+            "length": "4:11",
+            "deezer": {
+              "id": 665411582,
+              "link": "https://www.deezer.com/track/665411582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9406b23f9207a4ba914977ecbe6f58.mp3?hdnea=exp=1795719549~acl=/api/1/1/4/a/9/0/4a9406b23f9207a4ba914977ecbe6f58.mp3*~data=user_id=0,application_id=42~hmac=e7a988178d966ec039f5f2c50e0c3a60206e756d833ab2e807c41d5cd084a7dd",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Tryin to Write a Hit Song",
+            "length": "4:45",
+            "deezer": {
+              "id": 665411592,
+              "link": "https://www.deezer.com/track/665411592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/3/0/b73d832cda23278a6f4930f86fae0ace.mp3?hdnea=exp=1795719549~acl=/api/1/1/b/7/3/0/b73d832cda23278a6f4930f86fae0ace.mp3*~data=user_id=0,application_id=42~hmac=83c21da6bdd5a939c2d9725083111ae15aac375ca06631168aed9ddeb31e00dd",
+              "preview_expires": "2026-11-26T18:59:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Player/Player.jpg"
+}

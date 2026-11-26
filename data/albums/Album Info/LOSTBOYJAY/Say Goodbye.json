@@ -1,0 +1,51 @@
+{
+  "title": "Say Goodbye",
+  "artist": "LOSTBOYJAY",
+  "year": 2023,
+  "release_date": "2023-11-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house",
+    "rally house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/052nTMZcRW5CMhYL9V0z4L",
+    "deezer": "https://www.deezer.com/album/687820731"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/052nTMZcRW5CMhYL9V0z4L",
+      "title": "Say Goodbye",
+      "date": "2023-11-24"
+    },
+    "total_tracks": 1,
+    "total_length": "2:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Say Goodbye",
+            "length": "2:06",
+            "artist": "LOSTBOYJAY, Billy Raffoul",
+            "deezer": {
+              "id": 3156152441,
+              "link": "https://www.deezer.com/track/3156152441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/b/0/29b755877ae2503a2cbdba7890b1355b.mp3?hdnea=exp=1795656648~acl=/api/1/1/2/9/b/0/29b755877ae2503a2cbdba7890b1355b.mp3*~data=user_id=0,application_id=42~hmac=e3241854b3b5adcf9fdfd12fd022ef23fe6ee129d34277be2c3e74b3b1b87e01",
+              "preview_expires": "2026-11-26T01:30:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/LOSTBOYJAY/Say Goodbye.jpg"
+}

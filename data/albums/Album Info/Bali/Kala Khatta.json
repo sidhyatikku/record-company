@@ -1,0 +1,88 @@
+{
+  "title": "Kala Khatta",
+  "artist": "Bali",
+  "year": 2025,
+  "release_date": "2025-04-23",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e5a29183-8321-4ec5-a42d-b0641f0e6073",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/743736251"
+  },
+  "musicbrainz_id": "e5a29183-8321-4ec5-a42d-b0641f0e6073",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d7a85419-ec32-4e2b-8ffa-34d396d3168b",
+      "barcode": "3617394010347",
+      "title": "Kala Khatta",
+      "disambiguation": null,
+      "date": "2025-04-23",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "9:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Podcast",
+            "length": "2:49",
+            "artist": "Bali & Enzo",
+            "deezer": {
+              "id": 3328470181,
+              "link": "https://www.deezer.com/track/3328470181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/6/0/816ef8d902d20a1982c70ba7e0981b0e.mp3?hdnea=exp=1795651847~acl=/api/1/1/8/1/6/0/816ef8d902d20a1982c70ba7e0981b0e.mp3*~data=user_id=0,application_id=42~hmac=d80b89eafec5b95c304cd6f92cc9effa24c4493cea8030647feaf48c8c8a2aea",
+              "preview_expires": "2026-11-26T00:10:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shameless",
+            "length": "2:21",
+            "artist": "Bali & Enzo",
+            "deezer": {
+              "id": 3328470191,
+              "link": "https://www.deezer.com/track/3328470191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/4/0/cc43a3884658be11169cb80c91f7fc4a.mp3?hdnea=exp=1795651847~acl=/api/1/1/c/c/4/0/cc43a3884658be11169cb80c91f7fc4a.mp3*~data=user_id=0,application_id=42~hmac=3046a482d16e85c18c7829864bdbc0478847b84af37d706f9a8ba05e1973dd28",
+              "preview_expires": "2026-11-26T00:10:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sad Gaana",
+            "length": "2:30",
+            "artist": "Bali & AN1K8T",
+            "deezer": {
+              "id": 3328470201,
+              "link": "https://www.deezer.com/track/3328470201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/f/0/10f57cb491e78705f330b977a34602ac.mp3?hdnea=exp=1795651847~acl=/api/1/1/1/0/f/0/10f57cb491e78705f330b977a34602ac.mp3*~data=user_id=0,application_id=42~hmac=ba7d07aa2e5f458d8559ad15078019c93a8b77c3aa9b84f0c78d07d98e28ddfe",
+              "preview_expires": "2026-11-26T00:10:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kalesh",
+            "length": "2:11",
+            "artist": "Bali & Rebel 7Enzo",
+            "deezer": {
+              "id": 3328470211,
+              "link": "https://www.deezer.com/track/3328470211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/f/0/8afd7383300ea5f6b72489f069adc8ab.mp3?hdnea=exp=1795651847~acl=/api/1/1/8/a/f/0/8afd7383300ea5f6b72489f069adc8ab.mp3*~data=user_id=0,application_id=42~hmac=13e7eb792fd590dfc42d6fafb0bb9c39041d92e254015d3c8589149e6bba4136",
+              "preview_expires": "2026-11-26T00:10:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bali/Kala Khatta.jpg"
+}

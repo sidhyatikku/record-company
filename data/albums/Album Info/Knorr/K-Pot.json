@@ -1,0 +1,51 @@
+{
+  "title": "K-Pot",
+  "artist": "Knorr",
+  "year": 2023,
+  "release_date": "2023-05-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/45gu6oDdqbfbDz0eLRHIAZ",
+    "deezer": "https://www.deezer.com/album/722143831"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/45gu6oDdqbfbDz0eLRHIAZ",
+      "title": "K-Pot",
+      "date": "2023-05-24"
+    },
+    "total_tracks": 1,
+    "total_length": "2:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "K-Pot",
+            "length": "2:05",
+            "artist": "Knorr, Seedhe Maut",
+            "deezer": {
+              "id": 3262320191,
+              "link": "https://www.deezer.com/track/3262320191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/2/0/2725ac1e8972d8750637b6c188174dba.mp3?hdnea=exp=1795656257~acl=/api/1/1/2/7/2/0/2725ac1e8972d8750637b6c188174dba.mp3*~data=user_id=0,application_id=42~hmac=fc6e089422b90803c498a951886881acdf265b172d80df2a9ccde373ff88277a",
+              "preview_expires": "2026-11-26T01:24:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Knorr/K-Pot.jpg"
+}

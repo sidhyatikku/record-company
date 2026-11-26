@@ -1,0 +1,50 @@
+{
+  "title": "Ishq",
+  "artist": "Donn Bhat",
+  "year": null,
+  "type": "Other",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/27773c59-f179-43bd-8953-80c283d3833e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/448369055"
+  },
+  "musicbrainz_id": "27773c59-f179-43bd-8953-80c283d3833e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/548dcb59-b2bd-4114-a821-2bb29bc13cb6",
+      "barcode": null,
+      "title": "Ishq",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ishq",
+            "length": "3:33",
+            "deezer": {
+              "id": 2308895125,
+              "link": "https://www.deezer.com/track/2308895125",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/8/0/26879d725e49cddc703e180463e02cdd.mp3?hdnea=exp=1795653499~acl=/api/1/1/2/6/8/0/26879d725e49cddc703e180463e02cdd.mp3*~data=user_id=0,application_id=42~hmac=603ae8936079511ad0f8e0f5160fad654d83096d7b016db1ad65e682cd7f89f1",
+              "preview_expires": "2026-11-26T00:38:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Donn Bhat/Ishq.jpg"
+}

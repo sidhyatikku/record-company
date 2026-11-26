@@ -1,0 +1,60 @@
+{
+  "title": "I Love It",
+  "artist": "Kanye West & Lil Pump",
+  "year": 2018,
+  "release_date": "2018-09-06",
+  "type": "Single",
+  "description": "\"I Love It\" is a song by American rappers Lil Pump and Kanye West, featuring guest vocals by American comedian Adele Givens, using snippets from her 1992 episode of Def Comedy Jam. The song was produced by West alongside DJ Clark Kent and frequent Lil Pump collaborator CBMix, with additional production by Ronny J. The song premiered at the 2018 Pornhub Awards. \"I Love It\" reached number one in Canada, Finland, New Zealand and Sweden, as well as the top 10 in Australia, the United Kingdom and the United States. The song is the third single from Lil Pump's second studio album, Harverd Dropout (2019).",
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/464d149b-2dac-4e5c-8e85-ac624bf8c331",
+    "wikipedia": "https://en.wikipedia.org/wiki/I_Love_It_(Lil_Pump_and_Kanye_West_song)",
+    "wikidata": "https://www.wikidata.org/wiki/Q56543580",
+    "deezer": "https://www.deezer.com/album/72551142"
+  },
+  "musicbrainz_id": "464d149b-2dac-4e5c-8e85-ac624bf8c331",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1f0950ef-0b76-4899-94e6-cdcfc3a63867",
+      "barcode": "602577081811",
+      "title": "I Love It",
+      "disambiguation": "Mastered for iTunes, clean lyrics",
+      "date": "2018-09-06",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "2:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Love It",
+            "length": "2:08",
+            "deezer": {
+              "id": 551577722,
+              "link": "https://www.deezer.com/track/551577722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/4/0/7b4636d91d86cc39d4c5281d14002ef6.mp3?hdnea=exp=1795655899~acl=/api/1/1/7/b/4/0/7b4636d91d86cc39d4c5281d14002ef6.mp3*~data=user_id=0,application_id=42~hmac=66e040787be169acf97a7b1651c1d4d39da76d95618f1ef0c661c08a34243406",
+              "preview_expires": "2026-11-26T01:18:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kanye West/I Love It.jpg"
+}

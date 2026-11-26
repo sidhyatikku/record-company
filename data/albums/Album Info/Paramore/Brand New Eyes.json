@@ -1,0 +1,145 @@
+{
+  "title": "Brand New Eyes",
+  "artist": "Paramore",
+  "year": 2009,
+  "release_date": "2009-09-22",
+  "type": "Album",
+  "description": "Brand New Eyes is the third studio album by the American rock band Paramore, released on September 29, 2009, through Fueled by Ramen as a follow-up to their sophomore album Riot! (2007). It was produced in collaboration with Rob Cavallo and recorded in Hidden Hills, California from January to March 2009. It is their first album with touring guitarist Taylor York as a permanent member, and was written by Hayley Williams and Josh Farro, with York contributing songwriting to four tracks. It was also the band's final album before Josh and Zac Farro's departure from the band in 2010. Zac would later rejoin in 2017 prior to the release of their fifth studio album, After Laughter.",
+  "genres": [
+    "alternative rock",
+    "pop punk",
+    "pop rock",
+    "rock",
+    "pop",
+    "power pop",
+    "punk"
+  ],
+  "tags": [
+    "alternative rock",
+    "pop punk",
+    "pop rock",
+    "rock",
+    "decode",
+    "pop",
+    "power pop",
+    "punk"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 19
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cd706457-8b16-4809-a61a-cdba1b281d39",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brand_New_Eyes",
+    "allmusic": "https://www.allmusic.com/album/mw0000823433",
+    "discogs": "https://www.discogs.com/master/219425",
+    "wikidata": "https://www.wikidata.org/wiki/Q832294",
+    "deezer": "https://www.deezer.com/album/218762102"
+  },
+  "musicbrainz_id": "cd706457-8b16-4809-a61a-cdba1b281d39",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2de1a723-88b2-4ea6-9ab8-3ffbc9ae0f22",
+      "barcode": "075679981554",
+      "title": "Brand New Eyes",
+      "disambiguation": null,
+      "date": "2009-09-25",
+      "country": "DZ"
+    },
+    "total_tracks": 15,
+    "total_length": "56:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Careful",
+            "length": "3:50"
+          },
+          {
+            "number": "2",
+            "title": "Ignorance",
+            "length": "3:39",
+            "deezer": {
+              "id": 1296744162,
+              "link": "https://www.deezer.com/track/1296744162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/2/0/5e2b7dd8ee6da2fbb4ceb419a632b8c8.mp3?hdnea=exp=1795719350~acl=/api/1/1/5/e/2/0/5e2b7dd8ee6da2fbb4ceb419a632b8c8.mp3*~data=user_id=0,application_id=42~hmac=35fea6ab6a75fbd1d79a30f5ff3ce53d862b5ab24660c56ff92aaa91a7b6ee07",
+              "preview_expires": "2026-11-26T18:55:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Playing God",
+            "length": "3:03"
+          },
+          {
+            "number": "4",
+            "title": "Brick by Boring Brick",
+            "length": "4:14"
+          },
+          {
+            "number": "5",
+            "title": "Turn It Off",
+            "length": "4:20"
+          },
+          {
+            "number": "6",
+            "title": "The Only Exception",
+            "length": "4:28"
+          },
+          {
+            "number": "7",
+            "title": "Feeling Sorry",
+            "length": "3:05"
+          },
+          {
+            "number": "8",
+            "title": "Looking Up",
+            "length": "3:29"
+          },
+          {
+            "number": "9",
+            "title": "Where the Lines Overlap",
+            "length": "3:19"
+          },
+          {
+            "number": "10",
+            "title": "Misguided Ghosts",
+            "length": "3:02"
+          },
+          {
+            "number": "11",
+            "title": "All I Wanted",
+            "length": "3:46"
+          },
+          {
+            "number": "12",
+            "title": "Decode",
+            "length": "4:22"
+          },
+          {
+            "number": "13",
+            "title": "Ignorance (acoustic)",
+            "length": "3:41"
+          },
+          {
+            "number": "14",
+            "title": "Brick by Boring Brick (acoustic version)",
+            "length": "4:23"
+          },
+          {
+            "number": "15",
+            "title": "Turn It Off (acoustic version)",
+            "length": "3:47"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Paramore/Brand New Eyes.jpg"
+}

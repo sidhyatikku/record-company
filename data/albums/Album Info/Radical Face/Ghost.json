@@ -1,0 +1,161 @@
+{
+  "title": "Ghost",
+  "artist": "Radical Face",
+  "year": 2007,
+  "release_date": "2007-03-02",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5b096c17-6a09-3a94-a0fb-2c88ae13c49a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/64483302"
+  },
+  "musicbrainz_id": "5b096c17-6a09-3a94-a0fb-2c88ae13c49a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c5c64ec1-3271-4461-92ea-3727cdc71995",
+      "barcode": "880918006925",
+      "title": "Ghost",
+      "disambiguation": null,
+      "date": "2007-03-02",
+      "country": "DE"
+    },
+    "total_tracks": 11,
+    "total_length": "47:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Asleep on a Train",
+            "length": "2:00",
+            "deezer": {
+              "id": 504882092,
+              "link": "https://www.deezer.com/track/504882092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/1/0/3e1f331a3df227a2e11f0f777ff5c07e.mp3?hdnea=exp=1795719833~acl=/api/1/1/3/e/1/0/3e1f331a3df227a2e11f0f777ff5c07e.mp3*~data=user_id=0,application_id=42~hmac=b54996623a51c4f628782de40638ec74472506823367ea289b1ba41377f41120",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Welcome Home, Son",
+            "length": "4:47",
+            "deezer": {
+              "id": 504882102,
+              "link": "https://www.deezer.com/track/504882102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/4/0/d949be34f32b88347d58b0f1027bf413.mp3?hdnea=exp=1795719833~acl=/api/1/1/d/9/4/0/d949be34f32b88347d58b0f1027bf413.mp3*~data=user_id=0,application_id=42~hmac=a1541474726aaaa7cd411c4c64c476093fdee0bbfa33f3868b6da69750a5e78c",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Let the River In",
+            "length": "5:05",
+            "deezer": {
+              "id": 504882112,
+              "link": "https://www.deezer.com/track/504882112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/f/0/ecf5e2a9cb9408c49fd72d2bea4be68c.mp3?hdnea=exp=1795719833~acl=/api/1/1/e/c/f/0/ecf5e2a9cb9408c49fd72d2bea4be68c.mp3*~data=user_id=0,application_id=42~hmac=0bd599e0ab5feb0e49116c980f588258f2cc7051259af5c3b84e2d3a8282abfc",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Glory",
+            "length": "6:12",
+            "deezer": {
+              "id": 504882122,
+              "link": "https://www.deezer.com/track/504882122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/b/0/92b0a98feb75fbb1c6cfdd44628b3f48.mp3?hdnea=exp=1795719833~acl=/api/1/1/9/2/b/0/92b0a98feb75fbb1c6cfdd44628b3f48.mp3*~data=user_id=0,application_id=42~hmac=045f1279632844bfcdcb2c4a0eb5004a85353cba551b9db529c1fb4930a0d572",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Strangest Things",
+            "length": "4:25",
+            "deezer": {
+              "id": 504882132,
+              "link": "https://www.deezer.com/track/504882132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/8/0/508e5d2c0acb95b06330cda0a0522a56.mp3?hdnea=exp=1795719833~acl=/api/1/1/5/0/8/0/508e5d2c0acb95b06330cda0a0522a56.mp3*~data=user_id=0,application_id=42~hmac=b12c324dbf3deaa1706a8546fb842e668351f695bc2083a2aaa2728de22fd6ee",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Wrapped in Piano Strings",
+            "length": "3:37",
+            "deezer": {
+              "id": 504882142,
+              "link": "https://www.deezer.com/track/504882142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/7/0/727533468c1d0dcea9aa1e59ea4e6c6f.mp3?hdnea=exp=1795719833~acl=/api/1/1/7/2/7/0/727533468c1d0dcea9aa1e59ea4e6c6f.mp3*~data=user_id=0,application_id=42~hmac=3f0364daae521a491a32a3222db118975749654d43602f63849facec1b1c688b",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Along the Road",
+            "length": "4:17",
+            "deezer": {
+              "id": 504882152,
+              "link": "https://www.deezer.com/track/504882152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/5/0/da5db53ffa7115d7402e47695ca767ff.mp3?hdnea=exp=1795719833~acl=/api/1/1/d/a/5/0/da5db53ffa7115d7402e47695ca767ff.mp3*~data=user_id=0,application_id=42~hmac=50a321e3c4240795910ff96467ba64f2c3e130da2f3812d5d8ca4ea8ce7dea45",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Haunted",
+            "length": "4:43",
+            "deezer": {
+              "id": 504882162,
+              "link": "https://www.deezer.com/track/504882162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/8/0/6381b84dfc289f59a2c90ef5ffcceb22.mp3?hdnea=exp=1795719833~acl=/api/1/1/6/3/8/0/6381b84dfc289f59a2c90ef5ffcceb22.mp3*~data=user_id=0,application_id=42~hmac=af03c39086d68115b9a9214a775b5a7b0ba77c17b66aa99e8a3c43874b9386c0",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Winter Is Coming",
+            "length": "4:22",
+            "deezer": {
+              "id": 504882172,
+              "link": "https://www.deezer.com/track/504882172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/9/0/a09caeb2a57e4e3f2a12bfa8123ef123.mp3?hdnea=exp=1795719833~acl=/api/1/1/a/0/9/0/a09caeb2a57e4e3f2a12bfa8123ef123.mp3*~data=user_id=0,application_id=42~hmac=21d06df524c74d861e9ce8ff53f4699b1e64fe65b213fb11dfe3ab52780880e6",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sleepwalking",
+            "length": "4:42",
+            "deezer": {
+              "id": 504882182,
+              "link": "https://www.deezer.com/track/504882182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/b/0/7cb263ae9dcc306e00aff47eeedce8d6.mp3?hdnea=exp=1795719833~acl=/api/1/1/7/c/b/0/7cb263ae9dcc306e00aff47eeedce8d6.mp3*~data=user_id=0,application_id=42~hmac=33a7ba38c806d927dcf5b0ccffe6343f466214fadfeb44c5076a27254b06e86b",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Homesick",
+            "length": "3:42",
+            "deezer": {
+              "id": 504882192,
+              "link": "https://www.deezer.com/track/504882192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/1/0/c31ad86a82d38450f225e37f0ba0c81c.mp3?hdnea=exp=1795719833~acl=/api/1/1/c/3/1/0/c31ad86a82d38450f225e37f0ba0c81c.mp3*~data=user_id=0,application_id=42~hmac=5e0353fb0c50c8e31d7807e8f88d61a4aff247e7bf5e315ae12ab8fc20f81514",
+              "preview_expires": "2026-11-26T19:03:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Radical Face/Ghost.jpg"
+}

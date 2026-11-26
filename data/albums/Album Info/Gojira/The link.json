@@ -1,0 +1,188 @@
+{
+  "title": "The Link",
+  "artist": "Gojira",
+  "year": 2003,
+  "release_date": "2003-04-18",
+  "type": "Album",
+  "description": "The Link is the second studio album by French heavy metal band Gojira. A remastered edition of the album was released in 2005 by the band's former label, Listenable Records. The track \"Indians\" was released as a single.",
+  "genres": [
+    "death metal",
+    "heavy metal",
+    "progressive metal",
+    "sludge metal",
+    "doom metal",
+    "experimental",
+    "groove metal",
+    "rock",
+    "technical death metal"
+  ],
+  "tags": [
+    "death metal",
+    "heavy metal",
+    "progressive metal",
+    "sludge metal",
+    "doom metal",
+    "experimental",
+    "groove metal",
+    "rock",
+    "technical death metal"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/84d9ea63-9157-3ca0-889b-b267a5e77d51",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Link_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000474217",
+    "discogs": "https://www.discogs.com/master/192625",
+    "wikidata": "https://www.wikidata.org/wiki/Q3521606",
+    "deezer": "https://www.deezer.com/album/46497"
+  },
+  "musicbrainz_id": "84d9ea63-9157-3ca0-889b-b267a5e77d51",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d8ecb17b-f963-4d22-8e38-a37d5bed36d0",
+      "barcode": null,
+      "title": "The Link",
+      "disambiguation": null,
+      "date": "2014-08-04",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "47:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Link",
+            "length": "5:01",
+            "deezer": {
+              "id": 283170,
+              "link": "https://www.deezer.com/track/283170",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/8/0/688e4ce7afba18923dfbd2e81e1cca8d.mp3?hdnea=exp=1795654673~acl=/api/1/1/6/8/8/0/688e4ce7afba18923dfbd2e81e1cca8d.mp3*~data=user_id=0,application_id=42~hmac=a3255b939afdec7da999f3b392597eda82750d33bef8dbea057f5909feb71bab",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Death of Me",
+            "length": "5:46",
+            "deezer": {
+              "id": 283171,
+              "link": "https://www.deezer.com/track/283171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/4/0/ba405b1d50ba4c46fc18338aba7967cf.mp3?hdnea=exp=1795654673~acl=/api/1/1/b/a/4/0/ba405b1d50ba4c46fc18338aba7967cf.mp3*~data=user_id=0,application_id=42~hmac=2ac238d2726047b40428c4c86aa4f82457165ba551a0c0cf226e3ad7898ff8df",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Connected",
+            "length": "1:20",
+            "deezer": {
+              "id": 283172,
+              "link": "https://www.deezer.com/track/283172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/d/0/8bda61ab5a6a1d6a0184b1fbe88c4065.mp3?hdnea=exp=1795654673~acl=/api/1/1/8/b/d/0/8bda61ab5a6a1d6a0184b1fbe88c4065.mp3*~data=user_id=0,application_id=42~hmac=f9fb25c8d1ae6510dcb46a03c02d8183aa0dfc849360cf6c65217f84317664d1",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Remembrance",
+            "length": "4:36",
+            "deezer": {
+              "id": 283173,
+              "link": "https://www.deezer.com/track/283173",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/4/0/36448298edf0c9d038f6d7ed417d7614.mp3?hdnea=exp=1795654673~acl=/api/1/1/3/6/4/0/36448298edf0c9d038f6d7ed417d7614.mp3*~data=user_id=0,application_id=42~hmac=2c1b67ee45e9e9f6b5de3101a0c53ab28ed60142e57d8756e69a5b2bb931fbb9",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Torii",
+            "length": "1:42",
+            "deezer": {
+              "id": 283174,
+              "link": "https://www.deezer.com/track/283174",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785a762c64958f0146b0555b8e6a045f.mp3?hdnea=exp=1795654673~acl=/api/1/1/7/8/5/0/785a762c64958f0146b0555b8e6a045f.mp3*~data=user_id=0,application_id=42~hmac=37e8f263dfd14092e9ba557ed73053549d145240cd74a9109c5abd78038a7b60",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Indians",
+            "length": "3:58",
+            "deezer": {
+              "id": 283175,
+              "link": "https://www.deezer.com/track/283175",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/6/0/066f7b7734c8824a493a143abcafd2f9.mp3?hdnea=exp=1795654673~acl=/api/1/1/0/6/6/0/066f7b7734c8824a493a143abcafd2f9.mp3*~data=user_id=0,application_id=42~hmac=effbc3c9ae9b5fa8c65f98bb4c3274d35efd70ffbfd9074a2527f2ae78f65775",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Embrace the World",
+            "length": "4:41",
+            "deezer": {
+              "id": 283176,
+              "link": "https://www.deezer.com/track/283176",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/5/0/ce57707efab5947661142619994ccaac.mp3?hdnea=exp=1795654673~acl=/api/1/1/c/e/5/0/ce57707efab5947661142619994ccaac.mp3*~data=user_id=0,application_id=42~hmac=10e52e70ea34a76b8a576c1fa29bbf9d7b46e139426a525cc2b49f7e61a7582d",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Inward Movement",
+            "length": "5:53",
+            "deezer": {
+              "id": 283177,
+              "link": "https://www.deezer.com/track/283177",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc36795b66b7c7ad9d62c7f649100079.mp3?hdnea=exp=1795654673~acl=/api/1/1/f/c/3/0/fc36795b66b7c7ad9d62c7f649100079.mp3*~data=user_id=0,application_id=42~hmac=f5421dadda6bebe9e1844810c3a0c5151e305beef332f677b57e3851c6aabfdd",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Over the Flows",
+            "length": "3:06",
+            "deezer": {
+              "id": 283178,
+              "link": "https://www.deezer.com/track/283178",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/9/0/8797a281dc2b422bd128dad0537d9ca3.mp3?hdnea=exp=1795654673~acl=/api/1/1/8/7/9/0/8797a281dc2b422bd128dad0537d9ca3.mp3*~data=user_id=0,application_id=42~hmac=9f0e2300f544bdc61471fe335ad1287d9f89abbc5bb0c6c6ea4124c74eafa69f",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Wisdom Comes",
+            "length": "2:28",
+            "deezer": {
+              "id": 283179,
+              "link": "https://www.deezer.com/track/283179",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/9/0/cf9f18e774cac4bb8a06892de966c9b8.mp3?hdnea=exp=1795654673~acl=/api/1/1/c/f/9/0/cf9f18e774cac4bb8a06892de966c9b8.mp3*~data=user_id=0,application_id=42~hmac=5fb634cbdcfb5e665f2b3f38d0237ade365870a3318f4c39287b96e2735a9366",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Dawn",
+            "length": "8:37",
+            "deezer": {
+              "id": 283180,
+              "link": "https://www.deezer.com/track/283180",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/e/0/0aef7d854b059017b98fb7fd5aeffda2.mp3?hdnea=exp=1795654673~acl=/api/1/1/0/a/e/0/0aef7d854b059017b98fb7fd5aeffda2.mp3*~data=user_id=0,application_id=42~hmac=0038f3e68af63420e204f4eb10adafc6c72dc3a13589250b2fa3421de9111ff7",
+              "preview_expires": "2026-11-26T00:57:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Gojira/The link.png"
+}

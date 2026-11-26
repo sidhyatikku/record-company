@@ -1,0 +1,53 @@
+{
+  "title": "Aaja We Mahiya",
+  "artist": "Imran Khan",
+  "year": 2009,
+  "release_date": "2009-07-27",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "desi",
+    "desi hip hop",
+    "punjabi pop",
+    "punjabi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/51qPI0QEkLACdlUWINyate",
+    "deezer": "https://www.deezer.com/album/114446332"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/51qPI0QEkLACdlUWINyate",
+      "title": "Aaja We Mahiya",
+      "date": "2009-07-27"
+    },
+    "total_tracks": 1,
+    "total_length": "3:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Aaja We Mahiya",
+            "length": "3:52",
+            "deezer": {
+              "id": 773629412,
+              "link": "https://www.deezer.com/track/773629412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/1/0/061b6dd862889d2461f8a5e4b86ffc4a.mp3?hdnea=exp=1795655189~acl=/api/1/1/0/6/1/0/061b6dd862889d2461f8a5e4b86ffc4a.mp3*~data=user_id=0,application_id=42~hmac=ae3e83ce633743325d913fdcc5da1ae93ec966f450704e132007b6a820ab9bc6",
+              "preview_expires": "2026-11-26T01:06:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Imran Khan/Aaja We Mahiya.jpg"
+}

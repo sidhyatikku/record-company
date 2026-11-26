@@ -1,0 +1,62 @@
+{
+  "title": "Lalala",
+  "artist": "Y2K, bbno$",
+  "year": 2019,
+  "release_date": "2019-06-27",
+  "type": "Single",
+  "description": "\"Lalala\" is a song by American producer Y2K and Canadian rapper bbno$, released as a single on June 7, 2019, by Columbia Records. The music video was released on August 21, 2019.",
+  "genres": [
+    "hip hop",
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "pop rap",
+    "trap",
+    "rap"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0df24d68-edfa-4745-a28f-d43056158f65",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lalala_(song)",
+    "wikidata": "https://www.wikidata.org/wiki/Q123757374",
+    "deezer": "https://www.deezer.com/album/101787652"
+  },
+  "musicbrainz_id": "0df24d68-edfa-4745-a28f-d43056158f65",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b16aec80-4fa0-4bc8-b5d5-88e35142deed",
+      "barcode": "886447831441",
+      "title": "Lalala",
+      "disambiguation": null,
+      "date": "2019-06-27",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lalala",
+            "length": "2:41",
+            "artist": "Y2K & bbno$",
+            "deezer": {
+              "id": 703842302,
+              "link": "https://www.deezer.com/track/703842302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/e/0/3ae584fbfa7e6a4d7272e945882b53ac.mp3?hdnea=exp=1795724435~acl=/api/1/1/3/a/e/0/3ae584fbfa7e6a4d7272e945882b53ac.mp3*~data=user_id=0,application_id=42~hmac=884198d3db328b57f974aec8a7481d16f8d1acdba27508cf777b6cd1dbc9e708",
+              "preview_expires": "2026-11-26T20:20:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Y2K/Lalala.jpg"
+}

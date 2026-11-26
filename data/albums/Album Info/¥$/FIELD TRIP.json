@@ -1,0 +1,50 @@
+{
+  "title": "FIELD TRIP",
+  "artist": "¥$ & Playboi Carti feat. Kodak Black",
+  "year": 2024,
+  "release_date": "2024-08-03",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 1,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bf0da8b4-3e08-431d-b168-895d3f672d3f",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "bf0da8b4-3e08-431d-b168-895d3f672d3f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bef9b20e-958d-410c-ba2a-29881fa55048",
+      "barcode": "0748777740346",
+      "title": "FIELD TRIP",
+      "disambiguation": null,
+      "date": "2024-08-05",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "FIELD TRIP",
+            "length": "2:47",
+            "artist": "¥$, Playboi Carti feat. Kodak Black"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/¥$/FIELD TRIP.jpg"
+}

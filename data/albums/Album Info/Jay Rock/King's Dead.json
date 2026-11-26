@@ -1,0 +1,62 @@
+{
+  "title": "King’s Dead",
+  "artist": "Jay Rock, Kendrick Lamar, Future & James Blake",
+  "year": 2018,
+  "release_date": "2018-01-11",
+  "type": "Single + Soundtrack",
+  "description": null,
+  "genres": [
+    "hip hop",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/952ea029-b751-4487-87b5-cc8b8f30511f",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1501420",
+    "deezer": "https://www.deezer.com/album/54768352"
+  },
+  "musicbrainz_id": "952ea029-b751-4487-87b5-cc8b8f30511f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/732e13a6-abe4-4326-84bb-ec05ff99f8a1",
+      "barcode": "00602567364245",
+      "title": "King’s Dead",
+      "disambiguation": null,
+      "date": "2018-01-12",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "King’s Dead",
+            "length": "3:50",
+            "deezer": {
+              "id": 448618242,
+              "link": "https://www.deezer.com/track/448618242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/2/0/522a7021394a75129e2cd2139a2791f8.mp3?hdnea=exp=1795655464~acl=/api/1/1/5/2/2/0/522a7021394a75129e2cd2139a2791f8.mp3*~data=user_id=0,application_id=42~hmac=e726269b0fe56ffe6e0ac7c9969ff9a2e6609d8990c61bd190baadc2c0b0f4e2",
+              "preview_expires": "2026-11-26T01:11:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jay Rock/King's Dead.jpg"
+}

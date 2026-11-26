@@ -1,0 +1,285 @@
+{
+  "title": "Jailbreak",
+  "artist": "Thin Lizzy",
+  "year": 1976,
+  "release_date": "1976",
+  "type": "Album",
+  "description": "Jailbreak is the sixth studio album by Irish hard rock band Thin Lizzy. It was released on 26 March 1976, by Vertigo Records in the UK, and Mercury Records in the US. The album proved to be the band's commercial breakthrough in the US, and the only Thin Lizzy album with a certification in that country. The singles taken from the album include \"Jailbreak\" and \"The Boys Are Back in Town\"; the latter is Thin Lizzy's biggest US hit, and won the 1976 NME Award for Best Single.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "classic rock",
+    "pop"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "album rock",
+    "classic rock",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.6,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d55dae0d-835d-3756-8805-196e41bacc2f",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jailbreak_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000204032",
+    "discogs": "https://www.discogs.com/master/52823",
+    "wikidata": "https://www.wikidata.org/wiki/Q654976",
+    "deezer": "https://www.deezer.com/album/745674"
+  },
+  "musicbrainz_id": "d55dae0d-835d-3756-8805-196e41bacc2f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/26bcb9d9-fa16-43be-97f6-6163bf608508",
+      "barcode": "0600753320525",
+      "title": "Jailbreak",
+      "disambiguation": "deluxe edition",
+      "date": "2011",
+      "country": "XE"
+    },
+    "total_tracks": 20,
+    "total_length": "1:27:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jailbreak",
+            "length": "4:04",
+            "deezer": {
+              "id": 8080978,
+              "link": "https://www.deezer.com/track/8080978",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/0/0/8f0f6d343ff687e3d0c77a1725dd5d73.mp3?hdnea=exp=1795721860~acl=/api/1/1/8/f/0/0/8f0f6d343ff687e3d0c77a1725dd5d73.mp3*~data=user_id=0,application_id=42~hmac=8c2a647d55ffb413b854df243da33f24ba0e5b8e2712a8fe63d2cfb5c4e0963c",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Angel From the Coast",
+            "length": "3:07",
+            "deezer": {
+              "id": 8080979,
+              "link": "https://www.deezer.com/track/8080979",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/6/0/206a4e8c526d68b8f40bc321a9754227.mp3?hdnea=exp=1795721860~acl=/api/1/1/2/0/6/0/206a4e8c526d68b8f40bc321a9754227.mp3*~data=user_id=0,application_id=42~hmac=339342f99350bf744c0ca3aef3cdb4e62d1bf1fa128e0cfa944805d614f287a6",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Running Back",
+            "length": "3:17",
+            "deezer": {
+              "id": 8080980,
+              "link": "https://www.deezer.com/track/8080980",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/e/0/60e6cea3614733f1ddf84155a04df697.mp3?hdnea=exp=1795721860~acl=/api/1/1/6/0/e/0/60e6cea3614733f1ddf84155a04df697.mp3*~data=user_id=0,application_id=42~hmac=30254c191556cb24c373c47c67a973bdf0e1de57535a1978270e85830f3b747d",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Romeo and the Lonely Girl",
+            "length": "3:58",
+            "deezer": {
+              "id": 8080981,
+              "link": "https://www.deezer.com/track/8080981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/6/0/ba6563d2e7547852351f6f1515eb437b.mp3?hdnea=exp=1795721860~acl=/api/1/1/b/a/6/0/ba6563d2e7547852351f6f1515eb437b.mp3*~data=user_id=0,application_id=42~hmac=d5855c285af0daf4fbddb1d2a838cf1602c1ddb257c69c72101b4dbba4aa744a",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Warriors",
+            "length": "4:12",
+            "deezer": {
+              "id": 8080982,
+              "link": "https://www.deezer.com/track/8080982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/8/0/4986f75f77b19d206b1d361607e27fd7.mp3?hdnea=exp=1795721860~acl=/api/1/1/4/9/8/0/4986f75f77b19d206b1d361607e27fd7.mp3*~data=user_id=0,application_id=42~hmac=1024d3943af70b52818592a6ac92f5899494ae5ca212804711290a3fc0446ff7",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Boys Are Back in Town",
+            "length": "4:30",
+            "deezer": {
+              "id": 8080983,
+              "link": "https://www.deezer.com/track/8080983",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/5/0/eb59355161dbb5f91b04b963475c04bf.mp3?hdnea=exp=1795721860~acl=/api/1/1/e/b/5/0/eb59355161dbb5f91b04b963475c04bf.mp3*~data=user_id=0,application_id=42~hmac=13f94a4a7d8a3c177ac75b064a7946b5222c23231f53375fea0099d44c13a530",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Fight or Fall",
+            "length": "3:48",
+            "deezer": {
+              "id": 8080984,
+              "link": "https://www.deezer.com/track/8080984",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/8/0/f58e8acbd47e3c7bb89d15cead2095c3.mp3?hdnea=exp=1795721860~acl=/api/1/1/f/5/8/0/f58e8acbd47e3c7bb89d15cead2095c3.mp3*~data=user_id=0,application_id=42~hmac=e114918c8865877dd26561c74e2059d327d68da21376070f18494d2c5fd56256",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cowboy Song",
+            "length": "5:18",
+            "deezer": {
+              "id": 8080985,
+              "link": "https://www.deezer.com/track/8080985",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/4/0/704efa9c43f9749b9c1720cfd148ed3b.mp3?hdnea=exp=1795721860~acl=/api/1/1/7/0/4/0/704efa9c43f9749b9c1720cfd148ed3b.mp3*~data=user_id=0,application_id=42~hmac=ff1d37f3786545b76d54a6abfbcb88fa560f6937e2a637e4099a126ad0cce082",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Emerald",
+            "length": "4:04",
+            "deezer": {
+              "id": 8080986,
+              "link": "https://www.deezer.com/track/8080986",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/4/0/c447d724d59b8abc85e9ec2a79fa7073.mp3?hdnea=exp=1795721860~acl=/api/1/1/c/4/4/0/c447d724d59b8abc85e9ec2a79fa7073.mp3*~data=user_id=0,application_id=42~hmac=d68b746e492682b626323c2e39c4eabc114a32b7f28ad3b5bea2b48dd70ae436",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Boys Are Back in Town (remix)",
+            "length": "4:35",
+            "deezer": {
+              "id": 8080987,
+              "link": "https://www.deezer.com/track/8080987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/9/0/fd91d3c73139382f77bf64877ae837e5.mp3?hdnea=exp=1795721860~acl=/api/1/1/f/d/9/0/fd91d3c73139382f77bf64877ae837e5.mp3*~data=user_id=0,application_id=42~hmac=25f7ac4fcc294fa661cf36d752ae12b2ffd0c6a0487e1a4d2a32f209fffbdd43",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jailbreak (remix)",
+            "length": "4:14",
+            "deezer": {
+              "id": 8080988,
+              "link": "https://www.deezer.com/track/8080988",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/f/0/72f2bb1092c27e35466c4c1145272e41.mp3?hdnea=exp=1795721860~acl=/api/1/1/7/2/f/0/72f2bb1092c27e35466c4c1145272e41.mp3*~data=user_id=0,application_id=42~hmac=337fe3129f923dfcee7255218aaf8c55cf18e867b4c79529b05324feae8903a9",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Boys Are Back in Town (Alt vocal-remix version)",
+            "length": "4:33",
+            "deezer": {
+              "id": 8080989,
+              "link": "https://www.deezer.com/track/8080989",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/c/0/0cc6ad144bb00d7fe9a7a81f07267a79.mp3?hdnea=exp=1795721860~acl=/api/1/1/0/c/c/0/0cc6ad144bb00d7fe9a7a81f07267a79.mp3*~data=user_id=0,application_id=42~hmac=883f5c32e8e7ba823e0bd384515b84d3d3fb833c6f544d8d98064856b987979e",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Emerald (remix)",
+            "length": "4:08",
+            "deezer": {
+              "id": 8080990,
+              "link": "https://www.deezer.com/track/8080990",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/e/0/52e03d605a716ba12597ab0ec9a635ac.mp3?hdnea=exp=1795721860~acl=/api/1/1/5/2/e/0/52e03d605a716ba12597ab0ec9a635ac.mp3*~data=user_id=0,application_id=42~hmac=97e9db9f1e512dfd78af185351b4baaac1d07e8e9cbc2fe277b5882b6902ccb5",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Jailbreak (BBC session)",
+            "length": "4:05",
+            "deezer": {
+              "id": 8080991,
+              "link": "https://www.deezer.com/track/8080991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/c/0/f7c9e331259daf935cbc09dca9bdf693.mp3?hdnea=exp=1795721860~acl=/api/1/1/f/7/c/0/f7c9e331259daf935cbc09dca9bdf693.mp3*~data=user_id=0,application_id=42~hmac=fb2a78c8d4345444b7f07caca07dcf24540d8a34bde081883dbadf98f23d8b9a",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Emerald (BBC session)",
+            "length": "3:58",
+            "deezer": {
+              "id": 8080992,
+              "link": "https://www.deezer.com/track/8080992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/e/0/64e8a3c360f64108b1515a126a3d648d.mp3?hdnea=exp=1795721860~acl=/api/1/1/6/4/e/0/64e8a3c360f64108b1515a126a3d648d.mp3*~data=user_id=0,application_id=42~hmac=bec348821578c3d0a4e736669b1bee32a09b355799e476b4a04ec9d223df678c",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Cowboy Song (BBC session)",
+            "length": "5:14",
+            "deezer": {
+              "id": 8080993,
+              "link": "https://www.deezer.com/track/8080993",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/6/0/8b63a4e84b6462226faefb9cd624891b.mp3?hdnea=exp=1795721860~acl=/api/1/1/8/b/6/0/8b63a4e84b6462226faefb9cd624891b.mp3*~data=user_id=0,application_id=42~hmac=a14de617515da5b0d04296ee2d4d13ac25799a8d9f5bcdaa4020fc66e51c6c66",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Warriors (BBC session)",
+            "length": "3:57",
+            "deezer": {
+              "id": 8080994,
+              "link": "https://www.deezer.com/track/8080994",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/e/0/d0e269bd500976f8153155918d2d700d.mp3?hdnea=exp=1795721860~acl=/api/1/1/d/0/e/0/d0e269bd500976f8153155918d2d700d.mp3*~data=user_id=0,application_id=42~hmac=6e7d460cec2921048956284de2a0e8e8bd88b2bb3029d23f2e1f3962f56e1c96",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Fight or Fall (extended version-Rough mix)",
+            "length": "5:21",
+            "deezer": {
+              "id": 8080995,
+              "link": "https://www.deezer.com/track/8080995",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/b/0/32b05e6f36db1145934efa23016ea139.mp3?hdnea=exp=1795721860~acl=/api/1/1/3/2/b/0/32b05e6f36db1145934efa23016ea139.mp3*~data=user_id=0,application_id=42~hmac=fae4e2f4df54d0d2f13b6007e64a787feee5fd12184bc92d20222c974f7503b5",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Blues Boy",
+            "length": "4:38",
+            "deezer": {
+              "id": 8080996,
+              "link": "https://www.deezer.com/track/8080996",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/1/0/e011c5e4d329bc1d3f813380b6d1f5f7.mp3?hdnea=exp=1795721860~acl=/api/1/1/e/0/1/0/e011c5e4d329bc1d3f813380b6d1f5f7.mp3*~data=user_id=0,application_id=42~hmac=48681c5a8bb17198e4977096d3276bc24630aae6592179c4d225ce2b3ac83ab6",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Derby Blues",
+            "length": "6:52",
+            "deezer": {
+              "id": 8080997,
+              "link": "https://www.deezer.com/track/8080997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/5/0/4d598ff9537f0a660d0404c619577ddd.mp3?hdnea=exp=1795721860~acl=/api/1/1/4/d/5/0/4d598ff9537f0a660d0404c619577ddd.mp3*~data=user_id=0,application_id=42~hmac=fc724e2119a895cd005919b55eb44580ce76725e75f8a35fd6c496d2e296e1d0",
+              "preview_expires": "2026-11-26T19:37:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Thin Lizzy/Jailbreak.jpg"
+}

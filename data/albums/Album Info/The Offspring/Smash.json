@@ -1,0 +1,234 @@
+{
+  "title": "Smash",
+  "artist": "The Offspring",
+  "year": 1994,
+  "release_date": "1994-03-22",
+  "type": "Album",
+  "description": "Smash is the third studio album by American rock band the Offspring, released on April 8, 1994, through Epitaph Records. After touring in support of their previous album Ignition (1992), the band recorded their next album for nearly two months at Track Record in North Hollywood, California. Smash was the band's final studio album to be produced by Thom Wilson, who had worked with them since their 1989 debut album The Offspring. Smash was put together on the spot in the studio and there was no systematic work behind the recording of the album.",
+  "genres": [
+    "punk rock",
+    "punk",
+    "rock",
+    "alternative rock",
+    "hard rock",
+    "hardcore punk",
+    "melodic hardcore"
+  ],
+  "tags": [
+    "punk rock",
+    "punk",
+    "rock",
+    "alternative pop/rock",
+    "alternative rock",
+    "alternative/indie rock",
+    "hard rock",
+    "hardcore punk",
+    "melodic hardcore",
+    "punk revival"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 16
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a55a5a03-0c0e-311b-85df-ec52f841715c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Smash_(The_Offspring_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000625344",
+    "discogs": "https://www.discogs.com/master/77217",
+    "wikidata": "https://www.wikidata.org/wiki/Q840130",
+    "deezer": "https://www.deezer.com/album/43852191"
+  },
+  "musicbrainz_id": "a55a5a03-0c0e-311b-85df-ec52f841715c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a6c71257-14a4-4e15-b3f6-37faecd0b60b",
+      "barcode": "0045778643264",
+      "title": "Smash",
+      "disambiguation": null,
+      "date": "2003",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "46:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Time to Relax",
+            "length": "0:25",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299531,
+              "link": "https://www.deezer.com/track/378299531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/c/0/7ec9884fee2c01a6bd2d02145076bff4.mp3?hdnea=exp=1795721617~acl=/api/1/1/7/e/c/0/7ec9884fee2c01a6bd2d02145076bff4.mp3*~data=user_id=0,application_id=42~hmac=31687d5af06d1ee151c08ea36f6be9400b8afd8d0341bc2496dc8396c9aabdd9",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Nitro (Youth Energy)",
+            "length": "2:27",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299541,
+              "link": "https://www.deezer.com/track/378299541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/4/0/a549472a100f85d8971d09987d2527d3.mp3?hdnea=exp=1795721617~acl=/api/1/1/a/5/4/0/a549472a100f85d8971d09987d2527d3.mp3*~data=user_id=0,application_id=42~hmac=59c766d15f32765a85702e5be47b6dd41bc40f47066b3c1c38ceb9fb83065493",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bad Habit",
+            "length": "3:44",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299551,
+              "link": "https://www.deezer.com/track/378299551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/7/0/587950c9536599ad0524cfa4d448d6a2.mp3?hdnea=exp=1795721617~acl=/api/1/1/5/8/7/0/587950c9536599ad0524cfa4d448d6a2.mp3*~data=user_id=0,application_id=42~hmac=ea8d7351056381de17b7668d2f8642fa2903bf00096316500e00bbe6ce9da634",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Gotta Get Away",
+            "length": "3:52",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299561,
+              "link": "https://www.deezer.com/track/378299561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/6/0/5e69497631160abb8ad4491bfcdb6370.mp3?hdnea=exp=1795721617~acl=/api/1/1/5/e/6/0/5e69497631160abb8ad4491bfcdb6370.mp3*~data=user_id=0,application_id=42~hmac=3276420a5043eda828a2ff47201152ffbce338f54c65688eb12756124bed102b",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Genocide",
+            "length": "3:33",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299571,
+              "link": "https://www.deezer.com/track/378299571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/7/0/837f1166e8dee16fef7ffab0b5684d7c.mp3?hdnea=exp=1795721617~acl=/api/1/1/8/3/7/0/837f1166e8dee16fef7ffab0b5684d7c.mp3*~data=user_id=0,application_id=42~hmac=87255e383bcc11273bad8d102760e0ef43ecd5775ec508606d1ce9f56f4a2b30",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Something to Believe In",
+            "length": "3:18",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299581,
+              "link": "https://www.deezer.com/track/378299581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/5/0/375c7ddc52e4ad0f2c101b1c0146e61b.mp3?hdnea=exp=1795721617~acl=/api/1/1/3/7/5/0/375c7ddc52e4ad0f2c101b1c0146e61b.mp3*~data=user_id=0,application_id=42~hmac=8bd16f17a0ef3551de1b5beab7ec4b2283cf70d9dd9be3aa1e6d899ca99b11ba",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Come Out and Play",
+            "length": "3:18",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299591,
+              "link": "https://www.deezer.com/track/378299591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d718e8c0613b7317c33789c926e3f131.mp3?hdnea=exp=1795721617~acl=/api/1/1/d/7/1/0/d718e8c0613b7317c33789c926e3f131.mp3*~data=user_id=0,application_id=42~hmac=f0a714f8e951e7df97d623aef38506ab1c7364ac974eba20df30a65bbdab9be3",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Self Esteem",
+            "length": "4:18",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299601,
+              "link": "https://www.deezer.com/track/378299601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/a/0/0aa57c3a09e262fb27415879b8e0ea0f.mp3?hdnea=exp=1795721617~acl=/api/1/1/0/a/a/0/0aa57c3a09e262fb27415879b8e0ea0f.mp3*~data=user_id=0,application_id=42~hmac=3a222d5027f60c58f2a47baeeeb97e05ddaefdb193fa125cd97dbaf549cdbcf6",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It’ll Be a Long Time",
+            "length": "2:43",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299611,
+              "link": "https://www.deezer.com/track/378299611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/8/0/2a87f749ec75043f5c8df79a50a09cdd.mp3?hdnea=exp=1795721617~acl=/api/1/1/2/a/8/0/2a87f749ec75043f5c8df79a50a09cdd.mp3*~data=user_id=0,application_id=42~hmac=c4b88d509d12606ae108254f45463e1cc6e709107694f202f63bb3d987a7d320",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Killboy Powerhead",
+            "length": "2:03",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299621,
+              "link": "https://www.deezer.com/track/378299621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/1/0/7711cb8801681eadf693ee71bd091d40.mp3?hdnea=exp=1795721617~acl=/api/1/1/7/7/1/0/7711cb8801681eadf693ee71bd091d40.mp3*~data=user_id=0,application_id=42~hmac=ff40f37737df09733fffb8e0335dd91ed88b71701c6c767bcf85b8f9c9518e72",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "What Happened to You?",
+            "length": "2:12",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299631,
+              "link": "https://www.deezer.com/track/378299631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/8/0/4e84f6a58d63712e7d6d0e5504f8b8a9.mp3?hdnea=exp=1795721617~acl=/api/1/1/4/e/8/0/4e84f6a58d63712e7d6d0e5504f8b8a9.mp3*~data=user_id=0,application_id=42~hmac=ffbb961e4dd7edfb72f960924f00f9dec3db3ff8db69d06ceb81e308918d52d6",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "So Alone",
+            "length": "1:17",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299641,
+              "link": "https://www.deezer.com/track/378299641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/b/0/fbb6a2b1761c15b7b567141e5c19efe2.mp3?hdnea=exp=1795721617~acl=/api/1/1/f/b/b/0/fbb6a2b1761c15b7b567141e5c19efe2.mp3*~data=user_id=0,application_id=42~hmac=6cfa0f56b5f6577e0170e43b116481648a9d950a5d963c3849ebf2abdbfb7644",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Not the One",
+            "length": "2:54",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299651,
+              "link": "https://www.deezer.com/track/378299651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/9/0/bb96d938d11e5b058bc4cbcfe02b8f92.mp3?hdnea=exp=1795721617~acl=/api/1/1/b/b/9/0/bb96d938d11e5b058bc4cbcfe02b8f92.mp3*~data=user_id=0,application_id=42~hmac=707f20d7714dad2142e47f8a6e2721d82cf20ce752dac05a5ed54ed6d661e850",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Smash",
+            "length": "10:40",
+            "artist": "Offspring",
+            "deezer": {
+              "id": 378299661,
+              "link": "https://www.deezer.com/track/378299661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/0/0/3609827794f27edf492d398aa2a603ef.mp3?hdnea=exp=1795721617~acl=/api/1/1/3/6/0/0/3609827794f27edf492d398aa2a603ef.mp3*~data=user_id=0,application_id=42~hmac=6e8fc8b939fed2b021471ce095450e177e4445b52c460ae1c66a507c31bfa79f",
+              "preview_expires": "2026-11-26T19:33:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Offspring/Smash.jpg"
+}

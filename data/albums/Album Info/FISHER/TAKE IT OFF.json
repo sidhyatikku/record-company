@@ -1,0 +1,51 @@
+{
+  "title": "Take It Off",
+  "artist": "Fisher",
+  "year": 2023,
+  "release_date": "2023-04-21",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/08332471-ef12-49b0-be93-668ac567c1c1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/456600635"
+  },
+  "musicbrainz_id": "08332471-ef12-49b0-be93-668ac567c1c1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1d68a7ff-67c6-4165-8389-e217dc185efa",
+      "barcode": "193436331319",
+      "title": "Take It Off",
+      "disambiguation": null,
+      "date": "2023-04-21",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Take It Off",
+            "length": "3:15",
+            "deezer": {
+              "id": 2338718425,
+              "link": "https://www.deezer.com/track/2338718425",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/e/0/18e212c040c3e2b0c1d489307621db98.mp3?hdnea=exp=1795654216~acl=/api/1/1/1/8/e/0/18e212c040c3e2b0c1d489307621db98.mp3*~data=user_id=0,application_id=42~hmac=8ca4b45a7947b78fef271654d7a3758a4ae06d217077ad330dc18323e0c0df04",
+              "preview_expires": "2026-11-26T00:50:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/FISHER/TAKE IT OFF.jpg"
+}

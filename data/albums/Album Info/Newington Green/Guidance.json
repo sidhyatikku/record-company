@@ -1,0 +1,49 @@
+{
+  "title": "Guidance",
+  "artist": "Newington Green",
+  "year": 2021,
+  "release_date": "2021-01-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d0e08c74-5e72-4c91-9fed-c26dff63fe86",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "d0e08c74-5e72-4c91-9fed-c26dff63fe86",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e6a41b7d-fd4c-4632-9a0e-e17a7f95e1db",
+      "barcode": "7330065042572",
+      "title": "Guidance",
+      "disambiguation": null,
+      "date": "2021-01-07",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Guidance",
+            "length": "4:01"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Newington Green/Guidance.png"
+}

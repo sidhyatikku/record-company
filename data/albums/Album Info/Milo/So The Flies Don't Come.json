@@ -1,0 +1,165 @@
+{
+  "title": "so the flies don’t come",
+  "artist": "Milo",
+  "year": 2015,
+  "release_date": "2015-09-25",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "hip hop",
+    "abstract hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "abstract hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/13270e95-630a-49ba-b8ce-75fec7d10585",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0002932246",
+    "deezer": "https://www.deezer.com/album/11057676"
+  },
+  "musicbrainz_id": "13270e95-630a-49ba-b8ce-75fec7d10585",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/998f3931-e1b1-44de-bb30-5a7750deb5ea",
+      "barcode": "669158529346",
+      "title": "so the flies don’t come",
+      "disambiguation": null,
+      "date": "2015-09-25",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "32:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "rabblerouse",
+            "length": "1:10",
+            "deezer": {
+              "id": 106067120,
+              "link": "https://www.deezer.com/track/106067120",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/8/0/f7859d496bdefac0db0ef4bba1a01743.mp3?hdnea=exp=1795718515~acl=/api/1/1/f/7/8/0/f7859d496bdefac0db0ef4bba1a01743.mp3*~data=user_id=0,application_id=42~hmac=1d6214e4482604a0c9586e2bed2f9c9ff0a3c70cf002fc81e7f124fd3b664b37",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "souvenir",
+            "length": "3:45",
+            "artist": "Milo ft. Hemlock Ernst",
+            "deezer": {
+              "id": 106067122,
+              "link": "https://www.deezer.com/track/106067122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/f/0/6dfb7ee65323960d382a37c403718ca2.mp3?hdnea=exp=1795718515~acl=/api/1/1/6/d/f/0/6dfb7ee65323960d382a37c403718ca2.mp3*~data=user_id=0,application_id=42~hmac=70ac7e67419bed667b7fbee83d1898f82eab6476852193dc553d35fea2486435",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "zen scientist",
+            "length": "3:50",
+            "artist": "Milo ft. Myka 9",
+            "deezer": {
+              "id": 106067124,
+              "link": "https://www.deezer.com/track/106067124",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/b/0/23b5b6ab8a42ad9c992b5624f77d21a8.mp3?hdnea=exp=1795718515~acl=/api/1/1/2/3/b/0/23b5b6ab8a42ad9c992b5624f77d21a8.mp3*~data=user_id=0,application_id=42~hmac=a70c149567adcc3f5593a2d2565e45c6d7f585c023a6eb7af88fc1e4b6174dbc",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "re: animist",
+            "length": "2:19",
+            "deezer": {
+              "id": 106067126,
+              "link": "https://www.deezer.com/track/106067126",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/a/0/e0a0635bb7b9a1e0bed4891a8e09412c.mp3?hdnea=exp=1795718515~acl=/api/1/1/e/0/a/0/e0a0635bb7b9a1e0bed4891a8e09412c.mp3*~data=user_id=0,application_id=42~hmac=069eab8550f16fc45e83ede0289eb062c832ea72b2035f26dde61b0d751cead5",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "an encyclopedia",
+            "length": "4:53",
+            "deezer": {
+              "id": 106067128,
+              "link": "https://www.deezer.com/track/106067128",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/0/0/cf04129183e2397f36eaf50aaccc624d.mp3?hdnea=exp=1795718515~acl=/api/1/1/c/f/0/0/cf04129183e2397f36eaf50aaccc624d.mp3*~data=user_id=0,application_id=42~hmac=89380928459e30d02decf9bda1ae87cc027f3abed6256f6031791db1a6c2f1a1",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "going no place",
+            "length": "4:00",
+            "artist": "Milo ft. Elucid",
+            "deezer": {
+              "id": 106067130,
+              "link": "https://www.deezer.com/track/106067130",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/9/0/6f94fa5dafbafc22f7020108f2a7013d.mp3?hdnea=exp=1795718515~acl=/api/1/1/6/f/9/0/6f94fa5dafbafc22f7020108f2a7013d.mp3*~data=user_id=0,application_id=42~hmac=5dfbc0237bb0f328ed2f3eb0e2e1fb85b7fd06822dd6081c30042ea607fb3c59",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "true nen",
+            "length": "2:29",
+            "artist": "Milo ft. Open Mike Eagle",
+            "deezer": {
+              "id": 106067132,
+              "link": "https://www.deezer.com/track/106067132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/6/0/0765096c8347576fcf6e11575797054f.mp3?hdnea=exp=1795718515~acl=/api/1/1/0/7/6/0/0765096c8347576fcf6e11575797054f.mp3*~data=user_id=0,application_id=42~hmac=b65acd2259bb7a0108af23fcdb8022d72b43bcfc7bf377ff90c5c8323e081971",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "napping under the Echo Tree",
+            "length": "3:39",
+            "deezer": {
+              "id": 106067134,
+              "link": "https://www.deezer.com/track/106067134",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/f/0/83fdcad55ed808d6c4d3218f70dd51ad.mp3?hdnea=exp=1795718515~acl=/api/1/1/8/3/f/0/83fdcad55ed808d6c4d3218f70dd51ad.mp3*~data=user_id=0,application_id=42~hmac=f94fdf80a782dab2fb49a835668ee52f9706e603cc67321bcc69849e17c312c3",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "@yomilo",
+            "length": "2:46",
+            "deezer": {
+              "id": 106067136,
+              "link": "https://www.deezer.com/track/106067136",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/9/0/cf9bd5caa0ab9b6f98b301556ec251a1.mp3?hdnea=exp=1795718515~acl=/api/1/1/c/f/9/0/cf9bd5caa0ab9b6f98b301556ec251a1.mp3*~data=user_id=0,application_id=42~hmac=6755a047f1e8deba19cbbd96c4ea467fe997a3eae9602e1635606b97d5497c7e",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "song about a raygunn (an ode to Driver)",
+            "length": "3:53",
+            "deezer": {
+              "id": 106067138,
+              "link": "https://www.deezer.com/track/106067138",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/d/0/03deb2d606b353061be42f0042b9b9e4.mp3?hdnea=exp=1795718515~acl=/api/1/1/0/3/d/0/03deb2d606b353061be42f0042b9b9e4.mp3*~data=user_id=0,application_id=42~hmac=71b57f9fb4ff2bcbb35d78e1c769bd9a578acd4d79960f3d177ea25a1d803d42",
+              "preview_expires": "2026-11-26T18:41:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Milo/So The Flies Don't Come.jpg"
+}

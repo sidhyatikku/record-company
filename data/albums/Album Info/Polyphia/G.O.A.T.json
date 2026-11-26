@@ -1,0 +1,55 @@
+{
+  "title": "G.O.A.T.",
+  "artist": "Polyphia",
+  "year": 2018,
+  "release_date": "2018-05-24",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/dc0e4c73-d11c-4794-91f1-560e9d6d0af9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/63346622"
+  },
+  "musicbrainz_id": "dc0e4c73-d11c-4794-91f1-560e9d6d0af9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e8ae1ad6-37b8-41b5-9266-14f83394ca58",
+      "barcode": "192562854389",
+      "title": "G.O.A.T.",
+      "disambiguation": null,
+      "date": "2018-05-24",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "G.O.A.T.",
+            "length": "3:35",
+            "deezer": {
+              "id": 498597612,
+              "link": "https://www.deezer.com/track/498597612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/3/0/c8333d44f7d5c4fa3ed1a1984b536fb7.mp3?hdnea=exp=1795719588~acl=/api/1/1/c/8/3/0/c8333d44f7d5c4fa3ed1a1984b536fb7.mp3*~data=user_id=0,application_id=42~hmac=777945a4c363ce6023a5c4372f22a024ef4a9106afb5fe4e5e68f06d7f35124b",
+              "preview_expires": "2026-11-26T18:59:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Polyphia/G.O.A.T.jpg"
+}

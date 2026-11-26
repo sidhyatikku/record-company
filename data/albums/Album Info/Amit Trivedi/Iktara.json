@@ -1,0 +1,52 @@
+{
+  "title": "Iktara (MTV Unplugged Version)",
+  "artist": "Amit Trivedi",
+  "year": 2015,
+  "release_date": "2015-01-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c33543a1-cfc3-422f-b735-b192426c7d56",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/9560012"
+  },
+  "musicbrainz_id": "c33543a1-cfc3-422f-b735-b192426c7d56",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c34cd06b-05f7-4d5b-bbca-22f3e040bd6a",
+      "barcode": "886445021073",
+      "title": "Iktara - Single (MTV Unplugged Version)",
+      "disambiguation": null,
+      "date": "2015-01-30",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "9:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Iktara (MTV Unplugged Version)",
+            "length": "9:14",
+            "artist": "Amit Trivedi & Kavita Seth",
+            "deezer": {
+              "id": 94065818,
+              "link": "https://www.deezer.com/track/94065818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/6/0/156757dfd5f85d8796b3a38a374ed059.mp3?hdnea=exp=1795651636~acl=/api/1/1/1/5/6/0/156757dfd5f85d8796b3a38a374ed059.mp3*~data=user_id=0,application_id=42~hmac=eb2dc749814a8c170b8f3914db0da6bfac66461f9c44ecf478454127072d111b",
+              "preview_expires": "2026-11-26T00:07:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Amit Trivedi/Iktara.jpg"
+}

@@ -1,0 +1,297 @@
+{
+  "title": "Hello, I Must Be Going!",
+  "artist": "Phil Collins",
+  "year": 1982,
+  "release_date": "1982-11-01",
+  "type": "Album",
+  "description": "Hello, I Must Be Going! is the second studio album by the English drummer and singer-songwriter Phil Collins. It was released on 5 November 1982 on Virgin Records in the United Kingdom and on Atlantic Records in North America, and named after the Marx Brothers' song of the same name. After Genesis took a break in activity in late 1981, Collins started work on a follow-up to his debut solo studio album Face Value (1981).",
+  "genres": [
+    "pop rock",
+    "pop",
+    "rock",
+    "soft rock"
+  ],
+  "tags": [
+    "adult contemporary",
+    "pop rock",
+    "pop",
+    "rock",
+    "soft rock",
+    "soft jazz vocals"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5143705a-f34a-3e92-96e9-cff32308a508",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hello%2C_I_Must_Be_Going!_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000650001",
+    "discogs": "https://www.discogs.com/master/96207",
+    "wikidata": "https://www.wikidata.org/wiki/Q657131",
+    "deezer": "https://www.deezer.com/album/12399656"
+  },
+  "musicbrainz_id": "5143705a-f34a-3e92-96e9-cff32308a508",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/51d0af7b-e4b6-4e81-9d74-b959145950cd",
+      "barcode": "603497885442",
+      "title": "Hello, I Must Be Going!",
+      "disambiguation": "Deluxe Edition",
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 21,
+    "total_length": "1:38:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Don’t Care Anymore (2016 Remaster)",
+            "length": "5:06",
+            "deezer": {
+              "id": 119121824,
+              "link": "https://www.deezer.com/track/119121824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/9/0/0d92f4760e7a2e354afceda51bbf081b.mp3?hdnea=exp=1795719467~acl=/api/1/1/0/d/9/0/0d92f4760e7a2e354afceda51bbf081b.mp3*~data=user_id=0,application_id=42~hmac=ee839441132fb2d2bbf96e11a80a9bf2701be0976295b08946405c2e514f0ca7",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Cannot Believe It’s True (2016 Remaster)",
+            "length": "5:16",
+            "deezer": {
+              "id": 119121826,
+              "link": "https://www.deezer.com/track/119121826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/e/0/84e1cf414a0d15f03aafd864338817cd.mp3?hdnea=exp=1795719467~acl=/api/1/1/8/4/e/0/84e1cf414a0d15f03aafd864338817cd.mp3*~data=user_id=0,application_id=42~hmac=87f15b5b6baa927a0316201f5d5d3a78d7f495d4003ff4674f65775ee930b2a0",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Like China (2016 Remaster)",
+            "length": "5:09",
+            "deezer": {
+              "id": 119121828,
+              "link": "https://www.deezer.com/track/119121828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/8/0/9c8232f0704470e9c638bd17ab8e016c.mp3?hdnea=exp=1795719467~acl=/api/1/1/9/c/8/0/9c8232f0704470e9c638bd17ab8e016c.mp3*~data=user_id=0,application_id=42~hmac=54d8f0587b69f9931a96af6cad31e78b9cd45f04d2f5f338f1aa7486a8f8aa8a",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Do You Know, Do You Care? (2016 Remaster)",
+            "length": "4:58",
+            "deezer": {
+              "id": 119121830,
+              "link": "https://www.deezer.com/track/119121830",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/9/0/1b9714e4cde304eca9e0a88f5e973339.mp3?hdnea=exp=1795719467~acl=/api/1/1/1/b/9/0/1b9714e4cde304eca9e0a88f5e973339.mp3*~data=user_id=0,application_id=42~hmac=6301af48dc91527bff7138782bdfbfa53f46ac7a29861154763d94829fd112e1",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "You Can’t Hurry Love (2016 Remaster)",
+            "length": "2:56",
+            "deezer": {
+              "id": 119121832,
+              "link": "https://www.deezer.com/track/119121832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/6/0/7a62756aec14ab09ce04abcf4b10a9bd.mp3?hdnea=exp=1795719467~acl=/api/1/1/7/a/6/0/7a62756aec14ab09ce04abcf4b10a9bd.mp3*~data=user_id=0,application_id=42~hmac=00594cb644047b77a6d6eb2b436f9ee11819e15e4e01f4f59b44221245c6a258",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "It Don’t Matter to Me (2016 Remaster)",
+            "length": "4:17",
+            "deezer": {
+              "id": 119121834,
+              "link": "https://www.deezer.com/track/119121834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/d/0/5ed899f9a94f56a59b1cf39dee25e1e3.mp3?hdnea=exp=1795719467~acl=/api/1/1/5/e/d/0/5ed899f9a94f56a59b1cf39dee25e1e3.mp3*~data=user_id=0,application_id=42~hmac=fa08baecc149e1f3bfffe4ad0bba5b645a0596222be9c3b0398bca3f4e8975fc",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Thru These Walls (2016 Remaster)",
+            "length": "5:05",
+            "deezer": {
+              "id": 119121836,
+              "link": "https://www.deezer.com/track/119121836",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a954830393e3719224925a72c9577bd.mp3?hdnea=exp=1795719467~acl=/api/1/1/4/a/9/0/4a954830393e3719224925a72c9577bd.mp3*~data=user_id=0,application_id=42~hmac=464a24aea91368ecd08624763f14f782395227aaf3be8cfce84bf0728eb5dcb7",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Don’t Let Him Steal Your Heart Away (2016 Remaster)",
+            "length": "4:45",
+            "deezer": {
+              "id": 119121838,
+              "link": "https://www.deezer.com/track/119121838",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/a/0/aaaea92cacc15d41497288ef8683c1f5.mp3?hdnea=exp=1795719467~acl=/api/1/1/a/a/a/0/aaaea92cacc15d41497288ef8683c1f5.mp3*~data=user_id=0,application_id=42~hmac=becb766de3ef05432297f1e6cddc508932f481ea47454b4cff71be4323d5f7c6",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The West Side (2016 Remaster)",
+            "length": "5:02",
+            "deezer": {
+              "id": 119121840,
+              "link": "https://www.deezer.com/track/119121840",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/7/0/577f6807efc5bfdb4199186aaf6fc591.mp3?hdnea=exp=1795719467~acl=/api/1/1/5/7/7/0/577f6807efc5bfdb4199186aaf6fc591.mp3*~data=user_id=0,application_id=42~hmac=b3193ec4aa1f0a78aa86f508da42b7475ff8473b8d905b28eb939acab77d0037",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Why Can’t It Wait ’Til Morning (2016 Remaster)",
+            "length": "3:12",
+            "deezer": {
+              "id": 119121842,
+              "link": "https://www.deezer.com/track/119121842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/b/0/5db95efee71c3eef7fffb6a993927ddb.mp3?hdnea=exp=1795719467~acl=/api/1/1/5/d/b/0/5db95efee71c3eef7fffb6a993927ddb.mp3*~data=user_id=0,application_id=42~hmac=6ae38e930b3c302891a29f738bf4f9c593cebbc7c89f6da86f544932aafc514e",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Don’t Care Anymore (Live 1982)",
+            "length": "6:31",
+            "deezer": {
+              "id": 119121844,
+              "link": "https://www.deezer.com/track/119121844",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/2/0/6c28808795e5195f701a9ad0cb8d76c2.mp3?hdnea=exp=1795719467~acl=/api/1/1/6/c/2/0/6c28808795e5195f701a9ad0cb8d76c2.mp3*~data=user_id=0,application_id=42~hmac=2c2b31954f85c5c80879b0435406f4c21963d4b26467b1b950b1cb07cdf1181e",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Cannot Believe It’s True (Live at Perkins Palace, Pasadena, CA 1982)",
+            "length": "5:29",
+            "deezer": {
+              "id": 119121846,
+              "link": "https://www.deezer.com/track/119121846",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dc732f19b1f3cab8d42d88ce07aedf6.mp3?hdnea=exp=1795719467~acl=/api/1/1/0/d/c/0/0dc732f19b1f3cab8d42d88ce07aedf6.mp3*~data=user_id=0,application_id=42~hmac=8e25a06aa1e7ae4951d393b9f79b1e6efa5767f53818224dc9766b694acc1111",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Like China (Live From Dallas 1985)",
+            "length": "5:42",
+            "deezer": {
+              "id": 119121848,
+              "link": "https://www.deezer.com/track/119121848",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/c/0/9ac6274d29a7be12f7bbfd26dd011726.mp3?hdnea=exp=1795719467~acl=/api/1/1/9/a/c/0/9ac6274d29a7be12f7bbfd26dd011726.mp3*~data=user_id=0,application_id=42~hmac=86dfbbaee57b51b20d997203d8f4c630d7912dc2a23648731c5fd84c2213b61e",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "You Can’t Hurry Love (Live 1985)",
+            "length": "3:04",
+            "deezer": {
+              "id": 119121850,
+              "link": "https://www.deezer.com/track/119121850",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/d/0/d0d3394e2572a3bfd370a595a3bb6320.mp3?hdnea=exp=1795719467~acl=/api/1/1/d/0/d/0/d0d3394e2572a3bfd370a595a3bb6320.mp3*~data=user_id=0,application_id=42~hmac=144734432e3057659ef19fe4bcdab0f1ae4d420d4aa5bc7af40bc9a0c76f6a9f",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "It Don’t Matter to Me (Live 1985)",
+            "length": "4:24",
+            "deezer": {
+              "id": 119121852,
+              "link": "https://www.deezer.com/track/119121852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/f/0/bdf7a9fe86aba14422746b87a10be463.mp3?hdnea=exp=1795719467~acl=/api/1/1/b/d/f/0/bdf7a9fe86aba14422746b87a10be463.mp3*~data=user_id=0,application_id=42~hmac=4c821e085fb90564f2b88109bba4f3d21ebb0abba70ba2d4e933c7e204a50a45",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The West Side (Live Rehearsal 1996)",
+            "length": "7:37",
+            "deezer": {
+              "id": 119121854,
+              "link": "https://www.deezer.com/track/119121854",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/1/0/0b1e91bc25ffb5a24d8bd81cd0c7155e.mp3?hdnea=exp=1795719467~acl=/api/1/1/0/b/1/0/0b1e91bc25ffb5a24d8bd81cd0c7155e.mp3*~data=user_id=0,application_id=42~hmac=5281a6132766ac9265a269d9581048f9e5c5865915aa0c74faf794e87f362a79",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "People Get Ready (Live 1982)",
+            "length": "3:18",
+            "deezer": {
+              "id": 119121856,
+              "link": "https://www.deezer.com/track/119121856",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/b/0/73b3e68a2c7e611c0c0e707b390e4229.mp3?hdnea=exp=1795719467~acl=/api/1/1/7/3/b/0/73b3e68a2c7e611c0c0e707b390e4229.mp3*~data=user_id=0,application_id=42~hmac=0c447d0d2e118b9e9854e116208d885cb0700faed19179a7b728c971d189fdf6",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Thru These Walls (Live at Perkins Palace, Pasadena, CA 1982)",
+            "length": "5:04",
+            "deezer": {
+              "id": 119121858,
+              "link": "https://www.deezer.com/track/119121858",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/2/0/762cfde017057857d6d894171a96780e.mp3?hdnea=exp=1795719467~acl=/api/1/1/7/6/2/0/762cfde017057857d6d894171a96780e.mp3*~data=user_id=0,application_id=42~hmac=a034e3b8c55269d9598fb4594bba0e88a277a256ea7745b144bd70f8041a1761",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It’s Alright (Live 1985)",
+            "length": "2:22",
+            "deezer": {
+              "id": 119121860,
+              "link": "https://www.deezer.com/track/119121860",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/8/0/0e8c5f6ab3dbd7890392baeb149660ec.mp3?hdnea=exp=1795719467~acl=/api/1/1/0/e/8/0/0e8c5f6ab3dbd7890392baeb149660ec.mp3*~data=user_id=0,application_id=42~hmac=57333cf7f5294dec0b480707ba3e5104f10506f0e9e091b46551f46b6cb13233",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Oddball (Demo of Do You Know, Do You Care?)",
+            "length": "4:30",
+            "deezer": {
+              "id": 119121862,
+              "link": "https://www.deezer.com/track/119121862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/0/0/a60ba7febeb0d06989802aba8a929384.mp3?hdnea=exp=1795719467~acl=/api/1/1/a/6/0/0/a60ba7febeb0d06989802aba8a929384.mp3*~data=user_id=0,application_id=42~hmac=2f5c4f2403197a9ce4646e31cb017c6029f5e9289900a547b2a704ca9cf011b1",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Don’t Let Him Steal Your Heart Away (Demo)",
+            "length": "4:43",
+            "deezer": {
+              "id": 119121864,
+              "link": "https://www.deezer.com/track/119121864",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/b/0/26b52d09af766fa2cf4c410c7d63dc63.mp3?hdnea=exp=1795719467~acl=/api/1/1/2/6/b/0/26b52d09af766fa2cf4c410c7d63dc63.mp3*~data=user_id=0,application_id=42~hmac=af887c91938129ff06a04a869ab67c6da1dd010284b424eb5cb42e3209ba2e62",
+              "preview_expires": "2026-11-26T18:57:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Phil Collins/Hello, I Must Be Going!.jpg"
+}

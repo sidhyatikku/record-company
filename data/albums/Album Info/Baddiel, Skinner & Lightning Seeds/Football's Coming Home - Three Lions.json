@@ -1,0 +1,103 @@
+{
+  "title": "Three Lions",
+  "artist": "Baddiel & Skinner & Lightning Seeds",
+  "year": 1996,
+  "release_date": "1996-05-16",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "britpop",
+    "pop rock",
+    "rock"
+  ],
+  "tags": [
+    "britpop",
+    "pop rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/51c2808a-a6a6-3f37-a972-2c1e7d4b3663",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/71468",
+    "deezer": "https://www.deezer.com/album/74853"
+  },
+  "musicbrainz_id": "51c2808a-a6a6-3f37-a972-2c1e7d4b3663",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fc2f9d5b-0ff2-41e5-b2b9-9643f38ea44f",
+      "barcode": "884977632651",
+      "title": "Three Lions",
+      "disambiguation": null,
+      "date": "2010",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "24:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Three Lions",
+            "length": "3:48",
+            "artist": "Baddiel, Skinner & Lightning Seeds",
+            "deezer": {
+              "id": 581041,
+              "link": "https://www.deezer.com/track/581041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/a/0/bba3a53a25466ddd1d71c697d510e221.mp3?hdnea=exp=1795651823~acl=/api/1/1/b/b/a/0/bba3a53a25466ddd1d71c697d510e221.mp3*~data=user_id=0,application_id=42~hmac=be7bd969e1994e946078f408d50f68a2eb5b2716cccf6fcd06dd671dc3306523",
+              "preview_expires": "2026-11-26T00:10:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Three Lions '98",
+            "length": "3:57",
+            "artist": "Baddiel, Skinner & Lightning Seeds",
+            "deezer": {
+              "id": 581044,
+              "link": "https://www.deezer.com/track/581044",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/d/0/afd2ef089d4a4154e73cfd87857d48f2.mp3?hdnea=exp=1795651823~acl=/api/1/1/a/f/d/0/afd2ef089d4a4154e73cfd87857d48f2.mp3*~data=user_id=0,application_id=42~hmac=5175761725eb7aca2a531a93e88cc7c5ed0bcbdc8ae2d61e3b9998f8b31cc908",
+              "preview_expires": "2026-11-26T00:10:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Three Lions (Sake Bar Mix)",
+            "length": "3:43",
+            "artist": "Baddiel, Skinner & Lightning Seeds"
+          },
+          {
+            "number": "4",
+            "title": "Three Lions (Jules Rimet Extended Mix)",
+            "length": "6:16",
+            "artist": "Baddiel, Skinner & Lightning Seeds"
+          },
+          {
+            "number": "5",
+            "title": "Three Lions (Karaoke Version)",
+            "length": "3:46",
+            "artist": "Baddiel, Skinner & Lightning Seeds"
+          },
+          {
+            "number": "6",
+            "title": "Three Lions '98 (Karaoke Version)",
+            "length": null,
+            "artist": "Baddiel, Skinner & Lightning Seeds"
+          },
+          {
+            "number": "7",
+            "title": "Tout Est Possible",
+            "length": "3:24",
+            "artist": "Baddiel, Skinner & Lightning Seeds"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Baddiel, Skinner & Lightning Seeds/Football's Coming Home - Three Lions.jpg"
+}

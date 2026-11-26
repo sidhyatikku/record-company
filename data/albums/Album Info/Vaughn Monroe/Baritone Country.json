@@ -1,0 +1,129 @@
+{
+  "title": "Baritone Country",
+  "artist": "Vaughn Monroe",
+  "year": 1949,
+  "release_date": "1949-06-10",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "big band",
+    "adult standards"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/280tzvcgxBmHGk90mKdirf",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/280tzvcgxBmHGk90mKdirf",
+      "title": "Baritone Country",
+      "date": "1949-06-10"
+    },
+    "total_tracks": 18,
+    "total_length": "54:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Riders in the Sky",
+            "length": "2:57"
+          },
+          {
+            "number": "2",
+            "title": "I'll See You in My Dreams",
+            "length": "3:13"
+          },
+          {
+            "number": "3",
+            "title": "There, I've Said It Again",
+            "length": "3:10"
+          },
+          {
+            "number": "4",
+            "title": "Seems Like Old Times",
+            "length": "2:52"
+          },
+          {
+            "number": "5",
+            "title": "Let It Snow, Let It Snow, Let It Snow",
+            "length": "3:05"
+          },
+          {
+            "number": "6",
+            "title": "Let's Get Lost",
+            "length": "3:03"
+          },
+          {
+            "number": "7",
+            "title": "The Phantom Stagecoach",
+            "length": "3:02"
+          },
+          {
+            "number": "8",
+            "title": "Dance Ballerina Dance",
+            "length": "3:28"
+          },
+          {
+            "number": "9",
+            "title": "My Devotion",
+            "length": "3:08"
+          },
+          {
+            "number": "10",
+            "title": "Bamboo",
+            "length": "3:05"
+          },
+          {
+            "number": "11",
+            "title": "When the Lights Go on Again",
+            "length": "2:56"
+          },
+          {
+            "number": "12",
+            "title": "Dream",
+            "length": "2:51"
+          },
+          {
+            "number": "13",
+            "title": "So You're the One",
+            "length": "2:26"
+          },
+          {
+            "number": "14",
+            "title": "Red Roses for a Blue Lady",
+            "length": "2:57"
+          },
+          {
+            "number": "15",
+            "title": "The Things We Did Last Summer",
+            "length": "3:17"
+          },
+          {
+            "number": "16",
+            "title": "I Wish I Didn't Love You So",
+            "length": "2:45"
+          },
+          {
+            "number": "17",
+            "title": "Racing With the Moon",
+            "length": "3:17"
+          },
+          {
+            "number": "18",
+            "title": "The Very Thought of You",
+            "length": "3:14"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Vaughn Monroe/Baritone Country.jpg"
+}

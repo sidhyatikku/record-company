@@ -1,0 +1,50 @@
+{
+  "title": "Ishq",
+  "artist": "Singhara",
+  "year": 2024,
+  "release_date": "2024-05-04",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "latin house",
+    "afro house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0N0o5xbONhJPWC5vhT4qKE",
+    "deezer": "https://www.deezer.com/album/572778691"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0N0o5xbONhJPWC5vhT4qKE",
+      "title": "Ishq",
+      "date": "2024-05-04"
+    },
+    "total_tracks": 1,
+    "total_length": "7:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ishq",
+            "length": "7:16",
+            "deezer": {
+              "id": 2749324441,
+              "link": "https://www.deezer.com/track/2749324441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/c/0/5dcecb4ac506f9df27c47bc09d4afc2d.mp3?hdnea=exp=1795720670~acl=/api/1/1/5/d/c/0/5dcecb4ac506f9df27c47bc09d4afc2d.mp3*~data=user_id=0,application_id=42~hmac=babf854ea6ef937a3ba6bf848571f7419f6cc3fd0dfe4cac962b875137e14f1e",
+              "preview_expires": "2026-11-26T19:17:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Singhara/Ishq.jpg"
+}

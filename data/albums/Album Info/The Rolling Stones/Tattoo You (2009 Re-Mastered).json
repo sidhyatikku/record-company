@@ -1,0 +1,189 @@
+{
+  "title": "Tattoo You",
+  "artist": "The Rolling Stones",
+  "year": 1981,
+  "release_date": "1981-08-18",
+  "type": "Album",
+  "description": "Tattoo You is the sixteenth UK and eighteenth US studio album by the English rock band the Rolling Stones, released on 24 August 1981 by Rolling Stones Records. The album is mostly composed of studio outtakes recorded during the 1970s, and contains one of the band's best-known songs, \"Start Me Up\", which hit number two on the US Billboard singles charts.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "blues rock",
+    "blues"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "rock & roll",
+    "blues rock",
+    "5+ wochen",
+    "album rock",
+    "blues",
+    "offizielle charts",
+    "rerip 80s"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fdbc4f51-817d-33ab-af9f-4bcc22286932",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tattoo_You",
+    "allmusic": "https://www.allmusic.com/album/mw0000191643",
+    "discogs": "https://www.discogs.com/master/38549",
+    "wikidata": "https://www.wikidata.org/wiki/Q547315",
+    "deezer": "https://www.deezer.com/album/384315"
+  },
+  "musicbrainz_id": "fdbc4f51-817d-33ab-af9f-4bcc22286932",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f0f7fdea-abf4-44b6-97c1-88361979cb3f",
+      "barcode": "0602527174631",
+      "title": "Tattoo You",
+      "disambiguation": null,
+      "date": "2009",
+      "country": null
+    },
+    "total_tracks": 11,
+    "total_length": "44:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Start Me Up",
+            "length": "3:33",
+            "deezer": {
+              "id": 4125592,
+              "link": "https://www.deezer.com/track/4125592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/6/0/4b6b0bc274cb58262f60c72c55d87e7e.mp3?hdnea=exp=1795721693~acl=/api/1/1/4/b/6/0/4b6b0bc274cb58262f60c72c55d87e7e.mp3*~data=user_id=0,application_id=42~hmac=07ee7c8766c24e48ca968c674732391cd767c0a24ff7967135903ea9e4b143b9",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hang Fire",
+            "length": "2:21",
+            "artist": "The Rolling Stones & Bob Clearmountain",
+            "deezer": {
+              "id": 4125593,
+              "link": "https://www.deezer.com/track/4125593",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/c/0/06cfd89a1ade3c6c94f32fc3334e3bd1.mp3?hdnea=exp=1795721693~acl=/api/1/1/0/6/c/0/06cfd89a1ade3c6c94f32fc3334e3bd1.mp3*~data=user_id=0,application_id=42~hmac=22621a514b12f68693bf271d3837885825c68c19374ea50e88f7285237d1b8bd",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Slave",
+            "length": "6:33",
+            "deezer": {
+              "id": 4125594,
+              "link": "https://www.deezer.com/track/4125594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/b/0/bdbbe4a42bf8185e39c95045b0f6f0da.mp3?hdnea=exp=1795721693~acl=/api/1/1/b/d/b/0/bdbbe4a42bf8185e39c95045b0f6f0da.mp3*~data=user_id=0,application_id=42~hmac=68d7073e681c5ff515d74ce1e464b6720e37558ce49fca44f49cd82e7813a90b",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Little T & A",
+            "length": "3:23",
+            "deezer": {
+              "id": 4125595,
+              "link": "https://www.deezer.com/track/4125595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/9/0/bf96b4805a2c61b55f748a836f12360d.mp3?hdnea=exp=1795721693~acl=/api/1/1/b/f/9/0/bf96b4805a2c61b55f748a836f12360d.mp3*~data=user_id=0,application_id=42~hmac=0494acf3441caa22c967e832cfeb7cb3e41118d750babaa8bd5a8eea3c697835",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Black Limousine",
+            "length": "3:32",
+            "deezer": {
+              "id": 4125596,
+              "link": "https://www.deezer.com/track/4125596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f284b2243773bfed6d6c96075ce361ad.mp3?hdnea=exp=1795721693~acl=/api/1/1/f/2/8/0/f284b2243773bfed6d6c96075ce361ad.mp3*~data=user_id=0,application_id=42~hmac=fd825835d196d3d22a39c89350f8ce2cf7d8edd87425e6d884d6868ca6d3855a",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Neighbours",
+            "length": "3:31",
+            "artist": "The Rolling Stones & Bob Clearmountain",
+            "deezer": {
+              "id": 4125597,
+              "link": "https://www.deezer.com/track/4125597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/c/0/d3c7538b55a51d28950c939e6e63381f.mp3?hdnea=exp=1795721693~acl=/api/1/1/d/3/c/0/d3c7538b55a51d28950c939e6e63381f.mp3*~data=user_id=0,application_id=42~hmac=6530ca10c82d66fede9056516c2e53e8e6576ea46282e9d4ba2b1026431c5fdf",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Worried About You",
+            "length": "5:18",
+            "artist": "The Rolling Stones & Bob Clearmountain",
+            "deezer": {
+              "id": 4125598,
+              "link": "https://www.deezer.com/track/4125598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/e/0/76ed214b1d427694f4bc0505f5ffeaa2.mp3?hdnea=exp=1795721693~acl=/api/1/1/7/6/e/0/76ed214b1d427694f4bc0505f5ffeaa2.mp3*~data=user_id=0,application_id=42~hmac=cccefd86e0fe700e2314545a3404da2b7a31ba192c771cc2c62e14afe52d6e9f",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Tops",
+            "length": "3:47",
+            "artist": "The Rolling Stones & Bob Clearmountain",
+            "deezer": {
+              "id": 4125599,
+              "link": "https://www.deezer.com/track/4125599",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/4/0/3f4bf770a4ffa838e7effcaf0fc50602.mp3?hdnea=exp=1795721693~acl=/api/1/1/3/f/4/0/3f4bf770a4ffa838e7effcaf0fc50602.mp3*~data=user_id=0,application_id=42~hmac=891144c390872979a62b6b0cecd3e13d3520dc5c54b2bcea4de2e04727aeb3f0",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Heaven",
+            "length": "4:22",
+            "artist": "The Rolling Stones & Bob Clearmountain",
+            "deezer": {
+              "id": 4125600,
+              "link": "https://www.deezer.com/track/4125600",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/a/0/d1aa087bc5a81be6b0633e4d58a62643.mp3?hdnea=exp=1795721693~acl=/api/1/1/d/1/a/0/d1aa087bc5a81be6b0633e4d58a62643.mp3*~data=user_id=0,application_id=42~hmac=fe2b4d1ee6ccc4bb1aa3c512acc562fb84d642c73fd38a7345b456d8c4abdc71",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "No Use in Crying",
+            "length": "3:25",
+            "artist": "The Rolling Stones & Bob Clearmountain",
+            "deezer": {
+              "id": 4125601,
+              "link": "https://www.deezer.com/track/4125601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/4/0/b248c8eba94877282223957149ca7784.mp3?hdnea=exp=1795721693~acl=/api/1/1/b/2/4/0/b248c8eba94877282223957149ca7784.mp3*~data=user_id=0,application_id=42~hmac=fb98ca5fcb8cf4a1474d2a42daa8a314fc6f00f0aa5f7fdcc4fed56c304f0f1c",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Waiting on a Friend",
+            "length": "4:34",
+            "deezer": {
+              "id": 4125602,
+              "link": "https://www.deezer.com/track/4125602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/8/0/388ab4c74324cbd0c2c2edd63acbca18.mp3?hdnea=exp=1795721693~acl=/api/1/1/3/8/8/0/388ab4c74324cbd0c2c2edd63acbca18.mp3*~data=user_id=0,application_id=42~hmac=fad4591c8ac4d1f78688d63c50d84a566aa6fdb77450e8162105970f430b1960",
+              "preview_expires": "2026-11-26T19:34:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Rolling Stones/Tattoo You (2009 Re-Mastered).jpg"
+}

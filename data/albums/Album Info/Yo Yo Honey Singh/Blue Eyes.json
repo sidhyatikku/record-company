@@ -1,0 +1,55 @@
+{
+  "title": "Blue Eyes",
+  "artist": "Yo Yo Honey Singh",
+  "year": 2013,
+  "release_date": "2013-11-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian pop"
+  ],
+  "tags": [
+    "indian pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2a4a1ed4-aa77-48fc-be93-0b3924a402d9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/691664401"
+  },
+  "musicbrainz_id": "2a4a1ed4-aa77-48fc-be93-0b3924a402d9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b42dc7f4-8129-494a-aa8a-b458eeb1a926",
+      "barcode": null,
+      "title": "Blue Eyes",
+      "disambiguation": null,
+      "date": "2013-11-12",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blue Eyes",
+            "length": "3:41",
+            "deezer": {
+              "id": 3166841681,
+              "link": "https://www.deezer.com/track/3166841681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/e/0/fbebaf289d272b039aae12ddc676cfeb.mp3?hdnea=exp=1795724490~acl=/api/1/1/f/b/e/0/fbebaf289d272b039aae12ddc676cfeb.mp3*~data=user_id=0,application_id=42~hmac=2dcfa0df40750ef7101c12245a30b2d644470f581f61bf19790c717477d4b465",
+              "preview_expires": "2026-11-26T20:21:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yo Yo Honey Singh/Blue Eyes.jpg"
+}

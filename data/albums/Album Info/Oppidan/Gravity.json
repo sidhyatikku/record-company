@@ -1,0 +1,51 @@
+{
+  "title": "Gravity",
+  "artist": "Oppidan & Hans Glader",
+  "year": 2021,
+  "release_date": "2021-04-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/35556911-89c8-4c15-a77e-b59628ad11e7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/217689792"
+  },
+  "musicbrainz_id": "35556911-89c8-4c15-a77e-b59628ad11e7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5dceb9af-d91a-4320-bbc2-fd0b6ac02b04",
+      "barcode": "5056412748424",
+      "title": "Gravity",
+      "disambiguation": null,
+      "date": "2021-04-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Gravity",
+            "length": "3:07",
+            "deezer": {
+              "id": 1286887742,
+              "link": "https://www.deezer.com/track/1286887742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/e/0/fdee1e5a676176daad5c0280b1eeae8b.mp3?hdnea=exp=1795719188~acl=/api/1/1/f/d/e/0/fdee1e5a676176daad5c0280b1eeae8b.mp3*~data=user_id=0,application_id=42~hmac=4db758c18e8ae4626e55dadefe775c9e55a0ff65c9719a5a04be2a6d91ef3813",
+              "preview_expires": "2026-11-26T18:53:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Oppidan/Gravity.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "title": "This Is America",
+  "artist": "Childish Gambino",
+  "year": 2018,
+  "release_date": "2018-05-06",
+  "type": "Single",
+  "description": "\"This Is America\" is a song by American rapper Childish Gambino. Written by Gambino, Ludwig Göransson and American rapper Young Thug and produced by the former two, it was released on May 6, 2018, at the same time that Gambino was hosting an episode of Saturday Night Live. The song also features backing vocals from fellow American rappers Slim Jxmmi of Rae Sremmurd, BlocBoy JB, Quavo of Migos, and 21 Savage. The lyrics and accompanying music video, reflecting the core of the Black Lives Matter movement, confront issues of ongoing systemic racism, including prejudice, racial violence, the ghetto, and law enforcement in the United States, as well as the wider issues of mass shootings and gun violence in the United States.",
+  "genres": [
+    "hip hop",
+    "conscious hip hop",
+    "political hip hop",
+    "southern hip hop",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "conscious hip hop",
+    "hip-hop/rap",
+    "political hip hop",
+    "southern hip hop",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/25672ceb-8f48-4974-ac5e-6c478ea12947",
+    "wikipedia": "https://en.wikipedia.org/wiki/This_Is_America",
+    "discogs": "https://www.discogs.com/master/1364024",
+    "wikidata": "https://www.wikidata.org/wiki/Q52808665",
+    "deezer": "https://www.deezer.com/album/62917062"
+  },
+  "musicbrainz_id": "25672ceb-8f48-4974-ac5e-6c478ea12947",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e721d268-3131-493f-962c-25229f975bcc",
+      "barcode": "886447091500",
+      "title": "This Is America",
+      "disambiguation": "explicit",
+      "date": "2018-05-06",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "This Is America",
+            "length": "3:46",
+            "deezer": {
+              "id": 496157642,
+              "link": "https://www.deezer.com/track/496157642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/3/0/22337cd13ada190b1f06ea8391250952.mp3?hdnea=exp=1795652763~acl=/api/1/1/2/2/3/0/22337cd13ada190b1f06ea8391250952.mp3*~data=user_id=0,application_id=42~hmac=edc6c41643463e87b367c428ca6639328cf17a66ff42a0709a79ff203c03e84a",
+              "preview_expires": "2026-11-26T00:26:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Childish Gambino/This Is America.jpg"
+}

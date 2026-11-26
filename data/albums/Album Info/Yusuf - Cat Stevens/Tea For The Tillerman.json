@@ -1,0 +1,56 @@
+{
+  "title": "Tea for the Tillerman",
+  "artist": "Yusuf / Cat Stevens",
+  "year": 2020,
+  "release_date": "2020-11-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6e7e56cd-816c-42d2-803a-4929fc58cb94",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/189259342"
+  },
+  "musicbrainz_id": "6e7e56cd-816c-42d2-803a-4929fc58cb94",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/de465311-1e9a-457b-92c5-9f5ad65fbe93",
+      "barcode": "602435325323",
+      "title": "Tea for the Tillerman",
+      "disambiguation": null,
+      "date": "2020-11-12",
+      "country": "AF"
+    },
+    "total_tracks": 2,
+    "total_length": "7:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Father and Son (live at the Troubadour, Los Angeles, USA / 1970)",
+            "length": "3:52",
+            "deezer": {
+              "id": 1157032882,
+              "link": "https://www.deezer.com/track/1157032882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/0/0/8a0ec61b6b92f4cc4730e2148468a4ea.mp3?hdnea=exp=1795724575~acl=/api/1/1/8/a/0/0/8a0ec61b6b92f4cc4730e2148468a4ea.mp3*~data=user_id=0,application_id=42~hmac=8d9d28cddc67cc2ab28907f0e23356c7d109270c569d4fcbc0abc5b0b46a055a",
+              "preview_expires": "2026-11-26T20:22:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Can This Be Love?",
+            "length": "4:04"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yusuf - Cat Stevens/Tea For The Tillerman.jpg"
+}

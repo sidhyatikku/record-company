@@ -1,0 +1,242 @@
+{
+  "title": "I Am…",
+  "artist": "Nas",
+  "year": 1999,
+  "release_date": "1999-04-06",
+  "type": "Album",
+  "description": "I Am... is the third studio album by American rapper Nas, released on April 6, 1999, by Columbia Records. Following the commercial and critical success of 1996's It Was Written, Nas put to work on a double album that merged the styles of his first two albums and detailed entire aspects of his life. Although he was able to use most songs, other songs that would have made I Am... a double album leaked onto the internet in MP3 format, forcing him to record new material for two separate single-disc releases. The album features guest appearances from Puff Daddy, Scarface, DMX, and Aaliyah.",
+  "genres": [
+    "hip hop",
+    "east coast hip hop",
+    "hardcore hip hop",
+    "boom bap",
+    "conscious hip hop",
+    "pop rap"
+  ],
+  "tags": [
+    "hip hop",
+    "east coast hip hop",
+    "hardcore hip hop",
+    "hip hop rap",
+    "boom bap",
+    "conscious hip hop",
+    "pop rap"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c8c517b2-48b9-3d65-9547-e177fd6762c6",
+    "wikipedia": "https://en.wikipedia.org/wiki/I_Am..._(Nas_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000043107",
+    "discogs": "https://www.discogs.com/master/20217",
+    "wikidata": "https://www.wikidata.org/wiki/Q534271",
+    "deezer": "https://www.deezer.com/album/1398751"
+  },
+  "musicbrainz_id": "c8c517b2-48b9-3d65-9547-e177fd6762c6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f4e24ed0-16de-471c-a343-0ac97435f864",
+      "barcode": "074646877326",
+      "title": "I Am…",
+      "disambiguation": null,
+      "date": "1999-04-06",
+      "country": "US"
+    },
+    "total_tracks": 16,
+    "total_length": "1:04:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Album Intro",
+            "length": "2:51",
+            "deezer": {
+              "id": 15177550,
+              "link": "https://www.deezer.com/track/15177550",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/8/0/e486744f25ce9a0ad29a78c9dbff7f53.mp3?hdnea=exp=1795718708~acl=/api/1/1/e/4/8/0/e486744f25ce9a0ad29a78c9dbff7f53.mp3*~data=user_id=0,application_id=42~hmac=7e958bde10d29b95519612fa18e5a494e97749e0541639b2bb0ec3a45df1b99e",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "N.Y. State of Mind, Part II",
+            "length": "3:36",
+            "deezer": {
+              "id": 15176645,
+              "link": "https://www.deezer.com/track/15176645",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/e/0/b0ef56f33933357c5d1990e8608bd53a.mp3?hdnea=exp=1795718708~acl=/api/1/1/b/0/e/0/b0ef56f33933357c5d1990e8608bd53a.mp3*~data=user_id=0,application_id=42~hmac=b305d4286415566c17f137ebea978fccc08183e203871501ee1bec7883fc9e7b",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hate Me Now",
+            "length": "4:44",
+            "artist": "Nas feat. Puff Daddy",
+            "deezer": {
+              "id": 15177086,
+              "link": "https://www.deezer.com/track/15177086",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/0/0/62055be96265d389743a22ccbbceb133.mp3?hdnea=exp=1795718708~acl=/api/1/1/6/2/0/0/62055be96265d389743a22ccbbceb133.mp3*~data=user_id=0,application_id=42~hmac=0d529ae9127989cf977cdbaf60369a317dfd446376f38d9e3365c15eaa2b26b0",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Small World",
+            "length": "4:45",
+            "deezer": {
+              "id": 15175369,
+              "link": "https://www.deezer.com/track/15175369",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/2/0/1e22b014376c9db14c19e89a048f6238.mp3?hdnea=exp=1795718708~acl=/api/1/1/1/e/2/0/1e22b014376c9db14c19e89a048f6238.mp3*~data=user_id=0,application_id=42~hmac=0d372bf4458401895d0de75fff6cfb6bfd0480630a3cc95806f503075ecb3aa2",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Favor for a Favor",
+            "length": "4:07",
+            "artist": "Nas feat. Scarface",
+            "deezer": {
+              "id": 15176651,
+              "link": "https://www.deezer.com/track/15176651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/6/0/996ccd3cc6cee949fb6c5d8398c257e7.mp3?hdnea=exp=1795718708~acl=/api/1/1/9/9/6/0/996ccd3cc6cee949fb6c5d8398c257e7.mp3*~data=user_id=0,application_id=42~hmac=232a6f595f7b81c8dd1bcd97e1049f0e9fe8942f1f71436cf546340c16189454",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "We Will Survive",
+            "length": "5:00",
+            "deezer": {
+              "id": 15176643,
+              "link": "https://www.deezer.com/track/15176643",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/6/0/b56b232f6fa371f9d650f77172b5d69d.mp3?hdnea=exp=1795718708~acl=/api/1/1/b/5/6/0/b56b232f6fa371f9d650f77172b5d69d.mp3*~data=user_id=0,application_id=42~hmac=506944204abdf3731b55a5642b1493397672ec06c29431a77ebdea5c9eb65ee8",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ghetto Prisoners",
+            "length": "4:01",
+            "deezer": {
+              "id": 15176644,
+              "link": "https://www.deezer.com/track/15176644",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/d/0/d3df92057d2b9e0613567e784321a061.mp3?hdnea=exp=1795718708~acl=/api/1/1/d/3/d/0/d3df92057d2b9e0613567e784321a061.mp3*~data=user_id=0,application_id=42~hmac=000a96238199b243ffa7c3dbe970a095adf4ac6d53bc80d9f831edc4c55c7e52",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "You Won’t See Me Tonight",
+            "length": "4:23",
+            "artist": "Nas feat. Aaliyah",
+            "deezer": {
+              "id": 15176199,
+              "link": "https://www.deezer.com/track/15176199",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/a/0/22a5df49e8e20a0a42ff7fe6bfd4e0c9.mp3?hdnea=exp=1795718708~acl=/api/1/1/2/2/a/0/22a5df49e8e20a0a42ff7fe6bfd4e0c9.mp3*~data=user_id=0,application_id=42~hmac=372c0ebc26fda0c5555bbd3cc01ac1abe6ecdf0254b7b5c3053fa4cdbed63b86",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I Want to Talk to You",
+            "length": "4:36",
+            "deezer": {
+              "id": 15176650,
+              "link": "https://www.deezer.com/track/15176650",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/e/0/99e9553ff0cdaea7cb5270e5388fea71.mp3?hdnea=exp=1795718708~acl=/api/1/1/9/9/e/0/99e9553ff0cdaea7cb5270e5388fea71.mp3*~data=user_id=0,application_id=42~hmac=3604ca4ac3ebeb1febd221972670244a2d3dddef99fb3e4119b5306670144d64",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dr. Knockboot",
+            "length": "2:25",
+            "deezer": {
+              "id": 15176030,
+              "link": "https://www.deezer.com/track/15176030",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/a/0/29aa7da1c704a783d8ea9dc0ba3d3fd3.mp3?hdnea=exp=1795718708~acl=/api/1/1/2/9/a/0/29aa7da1c704a783d8ea9dc0ba3d3fd3.mp3*~data=user_id=0,application_id=42~hmac=1a47c9b51284b66e36b24a0cd880a19cfd1ef8ba3bb84a6310c6bd0751dd8fcb",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Life Is What You Make It",
+            "length": "4:05",
+            "artist": "Nas feat. DMX",
+            "deezer": {
+              "id": 15177023,
+              "link": "https://www.deezer.com/track/15177023",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/0/0/640f4b8fa44e1b34f3f1219970a303c3.mp3?hdnea=exp=1795718708~acl=/api/1/1/6/4/0/0/640f4b8fa44e1b34f3f1219970a303c3.mp3*~data=user_id=0,application_id=42~hmac=68d2e2ac19e93a619952295866abce95ec68553f02b9b77aadfc7e59a2903ada",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Big Things",
+            "length": "3:40",
+            "deezer": {
+              "id": 15176031,
+              "link": "https://www.deezer.com/track/15176031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/e/0/0de51e0479c7b7246cace9be9e8a9535.mp3?hdnea=exp=1795718708~acl=/api/1/1/0/d/e/0/0de51e0479c7b7246cace9be9e8a9535.mp3*~data=user_id=0,application_id=42~hmac=f39120ea57b78f92570268a1741217079e01b42438bf91b42bbfe21e2d6acdfb",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Nas Is Like",
+            "length": "3:57",
+            "deezer": {
+              "id": 15177552,
+              "link": "https://www.deezer.com/track/15177552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/f/0/f1f31887212d5397a630fa6b48fca1e1.mp3?hdnea=exp=1795718708~acl=/api/1/1/f/1/f/0/f1f31887212d5397a630fa6b48fca1e1.mp3*~data=user_id=0,application_id=42~hmac=4a2931db329c9744728c045e3a318f714e6839c3fe2c1cfd9f21d2805cf7209d",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "K‐I‐SS‐I‐N‐G",
+            "length": "4:16",
+            "deezer": {
+              "id": 15175395,
+              "link": "https://www.deezer.com/track/15175395",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/1/0/4f1e86dd3bbe13d3c885430e874ca893.mp3?hdnea=exp=1795718708~acl=/api/1/1/4/f/1/0/4f1e86dd3bbe13d3c885430e874ca893.mp3*~data=user_id=0,application_id=42~hmac=c6b6a3140dcd6f049bc9c9f4309739188232f890a3533e9a1d7994740076fded",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Money Is My Bitch",
+            "length": "4:03",
+            "deezer": {
+              "id": 15175368,
+              "link": "https://www.deezer.com/track/15175368",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/a/0/94a1e7e9eae29ced4351ee27ae88c0ce.mp3?hdnea=exp=1795718708~acl=/api/1/1/9/4/a/0/94a1e7e9eae29ced4351ee27ae88c0ce.mp3*~data=user_id=0,application_id=42~hmac=7e0678eed0864789b5283150b21e55afc7dbd02ba04d87172035fa53762dd147",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Undying Love",
+            "length": "4:25",
+            "deezer": {
+              "id": 15177447,
+              "link": "https://www.deezer.com/track/15177447",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/1/0/5e12a44abe0a76595bb0628ff89c4ee4.mp3?hdnea=exp=1795718708~acl=/api/1/1/5/e/1/0/5e12a44abe0a76595bb0628ff89c4ee4.mp3*~data=user_id=0,application_id=42~hmac=890566f9b08833723080054842cc1e9cf1ea0f9ffc3814bf69f65be1f34dfbf9",
+              "preview_expires": "2026-11-26T18:45:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nas/I Am.jpg"
+}

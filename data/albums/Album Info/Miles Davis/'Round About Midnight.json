@@ -1,0 +1,286 @@
+{
+  "title": "’Round About Midnight",
+  "artist": "Miles Davis",
+  "year": 1957,
+  "release_date": "1957-03-18",
+  "type": "Album",
+  "description": "'Round About Midnight is a studio album by the jazz trumpeter and composer Miles Davis with his quintet. It was released through Columbia Records in March 1957, and is Davis's first record on the label. The recording took place at Columbia's New York studio in three sessions between October 1955 and September 1956.",
+  "genres": [
+    "jazz",
+    "hard bop",
+    "instrumental"
+  ],
+  "tags": [
+    "jazz",
+    "hard bop",
+    "acoustic",
+    "bittersweet",
+    "improvisation",
+    "instrumental",
+    "lonely",
+    "melancholic",
+    "mellow",
+    "melodic",
+    "nocturnal",
+    "passionate",
+    "rhythmic",
+    "soothing",
+    "technical",
+    "uplifting",
+    "urban",
+    "warm"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6477da93-2286-4919-a898-031caa34c307",
+    "wikipedia": "https://en.wikipedia.org/wiki/'Round_About_Midnight",
+    "allmusic": "https://www.allmusic.com/album/mw0000649471",
+    "discogs": "https://www.discogs.com/master/9130",
+    "wikidata": "https://www.wikidata.org/wiki/Q425741",
+    "deezer": "https://www.deezer.com/album/1209036"
+  },
+  "musicbrainz_id": "6477da93-2286-4919-a898-031caa34c307",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e151f1b6-3bdc-4103-90ee-facdebbd4435",
+      "barcode": "827969475027",
+      "title": "’Round About Midnight",
+      "disambiguation": "Legacy Edition",
+      "date": "2005",
+      "country": "US"
+    },
+    "total_tracks": 19,
+    "total_length": "1:36:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "’Round Midnight",
+            "length": "5:57",
+            "deezer": {
+              "id": 13181499,
+              "link": "https://www.deezer.com/track/13181499",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/a/0/e5a127a149df54a03c00ded3c264fe70.mp3?hdnea=exp=1795718457~acl=/api/1/1/e/5/a/0/e5a127a149df54a03c00ded3c264fe70.mp3*~data=user_id=0,application_id=42~hmac=ccd5449f03bd1f47aa499b5c80d16e6247197e91ba54ba875e9418e295003d9e",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ah‐Leu‐Cha",
+            "length": "5:52",
+            "deezer": {
+              "id": 13181485,
+              "link": "https://www.deezer.com/track/13181485",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/3/0/69387e2c2a0bd7827dcce2f3c6048b34.mp3?hdnea=exp=1795718457~acl=/api/1/1/6/9/3/0/69387e2c2a0bd7827dcce2f3c6048b34.mp3*~data=user_id=0,application_id=42~hmac=14f248da4620e3cecf7fcd5cb9bfb2c5018d22127afec5ac756f408d0fc71b67",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "All of You",
+            "length": "7:02",
+            "deezer": {
+              "id": 13181486,
+              "link": "https://www.deezer.com/track/13181486",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/d/0/aadf0c22718b8ad44308528b2bda3685.mp3?hdnea=exp=1795718457~acl=/api/1/1/a/a/d/0/aadf0c22718b8ad44308528b2bda3685.mp3*~data=user_id=0,application_id=42~hmac=8702093ad297190c7bb690e0c6de920d6235cac19080725e264c2556b4a7fa69",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bye Bye Blackbird",
+            "length": "7:55",
+            "deezer": {
+              "id": 13181487,
+              "link": "https://www.deezer.com/track/13181487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/4/0/774c2250c9cd5fff1c750c958469df47.mp3?hdnea=exp=1795718457~acl=/api/1/1/7/7/4/0/774c2250c9cd5fff1c750c958469df47.mp3*~data=user_id=0,application_id=42~hmac=9f6b921ae79089b1c9a05de6280ff963149d61246859247272f6d43c6d7ca7e0",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tadd’s Delight",
+            "length": "4:28",
+            "deezer": {
+              "id": 13181488,
+              "link": "https://www.deezer.com/track/13181488",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/4/0/2f4601a6afdce28a40a5ed8632016615.mp3?hdnea=exp=1795718457~acl=/api/1/1/2/f/4/0/2f4601a6afdce28a40a5ed8632016615.mp3*~data=user_id=0,application_id=42~hmac=256cd0b1279abc952703210d2c39da0f5b307236c5dd6ee6b19a1b03a0043b12",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dear Old Stockholm",
+            "length": "7:50",
+            "deezer": {
+              "id": 13181500,
+              "link": "https://www.deezer.com/track/13181500",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/9/0/0795306fd431c463447f42974d9e1d05.mp3?hdnea=exp=1795718457~acl=/api/1/1/0/7/9/0/0795306fd431c463447f42974d9e1d05.mp3*~data=user_id=0,application_id=42~hmac=080d0eb1899fa91160425f452adca78ed07c18c27ebc85fc496121e0a017fb66",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Two Bass Hit",
+            "length": "3:43",
+            "deezer": {
+              "id": 13181489,
+              "link": "https://www.deezer.com/track/13181489",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/8/0/0b88513c0e765a01ad390e0752ad4a71.mp3?hdnea=exp=1795718457~acl=/api/1/1/0/b/8/0/0b88513c0e765a01ad390e0752ad4a71.mp3*~data=user_id=0,application_id=42~hmac=8f7338ebb5e6edd2550fc6ac352d206eb125a221fc17b67e3a0ca44536852271",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Little Melonae",
+            "length": "7:21",
+            "deezer": {
+              "id": 13181501,
+              "link": "https://www.deezer.com/track/13181501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/f/0/a3f8557af607b7513bcbcff80f607b4d.mp3?hdnea=exp=1795718457~acl=/api/1/1/a/3/f/0/a3f8557af607b7513bcbcff80f607b4d.mp3*~data=user_id=0,application_id=42~hmac=6dc6a8801e3168cfb7612ea003d28f2ba737348bd94f59ef30751bcbd9ac2a0a",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Budo",
+            "length": "4:15",
+            "deezer": {
+              "id": 13181490,
+              "link": "https://www.deezer.com/track/13181490",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/a/0/94a8761cd5b3364a506bd380385853fb.mp3?hdnea=exp=1795718457~acl=/api/1/1/9/4/a/0/94a8761cd5b3364a506bd380385853fb.mp3*~data=user_id=0,application_id=42~hmac=f4cb6509adff3da696e3de51a2d0283d06904ba6062d92dadc9cf1281762edfe",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sweet Sue, Just You",
+            "length": "3:38",
+            "deezer": {
+              "id": 13181491,
+              "link": "https://www.deezer.com/track/13181491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/3/0/be376385ebb6e4250bcabec0c04378cf.mp3?hdnea=exp=1795718457~acl=/api/1/1/b/e/3/0/be376385ebb6e4250bcabec0c04378cf.mp3*~data=user_id=0,application_id=42~hmac=13da52460dabf06286ee2462f0351ad5faa31e7ae03013365f5fa5f4500b7fdf",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "’Round Midnight",
+            "length": "6:01",
+            "deezer": {
+              "id": 13181492,
+              "link": "https://www.deezer.com/track/13181492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/d/0/73def7a7a2f35dfe61a0ed8da4e47301.mp3?hdnea=exp=1795718457~acl=/api/1/1/7/3/d/0/73def7a7a2f35dfe61a0ed8da4e47301.mp3*~data=user_id=0,application_id=42~hmac=be0c0cb82d58215d3fdeda0b01339ef6a5a70981baaefda0c872049af8610db8",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "[introduction by Gene Norman]",
+            "length": "1:36",
+            "deezer": {
+              "id": 13181493,
+              "link": "https://www.deezer.com/track/13181493",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2dd5f6aa913db8d3702eef3e7c208e8.mp3?hdnea=exp=1795718457~acl=/api/1/1/f/2/d/0/f2dd5f6aa913db8d3702eef3e7c208e8.mp3*~data=user_id=0,application_id=42~hmac=256529a9b9c1d0d05712204b2c9389f7126764c07acd4259f4e33c1757861424",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Chance It (a.k.a. Max Is Making Wax)",
+            "length": "4:33",
+            "deezer": {
+              "id": 13181502,
+              "link": "https://www.deezer.com/track/13181502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/9/0/d891ae5a90a642a3d16eb209809ce4b1.mp3?hdnea=exp=1795718457~acl=/api/1/1/d/8/9/0/d891ae5a90a642a3d16eb209809ce4b1.mp3*~data=user_id=0,application_id=42~hmac=f988521a044415588d7fa63149476a796e33cb2e6184e4ad380d1c5732a73dd5",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Walkin’",
+            "length": "10:02",
+            "deezer": {
+              "id": 13181494,
+              "link": "https://www.deezer.com/track/13181494",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/a/0/cbaaf9af254db75aec86f0c6a2af3830.mp3?hdnea=exp=1795718457~acl=/api/1/1/c/b/a/0/cbaaf9af254db75aec86f0c6a2af3830.mp3*~data=user_id=0,application_id=42~hmac=39ed3bcac474bad24b1302ed3a19ecd87ac4d4738a7bb245fe461fe0ccbc0056",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Gene Norman & Miles Davis",
+            "length": "0:27",
+            "deezer": {
+              "id": 13181495,
+              "link": "https://www.deezer.com/track/13181495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/1/0/8614ae6601a3c2e322fdc1e475e83699.mp3?hdnea=exp=1795718457~acl=/api/1/1/8/6/1/0/8614ae6601a3c2e322fdc1e475e83699.mp3*~data=user_id=0,application_id=42~hmac=63d3e450091e0b5acce4f9910f2446d3b466fb2e397b9db65d813eba1a6f32d1",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "It Never Entered My Mind",
+            "length": "5:18",
+            "deezer": {
+              "id": 13181503,
+              "link": "https://www.deezer.com/track/13181503",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/c/0/67cf8141039ebf674daa98f60f7ae644.mp3?hdnea=exp=1795718457~acl=/api/1/1/6/7/c/0/67cf8141039ebf674daa98f60f7ae644.mp3*~data=user_id=0,application_id=42~hmac=ae7a0733379c454ce4478682883ee34aa3ad8867df837fd17913708bd1f44340",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Woody ’n You",
+            "length": "5:46",
+            "deezer": {
+              "id": 13181496,
+              "link": "https://www.deezer.com/track/13181496",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/9/0/e59bab40620b86a5d0ceebfb6f4dabee.mp3?hdnea=exp=1795718457~acl=/api/1/1/e/5/9/0/e59bab40620b86a5d0ceebfb6f4dabee.mp3*~data=user_id=0,application_id=42~hmac=2d47ebe5b4493dc22faaf2e4c6c28903f262eaf5bed7035c1d68187d954a8589",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Salt Peanuts",
+            "length": "4:33",
+            "deezer": {
+              "id": 13181497,
+              "link": "https://www.deezer.com/track/13181497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/8/0/3d8b506b8065060852268df3d57aee27.mp3?hdnea=exp=1795718457~acl=/api/1/1/3/d/8/0/3d8b506b8065060852268df3d57aee27.mp3*~data=user_id=0,application_id=42~hmac=007a4893b7f195b4c733a295ece20590273bd983e475ba188389ab5f9afd5ffe",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Theme",
+            "length": "0:28",
+            "deezer": {
+              "id": 13181498,
+              "link": "https://www.deezer.com/track/13181498",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/b/0/cdb81f56a63322f5809129430558e182.mp3?hdnea=exp=1795718457~acl=/api/1/1/c/d/b/0/cdb81f56a63322f5809129430558e182.mp3*~data=user_id=0,application_id=42~hmac=06a4e7fae8b85b729c9e71350d4be6757b3c33cec8c856c9c7a21756c8fa9cc7",
+              "preview_expires": "2026-11-26T18:40:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Miles Davis/'Round About Midnight.jpg"
+}

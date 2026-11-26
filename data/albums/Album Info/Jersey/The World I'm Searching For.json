@@ -1,0 +1,104 @@
+{
+  "title": "The World I'm Searching For",
+  "artist": "Jersey",
+  "year": null,
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6643306c-7177-4b94-a6a2-1384ad4bbf2b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/504128451"
+  },
+  "musicbrainz_id": "6643306c-7177-4b94-a6a2-1384ad4bbf2b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b2b323fd-0285-48ab-8cef-fcd8899b2c17",
+      "barcode": null,
+      "title": "The World I'm Searching For",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 6,
+    "total_length": "19:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Talk Tonight",
+            "length": "4:33",
+            "deezer": {
+              "id": 2512077351,
+              "link": "https://www.deezer.com/track/2512077351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/1/0/351e66803efd224e068060e101033072.mp3?hdnea=exp=1795655577~acl=/api/1/1/3/5/1/0/351e66803efd224e068060e101033072.mp3*~data=user_id=0,application_id=42~hmac=856022396471c6626a0a4eaa4d2d6a978fa0365255d5839c30a471b2d336d228",
+              "preview_expires": "2026-11-26T01:12:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Keep Things Random",
+            "length": "2:55",
+            "deezer": {
+              "id": 2512077361,
+              "link": "https://www.deezer.com/track/2512077361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/f/0/9ffb9fd320dc2df83b06a214a08049c8.mp3?hdnea=exp=1795655577~acl=/api/1/1/9/f/f/0/9ffb9fd320dc2df83b06a214a08049c8.mp3*~data=user_id=0,application_id=42~hmac=3abb8af32fe2c54658b2aa70f823a4ba23f79f09b54865a96ed6a6a282a77bf8",
+              "preview_expires": "2026-11-26T01:12:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Deeper",
+            "length": "3:28",
+            "deezer": {
+              "id": 2512077371,
+              "link": "https://www.deezer.com/track/2512077371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/f/0/dbf172d5dbfebb650888c075e88cf75f.mp3?hdnea=exp=1795655577~acl=/api/1/1/d/b/f/0/dbf172d5dbfebb650888c075e88cf75f.mp3*~data=user_id=0,application_id=42~hmac=3a5fbb9acfb4f345c16522823e84cf0c7661531f5850622871cb79deac912380",
+              "preview_expires": "2026-11-26T01:12:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Want You",
+            "length": "2:56",
+            "deezer": {
+              "id": 2512077381,
+              "link": "https://www.deezer.com/track/2512077381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/e/0/35ed142844da99a449ec4cb82f6ff2cf.mp3?hdnea=exp=1795655577~acl=/api/1/1/3/5/e/0/35ed142844da99a449ec4cb82f6ff2cf.mp3*~data=user_id=0,application_id=42~hmac=9a0fa193b119c1972257abf96ce3c163e55a03ead09501bccf5deac92d5fc17b",
+              "preview_expires": "2026-11-26T01:12:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The World I’m Searching For",
+            "length": "2:53",
+            "deezer": {
+              "id": 2512077401,
+              "link": "https://www.deezer.com/track/2512077401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/c/0/eec249b0416d919049d07eaccf58cb8d.mp3?hdnea=exp=1795655577~acl=/api/1/1/e/e/c/0/eec249b0416d919049d07eaccf58cb8d.mp3*~data=user_id=0,application_id=42~hmac=8c93dbfbe4d712f696db9976efe485d1b83f38100f95e4d1244246baa9ca8eb8",
+              "preview_expires": "2026-11-26T01:12:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Tomorrow Never Comes",
+            "length": "2:41",
+            "deezer": {
+              "id": 2512077411,
+              "link": "https://www.deezer.com/track/2512077411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/3/0/8f36cbbf13ea08117cc3815e01142e72.mp3?hdnea=exp=1795655577~acl=/api/1/1/8/f/3/0/8f36cbbf13ea08117cc3815e01142e72.mp3*~data=user_id=0,application_id=42~hmac=47fc77b3e1561a59dc8eff7a5533fbeb9e99511664ea7070ec8a4c65c770e535",
+              "preview_expires": "2026-11-26T01:12:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jersey/The World I'm Searching For.jpg"
+}

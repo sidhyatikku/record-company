@@ -1,0 +1,142 @@
+{
+  "title": "Duke Ellington & John Coltrane",
+  "artist": "Duke Ellington & John Coltrane",
+  "year": 1963,
+  "release_date": "1963",
+  "type": "Album",
+  "description": "Duke Ellington & John Coltrane is an album by the American jazz musicians Duke Ellington and John Coltrane. It was released in January 1963 through Impulse! Records.",
+  "genres": [
+    "jazz",
+    "cool jazz",
+    "avant-garde jazz",
+    "free jazz",
+    "hard bop",
+    "post-bop",
+    "smooth jazz"
+  ],
+  "tags": [
+    "jazz",
+    "cool jazz",
+    "1–4 wochen",
+    "avant-garde jazz",
+    "free jazz",
+    "hard bop",
+    "offizielle charts",
+    "post-bop",
+    "smooth jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4f64c4fc-1de9-3b28-970c-e86f78c631be",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane",
+    "allmusic": "https://www.allmusic.com/album/mw0000416142",
+    "discogs": "https://www.discogs.com/master/32305",
+    "wikidata": "https://www.wikidata.org/wiki/Q2473088",
+    "deezer": "https://www.deezer.com/album/102689"
+  },
+  "musicbrainz_id": "4f64c4fc-1de9-3b28-970c-e86f78c631be",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8dfeee60-ba27-4990-bec7-ebe88c3c7e5d",
+      "barcode": "602517486270",
+      "title": "Duke Ellington & John Coltrane",
+      "disambiguation": null,
+      "date": "2008-02-19",
+      "country": "XE"
+    },
+    "total_tracks": 7,
+    "total_length": "34:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "In a Sentimental Mood",
+            "length": "4:16",
+            "deezer": {
+              "id": 911085,
+              "link": "https://www.deezer.com/track/911085",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/9/0/8c92c77eefce419bf771b7a3506af162.mp3?hdnea=exp=1795653746~acl=/api/1/1/8/c/9/0/8c92c77eefce419bf771b7a3506af162.mp3*~data=user_id=0,application_id=42~hmac=da077ca117f6fb2f9b15d79dd2560a33e3812847a183ade5636c9aa7e338b6ff",
+              "preview_expires": "2026-11-26T00:42:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Take the Coltrane",
+            "length": "4:43",
+            "deezer": {
+              "id": 911086,
+              "link": "https://www.deezer.com/track/911086",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/5/0/9a5b5ca5a6fb6d50213747c45a97addc.mp3?hdnea=exp=1795653746~acl=/api/1/1/9/a/5/0/9a5b5ca5a6fb6d50213747c45a97addc.mp3*~data=user_id=0,application_id=42~hmac=dab7ca6f3601cbfb0632a1adba689cee2ed371bb624be0a2268ef1904fc4fd54",
+              "preview_expires": "2026-11-26T00:42:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Big Nick",
+            "length": "4:28",
+            "deezer": {
+              "id": 911087,
+              "link": "https://www.deezer.com/track/911087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/c/0/6ac719890b5cf632a3ce0fc7ae106deb.mp3?hdnea=exp=1795653746~acl=/api/1/1/6/a/c/0/6ac719890b5cf632a3ce0fc7ae106deb.mp3*~data=user_id=0,application_id=42~hmac=a64a6687a7cac2e13f50ff763ffd3c33306c4d8eb8787052b2959f57b51ee483",
+              "preview_expires": "2026-11-26T00:42:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Stevie",
+            "length": "4:25",
+            "deezer": {
+              "id": 911088,
+              "link": "https://www.deezer.com/track/911088",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/c/0/cdcefc6217a1bdf7b01d6b47616ea061.mp3?hdnea=exp=1795653746~acl=/api/1/1/c/d/c/0/cdcefc6217a1bdf7b01d6b47616ea061.mp3*~data=user_id=0,application_id=42~hmac=a79aefd5c6a934a5f3839cc0790b2a47cd7fd1803953757c4f6058d72c691c6f",
+              "preview_expires": "2026-11-26T00:42:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "My Little Brown Book",
+            "length": "5:22",
+            "deezer": {
+              "id": 911089,
+              "link": "https://www.deezer.com/track/911089",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/d/0/0ed524ec5fddbd9c4fdd6193068bfc8a.mp3?hdnea=exp=1795653746~acl=/api/1/1/0/e/d/0/0ed524ec5fddbd9c4fdd6193068bfc8a.mp3*~data=user_id=0,application_id=42~hmac=1c0abe4dea3d3fa10263548e00b29c1f38ae45bacce9f5d6997d1bed2f94b46f",
+              "preview_expires": "2026-11-26T00:42:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Angelica",
+            "length": "6:00",
+            "deezer": {
+              "id": 911091,
+              "link": "https://www.deezer.com/track/911091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/3/0/b936012731d890f0b079f001def384c5.mp3?hdnea=exp=1795653746~acl=/api/1/1/b/9/3/0/b936012731d890f0b079f001def384c5.mp3*~data=user_id=0,application_id=42~hmac=27f35aabfc127a39606618cab5a3db04cf08ac80c2188092eb88cb412b3323d1",
+              "preview_expires": "2026-11-26T00:42:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Feeling of Jazz",
+            "length": "5:33",
+            "deezer": {
+              "id": 911092,
+              "link": "https://www.deezer.com/track/911092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/b/0/25bdad236c31cf238fb3f864b89e3f47.mp3?hdnea=exp=1795653746~acl=/api/1/1/2/5/b/0/25bdad236c31cf238fb3f864b89e3f47.mp3*~data=user_id=0,application_id=42~hmac=c948ef29d9be75d3474d3e8776acde6fd901ba5935922f5c09c098186c1556a6",
+              "preview_expires": "2026-11-26T00:42:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Duke Ellington/Duke Ellington & John Coltrane.jpg"
+}

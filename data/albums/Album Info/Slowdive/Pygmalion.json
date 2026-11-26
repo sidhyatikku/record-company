@@ -1,0 +1,298 @@
+{
+  "title": "Pygmalion",
+  "artist": "Slowdive",
+  "year": 1995,
+  "release_date": "1995-02-06",
+  "type": "Album",
+  "description": "Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their disbandment in 1995 and later reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.",
+  "genres": [
+    "dream pop",
+    "ambient pop",
+    "post-rock",
+    "ambient",
+    "pop"
+  ],
+  "tags": [
+    "dream pop",
+    "ambient pop",
+    "post-rock",
+    "ambient",
+    "dreamgaze",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e73fd320-edb5-33f3-95cc-e259f63a0082",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pygmalion_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000887091",
+    "discogs": "https://www.discogs.com/master/9482",
+    "wikidata": "https://www.wikidata.org/wiki/Q1086759",
+    "deezer": "https://www.deezer.com/album/700937"
+  },
+  "musicbrainz_id": "e73fd320-edb5-33f3-95cc-e259f63a0082",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/84342222-c8cc-4001-856d-34a22006e971",
+      "barcode": "0884977791655",
+      "title": "Pygmalion",
+      "disambiguation": "reissue",
+      "date": "2010-11-05",
+      "country": "XW"
+    },
+    "total_tracks": 21,
+    "total_length": "1:46:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rutti",
+            "length": "10:07",
+            "deezer": {
+              "id": 7599560,
+              "link": "https://www.deezer.com/track/7599560",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/7/0/a27dff904ae945a30f00ab46ce243271.mp3?hdnea=exp=1795720754~acl=/api/1/1/a/2/7/0/a27dff904ae945a30f00ab46ce243271.mp3*~data=user_id=0,application_id=42~hmac=f6275e85ae36b69b495866e86d20575741ecccafc3f97a90835cf781801841d4",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Crazy for You",
+            "length": "6:01",
+            "deezer": {
+              "id": 7599561,
+              "link": "https://www.deezer.com/track/7599561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/4/0/9f460bbdaa26d7b038f5533f9a86837c.mp3?hdnea=exp=1795720754~acl=/api/1/1/9/f/4/0/9f460bbdaa26d7b038f5533f9a86837c.mp3*~data=user_id=0,application_id=42~hmac=5855935185d2ec6926ff7747968d92ca49aa27264417ac276e2156aade0426a3",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Miranda",
+            "length": "4:49",
+            "deezer": {
+              "id": 7599562,
+              "link": "https://www.deezer.com/track/7599562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/f/0/60fb82921bececc123e7ad27aa6bd5d1.mp3?hdnea=exp=1795720754~acl=/api/1/1/6/0/f/0/60fb82921bececc123e7ad27aa6bd5d1.mp3*~data=user_id=0,application_id=42~hmac=264ae5721e2d8f12fa24ba28f7cd48c66b1ae6783ebbf8922bfdc34bffff2a4d",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Trellisaze",
+            "length": "6:22",
+            "deezer": {
+              "id": 7599563,
+              "link": "https://www.deezer.com/track/7599563",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/c/0/5dc1a4bc2a3d7befcd6fed8d671fe88a.mp3?hdnea=exp=1795720754~acl=/api/1/1/5/d/c/0/5dc1a4bc2a3d7befcd6fed8d671fe88a.mp3*~data=user_id=0,application_id=42~hmac=78f569530ad5a109de6f2682e7701cf4f043c13df8bc0db9d2cad26de12f64d1",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Cello",
+            "length": "1:34",
+            "deezer": {
+              "id": 7599564,
+              "link": "https://www.deezer.com/track/7599564",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/9/0/1d903e2bc01ed69a5fcc3cec6409977e.mp3?hdnea=exp=1795720754~acl=/api/1/1/1/d/9/0/1d903e2bc01ed69a5fcc3cec6409977e.mp3*~data=user_id=0,application_id=42~hmac=c81791eb64b3832abd8cca3d2568050caa24c4eb89c2149aa1a847ab492a560a",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "J’s Heaven",
+            "length": "6:46",
+            "deezer": {
+              "id": 7599565,
+              "link": "https://www.deezer.com/track/7599565",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/c/0/1fc5c756c01937369b73c72be5e2fe5c.mp3?hdnea=exp=1795720754~acl=/api/1/1/1/f/c/0/1fc5c756c01937369b73c72be5e2fe5c.mp3*~data=user_id=0,application_id=42~hmac=5907b5d992f8bb35c7c64587cc6d5c23dc4b8b4efd16004a4cf6a88cb238c3cc",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Visions of LA",
+            "length": "1:47",
+            "deezer": {
+              "id": 7599566,
+              "link": "https://www.deezer.com/track/7599566",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/3/0/0d3850bf4ba03983e9976a85df120091.mp3?hdnea=exp=1795720754~acl=/api/1/1/0/d/3/0/0d3850bf4ba03983e9976a85df120091.mp3*~data=user_id=0,application_id=42~hmac=e1576a4956f9cd536c42c1a99faddae5b3b35e8f80147a5da8056854a391318a",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Blue Skied an’ Clear",
+            "length": "6:54",
+            "deezer": {
+              "id": 7599567,
+              "link": "https://www.deezer.com/track/7599567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/c/0/96cb7683b50a2016c391fd26ec40b13f.mp3?hdnea=exp=1795720754~acl=/api/1/1/9/6/c/0/96cb7683b50a2016c391fd26ec40b13f.mp3*~data=user_id=0,application_id=42~hmac=f2bdcc0ef3d7d1612acb61b8b332a955c65af0672c1787f7f0e5b065865ac467",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "All of Us",
+            "length": "4:10",
+            "deezer": {
+              "id": 7599568,
+              "link": "https://www.deezer.com/track/7599568",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/9/0/de96ea8ea174ff8669189caf1d4fb559.mp3?hdnea=exp=1795720754~acl=/api/1/1/d/e/9/0/de96ea8ea174ff8669189caf1d4fb559.mp3*~data=user_id=0,application_id=42~hmac=55916f2c946649711a2ca136fb8556667625faab9342cd7c9773d6c87dd39c64",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Miranda (demo version)",
+            "length": "3:50",
+            "deezer": {
+              "id": 7599588,
+              "link": "https://www.deezer.com/track/7599588",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/e/0/06ef462ebd519374e36d1f32e24866b2.mp3?hdnea=exp=1795720754~acl=/api/1/1/0/6/e/0/06ef462ebd519374e36d1f32e24866b2.mp3*~data=user_id=0,application_id=42~hmac=92011064d4ae72d4729c0a8126e887ea6364ebc25090c024fe5fd465b6ba0d70",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Watch Me (demo version)",
+            "length": "3:49",
+            "deezer": {
+              "id": 7599589,
+              "link": "https://www.deezer.com/track/7599589",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/4/0/864b3094860714ec58ed2e7d94097130.mp3?hdnea=exp=1795720754~acl=/api/1/1/8/6/4/0/864b3094860714ec58ed2e7d94097130.mp3*~data=user_id=0,application_id=42~hmac=5eff0a3d22ab3fca28c9b72d218318aa13b1008dcb127da3537d19abde6026e3",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Yesterday (demo version)",
+            "length": "4:24",
+            "deezer": {
+              "id": 7599590,
+              "link": "https://www.deezer.com/track/7599590",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/1/0/2a1853500dad1848f4984dd5be317437.mp3?hdnea=exp=1795720754~acl=/api/1/1/2/a/1/0/2a1853500dad1848f4984dd5be317437.mp3*~data=user_id=0,application_id=42~hmac=519e3dc4adba09ff603997b7e91fee1814641ae08e2856731f9e1da6b01be66a",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "To Watch (demo version)",
+            "length": "5:56",
+            "deezer": {
+              "id": 7599591,
+              "link": "https://www.deezer.com/track/7599591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/c/0/6fc930650a830c09b4b59fb01437543c.mp3?hdnea=exp=1795720754~acl=/api/1/1/6/f/c/0/6fc930650a830c09b4b59fb01437543c.mp3*~data=user_id=0,application_id=42~hmac=3c760adf1f912d78c9a308214a1f833ca093422cfd4f74cefe23db8cf6c59e9b",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Option One (instrumental #1) (demo version)",
+            "length": "3:54",
+            "deezer": {
+              "id": 7599592,
+              "link": "https://www.deezer.com/track/7599592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/2/0/822a75d56e95b94da18db5c67f6af08c.mp3?hdnea=exp=1795720754~acl=/api/1/1/8/2/2/0/822a75d56e95b94da18db5c67f6af08c.mp3*~data=user_id=0,application_id=42~hmac=2282d5dc487b66c7357ae072323c0e488a1419861787ec472f139e48b53f0eaa",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Carfo (demo version)",
+            "length": "4:28",
+            "deezer": {
+              "id": 7599593,
+              "link": "https://www.deezer.com/track/7599593",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/c/0/f7c39c1a43751ebc4526e5ae8ec98f0b.mp3?hdnea=exp=1795720754~acl=/api/1/1/f/7/c/0/f7c39c1a43751ebc4526e5ae8ec98f0b.mp3*~data=user_id=0,application_id=42~hmac=fda24059ab037f772b461f6155544b93fd9d4ba3a5c32f89c656c6a7e911eae9",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Sinewaves (demo version)",
+            "length": "5:16",
+            "deezer": {
+              "id": 7599594,
+              "link": "https://www.deezer.com/track/7599594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/6/0/7c69906275cdca1a6efc0b568871c420.mp3?hdnea=exp=1795720754~acl=/api/1/1/7/c/6/0/7c69906275cdca1a6efc0b568871c420.mp3*~data=user_id=0,application_id=42~hmac=3a74ace9ad2412ea6041aff91477d48c1374eb1e7276e062ef10c54f98824d43",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ambient Guitar (demo version)",
+            "length": "5:51",
+            "deezer": {
+              "id": 7599595,
+              "link": "https://www.deezer.com/track/7599595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/e/0/60e46b339e7efbadd7cd18233b6236e0.mp3?hdnea=exp=1795720754~acl=/api/1/1/6/0/e/0/60e46b339e7efbadd7cd18233b6236e0.mp3*~data=user_id=0,application_id=42~hmac=c2bfc58c5745e043fe01b53b985d139371a5107a3a457fc5aef0a842c84bfb83",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Crazy for You (alternative version – demo)",
+            "length": "4:41",
+            "deezer": {
+              "id": 7599596,
+              "link": "https://www.deezer.com/track/7599596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/57110a3269680a140d76987392b25a66.mp3?hdnea=exp=1795720754~acl=/api/1/1/5/7/1/0/57110a3269680a140d76987392b25a66.mp3*~data=user_id=0,application_id=42~hmac=4b649585a066912d02e3227b2f8ee93f9f4df3ae6c9590ab449cd862dcd90a75",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Krautruck (demo version)",
+            "length": "5:09",
+            "deezer": {
+              "id": 7599597,
+              "link": "https://www.deezer.com/track/7599597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/3/0/883bce87f92834ae061a5f9ff7d16984.mp3?hdnea=exp=1795720754~acl=/api/1/1/8/8/3/0/883bce87f92834ae061a5f9ff7d16984.mp3*~data=user_id=0,application_id=42~hmac=2d37ec2c70903f882e4f445d2082e278c9b9ea62acf7f80788bfd7a06acfd445",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Changes (demo version)",
+            "length": "4:55",
+            "deezer": {
+              "id": 7599598,
+              "link": "https://www.deezer.com/track/7599598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/7/0/1d71c5bac1e41bdae5c748b92ac87e5d.mp3?hdnea=exp=1795720754~acl=/api/1/1/1/d/7/0/1d71c5bac1e41bdae5c748b92ac87e5d.mp3*~data=user_id=0,application_id=42~hmac=cf41525d7a02c3842995861c39083ad7f4af068c227e54da01ee7fbcfc8cd729",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Red Five (demo version)",
+            "length": "6:08",
+            "deezer": {
+              "id": 7599599,
+              "link": "https://www.deezer.com/track/7599599",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/6/0/bf6d3e27b788f1c8dfb0ac7992f607df.mp3?hdnea=exp=1795720754~acl=/api/1/1/b/f/6/0/bf6d3e27b788f1c8dfb0ac7992f607df.mp3*~data=user_id=0,application_id=42~hmac=1d0da924706945be872d34df7b3b8822fafe8e5a33d9967ca510988aa9ac13eb",
+              "preview_expires": "2026-11-26T19:19:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Slowdive/Pygmalion.jpg"
+}

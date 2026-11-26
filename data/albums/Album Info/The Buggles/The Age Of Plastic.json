@@ -1,0 +1,179 @@
+{
+  "title": "The Age of Plastic",
+  "artist": "Buggles",
+  "year": 1980,
+  "release_date": "1980-02-04",
+  "type": "Album",
+  "description": "The Age of Plastic is the debut album by the English new wave duo the Buggles, first released on 10 January 1980 on Island Records. It is a concept album about the possible repercussions of modern technology. The title was conceived from the group's intention of being a \"plastic group\" and the album was produced in the wake of the success of their debut record, \"Video Killed the Radio Star\" (1979), which topped the UK Singles Chart. Most of the album's other tracks were written during promotion of the single.",
+  "genres": [
+    "new wave",
+    "electronic",
+    "art pop",
+    "synth-pop"
+  ],
+  "tags": [
+    "new wave",
+    "electronic",
+    "art pop",
+    "synth-pop",
+    "synthpop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.65,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b3136897-c568-3f62-94af-b98ae7a79abc",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Age_of_Plastic",
+    "allmusic": "https://www.allmusic.com/album/mw0000196185",
+    "discogs": "https://www.discogs.com/master/80403",
+    "wikidata": "https://www.wikidata.org/wiki/Q2704236",
+    "deezer": "https://www.deezer.com/album/246560"
+  },
+  "musicbrainz_id": "b3136897-c568-3f62-94af-b98ae7a79abc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/675bb551-fdc7-37b8-a656-e4e7ff20a63d",
+      "barcode": "731454627429",
+      "title": "The Age of Plastic",
+      "disambiguation": null,
+      "date": "2000",
+      "country": "XE"
+    },
+    "total_tracks": 11,
+    "total_length": "47:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Living in the Plastic Age",
+            "length": "5:13",
+            "deezer": {
+              "id": 2509816,
+              "link": "https://www.deezer.com/track/2509816",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "2",
+            "title": "Video Killed the Radio Star",
+            "length": "4:14",
+            "deezer": {
+              "id": 2509817,
+              "link": "https://www.deezer.com/track/2509817",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kid Dynamo",
+            "length": "3:29",
+            "deezer": {
+              "id": 2509818,
+              "link": "https://www.deezer.com/track/2509818",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Love You (Miss Robot)",
+            "length": "4:58",
+            "deezer": {
+              "id": 2509819,
+              "link": "https://www.deezer.com/track/2509819",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "5",
+            "title": "Clean, Clean",
+            "length": "3:54",
+            "deezer": {
+              "id": 2509820,
+              "link": "https://www.deezer.com/track/2509820",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "6",
+            "title": "Elstree",
+            "length": "4:30",
+            "deezer": {
+              "id": 2509821,
+              "link": "https://www.deezer.com/track/2509821",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "Astroboy (and the Proles on Parade)",
+            "length": "4:42",
+            "deezer": {
+              "id": 2509822,
+              "link": "https://www.deezer.com/track/2509822",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "8",
+            "title": "Johnny on the Monorail",
+            "length": "5:29",
+            "deezer": {
+              "id": 2509823,
+              "link": "https://www.deezer.com/track/2509823",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "9",
+            "title": "Island",
+            "length": "3:33",
+            "deezer": {
+              "id": 2509824,
+              "link": "https://www.deezer.com/track/2509824",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "Technopop",
+            "length": "3:51",
+            "deezer": {
+              "id": 2509825,
+              "link": "https://www.deezer.com/track/2509825",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "11",
+            "title": "Johnny on the Monorail (a very different version)",
+            "length": "3:49",
+            "deezer": {
+              "id": 2509826,
+              "link": "https://www.deezer.com/track/2509826",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Buggles/The Age Of Plastic.png"
+}

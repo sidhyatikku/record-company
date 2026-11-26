@@ -1,0 +1,172 @@
+{
+  "title": "Harvest Moon",
+  "artist": "Neil Young",
+  "year": 1992,
+  "release_date": "1992-10-27",
+  "type": "Album",
+  "description": "Harvest Moon is the twenty-first studio album by Canadian-American musician Neil Young, released on November 2, 1992. Many of its backing musicians also appeared on Young's 1972 album Harvest.",
+  "genres": [
+    "rock",
+    "folk rock",
+    "country rock"
+  ],
+  "tags": [
+    "rock",
+    "folk rock",
+    "country rock",
+    "rock pop",
+    "album rock",
+    "contemporary u.s. folk",
+    "country-rock",
+    "pop/rock",
+    "rollingstone.de [4/5]"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 7
+  },
+  "musicbrainz_annotation": "= Notes on identifying different releases =\n----\n== CD releases with barcode 093624505723 ==\n\nEsp. European releases have small differences (w/price codes), and can be easy to misidentify. Yet the differences are large enough that they warrant separate release on MB.\n\n=== US/AU/CA releases have no price codes ===\nHence, they are easy to differentiate from EU releases (feel free to expand details on these releases if needed).\n=== EU releases can have as a price code and SID code combination(s) as either: ===\n    1. \"FRANCE WE 833\",  no SID codes -> [https://musicbrainz.org/release/ad363b6f-e17d-45ca-8182-31f5015d2afc],\n    2. \"WE 833\", no SID codes -> [https://musicbrainz.org/release/959d20dc-372d-4974-a7fc-8e9e2e990cbb]\n    3. \"WE 852\", no SID codes -> '''not in MB at the moment'''\n    4. \"WE 833\", with (at least mould) SID codes ->[https://musicbrainz.org/release/759f11cf-5f85-43d3-94f2-7adbba7a38cf]\n\nSome releases (esp. 4.) have many Discogs links. AFAIK they have identical cover art.\n----",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6c153d3a-cf36-37ea-8409-0e48b428315f",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvest_Moon_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000090853",
+    "discogs": "https://www.discogs.com/master/38601",
+    "wikidata": "https://www.wikidata.org/wiki/Q785815",
+    "deezer": "https://www.deezer.com/album/81868"
+  },
+  "musicbrainz_id": "6c153d3a-cf36-37ea-8409-0e48b428315f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/df3f799d-eb9f-4812-8a05-fe3925ae9f7f",
+      "barcode": "093624505761",
+      "title": "Harvest Moon",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "51:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Unknown Legend",
+            "length": "4:32",
+            "deezer": {
+              "id": 677475,
+              "link": "https://www.deezer.com/track/677475",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/b/0/03b4b9dca6e94a2b3ec27422f5d07a79.mp3?hdnea=exp=1795718802~acl=/api/1/1/0/3/b/0/03b4b9dca6e94a2b3ec27422f5d07a79.mp3*~data=user_id=0,application_id=42~hmac=e284a23a9a5b9dfd7e1234997c0aab37082dc8fb12b53846974c2aa44bf36e6b",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "From Hank to Hendrix",
+            "length": "5:17",
+            "deezer": {
+              "id": 677478,
+              "link": "https://www.deezer.com/track/677478",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/c/0/02c1f8a36d5fc6ae2ec68bf046a65aad.mp3?hdnea=exp=1795718802~acl=/api/1/1/0/2/c/0/02c1f8a36d5fc6ae2ec68bf046a65aad.mp3*~data=user_id=0,application_id=42~hmac=7a4f7b9d620ecbe43e57b7e2783f13897bb5c18e02cb8cdedbfa1c2e343cf81b",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "You and Me",
+            "length": "3:45",
+            "deezer": {
+              "id": 677481,
+              "link": "https://www.deezer.com/track/677481",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/e/0/12ee00f6280f6fb796b6e638327c62b3.mp3?hdnea=exp=1795718802~acl=/api/1/1/1/2/e/0/12ee00f6280f6fb796b6e638327c62b3.mp3*~data=user_id=0,application_id=42~hmac=506f1f7b86900d70e503213f86d9ffd33344dbb251a4ae8b52caca32123750ed",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Harvest Moon",
+            "length": "5:03",
+            "deezer": {
+              "id": 677484,
+              "link": "https://www.deezer.com/track/677484",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/5/0/d65bfcfde6ead263806c4f2c579eb0e3.mp3?hdnea=exp=1795718802~acl=/api/1/1/d/6/5/0/d65bfcfde6ead263806c4f2c579eb0e3.mp3*~data=user_id=0,application_id=42~hmac=f44fa6e5251b907746846496ae9be1d72d8e5d17f41b0ecfc8fd76ba7d1630c7",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "War of Man",
+            "length": "5:44",
+            "deezer": {
+              "id": 677486,
+              "link": "https://www.deezer.com/track/677486",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/a/0/b5a0c3dfedd0a0dde0f48790d2383e53.mp3?hdnea=exp=1795718802~acl=/api/1/1/b/5/a/0/b5a0c3dfedd0a0dde0f48790d2383e53.mp3*~data=user_id=0,application_id=42~hmac=46c4da8f0f110990a50de5609701dcf36a0c6ad3d9b4fcc2d75b40c18b8fe3fc",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "One of These Days",
+            "length": "4:58",
+            "deezer": {
+              "id": 677488,
+              "link": "https://www.deezer.com/track/677488",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/7/0/0970477692780dd11ad9e325d8ff87c8.mp3?hdnea=exp=1795718802~acl=/api/1/1/0/9/7/0/0970477692780dd11ad9e325d8ff87c8.mp3*~data=user_id=0,application_id=42~hmac=6eabf58b4273ef06ad9e861ba7b6cdbc33a464cb542f9064eadc1243c7fe7bc3",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Such a Woman",
+            "length": "4:38",
+            "deezer": {
+              "id": 677490,
+              "link": "https://www.deezer.com/track/677490",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/0/0/9d0a59dae527e9527a7ea8b2a75206c5.mp3?hdnea=exp=1795718802~acl=/api/1/1/9/d/0/0/9d0a59dae527e9527a7ea8b2a75206c5.mp3*~data=user_id=0,application_id=42~hmac=68c993baf6a2dfbd984e00332eb733d4ba25bc169f98b313688825171abd12de",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Old King",
+            "length": "2:57",
+            "deezer": {
+              "id": 677492,
+              "link": "https://www.deezer.com/track/677492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/0/0/8f0172f231a242c919bd26fc2bcd859d.mp3?hdnea=exp=1795718802~acl=/api/1/1/8/f/0/0/8f0172f231a242c919bd26fc2bcd859d.mp3*~data=user_id=0,application_id=42~hmac=93567f3bc483d8827cad85c63658cf1f796eb15ea2b9158a22b1edab20de063e",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dreamin’ Man",
+            "length": "4:37",
+            "deezer": {
+              "id": 677495,
+              "link": "https://www.deezer.com/track/677495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/e/0/bde4a161fab2219df67bb2b60ad40f3e.mp3?hdnea=exp=1795718802~acl=/api/1/1/b/d/e/0/bde4a161fab2219df67bb2b60ad40f3e.mp3*~data=user_id=0,application_id=42~hmac=7ff707839928fd9eb4643000321de9c48e6abff474d6bfdd4e9555acb4d17b16",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Natural Beauty",
+            "length": "10:23",
+            "deezer": {
+              "id": 677498,
+              "link": "https://www.deezer.com/track/677498",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/e/0/f6e732e2e32cc00e5deb1606bacdf878.mp3?hdnea=exp=1795718802~acl=/api/1/1/f/6/e/0/f6e732e2e32cc00e5deb1606bacdf878.mp3*~data=user_id=0,application_id=42~hmac=19b22cb827e6fe5e5c92cab395f911d965cfe5c9ce40dd825c4231b9ed3de387",
+              "preview_expires": "2026-11-26T18:46:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Neil Young/Harvest Moon.jpg"
+}

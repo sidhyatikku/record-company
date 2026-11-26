@@ -1,0 +1,117 @@
+{
+  "title": "The Gangster",
+  "artist": "Various Artists",
+  "year": null,
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "dancehall",
+    "reggae"
+  ],
+  "tags": [
+    "dancehall",
+    "reggae"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/740c24c7-7b63-4a0c-8c74-5606dd1919e5",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "740c24c7-7b63-4a0c-8c74-5606dd1919e5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/46a6ee68-4b85-46c7-987c-1d209ac66abe",
+      "barcode": null,
+      "title": "The Gangster",
+      "disambiguation": null,
+      "date": "",
+      "country": "GB"
+    },
+    "total_tracks": 12,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "12\" Vinyl",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A1",
+            "title": "Gangster",
+            "length": null,
+            "artist": "Red Rose"
+          },
+          {
+            "number": "A2",
+            "title": "Rudey",
+            "length": null,
+            "artist": "Ed Robinson"
+          },
+          {
+            "number": "A3",
+            "title": "My Heartbeat",
+            "length": null,
+            "artist": "Fragga Ranks"
+          },
+          {
+            "number": "A4",
+            "title": "Buck And Bite",
+            "length": null,
+            "artist": "Daddy Woody"
+          },
+          {
+            "number": "A5",
+            "title": "All Fruits Ripe",
+            "length": null,
+            "artist": "Anthony Malvo"
+          },
+          {
+            "number": "A6",
+            "title": "Power Of Love",
+            "length": null,
+            "artist": "Sly, Herbie & Gitsy"
+          },
+          {
+            "number": "B1",
+            "title": "Borderline",
+            "length": null,
+            "artist": "Poison Chang"
+          },
+          {
+            "number": "B2",
+            "title": "Somewhere",
+            "length": null,
+            "artist": "Oneil Shines"
+          },
+          {
+            "number": "B3",
+            "title": "Night Doctor",
+            "length": null,
+            "artist": "Prilly Hamilton"
+          },
+          {
+            "number": "B4",
+            "title": "Brush Them",
+            "length": null,
+            "artist": "Gospel Fish"
+          },
+          {
+            "number": "B5",
+            "title": "Lift Up Yourself",
+            "length": null,
+            "artist": "Sugar Black"
+          },
+          {
+            "number": "B6",
+            "title": "The Hitman",
+            "length": null,
+            "artist": "Gitsy"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Gangster.jpg"
+}

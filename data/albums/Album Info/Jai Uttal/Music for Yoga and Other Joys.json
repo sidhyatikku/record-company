@@ -1,0 +1,104 @@
+{
+  "title": "Music for Yoga and Other Joys",
+  "artist": "Jai Uttal and Ben Leinbach",
+  "year": 2003,
+  "release_date": "2003",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "ambient",
+    "electronic",
+    "new age"
+  ],
+  "tags": [
+    "ambient",
+    "electronic",
+    "new age"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/20bba6f3-d39a-3948-b235-fb8cba066c75",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0000336769",
+    "deezer": "https://www.deezer.com/album/930808111"
+  },
+  "musicbrainz_id": "20bba6f3-d39a-3948-b235-fb8cba066c75",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a28dad97-7104-4042-8b42-f2e13dc5e2ee",
+      "barcode": "9781591791331",
+      "title": "Music for Yoga and Other Joys",
+      "disambiguation": null,
+      "date": "2003",
+      "country": "US"
+    },
+    "total_tracks": 5,
+    "total_length": "1:15:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Govinda",
+            "length": "26:47",
+            "deezer": {
+              "id": 3876729981,
+              "link": "https://www.deezer.com/track/3876729981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/2/0/da28fe60eb0b5338a89cd679c4416dcb.mp3?hdnea=exp=1795655400~acl=/api/1/1/d/a/2/0/da28fe60eb0b5338a89cd679c4416dcb.mp3*~data=user_id=0,application_id=42~hmac=2477129f08980504497dfef7bdee6903de9bdd1811d4850e7fef29fa8f7cdf0a",
+              "preview_expires": "2026-11-26T01:10:00Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Mahadeva",
+            "length": "10:16",
+            "deezer": {
+              "id": 3876729991,
+              "link": "https://www.deezer.com/track/3876729991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/b/0/b5bd43eb4aede66d58d9654df1f751ba.mp3?hdnea=exp=1795655400~acl=/api/1/1/b/5/b/0/b5bd43eb4aede66d58d9654df1f751ba.mp3*~data=user_id=0,application_id=42~hmac=4c7c61be2c82d1bb87327949298809c0c7a8303e1b8ce9eb023fb72d22a6b3d2",
+              "preview_expires": "2026-11-26T01:10:00Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Nataraja",
+            "length": "15:05",
+            "deezer": {
+              "id": 3876730001,
+              "link": "https://www.deezer.com/track/3876730001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/0/0/cc0a744db2fc62586ee3d6bd2aa08595.mp3?hdnea=exp=1795655400~acl=/api/1/1/c/c/0/0/cc0a744db2fc62586ee3d6bd2aa08595.mp3*~data=user_id=0,application_id=42~hmac=1609be94197554f756964d0845eed86e711ed6abbf5561e483b9d30b90dff29c",
+              "preview_expires": "2026-11-26T01:10:00Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Gopala",
+            "length": "10:38",
+            "deezer": {
+              "id": 3876730011,
+              "link": "https://www.deezer.com/track/3876730011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/f/0/f8f526c9ba92f0ccb679249d08a67562.mp3?hdnea=exp=1795655400~acl=/api/1/1/f/8/f/0/f8f526c9ba92f0ccb679249d08a67562.mp3*~data=user_id=0,application_id=42~hmac=6951d1b9453d0d0d4e147414da433f0515473238f432e4c4e348a96456d3c9be",
+              "preview_expires": "2026-11-26T01:10:00Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Surya",
+            "length": "12:15",
+            "deezer": {
+              "id": 3876730021,
+              "link": "https://www.deezer.com/track/3876730021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/f/0/78f325ca06496b46dfa31830fb329243.mp3?hdnea=exp=1795655400~acl=/api/1/1/7/8/f/0/78f325ca06496b46dfa31830fb329243.mp3*~data=user_id=0,application_id=42~hmac=4eb46750161a3ab011cc2e8d8217ba900dd9823b0b5bc1229968a7be7ecf9504",
+              "preview_expires": "2026-11-26T01:10:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jai Uttal/Music for Yoga and Other Joys.jpg"
+}

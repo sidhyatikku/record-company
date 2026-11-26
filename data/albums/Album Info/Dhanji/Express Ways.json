@@ -1,0 +1,51 @@
+{
+  "title": "Express Ways",
+  "artist": "Dhanji & Krameri",
+  "year": 2024,
+  "release_date": "2024-04-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/550be3bd-3653-461b-b924-c69b593dd90b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/879555582"
+  },
+  "musicbrainz_id": "550be3bd-3653-461b-b924-c69b593dd90b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/66c2649a-4bd2-445f-a707-67f8ef1f0c1b",
+      "barcode": "8721056885657",
+      "title": "Express Ways",
+      "disambiguation": null,
+      "date": "2024-04-09",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Express Ways",
+            "length": "2:27",
+            "deezer": {
+              "id": 3722926172,
+              "link": "https://www.deezer.com/track/3722926172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/2/0/14285ee2ab113c43bfc30f0e5b5784cc.mp3?hdnea=exp=1795653311~acl=/api/1/1/1/4/2/0/14285ee2ab113c43bfc30f0e5b5784cc.mp3*~data=user_id=0,application_id=42~hmac=0e6419890dcc42d4a6552a10e1ac1fd7c34c825384bd9f8ab9c05f1f56b08847",
+              "preview_expires": "2026-11-26T00:35:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dhanji/Express Ways.jpg"
+}

@@ -1,0 +1,469 @@
+{
+  "title": "Éternelle",
+  "artist": "Édith Piaf",
+  "year": 2001,
+  "release_date": "2001",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "pop"
+  ],
+  "tags": [
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ebcdc10b-afcf-4937-8a9c-bdad079f8580",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/303405"
+  },
+  "musicbrainz_id": "ebcdc10b-afcf-4937-8a9c-bdad079f8580",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/66431d99-36f1-4339-a719-12e45c83edb5",
+      "barcode": "724353028527",
+      "title": "Éternelle",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "CA"
+    },
+    "total_tracks": 38,
+    "total_length": "1:58:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "La Vie en rose",
+            "length": "3:06",
+            "deezer": {
+              "id": 3155316,
+              "link": "https://www.deezer.com/track/3155316",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/9/0/a9964d6dca2b960c21d3a6db5c70e718.mp3?hdnea=exp=1795724627~acl=/api/1/1/a/9/9/0/a9964d6dca2b960c21d3a6db5c70e718.mp3*~data=user_id=0,application_id=42~hmac=43671f8b5d86e6b7facaa777dbf55d0dca58d5dabda9668f31b097f829053ff2",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Les Amants de Paris",
+            "length": "3:12",
+            "deezer": {
+              "id": 3155317,
+              "link": "https://www.deezer.com/track/3155317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/b/0/7db6ba51f4ea5ab97c08a482405a3faf.mp3?hdnea=exp=1795724627~acl=/api/1/1/7/d/b/0/7db6ba51f4ea5ab97c08a482405a3faf.mp3*~data=user_id=0,application_id=42~hmac=3495771827d95fb7a4ebd74a51c6ba069d26af26ee1f5d27167a65eb028e530e",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hymne à l’amour",
+            "length": "3:23",
+            "deezer": {
+              "id": 3155318,
+              "link": "https://www.deezer.com/track/3155318",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/9/0/8293a32009c7626b1d7a955431628927.mp3?hdnea=exp=1795724627~acl=/api/1/1/8/2/9/0/8293a32009c7626b1d7a955431628927.mp3*~data=user_id=0,application_id=42~hmac=9c44f6c9c9694b6c1115ba7dcbfe904175cca8e8f21fa35fd83cb593f4b52ff0",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "À l’enseigne de la fille sans cœur",
+            "length": "3:24",
+            "deezer": {
+              "id": 3155319,
+              "link": "https://www.deezer.com/track/3155319",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/9/0/ae953050a28512512c967e5048877588.mp3?hdnea=exp=1795724627~acl=/api/1/1/a/e/9/0/ae953050a28512512c967e5048877588.mp3*~data=user_id=0,application_id=42~hmac=b8dd334c7c3c16f11100bc86c4fa082a13a3a30e853b4fc75eb69ae8bf3c36f2",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Je hais les dimanches",
+            "length": "3:21",
+            "deezer": {
+              "id": 3155320,
+              "link": "https://www.deezer.com/track/3155320",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/b/0/6ab84afffa43695d6cf8e64e391f4a07.mp3?hdnea=exp=1795724627~acl=/api/1/1/6/a/b/0/6ab84afffa43695d6cf8e64e391f4a07.mp3*~data=user_id=0,application_id=42~hmac=eb0be62698289a90ba8e89c466655456cf86ac311c5d4a5d6a2013b11ac561ab",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Padam... padam",
+            "length": "3:16",
+            "deezer": {
+              "id": 3155321,
+              "link": "https://www.deezer.com/track/3155321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/9/0/849fb9489ac08f6626e6b577c078eabd.mp3?hdnea=exp=1795724627~acl=/api/1/1/8/4/9/0/849fb9489ac08f6626e6b577c078eabd.mp3*~data=user_id=0,application_id=42~hmac=abfa90e05a1b30ca12947dcb4b17f9bc61886a8bd21c1ab997ca27bcb1f8fa4d",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Heureuse",
+            "length": "3:16",
+            "deezer": {
+              "id": 3155322,
+              "link": "https://www.deezer.com/track/3155322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/e/0/07e7213440988742f56c59c565d28278.mp3?hdnea=exp=1795724627~acl=/api/1/1/0/7/e/0/07e7213440988742f56c59c565d28278.mp3*~data=user_id=0,application_id=42~hmac=6810803ace6bc683ed84d589a942a3194d106458e461cf49cb8bed2950720645",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Johnny tu n’es pas un ange",
+            "length": "2:10",
+            "deezer": {
+              "id": 3155323,
+              "link": "https://www.deezer.com/track/3155323",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd2f14e418c2c908366d62f15396fc55.mp3?hdnea=exp=1795724627~acl=/api/1/1/d/d/2/0/dd2f14e418c2c908366d62f15396fc55.mp3*~data=user_id=0,application_id=42~hmac=c9232218232c4bddf17c95a6652eeb805fdd1d47606b4d42c4e419d9b6bd8c1d",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bravo pour le clown",
+            "length": "3:05",
+            "deezer": {
+              "id": 3155324,
+              "link": "https://www.deezer.com/track/3155324",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/3/0/c530d215cb663dd51d81e132a55463bb.mp3?hdnea=exp=1795724627~acl=/api/1/1/c/5/3/0/c530d215cb663dd51d81e132a55463bb.mp3*~data=user_id=0,application_id=42~hmac=e40a895b223b25d27ae0e0c7e88d990bdeb4e9dc708b49b91d867c7e4b1d86bd",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "C’est à Hambourg",
+            "length": "3:03",
+            "deezer": {
+              "id": 3155325,
+              "link": "https://www.deezer.com/track/3155325",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/a/0/90afc6917dd2f651c937bb738ca49b14.mp3?hdnea=exp=1795724627~acl=/api/1/1/9/0/a/0/90afc6917dd2f651c937bb738ca49b14.mp3*~data=user_id=0,application_id=42~hmac=768b42fcdef162c99b12dad64bfc4e5ee9d70afb9e96b379b8e3371edca34436",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "La Goualante du pauvre Jean",
+            "length": "2:01",
+            "deezer": {
+              "id": 3155326,
+              "link": "https://www.deezer.com/track/3155326",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/1/0/cd186a778ecb4b6fc908f4cd7110bb70.mp3?hdnea=exp=1795724627~acl=/api/1/1/c/d/1/0/cd186a778ecb4b6fc908f4cd7110bb70.mp3*~data=user_id=0,application_id=42~hmac=d5949596f54a3b955ebd26ca63aaab53bd88c0f29c3b9045840ea08d436c5e6a",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Le ''Ça ira''",
+            "length": "2:21",
+            "deezer": {
+              "id": 3155327,
+              "link": "https://www.deezer.com/track/3155327",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/a/0/43a1d9a026689035b7c5cd374849e78f.mp3?hdnea=exp=1795724627~acl=/api/1/1/4/3/a/0/43a1d9a026689035b7c5cd374849e78f.mp3*~data=user_id=0,application_id=42~hmac=4fa6e2e33878cb6894b5e59f7a330ffb44e3c025db13562949bfff51b568ad31",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Sous le ciel de Paris",
+            "length": "3:31",
+            "deezer": {
+              "id": 3155328,
+              "link": "https://www.deezer.com/track/3155328",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/b/0/4bbf97b558ee9846110d2fc0cadbb01b.mp3?hdnea=exp=1795724627~acl=/api/1/1/4/b/b/0/4bbf97b558ee9846110d2fc0cadbb01b.mp3*~data=user_id=0,application_id=42~hmac=d6db937860794e422e812a502258524f028d88c21079f28064a3ceb07deb559b",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "L’Homme à la moto",
+            "length": "2:04",
+            "deezer": {
+              "id": 3155329,
+              "link": "https://www.deezer.com/track/3155329",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/f/0/caf233d46094a2df0eb3ec6b4d409e3e.mp3?hdnea=exp=1795724627~acl=/api/1/1/c/a/f/0/caf233d46094a2df0eb3ec6b4d409e3e.mp3*~data=user_id=0,application_id=42~hmac=a2ae36eb50aa363e2e1fa096bed35af63d3b8aa7f537fa48d78b3ee9724b6b2c",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Les Amants d'un jour",
+            "length": "3:13",
+            "deezer": {
+              "id": 3155330,
+              "link": "https://www.deezer.com/track/3155330",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/3/0/3537252695b114385f244ed58ddd1d8f.mp3?hdnea=exp=1795724627~acl=/api/1/1/3/5/3/0/3537252695b114385f244ed58ddd1d8f.mp3*~data=user_id=0,application_id=42~hmac=d850536e1573e1831f1ec065bc11e036f646c6b6e382e79d07a9f4814d54733c",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Eden blues",
+            "length": "3:15",
+            "deezer": {
+              "id": 3155331,
+              "link": "https://www.deezer.com/track/3155331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/6/0/bb68c14cf4be31f80d6eee379a21380e.mp3?hdnea=exp=1795724627~acl=/api/1/1/b/b/6/0/bb68c14cf4be31f80d6eee379a21380e.mp3*~data=user_id=0,application_id=42~hmac=598b8364769dbb5e2d94aa35e45a3b9849fe68c8162645a54955d6a7c67ec8d4",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Je sais comment",
+            "length": "3:20",
+            "deezer": {
+              "id": 3155332,
+              "link": "https://www.deezer.com/track/3155332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/e/0/5ae6f7aa50b2533b8660c99b9c0e7094.mp3?hdnea=exp=1795724627~acl=/api/1/1/5/a/e/0/5ae6f7aa50b2533b8660c99b9c0e7094.mp3*~data=user_id=0,application_id=42~hmac=db641ad267d35e02d612a9f1d327ece7bde530b38e8767fac8515b6bb84ba4a9",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Mon manège à moi",
+            "length": "3:00",
+            "deezer": {
+              "id": 3155333,
+              "link": "https://www.deezer.com/track/3155333",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/8/0/4985dcd3996f180e6ee6df4d7d1fd9a7.mp3?hdnea=exp=1795724627~acl=/api/1/1/4/9/8/0/4985dcd3996f180e6ee6df4d7d1fd9a7.mp3*~data=user_id=0,application_id=42~hmac=95ff1ca5a4bccef88905932a00eb23838311a0ee00b0c0e076e9c59b10770c89",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Non je ne regrette rien",
+            "length": "2:20",
+            "deezer": {
+              "id": 3155334,
+              "link": "https://www.deezer.com/track/3155334",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/a/0/a1ad45a86b9a2483ee37ce6287598a4a.mp3?hdnea=exp=1795724627~acl=/api/1/1/a/1/a/0/a1ad45a86b9a2483ee37ce6287598a4a.mp3*~data=user_id=0,application_id=42~hmac=8bc910130149ade176a481bce5275351c7ec29181a646316fa2ede1e47499dae",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Milord",
+            "length": "4:28",
+            "deezer": {
+              "id": 3155335,
+              "link": "https://www.deezer.com/track/3155335",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/3/0/6237d8dff82ec679db0890cf8f83cf22.mp3?hdnea=exp=1795724627~acl=/api/1/1/6/2/3/0/6237d8dff82ec679db0890cf8f83cf22.mp3*~data=user_id=0,application_id=42~hmac=fa2aa517c55994ddeb317adae95e9e27e6f3746f14d326cbe42975cdcf6df912",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "La Belle Histoire d’amour",
+            "length": "4:04",
+            "deezer": {
+              "id": 3155336,
+              "link": "https://www.deezer.com/track/3155336",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/3/0/6d33075283bc3cab8895adfa655274e7.mp3?hdnea=exp=1795724627~acl=/api/1/1/6/d/3/0/6d33075283bc3cab8895adfa655274e7.mp3*~data=user_id=0,application_id=42~hmac=886fe2d62257f414a93fd865e7747e498cddd7b8b75d8c9f547cf0f3529280f3",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Les Flonflons du bal",
+            "length": "2:28",
+            "deezer": {
+              "id": 3155337,
+              "link": "https://www.deezer.com/track/3155337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/e/0/ceec1df962da673b804ad815b8e6b04b.mp3?hdnea=exp=1795724627~acl=/api/1/1/c/e/e/0/ceec1df962da673b804ad815b8e6b04b.mp3*~data=user_id=0,application_id=42~hmac=38c4a875f6fb726b8df4d5d2af4bc7800a5a0c23316f4f51af1c7321bfe47812",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Les Mots d’amour",
+            "length": "3:27",
+            "deezer": {
+              "id": 3155338,
+              "link": "https://www.deezer.com/track/3155338",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/a/0/97a87fb772dbe119121cae42906b378e.mp3?hdnea=exp=1795724627~acl=/api/1/1/9/7/a/0/97a87fb772dbe119121cae42906b378e.mp3*~data=user_id=0,application_id=42~hmac=64191e89220982a882c69742e84724fe73fa4ce4ef62f86a5f006500de962e5c",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mon Dieu",
+            "length": "3:23",
+            "deezer": {
+              "id": 3155339,
+              "link": "https://www.deezer.com/track/3155339",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/7/0/397fddc2ed8ea140e756241c8ff21342.mp3?hdnea=exp=1795724627~acl=/api/1/1/3/9/7/0/397fddc2ed8ea140e756241c8ff21342.mp3*~data=user_id=0,application_id=42~hmac=2713ef404e3f4047059f3987e4d3c3865be808b2cfd1bada68cdbe779d9828e3",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Les Amants",
+            "length": "3:54",
+            "deezer": {
+              "id": 3155340,
+              "link": "https://www.deezer.com/track/3155340",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/d/0/3adbc7c5f085399ba7a876cd3af0a3c8.mp3?hdnea=exp=1795724627~acl=/api/1/1/3/a/d/0/3adbc7c5f085399ba7a876cd3af0a3c8.mp3*~data=user_id=0,application_id=42~hmac=21c5b8f586e529f2e9fa4d6ca5de965b5bb4c8db5f76851ef2ea2619b93482d4",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Exodus",
+            "length": "3:30",
+            "deezer": {
+              "id": 3155341,
+              "link": "https://www.deezer.com/track/3155341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/4/0/154aa41dc6ee5ecc45b6b44b820d6562.mp3?hdnea=exp=1795724627~acl=/api/1/1/1/5/4/0/154aa41dc6ee5ecc45b6b44b820d6562.mp3*~data=user_id=0,application_id=42~hmac=c5460c2aa56d7e37b75863767408cb5af4742e7ecd39a8643eb6e35a2aad1149",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Fallait-il",
+            "length": "2:13",
+            "deezer": {
+              "id": 3155342,
+              "link": "https://www.deezer.com/track/3155342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/e/0/02ee41987e57b2380235e3b7f3681608.mp3?hdnea=exp=1795724627~acl=/api/1/1/0/2/e/0/02ee41987e57b2380235e3b7f3681608.mp3*~data=user_id=0,application_id=42~hmac=421eec33abff129a7879cf6d81c9541b7d815e9aad20a315246bc4443ec620b0",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dans leurs baisers",
+            "length": "3:29",
+            "deezer": {
+              "id": 3155343,
+              "link": "https://www.deezer.com/track/3155343",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/1/0/641b20f8c3c89a638b932ac20613bc5d.mp3?hdnea=exp=1795724627~acl=/api/1/1/6/4/1/0/641b20f8c3c89a638b932ac20613bc5d.mp3*~data=user_id=0,application_id=42~hmac=2ada4e08a8f4249af74ae5000ed7eafca0513235e9b84eb9e196796d4441731c",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "La Foule",
+            "length": "2:55",
+            "deezer": {
+              "id": 3155344,
+              "link": "https://www.deezer.com/track/3155344",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/f/0/04f357674838a4cce52834dfbed97cd4.mp3?hdnea=exp=1795724627~acl=/api/1/1/0/4/f/0/04f357674838a4cce52834dfbed97cd4.mp3*~data=user_id=0,application_id=42~hmac=0228f073b62d6cddebc94683855159cf26b72f0ff6fdb817c25fc2b898075434",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Cri du cœur",
+            "length": "2:37",
+            "deezer": {
+              "id": 3155345,
+              "link": "https://www.deezer.com/track/3155345",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/9/0/6690a32e1e8a3cf36f65e8ffffa16b59.mp3?hdnea=exp=1795724627~acl=/api/1/1/6/6/9/0/6690a32e1e8a3cf36f65e8ffffa16b59.mp3*~data=user_id=0,application_id=42~hmac=af8a1ee933e20b1dad3ddb285421f3ed801133a1bc0f0a7c5cec84741a8647cd",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Tiens v’là un marin",
+            "length": "2:57",
+            "deezer": {
+              "id": 3155346,
+              "link": "https://www.deezer.com/track/3155346",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/7/0/987b94194e6ee6f549b1f4a5ff0b6d6e.mp3?hdnea=exp=1795724627~acl=/api/1/1/9/8/7/0/987b94194e6ee6f549b1f4a5ff0b6d6e.mp3*~data=user_id=0,application_id=42~hmac=b27596149a0b0ae4a544ee02fd581ede726c29cbb8c25f54d91b12a105b0368e",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Margot cœur gros",
+            "length": "2:45",
+            "deezer": {
+              "id": 3155347,
+              "link": "https://www.deezer.com/track/3155347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/78542ad786b289bedf083ba61af1edf6.mp3?hdnea=exp=1795724627~acl=/api/1/1/7/8/5/0/78542ad786b289bedf083ba61af1edf6.mp3*~data=user_id=0,application_id=42~hmac=3c4c7a1e1fe64d982fec628620f116635345be70284815d2e77c16558c7a30e5",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Le Droit d’aimer",
+            "length": "3:32",
+            "deezer": {
+              "id": 3155348,
+              "link": "https://www.deezer.com/track/3155348",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/1/0/7f14790f935a702635071f0258999b48.mp3?hdnea=exp=1795724627~acl=/api/1/1/7/f/1/0/7f14790f935a702635071f0258999b48.mp3*~data=user_id=0,application_id=42~hmac=921e486f21d47da15d87ecd4ab5adbcc839a30b49ebb566e20baedd6d530e25c",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "À quoi ça sert l’amour",
+            "length": "2:23",
+            "deezer": {
+              "id": 3155349,
+              "link": "https://www.deezer.com/track/3155349",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/1/0/941eda44b75f1de8584be12c88c6573a.mp3?hdnea=exp=1795724627~acl=/api/1/1/9/4/1/0/941eda44b75f1de8584be12c88c6573a.mp3*~data=user_id=0,application_id=42~hmac=677a657534851c6dc8e64dc5acea361cfa920f2af547f4e8e894c277cf44da86",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "C’est toi",
+            "length": "3:40",
+            "deezer": {
+              "id": 3155350,
+              "link": "https://www.deezer.com/track/3155350",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/3/0/1c3b6750868ce15baf5140abc6237845.mp3?hdnea=exp=1795724627~acl=/api/1/1/1/c/3/0/1c3b6750868ce15baf5140abc6237845.mp3*~data=user_id=0,application_id=42~hmac=a7ef12d3033f6c994bd9c1361c54d847a768e60984e3ee66105d2552313e4eb8",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "L’Accordéoniste",
+            "length": "3:54",
+            "deezer": {
+              "id": 3155351,
+              "link": "https://www.deezer.com/track/3155351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/6/0/1f6a1e6a23fa17663b4dec30450d0b6e.mp3?hdnea=exp=1795724627~acl=/api/1/1/1/f/6/0/1f6a1e6a23fa17663b4dec30450d0b6e.mp3*~data=user_id=0,application_id=42~hmac=c469d4453ee6fed4e6ef5dbfa32e71e8fa6a5fa4e4502f78c316ad010369f6cd",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Le Petit Brouillard",
+            "length": "2:58",
+            "deezer": {
+              "id": 3155352,
+              "link": "https://www.deezer.com/track/3155352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/b/0/8bb2b4a77dd1da70a1458a42730b87f8.mp3?hdnea=exp=1795724627~acl=/api/1/1/8/b/b/0/8bb2b4a77dd1da70a1458a42730b87f8.mp3*~data=user_id=0,application_id=42~hmac=3ffab96fbebe7bbbabdd94ac25b9091a5a4a5e6103236eee5c8fb431940feb8f",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Le Rendez-vous",
+            "length": "3:27",
+            "deezer": {
+              "id": 3155353,
+              "link": "https://www.deezer.com/track/3155353",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/c/0/aac4a8f5f39f965f4ea2c6bea44e963e.mp3?hdnea=exp=1795724627~acl=/api/1/1/a/a/c/0/aac4a8f5f39f965f4ea2c6bea44e963e.mp3*~data=user_id=0,application_id=42~hmac=56067a893b731c6f7447c42b2b3c3d9ef61d506eb7f74bd788ae705b9b939ea5",
+              "preview_expires": "2026-11-26T20:23:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Édith Piaf/Eternelle.jpg"
+}

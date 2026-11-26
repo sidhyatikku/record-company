@@ -1,0 +1,51 @@
+{
+  "title": "My Block",
+  "artist": "Sidhu Moose Wala",
+  "year": 2020,
+  "release_date": "2020",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5e40975b-acdf-44e7-8c96-b055e0159070",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/204005912"
+  },
+  "musicbrainz_id": "5e40975b-acdf-44e7-8c96-b055e0159070",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2bfb8df9-9629-4eaa-8abd-bfce2f77f61f",
+      "barcode": null,
+      "title": "My Block",
+      "disambiguation": null,
+      "date": "2020",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "My Block",
+            "length": null,
+            "deezer": {
+              "id": 1227288332,
+              "link": "https://www.deezer.com/track/1227288332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/2/0/fb2e6392e0363c9f96e89abef71cdb55.mp3?hdnea=exp=1795720599~acl=/api/1/1/f/b/2/0/fb2e6392e0363c9f96e89abef71cdb55.mp3*~data=user_id=0,application_id=42~hmac=e0d2130fba2a161f7c6e440507709e34582a7a6da3a493686c2dbead7483525a",
+              "preview_expires": "2026-11-26T19:16:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/My Block.jpg"
+}

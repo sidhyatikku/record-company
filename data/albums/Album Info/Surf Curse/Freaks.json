@@ -1,0 +1,51 @@
+{
+  "title": "Freaks",
+  "artist": "Surf Curse",
+  "year": 2021,
+  "release_date": "2021-05-15",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/38d5df74-61a5-42a9-ba08-7d52826746cd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/230405122"
+  },
+  "musicbrainz_id": "38d5df74-61a5-42a9-ba08-7d52826746cd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c81ebc38-ce25-4b7e-912b-21990b5e3086",
+      "barcode": "075679780850",
+      "title": "Freaks",
+      "disambiguation": null,
+      "date": "2021-05-15",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Freaks",
+            "length": "2:27",
+            "deezer": {
+              "id": 1373268472,
+              "link": "https://www.deezer.com/track/1373268472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/f/0/eafec5a205b1da7badda00de33962121.mp3?hdnea=exp=1795721088~acl=/api/1/1/e/a/f/0/eafec5a205b1da7badda00de33962121.mp3*~data=user_id=0,application_id=42~hmac=d80b8d790620ede5861c6a144085a7bb43186ae4d563294f1de4640879bc9582",
+              "preview_expires": "2026-11-26T19:24:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Surf Curse/Freaks.jpg"
+}

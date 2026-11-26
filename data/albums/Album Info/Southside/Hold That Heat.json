@@ -1,0 +1,51 @@
+{
+  "title": "Hold That Heat",
+  "artist": "Southside & Future feat. Travis Scott",
+  "year": 2022,
+  "release_date": "2022-04-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d8c4dd91-c12b-49d3-9ba2-71dccf238823",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/312185467"
+  },
+  "musicbrainz_id": "d8c4dd91-c12b-49d3-9ba2-71dccf238823",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/eb1c9120-ec48-4fb9-81ff-f1c67bc91804",
+      "barcode": "886449710683",
+      "title": "Hold That Heat",
+      "disambiguation": null,
+      "date": "2022-04-22",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:42",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hold That Heat",
+            "length": "3:42",
+            "deezer": {
+              "id": 1725393217,
+              "link": "https://www.deezer.com/track/1725393217",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/0/0/86099e4d514c8b513657ae0f608c2ebe.mp3?hdnea=exp=1795720888~acl=/api/1/1/8/6/0/0/86099e4d514c8b513657ae0f608c2ebe.mp3*~data=user_id=0,application_id=42~hmac=bc51bfa86b710110f7ed1c3744c57ae8ce0c7448208bb97e0db3c47cf972bf65",
+              "preview_expires": "2026-11-26T19:21:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Southside/Hold That Heat.jpg"
+}

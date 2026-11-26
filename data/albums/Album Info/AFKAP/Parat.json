@@ -1,0 +1,108 @@
+{
+  "title": "Parat",
+  "artist": "AFKAP",
+  "year": 2023,
+  "release_date": "2023-12-14",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/144d8a55-69bd-41fc-af44-8eb9542ccc4f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/520143582"
+  },
+  "musicbrainz_id": "144d8a55-69bd-41fc-af44-8eb9542ccc4f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e32f9ea9-d500-48a0-8b95-85b0dc2bc6fa",
+      "barcode": "3617381254419",
+      "title": "Parat",
+      "disambiguation": null,
+      "date": "2023-12-14",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "17:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rukawat",
+            "length": "2:58",
+            "deezer": {
+              "id": 2571707602,
+              "link": "https://www.deezer.com/track/2571707602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/e/0/04e9ada9de9cdd923bc6df640e0bf87d.mp3?hdnea=exp=1795648996~acl=/api/1/1/0/4/e/0/04e9ada9de9cdd923bc6df640e0bf87d.mp3*~data=user_id=0,application_id=42~hmac=e06f0827168e15321cfe040970198a4b677fe18a45d7803ead42dd4b2d8068a4",
+              "preview_expires": "2026-11-25T23:23:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Aaina",
+            "length": "3:01",
+            "deezer": {
+              "id": 2571707612,
+              "link": "https://www.deezer.com/track/2571707612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/7/0/2a720bbfef63a88071051aa935346b9e.mp3?hdnea=exp=1795648996~acl=/api/1/1/2/a/7/0/2a720bbfef63a88071051aa935346b9e.mp3*~data=user_id=0,application_id=42~hmac=d41428ef206a6891c3f20fbaa21a0a02cc1f0dc893e4f104f0ee3cf75f03b3a7",
+              "preview_expires": "2026-11-25T23:23:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sookhi",
+            "length": "2:42",
+            "artist": "AFKAP & Karan Kanchan",
+            "deezer": {
+              "id": 2571707622,
+              "link": "https://www.deezer.com/track/2571707622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/c/0/78c47f12ae1ba156ac087fb711a13693.mp3?hdnea=exp=1795648996~acl=/api/1/1/7/8/c/0/78c47f12ae1ba156ac087fb711a13693.mp3*~data=user_id=0,application_id=42~hmac=e04bdf1af54e399cd080ad711d50d18df0ae6c5baaf6c5e82222cbce119901d9",
+              "preview_expires": "2026-11-25T23:23:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Lagaav",
+            "length": "2:18",
+            "artist": "AFKAP & Karan Kanchan",
+            "deezer": {
+              "id": 2571707632,
+              "link": "https://www.deezer.com/track/2571707632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/4/0/3345a64b6db24af4bb40a90e89158269.mp3?hdnea=exp=1795648996~acl=/api/1/1/3/3/4/0/3345a64b6db24af4bb40a90e89158269.mp3*~data=user_id=0,application_id=42~hmac=b35225d75092d53081805b70917cac6106aaa39c0c6e98eb9fd9f1051bad0dec",
+              "preview_expires": "2026-11-25T23:23:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Waapsi",
+            "length": "3:13",
+            "deezer": {
+              "id": 2571707642,
+              "link": "https://www.deezer.com/track/2571707642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/d/0/81dbf43393efc0d852b83fff605de6ab.mp3?hdnea=exp=1795648996~acl=/api/1/1/8/1/d/0/81dbf43393efc0d852b83fff605de6ab.mp3*~data=user_id=0,application_id=42~hmac=5ff6bf43ba2eeda7a9293cc13580b9232aa718ad5119efab2e3d22fb7ec7539a",
+              "preview_expires": "2026-11-25T23:23:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Kasam",
+            "length": "2:48",
+            "deezer": {
+              "id": 2571707652,
+              "link": "https://www.deezer.com/track/2571707652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/e/0/eae171c11af6bba5dc67c613ae5d4c2b.mp3?hdnea=exp=1795648996~acl=/api/1/1/e/a/e/0/eae171c11af6bba5dc67c613ae5d4c2b.mp3*~data=user_id=0,application_id=42~hmac=04912362a40496cc21deada1286c66b13f30ec98dddf5ef867bbde83749fe31a",
+              "preview_expires": "2026-11-25T23:23:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AFKAP/Parat.jpg"
+}

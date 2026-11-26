@@ -1,0 +1,60 @@
+{
+  "title": "The Days (NOTION remix)",
+  "artist": "Chrystal",
+  "year": 2024,
+  "release_date": "2024-11-08",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [
+    "bass house",
+    "house",
+    "uk garage"
+  ],
+  "tags": [
+    "bass house",
+    "house",
+    "uk garage"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e1c73518-ac33-459b-813c-faa93c0a3370",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/664138041"
+  },
+  "musicbrainz_id": "e1c73518-ac33-459b-813c-faa93c0a3370",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/00fc1aa5-9f54-4407-ba37-af88454f2304",
+      "barcode": "602475470793",
+      "title": "The Days (NOTION remix)",
+      "disambiguation": null,
+      "date": "2024-11-08",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Days (NOTION remix)",
+            "length": "3:53",
+            "artist": "Chrystal & NOTION",
+            "deezer": {
+              "id": 3069116671,
+              "link": "https://www.deezer.com/track/3069116671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/2/0/dc2b099165cca051ba728d9a905ac5a3.mp3?hdnea=exp=1795652822~acl=/api/1/1/d/c/2/0/dc2b099165cca051ba728d9a905ac5a3.mp3*~data=user_id=0,application_id=42~hmac=9314160cfa1109634c921bb9a8e1ec67bf5a538192dc1c34e218bb3f1e795b6a",
+              "preview_expires": "2026-11-26T00:27:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chrystal/The Days (NOTION Remix).jpg"
+}

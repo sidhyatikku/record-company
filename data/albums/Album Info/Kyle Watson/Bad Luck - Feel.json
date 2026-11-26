@@ -1,0 +1,63 @@
+{
+  "title": "Bad Luck / Feel",
+  "artist": "Kyle Watson",
+  "year": 2025,
+  "release_date": "2025-10-24",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/862922f4-ec8b-4749-b51b-a277e5838e72",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/819858221"
+  },
+  "musicbrainz_id": "862922f4-ec8b-4749-b51b-a277e5838e72",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d7adf0b5-c677-47b4-a0e1-96bdaef900f8",
+      "barcode": "8721416525933",
+      "title": "Bad Luck / Feel",
+      "disambiguation": null,
+      "date": "2025-10-24",
+      "country": null
+    },
+    "total_tracks": 2,
+    "total_length": "8:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bad Luck (extended mix)",
+            "length": "4:34",
+            "artist": "Kyle Watson feat. Nevve",
+            "deezer": {
+              "id": 3551836501,
+              "link": "https://www.deezer.com/track/3551836501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/6/0/2b6948a58f750e5c3ffa6f0b130e7f24.mp3?hdnea=exp=1795656380~acl=/api/1/1/2/b/6/0/2b6948a58f750e5c3ffa6f0b130e7f24.mp3*~data=user_id=0,application_id=42~hmac=f65449507ab5be1c9adfb392e959e0474ccc806097370c32b8913f33dd6e7fc2",
+              "preview_expires": "2026-11-26T01:26:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Feel (extended mix)",
+            "length": "4:16",
+            "deezer": {
+              "id": 3551836511,
+              "link": "https://www.deezer.com/track/3551836511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/5/0/2757a1c5dd475d8ff99085bb1f80d93d.mp3?hdnea=exp=1795656380~acl=/api/1/1/2/7/5/0/2757a1c5dd475d8ff99085bb1f80d93d.mp3*~data=user_id=0,application_id=42~hmac=9c62d3504f9aa8db1e2f35d2f0d43cbcb584d3a63ac5a9f80c80304b53db84f4",
+              "preview_expires": "2026-11-26T01:26:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kyle Watson/Bad Luck - Feel.jpg"
+}

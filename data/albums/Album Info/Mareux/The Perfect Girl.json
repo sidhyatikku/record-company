@@ -1,0 +1,53 @@
+{
+  "title": "The Perfect Girl",
+  "artist": "Mareux",
+  "year": 2021,
+  "release_date": "2021-12-08",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [
+    "darkwave"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8bdef176-bcf2-410c-8691-e82c5f4635b9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/280125122"
+  },
+  "musicbrainz_id": "8bdef176-bcf2-410c-8691-e82c5f4635b9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/38b7cb69-c719-480b-b6de-921bc339104f",
+      "barcode": "054391907851",
+      "title": "The Perfect Girl",
+      "disambiguation": null,
+      "date": "2021-12-08",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "3:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Perfect Girl",
+            "length": "3:14",
+            "deezer": {
+              "id": 1589664712,
+              "link": "https://www.deezer.com/track/1589664712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/2/0/942f137f7277228154c975b7a5e5dfba.mp3?hdnea=exp=1795718225~acl=/api/1/1/9/4/2/0/942f137f7277228154c975b7a5e5dfba.mp3*~data=user_id=0,application_id=42~hmac=da19728c504940072ec63e0dda87b41da222d3ad4a4eb9b59dc72ce598f32267",
+              "preview_expires": "2026-11-26T18:37:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mareux/The Perfect Girl.jpg"
+}

@@ -1,0 +1,200 @@
+{
+  "title": "Synchronicity",
+  "artist": "The Police",
+  "year": 1983,
+  "release_date": "1983-06-01",
+  "type": "Album",
+  "description": "Synchronicity is the fifth and final studio album by the English rock band the Police, released on 17 June 1983 by A&M Records. The band's most successful release, the album includes the hit singles \"Every Breath You Take\", \"King of Pain\", \"Wrapped Around Your Finger\", and \"Synchronicity II\". The album's title and much of the material for the songs were inspired by Arthur Koestler's book The Roots of Coincidence (1972). At the 1984 Grammy Awards the album was nominated for a total of five awards, including Album of the Year, and won three. At the time of its release and following the Synchronicity Tour, the Police's popularity was at such a high that they were arguably, according to BBC and The Guardian, the \"biggest band in the world\".",
+  "genres": [
+    "new wave",
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "pop",
+    "alternative pop",
+    "jazz",
+    "post-punk",
+    "punk",
+    "reggae rock",
+    "soft rock"
+  ],
+  "tags": [
+    "new wave",
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "pop",
+    "album rock",
+    "alternative",
+    "alternative pop",
+    "alternative pop/rock",
+    "alternative/indie rock",
+    "contemporary pop/rock",
+    "jazz",
+    "new wave rock",
+    "post-punk",
+    "punk",
+    "reggae fusion",
+    "reggae rock",
+    "soft rock",
+    "the police"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 14
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f6df6292-fd40-37c3-bd61-22c53abfe773",
+    "wikipedia": "https://en.wikipedia.org/wiki/Synchronicity_(The_Police_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000195337",
+    "discogs": "https://www.discogs.com/master/39248",
+    "wikidata": "https://www.wikidata.org/wiki/Q1064318",
+    "deezer": "https://www.deezer.com/album/93733532"
+  },
+  "musicbrainz_id": "f6df6292-fd40-37c3-bd61-22c53abfe773",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/32e303f7-cbbd-4a48-b569-271d46dcaa23",
+      "barcode": "00602577828195",
+      "title": "Synchronicity",
+      "disambiguation": "remastered 2003",
+      "date": "2003",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "44:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Synchronicity I",
+            "length": "3:23",
+            "deezer": {
+              "id": 665714202,
+              "link": "https://www.deezer.com/track/665714202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/1/0/1711bbe8c64d2d9d5bb0d4fdfddb093f.mp3?hdnea=exp=1795721662~acl=/api/1/1/1/7/1/0/1711bbe8c64d2d9d5bb0d4fdfddb093f.mp3*~data=user_id=0,application_id=42~hmac=b24f60f29c2d1c8ba2f1b2d952f92d57848984cc1c1d588c6ac08c69b9302f66",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Walking in Your Footsteps",
+            "length": "3:37",
+            "deezer": {
+              "id": 665714212,
+              "link": "https://www.deezer.com/track/665714212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a74c13f3cade185743e50adf365163.mp3?hdnea=exp=1795721662~acl=/api/1/1/4/8/a/0/48a74c13f3cade185743e50adf365163.mp3*~data=user_id=0,application_id=42~hmac=2360843965218a99488976dc66b8ffd224747c30dbf695ccc0dfd7c109e56bf2",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "O My God",
+            "length": "4:02",
+            "deezer": {
+              "id": 665714222,
+              "link": "https://www.deezer.com/track/665714222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/6/0/896fb1f14f27002a1de17ea67162d76d.mp3?hdnea=exp=1795721662~acl=/api/1/1/8/9/6/0/896fb1f14f27002a1de17ea67162d76d.mp3*~data=user_id=0,application_id=42~hmac=75e45629a37aea615f54ee5ca13df768a3f4ed81c2546791be02b90b610578aa",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mother",
+            "length": "3:06",
+            "deezer": {
+              "id": 665714232,
+              "link": "https://www.deezer.com/track/665714232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/e/0/33ee4effa920b6d4b8a4f050988e017a.mp3?hdnea=exp=1795721662~acl=/api/1/1/3/3/e/0/33ee4effa920b6d4b8a4f050988e017a.mp3*~data=user_id=0,application_id=42~hmac=0310d2024004fe101f546904feb031f926bff8144ce49adb632968dba42dbca0",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Miss Gradenko",
+            "length": "2:00",
+            "deezer": {
+              "id": 665714242,
+              "link": "https://www.deezer.com/track/665714242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/8/0/5684ca84d0c715a8685c469ccf893538.mp3?hdnea=exp=1795721662~acl=/api/1/1/5/6/8/0/5684ca84d0c715a8685c469ccf893538.mp3*~data=user_id=0,application_id=42~hmac=054e195ab6d58823660a022ca66bd5e8c7be4cd383d57249fd82341cfe97233f",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Synchronicity II",
+            "length": "5:00",
+            "deezer": {
+              "id": 665714252,
+              "link": "https://www.deezer.com/track/665714252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/d/0/74db3f1bf071565872662ae895df7073.mp3?hdnea=exp=1795721662~acl=/api/1/1/7/4/d/0/74db3f1bf071565872662ae895df7073.mp3*~data=user_id=0,application_id=42~hmac=608a73a2ee0df228b51a17626b6bdf3b67e388b14916bf7e24fee1a4df7076de",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Every Breath You Take",
+            "length": "4:14",
+            "deezer": {
+              "id": 665714262,
+              "link": "https://www.deezer.com/track/665714262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/c/0/b5ce9f07a61bf5f2cbdefd7ecdf9188f.mp3?hdnea=exp=1795721662~acl=/api/1/1/b/5/c/0/b5ce9f07a61bf5f2cbdefd7ecdf9188f.mp3*~data=user_id=0,application_id=42~hmac=693d1893872f4b80efda860fbfea1522ee0f0189556eeecf0e6a9c40b43b5a19",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "King of Pain",
+            "length": "4:59",
+            "deezer": {
+              "id": 665714272,
+              "link": "https://www.deezer.com/track/665714272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/3/0/0a3727142643a8e9e5614fb9c8497b57.mp3?hdnea=exp=1795721662~acl=/api/1/1/0/a/3/0/0a3727142643a8e9e5614fb9c8497b57.mp3*~data=user_id=0,application_id=42~hmac=b2582ae555b924c2698c6d7d2d35494738505288b6c4835a48f879da489d305a",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Wrapped Around Your Finger",
+            "length": "5:14",
+            "deezer": {
+              "id": 665714282,
+              "link": "https://www.deezer.com/track/665714282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/0/0/a004444a90e87a7922ba7043a0be545e.mp3?hdnea=exp=1795721662~acl=/api/1/1/a/0/0/0/a004444a90e87a7922ba7043a0be545e.mp3*~data=user_id=0,application_id=42~hmac=4457119b207555bf82ad74b1be79217d22989730e55f46e4cfdefe7629966a69",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Tea in the Sahara",
+            "length": "4:19",
+            "deezer": {
+              "id": 665714292,
+              "link": "https://www.deezer.com/track/665714292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/a/0/78a85f2433a48b58af34a95288f3e493.mp3?hdnea=exp=1795721662~acl=/api/1/1/7/8/a/0/78a85f2433a48b58af34a95288f3e493.mp3*~data=user_id=0,application_id=42~hmac=f9d3c0178b9fb3d8123a8ace122b4351f6c6456aebce85c7888dfe186d7848d0",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Murder by Numbers",
+            "length": "4:36",
+            "deezer": {
+              "id": 665714302,
+              "link": "https://www.deezer.com/track/665714302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/6/0/c560b8d47a2d72ca6ce8972bfbd2218c.mp3?hdnea=exp=1795721662~acl=/api/1/1/c/5/6/0/c560b8d47a2d72ca6ce8972bfbd2218c.mp3*~data=user_id=0,application_id=42~hmac=0946c95f6bc368a4fa1afd94395c83ed3165e0f2aba484296337d9b614fd9ddd",
+              "preview_expires": "2026-11-26T19:34:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Police/Synchronicity.jpg"
+}

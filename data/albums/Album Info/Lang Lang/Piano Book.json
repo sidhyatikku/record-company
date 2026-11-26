@@ -1,0 +1,526 @@
+{
+  "title": "Piano Book",
+  "artist": "Lang Lang",
+  "year": 2019,
+  "release_date": "2019-03-29",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "classical"
+  ],
+  "tags": [
+    "classical"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fd4bc922-d89e-4084-b320-475d4e542e33",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003242546",
+    "discogs": "https://www.discogs.com/master/1532117",
+    "deezer": "https://www.deezer.com/album/91335822"
+  },
+  "musicbrainz_id": "fd4bc922-d89e-4084-b320-475d4e542e33",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/97fc59c6-5dd0-4fec-8ecf-87a385baf8e0",
+      "barcode": "0028947974444",
+      "title": "Piano Book",
+      "disambiguation": "24-Bit 96.0 kHz",
+      "date": "2019-03-29",
+      "country": "XW"
+    },
+    "total_tracks": 41,
+    "total_length": "1:45:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Well-Tempered Clavier: Book 1, BWV 846-869: I. Prelude in C major, BWV 846",
+            "length": "2:19",
+            "artist": "Johann Sebastian Bach"
+          },
+          {
+            "number": "2",
+            "title": "Bagatelle no. 25 in A minor, \"Für Elise\", WoO 59",
+            "length": "3:26",
+            "artist": "Ludwig van Beethoven",
+            "deezer": {
+              "id": 653772872,
+              "link": "https://www.deezer.com/track/653772872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/2/0/8026e8b38438fae281f871bd84793961.mp3?hdnea=exp=1795656399~acl=/api/1/1/8/0/2/0/8026e8b38438fae281f871bd84793961.mp3*~data=user_id=0,application_id=42~hmac=4e396f309dfc0599837971fc9774d94ef6eecd4d7b60164ca4cdcfbb64215516",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Departure",
+            "length": "2:31",
+            "artist": "Max Richter",
+            "deezer": {
+              "id": 653772882,
+              "link": "https://www.deezer.com/track/653772882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/e/0/c1eb09256a2f5facaab40e3277d8eab3.mp3?hdnea=exp=1795656399~acl=/api/1/1/c/1/e/0/c1eb09256a2f5facaab40e3277d8eab3.mp3*~data=user_id=0,application_id=42~hmac=51db8aa2f1004786540f916b30777254057e71ef98ea43ba73cffbb6a9ed7cf4",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Lieder ohne Worte, Op. 67 in C major: No. 4 Presto \"Spinning Song\"",
+            "length": "1:49",
+            "artist": "Felix Mendelssohn",
+            "deezer": {
+              "id": 653772892,
+              "link": "https://www.deezer.com/track/653772892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/9/0/f0976306ea8f64bab9c32ed72e697fe3.mp3?hdnea=exp=1795656399~acl=/api/1/1/f/0/9/0/f0976306ea8f64bab9c32ed72e697fe3.mp3*~data=user_id=0,application_id=42~hmac=7815557a952874e2c7ce831fe0d18aa13b8d92212769ed6f21aad98b76abdafa",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Suite bergamasque, L. 75: III. Clair de lune",
+            "length": "6:47",
+            "artist": "Claude Debussy"
+          },
+          {
+            "number": "6",
+            "title": "Children's Corner, L. 113: I. Doctor Gradus ad Parnassum",
+            "length": "2:48",
+            "artist": "Claude Debussy",
+            "deezer": {
+              "id": 653772912,
+              "link": "https://www.deezer.com/track/653772912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/4/0/94462993922c525aab6db20c4fab4561.mp3?hdnea=exp=1795656399~acl=/api/1/1/9/4/4/0/94462993922c525aab6db20c4fab4561.mp3*~data=user_id=0,application_id=42~hmac=f869884167876635ae22b31f02d23028074b736a6b7884ce60d6dd6d38f87e6b",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "24 Préludes, op. 28: No. 15 Sostenuto in D-flat major, C. 180 \"Raindrop Prelude\"",
+            "length": "6:35",
+            "artist": "Frédéric Chopin",
+            "deezer": {
+              "id": 653772922,
+              "link": "https://www.deezer.com/track/653772922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/9/0/04935acbad27282477eca73a291ad9af.mp3?hdnea=exp=1795656399~acl=/api/1/1/0/4/9/0/04935acbad27282477eca73a291ad9af.mp3*~data=user_id=0,application_id=42~hmac=786d4f3b978c0d81c8aca5d15c4dcf654926b11ec71d937c4490a8dee2c12e97",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Piano Sonata no. 16 in C major, K. 545 \"Sonata facile\": I. Allegro",
+            "length": "4:54",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653772932,
+              "link": "https://www.deezer.com/track/653772932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/f/0/b2f325032616f76bd6cdeac349e77511.mp3?hdnea=exp=1795656399~acl=/api/1/1/b/2/f/0/b2f325032616f76bd6cdeac349e77511.mp3*~data=user_id=0,application_id=42~hmac=44f7e435096772c845a8b332119f5ea01a28363ef7deafefa9abcab44a35b280",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sonatina no. 1 in C major, op. 36: II. Andante",
+            "length": "1:32",
+            "artist": "Muzio Clementi",
+            "deezer": {
+              "id": 653772942,
+              "link": "https://www.deezer.com/track/653772942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/f/0/98f48ad9a9f4268c0d0bd7bef951d12a.mp3?hdnea=exp=1795656399~acl=/api/1/1/9/8/f/0/98f48ad9a9f4268c0d0bd7bef951d12a.mp3*~data=user_id=0,application_id=42~hmac=dc8379d894972921bd66a07e7752d36d05f2bb90359deb1df237719ead4038cb",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The School of Velocity, op. 299: No. 1 Presto",
+            "length": "0:35",
+            "artist": "Carl Czerny",
+            "deezer": {
+              "id": 653772952,
+              "link": "https://www.deezer.com/track/653772952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/3/0/493dc96f26fbd8ac7f12479665d82cc4.mp3?hdnea=exp=1795656399~acl=/api/1/1/4/9/3/0/493dc96f26fbd8ac7f12479665d82cc4.mp3*~data=user_id=0,application_id=42~hmac=7340cbc5b51d4fbb0b91761c96930405b1f46af8cb5da93bd642db0f52a2d01c",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Six Pieces for Piano, Volume 2: No. 4 La Valse d'Amélie",
+            "length": "2:50",
+            "artist": "Yann Tiersen",
+            "deezer": {
+              "id": 653772962,
+              "link": "https://www.deezer.com/track/653772962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/d/0/68d9c68b77ceb6fcef9080906d6062b0.mp3?hdnea=exp=1795656399~acl=/api/1/1/6/8/d/0/68d9c68b77ceb6fcef9080906d6062b0.mp3*~data=user_id=0,application_id=42~hmac=3d5ceb0deee91071209c3d197d8158ea546c2905e4d1109bc21102abab2c4d5a",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Rêverie, L. 68",
+            "length": "5:30",
+            "artist": "Claude Debussy",
+            "deezer": {
+              "id": 653772972,
+              "link": "https://www.deezer.com/track/653772972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/a/0/85ac3aa855837f7839e829fbff829a88.mp3?hdnea=exp=1795656399~acl=/api/1/1/8/5/a/0/85ac3aa855837f7839e829fbff829a88.mp3*~data=user_id=0,application_id=42~hmac=daf3ca8ea9631cd03d171b3c4a15ea762f5c31a8497a4c4d8e21a3fd2266b4d3",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "6 Moments musicaux, op. 94, D. 780: No. 3 Allegro moderato",
+            "length": "2:02",
+            "artist": "Franz Schubert",
+            "deezer": {
+              "id": 653772982,
+              "link": "https://www.deezer.com/track/653772982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/5/0/3052a204f5a0c48b9223fedf62b8b6cc.mp3?hdnea=exp=1795656399~acl=/api/1/1/3/0/5/0/3052a204f5a0c48b9223fedf62b8b6cc.mp3*~data=user_id=0,application_id=42~hmac=97e51bb30f60309543bd5f0bb671b6520b989ee2aa76cd9529c5723b6981dc9f",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Lyric Pieces, op. 43: No. 6. To Spring",
+            "length": "3:59",
+            "artist": "Edvard Grieg",
+            "deezer": {
+              "id": 653772992,
+              "link": "https://www.deezer.com/track/653772992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/5/0/4b5fd461fc99a3df12d45febf50656bd.mp3?hdnea=exp=1795656399~acl=/api/1/1/4/b/5/0/4b5fd461fc99a3df12d45febf50656bd.mp3*~data=user_id=0,application_id=42~hmac=51bd6c4ac1992ba2455a34b07a6bf1456b6e6b58af994987a2f9707f63a929ea",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Album für die Jugend, op. 68 / Pt. 1: Für Kleinere: No. 8 Wilder Reiter",
+            "length": "0:36",
+            "artist": "Robert Schumann",
+            "deezer": {
+              "id": 653773002,
+              "link": "https://www.deezer.com/track/653773002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/2/0/d223b5534638e7bf703cf809fcc83e9f.mp3?hdnea=exp=1795656399~acl=/api/1/1/d/2/2/0/d223b5534638e7bf703cf809fcc83e9f.mp3*~data=user_id=0,application_id=42~hmac=dc30a81ce54d79828f9ee7bac3910cbf5e946ea66d9e4752fc5b8ace91ecff60",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Villageoises: Six petites pièces enfantines pour piano, FP 65: No. 2 Staccato",
+            "length": "0:44",
+            "artist": "Francis Poulenc",
+            "deezer": {
+              "id": 653773012,
+              "link": "https://www.deezer.com/track/653773012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/0/0/93047672ed9645d2df020a9c0cc7580d.mp3?hdnea=exp=1795656399~acl=/api/1/1/9/3/0/0/93047672ed9645d2df020a9c0cc7580d.mp3*~data=user_id=0,application_id=42~hmac=385c78ddc05e968c271e0fda67ae917d0ad60b6b8fb2d78dec609a7e1f7252ef",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "The Merry Shepherd Boy",
+            "length": "1:33",
+            "artist": "Hu-Wei Huang",
+            "deezer": {
+              "id": 653773022,
+              "link": "https://www.deezer.com/track/653773022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/9/0/3f92465049139207bd66a5f8a7781d54.mp3?hdnea=exp=1795656399~acl=/api/1/1/3/f/9/0/3f92465049139207bd66a5f8a7781d54.mp3*~data=user_id=0,application_id=42~hmac=b8a4271a522e2095ee309fb70bdc04e6273595f73eb10b11ce597bc604f943e8",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Merry Christmas Mr. Lawrence (arr. for piano)",
+            "length": "5:36",
+            "artist": "Ryuichi Sakamoto",
+            "deezer": {
+              "id": 653773032,
+              "link": "https://www.deezer.com/track/653773032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/8/0/c785714a5e2081c2632554e30f0bd53e.mp3?hdnea=exp=1795656399~acl=/api/1/1/c/7/8/0/c785714a5e2081c2632554e30f0bd53e.mp3*~data=user_id=0,application_id=42~hmac=5ec566a2b82458bf0e5b6092db5dd487cf04faa548fe62c2958d5e87f95e2df2",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "The Maiden's Prayer, op. 4",
+            "length": "4:26",
+            "artist": "Tekla Bądarzewska-Baranowska",
+            "deezer": {
+              "id": 653773042,
+              "link": "https://www.deezer.com/track/653773042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/7/0/947031ce109c5b12b5dc5637042485a4.mp3?hdnea=exp=1795656399~acl=/api/1/1/9/4/7/0/947031ce109c5b12b5dc5637042485a4.mp3*~data=user_id=0,application_id=42~hmac=59742b901e53bd20645b16f270b2d49d14d054e044ba85194cfe1e6652260c1e",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Tema (“Twinkle, Twinkle, Little Star”)",
+            "length": "0:36",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773052,
+              "link": "https://www.deezer.com/track/653773052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/4/0/344479873d9abc0d275bd75528d2e448.mp3?hdnea=exp=1795656399~acl=/api/1/1/3/4/4/0/344479873d9abc0d275bd75528d2e448.mp3*~data=user_id=0,application_id=42~hmac=e7bb12fa28233e8d19d38f0ef7dfb312fc65a652b7452b84ce8c710e3a29b6c1",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 1",
+            "length": "0:31",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773062,
+              "link": "https://www.deezer.com/track/653773062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/8/0/888f5c90ea0df73148a748ff7f9abcc4.mp3?hdnea=exp=1795656399~acl=/api/1/1/8/8/8/0/888f5c90ea0df73148a748ff7f9abcc4.mp3*~data=user_id=0,application_id=42~hmac=d1f0af95ddd6a7468a688a3ed94753ef7cc99941bbec255b97d39b7c64be7b9f",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 2",
+            "length": "0:32",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773072,
+              "link": "https://www.deezer.com/track/653773072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/8/0/168e459192e9deeef2f238e6c800809d.mp3?hdnea=exp=1795656399~acl=/api/1/1/1/6/8/0/168e459192e9deeef2f238e6c800809d.mp3*~data=user_id=0,application_id=42~hmac=c05da6617779ac9436ebe976d53416e3eef1b55e7a3b69c2cc7a9b50fdc92e97",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 3",
+            "length": "0:36",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773082,
+              "link": "https://www.deezer.com/track/653773082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/f/0/9ef303bf34fd2d8b81e84faf93d83393.mp3?hdnea=exp=1795656399~acl=/api/1/1/9/e/f/0/9ef303bf34fd2d8b81e84faf93d83393.mp3*~data=user_id=0,application_id=42~hmac=bc3edd6d5b31e66a07c2c7da65a357ebbe0d2e847f5257a9d0e574d07db27440",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 4",
+            "length": "0:34",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773092,
+              "link": "https://www.deezer.com/track/653773092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/c/0/76c9f60555c24a1d04a2be4ee0cc394b.mp3?hdnea=exp=1795656399~acl=/api/1/1/7/6/c/0/76c9f60555c24a1d04a2be4ee0cc394b.mp3*~data=user_id=0,application_id=42~hmac=521d7f9cd353283edab203c10c1e166c55aaa5b14a306ec05a3589b0e45f0781",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 5",
+            "length": "0:33",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773102,
+              "link": "https://www.deezer.com/track/653773102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/6/0/c96a2fc854c75fc8d97f72f59e131964.mp3?hdnea=exp=1795656399~acl=/api/1/1/c/9/6/0/c96a2fc854c75fc8d97f72f59e131964.mp3*~data=user_id=0,application_id=42~hmac=150dd9c8ea346530e66421ac2088da9d66ffeddab73212720636038333200ca2",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 6",
+            "length": "0:30",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773112,
+              "link": "https://www.deezer.com/track/653773112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/b/0/71bdb65880b91c3e2124ad56de3e9667.mp3?hdnea=exp=1795656399~acl=/api/1/1/7/1/b/0/71bdb65880b91c3e2124ad56de3e9667.mp3*~data=user_id=0,application_id=42~hmac=e38af0063ea55cea4c4416c5a82efba0c259c6f30d24339b54487aa70415397b",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 7",
+            "length": "0:33",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773122,
+              "link": "https://www.deezer.com/track/653773122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/3/0/b03c0a5bef40b81906ea7aa9847b6308.mp3?hdnea=exp=1795656399~acl=/api/1/1/b/0/3/0/b03c0a5bef40b81906ea7aa9847b6308.mp3*~data=user_id=0,application_id=42~hmac=5bb5265feb6942038cc4185e74bad1448594a080a8333d87d1511bb1cc88ca4a",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 8",
+            "length": "0:44",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773132,
+              "link": "https://www.deezer.com/track/653773132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/2/0/aa26946149ad790596b8d109966080c6.mp3?hdnea=exp=1795656399~acl=/api/1/1/a/a/2/0/aa26946149ad790596b8d109966080c6.mp3*~data=user_id=0,application_id=42~hmac=5f4239eb8b2dcf1c57a857ea580d132aa4a094c875b8227ca5e2d75619948d36",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 9",
+            "length": "0:35",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773142,
+              "link": "https://www.deezer.com/track/653773142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/6/0/ed665665e6dc8ea0c928de1b400e5870.mp3?hdnea=exp=1795656399~acl=/api/1/1/e/d/6/0/ed665665e6dc8ea0c928de1b400e5870.mp3*~data=user_id=0,application_id=42~hmac=66d8afc065b1e82cd166e38fd2e85ab784c8df4d230ce00ec97c8b17765f71e1",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 10",
+            "length": "0:33",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773152,
+              "link": "https://www.deezer.com/track/653773152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/c/0/63c2794a0686f22db441ed46d9c4ce64.mp3?hdnea=exp=1795656399~acl=/api/1/1/6/3/c/0/63c2794a0686f22db441ed46d9c4ce64.mp3*~data=user_id=0,application_id=42~hmac=5963c7680b6bfd6a35b9076afcb8e3ae5f6eac65f1ead511612641010c1e9edd",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "31",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 11",
+            "length": "2:30",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773162,
+              "link": "https://www.deezer.com/track/653773162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/6/0/8065769fc43fc0b65c217c027a40209e.mp3?hdnea=exp=1795656399~acl=/api/1/1/8/0/6/0/8065769fc43fc0b65c217c027a40209e.mp3*~data=user_id=0,application_id=42~hmac=5ba05f8aac2f475466f75a770ef4e96ef8f12d716156f1a9d04b8781d0b32172",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "32",
+            "title": "12 Variations in C major on \"Ah, vous dirai-je Maman\", K. 265: Variation No. 12",
+            "length": "1:27",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 653773172,
+              "link": "https://www.deezer.com/track/653773172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/1/0/1216c73e5d35f7825be551875734ac2e.mp3?hdnea=exp=1795656399~acl=/api/1/1/1/2/1/0/1216c73e5d35f7825be551875734ac2e.mp3*~data=user_id=0,application_id=42~hmac=966d422b698d9d54a956cec2e93e3c2d7266f71aa25e2a0a7b7ab4bbaf136832",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "33",
+            "title": "Minuet no. 1 in G major (formerly attrib. J.S. Bach as BWV Anh. 114)",
+            "length": "1:41",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 653773182,
+              "link": "https://www.deezer.com/track/653773182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/a/0/c0a365669020ba6495163a21188f2d24.mp3?hdnea=exp=1795656399~acl=/api/1/1/c/0/a/0/c0a365669020ba6495163a21188f2d24.mp3*~data=user_id=0,application_id=42~hmac=4ee78e02cd167c9bab647f62bab8eec20b02f4cc6c46fa8beb4d490f53aa7a91",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "34",
+            "title": "Wild Swans Suite: II. Eliza Aria (arr. for piano)",
+            "length": "3:11",
+            "artist": "Elena Kats‐Chernin",
+            "deezer": {
+              "id": 653773192,
+              "link": "https://www.deezer.com/track/653773192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/2/0/992245359c837c390172231fdad82e29.mp3?hdnea=exp=1795656399~acl=/api/1/1/9/9/2/0/992245359c837c390172231fdad82e29.mp3*~data=user_id=0,application_id=42~hmac=e89dfb4ab4f9a79a550ffbd0554d76fe311baa2df5b56300e899f9b7e1f56856",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "35",
+            "title": "The Celebrated Chop Waltz \"Chopsticks\"",
+            "length": "2:10",
+            "artist": "Arthur de Lulli",
+            "deezer": {
+              "id": 653773202,
+              "link": "https://www.deezer.com/track/653773202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/1/0/01148eb890f62a8c70bd5c36f4f2106b.mp3?hdnea=exp=1795656399~acl=/api/1/1/0/1/1/0/01148eb890f62a8c70bd5c36f4f2106b.mp3*~data=user_id=0,application_id=42~hmac=f758a860a1b5d2dae0ac53a3d360c854c0101b105c6ad5fabac502e02b1b0c5b",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "36",
+            "title": "Jasmine Flower (arr. Schindler for piano)",
+            "length": "6:44",
+            "artist": "Chinese Traditional",
+            "deezer": {
+              "id": 653773212,
+              "link": "https://www.deezer.com/track/653773212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/8/0/6a8ae7424d9fe3a20d1018bca2e93bab.mp3?hdnea=exp=1795656399~acl=/api/1/1/6/a/8/0/6a8ae7424d9fe3a20d1018bca2e93bab.mp3*~data=user_id=0,application_id=42~hmac=eaf2d149e8b59cf82a4c72cb854df1c59e8bf858072632f79e93e6e46946dac9",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "37",
+            "title": "Danzas argentinas, op. 2: 2. Danza de la moza donosa",
+            "length": "4:00",
+            "artist": "Alberto Ginastera",
+            "deezer": {
+              "id": 653773222,
+              "link": "https://www.deezer.com/track/653773222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/f/0/72f13e38a7bbf95949b48295ed93b26a.mp3?hdnea=exp=1795656399~acl=/api/1/1/7/2/f/0/72f13e38a7bbf95949b48295ed93b26a.mp3*~data=user_id=0,application_id=42~hmac=fe5c0e773616440a2888a18674dc6f0649361ae2a81da90c629c7e753374b17e",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "38",
+            "title": "Limu, limu, lima (arr. Schindler for piano)",
+            "length": "5:35",
+            "artist": "Swedish Traditional",
+            "deezer": {
+              "id": 653773232,
+              "link": "https://www.deezer.com/track/653773232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/e/0/68e12b1435e964f493171a3dde0a7c0a.mp3?hdnea=exp=1795656399~acl=/api/1/1/6/8/e/0/68e12b1435e964f493171a3dde0a7c0a.mp3*~data=user_id=0,application_id=42~hmac=e58728f73ca00cd149074b54e3870d85ed68cdf87603a4c6430b430250c7c1b1",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "39",
+            "title": "Variations on an Original Theme, op. 36 \"Enigma\": No. 9 \"Nimrod\" (arr. Elgar for piano)",
+            "length": "4:19",
+            "artist": "Edward Elgar",
+            "deezer": {
+              "id": 653773242,
+              "link": "https://www.deezer.com/track/653773242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/c/0/54ca88d567dd646841f2b7e2fd2feffd.mp3?hdnea=exp=1795656399~acl=/api/1/1/5/4/c/0/54ca88d567dd646841f2b7e2fd2feffd.mp3*~data=user_id=0,application_id=42~hmac=34c6f30cfa9552487c29284d93f57b22fdf726afd946ac390ef230c1371273c6",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "40",
+            "title": "Arirang (arr. Schindler for piano)",
+            "length": "4:00",
+            "artist": "Korean Traditional",
+            "deezer": {
+              "id": 653773252,
+              "link": "https://www.deezer.com/track/653773252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/5/0/6b5b3d3d069fb07eb3bdbe20ba0b5cfc.mp3?hdnea=exp=1795656399~acl=/api/1/1/6/b/5/0/6b5b3d3d069fb07eb3bdbe20ba0b5cfc.mp3*~data=user_id=0,application_id=42~hmac=7b71af27a34abe348316088c85f832c455a3b9a65868b2e3e6a20964befc6c19",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          },
+          {
+            "number": "41",
+            "title": "Maple Leaf Rag",
+            "length": "3:28",
+            "artist": "Scott Joplin",
+            "deezer": {
+              "id": 653773262,
+              "link": "https://www.deezer.com/track/653773262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/c/0/bbc630c34bba192b64d2536c8542f1ba.mp3?hdnea=exp=1795656399~acl=/api/1/1/b/b/c/0/bbc630c34bba192b64d2536c8542f1ba.mp3*~data=user_id=0,application_id=42~hmac=8bea230b36dce8220e3899d0f2af5ba9094100749ed718013188f6432650d096",
+              "preview_expires": "2026-11-26T01:26:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lang Lang/Piano Book.jpg"
+}

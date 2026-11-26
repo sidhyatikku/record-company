@@ -1,0 +1,188 @@
+{
+  "title": "Weathered",
+  "artist": "Creed",
+  "year": 2001,
+  "release_date": "2001-01-19",
+  "type": "Album",
+  "description": "Weathered is the third studio album by American rock band Creed, released on November 20, 2001. It was the last Creed album to be released until Full Circle in October 2009, as Creed disbanded in June 2004. Weathered is the only Creed album to be recorded as a trio, as bassist Brian Marshall departed in August 2000, with guitarist Mark Tremonti taking over the bass guitar part during recording. Tremonti and vocalist Scott Stapp wrote most of the material for the album during a three-week period in late 2000, following their successful tour to support their second album, Human Clay. Manager Jeff Hanson once again paired the band with long-time producer John Kurzweg, who rented out a private residence/recording studio in Ocoee, Florida owned by Jay Stanley, where the band set up a studio inside to record the album. Recording sessions for the album began in July 2001 and took four months to complete.",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "hard rock",
+    "post-grunge",
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "alternative pop/rock",
+    "hard rock",
+    "post-grunge",
+    "post-grunge alternative rock",
+    "alternative pop/rock; alternative rock",
+    "pop",
+    "pop rock",
+    "post grunge",
+    "rocked",
+    "terrible artwork"
+  ],
+  "rating": {
+    "value_out_of_5": 3.55,
+    "votes": 7
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c25a923a-04a9-3ca2-a551-ed0578907999",
+    "wikipedia": "https://en.wikipedia.org/wiki/Weathered",
+    "allmusic": "https://www.allmusic.com/album/mw0000006445",
+    "discogs": "https://www.discogs.com/master/106070",
+    "wikidata": "https://www.wikidata.org/wiki/Q2321182",
+    "deezer": "https://www.deezer.com/album/8015612"
+  },
+  "musicbrainz_id": "c25a923a-04a9-3ca2-a551-ed0578907999",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c49c7857-f334-4b71-b51a-eba0fffac67c",
+      "barcode": "00601501407529",
+      "title": "Weathered",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "50:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bullets",
+            "length": "3:50",
+            "deezer": {
+              "id": 80274640,
+              "link": "https://www.deezer.com/track/80274640",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/6/0/b96f573d27aafc061c1a52a31c5279ed.mp3?hdnea=exp=1795652985~acl=/api/1/1/b/9/6/0/b96f573d27aafc061c1a52a31c5279ed.mp3*~data=user_id=0,application_id=42~hmac=b07a31d252a7884a715b7e3e19867148521d9e7422aab4e5e2cdf5901f5d4c02",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Freedom Fighter",
+            "length": "2:35",
+            "deezer": {
+              "id": 80274642,
+              "link": "https://www.deezer.com/track/80274642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/a/0/82ac69a25d2c17c4361ffad091255cc7.mp3?hdnea=exp=1795652985~acl=/api/1/1/8/2/a/0/82ac69a25d2c17c4361ffad091255cc7.mp3*~data=user_id=0,application_id=42~hmac=47a4144d43796aa58e30c6b3018ade69a5c81825aaa7b7d6a132e397e9697ea6",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Who's Got My Back?",
+            "length": "8:26",
+            "deezer": {
+              "id": 80274644,
+              "link": "https://www.deezer.com/track/80274644",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/f/0/b2f8bdb61f664de74836347f38251922.mp3?hdnea=exp=1795652985~acl=/api/1/1/b/2/f/0/b2f8bdb61f664de74836347f38251922.mp3*~data=user_id=0,application_id=42~hmac=4428a3502b64af30a670447456aeef9780e37c21975ed200a646f74a74ea051b",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Signs",
+            "length": "4:28",
+            "deezer": {
+              "id": 80274646,
+              "link": "https://www.deezer.com/track/80274646",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/e/0/1fe69b099f670306968562eb1f13d97a.mp3?hdnea=exp=1795652985~acl=/api/1/1/1/f/e/0/1fe69b099f670306968562eb1f13d97a.mp3*~data=user_id=0,application_id=42~hmac=ed12d8d4556f87e2944e47c80f03b9f84e2d20b6b2b305e8c836d877419d5dae",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "One Last Breath",
+            "length": "3:58",
+            "deezer": {
+              "id": 80274648,
+              "link": "https://www.deezer.com/track/80274648",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/8/0/c8868c728d16cfa2cb7f92f2c7b9ce6a.mp3?hdnea=exp=1795652985~acl=/api/1/1/c/8/8/0/c8868c728d16cfa2cb7f92f2c7b9ce6a.mp3*~data=user_id=0,application_id=42~hmac=8b6fcaa0598874abaaffbe55372262d054a9ea483ea1ce5b122c0cd8c138a022",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "My Sacrifice",
+            "length": "4:55",
+            "deezer": {
+              "id": 80274650,
+              "link": "https://www.deezer.com/track/80274650",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/4/0/744fe6ed9e439a2fcfc6dccfc11dbccd.mp3?hdnea=exp=1795652985~acl=/api/1/1/7/4/4/0/744fe6ed9e439a2fcfc6dccfc11dbccd.mp3*~data=user_id=0,application_id=42~hmac=3d7f6f61b6cfa5bb622502bb20612564161a34e5c3a1821d361f3ccc30444905",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Stand Here With Me",
+            "length": "4:17",
+            "deezer": {
+              "id": 80274652,
+              "link": "https://www.deezer.com/track/80274652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/5/0/125f4dcd1f8926e2e28ce807a1534af5.mp3?hdnea=exp=1795652985~acl=/api/1/1/1/2/5/0/125f4dcd1f8926e2e28ce807a1534af5.mp3*~data=user_id=0,application_id=42~hmac=107ac0d68c9c22ab19e41df88a3335881daada39ae1a40f7c4d0ddc62c624a2d",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Weathered",
+            "length": "5:30",
+            "deezer": {
+              "id": 80274654,
+              "link": "https://www.deezer.com/track/80274654",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/c/0/c1c0992a55bbd640550849024680c81b.mp3?hdnea=exp=1795652985~acl=/api/1/1/c/1/c/0/c1c0992a55bbd640550849024680c81b.mp3*~data=user_id=0,application_id=42~hmac=c734c01fc3ac4229fa6b7126ce73653402f4a5f854d08d2ac4e2260d9981473c",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Hide",
+            "length": "4:26",
+            "deezer": {
+              "id": 80274656,
+              "link": "https://www.deezer.com/track/80274656",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/b/0/86ba68a6a18c4b622f621bc83a21e4af.mp3?hdnea=exp=1795652985~acl=/api/1/1/8/6/b/0/86ba68a6a18c4b622f621bc83a21e4af.mp3*~data=user_id=0,application_id=42~hmac=25c0a0a36f96c6012db06cc2ffaec079e99f08ad89ae0417f827baaeea3e7f0f",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Don't Stop Dancing",
+            "length": "4:31",
+            "deezer": {
+              "id": 80274658,
+              "link": "https://www.deezer.com/track/80274658",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/1860e784d1727cf973ca43f49c9d8057.mp3?hdnea=exp=1795652985~acl=/api/1/1/1/8/6/0/1860e784d1727cf973ca43f49c9d8057.mp3*~data=user_id=0,application_id=42~hmac=d5beabeac1e8650e22d851b01234a21a4f22ce2a5a1cfd573e557db054c2cbd1",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Lullaby",
+            "length": "3:04",
+            "deezer": {
+              "id": 80274660,
+              "link": "https://www.deezer.com/track/80274660",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/2/0/e52d5cdfc7e9adf93ab3add10d3dff24.mp3?hdnea=exp=1795652985~acl=/api/1/1/e/5/2/0/e52d5cdfc7e9adf93ab3add10d3dff24.mp3*~data=user_id=0,application_id=42~hmac=0f49f9cee0abb7b47a92f3f9508d9faca3582fc7c854b5182e78237bd811ac1d",
+              "preview_expires": "2026-11-26T00:29:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Creed/Weathered.jpg"
+}

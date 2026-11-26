@@ -1,0 +1,124 @@
+{
+  "title": "Feather Bed",
+  "artist": "Jakub Żytecki",
+  "year": 2017,
+  "release_date": "2017-07-18",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "ambient",
+    "experimental rock",
+    "indie rock",
+    "metal",
+    "progressive metal",
+    "progressive rock",
+    "psychedelic rock",
+    "rock"
+  ],
+  "tags": [
+    "ambient",
+    "experimental rock",
+    "indie rock",
+    "metal",
+    "progressive metal",
+    "progressive rock",
+    "psychedelic rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/64a67798-c3d7-4a2b-8485-0dd4459519e2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/44747101"
+  },
+  "musicbrainz_id": "64a67798-c3d7-4a2b-8485-0dd4459519e2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e5b35d03-60fa-45c4-94ad-9ed02feab62f",
+      "barcode": "859721974295",
+      "title": "Feather Bed",
+      "disambiguation": null,
+      "date": "2017-07-18",
+      "country": null
+    },
+    "total_tracks": 6,
+    "total_length": "22:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mandala",
+            "length": "4:56",
+            "deezer": {
+              "id": 384254031,
+              "link": "https://www.deezer.com/track/384254031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/2/0/b72305a60e650bfd9b7df01915c5172a.mp3?hdnea=exp=1795655406~acl=/api/1/1/b/7/2/0/b72305a60e650bfd9b7df01915c5172a.mp3*~data=user_id=0,application_id=42~hmac=7c4134fdb140bca20a78835497d4a4ab9ca552ef38f28aca4187fcc4e2ab16b9",
+              "preview_expires": "2026-11-26T01:10:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Opened",
+            "length": "2:58",
+            "deezer": {
+              "id": 384254041,
+              "link": "https://www.deezer.com/track/384254041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/a/0/1bafa7534e0df3f218b7bf74f56f8757.mp3?hdnea=exp=1795655406~acl=/api/1/1/1/b/a/0/1bafa7534e0df3f218b7bf74f56f8757.mp3*~data=user_id=0,application_id=42~hmac=04a231f0ba330e41c19c9044255c314a78572cd06e8bce2437fffb8038e1b856",
+              "preview_expires": "2026-11-26T01:10:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Letters",
+            "length": "3:28",
+            "deezer": {
+              "id": 384254051,
+              "link": "https://www.deezer.com/track/384254051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/f/0/d6f8ccffbe6884b2ab6121b3e168dfc6.mp3?hdnea=exp=1795655406~acl=/api/1/1/d/6/f/0/d6f8ccffbe6884b2ab6121b3e168dfc6.mp3*~data=user_id=0,application_id=42~hmac=21b741a03770becef481ab1f7b489c32a94f971e18a9091974ccabd7ad25ef37",
+              "preview_expires": "2026-11-26T01:10:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Drum",
+            "length": "4:10",
+            "deezer": {
+              "id": 384254061,
+              "link": "https://www.deezer.com/track/384254061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/a/0/41ac0a3f8696b7a6d073fc4befb977e4.mp3?hdnea=exp=1795655406~acl=/api/1/1/4/1/a/0/41ac0a3f8696b7a6d073fc4befb977e4.mp3*~data=user_id=0,application_id=42~hmac=1ccc9f005de3360a244b4d10ae0930c214123be46116182f16051ed643e9c479",
+              "preview_expires": "2026-11-26T01:10:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Feather Bed",
+            "length": "5:40",
+            "deezer": {
+              "id": 384254071,
+              "link": "https://www.deezer.com/track/384254071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/b/0/e7b11eebf4dd3bdb21fa1cabaa9fca5f.mp3?hdnea=exp=1795655406~acl=/api/1/1/e/7/b/0/e7b11eebf4dd3bdb21fa1cabaa9fca5f.mp3*~data=user_id=0,application_id=42~hmac=75fae04b6d2fdef765e034d8730743c887d08952afdc924c1db669d906a960e1",
+              "preview_expires": "2026-11-26T01:10:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Per Fley",
+            "length": "0:50",
+            "deezer": {
+              "id": 384254081,
+              "link": "https://www.deezer.com/track/384254081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/3/0/ea369b546f781edb59e8f7e3a6032efa.mp3?hdnea=exp=1795655406~acl=/api/1/1/e/a/3/0/ea369b546f781edb59e8f7e3a6032efa.mp3*~data=user_id=0,application_id=42~hmac=b7dd2ac9d808082622ef78fab7312a9c2957531f2c6eb4c0a78f37748b920e10",
+              "preview_expires": "2026-11-26T01:10:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jakub Zytecki/Feather Bed - EP.jpg"
+}

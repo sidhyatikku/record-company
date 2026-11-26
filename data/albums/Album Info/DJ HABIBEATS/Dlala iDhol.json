@@ -1,0 +1,46 @@
+{
+  "title": "Dlala iDhol",
+  "artist": "DJ HABIBEATS, Dr Zeus, AKU",
+  "year": 2025,
+  "release_date": "2025-02-28",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7Fi9dklycWbjTYJV7o5v2v",
+    "deezer": "https://www.deezer.com/album/709652011"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7Fi9dklycWbjTYJV7o5v2v",
+      "title": "Dlala iDhol",
+      "date": "2025-02-28"
+    },
+    "total_tracks": 1,
+    "total_length": "4:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dlala iDhol",
+            "length": "4:21",
+            "deezer": {
+              "id": 3223218931,
+              "link": "https://www.deezer.com/track/3223218931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3f98bc7aac59650ad92de57ecce6c1d.mp3?hdnea=exp=1795653426~acl=/api/1/1/b/3/f/0/b3f98bc7aac59650ad92de57ecce6c1d.mp3*~data=user_id=0,application_id=42~hmac=e2c7a6ab3086463212b0a66689bed4da017078e0cf9a968d591655d2c7b82dd4",
+              "preview_expires": "2026-11-26T00:37:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/DJ HABIBEATS/Dlala iDhol.jpg"
+}

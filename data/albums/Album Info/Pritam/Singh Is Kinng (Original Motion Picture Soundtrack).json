@@ -1,0 +1,187 @@
+{
+  "title": "Singh Is Kinng",
+  "artist": "Pritam",
+  "year": 2008,
+  "release_date": "2008-06-08",
+  "type": "Album + Soundtrack",
+  "description": "Singh Is Kinng is a 2008 Indian Hindi-language action comedy film directed by Anees Bazmee from a screenplay by Bazmee and Suresh Nair. The film stars Akshay Kumar, Katrina Kaif, Om Puri, Ranvir Shorey, Neha Dhupia, Javed Jaffrey, Sonu Sood, Kirron Kher, and Sudhanshu Pandey. In the film, Happy Singh (Kumar) is sent to Australia to reunite Lakhanpal Singh (Sood), a crime boss, with his ill father but finds himself facing love and trouble instead. The film also featured a song and a music video with American rapper Snoop Dogg.",
+  "genres": [
+    "filmi"
+  ],
+  "tags": [
+    "2000s",
+    "bollywood",
+    "filmi",
+    "hindi film music",
+    "soundtrack"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d4f59fea-c8e6-37af-be7d-8348288c83e0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Singh_Is_Kinng",
+    "wikidata": "https://www.wikidata.org/wiki/Q2007104",
+    "deezer": "https://www.deezer.com/album/44533121"
+  },
+  "musicbrainz_id": "d4f59fea-c8e6-37af-be7d-8348288c83e0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e95dcbd0-5a0e-4602-b802-ff70d774fec9",
+      "barcode": "8902633113008",
+      "title": "Singh Is Kinng",
+      "disambiguation": null,
+      "date": "2008-06-08",
+      "country": "IN"
+    },
+    "total_tracks": 12,
+    "total_length": "58:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Singh Is Kinng",
+            "length": "4:55",
+            "artist": "R.D.B featuring Snoop Dogg & Akshay Kumar"
+          },
+          {
+            "number": "2",
+            "title": "Jee karda",
+            "length": "4:51",
+            "artist": "Labh Jan Jua, Suzie Q",
+            "deezer": {
+              "id": 382905581,
+              "link": "https://www.deezer.com/track/382905581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/f/0/35fe6c794a8050a379993c0191125aca.mp3?hdnea=exp=1795719748~acl=/api/1/1/3/5/f/0/35fe6c794a8050a379993c0191125aca.mp3*~data=user_id=0,application_id=42~hmac=af213ca5d33376106654584b3f583637cb37f34b526c6f79ff5bf5bd767b1509",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bas ek kinng",
+            "length": "4:41",
+            "artist": "Mika Singh, Neeraj Shridhar, Ashish Pandit, rap: Hard Kaur",
+            "deezer": {
+              "id": 382905591,
+              "link": "https://www.deezer.com/track/382905591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/6/0/ac68bbe1aa4ffc079c290b6b8be6d0a0.mp3?hdnea=exp=1795719748~acl=/api/1/1/a/c/6/0/ac68bbe1aa4ffc079c290b6b8be6d0a0.mp3*~data=user_id=0,application_id=42~hmac=46225ff9508025aa78e6b1aa485c2689e8744e2e93d59f33057fda9a2e9d0ae9",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bhootni ke",
+            "length": "5:05",
+            "artist": "Daler Mehndi",
+            "deezer": {
+              "id": 382905601,
+              "link": "https://www.deezer.com/track/382905601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/3/0/5639b102472af0054d29fac73a6a6456.mp3?hdnea=exp=1795719748~acl=/api/1/1/5/6/3/0/5639b102472af0054d29fac73a6a6456.mp3*~data=user_id=0,application_id=42~hmac=79d7e8fdfaa81a3737262765f0c3c32e017053947e9601866d8e225669572394",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Teri ore",
+            "length": "5:40",
+            "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal",
+            "deezer": {
+              "id": 382905611,
+              "link": "https://www.deezer.com/track/382905611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/9/0/a694f5bca35932f9174dd61efd5c8108.mp3?hdnea=exp=1795719748~acl=/api/1/1/a/6/9/0/a694f5bca35932f9174dd61efd5c8108.mp3*~data=user_id=0,application_id=42~hmac=556f3afa068aa600175217b4defe4ca4f46e428d4c09151a0a27dd34e2caf57b",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Talli hua",
+            "length": "4:50",
+            "artist": "Neeraj Shridhar, Labh Jan Jua",
+            "deezer": {
+              "id": 382905621,
+              "link": "https://www.deezer.com/track/382905621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/2/0/7f27dfe8f5bb32235f4414bfa5a445c0.mp3?hdnea=exp=1795719748~acl=/api/1/1/7/f/2/0/7f27dfe8f5bb32235f4414bfa5a445c0.mp3*~data=user_id=0,application_id=42~hmac=0bcfb28a74315cdf572058562d5158e211bffaf8c0aa31a112bb3699ae6cbd07",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bas ek kinng (Tiger Style mix)",
+            "length": "4:04",
+            "artist": "Mika Singh, Neeraj Shridhar, Ashish Pandit, rap: Hard Kaur",
+            "deezer": {
+              "id": 382905631,
+              "link": "https://www.deezer.com/track/382905631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/c/0/b3c82017855e3e5c693c46d3825ffe81.mp3?hdnea=exp=1795719748~acl=/api/1/1/b/3/c/0/b3c82017855e3e5c693c46d3825ffe81.mp3*~data=user_id=0,application_id=42~hmac=13e798f04447b0cfb8315a37b1abf5ab3e1a692ae3cd859ceaf06c46c40dd215",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Bhootni ke (Tiger Style mix)",
+            "length": "4:45",
+            "artist": "Mika",
+            "deezer": {
+              "id": 382905641,
+              "link": "https://www.deezer.com/track/382905641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/a/0/18a8871b714bd8f7f74005796a364c58.mp3?hdnea=exp=1795719748~acl=/api/1/1/1/8/a/0/18a8871b714bd8f7f74005796a364c58.mp3*~data=user_id=0,application_id=42~hmac=7ce094ade3b5af0eea1bb26a373a9e9545dd811c662577232f97058f0befed04",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Talli hua (Jay Dabhi mix)",
+            "length": "4:33",
+            "artist": "Neeraj Shridhar, Labh Jan Jua, rap: Style Bhai",
+            "deezer": {
+              "id": 382905651,
+              "link": "https://www.deezer.com/track/382905651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/4/0/e1485a53f0f5651e4ed1ff99c363033f.mp3?hdnea=exp=1795719748~acl=/api/1/1/e/1/4/0/e1485a53f0f5651e4ed1ff99c363033f.mp3*~data=user_id=0,application_id=42~hmac=511b04d0db3feaa4232e5f619fc87e35a7b08592f60dc98f2fb708ab4cf403f3",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Jee karda (remix by Hyacinth)",
+            "length": "4:52",
+            "artist": "Labh Jan Jua, Suzie Q",
+            "deezer": {
+              "id": 382905661,
+              "link": "https://www.deezer.com/track/382905661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/1/0/6619b3051948c7418696751586c2593e.mp3?hdnea=exp=1795719748~acl=/api/1/1/6/6/1/0/6619b3051948c7418696751586c2593e.mp3*~data=user_id=0,application_id=42~hmac=f35d7dbbf4c639775a731b8ad8213f4e76d4067b7549bcf706833e74951c5c8f",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Teri ore (Lounge mix by Clinton & Eric Pillai)",
+            "length": "6:09",
+            "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal",
+            "deezer": {
+              "id": 382905671,
+              "link": "https://www.deezer.com/track/382905671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/1/0/831643a450e068ad30064bca5aff6703.mp3?hdnea=exp=1795719748~acl=/api/1/1/8/3/1/0/831643a450e068ad30064bca5aff6703.mp3*~data=user_id=0,application_id=42~hmac=b97362a08036642a2e5060400b3dfe728fadb222271f608c33a96cedc9212359",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Bhootni ke (remix by Dj Amyth)",
+            "length": "3:54",
+            "artist": "Daler Mehndi",
+            "deezer": {
+              "id": 382905681,
+              "link": "https://www.deezer.com/track/382905681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/8/0/ce8398fdbc591909bffbb9bddf50a4ca.mp3?hdnea=exp=1795719748~acl=/api/1/1/c/e/8/0/ce8398fdbc591909bffbb9bddf50a4ca.mp3*~data=user_id=0,application_id=42~hmac=bd88c52c8d4342b5b7bb37eac1ad09d273afb0216f0af60156c44a62156dd273",
+              "preview_expires": "2026-11-26T19:02:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pritam/Singh Is Kinng (Original Motion Picture Soundtrack).jpg"
+}

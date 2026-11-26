@@ -1,0 +1,521 @@
+{
+  "title": "Favorites and Rarities",
+  "artist": "Don McLean",
+  "year": 1992,
+  "release_date": "1992-08-25",
+  "type": "Album + Compilation",
+  "description": "Favorites and Rarities is a 1993 compilation album by American musician Don McLean.",
+  "genres": [
+    "pop",
+    "rock"
+  ],
+  "tags": [
+    "pop",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 2,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d632f77d-5fe4-3253-be11-4cb0cf4ef859",
+    "wikipedia": "https://en.wikipedia.org/wiki/Favorites_and_Rarities",
+    "wikidata": "https://www.wikidata.org/wiki/Q5438645",
+    "deezer": "https://www.deezer.com/album/304131"
+  },
+  "musicbrainz_id": "d632f77d-5fe4-3253-be11-4cb0cf4ef859",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0e0f7220-fe30-4a90-93f0-ac868bbab1f7",
+      "barcode": "777497513053",
+      "title": "Favorites and Rarities",
+      "disambiguation": "Columbia House club edition",
+      "date": "1992",
+      "country": "CA"
+    },
+    "total_tracks": 42,
+    "total_length": "2:25:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": "Favorites",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Castles in the Air (Mediarts version)",
+            "length": "2:55",
+            "deezer": {
+              "id": 3166559,
+              "link": "https://www.deezer.com/track/3166559",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/b/0/49bd247a6b3fbc9586a3a34b47ff7758.mp3?hdnea=exp=1795653484~acl=/api/1/1/4/9/b/0/49bd247a6b3fbc9586a3a34b47ff7758.mp3*~data=user_id=0,application_id=42~hmac=f9ae9abea2399dee392dd4d0e6b3eef097b3df319b66d67d800321ce3680aff9",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "And I Love You So",
+            "length": "4:18",
+            "deezer": {
+              "id": 3166560,
+              "link": "https://www.deezer.com/track/3166560",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/8/0/ce84b9bd10747430f046c22010d55430.mp3?hdnea=exp=1795653484~acl=/api/1/1/c/e/8/0/ce84b9bd10747430f046c22010d55430.mp3*~data=user_id=0,application_id=42~hmac=2b0ed8929a8e177019a844545a8bed4ba9e26c881e6f5a400d140aaf52f380ad",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "American Pie",
+            "length": "8:35",
+            "deezer": {
+              "id": 3166561,
+              "link": "https://www.deezer.com/track/3166561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/0/0/810d6bb99e2ada87405ce49c3419da95.mp3?hdnea=exp=1795653484~acl=/api/1/1/8/1/0/0/810d6bb99e2ada87405ce49c3419da95.mp3*~data=user_id=0,application_id=42~hmac=9eec632421f29f4f684bae49e58bf2010a6e406684628b8ac42c2fa7bcb0f78e",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Vincent (Starry, Starry Night)",
+            "length": "4:01",
+            "deezer": {
+              "id": 3166562,
+              "link": "https://www.deezer.com/track/3166562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/3/0/cc34a8b5991354e7b867e9b8399a26e7.mp3?hdnea=exp=1795653484~acl=/api/1/1/c/c/3/0/cc34a8b5991354e7b867e9b8399a26e7.mp3*~data=user_id=0,application_id=42~hmac=dd46c2210b24a93b6ea5b59f54467b76d9d08ca5474b67e09adebcf81e61b63a",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Babylon",
+            "length": "1:44",
+            "deezer": {
+              "id": 3166563,
+              "link": "https://www.deezer.com/track/3166563",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/c/0/9bc397935828eb3a3bee20533f93d1f6.mp3?hdnea=exp=1795653484~acl=/api/1/1/9/b/c/0/9bc397935828eb3a3bee20533f93d1f6.mp3*~data=user_id=0,application_id=42~hmac=ed8d35bfbd5856f39ea7308d9234c5891f6475864a28c6afa1b9a4d010a1d197",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Empty Chairs",
+            "length": "3:26",
+            "deezer": {
+              "id": 3166564,
+              "link": "https://www.deezer.com/track/3166564",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/e/0/32e784bfc37dcdfce21c2c965be69b29.mp3?hdnea=exp=1795653484~acl=/api/1/1/3/2/e/0/32e784bfc37dcdfce21c2c965be69b29.mp3*~data=user_id=0,application_id=42~hmac=eabde950f9149feeb23408bcb3908e94a500f7b5555759c35b57a43d96596622",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Dreidel",
+            "length": "3:47",
+            "deezer": {
+              "id": 3166565,
+              "link": "https://www.deezer.com/track/3166565",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/f/0/bcfb3c5d3b141e6637a389e62f016218.mp3?hdnea=exp=1795653484~acl=/api/1/1/b/c/f/0/bcfb3c5d3b141e6637a389e62f016218.mp3*~data=user_id=0,application_id=42~hmac=68d4fbd639c4156b518db5e66f5cd9aea8f50124c7f7e6ceb8aecefa38a499b4",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "If We Try",
+            "length": "3:34",
+            "deezer": {
+              "id": 3166566,
+              "link": "https://www.deezer.com/track/3166566",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/a/0/78aeb70d27b715e9938b402bd6a096a9.mp3?hdnea=exp=1795653484~acl=/api/1/1/7/8/a/0/78aeb70d27b715e9938b402bd6a096a9.mp3*~data=user_id=0,application_id=42~hmac=707797570160ea22365d3769ea9e38d68350f16a96cf3a9b6d8f483eaec5bf2b",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Fool’s Paradise (single version)",
+            "length": "3:51",
+            "deezer": {
+              "id": 3166567,
+              "link": "https://www.deezer.com/track/3166567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/7/0/5b76554123cf0b01703c1e159b4ccbf5.mp3?hdnea=exp=1795653484~acl=/api/1/1/5/b/7/0/5b76554123cf0b01703c1e159b4ccbf5.mp3*~data=user_id=0,application_id=42~hmac=a794c5c37d650d087c3451299816bd38e5d9c417080ddc631ca00cdeca992d3b",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sitting on Top of the World",
+            "length": "1:58",
+            "deezer": {
+              "id": 3166568,
+              "link": "https://www.deezer.com/track/3166568",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/3/0/3e3dbfa880bb0b9502fe1a7890d60422.mp3?hdnea=exp=1795653484~acl=/api/1/1/3/e/3/0/3e3dbfa880bb0b9502fe1a7890d60422.mp3*~data=user_id=0,application_id=42~hmac=82b36729074bb9e2cd822a56af85927876b6c330297c8e1f4de99f3d8773ceb6",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "La La Love You",
+            "length": "3:46",
+            "deezer": {
+              "id": 3166569,
+              "link": "https://www.deezer.com/track/3166569",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/8/0/468bf658d665c693b74902692c420b55.mp3?hdnea=exp=1795653484~acl=/api/1/1/4/6/8/0/468bf658d665c693b74902692c420b55.mp3*~data=user_id=0,application_id=42~hmac=3fa566cb96581a7591e7011a473374afa14bc690277b841fe242760e4401c76b",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Wonderful Baby",
+            "length": "2:06",
+            "deezer": {
+              "id": 3166570,
+              "link": "https://www.deezer.com/track/3166570",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/9/0/b39346650e1ca282ae380638315b0ff1.mp3?hdnea=exp=1795653484~acl=/api/1/1/b/3/9/0/b39346650e1ca282ae380638315b0ff1.mp3*~data=user_id=0,application_id=42~hmac=07124cee8131b851dbb3bd23565be54db17661798b52b5648cfffdd3aa3030c7",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Crying in the Chapel",
+            "length": "2:21",
+            "artist": "Don McLean with The Persuasions",
+            "deezer": {
+              "id": 3166571,
+              "link": "https://www.deezer.com/track/3166571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/6/0/fe66997fb08f05ad6040ee84831d2e66.mp3?hdnea=exp=1795653484~acl=/api/1/1/f/e/6/0/fe66997fb08f05ad6040ee84831d2e66.mp3*~data=user_id=0,application_id=42~hmac=ebec096e524de59326d8e144ca6a8dcfed654841106114773117e37630b59dd8",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Magdalene Lane (live)",
+            "length": "4:06",
+            "deezer": {
+              "id": 3166572,
+              "link": "https://www.deezer.com/track/3166572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/1/0/fd1f1faf03f3dc33f8f029564392c4b7.mp3?hdnea=exp=1795653484~acl=/api/1/1/f/d/1/0/fd1f1faf03f3dc33f8f029564392c4b7.mp3*~data=user_id=0,application_id=42~hmac=ba38bb1b3aa749ef89505a1ae1482ee80323a3e2a6f231cff257c50a94a2c688",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Crying",
+            "length": "3:43",
+            "deezer": {
+              "id": 3166573,
+              "link": "https://www.deezer.com/track/3166573",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/5/0/7d56fbc486676e0e6e27aa7a53a42615.mp3?hdnea=exp=1795653484~acl=/api/1/1/7/d/5/0/7d56fbc486676e0e6e27aa7a53a42615.mp3*~data=user_id=0,application_id=42~hmac=8b0922ef11d4d80690d1fb43ecf8ee17f90d887e27acf67a084f97b802f50ef8",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Since I Don’t Have You",
+            "length": "2:36",
+            "deezer": {
+              "id": 3166574,
+              "link": "https://www.deezer.com/track/3166574",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/8/0/8c81e988f6557117c30a5162277c6fc5.mp3?hdnea=exp=1795653484~acl=/api/1/1/8/c/8/0/8c81e988f6557117c30a5162277c6fc5.mp3*~data=user_id=0,application_id=42~hmac=35bd29158089ada7d4e3c8f51ac951bd5392ce079b931b2a949e972b8ebf68a5",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Castles in the Air (millenium version)",
+            "length": "3:43",
+            "deezer": {
+              "id": 3166575,
+              "link": "https://www.deezer.com/track/3166575",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/8/0/4d8639f234f3402eaae3bb1067f673e8.mp3?hdnea=exp=1795653484~acl=/api/1/1/4/d/8/0/4d8639f234f3402eaae3bb1067f673e8.mp3*~data=user_id=0,application_id=42~hmac=a8d5dbaea15b442a62c3ef8d6d19f296425f2e363b09dce9bac2e119992a1e1c",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "He’s Got You",
+            "length": "4:51",
+            "deezer": {
+              "id": 3166576,
+              "link": "https://www.deezer.com/track/3166576",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/1/0/e810341ddd1901cdf121f0c6c849178f.mp3?hdnea=exp=1795653484~acl=/api/1/1/e/8/1/0/e810341ddd1901cdf121f0c6c849178f.mp3*~data=user_id=0,application_id=42~hmac=7e357a8a48309d2070101aa578f3f4540d18539da0f25d1598656a2982db2285",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Superman’s Ghost",
+            "length": "4:47",
+            "deezer": {
+              "id": 3166577,
+              "link": "https://www.deezer.com/track/3166577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/e/0/3fe4cbabc3fecce01a93c9c70647d8af.mp3?hdnea=exp=1795653484~acl=/api/1/1/3/f/e/0/3fe4cbabc3fecce01a93c9c70647d8af.mp3*~data=user_id=0,application_id=42~hmac=0586e2453f4089b5c9b9436cc0c99ac0ed94ba31c9df9d829f32eae9d28914f3",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "You Can’t Blame the Train",
+            "length": "3:06",
+            "deezer": {
+              "id": 3166578,
+              "link": "https://www.deezer.com/track/3166578",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/2/0/9520f5aa309411c8af9a57b22778aa9b.mp3?hdnea=exp=1795653484~acl=/api/1/1/9/5/2/0/9520f5aa309411c8af9a57b22778aa9b.mp3*~data=user_id=0,application_id=42~hmac=a2b0dcfcae4695a3dc68497432bf78167daf222d4d950ff16261131fb101a4e4",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": "Rarities",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Good Old Wagon",
+            "length": "2:25",
+            "deezer": {
+              "id": 3166579,
+              "link": "https://www.deezer.com/track/3166579",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/b/0/f9b0b6e9fbf656c884c52ed1b5851b80.mp3?hdnea=exp=1795653484~acl=/api/1/1/f/9/b/0/f9b0b6e9fbf656c884c52ed1b5851b80.mp3*~data=user_id=0,application_id=42~hmac=0c1840e6e559f97eeaa08b97c544b17066d7a9160aa1aa6506201a5c7afd7872",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Milkman’s Matinee",
+            "length": "5:22",
+            "deezer": {
+              "id": 3166580,
+              "link": "https://www.deezer.com/track/3166580",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/0/0/cc09cce31ef4265c428975fab33b6473.mp3?hdnea=exp=1795653484~acl=/api/1/1/c/c/0/0/cc09cce31ef4265c428975fab33b6473.mp3*~data=user_id=0,application_id=42~hmac=930049b0a3bd72b1bd57c2a86c40bda23a4d4ad7350a88044b4490a96f1af1bc",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Aftermath",
+            "length": "4:05",
+            "deezer": {
+              "id": 3166581,
+              "link": "https://www.deezer.com/track/3166581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/c/0/4bcc412f238e7ee9d31311480b89dd95.mp3?hdnea=exp=1795653484~acl=/api/1/1/4/b/c/0/4bcc412f238e7ee9d31311480b89dd95.mp3*~data=user_id=0,application_id=42~hmac=93c997f5f1e6b293270533a62fa9a462cef5cb26e28a222a31d9a6e14f53976a",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mother Nature",
+            "length": "6:57",
+            "deezer": {
+              "id": 3166582,
+              "link": "https://www.deezer.com/track/3166582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/1/0/c61fde93e706074ec4ac000ef2eed245.mp3?hdnea=exp=1795653484~acl=/api/1/1/c/6/1/0/c61fde93e706074ec4ac000ef2eed245.mp3*~data=user_id=0,application_id=42~hmac=6e4d2067d0267dbafaa789aa25a31b93abf1fcc09ff568318a3d8b7393984483",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Every Day (BBC version)",
+            "length": "2:33",
+            "deezer": {
+              "id": 3166583,
+              "link": "https://www.deezer.com/track/3166583",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/2/0/a827c9c8f5f351e35613e869501c626f.mp3?hdnea=exp=1795653484~acl=/api/1/1/a/8/2/0/a827c9c8f5f351e35613e869501c626f.mp3*~data=user_id=0,application_id=42~hmac=75761192f0ff3ec2f43d1ccd4762bdc4f322f61d1bc38d41b61f522a489c325b",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "That’s All Right",
+            "length": "3:22",
+            "deezer": {
+              "id": 3166584,
+              "link": "https://www.deezer.com/track/3166584",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/d/0/e3d139ecbab70d57fd6d861d5023b59d.mp3?hdnea=exp=1795653484~acl=/api/1/1/e/3/d/0/e3d139ecbab70d57fd6d861d5023b59d.mp3*~data=user_id=0,application_id=42~hmac=a745ea8200ddc7bc82911a31931d6b024e12dee5c92edbbc153b6a4c5b5826a5",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Profiteering Blues",
+            "length": "3:02",
+            "deezer": {
+              "id": 3166585,
+              "link": "https://www.deezer.com/track/3166585",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c06c2e03090d4fd2bae9f9560d902e2.mp3?hdnea=exp=1795653484~acl=/api/1/1/1/c/0/0/1c06c2e03090d4fd2bae9f9560d902e2.mp3*~data=user_id=0,application_id=42~hmac=a8a7bd33f152fbf97ce39bc49b49d43be0db646c36891ef9c33af6f00a459e2e",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Hit Parade of Love",
+            "length": "2:35",
+            "deezer": {
+              "id": 3166586,
+              "link": "https://www.deezer.com/track/3166586",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/f/0/69f836125548eba8c6d7d6fc8f01c590.mp3?hdnea=exp=1795653484~acl=/api/1/1/6/9/f/0/69f836125548eba8c6d7d6fc8f01c590.mp3*~data=user_id=0,application_id=42~hmac=6adba2e3622583059b6571c162f59f2b42076d685d978e09d6c7db0fb0b9bf88",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Carnival Is Ended",
+            "length": "5:39",
+            "deezer": {
+              "id": 3166587,
+              "link": "https://www.deezer.com/track/3166587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/d/0/eadc4c2e628462d825b4de9e922bc1c9.mp3?hdnea=exp=1795653484~acl=/api/1/1/e/a/d/0/eadc4c2e628462d825b4de9e922bc1c9.mp3*~data=user_id=0,application_id=42~hmac=60e805ace344b002e4c6425efa31a8bc891a82c28857662ad2269bfda7963aaa",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Blue, I’m Lonesome (Blue and Lonesome Too)",
+            "length": "2:14",
+            "deezer": {
+              "id": 3166588,
+              "link": "https://www.deezer.com/track/3166588",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/6/0/9d6e52bb3e603caebec3939de5396c64.mp3?hdnea=exp=1795653484~acl=/api/1/1/9/d/6/0/9d6e52bb3e603caebec3939de5396c64.mp3*~data=user_id=0,application_id=42~hmac=26a17526d72cf043c4cc8e463e16b3fd1c90a99b401e0f5487baee16fc59101c",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Nature Boy",
+            "length": "1:08",
+            "deezer": {
+              "id": 3166589,
+              "link": "https://www.deezer.com/track/3166589",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/5/0/e65694c0058e00f03b30e2a6ab473c2e.mp3?hdnea=exp=1795653484~acl=/api/1/1/e/6/5/0/e65694c0058e00f03b30e2a6ab473c2e.mp3*~data=user_id=0,application_id=42~hmac=ff16120128ca37bc467dcc4ed1916da266d7f13501f2e280f470096f1abe94fd",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Black Sheep Boy",
+            "length": "2:44",
+            "deezer": {
+              "id": 3166590,
+              "link": "https://www.deezer.com/track/3166590",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/d/0/fcdc7f6f136350b73b8048633fe1d1aa.mp3?hdnea=exp=1795653484~acl=/api/1/1/f/c/d/0/fcdc7f6f136350b73b8048633fe1d1aa.mp3*~data=user_id=0,application_id=42~hmac=23bcbe74eb8acc55989ecd63d700f5c0c31adc9a1d2133a35e24204fbba3e706",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Mountains O’Mourne",
+            "length": "5:14",
+            "deezer": {
+              "id": 3166591,
+              "link": "https://www.deezer.com/track/3166591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/e/0/5aeb3afd13d70449d06bf7fd0fe1acdb.mp3?hdnea=exp=1795653484~acl=/api/1/1/5/a/e/0/5aeb3afd13d70449d06bf7fd0fe1acdb.mp3*~data=user_id=0,application_id=42~hmac=a2b2768c266c5424318b6b85bfc3b4b15a41332d7db510237a9ae517f0926ff9",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "And Her Mother Came Too",
+            "length": "2:45",
+            "deezer": {
+              "id": 3166592,
+              "link": "https://www.deezer.com/track/3166592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/5/0/ae5e0239f585c5d6d3297e0b5e82821a.mp3?hdnea=exp=1795653484~acl=/api/1/1/a/e/5/0/ae5e0239f585c5d6d3297e0b5e82821a.mp3*~data=user_id=0,application_id=42~hmac=ce0856d537d9489859b9d17da324b82b095aeca02435d6b90ba688374263dd2f",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Yonkers Girl",
+            "length": "3:05",
+            "deezer": {
+              "id": 3166593,
+              "link": "https://www.deezer.com/track/3166593",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/4/0/574955e53f8c2a5a786e8f06dbede124.mp3?hdnea=exp=1795653484~acl=/api/1/1/5/7/4/0/574955e53f8c2a5a786e8f06dbede124.mp3*~data=user_id=0,application_id=42~hmac=2aa9cae19be93e486fd6dd787d95ec2f538de70207eadea07b4f6350e0cfbb0f",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Turkey in the Straw",
+            "length": "0:39",
+            "deezer": {
+              "id": 3166594,
+              "link": "https://www.deezer.com/track/3166594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/1/0/a8117ddbca3c331756fb248389218ce2.mp3?hdnea=exp=1795653484~acl=/api/1/1/a/8/1/0/a8117ddbca3c331756fb248389218ce2.mp3*~data=user_id=0,application_id=42~hmac=3ae93742286b566d67226c2c2f1c9880286109a8c2cdd02127ebc812b453c3d4",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Dubuque",
+            "length": "0:50",
+            "deezer": {
+              "id": 3166595,
+              "link": "https://www.deezer.com/track/3166595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/a/0/70a5e61e3a6d36de1dc8e6c74a5ea180.mp3?hdnea=exp=1795653484~acl=/api/1/1/7/0/a/0/70a5e61e3a6d36de1dc8e6c74a5ea180.mp3*~data=user_id=0,application_id=42~hmac=137e1d27328dfc44aed679bc71cf720d7664bad7ca5d2c83cbb67d6e06874340",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Medley: Sally Ann / Muleskinner Blues / Old Joe Clark",
+            "length": "3:26",
+            "deezer": {
+              "id": 3166596,
+              "link": "https://www.deezer.com/track/3166596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/e/0/dce45fee2d4d3505d97d75ae04b96a3f.mp3?hdnea=exp=1795653484~acl=/api/1/1/d/c/e/0/dce45fee2d4d3505d97d75ae04b96a3f.mp3*~data=user_id=0,application_id=42~hmac=be054ffe070bde329e658acf6a98cdaf2dbbd11663680428aaaf191dd1295b32",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "If We Try",
+            "length": "4:00",
+            "deezer": {
+              "id": 3166597,
+              "link": "https://www.deezer.com/track/3166597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/c/0/5ccabd5671728a7ae5482b89ecfb26f4.mp3?hdnea=exp=1795653484~acl=/api/1/1/5/c/c/0/5ccabd5671728a7ae5482b89ecfb26f4.mp3*~data=user_id=0,application_id=42~hmac=4d5fd7ec5279d6fd9f0a202160d7c0b46e783f1ff3a4d543d49d27e2c8c1c716",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Perfect Love",
+            "length": "3:21",
+            "deezer": {
+              "id": 3166598,
+              "link": "https://www.deezer.com/track/3166598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/a/0/e8aecd84080bebff8539dc81f85b5f24.mp3?hdnea=exp=1795653484~acl=/api/1/1/e/8/a/0/e8aecd84080bebff8539dc81f85b5f24.mp3*~data=user_id=0,application_id=42~hmac=84c213ff0be8d0ceed3c9b0485f014207959c9b62e0395819a1d286b03195142",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Little Child",
+            "length": "3:05",
+            "deezer": {
+              "id": 3166599,
+              "link": "https://www.deezer.com/track/3166599",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/d/0/52d20c422fb36198e86a8c7acad97cb5.mp3?hdnea=exp=1795653484~acl=/api/1/1/5/2/d/0/52d20c422fb36198e86a8c7acad97cb5.mp3*~data=user_id=0,application_id=42~hmac=1148c020b8bc5ad47b48c755931ec1c024637debe626688bb814cb7ffc2c04ef",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Gotta Make You Mine",
+            "length": "3:15",
+            "deezer": {
+              "id": 3166600,
+              "link": "https://www.deezer.com/track/3166600",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/a/0/43a4070be24c23ca83ef97a0ba2ac89e.mp3?hdnea=exp=1795653484~acl=/api/1/1/4/3/a/0/43a4070be24c23ca83ef97a0ba2ac89e.mp3*~data=user_id=0,application_id=42~hmac=ee6a71dfb887020f5232a8e634e563b0cdeccb7b642b67abfb22504ac7dd273d",
+              "preview_expires": "2026-11-26T00:38:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Don McLean/Favorites & Rarities (World).jpg"
+}

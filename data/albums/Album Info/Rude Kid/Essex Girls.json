@@ -1,0 +1,51 @@
+{
+  "title": "Essex Girls",
+  "artist": "Rude Kid Feat. Jaykae, Silky & Janice Robinson",
+  "year": 2022,
+  "release_date": "2022-02-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/65a25e41-b07b-413e-ad55-796c6f03af37",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/290105192"
+  },
+  "musicbrainz_id": "65a25e41-b07b-413e-ad55-796c6f03af37",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7c38abe1-e6c9-4de0-99d5-6dc45f54210d",
+      "barcode": null,
+      "title": "Essex Girls",
+      "disambiguation": null,
+      "date": "2022-02-11",
+      "country": "GB"
+    },
+    "total_tracks": 1,
+    "total_length": "2:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Essex Girls",
+            "length": "2:40",
+            "deezer": {
+              "id": 1632226612,
+              "link": "https://www.deezer.com/track/1632226612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/7/0/1577998f1e9d7223f755c324652529b0.mp3?hdnea=exp=1795720176~acl=/api/1/1/1/5/7/0/1577998f1e9d7223f755c324652529b0.mp3*~data=user_id=0,application_id=42~hmac=08624f942826ab02ab03f735f35de38e0d571cccbdb0cdcd48f250a9cb0e0ce8",
+              "preview_expires": "2026-11-26T19:09:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Rude Kid/Essex Girls.jpg"
+}

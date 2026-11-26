@@ -1,0 +1,117 @@
+{
+  "title": "Waylon & Willie",
+  "artist": "Waylon & Willie",
+  "year": 1978,
+  "release_date": "1978",
+  "type": "Album",
+  "description": "Waylon & Willie is the first collaborative studio album by American singers Waylon Jennings and Willie Nelson, released by RCA Records in 1978. In the US, it stayed at #1 album on the country album charts for ten weeks and would spend a total of 126 weeks on the country charts.",
+  "genres": [
+    "country"
+  ],
+  "tags": [
+    "country"
+  ],
+  "rating": {
+    "value_out_of_5": 3.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b93cd475-3dcb-3284-a9ab-e0e4f724b85c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waylon_%26_Willie",
+    "allmusic": "https://www.allmusic.com/album/mw0000262056",
+    "discogs": "https://www.discogs.com/master/368251",
+    "wikidata": "https://www.wikidata.org/wiki/Q7975949",
+    "deezer": null
+  },
+  "musicbrainz_id": "b93cd475-3dcb-3284-a9ab-e0e4f724b85c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f7253550-2e5e-41d3-99f6-b609589be70d",
+      "barcode": null,
+      "title": "Waylon & Willie",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "33:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+            "length": "2:38",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "2",
+            "title": "The Year 2003 Minus 25",
+            "length": "3:10",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "3",
+            "title": "Pick Up the Tempo",
+            "length": "2:37",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "4",
+            "title": "If You Can Touch Her at All",
+            "length": "3:08",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "5",
+            "title": "Lookin' for a Feeling",
+            "length": "2:41",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "6",
+            "title": "It's Not Supposed to Be That Way",
+            "length": "3:26",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "7",
+            "title": "I Can Get Off on You",
+            "length": "2:28",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "8",
+            "title": "Don't Cuss the Fiddle",
+            "length": "3:08",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "9",
+            "title": "Gold Dust Woman",
+            "length": "4:06",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "10",
+            "title": "A Couple More Years",
+            "length": "4:05",
+            "artist": "Waylon Jennings & Willie Nelson"
+          },
+          {
+            "number": "11",
+            "title": "The Wurlitzer Prize (I Don't Want to Get Over You)",
+            "length": "2:09",
+            "artist": "Waylon Jennings & Willie Nelson"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Waylon Jennings/Waylon & Willie.jpg"
+}

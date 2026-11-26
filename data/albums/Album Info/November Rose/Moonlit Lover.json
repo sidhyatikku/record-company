@@ -1,0 +1,47 @@
+{
+  "title": "Moonlit Lover",
+  "artist": "November Rose",
+  "year": 2020,
+  "release_date": "2020-04-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1huguE9oxumqzkuZFV6ryL",
+    "deezer": "https://www.deezer.com/album/143420352"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1huguE9oxumqzkuZFV6ryL",
+      "title": "Moonlit Lover",
+      "date": "2020-04-22"
+    },
+    "total_tracks": 1,
+    "total_length": "1:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Moonlit Lover",
+            "length": "1:57",
+            "artist": "November Rose, M2Ray",
+            "deezer": {
+              "id": 937402542,
+              "link": "https://www.deezer.com/track/937402542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c92fe14a63517c5553d4cd70423dd3.mp3?hdnea=exp=1795719026~acl=/api/1/1/f/0/c/0/f0c92fe14a63517c5553d4cd70423dd3.mp3*~data=user_id=0,application_id=42~hmac=742a9bbed655ea5acf08c246246c2ec450e98bc3ec7c5eb93a7c5a63188fce3b",
+              "preview_expires": "2026-11-26T18:50:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/November Rose/Moonlit Lover.jpg"
+}

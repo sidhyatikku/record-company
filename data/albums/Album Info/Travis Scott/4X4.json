@@ -1,0 +1,52 @@
+{
+  "title": "4X4",
+  "artist": "Travis Scott",
+  "year": 2025,
+  "release_date": "2025-01-24",
+  "type": "Single",
+  "description": "\"4x4\" is a song by American rapper and singer Travis Scott. It was released as a single through Cactus Jack and Epic Records on January 24, 2025. Scott wrote the song with producers Tay Keith and FnZ, alongside Dougie F, with additional writing credits going to Honorable C.N.O.T.E., as the song samples the 2016 Tennessee State University marching band playing an instrumental version of the song \"Say Sum\" by Migos. Mike Dean mixed and mastered it, with Tommy Rush providing assistance in mixing.",
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8542706c-38ae-4dc1-a85b-d1cfb274d167",
+    "wikipedia": "https://en.wikipedia.org/wiki/4x4_(song)",
+    "wikidata": "https://www.wikidata.org/wiki/Q131860335",
+    "deezer": "https://www.deezer.com/album/702360021"
+  },
+  "musicbrainz_id": "8542706c-38ae-4dc1-a85b-d1cfb274d167",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/727b0fe5-3acb-40a0-a467-51453978a985",
+      "barcode": "196872779820",
+      "title": "4X4",
+      "disambiguation": "explicit",
+      "date": "2025-01-24",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "4X4",
+            "length": "3:35",
+            "deezer": {
+              "id": 3200805881,
+              "link": "https://www.deezer.com/track/3200805881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/3/0/463294c5a3d0de1e146641762754534c.mp3?hdnea=exp=1795722012~acl=/api/1/1/4/6/3/0/463294c5a3d0de1e146641762754534c.mp3*~data=user_id=0,application_id=42~hmac=5c9459d3ebd738a6f91005e3ead03122067b6f9b1b55fcfd79c5946e55a8b277",
+              "preview_expires": "2026-11-26T19:40:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Travis Scott/4X4.jpg"
+}

@@ -1,0 +1,177 @@
+{
+  "title": "Sentimentally Yours",
+  "artist": "Patsy Cline",
+  "year": 1962,
+  "release_date": "1962-08-07",
+  "type": "Album",
+  "description": "Sentimentally Yours is the third and final studio album by American country music singer Patsy Cline, released August 6, 1962. The album was the final studio album Cline would release before her death in a plane crash less than a year later.",
+  "genres": [
+    "country"
+  ],
+  "tags": [
+    "country"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7764ba1e-c310-3d3c-bd46-42080c8300a6",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sentimentally_Yours",
+    "wikidata": "https://www.wikidata.org/wiki/Q7451280",
+    "deezer": "https://www.deezer.com/album/9148731"
+  },
+  "musicbrainz_id": "7764ba1e-c310-3d3c-bd46-42080c8300a6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d9263e13-52a6-45e2-9fc8-e49e8a546874",
+      "barcode": "076732009024",
+      "title": "Sentimentally Yours",
+      "disambiguation": null,
+      "date": "1988",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "30:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "She’s Got You",
+            "length": "3:02",
+            "deezer": {
+              "id": 90266021,
+              "link": "https://www.deezer.com/track/90266021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/7/0/ab784f4706f0505be98d38078137ec5a.mp3?hdnea=exp=1795719392~acl=/api/1/1/a/b/7/0/ab784f4706f0505be98d38078137ec5a.mp3*~data=user_id=0,application_id=42~hmac=72746d8210ad2ca625162de16795a2149349cef5cd8755fbd5d324fa9607dda7",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Heartaches",
+            "length": "2:13",
+            "deezer": {
+              "id": 90266023,
+              "link": "https://www.deezer.com/track/90266023",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/5/0/155d5e6c56510f2226763d75163e0fe4.mp3?hdnea=exp=1795719392~acl=/api/1/1/1/5/5/0/155d5e6c56510f2226763d75163e0fe4.mp3*~data=user_id=0,application_id=42~hmac=7f77eadf3afe333731f8abeae60a0dfa2e8706aa2161120acc414eac40bb0465",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "That’s My Desire",
+            "length": "3:04",
+            "deezer": {
+              "id": 90266025,
+              "link": "https://www.deezer.com/track/90266025",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/7/0/a67b078dda13b0947fb1f5a9ac5af382.mp3?hdnea=exp=1795719392~acl=/api/1/1/a/6/7/0/a67b078dda13b0947fb1f5a9ac5af382.mp3*~data=user_id=0,application_id=42~hmac=be67d199471090fbe5654db63e225a7cf5e4de2ac052beaa30315c951b196083",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Your Cheatin’ Heart",
+            "length": "2:22",
+            "deezer": {
+              "id": 90266027,
+              "link": "https://www.deezer.com/track/90266027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/7/0/677a5f932bd2e34869732ccdd030182e.mp3?hdnea=exp=1795719392~acl=/api/1/1/6/7/7/0/677a5f932bd2e34869732ccdd030182e.mp3*~data=user_id=0,application_id=42~hmac=a0d373ebc7ac74c1fb5dfa81deeca1ddb5720a2fa45ff4e4dce4e784a0567b1d",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Anytime",
+            "length": "1:59",
+            "deezer": {
+              "id": 90266029,
+              "link": "https://www.deezer.com/track/90266029",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/6/0/b46cd829b59596b34fd71a0303212419.mp3?hdnea=exp=1795719392~acl=/api/1/1/b/4/6/0/b46cd829b59596b34fd71a0303212419.mp3*~data=user_id=0,application_id=42~hmac=13de0b381467f52f539804c80d6e21adbadd2a97fd9d6174349d7e3bd734e1ba",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "You Made Me Love You (I Didn’t Want to Do It)",
+            "length": "2:47",
+            "deezer": {
+              "id": 90266031,
+              "link": "https://www.deezer.com/track/90266031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/8/0/af8e25305cc17e2a90661efa9e9bfeae.mp3?hdnea=exp=1795719392~acl=/api/1/1/a/f/8/0/af8e25305cc17e2a90661efa9e9bfeae.mp3*~data=user_id=0,application_id=42~hmac=2c86a396d44c0c84fbaf0a934e0c7574984de99c4e16f300839ae472e7e4b242",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Strange",
+            "length": "2:16",
+            "deezer": {
+              "id": 90266033,
+              "link": "https://www.deezer.com/track/90266033",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/c/0/4dc2a37d8ff6e818c6a19fd5d2262b4b.mp3?hdnea=exp=1795719392~acl=/api/1/1/4/d/c/0/4dc2a37d8ff6e818c6a19fd5d2262b4b.mp3*~data=user_id=0,application_id=42~hmac=2ef6287d3cf0ae32ecb497c5e98cbbb73632a07d44d8bea4650a108614a47222",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "You Belong to Me",
+            "length": "3:04",
+            "deezer": {
+              "id": 90266035,
+              "link": "https://www.deezer.com/track/90266035",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/c/0/30c5fc5dc9f7d2dfbc6454bdf774cdb0.mp3?hdnea=exp=1795719392~acl=/api/1/1/3/0/c/0/30c5fc5dc9f7d2dfbc6454bdf774cdb0.mp3*~data=user_id=0,application_id=42~hmac=5b12c4a0090c7a9113d8a8f088629971cca3b011a5b168912d41b78037d6153d",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "You Were Only Fooling (While I Was Falling in Love)",
+            "length": "2:00",
+            "deezer": {
+              "id": 90266037,
+              "link": "https://www.deezer.com/track/90266037",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/7/0/5275e707a8c1dba41f9255d52c0ce293.mp3?hdnea=exp=1795719392~acl=/api/1/1/5/2/7/0/5275e707a8c1dba41f9255d52c0ce293.mp3*~data=user_id=0,application_id=42~hmac=34105df704902cbbe80cb007a56823ad0c56502585625b0ffd3b76e8ee886e30",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Half as Much",
+            "length": "2:30",
+            "deezer": {
+              "id": 90266039,
+              "link": "https://www.deezer.com/track/90266039",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/5/0/ae5d3d53709f9b04f81c9a80999b4969.mp3?hdnea=exp=1795719392~acl=/api/1/1/a/e/5/0/ae5d3d53709f9b04f81c9a80999b4969.mp3*~data=user_id=0,application_id=42~hmac=c1b252b27cac24bd1179828e4cb15d02281fccd2586243bc6c2cd56466f1d780",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "I Can’t Help It (If I’m Still in Love with You)",
+            "length": "2:58",
+            "deezer": {
+              "id": 90266041,
+              "link": "https://www.deezer.com/track/90266041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/7/0/5a783f2b47a9426fcdad62e5b0de34cd.mp3?hdnea=exp=1795719392~acl=/api/1/1/5/a/7/0/5a783f2b47a9426fcdad62e5b0de34cd.mp3*~data=user_id=0,application_id=42~hmac=670cc9e5fa2a74c2cb4a89bf276bd009b6e6c3cd4bc262eaa3e6cc8a81ff7a12",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Lonely Street",
+            "length": "2:32",
+            "deezer": {
+              "id": 90266043,
+              "link": "https://www.deezer.com/track/90266043",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/b/0/18b40f6b32c922a4921a514ab405647b.mp3?hdnea=exp=1795719392~acl=/api/1/1/1/8/b/0/18b40f6b32c922a4921a514ab405647b.mp3*~data=user_id=0,application_id=42~hmac=5a68fb028a885c87223036ebf3189c6f42bd6fb1d36596cfcd5ce928f7b2201f",
+              "preview_expires": "2026-11-26T18:56:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Patsy Cline/Sentimentally Yours.jpg"
+}

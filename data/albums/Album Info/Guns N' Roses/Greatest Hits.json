@@ -1,0 +1,155 @@
+{
+  "title": "Greatest Hits",
+  "artist": "Guns N’ Roses",
+  "year": 2004,
+  "release_date": "2004-03-15",
+  "type": "Album + Compilation",
+  "description": "Greatest Hits is a compilation album by the American hard rock band Guns N' Roses, released on March 23, 2004. Released by Geffen Records in part because of the delay in the making of Chinese Democracy, the album was subject to lawsuits by band member Axl Rose and former band members, in an attempt to block its release due to its track listing.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "blues",
+    "heavy metal",
+    "acoustic rock",
+    "glam metal",
+    "piano rock",
+    "pop rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "blues",
+    "heavy metal",
+    "acoustic rock",
+    "album rock",
+    "glam metal",
+    "piano rock",
+    "pop rock",
+    "pop/rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7bfad6e0-ccdb-3bfa-b882-f7adfde0b950",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greatest_Hits_(Guns_N'_Roses_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000694608",
+    "discogs": "https://www.discogs.com/master/9655",
+    "wikidata": "https://www.wikidata.org/wiki/Q1028070",
+    "deezer": "https://www.deezer.com/album/125209"
+  },
+  "musicbrainz_id": "7bfad6e0-ccdb-3bfa-b882-f7adfde0b950",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/377a8529-64b7-4db7-847a-0816ab356df5",
+      "barcode": "602498613696",
+      "title": "Greatest Hits",
+      "disambiguation": null,
+      "date": "2004-03-23",
+      "country": "CA"
+    },
+    "total_tracks": 14,
+    "total_length": "1:19:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Welcome to the Jungle",
+            "length": "4:31"
+          },
+          {
+            "number": "2",
+            "title": "Sweet Child o’ Mine",
+            "length": "5:58"
+          },
+          {
+            "number": "3",
+            "title": "Patience",
+            "length": "5:56"
+          },
+          {
+            "number": "4",
+            "title": "Paradise City",
+            "length": "6:48"
+          },
+          {
+            "number": "5",
+            "title": "Knockin’ on Heaven’s Door",
+            "length": "5:38"
+          },
+          {
+            "number": "6",
+            "title": "Civil War",
+            "length": "7:41"
+          },
+          {
+            "number": "7",
+            "title": "You Could Be Mine",
+            "length": "5:46"
+          },
+          {
+            "number": "8",
+            "title": "Don’t Cry (original)",
+            "length": "4:43",
+            "deezer": {
+              "id": 1169677,
+              "link": "https://www.deezer.com/track/1169677",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/9/0/929232c70eca30ce34e5233d2702e224.mp3?hdnea=exp=1795654822~acl=/api/1/1/9/2/9/0/929232c70eca30ce34e5233d2702e224.mp3*~data=user_id=0,application_id=42~hmac=12b77fcf0615cd2f8fda3f97cb99c7a84c72132c7ba58478d524c94c2ba553c2",
+              "preview_expires": "2026-11-26T01:00:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "November Rain",
+            "length": "9:00",
+            "deezer": {
+              "id": 1169683,
+              "link": "https://www.deezer.com/track/1169683",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/4/0/c841da8f662caa4e9b9abcd69471ea41.mp3?hdnea=exp=1795654822~acl=/api/1/1/c/8/4/0/c841da8f662caa4e9b9abcd69471ea41.mp3*~data=user_id=0,application_id=42~hmac=bd8b3e7af981d7d1e024391666cf11f8b01d26b0cdd06fce7190d1bc60d7cad4",
+              "preview_expires": "2026-11-26T01:00:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Live and Let Die",
+            "length": "3:08",
+            "deezer": {
+              "id": 1169676,
+              "link": "https://www.deezer.com/track/1169676",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/5/0/03579e12c239322dd21653175c8dd81f.mp3?hdnea=exp=1795654822~acl=/api/1/1/0/3/5/0/03579e12c239322dd21653175c8dd81f.mp3*~data=user_id=0,application_id=42~hmac=9e56342d156e73045a03a8926aa52a2f56da916112da0307ddf3e7eeced09846",
+              "preview_expires": "2026-11-26T01:00:22Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Yesterdays",
+            "length": "3:17"
+          },
+          {
+            "number": "12",
+            "title": "Ain’t It Fun (promo radio edit)",
+            "length": "5:08"
+          },
+          {
+            "number": "13",
+            "title": "Since I Don’t Have You",
+            "length": "4:21"
+          },
+          {
+            "number": "14",
+            "title": "Sympathy for the Devil",
+            "length": "7:18"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Guns N' Roses/Greatest Hits.jpg"
+}

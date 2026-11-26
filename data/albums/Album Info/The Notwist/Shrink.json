@@ -1,0 +1,174 @@
+{
+  "title": "Shrink",
+  "artist": "The Notwist",
+  "year": 1998,
+  "release_date": "1998-09",
+  "type": "Album",
+  "description": "Shrink is the fourth studio album by German indie rock band the Notwist. It was released on 15 May 1998 by the label Community. The album found the band moving further away from their punk rock origins and pursuing a sound more rooted in electronic music.",
+  "genres": [
+    "ambient techno",
+    "electronic",
+    "electronica",
+    "idm",
+    "indie rock",
+    "rock",
+    "techno"
+  ],
+  "tags": [
+    "abstract",
+    "ambient techno",
+    "electronic",
+    "electronica",
+    "idm",
+    "indie rock",
+    "rock",
+    "techno"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f6703209-91bf-3255-98c0-17689e2fd2c9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shrink_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000600772",
+    "discogs": "https://www.discogs.com/master/82237",
+    "wikidata": "https://www.wikidata.org/wiki/Q1299415",
+    "deezer": "https://www.deezer.com/album/1121657062"
+  },
+  "musicbrainz_id": "f6703209-91bf-3255-98c0-17689e2fd2c9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5bd51aef-7628-4f85-bcb9-5b46d9625cb4",
+      "barcode": "724384565923",
+      "title": "Shrink",
+      "disambiguation": "Jewelcase",
+      "date": "1998",
+      "country": "XE"
+    },
+    "total_tracks": 10,
+    "total_length": "48:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Day 7",
+            "length": "5:55",
+            "deezer": {
+              "id": 4348391222,
+              "link": "https://www.deezer.com/track/4348391222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/0/0/9d03302f0d970b4c654050b621121db1.mp3?hdnea=exp=1795721605~acl=/api/1/1/9/d/0/0/9d03302f0d970b4c654050b621121db1.mp3*~data=user_id=0,application_id=42~hmac=edc8ea3cadbddf739c614d5fa1be452688409d282e87e243691de0ab8efad43e",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Chemicals",
+            "length": "5:15",
+            "deezer": {
+              "id": 4348391232,
+              "link": "https://www.deezer.com/track/4348391232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/1/0/2114e043443f63eef7e0254aab192e9f.mp3?hdnea=exp=1795721605~acl=/api/1/1/2/1/1/0/2114e043443f63eef7e0254aab192e9f.mp3*~data=user_id=0,application_id=42~hmac=e2e529959838b4c454b9ab8b8214c023563ae10a2fcb4e164558211ff9d01cf4",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Another Planet",
+            "length": "4:30",
+            "deezer": {
+              "id": 4348391242,
+              "link": "https://www.deezer.com/track/4348391242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/4/0/85426e104c89071b51de45d8dfb656bc.mp3?hdnea=exp=1795721605~acl=/api/1/1/8/5/4/0/85426e104c89071b51de45d8dfb656bc.mp3*~data=user_id=0,application_id=42~hmac=7a32b0692ab2164bd6565d4c6b1dd9247c07198698daae34e8ddacd4643271b1",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Moron",
+            "length": "4:46",
+            "deezer": {
+              "id": 4348391252,
+              "link": "https://www.deezer.com/track/4348391252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/e/0/a9e90866682d1677185c38a93facf835.mp3?hdnea=exp=1795721605~acl=/api/1/1/a/9/e/0/a9e90866682d1677185c38a93facf835.mp3*~data=user_id=0,application_id=42~hmac=e454a875762594313b5d54d9bf55aad02bd4bf5a5cb2834b3e4e00f04d39683d",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Electric Bear",
+            "length": "4:28",
+            "deezer": {
+              "id": 4348391262,
+              "link": "https://www.deezer.com/track/4348391262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/b/0/ddb31239419eb9daef3cd66e73deda5f.mp3?hdnea=exp=1795721605~acl=/api/1/1/d/d/b/0/ddb31239419eb9daef3cd66e73deda5f.mp3*~data=user_id=0,application_id=42~hmac=ea0d592d4f0d3eed580344a23354958d18c3ce2ddc9368988ca0f606d968a6c5",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "No Encores",
+            "length": "4:25",
+            "deezer": {
+              "id": 4348391272,
+              "link": "https://www.deezer.com/track/4348391272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/e/0/fbebcb7b9bf39cf27c999d9516d5880e.mp3?hdnea=exp=1795721605~acl=/api/1/1/f/b/e/0/fbebcb7b9bf39cf27c999d9516d5880e.mp3*~data=user_id=0,application_id=42~hmac=4696ea3b6406f2a07c964da8c8affee0d83b7d8c476d832ffe63f35029b2aa90",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "N.L.",
+            "length": "5:36",
+            "deezer": {
+              "id": 4348391282,
+              "link": "https://www.deezer.com/track/4348391282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/a/0/9bad201eb30799478e61a6852b95d6b0.mp3?hdnea=exp=1795721605~acl=/api/1/1/9/b/a/0/9bad201eb30799478e61a6852b95d6b0.mp3*~data=user_id=0,application_id=42~hmac=b3d14c39f066c7e7ba68fb014abddd1313594a91d5954d0fc5d010bce080de49",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Shrink",
+            "length": "4:25",
+            "deezer": {
+              "id": 4348391292,
+              "link": "https://www.deezer.com/track/4348391292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/6/0/9d69186eb4353f1aa6fb7c58f5c9f50c.mp3?hdnea=exp=1795721605~acl=/api/1/1/9/d/6/0/9d69186eb4353f1aa6fb7c58f5c9f50c.mp3*~data=user_id=0,application_id=42~hmac=3338950191a909595086da5f00a3994a626be65352511c6444dde2ea09bfbaa0",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Your Signs",
+            "length": "6:46",
+            "deezer": {
+              "id": 4348391302,
+              "link": "https://www.deezer.com/track/4348391302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/d/0/39dd2da1b1e69e4e6a2a37ca0887d663.mp3?hdnea=exp=1795721605~acl=/api/1/1/3/9/d/0/39dd2da1b1e69e4e6a2a37ca0887d663.mp3*~data=user_id=0,application_id=42~hmac=17cc09ecdcfaeb8c06dace7ee514ee68c445f95a882c7647f7647d7f5232c338",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "0–4",
+            "length": "2:20",
+            "deezer": {
+              "id": 4348391312,
+              "link": "https://www.deezer.com/track/4348391312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/8/0/0e8f2e94584e4d9869486c81291484eb.mp3?hdnea=exp=1795721605~acl=/api/1/1/0/e/8/0/0e8f2e94584e4d9869486c81291484eb.mp3*~data=user_id=0,application_id=42~hmac=32067dfe1e19d04b8d9cb9049b5bf67294e6a7374d6e07539c69e3965211c81e",
+              "preview_expires": "2026-11-26T19:33:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Notwist/Shrink.jpg"
+}

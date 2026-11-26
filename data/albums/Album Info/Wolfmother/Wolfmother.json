@@ -1,0 +1,193 @@
+{
+  "title": "Wolfmother",
+  "artist": "Wolfmother",
+  "year": 2005,
+  "release_date": "2005-10-31",
+  "type": "Album",
+  "description": "Wolfmother is the debut studio album by Australian rock band Wolfmother, originally released on 31 October 2005 in Australia through Modular Recordings. The album was later released internationally at various dates in 2006 through Interscope Records, with the addition of \"Love Train\" and a rearranged track listing. Wolfmother peaked at number three on the Australian ARIA Albums Chart and was certified five times platinum by the Australian Recording Industry Association. Six singles were released from Wolfmother's debut album: \"Mind's Eye\", \"White Unicorn\", \"Dimension\", \"Woman\", \"Love Train\" and \"Joker & the Thief\", the latter of which charted the highest at number eight on the ARIA Singles Chart. The album cover, which is taken from The Sea Witch by Frank Frazetta, shows a nymph standing against a blue/orange sky, on a rock, though because it displays nudity the album was sold in Wal-Mart stores with an alternate cover featuring the band's white logo against a black background. It is the only album to feature co-founding members Chris Ross and Myles Heskett, who left the band in August 2008.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "stoner rock",
+    "classic rock",
+    "psychedelic"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "stoner rock",
+    "classic rock",
+    "heavy",
+    "passionate",
+    "psychedelic"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bad80049-06eb-35f0-a109-f640ebd0a550",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfmother_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000756525",
+    "discogs": "https://www.discogs.com/master/98497",
+    "wikidata": "https://www.wikidata.org/wiki/Q1347447",
+    "deezer": "https://www.deezer.com/album/11192798"
+  },
+  "musicbrainz_id": "bad80049-06eb-35f0-a109-f640ebd0a550",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72",
+      "barcode": "9399066320360",
+      "title": "Wolfmother",
+      "disambiguation": null,
+      "date": "2005-10-31",
+      "country": "AU"
+    },
+    "total_tracks": 12,
+    "total_length": "51:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Colossal",
+            "length": "5:03",
+            "deezer": {
+              "id": 107352218,
+              "link": "https://www.deezer.com/track/107352218",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/c/0/e2ca0175353ee7f91e806269fc905784.mp3?hdnea=exp=1795724389~acl=/api/1/1/e/2/c/0/e2ca0175353ee7f91e806269fc905784.mp3*~data=user_id=0,application_id=42~hmac=9d6a44c34f2c3d426e4eb467177b73a488b09e6496e5e5659c694376ede374b1",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Woman",
+            "length": "2:56",
+            "deezer": {
+              "id": 107352210,
+              "link": "https://www.deezer.com/track/107352210",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/c/0/95c9008818750b3f52c885d531612b2b.mp3?hdnea=exp=1795724389~acl=/api/1/1/9/5/c/0/95c9008818750b3f52c885d531612b2b.mp3*~data=user_id=0,application_id=42~hmac=0ca99a4be81e8c83f745da91023669dddebbd115c3f313882d2b67133efb4b1f",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "White Unicorn",
+            "length": "5:02",
+            "deezer": {
+              "id": 107352208,
+              "link": "https://www.deezer.com/track/107352208",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/3/0/bc3a01c69049c8cb550a1f44a42903c2.mp3?hdnea=exp=1795724389~acl=/api/1/1/b/c/3/0/bc3a01c69049c8cb550a1f44a42903c2.mp3*~data=user_id=0,application_id=42~hmac=77874dcf6b7e1e071e6be896c5decf533521632e2435e79991e410f70999c5ed",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Pyramid",
+            "length": "4:28",
+            "deezer": {
+              "id": 107352222,
+              "link": "https://www.deezer.com/track/107352222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/d/0/fad3a46f9f7b90e5be2ce3bd512c3870.mp3?hdnea=exp=1795724389~acl=/api/1/1/f/a/d/0/fad3a46f9f7b90e5be2ce3bd512c3870.mp3*~data=user_id=0,application_id=42~hmac=00a4c793f96d5f033b64621b7a317e272eb20e72a0624124f4c0a91f63f563d6",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Mind’s Eye",
+            "length": "4:53",
+            "deezer": {
+              "id": 107352220,
+              "link": "https://www.deezer.com/track/107352220",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/c/0/69c0f6c80632b1c4b6998d494bc6b6dd.mp3?hdnea=exp=1795724389~acl=/api/1/1/6/9/c/0/69c0f6c80632b1c4b6998d494bc6b6dd.mp3*~data=user_id=0,application_id=42~hmac=9c5980c08d24d5e2191b289a10e2cdb753e2d49478b762394b399b3143e8d58a",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Joker & the Thief",
+            "length": "4:40",
+            "deezer": {
+              "id": 107352216,
+              "link": "https://www.deezer.com/track/107352216",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/c/0/2ec37387387833647eb6cdc3c1c6743a.mp3?hdnea=exp=1795724389~acl=/api/1/1/2/e/c/0/2ec37387387833647eb6cdc3c1c6743a.mp3*~data=user_id=0,application_id=42~hmac=32e734b157825fba78db02a2d74f56298d7e1f28cb02598cbe6ebf1d21b0e88d",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Dimension",
+            "length": "4:26",
+            "deezer": {
+              "id": 107352206,
+              "link": "https://www.deezer.com/track/107352206",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/8/0/d980149031aa23703df3ce972c76246f.mp3?hdnea=exp=1795724389~acl=/api/1/1/d/9/8/0/d980149031aa23703df3ce972c76246f.mp3*~data=user_id=0,application_id=42~hmac=bc05db180b1039eacfeca797dd9da20a654b19c8dec64f85e6305aef1c2036f6",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Where Eagles Have Been",
+            "length": "5:33",
+            "deezer": {
+              "id": 107352212,
+              "link": "https://www.deezer.com/track/107352212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/b/0/b3b68c9a03f92f0d3c58b6ee46a0fa77.mp3?hdnea=exp=1795724389~acl=/api/1/1/b/3/b/0/b3b68c9a03f92f0d3c58b6ee46a0fa77.mp3*~data=user_id=0,application_id=42~hmac=ee4d994682e0137ef114532378cf43a48df3d2441c955d167642ae01789f3995",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Apple Tree",
+            "length": "3:28",
+            "deezer": {
+              "id": 107352214,
+              "link": "https://www.deezer.com/track/107352214",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/6/0/ed65d4730109fdea75809df7208743b8.mp3?hdnea=exp=1795724389~acl=/api/1/1/e/d/6/0/ed65d4730109fdea75809df7208743b8.mp3*~data=user_id=0,application_id=42~hmac=283f7bf77c0f22964471e0ae7383cd2a4999ab3e2d2a5014008784f76de25ef1",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Tales From the Forest of Gnomes",
+            "length": "3:37",
+            "deezer": {
+              "id": 107352226,
+              "link": "https://www.deezer.com/track/107352226",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/1/0/6d1f0738fbbd08c54de1812534f0425c.mp3?hdnea=exp=1795724389~acl=/api/1/1/6/d/1/0/6d1f0738fbbd08c54de1812534f0425c.mp3*~data=user_id=0,application_id=42~hmac=df35bffb2168747825090c64917ae2feb3ccc0b458751c6485cb67603c48e1a9",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Witchcraft",
+            "length": "3:25",
+            "deezer": {
+              "id": 107352224,
+              "link": "https://www.deezer.com/track/107352224",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/5/0/95526579502b071d4f03a181c6835487.mp3?hdnea=exp=1795724389~acl=/api/1/1/9/5/5/0/95526579502b071d4f03a181c6835487.mp3*~data=user_id=0,application_id=42~hmac=cfa77950a18c0518f1552edc3167e4a19b6f1abfd32bfe1369696bb019f899c5",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Vagabond",
+            "length": "3:52",
+            "deezer": {
+              "id": 107352230,
+              "link": "https://www.deezer.com/track/107352230",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/6/0/816c730b8ce9b7e9cbaa3844df6f0bdc.mp3?hdnea=exp=1795724389~acl=/api/1/1/8/1/6/0/816c730b8ce9b7e9cbaa3844df6f0bdc.mp3*~data=user_id=0,application_id=42~hmac=5f24cadcbf3ab2a901df853c4c5488b0929e2e44a3e22482783c439e51aa2f68",
+              "preview_expires": "2026-11-26T20:19:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Wolfmother/Wolfmother.jpg"
+}

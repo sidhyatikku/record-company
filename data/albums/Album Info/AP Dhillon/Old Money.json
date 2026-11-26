@@ -1,0 +1,51 @@
+{
+  "title": "Old Money",
+  "artist": "AP Dhillon",
+  "year": 2024,
+  "release_date": "2024-08-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cc667178-e594-447b-b8bd-6b2a0308f701",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/623697751"
+  },
+  "musicbrainz_id": "cc667178-e594-447b-b8bd-6b2a0308f701",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bf959b0f-60b1-4d81-a0cd-d0cb836a3ecc",
+      "barcode": "602468090939",
+      "title": "Old Money",
+      "disambiguation": null,
+      "date": "2024-08-09",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Old Money",
+            "length": "2:08",
+            "deezer": {
+              "id": 2929783991,
+              "link": "https://www.deezer.com/track/2929783991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/4/0/7c40da6c489675446b98ddd67d229551.mp3?hdnea=exp=1795649341~acl=/api/1/1/7/c/4/0/7c40da6c489675446b98ddd67d229551.mp3*~data=user_id=0,application_id=42~hmac=878f12d910a0cb6a4f711e691884fd473e3c0760c4cb9edbbe8f1a161bff4cd6",
+              "preview_expires": "2026-11-25T23:29:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AP Dhillon/Old Money.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Can't Fight The Feeling",
+  "artist": "Matroda",
+  "year": 2023,
+  "release_date": "2023-02-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9401e36d-a12d-41e0-8147-0ec40ab5b617",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/399912707"
+  },
+  "musicbrainz_id": "9401e36d-a12d-41e0-8147-0ec40ab5b617",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d8fda03f-42f4-4f35-b5ab-605ca8051441",
+      "barcode": "8720923319059",
+      "title": "Can’t Fight the Feeling",
+      "disambiguation": null,
+      "date": "2023-02-17",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Can’t Fight the Feeling",
+            "length": "2:51",
+            "deezer": {
+              "id": 2121654127,
+              "link": "https://www.deezer.com/track/2121654127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/c/0/7fc787cf2f33f3b227538c3690b2138a.mp3?hdnea=exp=1795718305~acl=/api/1/1/7/f/c/0/7fc787cf2f33f3b227538c3690b2138a.mp3*~data=user_id=0,application_id=42~hmac=59f27e4e36cf1526d24bdc7b9a2d5d6d1260b50c3ff3a6ab891cc14a7ddd5ba3",
+              "preview_expires": "2026-11-26T18:38:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Matroda/Can’t Fight The Feeling.png"
+}

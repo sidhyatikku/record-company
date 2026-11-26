@@ -1,0 +1,126 @@
+{
+  "title": "Rockin’ Robin",
+  "artist": "Bobby Day",
+  "year": 1994,
+  "release_date": "1994",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "pop"
+  ],
+  "tags": [
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a607512b-b700-300e-8005-5bc6105f9214",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/553378"
+  },
+  "musicbrainz_id": "a607512b-b700-300e-8005-5bc6105f9214",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/db6f3513-4a47-4979-8606-3446ccb7d8bb",
+      "barcode": "8711539620035",
+      "title": "Rockin’ Robin",
+      "disambiguation": null,
+      "date": "1994",
+      "country": null
+    },
+    "total_tracks": 14,
+    "total_length": "35:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rockin’ Robin",
+            "length": "2:36",
+            "deezer": {
+              "id": 6060276,
+              "link": "https://www.deezer.com/track/6060276",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/6/0/7f62accb73383b4b3c668d9f8ace7630.mp3?hdnea=exp=1795652434~acl=/api/1/1/7/f/6/0/7f62accb73383b4b3c668d9f8ace7630.mp3*~data=user_id=0,application_id=42~hmac=6aa0a6ca065eada0bd73aadf456644c9c78d14f5f825cec0b1a73fbaa82b8917",
+              "preview_expires": "2026-11-26T00:20:34Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Bluebird, the Buzzard and the Oriole",
+            "length": "2:23"
+          },
+          {
+            "number": "3",
+            "title": "Over and Over",
+            "length": "2:22"
+          },
+          {
+            "number": "4",
+            "title": "My Blue Heaven",
+            "length": "2:36"
+          },
+          {
+            "number": "5",
+            "title": "Little Bitty Pretty One",
+            "length": "2:28",
+            "deezer": {
+              "id": 6060278,
+              "link": "https://www.deezer.com/track/6060278",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/9/0/7e90ebe673a4efdb326c0f8a056c2cbb.mp3?hdnea=exp=1795652434~acl=/api/1/1/7/e/9/0/7e90ebe673a4efdb326c0f8a056c2cbb.mp3*~data=user_id=0,application_id=42~hmac=b8e08afb7c4df9afc9d6774146800cd9bef229820ca39904da81058ba0e67c88",
+              "preview_expires": "2026-11-26T00:20:34Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "That’s All I Want",
+            "length": "2:13"
+          },
+          {
+            "number": "7",
+            "title": "Mr. & Mrs. Rock ’n’ Roll",
+            "length": "2:01"
+          },
+          {
+            "number": "8",
+            "title": "Sweet Little Thing",
+            "length": "2:23"
+          },
+          {
+            "number": "9",
+            "title": "Three Young Rebs From Georgia",
+            "length": "2:36"
+          },
+          {
+            "number": "10",
+            "title": "Gotta New Girl",
+            "length": "2:20"
+          },
+          {
+            "number": "11",
+            "title": "Say Yes",
+            "length": "3:10"
+          },
+          {
+            "number": "12",
+            "title": "Unchained Melody",
+            "length": "2:50"
+          },
+          {
+            "number": "13",
+            "title": "Love Is a One-Time Affair",
+            "length": "2:33"
+          },
+          {
+            "number": "14",
+            "title": "Little Turtle Dove",
+            "length": "2:45"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bobby Day/Rockin' Robin- Greatetst Hits.jpg"
+}

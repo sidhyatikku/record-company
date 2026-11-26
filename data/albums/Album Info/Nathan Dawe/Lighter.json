@@ -1,0 +1,59 @@
+{
+  "title": "Lighter",
+  "artist": "Nathan Dawe feat. KSI",
+  "year": 2020,
+  "release_date": "2020-07-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance"
+  ],
+  "tags": [
+    "dance"
+  ],
+  "rating": {
+    "value_out_of_5": 1,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cb94057e-cfa0-4d96-ab19-4a93c85b7851",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/162153722"
+  },
+  "musicbrainz_id": "cb94057e-cfa0-4d96-ab19-4a93c85b7851",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f7e385e0-8cde-43d6-818d-990a19b0850e",
+      "barcode": "190295193157",
+      "title": "Lighter",
+      "disambiguation": null,
+      "date": "2020-07-24",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lighter",
+            "length": "3:02",
+            "deezer": {
+              "id": 1029192492,
+              "link": "https://www.deezer.com/track/1029192492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/5/0/a45d78b4cb04fd09c39dec1d042429c2.mp3?hdnea=exp=1795718745~acl=/api/1/1/a/4/5/0/a45d78b4cb04fd09c39dec1d042429c2.mp3*~data=user_id=0,application_id=42~hmac=9f948d8d2aa5a6f0719f8433d5ac22b48bee1b0440ab1cb2cbee07daec68f0fa",
+              "preview_expires": "2026-11-26T18:45:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nathan Dawe/Lighter.jpg"
+}

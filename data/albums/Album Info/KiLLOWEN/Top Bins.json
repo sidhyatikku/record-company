@@ -1,0 +1,51 @@
+{
+  "title": "Top Bins",
+  "artist": "Tommy Villiers, KiLLOWEN",
+  "year": 2024,
+  "release_date": "2024-06-13",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage",
+    "drum and bass",
+    "liquid funk"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1yUM214n9BaPZw6EcjqeDa",
+    "deezer": "https://www.deezer.com/album/788234661"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1yUM214n9BaPZw6EcjqeDa",
+      "title": "Top Bins",
+      "date": "2024-06-13"
+    },
+    "total_tracks": 1,
+    "total_length": "2:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Top Bins",
+            "length": "2:00",
+            "deezer": {
+              "id": 3460401721,
+              "link": "https://www.deezer.com/track/3460401721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/a/0/ada2cb0f9bf5436250b6c916bcf4f86d.mp3?hdnea=exp=1795656203~acl=/api/1/1/a/d/a/0/ada2cb0f9bf5436250b6c916bcf4f86d.mp3*~data=user_id=0,application_id=42~hmac=7920ea9901c0808c29fbb15d389cc23b78dae6f5c30df0447dca8662dca3634d",
+              "preview_expires": "2026-11-26T01:23:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/KiLLOWEN/Top Bins.jpg"
+}

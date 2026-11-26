@@ -1,0 +1,51 @@
+{
+  "title": "925",
+  "artist": "Sammy Virji, Chris Lake & RoRo",
+  "year": 2025,
+  "release_date": "2025-08-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/38ec6466-d38a-470c-a166-f4fc42e232c5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/805214361"
+  },
+  "musicbrainz_id": "38ec6466-d38a-470c-a166-f4fc42e232c5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a2a3d6ee-a99e-4c43-b9ce-79ee9d37c826",
+      "barcode": "00602478852848",
+      "title": "925",
+      "disambiguation": null,
+      "date": "2025-08-22",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "925",
+            "length": "2:48",
+            "deezer": {
+              "id": 3509469501,
+              "link": "https://www.deezer.com/track/3509469501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/6/0/a3661d6db8c91ccc8bfdd9c88d50bb9d.mp3?hdnea=exp=1795720296~acl=/api/1/1/a/3/6/0/a3661d6db8c91ccc8bfdd9c88d50bb9d.mp3*~data=user_id=0,application_id=42~hmac=08f5001486bb29c1f9ebac62aab58abda67c19f894b1bffca699a4734341e4bd",
+              "preview_expires": "2026-11-26T19:11:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sammy Virji/925.jpg"
+}

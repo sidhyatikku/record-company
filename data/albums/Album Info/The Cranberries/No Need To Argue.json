@@ -1,0 +1,231 @@
+{
+  "title": "No Need to Argue",
+  "artist": "The Cranberries",
+  "year": 1994,
+  "release_date": "1994-09",
+  "type": "Album",
+  "description": "No Need to Argue is the second studio album by Irish alternative rock band the Cranberries, released on 3 October 1994, through Island Records. It is the band's best-selling album, and had sold over 17 million copies worldwide as of 2014. It contains one of the band's most well-known songs, \"Zombie\". The album's mood is considered to be darker and harsher than that on the band's debut album Everybody Else Is Doing It, So Why Can't We?, released a year prior.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "pop",
+    "pop rock",
+    "blues",
+    "dream pop",
+    "electronic",
+    "folk rock",
+    "indie rock",
+    "jangle pop",
+    "post-punk",
+    "soft rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "alternative and punk",
+    "rock",
+    "pop",
+    "pop rock",
+    "alternative-rock",
+    "alternative/indie",
+    "blues",
+    "dream pop",
+    "electronic",
+    "folk rock",
+    "indie rock",
+    "jangle pop",
+    "liste de courses",
+    "post-punk",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 17
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5ece0c50-bb0b-3cdf-90e2-287a60136d69",
+    "wikipedia": "https://en.wikipedia.org/wiki/No_Need_to_Argue",
+    "allmusic": "https://www.allmusic.com/album/mw0000626604",
+    "discogs": "https://www.discogs.com/master/51107",
+    "wikidata": "https://www.wikidata.org/wiki/Q629995",
+    "deezer": "https://www.deezer.com/album/293664"
+  },
+  "musicbrainz_id": "5ece0c50-bb0b-3cdf-90e2-287a60136d69",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/23e655b0-fd19-4d75-9ca0-7677d37c07ab",
+      "barcode": "731452405029",
+      "title": "No Need to Argue",
+      "disambiguation": "with unlisted bonus track",
+      "date": "1994",
+      "country": "AU"
+    },
+    "total_tracks": 14,
+    "total_length": "59:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ode to My Family",
+            "length": "4:31",
+            "deezer": {
+              "id": 3040993,
+              "link": "https://www.deezer.com/track/3040993",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/f/0/7df2e0cceb2dd5f7331f07e253357a50.mp3?hdnea=exp=1795721451~acl=/api/1/1/7/d/f/0/7df2e0cceb2dd5f7331f07e253357a50.mp3*~data=user_id=0,application_id=42~hmac=5db357b50b87af8bced0435330aff36831044a639bf59a4e0d2808b789c7dc7f",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Can’t Be With You",
+            "length": "3:08",
+            "deezer": {
+              "id": 3040994,
+              "link": "https://www.deezer.com/track/3040994",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/0/0/3307e0b98d8e3fa485675e7bd09dbd4c.mp3?hdnea=exp=1795721451~acl=/api/1/1/3/3/0/0/3307e0b98d8e3fa485675e7bd09dbd4c.mp3*~data=user_id=0,application_id=42~hmac=9afe744eb1bdec6df7b8bddb1d41faa1cbc5e9d3299cfd61be9a59693dfafe41",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Twenty One",
+            "length": "3:08",
+            "deezer": {
+              "id": 3040995,
+              "link": "https://www.deezer.com/track/3040995",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/d/0/e7df5b9c37598422413b6c354b2bf3bd.mp3?hdnea=exp=1795721451~acl=/api/1/1/e/7/d/0/e7df5b9c37598422413b6c354b2bf3bd.mp3*~data=user_id=0,application_id=42~hmac=720da324258eb08a64bb7f4f6a9037bf86ffc087920a2aeaf5d3dd82c76dacd9",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Zombie",
+            "length": "5:06",
+            "deezer": {
+              "id": 3040996,
+              "link": "https://www.deezer.com/track/3040996",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/b/0/06b1ebbd9ddad2e3c77fb34201b5460f.mp3?hdnea=exp=1795721451~acl=/api/1/1/0/6/b/0/06b1ebbd9ddad2e3c77fb34201b5460f.mp3*~data=user_id=0,application_id=42~hmac=551b203c20ec7cbc49d8c04f9fcb385c1da78456ef156ff567e71b2e85bd20b8",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Empty",
+            "length": "3:26",
+            "deezer": {
+              "id": 3040997,
+              "link": "https://www.deezer.com/track/3040997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/1/0/041f19b916d159bad5d7e58068aca653.mp3?hdnea=exp=1795721451~acl=/api/1/1/0/4/1/0/041f19b916d159bad5d7e58068aca653.mp3*~data=user_id=0,application_id=42~hmac=2536e18fad1f831dd03c0e4c2d1e3619b1247697591fe64cb7497a4866bd447b",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Everything I Said",
+            "length": "3:53",
+            "deezer": {
+              "id": 3040998,
+              "link": "https://www.deezer.com/track/3040998",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/a/0/14a85a1e599ea05023457215cdd9d71c.mp3?hdnea=exp=1795721451~acl=/api/1/1/1/4/a/0/14a85a1e599ea05023457215cdd9d71c.mp3*~data=user_id=0,application_id=42~hmac=1ebf2965ef7487e24a148f2d7c7270eb262a3b132a51ad4658f04f9a75d5b6c6",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Icicle Melts",
+            "length": "2:54",
+            "deezer": {
+              "id": 3040999,
+              "link": "https://www.deezer.com/track/3040999",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/6/0/3f6c974fc7b3651b7f9031e2e8d11eab.mp3?hdnea=exp=1795721451~acl=/api/1/1/3/f/6/0/3f6c974fc7b3651b7f9031e2e8d11eab.mp3*~data=user_id=0,application_id=42~hmac=0daf1fe5eefcf296f93133aa7bc32c2d15d96cdbf0f38375aad081b82686e570",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Disappointment",
+            "length": "4:15",
+            "deezer": {
+              "id": 3041000,
+              "link": "https://www.deezer.com/track/3041000",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/d/0/dfdc51f037cbbd042db818beec003f7f.mp3?hdnea=exp=1795721451~acl=/api/1/1/d/f/d/0/dfdc51f037cbbd042db818beec003f7f.mp3*~data=user_id=0,application_id=42~hmac=fc9aceef159895b2b701886d0adb36f178f8051bab30775915b12d5e274d132e",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ridiculous Thoughts",
+            "length": "4:31",
+            "deezer": {
+              "id": 3041001,
+              "link": "https://www.deezer.com/track/3041001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/9/0/909d1405c859bd8a709dc4498f1ac867.mp3?hdnea=exp=1795721451~acl=/api/1/1/9/0/9/0/909d1405c859bd8a709dc4498f1ac867.mp3*~data=user_id=0,application_id=42~hmac=358856683c3bc53e8f9302cb872f64cf73f3d739616c0b4348ab6edd1ff6505e",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dreaming My Dreams",
+            "length": "3:37",
+            "deezer": {
+              "id": 3041002,
+              "link": "https://www.deezer.com/track/3041002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/d/0/a7d231e16b50838810dfd48a5c9a5dec.mp3?hdnea=exp=1795721451~acl=/api/1/1/a/7/d/0/a7d231e16b50838810dfd48a5c9a5dec.mp3*~data=user_id=0,application_id=42~hmac=028b6d6b625c2416eba4a083383bf38e4c434781412e45992c5f1f540c485c3e",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Yeat’s Grave",
+            "length": "3:00",
+            "deezer": {
+              "id": 3041003,
+              "link": "https://www.deezer.com/track/3041003",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/2/0/0d2eee733703cbce593ea5af2b099e91.mp3?hdnea=exp=1795721451~acl=/api/1/1/0/d/2/0/0d2eee733703cbce593ea5af2b099e91.mp3*~data=user_id=0,application_id=42~hmac=aa06cafc21e61197013a097afbff1eefd78d059e405a2da3ff00a7da426237e8",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Daffodil Lament",
+            "length": "6:14",
+            "deezer": {
+              "id": 3041004,
+              "link": "https://www.deezer.com/track/3041004",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/8/0/908f0f16c7b3d78fe9e60cc93248e4aa.mp3?hdnea=exp=1795721451~acl=/api/1/1/9/0/8/0/908f0f16c7b3d78fe9e60cc93248e4aa.mp3*~data=user_id=0,application_id=42~hmac=ae2ddf5a270303519314e62cac85dfcdac79622090a2244c0689eb847bca67be",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "No Need to Argue",
+            "length": "6:54",
+            "deezer": {
+              "id": 3041005,
+              "link": "https://www.deezer.com/track/3041005",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/7/0/297a37fcbda18ad421c5d9530380ad69.mp3?hdnea=exp=1795721451~acl=/api/1/1/2/9/7/0/297a37fcbda18ad421c5d9530380ad69.mp3*~data=user_id=0,application_id=42~hmac=ddf7792c658104ff59b8c2c5ffae8fcc38b170ae629a5516536d8038b55f2839",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "So Cold in Ireland",
+            "length": "4:45",
+            "deezer": {
+              "id": 3041009,
+              "link": "https://www.deezer.com/track/3041009",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/f/0/d1f3a0a1047477e12d368c64fd0b1558.mp3?hdnea=exp=1795721451~acl=/api/1/1/d/1/f/0/d1f3a0a1047477e12d368c64fd0b1558.mp3*~data=user_id=0,application_id=42~hmac=9a4f5adf96f6fe03017ef43031a91c425b1fadadf836dfb85d349270ae910e0c",
+              "preview_expires": "2026-11-26T19:30:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Cranberries/No Need To Argue.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Rain (extended mix)",
+  "artist": "Duke Boara",
+  "year": 2021,
+  "release_date": "2021-01-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cb9425a4-1c74-48b1-a686-f026659f58cf",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "cb9425a4-1c74-48b1-a686-f026659f58cf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b768d4b0-843e-41e3-b62c-20e92173144d",
+      "barcode": null,
+      "title": "Rain (extended mix)",
+      "disambiguation": null,
+      "date": "2021-01-22",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "7:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rain (extended mix)",
+            "length": "7:29"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Duke Boara/Rain.jpg"
+}

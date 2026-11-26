@@ -1,0 +1,57 @@
+{
+  "title": "Bambiha Bole",
+  "artist": "Amrit Maan & Sidhu Moose Wala",
+  "year": 2020,
+  "release_date": "2020-06-11",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "hip hop"
+  ],
+  "tags": [
+    "bhangra",
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6cd80edd-7905-4ce8-aad8-4e8bdb1d3364",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/788439931"
+  },
+  "musicbrainz_id": "6cd80edd-7905-4ce8-aad8-4e8bdb1d3364",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b79e0e0e-878a-46cd-a9d3-c974f8abecbd",
+      "barcode": "810059349650",
+      "title": "Bambiha Bole",
+      "disambiguation": null,
+      "date": "2020-06-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "5:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bambiha Bole",
+            "length": "5:01",
+            "deezer": {
+              "id": 3461073161,
+              "link": "https://www.deezer.com/track/3461073161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/1/0/ac1ff264692f5cc444eeb55e77f61a7e.mp3?hdnea=exp=1795720572~acl=/api/1/1/a/c/1/0/ac1ff264692f5cc444eeb55e77f61a7e.mp3*~data=user_id=0,application_id=42~hmac=13e44d2cfe0676ae46553f5d7daa50a8939d9f6194ed97d731af9239543ef5fd",
+              "preview_expires": "2026-11-26T19:16:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Bambiha Bole.jpg"
+}

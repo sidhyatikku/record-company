@@ -1,0 +1,76 @@
+{
+  "title": "Dr. Feelgood",
+  "artist": "Mötley Crüe",
+  "year": 1989,
+  "release_date": "1989-09-25",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "rock",
+    "arena rock",
+    "hard rock"
+  ],
+  "tags": [
+    "rock",
+    "arena rock",
+    "hard rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c678a19e-2d51-49d8-89a7-5779e47fd97e",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/94235",
+    "deezer": "https://www.deezer.com/album/901402342"
+  },
+  "musicbrainz_id": "c678a19e-2d51-49d8-89a7-5779e47fd97e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3264ba83-2e40-4973-b224-9905bf4ad8fe",
+      "barcode": "075596668026",
+      "title": "Dr. Feelgood",
+      "disambiguation": null,
+      "date": "1989",
+      "country": "DE"
+    },
+    "total_tracks": 3,
+    "total_length": "12:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "8cm CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dr. Feelgood",
+            "length": "4:54",
+            "deezer": {
+              "id": 3785912762,
+              "link": "https://www.deezer.com/track/3785912762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/2/0/932e02c09ec8342062d91dd5ad36b6f1.mp3?hdnea=exp=1795718644~acl=/api/1/1/9/3/2/0/932e02c09ec8342062d91dd5ad36b6f1.mp3*~data=user_id=0,application_id=42~hmac=42019069dc2622790686a0fac3cbfe9112a699ad35895b414a6f3e11537af5e6",
+              "preview_expires": "2026-11-26T18:44:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sticky Sweet",
+            "length": "3:55",
+            "deezer": {
+              "id": 3785912922,
+              "link": "https://www.deezer.com/track/3785912922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/8/0/118117cff426735d297c9bad270ab017.mp3?hdnea=exp=1795718644~acl=/api/1/1/1/1/8/0/118117cff426735d297c9bad270ab017.mp3*~data=user_id=0,application_id=42~hmac=3b0d6c6d39e06faec5c833196281b6dcf3170a48072ce8bbdd91ac76a2876c19",
+              "preview_expires": "2026-11-26T18:44:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "All in the Name of…",
+            "length": "3:40"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mötley Crüe/Dr. Feelgood.jpg"
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Delhi Belly",
+  "artist": "Ram Sampath",
+  "year": 2011,
+  "release_date": "2011-05-28",
+  "type": "Album + Soundtrack",
+  "description": "Delhi Belly is a 2011 Indian action comedy film written by Akshat Verma and directed by Abhinay Deo. It stars Imran Khan, Kunaal Roy Kapur, Vir Das, Poorna Jagannathan and Shenaz Treasurywala. It is a Hinglish-language film, with 70% of the dialogue in English and 30% of the dialogue in Hindi. The film is produced by Aamir Khan Productions and UTV Motion Pictures. The theatrical trailer of the film premiered with Aamir Khan's Dhobi Ghat on 21 January 2011 while the film was released on 1 July 2011, along with a Hindi dubbed version. The film was given an 'A' certificate for its profanity, some violence and sexual content and is often dubbed as a modern cult classic. The film was remade in Tamil as Settai.",
+  "genres": [
+    "filmi",
+    "pop"
+  ],
+  "tags": [
+    "filmi",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7855e4a6-ba65-4f36-9b4b-4bf24ea575e8",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delhi_Belly_(film)",
+    "wikidata": "https://www.wikidata.org/wiki/Q3021587",
+    "deezer": null
+  },
+  "musicbrainz_id": "7855e4a6-ba65-4f36-9b4b-4bf24ea575e8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/045c015b-c34b-46fb-afb8-1e329a59246a",
+      "barcode": "886448655909",
+      "title": "Delhi Belly: Original Motion Picture Soundtrack",
+      "disambiguation": null,
+      "date": "2020-07-24",
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "38:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bhaag D.K. Bose, Aandhi Aayi",
+            "length": "4:02"
+          },
+          {
+            "number": "2",
+            "title": "Nakkaddwaley Disco, Udhaarwaley Khisko",
+            "length": "3:58",
+            "artist": "Keerthi Sagathia"
+          },
+          {
+            "number": "3",
+            "title": "Saigal Blues",
+            "length": "3:55",
+            "artist": "Chetan Shashital"
+          },
+          {
+            "number": "4",
+            "title": "Bedardi Raja",
+            "length": "2:58",
+            "artist": "Sona Mohapatra"
+          },
+          {
+            "number": "5",
+            "title": "Jaa Chudail",
+            "length": "3:18",
+            "artist": "Suraj Jagan"
+          },
+          {
+            "number": "6",
+            "title": "Tere Siva",
+            "length": "4:39",
+            "artist": "Ram Sampath & Tarannum Mallik"
+          },
+          {
+            "number": "7",
+            "title": "Switty Tera Pyaar Chaida",
+            "length": "2:53",
+            "artist": "Keerthi Sagathia"
+          },
+          {
+            "number": "8",
+            "title": "I Hate You - Like I Love You",
+            "length": "5:50",
+            "artist": "Keerthi Sagathia, Sona Mohapatra & Shazneen Arethna"
+          },
+          {
+            "number": "9",
+            "title": "Bedardi Raja Grind Mix",
+            "length": "3:04",
+            "artist": "Sona Mohapatra"
+          },
+          {
+            "number": "10",
+            "title": "Switty Punk",
+            "length": "3:30",
+            "artist": "Keerthi Sagathia & Ram Sampath"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Ram Sampath/Delhi Belly (Original Motion Picture Soundtrack).jpg"
+}

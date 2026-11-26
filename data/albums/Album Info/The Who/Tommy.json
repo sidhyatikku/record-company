@@ -1,0 +1,356 @@
+{
+  "title": "Tommy",
+  "artist": "The Who",
+  "year": 1969,
+  "release_date": "1969-05-23",
+  "type": "Album",
+  "description": "Tommy is the fourth studio album by the English rock band the Who, released on 19 May 1969. Written primarily by guitarist Pete Townshend, Tommy is a double album and an early rock opera that tells the story of the fictional Tommy Walker and his path to becoming a spiritual leader and messianic figure.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "classic rock",
+    "rock opera",
+    "art rock",
+    "blues rock",
+    "progressive"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "classic rock",
+    "rock opera",
+    "art rock",
+    "adolescence",
+    "album rock",
+    "alienation",
+    "anthemic",
+    "blues rock",
+    "childhood",
+    "concept album",
+    "dark",
+    "disturbing",
+    "drugs",
+    "energetic",
+    "epic",
+    "existential",
+    "family",
+    "hallucinogens",
+    "hardrock",
+    "introspective",
+    "lonely",
+    "male vocalist",
+    "melodic",
+    "mountains",
+    "narrative",
+    "passionate",
+    "progressive",
+    "quirky",
+    "spiritual",
+    "sports",
+    "surreal",
+    "theatrical",
+    "trauma",
+    "triumphant"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 16
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0e587339-406a-3d21-8678-73e46e250379",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommy_(The_Who_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000392525",
+    "discogs": "https://www.discogs.com/master/68455",
+    "wikidata": "https://www.wikidata.org/wiki/Q372055",
+    "deezer": "https://www.deezer.com/album/94830112"
+  },
+  "musicbrainz_id": "0e587339-406a-3d21-8678-73e46e250379",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f43f6c77-ebe7-4bc5-a7d1-7729617b11e8",
+      "barcode": "00602567803218",
+      "title": "Tommy",
+      "disambiguation": null,
+      "date": "2019-04-26",
+      "country": "XW"
+    },
+    "total_tracks": 24,
+    "total_length": "1:14:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Overture",
+            "length": "5:20",
+            "deezer": {
+              "id": 670997432,
+              "link": "https://www.deezer.com/track/670997432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/7/0/d27da63a1f3b2dd3e6dc8331a173927b.mp3?hdnea=exp=1795721846~acl=/api/1/1/d/2/7/0/d27da63a1f3b2dd3e6dc8331a173927b.mp3*~data=user_id=0,application_id=42~hmac=b6eb147175abb0c724f65c8ac3307d7cb4d22b22165d646e88ea942a9f8e91b2",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "It’s a Boy",
+            "length": "0:39",
+            "deezer": {
+              "id": 670997442,
+              "link": "https://www.deezer.com/track/670997442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/d/0/72db5ad3cc214fdbbdffa155443b4458.mp3?hdnea=exp=1795721846~acl=/api/1/1/7/2/d/0/72db5ad3cc214fdbbdffa155443b4458.mp3*~data=user_id=0,application_id=42~hmac=3d4ca0192f895f71374b1303509adff96359ccae6d771ce38b53c1068fde9a66",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "1921",
+            "length": "2:49",
+            "deezer": {
+              "id": 670997452,
+              "link": "https://www.deezer.com/track/670997452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/2/0/962191a549087570138e412b27d0a72d.mp3?hdnea=exp=1795721846~acl=/api/1/1/9/6/2/0/962191a549087570138e412b27d0a72d.mp3*~data=user_id=0,application_id=42~hmac=05dba6e1abcb8b6ce20dcd1f41e12f64504923c03583563554e8ac6c82ba9aef",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Amazing Journey",
+            "length": "5:04",
+            "deezer": {
+              "id": 670997462,
+              "link": "https://www.deezer.com/track/670997462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/6/0/bf671aa1ee410b818cb09080b756893e.mp3?hdnea=exp=1795721846~acl=/api/1/1/b/f/6/0/bf671aa1ee410b818cb09080b756893e.mp3*~data=user_id=0,application_id=42~hmac=6c99c19502c85b5e8174589f500b16c2f3ec40aaa23e68047bbd3f25e5369dbd",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sparks",
+            "length": "2:05",
+            "deezer": {
+              "id": 670997472,
+              "link": "https://www.deezer.com/track/670997472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/8/0/898adf6b5cca8d843c2ed34ca10c86da.mp3?hdnea=exp=1795721846~acl=/api/1/1/8/9/8/0/898adf6b5cca8d843c2ed34ca10c86da.mp3*~data=user_id=0,application_id=42~hmac=874521c2d4e69cb0c280aa9c715b8a28c4bd8be3089dfb4ec2f94d99b93a4106",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Eyesight to the Blind (The Hawker)",
+            "length": "2:15",
+            "deezer": {
+              "id": 670997482,
+              "link": "https://www.deezer.com/track/670997482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/1/0/2f1b2419642e7ab8e845f40666542794.mp3?hdnea=exp=1795721846~acl=/api/1/1/2/f/1/0/2f1b2419642e7ab8e845f40666542794.mp3*~data=user_id=0,application_id=42~hmac=44fe3d4130065c0f4ab46c1fd603d168ccdeabeb7478481477eabd93b146afd0",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Christmas",
+            "length": "4:35",
+            "deezer": {
+              "id": 670997492,
+              "link": "https://www.deezer.com/track/670997492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/c/0/c6cfbe0d7e1725d13c82c2a5cddb27da.mp3?hdnea=exp=1795721846~acl=/api/1/1/c/6/c/0/c6cfbe0d7e1725d13c82c2a5cddb27da.mp3*~data=user_id=0,application_id=42~hmac=1b00324f0c509fcb861ab726640d70c241218c2a38151c24129e36311302d08e",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cousin Kevin",
+            "length": "4:07",
+            "deezer": {
+              "id": 670997502,
+              "link": "https://www.deezer.com/track/670997502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/7/0/1a77a777ad66b7a63fa476d20d75d31c.mp3?hdnea=exp=1795721846~acl=/api/1/1/1/a/7/0/1a77a777ad66b7a63fa476d20d75d31c.mp3*~data=user_id=0,application_id=42~hmac=a07ae8bbcd56916813f0428337cda8bccf69200ce8f129122f24a9b67ab54e11",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Acid Queen",
+            "length": "3:34",
+            "deezer": {
+              "id": 670997512,
+              "link": "https://www.deezer.com/track/670997512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/4/0/0f48a2c0e17845055fdb051d0f47c344.mp3?hdnea=exp=1795721846~acl=/api/1/1/0/f/4/0/0f48a2c0e17845055fdb051d0f47c344.mp3*~data=user_id=0,application_id=42~hmac=c5621744c53a2d89a87bce46c7f2ee645ad374ba4ab5b7e55364c35f4af18755",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Underture",
+            "length": "10:04",
+            "deezer": {
+              "id": 670997522,
+              "link": "https://www.deezer.com/track/670997522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/4/0/a64f439c2b5c0fbd5762aaaa3f598c30.mp3?hdnea=exp=1795721846~acl=/api/1/1/a/6/4/0/a64f439c2b5c0fbd5762aaaa3f598c30.mp3*~data=user_id=0,application_id=42~hmac=d2273116e9cfa8e25282d60518cf75adc594db4317b9bb4e877b2fb9caec63a7",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Do You Think It’s Alright?",
+            "length": "0:24",
+            "deezer": {
+              "id": 670997532,
+              "link": "https://www.deezer.com/track/670997532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a61584746b78c82cec2886541065d1d.mp3?hdnea=exp=1795721846~acl=/api/1/1/8/a/6/0/8a61584746b78c82cec2886541065d1d.mp3*~data=user_id=0,application_id=42~hmac=fd824922865a9adb8ad3a2d5bad9f11ebbdac5044d0d88feda1ed2930abaaa28",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Fiddle About",
+            "length": "1:31",
+            "deezer": {
+              "id": 670997542,
+              "link": "https://www.deezer.com/track/670997542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/b/0/9db5be1d54e32311590422a8e3dbe29c.mp3?hdnea=exp=1795721846~acl=/api/1/1/9/d/b/0/9db5be1d54e32311590422a8e3dbe29c.mp3*~data=user_id=0,application_id=42~hmac=be793b7d3e5dbbb3a95a0947edc4126fcffcbac1a2073af298302472a25554cd",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Pinball Wizard",
+            "length": "3:01",
+            "deezer": {
+              "id": 670997552,
+              "link": "https://www.deezer.com/track/670997552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/2/0/ac286703c33b44b4c79656b9c411f4fb.mp3?hdnea=exp=1795721846~acl=/api/1/1/a/c/2/0/ac286703c33b44b4c79656b9c411f4fb.mp3*~data=user_id=0,application_id=42~hmac=7917782009e46853d018d1d4189d8bd856743894b8159e534aca75782b2e4054",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "There’s a Doctor",
+            "length": "0:24",
+            "deezer": {
+              "id": 670997562,
+              "link": "https://www.deezer.com/track/670997562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/a/0/57a280219dcd0da6445d963414fc8a0b.mp3?hdnea=exp=1795721846~acl=/api/1/1/5/7/a/0/57a280219dcd0da6445d963414fc8a0b.mp3*~data=user_id=0,application_id=42~hmac=c441d7f8bfb6ba537b8ca36f8f7606e88245e421dbda6c918b5b8192ec59e0e7",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Go to the Mirror!",
+            "length": "3:48",
+            "deezer": {
+              "id": 670997572,
+              "link": "https://www.deezer.com/track/670997572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/a/0/a1a09faf8fd5514dedbf005497cfb2e7.mp3?hdnea=exp=1795721846~acl=/api/1/1/a/1/a/0/a1a09faf8fd5514dedbf005497cfb2e7.mp3*~data=user_id=0,application_id=42~hmac=0a40a4aaf7f2ecb1d93221f410ef1783672329f40c1a7e688dfc9dab4334e19d",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Tommy Can You Hear Me?",
+            "length": "1:35",
+            "deezer": {
+              "id": 670997582,
+              "link": "https://www.deezer.com/track/670997582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/6/0/776c7ccb02c9db41a042d04515fa79ac.mp3?hdnea=exp=1795721846~acl=/api/1/1/7/7/6/0/776c7ccb02c9db41a042d04515fa79ac.mp3*~data=user_id=0,application_id=42~hmac=f9a16e0e66a8afbc35b7948a4879ec3851e16f6573ff3855ee34c9f87ea99c56",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Smash the Mirror",
+            "length": "1:35",
+            "deezer": {
+              "id": 670997592,
+              "link": "https://www.deezer.com/track/670997592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/8/0/cd8e060ca787fa45565e1cb87ce80d91.mp3?hdnea=exp=1795721846~acl=/api/1/1/c/d/8/0/cd8e060ca787fa45565e1cb87ce80d91.mp3*~data=user_id=0,application_id=42~hmac=1be0c143b0be847588c58c18ccfe5d6db878458265ce230a2a52d4f042f5f286",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Sensation",
+            "length": "2:27",
+            "deezer": {
+              "id": 670997602,
+              "link": "https://www.deezer.com/track/670997602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/c/0/a0cfb10a1c9858b3f73d52d95cb4a5bf.mp3?hdnea=exp=1795721846~acl=/api/1/1/a/0/c/0/a0cfb10a1c9858b3f73d52d95cb4a5bf.mp3*~data=user_id=0,application_id=42~hmac=c241992e9fe6a181a52fdb6e425f4a26fcac319f330373b7d48359adb3a26f2c",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Miracle Cure",
+            "length": "0:13",
+            "deezer": {
+              "id": 670997612,
+              "link": "https://www.deezer.com/track/670997612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/f/0/95f59eed849475743265e8b221e1509c.mp3?hdnea=exp=1795721846~acl=/api/1/1/9/5/f/0/95f59eed849475743265e8b221e1509c.mp3*~data=user_id=0,application_id=42~hmac=9adfe5ddea858b65be7239280e5647297650fcdde7df6e8efe19db7ecda7ed46",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Sally Simpson",
+            "length": "4:10",
+            "deezer": {
+              "id": 670997622,
+              "link": "https://www.deezer.com/track/670997622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/2/0/b826527f48b22d08820508a41e12c7b7.mp3?hdnea=exp=1795721846~acl=/api/1/1/b/8/2/0/b826527f48b22d08820508a41e12c7b7.mp3*~data=user_id=0,application_id=42~hmac=a51d28e77bd98ef3d4d3b6b6cf75c758e0766d562903c90d891875448de08ee5",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "I’m Free",
+            "length": "2:39",
+            "deezer": {
+              "id": 670997632,
+              "link": "https://www.deezer.com/track/670997632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/e/0/79e02a6427d09167a2a73ac30af29d5c.mp3?hdnea=exp=1795721846~acl=/api/1/1/7/9/e/0/79e02a6427d09167a2a73ac30af29d5c.mp3*~data=user_id=0,application_id=42~hmac=7102589b6553e0f3867999b7b7d8218c5cfc69c8978159fe0465264c88dcc5e1",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Welcome",
+            "length": "4:33",
+            "deezer": {
+              "id": 670997642,
+              "link": "https://www.deezer.com/track/670997642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/3/0/9c3ff27b7e676dd913b791f733690955.mp3?hdnea=exp=1795721846~acl=/api/1/1/9/c/3/0/9c3ff27b7e676dd913b791f733690955.mp3*~data=user_id=0,application_id=42~hmac=414b44cc67817bb7aa20b2432330dd1600202ff76c4c300e225e4573a961c986",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "Tommy’s Holiday Camp",
+            "length": "0:57",
+            "deezer": {
+              "id": 670997652,
+              "link": "https://www.deezer.com/track/670997652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/0/0/c404994f63f8f48dc5631fe2a8d7f571.mp3?hdnea=exp=1795721846~acl=/api/1/1/c/4/0/0/c404994f63f8f48dc5631fe2a8d7f571.mp3*~data=user_id=0,application_id=42~hmac=69aed5d8109cc25d917847bbefbf082e0d1d937c2474dfc27a1edfdd8b4667ea",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "We’re Not Gonna Take It",
+            "length": "7:06",
+            "deezer": {
+              "id": 670997662,
+              "link": "https://www.deezer.com/track/670997662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/a/0/73a25f0af122e16dbf459e37b044c089.mp3?hdnea=exp=1795721846~acl=/api/1/1/7/3/a/0/73a25f0af122e16dbf459e37b044c089.mp3*~data=user_id=0,application_id=42~hmac=3eb99d092a796d46fc1aff7a78a9742000022bd52054d18b57aa85dc50fb591d",
+              "preview_expires": "2026-11-26T19:37:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Who/Tommy.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Where Do We Go?",
+  "artist": "WEISS & Harry Romero",
+  "year": 2020,
+  "release_date": "2020-10-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/965f7e16-a0b7-482b-a2e0-210cc9bb1a1f",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "965f7e16-a0b7-482b-a2e0-210cc9bb1a1f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fb2771c4-63d9-42c5-9ead-d9bcea12281a",
+      "barcode": "00602435330839",
+      "title": "Where Do We Go?",
+      "disambiguation": null,
+      "date": "2020-10-16",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "15:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Where Do We Go?",
+            "length": "2:30"
+          },
+          {
+            "number": "2",
+            "title": "Where Do We Go? - My Nu Leng Remix",
+            "length": "3:26",
+            "artist": "WEISS, Harry Romero & My Nu Leng"
+          },
+          {
+            "number": "3",
+            "title": "Where Do We Go? - A-Trak Remix",
+            "length": "5:07",
+            "artist": "WEISS, Harry Romero & A-Trak"
+          },
+          {
+            "number": "4",
+            "title": "Where Do We Go? - CINTHIE Remix",
+            "length": "4:42",
+            "artist": "WEISS, Harry Romero & CINTHIE"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/WEISS/Where Do We Go-.jpg"
+}

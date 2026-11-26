@@ -1,0 +1,162 @@
+{
+  "title": "Desi",
+  "artist": "Panjabi MC",
+  "year": 2002,
+  "release_date": "2002-01-01",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "bhangra"
+  ],
+  "tags": [
+    "bhangra",
+    "punjabi"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/97501743-31e4-38c7-bdc1-cfbbff2aaa40",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/829681241"
+  },
+  "musicbrainz_id": "97501743-31e4-38c7-bdc1-cfbbff2aaa40",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f5ab1ea8-f3be-4b33-b6c4-92e04e97bdc3",
+      "barcode": null,
+      "title": "Desi",
+      "disambiguation": null,
+      "date": "2002-01-01",
+      "country": "GB"
+    },
+    "total_tracks": 10,
+    "total_length": "36:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Good Morning",
+            "length": "4:07",
+            "artist": "Panjabi MC & Labh Janjua",
+            "deezer": {
+              "id": 3578906181,
+              "link": "https://www.deezer.com/track/3578906181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/b/0/79be3e16b3742be156357ba0f6b5439d.mp3?hdnea=exp=1795719273~acl=/api/1/1/7/9/b/0/79be3e16b3742be156357ba0f6b5439d.mp3*~data=user_id=0,application_id=42~hmac=a955a3e1514a31dc0179866fbd6692efa419b25383d28bf49ab99bef5a226ac7",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sassi",
+            "length": "4:21",
+            "artist": "Panjabi MC & Surinder Shinda",
+            "deezer": {
+              "id": 3578906191,
+              "link": "https://www.deezer.com/track/3578906191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/a/0/52aefe7accedac8179f3f72183a6bbd3.mp3?hdnea=exp=1795719273~acl=/api/1/1/5/2/a/0/52aefe7accedac8179f3f72183a6bbd3.mp3*~data=user_id=0,application_id=42~hmac=50b5dc24947ef7528fab6729d357fdada7fedaa84f8975c977ebfb844c1a47be",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Intro",
+            "length": "0:51",
+            "deezer": {
+              "id": 3578906201,
+              "link": "https://www.deezer.com/track/3578906201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/1/0/7110f2a2dd10aba3eed6c54e437de5bb.mp3?hdnea=exp=1795719273~acl=/api/1/1/7/1/1/0/7110f2a2dd10aba3eed6c54e437de5bb.mp3*~data=user_id=0,application_id=42~hmac=f873e38af587f702ec96fba456e92537f56a70e55650d0f805941e4608b4e8b5",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Panj Pind",
+            "length": "4:42",
+            "deezer": {
+              "id": 3578906211,
+              "link": "https://www.deezer.com/track/3578906211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/b/0/e6b9e6e2b767d556e58fa738ab61d71d.mp3?hdnea=exp=1795719273~acl=/api/1/1/e/6/b/0/e6b9e6e2b767d556e58fa738ab61d71d.mp3*~data=user_id=0,application_id=42~hmac=40f9f376e84f348445cc5f7e1acf7401fa717a472ef5b52466cb1cbc17ff7704",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Dholana",
+            "length": "4:01",
+            "artist": "Panjabi MC & Master Saleem",
+            "deezer": {
+              "id": 3578906221,
+              "link": "https://www.deezer.com/track/3578906221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/3/0/f93643a1d954c120529bfee059ffd895.mp3?hdnea=exp=1795719273~acl=/api/1/1/f/9/3/0/f93643a1d954c120529bfee059ffd895.mp3*~data=user_id=0,application_id=42~hmac=dbec7103241c223c284ff933e89e1b5c3d6b63b7e3d862a6c57e5693f7acb043",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Boliyan",
+            "length": "4:36",
+            "artist": "Panjabi MC & Sarvjeet Kaur",
+            "deezer": {
+              "id": 3578906231,
+              "link": "https://www.deezer.com/track/3578906231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/8/0/518fbf4c5946ba5ca6da8c46045f1aef.mp3?hdnea=exp=1795719273~acl=/api/1/1/5/1/8/0/518fbf4c5946ba5ca6da8c46045f1aef.mp3*~data=user_id=0,application_id=42~hmac=105244560b669c6944f5029a2c1d1b42c4d79cb776d9638d90a9ded5675011f7",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Panj Pind",
+            "length": "3:59",
+            "artist": "Panjabi MC & Pappi Gill",
+            "deezer": {
+              "id": 3578906241,
+              "link": "https://www.deezer.com/track/3578906241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/e/0/c2ef16a49faa8250a5b5b5d2386dfa78.mp3?hdnea=exp=1795719273~acl=/api/1/1/c/2/e/0/c2ef16a49faa8250a5b5b5d2386dfa78.mp3*~data=user_id=0,application_id=42~hmac=702157be1042323abb3d7c41a230e43892bcaea1ede724d43e73d0ea54d9f8a2",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dil Bharian",
+            "length": "3:47",
+            "artist": "Panjabi MC & Labh Janjua",
+            "deezer": {
+              "id": 3578906251,
+              "link": "https://www.deezer.com/track/3578906251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/b/0/b6b1a7488276cf716f514aba05abc21c.mp3?hdnea=exp=1795719273~acl=/api/1/1/b/6/b/0/b6b1a7488276cf716f514aba05abc21c.mp3*~data=user_id=0,application_id=42~hmac=00102abfdca1c5ec65a0a1759d0aec23ade3d1622e6655bc83a5b2b4868349a3",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Thugee",
+            "length": "3:38",
+            "artist": "Panjabi MC & Villain MC",
+            "deezer": {
+              "id": 3578906261,
+              "link": "https://www.deezer.com/track/3578906261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/d/0/79d80895e4eebb6e8e0b385346498f60.mp3?hdnea=exp=1795719273~acl=/api/1/1/7/9/d/0/79d80895e4eebb6e8e0b385346498f60.mp3*~data=user_id=0,application_id=42~hmac=59dc231fc504d7c6004a36f743691ef79690e864a499ccf18c079551ff6fe1da",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Good Morning (Breaks)",
+            "length": "2:08",
+            "deezer": {
+              "id": 3578906271,
+              "link": "https://www.deezer.com/track/3578906271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/c/0/aac978a099c81e6443f1bd085b51b1e8.mp3?hdnea=exp=1795719273~acl=/api/1/1/a/a/c/0/aac978a099c81e6443f1bd085b51b1e8.mp3*~data=user_id=0,application_id=42~hmac=977ecb3464aa0e3097d2671b0207fcdb8de32216905ebe3ee70970520bbbf81a",
+              "preview_expires": "2026-11-26T18:54:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Panjabi MC/Desi.jpg"
+}

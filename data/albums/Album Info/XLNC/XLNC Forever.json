@@ -1,0 +1,105 @@
+{
+  "title": "Forever",
+  "artist": "Xlnc",
+  "year": null,
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ec905b66-4265-367c-a8ed-b02081b70edb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/829672391"
+  },
+  "musicbrainz_id": "ec905b66-4265-367c-a8ed-b02081b70edb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/32b1871c-907f-4a85-b6f2-48b6fccc44cd",
+      "barcode": null,
+      "title": "Forever",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 6,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": null,
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dil Lagda Nein Tere Bina",
+            "length": null,
+            "deezer": {
+              "id": 3578875381,
+              "link": "https://www.deezer.com/track/3578875381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/8/0/1482179ffa7dfd9d3e1042a494959517.mp3?hdnea=exp=1795724411~acl=/api/1/1/1/4/8/0/1482179ffa7dfd9d3e1042a494959517.mp3*~data=user_id=0,application_id=42~hmac=67eacc28423a0103830b523bf1dcc7bdb89be3245d0789157735960546b5fc0b",
+              "preview_expires": "2026-11-26T20:20:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Lal Dupattey Vali",
+            "length": null,
+            "deezer": {
+              "id": 3578875391,
+              "link": "https://www.deezer.com/track/3578875391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/1/0/881cf91a1ccfe5eb347c4018808f3fcd.mp3?hdnea=exp=1795724411~acl=/api/1/1/8/8/1/0/881cf91a1ccfe5eb347c4018808f3fcd.mp3*~data=user_id=0,application_id=42~hmac=0e7751cbd4e5483712deb2a3288fb8892ad787e3feb9fdf6329fb359e1801a6c",
+              "preview_expires": "2026-11-26T20:20:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I Am Sure",
+            "length": null,
+            "deezer": {
+              "id": 3578875401,
+              "link": "https://www.deezer.com/track/3578875401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/8/0/ac8b3ccd00634fe23a2e752225323bff.mp3?hdnea=exp=1795724411~acl=/api/1/1/a/c/8/0/ac8b3ccd00634fe23a2e752225323bff.mp3*~data=user_id=0,application_id=42~hmac=4df5dd0b760e2893ed6aff24c5fe3c9715db429582133db4ce2b7f8403fa18e7",
+              "preview_expires": "2026-11-26T20:20:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dil Vich",
+            "length": null,
+            "deezer": {
+              "id": 3578875411,
+              "link": "https://www.deezer.com/track/3578875411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/9/0/b39056f6b51fc68857dc9d1f29e545c8.mp3?hdnea=exp=1795724411~acl=/api/1/1/b/3/9/0/b39056f6b51fc68857dc9d1f29e545c8.mp3*~data=user_id=0,application_id=42~hmac=7d1c26a5d11e2e26e751e66a1511239c68939b70709170bd06353d9c0d3f790c",
+              "preview_expires": "2026-11-26T20:20:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tappe \"2 Kill\"",
+            "length": null,
+            "deezer": {
+              "id": 3578875421,
+              "link": "https://www.deezer.com/track/3578875421",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/7/0/cd77b525ac7585e94495777a8b5b07be.mp3?hdnea=exp=1795724411~acl=/api/1/1/c/d/7/0/cd77b525ac7585e94495777a8b5b07be.mp3*~data=user_id=0,application_id=42~hmac=a94ce2b181e0e94317ceb1a3030615b4e4ac1fa4da83e175368344b721cc66c2",
+              "preview_expires": "2026-11-26T20:20:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Golee Mar Deh",
+            "length": null,
+            "deezer": {
+              "id": 3578875431,
+              "link": "https://www.deezer.com/track/3578875431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/0/0/b40270168b0e3b1c03c8655ecf17d3f1.mp3?hdnea=exp=1795724411~acl=/api/1/1/b/4/0/0/b40270168b0e3b1c03c8655ecf17d3f1.mp3*~data=user_id=0,application_id=42~hmac=0f252bf52d9be690d644cfb06f3617cbd2b5bce61ccb3a1b07cb3990ac713ede",
+              "preview_expires": "2026-11-26T20:20:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/XLNC/XLNC Forever.jpg"
+}

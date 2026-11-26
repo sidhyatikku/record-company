@@ -1,0 +1,148 @@
+{
+  "title": "Together",
+  "artist": "AC Slater",
+  "year": 2023,
+  "release_date": "2023-06-16",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/be0ee438-b88c-431d-87e2-3e487146a750",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/445323205"
+  },
+  "musicbrainz_id": "be0ee438-b88c-431d-87e2-3e487146a750",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0b307e48-36aa-4b60-a00c-397d3551e54e",
+      "barcode": "795397791739",
+      "title": "Together",
+      "disambiguation": null,
+      "date": "2023-06-16",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "29:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Until the Morning",
+            "length": "2:39",
+            "artist": "AC Slater & Jay Robinson",
+            "deezer": {
+              "id": 2296999605,
+              "link": "https://www.deezer.com/track/2296999605",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/b/0/edbf60b7eaf964752904beba40c3e4d6.mp3?hdnea=exp=1795648824~acl=/api/1/1/e/d/b/0/edbf60b7eaf964752904beba40c3e4d6.mp3*~data=user_id=0,application_id=42~hmac=1a99487d3bb876560653a0488a721d754a195d1c9ecf701dc5ce10e2ce816564",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Night Rider",
+            "length": "3:35",
+            "artist": "AC Slater & Scrufizzer",
+            "deezer": {
+              "id": 2296999615,
+              "link": "https://www.deezer.com/track/2296999615",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/d/0/b0dfd1e2b9cccf7ee518aa1439e008c0.mp3?hdnea=exp=1795648824~acl=/api/1/1/b/0/d/0/b0dfd1e2b9cccf7ee518aa1439e008c0.mp3*~data=user_id=0,application_id=42~hmac=5847a2120034ceae542f3b244333e30392a18b6fab929828b38312357e3bd087",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I Believe",
+            "length": "3:16",
+            "artist": "AC Slater & Chris Lorenzo",
+            "deezer": {
+              "id": 2296999625,
+              "link": "https://www.deezer.com/track/2296999625",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/1/0/b91b14b81b547b0ced98df18621a72ae.mp3?hdnea=exp=1795648824~acl=/api/1/1/b/9/1/0/b91b14b81b547b0ced98df18621a72ae.mp3*~data=user_id=0,application_id=42~hmac=fe4fdf7f8615ac411462212f18cde8e2787181a89bc030117ecd53fc112920b9",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "On the Road",
+            "length": "3:16",
+            "artist": "AC Slater & Devyn Sawyer",
+            "deezer": {
+              "id": 2296999635,
+              "link": "https://www.deezer.com/track/2296999635",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/f/0/b1f8fca3fef1aaa092d70b18a607c315.mp3?hdnea=exp=1795648824~acl=/api/1/1/b/1/f/0/b1f8fca3fef1aaa092d70b18a607c315.mp3*~data=user_id=0,application_id=42~hmac=09855b8801a81eb22927b0a5b04066af6613486e657ea89616962f040aae0fc9",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Can U Handle It",
+            "length": "2:59",
+            "artist": "AC Slater, Shift K3Y & Kelli-Leigh",
+            "deezer": {
+              "id": 2296999645,
+              "link": "https://www.deezer.com/track/2296999645",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/a/0/81ae3abbeb14f6eb3e857842658cedbd.mp3?hdnea=exp=1795648824~acl=/api/1/1/8/1/a/0/81ae3abbeb14f6eb3e857842658cedbd.mp3*~data=user_id=0,application_id=42~hmac=26f9b79b973e19bed26c2fd2aa4557b8bad6ecd07c36a709aba846922a856c5e",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lose My Mind",
+            "length": "3:16",
+            "artist": "AC Slater, NuBass & Kaleena Zanders",
+            "deezer": {
+              "id": 2296999655,
+              "link": "https://www.deezer.com/track/2296999655",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/3/0/103e7b597e2944e8cd88df3427fd710d.mp3?hdnea=exp=1795648824~acl=/api/1/1/1/0/3/0/103e7b597e2944e8cd88df3427fd710d.mp3*~data=user_id=0,application_id=42~hmac=43497ec003e316152be85d82a567835ab2b37a254642b2183b0cb9d7ed1f265f",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "All of My Love",
+            "length": "4:27",
+            "artist": "AC Slater, MPH & Kate Wild",
+            "deezer": {
+              "id": 2296999665,
+              "link": "https://www.deezer.com/track/2296999665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/8/0/ea819357ab3e1a74b7c9784d1333fe14.mp3?hdnea=exp=1795648824~acl=/api/1/1/e/a/8/0/ea819357ab3e1a74b7c9784d1333fe14.mp3*~data=user_id=0,application_id=42~hmac=27e0d41a521ceb2bbac6694f484e462dfba3313519c0a365fc8ce3b9a5b8f988",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Blue June",
+            "length": "2:54",
+            "artist": "AC Slater & Kaleena Zanders",
+            "deezer": {
+              "id": 2296999675,
+              "link": "https://www.deezer.com/track/2296999675",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d125e796803ee9b0485d9be98d384d6.mp3?hdnea=exp=1795648824~acl=/api/1/1/7/d/1/0/7d125e796803ee9b0485d9be98d384d6.mp3*~data=user_id=0,application_id=42~hmac=e4570a997d6ef35a4adec5f348e035355d45acee787b0f068107714850f82ad7",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Screenshots",
+            "length": "3:32",
+            "artist": "AC Slater, Badger & Murkage Dave",
+            "deezer": {
+              "id": 2296999685,
+              "link": "https://www.deezer.com/track/2296999685",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/c/0/c8cd35892e042677aebd513605d6d11b.mp3?hdnea=exp=1795648824~acl=/api/1/1/c/8/c/0/c8cd35892e042677aebd513605d6d11b.mp3*~data=user_id=0,application_id=42~hmac=e215a8ada2a75acdc467e27559a3f6e96f6d9f97e30a5708f37b12783c187ccb",
+              "preview_expires": "2026-11-25T23:20:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AC Slater/Together.jpg"
+}

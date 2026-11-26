@@ -1,0 +1,191 @@
+{
+  "title": "Suddenly",
+  "artist": "Caribou",
+  "year": 2020,
+  "release_date": "2020-02-28",
+  "type": "Album",
+  "description": "Suddenly is the ninth studio album by Canadian musician Dan Snaith, released under the moniker Caribou by Merge Records and City Slang on February 28, 2020. It is Snaith's fifth album as Caribou, and his first since Our Love (2014).",
+  "genres": [
+    "electronic",
+    "experimental",
+    "indie rock",
+    "indietronica",
+    "rock"
+  ],
+  "tags": [
+    "electronic",
+    "experimental",
+    "indie rock",
+    "indietronica",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/975b39ae-77fa-4b6e-b1fc-e981b4c62f1c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suddenly_(Caribou_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003341327",
+    "discogs": "https://www.discogs.com/master/1688972",
+    "wikidata": "https://www.wikidata.org/wiki/Q86570045",
+    "deezer": "https://www.deezer.com/album/819695301"
+  },
+  "musicbrainz_id": "975b39ae-77fa-4b6e-b1fc-e981b4c62f1c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f57ebc64-884f-4f03-a376-c313e4eeccf5",
+      "barcode": "673855070827",
+      "title": "Suddenly",
+      "disambiguation": null,
+      "date": "2020-02-28",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "43:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sister",
+            "length": "2:11",
+            "deezer": {
+              "id": 3551369341,
+              "link": "https://www.deezer.com/track/3551369341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/f/0/ccfc1599e659693d1fef2a36c4a3944a.mp3?hdnea=exp=1795652677~acl=/api/1/1/c/c/f/0/ccfc1599e659693d1fef2a36c4a3944a.mp3*~data=user_id=0,application_id=42~hmac=aaef776166296052d2ac7d79bd19dc96d1da16c0f5710a68dd3026274c4841a0",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "You and I",
+            "length": "4:04",
+            "deezer": {
+              "id": 3551369351,
+              "link": "https://www.deezer.com/track/3551369351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/0/0/d4047d341d11d633757ac4a62bf51f0b.mp3?hdnea=exp=1795652677~acl=/api/1/1/d/4/0/0/d4047d341d11d633757ac4a62bf51f0b.mp3*~data=user_id=0,application_id=42~hmac=9465f2dbe77ab46ca746b8fd07d51cd40b67c79a44c07a71aa856696c25a4b78",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sunny’s Time",
+            "length": "2:50",
+            "deezer": {
+              "id": 3551369361,
+              "link": "https://www.deezer.com/track/3551369361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/f/0/bdfedb588c4c0438af3c31015c2d70ec.mp3?hdnea=exp=1795652677~acl=/api/1/1/b/d/f/0/bdfedb588c4c0438af3c31015c2d70ec.mp3*~data=user_id=0,application_id=42~hmac=d0036bd1aeb65df8879c8126a7383b1acd9965841144c8e288f67361cbe940f9",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "New Jade",
+            "length": "3:38",
+            "deezer": {
+              "id": 3551369371,
+              "link": "https://www.deezer.com/track/3551369371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/f/0/c8f0b271dc6f68dc49f07b72bfe459dc.mp3?hdnea=exp=1795652677~acl=/api/1/1/c/8/f/0/c8f0b271dc6f68dc49f07b72bfe459dc.mp3*~data=user_id=0,application_id=42~hmac=abd33b4af53ed49107574a0f288e63801b528a914dda6f3e5494f618d24caa01",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Home",
+            "length": "2:36",
+            "deezer": {
+              "id": 3551369381,
+              "link": "https://www.deezer.com/track/3551369381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/3/0/c23194db84eb654b1732d039d9544974.mp3?hdnea=exp=1795652677~acl=/api/1/1/c/2/3/0/c23194db84eb654b1732d039d9544974.mp3*~data=user_id=0,application_id=42~hmac=fddf9c906cd11af9093fa50555e4fbc4330564bb3360bf26c9b57221dab3d101",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lime",
+            "length": "2:55",
+            "deezer": {
+              "id": 3551369391,
+              "link": "https://www.deezer.com/track/3551369391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/8/0/6e898bab4be1f371f99e1542565fe3c5.mp3?hdnea=exp=1795652677~acl=/api/1/1/6/e/8/0/6e898bab4be1f371f99e1542565fe3c5.mp3*~data=user_id=0,application_id=42~hmac=70b70df30b3957779288de52804d8c1d3999fbcc195ac2b8b01124c416094c7e",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Never Come Back",
+            "length": "5:05",
+            "deezer": {
+              "id": 3551369401,
+              "link": "https://www.deezer.com/track/3551369401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/1/0/fc104d7f2855e527393416532fd3a1e7.mp3?hdnea=exp=1795652677~acl=/api/1/1/f/c/1/0/fc104d7f2855e527393416532fd3a1e7.mp3*~data=user_id=0,application_id=42~hmac=9524b3dcf3a63dea188e0cfc60ba7f67c8823e8253ba604501a2c95840612aaf",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Filtered Grand Piano",
+            "length": "0:53",
+            "deezer": {
+              "id": 3551369411,
+              "link": "https://www.deezer.com/track/3551369411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/2/0/f32cf0802a1c85237029a880f0567ce0.mp3?hdnea=exp=1795652677~acl=/api/1/1/f/3/2/0/f32cf0802a1c85237029a880f0567ce0.mp3*~data=user_id=0,application_id=42~hmac=0273590ecc6dd703bdf76295350026ac519f984e3e618d5e82a984a7ec7fa620",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Like I Loved You",
+            "length": "4:06",
+            "deezer": {
+              "id": 3551369421,
+              "link": "https://www.deezer.com/track/3551369421",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/8/0/c587041f98153984fb3a40991e8ef5ad.mp3?hdnea=exp=1795652677~acl=/api/1/1/c/5/8/0/c587041f98153984fb3a40991e8ef5ad.mp3*~data=user_id=0,application_id=42~hmac=b8efd1d62420ab02641bfec735bfb31d67f61b7ffedab7c8e3a78523b3422a48",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Magpie",
+            "length": "3:56",
+            "deezer": {
+              "id": 3551369431,
+              "link": "https://www.deezer.com/track/3551369431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/b/0/7dbf163fe005a9179db1f06a450e599d.mp3?hdnea=exp=1795652677~acl=/api/1/1/7/d/b/0/7dbf163fe005a9179db1f06a450e599d.mp3*~data=user_id=0,application_id=42~hmac=779b7489eeea46960c7a1f00717a3e404b0df0e28065d6570d0a2141a1a459a5",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Ravi",
+            "length": "4:30",
+            "deezer": {
+              "id": 3551369441,
+              "link": "https://www.deezer.com/track/3551369441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/d/0/17d637cf07b0504f19a93fac33c20d2c.mp3?hdnea=exp=1795652677~acl=/api/1/1/1/7/d/0/17d637cf07b0504f19a93fac33c20d2c.mp3*~data=user_id=0,application_id=42~hmac=6270dc86d89015485109ed75ce2b3112a50de207c88b573ecb77c0e026f5a18d",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Cloud Song",
+            "length": "6:51",
+            "deezer": {
+              "id": 3551369451,
+              "link": "https://www.deezer.com/track/3551369451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/1/0/301ef5b182fb06b9a6923c8dc2a6dc9a.mp3?hdnea=exp=1795652677~acl=/api/1/1/3/0/1/0/301ef5b182fb06b9a6923c8dc2a6dc9a.mp3*~data=user_id=0,application_id=42~hmac=3a1746496c50193a990bf79d8cde8e6193135c240981b50edcfcb3c6a09cf9ef",
+              "preview_expires": "2026-11-26T00:24:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Caribou/Suddenly.jpg"
+}

@@ -1,0 +1,229 @@
+{
+  "title": "Time Out",
+  "artist": "The Dave Brubeck Quartet",
+  "year": 1959,
+  "release_date": "1959",
+  "type": "Album",
+  "description": "Time Out is a studio album by the American jazz group the Dave Brubeck Quartet, released in 1959 by Columbia Records. Recorded at Columbia’s 30th Street Studio in New York City, the album is noted for its pioneering use of unconventional time signatures for jazz, including 98, 64, and 54. Musically, it represents a subtle fusion of cool and West Coast influences.",
+  "genres": [
+    "jazz",
+    "cool jazz",
+    "hard bop"
+  ],
+  "tags": [
+    "jazz",
+    "bop",
+    "cool jazz",
+    "hard bop",
+    "jazz standard"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/035a7881-3e2c-39d2-b110-fe26a4de94e5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Time_Out_(Dave_Brubeck_Quartet_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000187775",
+    "discogs": "https://www.discogs.com/master/34081",
+    "wikidata": "https://www.wikidata.org/wiki/Q498089",
+    "deezer": "https://www.deezer.com/album/337748"
+  },
+  "musicbrainz_id": "035a7881-3e2c-39d2-b110-fe26a4de94e5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/077076aa-efce-4645-b398-e81fb4cf213c",
+      "barcode": "884977171662",
+      "title": "Time Out (legacy edition)",
+      "disambiguation": null,
+      "date": "2009-05-21",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "1:32:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blue Rondo à la Turk",
+            "length": "6:44",
+            "deezer": {
+              "id": 3571287,
+              "link": "https://www.deezer.com/track/3571287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/5/0/d65698570f57dd842b397e5c80e16b68.mp3?hdnea=exp=1795653154~acl=/api/1/1/d/6/5/0/d65698570f57dd842b397e5c80e16b68.mp3*~data=user_id=0,application_id=42~hmac=c6f879f7c9d36298891c4268a47f5dbdbd220c93232d3ec8d58263a033efe9b6",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Strange Meadow Lark",
+            "length": "7:22",
+            "deezer": {
+              "id": 3571288,
+              "link": "https://www.deezer.com/track/3571288",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/4/0/5a46ab4f7f816cdabff18661646da403.mp3?hdnea=exp=1795653154~acl=/api/1/1/5/a/4/0/5a46ab4f7f816cdabff18661646da403.mp3*~data=user_id=0,application_id=42~hmac=a123cc5d8cce4253748375b33b1f0beea7af01b63b2882ad14a5627da5a63cba",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take Five",
+            "length": "5:25",
+            "deezer": {
+              "id": 3571289,
+              "link": "https://www.deezer.com/track/3571289",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/a/0/f8aa8599b1766a1f7142a73221c4797a.mp3?hdnea=exp=1795653154~acl=/api/1/1/f/8/a/0/f8aa8599b1766a1f7142a73221c4797a.mp3*~data=user_id=0,application_id=42~hmac=008f500f1b54104fb960de9e4902fa419587a484d39e8b782a7951dd731e9197",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Three to Get Ready",
+            "length": "5:23",
+            "deezer": {
+              "id": 3571290,
+              "link": "https://www.deezer.com/track/3571290",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/8/0/7a83fc561b1e422bf23338c421f966dc.mp3?hdnea=exp=1795653154~acl=/api/1/1/7/a/8/0/7a83fc561b1e422bf23338c421f966dc.mp3*~data=user_id=0,application_id=42~hmac=6c155c525553fa1b563d41aec413a47506509018257dd8fdd9cc22d4314d70d8",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Kathy’s Waltz",
+            "length": "4:49",
+            "deezer": {
+              "id": 3571291,
+              "link": "https://www.deezer.com/track/3571291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/d/0/bcdb10da0b85983aa32392bf2aff1b9c.mp3?hdnea=exp=1795653154~acl=/api/1/1/b/c/d/0/bcdb10da0b85983aa32392bf2aff1b9c.mp3*~data=user_id=0,application_id=42~hmac=ee0bc48c0c1d7f56ed05e3530fccf047eb91646e7d54aa087e1e61e9d716959b",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Everybody’s Jumpin’",
+            "length": "4:22",
+            "deezer": {
+              "id": 3571292,
+              "link": "https://www.deezer.com/track/3571292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/f/0/67f5a62109d05e3e7e4198e2b0cb70c1.mp3?hdnea=exp=1795653154~acl=/api/1/1/6/7/f/0/67f5a62109d05e3e7e4198e2b0cb70c1.mp3*~data=user_id=0,application_id=42~hmac=2caea425ba4a8cf8c85702d70b59ba6d3608e07be8cbe66ffb0b4227e9996662",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Pick Up Sticks",
+            "length": "4:17",
+            "deezer": {
+              "id": 3571293,
+              "link": "https://www.deezer.com/track/3571293",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/3/0/68394fc91e5b413b9f2ef4607b287651.mp3?hdnea=exp=1795653154~acl=/api/1/1/6/8/3/0/68394fc91e5b413b9f2ef4607b287651.mp3*~data=user_id=0,application_id=42~hmac=21b1a162e8f1c6ae2c2abae1544da067c056e6ea90be18d4792a8862d62401ab",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "St. Louis Blues (live)",
+            "length": "7:55",
+            "deezer": {
+              "id": 3571294,
+              "link": "https://www.deezer.com/track/3571294",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/8/0/a98bb3a7440a3020b7a7527ecb4275fa.mp3?hdnea=exp=1795653154~acl=/api/1/1/a/9/8/0/a98bb3a7440a3020b7a7527ecb4275fa.mp3*~data=user_id=0,application_id=42~hmac=74e3e056f572e093cbf43d2fd9ff1813b22c57a93869692c1b9205e4a5af36f4",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Waltz Limp (live)",
+            "length": "4:57",
+            "deezer": {
+              "id": 3571295,
+              "link": "https://www.deezer.com/track/3571295",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/5/0/765664f56a4bee7e8931a5cf5972e4b2.mp3?hdnea=exp=1795653154~acl=/api/1/1/7/6/5/0/765664f56a4bee7e8931a5cf5972e4b2.mp3*~data=user_id=0,application_id=42~hmac=d91754bc02f6e7600c19fb2178477a834b0f2f42526f7bb87913046e43450f64",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Since Love Had Its Way (live)",
+            "length": "6:19",
+            "deezer": {
+              "id": 3571296,
+              "link": "https://www.deezer.com/track/3571296",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/1/0/f1133b74927fc49d9e89da5fe4de689b.mp3?hdnea=exp=1795653154~acl=/api/1/1/f/1/1/0/f1133b74927fc49d9e89da5fe4de689b.mp3*~data=user_id=0,application_id=42~hmac=29e6ccfc3b5372df206a197c9ed6ca7b58aa468097e69f059b6946cd58d2505b",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Koto Song (live)",
+            "length": "6:00",
+            "deezer": {
+              "id": 3571297,
+              "link": "https://www.deezer.com/track/3571297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/b/0/0bb5a6b9471687e5efb37291c7132b24.mp3?hdnea=exp=1795653154~acl=/api/1/1/0/b/b/0/0bb5a6b9471687e5efb37291c7132b24.mp3*~data=user_id=0,application_id=42~hmac=cf68dd76a6bb759a9a6208f5ee71e644d74d25f4947e98f3589d2f1ca6328ddc",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Pennies From Heaven (live)",
+            "length": "4:50",
+            "deezer": {
+              "id": 3571298,
+              "link": "https://www.deezer.com/track/3571298",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/8/0/d688ae87ab9d22ea45d23df123eddfcf.mp3?hdnea=exp=1795653154~acl=/api/1/1/d/6/8/0/d688ae87ab9d22ea45d23df123eddfcf.mp3*~data=user_id=0,application_id=42~hmac=32baf06a5ee824c2e3519c3f06a9537f770bf9242f58c7da30199ed2d08355d7",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "You Go to My Head (live)",
+            "length": "9:37",
+            "deezer": {
+              "id": 3571299,
+              "link": "https://www.deezer.com/track/3571299",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/e/0/b0e8d90d10287fb597c61972dfe3920e.mp3?hdnea=exp=1795653154~acl=/api/1/1/b/0/e/0/b0e8d90d10287fb597c61972dfe3920e.mp3*~data=user_id=0,application_id=42~hmac=721e6c4a431a73bc44de8712b72fec1395d67859f5d116ab4564482b40c71b10",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Blue Rondo à la Turk (live)",
+            "length": "7:22",
+            "deezer": {
+              "id": 3571300,
+              "link": "https://www.deezer.com/track/3571300",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/9/0/db9eb235097bff373e42649c34eb23ef.mp3?hdnea=exp=1795653154~acl=/api/1/1/d/b/9/0/db9eb235097bff373e42649c34eb23ef.mp3*~data=user_id=0,application_id=42~hmac=4c0101761b9ac5e2f3ed550a65355c51e65f9b6d7918555532e9ba60d444a15d",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Take Five (live)",
+            "length": "7:18",
+            "deezer": {
+              "id": 3571301,
+              "link": "https://www.deezer.com/track/3571301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/b/0/0bb9e24c94b0a54d3d9f6cb0233c44d3.mp3?hdnea=exp=1795653154~acl=/api/1/1/0/b/b/0/0bb9e24c94b0a54d3d9f6cb0233c44d3.mp3*~data=user_id=0,application_id=42~hmac=f68731485968dfc82cc60d5543fa25f802555edb22b911c000428849aeab3f22",
+              "preview_expires": "2026-11-26T00:32:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dave Brubeck/Time Out.jpg"
+}

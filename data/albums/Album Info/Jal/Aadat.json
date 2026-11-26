@@ -1,0 +1,190 @@
+{
+  "title": "Aadat",
+  "artist": "Jal",
+  "year": 2004,
+  "release_date": "2004-09-27",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "pop",
+    "rock"
+  ],
+  "tags": [
+    "pop",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/150cfad7-387a-3369-bc96-d025f70b958a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/67178222"
+  },
+  "musicbrainz_id": "150cfad7-387a-3369-bc96-d025f70b958a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/65f7245f-b408-492b-8fca-f528ac8ba322",
+      "barcode": "3615933186409",
+      "title": "Aadat",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "53:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rangon Mein",
+            "length": "4:35",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006722,
+              "link": "https://www.deezer.com/track/521006722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/0/0/fb0bf6081fb0125b4138d02076950640.mp3?hdnea=exp=1795655415~acl=/api/1/1/f/b/0/0/fb0bf6081fb0125b4138d02076950640.mp3*~data=user_id=0,application_id=42~hmac=838f300a473b5b89db8b8a126c11ee83c191f3aee348bf07a4fdbbb8a69f61e4",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Lamhay",
+            "length": "5:24",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006732,
+              "link": "https://www.deezer.com/track/521006732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/4/0/554ef09ae763e5452673650cf171e103.mp3?hdnea=exp=1795655415~acl=/api/1/1/5/5/4/0/554ef09ae763e5452673650cf171e103.mp3*~data=user_id=0,application_id=42~hmac=a7dc153e8ca726b4fe0636ccea31add603094a6f4e743cb606acb6f130783855",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ik Din Aye Ga",
+            "length": "4:18",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006742,
+              "link": "https://www.deezer.com/track/521006742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/e/0/0feeb2fda00d308d386aba0184e1d1e0.mp3?hdnea=exp=1795655415~acl=/api/1/1/0/f/e/0/0feeb2fda00d308d386aba0184e1d1e0.mp3*~data=user_id=0,application_id=42~hmac=83b58240f0ba3a553111a9d30aa4ae1ad4b1185a57d7ca1ee50ce67c75246eb7",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Panchi",
+            "length": "3:49",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006752,
+              "link": "https://www.deezer.com/track/521006752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/b/0/11ba12ae47e7ec819d8e180dede61075.mp3?hdnea=exp=1795655415~acl=/api/1/1/1/1/b/0/11ba12ae47e7ec819d8e180dede61075.mp3*~data=user_id=0,application_id=42~hmac=7e1eed1d00ea17a8d676b2c2744c242e1aabc2f5bac3f542dc3a836e2af945d1",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bikhra Hoon Main",
+            "length": "4:00",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006762,
+              "link": "https://www.deezer.com/track/521006762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/8/0/02874499c811abbde38d52196ff5bea2.mp3?hdnea=exp=1795655415~acl=/api/1/1/0/2/8/0/02874499c811abbde38d52196ff5bea2.mp3*~data=user_id=0,application_id=42~hmac=fa712eb49cd1270743c63af9e87426a96e7ad9b4cec92a83935937fc43b0d15b",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dil Haray Pukaray",
+            "length": "4:47",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006772,
+              "link": "https://www.deezer.com/track/521006772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/5/0/4458b36042176525f694c50fd5182cf0.mp3?hdnea=exp=1795655415~acl=/api/1/1/4/4/5/0/4458b36042176525f694c50fd5182cf0.mp3*~data=user_id=0,application_id=42~hmac=0285e4aa2281976ce70835c550a76bdf5f533fc4831dc60ab0b745a68cb44090",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Teri Yaad",
+            "length": "6:18",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006782,
+              "link": "https://www.deezer.com/track/521006782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/8/0/e082b20daedf31c8ca190da716fb2c86.mp3?hdnea=exp=1795655415~acl=/api/1/1/e/0/8/0/e082b20daedf31c8ca190da716fb2c86.mp3*~data=user_id=0,application_id=42~hmac=2e4b0b55fa8f3a1c99193a76ff607b89c0a21c1c89514c640c73228b8a496e71",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Aadat",
+            "length": "4:29",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006792,
+              "link": "https://www.deezer.com/track/521006792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/9/0/b99821fcfeb2df7312d91fa0833bfe39.mp3?hdnea=exp=1795655415~acl=/api/1/1/b/9/9/0/b99821fcfeb2df7312d91fa0833bfe39.mp3*~data=user_id=0,application_id=42~hmac=e7928a24d4ab414cc21874f6e233977d38be56d12b9460fc04ee1cd76d4ecb18",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Manchala",
+            "length": "3:45",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006802,
+              "link": "https://www.deezer.com/track/521006802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/2/0/af21cc2db479e31c5c93bd3b9663284f.mp3?hdnea=exp=1795655415~acl=/api/1/1/a/f/2/0/af21cc2db479e31c5c93bd3b9663284f.mp3*~data=user_id=0,application_id=42~hmac=6166e4bbd1cddfc348ef62e7ea7aa09de6f30ef43f259dd73e32d920feced801",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Har Jaga Hai Jal (karaoke)",
+            "length": "2:51",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006812,
+              "link": "https://www.deezer.com/track/521006812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/f/0/38f915813ad7877e49ced9316bf3e3aa.mp3?hdnea=exp=1795655415~acl=/api/1/1/3/8/f/0/38f915813ad7877e49ced9316bf3e3aa.mp3*~data=user_id=0,application_id=42~hmac=294e8611bf49f4a77306c9e5e58b9c88df60a5bce2e1ab8d8574ae099f6b17f5",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Lamhay (karaoke)",
+            "length": "5:24",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006822,
+              "link": "https://www.deezer.com/track/521006822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/b/0/32b3fed5b0d8be2a9db3e91d51cdb0a1.mp3?hdnea=exp=1795655415~acl=/api/1/1/3/2/b/0/32b3fed5b0d8be2a9db3e91d51cdb0a1.mp3*~data=user_id=0,application_id=42~hmac=841bb95aa6388ed0e2531ca5c5414ba386058595536d8ba1c181631a387acfb5",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Panchi (karaoke)",
+            "length": "3:47",
+            "artist": "Jal -The Band",
+            "deezer": {
+              "id": 521006832,
+              "link": "https://www.deezer.com/track/521006832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/f/0/4bf3af943dbb946669fdc4c73233ddb9.mp3?hdnea=exp=1795655415~acl=/api/1/1/4/b/f/0/4bf3af943dbb946669fdc4c73233ddb9.mp3*~data=user_id=0,application_id=42~hmac=942b402bef88863ef5b72edafc8a34a38b76c06f325848eb2db3aacf5fefb005",
+              "preview_expires": "2026-11-26T01:10:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jal/Aadat.jpg"
+}

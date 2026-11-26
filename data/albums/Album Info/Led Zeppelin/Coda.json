@@ -1,0 +1,336 @@
+{
+  "title": "Coda",
+  "artist": "Led Zeppelin",
+  "year": 1982,
+  "release_date": "1982-11-19",
+  "type": "Album",
+  "description": "Coda is the ninth and final studio album, as well as the first compilation album, by the English rock band Led Zeppelin. It is a collection of rejected and live tracks from various sessions during the band's twelve-year career. The album was released on 26 November 1982, almost two years after the group had officially disbanded following the death of drummer John Bonham. In 2015, a remastered version of the entire album with two discs of additional material was released.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "blues rock",
+    "blues",
+    "british blues",
+    "classic rock",
+    "folk rock",
+    "heavy metal"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "album rock",
+    "blues rock",
+    "regional blues",
+    "blues",
+    "british blues",
+    "british metal",
+    "classic rock",
+    "folk rock",
+    "heavy metal",
+    "rock pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.2,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/61de0438-6c34-363f-904e-b4d6267c79b9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coda_(Led_Zeppelin_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000194592",
+    "discogs": "https://www.discogs.com/master/4498",
+    "wikidata": "https://www.wikidata.org/wiki/Q678221",
+    "deezer": "https://www.deezer.com/album/10854382"
+  },
+  "musicbrainz_id": "61de0438-6c34-363f-904e-b4d6267c79b9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3a861d41-8114-4746-8008-8afee8c5abf9",
+      "barcode": "603497887118",
+      "title": "Coda",
+      "disambiguation": "deluxe edition",
+      "date": "2015-07-31",
+      "country": null
+    },
+    "total_tracks": 23,
+    "total_length": "1:37:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "We’re Gonna Groove",
+            "length": "2:38",
+            "deezer": {
+              "id": 104324866,
+              "link": "https://www.deezer.com/track/104324866",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/b/0/65b6dc0993c6fec557f13a6390434890.mp3?hdnea=exp=1795656422~acl=/api/1/1/6/5/b/0/65b6dc0993c6fec557f13a6390434890.mp3*~data=user_id=0,application_id=42~hmac=4be96bda8a62fb96243bb55e0de6203767348404d6cbc49b8518de8f6b61d929",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Poor Tom",
+            "length": "3:03",
+            "deezer": {
+              "id": 104324870,
+              "link": "https://www.deezer.com/track/104324870",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/3/0/483a6f42f6551b943cf1b9defa722b33.mp3?hdnea=exp=1795656422~acl=/api/1/1/4/8/3/0/483a6f42f6551b943cf1b9defa722b33.mp3*~data=user_id=0,application_id=42~hmac=22bd1a9a3d6c1ebd83e693f6c27564e3af41c8681e6d1e1510bd2f9015b43224",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I Can’t Quit You Baby",
+            "length": "4:18",
+            "deezer": {
+              "id": 104324874,
+              "link": "https://www.deezer.com/track/104324874",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/f/0/b8f19105ee923808f085860f88ea05f7.mp3?hdnea=exp=1795656422~acl=/api/1/1/b/8/f/0/b8f19105ee923808f085860f88ea05f7.mp3*~data=user_id=0,application_id=42~hmac=d8b4a7e67e8b991ef146cae6954b508f83175a0c7a3dc588cfadb9a1b747c0aa",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Walter’s Walk",
+            "length": "4:31",
+            "deezer": {
+              "id": 104324878,
+              "link": "https://www.deezer.com/track/104324878",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/7/0/7f7225472ef1079a0fc307809dc0b0d3.mp3?hdnea=exp=1795656422~acl=/api/1/1/7/f/7/0/7f7225472ef1079a0fc307809dc0b0d3.mp3*~data=user_id=0,application_id=42~hmac=6822ed699a4ce78197369ff9e2e0bd52437a56d0a08ff1ffb96e692d6fad7fd0",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ozone Baby",
+            "length": "3:36",
+            "deezer": {
+              "id": 104324884,
+              "link": "https://www.deezer.com/track/104324884",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/b/0/c7b4fda46f185e28e51f763e960aae81.mp3?hdnea=exp=1795656422~acl=/api/1/1/c/7/b/0/c7b4fda46f185e28e51f763e960aae81.mp3*~data=user_id=0,application_id=42~hmac=19bbc1d01922391ed9643e9c2e8745ad00a48d92484442e5a738882a2f0df3da",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Darlene",
+            "length": "5:07",
+            "deezer": {
+              "id": 104324890,
+              "link": "https://www.deezer.com/track/104324890",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/5/0/775dece43fefacd1e53cb65fa7c81a9d.mp3?hdnea=exp=1795656422~acl=/api/1/1/7/7/5/0/775dece43fefacd1e53cb65fa7c81a9d.mp3*~data=user_id=0,application_id=42~hmac=9e8644753dc522d03bfbaff0fabb8d80c81f2b0ec70690035facfa57e21d7920",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bonzo’s Montreux",
+            "length": "4:22",
+            "deezer": {
+              "id": 104324896,
+              "link": "https://www.deezer.com/track/104324896",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/7/0/af745628364dfda320d6514a2a97d803.mp3?hdnea=exp=1795656422~acl=/api/1/1/a/f/7/0/af745628364dfda320d6514a2a97d803.mp3*~data=user_id=0,application_id=42~hmac=db2af7227fe8628cc0fdce95fa3d5c6876bf048a783dc6a2b9c361087f4fdbe9",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Wearing and Tearing",
+            "length": "5:29",
+            "deezer": {
+              "id": 104324906,
+              "link": "https://www.deezer.com/track/104324906",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/0/0/9405f70e467ea94ec90487d40cedb24f.mp3?hdnea=exp=1795656422~acl=/api/1/1/9/4/0/0/9405f70e467ea94ec90487d40cedb24f.mp3*~data=user_id=0,application_id=42~hmac=555c8ba873bdd86bac65406d7c07b5e7dd9689133287e17ecefe34a7280b3766",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "We’re Gonna Groove (alternate mix)",
+            "length": "2:40",
+            "deezer": {
+              "id": 104324912,
+              "link": "https://www.deezer.com/track/104324912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/2/0/ca29e29edef0d227a44779fffe44b566.mp3?hdnea=exp=1795656422~acl=/api/1/1/c/a/2/0/ca29e29edef0d227a44779fffe44b566.mp3*~data=user_id=0,application_id=42~hmac=8edec860550ec0833887f88c74298983c6ee5152dd1e7d2717fa1a0a18c8122a",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "If It Keeps On Raining (rough mix)",
+            "length": "4:14",
+            "deezer": {
+              "id": 104324916,
+              "link": "https://www.deezer.com/track/104324916",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/e/0/25ec5d95e155d86dd0768e86cc850b86.mp3?hdnea=exp=1795656422~acl=/api/1/1/2/5/e/0/25ec5d95e155d86dd0768e86cc850b86.mp3*~data=user_id=0,application_id=42~hmac=01e1e5de95dca6893dfbf7d79182b4b6091199189c684f378e7f58c0f9c495d0",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bonzo’s Montreux (mix construction in progress)",
+            "length": "4:59",
+            "deezer": {
+              "id": 104324922,
+              "link": "https://www.deezer.com/track/104324922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/3/0/f03932e6bf5ddddaaf63d7011772deeb.mp3?hdnea=exp=1795656422~acl=/api/1/1/f/0/3/0/f03932e6bf5ddddaaf63d7011772deeb.mp3*~data=user_id=0,application_id=42~hmac=2d5b77939f79c24191997aa2ce79194543e7c5028cc99aa220917305d3df3ba5",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Baby Come On Home",
+            "length": "4:30",
+            "deezer": {
+              "id": 104324928,
+              "link": "https://www.deezer.com/track/104324928",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/4/0/c843a3700a9b1ad89cec1c5ee654a0c2.mp3?hdnea=exp=1795656422~acl=/api/1/1/c/8/4/0/c843a3700a9b1ad89cec1c5ee654a0c2.mp3*~data=user_id=0,application_id=42~hmac=63aaa95ba5cd6a0b8dda32efb2a266c05f011a0166dd8c9b638bc9183297ce8a",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sugar Mama (mix)",
+            "length": "2:50",
+            "deezer": {
+              "id": 104324934,
+              "link": "https://www.deezer.com/track/104324934",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/3/0/8034cc13efacd3009cf0b10f92b42f85.mp3?hdnea=exp=1795656422~acl=/api/1/1/8/0/3/0/8034cc13efacd3009cf0b10f92b42f85.mp3*~data=user_id=0,application_id=42~hmac=9662f4e1c4399dc914d26c8f6fe404ddbacbe66ce64c7c1292d714b11a6757cf",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Poor Tom (instrumental mix)",
+            "length": "2:17",
+            "deezer": {
+              "id": 104324938,
+              "link": "https://www.deezer.com/track/104324938",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/b/0/4eb1b3418cf2638c02910ae64e61a486.mp3?hdnea=exp=1795656422~acl=/api/1/1/4/e/b/0/4eb1b3418cf2638c02910ae64e61a486.mp3*~data=user_id=0,application_id=42~hmac=ee20ce20dc6839c47edb3db98f28ed534768c1c5dfd1aae309bfb15370408197",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Travelling Riverside Blues (BBC session)",
+            "length": "5:11",
+            "deezer": {
+              "id": 104324940,
+              "link": "https://www.deezer.com/track/104324940",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/f/0/3ff1d5832fc6fb42010fbbb2ae9ba2fa.mp3?hdnea=exp=1795656422~acl=/api/1/1/3/f/f/0/3ff1d5832fc6fb42010fbbb2ae9ba2fa.mp3*~data=user_id=0,application_id=42~hmac=bfe0e5bf736f3b0967c43cabfb0dbec214e1f79db5b13fa86dabfda0ebb74aa6",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Hey, Hey, What Can I Do",
+            "length": "3:56",
+            "deezer": {
+              "id": 104324942,
+              "link": "https://www.deezer.com/track/104324942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/7/0/fc78b5dfeb5cc3df9490d7b91adfef71.mp3?hdnea=exp=1795656422~acl=/api/1/1/f/c/7/0/fc78b5dfeb5cc3df9490d7b91adfef71.mp3*~data=user_id=0,application_id=42~hmac=4f0b57af9840d3dfc04899f023135aa0a4743356f2884d910e1f4af0c1e0c2c1",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 3,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Four Hands (Four Sticks) (Bombay Orchestra)",
+            "length": "4:45",
+            "deezer": {
+              "id": 104324944,
+              "link": "https://www.deezer.com/track/104324944",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/8/0/3f8d6e4727daf9c1d695bed8bd892612.mp3?hdnea=exp=1795656422~acl=/api/1/1/3/f/8/0/3f8d6e4727daf9c1d695bed8bd892612.mp3*~data=user_id=0,application_id=42~hmac=04960958d442c1bc18f15d46e5c7e4e3278fd98bb196a30a671e65573b9f07b4",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Friends (Bombay Orchestra)",
+            "length": "4:27",
+            "deezer": {
+              "id": 104324946,
+              "link": "https://www.deezer.com/track/104324946",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/2/0/5f28e0c221b9415f2096661803cea798.mp3?hdnea=exp=1795656422~acl=/api/1/1/5/f/2/0/5f28e0c221b9415f2096661803cea798.mp3*~data=user_id=0,application_id=42~hmac=0e9c31e3eb1d8ce6097ac8c8ffbfcee1567f15eee55d48f2fe65ebd32fd56edb",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "St. Tristan’s Sword (rough mix)",
+            "length": "5:41",
+            "deezer": {
+              "id": 104324948,
+              "link": "https://www.deezer.com/track/104324948",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/0/0/450d9cc4233c558d2f5a9b24b0457615.mp3?hdnea=exp=1795656422~acl=/api/1/1/4/5/0/0/450d9cc4233c558d2f5a9b24b0457615.mp3*~data=user_id=0,application_id=42~hmac=b24c6435ef0e2ce37867c98badb12764d8c574c64da42b1ec3a547fc009254bf",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Desire (The Wanton Song) (rough mix)",
+            "length": "4:09",
+            "deezer": {
+              "id": 104324950,
+              "link": "https://www.deezer.com/track/104324950",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/0/0/3f086acee91c1a93d44438c3c253a30f.mp3?hdnea=exp=1795656422~acl=/api/1/1/3/f/0/0/3f086acee91c1a93d44438c3c253a30f.mp3*~data=user_id=0,application_id=42~hmac=e59f68ba35341b945d460515a463f4eb5f10c64b3ae5a1838ab8e24afb1d79bd",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bring It On Home (rough mix)",
+            "length": "2:32",
+            "deezer": {
+              "id": 104324952,
+              "link": "https://www.deezer.com/track/104324952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/9/0/fc993bd81db2bed2b50d0bc965883959.mp3?hdnea=exp=1795656422~acl=/api/1/1/f/c/9/0/fc993bd81db2bed2b50d0bc965883959.mp3*~data=user_id=0,application_id=42~hmac=5ada0f4f9ec7f316116fb0a7b93d3cad897359cf0b148959f7f5c805a48b0bfd",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Walter’s Walk (rough mix)",
+            "length": "3:19",
+            "deezer": {
+              "id": 104324954,
+              "link": "https://www.deezer.com/track/104324954",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/c/0/54c64a0186236c5d5a90976ac3fc0fec.mp3?hdnea=exp=1795656422~acl=/api/1/1/5/4/c/0/54c64a0186236c5d5a90976ac3fc0fec.mp3*~data=user_id=0,application_id=42~hmac=c1d430972307a902b32a41e822fa82ce6107a9d54ccc185246a8ca322dbaa2c4",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Everybody Makes It Through (In the Light) (rough mix)",
+            "length": "8:33",
+            "deezer": {
+              "id": 104324962,
+              "link": "https://www.deezer.com/track/104324962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/2/0/5220d066e42526b885db682fdaf3b586.mp3?hdnea=exp=1795656422~acl=/api/1/1/5/2/2/0/5220d066e42526b885db682fdaf3b586.mp3*~data=user_id=0,application_id=42~hmac=225f96d2f9bc10042e0a8b3c15e2ca7df2f333bed9be902d204ccce03ba27061",
+              "preview_expires": "2026-11-26T01:27:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Led Zeppelin/Coda.jpg"
+}

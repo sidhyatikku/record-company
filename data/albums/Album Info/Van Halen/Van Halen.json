@@ -1,0 +1,185 @@
+{
+  "title": "Van Halen",
+  "artist": "Van Halen",
+  "year": 1978,
+  "release_date": "1978-02-10",
+  "type": "Album",
+  "description": "Van Halen is the debut studio album by American rock band Van Halen, released on February 10, 1978, by Warner Bros. Records. Widely regarded as one of the greatest debut albums in rock music, the album was a major commercial success, peaking at number 19 on the Billboard Top LPs & Tape chart. It has sold more than 10 million copies in the United States, receiving a Diamond certification from the Recording Industry Association of America (RIAA) and making it one of the best-selling albums in the country.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "heavy metal",
+    "arena rock",
+    "electronic"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "album rock",
+    "heavy metal",
+    "arena rock",
+    "contemporary pop/rock",
+    "70s",
+    "electronic",
+    "self-titled",
+    "van halen"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 21
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/43a0e8b5-6059-397f-81e6-b8df5a648496",
+    "wikipedia": "https://en.wikipedia.org/wiki/Van_Halen_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000196169",
+    "discogs": "https://www.discogs.com/master/29426",
+    "wikidata": "https://www.wikidata.org/wiki/Q264135",
+    "deezer": "https://www.deezer.com/album/9893092"
+  },
+  "musicbrainz_id": "43a0e8b5-6059-397f-81e6-b8df5a648496",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/51f04484-7eb6-4810-a0c5-edb3f4ab3de4",
+      "barcode": "603497892693",
+      "title": "Van Halen",
+      "disambiguation": "2015 remaster",
+      "date": "2015-03-31",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "35:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Runnin’ With the Devil",
+            "length": "3:35",
+            "deezer": {
+              "id": 97173546,
+              "link": "https://www.deezer.com/track/97173546",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/1/0/341863d647114a9d40b4ff365dae8828.mp3?hdnea=exp=1795722171~acl=/api/1/1/3/4/1/0/341863d647114a9d40b4ff365dae8828.mp3*~data=user_id=0,application_id=42~hmac=d8e0521b670b5838e95e407c50f8ded4f811177616177f385a0877463ff923ac",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Eruption",
+            "length": "1:42",
+            "deezer": {
+              "id": 97173548,
+              "link": "https://www.deezer.com/track/97173548",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/9/0/139027fa5e350f626ce6ba1866d11fff.mp3?hdnea=exp=1795722171~acl=/api/1/1/1/3/9/0/139027fa5e350f626ce6ba1866d11fff.mp3*~data=user_id=0,application_id=42~hmac=82fbe63fb2db7200de93ac9599e733a87dd856f69799636b4ddf878fefbaa880",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "You Really Got Me",
+            "length": "2:36",
+            "deezer": {
+              "id": 97173550,
+              "link": "https://www.deezer.com/track/97173550",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/1/0/bf11a4e8b742ddbb5ccb3f7ea5757592.mp3?hdnea=exp=1795722171~acl=/api/1/1/b/f/1/0/bf11a4e8b742ddbb5ccb3f7ea5757592.mp3*~data=user_id=0,application_id=42~hmac=02504dc36dccebc9e8eb2c4027b9fd227850e140b107b96ad084fca8baf977c4",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ain’t Talkin’ ’Bout Love",
+            "length": "3:48",
+            "deezer": {
+              "id": 97173552,
+              "link": "https://www.deezer.com/track/97173552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/a/0/71a6e7e946ee3b8cf90f7ad57db34d2f.mp3?hdnea=exp=1795722171~acl=/api/1/1/7/1/a/0/71a6e7e946ee3b8cf90f7ad57db34d2f.mp3*~data=user_id=0,application_id=42~hmac=9822ce2f477c8564662ca4d525fab6f1307ebd3ebe699eb7a9225bf175bdb1d4",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I’m the One",
+            "length": "3:45",
+            "deezer": {
+              "id": 97173554,
+              "link": "https://www.deezer.com/track/97173554",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/6/0/13611048ffaa6129dc68617422d96ccf.mp3?hdnea=exp=1795722171~acl=/api/1/1/1/3/6/0/13611048ffaa6129dc68617422d96ccf.mp3*~data=user_id=0,application_id=42~hmac=06bbd18e8e3adbba90151f360da2e809d535aac8b19701075c9f0bc504091b95",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Jamie’s Cryin’",
+            "length": "3:30",
+            "deezer": {
+              "id": 97173556,
+              "link": "https://www.deezer.com/track/97173556",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/5/0/1852e6daabee0b74f824644970a57696.mp3?hdnea=exp=1795722171~acl=/api/1/1/1/8/5/0/1852e6daabee0b74f824644970a57696.mp3*~data=user_id=0,application_id=42~hmac=829bfd065f7fe3dedbf5850d44d30b45e332479e19a31874976b47e8d39a53ee",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Atomic Punk",
+            "length": "3:00",
+            "deezer": {
+              "id": 97173558,
+              "link": "https://www.deezer.com/track/97173558",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/3/0/6d32f9b86fd5c2c72717eb682881d109.mp3?hdnea=exp=1795722171~acl=/api/1/1/6/d/3/0/6d32f9b86fd5c2c72717eb682881d109.mp3*~data=user_id=0,application_id=42~hmac=88d7c8617b246724260dbfd4490a286d07120b802cfdd6fec80247a9dac6d789",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Feel Your Love Tonight",
+            "length": "3:41",
+            "deezer": {
+              "id": 97173560,
+              "link": "https://www.deezer.com/track/97173560",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/8/0/4e82dceda317402744782b9638eb4c54.mp3?hdnea=exp=1795722171~acl=/api/1/1/4/e/8/0/4e82dceda317402744782b9638eb4c54.mp3*~data=user_id=0,application_id=42~hmac=c97b118f21c77f8b0d4a2130bbdad273b03d40bb43cb92ae41cb29786e2f2052",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Little Dreamer",
+            "length": "3:22",
+            "deezer": {
+              "id": 97173562,
+              "link": "https://www.deezer.com/track/97173562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/6/0/ba63e2bb32f8bbeb93cc3c169f3a4162.mp3?hdnea=exp=1795722171~acl=/api/1/1/b/a/6/0/ba63e2bb32f8bbeb93cc3c169f3a4162.mp3*~data=user_id=0,application_id=42~hmac=f24b288297ada2b86929dd84dd40741b348027c9109b2c800a09446c8956b6a6",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ice Cream Man",
+            "length": "3:18",
+            "deezer": {
+              "id": 97173564,
+              "link": "https://www.deezer.com/track/97173564",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/d/0/3dd06f880ae938f4a5766f2d16c9668c.mp3?hdnea=exp=1795722171~acl=/api/1/1/3/d/d/0/3dd06f880ae938f4a5766f2d16c9668c.mp3*~data=user_id=0,application_id=42~hmac=7362d48d8e6cd18abce4fac051b21792ab9da7b6c13bbe9a8fc10fc55b976c1c",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "On Fire",
+            "length": "3:01",
+            "deezer": {
+              "id": 97173566,
+              "link": "https://www.deezer.com/track/97173566",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/d/0/7fdd49f83083c13c7ec97936829b68ff.mp3?hdnea=exp=1795722171~acl=/api/1/1/7/f/d/0/7fdd49f83083c13c7ec97936829b68ff.mp3*~data=user_id=0,application_id=42~hmac=3907bb14f9c8b8a4f5804d1134377a594e5e2b7dec9fadf920087afbf2747d58",
+              "preview_expires": "2026-11-26T19:42:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Van Halen/Van Halen.jpg"
+}

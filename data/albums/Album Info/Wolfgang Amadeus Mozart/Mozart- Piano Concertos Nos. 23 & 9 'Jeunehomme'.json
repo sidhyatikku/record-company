@@ -1,0 +1,83 @@
+{
+  "title": "Piano Concerto no. 23 / Piano Concerto no. 9 \"Jeunehomme\"",
+  "artist": "Wolfgang Amadeus Mozart; Imogen Cooper, Northern Sinfonia",
+  "year": 2006,
+  "release_date": "2006",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "classical",
+    "concerto"
+  ],
+  "tags": [
+    "classical",
+    "concerto"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/16c1a665-e4f8-403e-a01e-7fc0e7b053c8",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001388177",
+    "deezer": null
+  },
+  "musicbrainz_id": "16c1a665-e4f8-403e-a01e-7fc0e7b053c8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c303f29d-ab75-44b1-9fb2-9337d4a661e7",
+      "barcode": "822252210026",
+      "title": "Piano Concerto no. 23 / Piano Concerto no. 9 \"Jeunehomme\"",
+      "disambiguation": null,
+      "date": "2006",
+      "country": "GB"
+    },
+    "total_tracks": 6,
+    "total_length": "1:02:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Concerto for Piano and Orchestra no. 23 in A major, K. 488: I. Allegro",
+            "length": "11:53",
+            "artist": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "number": "2",
+            "title": "Concerto for Piano and Orchestra no. 23 in A major, K. 488: II. Adagio",
+            "length": "6:58",
+            "artist": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "number": "3",
+            "title": "Concerto for Piano and Orchestra no. 23 in A major, K. 488: III. Allegro assai",
+            "length": "8:31",
+            "artist": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "number": "4",
+            "title": "Concerto for Piano and Orchestra no. 9 in E-flat major, K. 271 \"Jeunehomme\": I. Allegro",
+            "length": "10:51",
+            "artist": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "number": "5",
+            "title": "Concerto for Piano and Orchestra no. 9 in E-flat major, K. 271 \"Jeunehomme\": II. Andantino",
+            "length": "12:50",
+            "artist": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "number": "6",
+            "title": "Concerto for Piano and Orchestra no. 9 in E-flat major, K. 271 \"Jeunehomme\": III. Rondeau: Presto",
+            "length": "10:57",
+            "artist": "Wolfgang Amadeus Mozart"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Wolfgang Amadeus Mozart/Mozart- Piano Concertos Nos. 23 & 9 'Jeunehomme'.jpg"
+}

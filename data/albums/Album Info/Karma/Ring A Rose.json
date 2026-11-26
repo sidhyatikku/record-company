@@ -1,0 +1,51 @@
+{
+  "title": "Ring A Rose",
+  "artist": "Karma",
+  "year": 2025,
+  "release_date": "2025-08-19",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3a14b10c-d3f3-4430-afcc-c25fb9e8e71b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/799059341"
+  },
+  "musicbrainz_id": "3a14b10c-d3f3-4430-afcc-c25fb9e8e71b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4439ac6e-a797-4e35-8913-5dc26e27a510",
+      "barcode": "5021732946591",
+      "title": "Ring A Rose",
+      "disambiguation": null,
+      "date": "2025-08-19",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ring A Rose",
+            "length": "2:20",
+            "deezer": {
+              "id": 3491033531,
+              "link": "https://www.deezer.com/track/3491033531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/1/0/bf1988b4c2ae6689452689e97aeb7e79.mp3?hdnea=exp=1795655983~acl=/api/1/1/b/f/1/0/bf1988b4c2ae6689452689e97aeb7e79.mp3*~data=user_id=0,application_id=42~hmac=d8f4fa6582596d31eb2803cb649bbf9262e1ad06b8fae80a8c68f7bf0d86cd16",
+              "preview_expires": "2026-11-26T01:19:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karma/Ring A Rose.jpg"
+}

@@ -1,0 +1,117 @@
+{
+  "title": "The Lick",
+  "artist": "Surinder Rattan",
+  "year": 1999,
+  "release_date": "1999",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cb2c686b-6379-37df-85c9-e938458a3a5f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/867649932"
+  },
+  "musicbrainz_id": "cb2c686b-6379-37df-85c9-e938458a3a5f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7aa299e2-aa2f-4ded-9e5c-981e340fdf34",
+      "barcode": "664952102023",
+      "title": "The Lick",
+      "disambiguation": null,
+      "date": "1999",
+      "country": "GB"
+    },
+    "total_tracks": 7,
+    "total_length": "34:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jag Hasia (Desi mix)",
+            "length": "4:29",
+            "artist": "Avtar Maniac",
+            "deezer": {
+              "id": 3689241082,
+              "link": "https://www.deezer.com/track/3689241082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/1/0/8a1dd125da068025b8132b7e33111711.mp3?hdnea=exp=1795721094~acl=/api/1/1/8/a/1/0/8a1dd125da068025b8132b7e33111711.mp3*~data=user_id=0,application_id=42~hmac=22b6a2c72a798c802d4d95ad49d746be57e572a9f83030c53790132ddd18cadb",
+              "preview_expires": "2026-11-26T19:24:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tappe (House 'n' Garage)",
+            "length": "6:00",
+            "artist": "H.S. Talwar (XLNC) feat. MC Metz (Hyteria)",
+            "deezer": {
+              "id": 3689241092,
+              "link": "https://www.deezer.com/track/3689241092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/8/0/1880a9b10df6b1555b7536782545cc6f.mp3?hdnea=exp=1795721094~acl=/api/1/1/1/8/8/0/1880a9b10df6b1555b7536782545cc6f.mp3*~data=user_id=0,application_id=42~hmac=4e33e4b5f9842499ea2d2b24301672a65a4bb405c5665e4010e3b55b9a7f2829",
+              "preview_expires": "2026-11-26T19:24:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Pyar Kiya to Nibhana (Do for Love mix)",
+            "length": "5:47",
+            "artist": "Shazia Manzoor",
+            "deezer": {
+              "id": 3689241102,
+              "link": "https://www.deezer.com/track/3689241102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/e/0/82ee7d1508b349a967049983f4bd53e1.mp3?hdnea=exp=1795721094~acl=/api/1/1/8/2/e/0/82ee7d1508b349a967049983f4bd53e1.mp3*~data=user_id=0,application_id=42~hmac=b8f1766a0a1d72a180a1ce9e00596035e46b644476ec19cdc9ce9e8d871b8104",
+              "preview_expires": "2026-11-26T19:24:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dil Mangda",
+            "length": "3:59",
+            "artist": "Manjit Pappu",
+            "deezer": {
+              "id": 3689241112,
+              "link": "https://www.deezer.com/track/3689241112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/d/0/44db8b9f2381335943f3e50eab1a8f2d.mp3?hdnea=exp=1795721094~acl=/api/1/1/4/4/d/0/44db8b9f2381335943f3e50eab1a8f2d.mp3*~data=user_id=0,application_id=42~hmac=44e99e8fbb738d70da9c515aee3bf9ac50dd8dcfaa353841e4ddf32b650ed035",
+              "preview_expires": "2026-11-26T19:24:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Juthi (Folk 'n' Bass mix)",
+            "length": "4:39",
+            "artist": "Avtar Maniac",
+            "deezer": {
+              "id": 3689241122,
+              "link": "https://www.deezer.com/track/3689241122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/a/0/d1ad02216fdb94f9188200ec3c2d2e60.mp3?hdnea=exp=1795721094~acl=/api/1/1/d/1/a/0/d1ad02216fdb94f9188200ec3c2d2e60.mp3*~data=user_id=0,application_id=42~hmac=7c5c2c8cdafb2e8d2ad04b44b0353681ac91e5a8310b35b94306454d7c6462e3",
+              "preview_expires": "2026-11-26T19:24:54Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Akhiyon Se Goli Maare",
+            "length": "5:58",
+            "artist": "Shazia Manzoor & Anil Sanu",
+            "deezer": {
+              "id": 3689241132,
+              "link": "https://www.deezer.com/track/3689241132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/1/0/ef100f301819de5929af82850f0596a4.mp3?hdnea=exp=1795721094~acl=/api/1/1/e/f/1/0/ef100f301819de5929af82850f0596a4.mp3*~data=user_id=0,application_id=42~hmac=44657181b84cc508e4eb270a0407376acbfd4fb5496945f2f12bfee3794252e8",
+              "preview_expires": "2026-11-26T19:24:54Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Adverts",
+            "length": "4:04"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Surinder Rattan/The Lick.jpg"
+}

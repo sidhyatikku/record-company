@@ -1,0 +1,198 @@
+{
+  "title": "Spreading Rumours",
+  "artist": "Grouplove",
+  "year": 2013,
+  "release_date": "2013-09-17",
+  "type": "Album",
+  "description": "Spreading Rumours is the second studio album by the indie rock band Grouplove. It was released on September 17, 2013. The lead single \"Ways to Go\" peaked at #2 on the US Alternative Airplay chart. Their single \"I'm With You\" was featured as the soundtrack in the EA Sports game, FIFA 14.",
+  "genres": [
+    "alternative rock",
+    "indie rock",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "indie rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/27f7d978-d846-4e55-8746-3dcb1c1bd707",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spreading_Rumours",
+    "allmusic": "https://www.allmusic.com/album/mw0002563729",
+    "discogs": "https://www.discogs.com/master/598233",
+    "wikidata": "https://www.wikidata.org/wiki/Q17062561",
+    "deezer": "https://www.deezer.com/album/6901198"
+  },
+  "musicbrainz_id": "27f7d978-d846-4e55-8746-3dcb1c1bd707",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1f7fefa9-b2bf-4102-9766-6b932279ca9b",
+      "barcode": null,
+      "title": "Spreading Rumours",
+      "disambiguation": null,
+      "date": "2013-09-17",
+      "country": "US"
+    },
+    "total_tracks": 13,
+    "total_length": "50:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I’m With You",
+            "length": "5:34",
+            "deezer": {
+              "id": 70336005,
+              "link": "https://www.deezer.com/track/70336005",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/4/0/cb4352584d82c9972d57f1692881290c.mp3?hdnea=exp=1795654798~acl=/api/1/1/c/b/4/0/cb4352584d82c9972d57f1692881290c.mp3*~data=user_id=0,application_id=42~hmac=1b0f6af5553bd625f75c7aac0c089fa12cb2bab33cca11a37de584173ee652ab",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Borderlines and Aliens",
+            "length": "3:50",
+            "deezer": {
+              "id": 70336006,
+              "link": "https://www.deezer.com/track/70336006",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/1/0/4314c045b3411af5328f5d933ecd5aac.mp3?hdnea=exp=1795654798~acl=/api/1/1/4/3/1/0/4314c045b3411af5328f5d933ecd5aac.mp3*~data=user_id=0,application_id=42~hmac=b20c538b75baf7b859a924a15814bf8b9f42a1541e2f73c26b03a01ae7f8a3fa",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "School Boy",
+            "length": "3:52",
+            "deezer": {
+              "id": 70336007,
+              "link": "https://www.deezer.com/track/70336007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/5/0/2456beac707d1566f72767007fb6308d.mp3?hdnea=exp=1795654798~acl=/api/1/1/2/4/5/0/2456beac707d1566f72767007fb6308d.mp3*~data=user_id=0,application_id=42~hmac=20dffa68bdd57134930afb8c2c816ab8fa167be31ebfa065b0624acbbd1b588f",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ways to Go",
+            "length": "3:35",
+            "deezer": {
+              "id": 70336008,
+              "link": "https://www.deezer.com/track/70336008",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/b/0/2ebb72a7bcf2b01962d7daa95aee91cc.mp3?hdnea=exp=1795654798~acl=/api/1/1/2/e/b/0/2ebb72a7bcf2b01962d7daa95aee91cc.mp3*~data=user_id=0,application_id=42~hmac=4309b2fa8c763fb0272ea6b9bc516d99d324258b6977c7f56dce947d3ceb3f44",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Shark Attack",
+            "length": "3:59",
+            "deezer": {
+              "id": 70336009,
+              "link": "https://www.deezer.com/track/70336009",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/6/0/8269c641a975a5f046e3691ef0d0be8c.mp3?hdnea=exp=1795654798~acl=/api/1/1/8/2/6/0/8269c641a975a5f046e3691ef0d0be8c.mp3*~data=user_id=0,application_id=42~hmac=15a3cad66efeaefc68e5104dfaf1963010d263f54733dc29b65b3b776168a58d",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Sit Still",
+            "length": "4:05",
+            "deezer": {
+              "id": 70336010,
+              "link": "https://www.deezer.com/track/70336010",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/e/0/9ce64c5e33289d6d88db93457ec706e7.mp3?hdnea=exp=1795654798~acl=/api/1/1/9/c/e/0/9ce64c5e33289d6d88db93457ec706e7.mp3*~data=user_id=0,application_id=42~hmac=6f3a60bb194b2791ddc69aef483ef84c27f6bd71ed0fbd83db69d313f71dce1c",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Hippy Hill",
+            "length": "2:56",
+            "deezer": {
+              "id": 70336011,
+              "link": "https://www.deezer.com/track/70336011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/d/0/5bd1d6664ab82329e0123fc11996644c.mp3?hdnea=exp=1795654798~acl=/api/1/1/5/b/d/0/5bd1d6664ab82329e0123fc11996644c.mp3*~data=user_id=0,application_id=42~hmac=58cb1f06ec106f97c162b511c9af5e3b68dcc1f81c32f35f240b501a0b02674f",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "What I Know",
+            "length": "3:54",
+            "deezer": {
+              "id": 70336012,
+              "link": "https://www.deezer.com/track/70336012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/f/0/fcf65b6f8baebef394455f87b62901fa.mp3?hdnea=exp=1795654798~acl=/api/1/1/f/c/f/0/fcf65b6f8baebef394455f87b62901fa.mp3*~data=user_id=0,application_id=42~hmac=4f04e3177e9ae29d51984a20b8c90597cb8a38c02797e43d38f74d0569ea3b4c",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Didn’t Have to Go",
+            "length": "3:45",
+            "deezer": {
+              "id": 70336013,
+              "link": "https://www.deezer.com/track/70336013",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/2/0/5c2d17a1826cf221c8f138ebaa8c7508.mp3?hdnea=exp=1795654798~acl=/api/1/1/5/c/2/0/5c2d17a1826cf221c8f138ebaa8c7508.mp3*~data=user_id=0,application_id=42~hmac=6a488c3314676a21d0b4f83d8bd64af7dc4f0530175579038c6e16f02c08ca89",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Bitin’ the Bullet",
+            "length": "4:09",
+            "deezer": {
+              "id": 70336014,
+              "link": "https://www.deezer.com/track/70336014",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/a/0/2cad1c6b85616b06caf6b92d9583800f.mp3?hdnea=exp=1795654798~acl=/api/1/1/2/c/a/0/2cad1c6b85616b06caf6b92d9583800f.mp3*~data=user_id=0,application_id=42~hmac=0ac988e000b7306f219f2f34ca6c5fcb112db4c078c2ec0a2e9ba2e82e1a44aa",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "News to Me",
+            "length": "3:46",
+            "deezer": {
+              "id": 70336015,
+              "link": "https://www.deezer.com/track/70336015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/a/0/f8ad047453da2d451c3cb0e9d26a2ab8.mp3?hdnea=exp=1795654798~acl=/api/1/1/f/8/a/0/f8ad047453da2d451c3cb0e9d26a2ab8.mp3*~data=user_id=0,application_id=42~hmac=e104efc35bb54d85d9f34492e3d18fb0e50c48a88b5ef10d4b605910bb070718",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Raspberry",
+            "length": "3:16",
+            "deezer": {
+              "id": 70336016,
+              "link": "https://www.deezer.com/track/70336016",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/6/0/236fdc0133c4182b3cffd974bb492438.mp3?hdnea=exp=1795654798~acl=/api/1/1/2/3/6/0/236fdc0133c4182b3cffd974bb492438.mp3*~data=user_id=0,application_id=42~hmac=fb5dd29d418263aa5fdfe136278c336437cb93b21b56f322a68cc9364f7b910e",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Save the Party",
+            "length": "3:31",
+            "deezer": {
+              "id": 70336017,
+              "link": "https://www.deezer.com/track/70336017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/8/0/d78af49d0df59cf15414e5f929e2ec37.mp3?hdnea=exp=1795654798~acl=/api/1/1/d/7/8/0/d78af49d0df59cf15414e5f929e2ec37.mp3*~data=user_id=0,application_id=42~hmac=1587352aa092ed84355154e3d92550411d56a418f32ad546cd1e178c1b9ff28a",
+              "preview_expires": "2026-11-26T00:59:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/GROUPLOVE/Spreading Rumours.jpg"
+}

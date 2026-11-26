@@ -1,0 +1,168 @@
+{
+  "title": "Eagles",
+  "artist": "Eagles",
+  "year": 1972,
+  "release_date": "1972-06-01",
+  "type": "Album",
+  "description": "Eagles is the debut studio album by American rock band the Eagles. The album was recorded at London's Olympic Studios with producer Glyn Johns and released on June 1, 1972, by Asylum Records. It was an immediate success for the then-new band, reaching No. 22 on the Billboard 200 and achieving a platinum certification from the Recording Industry Association of America (RIAA). Three singles were released from the album, each reaching the Top 40 of the Billboard Hot 100: \"Take It Easy\", \"Witchy Woman\", and \"Peaceful Easy Feeling\". The band, starting with this album, played a major role in popularizing the country rock sound.",
+  "genres": [
+    "rock",
+    "country rock",
+    "soft rock"
+  ],
+  "tags": [
+    "rock",
+    "country rock",
+    "album rock",
+    "country-rock",
+    "laurel canyon scene",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/23eafc30-3978-37fb-bfa0-8058aa1eb81a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eagles_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000189885",
+    "discogs": "https://www.discogs.com/master/59496",
+    "wikidata": "https://www.wikidata.org/wiki/Q987438",
+    "deezer": "https://www.deezer.com/album/6670659"
+  },
+  "musicbrainz_id": "23eafc30-3978-37fb-bfa0-8058aa1eb81a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7e656ba0-b0d8-4bb5-8502-b36a8441c095",
+      "barcode": "603497921300",
+      "title": "Eagles",
+      "disambiguation": null,
+      "date": "2013-06-25",
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "37:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Take It Easy",
+            "length": "3:32",
+            "deezer": {
+              "id": 68098781,
+              "link": "https://www.deezer.com/track/68098781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/5/0/eb5a581c382c0b4f5872ea36f73e8e89.mp3?hdnea=exp=1795653761~acl=/api/1/1/e/b/5/0/eb5a581c382c0b4f5872ea36f73e8e89.mp3*~data=user_id=0,application_id=42~hmac=a69baa1a9019764e8b48e7a714bf17ae46085eaa3a3d61f7af7d8827fe192c05",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Witchy Woman",
+            "length": "4:11",
+            "deezer": {
+              "id": 68098783,
+              "link": "https://www.deezer.com/track/68098783",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/3/0/7c3f4d9d16e030a38e5c425bca797eb7.mp3?hdnea=exp=1795653761~acl=/api/1/1/7/c/3/0/7c3f4d9d16e030a38e5c425bca797eb7.mp3*~data=user_id=0,application_id=42~hmac=5d8cf57555341bf9c9e23b6251d3a0a998d36d314da15cff6871ae0b98ad43e1",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Chug All Night",
+            "length": "3:16",
+            "deezer": {
+              "id": 68098785,
+              "link": "https://www.deezer.com/track/68098785",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/f/0/06fd25e9c3226198d4a03b5d6acd28dc.mp3?hdnea=exp=1795653761~acl=/api/1/1/0/6/f/0/06fd25e9c3226198d4a03b5d6acd28dc.mp3*~data=user_id=0,application_id=42~hmac=271a7c2031ba83ab84cd146df91468eb34645ab1d03fec91f7599c92a276e5a4",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Most of Us Are Sad",
+            "length": "3:35",
+            "deezer": {
+              "id": 68098787,
+              "link": "https://www.deezer.com/track/68098787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/2/0/b429b791fbe8d7fdc3a6718dc357f38f.mp3?hdnea=exp=1795653761~acl=/api/1/1/b/4/2/0/b429b791fbe8d7fdc3a6718dc357f38f.mp3*~data=user_id=0,application_id=42~hmac=ef52b1d34af3ec7635e1a3100323ef7669037df4508bb0b30b2504f1b8be677f",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Nightingale",
+            "length": "4:06",
+            "deezer": {
+              "id": 68098789,
+              "link": "https://www.deezer.com/track/68098789",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/e/0/99e92acea028f1a29a1f3caa1314e7dc.mp3?hdnea=exp=1795653761~acl=/api/1/1/9/9/e/0/99e92acea028f1a29a1f3caa1314e7dc.mp3*~data=user_id=0,application_id=42~hmac=68371f5387c91a769b291340a7fa5d2544691e2519347a2580fa0700728fdaec",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Train Leaves Here This Morning",
+            "length": "4:10",
+            "deezer": {
+              "id": 68098790,
+              "link": "https://www.deezer.com/track/68098790",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/1/0/b21a45d23dc2b3eaeae293883f4338b2.mp3?hdnea=exp=1795653761~acl=/api/1/1/b/2/1/0/b21a45d23dc2b3eaeae293883f4338b2.mp3*~data=user_id=0,application_id=42~hmac=13513df480696baf9125db100bd4ac8efa7f0cdfc556b3be641f6abcea5a7ce8",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Take the Devil",
+            "length": "4:01",
+            "deezer": {
+              "id": 68098792,
+              "link": "https://www.deezer.com/track/68098792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/6/0/8b60c972a37fc532962ab73d08ef0a72.mp3?hdnea=exp=1795653761~acl=/api/1/1/8/b/6/0/8b60c972a37fc532962ab73d08ef0a72.mp3*~data=user_id=0,application_id=42~hmac=db745f5e024bcae62bd2d376017046936bba00d2514bd40adfeeb65d538a7927",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Earlybird",
+            "length": "3:00",
+            "deezer": {
+              "id": 68098794,
+              "link": "https://www.deezer.com/track/68098794",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/e/0/03ec0ef3f5a938c52db5dda902e235bb.mp3?hdnea=exp=1795653761~acl=/api/1/1/0/3/e/0/03ec0ef3f5a938c52db5dda902e235bb.mp3*~data=user_id=0,application_id=42~hmac=c38b1925a54ec50994fa6cb193921635a015df9ab5f3d504c77ac19e7e8a8259",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Peaceful Easy Feeling",
+            "length": "4:18",
+            "deezer": {
+              "id": 68098796,
+              "link": "https://www.deezer.com/track/68098796",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f35f2b06bdde03714ab2c59db6b6e5c.mp3?hdnea=exp=1795653761~acl=/api/1/1/6/f/3/0/6f35f2b06bdde03714ab2c59db6b6e5c.mp3*~data=user_id=0,application_id=42~hmac=32bfe7b722f70fdca92eda402a5195caf82a19bce0e0db07c6ebb78a1277b293",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Tryin’",
+            "length": "2:55",
+            "deezer": {
+              "id": 68098798,
+              "link": "https://www.deezer.com/track/68098798",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/c/0/d3c9597f7df6cd7864739ccba2ed1646.mp3?hdnea=exp=1795653761~acl=/api/1/1/d/3/c/0/d3c9597f7df6cd7864739ccba2ed1646.mp3*~data=user_id=0,application_id=42~hmac=6b982d0cee07e79c33bf76ac7733105f2ab5d170160a8a351a3d4ea48d2de3a8",
+              "preview_expires": "2026-11-26T00:42:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eagles/Eagles.jpg"
+}

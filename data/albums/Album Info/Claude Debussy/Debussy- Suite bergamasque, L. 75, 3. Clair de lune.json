@@ -1,0 +1,131 @@
+{
+  "title": "Clair de lune",
+  "artist": "Claude Debussy",
+  "year": 1988,
+  "release_date": "1988",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "classical"
+  ],
+  "tags": [
+    "classical"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e3f16eac-9880-44be-a051-61072b2a7d57",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/560806",
+    "deezer": "https://www.deezer.com/album/214304982"
+  },
+  "musicbrainz_id": "e3f16eac-9880-44be-a051-61072b2a7d57",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4c3a9b45-3d07-40eb-a695-9af8da540657",
+      "barcode": "090204000913",
+      "title": "Clair de lune / Prélude à l’après-midi d’un faune / Children’s Corner / Syrinx / Préludes / Arabesques",
+      "disambiguation": "title on disc: \"DEBUSSY\"",
+      "date": "1988",
+      "country": "DE"
+    },
+    "total_tracks": 16,
+    "total_length": "1:03:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Suite bergamasque: 1. Prélude",
+            "length": "4:08"
+          },
+          {
+            "number": "2",
+            "title": "Suite bergamasque: 2. Menuett",
+            "length": "4:16"
+          },
+          {
+            "number": "3",
+            "title": "Suite bergamasque: 3. Clair de lune",
+            "length": "5:12",
+            "deezer": {
+              "id": 1273295942,
+              "link": "https://www.deezer.com/track/1273295942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/b/0/b2b294a265507ab5d833b90380d7df08.mp3?hdnea=exp=1795652855~acl=/api/1/1/b/2/b/0/b2b294a265507ab5d833b90380d7df08.mp3*~data=user_id=0,application_id=42~hmac=61d0962f85b43ccb228ce11679189261fbc40011e488728151ce1ad27359862a",
+              "preview_expires": "2026-11-26T00:27:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Suite bergamasque: 4. Passepied",
+            "length": "3:43"
+          },
+          {
+            "number": "5",
+            "title": "Prélude à l’après-midi d’un faune",
+            "length": "10:18"
+          },
+          {
+            "number": "6",
+            "title": "Children’s Corner (Suite): 1. Doctor Gradius ad Parnassum",
+            "length": "2:30"
+          },
+          {
+            "number": "7",
+            "title": "Children’s Corner (Suite): 2. Jimbo’s Lullaby",
+            "length": "3:20"
+          },
+          {
+            "number": "8",
+            "title": "Children’s Corner (Suite): 3. Serenade for the Doll",
+            "length": "2:59"
+          },
+          {
+            "number": "9",
+            "title": "Children’s Corner (Suite): 4. The Snow Is Falling",
+            "length": "2:36"
+          },
+          {
+            "number": "10",
+            "title": "Children’s Corner (Suite): 5. The Little Shepherd",
+            "length": "2:27"
+          },
+          {
+            "number": "11",
+            "title": "Children’s Corner (Suite): 6. Golliwogg’s Cake-Walk",
+            "length": "2:43"
+          },
+          {
+            "number": "12",
+            "title": "Syrinx",
+            "length": "2:28"
+          },
+          {
+            "number": "13",
+            "title": "Préludes: La fille aux cheveux de lin (Das Mädchen mit den blonden Haaren)",
+            "length": "2:38"
+          },
+          {
+            "number": "14",
+            "title": "Préludes: La Cathédrale engloutie (Die versunkene Kathedrale)",
+            "length": "7:09"
+          },
+          {
+            "number": "15",
+            "title": "Arabesques: No. 1",
+            "length": "3:55"
+          },
+          {
+            "number": "16",
+            "title": "Arabesques: No. 2",
+            "length": "3:36"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Claude Debussy/Debussy- Suite bergamasque, L. 75, 3. Clair de lune.jpg"
+}

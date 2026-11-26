@@ -1,0 +1,51 @@
+{
+  "title": "Akhiyan Udeek Diyan",
+  "artist": "Indian Ocean",
+  "year": 2020,
+  "release_date": "2020-04-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1f5b268a-f9a0-4b4d-862c-9f4dd4ab5ada",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/141179642"
+  },
+  "musicbrainz_id": "1f5b268a-f9a0-4b4d-862c-9f4dd4ab5ada",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/99c8bcbf-5507-4354-a240-b935e376d45a",
+      "barcode": "8902633306592",
+      "title": "Akhiyan Udeek Diyan",
+      "disambiguation": null,
+      "date": "2020-04-17",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "11:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Akhiyan Udeek Diyan",
+            "length": "11:50",
+            "deezer": {
+              "id": 927447582,
+              "link": "https://www.deezer.com/track/927447582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/f/0/b1f86b201f02315653421a721aa4c5cc.mp3?hdnea=exp=1795655218~acl=/api/1/1/b/1/f/0/b1f86b201f02315653421a721aa4c5cc.mp3*~data=user_id=0,application_id=42~hmac=175dc4ad2f2b77da11e38fa81ccb33d86913cf60663e95b8d3057c159cd1ea07",
+              "preview_expires": "2026-11-26T01:06:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Indian Ocean/Akhiyan Udeek Diyan.jpg"
+}

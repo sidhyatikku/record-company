@@ -1,0 +1,72 @@
+{
+  "title": "Raga Mala EP",
+  "artist": "Evan Hatfield",
+  "year": 2019,
+  "release_date": "2019-06-21",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "organic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5L7IHDtZuVmQSF0Cokzhl8",
+    "deezer": "https://www.deezer.com/album/100268642"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5L7IHDtZuVmQSF0Cokzhl8",
+      "title": "Raga Mala EP",
+      "date": "2019-06-21"
+    },
+    "total_tracks": 3,
+    "total_length": "20:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Raga Mala",
+            "length": "5:48",
+            "deezer": {
+              "id": 696196722,
+              "link": "https://www.deezer.com/track/696196722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/e/0/1ce63bf350de5f22adfb8afe39050ea7.mp3?hdnea=exp=1795654127~acl=/api/1/1/1/c/e/0/1ce63bf350de5f22adfb8afe39050ea7.mp3*~data=user_id=0,application_id=42~hmac=1375c0dabf90e72569221c63a48c58e6dd16cf053aec160518cbb0e20fe718a0",
+              "preview_expires": "2026-11-26T00:48:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Magic Flute",
+            "length": "5:51",
+            "deezer": {
+              "id": 696196732,
+              "link": "https://www.deezer.com/track/696196732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/7/0/db7d6db50f8e1e1252250070f8bdf23b.mp3?hdnea=exp=1795654127~acl=/api/1/1/d/b/7/0/db7d6db50f8e1e1252250070f8bdf23b.mp3*~data=user_id=0,application_id=42~hmac=f0a452ff7f3b7a15f7e80737860e3c561fe4e57c4998423d2328be0db88ba124",
+              "preview_expires": "2026-11-26T00:48:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Raga Mala - Goldcap Remix",
+            "length": "8:23",
+            "artist": "Evan Hatfield, Goldcap",
+            "deezer": {
+              "id": 696196742,
+              "link": "https://www.deezer.com/track/696196742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/7/0/0279722486d249266789d9eab4e1a7cc.mp3?hdnea=exp=1795654127~acl=/api/1/1/0/2/7/0/0279722486d249266789d9eab4e1a7cc.mp3*~data=user_id=0,application_id=42~hmac=9d9385299c1d7ece0dcd5baf10aee2fa8e44c84748484985909fa26e0ad2e6e0",
+              "preview_expires": "2026-11-26T00:48:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Evan Hatfield/Raga Mala EP.jpg"
+}

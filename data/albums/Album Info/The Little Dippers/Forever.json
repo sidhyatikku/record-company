@@ -1,0 +1,70 @@
+{
+  "title": "Forever",
+  "artist": "The Little Dippers",
+  "year": 1959,
+  "release_date": "1959-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "doo-wop",
+    "rock",
+    "rock and roll"
+  ],
+  "tags": [
+    "doo-wop",
+    "rock",
+    "rock and roll"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/03ed4d6b-a675-4d3e-884d-03fec5f76a52",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/356293037"
+  },
+  "musicbrainz_id": "03ed4d6b-a675-4d3e-884d-03fec5f76a52",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/39b23da4-3af4-4da7-a0b8-813118903429",
+      "barcode": null,
+      "title": "Forever",
+      "disambiguation": null,
+      "date": "1960-08-15",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "4:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Forever",
+            "length": "2:18",
+            "deezer": {
+              "id": 1912179097,
+              "link": "https://www.deezer.com/track/1912179097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/9/0/e297eb36b5595e5e1c017587f240fef6.mp3?hdnea=exp=1795721575~acl=/api/1/1/e/2/9/0/e297eb36b5595e5e1c017587f240fef6.mp3*~data=user_id=0,application_id=42~hmac=1ec2def5e1f8288cc96476a7552826e40c30ada1b0d438f38e749747c3278ae8",
+              "preview_expires": "2026-11-26T19:32:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Two by Four",
+            "length": "2:08",
+            "deezer": {
+              "id": 1912179107,
+              "link": "https://www.deezer.com/track/1912179107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/8/0/d78055cc09e8c1bf2e6533bdf845a5a3.mp3?hdnea=exp=1795721575~acl=/api/1/1/d/7/8/0/d78055cc09e8c1bf2e6533bdf845a5a3.mp3*~data=user_id=0,application_id=42~hmac=d3443ab95570f60625f77a51c024ab55ed60b6cd6b94061f6074ea96b61fd0f0",
+              "preview_expires": "2026-11-26T19:32:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Little Dippers/Forever.jpg"
+}

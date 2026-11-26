@@ -1,0 +1,51 @@
+{
+  "title": "Chidiya",
+  "artist": "Tech Panda, Kenzani",
+  "year": 2021,
+  "release_date": "2021-02-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7aVh40LYkpShPxOeGqRJis",
+    "deezer": "https://www.deezer.com/album/208331252"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7aVh40LYkpShPxOeGqRJis",
+      "title": "Chidiya",
+      "date": "2021-02-26"
+    },
+    "total_tracks": 1,
+    "total_length": "6:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Chidiya",
+            "length": "6:09",
+            "deezer": {
+              "id": 1247145552,
+              "link": "https://www.deezer.com/track/1247145552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/9/0/e19f9a40d7d22166709e3cd34ba2b173.mp3?hdnea=exp=1795721251~acl=/api/1/1/e/1/9/0/e19f9a40d7d22166709e3cd34ba2b173.mp3*~data=user_id=0,application_id=42~hmac=579ec05806faab9fa400b3a07711c42a3e1b98ce089fc9ba914de47271529d37",
+              "preview_expires": "2026-11-26T19:27:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Chidiya.jpg"
+}

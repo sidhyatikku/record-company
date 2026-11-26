@@ -1,0 +1,67 @@
+{
+  "title": "D.M.B.",
+  "artist": "A$AP Rocky",
+  "year": 2022,
+  "release_date": "2022-05-05",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "chopped and screwed",
+    "cloud rap",
+    "dirty south",
+    "experimental hip hop",
+    "memphis rap",
+    "neo-psychedelia",
+    "trap"
+  ],
+  "tags": [
+    "chopped and screwed",
+    "cloud rap",
+    "dirty south",
+    "experimental hip hop",
+    "memphis rap",
+    "neo-psychedelia",
+    "trap"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7df43913-fc43-41d5-a360-98539ca83670",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/315664457"
+  },
+  "musicbrainz_id": "7df43913-fc43-41d5-a360-98539ca83670",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ef904f65-4cf4-48a3-873b-0cdbbd510793",
+      "barcode": null,
+      "title": "D.M.B.",
+      "disambiguation": null,
+      "date": "2022-05-05",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "4:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "D.M.B.",
+            "length": "4:52",
+            "deezer": {
+              "id": 1739345917,
+              "link": "https://www.deezer.com/track/1739345917",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/6/0/f06bb06796bcbc2cb4f26be75623e629.mp3?hdnea=exp=1795648676~acl=/api/1/1/f/0/6/0/f06bb06796bcbc2cb4f26be75623e629.mp3*~data=user_id=0,application_id=42~hmac=1ba89fb665528f2dc4e7661b623f5423197573ac94d5df727d53ea76c018e14c",
+              "preview_expires": "2026-11-25T23:17:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/A$AP Rocky/D.M.B.jpg"
+}

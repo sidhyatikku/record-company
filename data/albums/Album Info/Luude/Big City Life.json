@@ -1,0 +1,51 @@
+{
+  "title": "Big City Life",
+  "artist": "Luude & Mattafix",
+  "year": 2005,
+  "release_date": "2005-08-08",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/59c0c828-7dd5-4c44-9620-471987e55f8a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/325574227"
+  },
+  "musicbrainz_id": "59c0c828-7dd5-4c44-9620-471987e55f8a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4d0e7151-dd1b-41d0-bbdd-be58b973de5f",
+      "barcode": "5054197157257",
+      "title": "Big City Life",
+      "disambiguation": null,
+      "date": "2022-06-15",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Big City Life",
+            "length": "2:26",
+            "deezer": {
+              "id": 1782778687,
+              "link": "https://www.deezer.com/track/1782778687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/2/0/472167ac5cb5ac184b0d7d3c90031ea0.mp3?hdnea=exp=1795718095~acl=/api/1/1/4/7/2/0/472167ac5cb5ac184b0d7d3c90031ea0.mp3*~data=user_id=0,application_id=42~hmac=46f8525aa5e70ca1ce1bccd6d436c8fb75592ec5ef91d1fb69cd8af415cd669a",
+              "preview_expires": "2026-11-26T18:34:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Luude/Big City Life.png"
+}

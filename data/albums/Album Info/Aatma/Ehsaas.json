@@ -1,0 +1,150 @@
+{
+  "title": "Ehsaas",
+  "artist": "Aatma",
+  "year": 2026,
+  "release_date": "2026-03-20",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6JJTIzEJIH5scb3SKTbUlY",
+    "deezer": "https://www.deezer.com/album/928732621"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6JJTIzEJIH5scb3SKTbUlY",
+      "title": "Ehsaas",
+      "date": "2026-03-20"
+    },
+    "total_tracks": 10,
+    "total_length": "40:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sukoon",
+            "length": "3:39",
+            "deezer": {
+              "id": 3871145781,
+              "link": "https://www.deezer.com/track/3871145781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/c/0/87c3b8df4ff80febe616275dc6531b45.mp3?hdnea=exp=1795648780~acl=/api/1/1/8/7/c/0/87c3b8df4ff80febe616275dc6531b45.mp3*~data=user_id=0,application_id=42~hmac=667162782db08fc521faf6d821f987dba1272c4ea7fc2a5c64fa8e7698c76384",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Subah",
+            "length": "4:27",
+            "deezer": {
+              "id": 3871145791,
+              "link": "https://www.deezer.com/track/3871145791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/5/0/7c5582d3737162418ea283bf4bde91eb.mp3?hdnea=exp=1795648780~acl=/api/1/1/7/c/5/0/7c5582d3737162418ea283bf4bde91eb.mp3*~data=user_id=0,application_id=42~hmac=5990573551c380ae1241ea93162009e5c7df7b617f3207b2a125c48febd000f3",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gold",
+            "length": "3:15",
+            "deezer": {
+              "id": 3871145801,
+              "link": "https://www.deezer.com/track/3871145801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/3/0/2335e5a58cdb5cdf9bcca339d08d124a.mp3?hdnea=exp=1795648780~acl=/api/1/1/2/3/3/0/2335e5a58cdb5cdf9bcca339d08d124a.mp3*~data=user_id=0,application_id=42~hmac=41bdb2d29da909fb4ae6056a2056d07c41d7a8781b0b577d2df61cc31f6b8e7d",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Memories",
+            "length": "5:48",
+            "artist": "Aatma, Aashima Mahajan",
+            "deezer": {
+              "id": 3871145811,
+              "link": "https://www.deezer.com/track/3871145811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/2/0/f92d7a3c50266be750152cf344db1fce.mp3?hdnea=exp=1795648780~acl=/api/1/1/f/9/2/0/f92d7a3c50266be750152cf344db1fce.mp3*~data=user_id=0,application_id=42~hmac=b9d67be418841ed3c5a4cbbaac34859832d846df007c86c56597aea5e1522639",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hosh",
+            "length": "3:39",
+            "artist": "Aatma, Faris Khan",
+            "deezer": {
+              "id": 3871145821,
+              "link": "https://www.deezer.com/track/3871145821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/2/0/b22885337ccac5ba5fec6e9f0cda6011.mp3?hdnea=exp=1795648780~acl=/api/1/1/b/2/2/0/b22885337ccac5ba5fec6e9f0cda6011.mp3*~data=user_id=0,application_id=42~hmac=46b4e93edf805b5d1b662bdaa57de15824b100ec2663c11a05ef689c46b6d508",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Aaina",
+            "length": "4:24",
+            "deezer": {
+              "id": 3871145831,
+              "link": "https://www.deezer.com/track/3871145831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/2/0/5c2d8c00715550218b74a825d4d64324.mp3?hdnea=exp=1795648780~acl=/api/1/1/5/c/2/0/5c2d8c00715550218b74a825d4d64324.mp3*~data=user_id=0,application_id=42~hmac=10c78ea5951c2c5c466c43b0cac1c7a6195aa80e61b0993cd84b84445103d758",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mehfil 89",
+            "length": "3:03",
+            "artist": "Aatma, Fake Tattoos",
+            "deezer": {
+              "id": 3871145841,
+              "link": "https://www.deezer.com/track/3871145841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/9/0/a69b1d7483ffdf9fbb1ef9e40d82da1d.mp3?hdnea=exp=1795648780~acl=/api/1/1/a/6/9/0/a69b1d7483ffdf9fbb1ef9e40d82da1d.mp3*~data=user_id=0,application_id=42~hmac=518aa08880907a98a61fdc1e81aa82fbf261bec6f7c52fd29bfa9b5a106a03cb",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "When i Found Myself",
+            "length": "3:58",
+            "artist": "Aatma, Manuel Villar Lifac",
+            "deezer": {
+              "id": 3871145851,
+              "link": "https://www.deezer.com/track/3871145851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f29b19ead4e31aa9aa2504a090d114.mp3?hdnea=exp=1795648780~acl=/api/1/1/e/2/f/0/e2f29b19ead4e31aa9aa2504a090d114.mp3*~data=user_id=0,application_id=42~hmac=e7b7a07b9cf94def9afaa2d67277356a524c7070218098b837215d857c8d7c19",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mahadev",
+            "length": "4:11",
+            "artist": "Aatma, GNDHI",
+            "deezer": {
+              "id": 3871145861,
+              "link": "https://www.deezer.com/track/3871145861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/d/0/b5d5cd6d578e98ae3b8fc61c30774391.mp3?hdnea=exp=1795648780~acl=/api/1/1/b/5/d/0/b5d5cd6d578e98ae3b8fc61c30774391.mp3*~data=user_id=0,application_id=42~hmac=e1f82e8de1756051b8edc9a0c6acffaf422914989ffd4e624556d3e59d17559d",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The End of Kaliyug",
+            "length": "4:22",
+            "deezer": {
+              "id": 3871145871,
+              "link": "https://www.deezer.com/track/3871145871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/5/0/3a5b8fa6590be34a48ac08969f28447f.mp3?hdnea=exp=1795648780~acl=/api/1/1/3/a/5/0/3a5b8fa6590be34a48ac08969f28447f.mp3*~data=user_id=0,application_id=42~hmac=005019299c53be492421af94510ce2b501f23491b761b2998369b5108abca34b",
+              "preview_expires": "2026-11-25T23:19:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Aatma/Ehsaas.jpg"
+}

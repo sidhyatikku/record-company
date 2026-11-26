@@ -1,0 +1,155 @@
+{
+  "title": "Cassini",
+  "artist": "Sithu Aye",
+  "year": 2011,
+  "release_date": "2011-09-26",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "djent",
+    "instrumental rock",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "djent",
+    "happy proggressive metal",
+    "instrumental rock",
+    "progressive metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/962f5d20-644f-425b-88f3-abd049546e46",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1065693",
+    "deezer": "https://www.deezer.com/album/117426722"
+  },
+  "musicbrainz_id": "962f5d20-644f-425b-88f3-abd049546e46",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6c790a18-d357-4164-8031-cd8e2622e7e2",
+      "barcode": null,
+      "title": "Cassini",
+      "disambiguation": null,
+      "date": "2011-09-26",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "39:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pillars of Creation",
+            "length": "1:12",
+            "deezer": {
+              "id": 796122882,
+              "link": "https://www.deezer.com/track/796122882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/2/0/9b2800130b26b0061edaa4aa78bccd0b.mp3?hdnea=exp=1795720680~acl=/api/1/1/9/b/2/0/9b2800130b26b0061edaa4aa78bccd0b.mp3*~data=user_id=0,application_id=42~hmac=e9e72663631a4633c2d172b66fe597afb652c52a5fc86ba58b884a8bd199a67e",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Orion",
+            "length": "4:56",
+            "deezer": {
+              "id": 796122892,
+              "link": "https://www.deezer.com/track/796122892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/e/0/31ec480f56039e519fab979aab748662.mp3?hdnea=exp=1795720680~acl=/api/1/1/3/1/e/0/31ec480f56039e519fab979aab748662.mp3*~data=user_id=0,application_id=42~hmac=a869e452a54f324665f76b4b11c8ebd819b36b56167130cdbf06346943591416",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Cassini",
+            "length": "3:32",
+            "deezer": {
+              "id": 796122902,
+              "link": "https://www.deezer.com/track/796122902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/e/0/d6eef232fbd96c3aff673078b9a2ef36.mp3?hdnea=exp=1795720680~acl=/api/1/1/d/6/e/0/d6eef232fbd96c3aff673078b9a2ef36.mp3*~data=user_id=0,application_id=42~hmac=18d52221693b3a284133d092420cadc9187ef1b7ce54de21a398db968948c720",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Messier Object",
+            "length": "3:21",
+            "deezer": {
+              "id": 796122912,
+              "link": "https://www.deezer.com/track/796122912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/a/0/9bad9ec0355dca4f53ba8d3c7aedea5b.mp3?hdnea=exp=1795720680~acl=/api/1/1/9/b/a/0/9bad9ec0355dca4f53ba8d3c7aedea5b.mp3*~data=user_id=0,application_id=42~hmac=e8ac0419817bb7a65286632832cbfaa7becfe42d5abf4f4dca26d8d174901e8f",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Double Helix",
+            "length": "5:27",
+            "deezer": {
+              "id": 796122922,
+              "link": "https://www.deezer.com/track/796122922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/8/0/1a85f62d674b78661832945cb8f3f465.mp3?hdnea=exp=1795720680~acl=/api/1/1/1/a/8/0/1a85f62d674b78661832945cb8f3f465.mp3*~data=user_id=0,application_id=42~hmac=9c0cd4dd181286b11c378481efb0ebaeef65de5fa09c50bd322193969d052487",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dirac Sea",
+            "length": "5:37",
+            "deezer": {
+              "id": 796122932,
+              "link": "https://www.deezer.com/track/796122932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/c/0/49c0e9eb68dbd73985b16d1df92dd4af.mp3?hdnea=exp=1795720680~acl=/api/1/1/4/9/c/0/49c0e9eb68dbd73985b16d1df92dd4af.mp3*~data=user_id=0,application_id=42~hmac=af5cf94ca8e0fd52323fd49235cbc82ee18a582a50d2ddf02cc645be75446c9b",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Multiverse Part I: Origin",
+            "length": "5:18",
+            "deezer": {
+              "id": 796122942,
+              "link": "https://www.deezer.com/track/796122942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/2/0/342cb235ec7fb1601d46cd37ecc8efe3.mp3?hdnea=exp=1795720680~acl=/api/1/1/3/4/2/0/342cb235ec7fb1601d46cd37ecc8efe3.mp3*~data=user_id=0,application_id=42~hmac=cb56dea03c7a1e7f10ad5764ec5efde944b6346eee6172677cf8d8996dc5f2fe",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Multiverse Part II: Divergence",
+            "length": "5:03",
+            "deezer": {
+              "id": 796122952,
+              "link": "https://www.deezer.com/track/796122952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/b/0/56bd175bc3fd5ebe6133e657792b92bb.mp3?hdnea=exp=1795720680~acl=/api/1/1/5/6/b/0/56bd175bc3fd5ebe6133e657792b92bb.mp3*~data=user_id=0,application_id=42~hmac=8a8d27a90a49036834aae044fcc8ce32bb7960f2dbb40771b2a907486f20f841",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Multiverse Part III: Alternate Realities",
+            "length": "5:07",
+            "deezer": {
+              "id": 796122962,
+              "link": "https://www.deezer.com/track/796122962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/6/0/6268af07f83e08e4c81ed0469e8b597f.mp3?hdnea=exp=1795720680~acl=/api/1/1/6/2/6/0/6268af07f83e08e4c81ed0469e8b597f.mp3*~data=user_id=0,application_id=42~hmac=915ca35249e654e8bd6b747d463a6ad114368980ebda0b4084f15849f2e50692",
+              "preview_expires": "2026-11-26T19:18:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/Cassini.jpg"
+}

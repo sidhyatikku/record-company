@@ -1,0 +1,63 @@
+{
+  "title": "Senpai EP",
+  "artist": "Sithu Aye",
+  "year": 2015,
+  "release_date": "2015-10-12",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "metal"
+  ],
+  "tags": [
+    "metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/60cd4e37-5a1d-4b84-9f20-31645d45f162",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/117446722"
+  },
+  "musicbrainz_id": "60cd4e37-5a1d-4b84-9f20-31645d45f162",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e5fd566b-db57-4293-82df-1081e78c9aa8",
+      "barcode": null,
+      "title": "Senpai EP",
+      "disambiguation": null,
+      "date": "2015-10-12",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "13:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Oh Shit, I'm Late For School! (やだ、遅刻しちゃう！)",
+            "length": "4:43"
+          },
+          {
+            "number": "2",
+            "title": "Senpai, Please Notice Me! (先輩、私に気付いて下さい！)",
+            "length": "3:52"
+          },
+          {
+            "number": "3",
+            "title": "The Power of Love and Friendship! (愛と友情のパワー! )",
+            "length": "5:15"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/Senpai - EP.jpg"
+}

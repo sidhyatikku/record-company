@@ -1,0 +1,247 @@
+{
+  "title": "Sweet Disarray",
+  "artist": "Dan Croll",
+  "year": 2014,
+  "release_date": "2014-01-01",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "indie pop",
+    "pop",
+    "pop rock",
+    "rock",
+    "synth-pop"
+  ],
+  "tags": [
+    "electronic",
+    "indie",
+    "indie pop",
+    "pop",
+    "pop rock",
+    "rock",
+    "synth-pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fbb9884e-1dc5-4132-9447-bf8d07167571",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0002599560",
+    "deezer": "https://www.deezer.com/album/7461551"
+  },
+  "musicbrainz_id": "fbb9884e-1dc5-4132-9447-bf8d07167571",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/38ee3d93-849a-4993-b1fa-0eb00525b02d",
+      "barcode": "00602537626335",
+      "title": "Sweet Disarray",
+      "disambiguation": "the deluxe album",
+      "date": "2014-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 22,
+    "total_length": "1:13:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "From Nowhere",
+            "length": "3:16",
+            "deezer": {
+              "id": 75373460,
+              "link": "https://www.deezer.com/track/75373460",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/9/0/659e90ec2e0004709e9e72e540fc7080.mp3?hdnea=exp=1795653058~acl=/api/1/1/6/5/9/0/659e90ec2e0004709e9e72e540fc7080.mp3*~data=user_id=0,application_id=42~hmac=e2bf857d76577b700a2c80861dbd538bc2817d78b4751d38614a84b19575eb87",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Thinkin Aboutchu",
+            "length": "2:58",
+            "deezer": {
+              "id": 75373462,
+              "link": "https://www.deezer.com/track/75373462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/0/0/100541099f3c9e33c7a6e49f0ad860ee.mp3?hdnea=exp=1795653058~acl=/api/1/1/1/0/0/0/100541099f3c9e33c7a6e49f0ad860ee.mp3*~data=user_id=0,application_id=42~hmac=cad1a41c5be1ef52fd7056fd40775451b9ccf1d153adff60bb5726b1bdf52a97",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wanna Know",
+            "length": "2:34",
+            "deezer": {
+              "id": 75373465,
+              "link": "https://www.deezer.com/track/75373465",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/8/0/c181d6ad113413535ae30249289555e7.mp3?hdnea=exp=1795653058~acl=/api/1/1/c/1/8/0/c181d6ad113413535ae30249289555e7.mp3*~data=user_id=0,application_id=42~hmac=8e4a9a8a190bff846774bd2840cd59e9d6212417cd7a3c3af1a55c620b15375e",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "In / Out",
+            "length": "3:14",
+            "deezer": {
+              "id": 75373467,
+              "link": "https://www.deezer.com/track/75373467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/f/0/52fa9d723c02e82295b42be4751f3a8d.mp3?hdnea=exp=1795653058~acl=/api/1/1/5/2/f/0/52fa9d723c02e82295b42be4751f3a8d.mp3*~data=user_id=0,application_id=42~hmac=8c2d181ae5ff43ddf6c6bcb61dcef896db26754024022d1f022c1a1ab9017bcb",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Compliment Your Soul",
+            "length": "3:01",
+            "deezer": {
+              "id": 75373468,
+              "link": "https://www.deezer.com/track/75373468",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/f/0/c0f0e0d8e0606381d2c20859d8ccb1c1.mp3?hdnea=exp=1795653058~acl=/api/1/1/c/0/f/0/c0f0e0d8e0606381d2c20859d8ccb1c1.mp3*~data=user_id=0,application_id=42~hmac=cc79e237483556b4addb96a48f5df8e83bca973cbb398ba068dc226a713815b5",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Only Ghost",
+            "length": "2:59",
+            "deezer": {
+              "id": 75373469,
+              "link": "https://www.deezer.com/track/75373469",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/c/0/14cb0d4977e3742f3ea31bcbfde46b4e.mp3?hdnea=exp=1795653058~acl=/api/1/1/1/4/c/0/14cb0d4977e3742f3ea31bcbfde46b4e.mp3*~data=user_id=0,application_id=42~hmac=8335a3e922183471ad7d03a4f78ab9e095a388f64d3e8cbc42ff55a8bde08698",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Can You Hear Me",
+            "length": "3:30",
+            "deezer": {
+              "id": 75373470,
+              "link": "https://www.deezer.com/track/75373470",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/4/0/4947f82e1f2010e11379fe60db48bba2.mp3?hdnea=exp=1795653058~acl=/api/1/1/4/9/4/0/4947f82e1f2010e11379fe60db48bba2.mp3*~data=user_id=0,application_id=42~hmac=7caeccf516c47210eaf79a16fb459a44d7478a02fb7e6adb8b7291da498acff9",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sweet Disarray",
+            "length": "3:25",
+            "deezer": {
+              "id": 75373471,
+              "link": "https://www.deezer.com/track/75373471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/f/0/1df7597e88000187dd3aab25b0b708fe.mp3?hdnea=exp=1795653058~acl=/api/1/1/1/d/f/0/1df7597e88000187dd3aab25b0b708fe.mp3*~data=user_id=0,application_id=42~hmac=c63185d4ec614980bd05dd202a6e774f62c4a0079e8bf86a80f9b655bb45e97f",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Maway",
+            "length": "3:13",
+            "deezer": {
+              "id": 75373472,
+              "link": "https://www.deezer.com/track/75373472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d19085eb3364ba02d1b5fde874d666e.mp3?hdnea=exp=1795653058~acl=/api/1/1/7/d/1/0/7d19085eb3364ba02d1b5fde874d666e.mp3*~data=user_id=0,application_id=42~hmac=de3da9311fffd4a86ec3bdcdb6266bdd8011eec71680da275d6501ff51c8a14b",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Must Be Leaving",
+            "length": "3:00",
+            "deezer": {
+              "id": 75373473,
+              "link": "https://www.deezer.com/track/75373473",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/e/0/8ee658c4f318c4af0e5a9a151c639c02.mp3?hdnea=exp=1795653058~acl=/api/1/1/8/e/e/0/8ee658c4f318c4af0e5a9a151c639c02.mp3*~data=user_id=0,application_id=42~hmac=ca256ce49833ea192e3ef2c41576362f0402d75c50b6e9408ecf17667c16318c",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Always Like This",
+            "length": "3:11",
+            "deezer": {
+              "id": 75373474,
+              "link": "https://www.deezer.com/track/75373474",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/5/0/cd5ea087c5c9c4c6ea6580d4c09a46fb.mp3?hdnea=exp=1795653058~acl=/api/1/1/c/d/5/0/cd5ea087c5c9c4c6ea6580d4c09a46fb.mp3*~data=user_id=0,application_id=42~hmac=d584fd863f1efc76c1a6884a5f3978694aa9409a61e55763ef783e814b30fc02",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Home",
+            "length": "3:49",
+            "deezer": {
+              "id": 75373475,
+              "link": "https://www.deezer.com/track/75373475",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/7/0/457aa1dab6808d1e596c64a5e2c04138.mp3?hdnea=exp=1795653058~acl=/api/1/1/4/5/7/0/457aa1dab6808d1e596c64a5e2c04138.mp3*~data=user_id=0,application_id=42~hmac=cf0ca37247c38685a8ff85b01e6e5d7609b9eaaa04c888d8ff2e1f7f4a5d363e",
+              "preview_expires": "2026-11-26T00:30:58Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Nobody Knows (edit)",
+            "length": "3:27",
+            "artist": "Dan Croll feat. The Very Best"
+          },
+          {
+            "number": "14",
+            "title": "Nobody Knows",
+            "length": "3:42",
+            "artist": "Dan Croll feat. The Very Best"
+          },
+          {
+            "number": "15",
+            "title": "If You Want Me (edit)",
+            "length": "3:37"
+          },
+          {
+            "number": "16",
+            "title": "If You Want Me",
+            "length": "4:14"
+          },
+          {
+            "number": "17",
+            "title": "Hello My Baby",
+            "length": "4:29",
+            "artist": "Dan Croll feat. Ladysmith Black Mambazo"
+          },
+          {
+            "number": "18",
+            "title": "Maway",
+            "length": "2:37",
+            "artist": "Dan Croll feat. Ladysmith Black Mambazo"
+          },
+          {
+            "number": "19",
+            "title": "Home",
+            "length": "3:52",
+            "artist": "Dan Croll feat. Ladysmith Black Mambazo"
+          },
+          {
+            "number": "20",
+            "title": "Cinnamon",
+            "length": "2:59"
+          },
+          {
+            "number": "21",
+            "title": "Ever at Your Side",
+            "length": "3:12"
+          },
+          {
+            "number": "22",
+            "title": "Eyes Together",
+            "length": "2:58"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dan Croll/Sweet Disarray.jpg"
+}

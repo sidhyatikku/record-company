@@ -1,0 +1,152 @@
+{
+  "title": "Machine Head",
+  "artist": "Deep Purple",
+  "year": 1972,
+  "release_date": "1972-03-25",
+  "type": "Album",
+  "description": "Machine Head is the sixth studio album by English rock band Deep Purple. It was recorded in December 1971 in Montreux, Switzerland, and released on 30 March 1972, by Purple Records. It is the band's third studio album to feature the Mark II line-up of Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, and Ian Paice.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "heavy metal",
+    "arena rock",
+    "classic rock",
+    "blues rock",
+    "metal"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "heavy metal",
+    "arena rock",
+    "british metal",
+    "classic rock",
+    "blues rock",
+    "metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 28
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d00243c5-adcf-3018-9aa7-1957d7a5a774",
+    "wikipedia": "https://en.wikipedia.org/wiki/Machine_Head_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000189625",
+    "discogs": "https://www.discogs.com/master/1843",
+    "wikidata": "https://www.wikidata.org/wiki/Q211742",
+    "deezer": "https://www.deezer.com/album/12722168"
+  },
+  "musicbrainz_id": "d00243c5-adcf-3018-9aa7-1957d7a5a774",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8f868641-cc47-4a12-9a05-e5a207c7d007",
+      "barcode": "5099931955959",
+      "title": "Machine Head",
+      "disambiguation": null,
+      "date": "2012-10-12",
+      "country": "MX"
+    },
+    "total_tracks": 8,
+    "total_length": "41:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Highway Star",
+            "length": "6:07",
+            "deezer": {
+              "id": 121716030,
+              "link": "https://www.deezer.com/track/121716030",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/f/0/7ffb3b4be6109d484b0e45a09ae6c752.mp3?hdnea=exp=1795653241~acl=/api/1/1/7/f/f/0/7ffb3b4be6109d484b0e45a09ae6c752.mp3*~data=user_id=0,application_id=42~hmac=51fd5a6596031abaa77fa6d4cc348279c557d615b9b597544b45c387e1fde1a8",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Maybe I’m a Leo",
+            "length": "4:51",
+            "deezer": {
+              "id": 121716032,
+              "link": "https://www.deezer.com/track/121716032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/2/0/6420382ff5e1fd97399185d42d574f6d.mp3?hdnea=exp=1795653241~acl=/api/1/1/6/4/2/0/6420382ff5e1fd97399185d42d574f6d.mp3*~data=user_id=0,application_id=42~hmac=deca6351578ab3bd0f3511b71d12c959d4b7394331ce07b44a801d1301a7e03b",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Pictures of Home",
+            "length": "5:06",
+            "deezer": {
+              "id": 121716034,
+              "link": "https://www.deezer.com/track/121716034",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/7/0/327489c0caa3954a68579d8b38444864.mp3?hdnea=exp=1795653241~acl=/api/1/1/3/2/7/0/327489c0caa3954a68579d8b38444864.mp3*~data=user_id=0,application_id=42~hmac=13fcd1827579962393bf3411a0a65491d36c7b745b7cce4a57d4f8edc2320a20",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Never Before",
+            "length": "3:56",
+            "deezer": {
+              "id": 121716036,
+              "link": "https://www.deezer.com/track/121716036",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/3/0/7032b197fa8e542e919fa6fbfba6551e.mp3?hdnea=exp=1795653241~acl=/api/1/1/7/0/3/0/7032b197fa8e542e919fa6fbfba6551e.mp3*~data=user_id=0,application_id=42~hmac=0b4b571d61a1f2bee4a4570e01e69488fd6ce1817f0894e95246aab33e921400",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Smoke on the Water",
+            "length": "5:40",
+            "deezer": {
+              "id": 121716038,
+              "link": "https://www.deezer.com/track/121716038",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/1/0/62153be8f03776282d4fb2f1a6b3b92d.mp3?hdnea=exp=1795653241~acl=/api/1/1/6/2/1/0/62153be8f03776282d4fb2f1a6b3b92d.mp3*~data=user_id=0,application_id=42~hmac=4179dab6c50019d954ab5a2f48a37c0175a3b5f3f73cbb5e47d921d41f83d499",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lazy",
+            "length": "7:19",
+            "deezer": {
+              "id": 121716040,
+              "link": "https://www.deezer.com/track/121716040",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/f/0/26f0d684a1a281e8d7afd377cbd79a37.mp3?hdnea=exp=1795653241~acl=/api/1/1/2/6/f/0/26f0d684a1a281e8d7afd377cbd79a37.mp3*~data=user_id=0,application_id=42~hmac=f4e5e2962a1d98d25774a26d05f8d7120338fc574de638f1dcc1befc0f5a8627",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Space Truckin’",
+            "length": "4:31",
+            "deezer": {
+              "id": 121716042,
+              "link": "https://www.deezer.com/track/121716042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/4/0/4f4f9050f40d78a681eee9542288e4cb.mp3?hdnea=exp=1795653241~acl=/api/1/1/4/f/4/0/4f4f9050f40d78a681eee9542288e4cb.mp3*~data=user_id=0,application_id=42~hmac=537886152bde7d90127b8a3430c3a1d15f3004a3a04da152da238824f6bab776",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "When a Blind Man Cries",
+            "length": "3:32",
+            "deezer": {
+              "id": 121716044,
+              "link": "https://www.deezer.com/track/121716044",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/e/0/bee7e391d11a22f859e449ab85864dfb.mp3?hdnea=exp=1795653241~acl=/api/1/1/b/e/e/0/bee7e391d11a22f859e449ab85864dfb.mp3*~data=user_id=0,application_id=42~hmac=281b3fa31ec1e172edef7523efdf3bd605e2291a7cc8d75cdc9d81ccac59a5e2",
+              "preview_expires": "2026-11-26T00:34:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Deep Purple/Machine Head.png"
+}

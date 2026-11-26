@@ -1,0 +1,194 @@
+{
+  "title": "Human Buzz",
+  "artist": "Deep Kick",
+  "year": 2014,
+  "release_date": "2014-01-24",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5e0d76a4-e906-42d3-9740-55915e1bc95d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/314904177"
+  },
+  "musicbrainz_id": "5e0d76a4-e906-42d3-9740-55915e1bc95d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e84d2c3a-babc-4dbf-92c0-5a53d2ed715d",
+      "barcode": null,
+      "title": "Human Buzz",
+      "disambiguation": null,
+      "date": "2014-01-24",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "59:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Financial Love",
+            "length": "5:12",
+            "deezer": {
+              "id": 1736304847,
+              "link": "https://www.deezer.com/track/1736304847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/5/0/665311e02ffc0510b7c531a9b113f4e6.mp3?hdnea=exp=1795653238~acl=/api/1/1/6/6/5/0/665311e02ffc0510b7c531a9b113f4e6.mp3*~data=user_id=0,application_id=42~hmac=a6081c10d9a34e44896d8dd872cda6921f09a8df9268f3d151fd9feb578d2404",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Way She Moves",
+            "length": "4:07",
+            "deezer": {
+              "id": 1736304857,
+              "link": "https://www.deezer.com/track/1736304857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/8/0/778813ab3bfd101581308f7b83a88a2b.mp3?hdnea=exp=1795653238~acl=/api/1/1/7/7/8/0/778813ab3bfd101581308f7b83a88a2b.mp3*~data=user_id=0,application_id=42~hmac=d61d1ede1a091a05126278229f1a0543f54bb482a1f78a52a58835483855e59d",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mr. Hyde's Bright Side",
+            "length": "3:17",
+            "deezer": {
+              "id": 1736304867,
+              "link": "https://www.deezer.com/track/1736304867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/9/0/6d9ed7acc5410ae904252f6b9b18aa2a.mp3?hdnea=exp=1795653238~acl=/api/1/1/6/d/9/0/6d9ed7acc5410ae904252f6b9b18aa2a.mp3*~data=user_id=0,application_id=42~hmac=fa7363963525b84923b04ee00b9f3ba1987a17cdf6d0a7aabfcfaab8941e9e01",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Set You Free",
+            "length": "4:06",
+            "deezer": {
+              "id": 1736304877,
+              "link": "https://www.deezer.com/track/1736304877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/5/0/8359519810a41e94696e6950f5e3b458.mp3?hdnea=exp=1795653238~acl=/api/1/1/8/3/5/0/8359519810a41e94696e6950f5e3b458.mp3*~data=user_id=0,application_id=42~hmac=9622d64751cb644ef349282876161d28c41fd6f7441c9700e62febd752d5e4f4",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Back and Forth",
+            "length": "3:49",
+            "deezer": {
+              "id": 1736304887,
+              "link": "https://www.deezer.com/track/1736304887",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/1/0/641fb0ab71a6a613bd0bec1a724a5c6b.mp3?hdnea=exp=1795653238~acl=/api/1/1/6/4/1/0/641fb0ab71a6a613bd0bec1a724a5c6b.mp3*~data=user_id=0,application_id=42~hmac=c98c8445bdcbf60458b6f10e354406778e1242c31e1c035458c3104e032319b6",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hangover",
+            "length": "3:49",
+            "deezer": {
+              "id": 1736304897,
+              "link": "https://www.deezer.com/track/1736304897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/2/0/cc2054416fdd6d190f382ce6bcac6ecd.mp3?hdnea=exp=1795653238~acl=/api/1/1/c/c/2/0/cc2054416fdd6d190f382ce6bcac6ecd.mp3*~data=user_id=0,application_id=42~hmac=75f2dd2a4d3093cc5e7fa1d05823415fca1e1f9324a801eaae77c3b5c74cbc8e",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Superman",
+            "length": "3:44",
+            "deezer": {
+              "id": 1736304907,
+              "link": "https://www.deezer.com/track/1736304907",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/8/0/f184fbdffa0a2e70503c0cba691f5267.mp3?hdnea=exp=1795653238~acl=/api/1/1/f/1/8/0/f184fbdffa0a2e70503c0cba691f5267.mp3*~data=user_id=0,application_id=42~hmac=b8336f9973f25acdae00ca8eaffc78365c7d77895ea4fc63bb9d2496e82465fd",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Merry-Go-Round",
+            "length": "4:32",
+            "deezer": {
+              "id": 1736304917,
+              "link": "https://www.deezer.com/track/1736304917",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/9/0/54952929ee972ea26ca58eabeefb3f48.mp3?hdnea=exp=1795653238~acl=/api/1/1/5/4/9/0/54952929ee972ea26ca58eabeefb3f48.mp3*~data=user_id=0,application_id=42~hmac=cc6074eb4be9b404b7bcc8e83996d6b0bde71331a3a3cf341b66abde9f31d1d2",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Stereo",
+            "length": "4:24",
+            "deezer": {
+              "id": 1736304927,
+              "link": "https://www.deezer.com/track/1736304927",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/e/0/96ed9ab59aaf475c2d54354c57ed7d9d.mp3?hdnea=exp=1795653238~acl=/api/1/1/9/6/e/0/96ed9ab59aaf475c2d54354c57ed7d9d.mp3*~data=user_id=0,application_id=42~hmac=a57cac24961cf3be671548bc2a1f18bb2db3fe734d55bfd885621863fb7dc160",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Nice To Meet You",
+            "length": "4:26",
+            "deezer": {
+              "id": 1736304937,
+              "link": "https://www.deezer.com/track/1736304937",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/e/0/04e29251929cc0ee8c4d7c22910384a9.mp3?hdnea=exp=1795653238~acl=/api/1/1/0/4/e/0/04e29251929cc0ee8c4d7c22910384a9.mp3*~data=user_id=0,application_id=42~hmac=57bc1059ad58b98034d70d21d17f5c41d0e2c6e6091b4dcc33387b8b18f41cd8",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Guilt",
+            "length": "4:12",
+            "deezer": {
+              "id": 1736304947,
+              "link": "https://www.deezer.com/track/1736304947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/8/0/918afbcc561e82ce236ac4bc45f2c162.mp3?hdnea=exp=1795653238~acl=/api/1/1/9/1/8/0/918afbcc561e82ce236ac4bc45f2c162.mp3*~data=user_id=0,application_id=42~hmac=bd0bb65c26371504affe9ce95f580992e2851db7c323426f290bcdad494fe127",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Blood Is Blue",
+            "length": "4:05",
+            "deezer": {
+              "id": 1736304957,
+              "link": "https://www.deezer.com/track/1736304957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/8/0/69803827b05de1c61bb21a705ec50897.mp3?hdnea=exp=1795653238~acl=/api/1/1/6/9/8/0/69803827b05de1c61bb21a705ec50897.mp3*~data=user_id=0,application_id=42~hmac=4609f43f0af5cac0d3a3739065af496038034fcdfe2866ef141e853b0f0c9869",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "To The One Who Wait",
+            "length": "4:28",
+            "deezer": {
+              "id": 1736304967,
+              "link": "https://www.deezer.com/track/1736304967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/5/0/f95ee9a62dfc82bc82fd1a14c6323c6d.mp3?hdnea=exp=1795653238~acl=/api/1/1/f/9/5/0/f95ee9a62dfc82bc82fd1a14c6323c6d.mp3*~data=user_id=0,application_id=42~hmac=ac4c730afa2302443950a158f2b7235895927b44d2e34d7ef52c6a449d7b20a9",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Rain In My Eyes",
+            "length": "4:58",
+            "deezer": {
+              "id": 1736304987,
+              "link": "https://www.deezer.com/track/1736304987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/8/0/9f86bcba6bd1476e43ed7ab2070ac335.mp3?hdnea=exp=1795653238~acl=/api/1/1/9/f/8/0/9f86bcba6bd1476e43ed7ab2070ac335.mp3*~data=user_id=0,application_id=42~hmac=21dd9784ff0070d4c8e04132f2792d81751f727de3bcac07a66dd8aa99f06a91",
+              "preview_expires": "2026-11-26T00:33:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Deep Kick/Human Buzz.jpg"
+}

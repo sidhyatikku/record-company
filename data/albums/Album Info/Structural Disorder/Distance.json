@@ -1,0 +1,117 @@
+{
+  "title": "Distance",
+  "artist": "Structural Disorder",
+  "year": 2016,
+  "release_date": "2016",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/97acf0ff-1128-4e95-a7e8-c0e32ffe35e6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/12520928"
+  },
+  "musicbrainz_id": "97acf0ff-1128-4e95-a7e8-c0e32ffe35e6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/80bc6fc8-7736-4e70-b113-a0c06ea8636b",
+      "barcode": null,
+      "title": "Distance",
+      "disambiguation": null,
+      "date": "2016",
+      "country": "SE"
+    },
+    "total_tracks": 7,
+    "total_length": "55:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Desert Rain",
+            "length": "7:33",
+            "deezer": {
+              "id": 120082442,
+              "link": "https://www.deezer.com/track/120082442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/4/0/a842a0c7c00c7219c3f7a724e8e8ebec.mp3?hdnea=exp=1795721032~acl=/api/1/1/a/8/4/0/a842a0c7c00c7219c3f7a724e8e8ebec.mp3*~data=user_id=0,application_id=42~hmac=3eb4ad1144c8452e2dc370517df79192b514e8adb905716d51edd6241521fad1",
+              "preview_expires": "2026-11-26T19:23:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Someone to Save",
+            "length": "8:53",
+            "deezer": {
+              "id": 120082444,
+              "link": "https://www.deezer.com/track/120082444",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/6/0/c96b9d95d12a2f7d8720c801bcf3f0bb.mp3?hdnea=exp=1795721032~acl=/api/1/1/c/9/6/0/c96b9d95d12a2f7d8720c801bcf3f0bb.mp3*~data=user_id=0,application_id=42~hmac=f464f4ef24e894ea12291355db33ea9351dab34279ed99d1020dcb368323e6cd",
+              "preview_expires": "2026-11-26T19:23:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Silence",
+            "length": "9:19",
+            "deezer": {
+              "id": 120082446,
+              "link": "https://www.deezer.com/track/120082446",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/4/0/a4408549d3ad6cc1c703ca207758c252.mp3?hdnea=exp=1795721032~acl=/api/1/1/a/4/4/0/a4408549d3ad6cc1c703ca207758c252.mp3*~data=user_id=0,application_id=42~hmac=aad262059717a0e71189d0c06e50efabee4df9b3c711cbbfa08543a9d7d9752e",
+              "preview_expires": "2026-11-26T19:23:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Herculean Tree",
+            "length": "6:44",
+            "deezer": {
+              "id": 120082448,
+              "link": "https://www.deezer.com/track/120082448",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/a/0/63a0c0d961ad42860b64b0c0e58e2d6b.mp3?hdnea=exp=1795721032~acl=/api/1/1/6/3/a/0/63a0c0d961ad42860b64b0c0e58e2d6b.mp3*~data=user_id=0,application_id=42~hmac=1f2d19ffefcf73693e3244c01dbe077220a10fe4f9241d7fb82e44a17f76c05b",
+              "preview_expires": "2026-11-26T19:23:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Lightbulb Lover",
+            "length": "7:31",
+            "deezer": {
+              "id": 120082450,
+              "link": "https://www.deezer.com/track/120082450",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/2/0/ae25b6a0dce53dfc299d880a4d45abc8.mp3?hdnea=exp=1795721032~acl=/api/1/1/a/e/2/0/ae25b6a0dce53dfc299d880a4d45abc8.mp3*~data=user_id=0,application_id=42~hmac=cddba3c6606089877d8dd2642cc6cc115f7707f1f65df6659a45bc98b09fc24c",
+              "preview_expires": "2026-11-26T19:23:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Pyrene",
+            "length": "10:58",
+            "deezer": {
+              "id": 120082452,
+              "link": "https://www.deezer.com/track/120082452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/5/0/36576535d52a19479db78285a90a38f6.mp3?hdnea=exp=1795721032~acl=/api/1/1/3/6/5/0/36576535d52a19479db78285a90a38f6.mp3*~data=user_id=0,application_id=42~hmac=6b899a29e0ec691ab411ebac4c87b0ca055d6806cb3b1c96ac2974b9c55b4746",
+              "preview_expires": "2026-11-26T19:23:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Drifting",
+            "length": "4:27",
+            "deezer": {
+              "id": 120082454,
+              "link": "https://www.deezer.com/track/120082454",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/8/0/fe8f783cb08e084b98217e2c20d92008.mp3?hdnea=exp=1795721032~acl=/api/1/1/f/e/8/0/fe8f783cb08e084b98217e2c20d92008.mp3*~data=user_id=0,application_id=42~hmac=cd3201f4d4b775886937e629c3460d31153cfea87fe96f127d51fb8a6e6ece4b",
+              "preview_expires": "2026-11-26T19:23:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Structural Disorder/Distance.jpg"
+}

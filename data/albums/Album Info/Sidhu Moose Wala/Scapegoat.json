@@ -1,0 +1,51 @@
+{
+  "title": "Scapegoat",
+  "artist": "Sidhu Moose Wala",
+  "year": 2022,
+  "release_date": "2022-04-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e1ab5575-ed8a-45f0-b745-b490ebfeaa93",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/820496341"
+  },
+  "musicbrainz_id": "e1ab5575-ed8a-45f0-b745-b490ebfeaa93",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1fd6d219-7b1b-418c-822a-f207d2d7b7c8",
+      "barcode": "810105710915",
+      "title": "Scapegoat",
+      "disambiguation": null,
+      "date": "2022-04-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Scapegoat",
+            "length": "3:57",
+            "deezer": {
+              "id": 3553669451,
+              "link": "https://www.deezer.com/track/3553669451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/6/0/d46f31cada42b2a4c9632c3173a934df.mp3?hdnea=exp=1795720614~acl=/api/1/1/d/4/6/0/d46f31cada42b2a4c9632c3173a934df.mp3*~data=user_id=0,application_id=42~hmac=77826484d4e7213d824cbf8ca8927d6ac45e18c4caff6c93f705b6c92366b6a7",
+              "preview_expires": "2026-11-26T19:16:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Scapegoat.jpg"
+}

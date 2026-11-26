@@ -1,0 +1,51 @@
+{
+  "title": "Staring Into the Sun",
+  "artist": "DJ Heartstring",
+  "year": 2025,
+  "release_date": "2025-05-23",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9a668c57-bc8c-47a8-a6b9-50c0029f0a6b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/752561831"
+  },
+  "musicbrainz_id": "9a668c57-bc8c-47a8-a6b9-50c0029f0a6b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8c074ca7-1bc1-45bb-91a6-49e8f6bac0b5",
+      "barcode": "196873142081",
+      "title": "Staring Into the Sun",
+      "disambiguation": null,
+      "date": "2025-05-23",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Staring Into the Sun",
+            "length": "3:16",
+            "deezer": {
+              "id": 3354100801,
+              "link": "https://www.deezer.com/track/3354100801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/5/0/5f5f7c38eab7faf730e132fc9381d82e.mp3?hdnea=exp=1795653430~acl=/api/1/1/5/f/5/0/5f5f7c38eab7faf730e132fc9381d82e.mp3*~data=user_id=0,application_id=42~hmac=955f5f6e50493a4bc5f2c455a7d5f9808e36fb767938067d1adbd11d14680845",
+              "preview_expires": "2026-11-26T00:37:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/DJ HEARTSTRING/Staring Into The Sun.jpg"
+}

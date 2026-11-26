@@ -1,0 +1,84 @@
+{
+  "title": "Point of View",
+  "artist": "DB Boulevard",
+  "year": 2001,
+  "release_date": "2001-12",
+  "type": "Single",
+  "description": "\"Point of View\" is a song by Italian electronic music group DB Boulevard, written by Alfredo Comazzetto and vocalist Moony under her real name, Monica Bragato. The song is based around a sample of \"Heatwave\" by French band Phoenix, so Deck D'Arcy, Laurent Brancowitz, Thomas Mars Jr., and Christian Mazzalai are also credited as writers. \"Point of View\" became a chart hit in Europe and Australia and topped the US Billboard Dance Club Play chart.",
+  "genres": [
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "tags": [
+    "dance pop",
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4a642901-d8c0-3d8c-a539-2ba5b850e14a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Point_of_View_(DB_Boulevard_song)",
+    "discogs": "https://www.discogs.com/master/71706",
+    "wikidata": "https://www.wikidata.org/wiki/Q16967320",
+    "deezer": "https://www.deezer.com/album/256064102"
+  },
+  "musicbrainz_id": "4a642901-d8c0-3d8c-a539-2ba5b850e14a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4e503d74-5b26-4e35-a473-7b2879057200",
+      "barcode": "8033116088947",
+      "title": "Point of View",
+      "disambiguation": null,
+      "date": "2018-01-01",
+      "country": null
+    },
+    "total_tracks": 3,
+    "total_length": "14:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Point of View (club mix)",
+            "length": "5:32",
+            "deezer": {
+              "id": 1482997802,
+              "link": "https://www.deezer.com/track/1482997802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/8/0/928a57439cfcf792626d0d4c7ee735a6.mp3?hdnea=exp=1795653218~acl=/api/1/1/9/2/8/0/928a57439cfcf792626d0d4c7ee735a6.mp3*~data=user_id=0,application_id=42~hmac=73b6b25f42572a8070c550fb887a395d669b2ecb8e7aaee99a2e00955a3f7b6a",
+              "preview_expires": "2026-11-26T00:33:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Point of View (radio edit)",
+            "length": "3:51",
+            "deezer": {
+              "id": 1482997812,
+              "link": "https://www.deezer.com/track/1482997812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/e/0/63e185186b3b6ad03468ee24bb856832.mp3?hdnea=exp=1795653218~acl=/api/1/1/6/3/e/0/63e185186b3b6ad03468ee24bb856832.mp3*~data=user_id=0,application_id=42~hmac=3f971c1abbd5c930a0821d7eeb748a113caee709d0d34676f2c2fa274e2093b2",
+              "preview_expires": "2026-11-26T00:33:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Point of View (Sisco Lounge)",
+            "length": "5:05",
+            "deezer": {
+              "id": 1482997822,
+              "link": "https://www.deezer.com/track/1482997822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/b/0/f6ba61d057c42ae3e30ea49b11087285.mp3?hdnea=exp=1795653218~acl=/api/1/1/f/6/b/0/f6ba61d057c42ae3e30ea49b11087285.mp3*~data=user_id=0,application_id=42~hmac=9b61e0493fa59c475cafb35a629ba9f64f97976d5aaf2ab5014aecee5bf30e07",
+              "preview_expires": "2026-11-26T00:33:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/DB Boulevard/Point of View.jpg"
+}

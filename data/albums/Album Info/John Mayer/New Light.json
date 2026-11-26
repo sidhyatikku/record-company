@@ -1,0 +1,59 @@
+{
+  "title": "New Light",
+  "artist": "John Mayer",
+  "year": 2018,
+  "release_date": "2018-05-10",
+  "type": "Single",
+  "description": "\"New Light\" is a song co-written and recorded by American singer-songwriter John Mayer. It was released as the lead single from his eighth studio album Sob Rock on May 10, 2018 and was released to Hot AC and Triple A radio on June 18, 2018. It was written and produced by Mayer and No I.D.",
+  "genres": [
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "pop",
+    "pop rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9815e205-64e3-4bed-95c3-8fb095512906",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Light_(song)",
+    "discogs": "https://www.discogs.com/master/1441885",
+    "wikidata": "https://www.wikidata.org/wiki/Q55517081",
+    "deezer": "https://www.deezer.com/album/224809132"
+  },
+  "musicbrainz_id": "9815e205-64e3-4bed-95c3-8fb095512906",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0eeeb6eb-852b-401d-8fce-0378b22b8f98",
+      "barcode": "192562519394",
+      "title": "New Light",
+      "disambiguation": null,
+      "date": "2018-05-10",
+      "country": "NZ"
+    },
+    "total_tracks": 1,
+    "total_length": "3:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "New Light",
+            "length": "3:36",
+            "deezer": {
+              "id": 1351417242,
+              "link": "https://www.deezer.com/track/1351417242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/8/0/728a22e0a74536516bbb256c1a33f59a.mp3?hdnea=exp=1795655699~acl=/api/1/1/7/2/8/0/728a22e0a74536516bbb256c1a33f59a.mp3*~data=user_id=0,application_id=42~hmac=9ca3eaa6c8dd855baf2f30655956d7700ed272319d90e7f551bedff06dab169b",
+              "preview_expires": "2026-11-26T01:14:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Mayer/New Light.jpg"
+}

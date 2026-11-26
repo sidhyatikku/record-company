@@ -1,0 +1,52 @@
+{
+  "title": "Illegal Weapon",
+  "artist": "Garry Sandhu",
+  "year": 2017,
+  "release_date": "2017-09-25",
+  "type": "Single + Soundtrack",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ae393ddd-6b20-44e0-b9ff-efe041eb5988",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/48868062"
+  },
+  "musicbrainz_id": "ae393ddd-6b20-44e0-b9ff-efe041eb5988",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b266bf72-eac6-42f9-b274-b4ed261ad828",
+      "barcode": null,
+      "title": "Illegal Weapon",
+      "disambiguation": null,
+      "date": "2017-09-25",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Illegal Weapon",
+            "length": "3:50",
+            "artist": "Garry Sandhu feat. Jasmine Sandlas",
+            "deezer": {
+              "id": 410955372,
+              "link": "https://www.deezer.com/track/410955372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/d/0/dfd4e9ac55cb6493edfa2c069c882567.mp3?hdnea=exp=1795654585~acl=/api/1/1/d/f/d/0/dfd4e9ac55cb6493edfa2c069c882567.mp3*~data=user_id=0,application_id=42~hmac=7c5cbaa1b138d4a4ac3d6152df3d6803be8d315a7a255b6151626cb5f0facc2d",
+              "preview_expires": "2026-11-26T00:56:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Garry Sandhu/Illegal Weapon.jpg"
+}

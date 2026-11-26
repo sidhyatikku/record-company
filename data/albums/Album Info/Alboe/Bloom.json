@@ -1,0 +1,50 @@
+{
+  "title": "Bloom",
+  "artist": "Alboe",
+  "year": 2023,
+  "release_date": "2023-11-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2rZYVdfqHHSsR6WZ7lO97L",
+    "deezer": "https://www.deezer.com/album/925361611"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2rZYVdfqHHSsR6WZ7lO97L",
+      "title": "Bloom",
+      "date": "2023-11-29"
+    },
+    "total_tracks": 1,
+    "total_length": "3:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bloom",
+            "length": "3:37",
+            "deezer": {
+              "id": 3861747591,
+              "link": "https://www.deezer.com/track/3861747591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/9/0/569fa4931b41f8f3250784114c208951.mp3?hdnea=exp=1795649052~acl=/api/1/1/5/6/9/0/569fa4931b41f8f3250784114c208951.mp3*~data=user_id=0,application_id=42~hmac=e954649e41bd47ee4f2c0214ad3bb2af2d0ff9d63599a172b7e41f0eaa50494e",
+              "preview_expires": "2026-11-25T23:24:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Alboe/Bloom.jpg"
+}

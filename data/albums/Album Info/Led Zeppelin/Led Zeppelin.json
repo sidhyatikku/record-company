@@ -1,0 +1,137 @@
+{
+  "title": "Led Zeppelin",
+  "artist": "Led Zeppelin",
+  "year": 1969,
+  "release_date": "1969-01-12",
+  "type": "Album",
+  "description": "Led Zeppelin is the debut studio album by the English rock band Led Zeppelin. It was released in January 1969 in the United States, and on 31 March 1969 in the United Kingdom, through Atlantic Records.",
+  "genres": [
+    "hard rock",
+    "blues rock",
+    "rock",
+    "arena rock",
+    "classic rock",
+    "blues",
+    "british blues",
+    "folk rock",
+    "heavy metal"
+  ],
+  "tags": [
+    "hard rock",
+    "blues rock",
+    "rock",
+    "arena rock",
+    "classic rock",
+    "album rock",
+    "blues",
+    "british blues",
+    "1969",
+    "60s",
+    "américain",
+    "british metal",
+    "folk rock",
+    "four",
+    "hard rockhard",
+    "heavy metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 47
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0f18ec88-aa87-38a9-8a65-f03d81763560",
+    "wikipedia": "https://en.wikipedia.org/wiki/Led_Zeppelin_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000194593",
+    "discogs": "https://www.discogs.com/master/4126",
+    "wikidata": "https://www.wikidata.org/wiki/Q131392",
+    "deezer": "https://www.deezer.com/album/1031379282"
+  },
+  "musicbrainz_id": "0f18ec88-aa87-38a9-8a65-f03d81763560",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9e7f83ef-6d0d-425e-92da-344331bc000c",
+      "barcode": "603497906185",
+      "title": "Led Zeppelin",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "44:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Good Times Bad Times (1993 remaster)",
+            "length": "2:46"
+          },
+          {
+            "number": "2",
+            "title": "Babe I’m Gonna Leave You (1990 remaster)",
+            "length": "6:41"
+          },
+          {
+            "number": "3",
+            "title": "You Shook Me (1993 remaster)",
+            "length": "6:28",
+            "deezer": {
+              "id": 4159768762,
+              "link": "https://www.deezer.com/track/4159768762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/1/0/3a1356cc23da3fa0976cc0af4c8bc3bd.mp3?hdnea=exp=1795656430~acl=/api/1/1/3/a/1/0/3a1356cc23da3fa0976cc0af4c8bc3bd.mp3*~data=user_id=0,application_id=42~hmac=7fd090b73ed90aa8827776482c55359997a47bbba4b3288b24f7f334e68cf99c",
+              "preview_expires": "2026-11-26T01:27:10Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dazed and Confused (1990 remaster)",
+            "length": "6:26",
+            "deezer": {
+              "id": 4159768772,
+              "link": "https://www.deezer.com/track/4159768772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/6/0/e06382cdeed9acb6e71ec3190c40d53b.mp3?hdnea=exp=1795656430~acl=/api/1/1/e/0/6/0/e06382cdeed9acb6e71ec3190c40d53b.mp3*~data=user_id=0,application_id=42~hmac=93085828b124c2d4d473700dca11139e435ce9dee616fc17f468a6b3a582c462",
+              "preview_expires": "2026-11-26T01:27:10Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Your Time Is Gonna Come (1990 remaster)",
+            "length": "4:35",
+            "deezer": {
+              "id": 4159768782,
+              "link": "https://www.deezer.com/track/4159768782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/9/0/6a95c04dfcd8bbef15f86fbc31a4354b.mp3?hdnea=exp=1795656430~acl=/api/1/1/6/a/9/0/6a95c04dfcd8bbef15f86fbc31a4354b.mp3*~data=user_id=0,application_id=42~hmac=533a503199a8244d00c49211ec4b949670c43393aa0832fcb49501469bb023b1",
+              "preview_expires": "2026-11-26T01:27:10Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Black Mountain Side (1993 remaster)",
+            "length": "2:06"
+          },
+          {
+            "number": "7",
+            "title": "Communication Breakdown (1990 remaster)",
+            "length": "2:28"
+          },
+          {
+            "number": "8",
+            "title": "I Can’t Quit You Baby (1990 remaster)",
+            "length": "4:42"
+          },
+          {
+            "number": "9",
+            "title": "How Many More Times (1993 remaster)",
+            "length": "8:28"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Led Zeppelin/Led Zeppelin.jpg"
+}

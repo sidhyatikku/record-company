@@ -1,0 +1,95 @@
+{
+  "title": "Bollywood Super Hits!",
+  "artist": "Anish Kumar",
+  "year": 2022,
+  "release_date": "2022-10-07",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/74321f7e-23d2-4468-980d-770efdb9a3fb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/359652177"
+  },
+  "musicbrainz_id": "74321f7e-23d2-4468-980d-770efdb9a3fb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c9457f57-1d6d-4804-b441-b3237da541dd",
+      "barcode": "5053760097280",
+      "title": "Bollywood Super Hits!",
+      "disambiguation": null,
+      "date": "2022-10-07",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "19:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Asha",
+            "length": "3:50",
+            "deezer": {
+              "id": 1927420457,
+              "link": "https://www.deezer.com/track/1927420457",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65a411cceb910adbb113be00231bae7.mp3?hdnea=exp=1795649221~acl=/api/1/1/f/6/5/0/f65a411cceb910adbb113be00231bae7.mp3*~data=user_id=0,application_id=42~hmac=acaaf3d26c0024c5e9ddfe1ae2d82e91f9297e1c0f16e2f6a0bad04b6bb87aac",
+              "preview_expires": "2026-11-25T23:27:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sadhana",
+            "length": "2:53",
+            "deezer": {
+              "id": 1927420467,
+              "link": "https://www.deezer.com/track/1927420467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/8/0/8a8154ec166c8dabcc27f645cf0e86bf.mp3?hdnea=exp=1795649221~acl=/api/1/1/8/a/8/0/8a8154ec166c8dabcc27f645cf0e86bf.mp3*~data=user_id=0,application_id=42~hmac=ba4c1e6bd67907be81a4465125864fee4ffc7ed2e7ca37f32713ddda7e3f0ed7",
+              "preview_expires": "2026-11-25T23:27:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Nazia",
+            "length": "4:51",
+            "deezer": {
+              "id": 1927420477,
+              "link": "https://www.deezer.com/track/1927420477",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/e/0/38ed9dcf932d45637ba313164d77fbbf.mp3?hdnea=exp=1795649221~acl=/api/1/1/3/8/e/0/38ed9dcf932d45637ba313164d77fbbf.mp3*~data=user_id=0,application_id=42~hmac=4faeb3174ea667b2ad8ab08d29b34f66671467a4d2f7038415e87353594a271d",
+              "preview_expires": "2026-11-25T23:27:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ananda",
+            "length": "3:35",
+            "deezer": {
+              "id": 1927420487,
+              "link": "https://www.deezer.com/track/1927420487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/a/0/6aa6fe45d99de4bc27a3a373f789fd3b.mp3?hdnea=exp=1795649221~acl=/api/1/1/6/a/a/0/6aa6fe45d99de4bc27a3a373f789fd3b.mp3*~data=user_id=0,application_id=42~hmac=7b83811c733e445db71539cd718755f5a8c0afa44c14dd5db1c5b1d708655690",
+              "preview_expires": "2026-11-25T23:27:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Lata",
+            "length": "3:53",
+            "deezer": {
+              "id": 1927420497,
+              "link": "https://www.deezer.com/track/1927420497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/d/0/efd228c43700ca52659ab4139757e267.mp3?hdnea=exp=1795649221~acl=/api/1/1/e/f/d/0/efd228c43700ca52659ab4139757e267.mp3*~data=user_id=0,application_id=42~hmac=412f5e95d895b422aa3174e4539fb2c45adb958144d3f0c2dfab5f59508bbe4d",
+              "preview_expires": "2026-11-25T23:27:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/Bollywood Super Hits!.jpg"
+}

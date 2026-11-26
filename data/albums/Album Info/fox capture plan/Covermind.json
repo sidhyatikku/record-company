@@ -1,0 +1,198 @@
+{
+  "title": "COVERMIND",
+  "artist": "fox capture plan",
+  "year": 2015,
+  "release_date": "2015-07-08",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cd96891a-5397-49cf-a66a-e61bdd0b4569",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/876127862"
+  },
+  "musicbrainz_id": "cd96891a-5397-49cf-a66a-e61bdd0b4569",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/54ec6347-772e-4303-b12a-9332f30f52c4",
+      "barcode": "4988044018020",
+      "title": "COVERMIND",
+      "disambiguation": null,
+      "date": "2015-07-08",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "1:04:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Born Slippy",
+            "length": "4:29",
+            "deezer": {
+              "id": 3713176022,
+              "link": "https://www.deezer.com/track/3713176022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/d/0/f9dc597fb691167d86ea47bc77a3a374.mp3?hdnea=exp=1795654347~acl=/api/1/1/f/9/d/0/f9dc597fb691167d86ea47bc77a3a374.mp3*~data=user_id=0,application_id=42~hmac=704fcc8adc39a093ffa522b404b15cd981a08ad2913736aaa8ba5a8e81eaa5df",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Right Here, Right Now",
+            "length": "3:58",
+            "deezer": {
+              "id": 3713176032,
+              "link": "https://www.deezer.com/track/3713176032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/4/0/864dc6eff3f7c000029c3a53981a3027.mp3?hdnea=exp=1795654347~acl=/api/1/1/8/6/4/0/864dc6eff3f7c000029c3a53981a3027.mp3*~data=user_id=0,application_id=42~hmac=e97985446b0ae2ae57997778b31a099b5fea714a496132de0fd9c6608a47c9a7",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Basket Case",
+            "length": "3:05",
+            "deezer": {
+              "id": 3713176042,
+              "link": "https://www.deezer.com/track/3713176042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/6/0/ed6bf7d86cebe10d2c83d6495fb623ec.mp3?hdnea=exp=1795654347~acl=/api/1/1/e/d/6/0/ed6bf7d86cebe10d2c83d6495fb623ec.mp3*~data=user_id=0,application_id=42~hmac=9b4e96c729c3189e583732d69576ddfcf63fa9c3cbcf1132cbd84b8a19222e61",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tonight, Tonight",
+            "length": "4:18",
+            "deezer": {
+              "id": 3713176052,
+              "link": "https://www.deezer.com/track/3713176052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/a/0/2da12e06a11bfed9e31df83238f954ab.mp3?hdnea=exp=1795654347~acl=/api/1/1/2/d/a/0/2da12e06a11bfed9e31df83238f954ab.mp3*~data=user_id=0,application_id=42~hmac=15cfc8fba60d8c16edf05e4d994bf33e437dc1e73ff3bd62410920c579e907f2",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Carnival",
+            "length": "3:53",
+            "deezer": {
+              "id": 3713176062,
+              "link": "https://www.deezer.com/track/3713176062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/0/0/17092ce4ec8b32abb011dcf1c2b9215a.mp3?hdnea=exp=1795654347~acl=/api/1/1/1/7/0/0/17092ce4ec8b32abb011dcf1c2b9215a.mp3*~data=user_id=0,application_id=42~hmac=ddbad7f45eb44ce92958ffe21ee004e479664b6fa2ea9ca60baaba6aef4ba3a4",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Buddy Holly",
+            "length": "2:42",
+            "deezer": {
+              "id": 3713176092,
+              "link": "https://www.deezer.com/track/3713176092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/c/0/03c567f4039d8f20ba4cfd6d1be78b29.mp3?hdnea=exp=1795654347~acl=/api/1/1/0/3/c/0/03c567f4039d8f20ba4cfd6d1be78b29.mp3*~data=user_id=0,application_id=42~hmac=607c9eed08a1e391ec162d351fbc565631dd7a86d221df5328fc598bbb47514e",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Wonderwall",
+            "length": "4:12",
+            "deezer": {
+              "id": 3713176102,
+              "link": "https://www.deezer.com/track/3713176102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/1/0/121cfdbb0692e67c59f28cb71ffe2874.mp3?hdnea=exp=1795654347~acl=/api/1/1/1/2/1/0/121cfdbb0692e67c59f28cb71ffe2874.mp3*~data=user_id=0,application_id=42~hmac=3b348d58160986f4834b05b480eacbec7ea6bd1867fe4eee0be4cd0f705e4b64",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Paranoid Android",
+            "length": "6:30",
+            "deezer": {
+              "id": 3713176112,
+              "link": "https://www.deezer.com/track/3713176112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f3d3eb3138eea25904d9811081a0b74.mp3?hdnea=exp=1795654347~acl=/api/1/1/6/f/3/0/6f3d3eb3138eea25904d9811081a0b74.mp3*~data=user_id=0,application_id=42~hmac=f826e01bf085580c77291c83155bd717e48c340a2ea75d7791001d4f3d23ff7f",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Stinkfist",
+            "length": "4:40",
+            "deezer": {
+              "id": 3713176122,
+              "link": "https://www.deezer.com/track/3713176122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/b/0/4fb63f6cf03f33e2abcc92803ae45bc2.mp3?hdnea=exp=1795654347~acl=/api/1/1/4/f/b/0/4fb63f6cf03f33e2abcc92803ae45bc2.mp3*~data=user_id=0,application_id=42~hmac=f0834a8fcde468d83a5ec2992bf85ba144670c2f2ab4f709d44ddf4a6734e386",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Freak on a Leash",
+            "length": "4:10",
+            "deezer": {
+              "id": 3713176132,
+              "link": "https://www.deezer.com/track/3713176132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/2/0/c12c8d0ac202387d06a43645ff2e248e.mp3?hdnea=exp=1795654347~acl=/api/1/1/c/1/2/0/c12c8d0ac202387d06a43645ff2e248e.mp3*~data=user_id=0,application_id=42~hmac=0eea35b52c9b147d76ffa483a47e0b1d646d2b66fcec16c11463c2ca785c4669",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Teardrop",
+            "length": "5:40",
+            "deezer": {
+              "id": 3713176142,
+              "link": "https://www.deezer.com/track/3713176142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/0/0/950e680abd7311ff85064fa34bc1eab5.mp3?hdnea=exp=1795654347~acl=/api/1/1/9/5/0/0/950e680abd7311ff85064fa34bc1eab5.mp3*~data=user_id=0,application_id=42~hmac=4ffe065165e2802a93dd51bdc819a9fd11003a0e4f58dafdd693c35ced077542",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Californication",
+            "length": "6:24",
+            "deezer": {
+              "id": 3713176152,
+              "link": "https://www.deezer.com/track/3713176152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/8/0/ab860f1ede00ca4dd6ef226f7c4aeaa2.mp3?hdnea=exp=1795654347~acl=/api/1/1/a/b/8/0/ab860f1ede00ca4dd6ef226f7c4aeaa2.mp3*~data=user_id=0,application_id=42~hmac=980bcfd7acb08af31897da38deaef0d00b413c3555eda21acd7c546e7ebff98e",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Hyperballad",
+            "length": "5:41",
+            "deezer": {
+              "id": 3713176162,
+              "link": "https://www.deezer.com/track/3713176162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/4/0/68421de0439fac0001ad3f4cb745eb72.mp3?hdnea=exp=1795654347~acl=/api/1/1/6/8/4/0/68421de0439fac0001ad3f4cb745eb72.mp3*~data=user_id=0,application_id=42~hmac=14aa640e3a629c8191140cf9911fe8ae43e5d0625fca6d67c3395f7d1c67dda9",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Don't Look Back in Anger",
+            "length": "4:53",
+            "deezer": {
+              "id": 3713176172,
+              "link": "https://www.deezer.com/track/3713176172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/2/0/b42f6ad0db0350aac1d8b98e0dbc360f.mp3?hdnea=exp=1795654347~acl=/api/1/1/b/4/2/0/b42f6ad0db0350aac1d8b98e0dbc360f.mp3*~data=user_id=0,application_id=42~hmac=bdc9ee71f9ef10c9095f3600b64824f4884e3f4c1a53a4570a327bc090b2719d",
+              "preview_expires": "2026-11-26T00:52:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/fox capture plan/Covermind.jpg"
+}

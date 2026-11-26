@@ -1,0 +1,205 @@
+{
+  "title": "Alpha Place",
+  "artist": "Knucks",
+  "year": 2022,
+  "release_date": "2022-05-06",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "uk drill",
+    "conscious hip hop",
+    "hip hop",
+    "jazz rap"
+  ],
+  "tags": [
+    "uk drill",
+    "conscious hip hop",
+    "hip hop",
+    "jazz rap"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4ed1cac0-7cef-49e7-8dbd-617f33364fde",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/303726927"
+  },
+  "musicbrainz_id": "4ed1cac0-7cef-49e7-8dbd-617f33364fde",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/15e4f500-cd5d-49b7-acdf-5b9345ea6e15",
+      "barcode": "3616845553686",
+      "title": "ALPHA PLACE",
+      "disambiguation": null,
+      "date": "2022-05-06",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "40:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Alpha House",
+            "length": "3:02",
+            "artist": "Knucks & Venna",
+            "deezer": {
+              "id": 1688925077,
+              "link": "https://www.deezer.com/track/1688925077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/6/0/0d607047f7c10cd4510435c9fd1c74b2.mp3?hdnea=exp=1795656261~acl=/api/1/1/0/d/6/0/0d607047f7c10cd4510435c9fd1c74b2.mp3*~data=user_id=0,application_id=42~hmac=f92e60621c54a30689c22c98b84cd0b829bbafec66aee1b6b45efaad22d889b1",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Nice & Good",
+            "length": "3:57",
+            "artist": "Knucks & SL",
+            "deezer": {
+              "id": 1688925087,
+              "link": "https://www.deezer.com/track/1688925087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/a/0/cfa43af5cab015d1b67e8148bf535aab.mp3?hdnea=exp=1795656261~acl=/api/1/1/c/f/a/0/cfa43af5cab015d1b67e8148bf535aab.mp3*~data=user_id=0,application_id=42~hmac=551fac3d7e0aa3c46f7c11f37a1065f55c7ca6cc5c459f2cbb67e4a6774c6280",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hide & Seek",
+            "length": "3:51",
+            "deezer": {
+              "id": 1688925097,
+              "link": "https://www.deezer.com/track/1688925097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/2/0/0326b7990429793d5c6d4401ae3535d2.mp3?hdnea=exp=1795656261~acl=/api/1/1/0/3/2/0/0326b7990429793d5c6d4401ae3535d2.mp3*~data=user_id=0,application_id=42~hmac=0e2a5e28f7ec90c042a9151ae70e89bc643b9ae988e05cdae567b5e823bae161",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bible",
+            "length": "3:17",
+            "artist": "Knucks & Youngs Teflon",
+            "deezer": {
+              "id": 1688925107,
+              "link": "https://www.deezer.com/track/1688925107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/9/0/f3994cd4c9ae767594f7bc656d0962f4.mp3?hdnea=exp=1795656261~acl=/api/1/1/f/3/9/0/f3994cd4c9ae767594f7bc656d0962f4.mp3*~data=user_id=0,application_id=42~hmac=9b9d0c83d0dd8b2c9c2019e0f94f8b114b46cb73dc6db1005176411395188e60",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Decisions",
+            "length": "4:00",
+            "artist": "Knucks, M1llionz & Shaé Universe",
+            "deezer": {
+              "id": 1688925117,
+              "link": "https://www.deezer.com/track/1688925117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/1/0/721aefa7063ae0c1606017fd9642ecfd.mp3?hdnea=exp=1795656261~acl=/api/1/1/7/2/1/0/721aefa7063ae0c1606017fd9642ecfd.mp3*~data=user_id=0,application_id=42~hmac=2749c670371a06a9d91072d5612da1a518fe64a23ba6d43f06d6d357079faafa",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Leon the Professional",
+            "length": "3:21",
+            "deezer": {
+              "id": 1688925127,
+              "link": "https://www.deezer.com/track/1688925127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f3b404c1c013dceb69c898ebf2bca1.mp3?hdnea=exp=1795656261~acl=/api/1/1/2/3/f/0/23f3b404c1c013dceb69c898ebf2bca1.mp3*~data=user_id=0,application_id=42~hmac=7e8885d51ca9aae77173480697872dbd18f7553cabdccdf7b0455d6c51c63eb9",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Send Nudes",
+            "length": "1:41",
+            "deezer": {
+              "id": 1688925137,
+              "link": "https://www.deezer.com/track/1688925137",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/6/0/8c6f567ff0427ca87bd29d61288560ce.mp3?hdnea=exp=1795656261~acl=/api/1/1/8/c/6/0/8c6f567ff0427ca87bd29d61288560ce.mp3*~data=user_id=0,application_id=42~hmac=68ae57b00c274e30aa49def850bc18e469573c0ad2f522cb04bdf700a8e2367e",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Playa",
+            "length": "2:58",
+            "artist": "Knucks & Sainté",
+            "deezer": {
+              "id": 1688925147,
+              "link": "https://www.deezer.com/track/1688925147",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/a/0/0ba5210bf9efc0948a616193ecbedd86.mp3?hdnea=exp=1795656261~acl=/api/1/1/0/b/a/0/0ba5210bf9efc0948a616193ecbedd86.mp3*~data=user_id=0,application_id=42~hmac=ddbe099b343ef9095b428a9ebaafdc2d8adafcb3fb0d8a84c1b7475ddf860100",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Far",
+            "length": "3:08",
+            "artist": "Knucks & Ragz Originale",
+            "deezer": {
+              "id": 1688925157,
+              "link": "https://www.deezer.com/track/1688925157",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/7/0/ab7823976343c5efc4c16e2ab74f4137.mp3?hdnea=exp=1795656261~acl=/api/1/1/a/b/7/0/ab7823976343c5efc4c16e2ab74f4137.mp3*~data=user_id=0,application_id=42~hmac=9dffb8a2057a243768e90b254711c7093a4c8e4aef100b5cdcbdf0dfa0d3f33a",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Die Hard",
+            "length": "3:18",
+            "artist": "Knucks ft Stormzy",
+            "deezer": {
+              "id": 1688925167,
+              "link": "https://www.deezer.com/track/1688925167",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/3/0/f83865f490e1affe64baf02a834af6bb.mp3?hdnea=exp=1795656261~acl=/api/1/1/f/8/3/0/f83865f490e1affe64baf02a834af6bb.mp3*~data=user_id=0,application_id=42~hmac=b929d994dcb651a8a5cec5e8a573ce05cf065af781ca8bb902033d27301dd926",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Checkmate",
+            "length": "2:49",
+            "artist": "Knucks & Lex Amor",
+            "deezer": {
+              "id": 1688925177,
+              "link": "https://www.deezer.com/track/1688925177",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/4/0/624a48a6fecc717a575d9267010bf565.mp3?hdnea=exp=1795656261~acl=/api/1/1/6/2/4/0/624a48a6fecc717a575d9267010bf565.mp3*~data=user_id=0,application_id=42~hmac=a01086026ba2080b37c0c439d457cf630beee13ce13e598b113a70babdecb014",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Three Musketeers",
+            "length": "3:47",
+            "deezer": {
+              "id": 1688925187,
+              "link": "https://www.deezer.com/track/1688925187",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/a/0/5daa355c19795b700fa09442c9ae2c82.mp3?hdnea=exp=1795656261~acl=/api/1/1/5/d/a/0/5daa355c19795b700fa09442c9ae2c82.mp3*~data=user_id=0,application_id=42~hmac=3db13362896369ba9d8b6935445ef7c3803284f9e6840aa3a535a5dbe5c6dcdc",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Los Pollos Hermanos",
+            "length": "1:36",
+            "deezer": {
+              "id": 1688925197,
+              "link": "https://www.deezer.com/track/1688925197",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/c/0/18c21ab2b007fa26fd7cef6ededef9b7.mp3?hdnea=exp=1795656261~acl=/api/1/1/1/8/c/0/18c21ab2b007fa26fd7cef6ededef9b7.mp3*~data=user_id=0,application_id=42~hmac=3cf536d9fc6c149b9807f8c8c72b3206a1152610da42d188c70914b996722ae6",
+              "preview_expires": "2026-11-26T01:24:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Knucks/ALPHA PLACE.jpg"
+}

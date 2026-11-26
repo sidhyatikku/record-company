@@ -1,0 +1,49 @@
+{
+  "title": "Risk",
+  "artist": "Arved Siara",
+  "year": 2024,
+  "release_date": "2024-03-21",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "lo-fi house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0HmYxSfxSD9BYwnXMRSlwM",
+    "deezer": "https://www.deezer.com/album/563824682"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0HmYxSfxSD9BYwnXMRSlwM",
+      "title": "Risk",
+      "date": "2024-03-21"
+    },
+    "total_tracks": 1,
+    "total_length": "5:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Risk",
+            "length": "5:24",
+            "deezer": {
+              "id": 2717928702,
+              "link": "https://www.deezer.com/track/2717928702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/3/0/ff39ec5a4ef02b37795b3b1a0b7c3c7d.mp3?hdnea=exp=1795651708~acl=/api/1/1/f/f/3/0/ff39ec5a4ef02b37795b3b1a0b7c3c7d.mp3*~data=user_id=0,application_id=42~hmac=ef733155bcdc24035e8b5657efdb5119cbc56f2f601e7ebbf87f0b1f6dcd7cb1",
+              "preview_expires": "2026-11-26T00:08:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Arved Siara/Risk.jpg"
+}

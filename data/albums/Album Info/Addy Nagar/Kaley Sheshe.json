@@ -1,0 +1,52 @@
+{
+  "title": "Kaley Sheshe",
+  "artist": "Addy Nagar",
+  "year": 2023,
+  "release_date": "2023-07-06",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b886a15d-fe8e-48e9-ad95-4a86dcdbc55b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/461481055"
+  },
+  "musicbrainz_id": "b886a15d-fe8e-48e9-ad95-4a86dcdbc55b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/72691dce-3674-4cde-b10b-f6b2623e7a0d",
+      "barcode": null,
+      "title": "Kaley Sheshe",
+      "disambiguation": null,
+      "date": "2023-07-06",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kaley Sheshe",
+            "length": "3:31",
+            "artist": "Addy Nagar & Aniket Jain",
+            "deezer": {
+              "id": 2356970505,
+              "link": "https://www.deezer.com/track/2356970505",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/2/0/222c90cb22456e0b4f8e8703c5ea35f1.mp3?hdnea=exp=1795648924~acl=/api/1/1/2/2/2/0/222c90cb22456e0b4f8e8703c5ea35f1.mp3*~data=user_id=0,application_id=42~hmac=4f6714e2ee6210d7d89f6c3cb8047a6f3971339d9f09d7eb858ea080bc57ebe7",
+              "preview_expires": "2026-11-25T23:22:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Addy Nagar/Kaley Sheshe.jpg"
+}

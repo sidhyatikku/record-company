@@ -1,0 +1,60 @@
+{
+  "title": "Hot Nigga",
+  "artist": "Bobby Shmurda",
+  "year": 2014,
+  "release_date": "2014-07-25",
+  "type": "Single",
+  "description": "\"Hot Nigga\" censored on the album as \"Hot N*gga\", edited for radio as \"Hot Boy\" or \"Hot Ni-\" is the debut single by American rapper Bobby Shmurda. It was released for digital download on July 25, 2014, by Epic Records and GS9 as the lead single from Shmurda's debut EP Shmurda She Wrote. The song includes production from Jahlil Beats, which was originally used by Lloyd Banks for his 2012 song, \"Jackpot\".",
+  "genres": [],
+  "tags": [
+    "billboard hot 100",
+    "2014",
+    "year end chart"
+  ],
+  "rating": {
+    "value_out_of_5": 1,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d8fbef02-0d5e-43e1-8a20-c7642f1ed752",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hot_Nigga",
+    "wikidata": "https://www.wikidata.org/wiki/Q18157426",
+    "deezer": "https://www.deezer.com/album/8209344"
+  },
+  "musicbrainz_id": "d8fbef02-0d5e-43e1-8a20-c7642f1ed752",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f3d16547-b60f-4451-ad36-f62522e15dbe",
+      "barcode": "886444764025",
+      "title": "Hot N*gga",
+      "disambiguation": null,
+      "date": "2014-07-25",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hot N*gga",
+            "length": "3:15",
+            "deezer": {
+              "id": 81924820,
+              "link": "https://www.deezer.com/track/81924820",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bobby Shmurda/Hot N-gga.jpg"
+}

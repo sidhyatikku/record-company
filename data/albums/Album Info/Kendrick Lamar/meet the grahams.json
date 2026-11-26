@@ -1,0 +1,64 @@
+{
+  "title": "meet the grahams",
+  "artist": "Kendrick Lamar",
+  "year": 2024,
+  "release_date": "2024-05-03",
+  "type": "Single",
+  "description": "\"Meet the Grahams\" is a diss track by American rapper Kendrick Lamar. It was released on May 3, 2024, through Interscope Records, during his ongoing feud with Canadian rapper Drake. It is Lamar's response to the release of Drake's \"Family Matters\", a diss track mainly aimed at Lamar.",
+  "genres": [
+    "west coast hip hop",
+    "hardcore hip hop",
+    "hip hop"
+  ],
+  "tags": [
+    "west coast hip hop",
+    "hardcore hip hop",
+    "hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7c255aa4-3e1e-46c0-858c-431c185c1ba7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meet_the_Grahams",
+    "wikidata": "https://www.wikidata.org/wiki/Q125766979",
+    "deezer": "https://www.deezer.com/album/582140732"
+  },
+  "musicbrainz_id": "7c255aa4-3e1e-46c0-858c-431c185c1ba7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6286a7e6-b5db-4750-b145-c22833eb4c34",
+      "barcode": "00602465779943",
+      "title": "meet the grahams",
+      "disambiguation": null,
+      "date": "2024-05-04",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "6:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "meet the grahams",
+            "length": "6:32",
+            "deezer": {
+              "id": 2783963112,
+              "link": "https://www.deezer.com/track/2783963112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/8/0/5c8ed7495642bdebbb212b5f1bc30555.mp3?hdnea=exp=1795656108~acl=/api/1/1/5/c/8/0/5c8ed7495642bdebbb212b5f1bc30555.mp3*~data=user_id=0,application_id=42~hmac=47f63ae39e43130114a94440a8513313b04b6bb415dd7d545c54f0ba635efff3",
+              "preview_expires": "2026-11-26T01:21:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kendrick Lamar/meet the grahams.jpg"
+}

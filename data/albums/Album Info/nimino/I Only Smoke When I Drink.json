@@ -1,0 +1,64 @@
+{
+  "title": "I Only Smoke When I Drink",
+  "artist": "nimino",
+  "year": 2024,
+  "release_date": "2024-08-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [
+    "lidarr"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/12d19de7-2d03-4fda-bde7-4268c082188d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/623905061"
+  },
+  "musicbrainz_id": "12d19de7-2d03-4fda-bde7-4268c082188d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/57c12df9-b267-43a0-ad72-18a20dc79c51",
+      "barcode": "5054429197655",
+      "title": "I Only Smoke When I Drink",
+      "disambiguation": null,
+      "date": "2024-08-22",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "6:04",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Only Smoke When I Drink",
+            "length": "3:18",
+            "deezer": {
+              "id": 2930393391,
+              "link": "https://www.deezer.com/track/2930393391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/4/0/c64502d7eb5d338950c6ae3842ec0bb0.mp3?hdnea=exp=1795718930~acl=/api/1/1/c/6/4/0/c64502d7eb5d338950c6ae3842ec0bb0.mp3*~data=user_id=0,application_id=42~hmac=64e4966f16b548d0c0f1ffb63194e69fff21c78d23259f01e14d054cba79f4a1",
+              "preview_expires": "2026-11-26T18:48:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Nothing Perfect",
+            "length": "2:45",
+            "deezer": {
+              "id": 2930393401,
+              "link": "https://www.deezer.com/track/2930393401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/f/0/75f8eb44cb80757e5c04892af20713b6.mp3?hdnea=exp=1795718930~acl=/api/1/1/7/5/f/0/75f8eb44cb80757e5c04892af20713b6.mp3*~data=user_id=0,application_id=42~hmac=bd716dad7134ba897be2f30e8f0eeed0e5cb570627edb18580a34e78ebb42aef",
+              "preview_expires": "2026-11-26T18:48:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/nimino/I Only Smoke When I Drink.png"
+}

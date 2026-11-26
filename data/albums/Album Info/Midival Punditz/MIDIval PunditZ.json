@@ -1,0 +1,186 @@
+{
+  "title": "MIDIval PunditZ",
+  "artist": "MIDIval PunditZ",
+  "year": 2002,
+  "release_date": "2002-10-17",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "breaks"
+  ],
+  "tags": [
+    "electronic",
+    "breaks",
+    "tribal",
+    "world"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7507e773-d9cd-33e9-9510-c6531b217329",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0000662118",
+    "discogs": "https://www.discogs.com/master/356435",
+    "deezer": "https://www.deezer.com/album/978747"
+  },
+  "musicbrainz_id": "7507e773-d9cd-33e9-9510-c6531b217329",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fba72a31-99ec-4545-ad29-e10e220a9809",
+      "barcode": "657036107922",
+      "title": "MIDIval PunditZ",
+      "disambiguation": null,
+      "date": "",
+      "country": "AF"
+    },
+    "total_tracks": 12,
+    "total_length": "1:06:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Air",
+            "length": "6:42",
+            "deezer": {
+              "id": 10705490,
+              "link": "https://www.deezer.com/track/10705490",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/4/0/5e487640df54e839e0539d4a54d953ba.mp3?hdnea=exp=1795718446~acl=/api/1/1/5/e/4/0/5e487640df54e839e0539d4a54d953ba.mp3*~data=user_id=0,application_id=42~hmac=4eaaf531363bad83e09532d31152474404cb78ab222e46ba9d0b4651b7c962ac",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Éxtasis",
+            "length": "4:03",
+            "deezer": {
+              "id": 10705491,
+              "link": "https://www.deezer.com/track/10705491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/8/0/7b8e7d34375fa98b027297098a4cee55.mp3?hdnea=exp=1795718446~acl=/api/1/1/7/b/8/0/7b8e7d34375fa98b027297098a4cee55.mp3*~data=user_id=0,application_id=42~hmac=df7e9434f56908aef943f631e07b13321f549853ffce104d5ce52c9a3e7f30b0",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Fabric",
+            "length": "5:02",
+            "deezer": {
+              "id": 10705492,
+              "link": "https://www.deezer.com/track/10705492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/5/0/f35893d9595a8b443ff12f58370774b0.mp3?hdnea=exp=1795718446~acl=/api/1/1/f/3/5/0/f35893d9595a8b443ff12f58370774b0.mp3*~data=user_id=0,application_id=42~hmac=d7778421bd671297a1589e6cb2a535924cc0bd64e6808d834411affe5d091857",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Insite",
+            "length": "4:34",
+            "deezer": {
+              "id": 10705493,
+              "link": "https://www.deezer.com/track/10705493",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/1/0/cf15fcff53de2b090a6d8a4844307c7c.mp3?hdnea=exp=1795718446~acl=/api/1/1/c/f/1/0/cf15fcff53de2b090a6d8a4844307c7c.mp3*~data=user_id=0,application_id=42~hmac=33b1e6de2f2119637efe3de071cb2dc81ff484f8f30f0a3e5fa758d319c86a94",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Far From Home",
+            "length": "5:50",
+            "deezer": {
+              "id": 10705494,
+              "link": "https://www.deezer.com/track/10705494",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/a/0/a7a345c123f3525bf3380ee62f89cec8.mp3?hdnea=exp=1795718446~acl=/api/1/1/a/7/a/0/a7a345c123f3525bf3380ee62f89cec8.mp3*~data=user_id=0,application_id=42~hmac=0426f417f30228f50cd24d2a9eaa79013d64adb2e5d4d69ea062aeec65d4d1f6",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Bhangra Fever",
+            "length": "4:58",
+            "deezer": {
+              "id": 10705495,
+              "link": "https://www.deezer.com/track/10705495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/e/0/bbe34c480041d45da20c17173779fb57.mp3?hdnea=exp=1795718446~acl=/api/1/1/b/b/e/0/bbe34c480041d45da20c17173779fb57.mp3*~data=user_id=0,application_id=42~hmac=189c996f837e37d57f4099eae1b5898086e0705ae5572519c2a93dd380e9b815",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mercury",
+            "length": "4:51",
+            "deezer": {
+              "id": 10705496,
+              "link": "https://www.deezer.com/track/10705496",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/b/0/b2bfec01d8d7c2764765f9382917e021.mp3?hdnea=exp=1795718446~acl=/api/1/1/b/2/b/0/b2bfec01d8d7c2764765f9382917e021.mp3*~data=user_id=0,application_id=42~hmac=bd5fefa7a5a622736224f6b1891dbac7cb443668b6a65566f51ad01c54654eb5",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Night",
+            "length": "5:56",
+            "deezer": {
+              "id": 10705497,
+              "link": "https://www.deezer.com/track/10705497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/1/0/b7182cd221f2881852060a94d12d3b58.mp3?hdnea=exp=1795718446~acl=/api/1/1/b/7/1/0/b7182cd221f2881852060a94d12d3b58.mp3*~data=user_id=0,application_id=42~hmac=8de761dee76faf6bba3d4ed58d98d6c3b4531e2d64eb075b23ca559c6c0d3200",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Forest Dreams",
+            "length": "5:13",
+            "deezer": {
+              "id": 10705498,
+              "link": "https://www.deezer.com/track/10705498",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/d/0/1dd3f662672a5043cdefc696b7d2fb05.mp3?hdnea=exp=1795718446~acl=/api/1/1/1/d/d/0/1dd3f662672a5043cdefc696b7d2fb05.mp3*~data=user_id=0,application_id=42~hmac=693ef72ef741aef5b795ec66779ec3c90c45538876ecd37aa6975920f9b08118",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ajmer",
+            "length": "5:44",
+            "deezer": {
+              "id": 10705499,
+              "link": "https://www.deezer.com/track/10705499",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/0/0/c103f475ad6606dc517a0c7f5aa9a1dc.mp3?hdnea=exp=1795718446~acl=/api/1/1/c/1/0/0/c103f475ad6606dc517a0c7f5aa9a1dc.mp3*~data=user_id=0,application_id=42~hmac=855e09e18ed991789a1359c2a95a8f8e2471e6b05a242c66e83a7122de47dde4",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "God of Love",
+            "length": "6:06",
+            "deezer": {
+              "id": 10705500,
+              "link": "https://www.deezer.com/track/10705500",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/0/0/180ba1ba35d1d65aa2b2d246f85fd9fe.mp3?hdnea=exp=1795718446~acl=/api/1/1/1/8/0/0/180ba1ba35d1d65aa2b2d246f85fd9fe.mp3*~data=user_id=0,application_id=42~hmac=f513df53ab769d3963317450c10ac553d4d81ea2ac926872a15c4ce6029e8457",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Dark Age",
+            "length": "7:04",
+            "deezer": {
+              "id": 10705501,
+              "link": "https://www.deezer.com/track/10705501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/4/0/9441f8a7d6c8478a9686e63b883bcfb7.mp3?hdnea=exp=1795718446~acl=/api/1/1/9/4/4/0/9441f8a7d6c8478a9686e63b883bcfb7.mp3*~data=user_id=0,application_id=42~hmac=8280136f8aa587bb2357be767aea04b07e16347a3e97e5330dcb1943d21c0734",
+              "preview_expires": "2026-11-26T18:40:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Midival Punditz/MIDIval PunditZ.jpg"
+}

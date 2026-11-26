@@ -1,0 +1,120 @@
+{
+  "title": "Nancy Sinatra and Friends",
+  "artist": "Nancy Sinatra",
+  "year": 2003,
+  "release_date": "2003",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3ff6d113-3326-3217-9c79-9e620c1d113c",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "3ff6d113-3326-3217-9c79-9e620c1d113c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/aeadb4f6-2349-41ca-8c89-14e5724acf04",
+      "barcode": "4013659037149",
+      "title": "Nancy Sinatra and Friends",
+      "disambiguation": null,
+      "date": "2003",
+      "country": "DE"
+    },
+    "total_tracks": 16,
+    "total_length": "45:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Summerwine",
+            "length": "3:42"
+          },
+          {
+            "number": "2",
+            "title": "So Long Babe",
+            "length": "3:06"
+          },
+          {
+            "number": "3",
+            "title": "Something Stupid",
+            "length": "2:40"
+          },
+          {
+            "number": "4",
+            "title": "Friday's Child",
+            "length": "2:26"
+          },
+          {
+            "number": "5",
+            "title": "Jackson",
+            "length": "2:47"
+          },
+          {
+            "number": "6",
+            "title": "Sugar Town",
+            "length": "2:23"
+          },
+          {
+            "number": "7",
+            "title": "Lady Bird",
+            "length": "3:03"
+          },
+          {
+            "number": "8",
+            "title": "Tony Rome",
+            "length": "2:25"
+          },
+          {
+            "number": "9",
+            "title": "Things",
+            "length": "2:44"
+          },
+          {
+            "number": "10",
+            "title": "In Out Time",
+            "length": "2:38"
+          },
+          {
+            "number": "11",
+            "title": "Some Velvet Morning",
+            "length": "3:38"
+          },
+          {
+            "number": "12",
+            "title": "These Boots Are Made for Walking",
+            "length": "2:41"
+          },
+          {
+            "number": "13",
+            "title": "Sand",
+            "length": "3:44"
+          },
+          {
+            "number": "14",
+            "title": "How Does That Grab You, Darling",
+            "length": "2:30"
+          },
+          {
+            "number": "15",
+            "title": "Greenwich Village Folksong Salesman",
+            "length": "2:32"
+          },
+          {
+            "number": "16",
+            "title": "You Only Live Twice",
+            "length": "2:53"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nancy Sinatra/Nancy Sinatra and Friends.jpg"
+}

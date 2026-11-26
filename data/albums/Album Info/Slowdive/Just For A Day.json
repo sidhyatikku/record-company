@@ -1,0 +1,293 @@
+{
+  "title": "Just for a Day",
+  "artist": "Slowdive",
+  "year": 1991,
+  "release_date": "1991-09-02",
+  "type": "Album",
+  "description": "Just for a Day is the debut studio album by English rock band Slowdive, released on 2 September 1991 by Creation Records.",
+  "genres": [
+    "dream pop",
+    "shoegaze",
+    "rock"
+  ],
+  "tags": [
+    "dream pop",
+    "shoegaze",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/223866ce-e81a-3120-b215-b7ee69ebbfc7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Just_for_a_Day",
+    "allmusic": "https://www.allmusic.com/album/mw0000273412",
+    "discogs": "https://www.discogs.com/master/9473",
+    "wikidata": "https://www.wikidata.org/wiki/Q1771116",
+    "deezer": "https://www.deezer.com/album/700934"
+  },
+  "musicbrainz_id": "223866ce-e81a-3120-b215-b7ee69ebbfc7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/80ea0e3a-347a-40e1-9165-6e729e8a6bae",
+      "barcode": "884977791617",
+      "title": "Just for a Day",
+      "disambiguation": null,
+      "date": "2010-11-05",
+      "country": "XW"
+    },
+    "total_tracks": 21,
+    "total_length": "1:44:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Spanish Air",
+            "length": "6:03",
+            "deezer": {
+              "id": 7599505,
+              "link": "https://www.deezer.com/track/7599505",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/b/0/bbbd1461a0ab7d2b04743da263e946ff.mp3?hdnea=exp=1795720748~acl=/api/1/1/b/b/b/0/bbbd1461a0ab7d2b04743da263e946ff.mp3*~data=user_id=0,application_id=42~hmac=d3ef7f86a0a9aa6fd56955426ddd5516f1f30bb8b2ec9ea9c346a11afa312c01",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Celia’s Dream",
+            "length": "4:09",
+            "deezer": {
+              "id": 7599506,
+              "link": "https://www.deezer.com/track/7599506",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/2/0/e32301073736c0bfb9a508b08becddf8.mp3?hdnea=exp=1795720748~acl=/api/1/1/e/3/2/0/e32301073736c0bfb9a508b08becddf8.mp3*~data=user_id=0,application_id=42~hmac=ebf53346162131e19612900adcc6c1eb8f1002dfb74aa1f4ce8277d09ddfdc5c",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Catch the Breeze",
+            "length": "4:19",
+            "deezer": {
+              "id": 7599507,
+              "link": "https://www.deezer.com/track/7599507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/c/0/cec04df74a3442f918c03611602147d1.mp3?hdnea=exp=1795720748~acl=/api/1/1/c/e/c/0/cec04df74a3442f918c03611602147d1.mp3*~data=user_id=0,application_id=42~hmac=9fbc36a83228d6380e6a338958e09513503c95ec01ba19a6b9d1034afb220276",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ballad of Sister Sue",
+            "length": "4:32",
+            "deezer": {
+              "id": 7599508,
+              "link": "https://www.deezer.com/track/7599508",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/9/0/069bfe962f6e133b9e0f56637a76a53c.mp3?hdnea=exp=1795720748~acl=/api/1/1/0/6/9/0/069bfe962f6e133b9e0f56637a76a53c.mp3*~data=user_id=0,application_id=42~hmac=7145f5e7b90db7e7af1c921ac82acd6cb5e85aecbc9c70065e867e7e3ae149af",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Erik’s Song",
+            "length": "4:26",
+            "deezer": {
+              "id": 7599509,
+              "link": "https://www.deezer.com/track/7599509",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/7/0/2a770f027597b0da40052c9101d040b6.mp3?hdnea=exp=1795720748~acl=/api/1/1/2/a/7/0/2a770f027597b0da40052c9101d040b6.mp3*~data=user_id=0,application_id=42~hmac=43b7f057c02cec2a061e12752dbfdd307e45158ef3a6f0093713dd81fd084033",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Waves",
+            "length": "5:52",
+            "deezer": {
+              "id": 7599510,
+              "link": "https://www.deezer.com/track/7599510",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/a/0/34a72eb414bc750c6ccee79e3617f4f9.mp3?hdnea=exp=1795720748~acl=/api/1/1/3/4/a/0/34a72eb414bc750c6ccee79e3617f4f9.mp3*~data=user_id=0,application_id=42~hmac=bd48a71624ffa55325d1893d3b52c4a5b418ea5d12fa9b80d7169206e0283fc4",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Brighter",
+            "length": "3:49",
+            "deezer": {
+              "id": 7599511,
+              "link": "https://www.deezer.com/track/7599511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/b/0/bbbd4cf07beb0e9c811ad26b74f731e9.mp3?hdnea=exp=1795720748~acl=/api/1/1/b/b/b/0/bbbd4cf07beb0e9c811ad26b74f731e9.mp3*~data=user_id=0,application_id=42~hmac=11f0a15b95de437b849f137febc0b6854140a53b95c1cd89c649bb1ff11f71ef",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Sadman",
+            "length": "4:45",
+            "deezer": {
+              "id": 7599512,
+              "link": "https://www.deezer.com/track/7599512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/f/0/77f897ed6d1d95572ae05e1306f42bb3.mp3?hdnea=exp=1795720748~acl=/api/1/1/7/7/f/0/77f897ed6d1d95572ae05e1306f42bb3.mp3*~data=user_id=0,application_id=42~hmac=cde14e9704246c10f17d0b317fbd98fc0b95f74b677c0f8ceba6089d0d254be9",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Primal",
+            "length": "5:31",
+            "deezer": {
+              "id": 7599513,
+              "link": "https://www.deezer.com/track/7599513",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/1/0/d81b084ed01ae435555a1a59146e619f.mp3?hdnea=exp=1795720748~acl=/api/1/1/d/8/1/0/d81b084ed01ae435555a1a59146e619f.mp3*~data=user_id=0,application_id=42~hmac=3247ab55ab8f4949fa4de511e5bb923e8929c70afb7c6290ac417e4822d5a888",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Slowdive",
+            "length": "5:17",
+            "deezer": {
+              "id": 7599514,
+              "link": "https://www.deezer.com/track/7599514",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/e/0/afee4f3a3d0ccd8d36d03e4a6992be1a.mp3?hdnea=exp=1795720748~acl=/api/1/1/a/f/e/0/afee4f3a3d0ccd8d36d03e4a6992be1a.mp3*~data=user_id=0,application_id=42~hmac=c845d5349cb64b7f3eae99ec1582d477bd40d03f298283aa6b6003111c827aac",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Avalyn I",
+            "length": "4:52",
+            "deezer": {
+              "id": 7599515,
+              "link": "https://www.deezer.com/track/7599515",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/7/0/4972a334846e5373bd61cb53d104a41c.mp3?hdnea=exp=1795720748~acl=/api/1/1/4/9/7/0/4972a334846e5373bd61cb53d104a41c.mp3*~data=user_id=0,application_id=42~hmac=407b60e5d671820eed3582aa7690346b7db8678984aebd5de27c580996ce32ae",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Avalyn II",
+            "length": "8:10",
+            "deezer": {
+              "id": 7599516,
+              "link": "https://www.deezer.com/track/7599516",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/571afa5b6119da8d6609e823065a14aa.mp3?hdnea=exp=1795720748~acl=/api/1/1/5/7/1/0/571afa5b6119da8d6609e823065a14aa.mp3*~data=user_id=0,application_id=42~hmac=d1e3aa0c2ec780706ec2c7be5a7abf9fe14821ef7fd452c251911370103fca2f",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Morningrise",
+            "length": "4:21",
+            "deezer": {
+              "id": 7599517,
+              "link": "https://www.deezer.com/track/7599517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/5/0/2b566f69b268a52e4700f4cbcebe6d4a.mp3?hdnea=exp=1795720748~acl=/api/1/1/2/b/5/0/2b566f69b268a52e4700f4cbcebe6d4a.mp3*~data=user_id=0,application_id=42~hmac=22c7b85368fd3fcba4f9e7503a840a6054f94286f96cdb237d8ed5d65e28ee29",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "She Calls",
+            "length": "5:38",
+            "deezer": {
+              "id": 7599518,
+              "link": "https://www.deezer.com/track/7599518",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/a/0/40a9ac1cf03235229fdd76899976d891.mp3?hdnea=exp=1795720748~acl=/api/1/1/4/0/a/0/40a9ac1cf03235229fdd76899976d891.mp3*~data=user_id=0,application_id=42~hmac=0e550db23982de1cb17ba8a73053242462beb82346118fdb993fcaf5ba5113d2",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Losing Today",
+            "length": "5:01",
+            "deezer": {
+              "id": 7599519,
+              "link": "https://www.deezer.com/track/7599519",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/8/0/c48641dce1bd9f4048baf7e99eea1288.mp3?hdnea=exp=1795720748~acl=/api/1/1/c/4/8/0/c48641dce1bd9f4048baf7e99eea1288.mp3*~data=user_id=0,application_id=42~hmac=b9b13344bde80942ec55e9b1eabc15854f9578a535cbd09c64eb183511e41290",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Golden Hair",
+            "length": "4:04",
+            "deezer": {
+              "id": 7599520,
+              "link": "https://www.deezer.com/track/7599520",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/7/0/657d8aa55d75ea9d8322144db0db83c7.mp3?hdnea=exp=1795720748~acl=/api/1/1/6/5/7/0/657d8aa55d75ea9d8322144db0db83c7.mp3*~data=user_id=0,application_id=42~hmac=87a798df3229a3999497842dd59490467ff2d5324e024ac410e1c984591ae01c",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Shine",
+            "length": "5:23",
+            "deezer": {
+              "id": 7599521,
+              "link": "https://www.deezer.com/track/7599521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/6/0/fd69846028dc6272482bb755df957b53.mp3?hdnea=exp=1795720748~acl=/api/1/1/f/d/6/0/fd69846028dc6272482bb755df957b53.mp3*~data=user_id=0,application_id=42~hmac=22dd545fa77abf603b94690507cf2fa897ae2446b430031d8b578aed4939243f",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Albatross",
+            "length": "5:18",
+            "deezer": {
+              "id": 7599522,
+              "link": "https://www.deezer.com/track/7599522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/a/0/44a797af6b4aa5f54f8e3d48357a4e66.mp3?hdnea=exp=1795720748~acl=/api/1/1/4/4/a/0/44a797af6b4aa5f54f8e3d48357a4e66.mp3*~data=user_id=0,application_id=42~hmac=b580a7c0fad2c083e823dc5a2f3e4aa9c086d5e51da90cffdfe242a59f509252",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Catch the Breeze (1991‐04‐21: Peel session)",
+            "length": "4:11",
+            "deezer": {
+              "id": 7599523,
+              "link": "https://www.deezer.com/track/7599523",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/d/0/11d3e097c2368fd4e136929b3758d9a8.mp3?hdnea=exp=1795720748~acl=/api/1/1/1/1/d/0/11d3e097c2368fd4e136929b3758d9a8.mp3*~data=user_id=0,application_id=42~hmac=60fed1202a9dfed5b9ed9feb73d01fd8813a7095b328f647ea42f412c7dc2352",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Shine (1991‐04‐21: Peel session)",
+            "length": "5:21",
+            "deezer": {
+              "id": 7599524,
+              "link": "https://www.deezer.com/track/7599524",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/6/0/5a693dd2852ee10f147b9b787cc8b824.mp3?hdnea=exp=1795720748~acl=/api/1/1/5/a/6/0/5a693dd2852ee10f147b9b787cc8b824.mp3*~data=user_id=0,application_id=42~hmac=eab876600f9f830de9aeca92f6f52a1a4bbd06ae96f9bae1e53e920a8ca3d1f8",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Golden Hair (BBC Peel session)",
+            "length": "3:46",
+            "deezer": {
+              "id": 7599525,
+              "link": "https://www.deezer.com/track/7599525",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/2/0/7e28598ab18c48c4a705b9f545b6b041.mp3?hdnea=exp=1795720748~acl=/api/1/1/7/e/2/0/7e28598ab18c48c4a705b9f545b6b041.mp3*~data=user_id=0,application_id=42~hmac=27ff358614310234067637a9cda26bd9de42a85b0ef1eda64b26f906e17896c6",
+              "preview_expires": "2026-11-26T19:19:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Slowdive/Just For A Day.jpg"
+}

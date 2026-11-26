@@ -1,0 +1,409 @@
+{
+  "title": "Siamese Dream",
+  "artist": "Smashing Pumpkins",
+  "year": 1993,
+  "release_date": "1993-07-26",
+  "type": "Album",
+  "description": "Siamese Dream is the second studio album by the American alternative rock band the Smashing Pumpkins, first released on July 19, 1993 by Virgin Records. The album was produced by Butch Vig and frontman Billy Corgan. Despite its recording sessions being fraught with difficulties and tensions, Siamese Dream debuted at number ten on the Billboard 200, and was eventually certified 7× Platinum by the Recording Industry Association of America (RIAA), with the album selling over six million copies worldwide, catapulting the Smashing Pumpkins to mainstream success and cementing them as a significant group in alternative music.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "grunge",
+    "shoegaze",
+    "dream pop",
+    "post-grunge"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "grunge",
+    "shoegaze",
+    "dream pop",
+    "post-grunge"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 29
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a159e102-18bb-42ca-a59e-5f96a7eff241",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siamese_Dream",
+    "allmusic": "https://www.allmusic.com/album/mw0000099414",
+    "discogs": "https://www.discogs.com/master/48681",
+    "wikidata": "https://www.wikidata.org/wiki/Q902233",
+    "deezer": "https://www.deezer.com/album/1452137"
+  },
+  "musicbrainz_id": "a159e102-18bb-42ca-a59e-5f96a7eff241",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9f836ce2-374e-42d3-83f1-a1db118409bf",
+      "barcode": "5099967928958",
+      "title": "Siamese Dream",
+      "disambiguation": "deluxe edition",
+      "date": "2011-11-29",
+      "country": "XW"
+    },
+    "total_tracks": 31,
+    "total_length": "2:17:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cherub Rock",
+            "length": "4:58",
+            "deezer": {
+              "id": 15715632,
+              "link": "https://www.deezer.com/track/15715632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/d/0/63dff136b08b8aaeb822d8f4c965e288.mp3?hdnea=exp=1795721749~acl=/api/1/1/6/3/d/0/63dff136b08b8aaeb822d8f4c965e288.mp3*~data=user_id=0,application_id=42~hmac=da3d839e37030dd8e5ef8d1a83cc6b9b1bef8662decd4f269699c239f0fdbf60",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Quiet",
+            "length": "3:42",
+            "deezer": {
+              "id": 15715633,
+              "link": "https://www.deezer.com/track/15715633",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/9/0/b39209f0a5e543ef926dfe683e4f4420.mp3?hdnea=exp=1795721749~acl=/api/1/1/b/3/9/0/b39209f0a5e543ef926dfe683e4f4420.mp3*~data=user_id=0,application_id=42~hmac=50a2a55092c5252da4e508741b7885539cad607740fa23709cd9bedc6c16ad84",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Today",
+            "length": "3:20",
+            "deezer": {
+              "id": 15715634,
+              "link": "https://www.deezer.com/track/15715634",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/9/0/da9619fd5007dc97ad792121a2a3d9b1.mp3?hdnea=exp=1795721749~acl=/api/1/1/d/a/9/0/da9619fd5007dc97ad792121a2a3d9b1.mp3*~data=user_id=0,application_id=42~hmac=3bb8009d18ba0efae0d75b205dbdb319a205700ed975a05f98b3bcd643f67969",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hummer",
+            "length": "6:57",
+            "deezer": {
+              "id": 15715635,
+              "link": "https://www.deezer.com/track/15715635",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/3/0/5e3e493296da6fc3f93506b72670ffe6.mp3?hdnea=exp=1795721749~acl=/api/1/1/5/e/3/0/5e3e493296da6fc3f93506b72670ffe6.mp3*~data=user_id=0,application_id=42~hmac=c7d29501689fb5fbc0b31755c0124072fd70c03404f77bbcedd7e5ead4759c34",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Rocket",
+            "length": "4:07",
+            "deezer": {
+              "id": 15715636,
+              "link": "https://www.deezer.com/track/15715636",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/e/0/6ceae7865489f59d009a8dc5ac4bd4c1.mp3?hdnea=exp=1795721749~acl=/api/1/1/6/c/e/0/6ceae7865489f59d009a8dc5ac4bd4c1.mp3*~data=user_id=0,application_id=42~hmac=85fe3eb905b36d7537b8df131878b7aa5b9c9be646b1345057f4b7e007d9c51c",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Disarm",
+            "length": "3:17",
+            "deezer": {
+              "id": 15715637,
+              "link": "https://www.deezer.com/track/15715637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/1/0/2f11c422cc2bedc3f1f8ec0d42433a53.mp3?hdnea=exp=1795721749~acl=/api/1/1/2/f/1/0/2f11c422cc2bedc3f1f8ec0d42433a53.mp3*~data=user_id=0,application_id=42~hmac=bcdf5668e2db6cec85293ab094223ea99a673e3353d53c5fdf014fee9ef342b6",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Soma",
+            "length": "6:40",
+            "deezer": {
+              "id": 15715638,
+              "link": "https://www.deezer.com/track/15715638",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/9/0/6193466ce86f1eaf9cd2872287824e23.mp3?hdnea=exp=1795721749~acl=/api/1/1/6/1/9/0/6193466ce86f1eaf9cd2872287824e23.mp3*~data=user_id=0,application_id=42~hmac=555ebb061b9e37c66e3c73c30d583c0a3e409d3733d4f7c8d9b1582b7224dbd3",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Geek U.S.A.",
+            "length": "5:14",
+            "deezer": {
+              "id": 15715639,
+              "link": "https://www.deezer.com/track/15715639",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/5/0/025d7a1ea48b7236008a47e6eb8c91bb.mp3?hdnea=exp=1795721749~acl=/api/1/1/0/2/5/0/025d7a1ea48b7236008a47e6eb8c91bb.mp3*~data=user_id=0,application_id=42~hmac=7fe88f018620d2ee7b816b2f2040b5587c6d744435ee64e7d03151f2df65ffe8",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mayonaise",
+            "length": "5:49",
+            "deezer": {
+              "id": 15715640,
+              "link": "https://www.deezer.com/track/15715640",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/b/0/c8be67f57334bb5f50dc5980f210883f.mp3?hdnea=exp=1795721749~acl=/api/1/1/c/8/b/0/c8be67f57334bb5f50dc5980f210883f.mp3*~data=user_id=0,application_id=42~hmac=80232c378fa70ba80bd3687d80c01148b68e71be2c49ca24ea60b9346eb724d3",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Spaceboy",
+            "length": "4:29",
+            "deezer": {
+              "id": 15715641,
+              "link": "https://www.deezer.com/track/15715641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/5/0/5252fed00062823fca113fcdfcd059e0.mp3?hdnea=exp=1795721749~acl=/api/1/1/5/2/5/0/5252fed00062823fca113fcdfcd059e0.mp3*~data=user_id=0,application_id=42~hmac=1d0d491980eb85cb9b0243cb673f22b24d0a3d271576e5dfb40d3e76d00a7414",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Silverfuck",
+            "length": "8:43",
+            "deezer": {
+              "id": 15715642,
+              "link": "https://www.deezer.com/track/15715642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/2/0/f4246c7a5ca4c5894bc9fd4ebb5f73a1.mp3?hdnea=exp=1795721749~acl=/api/1/1/f/4/2/0/f4246c7a5ca4c5894bc9fd4ebb5f73a1.mp3*~data=user_id=0,application_id=42~hmac=eec1301aa7c57e774244c3226d9a55f82a971d785eb8087393c873787fe44e4f",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Sweet Sweet",
+            "length": "1:39",
+            "deezer": {
+              "id": 15715643,
+              "link": "https://www.deezer.com/track/15715643",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/f/0/e3f9329aaeeab25aa33f7d9a846152b3.mp3?hdnea=exp=1795721749~acl=/api/1/1/e/3/f/0/e3f9329aaeeab25aa33f7d9a846152b3.mp3*~data=user_id=0,application_id=42~hmac=85f25a0681b6c01b19ef5580b9223911abb3baedd27986e6b8b260e277323b3a",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Luna",
+            "length": "3:21",
+            "deezer": {
+              "id": 15715644,
+              "link": "https://www.deezer.com/track/15715644",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/2/0/042ad95a020ff0e70f759bb291bbf7e9.mp3?hdnea=exp=1795721749~acl=/api/1/1/0/4/2/0/042ad95a020ff0e70f759bb291bbf7e9.mp3*~data=user_id=0,application_id=42~hmac=43225e12abd620c8f9600c0d6882fa23b19e37886af3d8b88597dca531239f9e",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pissant (Siamese sessions rough mix)",
+            "length": "2:32",
+            "deezer": {
+              "id": 15715646,
+              "link": "https://www.deezer.com/track/15715646",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/f/0/39f78f2cde532c96645cd7bb168ff51f.mp3?hdnea=exp=1795721749~acl=/api/1/1/3/9/f/0/39f78f2cde532c96645cd7bb168ff51f.mp3*~data=user_id=0,application_id=42~hmac=cc3c1566d2fcbbc2ac9e1843c91798b68c211e4e76f662040a8e8fc84381b886",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Siamese Dream (Broadway rehearsals demo)",
+            "length": "6:19",
+            "deezer": {
+              "id": 15715647,
+              "link": "https://www.deezer.com/track/15715647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/f/0/2aff300d2290527bc6bec37b7095a73c.mp3?hdnea=exp=1795721749~acl=/api/1/1/2/a/f/0/2aff300d2290527bc6bec37b7095a73c.mp3*~data=user_id=0,application_id=42~hmac=3d17ce804d137f88f37942d75406925ffd00f0a1516226c5322f989e0c65e803",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "STP (rehearsal demo)",
+            "length": "3:29",
+            "deezer": {
+              "id": 15715648,
+              "link": "https://www.deezer.com/track/15715648",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/b/0/1abf2315f1235053fac931a8fa71a581.mp3?hdnea=exp=1795721749~acl=/api/1/1/1/a/b/0/1abf2315f1235053fac931a8fa71a581.mp3*~data=user_id=0,application_id=42~hmac=935d5d94dac84344583bb2148c2b9204f67a92ae5b5795276eb4784bce74bf5a",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Frail and Bedazzled (Soundworks demo)",
+            "length": "3:42",
+            "deezer": {
+              "id": 15715649,
+              "link": "https://www.deezer.com/track/15715649",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/8/0/a4853cfca4725a4434a07ef685fb679d.mp3?hdnea=exp=1795721749~acl=/api/1/1/a/4/8/0/a4853cfca4725a4434a07ef685fb679d.mp3*~data=user_id=0,application_id=42~hmac=b15bd34d00bccff7f99ac98b3c47444439ec259b6e3c989965a3d067fcc499d8",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Luna (apartment demo)",
+            "length": "3:13",
+            "deezer": {
+              "id": 15715650,
+              "link": "https://www.deezer.com/track/15715650",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/1/0/65120fd5705a1a92a4fec17b80a0a49b.mp3?hdnea=exp=1795721749~acl=/api/1/1/6/5/1/0/65120fd5705a1a92a4fec17b80a0a49b.mp3*~data=user_id=0,application_id=42~hmac=25b17d538588ddd0aef37c57ad5f8fc244070ec0325c632e58285ebcdbf08056",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Quiet (BBC session/bc mix)",
+            "length": "3:37",
+            "deezer": {
+              "id": 15715651,
+              "link": "https://www.deezer.com/track/15715651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/e/0/cfe4faf9268ebf8de226f5273285e74f.mp3?hdnea=exp=1795721749~acl=/api/1/1/c/f/e/0/cfe4faf9268ebf8de226f5273285e74f.mp3*~data=user_id=0,application_id=42~hmac=0462e5752fcb8d9a32c5aca62d0d620995ddd42c9b5e3c81b85fa185c619d09a",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Moleasskiss (Soundworks demo)",
+            "length": "4:00",
+            "deezer": {
+              "id": 15715652,
+              "link": "https://www.deezer.com/track/15715652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/0/0/570982d0b0d04f0507399ff21553dd35.mp3?hdnea=exp=1795721749~acl=/api/1/1/5/7/0/0/570982d0b0d04f0507399ff21553dd35.mp3*~data=user_id=0,application_id=42~hmac=38d04d81ee76c156b37624a804e7b372678ed421d3de7f4d33d3c8c03afcdc01",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Hello Kitty Kat (Soundworks demo)",
+            "length": "6:15",
+            "deezer": {
+              "id": 15715654,
+              "link": "https://www.deezer.com/track/15715654",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/277f5b19bd13d200b85bdc5e74d209ee.mp3?hdnea=exp=1795721749~acl=/api/1/1/2/7/7/0/277f5b19bd13d200b85bdc5e74d209ee.mp3*~data=user_id=0,application_id=42~hmac=341bf2fdc765d6965851353a4b17208506ecbe8b83275eb18cf792e8d4b1e0a5",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Today (Broadway rehearsal demo)",
+            "length": "3:21",
+            "deezer": {
+              "id": 15715655,
+              "link": "https://www.deezer.com/track/15715655",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/b/0/2ebcd984cdd80a6a8b36c56378aa6c7b.mp3?hdnea=exp=1795721749~acl=/api/1/1/2/e/b/0/2ebcd984cdd80a6a8b36c56378aa6c7b.mp3*~data=user_id=0,application_id=42~hmac=063888881c497f3a7a48fa989e86b03c525d9113d3b5ad5f3e12a208df264848",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Never Let Me Down Again (BBC session)",
+            "length": "4:03",
+            "deezer": {
+              "id": 15715656,
+              "link": "https://www.deezer.com/track/15715656",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/e/0/6aedbf4d8d153491db37effb2a99c6df.mp3?hdnea=exp=1795721749~acl=/api/1/1/6/a/e/0/6aedbf4d8d153491db37effb2a99c6df.mp3*~data=user_id=0,application_id=42~hmac=a6b6b870d38f30fe9dd7bb4a3a5a3554792ae00ee10ad7ef9cbf8815a108c93a",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Apathy's Last Kiss (Siamese sessions rough mix)",
+            "length": "2:40",
+            "deezer": {
+              "id": 15715657,
+              "link": "https://www.deezer.com/track/15715657",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/d/0/a6d8ffeeba7e7b7591333cc2475d6400.mp3?hdnea=exp=1795721749~acl=/api/1/1/a/6/d/0/a6d8ffeeba7e7b7591333cc2475d6400.mp3*~data=user_id=0,application_id=42~hmac=bb3302a54c49318b0af057c63aebbf3ed4805cac18dbeec0cf7899a74878890a",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Ache (Silverfuck rehearsal demo)",
+            "length": "6:58",
+            "deezer": {
+              "id": 15715658,
+              "link": "https://www.deezer.com/track/15715658",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/d/0/75d0311953481688f018d67124a15f44.mp3?hdnea=exp=1795721749~acl=/api/1/1/7/5/d/0/75d0311953481688f018d67124a15f44.mp3*~data=user_id=0,application_id=42~hmac=685ad6be21c51c221267d654659c7d195fb8c1f0b70276546c708d8a9e95b84d",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "U.S.A. (Soundworks demo)",
+            "length": "4:25",
+            "deezer": {
+              "id": 15715659,
+              "link": "https://www.deezer.com/track/15715659",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/8/0/578c9f1a4bc46a182091c4f26c3aa966.mp3?hdnea=exp=1795721749~acl=/api/1/1/5/7/8/0/578c9f1a4bc46a182091c4f26c3aa966.mp3*~data=user_id=0,application_id=42~hmac=e0efd5d50c61d430d006c6ff8750659f717b6c97f1d2e6c5675bb617e2c3bfeb",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "U.S.S.R. (Soundworks demo)",
+            "length": "1:35",
+            "deezer": {
+              "id": 15715660,
+              "link": "https://www.deezer.com/track/15715660",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/2/0/9e2f495c5cf90ce77dc5799119f59524.mp3?hdnea=exp=1795721749~acl=/api/1/1/9/e/2/0/9e2f495c5cf90ce77dc5799119f59524.mp3*~data=user_id=0,application_id=42~hmac=a04db9dcababef3fcd09e1518e14b8a793f87f5d80ea8d56ac6e3b51d7b501cf",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Spaceboy (acoustic mix)",
+            "length": "3:58",
+            "deezer": {
+              "id": 15715661,
+              "link": "https://www.deezer.com/track/15715661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/7/0/b97aa2926d4b76f3d01e439dbbba52a9.mp3?hdnea=exp=1795721749~acl=/api/1/1/b/9/7/0/b97aa2926d4b76f3d01e439dbbba52a9.mp3*~data=user_id=0,application_id=42~hmac=cb9758f20cf14f79aef919c5a26372d25e040b3cb88bd5e3e71f315bcf6b8b61",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Rocket (rehearsal demo)",
+            "length": "4:56",
+            "deezer": {
+              "id": 15715663,
+              "link": "https://www.deezer.com/track/15715663",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/a/0/1da35ae967ac3b0963ed2163c5997e2b.mp3?hdnea=exp=1795721749~acl=/api/1/1/1/d/a/0/1da35ae967ac3b0963ed2163c5997e2b.mp3*~data=user_id=0,application_id=42~hmac=106dbc1676d415fe9a6ec4d9d6a84f873ec556c0d452d5815531e3b32c58790f",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Disarm (acoustic mix)",
+            "length": "3:19",
+            "deezer": {
+              "id": 15715664,
+              "link": "https://www.deezer.com/track/15715664",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/d/0/60d682726a972e4e71428a8158429675.mp3?hdnea=exp=1795721749~acl=/api/1/1/6/0/d/0/60d682726a972e4e71428a8158429675.mp3*~data=user_id=0,application_id=42~hmac=821a087b1a4b94e7579d27e5c5de2bbbeb5d5b189d892e4fd162119f502767e1",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Soma (instrumental mix)",
+            "length": "6:39",
+            "deezer": {
+              "id": 15715665,
+              "link": "https://www.deezer.com/track/15715665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/c/0/43cd52df7e3921100fb0ceff009c7df2.mp3?hdnea=exp=1795721749~acl=/api/1/1/4/3/c/0/43cd52df7e3921100fb0ceff009c7df2.mp3*~data=user_id=0,application_id=42~hmac=715148540aa16c61d11b86f3bac862233486cb164a58b34e4564293bbc5f0c0b",
+              "preview_expires": "2026-11-26T19:35:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Smashing Pumpkins/Siamese Dream.jpg"
+}

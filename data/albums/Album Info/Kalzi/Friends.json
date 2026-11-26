@@ -1,0 +1,49 @@
+{
+  "title": "Friends",
+  "artist": "Kalzi",
+  "year": 2024,
+  "release_date": "2024-05-31",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5LHtdBHIpmrWZb0BfOld23",
+    "deezer": "https://www.deezer.com/album/1105722322"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5LHtdBHIpmrWZb0BfOld23",
+      "title": "Friends",
+      "date": "2024-05-31"
+    },
+    "total_tracks": 1,
+    "total_length": "3:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Friends",
+            "length": "3:33",
+            "deezer": {
+              "id": 4308752322,
+              "link": "https://www.deezer.com/track/4308752322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/f/0/7af7fb31feb5a4f2f66d15fd3a5c988b.mp3?hdnea=exp=1795655846~acl=/api/1/1/7/a/f/0/7af7fb31feb5a4f2f66d15fd3a5c988b.mp3*~data=user_id=0,application_id=42~hmac=8fffb0749e9c65e48d4121f2a34a6a773d875c18c0e8c6cf3bdbbd6015a48af1",
+              "preview_expires": "2026-11-26T01:17:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kalzi/Friends.jpg"
+}

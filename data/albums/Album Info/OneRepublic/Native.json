@@ -1,0 +1,191 @@
+{
+  "title": "Native",
+  "artist": "OneRepublic",
+  "year": 2013,
+  "release_date": "2013-03-22",
+  "type": "Album",
+  "description": "Native is the third studio album by American pop rock band OneRepublic. It was released on March 22, 2013 through Mosley Music Group and Interscope Records in Germany and Ireland, March 25 worldwide except North America, and March 26 in North America. The album was originally planned to be released at the end of 2012 with the lead single being \"Feel Again\", which was released on August 27, 2012. However, due to the album not being completed at the time, it was pushed back to early 2013.",
+  "genres": [
+    "pop",
+    "pop rock",
+    "alternative rock",
+    "dance-pop",
+    "soft rock"
+  ],
+  "tags": [
+    "pop",
+    "pop rock",
+    "alternative rock",
+    "dance-pop",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/294ecdcd-7dd3-4392-87fa-edeb1349bfd0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Native_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002484790",
+    "discogs": "https://www.discogs.com/master/536245",
+    "wikidata": "https://www.wikidata.org/wiki/Q1940766",
+    "deezer": "https://www.deezer.com/album/6446668"
+  },
+  "musicbrainz_id": "294ecdcd-7dd3-4392-87fa-edeb1349bfd0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d75775da-c400-4b88-a78b-eef7bb87cce6",
+      "barcode": "602537198047",
+      "title": "Native",
+      "disambiguation": null,
+      "date": "2013-03-26",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "46:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Counting Stars",
+            "length": "4:17",
+            "deezer": {
+              "id": 65759979,
+              "link": "https://www.deezer.com/track/65759979",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/8/0/fa8a782eabf6ba2dafa67246782600f9.mp3?hdnea=exp=1795719161~acl=/api/1/1/f/a/8/0/fa8a782eabf6ba2dafa67246782600f9.mp3*~data=user_id=0,application_id=42~hmac=137b41ac6d4cba3f963dc873c39e20badb272470d9063675b7f4a83ab6659331",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "If I Lose Myself",
+            "length": "4:02",
+            "deezer": {
+              "id": 65759980,
+              "link": "https://www.deezer.com/track/65759980",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/2/0/192721f2af0ea7a5cdc3296dbb6bb50d.mp3?hdnea=exp=1795719161~acl=/api/1/1/1/9/2/0/192721f2af0ea7a5cdc3296dbb6bb50d.mp3*~data=user_id=0,application_id=42~hmac=13856810e2615d17174c5b215a31c7135a2825fa61fd1a015512d3767a24118f",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Feel Again",
+            "length": "3:05",
+            "deezer": {
+              "id": 65759981,
+              "link": "https://www.deezer.com/track/65759981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/9/0/949bbe10dedea67754422df9c32269c6.mp3?hdnea=exp=1795719161~acl=/api/1/1/9/4/9/0/949bbe10dedea67754422df9c32269c6.mp3*~data=user_id=0,application_id=42~hmac=43a76c0368a572c4700e408ad4ea41a6dae2917056220aae8ae28f4b5fb9f656",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "What You Wanted",
+            "length": "4:01",
+            "deezer": {
+              "id": 65759982,
+              "link": "https://www.deezer.com/track/65759982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/f/0/6afcc93e5fffda85c721d97c3570d604.mp3?hdnea=exp=1795719161~acl=/api/1/1/6/a/f/0/6afcc93e5fffda85c721d97c3570d604.mp3*~data=user_id=0,application_id=42~hmac=4e73c1be08449a63c3f10eedff971f9af6898282b14e384ea609463c49eb685f",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Lived",
+            "length": "3:55",
+            "deezer": {
+              "id": 65759983,
+              "link": "https://www.deezer.com/track/65759983",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/b/0/8ab8a15c087e7be34674c486abe6bb49.mp3?hdnea=exp=1795719161~acl=/api/1/1/8/a/b/0/8ab8a15c087e7be34674c486abe6bb49.mp3*~data=user_id=0,application_id=42~hmac=6d92bb05bb6cefcf2631083c1bc8546b8f29174874f2b8392630fa25d2673baa",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Light It Up",
+            "length": "4:10",
+            "deezer": {
+              "id": 65759984,
+              "link": "https://www.deezer.com/track/65759984",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/d/0/b8d4ece9762e88f854c36ebd3f452eb1.mp3?hdnea=exp=1795719161~acl=/api/1/1/b/8/d/0/b8d4ece9762e88f854c36ebd3f452eb1.mp3*~data=user_id=0,application_id=42~hmac=725f2347dd988ec5ba457bb48541038170e051fba19ffd4c99b2a834d754aded",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Can’t Stop",
+            "length": "4:10",
+            "deezer": {
+              "id": 65759985,
+              "link": "https://www.deezer.com/track/65759985",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/9/0/1292076e0a3f925f107e0037152c8408.mp3?hdnea=exp=1795719161~acl=/api/1/1/1/2/9/0/1292076e0a3f925f107e0037152c8408.mp3*~data=user_id=0,application_id=42~hmac=d33d44afd7319241468eaddeecefbd90d32c91e70e6ac4e74a7c4b2763c1d86f",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Au Revoir",
+            "length": "4:50",
+            "deezer": {
+              "id": 65759986,
+              "link": "https://www.deezer.com/track/65759986",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/3/0/8c35b3d9540819361bd6b1fb8bad9af3.mp3?hdnea=exp=1795719161~acl=/api/1/1/8/c/3/0/8c35b3d9540819361bd6b1fb8bad9af3.mp3*~data=user_id=0,application_id=42~hmac=4e70189af5b9abd946a2ce0f4b5f2b1fbaf045d4af30ca58d53cdb3746936161",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Burning Bridges",
+            "length": "4:18",
+            "deezer": {
+              "id": 65759987,
+              "link": "https://www.deezer.com/track/65759987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/0/0/fc00a41bfd4764d05413067b2b0b31c0.mp3?hdnea=exp=1795719161~acl=/api/1/1/f/c/0/0/fc00a41bfd4764d05413067b2b0b31c0.mp3*~data=user_id=0,application_id=42~hmac=fd7c5c8c4e57b5c5e884a02efd17dd62e9da65f5bbc3f748dc2780d9ac7bd9f0",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Something I Need",
+            "length": "4:01",
+            "deezer": {
+              "id": 65759988,
+              "link": "https://www.deezer.com/track/65759988",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/e/0/a3e0c85a0ec59616b745353989b8737b.mp3?hdnea=exp=1795719161~acl=/api/1/1/a/3/e/0/a3e0c85a0ec59616b745353989b8737b.mp3*~data=user_id=0,application_id=42~hmac=a801f45c8262410dd5ca8d8109524178ff1f5ee2b93d33ad7bfb7452c720c6c8",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Preacher",
+            "length": "4:08",
+            "deezer": {
+              "id": 65759989,
+              "link": "https://www.deezer.com/track/65759989",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/e/0/c8e181b8a1afbc48c198e57099642a1d.mp3?hdnea=exp=1795719161~acl=/api/1/1/c/8/e/0/c8e181b8a1afbc48c198e57099642a1d.mp3*~data=user_id=0,application_id=42~hmac=2d30fe16d1b93e2fe16a73cb8a3995a9e6ade826db638edec42fc02e7f9ce4da",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Don't Look Down",
+            "length": "1:37",
+            "deezer": {
+              "id": 65759990,
+              "link": "https://www.deezer.com/track/65759990",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/8/0/6d8506808d7d5e7cb4386b1c5205af47.mp3?hdnea=exp=1795719161~acl=/api/1/1/6/d/8/0/6d8506808d7d5e7cb4386b1c5205af47.mp3*~data=user_id=0,application_id=42~hmac=7e34ef276eaaf73925297353f8a7e613b897b636a9859cf619408cb47d490414",
+              "preview_expires": "2026-11-26T18:52:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/OneRepublic/Native.jpg"
+}

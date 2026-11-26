@@ -1,0 +1,51 @@
+{
+  "title": "Smack Yo’",
+  "artist": "Beltran",
+  "year": 2022,
+  "release_date": "2022-09-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f25e0655-ef4e-47f5-8848-f35e36c44c94",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/356628877"
+  },
+  "musicbrainz_id": "f25e0655-ef4e-47f5-8848-f35e36c44c94",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/231dff29-9cd1-47b8-9ce3-f057ec03ec39",
+      "barcode": "5054286920625",
+      "title": "Smack Yo’",
+      "disambiguation": null,
+      "date": "2022-09-30",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "4:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Smack Yo’",
+            "length": "4:06",
+            "deezer": {
+              "id": 1913798537,
+              "link": "https://www.deezer.com/track/1913798537",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/e/0/e6ed89975b91e59817262e998c103f33.mp3?hdnea=exp=1795651940~acl=/api/1/1/e/6/e/0/e6ed89975b91e59817262e998c103f33.mp3*~data=user_id=0,application_id=42~hmac=df45c1aa71650f062f6103ac7f96e92aa43165c235d4272199419f26e3f0f5f4",
+              "preview_expires": "2026-11-26T00:12:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Beltran/Smack Yo'.jpg"
+}

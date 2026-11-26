@@ -1,0 +1,190 @@
+{
+  "title": "Crush",
+  "artist": "Bon Jovi",
+  "year": 2000,
+  "release_date": "2000-05-17",
+  "type": "Album",
+  "description": "Crush is the seventh studio album by American rock band Bon Jovi. It was released on May 29, 2000, by Mercury Records in the UK and on June 13, 2000, by Island Records in the US. It was produced by Jon Bon Jovi, Richie Sambora, and Luke Ebbin. The album marks the longest timespan between studio albums for the band, with five years between the release of These Days (1995) and this album. After the initial plan to team up with producer Bruce Fairbairn fell through because of his death a year earlier, Bon Jovi and Sambora hired Luke Ebbin to update their sound.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "hard rock",
+    "pop metal"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "hard rock",
+    "genre",
+    "pop metal"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6024045a-2d30-3ab5-8eb2-b6e5f61a78d3",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crush_(Bon_Jovi_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000606246",
+    "discogs": "https://www.discogs.com/master/96128",
+    "wikidata": "https://www.wikidata.org/wiki/Q313105",
+    "deezer": "https://www.deezer.com/album/9101535"
+  },
+  "musicbrainz_id": "6024045a-2d30-3ab5-8eb2-b6e5f61a78d3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/71b27fc1-8d18-431a-81b5-7d7efd6f3222",
+      "barcode": "731454247429",
+      "title": "Crush",
+      "disambiguation": null,
+      "date": "2000-06-13",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "58:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "It’s My Life",
+            "length": "3:44",
+            "deezer": {
+              "id": 89870993,
+              "link": "https://www.deezer.com/track/89870993",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/e/0/37e796a27156222852cf585904d2c98d.mp3?hdnea=exp=1795652505~acl=/api/1/1/3/7/e/0/37e796a27156222852cf585904d2c98d.mp3*~data=user_id=0,application_id=42~hmac=ae8b393b96f13beebe4fbf2ca9a1b6ed5c313f1833a6f2d6341a5fe15427c135",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Say It Isn’t So",
+            "length": "3:33",
+            "deezer": {
+              "id": 89870995,
+              "link": "https://www.deezer.com/track/89870995",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/d/0/2cdf7c960de9c104a38e1a540c2b5c6d.mp3?hdnea=exp=1795652505~acl=/api/1/1/2/c/d/0/2cdf7c960de9c104a38e1a540c2b5c6d.mp3*~data=user_id=0,application_id=42~hmac=f2dd7cd0a25db732482efa83fea1dbfa806b33dd43dbd01bfcbbbc142d673dc1",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Thank You for Loving Me",
+            "length": "5:09",
+            "deezer": {
+              "id": 89870997,
+              "link": "https://www.deezer.com/track/89870997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/a/0/4da139c4655d317a82d9350d96a00188.mp3?hdnea=exp=1795652505~acl=/api/1/1/4/d/a/0/4da139c4655d317a82d9350d96a00188.mp3*~data=user_id=0,application_id=42~hmac=6637d2b730cf15bdf5b00da8517e6bdd946856406cf39f3d293e3571ad118fe4",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Two Story Town",
+            "length": "5:10",
+            "deezer": {
+              "id": 89870999,
+              "link": "https://www.deezer.com/track/89870999",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/d/0/f4dccafe57b1360561250e99ca9f3410.mp3?hdnea=exp=1795652505~acl=/api/1/1/f/4/d/0/f4dccafe57b1360561250e99ca9f3410.mp3*~data=user_id=0,application_id=42~hmac=641c1fff676b761192fb33ed4c5ce6d578855c10726c7c516a7b1581084ef7e2",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Next 100 Years",
+            "length": "6:19",
+            "deezer": {
+              "id": 89871001,
+              "link": "https://www.deezer.com/track/89871001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/1/0/e316c36a9250926b305efa4423af1b03.mp3?hdnea=exp=1795652505~acl=/api/1/1/e/3/1/0/e316c36a9250926b305efa4423af1b03.mp3*~data=user_id=0,application_id=42~hmac=71f34343b48c2a6a64487548bcae1e6f8618b0b5b8454a6e8ccae932d6a9471d",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Just Older",
+            "length": "4:29",
+            "deezer": {
+              "id": 89871003,
+              "link": "https://www.deezer.com/track/89871003",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/6/0/856df967c63558f75390b6c19d6a7564.mp3?hdnea=exp=1795652505~acl=/api/1/1/8/5/6/0/856df967c63558f75390b6c19d6a7564.mp3*~data=user_id=0,application_id=42~hmac=1b7176c35dba47fe9748968f6b5aa262a19abc2b8b9a3d753eff09a58fdf8823",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mystery Train",
+            "length": "5:15",
+            "deezer": {
+              "id": 89871005,
+              "link": "https://www.deezer.com/track/89871005",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/9/0/5e9f74206da5b71037854677f6acf2d1.mp3?hdnea=exp=1795652505~acl=/api/1/1/5/e/9/0/5e9f74206da5b71037854677f6acf2d1.mp3*~data=user_id=0,application_id=42~hmac=54f320dde0d68bb8459331f5cc5e34cd2f2b76a72ed3b51f4650ac94ae380c0e",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Save the World",
+            "length": "5:32",
+            "deezer": {
+              "id": 89871007,
+              "link": "https://www.deezer.com/track/89871007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/0/0/93018b9ba63e39c3ec800a8b0a57676f.mp3?hdnea=exp=1795652505~acl=/api/1/1/9/3/0/0/93018b9ba63e39c3ec800a8b0a57676f.mp3*~data=user_id=0,application_id=42~hmac=5ed26560d6750ef2e78e0787cede796ee021953e3eeaf6d0f5ebd829558d4131",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Captain Crash & the Beauty Queen From Mars",
+            "length": "4:31",
+            "deezer": {
+              "id": 89871009,
+              "link": "https://www.deezer.com/track/89871009",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/d/0/0cdab11004eb88a6450fdf4081ddf2f7.mp3?hdnea=exp=1795652505~acl=/api/1/1/0/c/d/0/0cdab11004eb88a6450fdf4081ddf2f7.mp3*~data=user_id=0,application_id=42~hmac=a2b4197d93bde4d52cd81f1d8b0fd57039e81d0b471a07020285f92397fbdefb",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "She’s a Mystery",
+            "length": "5:18",
+            "deezer": {
+              "id": 89871011,
+              "link": "https://www.deezer.com/track/89871011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/9/0/0e945d516b811c4e1e649c7cd6ef17ce.mp3?hdnea=exp=1795652505~acl=/api/1/1/0/e/9/0/0e945d516b811c4e1e649c7cd6ef17ce.mp3*~data=user_id=0,application_id=42~hmac=5512948a8fe361c160434335542e4100b19bdc60f5d14123685d7d8de65fc294",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "I Got the Girl",
+            "length": "4:37",
+            "deezer": {
+              "id": 89871013,
+              "link": "https://www.deezer.com/track/89871013",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/d/0/61d5bf1a333ac09ef64f3e908c000c41.mp3?hdnea=exp=1795652505~acl=/api/1/1/6/1/d/0/61d5bf1a333ac09ef64f3e908c000c41.mp3*~data=user_id=0,application_id=42~hmac=dfa7615308433c0051ea28b61cb080ff36fc4ae8a19a63c20dee57dd3917df8a",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "One Wild Night",
+            "length": "4:41",
+            "deezer": {
+              "id": 89871015,
+              "link": "https://www.deezer.com/track/89871015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/f/0/52f00568f19a6313aae33ddefd7dd2cf.mp3?hdnea=exp=1795652505~acl=/api/1/1/5/2/f/0/52f00568f19a6313aae33ddefd7dd2cf.mp3*~data=user_id=0,application_id=42~hmac=d37df8291e3d21bcb415f0bb0720a4f9f37b561a1c634d431f254d17d78073f2",
+              "preview_expires": "2026-11-26T00:21:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bon Jovi/Crush.jpg"
+}

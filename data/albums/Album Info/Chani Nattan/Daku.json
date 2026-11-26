@@ -1,0 +1,52 @@
+{
+  "title": "Daku",
+  "artist": "Chani Nattan",
+  "year": 2021,
+  "release_date": "2021-01-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a0c03989-4218-420c-b7b0-4c40df247294",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/786564171"
+  },
+  "musicbrainz_id": "a0c03989-4218-420c-b7b0-4c40df247294",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a67407b8-b0d2-4994-b9e5-3a3992868d36",
+      "barcode": null,
+      "title": "Daku",
+      "disambiguation": null,
+      "date": "2021-01-16",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Daku",
+            "length": "2:11",
+            "artist": "Chani Nattan feat. Inderpal Moga",
+            "deezer": {
+              "id": 3455461401,
+              "link": "https://www.deezer.com/track/3455461401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/e/0/0be75b95f7f99df3b6ed84140ed55bc2.mp3?hdnea=exp=1795652693~acl=/api/1/1/0/b/e/0/0be75b95f7f99df3b6ed84140ed55bc2.mp3*~data=user_id=0,application_id=42~hmac=d2420a92ef825d3937556016ea70b834001155d0bd80a7d98b1a7bd62583ffb9",
+              "preview_expires": "2026-11-26T00:24:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chani Nattan/Daku.jpg"
+}

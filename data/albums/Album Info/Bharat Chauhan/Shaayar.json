@@ -1,0 +1,53 @@
+{
+  "title": "Shaayar",
+  "artist": "Bharat Chauhan",
+  "year": 2024,
+  "release_date": "2024-02-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "indian indie",
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4q0cNzhq7PZQX0ugAq3nhn",
+    "deezer": "https://www.deezer.com/album/538647802"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4q0cNzhq7PZQX0ugAq3nhn",
+      "title": "Shaayar",
+      "date": "2024-02-03"
+    },
+    "total_tracks": 1,
+    "total_length": "4:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shaayar",
+            "length": "4:34",
+            "artist": "Bharat Chauhan, Seedhe Maut",
+            "deezer": {
+              "id": 2632307432,
+              "link": "https://www.deezer.com/track/2632307432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/4/0/2d4b3abfc2d90319b012f0623b6332e4.mp3?hdnea=exp=1795651988~acl=/api/1/1/2/d/4/0/2d4b3abfc2d90319b012f0623b6332e4.mp3*~data=user_id=0,application_id=42~hmac=3a3a5e4197c1931ffb5f0d552a8f0358732e8c540036054977672b43cc571771",
+              "preview_expires": "2026-11-26T00:13:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Bharat Chauhan/Shaayar.jpg"
+}

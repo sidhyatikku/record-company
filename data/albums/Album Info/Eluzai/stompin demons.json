@@ -1,0 +1,50 @@
+{
+  "title": "stompin demons",
+  "artist": "Eluzai",
+  "year": 2022,
+  "release_date": "2022-10-28",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "christian lo-fi",
+    "christian hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4aq68xVmjLeJ8VT3w05nwr",
+    "deezer": "https://www.deezer.com/album/367483487"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4aq68xVmjLeJ8VT3w05nwr",
+      "title": "stompin demons",
+      "date": "2022-10-28"
+    },
+    "total_tracks": 1,
+    "total_length": "1:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "stompin demons",
+            "length": "1:48",
+            "deezer": {
+              "id": 1972691377,
+              "link": "https://www.deezer.com/track/1972691377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/8/0/b285318966790843fcc4c72678dc610a.mp3?hdnea=exp=1795653830~acl=/api/1/1/b/2/8/0/b285318966790843fcc4c72678dc610a.mp3*~data=user_id=0,application_id=42~hmac=efe68619efb283fef5ef81b44ea8b7fe61fc338ce3c0a44d617bda74ca1d2e5e",
+              "preview_expires": "2026-11-26T00:43:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Eluzai/stompin demons.jpg"
+}

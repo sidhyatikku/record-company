@@ -1,0 +1,98 @@
+{
+  "title": "Don’t You Worry Child",
+  "artist": "Swedish House Mafia feat. John Martin",
+  "year": 2012,
+  "release_date": "2012-09-14",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [
+    "progressive house",
+    "electro",
+    "house"
+  ],
+  "tags": [
+    "progressive house",
+    "electro",
+    "house"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5efb9f23-073f-4588-a4a6-048a9153dc3c",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/478047",
+    "deezer": "https://www.deezer.com/album/5954126"
+  },
+  "musicbrainz_id": "5efb9f23-073f-4588-a4a6-048a9153dc3c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b1c9f86f-6fd5-493b-8563-50638dad0a0f",
+      "barcode": "05099997933755",
+      "title": "Don't You Worry Child",
+      "disambiguation": null,
+      "date": "2012-10-05",
+      "country": "US"
+    },
+    "total_tracks": 4,
+    "total_length": "20:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don't You Worry Child (radio edit)",
+            "length": "3:32",
+            "deezer": {
+              "id": 60842359,
+              "link": "https://www.deezer.com/track/60842359",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/8/0/2184ae5bfff6b4af12135560d359abe9.mp3?hdnea=exp=1795721104~acl=/api/1/1/2/1/8/0/2184ae5bfff6b4af12135560d359abe9.mp3*~data=user_id=0,application_id=42~hmac=80df246b17f3059d4ec62d2a3c3fa5d5359af060842037899b02b5c8e909c100",
+              "preview_expires": "2026-11-26T19:25:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Don't You Worry Child",
+            "length": "6:43",
+            "deezer": {
+              "id": 60842360,
+              "link": "https://www.deezer.com/track/60842360",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/c/0/72ca11af3f9f7848e3790a48b75ea02d.mp3?hdnea=exp=1795721104~acl=/api/1/1/7/2/c/0/72ca11af3f9f7848e3790a48b75ea02d.mp3*~data=user_id=0,application_id=42~hmac=767b97f926659317aeb517e3094af4e42b2bf153ce8c1dd5d811e39147a8bf96",
+              "preview_expires": "2026-11-26T19:25:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Don't You Worry Child (acoustic version)",
+            "length": "4:17",
+            "deezer": {
+              "id": 60842361,
+              "link": "https://www.deezer.com/track/60842361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/e/0/cee3134e9f08ad2e7a5299317badf30f.mp3?hdnea=exp=1795721104~acl=/api/1/1/c/e/e/0/cee3134e9f08ad2e7a5299317badf30f.mp3*~data=user_id=0,application_id=42~hmac=88eab543fdcc283ea1082ca4f52a9f31ea837dc78e58cd1dac5666a923a1ff82",
+              "preview_expires": "2026-11-26T19:25:04Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Save the World (Zedd remix)",
+            "length": "6:21",
+            "artist": "Swedish House Mafia",
+            "deezer": {
+              "id": 60842362,
+              "link": "https://www.deezer.com/track/60842362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/1/0/a51625ad3f2002f44b9e0d6b2c69889b.mp3?hdnea=exp=1795721104~acl=/api/1/1/a/5/1/0/a51625ad3f2002f44b9e0d6b2c69889b.mp3*~data=user_id=0,application_id=42~hmac=72b2197316418a3648f974ce633a75b997c78f3ea37ef3b94f1b848c7c97f404",
+              "preview_expires": "2026-11-26T19:25:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Swedish House Mafia/Don't You Worry Child.jpg"
+}

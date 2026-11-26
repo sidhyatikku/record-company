@@ -1,0 +1,215 @@
+{
+  "title": "Evolve",
+  "artist": "Sub Focus",
+  "year": 2023,
+  "release_date": "2023-05-12",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "electronic"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/02c0f62b-7c53-4e1e-9169-b816e8e67ad2",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003955364",
+    "deezer": "https://www.deezer.com/album/437761347"
+  },
+  "musicbrainz_id": "02c0f62b-7c53-4e1e-9169-b816e8e67ad2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2f02d4e6-ee06-4ff9-a228-ee6752c9ce1a",
+      "barcode": "0602455526175",
+      "title": "Evolve",
+      "disambiguation": "24-Bit/44.1 kHz",
+      "date": "2023-05-12",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "53:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Trip",
+            "length": "4:31",
+            "artist": "Sub Focus & Metrik",
+            "deezer": {
+              "id": 2269801517,
+              "link": "https://www.deezer.com/track/2269801517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/3/0/ef3a6ab279d30a00e826940de2451de0.mp3?hdnea=exp=1795721042~acl=/api/1/1/e/f/3/0/ef3a6ab279d30a00e826940de2451de0.mp3*~data=user_id=0,application_id=42~hmac=57e283b28bda482fdd97b84b9045021b92f0d9bce96a5865eddb76676d3f2977",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Calling for a Sign",
+            "length": "3:52",
+            "artist": "Sub Focus feat. Kelli‐Leigh",
+            "deezer": {
+              "id": 2269801527,
+              "link": "https://www.deezer.com/track/2269801527",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/b/0/68bc8a913a3b45cfa2d6089e7ff9be3a.mp3?hdnea=exp=1795721042~acl=/api/1/1/6/8/b/0/68bc8a913a3b45cfa2d6089e7ff9be3a.mp3*~data=user_id=0,application_id=42~hmac=d9d0d049a3744068f6987fd385a4c8ac4dd6f15ef93e68d5a9b2c41a5d12087b",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Fine Day",
+            "length": "3:53",
+            "deezer": {
+              "id": 2269801537,
+              "link": "https://www.deezer.com/track/2269801537",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/b/0/5abddd2170387ce4958807b0ddf95db0.mp3?hdnea=exp=1795721042~acl=/api/1/1/5/a/b/0/5abddd2170387ce4958807b0ddf95db0.mp3*~data=user_id=0,application_id=42~hmac=955061300a831393ee79f5a9bfbff70e87e9d38a2cc4039efb7c1da24a809fef",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Vibration (One More Time)",
+            "length": "4:03",
+            "artist": "Sub Focus feat. Arco",
+            "deezer": {
+              "id": 2269801547,
+              "link": "https://www.deezer.com/track/2269801547",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/a/0/2ca389d30b4d025f25d19709031f2d04.mp3?hdnea=exp=1795721042~acl=/api/1/1/2/c/a/0/2ca389d30b4d025f25d19709031f2d04.mp3*~data=user_id=0,application_id=42~hmac=349357e51e1eb46cecb2d7ff079d9e0cde2d4c00055b54bb79cd44d8a9adb5f7",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "It’s Time",
+            "length": "3:20",
+            "artist": "Sub Focus & Gene Farris",
+            "deezer": {
+              "id": 2269801557,
+              "link": "https://www.deezer.com/track/2269801557",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/6/0/fb6628aebcc4d21ddec8f1b1090139f5.mp3?hdnea=exp=1795721042~acl=/api/1/1/f/b/6/0/fb6628aebcc4d21ddec8f1b1090139f5.mp3*~data=user_id=0,application_id=42~hmac=b913d324dd767eb20399318373a0fd39e3ca8b8d3f35a22c0dedf3d8099eb278",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ready to Fly",
+            "length": "3:25",
+            "artist": "Sub Focus & Dimension",
+            "deezer": {
+              "id": 2269801567,
+              "link": "https://www.deezer.com/track/2269801567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/a/0/9aa2f7af2a0caea596880ffd5bf1bec9.mp3?hdnea=exp=1795721042~acl=/api/1/1/9/a/a/0/9aa2f7af2a0caea596880ffd5bf1bec9.mp3*~data=user_id=0,application_id=42~hmac=4b480e9b76bed6f52c86795c34f5eb4e8ec3a1f3bb3b858dddcde9b704c6167f",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Alarm",
+            "length": "3:07",
+            "artist": "Sub Focus feat. MC ID",
+            "deezer": {
+              "id": 2269801577,
+              "link": "https://www.deezer.com/track/2269801577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/e/0/b3e5753f2bbd187aef9ce30da711c16b.mp3?hdnea=exp=1795721042~acl=/api/1/1/b/3/e/0/b3e5753f2bbd187aef9ce30da711c16b.mp3*~data=user_id=0,application_id=42~hmac=38981171a4e3ae98daf064091f2010fd7d377936e801093d45f5014230c0a375",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Off the Ground",
+            "length": "4:03",
+            "deezer": {
+              "id": 2269801587,
+              "link": "https://www.deezer.com/track/2269801587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/2/0/272d5d6af5dd255802e44d8a82e7aafe.mp3?hdnea=exp=1795721042~acl=/api/1/1/2/7/2/0/272d5d6af5dd255802e44d8a82e7aafe.mp3*~data=user_id=0,application_id=42~hmac=1cf9000250b1c7a371560d064f221abfdb3467ae258ff7e6199412948a641cb1",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Waiting",
+            "length": "3:52",
+            "artist": "Sub Focus & Pola & Bryson feat. Kelli‐Leigh",
+            "deezer": {
+              "id": 2269801597,
+              "link": "https://www.deezer.com/track/2269801597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/6/0/ef67719ae6aa64dd373610daec32c5e2.mp3?hdnea=exp=1795721042~acl=/api/1/1/e/f/6/0/ef67719ae6aa64dd373610daec32c5e2.mp3*~data=user_id=0,application_id=42~hmac=9f1f3b5c046c49201c61e08d7fe27a2b08852c988f640ed4d6239254eead67c5",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I Found You",
+            "length": "2:57",
+            "artist": "Sub Focus feat. Hayla",
+            "deezer": {
+              "id": 2269801607,
+              "link": "https://www.deezer.com/track/2269801607",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/8/0/ae80ff235b2a82802bf3cefe175f3500.mp3?hdnea=exp=1795721042~acl=/api/1/1/a/e/8/0/ae80ff235b2a82802bf3cefe175f3500.mp3*~data=user_id=0,application_id=42~hmac=e315d1fbb824a201bba2beb7025bd7d5df25439b50917cdbfb73a98ffb035f67",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Secrets",
+            "length": "5:10",
+            "artist": "Sub Focus, CamelPhat & Culture Shock feat. Rhodesy",
+            "deezer": {
+              "id": 2269801617,
+              "link": "https://www.deezer.com/track/2269801617",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1ca6d6bd5350d17bcad9eaa55ea3527.mp3?hdnea=exp=1795721042~acl=/api/1/1/d/1/c/0/d1ca6d6bd5350d17bcad9eaa55ea3527.mp3*~data=user_id=0,application_id=42~hmac=5913ac064ab1ce9f0e949e0a54166c63bbee55b413377fcb952abc3a974e35f9",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Overcome",
+            "length": "2:57",
+            "artist": "Sub Focus feat. Frances",
+            "deezer": {
+              "id": 2269801627,
+              "link": "https://www.deezer.com/track/2269801627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f5690a5f3fd38b7340b00baee1f51fb.mp3?hdnea=exp=1795721042~acl=/api/1/1/0/f/5/0/0f5690a5f3fd38b7340b00baee1f51fb.mp3*~data=user_id=0,application_id=42~hmac=e5a1f810da7a374bd112505a94007ee690d23472fc213b4bb9235d53d3f42c27",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Don’t Want to Come Down",
+            "length": "3:54",
+            "artist": "Sub Focus feat. LOWES",
+            "deezer": {
+              "id": 2269801637,
+              "link": "https://www.deezer.com/track/2269801637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/6627fc1d930764abae046717e6de87fc.mp3?hdnea=exp=1795721042~acl=/api/1/1/6/6/2/0/6627fc1d930764abae046717e6de87fc.mp3*~data=user_id=0,application_id=42~hmac=0b3aef00c947c060146bc1adbd779b49f700f978b9439482347dc9de180c95a2",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Turn Up the Bass",
+            "length": "4:25",
+            "artist": "Sub Focus feat. Jonny L",
+            "deezer": {
+              "id": 2269801647,
+              "link": "https://www.deezer.com/track/2269801647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/0/0/b00a66c223bbd6d79b96348bc595c95f.mp3?hdnea=exp=1795721042~acl=/api/1/1/b/0/0/0/b00a66c223bbd6d79b96348bc595c95f.mp3*~data=user_id=0,application_id=42~hmac=e9c2f4f7d95211227d0939eb96f4b1b38e333fe9e82224dc0131592db9e4c893",
+              "preview_expires": "2026-11-26T19:24:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sub Focus/Evolve.jpg"
+}

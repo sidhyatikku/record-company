@@ -1,0 +1,204 @@
+{
+  "title": "What Came Before",
+  "artist": "Chase & Status",
+  "year": 2022,
+  "release_date": "2022-06-10",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "breakbeat",
+    "breaks",
+    "drum and bass",
+    "dubstep",
+    "electronic"
+  ],
+  "tags": [
+    "breakbeat",
+    "breaks",
+    "drum and bass",
+    "dubstep",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6af117aa-3a78-4d51-b4c3-e37692a04c43",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/2667695",
+    "deezer": "https://www.deezer.com/album/324247487"
+  },
+  "musicbrainz_id": "6af117aa-3a78-4d51-b4c3-e37692a04c43",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5ab6ce67-8f04-4258-8060-746dd3f434cd",
+      "barcode": "00602445589562",
+      "title": "What Came Before",
+      "disambiguation": "24 bit/48.0 kHz",
+      "date": "2022-06-10",
+      "country": null
+    },
+    "total_tracks": 13,
+    "total_length": "49:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don’t Be Scared",
+            "length": "3:58",
+            "artist": "Chase & Status feat. Takura",
+            "deezer": {
+              "id": 1776835757,
+              "link": "https://www.deezer.com/track/1776835757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/6/0/036d083c82a9d3fd7da99df94a3718c0.mp3?hdnea=exp=1795652723~acl=/api/1/1/0/3/6/0/036d083c82a9d3fd7da99df94a3718c0.mp3*~data=user_id=0,application_id=42~hmac=a760ab47d7972c1d7da120138ce6c8fa3716f342d820275ee5a695afb0f1eecf",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Go",
+            "length": "3:52",
+            "deezer": {
+              "id": 1776835767,
+              "link": "https://www.deezer.com/track/1776835767",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/a/0/97a1edee20a15bf30fc38f895d59d9c1.mp3?hdnea=exp=1795652723~acl=/api/1/1/9/7/a/0/97a1edee20a15bf30fc38f895d59d9c1.mp3*~data=user_id=0,application_id=42~hmac=856262c3eb01c5acd34c51a5458606f154f6fb854dea707ea3dd1bd94511b9bd",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Censor",
+            "length": "3:36",
+            "artist": "Chase & Status feat. Popcaan & IRAH",
+            "deezer": {
+              "id": 1776835777,
+              "link": "https://www.deezer.com/track/1776835777",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/8/0/a88221b9a97dd4633bf8c23f3d97be9a.mp3?hdnea=exp=1795652723~acl=/api/1/1/a/8/8/0/a88221b9a97dd4633bf8c23f3d97be9a.mp3*~data=user_id=0,application_id=42~hmac=ada15589e5e756b45bc4d73b2ea9049525fa1596711ff0edd6ac0b1168fed9c0",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mixed Emotions",
+            "length": "3:44",
+            "deezer": {
+              "id": 1776835787,
+              "link": "https://www.deezer.com/track/1776835787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/8/0/798cbf004c95a6aa0c820ce17d4d2d70.mp3?hdnea=exp=1795652723~acl=/api/1/1/7/9/8/0/798cbf004c95a6aa0c820ce17d4d2d70.mp3*~data=user_id=0,application_id=42~hmac=37365a8ddf2c2e4bbba97655abc08dff06e7830669f376a267917f7c7c7951ed",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Over & Done",
+            "length": "3:47",
+            "artist": "Chase & Status feat. Pip Millett",
+            "deezer": {
+              "id": 1776835797,
+              "link": "https://www.deezer.com/track/1776835797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/1/0/6013c8685ae720d64e4c96e96b21c38f.mp3?hdnea=exp=1795652723~acl=/api/1/1/6/0/1/0/6013c8685ae720d64e4c96e96b21c38f.mp3*~data=user_id=0,application_id=42~hmac=50f2c76a5793553901d0ca7cf142de8981ad8a9e65cad92866af206a9b11384a",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Run Up",
+            "length": "3:16",
+            "artist": "Chase & Status feat. Unknown T",
+            "deezer": {
+              "id": 1776835807,
+              "link": "https://www.deezer.com/track/1776835807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/4/0/b74bd491eda39d5bfa2db62fd459bb6d.mp3?hdnea=exp=1795652723~acl=/api/1/1/b/7/4/0/b74bd491eda39d5bfa2db62fd459bb6d.mp3*~data=user_id=0,application_id=42~hmac=ce8245dffbc94ae3519bc8cdda8d5f56b86df224ac9e5d6fcfec37080d272243",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "5am",
+            "length": "4:09",
+            "deezer": {
+              "id": 1776835817,
+              "link": "https://www.deezer.com/track/1776835817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/f/0/65f302980014ab3367e1640f004126ca.mp3?hdnea=exp=1795652723~acl=/api/1/1/6/5/f/0/65f302980014ab3367e1640f004126ca.mp3*~data=user_id=0,application_id=42~hmac=09c01638cd9e305b3227b6797645dbad84c8d514caf0c30f0aeebe5adfa02c3b",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Headtop",
+            "length": "4:19",
+            "artist": "Chase & Status feat. IRAH",
+            "deezer": {
+              "id": 1776835827,
+              "link": "https://www.deezer.com/track/1776835827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/0/0/8608e16fddf2835aec3b40a081fbcf9e.mp3?hdnea=exp=1795652723~acl=/api/1/1/8/6/0/0/8608e16fddf2835aec3b40a081fbcf9e.mp3*~data=user_id=0,application_id=42~hmac=7ce5c5497a0f8a25ceeacfab7bd39238bc1959c6ee3c21fe5e9226226fe0af58",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "When It Rains",
+            "length": "4:28",
+            "artist": "Chase & Status & BackRoad Gee",
+            "deezer": {
+              "id": 1776835837,
+              "link": "https://www.deezer.com/track/1776835837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/d/0/90d7c0a6f7c5a03b9febe44755778224.mp3?hdnea=exp=1795652723~acl=/api/1/1/9/0/d/0/90d7c0a6f7c5a03b9febe44755778224.mp3*~data=user_id=0,application_id=42~hmac=66401d19043fa2b728c39a7a8bdfb9272363499235920eebbca210eca373a08a",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Hold Your Ground",
+            "length": "3:24",
+            "artist": "Chase & Status feat. Ethan Holt",
+            "deezer": {
+              "id": 1776835847,
+              "link": "https://www.deezer.com/track/1776835847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/9/0/b99a670edd9119f297ef41469bf71a9b.mp3?hdnea=exp=1795652723~acl=/api/1/1/b/9/9/0/b99a670edd9119f297ef41469bf71a9b.mp3*~data=user_id=0,application_id=42~hmac=8712ae256649f1f1d702908b830a9e00a3bed6108332f1922e717e0b7b327b6b",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Blazer",
+            "length": "3:03",
+            "artist": "Chase & Status feat. IRAH",
+            "deezer": {
+              "id": 1776835857,
+              "link": "https://www.deezer.com/track/1776835857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/b/0/cdbb57d20c6fd27c0554d6f6f6ba89fe.mp3?hdnea=exp=1795652723~acl=/api/1/1/c/d/b/0/cdbb57d20c6fd27c0554d6f6f6ba89fe.mp3*~data=user_id=0,application_id=42~hmac=b0d9f7f32638d9e4fe5f78cee52c826f342aa7ea00cc8da30714a9d2757c7df2",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Consciousness",
+            "length": "4:07",
+            "deezer": {
+              "id": 1776835867,
+              "link": "https://www.deezer.com/track/1776835867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/b/0/5bbc685c7d8751aeefe40648dab405c5.mp3?hdnea=exp=1795652723~acl=/api/1/1/5/b/b/0/5bbc685c7d8751aeefe40648dab405c5.mp3*~data=user_id=0,application_id=42~hmac=bcb537c4d7e3e30b91285fc048ce762d8b8d180e3d49c4a7e66bb0978e278244",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Forgive Dark",
+            "length": "4:05",
+            "deezer": {
+              "id": 1776835877,
+              "link": "https://www.deezer.com/track/1776835877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/0/0/970b447e67e905711dc968df0aa2a132.mp3?hdnea=exp=1795652723~acl=/api/1/1/9/7/0/0/970b447e67e905711dc968df0aa2a132.mp3*~data=user_id=0,application_id=42~hmac=b07bd7a79366a116de70649c5209ec90cc44ede5013b93de9b16d909a27ee074",
+              "preview_expires": "2026-11-26T00:25:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chase & Status/What Came Before.jpg"
+}

@@ -1,0 +1,132 @@
+{
+  "title": "The Essence of Dave Brubeck",
+  "artist": "Dave Brubeck",
+  "year": 1991,
+  "release_date": "1991-10-01",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/32583728-fcb1-367c-b0a9-990477bf0ee5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/115746"
+  },
+  "musicbrainz_id": "32583728-fcb1-367c-b0a9-990477bf0ee5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/730b367f-92a3-4bc5-b454-7d7eebf8599c",
+      "barcode": null,
+      "title": "The Essence of Dave Brubeck",
+      "disambiguation": null,
+      "date": "1991-10-01",
+      "country": "US"
+    },
+    "total_tracks": 7,
+    "total_length": "41:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blue Rondo a la Turk",
+            "length": "6:47",
+            "artist": "The Dave Brubeck Quartet",
+            "deezer": {
+              "id": 1067757,
+              "link": "https://www.deezer.com/track/1067757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/a/0/e0ac2036368329ba975ef85e82582740.mp3?hdnea=exp=1795653147~acl=/api/1/1/e/0/a/0/e0ac2036368329ba975ef85e82582740.mp3*~data=user_id=0,application_id=42~hmac=ea2daa4cfa3fcc1a901bd55653b3db8124393cb2bcd286e0251d4d04daff59dc",
+              "preview_expires": "2026-11-26T00:32:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Take Five",
+            "length": "5:27",
+            "artist": "The Dave Brubeck Quartet",
+            "deezer": {
+              "id": 1066477,
+              "link": "https://www.deezer.com/track/1066477",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/0/0/ba07ba95943e3eb39194005d5371987c.mp3?hdnea=exp=1795653147~acl=/api/1/1/b/a/0/0/ba07ba95943e3eb39194005d5371987c.mp3*~data=user_id=0,application_id=42~hmac=99b3436e5aabb93a5c2a9176c6872af1045fcd8637d1aa3b081b1507fcca2119",
+              "preview_expires": "2026-11-26T00:32:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Maria",
+            "length": "3:18",
+            "artist": "The Dave Brubeck Quartet",
+            "deezer": {
+              "id": 1068365,
+              "link": "https://www.deezer.com/track/1068365",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/6/0/4161977fa719296ecbde59fa794078bb.mp3?hdnea=exp=1795653147~acl=/api/1/1/4/1/6/0/4161977fa719296ecbde59fa794078bb.mp3*~data=user_id=0,application_id=42~hmac=09b1539cfcb37b158ef2fe0be4108fb1ed116bd05bc4300f8a2b0855e5dccb77",
+              "preview_expires": "2026-11-26T00:32:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tangerine",
+            "length": "10:16",
+            "artist": "The Dave Brubeck Quartet",
+            "deezer": {
+              "id": 1065464,
+              "link": "https://www.deezer.com/track/1065464",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/8/0/6a883dce5f7524a8884568159a4b1a54.mp3?hdnea=exp=1795653147~acl=/api/1/1/6/a/8/0/6a883dce5f7524a8884568159a4b1a54.mp3*~data=user_id=0,application_id=42~hmac=7ce140feb92fb956e7d4841f858b3f9c97c49d7df9b2f3a5ac30e73ca01c43fe",
+              "preview_expires": "2026-11-26T00:32:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Gone With the Wind",
+            "length": "6:25",
+            "artist": "The Dave Brubeck Quartet",
+            "deezer": {
+              "id": 1066676,
+              "link": "https://www.deezer.com/track/1066676",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/2/0/db2fa4252e2b515d300bd2aa4676d3c5.mp3?hdnea=exp=1795653147~acl=/api/1/1/d/b/2/0/db2fa4252e2b515d300bd2aa4676d3c5.mp3*~data=user_id=0,application_id=42~hmac=3c629023c86a355396f9fab244fe898c43780ed7638b7579e6b0607abdeef54c",
+              "preview_expires": "2026-11-26T00:32:27Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Somewhere",
+            "length": "4:16",
+            "artist": "The Dave Brubeck Quartet",
+            "deezer": {
+              "id": 1068126,
+              "link": "https://www.deezer.com/track/1068126",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/d/0/edd6a6255f10395e2a7e685e4a8417e0.mp3?hdnea=exp=1795653147~acl=/api/1/1/e/d/d/0/edd6a6255f10395e2a7e685e4a8417e0.mp3*~data=user_id=0,application_id=42~hmac=7b7f4905f4bf117f861bc08f388457fc1391a57f09cb37a92a3c85497337437b",
+              "preview_expires": "2026-11-26T00:32:27Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Wonderful Copenhagen",
+            "length": "5:23",
+            "artist": "The Dave Brubeck Quartet",
+            "deezer": {
+              "id": 1065469,
+              "link": "https://www.deezer.com/track/1065469",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/8/0/728cf417a9fa310a093ad3c6013d458c.mp3?hdnea=exp=1795653147~acl=/api/1/1/7/2/8/0/728cf417a9fa310a093ad3c6013d458c.mp3*~data=user_id=0,application_id=42~hmac=2d8ff003723007ead5685f383cc4f01ca7a0f93b84094df8ff603ad568518a10",
+              "preview_expires": "2026-11-26T00:32:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dave Brubeck/I Like Jazz- The Essence Of Dave Brubeck.jpg"
+}

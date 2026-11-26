@@ -1,0 +1,150 @@
+{
+  "title": "A Mixtape by Anish Kumar",
+  "artist": "Anish Kumar",
+  "year": 2023,
+  "release_date": "2023-08-25",
+  "type": "Album + Mixtape/Street",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/71812d22-f803-4808-bc95-2531a06dbec4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/440805107"
+  },
+  "musicbrainz_id": "71812d22-f803-4808-bc95-2531a06dbec4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/894ec1e8-5889-4bd5-8f25-5270e22b0584",
+      "barcode": "197188848675",
+      "title": "A Mixtape by Anish Kumar",
+      "disambiguation": null,
+      "date": "2023-08-25",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "34:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Praise",
+            "length": "2:51",
+            "deezer": {
+              "id": 2281544257,
+              "link": "https://www.deezer.com/track/2281544257",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/3/0/463c4e59de517dd0088ec3b6d0c59f62.mp3?hdnea=exp=1795649183~acl=/api/1/1/4/6/3/0/463c4e59de517dd0088ec3b6d0c59f62.mp3*~data=user_id=0,application_id=42~hmac=5455f3d88bb11e507deba9293a712e36d0d687f27e8e40f81e5aff113c2de691",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Little Miss Dynamite",
+            "length": "3:15",
+            "deezer": {
+              "id": 2281544267,
+              "link": "https://www.deezer.com/track/2281544267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/1/0/f31b1654bdf89bde0f896ec966f5babd.mp3?hdnea=exp=1795649183~acl=/api/1/1/f/3/1/0/f31b1654bdf89bde0f896ec966f5babd.mp3*~data=user_id=0,application_id=42~hmac=1f1b6d3653ea2d29e0a8ab2de373e9bd6bd7fa62323fc1a512531aa84a0f12b8",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sweetheart (Never Have I Struggled So Hard)",
+            "length": "4:44",
+            "deezer": {
+              "id": 2281544277,
+              "link": "https://www.deezer.com/track/2281544277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/0/0/ec0467b818ff671102f1c71fc1e74a1b.mp3?hdnea=exp=1795649183~acl=/api/1/1/e/c/0/0/ec0467b818ff671102f1c71fc1e74a1b.mp3*~data=user_id=0,application_id=42~hmac=a7107ce6fc9e465bf4954e44220c84c1639047fe9d8a8b796d39ea4853f3f05d",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Care About Me",
+            "length": "3:33",
+            "deezer": {
+              "id": 2281544287,
+              "link": "https://www.deezer.com/track/2281544287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/b/0/eebae630a802d15cae55cd6ed811c832.mp3?hdnea=exp=1795649183~acl=/api/1/1/e/e/b/0/eebae630a802d15cae55cd6ed811c832.mp3*~data=user_id=0,application_id=42~hmac=40361574e3dc66fc8792243ec5ad16599f963bd6a5b2d3d102689aba1bdca52a",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Without Further Ado",
+            "length": "2:02",
+            "deezer": {
+              "id": 2281544297,
+              "link": "https://www.deezer.com/track/2281544297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/8/0/ca8a976ac718ac72f1455d4918e474fa.mp3?hdnea=exp=1795649183~acl=/api/1/1/c/a/8/0/ca8a976ac718ac72f1455d4918e474fa.mp3*~data=user_id=0,application_id=42~hmac=262da1f121a08857d78cdcf007c9d713b6bf3d051c4ba0c09d2e6fc95e3ced39",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Nobody Else Will Do",
+            "length": "3:34",
+            "deezer": {
+              "id": 2281544307,
+              "link": "https://www.deezer.com/track/2281544307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/6/0/8f6ae669d71e81a678f842fe1f0c0375.mp3?hdnea=exp=1795649183~acl=/api/1/1/8/f/6/0/8f6ae669d71e81a678f842fe1f0c0375.mp3*~data=user_id=0,application_id=42~hmac=99063d8b2059b4523c0e303f1637c7f8c77365a23b3a6593ace0bd1b21c2f7a3",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mayfield Blues",
+            "length": "3:43",
+            "deezer": {
+              "id": 2281544317,
+              "link": "https://www.deezer.com/track/2281544317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/f/0/ddfd2db9c81adbd93fb1571cb1d6acfb.mp3?hdnea=exp=1795649183~acl=/api/1/1/d/d/f/0/ddfd2db9c81adbd93fb1571cb1d6acfb.mp3*~data=user_id=0,application_id=42~hmac=fd070998059555f745f48b828eccbe7c72cb64657fa62522158cd1f9f5358b2c",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Marabelle",
+            "length": "4:12",
+            "deezer": {
+              "id": 2281544327,
+              "link": "https://www.deezer.com/track/2281544327",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/2/0/c92aad73130438dfae523160dcda5933.mp3?hdnea=exp=1795649183~acl=/api/1/1/c/9/2/0/c92aad73130438dfae523160dcda5933.mp3*~data=user_id=0,application_id=42~hmac=72eb24314566fa03c37cda750aea45b0354c7f8ed1302b6e0c9b7391b69e49cd",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Workin’ Late",
+            "length": "1:42",
+            "deezer": {
+              "id": 2281544337,
+              "link": "https://www.deezer.com/track/2281544337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/c/0/4ccc1bbb917a40ddffdb8cbf1a03bcb7.mp3?hdnea=exp=1795649183~acl=/api/1/1/4/c/c/0/4ccc1bbb917a40ddffdb8cbf1a03bcb7.mp3*~data=user_id=0,application_id=42~hmac=0daa6a6607f05aa4549212df7e6b99e013305e1ee4b495a45a19adec23533687",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "La Chanteuse",
+            "length": "5:09",
+            "deezer": {
+              "id": 2281544347,
+              "link": "https://www.deezer.com/track/2281544347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/a/0/aba804a49919ad03224e9e6ac961a8a0.mp3?hdnea=exp=1795649183~acl=/api/1/1/a/b/a/0/aba804a49919ad03224e9e6ac961a8a0.mp3*~data=user_id=0,application_id=42~hmac=20fb23cbaba2ef151cfa1987d57e0ade3eb35fdb7d70ff45bdc2f6735f53806e",
+              "preview_expires": "2026-11-25T23:26:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/A Mixtape by Anish Kumar.jpg"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Damager",
+  "artist": "Sammy Virji & Interplanetary Criminal",
+  "year": 2024,
+  "release_date": "2024-11-15",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "speed garage"
+  ],
+  "tags": [
+    "speed garage"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c402c445-7a7d-43df-af0a-23634e08a974",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/667133361"
+  },
+  "musicbrainz_id": "c402c445-7a7d-43df-af0a-23634e08a974",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ecccd105-1a1e-4d05-a106-8523531d349c",
+      "barcode": "00602475377535",
+      "title": "Damager",
+      "disambiguation": null,
+      "date": "2024-11-15",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Damager",
+            "length": "3:45",
+            "deezer": {
+              "id": 3080809801,
+              "link": "https://www.deezer.com/track/3080809801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/2/0/d020215fffd00098fb6e2874357f081f.mp3?hdnea=exp=1795720306~acl=/api/1/1/d/0/2/0/d020215fffd00098fb6e2874357f081f.mp3*~data=user_id=0,application_id=42~hmac=21634d09ee1b29fe52fb4378b1f916cf2cb06f1620b94c74bf1cb8cb126ed3c3",
+              "preview_expires": "2026-11-26T19:11:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sammy Virji/Damager.jpg"
+}

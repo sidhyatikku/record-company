@@ -1,0 +1,55 @@
+{
+  "title": "Drugs From Amsterdam",
+  "artist": "Mau P",
+  "year": 2022,
+  "release_date": "2022-08-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "tech house"
+  ],
+  "tags": [
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/70b4c670-698b-415c-bed6-813de274ffa1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/356685757"
+  },
+  "musicbrainz_id": "70b4c670-698b-415c-bed6-813de274ffa1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/310283b2-a6e1-457a-80ab-24b2654617de",
+      "barcode": "5060972802588",
+      "title": "Drugs From Amsterdam",
+      "disambiguation": "original mix",
+      "date": "2022-08-19",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "5:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Drugs From Amsterdam (original mix)",
+            "length": "5:23",
+            "deezer": {
+              "id": 1914037957,
+              "link": "https://www.deezer.com/track/1914037957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/4/0/0447a6c946d8b217063f8ca6017455a3.mp3?hdnea=exp=1795718328~acl=/api/1/1/0/4/4/0/0447a6c946d8b217063f8ca6017455a3.mp3*~data=user_id=0,application_id=42~hmac=6c106aebd6054590471468a1079581a8e9f49f0174efa2fad2327b74f250a674",
+              "preview_expires": "2026-11-26T18:38:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mau P/Drugs From Amsterdam.jpg"
+}

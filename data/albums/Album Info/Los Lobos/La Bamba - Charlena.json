@@ -1,0 +1,88 @@
+{
+  "title": "La Bamba",
+  "artist": "Los Lobos",
+  "year": 1987,
+  "release_date": "1987",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "classic rock",
+    "latin",
+    "latin rock",
+    "pop rock",
+    "rock",
+    "rock and roll",
+    "son jarocho",
+    "tejano",
+    "tex-mex"
+  ],
+  "tags": [
+    "classic rock",
+    "latin",
+    "latin rock",
+    "pop rock",
+    "rock",
+    "rock and roll",
+    "son jarocho",
+    "tejano",
+    "tex-mex",
+    "поп"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6dfc364e-1648-348e-876e-9696bf151348",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/102087",
+    "deezer": "https://www.deezer.com/album/356110"
+  },
+  "musicbrainz_id": "6dfc364e-1648-348e-876e-9696bf151348",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b95eec11-cd08-4073-8ad4-ff1ff710be6b",
+      "barcode": "603497973842",
+      "title": "La Bamba",
+      "disambiguation": null,
+      "date": "2009-07-03",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "5:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A",
+            "title": "La Bamba",
+            "length": "2:54",
+            "deezer": {
+              "id": 3819736,
+              "link": "https://www.deezer.com/track/3819736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/9/0/f99fe7582d1c44dd2c3be0794fa81eaf.mp3?hdnea=exp=1795656613~acl=/api/1/1/f/9/9/0/f99fe7582d1c44dd2c3be0794fa81eaf.mp3*~data=user_id=0,application_id=42~hmac=6f41a55d46777ab7c02497b49b55ecefdb3fd587b388b749525cf7f57cfb8987",
+              "preview_expires": "2026-11-26T01:30:13Z"
+            }
+          },
+          {
+            "number": "B",
+            "title": "Charlena",
+            "length": "2:46",
+            "deezer": {
+              "id": 3819737,
+              "link": "https://www.deezer.com/track/3819737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/9/0/b592784179660bab873e93b36a2e8177.mp3?hdnea=exp=1795656613~acl=/api/1/1/b/5/9/0/b592784179660bab873e93b36a2e8177.mp3*~data=user_id=0,application_id=42~hmac=589e732595e17322d3e75f6ef6bbbacf529fb84fab4552319307e81a5bd35def",
+              "preview_expires": "2026-11-26T01:30:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Los Lobos/La Bamba - Charlena.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Feelin’ It",
+  "artist": "Jaÿ‐Z",
+  "year": 1996,
+  "release_date": "1996",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/558f2910-f89c-4dd6-a78c-a302b56c9075",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/46746",
+    "deezer": "https://www.deezer.com/album/958978021"
+  },
+  "musicbrainz_id": "558f2910-f89c-4dd6-a78c-a302b56c9075",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b7b0d360-6b72-4da8-b825-3a2f3a716b4b",
+      "barcode": "810058344007",
+      "title": "Feelin’ It",
+      "disambiguation": null,
+      "date": "2026-04-15",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "7:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Feelin’ It",
+            "length": "3:47",
+            "artist": "JAŸ‐Z feat. Mecca",
+            "deezer": {
+              "id": 3954120741,
+              "link": "https://www.deezer.com/track/3954120741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/8/0/d78421df6d3a5e5eba09dff6c9a018be.mp3?hdnea=exp=1795655502~acl=/api/1/1/d/7/8/0/d78421df6d3a5e5eba09dff6c9a018be.mp3*~data=user_id=0,application_id=42~hmac=e6da33803cef52c0575a24d1e2e87afa231ad23017914810e681b8a2bf414bd7",
+              "preview_expires": "2026-11-26T01:11:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Feelin’ It (radio edit)",
+            "length": "3:47",
+            "artist": "JAŸ‐Z feat. Mecca",
+            "deezer": {
+              "id": 3954120751,
+              "link": "https://www.deezer.com/track/3954120751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/8/0/4e8da74fba2b7ac8e718150b769d7e07.mp3?hdnea=exp=1795655502~acl=/api/1/1/4/e/8/0/4e8da74fba2b7ac8e718150b769d7e07.mp3*~data=user_id=0,application_id=42~hmac=0798ccc08499c6c4f02a6d394eba7d018997931443721318a26bad426f00604f",
+              "preview_expires": "2026-11-26T01:11:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/JAŸ-Z/Feelin' It.jpg"
+}

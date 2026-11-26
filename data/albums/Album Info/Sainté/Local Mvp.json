@@ -1,0 +1,86 @@
+{
+  "title": "Local MVP",
+  "artist": "Sainté",
+  "year": 2021,
+  "release_date": "2021-01-06",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [
+    "rap"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0bfa3624-d3ef-400a-945d-d744a44b16d2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/242120262"
+  },
+  "musicbrainz_id": "0bfa3624-d3ef-400a-945d-d744a44b16d2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8fd6c91f-170b-4512-8b9a-3e1691218538",
+      "barcode": "3616557350528",
+      "title": "Local MVP",
+      "disambiguation": null,
+      "date": "2021-01-06",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "9:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stylin'",
+            "length": "2:38",
+            "deezer": {
+              "id": 1424363752,
+              "link": "https://www.deezer.com/track/1424363752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/4/0/1842812131a74cbf945fac3d86947668.mp3?hdnea=exp=1795720253~acl=/api/1/1/1/8/4/0/1842812131a74cbf945fac3d86947668.mp3*~data=user_id=0,application_id=42~hmac=4c120266fe1ba482825fcf81c8f2182bfc6ce85b6dbab6b1f3806df4444d570e",
+              "preview_expires": "2026-11-26T19:10:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hunnids",
+            "length": "2:46",
+            "deezer": {
+              "id": 1424363762,
+              "link": "https://www.deezer.com/track/1424363762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/4/0/bc486a541150069230f813895f7418f4.mp3?hdnea=exp=1795720253~acl=/api/1/1/b/c/4/0/bc486a541150069230f813895f7418f4.mp3*~data=user_id=0,application_id=42~hmac=0b19489e668b6eceff31fab9d660a9a512414f517db7deaaf1d5b744b47e7f08",
+              "preview_expires": "2026-11-26T19:10:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "On Me",
+            "length": "1:58",
+            "deezer": {
+              "id": 1424363772,
+              "link": "https://www.deezer.com/track/1424363772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/c/0/47c393c66cc98660a0fe2b92d0573035.mp3?hdnea=exp=1795720253~acl=/api/1/1/4/7/c/0/47c393c66cc98660a0fe2b92d0573035.mp3*~data=user_id=0,application_id=42~hmac=f6bb1065733150785214346feeb64a5b7ee56a5a8515d3e2ea6c7fc6413d4068",
+              "preview_expires": "2026-11-26T19:10:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Champagne Shots",
+            "length": "2:24",
+            "deezer": {
+              "id": 1424363782,
+              "link": "https://www.deezer.com/track/1424363782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/5/0/fd5fcf8064e936e35cf4afaac5e802f7.mp3?hdnea=exp=1795720253~acl=/api/1/1/f/d/5/0/fd5fcf8064e936e35cf4afaac5e802f7.mp3*~data=user_id=0,application_id=42~hmac=2b48d62c938d80e2c0738e3d830e401fb204bcf5e1c54cd659767d50f6a1b965",
+              "preview_expires": "2026-11-26T19:10:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sainté/Local Mvp.jpg"
+}

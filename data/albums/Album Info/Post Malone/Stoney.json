@@ -1,0 +1,262 @@
+{
+  "title": "Stoney",
+  "artist": "Post Malone",
+  "year": 2016,
+  "release_date": "2016-12-09",
+  "type": "Album",
+  "description": "Stoney is the debut studio album by the American musician Post Malone, released on December 9, 2016, by Republic Records. After rising to prominence with his debut single \"White Iverson\" in 2015, Malone signed to Republic and began working on his debut album. His debut mixtape, August 26th, was released in May 2016. It was titled after the original planned release date for Stoney, though it was subsequently delayed. The album features guest appearances from Justin Bieber, Kehlani, and Quavo. Production was handled by a variety of record producers, including Malone himself, Louis Bell, Frank Dukes, FKi 1st, Charlie Handsome, Illangelo, Metro Boomin, Mustard, Roofeeo, Leon Thomas III, Pharrell Williams, and Vinylz, among others.",
+  "genres": [
+    "hip hop",
+    "cloud rap",
+    "contemporary r&b",
+    "pop",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "cloud rap",
+    "contemporary r&b",
+    "melodic rap",
+    "pop",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 3.75,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stoney_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002997061",
+    "discogs": "https://www.discogs.com/master/1104653",
+    "wikidata": "https://www.wikidata.org/wiki/Q28228892",
+    "deezer": "https://www.deezer.com/album/14781033"
+  },
+  "musicbrainz_id": "3843ba6a-0b1e-48c0-bc86-2f64e6d9525c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/be737efb-043a-4049-8a12-0824c0799e90",
+      "barcode": "00602557261684",
+      "title": "Stoney",
+      "disambiguation": "deluxe edition, explicit",
+      "date": "2016-12-09",
+      "country": "XW"
+    },
+    "total_tracks": 18,
+    "total_length": "1:08:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Broken Whiskey Glass",
+            "length": "3:54",
+            "deezer": {
+              "id": 137726965,
+              "link": "https://www.deezer.com/track/137726965",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/d/0/edd6adf6bb36ab2ae9ff6a778d2eb97a.mp3?hdnea=exp=1795719655~acl=/api/1/1/e/d/d/0/edd6adf6bb36ab2ae9ff6a778d2eb97a.mp3*~data=user_id=0,application_id=42~hmac=67877bf59e6dd8c03a9cb67fa2b827a68bd707cea0477ec175e6ec3b2375ea18",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Big Lie",
+            "length": "3:28",
+            "deezer": {
+              "id": 137726967,
+              "link": "https://www.deezer.com/track/137726967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/a/0/f1a443de144525d20666e19b7d2c4ab5.mp3?hdnea=exp=1795719655~acl=/api/1/1/f/1/a/0/f1a443de144525d20666e19b7d2c4ab5.mp3*~data=user_id=0,application_id=42~hmac=450980e0d918c901a3f871e153235aebcb14f37005c9829b4dcdfb7c7ab18897",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Deja Vu",
+            "length": "3:54",
+            "artist": "Post Malone feat. Justin Bieber",
+            "deezer": {
+              "id": 137726969,
+              "link": "https://www.deezer.com/track/137726969",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/5/0/765cb335f3d3a841baaf765187b11516.mp3?hdnea=exp=1795719655~acl=/api/1/1/7/6/5/0/765cb335f3d3a841baaf765187b11516.mp3*~data=user_id=0,application_id=42~hmac=2422bc396d6548cd3f0a205fccf3d3422aa4657480410aad17244dd52adeaa9a",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "No Option",
+            "length": "3:00",
+            "deezer": {
+              "id": 137726971,
+              "link": "https://www.deezer.com/track/137726971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/8/0/03856c4af33ba657beb8494939b18753.mp3?hdnea=exp=1795719655~acl=/api/1/1/0/3/8/0/03856c4af33ba657beb8494939b18753.mp3*~data=user_id=0,application_id=42~hmac=9b5dcf9d1772f15f34c629fd5f3e547451eda44c0b38d34a69c3d1962ed884f2",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Cold",
+            "length": "4:29",
+            "deezer": {
+              "id": 137726973,
+              "link": "https://www.deezer.com/track/137726973",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/e/0/63e66f6d9e398f4d139e55897ec37c7b.mp3?hdnea=exp=1795719655~acl=/api/1/1/6/3/e/0/63e66f6d9e398f4d139e55897ec37c7b.mp3*~data=user_id=0,application_id=42~hmac=ad7c6cd31a00d5ed981b8096e150986fb0f8fce1df82203d6e94c958ae8a0289",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "White Iverson",
+            "length": "4:17",
+            "deezer": {
+              "id": 137726975,
+              "link": "https://www.deezer.com/track/137726975",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/b/0/9eb7273be3cbbbaec07702b8b882327c.mp3?hdnea=exp=1795719655~acl=/api/1/1/9/e/b/0/9eb7273be3cbbbaec07702b8b882327c.mp3*~data=user_id=0,application_id=42~hmac=c1d35ee08079a7d914e2d8b4b6e2888c77364f54af3740fae2a91ab83b3ae4dc",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Fall Apart",
+            "length": "3:43",
+            "deezer": {
+              "id": 137726977,
+              "link": "https://www.deezer.com/track/137726977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/3/0/ff3078ffa8575a2c7b1faf60f78a0e0e.mp3?hdnea=exp=1795719655~acl=/api/1/1/f/f/3/0/ff3078ffa8575a2c7b1faf60f78a0e0e.mp3*~data=user_id=0,application_id=42~hmac=31d27ce7a17f9f2ac2fbd95e38d7bf8203693911e9e3154e1b714b1f0affdc06",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Patient",
+            "length": "3:14",
+            "deezer": {
+              "id": 137726979,
+              "link": "https://www.deezer.com/track/137726979",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/5/0/d5560259145a8256ecfade32c988202a.mp3?hdnea=exp=1795719655~acl=/api/1/1/d/5/5/0/d5560259145a8256ecfade32c988202a.mp3*~data=user_id=0,application_id=42~hmac=eacf8b70ad49d5ae0f260786b435122f9112d84cd8f00949970e74e298e725dd",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Go Flex",
+            "length": "3:00",
+            "deezer": {
+              "id": 137726981,
+              "link": "https://www.deezer.com/track/137726981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/e/0/b3e3e79f472486dd98fd7a875a019339.mp3?hdnea=exp=1795719655~acl=/api/1/1/b/3/e/0/b3e3e79f472486dd98fd7a875a019339.mp3*~data=user_id=0,application_id=42~hmac=035b2b17f392708bc42882d5ef04984777e0ffb06c870595d632d92dd63ca650",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Feel",
+            "length": "3:17",
+            "artist": "Post Malone feat. Kehlani",
+            "deezer": {
+              "id": 137726983,
+              "link": "https://www.deezer.com/track/137726983",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/5/0/bb509155a2faf0c2d3c333423f6f1cf3.mp3?hdnea=exp=1795719655~acl=/api/1/1/b/b/5/0/bb509155a2faf0c2d3c333423f6f1cf3.mp3*~data=user_id=0,application_id=42~hmac=2244ecc67fd397a13825e0d5f918636b9e475f3b300a42bff72b1bd913aa8170",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Too Young",
+            "length": "3:57",
+            "deezer": {
+              "id": 137726985,
+              "link": "https://www.deezer.com/track/137726985",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/9/0/9a99ba35c5f2b4dc11d5f241c9f3ba72.mp3?hdnea=exp=1795719655~acl=/api/1/1/9/a/9/0/9a99ba35c5f2b4dc11d5f241c9f3ba72.mp3*~data=user_id=0,application_id=42~hmac=9eceac4e921e729feaacb69be3abbb0e1fdfdd06c5f6223b553d183bcb0f03f9",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Congratulations",
+            "length": "3:40",
+            "artist": "Post Malone feat. Quavo",
+            "deezer": {
+              "id": 137726987,
+              "link": "https://www.deezer.com/track/137726987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/8/0/048ae8d8b4af0088e6413ee244de79d7.mp3?hdnea=exp=1795719655~acl=/api/1/1/0/4/8/0/048ae8d8b4af0088e6413ee244de79d7.mp3*~data=user_id=0,application_id=42~hmac=79edfb0e5f2cf849f38023c67267288209d348397515e2fe925bacacc20bb9bc",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Up There",
+            "length": "3:15",
+            "deezer": {
+              "id": 137726989,
+              "link": "https://www.deezer.com/track/137726989",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/8/0/fd8abf189365b25c710508e1c3bf7f21.mp3?hdnea=exp=1795719655~acl=/api/1/1/f/d/8/0/fd8abf189365b25c710508e1c3bf7f21.mp3*~data=user_id=0,application_id=42~hmac=ac154ad7282ec91ed25196fd70aaf51d03a7a8fdf10ead83715cec42db4b4c9b",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Yours Truly, Austin Post",
+            "length": "3:39",
+            "deezer": {
+              "id": 137726991,
+              "link": "https://www.deezer.com/track/137726991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/f/0/03f2e82be4f7f1c501ee1be028c21f5d.mp3?hdnea=exp=1795719655~acl=/api/1/1/0/3/f/0/03f2e82be4f7f1c501ee1be028c21f5d.mp3*~data=user_id=0,application_id=42~hmac=d9acc728fd8868132050215a9e7de512dbd302cfdc6951cd735073eaa93d2ee6",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Leave",
+            "length": "5:25",
+            "deezer": {
+              "id": 137726993,
+              "link": "https://www.deezer.com/track/137726993",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/b/0/4bb80373ad7c4c5b2138d4ec1e3b9920.mp3?hdnea=exp=1795719655~acl=/api/1/1/4/b/b/0/4bb80373ad7c4c5b2138d4ec1e3b9920.mp3*~data=user_id=0,application_id=42~hmac=1df25aeb12fa320cd7dacc2cd00d56f786cb6f69faea97eee579f05b129ce399",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Hit This Hard",
+            "length": "4:10",
+            "deezer": {
+              "id": 137726995,
+              "link": "https://www.deezer.com/track/137726995",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2bb49fb9ea3f62ab2d5d12d1400347.mp3?hdnea=exp=1795719655~acl=/api/1/1/b/c/2/0/bc2bb49fb9ea3f62ab2d5d12d1400347.mp3*~data=user_id=0,application_id=42~hmac=3c0e816a1d85f87e2c6151f054e05c7c040c333c5623668afe25dee4e9a3ea9e",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Money Made Me Do It",
+            "length": "3:46",
+            "artist": "Post Malone feat. 2 Chainz",
+            "deezer": {
+              "id": 137726997,
+              "link": "https://www.deezer.com/track/137726997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/0/0/b7080b37efbadc67d09e48ac07fbf2d4.mp3?hdnea=exp=1795719655~acl=/api/1/1/b/7/0/0/b7080b37efbadc67d09e48ac07fbf2d4.mp3*~data=user_id=0,application_id=42~hmac=0ee451ad24c916ad6d16073fefc54693679e6bf90f9cbcd8eb6779c5763659db",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Feeling Whitney",
+            "length": "4:18",
+            "deezer": {
+              "id": 137726999,
+              "link": "https://www.deezer.com/track/137726999",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/8/0/488cc944cac6913dcfd6ff91f9c05afb.mp3?hdnea=exp=1795719655~acl=/api/1/1/4/8/8/0/488cc944cac6913dcfd6ff91f9c05afb.mp3*~data=user_id=0,application_id=42~hmac=b703cd523a9acef99f0662febc1b50be9888464931eac7cc20e5519286f815d8",
+              "preview_expires": "2026-11-26T19:00:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Post Malone/Stoney.jpg"
+}

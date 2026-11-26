@@ -1,0 +1,182 @@
+{
+  "title": "Songs of Innocence",
+  "artist": "U2",
+  "year": 2014,
+  "release_date": "2014-09-09",
+  "type": "Album",
+  "description": "Songs of Innocence is the thirteenth studio album by the Irish rock band U2, released on 9 September 2014. It was produced by Danger Mouse, with additional production from Paul Epworth, Ryan Tedder, Declan Gaffney, and Flood. After the surprise announcement of the album at an Apple product launch event, it was digitally released the same day to all iTunes Store customers at no cost. It was exclusive to iTunes, iTunes Radio, and Beats Music until 13 October 2014, when it was released to retailers by Island and Interscope Records. The digital release made the record available to more than 500 million iTunes customers, for what Apple's CEO Tim Cook called \"the largest album release of all time\".",
+  "genres": [
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "pop",
+    "soft rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "album rock",
+    "pop",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.95,
+    "votes": 15
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e3f3f2c0-6fa8-4098-8aad-d82209c34973",
+    "wikipedia": "https://en.wikipedia.org/wiki/Songs_of_Innocence_(U2_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002749764",
+    "discogs": "https://www.discogs.com/master/739134",
+    "wikidata": "https://www.wikidata.org/wiki/Q14037150",
+    "deezer": "https://www.deezer.com/album/52723552"
+  },
+  "musicbrainz_id": "e3f3f2c0-6fa8-4098-8aad-d82209c34973",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/92123233-321f-469d-8ec0-f873d068d6cb",
+      "barcode": "00602547069511",
+      "title": "Songs of Innocence",
+      "disambiguation": null,
+      "date": "2014-09-09",
+      "country": null
+    },
+    "total_tracks": 11,
+    "total_length": "48:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Miracle (of Joey Ramone)",
+            "length": "4:15",
+            "deezer": {
+              "id": 436230112,
+              "link": "https://www.deezer.com/track/436230112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/0/0/d60019c36905cd859504b8cc77931bf9.mp3?hdnea=exp=1795722103~acl=/api/1/1/d/6/0/0/d60019c36905cd859504b8cc77931bf9.mp3*~data=user_id=0,application_id=42~hmac=d9e33f800b5811a6eebdfa8dfe3547598a005cbded6b56db9ecfe553d198fd2c",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Every Breaking Wave",
+            "length": "4:12",
+            "deezer": {
+              "id": 436230122,
+              "link": "https://www.deezer.com/track/436230122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/b/0/a7b2020137d6137e92ec77e5e6818279.mp3?hdnea=exp=1795722103~acl=/api/1/1/a/7/b/0/a7b2020137d6137e92ec77e5e6818279.mp3*~data=user_id=0,application_id=42~hmac=5f2a9cc26eeaed625f771a84ac06a0d01fcb4697cf1ead5fb5e6e4f812559f23",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "California (There Is No End to Love)",
+            "length": "4:00",
+            "deezer": {
+              "id": 436230132,
+              "link": "https://www.deezer.com/track/436230132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/f/0/65f9edbbc28fc76d15b7e53cf335e9c0.mp3?hdnea=exp=1795722103~acl=/api/1/1/6/5/f/0/65f9edbbc28fc76d15b7e53cf335e9c0.mp3*~data=user_id=0,application_id=42~hmac=1fb22cb95c7ce5afd1d6aaa6a66e05deee7ee039b64736aa97a80097e813540f",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Song for Someone",
+            "length": "3:47",
+            "deezer": {
+              "id": 436230142,
+              "link": "https://www.deezer.com/track/436230142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/0/0/5a0ddd7153faccdad131127607611ec7.mp3?hdnea=exp=1795722103~acl=/api/1/1/5/a/0/0/5a0ddd7153faccdad131127607611ec7.mp3*~data=user_id=0,application_id=42~hmac=7b3489ddd9d528f85abfdf5fe83808cc68a398eb59bd6e3ebb1dd41c7f393727",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Iris (Hold Me Close)",
+            "length": "5:19",
+            "deezer": {
+              "id": 436230152,
+              "link": "https://www.deezer.com/track/436230152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/7/0/ec7c4df820242eedef8b6336539b845a.mp3?hdnea=exp=1795722103~acl=/api/1/1/e/c/7/0/ec7c4df820242eedef8b6336539b845a.mp3*~data=user_id=0,application_id=42~hmac=61a91c65d4142941f5b91ef560fdce25f201e0361be6dc6205ae57b0cb0f054b",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Volcano",
+            "length": "3:14",
+            "deezer": {
+              "id": 436230162,
+              "link": "https://www.deezer.com/track/436230162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/4/0/b64d593be3b488c3a75cd1891f3e7afd.mp3?hdnea=exp=1795722103~acl=/api/1/1/b/6/4/0/b64d593be3b488c3a75cd1891f3e7afd.mp3*~data=user_id=0,application_id=42~hmac=4bb1cde52c4be1f55c75c045fc7d0ebff542fca321bc210046f60b6fb791d165",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Raised by Wolves",
+            "length": "4:06",
+            "deezer": {
+              "id": 436230172,
+              "link": "https://www.deezer.com/track/436230172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/5/0/3d58dbe9eb8b94ca8c21488973405e9f.mp3?hdnea=exp=1795722103~acl=/api/1/1/3/d/5/0/3d58dbe9eb8b94ca8c21488973405e9f.mp3*~data=user_id=0,application_id=42~hmac=f3918cccc453b2ab2ef44e354242cb95ab13e6325f2b7cb0b915de3daebd692d",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cedarwood Road",
+            "length": "4:25",
+            "deezer": {
+              "id": 436230182,
+              "link": "https://www.deezer.com/track/436230182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/6/0/8f6f12a05327b1f035e25483bb22b7ea.mp3?hdnea=exp=1795722103~acl=/api/1/1/8/f/6/0/8f6f12a05327b1f035e25483bb22b7ea.mp3*~data=user_id=0,application_id=42~hmac=28ea3e026df074c9c0666ad1a00a8dc479088e616dad1fc3f24192bc3924a746",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sleep Like a Baby Tonight",
+            "length": "5:02",
+            "deezer": {
+              "id": 436230192,
+              "link": "https://www.deezer.com/track/436230192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/c/0/bace9d8a5cd7a89b77352b88b5d66871.mp3?hdnea=exp=1795722103~acl=/api/1/1/b/a/c/0/bace9d8a5cd7a89b77352b88b5d66871.mp3*~data=user_id=0,application_id=42~hmac=a72ba718f416270f21dc6c24dd4d80e197bea9ec6c92dd028123fe74908acc15",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "This Is Where You Can Reach Me Now",
+            "length": "5:05",
+            "deezer": {
+              "id": 436230202,
+              "link": "https://www.deezer.com/track/436230202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/a/0/2baacc92e6e47290a03d7c5e398fe7f1.mp3?hdnea=exp=1795722103~acl=/api/1/1/2/b/a/0/2baacc92e6e47290a03d7c5e398fe7f1.mp3*~data=user_id=0,application_id=42~hmac=c7cf9fce5ccff9a5fff63712b5f7b4a743f1bab2dc4ae749ffcf5f5036bcbd15",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Troubles",
+            "length": "4:46",
+            "artist": "U2 & Lykke Li",
+            "deezer": {
+              "id": 436230212,
+              "link": "https://www.deezer.com/track/436230212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/f/0/77f2f3346c8b0dc288b6cd6b8b06267d.mp3?hdnea=exp=1795722103~acl=/api/1/1/7/7/f/0/77f2f3346c8b0dc288b6cd6b8b06267d.mp3*~data=user_id=0,application_id=42~hmac=ec0021c9fbacf2f774645f48ee591e8a7ebf23e9a9d21d0e7c088bf06d5d0ea9",
+              "preview_expires": "2026-11-26T19:41:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/U2/Songs Of Innocence.jpg"
+}

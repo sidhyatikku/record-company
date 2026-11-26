@@ -1,0 +1,163 @@
+{
+  "title": "Wish You Were Here",
+  "artist": "Pink Floyd",
+  "year": 1975,
+  "release_date": "1975-09-12",
+  "type": "Album",
+  "description": "Wish You Were Here is the ninth studio album by the English rock band Pink Floyd, released on 12 September 1975 through Harvest Records in the United Kingdom and a day later in the United States through Columbia Records, as the band's first album for the label. Based on material composed while performing in Europe, Wish You Were Here was recorded over numerous sessions throughout 1975 at EMI Studios in London.",
+  "genres": [
+    "progressive rock",
+    "art rock",
+    "psychedelic rock",
+    "rock",
+    "progressive",
+    "experimental rock",
+    "space rock",
+    "ambient",
+    "classic rock",
+    "electronic",
+    "jazz",
+    "psychedelic"
+  ],
+  "tags": [
+    "progressive rock",
+    "art rock",
+    "psychedelic rock",
+    "rock",
+    "concept album",
+    "longing",
+    "melancholic",
+    "progressive",
+    "atmospheric",
+    "experimental rock",
+    "space rock",
+    "ageing",
+    "alienation",
+    "ambient",
+    "bittersweet",
+    "bright",
+    "classic rock",
+    "compassionate",
+    "complex",
+    "cynical",
+    "electronic",
+    "entertainment industry",
+    "epic",
+    "existential",
+    "friendship",
+    "greed",
+    "grief",
+    "hiphop",
+    "hypnotic",
+    "introspective",
+    "jazz",
+    "laut.de",
+    "lonely",
+    "male vocalist",
+    "meditative",
+    "melodic",
+    "mental health",
+    "nostalgia",
+    "outro",
+    "poetic",
+    "prog rock",
+    "psychedelic",
+    "sentimental",
+    "serious",
+    "suite",
+    "trauma"
+  ],
+  "rating": {
+    "value_out_of_5": 4.65,
+    "votes": 78
+  },
+  "musicbrainz_annotation": "A DiscID observation: '''[https://musicbrainz.org/cdtoc/7_0c1HUOtL94MTSdKJWc_OENTWo-|7_0c1HUOtL94MTSdKJWc_OENTWo-]'''\n\nThis is the EMI Europe DiscID.  First appeared in EMI SWINDON in 1984 and then lasted 20 years all round EMI Europe...\n\nPink Floyd Archives points out that it is not the Doug Sax 1992 remastered edition on the the 1990s European CDs.  I own this [https://musicbrainz.org/release/6948245b-aa08-4ad2-aeaf-2441d6fa89cd|1994 UDEN \"remaster\"] and this much older [https://musicbrainz.org/release/e2caa244-bf9c-4fd8-8cd4-b00802b02b02|1984 Harvest CD] which has the exact same [https://musicbrainz.org/cdtoc/7_0c1HUOtL94MTSdKJWc_OENTWo-|7_0c1HUOtL94MTSdKJWc_OENTWo- DiscID].  So holds exact same music.  Not actually a \"remaster\" at all!  (Unless they remastered to exact same times and only made one small difference in the AcoustID of Welcome to the Machine)\n\nThat same discID is still popping up in Dutch [https://musicbrainz.org/release/b0f5d5dc-2d4c-4736-b808-721f3554ea35|MediaMotion CDs] in the 2000s and likely survived the same until the 2011 \"remasters\".  A good example how EMI Swindon and UDEN share masters.  (And how it is almost certain that most of the 33 disc IDs attached to many of these releases are bogus)\n\nA scroll through and you can find unique Japanese, German and South African pressings.   Apart from those there is a lot of junk...  If you are reading this, and own a Wish You Were Here CD, then please add a note about it in the Annotation of your release.  Thanks.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1a272023-10d3-38ee-bab3-317b55fcc21d",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000650633",
+    "discogs": "https://www.discogs.com/master/11703",
+    "wikidata": "https://www.wikidata.org/wiki/Q200872",
+    "deezer": "https://www.deezer.com/album/12114242"
+  },
+  "musicbrainz_id": "1a272023-10d3-38ee-bab3-317b55fcc21d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3ee108bd-f48d-4ee3-ba97-31b5859f578a",
+      "barcode": "886445613278",
+      "title": "Wish You Were Here",
+      "disambiguation": null,
+      "date": "2016",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "44:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shine On You Crazy Diamond (Pts. 1–5)",
+            "length": "13:31",
+            "deezer": {
+              "id": 116914036,
+              "link": "https://www.deezer.com/track/116914036",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/1/0/941ae5a8efd1e9455ff1bb9000918fde.mp3?hdnea=exp=1795719492~acl=/api/1/1/9/4/1/0/941ae5a8efd1e9455ff1bb9000918fde.mp3*~data=user_id=0,application_id=42~hmac=e3970db57da88190213ac3d3722c8b207c972b79cf180bbc6cfc73b353e67b88",
+              "preview_expires": "2026-11-26T18:58:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Welcome to the Machine",
+            "length": "7:32",
+            "deezer": {
+              "id": 116914038,
+              "link": "https://www.deezer.com/track/116914038",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/0/0/c60c3974650fab42a67bbdcd3c64b218.mp3?hdnea=exp=1795719492~acl=/api/1/1/c/6/0/0/c60c3974650fab42a67bbdcd3c64b218.mp3*~data=user_id=0,application_id=42~hmac=406e4fcdf086a441fb008a49a8dc93180d1aa4ce1e132c044b18710180a940ad",
+              "preview_expires": "2026-11-26T18:58:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Have a Cigar",
+            "length": "5:08",
+            "deezer": {
+              "id": 116914040,
+              "link": "https://www.deezer.com/track/116914040",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/2/0/eb22acebb96cd49d46a5bf9759a5f3b0.mp3?hdnea=exp=1795719492~acl=/api/1/1/e/b/2/0/eb22acebb96cd49d46a5bf9759a5f3b0.mp3*~data=user_id=0,application_id=42~hmac=5b242f9f1f42921153ad23782720f0dee9c64e0978c72c8936398f497a4d9d45",
+              "preview_expires": "2026-11-26T18:58:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Wish You Were Here",
+            "length": "5:35",
+            "deezer": {
+              "id": 116914042,
+              "link": "https://www.deezer.com/track/116914042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/d/0/40d1318ab60207bb3a025b7df23ea7ef.mp3?hdnea=exp=1795719492~acl=/api/1/1/4/0/d/0/40d1318ab60207bb3a025b7df23ea7ef.mp3*~data=user_id=0,application_id=42~hmac=78defe2824b314f4426228ebe5959e583cc19403fdedd4b11364a1f6555ac5b5",
+              "preview_expires": "2026-11-26T18:58:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Shine On You Crazy Diamond (Pts. 6–9)",
+            "length": "12:27",
+            "deezer": {
+              "id": 116914044,
+              "link": "https://www.deezer.com/track/116914044",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/b/0/9fba4b9b43c34cb21dccfe8b99ce6f48.mp3?hdnea=exp=1795719492~acl=/api/1/1/9/f/b/0/9fba4b9b43c34cb21dccfe8b99ce6f48.mp3*~data=user_id=0,application_id=42~hmac=4fb48701c5651dd89fe4382a757bd5426fd5f9956133d151a2e46ef795126ef3",
+              "preview_expires": "2026-11-26T18:58:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pink Floyd/Wish You Were Here.jpg"
+}

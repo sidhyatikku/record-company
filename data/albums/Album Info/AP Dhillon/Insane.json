@@ -1,0 +1,52 @@
+{
+  "title": "Insane",
+  "artist": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+  "year": 2021,
+  "release_date": "2021-04-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/701c79ed-22b8-4191-994e-e224a0f22ff3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/221694682"
+  },
+  "musicbrainz_id": "701c79ed-22b8-4191-994e-e224a0f22ff3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cc198cea-ae70-4c16-aed9-9e9f65730680",
+      "barcode": null,
+      "title": "Insane",
+      "disambiguation": null,
+      "date": "2021-04-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Insane",
+            "length": "3:26",
+            "artist": "AP Dhillon, Gurinder Gill & Shinda Kahlon",
+            "deezer": {
+              "id": 1334541162,
+              "link": "https://www.deezer.com/track/1334541162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/e/0/8fe5a0731c301f12e7a2e8a49f1b1ba7.mp3?hdnea=exp=1795649335~acl=/api/1/1/8/f/e/0/8fe5a0731c301f12e7a2e8a49f1b1ba7.mp3*~data=user_id=0,application_id=42~hmac=24852a87df1542583080c3322cdbc41553f682b706d476d3a173d5ddd210e438",
+              "preview_expires": "2026-11-25T23:28:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AP Dhillon/Insane.jpg"
+}

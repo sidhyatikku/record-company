@@ -1,0 +1,400 @@
+{
+  "title": "Let’s Get Free",
+  "artist": "dead prez",
+  "year": 1999,
+  "release_date": "1999-11-30",
+  "type": "Album",
+  "description": "Let's Get Free is the debut studio album by hip-hop duo dead prez. It was released on February 8, 2000, on Loud Records and Columbia Records. The album is mainly produced by dead prez, along with additional production from Lord Jamar of Brand Nubian, Hedrush, and Kanye West. The album is supported by its five singles: \"Police State\", \"Hip-Hop\", \"It's Bigger Than Hip-Hop\", \"I'm a African\", and \"Mind Sex\". The album peaked at number 73 on the U.S. Billboard 200 and number 22 on the U.S. Top R&B/Hip-Hop Albums chart.",
+  "genres": [
+    "hip hop",
+    "electronic",
+    "political hip hop",
+    "southern hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "electronic",
+    "political hip hop",
+    "alternative rap",
+    "conscious",
+    "hardcore rap",
+    "hip-hop",
+    "rap",
+    "southern hip hop",
+    "southern rap",
+    "underground hip-hop",
+    "underground rap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c46a8433-c8d7-3d20-bb7c-df48ef2eeaf9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Let's_Get_Free",
+    "allmusic": "https://www.allmusic.com/album/mw0000603923",
+    "discogs": "https://www.discogs.com/master/83861",
+    "wikidata": "https://www.wikidata.org/wiki/Q3008969",
+    "deezer": "https://www.deezer.com/album/1401725"
+  },
+  "musicbrainz_id": "c46a8433-c8d7-3d20-bb7c-df48ef2eeaf9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/44d9c76c-bf29-4c83-af05-17951608a5f5",
+      "barcode": "088561186722",
+      "title": "Let’s Get Free",
+      "disambiguation": "explicit",
+      "date": "2000-03-14",
+      "country": "US"
+    },
+    "total_tracks": 45,
+    "total_length": "1:09:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wolves",
+            "length": "2:16",
+            "deezer": {
+              "id": 15220135,
+              "link": "https://www.deezer.com/track/15220135",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/c/0/c5ca6612559ee2598b44db3004df1fff.mp3?hdnea=exp=1795653229~acl=/api/1/1/c/5/c/0/c5ca6612559ee2598b44db3004df1fff.mp3*~data=user_id=0,application_id=42~hmac=f353ccf5f597d43d97bcc1df3351cfc953c8de531d2a1b436d2feed569ba86ad",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I’m a African",
+            "length": "3:20",
+            "deezer": {
+              "id": 15220136,
+              "link": "https://www.deezer.com/track/15220136",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/2/0/9c247a788a4567017f3bb6350eb0f960.mp3?hdnea=exp=1795653229~acl=/api/1/1/9/c/2/0/9c247a788a4567017f3bb6350eb0f960.mp3*~data=user_id=0,application_id=42~hmac=cab84e326ba4a0892b2d12e412fbd1a160e5a30d79c8fe0e2c8b17af6ad31415",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "‘They’ Schools",
+            "length": "5:06",
+            "deezer": {
+              "id": 15216342,
+              "link": "https://www.deezer.com/track/15216342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/6/0/f464266afbd75bc530b4423859b91527.mp3?hdnea=exp=1795653229~acl=/api/1/1/f/4/6/0/f464266afbd75bc530b4423859b91527.mp3*~data=user_id=0,application_id=42~hmac=19c9fcbff4a136535420d87dcec1cfa66291724cd9a10c883c899bf7df90653e",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hip‐Hop",
+            "length": "3:34",
+            "deezer": {
+              "id": 15220137,
+              "link": "https://www.deezer.com/track/15220137",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/3/0/6637f663eb96fd7fabd2e6f2960e96f2.mp3?hdnea=exp=1795653229~acl=/api/1/1/6/6/3/0/6637f663eb96fd7fabd2e6f2960e96f2.mp3*~data=user_id=0,application_id=42~hmac=c350888f5e1220ee23d27fa654995abcd81881d8a6177f2a83a872295abd477d",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Police State",
+            "length": "3:41",
+            "deezer": {
+              "id": 15221420,
+              "link": "https://www.deezer.com/track/15221420",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/4/0/2046d22428e19523363b896294b3ee09.mp3?hdnea=exp=1795653229~acl=/api/1/1/2/0/4/0/2046d22428e19523363b896294b3ee09.mp3*~data=user_id=0,application_id=42~hmac=8b39c4bb0d5615b1763d48001b0bf2db11ff21958e7625a0e4ddd0bace57d26e",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Behind Enemy Lines",
+            "length": "3:03",
+            "deezer": {
+              "id": 15220138,
+              "link": "https://www.deezer.com/track/15220138",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/4/0/2944294f3dabce82440b98095d2975a9.mp3?hdnea=exp=1795653229~acl=/api/1/1/2/9/4/0/2944294f3dabce82440b98095d2975a9.mp3*~data=user_id=0,application_id=42~hmac=70ec8e951fb534a89a6c3b569317c77a5c98f77842d59afa675920088de7dd78",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Assassination",
+            "length": "2:01",
+            "deezer": {
+              "id": 15220139,
+              "link": "https://www.deezer.com/track/15220139",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/5/0/6c50e6c73ac245e5eba1ca53966828ae.mp3?hdnea=exp=1795653229~acl=/api/1/1/6/c/5/0/6c50e6c73ac245e5eba1ca53966828ae.mp3*~data=user_id=0,application_id=42~hmac=165248a485fa024dfbe1b10b677919a21d766aa9633ad5621d238016e98d7ae9",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mind Sex",
+            "length": "4:51",
+            "deezer": {
+              "id": 15220140,
+              "link": "https://www.deezer.com/track/15220140",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/4/0/ca4023488a12e3f9d53ca025d9954de9.mp3?hdnea=exp=1795653229~acl=/api/1/1/c/a/4/0/ca4023488a12e3f9d53ca025d9954de9.mp3*~data=user_id=0,application_id=42~hmac=183269183de625081d90d0c2b7aeaef00392fd1c1b43fd154aae41ddae24cdc3",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "We Want Freedom",
+            "length": "4:34",
+            "deezer": {
+              "id": 15221421,
+              "link": "https://www.deezer.com/track/15221421",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/9/0/439199219ac70a0956d8678b2f18c227.mp3?hdnea=exp=1795653229~acl=/api/1/1/4/3/9/0/439199219ac70a0956d8678b2f18c227.mp3*~data=user_id=0,application_id=42~hmac=8f0175d63f0b499fcd38389f5f68994b2b0401393b918dc84578cc064d7c539b",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Be Healthy",
+            "length": "2:34",
+            "deezer": {
+              "id": 15220141,
+              "link": "https://www.deezer.com/track/15220141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/9/0/4b96911bf9a4b16f01801157b4946e8c.mp3?hdnea=exp=1795653229~acl=/api/1/1/4/b/9/0/4b96911bf9a4b16f01801157b4946e8c.mp3*~data=user_id=0,application_id=42~hmac=615e0249ee60866d1e52ebbf3de8550b7668ffecd62f7ecf52a03425bf78ada1",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Discipline",
+            "length": "1:37",
+            "deezer": {
+              "id": 15220142,
+              "link": "https://www.deezer.com/track/15220142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/8/0/6888abfd48099d755bfe9c02fabcd23c.mp3?hdnea=exp=1795653229~acl=/api/1/1/6/8/8/0/6888abfd48099d755bfe9c02fabcd23c.mp3*~data=user_id=0,application_id=42~hmac=dd0ac6c03290f85a758d222bff7c34fcc2f1b12335ce21d6e858ecdc134e061f",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Psychology",
+            "length": "5:56",
+            "deezer": {
+              "id": 15221431,
+              "link": "https://www.deezer.com/track/15221431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/a/0/b6a03b3fc925b5c9661ca3d937c05133.mp3?hdnea=exp=1795653229~acl=/api/1/1/b/6/a/0/b6a03b3fc925b5c9661ca3d937c05133.mp3*~data=user_id=0,application_id=42~hmac=9b2f9683d7c9b231929813d99b205129da23a64d39537550f5579e2624ce6a4f",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Happiness",
+            "length": "3:49",
+            "deezer": {
+              "id": 15221440,
+              "link": "https://www.deezer.com/track/15221440",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/2/0/d524411c60206349e52d8a6f1e27ed58.mp3?hdnea=exp=1795653229~acl=/api/1/1/d/5/2/0/d524411c60206349e52d8a6f1e27ed58.mp3*~data=user_id=0,application_id=42~hmac=faafe61b160917e5bca55719dab72543864cb4062a54794379fad3a33def3858",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Animal in Man",
+            "length": "4:31",
+            "deezer": {
+              "id": 15220143,
+              "link": "https://www.deezer.com/track/15220143",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/5/0/68553acc6ab2ff1baf9df5baad7d10e7.mp3?hdnea=exp=1795653229~acl=/api/1/1/6/8/5/0/68553acc6ab2ff1baf9df5baad7d10e7.mp3*~data=user_id=0,application_id=42~hmac=e2d0e9ec1ce786d3977de63d79d70298ad0ce69365c12241e16f6bdb0cd1c1ef",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "You’ll Find a Way",
+            "length": "3:13",
+            "deezer": {
+              "id": 15221446,
+              "link": "https://www.deezer.com/track/15221446",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/b/0/83beee524df7d6282daed9ebabf4385a.mp3?hdnea=exp=1795653229~acl=/api/1/1/8/3/b/0/83beee524df7d6282daed9ebabf4385a.mp3*~data=user_id=0,application_id=42~hmac=21da8bd405c997f6e0f242c0cc142e8190d50a15c864ff1774eb7a2478c7ab99",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "It's Bigger Than Hip‐Hop",
+            "length": "3:56",
+            "artist": "dead prez featuring Tahir of Hedrush",
+            "deezer": {
+              "id": 15220144,
+              "link": "https://www.deezer.com/track/15220144",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/b/0/31b10be8175353ce2f4db8612c5ddf00.mp3?hdnea=exp=1795653229~acl=/api/1/1/3/1/b/0/31b10be8175353ce2f4db8612c5ddf00.mp3*~data=user_id=0,application_id=42~hmac=fd7bf0f3df09320585323987a8a71c9cb1d707b9b5291b425c196d5a9424a687",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "18",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "19",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "20",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "21",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "22",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "23",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "24",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "25",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "26",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "27",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "28",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "29",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "30",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "31",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "32",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "33",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "34",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "35",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "36",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "37",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "38",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "39",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "40",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "41",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "42",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "43",
+            "title": "[silence]",
+            "length": "0:04"
+          },
+          {
+            "number": "44",
+            "title": "Propaganda",
+            "length": "5:15",
+            "deezer": {
+              "id": 15221452,
+              "link": "https://www.deezer.com/track/15221452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/9/0/c79376709e19498fe101f3c6c2c35117.mp3?hdnea=exp=1795653229~acl=/api/1/1/c/7/9/0/c79376709e19498fe101f3c6c2c35117.mp3*~data=user_id=0,application_id=42~hmac=d0c0766c1d2e63c80e558302f161625b9b963e2db21cf737f36916cd1f78ad1e",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          },
+          {
+            "number": "45",
+            "title": "The Pistol",
+            "length": "4:25",
+            "artist": "dead prez featuring Maintain of Illegal Tendencies",
+            "deezer": {
+              "id": 15220145,
+              "link": "https://www.deezer.com/track/15220145",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/e/0/c8e99cb59cf9582d866cd90b152e2d78.mp3?hdnea=exp=1795653229~acl=/api/1/1/c/8/e/0/c8e99cb59cf9582d866cd90b152e2d78.mp3*~data=user_id=0,application_id=42~hmac=5d78626d7d44add14deadb05a0c3522738f2d67476370e6b5ffcc3f675c543bc",
+              "preview_expires": "2026-11-26T00:33:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dead Prez/Let's Get Free.jpg"
+}

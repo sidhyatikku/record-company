@@ -1,0 +1,98 @@
+{
+  "title": "Absolute Monarchy",
+  "artist": "Sikander Kahlon",
+  "year": 2021,
+  "release_date": "2021-12-15",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ab621b93-79f5-4e05-9234-31d77db89169",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/279991052"
+  },
+  "musicbrainz_id": "ab621b93-79f5-4e05-9234-31d77db89169",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a971f12a-7426-49af-9608-57f202654022",
+      "barcode": "3616842741918",
+      "title": "Absolute Monarchy",
+      "disambiguation": null,
+      "date": "2021-12-15",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "18:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cash Money",
+            "length": "4:24",
+            "artist": "Sikander Kahlon & Ikka",
+            "deezer": {
+              "id": 1588721612,
+              "link": "https://www.deezer.com/track/1588721612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/e/0/9fe424e2995c9623f52ce3f3eaadd032.mp3?hdnea=exp=1795720633~acl=/api/1/1/9/f/e/0/9fe424e2995c9623f52ce3f3eaadd032.mp3*~data=user_id=0,application_id=42~hmac=9f451c9d4f51ab63fbff25f62608413572322206feed5042a17f004ab7215bea",
+              "preview_expires": "2026-11-26T19:17:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ohi Munda",
+            "length": "3:32",
+            "deezer": {
+              "id": 1588721622,
+              "link": "https://www.deezer.com/track/1588721622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/c/0/95c8238e859140f32e413506115584ee.mp3?hdnea=exp=1795720633~acl=/api/1/1/9/5/c/0/95c8238e859140f32e413506115584ee.mp3*~data=user_id=0,application_id=42~hmac=df986712ce3933aa24f3de155bf2098c38ac6ad818f5dbaf2be58d0e9f19ab71",
+              "preview_expires": "2026-11-26T19:17:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bekadar - Remix",
+            "length": "4:33",
+            "artist": "Sikander Kahlon & Sound Shikari",
+            "deezer": {
+              "id": 1588721632,
+              "link": "https://www.deezer.com/track/1588721632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/d/0/63d556e3a29531cee5ac08d9d51b64ea.mp3?hdnea=exp=1795720633~acl=/api/1/1/6/3/d/0/63d556e3a29531cee5ac08d9d51b64ea.mp3*~data=user_id=0,application_id=42~hmac=8eab5b6aab94d6764ff4b5c90dcee62b1a823ac15cb6ca41568cf677eabb0f35",
+              "preview_expires": "2026-11-26T19:17:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ho Ji Ho",
+            "length": "3:45",
+            "artist": "Sikander Kahlon & Rajinder Singh Kahlon",
+            "deezer": {
+              "id": 1588721642,
+              "link": "https://www.deezer.com/track/1588721642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/1/0/5e146d11b63c6fc232f97ddc6e509433.mp3?hdnea=exp=1795720633~acl=/api/1/1/5/e/1/0/5e146d11b63c6fc232f97ddc6e509433.mp3*~data=user_id=0,application_id=42~hmac=0c9f7a0f64d9477b5fa9df7449c08ea48fca92fd2e3031d4dc34b0eca36a4f1d",
+              "preview_expires": "2026-11-26T19:17:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Killa Freestyle #2",
+            "length": "2:15",
+            "deezer": {
+              "id": 1588721652,
+              "link": "https://www.deezer.com/track/1588721652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/3/0/0d30383097686ce3f7cb2fa6105c2d76.mp3?hdnea=exp=1795720633~acl=/api/1/1/0/d/3/0/0d30383097686ce3f7cb2fa6105c2d76.mp3*~data=user_id=0,application_id=42~hmac=4130a287a3dbb9c06e36f242809df9a45d369a58168f3c98c0c6c229e9c99ebd",
+              "preview_expires": "2026-11-26T19:17:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sikander Kahlon/Absolute Monarchy - EP.jpg"
+}

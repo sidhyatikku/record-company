@@ -1,0 +1,242 @@
+{
+  "title": "Knock Knock",
+  "artist": "DJ Koze",
+  "year": 2018,
+  "release_date": "2018-05-04",
+  "type": "Album",
+  "description": "Knock Knock is the third studio album by German electronic musician DJ Koze. It was recorded in Spain and released on 4 May 2018.",
+  "genres": [
+    "house",
+    "downtempo",
+    "electronic",
+    "techno"
+  ],
+  "tags": [
+    "house",
+    "downtempo",
+    "electronic",
+    "techno"
+  ],
+  "rating": {
+    "value_out_of_5": 3.25,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/636bc236-13ec-4c2f-b9f7-54a64a2a3414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Knock_Knock_(DJ_Koze_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003146583",
+    "discogs": "https://www.discogs.com/master/1357224",
+    "wikidata": "https://www.wikidata.org/wiki/Q55616108",
+    "deezer": "https://www.deezer.com/album/681795221"
+  },
+  "musicbrainz_id": "636bc236-13ec-4c2f-b9f7-54a64a2a3414",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/491df52c-442f-4429-8a33-14e21c14639f",
+      "barcode": null,
+      "title": "Knock Knock",
+      "disambiguation": null,
+      "date": "2018-05-04",
+      "country": null
+    },
+    "total_tracks": 16,
+    "total_length": "1:18:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Club der Ewigkeiten",
+            "length": "4:09",
+            "deezer": {
+              "id": 3134694011,
+              "link": "https://www.deezer.com/track/3134694011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/a/0/0da43775070b91fce9fdbf535300d7f2.mp3?hdnea=exp=1795653436~acl=/api/1/1/0/d/a/0/0da43775070b91fce9fdbf535300d7f2.mp3*~data=user_id=0,application_id=42~hmac=a599f32f0f5653745fe53c67178ed7031e168c2cd3601f514715891f1ef11506",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bonfire",
+            "length": "5:25",
+            "deezer": {
+              "id": 3134694021,
+              "link": "https://www.deezer.com/track/3134694021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/5/0/4b5beef7dc2aec1910f988ce1cd9f567.mp3?hdnea=exp=1795653436~acl=/api/1/1/4/b/5/0/4b5beef7dc2aec1910f988ce1cd9f567.mp3*~data=user_id=0,application_id=42~hmac=b6f805105d1340280b3053825e3b173a8f7cda476d61307704288f7b1e7c9195",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Moving in a Liquid",
+            "length": "4:40",
+            "artist": "DJ Koze feat. Eddie Fummler",
+            "deezer": {
+              "id": 3134694031,
+              "link": "https://www.deezer.com/track/3134694031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/d/0/aad2ce4266a941cc939e24425e98c396.mp3?hdnea=exp=1795653436~acl=/api/1/1/a/a/d/0/aad2ce4266a941cc939e24425e98c396.mp3*~data=user_id=0,application_id=42~hmac=70e19bfe95c60434d896ac93cfdac8c98801f3f89da0d6f6f53a6e43ab0d8eed",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Colors of Autumn",
+            "length": "4:24",
+            "artist": "DJ Koze feat. Speech",
+            "deezer": {
+              "id": 3134694041,
+              "link": "https://www.deezer.com/track/3134694041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/3/0/2b3c5242bf6d569544da613b3e043b36.mp3?hdnea=exp=1795653436~acl=/api/1/1/2/b/3/0/2b3c5242bf6d569544da613b3e043b36.mp3*~data=user_id=0,application_id=42~hmac=90f47d4035908ec9c2c16d1702347c12d97f810e74fefa9103952c4aa7e57940",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Music on My Teeth",
+            "length": "4:16",
+            "artist": "DJ Koze feat. José Gonzalez",
+            "deezer": {
+              "id": 3134694051,
+              "link": "https://www.deezer.com/track/3134694051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/f/0/33fe12c07795a798b8ec041fdb1d1bd2.mp3?hdnea=exp=1795653436~acl=/api/1/1/3/3/f/0/33fe12c07795a798b8ec041fdb1d1bd2.mp3*~data=user_id=0,application_id=42~hmac=1bba4eadf10170031e5b2a1f546d641cbbffef9ca062e862fee19589bed06226",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "This Is My Rock",
+            "length": "3:59",
+            "artist": "DJ Koze feat. Sophia Kennedy",
+            "deezer": {
+              "id": 3134694061,
+              "link": "https://www.deezer.com/track/3134694061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/8/0/478a4d26ee1dd62400083789d46867f3.mp3?hdnea=exp=1795653436~acl=/api/1/1/4/7/8/0/478a4d26ee1dd62400083789d46867f3.mp3*~data=user_id=0,application_id=42~hmac=6132699b3cfe5149993ce74807fe77f9c311975923db3756be80d82d00964892",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Illumination",
+            "length": "4:31",
+            "artist": "DJ Koze feat. Róisín Murphy",
+            "deezer": {
+              "id": 3134694071,
+              "link": "https://www.deezer.com/track/3134694071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/4/0/0f48822e1247cbcd84ff52125931f83c.mp3?hdnea=exp=1795653436~acl=/api/1/1/0/f/4/0/0f48822e1247cbcd84ff52125931f83c.mp3*~data=user_id=0,application_id=42~hmac=5d2d00ce765a4fbb7e73932233a57d14b715d8386cb5639c58eb512546ede125",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Pick Up",
+            "length": "6:38",
+            "deezer": {
+              "id": 3134694081,
+              "link": "https://www.deezer.com/track/3134694081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c0937e225716073a61f6756c29723fe.mp3?hdnea=exp=1795653436~acl=/api/1/1/1/c/0/0/1c0937e225716073a61f6756c29723fe.mp3*~data=user_id=0,application_id=42~hmac=89e7e88d3eafaeeda522516499db9e3263e486850432d9bb4f7067bbb79a2373",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Planet Hase",
+            "length": "5:11",
+            "artist": "DJ Koze feat. Mano Le Tough",
+            "deezer": {
+              "id": 3134694091,
+              "link": "https://www.deezer.com/track/3134694091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/0/0/ba0ad35fa62ed9e18a2e3acdde0f2da8.mp3?hdnea=exp=1795653436~acl=/api/1/1/b/a/0/0/ba0ad35fa62ed9e18a2e3acdde0f2da8.mp3*~data=user_id=0,application_id=42~hmac=52f7c9471895a67724cfabeb8d3cc46791e8ef29e65b5efdb67f52ce918ab9b2",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Scratch That",
+            "length": "4:36",
+            "artist": "DJ Koze feat. Róisín Murphy",
+            "deezer": {
+              "id": 3134694101,
+              "link": "https://www.deezer.com/track/3134694101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/e/0/42e794aeb2faeff89707213c26baa61a.mp3?hdnea=exp=1795653436~acl=/api/1/1/4/2/e/0/42e794aeb2faeff89707213c26baa61a.mp3*~data=user_id=0,application_id=42~hmac=70dc72f8b3aa9ed45a6a875ff97103ecab51b6bd870b3b21f7fb2886694a7b97",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Muddy Funster",
+            "length": "5:24",
+            "artist": "DJ Koze feat. Kurt Wagner",
+            "deezer": {
+              "id": 3134694111,
+              "link": "https://www.deezer.com/track/3134694111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/a/0/f8a4464cf03fbce431cd0bb0ed3c5245.mp3?hdnea=exp=1795653436~acl=/api/1/1/f/8/a/0/f8a4464cf03fbce431cd0bb0ed3c5245.mp3*~data=user_id=0,application_id=42~hmac=806715399c050df9f6d1e0ea9d373265a5802d0b736ab0853e780836b65b3b83",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Baby (How Much I LFO You)",
+            "length": "4:31",
+            "deezer": {
+              "id": 3134694121,
+              "link": "https://www.deezer.com/track/3134694121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/4/0/6d4a75a98e5befb12a3b30eee101a531.mp3?hdnea=exp=1795653436~acl=/api/1/1/6/d/4/0/6d4a75a98e5befb12a3b30eee101a531.mp3*~data=user_id=0,application_id=42~hmac=f164706e7e0e5373260dbd7a569d487bf862332a0e3f3536da1b74df33749814",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Jesus",
+            "length": "5:13",
+            "deezer": {
+              "id": 3134694131,
+              "link": "https://www.deezer.com/track/3134694131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/c/0/3bcb1f4c2bffc9618490359ffbd39411.mp3?hdnea=exp=1795653436~acl=/api/1/1/3/b/c/0/3bcb1f4c2bffc9618490359ffbd39411.mp3*~data=user_id=0,application_id=42~hmac=914889a64b6d075a659ecfa80a6b6fb15b923a0940e3888772b9b443c663e1ed",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Lord Knows",
+            "length": "4:07",
+            "deezer": {
+              "id": 3134694141,
+              "link": "https://www.deezer.com/track/3134694141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/6/0/d367598f6a058e7616da3a54b3fad510.mp3?hdnea=exp=1795653436~acl=/api/1/1/d/3/6/0/d367598f6a058e7616da3a54b3fad510.mp3*~data=user_id=0,application_id=42~hmac=0fc66fbd0ba31e69142eca9079adc9a1ef694e62a758db73c90e7e92b114d38b",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Seeing Aliens",
+            "length": "4:51",
+            "deezer": {
+              "id": 3134694151,
+              "link": "https://www.deezer.com/track/3134694151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/2/0/3e2c1e3efc1e98d5db68f991a7748508.mp3?hdnea=exp=1795653436~acl=/api/1/1/3/e/2/0/3e2c1e3efc1e98d5db68f991a7748508.mp3*~data=user_id=0,application_id=42~hmac=a24749bc22499a2c61065461195196869ae8125a78587aa6b4fd2a7859ea4ba8",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Drone Me Up, Flashy",
+            "length": "6:34",
+            "artist": "DJ Koze feat. Sophia Kennedy",
+            "deezer": {
+              "id": 3134694161,
+              "link": "https://www.deezer.com/track/3134694161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/f/0/5ef11d6cd5cc2b51d907d54af71e319b.mp3?hdnea=exp=1795653436~acl=/api/1/1/5/e/f/0/5ef11d6cd5cc2b51d907d54af71e319b.mp3*~data=user_id=0,application_id=42~hmac=e750ab378057f35c18ca0847160bd0a7e0d3b6d62f65362014022ea36b93df52",
+              "preview_expires": "2026-11-26T00:37:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/DJ Koze/Knock Knock.jpg"
+}

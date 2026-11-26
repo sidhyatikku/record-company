@@ -1,0 +1,201 @@
+{
+  "title": "Whitney",
+  "artist": "Whitney Houston",
+  "year": 1987,
+  "release_date": "1987-06-01",
+  "type": "Album",
+  "description": "Whitney is the second studio album by American singer Whitney Houston. It was released on June 1, 1987, by Arista Records. The follow-up to her debut album, production on the album aimed at reaching the same audience as her debut, which also mostly featured ballads and love songs while including several upbeat songs. Mostly produced by Narada Michael Walden and Michael Masser, with contributions from Kashif and John \"Jellybean\" Benitez, and featuring guest output from musicians such as Kenny G Roy Ayers and Premik Russell Tubbs, the album became an immediate hit upon its release.",
+  "genres": [
+    "dance-pop",
+    "contemporary r&b",
+    "pop",
+    "club",
+    "dance",
+    "disco",
+    "electronic",
+    "freestyle",
+    "pop soul",
+    "synth-pop"
+  ],
+  "tags": [
+    "adult contemporary",
+    "dance-pop",
+    "contemporary r&b",
+    "pop",
+    "80s",
+    "adult contemporary r&b",
+    "club",
+    "dance",
+    "disco",
+    "electronic",
+    "freestyle",
+    "funk soul",
+    "pop soul",
+    "post-disco",
+    "r b",
+    "rhythm blues",
+    "synth-pop",
+    "synthpop",
+    "synthpop_funk soul_electronic",
+    "urban"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4f5bfc50-7a41-385e-9961-3db0feaec430",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitney_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000190356",
+    "discogs": "https://www.discogs.com/master/51633",
+    "wikidata": "https://www.wikidata.org/wiki/Q1139652",
+    "deezer": "https://www.deezer.com/album/7530488"
+  },
+  "musicbrainz_id": "4f5bfc50-7a41-385e-9961-3db0feaec430",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/47077620-0a51-48df-b141-fa3a3e5d28dd",
+      "barcode": "886444538367",
+      "title": "Whitney",
+      "disambiguation": null,
+      "date": "1987-06-02",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "52:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Wanna Dance with Somebody (Who Loves Me)",
+            "length": "4:51",
+            "deezer": {
+              "id": 75981528,
+              "link": "https://www.deezer.com/track/75981528",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f98960c71091fc47276dedd71511f7d3.mp3?hdnea=exp=1795724313~acl=/api/1/1/f/9/8/0/f98960c71091fc47276dedd71511f7d3.mp3*~data=user_id=0,application_id=42~hmac=ef3c38661abd448737b20703fd6bd8d2aff3d04d8141d54f16315d6caddeee42",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Just the Lonely Talking Again",
+            "length": "5:33",
+            "deezer": {
+              "id": 75981529,
+              "link": "https://www.deezer.com/track/75981529",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/b/0/75bba9a3b7510b1828e8ebe425624ac6.mp3?hdnea=exp=1795724313~acl=/api/1/1/7/5/b/0/75bba9a3b7510b1828e8ebe425624ac6.mp3*~data=user_id=0,application_id=42~hmac=7ee323e75f06845dd995ace2fbfd969cd8d94f45628279ae344edb45f7cc623d",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Love Will Save the Day",
+            "length": "5:22",
+            "deezer": {
+              "id": 75981530,
+              "link": "https://www.deezer.com/track/75981530",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/0/0/bd0097ba7297ce828faa9690e9522ab4.mp3?hdnea=exp=1795724313~acl=/api/1/1/b/d/0/0/bd0097ba7297ce828faa9690e9522ab4.mp3*~data=user_id=0,application_id=42~hmac=8d48dea75b3b76a92576f0fb6c75d9e121ed20ea7f39fbc5ea0e6a5cd80e32ce",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Didn't We Almost Have It All",
+            "length": "5:05",
+            "deezer": {
+              "id": 75981531,
+              "link": "https://www.deezer.com/track/75981531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/d/0/84d115e2713d0ff9201aee756cec1a5a.mp3?hdnea=exp=1795724313~acl=/api/1/1/8/4/d/0/84d115e2713d0ff9201aee756cec1a5a.mp3*~data=user_id=0,application_id=42~hmac=81ab0876f535d667366d37362ff4d5efbc10b4a9099da3625d93861836944a2c",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "So Emotional",
+            "length": "4:37",
+            "deezer": {
+              "id": 75981532,
+              "link": "https://www.deezer.com/track/75981532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/b/0/d2b4d9b143afaaac63d4927ebefc9572.mp3?hdnea=exp=1795724313~acl=/api/1/1/d/2/b/0/d2b4d9b143afaaac63d4927ebefc9572.mp3*~data=user_id=0,application_id=42~hmac=da3f1973b8544a34a0acf5df2145513c534154a7cfe071673ee6cfb2a20bba87",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Where You Are",
+            "length": "4:10",
+            "deezer": {
+              "id": 75981533,
+              "link": "https://www.deezer.com/track/75981533",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/6/0/8363b7386e32384b4b6bdc6ce84e7ffa.mp3?hdnea=exp=1795724313~acl=/api/1/1/8/3/6/0/8363b7386e32384b4b6bdc6ce84e7ffa.mp3*~data=user_id=0,application_id=42~hmac=9205e7f25b489b03ac904957b5a40656090b0dec867cc4c1ae042156fc6ee8b0",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Love Is a Contact Sport",
+            "length": "4:20",
+            "deezer": {
+              "id": 75981534,
+              "link": "https://www.deezer.com/track/75981534",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/b/0/23ba83d89b9bb4f978848b70559dafab.mp3?hdnea=exp=1795724313~acl=/api/1/1/2/3/b/0/23ba83d89b9bb4f978848b70559dafab.mp3*~data=user_id=0,application_id=42~hmac=af79e4808bae987e631305533d3020357afe590426ac3b370d83e16da0af2f6c",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "You're Still My Man",
+            "length": "4:16",
+            "deezer": {
+              "id": 75981535,
+              "link": "https://www.deezer.com/track/75981535",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/0/0/7307cdaf67d57b97e46e364280849608.mp3?hdnea=exp=1795724313~acl=/api/1/1/7/3/0/0/7307cdaf67d57b97e46e364280849608.mp3*~data=user_id=0,application_id=42~hmac=24f40e12954570e2a2e51a384544c48d2d5fd67148eca5af9db8bbf33afdbe05",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "For the Love of You",
+            "length": "5:32",
+            "deezer": {
+              "id": 75981536,
+              "link": "https://www.deezer.com/track/75981536",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/8/0/0f8e75af5afc8a7d7a9b40767e721b92.mp3?hdnea=exp=1795724313~acl=/api/1/1/0/f/8/0/0f8e75af5afc8a7d7a9b40767e721b92.mp3*~data=user_id=0,application_id=42~hmac=68166ec90de3d4b8f26fbd1b2bb0c4f5a7788496a505ab0739ecfa58eeba6123",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Where Do Broken Hearts Go",
+            "length": "4:38",
+            "deezer": {
+              "id": 75981537,
+              "link": "https://www.deezer.com/track/75981537",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/5/0/0c5812eb94c086be1d0618a0a2c6857a.mp3?hdnea=exp=1795724313~acl=/api/1/1/0/c/5/0/0c5812eb94c086be1d0618a0a2c6857a.mp3*~data=user_id=0,application_id=42~hmac=746807ca6e3bd12c509d11c9a4c9ef46abb67ee2fabb2ca06a6f9b90bac16104",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "I Know Him So Well - from \"Chess\"",
+            "length": "4:30",
+            "artist": "Whitney Houston & Cissy Houston",
+            "deezer": {
+              "id": 75981538,
+              "link": "https://www.deezer.com/track/75981538",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/7/0/d370b62eb8800b9c2aaea53602d5a752.mp3?hdnea=exp=1795724313~acl=/api/1/1/d/3/7/0/d370b62eb8800b9c2aaea53602d5a752.mp3*~data=user_id=0,application_id=42~hmac=3df7d211c9fe035ba8c9a4406b576576113c42539dec06a046537deae8f8fb06",
+              "preview_expires": "2026-11-26T20:18:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Whitney Houston/Whitney.jpg"
+}

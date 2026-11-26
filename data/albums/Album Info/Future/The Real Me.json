@@ -1,0 +1,294 @@
+{
+  "title": "The Real Me",
+  "artist": "Future",
+  "year": 2026,
+  "release_date": "2026-07-09",
+  "type": "Album",
+  "description": "The Real Me is the tenth studio album by American rapper Future. Released on July 10, 2026, through Freebandz and Epic, it is Future's first solo studio album in four years, following I Never Liked You (2022), and his first full-length solo project since Mixtape Pluto (2024). The album was produced by Allen Ritter, ATL Jacob, DJ Spinz, Dre Moon, FnZ, Pharrell Williams, RushDee, Sean Momberger, Southside, TM88, and Wheezy, among others. Similarly to his last project, Mixtape Pluto, it contains no features.",
+  "genres": [
+    "hip hop",
+    "southern hip hop",
+    "trap"
+  ],
+  "tags": [
+    "1–4 wochen",
+    "hip hop",
+    "laut.de",
+    "offizielle charts",
+    "southern hip hop",
+    "trap"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Real_Me_(Future_album)",
+    "wikidata": "https://www.wikidata.org/wiki/Q140390238",
+    "deezer": "https://www.deezer.com/album/1025257002"
+  },
+  "musicbrainz_id": "b0c04158-9592-4946-bdcf-9cfe4a41da8c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ccac3a5a-959e-4549-b0c1-b382fc8a0696",
+      "barcode": "196874557198",
+      "title": "The Real Me",
+      "disambiguation": "explicit",
+      "date": "2026-07-10",
+      "country": "XW"
+    },
+    "total_tracks": 22,
+    "total_length": "58:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fukk a Interview",
+            "length": "2:38",
+            "deezer": {
+              "id": 4144145132,
+              "link": "https://www.deezer.com/track/4144145132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/f/0/0ff38a639bbd9afae653455e2d4ac260.mp3?hdnea=exp=1795654543~acl=/api/1/1/0/f/f/0/0ff38a639bbd9afae653455e2d4ac260.mp3*~data=user_id=0,application_id=42~hmac=ba4eed8e3b41c581d517ec65d66c0c35112df75b5fde752e075d68f9e7ab0990",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "One Two",
+            "length": "2:00",
+            "deezer": {
+              "id": 4144145142,
+              "link": "https://www.deezer.com/track/4144145142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/3/0/e13f4d9a1cb4edd38b543588414fd764.mp3?hdnea=exp=1795654543~acl=/api/1/1/e/1/3/0/e13f4d9a1cb4edd38b543588414fd764.mp3*~data=user_id=0,application_id=42~hmac=c6b7344de515f17f96a39b27cb2b39967bd5a483f39c7a8e49565ff6e4d5ced9",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "No Misery",
+            "length": "2:48",
+            "deezer": {
+              "id": 4144145152,
+              "link": "https://www.deezer.com/track/4144145152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/b/0/3fb7524f86b3a3dfed962612078e5987.mp3?hdnea=exp=1795654543~acl=/api/1/1/3/f/b/0/3fb7524f86b3a3dfed962612078e5987.mp3*~data=user_id=0,application_id=42~hmac=e3dba0846e19cf7d888aa74ce0e7779a08d44061ec35413d4ae31e03dc86f41a",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "California Girls",
+            "length": "2:30",
+            "deezer": {
+              "id": 4144145162,
+              "link": "https://www.deezer.com/track/4144145162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/7/0/f97665cd371de931a3ebd4a80ec81192.mp3?hdnea=exp=1795654543~acl=/api/1/1/f/9/7/0/f97665cd371de931a3ebd4a80ec81192.mp3*~data=user_id=0,application_id=42~hmac=8078bcf4624229cd705206846b466eb318f3f2936cb8ff0e9344da372c86df4a",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tank Top Pluto",
+            "length": "1:51",
+            "deezer": {
+              "id": 4144145172,
+              "link": "https://www.deezer.com/track/4144145172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/e/0/b1e71f4d9641347286592083d43d702f.mp3?hdnea=exp=1795654543~acl=/api/1/1/b/1/e/0/b1e71f4d9641347286592083d43d702f.mp3*~data=user_id=0,application_id=42~hmac=2ca60b3772a82d510bf1b9f1b773edcfb373f68cc92268adae4ef306a9428264",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Weight Up",
+            "length": "2:54",
+            "deezer": {
+              "id": 4144145182,
+              "link": "https://www.deezer.com/track/4144145182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/2/0/14295a5543e58a7c282fd407f093e0af.mp3?hdnea=exp=1795654543~acl=/api/1/1/1/4/2/0/14295a5543e58a7c282fd407f093e0af.mp3*~data=user_id=0,application_id=42~hmac=572abce8d8c27d93d5f0f8b21cc6a0b3828f1b0a4dcf698dcdeb114a1232bf87",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Konnichiwa",
+            "length": "2:34",
+            "deezer": {
+              "id": 4144145192,
+              "link": "https://www.deezer.com/track/4144145192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/1/0/6d16173c7cb8a1bfd58562492cf41f2f.mp3?hdnea=exp=1795654543~acl=/api/1/1/6/d/1/0/6d16173c7cb8a1bfd58562492cf41f2f.mp3*~data=user_id=0,application_id=42~hmac=c00253bd8ad3756a91fc4aa01c7ea044d1fdaabcec183596a021c99ac31f1cde",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Trench Coat",
+            "length": "1:46",
+            "deezer": {
+              "id": 4144145202,
+              "link": "https://www.deezer.com/track/4144145202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/c/0/1bcfa780e61f5c282b3124855897a881.mp3?hdnea=exp=1795654543~acl=/api/1/1/1/b/c/0/1bcfa780e61f5c282b3124855897a881.mp3*~data=user_id=0,application_id=42~hmac=4972919352ac63592e1ce87ee311dc6d7bb8e506d16512ab4fb578bd6089277c",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Snow in Skyami",
+            "length": "2:42",
+            "deezer": {
+              "id": 4144145212,
+              "link": "https://www.deezer.com/track/4144145212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/7/0/8a76d1f1ab3a2b26a5913a7f864207c8.mp3?hdnea=exp=1795654543~acl=/api/1/1/8/a/7/0/8a76d1f1ab3a2b26a5913a7f864207c8.mp3*~data=user_id=0,application_id=42~hmac=8eab18c628be9fa5874309a94afdc902ae924eef8e71e509b3a85e9994907e11",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Build a Bitch",
+            "length": "2:43",
+            "deezer": {
+              "id": 4144145222,
+              "link": "https://www.deezer.com/track/4144145222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/4/0/7f4e4b549254546c617575167369eb44.mp3?hdnea=exp=1795654543~acl=/api/1/1/7/f/4/0/7f4e4b549254546c617575167369eb44.mp3*~data=user_id=0,application_id=42~hmac=ef84862d78a64bc9718dcd1db2111b97a53e99b824c161a96747ab1f97d6d990",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Radio",
+            "length": "2:40",
+            "deezer": {
+              "id": 4144145242,
+              "link": "https://www.deezer.com/track/4144145242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/9/0/d397def5bde391e4fec4362c98018375.mp3?hdnea=exp=1795654543~acl=/api/1/1/d/3/9/0/d397def5bde391e4fec4362c98018375.mp3*~data=user_id=0,application_id=42~hmac=4db87dfe51049f044b7d04cc0059e38ff43333d594f2071d97238891ff3207b4",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "2018",
+            "length": "3:44",
+            "deezer": {
+              "id": 4144145252,
+              "link": "https://www.deezer.com/track/4144145252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/a/0/42a2ecfec6ebc5515727b6379a7588ca.mp3?hdnea=exp=1795654543~acl=/api/1/1/4/2/a/0/42a2ecfec6ebc5515727b6379a7588ca.mp3*~data=user_id=0,application_id=42~hmac=d9e99b5b1427a714d833f15f592658d8cf02f7ac1c12522777f6b2fe78eb3508",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Money Over Everything",
+            "length": "2:14",
+            "deezer": {
+              "id": 4144145262,
+              "link": "https://www.deezer.com/track/4144145262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/b/0/54b7cb40b27ec4b20e577dc5763c5d3e.mp3?hdnea=exp=1795654543~acl=/api/1/1/5/4/b/0/54b7cb40b27ec4b20e577dc5763c5d3e.mp3*~data=user_id=0,application_id=42~hmac=457fd64ae0d4d2e3bd7f2616d334a0d8dd3bec77e5ce8d494acb3ce67283ae20",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Off the Hinge",
+            "length": "2:52",
+            "deezer": {
+              "id": 4144145272,
+              "link": "https://www.deezer.com/track/4144145272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/1/0/3c176c59a84cedb437fb954596eb4edb.mp3?hdnea=exp=1795654543~acl=/api/1/1/3/c/1/0/3c176c59a84cedb437fb954596eb4edb.mp3*~data=user_id=0,application_id=42~hmac=5815ee4e3585e6c2264da3328a863068a0503f9d2acf4b56431e68d2f3714f84",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "If I Could",
+            "length": "3:11",
+            "deezer": {
+              "id": 4144145282,
+              "link": "https://www.deezer.com/track/4144145282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/0/0/a5096b48216471e0f9f8a662b891633a.mp3?hdnea=exp=1795654543~acl=/api/1/1/a/5/0/0/a5096b48216471e0f9f8a662b891633a.mp3*~data=user_id=0,application_id=42~hmac=af91b61502f3043381093dac0d2f249e306ffb1c4d4553b9169cd5d1d0630240",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Big Moment",
+            "length": "3:15",
+            "deezer": {
+              "id": 4144145292,
+              "link": "https://www.deezer.com/track/4144145292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/c/0/bcc61f65d29914cc7a7792984e372134.mp3?hdnea=exp=1795654543~acl=/api/1/1/b/c/c/0/bcc61f65d29914cc7a7792984e372134.mp3*~data=user_id=0,application_id=42~hmac=5319ac4a8992ed5c3203ba1c587cc4f360143d6f2bc95c1c09832ae5c376dd60",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Cast a Spell",
+            "length": "3:28",
+            "deezer": {
+              "id": 4144145302,
+              "link": "https://www.deezer.com/track/4144145302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/6/0/ba6ff3e12c568385d0b5a321fa2189e9.mp3?hdnea=exp=1795654543~acl=/api/1/1/b/a/6/0/ba6ff3e12c568385d0b5a321fa2189e9.mp3*~data=user_id=0,application_id=42~hmac=99aa7c914758ed962a5fe10f09563ad6aebfcc7e5d4259e725410a694fd1ff97",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Kick",
+            "length": "2:15",
+            "deezer": {
+              "id": 4144145312,
+              "link": "https://www.deezer.com/track/4144145312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/b/0/08bc76c39ef8502224ab80e694ec2641.mp3?hdnea=exp=1795654543~acl=/api/1/1/0/8/b/0/08bc76c39ef8502224ab80e694ec2641.mp3*~data=user_id=0,application_id=42~hmac=0f690a8ae45b0ee5c3d1fc537b7e741433b9ca98b468849c9e9f845802230770",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Hollywood",
+            "length": "2:59",
+            "deezer": {
+              "id": 4144145322,
+              "link": "https://www.deezer.com/track/4144145322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/0/0/8d0783249515aa0ee9b1a990fa4a1d47.mp3?hdnea=exp=1795654543~acl=/api/1/1/8/d/0/0/8d0783249515aa0ee9b1a990fa4a1d47.mp3*~data=user_id=0,application_id=42~hmac=29b6c8b925cdea301de1c3d060e9d33fcb47767f4d5d55fbbc1aafe1bc0040f0",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Feeling I Give",
+            "length": "2:36",
+            "deezer": {
+              "id": 4144145332,
+              "link": "https://www.deezer.com/track/4144145332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/5/0/82588426f7f730a7411d9a997abca75a.mp3?hdnea=exp=1795654543~acl=/api/1/1/8/2/5/0/82588426f7f730a7411d9a997abca75a.mp3*~data=user_id=0,application_id=42~hmac=23dbd8e833145cdf662eb176cf4fac6ffaa40c1636a95bc760926f74048dd3cd",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Alice",
+            "length": "2:51",
+            "deezer": {
+              "id": 4144145342,
+              "link": "https://www.deezer.com/track/4144145342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/a/0/bda21e9969a116da5513d24b7204dbe9.mp3?hdnea=exp=1795654543~acl=/api/1/1/b/d/a/0/bda21e9969a116da5513d24b7204dbe9.mp3*~data=user_id=0,application_id=42~hmac=7c0ef25abb438ceb6079b40ee94d18d15a21f941afbffa0a14117653e038176d",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Eye to Eye",
+            "length": "2:25",
+            "deezer": {
+              "id": 4144145352,
+              "link": "https://www.deezer.com/track/4144145352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/f/0/c3f679c79a56981eaff5ac607abe15e3.mp3?hdnea=exp=1795654543~acl=/api/1/1/c/3/f/0/c3f679c79a56981eaff5ac607abe15e3.mp3*~data=user_id=0,application_id=42~hmac=ac1d05e374beb665a4fd73a8b672e2f083a8b9bf20388a315a4e74e6afac9a2f",
+              "preview_expires": "2026-11-26T00:55:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Future/The Real Me.jpg"
+}

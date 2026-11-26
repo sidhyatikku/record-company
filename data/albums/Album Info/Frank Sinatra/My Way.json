@@ -1,0 +1,193 @@
+{
+  "title": "My Way",
+  "artist": "Frank Sinatra",
+  "year": 1969,
+  "release_date": "1969-03",
+  "type": "Album",
+  "description": "My Way is an album by American singer Frank Sinatra, released in 1969 on his own Reprise label.",
+  "genres": [
+    "jazz",
+    "pop",
+    "traditional pop",
+    "big band",
+    "easy listening",
+    "vocal jazz"
+  ],
+  "tags": [
+    "vocal",
+    "jazz",
+    "pop",
+    "traditional pop",
+    "big band",
+    "easy listening",
+    "vocal jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8d09140c-21e9-31ea-be11-9201f9cce665",
+    "wikipedia": "https://en.wikipedia.org/wiki/My_Way_(Frank_Sinatra_album)",
+    "discogs": "https://www.discogs.com/master/144074",
+    "wikidata": "https://www.wikidata.org/wiki/Q1180251",
+    "deezer": "https://www.deezer.com/album/6954983"
+  },
+  "musicbrainz_id": "8d09140c-21e9-31ea-be11-9201f9cce665",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f98ca562-daed-41b9-a421-450d43358f5e",
+      "barcode": "00602537569076",
+      "title": "My Way",
+      "disambiguation": "40th anniversary edition",
+      "date": "2013-10-01",
+      "country": "AL"
+    },
+    "total_tracks": 12,
+    "total_length": "41:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Watch What Happens",
+            "length": "2:20",
+            "deezer": {
+              "id": 70835061,
+              "link": "https://www.deezer.com/track/70835061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/1/0/0611ac96b2922c2700e00439485df6fa.mp3?hdnea=exp=1795654364~acl=/api/1/1/0/6/1/0/0611ac96b2922c2700e00439485df6fa.mp3*~data=user_id=0,application_id=42~hmac=d8f7c718b59e9d63447e888f961715e6c61e1e1278feb49832c915a0725abd1c",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Didn’t We",
+            "length": "2:59",
+            "deezer": {
+              "id": 70835062,
+              "link": "https://www.deezer.com/track/70835062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/5/0/96599386936b3592b87c56e9724d8fe1.mp3?hdnea=exp=1795654364~acl=/api/1/1/9/6/5/0/96599386936b3592b87c56e9724d8fe1.mp3*~data=user_id=0,application_id=42~hmac=6528243f04b5b4711e3fa66a94a73e50a3955b6b4ccf1aa1db9f8108cac25691",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hallelujah, I Love Her So",
+            "length": "2:50",
+            "deezer": {
+              "id": 70835063,
+              "link": "https://www.deezer.com/track/70835063",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/e/0/d1ef1434f302f851c7a1f5c9a21077fd.mp3?hdnea=exp=1795654364~acl=/api/1/1/d/1/e/0/d1ef1434f302f851c7a1f5c9a21077fd.mp3*~data=user_id=0,application_id=42~hmac=f9f4e0cbccf95138a75368635d2eaff481c954bc7f3eae85996590fe67f4f576",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Yesterday",
+            "length": "3:59",
+            "deezer": {
+              "id": 70835064,
+              "link": "https://www.deezer.com/track/70835064",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/1/0/dd12e367dd9b65258d9ef46c4e2e90b3.mp3?hdnea=exp=1795654364~acl=/api/1/1/d/d/1/0/dd12e367dd9b65258d9ef46c4e2e90b3.mp3*~data=user_id=0,application_id=42~hmac=3d92a1dcdfcf157240efe05f99e3e8a1a23affdba9f2e8bd2796bd97d5d46335",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "All My Tomorrows",
+            "length": "4:39",
+            "deezer": {
+              "id": 70835065,
+              "link": "https://www.deezer.com/track/70835065",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/1/0/fb1b90dd5d8877a39ee849ba809a5ef2.mp3?hdnea=exp=1795654364~acl=/api/1/1/f/b/1/0/fb1b90dd5d8877a39ee849ba809a5ef2.mp3*~data=user_id=0,application_id=42~hmac=f474723bdf312a08931549ce7fd17ff8377a55979f032e23eeb1a1b33ccd0ee0",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "My Way",
+            "length": "4:37",
+            "deezer": {
+              "id": 70835066,
+              "link": "https://www.deezer.com/track/70835066",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/d/0/18d336e276b5cd321494bba213dbc8d1.mp3?hdnea=exp=1795654364~acl=/api/1/1/1/8/d/0/18d336e276b5cd321494bba213dbc8d1.mp3*~data=user_id=0,application_id=42~hmac=658bad3da23ef59d96e9791d3c23c55f2e104fec8d00e81d0aae212f03517943",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "A Day in the Life of a Fool",
+            "length": "3:05",
+            "deezer": {
+              "id": 70835067,
+              "link": "https://www.deezer.com/track/70835067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/3/0/b23cf1696a533fb01c46212622bd4422.mp3?hdnea=exp=1795654364~acl=/api/1/1/b/2/3/0/b23cf1696a533fb01c46212622bd4422.mp3*~data=user_id=0,application_id=42~hmac=b5bc328797ce8786e68cd1121346b495d207a32aee6810ff397ee7ddf9b62f03",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "For Once in My Life",
+            "length": "2:51",
+            "deezer": {
+              "id": 70835068,
+              "link": "https://www.deezer.com/track/70835068",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/6/0/2d6b77c1957d6880875441a780e2f696.mp3?hdnea=exp=1795654364~acl=/api/1/1/2/d/6/0/2d6b77c1957d6880875441a780e2f696.mp3*~data=user_id=0,application_id=42~hmac=8581a635650f6a8e0a1a182b2035697412c23039cb9b8ea301f766e36b79851d",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "If You Go Away",
+            "length": "3:34",
+            "deezer": {
+              "id": 70835069,
+              "link": "https://www.deezer.com/track/70835069",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/8/0/4888d9c5e6fbaab473f71361624204d4.mp3?hdnea=exp=1795654364~acl=/api/1/1/4/8/8/0/4888d9c5e6fbaab473f71361624204d4.mp3*~data=user_id=0,application_id=42~hmac=4decf7c0effad0a02b1f2ee24c05316cbab654f30df38c3ee26cf90c3fa81092",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Mrs. Robinson",
+            "length": "2:57",
+            "deezer": {
+              "id": 70835070,
+              "link": "https://www.deezer.com/track/70835070",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/d/0/33d42e3259ee1aa5d46587eb87688f2d.mp3?hdnea=exp=1795654364~acl=/api/1/1/3/3/d/0/33d42e3259ee1aa5d46587eb87688f2d.mp3*~data=user_id=0,application_id=42~hmac=777ddca7faf0618384e5a93c06c93e639d21423d42adab4f5893af92e3353344",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "For Once in My Life (rehearsal)",
+            "length": "4:14",
+            "deezer": {
+              "id": 70835071,
+              "link": "https://www.deezer.com/track/70835071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/1/0/0c10781f8d7c9fb87d5b528106917919.mp3?hdnea=exp=1795654364~acl=/api/1/1/0/c/1/0/0c10781f8d7c9fb87d5b528106917919.mp3*~data=user_id=0,application_id=42~hmac=81a48e30d522b18ef46b26d704668f5e4039147eafd4365053aa91ba728b1477",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "My Way (live at the Reunion Arena/1987)",
+            "length": "3:16",
+            "deezer": {
+              "id": 70835072,
+              "link": "https://www.deezer.com/track/70835072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/c/0/bbc375bdc497803025b9ef36738a54ac.mp3?hdnea=exp=1795654364~acl=/api/1/1/b/b/c/0/bbc375bdc497803025b9ef36738a54ac.mp3*~data=user_id=0,application_id=42~hmac=3f4de763eabf0bf6aa15c4a94a21ccbaf7f4c6233a1dbc972adf2ac3c7fce935",
+              "preview_expires": "2026-11-26T00:52:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Frank Sinatra/My Way.jpg"
+}

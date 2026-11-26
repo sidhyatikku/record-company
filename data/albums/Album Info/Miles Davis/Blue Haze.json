@@ -1,0 +1,144 @@
+{
+  "title": "Blue Haze",
+  "artist": "Miles Davis",
+  "year": 1956,
+  "release_date": "1956",
+  "type": "Album",
+  "description": "Blue Haze is a compilation album of tracks recorded in 1953 and 1954 by Miles Davis for Prestige Records.",
+  "genres": [
+    "jazz",
+    "hard bop"
+  ],
+  "tags": [
+    "jazz",
+    "hard bop",
+    "jazz instrument",
+    "miles davis",
+    "trumpet jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 3.75,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2978c580-9123-3ca5-bf60-6a6e45ad2c4a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Haze",
+    "allmusic": "https://www.allmusic.com/album/mw0000652559",
+    "discogs": "https://www.discogs.com/master/62319",
+    "wikidata": "https://www.wikidata.org/wiki/Q2522649",
+    "deezer": "https://www.deezer.com/album/118526"
+  },
+  "musicbrainz_id": "2978c580-9123-3ca5-bf60-6a6e45ad2c4a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/502b82e6-b6ab-3b68-b8fd-74a52a86b893",
+      "barcode": "025218609326",
+      "title": "Blue Haze",
+      "disambiguation": null,
+      "date": "1988",
+      "country": "US"
+    },
+    "total_tracks": 8,
+    "total_length": "36:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I'll Remember April",
+            "length": "7:56",
+            "deezer": {
+              "id": 1098669,
+              "link": "https://www.deezer.com/track/1098669",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/2/0/c12feb09cf163cd442bb4164ac602b5f.mp3?hdnea=exp=1795718462~acl=/api/1/1/c/1/2/0/c12feb09cf163cd442bb4164ac602b5f.mp3*~data=user_id=0,application_id=42~hmac=ee7adea547277d9736fdbf4fd5314fba0b5463ac3c70fa92a6705f90a9148f1f",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Four",
+            "length": "4:04",
+            "deezer": {
+              "id": 1098672,
+              "link": "https://www.deezer.com/track/1098672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/7/0/9c7daa2709e13df4c6449c262ca460c4.mp3?hdnea=exp=1795718462~acl=/api/1/1/9/c/7/0/9c7daa2709e13df4c6449c262ca460c4.mp3*~data=user_id=0,application_id=42~hmac=5a5bad54bf80bbdccf4b430d4045fd32acbf6df52eee821aac63b604ffc6aff5",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Old Devil Moon",
+            "length": "3:25",
+            "deezer": {
+              "id": 1098675,
+              "link": "https://www.deezer.com/track/1098675",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/3/0/933734fc6b183a3f7a66b72173e02988.mp3?hdnea=exp=1795718462~acl=/api/1/1/9/3/3/0/933734fc6b183a3f7a66b72173e02988.mp3*~data=user_id=0,application_id=42~hmac=ffddb2b0ebd3b057412928890a5229f30c1a56b97edd1c1714efeb20c91f2b47",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Smooch",
+            "length": "3:07",
+            "deezer": {
+              "id": 1098678,
+              "link": "https://www.deezer.com/track/1098678",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/b/0/5cb67748812f3edfebb40e77d9b5aeb8.mp3?hdnea=exp=1795718462~acl=/api/1/1/5/c/b/0/5cb67748812f3edfebb40e77d9b5aeb8.mp3*~data=user_id=0,application_id=42~hmac=cadbbdf835606180d2a1b6ca6d84cf62c35033a0817968f3aee95e775f6b59ea",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Blue Haze",
+            "length": "6:13",
+            "deezer": {
+              "id": 1098680,
+              "link": "https://www.deezer.com/track/1098680",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/b/0/79b9437f0dccc6eb8f9dde4da8ef8d07.mp3?hdnea=exp=1795718462~acl=/api/1/1/7/9/b/0/79b9437f0dccc6eb8f9dde4da8ef8d07.mp3*~data=user_id=0,application_id=42~hmac=6ae3d7d24bbd2161d9f30a2bd653d901fd4e5dbdabc3b699debc7fb9e6f43269",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "When Lights Are Low",
+            "length": "3:29",
+            "deezer": {
+              "id": 1098683,
+              "link": "https://www.deezer.com/track/1098683",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/b/0/77b48171b500456a6757fd213f217238.mp3?hdnea=exp=1795718462~acl=/api/1/1/7/7/b/0/77b48171b500456a6757fd213f217238.mp3*~data=user_id=0,application_id=42~hmac=7684377a2dc49785bacefd6026d55b6ddbda3df5a5f6507e24d6911fb5cbfd15",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Tune Up",
+            "length": "3:57",
+            "deezer": {
+              "id": 1098687,
+              "link": "https://www.deezer.com/track/1098687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/4/0/a14a782ed9031d04b1f7ca38739614ee.mp3?hdnea=exp=1795718462~acl=/api/1/1/a/1/4/0/a14a782ed9031d04b1f7ca38739614ee.mp3*~data=user_id=0,application_id=42~hmac=e016c47958f0117ccd11a34578d0533969206271a462fa2eff6c887b4de5c27b",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Miles Ahead",
+            "length": "4:29",
+            "deezer": {
+              "id": 1098691,
+              "link": "https://www.deezer.com/track/1098691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/0/0/b109fb98cec289fca1116b582d537ad8.mp3?hdnea=exp=1795718462~acl=/api/1/1/b/1/0/0/b109fb98cec289fca1116b582d537ad8.mp3*~data=user_id=0,application_id=42~hmac=7c6072de5eb3b236eaa99501f46b761d8836b53dedbcf04c619cacdc9aaee443",
+              "preview_expires": "2026-11-26T18:41:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Miles Davis/Blue Haze.jpg"
+}

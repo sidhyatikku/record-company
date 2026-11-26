@@ -1,0 +1,480 @@
+{
+  "title": "Jazz Volume: Nina Simone",
+  "artist": "Nina Simone",
+  "year": 2022,
+  "release_date": "2022",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a8b69239-a15a-445f-bda4-841ceb4239cc",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/375471097"
+  },
+  "musicbrainz_id": "a8b69239-a15a-445f-bda4-841ceb4239cc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a1ea12c6-13cf-45e4-8537-e29597a2d62f",
+      "barcode": null,
+      "title": "Jazz Volume: Nina Simone",
+      "disambiguation": null,
+      "date": "2022",
+      "country": null
+    },
+    "total_tracks": 40,
+    "total_length": "2:19:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": null,
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Put a Spell on You",
+            "length": "2:36",
+            "deezer": {
+              "id": 2015702197,
+              "link": "https://www.deezer.com/track/2015702197",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/7/0/bc76516b55a506b443c631a92d737b2d.mp3?hdnea=exp=1795718943~acl=/api/1/1/b/c/7/0/bc76516b55a506b443c631a92d737b2d.mp3*~data=user_id=0,application_id=42~hmac=82cda487d5a69f722d24cb99a59c56a862b960bd3d4fd11d00f07dc4b5839f20",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Feeling Good (Joel Corry remix)",
+            "length": "3:09",
+            "deezer": {
+              "id": 2015702207,
+              "link": "https://www.deezer.com/track/2015702207",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/8/0/df89d2d0492e754da57e9c26cc110a67.mp3?hdnea=exp=1795718943~acl=/api/1/1/d/f/8/0/df89d2d0492e754da57e9c26cc110a67.mp3*~data=user_id=0,application_id=42~hmac=8dd33f6a7608e099e7e78c5d71f1da0e26174e64935276b079c2ac8d9c7f018e",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Don’t Let Me Be Misunderstood",
+            "length": "2:46",
+            "deezer": {
+              "id": 2015702217,
+              "link": "https://www.deezer.com/track/2015702217",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/d/0/45d4fe87ce74081f0637cd14a96d3b7e.mp3?hdnea=exp=1795718943~acl=/api/1/1/4/5/d/0/45d4fe87ce74081f0637cd14a96d3b7e.mp3*~data=user_id=0,application_id=42~hmac=efab0bec3a0cdc49cf4fc3a8897c9129542582a94b22837c45eadbdd6e6aeadb",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Take Care of Business",
+            "length": "2:06",
+            "deezer": {
+              "id": 2015702227,
+              "link": "https://www.deezer.com/track/2015702227",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/d/0/fdd0b5e96aafd69d0e5de52197cee898.mp3?hdnea=exp=1795718943~acl=/api/1/1/f/d/d/0/fdd0b5e96aafd69d0e5de52197cee898.mp3*~data=user_id=0,application_id=42~hmac=f59fae5c6e95dcc4401cf970f474b004c2556166266949649eb307d5327fd953",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Lilac Wine",
+            "length": "4:15",
+            "deezer": {
+              "id": 2015702237,
+              "link": "https://www.deezer.com/track/2015702237",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/1/0/47199653fc66e0a8b6dd7f15bdea4296.mp3?hdnea=exp=1795718943~acl=/api/1/1/4/7/1/0/47199653fc66e0a8b6dd7f15bdea4296.mp3*~data=user_id=0,application_id=42~hmac=206360c452d587f0810056070572f4eecbb08c3828e0a9b8508daf4970c2227d",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ne me quitte pas",
+            "length": "3:37",
+            "deezer": {
+              "id": 2015702247,
+              "link": "https://www.deezer.com/track/2015702247",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/c/0/66c4bc2c5d5378d680d57dc2f0d7ea05.mp3?hdnea=exp=1795718943~acl=/api/1/1/6/6/c/0/66c4bc2c5d5378d680d57dc2f0d7ea05.mp3*~data=user_id=0,application_id=42~hmac=d5d8b7a1b5d6057e01c9134ade04cb88ee6e453e496713de7026b1bf56ccab07",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "See‐Line Woman (Riton remix)",
+            "length": "4:04",
+            "deezer": {
+              "id": 2015702257,
+              "link": "https://www.deezer.com/track/2015702257",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/4/0/7147c47abc863e79cbd6ffd6c39192fd.mp3?hdnea=exp=1795718943~acl=/api/1/1/7/1/4/0/7147c47abc863e79cbd6ffd6c39192fd.mp3*~data=user_id=0,application_id=42~hmac=e62d7232d37306a9b96cdebb4254df6af9b21a40cc445518d8b2b74024cd5a30",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Nobody Knows You When You’re Down and Out",
+            "length": "2:38",
+            "deezer": {
+              "id": 2015702267,
+              "link": "https://www.deezer.com/track/2015702267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/0/0/b20a91a481200dfff4b7819ccd2e765b.mp3?hdnea=exp=1795718943~acl=/api/1/1/b/2/0/0/b20a91a481200dfff4b7819ccd2e765b.mp3*~data=user_id=0,application_id=42~hmac=85114c354578a92dc13a420fae86826aec596236806806d215c9b71aab164ac4",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Strange Fruit",
+            "length": "3:30",
+            "deezer": {
+              "id": 2015702277,
+              "link": "https://www.deezer.com/track/2015702277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/2/0/6a2c7abf1fe6a090929a890aa25ac449.mp3?hdnea=exp=1795718943~acl=/api/1/1/6/a/2/0/6a2c7abf1fe6a090929a890aa25ac449.mp3*~data=user_id=0,application_id=42~hmac=df86d546cf7a06f57de8ad9f636c507d707e26bd3d4e91511e7a2d4860395643",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Love Me or Leave Me",
+            "length": "4:06",
+            "deezer": {
+              "id": 2015702287,
+              "link": "https://www.deezer.com/track/2015702287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/d/0/71d2ac1646458b2c4124b6e3af4c4118.mp3?hdnea=exp=1795718943~acl=/api/1/1/7/1/d/0/71d2ac1646458b2c4124b6e3af4c4118.mp3*~data=user_id=0,application_id=42~hmac=2592209b91a6d23273acf13f8d79de4a67feffa35596cb261fe9de04ac7efa87",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "My Baby Just Cares for Me (2009 Remaster)",
+            "length": "3:38",
+            "deezer": {
+              "id": 2015702297,
+              "link": "https://www.deezer.com/track/2015702297",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "12",
+            "title": "Take Care of Business (Rudimental remix)",
+            "length": "4:39",
+            "deezer": {
+              "id": 2015702307,
+              "link": "https://www.deezer.com/track/2015702307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/7/0/fc7fd8920e42eb6ece2c6b0ed112cdc5.mp3?hdnea=exp=1795718943~acl=/api/1/1/f/c/7/0/fc7fd8920e42eb6ece2c6b0ed112cdc5.mp3*~data=user_id=0,application_id=42~hmac=280738360bf9e86ec2be233bd45c9ab66d4430a0d332217c4822cba72ccc2707",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "See‐Line Woman",
+            "length": "2:37",
+            "deezer": {
+              "id": 2015702317,
+              "link": "https://www.deezer.com/track/2015702317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f985bc3c5d96b2daea8dbe0d8136e8b6.mp3?hdnea=exp=1795718943~acl=/api/1/1/f/9/8/0/f985bc3c5d96b2daea8dbe0d8136e8b6.mp3*~data=user_id=0,application_id=42~hmac=6608031a8b18bc1d63d7f0ecdfa47d8b03e9908b9f84c1fca2fd18950592e3b8",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Be My Husband",
+            "length": "3:21",
+            "deezer": {
+              "id": 2015702327,
+              "link": "https://www.deezer.com/track/2015702327",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/1/0/251507dd4caedc24ca0425551c2b70e7.mp3?hdnea=exp=1795718943~acl=/api/1/1/2/5/1/0/251507dd4caedc24ca0425551c2b70e7.mp3*~data=user_id=0,application_id=42~hmac=7c5980944ba9061ddc54a1f167f52de511840297ae8ed86976d720cca108f420",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Four Women",
+            "length": "4:26",
+            "deezer": {
+              "id": 2015702337,
+              "link": "https://www.deezer.com/track/2015702337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/3/0/32385d4cfbb2bb5ecf3fd5722475986f.mp3?hdnea=exp=1795718943~acl=/api/1/1/3/2/3/0/32385d4cfbb2bb5ecf3fd5722475986f.mp3*~data=user_id=0,application_id=42~hmac=b3fe2fb9ecd9c01d109e20ac18b2f62acc89e47755d8ffa8d38436f20b34726a",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Wild Is the Wind",
+            "length": "7:00",
+            "deezer": {
+              "id": 2015702347,
+              "link": "https://www.deezer.com/track/2015702347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/1/0/b515ac15c4e1c7a0d83bf207742df3a3.mp3?hdnea=exp=1795718943~acl=/api/1/1/b/5/1/0/b515ac15c4e1c7a0d83bf207742df3a3.mp3*~data=user_id=0,application_id=42~hmac=c14e20bc4cdddbf5241195a695bc415da259787b1aa72501fbf636150fcf58ea",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Black Is the Color of My True Love’s Hair",
+            "length": "3:26",
+            "deezer": {
+              "id": 2015702357,
+              "link": "https://www.deezer.com/track/2015702357",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/5/0/9a598d030a407f7cb1bfbffeb6d5c0b3.mp3?hdnea=exp=1795718943~acl=/api/1/1/9/a/5/0/9a598d030a407f7cb1bfbffeb6d5c0b3.mp3*~data=user_id=0,application_id=42~hmac=0f9e97aaac6eb926fd3e59b840977fe57aa7413e9eecde8fa4145f0e6d324680",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Mood Indigo",
+            "length": "2:28",
+            "deezer": {
+              "id": 2015702367,
+              "link": "https://www.deezer.com/track/2015702367",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/7/0/7a7a1075f4fef2ce17572b63f85d307f.mp3?hdnea=exp=1795718943~acl=/api/1/1/7/a/7/0/7a7a1075f4fef2ce17572b63f85d307f.mp3*~data=user_id=0,application_id=42~hmac=05a7a4de545edf1943233f93213f1f28cdb08a2a04920a3f1b876f0dcc1c24bb",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Don’t Explain",
+            "length": "4:19",
+            "deezer": {
+              "id": 2015702377,
+              "link": "https://www.deezer.com/track/2015702377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/f/0/d5f6e0b6cebd26d7da1ebee4c6faa4f6.mp3?hdnea=exp=1795718943~acl=/api/1/1/d/5/f/0/d5f6e0b6cebd26d7da1ebee4c6faa4f6.mp3*~data=user_id=0,application_id=42~hmac=827fe95fcbbf1d8c0893a1adef5056eb7c30124b627b5ffbac3e97ddff98d90d",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Work Song",
+            "length": "3:06",
+            "deezer": {
+              "id": 2015702387,
+              "link": "https://www.deezer.com/track/2015702387",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/4/0/bf44a75592a498aa880e28fb4933cfd4.mp3?hdnea=exp=1795718943~acl=/api/1/1/b/f/4/0/bf44a75592a498aa880e28fb4933cfd4.mp3*~data=user_id=0,application_id=42~hmac=6bcc13949812a090889eeef35218d5e249787ad4fd735cb4d675c78290604a2e",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Feeling Good",
+            "length": "2:55",
+            "deezer": {
+              "id": 2015702397,
+              "link": "https://www.deezer.com/track/2015702397",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/7/0/8b74e61eb425aa8accc8a5c3c622f833.mp3?hdnea=exp=1795718943~acl=/api/1/1/8/b/7/0/8b74e61eb425aa8accc8a5c3c622f833.mp3*~data=user_id=0,application_id=42~hmac=102fb0103f552648a296d13a6394ddb6e5248330d8c7a688d46def820cfdd76e",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "I’m Going Back Home",
+            "length": "2:52",
+            "deezer": {
+              "id": 2015702407,
+              "link": "https://www.deezer.com/track/2015702407",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/4/0/d847b2063bea2f0357a0577a39aac608.mp3?hdnea=exp=1795718943~acl=/api/1/1/d/8/4/0/d847b2063bea2f0357a0577a39aac608.mp3*~data=user_id=0,application_id=42~hmac=8be569d0ea0003862be90101ff67695d2706862036cd2f6a65863b87deb14f6d",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "Little Girl Blue (live in New York, 1964)",
+            "length": "2:32",
+            "deezer": {
+              "id": 2015702417,
+              "link": "https://www.deezer.com/track/2015702417",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/7/0/867e0e65fb6e0613b2702fe3509d3b53.mp3?hdnea=exp=1795718943~acl=/api/1/1/8/6/7/0/867e0e65fb6e0613b2702fe3509d3b53.mp3*~data=user_id=0,application_id=42~hmac=7d32860fb2ae56fbbaf792bbf9c49008adccd4f38653194e61346325db41c3fc",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Mississippi Goddam (live at Carnegie Hall, New York, 1964)",
+            "length": "4:54",
+            "deezer": {
+              "id": 2015702427,
+              "link": "https://www.deezer.com/track/2015702427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/2/0/4b2e7f2a352fb19319b6eb57dea88690.mp3?hdnea=exp=1795718943~acl=/api/1/1/4/b/2/0/4b2e7f2a352fb19319b6eb57dea88690.mp3*~data=user_id=0,application_id=42~hmac=574072feeb3be997e882ae9644ac0c7f28196c9498d86527167ab157a474a794",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "July Tree",
+            "length": "2:41",
+            "deezer": {
+              "id": 2015702437,
+              "link": "https://www.deezer.com/track/2015702437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/e/0/4fec3d35036e0cf676a75f1ac94e75cf.mp3?hdnea=exp=1795718943~acl=/api/1/1/4/f/e/0/4fec3d35036e0cf676a75f1ac94e75cf.mp3*~data=user_id=0,application_id=42~hmac=6442c33dab54f63ec96304600ff477d15f3d73bcf7e0fa9f15a0fa20d59efc4f",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "You’ve Got to Learn",
+            "length": "2:45",
+            "deezer": {
+              "id": 2015702447,
+              "link": "https://www.deezer.com/track/2015702447",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/8/0/538945d0db580dbe0e475a992cf5b304.mp3?hdnea=exp=1795718943~acl=/api/1/1/5/3/8/0/538945d0db580dbe0e475a992cf5b304.mp3*~data=user_id=0,application_id=42~hmac=86849587c06788e3173014bcd10ca54e444906ea759fc96c00a96903f3349509",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "Trouble in Mind",
+            "length": "2:41",
+            "deezer": {
+              "id": 2015702457,
+              "link": "https://www.deezer.com/track/2015702457",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/9/0/8d9d3645ef77535a4bea59f8c73106ba.mp3?hdnea=exp=1795718943~acl=/api/1/1/8/d/9/0/8d9d3645ef77535a4bea59f8c73106ba.mp3*~data=user_id=0,application_id=42~hmac=192d616ea1633db611f36052756395c160f369932348ce47486f950ad27c70c7",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "The Other Woman (live in New York, 1964)",
+            "length": "3:02",
+            "deezer": {
+              "id": 2015702467,
+              "link": "https://www.deezer.com/track/2015702467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/1/0/ea11f04bc9bbd68ae4642b1fc37a3b74.mp3?hdnea=exp=1795718943~acl=/api/1/1/e/a/1/0/ea11f04bc9bbd68ae4642b1fc37a3b74.mp3*~data=user_id=0,application_id=42~hmac=ec3c264e5bba8de91eb13c9996bc898ecbccc6e696b266b2d311eae5bac4eb31",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "Tomorrow Is My Turn",
+            "length": "2:48",
+            "deezer": {
+              "id": 2015702477,
+              "link": "https://www.deezer.com/track/2015702477",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/7/0/0d79a34bbe29655e479d8edaa5384a12.mp3?hdnea=exp=1795718943~acl=/api/1/1/0/d/7/0/0d79a34bbe29655e479d8edaa5384a12.mp3*~data=user_id=0,application_id=42~hmac=06bab7f266c1e614eb58ea762fb576730781e8a43bc4e7a3741b059ece2b4777",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "Tell Me More and More and Then Some",
+            "length": "3:09",
+            "deezer": {
+              "id": 2015702487,
+              "link": "https://www.deezer.com/track/2015702487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/2/0/58215b53a2570c32211a86678e5dcd97.mp3?hdnea=exp=1795718943~acl=/api/1/1/5/8/2/0/58215b53a2570c32211a86678e5dcd97.mp3*~data=user_id=0,application_id=42~hmac=4b263f57773ce2b43d5d9cdde344b265199728a55906f6b7f1aa66223d4202e9",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "31",
+            "title": "Take Me to the Water",
+            "length": "2:49",
+            "deezer": {
+              "id": 2015702497,
+              "link": "https://www.deezer.com/track/2015702497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/b/0/17b12dc92ef434ce39cd43ad13314351.mp3?hdnea=exp=1795718943~acl=/api/1/1/1/7/b/0/17b12dc92ef434ce39cd43ad13314351.mp3*~data=user_id=0,application_id=42~hmac=5d918efae0bd78447d1cf4414248620799652980c9b7065bc92dc9f6b5f80217",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "32",
+            "title": "Marriage Is for Old Folks",
+            "length": "3:34",
+            "deezer": {
+              "id": 2015702507,
+              "link": "https://www.deezer.com/track/2015702507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/b/0/89b76eb5756a674dcf03c2879b45c5ba.mp3?hdnea=exp=1795718943~acl=/api/1/1/8/9/b/0/89b76eb5756a674dcf03c2879b45c5ba.mp3*~data=user_id=0,application_id=42~hmac=333414b999716be1ce925f36f7fce0eed9dbda110e7dadb4f9d1de91b8cbceb8",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "33",
+            "title": "I Loves You Porgy (live at Carnegie Hall, New York, 1964)",
+            "length": "2:32",
+            "deezer": {
+              "id": 2015702517,
+              "link": "https://www.deezer.com/track/2015702517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/8/0/528d261dd1921038ab55afe8f0d9d098.mp3?hdnea=exp=1795718943~acl=/api/1/1/5/2/8/0/528d261dd1921038ab55afe8f0d9d098.mp3*~data=user_id=0,application_id=42~hmac=b39144e79230ea91c397879fc76d96482be494865c052f8264002deb0bd3a3f6",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "34",
+            "title": "One September Day",
+            "length": "2:48",
+            "deezer": {
+              "id": 2015702527,
+              "link": "https://www.deezer.com/track/2015702527",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/1/0/161357a5586d04f3602ccca30077ab98.mp3?hdnea=exp=1795718943~acl=/api/1/1/1/6/1/0/161357a5586d04f3602ccca30077ab98.mp3*~data=user_id=0,application_id=42~hmac=fd4d938c1031f0b9c80a8689ae9700c50a41e27cecb9432a495c24782d2868dd",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "35",
+            "title": "I’m Gonna Leave You",
+            "length": "2:19",
+            "deezer": {
+              "id": 2015702537,
+              "link": "https://www.deezer.com/track/2015702537",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/c/0/9ac2d9e274996ff971382b102469a31d.mp3?hdnea=exp=1795718943~acl=/api/1/1/9/a/c/0/9ac2d9e274996ff971382b102469a31d.mp3*~data=user_id=0,application_id=42~hmac=435d3d33fc39e52b5fbd7dcdc1f86249b483f1409aea4128ce327b9d0b1bcff5",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "36",
+            "title": "Gimme Some",
+            "length": "2:58",
+            "deezer": {
+              "id": 2015702547,
+              "link": "https://www.deezer.com/track/2015702547",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/5/0/d85e5c6eb83605547ae27d5854aaa98a.mp3?hdnea=exp=1795718943~acl=/api/1/1/d/8/5/0/d85e5c6eb83605547ae27d5854aaa98a.mp3*~data=user_id=0,application_id=42~hmac=7d15e65bba6c42b6404f7554c84b2cf05f334b2f8391c9574995bdd59917c1b6",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "37",
+            "title": "Brown Eyed Handsome Man",
+            "length": "2:07",
+            "deezer": {
+              "id": 2015702557,
+              "link": "https://www.deezer.com/track/2015702557",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/b/0/21bc42c8dcf7caebcb73bba83cab2980.mp3?hdnea=exp=1795718943~acl=/api/1/1/2/1/b/0/21bc42c8dcf7caebcb73bba83cab2980.mp3*~data=user_id=0,application_id=42~hmac=9f80c5b6097b482042a389c0dfd4d7fa85ae16ec418409a3033ded6197e411cd",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "38",
+            "title": "Sinnerman",
+            "length": "10:19",
+            "deezer": {
+              "id": 2015702567,
+              "link": "https://www.deezer.com/track/2015702567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/7/0/dc7646ad4444eeecf9de04139c3ca8bc.mp3?hdnea=exp=1795718943~acl=/api/1/1/d/c/7/0/dc7646ad4444eeecf9de04139c3ca8bc.mp3*~data=user_id=0,application_id=42~hmac=f6582fcb604a0027cc4516bbfa95369bdc652a1aeee4aa4798c2971680022d93",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "39",
+            "title": "Sinnerman (Felix da Housecat’s Heavenly House mix)",
+            "length": "4:35",
+            "deezer": {
+              "id": 2015702577,
+              "link": "https://www.deezer.com/track/2015702577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/d/0/82dbbac1b18dea51307ffdf6cd1e7089.mp3?hdnea=exp=1795718943~acl=/api/1/1/8/2/d/0/82dbbac1b18dea51307ffdf6cd1e7089.mp3*~data=user_id=0,application_id=42~hmac=839386466bbeb8c357e43157e86e5c059df06e707cd93498205d7aedcb08d06a",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          },
+          {
+            "number": "40",
+            "title": "My Baby Just Cares for Me (HONNE remix)",
+            "length": "3:51",
+            "deezer": {
+              "id": 2015702587,
+              "link": "https://www.deezer.com/track/2015702587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/8/0/c684bacca28cb7617786a18b39d49f0b.mp3?hdnea=exp=1795718943~acl=/api/1/1/c/6/8/0/c684bacca28cb7617786a18b39d49f0b.mp3*~data=user_id=0,application_id=42~hmac=338966b241f23171b6e8f3348dae06c8e11b4a6e2662785a2b1eb1ad4400adaf",
+              "preview_expires": "2026-11-26T18:49:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nina Simone/Jazz Volume- Nina Simone.jpg"
+}

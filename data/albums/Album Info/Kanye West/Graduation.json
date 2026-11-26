@@ -1,0 +1,231 @@
+{
+  "title": "Graduation",
+  "artist": "Kanye West",
+  "year": 2007,
+  "release_date": "2007-09-05",
+  "type": "Album",
+  "description": "Graduation is the third studio album by the American rapper Kanye West. It was released on September 11, 2007, through Def Jam Recordings and Roc-A-Fella Records. Recording sessions took place between 2005 and 2007 at several studios in New York and Los Angeles. It was primarily produced by West himself, with contributions from various other producers, including DJ Toomp. The album features guest appearances from recording artists such as Dwele, T-Pain, Lil Wayne, Mos Def, DJ Premier, and Chris Martin. The cover art, which features West's mascot at the time Dropout Bear in a new cartoon form, had its interior artwork designed by contemporary artist Takashi Murakami.",
+  "genres": [
+    "hip hop",
+    "pop rap",
+    "electropop",
+    "alternative hip hop",
+    "east coast hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "pop rap",
+    "alternative rap",
+    "rap",
+    "electropop",
+    "5+ wochen",
+    "alternative hip hop",
+    "east coast hip hop",
+    "english",
+    "hip hop rap",
+    "hip-hop",
+    "midwest rap",
+    "midwestern rap",
+    "offizielle charts",
+    "pop-rap",
+    "soul and r amp b"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 29
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d44c50ad-61fd-3fce-95fc-27024d7f1d30",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graduation_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000484496",
+    "discogs": "https://www.discogs.com/master/8497",
+    "wikidata": "https://www.wikidata.org/wiki/Q1129439",
+    "deezer": "https://www.deezer.com/album/86994002"
+  },
+  "musicbrainz_id": "d44c50ad-61fd-3fce-95fc-27024d7f1d30",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ccd5625e-f49d-4b8a-a2f2-fecf7009f011",
+      "barcode": "00602577027864",
+      "title": "Graduation",
+      "disambiguation": "explicit",
+      "date": "2019-02-15",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "54:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Good Morning",
+            "length": "3:15",
+            "deezer": {
+              "id": 630827222,
+              "link": "https://www.deezer.com/track/630827222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/4/0/b54c0f0ffe49c85ba4e908dd1ea45dac.mp3?hdnea=exp=1795655891~acl=/api/1/1/b/5/4/0/b54c0f0ffe49c85ba4e908dd1ea45dac.mp3*~data=user_id=0,application_id=42~hmac=233e60ef9230a9013fbc1cec5dc01f1195337765b317e4d0e4346ad666dcb47c",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Champion",
+            "length": "2:48",
+            "deezer": {
+              "id": 630827232,
+              "link": "https://www.deezer.com/track/630827232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/c/0/88cf6edbde90f329dd5715ec3fe39b9d.mp3?hdnea=exp=1795655891~acl=/api/1/1/8/8/c/0/88cf6edbde90f329dd5715ec3fe39b9d.mp3*~data=user_id=0,application_id=42~hmac=2f498e38cde3d0224c024895af76cdca9b0fdd7300f665e3c3844560dba0fc10",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Stronger",
+            "length": "5:12",
+            "deezer": {
+              "id": 630827242,
+              "link": "https://www.deezer.com/track/630827242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/1/0/361276290572e6564c4aa3e265449d93.mp3?hdnea=exp=1795655891~acl=/api/1/1/3/6/1/0/361276290572e6564c4aa3e265449d93.mp3*~data=user_id=0,application_id=42~hmac=81268e06111620c4116bf108cb467c475ea3bea712065a8fc10870f9440566d9",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Wonder",
+            "length": "4:03",
+            "deezer": {
+              "id": 630827252,
+              "link": "https://www.deezer.com/track/630827252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/a/0/4ca3eeae8607e2e342ed1a7b2d5313d8.mp3?hdnea=exp=1795655891~acl=/api/1/1/4/c/a/0/4ca3eeae8607e2e342ed1a7b2d5313d8.mp3*~data=user_id=0,application_id=42~hmac=62cca266b8db1b3bbd3a72fdce7a0c05b490ec652b740bdb152570e55fcf70fe",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Good Life",
+            "length": "3:27",
+            "artist": "Kanye West feat. T‐Pain",
+            "deezer": {
+              "id": 630827262,
+              "link": "https://www.deezer.com/track/630827262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/7/0/0f7acdb2ea5d6d16b91cd6a8ba3b8d80.mp3?hdnea=exp=1795655891~acl=/api/1/1/0/f/7/0/0f7acdb2ea5d6d16b91cd6a8ba3b8d80.mp3*~data=user_id=0,application_id=42~hmac=d37f2600d769d49fc285c50a99b43d79c2e849a8412d3c349f864a72347f2ae1",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Can’t Tell Me Nothing",
+            "length": "4:32",
+            "deezer": {
+              "id": 630827272,
+              "link": "https://www.deezer.com/track/630827272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/1/0/761ad4e6c747d8805df22c5d50f4ae5c.mp3?hdnea=exp=1795655891~acl=/api/1/1/7/6/1/0/761ad4e6c747d8805df22c5d50f4ae5c.mp3*~data=user_id=0,application_id=42~hmac=b7d7499d5dcd23aa6a28e0141ad9e67f20e460df1567886a1826ae9b574f0009",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Barry Bonds",
+            "length": "3:24",
+            "artist": "Kanye West feat. Lil Wayne",
+            "deezer": {
+              "id": 630827282,
+              "link": "https://www.deezer.com/track/630827282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/9/0/f49cad0f247146281804fad233160a6a.mp3?hdnea=exp=1795655891~acl=/api/1/1/f/4/9/0/f49cad0f247146281804fad233160a6a.mp3*~data=user_id=0,application_id=42~hmac=eccf9b7099944c2f6de669e8135cef3237aaa77ab19105c965f6f9084000d344",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Drunk and Hot Girls",
+            "length": "5:13",
+            "artist": "Kanye West feat. Mos Def",
+            "deezer": {
+              "id": 630827292,
+              "link": "https://www.deezer.com/track/630827292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/5/0/0956306bee6ec6bfbb73d05bd5655c90.mp3?hdnea=exp=1795655891~acl=/api/1/1/0/9/5/0/0956306bee6ec6bfbb73d05bd5655c90.mp3*~data=user_id=0,application_id=42~hmac=e31e0dd3d54318b1ce0df51806c0b18355fe736a472fb04ca74810aebaf0c46a",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Flashing Lights",
+            "length": "3:58",
+            "artist": "Kanye West feat. Dwele",
+            "deezer": {
+              "id": 630827302,
+              "link": "https://www.deezer.com/track/630827302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/9/0/c197747c4e0d080521c00e8efd392be5.mp3?hdnea=exp=1795655891~acl=/api/1/1/c/1/9/0/c197747c4e0d080521c00e8efd392be5.mp3*~data=user_id=0,application_id=42~hmac=e55a21d36aedb44d959c496eb8d5da82ae4b8f52c2bcc8c8f662c21afff5b1c6",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Everything I Am",
+            "length": "3:48",
+            "artist": "Kanye West feat. DJ Premier",
+            "deezer": {
+              "id": 630827312,
+              "link": "https://www.deezer.com/track/630827312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/d/0/32dc386759de6f31755b8e1efae588d7.mp3?hdnea=exp=1795655891~acl=/api/1/1/3/2/d/0/32dc386759de6f31755b8e1efae588d7.mp3*~data=user_id=0,application_id=42~hmac=697d527b34286ff1b1b92290fe6dd51fdf18f21e4ac7fb212b38086cfa0ea9f4",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Glory",
+            "length": "3:33",
+            "deezer": {
+              "id": 630827322,
+              "link": "https://www.deezer.com/track/630827322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/b/0/1fb7d3b0356baa87b1deb7918e98e01b.mp3?hdnea=exp=1795655891~acl=/api/1/1/1/f/b/0/1fb7d3b0356baa87b1deb7918e98e01b.mp3*~data=user_id=0,application_id=42~hmac=514e009b9be3f38b1849ec014263a405127fca511daa3de4e4b0c381da13bb9b",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Homecoming",
+            "length": "3:23",
+            "artist": "Kanye West feat. Chris Martin",
+            "deezer": {
+              "id": 630827332,
+              "link": "https://www.deezer.com/track/630827332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/7/0/ea77f578dda311b63fe1207792be3a38.mp3?hdnea=exp=1795655891~acl=/api/1/1/e/a/7/0/ea77f578dda311b63fe1207792be3a38.mp3*~data=user_id=0,application_id=42~hmac=18267e2ec133daf4f6b3373988539b0380195b67a550d1c7c3e54a3c7766bc4c",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Big Brother",
+            "length": "4:48",
+            "deezer": {
+              "id": 630827342,
+              "link": "https://www.deezer.com/track/630827342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/b/0/44bf5fb7d174dcf3acea1801430911ba.mp3?hdnea=exp=1795655891~acl=/api/1/1/4/4/b/0/44bf5fb7d174dcf3acea1801430911ba.mp3*~data=user_id=0,application_id=42~hmac=cd2227e0f75cf9f8a6940011fd1d42cfddecf07843218ab3fb5066f97cfb92c0",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Good Night",
+            "length": "3:06",
+            "artist": "Kanye West feat. Mos Def & Al Be Back",
+            "deezer": {
+              "id": 630827352,
+              "link": "https://www.deezer.com/track/630827352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/c/0/ccc7efbee3940a10dd0a3e32eef87390.mp3?hdnea=exp=1795655891~acl=/api/1/1/c/c/c/0/ccc7efbee3940a10dd0a3e32eef87390.mp3*~data=user_id=0,application_id=42~hmac=2abd469def8e344d0ad9b979879a97dc094798d2eda1a948fa0af24416dfb539",
+              "preview_expires": "2026-11-26T01:18:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kanye West/Graduation.jpg"
+}

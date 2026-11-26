@@ -1,0 +1,45 @@
+{
+  "title": "Laagi",
+  "artist": "Tech Panda, Kenzani",
+  "year": 2020,
+  "release_date": "2020-11-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3vKq64s4UYKZYnk3c9sAuI",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3vKq64s4UYKZYnk3c9sAuI",
+      "title": "Laagi",
+      "date": "2020-11-07"
+    },
+    "total_tracks": 1,
+    "total_length": "3:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Laagi",
+            "length": "3:54"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Laagi.jpg"
+}

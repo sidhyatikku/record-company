@@ -1,0 +1,57 @@
+{
+  "title": "Copyright",
+  "artist": "Prem Dhillon",
+  "year": 2021,
+  "release_date": "2021-03-09",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "pop"
+  ],
+  "tags": [
+    "bhangra",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fc1e0e2b-6f57-4e29-a56b-e20b7432d900",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/212522442"
+  },
+  "musicbrainz_id": "fc1e0e2b-6f57-4e29-a56b-e20b7432d900",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e1f2756f-ba95-4334-817c-814e801ceaef",
+      "barcode": "8902633318793",
+      "title": "Copyright",
+      "disambiguation": null,
+      "date": "2021-03-09",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Copyright",
+            "length": "3:02",
+            "deezer": {
+              "id": 1265477042,
+              "link": "https://www.deezer.com/track/1265477042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/1/0/c31a43670a6b484eb65a87efc8792bc1.mp3?hdnea=exp=1795719671~acl=/api/1/1/c/3/1/0/c31a43670a6b484eb65a87efc8792bc1.mp3*~data=user_id=0,application_id=42~hmac=ec8f11ccaecfd0237675f6386d0bc9fa0cff347fc27cf6d0163a55efdf158577",
+              "preview_expires": "2026-11-26T19:01:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Prem Dhillon/Copyright.jpg"
+}

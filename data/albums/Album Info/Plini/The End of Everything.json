@@ -1,0 +1,88 @@
+{
+  "title": "The End of Everything",
+  "artist": "Plini",
+  "year": 2015,
+  "release_date": "2015-03-11",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "alternative rock",
+    "post-rock",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "alternative",
+    "alternative rock",
+    "post-rock",
+    "progressive metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/83d0aaa0-de0d-4325-b101-71d860c423e1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/221642422"
+  },
+  "musicbrainz_id": "83d0aaa0-de0d-4325-b101-71d860c423e1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7324f859-7f69-40c7-a5ff-be5f59f12d85",
+      "barcode": "859714176637",
+      "title": "The End of Everything",
+      "disambiguation": null,
+      "date": "2015-03-11",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "17:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The End of Everything",
+            "length": "4:06",
+            "deezer": {
+              "id": 1333998712,
+              "link": "https://www.deezer.com/track/1333998712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/1/0/551fb4b4bd06e9d01040bff76ebd46d9.mp3?hdnea=exp=1795719579~acl=/api/1/1/5/5/1/0/551fb4b4bd06e9d01040bff76ebd46d9.mp3*~data=user_id=0,application_id=42~hmac=8fb33e326590e9b60a22f5eb175dbfc37ecf736437a972ad8a286d2ecdc9e982",
+              "preview_expires": "2026-11-26T18:59:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Wombat Astronaut (Beyond the Burrow)",
+            "length": "4:24",
+            "deezer": {
+              "id": 1333998722,
+              "link": "https://www.deezer.com/track/1333998722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/6/0/b76d36fe3ef71582a65960f3070786ef.mp3?hdnea=exp=1795719579~acl=/api/1/1/b/7/6/0/b76d36fe3ef71582a65960f3070786ef.mp3*~data=user_id=0,application_id=42~hmac=fc55189e88f17911796dc1108457e8eb25a0abf11cc92919adf518a80e9ab968",
+              "preview_expires": "2026-11-26T18:59:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Paper Moon",
+            "length": "8:32",
+            "deezer": {
+              "id": 1333998732,
+              "link": "https://www.deezer.com/track/1333998732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/f/0/ccfe265d1732a8052354a00c14f5b02d.mp3?hdnea=exp=1795719579~acl=/api/1/1/c/c/f/0/ccfe265d1732a8052354a00c14f5b02d.mp3*~data=user_id=0,application_id=42~hmac=7138de6e1f6f8d54955937b92dea145e4f53c0e780a77340452817aa57bfc887",
+              "preview_expires": "2026-11-26T18:59:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Plini/The End of Everything.jpg"
+}

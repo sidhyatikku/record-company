@@ -1,0 +1,160 @@
+{
+  "title": "Coma",
+  "artist": "Modern Day Babylon",
+  "year": 2018,
+  "release_date": "2018-02-22",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "ambient",
+    "djent",
+    "instrumental",
+    "metal"
+  ],
+  "tags": [
+    "ambient",
+    "djent",
+    "instrumental",
+    "metal"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/dd1b4a9f-771d-4f17-8f92-e45db4571698",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/56354082"
+  },
+  "musicbrainz_id": "dd1b4a9f-771d-4f17-8f92-e45db4571698",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7da2c056-4716-43df-8a3f-57e297d37453",
+      "barcode": null,
+      "title": "Coma",
+      "disambiguation": null,
+      "date": "2018-02-22",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "40:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sleeper",
+            "length": "4:06",
+            "deezer": {
+              "id": 457882452,
+              "link": "https://www.deezer.com/track/457882452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/1/0/4b1fcbe76440ef913f6baff1f69ca09f.mp3?hdnea=exp=1795718570~acl=/api/1/1/4/b/1/0/4b1fcbe76440ef913f6baff1f69ca09f.mp3*~data=user_id=0,application_id=42~hmac=109dda4d538c38852ebfb43902e52da8d54a7a90b7c97a56308262c1419197cc",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dream Cycles",
+            "length": "3:53",
+            "deezer": {
+              "id": 457882462,
+              "link": "https://www.deezer.com/track/457882462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/b/0/d9b91acbcc71ea1f3017b081382205c6.mp3?hdnea=exp=1795718570~acl=/api/1/1/d/9/b/0/d9b91acbcc71ea1f3017b081382205c6.mp3*~data=user_id=0,application_id=42~hmac=27fec8ca7c931ff3679ad7841d5c0f8cea106f9e2ef97d903e8829611f6997e0",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Coma",
+            "length": "4:35",
+            "deezer": {
+              "id": 457882472,
+              "link": "https://www.deezer.com/track/457882472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/7/0/ad780588e6698eb6507f53790b3a527d.mp3?hdnea=exp=1795718570~acl=/api/1/1/a/d/7/0/ad780588e6698eb6507f53790b3a527d.mp3*~data=user_id=0,application_id=42~hmac=31a3bcefa1ac73f8895f862c4f216cd155ba6f2997d0a8684a2dce37dcaef123",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Timelapse",
+            "length": "4:34",
+            "deezer": {
+              "id": 457882482,
+              "link": "https://www.deezer.com/track/457882482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/2/0/8724b81aa6c6e20b67ac814f4159a300.mp3?hdnea=exp=1795718570~acl=/api/1/1/8/7/2/0/8724b81aa6c6e20b67ac814f4159a300.mp3*~data=user_id=0,application_id=42~hmac=8d3753d89a2402c077585ce9d75f01c486332201aad5c29de7a252cca2bb991f",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Otherside",
+            "length": "3:48",
+            "deezer": {
+              "id": 457882492,
+              "link": "https://www.deezer.com/track/457882492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/4/0/e84447b8b85229b52f09b2a44e279417.mp3?hdnea=exp=1795718570~acl=/api/1/1/e/8/4/0/e84447b8b85229b52f09b2a44e279417.mp3*~data=user_id=0,application_id=42~hmac=c98f5404e88038dbc11d8d70c29e9a04239c87a1a188ab795654e9b51db67796",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Waves",
+            "length": "4:06",
+            "deezer": {
+              "id": 457882502,
+              "link": "https://www.deezer.com/track/457882502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/b/0/a7b871515f16cc78c0281708ecfd2c9c.mp3?hdnea=exp=1795718570~acl=/api/1/1/a/7/b/0/a7b871515f16cc78c0281708ecfd2c9c.mp3*~data=user_id=0,application_id=42~hmac=2949aedde17947ae22ba5efba8ea2d9b7a9fc302df1564e6883b6d3bf1142cf6",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Memory",
+            "length": "4:07",
+            "deezer": {
+              "id": 457882512,
+              "link": "https://www.deezer.com/track/457882512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/a/0/4fa11dfa0023c3019f43aff4e5f7147b.mp3?hdnea=exp=1795718570~acl=/api/1/1/4/f/a/0/4fa11dfa0023c3019f43aff4e5f7147b.mp3*~data=user_id=0,application_id=42~hmac=0c701061cb12fcfabd615d614ce6b51e18f68a5f924dc9fb8a4b6d1907e9423e",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Visions",
+            "length": "4:13",
+            "deezer": {
+              "id": 457882522,
+              "link": "https://www.deezer.com/track/457882522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/d/0/dcdd7700bba8eac5c05bb8a790aeed3c.mp3?hdnea=exp=1795718570~acl=/api/1/1/d/c/d/0/dcdd7700bba8eac5c05bb8a790aeed3c.mp3*~data=user_id=0,application_id=42~hmac=ec75d5d841dd03ce4bda9f7682b84d607fb0139cd243bdcd5e3c622e26639616",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Wake Up",
+            "length": "3:48",
+            "deezer": {
+              "id": 457882532,
+              "link": "https://www.deezer.com/track/457882532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/4/0/834775b53a0e03bd05fa8e990a0646e5.mp3?hdnea=exp=1795718570~acl=/api/1/1/8/3/4/0/834775b53a0e03bd05fa8e990a0646e5.mp3*~data=user_id=0,application_id=42~hmac=115cb2eefed45f70112530d07f94d25f9b09f1b517543f522d5c574b96914663",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Waves (Matt Holland Remix)",
+            "length": "3:24",
+            "deezer": {
+              "id": 457882542,
+              "link": "https://www.deezer.com/track/457882542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/f/0/44f0ce7700ec3f033f7c9040ebb567c0.mp3?hdnea=exp=1795718570~acl=/api/1/1/4/4/f/0/44f0ce7700ec3f033f7c9040ebb567c0.mp3*~data=user_id=0,application_id=42~hmac=a5d59fbc6216dce3cbc0b57d2c5d25e874d7f749976eea2ef0b83a29dd45fbad",
+              "preview_expires": "2026-11-26T18:42:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Modern Day Babylon/Coma.jpg"
+}

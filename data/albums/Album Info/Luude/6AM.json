@@ -1,0 +1,96 @@
+{
+  "title": "6AM",
+  "artist": "Luude",
+  "year": 2021,
+  "release_date": "2021-09-03",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fee6316c-eac3-4394-bb18-db42f6cb2133",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/251595812"
+  },
+  "musicbrainz_id": "fee6316c-eac3-4394-bb18-db42f6cb2133",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/18be62e3-6a29-4379-b135-bec030f77e77",
+      "barcode": "9358782097031",
+      "title": "6AM",
+      "disambiguation": null,
+      "date": "2021-09-03",
+      "country": null
+    },
+    "total_tracks": 5,
+    "total_length": "18:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wanna Stay",
+            "length": "2:26",
+            "artist": "Luude feat. Dear Sunday",
+            "deezer": {
+              "id": 1463518622,
+              "link": "https://www.deezer.com/track/1463518622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/6/0/f467323692780ffb194ad1da6564c113.mp3?hdnea=exp=1795656747~acl=/api/1/1/f/4/6/0/f467323692780ffb194ad1da6564c113.mp3*~data=user_id=0,application_id=42~hmac=593028296efb9ecedf7bb5252cf513b87e3c243fc0057f2a76e5eb73df955b56",
+              "preview_expires": "2026-11-26T01:32:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Glenorchy",
+            "length": "4:53",
+            "deezer": {
+              "id": 1463518632,
+              "link": "https://www.deezer.com/track/1463518632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/7/0/077ed5773cb9ec4d14941a12d509219b.mp3?hdnea=exp=1795656747~acl=/api/1/1/0/7/7/0/077ed5773cb9ec4d14941a12d509219b.mp3*~data=user_id=0,application_id=42~hmac=42a5567befb1b9a803e307dcffecf046645c04089d6eaba1a7579b07c2c55f6d",
+              "preview_expires": "2026-11-26T01:32:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Butters",
+            "length": "3:23",
+            "deezer": {
+              "id": 1463518642,
+              "link": "https://www.deezer.com/track/1463518642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/0/0/3c00ef50641ac0f4437243fcfcaf7d76.mp3?hdnea=exp=1795656747~acl=/api/1/1/3/c/0/0/3c00ef50641ac0f4437243fcfcaf7d76.mp3*~data=user_id=0,application_id=42~hmac=ec027a6fcf74cd7c5c593a8e8310788cd86ad10e6a8ac0d8f05f5e0acfcdc414",
+              "preview_expires": "2026-11-26T01:32:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Arms",
+            "length": "3:19",
+            "deezer": {
+              "id": 1463518652,
+              "link": "https://www.deezer.com/track/1463518652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/5/0/16545cb69e20f4bcc48a99a40b2da2b1.mp3?hdnea=exp=1795656747~acl=/api/1/1/1/6/5/0/16545cb69e20f4bcc48a99a40b2da2b1.mp3*~data=user_id=0,application_id=42~hmac=00af361e2f934285ca5f1e18e1c6ef3c1f322448000eec3a67568fa7d871d279",
+              "preview_expires": "2026-11-26T01:32:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bridgewater",
+            "length": "4:48",
+            "deezer": {
+              "id": 1463518662,
+              "link": "https://www.deezer.com/track/1463518662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/5/0/5c50ef6849b6b346b91c858bbaa2d2a7.mp3?hdnea=exp=1795656747~acl=/api/1/1/5/c/5/0/5c50ef6849b6b346b91c858bbaa2d2a7.mp3*~data=user_id=0,application_id=42~hmac=25d2f89fdc4dd70fb1876038d596453c1f9706a3ba8be8e6d4282cc928e4d4fe",
+              "preview_expires": "2026-11-26T01:32:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Luude/6AM.jpg"
+}

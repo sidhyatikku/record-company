@@ -1,0 +1,109 @@
+{
+  "title": "Traces EP",
+  "artist": "Blu Attic",
+  "year": 2025,
+  "release_date": "2025-11-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2DHyzTZ6Sjeu7LMnq0Fwsx",
+    "deezer": "https://www.deezer.com/album/850537452"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2DHyzTZ6Sjeu7LMnq0Fwsx",
+      "title": "Traces EP",
+      "date": "2025-11-26"
+    },
+    "total_tracks": 6,
+    "total_length": "26:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Traces",
+            "length": "3:23",
+            "deezer": {
+              "id": 3638664542,
+              "link": "https://www.deezer.com/track/3638664542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/9/0/8895acf869b92c74cf009bf39742861a.mp3?hdnea=exp=1795652252~acl=/api/1/1/8/8/9/0/8895acf869b92c74cf009bf39742861a.mp3*~data=user_id=0,application_id=42~hmac=3f58ad9e334b31d1deb5cfa72662c4d7dde41b49e1a95aaccf7f4be0a5ba6a19",
+              "preview_expires": "2026-11-26T00:17:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bayaan",
+            "length": "3:36",
+            "artist": "Blu Attic, Adarsh Saxena",
+            "deezer": {
+              "id": 3638664552,
+              "link": "https://www.deezer.com/track/3638664552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/e/0/03e364a3d2d52b5058d02805fb09d533.mp3?hdnea=exp=1795652252~acl=/api/1/1/0/3/e/0/03e364a3d2d52b5058d02805fb09d533.mp3*~data=user_id=0,application_id=42~hmac=0e51dec7e85d0d790c0ace678104a0a6fa5c004dab7984805c6fa52e2f13ba9a",
+              "preview_expires": "2026-11-26T00:17:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Out of Sight",
+            "length": "3:10",
+            "artist": "Blu Attic, Shraddha Shree",
+            "deezer": {
+              "id": 3638664562,
+              "link": "https://www.deezer.com/track/3638664562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/4/0/d64ae32fdaef5413ae38ff5bef82cd4d.mp3?hdnea=exp=1795652252~acl=/api/1/1/d/6/4/0/d64ae32fdaef5413ae38ff5bef82cd4d.mp3*~data=user_id=0,application_id=42~hmac=79ac2eda963fc8dd408fa78346d9c4d0cbc3610b807eaf3290a466d03638a56c",
+              "preview_expires": "2026-11-26T00:17:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Traces - Extended Mix",
+            "length": "5:54",
+            "deezer": {
+              "id": 3638664572,
+              "link": "https://www.deezer.com/track/3638664572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/2/0/8f24fbb9dec15c15673c729ec33a5a97.mp3?hdnea=exp=1795652252~acl=/api/1/1/8/f/2/0/8f24fbb9dec15c15673c729ec33a5a97.mp3*~data=user_id=0,application_id=42~hmac=08d494c37d6dd971d43f8350bc1a840b20b0908838ad8f2d361e71cfffeaa4d5",
+              "preview_expires": "2026-11-26T00:17:32Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bayaan - Extended Mix",
+            "length": "5:21",
+            "artist": "Blu Attic, Adarsh Saxena",
+            "deezer": {
+              "id": 3638664582,
+              "link": "https://www.deezer.com/track/3638664582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/9/0/489c8e0c6dca33c5ac0028d9749fc4de.mp3?hdnea=exp=1795652252~acl=/api/1/1/4/8/9/0/489c8e0c6dca33c5ac0028d9749fc4de.mp3*~data=user_id=0,application_id=42~hmac=1877ef1ae64a4bc5ca6e25f9bd2171101d88ca1416df0bfed5247842fb5ec1a0",
+              "preview_expires": "2026-11-26T00:17:32Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Out of Sight - Extended Mix",
+            "length": "5:08",
+            "artist": "Blu Attic, Shraddha Shree",
+            "deezer": {
+              "id": 3638664592,
+              "link": "https://www.deezer.com/track/3638664592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/a/0/46ae6ef9692851275a3553c761074f6a.mp3?hdnea=exp=1795652252~acl=/api/1/1/4/6/a/0/46ae6ef9692851275a3553c761074f6a.mp3*~data=user_id=0,application_id=42~hmac=421ddd6449628e0489fec5ae2ab6588dd327b0e7639a87bb056a5000269cfe12",
+              "preview_expires": "2026-11-26T00:17:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Blu Attic/Traces EP.jpg"
+}

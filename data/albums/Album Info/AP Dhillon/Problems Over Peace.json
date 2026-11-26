@@ -1,0 +1,51 @@
+{
+  "title": "Problems Over Peace",
+  "artist": "AP Dhillon & Stormzy",
+  "year": 2024,
+  "release_date": "2024-04-05",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/733cf609-956f-42e0-99de-29bd523bf7e2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/568042521"
+  },
+  "musicbrainz_id": "733cf609-956f-42e0-99de-29bd523bf7e2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c48a5c2c-5f1a-4f7a-abc7-4f1d6becc608",
+      "barcode": "198391700798",
+      "title": "Problems Over Peace",
+      "disambiguation": null,
+      "date": "2024-04-05",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Problems Over Peace",
+            "length": "2:39",
+            "deezer": {
+              "id": 2733248411,
+              "link": "https://www.deezer.com/track/2733248411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/2/0/432cd138a0a7a8c5e137275cc1fe8b4d.mp3?hdnea=exp=1795649345~acl=/api/1/1/4/3/2/0/432cd138a0a7a8c5e137275cc1fe8b4d.mp3*~data=user_id=0,application_id=42~hmac=11f11684e063d19b36faa5ddd39cc07d894c29356b0818337d1bd81c6189f954",
+              "preview_expires": "2026-11-25T23:29:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AP Dhillon/Problems Over Peace.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "pack up ya bags",
+  "artist": "KTmelodies",
+  "year": 2025,
+  "release_date": "2025-05-06",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC",
+    "deezer": "https://www.deezer.com/album/769669651"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC",
+      "title": "pack up ya bags",
+      "date": "2025-05-06"
+    },
+    "total_tracks": 1,
+    "total_length": "2:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "pack up ya bags",
+            "length": "2:12",
+            "deezer": {
+              "id": 3405678261,
+              "link": "https://www.deezer.com/track/3405678261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/d/0/99dbd87c76529c517344055b6311d1b9.mp3?hdnea=exp=1795656349~acl=/api/1/1/9/9/d/0/99dbd87c76529c517344055b6311d1b9.mp3*~data=user_id=0,application_id=42~hmac=7f3400bb11e23baddbe62cdd4ccb5e2af7328a71a59b46459bc804a77e183831",
+              "preview_expires": "2026-11-26T01:25:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/KTmelodies/pack up ya bags.jpg"
+}

@@ -1,0 +1,180 @@
+{
+  "title": "Toto",
+  "artist": "Toto",
+  "year": 1978,
+  "release_date": "1978-10-10",
+  "type": "Album",
+  "description": "Toto is the debut studio album by American rock band Toto, released on October 10, 1978 by Columbia Records. It includes the hit singles \"Hold the Line\", \"I'll Supply the Love\" and \"Georgy Porgy\", all three of which made it into the top 50 in the US. \"Hold the Line\" spent six weeks in the top 10, and reached number 14 in the UK as well.",
+  "genres": [
+    "pop rock",
+    "rock",
+    "aor",
+    "classic rock",
+    "pop",
+    "funk",
+    "funk rock",
+    "progressive rock",
+    "soft rock",
+    "soul"
+  ],
+  "tags": [
+    "pop rock",
+    "rock",
+    "aor",
+    "classic rock",
+    "pop",
+    "funk",
+    "funk rock",
+    "progressive rock",
+    "soft rock",
+    "soul",
+    "sword on cover"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2b76e8ed-d20b-35a5-b7b9-f6e8e709235e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toto_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000192100",
+    "discogs": "https://www.discogs.com/master/30631",
+    "wikidata": "https://www.wikidata.org/wiki/Q1752989",
+    "deezer": "https://www.deezer.com/album/116633"
+  },
+  "musicbrainz_id": "2b76e8ed-d20b-35a5-b7b9-f6e8e709235e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6cd3a611-6942-4d16-b31b-01c714790499",
+      "barcode": "074643531726",
+      "title": "Toto",
+      "disambiguation": null,
+      "date": "1986-10-28",
+      "country": "US"
+    },
+    "total_tracks": 10,
+    "total_length": "40:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Child’s Anthem",
+            "length": "2:47",
+            "deezer": {
+              "id": 1081976,
+              "link": "https://www.deezer.com/track/1081976",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/7/0/d779fb4d58071a9d13f9e3aef36316b6.mp3?hdnea=exp=1795721985~acl=/api/1/1/d/7/7/0/d779fb4d58071a9d13f9e3aef36316b6.mp3*~data=user_id=0,application_id=42~hmac=6799634bdc8afbb0a326fa6cca6a1fd920ec516bc935c964e4ac212e98db2c46",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I’ll Supply the Love",
+            "length": "3:46",
+            "deezer": {
+              "id": 1080433,
+              "link": "https://www.deezer.com/track/1080433",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/f/0/77f10c41781233635c5dd28ba21987b3.mp3?hdnea=exp=1795721985~acl=/api/1/1/7/7/f/0/77f10c41781233635c5dd28ba21987b3.mp3*~data=user_id=0,application_id=42~hmac=9a7805e577662d583a083e43552be81a0b71628938c4465a7120a4e50b564b6c",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Georgy Porgy",
+            "length": "4:09",
+            "deezer": {
+              "id": 1081145,
+              "link": "https://www.deezer.com/track/1081145",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/a/0/5ca8ca34fb3644697451b27dce89d476.mp3?hdnea=exp=1795721985~acl=/api/1/1/5/c/a/0/5ca8ca34fb3644697451b27dce89d476.mp3*~data=user_id=0,application_id=42~hmac=59317afaa92d09108b4a1505faec2fa339cd7e3cb0af365a613e701c1c694a1c",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Manuela Run",
+            "length": "3:55",
+            "deezer": {
+              "id": 1079859,
+              "link": "https://www.deezer.com/track/1079859",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/7/0/2a7dc048f9d8db2d7c497a765c7c6218.mp3?hdnea=exp=1795721985~acl=/api/1/1/2/a/7/0/2a7dc048f9d8db2d7c497a765c7c6218.mp3*~data=user_id=0,application_id=42~hmac=e0839eea57bf20014973069c719692968d44d2515e8433e4eba760a31baa4290",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "You Are the Flower",
+            "length": "4:11",
+            "deezer": {
+              "id": 1080529,
+              "link": "https://www.deezer.com/track/1080529",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/c/0/d8cad94a075fba7f95d6603818772ba6.mp3?hdnea=exp=1795721985~acl=/api/1/1/d/8/c/0/d8cad94a075fba7f95d6603818772ba6.mp3*~data=user_id=0,application_id=42~hmac=bc02e857fef219dea8f2e195ea3ae15a8a179a2a9a0f7827135f351352d7e50b",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Girl Goodbye",
+            "length": "6:14",
+            "deezer": {
+              "id": 1079865,
+              "link": "https://www.deezer.com/track/1079865",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/d/0/1ed0390c37d5ede4f07550a5570e8a05.mp3?hdnea=exp=1795721985~acl=/api/1/1/1/e/d/0/1ed0390c37d5ede4f07550a5570e8a05.mp3*~data=user_id=0,application_id=42~hmac=e8351c2e40897b8537c19f00737997d402f32d4c68d0394a27b4fde08608f7d1",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Takin’ It Back",
+            "length": "3:47",
+            "deezer": {
+              "id": 1079868,
+              "link": "https://www.deezer.com/track/1079868",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/a/0/2aa6ae8a786ce8a403a808eebf903c37.mp3?hdnea=exp=1795721985~acl=/api/1/1/2/a/a/0/2aa6ae8a786ce8a403a808eebf903c37.mp3*~data=user_id=0,application_id=42~hmac=f56d0e2abceb18c4ada92aa3044ab927435895823c5322c4c4ab6e3b06b38064",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rockmaker",
+            "length": "3:20",
+            "deezer": {
+              "id": 1079672,
+              "link": "https://www.deezer.com/track/1079672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/1/0/c21b492db6f676ae36b4e82be4bc0efc.mp3?hdnea=exp=1795721985~acl=/api/1/1/c/2/1/0/c21b492db6f676ae36b4e82be4bc0efc.mp3*~data=user_id=0,application_id=42~hmac=4006e8d308c3da51bc061d007df624898d8aa45b1f6b0960e16c11b27a4e5e13",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Hold the Line",
+            "length": "3:57",
+            "deezer": {
+              "id": 1078779,
+              "link": "https://www.deezer.com/track/1078779",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/d/0/0adc56b30c1c90d12daf6feafd328c5a.mp3?hdnea=exp=1795721985~acl=/api/1/1/0/a/d/0/0adc56b30c1c90d12daf6feafd328c5a.mp3*~data=user_id=0,application_id=42~hmac=e2d9e2f995cfd0a96c85cd14480adb253d380d6a3a325703b6a66231c0430d04",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Angela",
+            "length": "4:46",
+            "deezer": {
+              "id": 1079676,
+              "link": "https://www.deezer.com/track/1079676",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/9/0/c69df1fb07d738a2ec7081c092e80ff4.mp3?hdnea=exp=1795721985~acl=/api/1/1/c/6/9/0/c69df1fb07d738a2ec7081c092e80ff4.mp3*~data=user_id=0,application_id=42~hmac=dd4eba4d84fe2d8d6c92bc7a9e1b665018b36be1b756cb3820ae7fbce9671c99",
+              "preview_expires": "2026-11-26T19:39:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/TOTO/Toto.jpg"
+}

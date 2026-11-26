@@ -1,0 +1,51 @@
+{
+  "title": "See in Color",
+  "artist": "Wax Motif & 220 KID",
+  "year": 2022,
+  "release_date": "2022-11-04",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/854a7fc4-2364-44ca-9156-14b41940219d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/365381167"
+  },
+  "musicbrainz_id": "854a7fc4-2364-44ca-9156-14b41940219d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b0366d17-f20c-4855-b29c-dd2071cebe5f",
+      "barcode": "8720765310788",
+      "title": "See in Color",
+      "disambiguation": null,
+      "date": "2022-11-04",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "See In Color",
+            "length": "2:35",
+            "deezer": {
+              "id": 1960009757,
+              "link": "https://www.deezer.com/track/1960009757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/9/0/6391cdb34c0bf37488eb93c7d19fea77.mp3?hdnea=exp=1795724270~acl=/api/1/1/6/3/9/0/6391cdb34c0bf37488eb93c7d19fea77.mp3*~data=user_id=0,application_id=42~hmac=decf5f63fdcecfdf2ff14f2554491d7c5d0f8d2a1080e8700ab24cfaf42fdf04",
+              "preview_expires": "2026-11-26T20:17:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Wax Motif/See In Color.jpg"
+}

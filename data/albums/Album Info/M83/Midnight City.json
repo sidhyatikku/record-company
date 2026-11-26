@@ -1,0 +1,110 @@
+{
+  "title": "Midnight City",
+  "artist": "M83",
+  "year": 2011,
+  "release_date": "2011-09-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electro",
+    "electronic",
+    "pop",
+    "rock",
+    "shoegaze",
+    "synth-pop"
+  ],
+  "tags": [
+    "electro",
+    "electronic",
+    "pop",
+    "rock",
+    "shoegaze",
+    "synth-pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d89c6625-790c-471a-9f1a-a9a8592afee7",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0002223325",
+    "deezer": "https://www.deezer.com/album/9357186"
+  },
+  "musicbrainz_id": "d89c6625-790c-471a-9f1a-a9a8592afee7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e2d138e1-b519-4ae0-9d74-39a7a18ed649",
+      "barcode": "3298499113722",
+      "title": "Midnight City: Remix EP",
+      "disambiguation": null,
+      "date": "2011-09-26",
+      "country": null
+    },
+    "total_tracks": 5,
+    "total_length": "23:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Midnight City",
+            "length": "4:04",
+            "deezer": {
+              "id": 92198180,
+              "link": "https://www.deezer.com/track/92198180",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/7/0/bd727b30df15d3d506abd829ee8da9f0.mp3?hdnea=exp=1795718163~acl=/api/1/1/b/d/7/0/bd727b30df15d3d506abd829ee8da9f0.mp3*~data=user_id=0,application_id=42~hmac=6b64723687dd9ebb5452399efe3f8657a2bdbda6da79a7c6f409a22d80c13db1",
+              "preview_expires": "2026-11-26T18:36:03Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Midnight City (Big Black Delta remix)",
+            "length": "3:40",
+            "deezer": {
+              "id": 92198182,
+              "link": "https://www.deezer.com/track/92198182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/b/0/8eb6125ecbbfc1b7bb60989b16857425.mp3?hdnea=exp=1795718163~acl=/api/1/1/8/e/b/0/8eb6125ecbbfc1b7bb60989b16857425.mp3*~data=user_id=0,application_id=42~hmac=6d05fc39ef801ad9dddd96dcec5fa1c50913521c3e1af0ed150c86eecf36ac89",
+              "preview_expires": "2026-11-26T18:36:03Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Midnight City (Trentemøller remix)",
+            "length": "7:29",
+            "deezer": {
+              "id": 92198184,
+              "link": "https://www.deezer.com/track/92198184",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/2/0/b222900348c5f7ed1046033538317ef4.mp3?hdnea=exp=1795718163~acl=/api/1/1/b/2/2/0/b222900348c5f7ed1046033538317ef4.mp3*~data=user_id=0,application_id=42~hmac=fc0b695357f37083876def779ac7cf76d0f34e378296a985ed7740d34439b5d3",
+              "preview_expires": "2026-11-26T18:36:03Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Midnight City (Man Without Country remix)",
+            "length": "4:13",
+            "deezer": {
+              "id": 92198186,
+              "link": "https://www.deezer.com/track/92198186",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/d/0/2cd4119607635931e371d00df57ee9ac.mp3?hdnea=exp=1795718163~acl=/api/1/1/2/c/d/0/2cd4119607635931e371d00df57ee9ac.mp3*~data=user_id=0,application_id=42~hmac=1a8bc625e8ce4e788ff8c04a381e8bbb27df4150174be72819fb25bcf427f825",
+              "preview_expires": "2026-11-26T18:36:03Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Midnight City (Team Ghost remix)",
+            "length": "3:58",
+            "deezer": {
+              "id": 92198188,
+              "link": "https://www.deezer.com/track/92198188",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/b/0/a7b99b13b69e992975cad364b9f0fd6b.mp3?hdnea=exp=1795718163~acl=/api/1/1/a/7/b/0/a7b99b13b69e992975cad364b9f0fd6b.mp3*~data=user_id=0,application_id=42~hmac=b0f1a1a71351aa8e3204afeff230cd1a842faa6b1b609de4e61fa9741b20151d",
+              "preview_expires": "2026-11-26T18:36:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/M83/Midnight City.jpg"
+}

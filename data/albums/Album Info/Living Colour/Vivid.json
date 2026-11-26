@@ -1,0 +1,210 @@
+{
+  "title": "Vivid",
+  "artist": "Living Colour",
+  "year": 1988,
+  "release_date": "1988-05-02",
+  "type": "Album",
+  "description": "Vivid is the debut studio album by American rock band Living Colour, released on May 2, 1988, by Epic Records. It was one of the most popular albums of 1988, peaking at number six on the US Billboard 200 chart and being certified double platinum by the Recording Industry Association of America (RIAA).",
+  "genres": [
+    "funk metal",
+    "alternative metal",
+    "hard rock",
+    "heavy metal",
+    "rock",
+    "funk rock"
+  ],
+  "tags": [
+    "funk metal",
+    "alternative metal",
+    "hard rock",
+    "heavy metal",
+    "rock",
+    "80s",
+    "album rock",
+    "funk rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.35,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8ce498ba-26f5-3ea9-b499-9007212ae269",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivid_(Living_Colour_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000195531",
+    "discogs": "https://www.discogs.com/master/16331",
+    "wikidata": "https://www.wikidata.org/wiki/Q221443",
+    "deezer": "https://www.deezer.com/album/116227"
+  },
+  "musicbrainz_id": "8ce498ba-26f5-3ea9-b499-9007212ae269",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2c0a1660-d182-4bdb-860b-722281180d12",
+      "barcode": "696998598522",
+      "title": "Vivid",
+      "disambiguation": "expanded edition",
+      "date": "2003",
+      "country": "XW"
+    },
+    "total_tracks": 16,
+    "total_length": "1:07:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cult of Personality",
+            "length": "4:55",
+            "deezer": {
+              "id": 2485821,
+              "link": "https://www.deezer.com/track/2485821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/7/0/377e15651b91353481da1c986484a0da.mp3?hdnea=exp=1795656578~acl=/api/1/1/3/7/7/0/377e15651b91353481da1c986484a0da.mp3*~data=user_id=0,application_id=42~hmac=c7b0552d2f7ed9752019a60b5db050ff05027b1857d3c68d5f1bd21af95a3de2",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Want to Know",
+            "length": "4:24",
+            "deezer": {
+              "id": 1074094,
+              "link": "https://www.deezer.com/track/1074094",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/c/0/77cf83faa5628f43af748a29ec89cf8a.mp3?hdnea=exp=1795656578~acl=/api/1/1/7/7/c/0/77cf83faa5628f43af748a29ec89cf8a.mp3*~data=user_id=0,application_id=42~hmac=170b06384e98cc5beb4b2fb92d75122786962ea68cc9b9fb21eb9845b3722e34",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Middle Man",
+            "length": "3:48",
+            "deezer": {
+              "id": 1074096,
+              "link": "https://www.deezer.com/track/1074096",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/d/0/3dd63ae49de89a8d8ef55cc539e41776.mp3?hdnea=exp=1795656578~acl=/api/1/1/3/d/d/0/3dd63ae49de89a8d8ef55cc539e41776.mp3*~data=user_id=0,application_id=42~hmac=13ac1b964383edb3c09283133750194040568691ae4b69ee3c8ab3755cfdfca9",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Desperate People",
+            "length": "5:36",
+            "deezer": {
+              "id": 1074098,
+              "link": "https://www.deezer.com/track/1074098",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/7/0/4e7b87d3b1e393a1fa510a92b0d8e8cf.mp3?hdnea=exp=1795656578~acl=/api/1/1/4/e/7/0/4e7b87d3b1e393a1fa510a92b0d8e8cf.mp3*~data=user_id=0,application_id=42~hmac=50f58e4c65ed812a970b41e0cf1b0bae8dc943858d32df5eac5dbd68dc1c6faf",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Open Letter (To a Landord)",
+            "length": "5:31",
+            "deezer": {
+              "id": 1074100,
+              "link": "https://www.deezer.com/track/1074100",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/6/0/786088450c0cdb18ad8fd23ce0cc3517.mp3?hdnea=exp=1795656578~acl=/api/1/1/7/8/6/0/786088450c0cdb18ad8fd23ce0cc3517.mp3*~data=user_id=0,application_id=42~hmac=23bc12888bc63ea2e593c5831d6c6c2f01915b20bd2c0a2ef3ae97b128b9d30d",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Funny Vibe",
+            "length": "4:21",
+            "deezer": {
+              "id": 1074102,
+              "link": "https://www.deezer.com/track/1074102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/a/0/53aed0390399b38b21f1888b9d632134.mp3?hdnea=exp=1795656578~acl=/api/1/1/5/3/a/0/53aed0390399b38b21f1888b9d632134.mp3*~data=user_id=0,application_id=42~hmac=65beef418ed41a81296966cc94719dd4df050e4f35778fa04973a26323d77572",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Memories Can’t Wait",
+            "length": "4:31",
+            "deezer": {
+              "id": 1074103,
+              "link": "https://www.deezer.com/track/1074103",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/d/0/7fd7cf41e9a7c075342f1af2d1c756a0.mp3?hdnea=exp=1795656578~acl=/api/1/1/7/f/d/0/7fd7cf41e9a7c075342f1af2d1c756a0.mp3*~data=user_id=0,application_id=42~hmac=08e92f2229f19e13beff2af33439200cb46b5d16ab1e67e05c1063b7b2d42d20",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Broken Hearts",
+            "length": "4:52",
+            "deezer": {
+              "id": 1074104,
+              "link": "https://www.deezer.com/track/1074104",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/4/0/eb420a73c891267b455084184cd6b4ea.mp3?hdnea=exp=1795656578~acl=/api/1/1/e/b/4/0/eb420a73c891267b455084184cd6b4ea.mp3*~data=user_id=0,application_id=42~hmac=fc5cc160a1082ba78df1d5d280f065b018a464d21693e711022fd7e777d78df7",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Glamour Boys",
+            "length": "3:40",
+            "deezer": {
+              "id": 1074105,
+              "link": "https://www.deezer.com/track/1074105",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/e/0/3fe4795a777b57dee86585da4accab5d.mp3?hdnea=exp=1795656578~acl=/api/1/1/3/f/e/0/3fe4795a777b57dee86585da4accab5d.mp3*~data=user_id=0,application_id=42~hmac=3196b4367559d0de8191fc5fdb7fa974c6fff29c27e0efe86aa5a1074ee9aad5",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "What’s Your Favorite Color? (Theme Song)",
+            "length": "1:41",
+            "deezer": {
+              "id": 1074107,
+              "link": "https://www.deezer.com/track/1074107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/7/0/8472c59d9f92010000b4115e5012e816.mp3?hdnea=exp=1795656578~acl=/api/1/1/8/4/7/0/8472c59d9f92010000b4115e5012e816.mp3*~data=user_id=0,application_id=42~hmac=a6b1ac2f27b0e75a973abfa1fe11e445d89635d2e2c795d5777f45757588781f",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Which Way to America",
+            "length": "3:38",
+            "deezer": {
+              "id": 1074109,
+              "link": "https://www.deezer.com/track/1074109",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/0/0/c4060bb9fe04f143a7a8edacada5dbab.mp3?hdnea=exp=1795656578~acl=/api/1/1/c/4/0/0/c4060bb9fe04f143a7a8edacada5dbab.mp3*~data=user_id=0,application_id=42~hmac=202728c4d93f98b591f0d0a1422519d644f9ac255c1b7184c8450c2b3aa6248c",
+              "preview_expires": "2026-11-26T01:29:38Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Funny Vibe (Funky Vibe mix)",
+            "length": "3:42",
+            "artist": "Living Colour, Prince Paul & Bobby Simmons"
+          },
+          {
+            "number": "13",
+            "title": "Should I Stay or Should I Go",
+            "length": "2:27"
+          },
+          {
+            "number": "14",
+            "title": "What’s Your Favorite Color? (Theme Song) [Leblanc remix]",
+            "length": "5:39"
+          },
+          {
+            "number": "15",
+            "title": "Middle Man (live)",
+            "length": "3:49"
+          },
+          {
+            "number": "16",
+            "title": "Cult of Personality (live)",
+            "length": "5:00"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Living Colour/Vivid.jpg"
+}

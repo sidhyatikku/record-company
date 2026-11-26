@@ -1,0 +1,88 @@
+{
+  "title": "Tishnagi",
+  "artist": "Kazinama",
+  "year": 2025,
+  "release_date": "2025-03-31",
+  "type": "Album + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/188b8db9-e22d-4eb8-8025-2c8903b5e47b",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "188b8db9-e22d-4eb8-8025-2c8903b5e47b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d6018d4b-13ee-4dea-84e7-28acb089c991",
+      "barcode": "8907212021170",
+      "title": "Tishnagi",
+      "disambiguation": null,
+      "date": "2025-03-31",
+      "country": "IN"
+    },
+    "total_tracks": 8,
+    "total_length": "21:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Aaja Piya (Kazinama remix)",
+            "length": "1:25",
+            "artist": "Lata Mangeshkar"
+          },
+          {
+            "number": "2",
+            "title": "Yaad Kiya Dil Ne (Kazinama remix)",
+            "length": "2:09",
+            "artist": "Hemant Kumar & Lata Mangeshkar"
+          },
+          {
+            "number": "3",
+            "title": "Gham Ka Fasana (Kazinama remix)",
+            "length": "2:30",
+            "artist": "Shamshad Begum"
+          },
+          {
+            "number": "4",
+            "title": "Kabhi Tanhayion Mein Bhi (Kazinama remix)",
+            "length": "3:54",
+            "artist": "Mubarak Begum"
+          },
+          {
+            "number": "5",
+            "title": "Chalo Ek Baar Phirse (Kazinama remix)",
+            "length": "2:35",
+            "artist": "Mahendra Kapoor"
+          },
+          {
+            "number": "6",
+            "title": "Chalte Chalte (Kazinama remix)",
+            "length": "3:42",
+            "artist": "Lata Mangeshkar"
+          },
+          {
+            "number": "7",
+            "title": "Jaane Wo Kaise (Kazinama remix)",
+            "length": "3:01",
+            "artist": "Hemant Kumar"
+          },
+          {
+            "number": "8",
+            "title": "Ehsaan Tera (Kazinama remix)",
+            "length": "2:24",
+            "artist": "Mohammed Rafi"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kazinama/TISHNAGI.jpg"
+}

@@ -1,0 +1,175 @@
+{
+  "title": "Agent Provocateur",
+  "artist": "Foreigner",
+  "year": 1984,
+  "release_date": "1984-12-07",
+  "type": "Album",
+  "description": "Agent Provocateur is the fifth studio album by the British-American rock band Foreigner, released on December 14, 1984. The album was the band's only number-one album on the United Kingdom Albums Chart, and it reached the top five on the United States Billboard 200. Although album sales were lower than their previous work in the US, it contains the band's biggest hit single, \"I Want to Know What Love Is\", which is their only #1 single on the UK singles chart and the US Billboard Hot 100, staying at the top spot for three and two weeks, respectively. The follow-up single, \"That Was Yesterday\", also proved to be a sizeable hit, peaking at #12 in the US. The album was certified Platinum in the UK by the BPI, and triple Platinum in the US by the RIAA.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "pop rock",
+    "aor",
+    "arena rock",
+    "classic rock",
+    "pop"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "pop rock",
+    "aor",
+    "album rock",
+    "arena rock",
+    "classic rock",
+    "oldies",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 7
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/24b59933-12b7-3f19-97d2-14891192f06b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agent_Provocateur_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000650158",
+    "discogs": "https://www.discogs.com/master/82439",
+    "wikidata": "https://www.wikidata.org/wiki/Q392750",
+    "deezer": "https://www.deezer.com/album/81722"
+  },
+  "musicbrainz_id": "24b59933-12b7-3f19-97d2-14891192f06b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/50320a62-b3b9-4777-a1a5-4ec09a048808",
+      "barcode": "075678279669",
+      "title": "Agent Provocateur",
+      "disambiguation": null,
+      "date": "2008-10-28",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "42:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tooth and Nail",
+            "length": "3:55",
+            "deezer": {
+              "id": 675812,
+              "link": "https://www.deezer.com/track/675812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/7/0/f471b9e89bf02a5d70203201600caccf.mp3?hdnea=exp=1795654292~acl=/api/1/1/f/4/7/0/f471b9e89bf02a5d70203201600caccf.mp3*~data=user_id=0,application_id=42~hmac=68c80dc9a865ef463470490d85e1ed19237b6ea18d4ba3e4bc50fc001e1240c2",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "That Was Yesterday",
+            "length": "3:49",
+            "deezer": {
+              "id": 675814,
+              "link": "https://www.deezer.com/track/675814",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/8/0/428403ad5b901441bbe69cb3574e42b6.mp3?hdnea=exp=1795654292~acl=/api/1/1/4/2/8/0/428403ad5b901441bbe69cb3574e42b6.mp3*~data=user_id=0,application_id=42~hmac=28408101a12d6b71ba0cc73b02e936aa3a5cf731f8e5ed21e50005071394c504",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I Want to Know What Love Is",
+            "length": "5:05",
+            "deezer": {
+              "id": 675818,
+              "link": "https://www.deezer.com/track/675818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/f/0/63f32f7f3247341d42d18f1b4cc6d92e.mp3?hdnea=exp=1795654292~acl=/api/1/1/6/3/f/0/63f32f7f3247341d42d18f1b4cc6d92e.mp3*~data=user_id=0,application_id=42~hmac=9e9464335a093f602b225d98802ae9462bad22400cedf6181204751e5132ce39",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Growing Up the Hard Way",
+            "length": "4:14",
+            "deezer": {
+              "id": 675820,
+              "link": "https://www.deezer.com/track/675820",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/0/0/a60f27ef7aba04f0d32683ceb0537e1e.mp3?hdnea=exp=1795654292~acl=/api/1/1/a/6/0/0/a60f27ef7aba04f0d32683ceb0537e1e.mp3*~data=user_id=0,application_id=42~hmac=6f4629bc8ef88be0168d14bbe88904597d03ca35bf89b3ce61031291bb079ed4",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Reaction to Action",
+            "length": "3:32",
+            "deezer": {
+              "id": 675823,
+              "link": "https://www.deezer.com/track/675823",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/3/0/1f30a3c40aa4998dc74dcff2d45b015d.mp3?hdnea=exp=1795654292~acl=/api/1/1/1/f/3/0/1f30a3c40aa4998dc74dcff2d45b015d.mp3*~data=user_id=0,application_id=42~hmac=e332c0e80fd0ac8f023ca43ab5f7e961360365a45a8231789cf53335837ee52f",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Stranger in My Own House",
+            "length": "5:05",
+            "deezer": {
+              "id": 675827,
+              "link": "https://www.deezer.com/track/675827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/7/0/8178d37ed37f260d4756fa3b2a03110b.mp3?hdnea=exp=1795654292~acl=/api/1/1/8/1/7/0/8178d37ed37f260d4756fa3b2a03110b.mp3*~data=user_id=0,application_id=42~hmac=bf2a731c7f54aff9de068c64758a2162e129115d8430e817deebe81b06ed7dcb",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "A Love in Vain",
+            "length": "4:31",
+            "deezer": {
+              "id": 675829,
+              "link": "https://www.deezer.com/track/675829",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/d/0/b3d58feb824382ff653897208c567db2.mp3?hdnea=exp=1795654292~acl=/api/1/1/b/3/d/0/b3d58feb824382ff653897208c567db2.mp3*~data=user_id=0,application_id=42~hmac=b873e9898118571fc53b63486e76f21fc30adb74c5a65cf5d316cf987ef8952d",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Down on Love",
+            "length": "4:10",
+            "deezer": {
+              "id": 675832,
+              "link": "https://www.deezer.com/track/675832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/9/0/2198a78ad9a9e09eb2578326198ea19a.mp3?hdnea=exp=1795654292~acl=/api/1/1/2/1/9/0/2198a78ad9a9e09eb2578326198ea19a.mp3*~data=user_id=0,application_id=42~hmac=6295e02df606b5e1a3738b3ce7c00ff4b1ec402c6aa7b2be705ec4fc3b0ddb08",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Two Different Worlds",
+            "length": "4:32",
+            "deezer": {
+              "id": 675833,
+              "link": "https://www.deezer.com/track/675833",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/0/0/8a079e4152a448a797d280820a766238.mp3?hdnea=exp=1795654292~acl=/api/1/1/8/a/0/0/8a079e4152a448a797d280820a766238.mp3*~data=user_id=0,application_id=42~hmac=23872e488db8b2cbc990e1eeede43c91486e3ba78e04655aeafdf7f004cc08b5",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "She’s Too Tough",
+            "length": "3:11",
+            "deezer": {
+              "id": 675837,
+              "link": "https://www.deezer.com/track/675837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/7/0/e270bb985eae536e019e350100db6877.mp3?hdnea=exp=1795654292~acl=/api/1/1/e/2/7/0/e270bb985eae536e019e350100db6877.mp3*~data=user_id=0,application_id=42~hmac=c28b2b11c95e7818c1972daa77985f6bd635b2776de2c2d806ea76d3824bd381",
+              "preview_expires": "2026-11-26T00:51:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Foreigner/Agent Provocateur.jpg"
+}

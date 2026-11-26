@@ -1,0 +1,51 @@
+{
+  "title": "The Calling",
+  "artist": "Marten Hørger & Tchami",
+  "year": 2022,
+  "release_date": "2022-05-20",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a8d34401-d2ca-4ffd-bae1-99bc4c173b63",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/458931175"
+  },
+  "musicbrainz_id": "a8d34401-d2ca-4ffd-bae1-99bc4c173b63",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2988a3c4-65d2-4a13-b1c0-87eafbc87359",
+      "barcode": "653738999025",
+      "title": "The Calling",
+      "disambiguation": null,
+      "date": "2022-05-20",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Calling",
+            "length": "3:18",
+            "deezer": {
+              "id": 2347317625,
+              "link": "https://www.deezer.com/track/2347317625",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/b/0/7fbca9f3c6d11fa13c0dd94fca66a70a.mp3?hdnea=exp=1795721235~acl=/api/1/1/7/f/b/0/7fbca9f3c6d11fa13c0dd94fca66a70a.mp3*~data=user_id=0,application_id=42~hmac=0165eae259c6328b9d3fc480e1920c8c3878e4562a50358f4c02f3b919af59df",
+              "preview_expires": "2026-11-26T19:27:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Tchami/The Calling.jpg"
+}

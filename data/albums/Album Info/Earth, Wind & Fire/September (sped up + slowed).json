@@ -1,0 +1,87 @@
+{
+  "title": "September",
+  "artist": "Earth, Wind & Fire",
+  "year": 1978,
+  "release_date": "1978",
+  "type": "Single",
+  "description": "\"September\" is a song by the American band Earth, Wind & Fire and released as a single on November 18, 1978, by ARC/Columbia Records. The song was written by Allee Willis and Maurice White, based on a music sequence developed by guitarist Al McKay. The song was included as one of two new tracks on the compilation album The Best of Earth, Wind & Fire, Vol. 1, \"September\" was very successful commercially and reached No. 1 on the US Billboard Hot R&B Songs chart, No. 8 on the US Billboard Hot 100, and No. 3 on the UK Singles Chart. The song remains a staple of the band's body of work and has been sampled, covered, remixed, and re-recorded numerous times.",
+  "genres": [
+    "disco",
+    "funk",
+    "pop soul"
+  ],
+  "tags": [
+    "disco",
+    "funk",
+    "pop soul"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/db82fb52-f246-36dc-910a-ba709ed22dea",
+    "wikipedia": "https://en.wikipedia.org/wiki/September_(song)",
+    "discogs": "https://www.discogs.com/master/99507",
+    "wikidata": "https://www.wikidata.org/wiki/Q3075151",
+    "deezer": "https://www.deezer.com/album/412209757"
+  },
+  "musicbrainz_id": "db82fb52-f246-36dc-910a-ba709ed22dea",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bf56dff5-63f6-4d6a-9598-d4cdd57c5ce1",
+      "barcode": "196589936219",
+      "title": "September (sped up + slowed)",
+      "disambiguation": null,
+      "date": "2023-03-10",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "11:04",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "September",
+            "length": "3:36",
+            "deezer": {
+              "id": 2169002587,
+              "link": "https://www.deezer.com/track/2169002587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/c/0/4aca200c37d660a8c0d3986c31120365.mp3?hdnea=exp=1795653782~acl=/api/1/1/4/a/c/0/4aca200c37d660a8c0d3986c31120365.mp3*~data=user_id=0,application_id=42~hmac=7c2133867ccf258f59cea5971c1c2f2e13e23be9751d85e18ffd15d51a731a25",
+              "preview_expires": "2026-11-26T00:43:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "September (sped up)",
+            "length": "3:00",
+            "deezer": {
+              "id": 2169002597,
+              "link": "https://www.deezer.com/track/2169002597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/6/0/0e644bdd789aed1948b9dd717e1699ee.mp3?hdnea=exp=1795653782~acl=/api/1/1/0/e/6/0/0e644bdd789aed1948b9dd717e1699ee.mp3*~data=user_id=0,application_id=42~hmac=e5b5f31f4659c330d7b5115ae65598c8304c82eb44a0be864973c9798c0afafd",
+              "preview_expires": "2026-11-26T00:43:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "September (slowed + reverb)",
+            "length": "4:29",
+            "deezer": {
+              "id": 2169002607,
+              "link": "https://www.deezer.com/track/2169002607",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/571b39590036c2d9f486b31b46929edf.mp3?hdnea=exp=1795653782~acl=/api/1/1/5/7/1/0/571b39590036c2d9f486b31b46929edf.mp3*~data=user_id=0,application_id=42~hmac=42cbf0977d535fa7d2d060318369577e64e48b0b520b6e4f606e13076412f59e",
+              "preview_expires": "2026-11-26T00:43:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Earth, Wind & Fire/September (sped up + slowed).jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Suniyan Suniyan",
+  "artist": "Juss & MixSingh",
+  "year": 2024,
+  "release_date": "2024-04-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2415d5c9-650b-4858-82d0-087dd60101fc",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/569505411"
+  },
+  "musicbrainz_id": "2415d5c9-650b-4858-82d0-087dd60101fc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9ae9177d-67ea-41df-9df4-b8cbc3ccb2af",
+      "barcode": "8905285148121",
+      "title": "Suniyan Suniyan",
+      "disambiguation": null,
+      "date": "2024-04-12",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Suniyan Suniyan",
+            "length": "3:18",
+            "deezer": {
+              "id": 2738474731,
+              "link": "https://www.deezer.com/track/2738474731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/b/0/25b89d47875318bcd071c7de8095e7ed.mp3?hdnea=exp=1795655790~acl=/api/1/1/2/5/b/0/25b89d47875318bcd071c7de8095e7ed.mp3*~data=user_id=0,application_id=42~hmac=e54f18df7d7a53151a16599150ff59c6ecfec90ec61f9bc4238130588a8ca230",
+              "preview_expires": "2026-11-26T01:16:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Juss/Suniyan Suniyan.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Public Notice",
+  "artist": "Karma",
+  "year": 2026,
+  "release_date": "2026-05-01",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a18252e4-6511-45e4-9b3b-f844bf7f8233",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/970328661"
+  },
+  "musicbrainz_id": "a18252e4-6511-45e4-9b3b-f844bf7f8233",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/649858e0-cfba-4f60-bc53-0f43552a8f26",
+      "barcode": "859736884848",
+      "title": "Public Notice",
+      "disambiguation": null,
+      "date": "2026-05-01",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Public Notice",
+            "length": "3:56",
+            "deezer": {
+              "id": 3987024631,
+              "link": "https://www.deezer.com/track/3987024631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/7/0/ed75709405a961acc59fe37845c61be8.mp3?hdnea=exp=1795655976~acl=/api/1/1/e/d/7/0/ed75709405a961acc59fe37845c61be8.mp3*~data=user_id=0,application_id=42~hmac=8c08b07e241da69a301e9a6463239773a9b146263cb0bb7906fc057df7ce875d",
+              "preview_expires": "2026-11-26T01:19:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karma/Public Notice.jpg"
+}

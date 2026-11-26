@@ -1,0 +1,46 @@
+{
+  "title": "Raat Baaki",
+  "artist": "Whoja Vu",
+  "year": 2024,
+  "release_date": "2024-07-04",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/55rcpjY25TvdO9xXPNQx4z",
+    "deezer": "https://www.deezer.com/album/606302782"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/55rcpjY25TvdO9xXPNQx4z",
+      "title": "Raat Baaki",
+      "date": "2024-07-04"
+    },
+    "total_tracks": 1,
+    "total_length": "3:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Raat Baaki",
+            "length": "3:41",
+            "deezer": {
+              "id": 2862116522,
+              "link": "https://www.deezer.com/track/2862116522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/c/0/07ccaaaaf87ce2e9ad8be4e5f0c2551e.mp3?hdnea=exp=1795724317~acl=/api/1/1/0/7/c/0/07ccaaaaf87ce2e9ad8be4e5f0c2551e.mp3*~data=user_id=0,application_id=42~hmac=181ffb8951d098e3504b76774632e34429b65b7531f1045a4417fbeeac126a50",
+              "preview_expires": "2026-11-26T20:18:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Whoja Vu/Raat Baaki.jpg"
+}

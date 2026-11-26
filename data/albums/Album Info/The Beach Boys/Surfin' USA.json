@@ -1,0 +1,197 @@
+{
+  "title": "Surfin’ USA",
+  "artist": "The Beach Boys",
+  "year": 1963,
+  "release_date": "1963-03-25",
+  "type": "Album",
+  "description": "Surfin' U.S.A. is the second studio album by the American rock band the Beach Boys, released March 25, 1963 on Capitol Records. It reached number 2 in the US during a chart stay of 78 weeks, eventually being certified gold by the RIAA, and brought the group newfound national success. It was led by one single, its title track with the B-side \"Shut Down\". In the UK, the album was released in late 1965 and reached number 17.",
+  "genres": [
+    "pop",
+    "surf",
+    "surf rock",
+    "doo-wop",
+    "rock",
+    "vocal surf"
+  ],
+  "tags": [
+    "rock & roll",
+    "early pop/rock",
+    "pop",
+    "surf",
+    "surf rock",
+    "doo-wop",
+    "pop/rock",
+    "rock",
+    "vocal group",
+    "vocal surf"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9a7228ff-f6f9-3d90-a39b-65a2f1dabade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Surfin'_U.S.A._(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0001955277",
+    "discogs": "https://www.discogs.com/master/78410",
+    "wikidata": "https://www.wikidata.org/wiki/Q915712",
+    "deezer": "https://www.deezer.com/album/5909571"
+  },
+  "musicbrainz_id": "9a7228ff-f6f9-3d90-a39b-65a2f1dabade",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c66c24e6-f4b5-4b0a-b980-df8ab096b5aa",
+      "barcode": "5099901558258",
+      "title": "Surfin’ USA",
+      "disambiguation": "remastered",
+      "date": "2012-09-21",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "24:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Surfin’ U.S.A.",
+            "length": "2:29",
+            "deezer": {
+              "id": 60453211,
+              "link": "https://www.deezer.com/track/60453211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/8/0/0584c46926d64f52d31025f98a7f0b45.mp3?hdnea=exp=1795721349~acl=/api/1/1/0/5/8/0/0584c46926d64f52d31025f98a7f0b45.mp3*~data=user_id=0,application_id=42~hmac=17f39cb4bf5833c44423ffdb8563dbe4e79ebc332ef4642794e59b00df3a0983",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Farmer’s Daughter",
+            "length": "1:51",
+            "deezer": {
+              "id": 60453221,
+              "link": "https://www.deezer.com/track/60453221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/7/0/9e705a1c91f32b7fcbd5f87c1299925a.mp3?hdnea=exp=1795721349~acl=/api/1/1/9/e/7/0/9e705a1c91f32b7fcbd5f87c1299925a.mp3*~data=user_id=0,application_id=42~hmac=c7078c38e9f744dc3a393efd69fec69b2ce3241202c1461aca603956845ecc0a",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Misirlou",
+            "length": "2:06",
+            "deezer": {
+              "id": 60453231,
+              "link": "https://www.deezer.com/track/60453231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d719d81371a1dba8e4aaf05ad4b591ed.mp3?hdnea=exp=1795721349~acl=/api/1/1/d/7/1/0/d719d81371a1dba8e4aaf05ad4b591ed.mp3*~data=user_id=0,application_id=42~hmac=6c76a05ab32e149e6dac8fa58b36e5563a2a2b1d0df2179fbd02d75089cda5aa",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Stoked",
+            "length": "2:01",
+            "deezer": {
+              "id": 60453241,
+              "link": "https://www.deezer.com/track/60453241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/9/0/609e57f507c9980d5768c67e87990c20.mp3?hdnea=exp=1795721349~acl=/api/1/1/6/0/9/0/609e57f507c9980d5768c67e87990c20.mp3*~data=user_id=0,application_id=42~hmac=4cd49b7522ddb375350635b369b372d8b0d5ca90727e74efbd2db60267a8d642",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Lonely Sea",
+            "length": "2:24",
+            "deezer": {
+              "id": 60453251,
+              "link": "https://www.deezer.com/track/60453251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/7/0/a179839846a078dde9f7e7def9ca4af4.mp3?hdnea=exp=1795721349~acl=/api/1/1/a/1/7/0/a179839846a078dde9f7e7def9ca4af4.mp3*~data=user_id=0,application_id=42~hmac=e4bd0a465a5ad356bc00719c6173cac2568c65bbece9ed00973e237dc5646d31",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Shut Down",
+            "length": "1:51",
+            "deezer": {
+              "id": 60453261,
+              "link": "https://www.deezer.com/track/60453261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/8/0/5c8f290b29762bcb30e92a03ee87dbf0.mp3?hdnea=exp=1795721349~acl=/api/1/1/5/c/8/0/5c8f290b29762bcb30e92a03ee87dbf0.mp3*~data=user_id=0,application_id=42~hmac=3f4e8a00d263210205f3a5d699299f79787b1870c1d7cdbdda756c23eed64915",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Noble Surfer",
+            "length": "1:54",
+            "deezer": {
+              "id": 60453271,
+              "link": "https://www.deezer.com/track/60453271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/b/0/9cb71a58a6963973a4ea0ffaf2fcfd06.mp3?hdnea=exp=1795721349~acl=/api/1/1/9/c/b/0/9cb71a58a6963973a4ea0ffaf2fcfd06.mp3*~data=user_id=0,application_id=42~hmac=79f7a84460fb18ec030de8ec7fd1009947d17912be7588d6d95a14cdf7d1e728",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Honky Tonk",
+            "length": "2:04",
+            "deezer": {
+              "id": 60453281,
+              "link": "https://www.deezer.com/track/60453281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/6/0/966a9e0c7d57ec215c59843d0dd4151e.mp3?hdnea=exp=1795721349~acl=/api/1/1/9/6/6/0/966a9e0c7d57ec215c59843d0dd4151e.mp3*~data=user_id=0,application_id=42~hmac=fd94f5c8054aa45124b58c88f3de0275574e60f47eb7d4b7153db4400b869aba",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lana",
+            "length": "1:42",
+            "deezer": {
+              "id": 60453291,
+              "link": "https://www.deezer.com/track/60453291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/2/0/9221b391659299da8e5e1e7a2ae8fa30.mp3?hdnea=exp=1795721349~acl=/api/1/1/9/2/2/0/9221b391659299da8e5e1e7a2ae8fa30.mp3*~data=user_id=0,application_id=42~hmac=8ecc19e0c06dd39a884e8bfc500ad87e85a45a323b1c9a52837080c78cea555d",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Surf Jam",
+            "length": "2:13",
+            "deezer": {
+              "id": 60453301,
+              "link": "https://www.deezer.com/track/60453301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/c/0/79c04afd38065d256539180eb1f70f67.mp3?hdnea=exp=1795721349~acl=/api/1/1/7/9/c/0/79c04afd38065d256539180eb1f70f67.mp3*~data=user_id=0,application_id=42~hmac=c679a7b2a83e1abcc8a35bda0734675aec7491162d57e689335c4d3784699b7d",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Let’s Go Trippin’",
+            "length": "2:00",
+            "deezer": {
+              "id": 60453311,
+              "link": "https://www.deezer.com/track/60453311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/a/0/d8a650131a78415023f804a30c9b8caf.mp3?hdnea=exp=1795721349~acl=/api/1/1/d/8/a/0/d8a650131a78415023f804a30c9b8caf.mp3*~data=user_id=0,application_id=42~hmac=8f6fab821740bc94199798afb44d6806097222b8642bf1a4438e6ce352ebde9a",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Finders Keepers",
+            "length": "1:42",
+            "deezer": {
+              "id": 60453321,
+              "link": "https://www.deezer.com/track/60453321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/5/0/41506fbb9f61f0fa23f0ccf22ed5541c.mp3?hdnea=exp=1795721349~acl=/api/1/1/4/1/5/0/41506fbb9f61f0fa23f0ccf22ed5541c.mp3*~data=user_id=0,application_id=42~hmac=d61675c49bce7d4be54448da7c0e642e14a9e1c7472122c0cb940793e04244d8",
+              "preview_expires": "2026-11-26T19:29:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Beach Boys/Surfin' USA.jpg"
+}

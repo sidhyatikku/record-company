@@ -1,0 +1,236 @@
+{
+  "title": "The Forever Story",
+  "artist": "JID",
+  "year": 2022,
+  "release_date": "2022-08-26",
+  "type": "Album",
+  "description": "The Forever Story is the third studio album by American rapper JID. It was released on August 26, 2022, through Dreamville and Interscope Records. Recorded over a two-year period, the album features introspective lyricism showcasing JID's upbringing. The album incorporates R&B, alternative hip hop, and trap. The album features guest appearances from Kenny Mason, EarthGang, 21 Savage, Baby Tate, Lil Durk, Ari Lennox, Yasiin Bey, Lil Wayne, Johntá Austin, Ravyn Lenae, and Eryn Allen Kane. Production was handled by a variety of record producers, including Monte Booker, Childish Major, Christo, Cardiak, Kaytranada, DJ Scheme, Khrysis, and James Blake, among others. The album serves as the follow-up to JID's second studio album, DiCaprio 2 (2018) as well as Spilligion (2020), his collaboration album with Spillage Village and EarthGang.",
+  "genres": [
+    "hip hop",
+    "conscious hip hop",
+    "southern hip hop",
+    "hardcore hip hop",
+    "jazz rap",
+    "neo soul",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "conscious hip hop",
+    "southern hip hop",
+    "hardcore hip hop",
+    "jazz rap",
+    "neo soul",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9817edbb-b1a1-419d-afab-b0ee3f214550",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Forever_Story",
+    "allmusic": "https://www.allmusic.com/album/mw0003798317",
+    "wikidata": "https://www.wikidata.org/wiki/Q113642092",
+    "deezer": "https://www.deezer.com/album/371606587"
+  },
+  "musicbrainz_id": "9817edbb-b1a1-419d-afab-b0ee3f214550",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3271cd9f-f630-4b47-8e60-677b1a3a2556",
+      "barcode": "602448329745",
+      "title": "The Forever Story",
+      "disambiguation": "explicit",
+      "date": "2022-08-26",
+      "country": "DZ"
+    },
+    "total_tracks": 15,
+    "total_length": "59:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Galaxy",
+            "length": "0:52",
+            "deezer": {
+              "id": 1993227327,
+              "link": "https://www.deezer.com/track/1993227327",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/e/0/bfe87dadb10b3263c8c46fab6e581fec.mp3?hdnea=exp=1795655598~acl=/api/1/1/b/f/e/0/bfe87dadb10b3263c8c46fab6e581fec.mp3*~data=user_id=0,application_id=42~hmac=ba9d7d4f0acd518d94871e5e5375d609dad5e7614cac8b7a65752cfad8f76829",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Raydar",
+            "length": "3:24",
+            "deezer": {
+              "id": 1993227337,
+              "link": "https://www.deezer.com/track/1993227337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/f/0/04ff28ac956322d255ebc3c7be045e15.mp3?hdnea=exp=1795655598~acl=/api/1/1/0/4/f/0/04ff28ac956322d255ebc3c7be045e15.mp3*~data=user_id=0,application_id=42~hmac=c1bc638fad87ad58c1d06f0600c38be9eca4ed781258f8e2a3b9192e25e33f97",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dance Now",
+            "length": "3:47",
+            "artist": "JID & Kenny Mason",
+            "deezer": {
+              "id": 1993227347,
+              "link": "https://www.deezer.com/track/1993227347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/a/0/4fab9137687f57b49d0452e2ec93e400.mp3?hdnea=exp=1795655598~acl=/api/1/1/4/f/a/0/4fab9137687f57b49d0452e2ec93e400.mp3*~data=user_id=0,application_id=42~hmac=4b989e07664eb5875e4274d5396c756630eb121671f310a9d3a6c2811fec20db",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Crack Sandwich",
+            "length": "4:57",
+            "deezer": {
+              "id": 1993227357,
+              "link": "https://www.deezer.com/track/1993227357",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/6/0/0a6a4b87da4231c28ffc2e17f6dbd19d.mp3?hdnea=exp=1795655598~acl=/api/1/1/0/a/6/0/0a6a4b87da4231c28ffc2e17f6dbd19d.mp3*~data=user_id=0,application_id=42~hmac=4f481663ece404b4e4902abc42d6ddc7b217b3dab059559873677fc442cf437c",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Can’t Punk Me",
+            "length": "3:23",
+            "artist": "JID & EARTHGANG",
+            "deezer": {
+              "id": 1993227367,
+              "link": "https://www.deezer.com/track/1993227367",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/9/0/b89618bde3c70c9d33d0f7387343e570.mp3?hdnea=exp=1795655598~acl=/api/1/1/b/8/9/0/b89618bde3c70c9d33d0f7387343e570.mp3*~data=user_id=0,application_id=42~hmac=090eeab47b423003d1d30a4fb5489b414adb78ee48584378259f1c9c56fa6def",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Surround Sound",
+            "length": "3:49",
+            "artist": "JID feat. 21 Savage & Baby Tate",
+            "deezer": {
+              "id": 1993227377,
+              "link": "https://www.deezer.com/track/1993227377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/2/0/a926d0587e48465a83d05994228afef8.mp3?hdnea=exp=1795655598~acl=/api/1/1/a/9/2/0/a926d0587e48465a83d05994228afef8.mp3*~data=user_id=0,application_id=42~hmac=6d501f1e68768bb02bb8f587b50b8dad311132ee50e837717532c87326a73f71",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Kody Blu 31",
+            "length": "3:44",
+            "deezer": {
+              "id": 1993227387,
+              "link": "https://www.deezer.com/track/1993227387",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/5/0/33585518646f3067e37ed3a3a89c72cf.mp3?hdnea=exp=1795655598~acl=/api/1/1/3/3/5/0/33585518646f3067e37ed3a3a89c72cf.mp3*~data=user_id=0,application_id=42~hmac=d046814049e55490442362a40db0292b13383fb80e2f8cf8f8a359aa29e9ed26",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Bruddanem",
+            "length": "3:55",
+            "artist": "JID feat. Lil Durk",
+            "deezer": {
+              "id": 1993227397,
+              "link": "https://www.deezer.com/track/1993227397",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/c/0/50c83f13280a10fa09597261c4773372.mp3?hdnea=exp=1795655598~acl=/api/1/1/5/0/c/0/50c83f13280a10fa09597261c4773372.mp3*~data=user_id=0,application_id=42~hmac=3933f9ac4a1b372ce6620bcfd56963ec1cd0fd1de67417eb7a301c28982b9aba",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sistanem",
+            "length": "6:09",
+            "deezer": {
+              "id": 1993227407,
+              "link": "https://www.deezer.com/track/1993227407",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/f/0/c3f6b3f48b63c33fd8c62712d78f84fb.mp3?hdnea=exp=1795655598~acl=/api/1/1/c/3/f/0/c3f6b3f48b63c33fd8c62712d78f84fb.mp3*~data=user_id=0,application_id=42~hmac=54cdbd7526a9777fbd0a082e51e9a8d697087fb4e7838731b5a750be2b918699",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Can’t Make U Change",
+            "length": "4:48",
+            "artist": "JID & Ari Lennox",
+            "deezer": {
+              "id": 1993227417,
+              "link": "https://www.deezer.com/track/1993227417",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/7/0/f27f9b3d3d382bb028fa7cc58fec0fba.mp3?hdnea=exp=1795655598~acl=/api/1/1/f/2/7/0/f27f9b3d3d382bb028fa7cc58fec0fba.mp3*~data=user_id=0,application_id=42~hmac=3723aeb4f93617d655910afaada58764aa4f620dc57a11feee10f10ed323da1a",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Stars",
+            "length": "4:18",
+            "artist": "JID feat. Yasiin Bey",
+            "deezer": {
+              "id": 1993227427,
+              "link": "https://www.deezer.com/track/1993227427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/4/0/e84224b10389186c4c6d8cab2b26381a.mp3?hdnea=exp=1795655598~acl=/api/1/1/e/8/4/0/e84224b10389186c4c6d8cab2b26381a.mp3*~data=user_id=0,application_id=42~hmac=0f25cabb5fdfd1fc4a0371fa15500def7e2631c245032029298d9554c9ac5052",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Just in Time",
+            "length": "3:27",
+            "artist": "JID & Kenny Mason feat. Lil Wayne",
+            "deezer": {
+              "id": 1993227437,
+              "link": "https://www.deezer.com/track/1993227437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/f/0/c8fc7a717964bc4ed5f15ed8050be2b9.mp3?hdnea=exp=1795655598~acl=/api/1/1/c/8/f/0/c8fc7a717964bc4ed5f15ed8050be2b9.mp3*~data=user_id=0,application_id=42~hmac=650794ca15f253bfc5634dc7dc10153acde62b17b3c9257ad32f8d477dbbf6cf",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Money",
+            "length": "4:26",
+            "deezer": {
+              "id": 1993227447,
+              "link": "https://www.deezer.com/track/1993227447",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/6/0/e76e9fffc4a36f0bdce05bee2224be84.mp3?hdnea=exp=1795655598~acl=/api/1/1/e/7/6/0/e76e9fffc4a36f0bdce05bee2224be84.mp3*~data=user_id=0,application_id=42~hmac=e1f58a5bf54b36f84173dbf50a7b863d90d8f43ebb9982a7e0001ebcc54b2915",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Better Days",
+            "length": "4:14",
+            "artist": "JID feat. Johntá Austin",
+            "deezer": {
+              "id": 1993227457,
+              "link": "https://www.deezer.com/track/1993227457",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/6/0/fd61e8ba677ab971faf084036a6b08ae.mp3?hdnea=exp=1795655598~acl=/api/1/1/f/d/6/0/fd61e8ba677ab971faf084036a6b08ae.mp3*~data=user_id=0,application_id=42~hmac=192d8d948aa05cb4acb52e768f144b7326dc6ee59a3a32e37a78793365970655",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Lauder Too",
+            "length": "3:53",
+            "artist": "JID feat. Ravyn Lenae",
+            "deezer": {
+              "id": 1993227467,
+              "link": "https://www.deezer.com/track/1993227467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/b/0/40b6b9f8a3728d2e9fda712c11cd799b.mp3?hdnea=exp=1795655598~acl=/api/1/1/4/0/b/0/40b6b9f8a3728d2e9fda712c11cd799b.mp3*~data=user_id=0,application_id=42~hmac=0938d67b6dbda516ef5ad8e6435f3b4226acd34f6e3566966cb5b951d2f9df5e",
+              "preview_expires": "2026-11-26T01:13:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/JID/The Forever Story.jpg"
+}

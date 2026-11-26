@@ -1,0 +1,51 @@
+{
+  "title": "Sauda",
+  "artist": "Tech Panda, Kenzani",
+  "year": 2020,
+  "release_date": "2020-10-30",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F",
+    "deezer": "https://www.deezer.com/album/180317652"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F",
+      "title": "Sauda",
+      "date": "2020-10-30"
+    },
+    "total_tracks": 1,
+    "total_length": "4:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sauda",
+            "length": "4:37",
+            "deezer": {
+              "id": 1112314982,
+              "link": "https://www.deezer.com/track/1112314982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/2/0/562e6c20af7d9db90a45d41ab9261404.mp3?hdnea=exp=1795721279~acl=/api/1/1/5/6/2/0/562e6c20af7d9db90a45d41ab9261404.mp3*~data=user_id=0,application_id=42~hmac=ea43fb0e1029457644a641a4a0353fafd415d864770bb632679595de0734fd8b",
+              "preview_expires": "2026-11-26T19:27:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Sauda.jpg"
+}

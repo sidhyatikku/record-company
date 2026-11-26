@@ -1,0 +1,51 @@
+{
+  "title": "Yaad",
+  "artist": "ZOH",
+  "year": 2022,
+  "release_date": "2022-05-31",
+  "type": "Single + Soundtrack",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cffe3385-1379-4f02-9c54-fab73a76e882",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/321127467"
+  },
+  "musicbrainz_id": "cffe3385-1379-4f02-9c54-fab73a76e882",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2322688e-e122-45bb-b5ca-44166541966a",
+      "barcode": "196864035798",
+      "title": "Yaad",
+      "disambiguation": null,
+      "date": "2022-05-31",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yaad",
+            "length": "2:45",
+            "deezer": {
+              "id": 1762694557,
+              "link": "https://www.deezer.com/track/1762694557",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b719d0e18fcb1de60894b0f9d90477e.mp3?hdnea=exp=1795724607~acl=/api/1/1/7/b/7/0/7b719d0e18fcb1de60894b0f9d90477e.mp3*~data=user_id=0,application_id=42~hmac=49c704d003746572447683a7310b24469e0b4433390300c63db6e9c0091603e9",
+              "preview_expires": "2026-11-26T20:23:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/ZOH/Yaad.jpg"
+}

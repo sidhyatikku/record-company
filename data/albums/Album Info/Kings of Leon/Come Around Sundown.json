@@ -1,0 +1,235 @@
+{
+  "title": "Come Around Sundown",
+  "artist": "Kings of Leon",
+  "year": 2010,
+  "release_date": "2010-10-15",
+  "type": "Album",
+  "description": "Come Around Sundown is the fifth studio album by American rock band Kings of Leon. It was released in Ireland, Austria and Germany on October 15, 2010, the United Kingdom on October 18 and a day later in North America, through RCA Records. The lead single \"Radioactive\", along with its accompanying music video, premiered on September 8 on the band's official website.",
+  "genres": [
+    "pop",
+    "rock",
+    "alternative rock",
+    "pop rock"
+  ],
+  "tags": [
+    "pop",
+    "rock",
+    "alternative rock",
+    "modern rock",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.75,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b44f35b2-0ae7-461c-a526-df86123edb91",
+    "wikipedia": "https://en.wikipedia.org/wiki/Come_Around_Sundown",
+    "allmusic": "https://www.allmusic.com/album/mw0002030893",
+    "discogs": "https://www.discogs.com/master/283578",
+    "wikidata": "https://www.wikidata.org/wiki/Q1113832",
+    "deezer": "https://www.deezer.com/album/676719"
+  },
+  "musicbrainz_id": "b44f35b2-0ae7-461c-a526-df86123edb91",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f6401cc7-2edd-4ae3-a227-891f424d4c82",
+      "barcode": "884977779486",
+      "title": "Come Around Sundown",
+      "disambiguation": "expanded edition",
+      "date": "2010-10-19",
+      "country": null
+    },
+    "total_tracks": 16,
+    "total_length": "1:01:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The End",
+            "length": "4:24",
+            "deezer": {
+              "id": 7330116,
+              "link": "https://www.deezer.com/track/7330116",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/6/0/166d09e89c6d25f5a700010dbb277b91.mp3?hdnea=exp=1795656236~acl=/api/1/1/1/6/6/0/166d09e89c6d25f5a700010dbb277b91.mp3*~data=user_id=0,application_id=42~hmac=0ab777f3beb558e124718ff7bdddbf56852106ad1df753cf40d8ee34e1090890",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Radioactive",
+            "length": "3:26",
+            "deezer": {
+              "id": 7330117,
+              "link": "https://www.deezer.com/track/7330117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/d/0/c0da3fa0f26c692e7347a35a9f71a2cf.mp3?hdnea=exp=1795656236~acl=/api/1/1/c/0/d/0/c0da3fa0f26c692e7347a35a9f71a2cf.mp3*~data=user_id=0,application_id=42~hmac=8e6c9f28bdbbecbe9e320df1f7fb99ec5c545cedf910dc402025e0197bba7dc3",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Pyro",
+            "length": "4:11",
+            "deezer": {
+              "id": 7330118,
+              "link": "https://www.deezer.com/track/7330118",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/b/0/4abb6b16ae29e9187e5f0720520fcfeb.mp3?hdnea=exp=1795656236~acl=/api/1/1/4/a/b/0/4abb6b16ae29e9187e5f0720520fcfeb.mp3*~data=user_id=0,application_id=42~hmac=a137f42b79f484ffb6ce0f0ad90e525c37f40b16e3aad8b71bf8a91de635744f",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mary",
+            "length": "3:25",
+            "deezer": {
+              "id": 7330119,
+              "link": "https://www.deezer.com/track/7330119",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/a/0/5eaaa4e81486547d9ebc1f16e095dbb4.mp3?hdnea=exp=1795656236~acl=/api/1/1/5/e/a/0/5eaaa4e81486547d9ebc1f16e095dbb4.mp3*~data=user_id=0,application_id=42~hmac=648ee91b5769f3bb60cde5f116a2f2f638d0fa8005fc8e9b8f64d25811886d9b",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Face",
+            "length": "3:28",
+            "deezer": {
+              "id": 7330120,
+              "link": "https://www.deezer.com/track/7330120",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/2/0/4f20995b081ca7cc2e0e110fc603efd8.mp3?hdnea=exp=1795656236~acl=/api/1/1/4/f/2/0/4f20995b081ca7cc2e0e110fc603efd8.mp3*~data=user_id=0,application_id=42~hmac=9dfd038563e0e5740958814f5630a2f2c656ddb4a18ecf7249470979405baebc",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Immortals",
+            "length": "3:29",
+            "deezer": {
+              "id": 7330121,
+              "link": "https://www.deezer.com/track/7330121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/c/0/8dc00e81d311c90e908e8857a175833d.mp3?hdnea=exp=1795656236~acl=/api/1/1/8/d/c/0/8dc00e81d311c90e908e8857a175833d.mp3*~data=user_id=0,application_id=42~hmac=ff2691edde1ff323dd1ca790f5d511287b89a2a5b73d0ed9b6ce0ef5ba886400",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Back Down South",
+            "length": "4:01",
+            "deezer": {
+              "id": 7330122,
+              "link": "https://www.deezer.com/track/7330122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/0/0/200059c81b49ec6228d39af0d5b6b016.mp3?hdnea=exp=1795656236~acl=/api/1/1/2/0/0/0/200059c81b49ec6228d39af0d5b6b016.mp3*~data=user_id=0,application_id=42~hmac=24bdd7fef0c73d7543907d4ae099aec27d03b0070b724290a8906fff704090ab",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Beach Side",
+            "length": "2:51",
+            "deezer": {
+              "id": 7330123,
+              "link": "https://www.deezer.com/track/7330123",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/6/0/936640f605371a091a8bcdc5a2ff9994.mp3?hdnea=exp=1795656236~acl=/api/1/1/9/3/6/0/936640f605371a091a8bcdc5a2ff9994.mp3*~data=user_id=0,application_id=42~hmac=1cf95d3c17696f18134d1f110d70ad0ae8f56f9dfd77a06b1f8c3f00a5225d74",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "No Money",
+            "length": "3:06",
+            "deezer": {
+              "id": 7330124,
+              "link": "https://www.deezer.com/track/7330124",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/1/0/551961d0aa02195c78b645c012ac9c24.mp3?hdnea=exp=1795656236~acl=/api/1/1/5/5/1/0/551961d0aa02195c78b645c012ac9c24.mp3*~data=user_id=0,application_id=42~hmac=542b3d67808158d71911906b5414cd3ccc54cbdaa04c4e5dea49a340e03c62bd",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Pony Up",
+            "length": "3:05",
+            "deezer": {
+              "id": 7330125,
+              "link": "https://www.deezer.com/track/7330125",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/b/0/5bbc4f94722925773dbeaeeddd62c353.mp3?hdnea=exp=1795656236~acl=/api/1/1/5/b/b/0/5bbc4f94722925773dbeaeeddd62c353.mp3*~data=user_id=0,application_id=42~hmac=a1f350796b318d1e653bff4ebc6eee7e8fc10e53e9c412af4953ff8556026368",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Birthday",
+            "length": "3:15",
+            "deezer": {
+              "id": 7330126,
+              "link": "https://www.deezer.com/track/7330126",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/e/0/4defc8b8d46b95bea2ad96c6cdff2bb8.mp3?hdnea=exp=1795656236~acl=/api/1/1/4/d/e/0/4defc8b8d46b95bea2ad96c6cdff2bb8.mp3*~data=user_id=0,application_id=42~hmac=6c8d548343efa8fe38419a6c9b53ffc67d5718f1c4a7380709eb02352c3535f5",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Mi amigo",
+            "length": "4:07",
+            "deezer": {
+              "id": 7330127,
+              "link": "https://www.deezer.com/track/7330127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/5/0/0854424b2d0357a9e28752ecd767bbfa.mp3?hdnea=exp=1795656236~acl=/api/1/1/0/8/5/0/0854424b2d0357a9e28752ecd767bbfa.mp3*~data=user_id=0,application_id=42~hmac=8b9479f69587e80ac511e09f13bd53459136e489489bd21c01f380d56f759545",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Pickup Truck",
+            "length": "4:45",
+            "deezer": {
+              "id": 7330128,
+              "link": "https://www.deezer.com/track/7330128",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/a/0/63a5accbf6c43ee880931da4ae1f1eda.mp3?hdnea=exp=1795656236~acl=/api/1/1/6/3/a/0/63a5accbf6c43ee880931da4ae1f1eda.mp3*~data=user_id=0,application_id=42~hmac=6dfe4046b82cb675e7415da2f0cbd357fac391201b1ba5960e52d893351c8632",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Celebration",
+            "length": "5:14",
+            "deezer": {
+              "id": 7330129,
+              "link": "https://www.deezer.com/track/7330129",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/f/0/81fce38f470904546cc13b936dab4934.mp3?hdnea=exp=1795656236~acl=/api/1/1/8/1/f/0/81fce38f470904546cc13b936dab4934.mp3*~data=user_id=0,application_id=42~hmac=37cf33866a33951fd1dfe23f4c0a21220e07e98c8d33d89450905ab2cde4abc6",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Radioactive (remix)",
+            "length": "3:28",
+            "artist": "Kings of Leon feat. West Angeles Mass Choir",
+            "deezer": {
+              "id": 7330130,
+              "link": "https://www.deezer.com/track/7330130",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/5/0/c0593ca26facaf16511ed5d345d4d1dc.mp3?hdnea=exp=1795656236~acl=/api/1/1/c/0/5/0/c0593ca26facaf16511ed5d345d4d1dc.mp3*~data=user_id=0,application_id=42~hmac=5269896432ec8b9136924e248206f19b25b91f40084cee23c6b28e41cac19eda",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Closer (Presets remix)",
+            "length": "4:51",
+            "deezer": {
+              "id": 7330131,
+              "link": "https://www.deezer.com/track/7330131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/5/0/d151f0c3716208836556a7cc25485b87.mp3?hdnea=exp=1795656236~acl=/api/1/1/d/1/5/0/d151f0c3716208836556a7cc25485b87.mp3*~data=user_id=0,application_id=42~hmac=ea21758dafb5661dae1d8b8af6e8c507b6c38fd70465554f5219566c4ed4c668",
+              "preview_expires": "2026-11-26T01:23:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kings of Leon/Come Around Sundown.jpg"
+}

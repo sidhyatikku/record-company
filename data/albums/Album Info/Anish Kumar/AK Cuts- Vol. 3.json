@@ -1,0 +1,84 @@
+{
+  "title": "AK Cuts: Vol. 3",
+  "artist": "Anish Kumar",
+  "year": 2026,
+  "release_date": "2026-05-01",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/557a4b63-ba07-4fa4-9172-fd983c926abd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/928724001"
+  },
+  "musicbrainz_id": "557a4b63-ba07-4fa4-9172-fd983c926abd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e2b018d5-f3d9-4832-99ee-23b995dd660d",
+      "barcode": "5059449352558",
+      "title": "AK Cuts: Vol. 3",
+      "disambiguation": null,
+      "date": "2026-05-01",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "18:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Come On, Let’s Get It",
+            "length": "4:19",
+            "deezer": {
+              "id": 3871125871,
+              "link": "https://www.deezer.com/track/3871125871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/f/0/dff845725a2dae4044d8725f246768aa.mp3?hdnea=exp=1795649209~acl=/api/1/1/d/f/f/0/dff845725a2dae4044d8725f246768aa.mp3*~data=user_id=0,application_id=42~hmac=c9fe548caf9340500d0e0350d1a88e0850e0ad612a91d8725524bec37d4b6623",
+              "preview_expires": "2026-11-25T23:26:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Passionfruit",
+            "length": "3:57",
+            "deezer": {
+              "id": 3871125881,
+              "link": "https://www.deezer.com/track/3871125881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/a/0/a3a8e5bbe1a911653252fc5f26931e7a.mp3?hdnea=exp=1795649209~acl=/api/1/1/a/3/a/0/a3a8e5bbe1a911653252fc5f26931e7a.mp3*~data=user_id=0,application_id=42~hmac=d2cd017a60833080d088f3955fb68299006e07fda6e1f9fa1c21093b14f3c9ab",
+              "preview_expires": "2026-11-25T23:26:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Troublesome Trucks",
+            "length": "5:27",
+            "deezer": {
+              "id": 3871125891,
+              "link": "https://www.deezer.com/track/3871125891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/4/0/6d434179f8ec09dafbddc64b064aaced.mp3?hdnea=exp=1795649209~acl=/api/1/1/6/d/4/0/6d434179f8ec09dafbddc64b064aaced.mp3*~data=user_id=0,application_id=42~hmac=c9e4afd64da8f63643d057eddcdac782c4f2e57ff718670d4e4f0907f69a3067",
+              "preview_expires": "2026-11-25T23:26:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Theme for a Train Journey",
+            "length": "5:06",
+            "deezer": {
+              "id": 3871125901,
+              "link": "https://www.deezer.com/track/3871125901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/6/0/ab6000203b6ff92afa39dbf5eefa66d8.mp3?hdnea=exp=1795649209~acl=/api/1/1/a/b/6/0/ab6000203b6ff92afa39dbf5eefa66d8.mp3*~data=user_id=0,application_id=42~hmac=0a7e92e308b995da390c81edcbc712f2cef83aac24a6a5c0913e85190de0313b",
+              "preview_expires": "2026-11-25T23:26:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/AK Cuts- Vol. 3.jpg"
+}

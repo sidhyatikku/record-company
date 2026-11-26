@@ -1,0 +1,174 @@
+{
+  "title": "Come Into My Life",
+  "artist": "Gala",
+  "year": 1997,
+  "release_date": "1997-11-18",
+  "type": "Album",
+  "description": "Come into My Life is the debut studio album by Italian dance music singer Gala, released in November 1997. The album was recorded at the Planet Studio in Milan, Italy.\nFour singles were released: \"Come into My Life\", \"Freed from Desire\", \"Suddenly\" and \"Let a Boy Cry\".",
+  "genres": [
+    "euro house",
+    "electronic",
+    "house",
+    "latin",
+    "latin pop",
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "euro house",
+    "meditative",
+    "electronic",
+    "house",
+    "latin",
+    "latin pop",
+    "pop",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1f335136-7f2c-3017-ae86-6605a91814cb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Come_into_My_Life_(Gala_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0001026268",
+    "discogs": "https://www.discogs.com/master/28671",
+    "wikidata": "https://www.wikidata.org/wiki/Q2549470",
+    "deezer": "https://www.deezer.com/album/637847"
+  },
+  "musicbrainz_id": "1f335136-7f2c-3017-ae86-6605a91814cb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/53c412b2-10de-42e0-8194-c094bf31ed66",
+      "barcode": "8033300000106",
+      "title": "Come Into My Life",
+      "disambiguation": null,
+      "date": "2007",
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "37:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Keep the Secret",
+            "length": "4:24",
+            "deezer": {
+              "id": 6907147,
+              "link": "https://www.deezer.com/track/6907147",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/a/0/0ca6907d968aa78ce5df450aa649b6ce.mp3?hdnea=exp=1795654559~acl=/api/1/1/0/c/a/0/0ca6907d968aa78ce5df450aa649b6ce.mp3*~data=user_id=0,application_id=42~hmac=41e5fdf3f7a7a0c8bf17cf01652de08d9b6dff9d2a2c6b7b35629750b5c9963e",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Come Into My Life (Molella and Phil Jay edit mix)",
+            "length": "3:24",
+            "deezer": {
+              "id": 6907148,
+              "link": "https://www.deezer.com/track/6907148",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/1/0/0b18659319c5379ef9af715b8b34b0dd.mp3?hdnea=exp=1795654559~acl=/api/1/1/0/b/1/0/0b18659319c5379ef9af715b8b34b0dd.mp3*~data=user_id=0,application_id=42~hmac=de41a07b3552f28cf45912634642db45900bb002a8a508b82c1cfcddbd75d987",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Suddenly",
+            "length": "3:56",
+            "deezer": {
+              "id": 6907149,
+              "link": "https://www.deezer.com/track/6907149",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/d/0/a5dfffc09ddf963084fb3167420c0cbe.mp3?hdnea=exp=1795654559~acl=/api/1/1/a/5/d/0/a5dfffc09ddf963084fb3167420c0cbe.mp3*~data=user_id=0,application_id=42~hmac=6e2c825ad43eb12fdc999eb58c1681206a9c62ca772c02990df3360a37872ec3",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Freed From Desire (slow version)",
+            "length": "3:52",
+            "deezer": {
+              "id": 6907150,
+              "link": "https://www.deezer.com/track/6907150",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/4/0/da416f89adf00b9f8a985683b46aab6b.mp3?hdnea=exp=1795654559~acl=/api/1/1/d/a/4/0/da416f89adf00b9f8a985683b46aab6b.mp3*~data=user_id=0,application_id=42~hmac=29bf861c212b601e9ed232785ea6d7024bb0303f3dc323fc060085c3f54c8eb8",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Let a Boy Cry",
+            "length": "3:23",
+            "deezer": {
+              "id": 6907151,
+              "link": "https://www.deezer.com/track/6907151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/3/0/6632a72f431e4551d6cff28d7dc2f7f0.mp3?hdnea=exp=1795654559~acl=/api/1/1/6/6/3/0/6632a72f431e4551d6cff28d7dc2f7f0.mp3*~data=user_id=0,application_id=42~hmac=63152ccb0d010f9271eb2a2649b9d5f81b04e3978f24030465d7a0152ceb03df",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Summer Eclipse",
+            "length": "4:55",
+            "deezer": {
+              "id": 6907152,
+              "link": "https://www.deezer.com/track/6907152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/3/0/5e3de307b34d09f9adf787989e52eba2.mp3?hdnea=exp=1795654559~acl=/api/1/1/5/e/3/0/5e3de307b34d09f9adf787989e52eba2.mp3*~data=user_id=0,application_id=42~hmac=d365da35694d4b4ba0c940affa8988b6f0a5ec33fec53561d9b49d0f64251b02",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Dance or Die",
+            "length": "3:20",
+            "deezer": {
+              "id": 6907153,
+              "link": "https://www.deezer.com/track/6907153",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/f/0/f3fe826ee8b4f1a4c0f14ed7de3dac4d.mp3?hdnea=exp=1795654559~acl=/api/1/1/f/3/f/0/f3fe826ee8b4f1a4c0f14ed7de3dac4d.mp3*~data=user_id=0,application_id=42~hmac=c075e817dd1fe7fcf48f3601f07c648a3fcb921753ed76575725506491918952",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Come Into My Life (Molella and Phil Jay edit)",
+            "length": "3:25",
+            "deezer": {
+              "id": 6907154,
+              "link": "https://www.deezer.com/track/6907154",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/a/0/f3a5243242ac8a04945c15f2e94cb886.mp3?hdnea=exp=1795654559~acl=/api/1/1/f/3/a/0/f3a5243242ac8a04945c15f2e94cb886.mp3*~data=user_id=0,application_id=42~hmac=01bdb7ce6b87c585687bceaea6352be6295fcc6ebb989b76a1f8b4da47ba5b94",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "10 O’Clock",
+            "length": "3:34",
+            "deezer": {
+              "id": 6907155,
+              "link": "https://www.deezer.com/track/6907155",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/9/0/7e980e382e5fcc95293aba080d9a15d8.mp3?hdnea=exp=1795654559~acl=/api/1/1/7/e/9/0/7e980e382e5fcc95293aba080d9a15d8.mp3*~data=user_id=0,application_id=42~hmac=01d005c3a75877c56d5a72c657fd4dd95bcbdca0a0701ed45ad7ee50eb3152c6",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Freed From Desire",
+            "length": "3:33",
+            "deezer": {
+              "id": 6907156,
+              "link": "https://www.deezer.com/track/6907156",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/f/0/b9fbd6d513ef82346d783bfb817b60c7.mp3?hdnea=exp=1795654559~acl=/api/1/1/b/9/f/0/b9fbd6d513ef82346d783bfb817b60c7.mp3*~data=user_id=0,application_id=42~hmac=20e5a3649d98b14c19efd8a01eb8b48e98496337d87098a632bbc2ffe9089b36",
+              "preview_expires": "2026-11-26T00:55:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Gala/Come Into My Life (The Album).jpg"
+}

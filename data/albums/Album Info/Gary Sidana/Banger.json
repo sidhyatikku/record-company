@@ -1,0 +1,45 @@
+{
+  "title": "Banger",
+  "artist": "Gary Sidana, GFL, Scole",
+  "year": 2026,
+  "release_date": "2026-04-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "punjabi pop",
+    "hindi hip hop",
+    "desi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3DpdEMUReP0JIk9vUHMB82",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3DpdEMUReP0JIk9vUHMB82",
+      "title": "Banger",
+      "date": "2026-04-08"
+    },
+    "total_tracks": 1,
+    "total_length": "2:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Banger",
+            "length": "2:25"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Gary Sidana/Banger.jpg"
+}

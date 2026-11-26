@@ -1,0 +1,50 @@
+{
+  "title": "Charles",
+  "artist": "Charles Williams",
+  "year": 1983,
+  "release_date": "1983",
+  "type": "Album + Spokenword",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/189c6e61-eced-4fab-908d-f1b91e2f8d0d",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "189c6e61-eced-4fab-908d-f1b91e2f8d0d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2e6c09e1-554c-403e-afcb-7702cc925f57",
+      "barcode": null,
+      "title": "Charles",
+      "disambiguation": null,
+      "date": "1983",
+      "country": null
+    },
+    "total_tracks": 2,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "12\" Vinyl",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A1",
+            "title": "Charles Williams yn Arwain Noson Lawen Yn Y Gloddfa Ganol, Blaenau Ffestiniog A Phafiliwn Corwen, 1982",
+            "length": null
+          },
+          {
+            "number": "B1",
+            "title": "Hiwmor",
+            "length": null
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Charles J/Charles J.jpg"
+}

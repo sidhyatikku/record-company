@@ -1,0 +1,51 @@
+{
+  "title": "Wacuka",
+  "artist": "AVAION & Sofiya Nzau",
+  "year": 2025,
+  "release_date": "2025-01-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a856d238-9778-4887-8d96-4ba4799fb297",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/680429301"
+  },
+  "musicbrainz_id": "a856d238-9778-4887-8d96-4ba4799fb297",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3ed0d74c-67ca-427a-95e8-67c455b399b4",
+      "barcode": "196872735864",
+      "title": "Wacuka",
+      "disambiguation": null,
+      "date": "2025-01-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wacuka",
+            "length": "3:10",
+            "deezer": {
+              "id": 3130053941,
+              "link": "https://www.deezer.com/track/3130053941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/4/0/9644e991de97468b1271a97ab28aaeb2.mp3?hdnea=exp=1795651733~acl=/api/1/1/9/6/4/0/9644e991de97468b1271a97ab28aaeb2.mp3*~data=user_id=0,application_id=42~hmac=7085d588c3bb4a04d8d8e64460d44c2621d76f83780f8601a55f4c59eb2dc6dc",
+              "preview_expires": "2026-11-26T00:08:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AVAION/WACUKA.jpg"
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Slowdive",
+  "artist": "Slowdive",
+  "year": 2017,
+  "release_date": "2017-05-05",
+  "type": "Album",
+  "description": "Slowdive is the fourth studio album by English rock band Slowdive. It was released on 5 May 2017 by the record label Dead Oceans. It was Slowdive's first studio album in 22 years, following Pygmalion (1995), as well as their first album since Souvlaki (1993) to feature drummer Simon Scott as a member.",
+  "genres": [
+    "shoegaze",
+    "dream pop",
+    "rock",
+    "alternative rock",
+    "indie rock",
+    "pop"
+  ],
+  "tags": [
+    "shoegaze",
+    "dream pop",
+    "rock",
+    "alternative rock",
+    "alternative/indie rock",
+    "indie rock",
+    "pop",
+    "self-titled"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9318347d-b4bc-4b50-bd5e-c9a9fcb9aa98",
+    "wikipedia": "https://en.wikipedia.org/wiki/Slowdive_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003037022",
+    "discogs": "https://www.discogs.com/master/1173913",
+    "wikidata": "https://www.wikidata.org/wiki/Q29045101",
+    "deezer": "https://www.deezer.com/album/39511361"
+  },
+  "musicbrainz_id": "9318347d-b4bc-4b50-bd5e-c9a9fcb9aa98",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d7e04edd-3c87-4a4d-a586-e6e14beab19e",
+      "barcode": "656605143262",
+      "title": "Slowdive",
+      "disambiguation": null,
+      "date": "2017-05-05",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "46:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Slomo",
+            "length": "6:53",
+            "deezer": {
+              "id": 347015891,
+              "link": "https://www.deezer.com/track/347015891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/0/0/0507937e322a41963939d98cfd5bfdee.mp3?hdnea=exp=1795720760~acl=/api/1/1/0/5/0/0/0507937e322a41963939d98cfd5bfdee.mp3*~data=user_id=0,application_id=42~hmac=65cedab578782816028d444963bcc6ce761ecd266f884af03aaa5e79b2490c6d",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Star Roving",
+            "length": "5:39",
+            "deezer": {
+              "id": 347015901,
+              "link": "https://www.deezer.com/track/347015901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/8/0/4e81c55057e00d15d456bd616454a1d9.mp3?hdnea=exp=1795720760~acl=/api/1/1/4/e/8/0/4e81c55057e00d15d456bd616454a1d9.mp3*~data=user_id=0,application_id=42~hmac=6c9a5ec5898c364f593a0abe849d6ea709f355da614ad5d07e227486658855ff",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Don’t Know Why",
+            "length": "4:37",
+            "deezer": {
+              "id": 347015911,
+              "link": "https://www.deezer.com/track/347015911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/f/0/04ffa601d344583590033f02a463d8f6.mp3?hdnea=exp=1795720760~acl=/api/1/1/0/4/f/0/04ffa601d344583590033f02a463d8f6.mp3*~data=user_id=0,application_id=42~hmac=d4f05ebd2762e274f9ed553dc1f3b32da30b7078c5148077f3bbd27e4a142a5f",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sugar for the Pill",
+            "length": "4:31",
+            "deezer": {
+              "id": 347015921,
+              "link": "https://www.deezer.com/track/347015921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/e/0/a1e1be6d6a41941fa435f2fe90dafc5f.mp3?hdnea=exp=1795720760~acl=/api/1/1/a/1/e/0/a1e1be6d6a41941fa435f2fe90dafc5f.mp3*~data=user_id=0,application_id=42~hmac=2250b82dd452813611b94bd3239db1ae6e0f0f3764a668cc2641ef3314cc9a89",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Everyone Knows",
+            "length": "4:22",
+            "deezer": {
+              "id": 347015931,
+              "link": "https://www.deezer.com/track/347015931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/7/0/e2769a19596739b90072c932ca68aa71.mp3?hdnea=exp=1795720760~acl=/api/1/1/e/2/7/0/e2769a19596739b90072c932ca68aa71.mp3*~data=user_id=0,application_id=42~hmac=a7320e48f3115acc6362cc32bf99a12c766c7ea846b3883591818cb4804a726d",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "No Longer Making Time",
+            "length": "5:48",
+            "deezer": {
+              "id": 347015941,
+              "link": "https://www.deezer.com/track/347015941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/e/0/b8efe28b539c77205d5c7fcfc4392380.mp3?hdnea=exp=1795720760~acl=/api/1/1/b/8/e/0/b8efe28b539c77205d5c7fcfc4392380.mp3*~data=user_id=0,application_id=42~hmac=4b48cb5f693a230961442634db316fca4dedba6826cf1b5e5ce024eba9af28ff",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Go Get It",
+            "length": "6:10",
+            "deezer": {
+              "id": 347015951,
+              "link": "https://www.deezer.com/track/347015951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/3/0/723889c77290e38302818d384d90e79e.mp3?hdnea=exp=1795720760~acl=/api/1/1/7/2/3/0/723889c77290e38302818d384d90e79e.mp3*~data=user_id=0,application_id=42~hmac=a1cb69ef4c11c9ce4932365d094a7d9769dcdf0503e07d7b385736e50338216f",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Falling Ashes",
+            "length": "8:01",
+            "deezer": {
+              "id": 347015961,
+              "link": "https://www.deezer.com/track/347015961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/2/0/8821f4decb7c3d07278f3a58fe4180ae.mp3?hdnea=exp=1795720760~acl=/api/1/1/8/8/2/0/8821f4decb7c3d07278f3a58fe4180ae.mp3*~data=user_id=0,application_id=42~hmac=6c7d5264c71d29cfdc89f7045135f6ac6330069a7806efc13a393d29a39b6115",
+              "preview_expires": "2026-11-26T19:19:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Slowdive/Slowdive.jpg"
+}

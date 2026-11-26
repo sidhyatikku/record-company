@@ -1,0 +1,50 @@
+{
+  "title": "Ajaa Nacheye",
+  "artist": "Sevaqk",
+  "year": 2022,
+  "release_date": "2022-10-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5fLcMLHBRwzBHXnOhTlbHr",
+    "deezer": "https://www.deezer.com/album/368165647"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5fLcMLHBRwzBHXnOhTlbHr",
+      "title": "Ajaa Nacheye",
+      "date": "2022-10-29"
+    },
+    "total_tracks": 1,
+    "total_length": "3:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ajaa Nacheye",
+            "length": "3:31",
+            "artist": "Sevaqk, Kaka Bhaniawala",
+            "deezer": {
+              "id": 1975372107,
+              "link": "https://www.deezer.com/track/1975372107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/6/0/916dee37dda4f68bac99587fa0b60514.mp3?hdnea=exp=1795720451~acl=/api/1/1/9/1/6/0/916dee37dda4f68bac99587fa0b60514.mp3*~data=user_id=0,application_id=42~hmac=8b9cd5dbbe0876c05ad1f48ba049d4816951b6d8f80ca47b60b6dd8f2c3dd8ea",
+              "preview_expires": "2026-11-26T19:14:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Sevaqk/Ajaa Nacheye.jpg"
+}

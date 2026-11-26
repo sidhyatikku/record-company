@@ -1,0 +1,289 @@
+{
+  "title": "In Your Honor",
+  "artist": "Foo Fighters",
+  "year": 2005,
+  "release_date": "2005-06-10",
+  "type": "Album",
+  "description": "In Your Honor is the fifth studio album by American rock band Foo Fighters, released on June 14, 2005, through Roswell and RCA Records. It is a double album, with the first disc containing heavy rock songs and the second containing mellower acoustic songs. Frontman Dave Grohl decided to do a diverse blend of songs, as he felt that after ten years of existence, the band had to break new ground with their music. The album was recorded at a newly built studio in Northridge, Los Angeles, and features guests such as John Paul Jones, Norah Jones, and Josh Homme. Its lyrics deal with both resonating and introspective themes, with a major influence from Grohl's involvement on the campaign trail with John Kerry during the 2004 presidential election. It was the first album to feature keyboardist Rami Jaffee, although he would not join the band as full-time member until 2016.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "grunge",
+    "hard rock",
+    "post-grunge"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "grunge",
+    "mellow",
+    "hard rock",
+    "hardnheavy",
+    "post-grunge",
+    "rock and indie"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/304479f9-ea77-3299-8745-3985f05cfa13",
+    "wikipedia": "https://en.wikipedia.org/wiki/In_Your_Honor",
+    "allmusic": "https://www.allmusic.com/album/mw0000208725",
+    "discogs": "https://www.discogs.com/master/62195",
+    "wikidata": "https://www.wikidata.org/wiki/Q907592",
+    "deezer": "https://www.deezer.com/album/1424136"
+  },
+  "musicbrainz_id": "304479f9-ea77-3299-8745-3985f05cfa13",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e1ca49bf-4d92-4a40-b0c5-7d58abd01d1f",
+      "barcode": "828767967257",
+      "title": "In Your Honor",
+      "disambiguation": null,
+      "date": "2005-06-13",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "1:23:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "In Your Honor",
+            "length": "3:50",
+            "deezer": {
+              "id": 15422118,
+              "link": "https://www.deezer.com/track/15422118",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/9/0/6994baa6d8f549a2de28a5b4a1ca377c.mp3?hdnea=exp=1795654280~acl=/api/1/1/6/9/9/0/6994baa6d8f549a2de28a5b4a1ca377c.mp3*~data=user_id=0,application_id=42~hmac=7b424d248e5e8777993272199f38993641bb8227a10446aff62d5a98b7e87b0c",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "No Way Back",
+            "length": "3:16",
+            "deezer": {
+              "id": 15422119,
+              "link": "https://www.deezer.com/track/15422119",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/4/0/7d416f19ec47f4be1eeb944ce2cf9088.mp3?hdnea=exp=1795654280~acl=/api/1/1/7/d/4/0/7d416f19ec47f4be1eeb944ce2cf9088.mp3*~data=user_id=0,application_id=42~hmac=904b2494315f52708286aac0969d17f5d0a3da6ab8e1c79b20300017fff7a4f2",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Best of You",
+            "length": "4:15",
+            "deezer": {
+              "id": 15422120,
+              "link": "https://www.deezer.com/track/15422120",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/5/0/c757ce75f69477154407931c9c9f145c.mp3?hdnea=exp=1795654280~acl=/api/1/1/c/7/5/0/c757ce75f69477154407931c9c9f145c.mp3*~data=user_id=0,application_id=42~hmac=9ca1d39ed26005e9808a70bdb566505917a1277889d1d9a8a1aab3ec999db756",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "DOA",
+            "length": "4:12",
+            "deezer": {
+              "id": 15422121,
+              "link": "https://www.deezer.com/track/15422121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/0/0/44064be89e00eb63318d018d3327fbea.mp3?hdnea=exp=1795654280~acl=/api/1/1/4/4/0/0/44064be89e00eb63318d018d3327fbea.mp3*~data=user_id=0,application_id=42~hmac=d3b47aa08df3cda628893be0a8dffc220a5d982497cd19b6213ac457b9ccd5fa",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hell",
+            "length": "1:57",
+            "deezer": {
+              "id": 15422122,
+              "link": "https://www.deezer.com/track/15422122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/2/0/58203c61729d4a41caebf3c14d53ee11.mp3?hdnea=exp=1795654280~acl=/api/1/1/5/8/2/0/58203c61729d4a41caebf3c14d53ee11.mp3*~data=user_id=0,application_id=42~hmac=7184b9cca239fa97134bc8286fc6906ab2122f7f92be7180ed8e5ad439119d7b",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Last Song",
+            "length": "3:22",
+            "deezer": {
+              "id": 15422123,
+              "link": "https://www.deezer.com/track/15422123",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/1/0/241344974ef68adce6e6e243b48d5902.mp3?hdnea=exp=1795654280~acl=/api/1/1/2/4/1/0/241344974ef68adce6e6e243b48d5902.mp3*~data=user_id=0,application_id=42~hmac=63b00e88ac7361ed571a6f909dce06afb297306c47b9abbe475e93445e88d2fb",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Free Me",
+            "length": "4:38",
+            "deezer": {
+              "id": 15422124,
+              "link": "https://www.deezer.com/track/15422124",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/1/0/8b15f4ea00437660d83ac46629afff4f.mp3?hdnea=exp=1795654280~acl=/api/1/1/8/b/1/0/8b15f4ea00437660d83ac46629afff4f.mp3*~data=user_id=0,application_id=42~hmac=90db81fe6d92a2cb8d8233f7f4ea97d5f64be08e5dfac72d8df5c00106dde7b5",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Resolve",
+            "length": "4:48",
+            "deezer": {
+              "id": 15422125,
+              "link": "https://www.deezer.com/track/15422125",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/2/0/0c210ac6488127387579307e2ea66a19.mp3?hdnea=exp=1795654280~acl=/api/1/1/0/c/2/0/0c210ac6488127387579307e2ea66a19.mp3*~data=user_id=0,application_id=42~hmac=eafed9653c77b6b04f44388d2b91f76fa01d9246895520038716d10e6dc01f26",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Deepest Blues Are Black",
+            "length": "3:58",
+            "deezer": {
+              "id": 15422126,
+              "link": "https://www.deezer.com/track/15422126",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/7/0/5b74ff223ac21eb96bf3b84460527820.mp3?hdnea=exp=1795654280~acl=/api/1/1/5/b/7/0/5b74ff223ac21eb96bf3b84460527820.mp3*~data=user_id=0,application_id=42~hmac=b1ca9b854b70abf4bce1785584cf1f2a94bd26e373b54ff8b1c496a5545abd21",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "End Over End",
+            "length": "5:52",
+            "deezer": {
+              "id": 15422127,
+              "link": "https://www.deezer.com/track/15422127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/6/0/a4684e56b6e13da1deadabbae19b102d.mp3?hdnea=exp=1795654280~acl=/api/1/1/a/4/6/0/a4684e56b6e13da1deadabbae19b102d.mp3*~data=user_id=0,application_id=42~hmac=b9c858d54db702e1968ec9be8e061b93a571f94d3d47a640f8d2270cddba4a0f",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Still",
+            "length": "5:13",
+            "deezer": {
+              "id": 15425297,
+              "link": "https://www.deezer.com/track/15425297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/6/0/f9695d71ae008a3d2271dc3ec08078b0.mp3?hdnea=exp=1795654280~acl=/api/1/1/f/9/6/0/f9695d71ae008a3d2271dc3ec08078b0.mp3*~data=user_id=0,application_id=42~hmac=deeafc543af2107172166fc3a9d816d0691909ac9ba2f7ad3c5cddba2173e520",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "What If I Do?",
+            "length": "5:03",
+            "deezer": {
+              "id": 15425298,
+              "link": "https://www.deezer.com/track/15425298",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/f/0/65f485237f6dd9be1dcc79a6f4552029.mp3?hdnea=exp=1795654280~acl=/api/1/1/6/5/f/0/65f485237f6dd9be1dcc79a6f4552029.mp3*~data=user_id=0,application_id=42~hmac=a5cfecf183be9f9802e877373fa27ac10287e29e5a4a2f1427086e675dd62ad9",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Miracle",
+            "length": "3:29",
+            "deezer": {
+              "id": 15425299,
+              "link": "https://www.deezer.com/track/15425299",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/1/0/2e127b337ccc700deb90330c28858051.mp3?hdnea=exp=1795654280~acl=/api/1/1/2/e/1/0/2e127b337ccc700deb90330c28858051.mp3*~data=user_id=0,application_id=42~hmac=dca2a31fd25df0d7f61051ebbda064eb775a102b2f3a03da22d9cdfb7498f05d",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Another Round",
+            "length": "4:35",
+            "deezer": {
+              "id": 15425300,
+              "link": "https://www.deezer.com/track/15425300",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/d/0/b5dc4d8756b741de5ec1515b79fa6adc.mp3?hdnea=exp=1795654280~acl=/api/1/1/b/5/d/0/b5dc4d8756b741de5ec1515b79fa6adc.mp3*~data=user_id=0,application_id=42~hmac=3a11e1b494ca2992882ac3513e8e339d98cb09cfaa054cea528345d47acb29e9",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Friend of a Friend",
+            "length": "3:13",
+            "deezer": {
+              "id": 15425301,
+              "link": "https://www.deezer.com/track/15425301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/5/0/ef5cde209536def766a05a64f6aad703.mp3?hdnea=exp=1795654280~acl=/api/1/1/e/f/5/0/ef5cde209536def766a05a64f6aad703.mp3*~data=user_id=0,application_id=42~hmac=12d7bfc39595e9a12eca03ddeb8bc5ca49394ec35b9d2ee86582f94d9280598c",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Over and Out",
+            "length": "5:16",
+            "deezer": {
+              "id": 15425302,
+              "link": "https://www.deezer.com/track/15425302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/f/0/58f5dcd85b4f0b25aceac83567c79bd4.mp3?hdnea=exp=1795654280~acl=/api/1/1/5/8/f/0/58f5dcd85b4f0b25aceac83567c79bd4.mp3*~data=user_id=0,application_id=42~hmac=2947744c0120bff8f3696629f803f7ee0afc02bbf9467368711ec9cff2818773",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "On the Mend",
+            "length": "4:32",
+            "deezer": {
+              "id": 15425303,
+              "link": "https://www.deezer.com/track/15425303",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/4/0/8849110bd2e41b1124154012abfddfc2.mp3?hdnea=exp=1795654280~acl=/api/1/1/8/8/4/0/8849110bd2e41b1124154012abfddfc2.mp3*~data=user_id=0,application_id=42~hmac=c14b3bd1b3cd90d0aae388f6a4eac754aebe15cc1b16dbd84e291fc4b27ad70e",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Virginia Moon",
+            "length": "3:49",
+            "deezer": {
+              "id": 15425304,
+              "link": "https://www.deezer.com/track/15425304",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/3/0/8930799818513ceddcefafdc72deee7a.mp3?hdnea=exp=1795654280~acl=/api/1/1/8/9/3/0/8930799818513ceddcefafdc72deee7a.mp3*~data=user_id=0,application_id=42~hmac=759c0de984a35679943fc586413faa2fc3d357dcf13bdab02c16a6457d84d281",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Cold Day in the Sun",
+            "length": "3:20",
+            "deezer": {
+              "id": 15425305,
+              "link": "https://www.deezer.com/track/15425305",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/1/0/261a54d259d98f62018c74a3eeab16d5.mp3?hdnea=exp=1795654280~acl=/api/1/1/2/6/1/0/261a54d259d98f62018c74a3eeab16d5.mp3*~data=user_id=0,application_id=42~hmac=2675c5a58cb75e8b6ec5b3c0f766b354952dc098a2df01aa950cf87d7e40a112",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Razor",
+            "length": "4:53",
+            "deezer": {
+              "id": 15425306,
+              "link": "https://www.deezer.com/track/15425306",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/4/0/19407c1e19806733a372179659650848.mp3?hdnea=exp=1795654280~acl=/api/1/1/1/9/4/0/19407c1e19806733a372179659650848.mp3*~data=user_id=0,application_id=42~hmac=7978bee9d989d7fffdba79412fe897e13c8eddb14560f5d6446e96eb46c53ac2",
+              "preview_expires": "2026-11-26T00:51:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Foo Fighters/In Your Honor.jpg"
+}

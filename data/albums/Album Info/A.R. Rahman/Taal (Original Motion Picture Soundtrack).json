@@ -1,0 +1,199 @@
+{
+  "title": "Taal",
+  "artist": "A. R. Rahman",
+  "year": 1999,
+  "release_date": "1999-04-25",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "filmi",
+    "pop"
+  ],
+  "tags": [
+    "filmi",
+    "1990s",
+    "bollywood",
+    "hindi",
+    "hindi film music",
+    "pop",
+    "soundtrack"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b9ceb81a-2219-3b75-b5e9-9915d29692cf",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001433445",
+    "discogs": "https://www.discogs.com/master/241412",
+    "deezer": "https://www.deezer.com/album/180653982"
+  },
+  "musicbrainz_id": "b9ceb81a-2219-3b75-b5e9-9915d29692cf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7cf52b48-10a3-4e2a-8273-927177ee774a",
+      "barcode": "8901854004515",
+      "title": "Taal",
+      "disambiguation": "Hindi Original Motion Picture Soundtrack",
+      "date": "1999-08-13",
+      "country": "IN"
+    },
+    "total_tracks": 12,
+    "total_length": "1:04:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beat of Passion",
+            "length": "2:51",
+            "deezer": {
+              "id": 1114525612,
+              "link": "https://www.deezer.com/track/1114525612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/0/0/5f0f478234b46fd11581fc9b16d9370e.mp3?hdnea=exp=1795648770~acl=/api/1/1/5/f/0/0/5f0f478234b46fd11581fc9b16d9370e.mp3*~data=user_id=0,application_id=42~hmac=403ed5e76816b865a33758cd14da2a52d32843a615ed08383b6c57fbd161a369",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ishq Bina",
+            "length": "7:45",
+            "artist": "Anuradha Sriram, Sujatha & Sonu Nigam",
+            "deezer": {
+              "id": 1114525622,
+              "link": "https://www.deezer.com/track/1114525622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/2/0/cc236424a786b4cefae3676eb45b7a88.mp3?hdnea=exp=1795648770~acl=/api/1/1/c/c/2/0/cc236424a786b4cefae3676eb45b7a88.mp3*~data=user_id=0,application_id=42~hmac=afb3d6c4e2314739a6d5edba27e237f2094416de1d565ccee5ce537e94a11053",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ishq Bina Ishq Bina",
+            "length": "8:13",
+            "artist": "Kavita Krishnamurthy & Sukhwinder Singh",
+            "deezer": {
+              "id": 1114525632,
+              "link": "https://www.deezer.com/track/1114525632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/d/0/5ddce241eac7aeeb610295cf987f692f.mp3?hdnea=exp=1795648770~acl=/api/1/1/5/d/d/0/5ddce241eac7aeeb610295cf987f692f.mp3*~data=user_id=0,application_id=42~hmac=a57724e4844aadf2464aec52263cea313dd7ad024620f90f65f20c71f0f2f59d",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kahin Aag Lage Lag Jaaye",
+            "length": "7:15",
+            "artist": "Asha Bhosle, Richa Sharma & Aditya Narayan",
+            "deezer": {
+              "id": 1114525642,
+              "link": "https://www.deezer.com/track/1114525642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/f/0/e9f3a254f8aa5cfd5029fadb37ad23ea.mp3?hdnea=exp=1795648770~acl=/api/1/1/e/9/f/0/e9f3a254f8aa5cfd5029fadb37ad23ea.mp3*~data=user_id=0,application_id=42~hmac=19f07377132bfc850f5a3ff8216285a075ab5ea58cef659e0dce1f392ea14007",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Kariye Na",
+            "length": "7:15",
+            "artist": "Sukhwinder Singh & Alka Yagnik",
+            "deezer": {
+              "id": 1114525652,
+              "link": "https://www.deezer.com/track/1114525652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/8/0/ea84cf506f9734b781aade803760512c.mp3?hdnea=exp=1795648770~acl=/api/1/1/e/a/8/0/ea84cf506f9734b781aade803760512c.mp3*~data=user_id=0,application_id=42~hmac=f2546b79b49a1e443684f9f91fc3ba714239dea4981a5994898c792e21efbe4e",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Kya Dekh Rahe Ho Tum",
+            "length": "2:31",
+            "artist": "Madhu Vaishali & Shoma",
+            "deezer": {
+              "id": 1114525662,
+              "link": "https://www.deezer.com/track/1114525662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/2/0/d82f4bb6e4f94866cc9174b4d3f34d4b.mp3?hdnea=exp=1795648770~acl=/api/1/1/d/8/2/0/d82f4bb6e4f94866cc9174b4d3f34d4b.mp3*~data=user_id=0,application_id=42~hmac=5753f862e7a7c218d7c8e73fd66514ca4759a5b89e8c3add3e8f65ca28c2c097",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Nahin Saamne Tu",
+            "length": "6:04",
+            "artist": "Hariharan & Sukhwinder Singh",
+            "deezer": {
+              "id": 1114525672,
+              "link": "https://www.deezer.com/track/1114525672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/c/0/6acb84d34ab4846e28a6a20e208b9f39.mp3?hdnea=exp=1795648770~acl=/api/1/1/6/a/c/0/6acb84d34ab4846e28a6a20e208b9f39.mp3*~data=user_id=0,application_id=42~hmac=a93b28613e5a4f743942b6af033108dbe6365600ff1e8e691a550e4790b7850c",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ni Main Samajh Gayi",
+            "length": "4:33",
+            "artist": "Richa Sharma & Sukhwinder Singh",
+            "deezer": {
+              "id": 1114525682,
+              "link": "https://www.deezer.com/track/1114525682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/f/0/d7f59d4687aa23dc382e6247a166df8b.mp3?hdnea=exp=1795648770~acl=/api/1/1/d/7/f/0/d7f59d4687aa23dc382e6247a166df8b.mp3*~data=user_id=0,application_id=42~hmac=18dc5c1a3b3ac274b0253dd52d795bbc9e1e331efb4cc7a770f19d8fabf2174f",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Raga Dance",
+            "length": "2:53",
+            "deezer": {
+              "id": 1114525692,
+              "link": "https://www.deezer.com/track/1114525692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/4/0/a3426d6c94486623c0ed3128db65890e.mp3?hdnea=exp=1795648770~acl=/api/1/1/a/3/4/0/a3426d6c94486623c0ed3128db65890e.mp3*~data=user_id=0,application_id=42~hmac=1aa51eabe4aa91048339044081c2eb6e3e62cb9b83ba3ed68b4bcde90aeaa6df",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ramta Jogi",
+            "length": "6:17",
+            "artist": "Sukhwinder Singh & Alka Yagnik",
+            "deezer": {
+              "id": 1114525702,
+              "link": "https://www.deezer.com/track/1114525702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/0/0/690e85b26f62483d21470e60e7a2e53d.mp3?hdnea=exp=1795648770~acl=/api/1/1/6/9/0/0/690e85b26f62483d21470e60e7a2e53d.mp3*~data=user_id=0,application_id=42~hmac=68be608010fd2fea8e2ba60c054e0b5e9d253d199d926cfbbb6b8725538dda68",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Taal Se Taal",
+            "length": "6:18",
+            "artist": "Alka Yagnik & Udit Narayan",
+            "deezer": {
+              "id": 1114525712,
+              "link": "https://www.deezer.com/track/1114525712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/e/0/78e774c9ca003071c208bd478664fc59.mp3?hdnea=exp=1795648770~acl=/api/1/1/7/8/e/0/78e774c9ca003071c208bd478664fc59.mp3*~data=user_id=0,application_id=42~hmac=4b07f8d6806f19b7ec9d4febfba28159e2ffc1b3acd38d23e7a5f87bef343717",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Taal Se Taal (Western version)",
+            "length": "2:34",
+            "artist": "Sukhwinder Singh",
+            "deezer": {
+              "id": 1114525722,
+              "link": "https://www.deezer.com/track/1114525722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/0/0/6b0de973fbdd5b48ec89a96b778ad1e7.mp3?hdnea=exp=1795648770~acl=/api/1/1/6/b/0/0/6b0de973fbdd5b48ec89a96b778ad1e7.mp3*~data=user_id=0,application_id=42~hmac=8fb5554e7906856445aab5909c8e8c7ddc8bdaae044f74a124bf678c234098b2",
+              "preview_expires": "2026-11-25T23:19:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/A.R. Rahman/Taal (Original Motion Picture Soundtrack).jpg"
+}

@@ -1,0 +1,224 @@
+{
+  "title": "Welcome 2 Detroit",
+  "artist": "Jay Dee",
+  "year": 2001,
+  "release_date": "2001-02-27",
+  "type": "Album",
+  "description": "Welcome 2 Detroit is the debut studio album by American hip-hop recording artist J Dilla, released on February 26, 2001. The album followed his group Slum Village's critically acclaimed Fantastic, Vol. 2, and kicked off BBE's \"Beat Generation\" series.",
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d11d327b-e5b7-3f50-b21c-620c2351fa3e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Welcome_2_Detroit",
+    "allmusic": "https://www.allmusic.com/album/mw0000624638",
+    "discogs": "https://www.discogs.com/master/83014",
+    "wikidata": "https://www.wikidata.org/wiki/Q7980595",
+    "deezer": "https://www.deezer.com/album/80043212"
+  },
+  "musicbrainz_id": "d11d327b-e5b7-3f50-b21c-620c2351fa3e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/412a2bb7-ee0e-43d1-811a-0b7426764b01",
+      "barcode": "193483214252",
+      "title": "Welcome 2 Detroit",
+      "disambiguation": null,
+      "date": "2003-02-24",
+      "country": "US"
+    },
+    "total_tracks": 16,
+    "total_length": "41:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Welcome 2 Detroit",
+            "length": "0:49",
+            "deezer": {
+              "id": 594569452,
+              "link": "https://www.deezer.com/track/594569452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/a/0/49a18b3f3728c83d544672d3f5a5be0e.mp3?hdnea=exp=1795655458~acl=/api/1/1/4/9/a/0/49a18b3f3728c83d544672d3f5a5be0e.mp3*~data=user_id=0,application_id=42~hmac=383cd9f98bf34694955db39d973e91b55789036d718672adda7e10a055381d11",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Y’all Ain’t Ready",
+            "length": "1:29",
+            "deezer": {
+              "id": 594569462,
+              "link": "https://www.deezer.com/track/594569462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/0/0/3303dd00dc7d2fbfa6d4ea7fa0eb18bf.mp3?hdnea=exp=1795655458~acl=/api/1/1/3/3/0/0/3303dd00dc7d2fbfa6d4ea7fa0eb18bf.mp3*~data=user_id=0,application_id=42~hmac=39da79595dfc342e6a4e25b14f849d8aa6b318c966823e887ba66577ed95c647",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Think Twice",
+            "length": "3:53",
+            "deezer": {
+              "id": 594569472,
+              "link": "https://www.deezer.com/track/594569472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/b/0/4fbe8159d14d98aadf9d36f81627f3e6.mp3?hdnea=exp=1795655458~acl=/api/1/1/4/f/b/0/4fbe8159d14d98aadf9d36f81627f3e6.mp3*~data=user_id=0,application_id=42~hmac=38b39da579d09c8c20d9f162809a9b2c43f5402808d3851325c8507bfc706dcd",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Clapper",
+            "length": "2:06",
+            "deezer": {
+              "id": 594569482,
+              "link": "https://www.deezer.com/track/594569482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/e/0/9fe0d8bf8900c1bb6d8701df5ccfc9ec.mp3?hdnea=exp=1795655458~acl=/api/1/1/9/f/e/0/9fe0d8bf8900c1bb6d8701df5ccfc9ec.mp3*~data=user_id=0,application_id=42~hmac=451e4790ffe7dc42a748edb3bfea56f4ac82b7d4ff4b81769409ae1c4fcbcad3",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Come Get It",
+            "length": "5:03",
+            "deezer": {
+              "id": 594569492,
+              "link": "https://www.deezer.com/track/594569492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/7/0/237dc58213ae841347322b3ed413f70a.mp3?hdnea=exp=1795655458~acl=/api/1/1/2/3/7/0/237dc58213ae841347322b3ed413f70a.mp3*~data=user_id=0,application_id=42~hmac=0f4d1ab42b61a62439d56fa1ad64de96d05d5c9ca8e5fd1865191eee49b1287c",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Pause",
+            "length": "2:46",
+            "artist": "Jay Dee feat. Frank-N-Dank",
+            "deezer": {
+              "id": 594569502,
+              "link": "https://www.deezer.com/track/594569502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/7/0/1973c49a2f242ff4b1ea21ea28f46086.mp3?hdnea=exp=1795655458~acl=/api/1/1/1/9/7/0/1973c49a2f242ff4b1ea21ea28f46086.mp3*~data=user_id=0,application_id=42~hmac=92b471f7e2e17ce39a875302d7e484957eea1d1703c6933a47719fa8ae3e9a71",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "B.B.E. (Big Booty Express)",
+            "length": "2:13",
+            "deezer": {
+              "id": 594569512,
+              "link": "https://www.deezer.com/track/594569512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/8/0/928b109419cbfbeec60a69a2c8a53c74.mp3?hdnea=exp=1795655458~acl=/api/1/1/9/2/8/0/928b109419cbfbeec60a69a2c8a53c74.mp3*~data=user_id=0,application_id=42~hmac=7b57eb3fe615c05eb20f3c69e38dfe88f4761611c2e6f05e0af7847be55a87c9",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Beej‐N‐Dem Pt. 2",
+            "length": "2:49",
+            "deezer": {
+              "id": 594569522,
+              "link": "https://www.deezer.com/track/594569522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/f/0/8afdc84368030060a11e3d41ebae5139.mp3?hdnea=exp=1795655458~acl=/api/1/1/8/a/f/0/8afdc84368030060a11e3d41ebae5139.mp3*~data=user_id=0,application_id=42~hmac=f986a6f38705e14890589ad68636ca1a083a5754ed6286cd06a4a8bace44a77e",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Brazilian Groove (Ewf)",
+            "length": "1:30",
+            "deezer": {
+              "id": 594569532,
+              "link": "https://www.deezer.com/track/594569532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/3/0/0a363592fc5d6bae4a92facabc86c1cc.mp3?hdnea=exp=1795655458~acl=/api/1/1/0/a/3/0/0a363592fc5d6bae4a92facabc86c1cc.mp3*~data=user_id=0,application_id=42~hmac=74a1c77a34646383781a145d081b19f801d607a0aae9f7c6845152601b6e3115",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "It’s Like That",
+            "length": "4:05",
+            "deezer": {
+              "id": 594569542,
+              "link": "https://www.deezer.com/track/594569542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/a/0/e4a02e33efc83cc1fa144e72b76cc1a8.mp3?hdnea=exp=1795655458~acl=/api/1/1/e/4/a/0/e4a02e33efc83cc1fa144e72b76cc1a8.mp3*~data=user_id=0,application_id=42~hmac=3a593c4d5d5b48f1d229d571e9b5589357158bad9f507389d6f2c5729c7dc729",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Give It Up",
+            "length": "3:08",
+            "deezer": {
+              "id": 594569552,
+              "link": "https://www.deezer.com/track/594569552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/1/0/271bab6949ca7c230d0c035400024a7d.mp3?hdnea=exp=1795655458~acl=/api/1/1/2/7/1/0/271bab6949ca7c230d0c035400024a7d.mp3*~data=user_id=0,application_id=42~hmac=2fb52c04c7f69b94a39e26ca715446837fdbac462386eded578d6f4c6aec5806",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Rico Suave Bossa Nova",
+            "length": "1:26",
+            "deezer": {
+              "id": 594569562,
+              "link": "https://www.deezer.com/track/594569562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/8/0/2f8ec77937abf1e9a8326cbbb0f302f0.mp3?hdnea=exp=1795655458~acl=/api/1/1/2/f/8/0/2f8ec77937abf1e9a8326cbbb0f302f0.mp3*~data=user_id=0,application_id=42~hmac=eed54638e72033e42f64fa891e1efad23dab54de4a6d05efb32104298672bdf4",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Feat. Phat Kat",
+            "length": "3:43",
+            "deezer": {
+              "id": 594569572,
+              "link": "https://www.deezer.com/track/594569572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/e/0/0ae1bc646478f959617c997612cdbb7e.mp3?hdnea=exp=1795655458~acl=/api/1/1/0/a/e/0/0ae1bc646478f959617c997612cdbb7e.mp3*~data=user_id=0,application_id=42~hmac=5fd0bbe9f00fea2305a1c61775ebf7de5de254d94bd395299c2116b6dbf658c7",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Shake It Down",
+            "length": "2:56",
+            "deezer": {
+              "id": 594569582,
+              "link": "https://www.deezer.com/track/594569582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/c/0/30c4022f9d99cc50759f34f309fca0f1.mp3?hdnea=exp=1795655458~acl=/api/1/1/3/0/c/0/30c4022f9d99cc50759f34f309fca0f1.mp3*~data=user_id=0,application_id=42~hmac=e177dd325c94a6d7fc8797df32e3479e1dd80698d682c0424d30838011c093e5",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "African Rhythms",
+            "length": "1:36",
+            "deezer": {
+              "id": 594569592,
+              "link": "https://www.deezer.com/track/594569592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/c/0/f5c37e7cc44b4f0c3a6618f9fcdc4537.mp3?hdnea=exp=1795655458~acl=/api/1/1/f/5/c/0/f5c37e7cc44b4f0c3a6618f9fcdc4537.mp3*~data=user_id=0,application_id=42~hmac=b7b9da34c76cf47845a601865fff051c006cc5058e5d0dae28958a26cb9abaee",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "One",
+            "length": "1:30",
+            "deezer": {
+              "id": 594569602,
+              "link": "https://www.deezer.com/track/594569602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/0/0/85072ce948ed1797925971c58b523429.mp3?hdnea=exp=1795655458~acl=/api/1/1/8/5/0/0/85072ce948ed1797925971c58b523429.mp3*~data=user_id=0,application_id=42~hmac=2d45c7c8eea8ed22146eb0a1ba4370671af87eb962849d8cc815f44ca1041083",
+              "preview_expires": "2026-11-26T01:10:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jay Dee/Welcome 2 Detroit.jpg"
+}

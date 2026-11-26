@@ -1,0 +1,160 @@
+{
+  "title": "Jungle",
+  "artist": "The Blaze",
+  "year": 2023,
+  "release_date": "2023-03-03",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "dance-pop",
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "tags": [
+    "dance-pop",
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7df82a1f-d837-4274-87e1-aa7c51c19d42",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/388631287"
+  },
+  "musicbrainz_id": "7df82a1f-d837-4274-87e1-aa7c51c19d42",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b059307f-5799-4f26-841d-6b6ecc64eef5",
+      "barcode": "3617054553030",
+      "title": "Jungle",
+      "disambiguation": null,
+      "date": "2023-03-03",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "44:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lullaby",
+            "length": "4:40",
+            "deezer": {
+              "id": 2078044667,
+              "link": "https://www.deezer.com/track/2078044667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/1/0/df196da9d6e7b3bc78e442712b8a251c.mp3?hdnea=exp=1795721395~acl=/api/1/1/d/f/1/0/df196da9d6e7b3bc78e442712b8a251c.mp3*~data=user_id=0,application_id=42~hmac=62305d287fbf84a5877c07933dead717887e35466fd4ba7d033460a7701b3d3c",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Clash",
+            "length": "4:13",
+            "deezer": {
+              "id": 2078044677,
+              "link": "https://www.deezer.com/track/2078044677",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/b/0/05b6dcceec17b160a608d8668e261379.mp3?hdnea=exp=1795721395~acl=/api/1/1/0/5/b/0/05b6dcceec17b160a608d8668e261379.mp3*~data=user_id=0,application_id=42~hmac=b6812bb600f9674ea204f67250400b50a42ef1446a5095705afe64b60ecdd005",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dreamer",
+            "length": "5:39",
+            "deezer": {
+              "id": 2078044687,
+              "link": "https://www.deezer.com/track/2078044687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/f/0/80fde764c31c2d552a6a0e85b1f42387.mp3?hdnea=exp=1795721395~acl=/api/1/1/8/0/f/0/80fde764c31c2d552a6a0e85b1f42387.mp3*~data=user_id=0,application_id=42~hmac=349ad2cd4cc495b9a231c3cb6137a3642598afde5f9240c0e88586bc0002e17a",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Madly",
+            "length": "4:09",
+            "deezer": {
+              "id": 2078044697,
+              "link": "https://www.deezer.com/track/2078044697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/9/0/d19ccda84442ee131510fc913a6bb90b.mp3?hdnea=exp=1795721395~acl=/api/1/1/d/1/9/0/d19ccda84442ee131510fc913a6bb90b.mp3*~data=user_id=0,application_id=42~hmac=7b70c10518b408c782b9179822893ce005ea44a18a1cce403b0f3f30f19e7608",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Haze",
+            "length": "4:49",
+            "deezer": {
+              "id": 2078044707,
+              "link": "https://www.deezer.com/track/2078044707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/5/0/e1512f74a26bf6b7378f7077db523fbd.mp3?hdnea=exp=1795721395~acl=/api/1/1/e/1/5/0/e1512f74a26bf6b7378f7077db523fbd.mp3*~data=user_id=0,application_id=42~hmac=21a0f39dc1d4fe0b5015076537c6df2570aff8aacb7e2032793eb2ea61a67ef1",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lonely",
+            "length": "4:25",
+            "deezer": {
+              "id": 2078044717,
+              "link": "https://www.deezer.com/track/2078044717",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/4/0/a941ed89659601543155fd141b988d20.mp3?hdnea=exp=1795721395~acl=/api/1/1/a/9/4/0/a941ed89659601543155fd141b988d20.mp3*~data=user_id=0,application_id=42~hmac=d8ed700dbce8b0714581457f7f75a14b1e6503f79212c46e42015aaf89d1694a",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Siren",
+            "length": "4:42",
+            "deezer": {
+              "id": 2078044727,
+              "link": "https://www.deezer.com/track/2078044727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/e/0/05ebc286857fcea6d84377c6a81b77c0.mp3?hdnea=exp=1795721395~acl=/api/1/1/0/5/e/0/05ebc286857fcea6d84377c6a81b77c0.mp3*~data=user_id=0,application_id=42~hmac=963cdefb443c9b18940d333da890c4c9ed1fd969de59625ce5f3fbd6bdc6cca2",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Bloom",
+            "length": "3:17",
+            "deezer": {
+              "id": 2078044737,
+              "link": "https://www.deezer.com/track/2078044737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/a/0/b3afb7d1891cc72c1d99fe8c17255935.mp3?hdnea=exp=1795721395~acl=/api/1/1/b/3/a/0/b3afb7d1891cc72c1d99fe8c17255935.mp3*~data=user_id=0,application_id=42~hmac=8af5327c79421a71a6019baf561012a6856f4c5e61d27dab873389104c4c5fdb",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Eyes",
+            "length": "3:33",
+            "deezer": {
+              "id": 2078044747,
+              "link": "https://www.deezer.com/track/2078044747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/a/0/2cab9de9e423294579e31f66b3dd7c58.mp3?hdnea=exp=1795721395~acl=/api/1/1/2/c/a/0/2cab9de9e423294579e31f66b3dd7c58.mp3*~data=user_id=0,application_id=42~hmac=e7bb03a237e39b8fef82f9083cc6ab6cdcdc9120eefe29c606701dce00dc5bae",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dust",
+            "length": "5:24",
+            "deezer": {
+              "id": 2078044757,
+              "link": "https://www.deezer.com/track/2078044757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/a/0/34ac97df7df4f8384d0ea6267e4865b5.mp3?hdnea=exp=1795721395~acl=/api/1/1/3/4/a/0/34ac97df7df4f8384d0ea6267e4865b5.mp3*~data=user_id=0,application_id=42~hmac=f47f06a1237c7c34fcfc3790ff1eb34d0128954cbd7358fd2555ec4183cf70c1",
+              "preview_expires": "2026-11-26T19:29:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Blaze/JUNGLE.jpg"
+}

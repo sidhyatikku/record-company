@@ -1,0 +1,134 @@
+{
+  "title": "Polaris",
+  "artist": "Aitch",
+  "year": 2020,
+  "release_date": "2020-05-29",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "uk drill"
+  ],
+  "tags": [
+    "uk drill",
+    "uk hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a3cffc6e-c4e0-4844-bf6e-cf91f08f483e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/150706102"
+  },
+  "musicbrainz_id": "a3cffc6e-c4e0-4844-bf6e-cf91f08f483e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0acae9e6-4b78-47e1-a27b-095726407721",
+      "barcode": "602507244859",
+      "title": "Polaris",
+      "disambiguation": null,
+      "date": "2020-05-29",
+      "country": null
+    },
+    "total_tracks": 8,
+    "total_length": "21:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Safe to Say",
+            "length": "2:10",
+            "deezer": {
+              "id": 971455382,
+              "link": "https://www.deezer.com/track/971455382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/6/0/6566c7a3ec869f56d8891557ae0f9baa.mp3?hdnea=exp=1795649008~acl=/api/1/1/6/5/6/0/6566c7a3ec869f56d8891557ae0f9baa.mp3*~data=user_id=0,application_id=42~hmac=6d7f45a67d26dc41ffce54a5d379988575babae29961bf7b6c980644303221b0",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Zombie",
+            "length": "2:31",
+            "deezer": {
+              "id": 971455392,
+              "link": "https://www.deezer.com/track/971455392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/b/0/75beb3fe0cacf24c1b74bbc78a754ca6.mp3?hdnea=exp=1795649008~acl=/api/1/1/7/5/b/0/75beb3fe0cacf24c1b74bbc78a754ca6.mp3*~data=user_id=0,application_id=42~hmac=696c0f2952b546fb602fc1a944ca35d2f7d71c1efb7a900f0248018c8ab0ac77",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Moston",
+            "length": "2:38",
+            "deezer": {
+              "id": 971455402,
+              "link": "https://www.deezer.com/track/971455402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/2/0/82215f6973a32dcb3bf68ac0327cea12.mp3?hdnea=exp=1795649008~acl=/api/1/1/8/2/2/0/82215f6973a32dcb3bf68ac0327cea12.mp3*~data=user_id=0,application_id=42~hmac=e89893bee40750fb84bdb3ff1e77063bfdd4a4cc57102c1d698d708504c6b762",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "30",
+            "length": "2:17",
+            "deezer": {
+              "id": 971455412,
+              "link": "https://www.deezer.com/track/971455412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/8/0/6283b5ad7a12c21d76a1b3ab3ff09f3c.mp3?hdnea=exp=1795649008~acl=/api/1/1/6/2/8/0/6283b5ad7a12c21d76a1b3ab3ff09f3c.mp3*~data=user_id=0,application_id=42~hmac=53c85d95a5f402e5d9e5da9dc418750e05dbead97cda0fb32456a1fec10cbcee",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Triggered",
+            "length": "2:58",
+            "deezer": {
+              "id": 971455422,
+              "link": "https://www.deezer.com/track/971455422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/d/0/bed4efd784603f845cb242cb11ee6cdc.mp3?hdnea=exp=1795649008~acl=/api/1/1/b/e/d/0/bed4efd784603f845cb242cb11ee6cdc.mp3*~data=user_id=0,application_id=42~hmac=6cd8443790131f7877a78260b4dd374db6507f715f95f7f8788ee5b9cc0000ea",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Raw",
+            "length": "2:30",
+            "deezer": {
+              "id": 971455432,
+              "link": "https://www.deezer.com/track/971455432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/c/0/0fcaa5d3620434e7d5ecd3d8ad9ce086.mp3?hdnea=exp=1795649008~acl=/api/1/1/0/f/c/0/0fcaa5d3620434e7d5ecd3d8ad9ce086.mp3*~data=user_id=0,application_id=42~hmac=266c68abb260d8e0dc056bcae44d803096c1e3cf740258809dcc27a403ef06d0",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Like Them",
+            "length": "3:14",
+            "deezer": {
+              "id": 971455442,
+              "link": "https://www.deezer.com/track/971455442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/2/0/2927375f8b84818ec4f2134bff2fa58f.mp3?hdnea=exp=1795649008~acl=/api/1/1/2/9/2/0/2927375f8b84818ec4f2134bff2fa58f.mp3*~data=user_id=0,application_id=42~hmac=4db298d6a9e8d1820623228986996d64f764cda4e3801e3bff69883826c458ce",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rain",
+            "length": "3:03",
+            "artist": "Aitch & AJ Tracey feat. Tay Keith",
+            "deezer": {
+              "id": 971455452,
+              "link": "https://www.deezer.com/track/971455452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/c/0/eac0a8fe4744ba016d065cd9bc23e338.mp3?hdnea=exp=1795649008~acl=/api/1/1/e/a/c/0/eac0a8fe4744ba016d065cd9bc23e338.mp3*~data=user_id=0,application_id=42~hmac=ceba5929052c0421a6e3de2bfc5b3015fbcce78c124c8571c2193f4e5eca130b",
+              "preview_expires": "2026-11-25T23:23:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Aitch/Polaris.jpg"
+}

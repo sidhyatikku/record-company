@@ -1,0 +1,187 @@
+{
+  "title": "Tuesday Wonderland",
+  "artist": "Esbjörn Svensson Trio",
+  "year": 2006,
+  "release_date": "2006-09-20",
+  "type": "Album",
+  "description": "Tuesday Wonderland is a 2006 jazz album by Esbjörn Svensson Trio (E.S.T.).",
+  "genres": [
+    "jazz",
+    "jazz fusion",
+    "post-bop"
+  ],
+  "tags": [
+    "jazz",
+    "jazz fusion",
+    "post-bop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2acbf27a-caaf-31b7-92fc-b68428f02eae",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tuesday_Wonderland",
+    "allmusic": "https://www.allmusic.com/album/mw0000747506",
+    "discogs": "https://www.discogs.com/master/133777",
+    "wikidata": "https://www.wikidata.org/wiki/Q2242905",
+    "deezer": "https://www.deezer.com/album/6026618"
+  },
+  "musicbrainz_id": "2acbf27a-caaf-31b7-92fc-b68428f02eae",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b39e79f1-66c9-4c9c-8759-4565660f5741",
+      "barcode": "614427901620",
+      "title": "Tuesday Wonderland",
+      "disambiguation": null,
+      "date": "2006-09-22",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "1:08:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fading Maid Preludium",
+            "length": "4:11",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501689,
+              "link": "https://www.deezer.com/track/61501689",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/8/0/5d850cbded0b295b1f42bacdf483e30e.mp3?hdnea=exp=1795654073~acl=/api/1/1/5/d/8/0/5d850cbded0b295b1f42bacdf483e30e.mp3*~data=user_id=0,application_id=42~hmac=9353466af0a1e33bd4deca2a1b2400915d1ef0f610e833ce62eb4ce735fa3c1e",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tuesday Wonderland",
+            "length": "6:32",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501690,
+              "link": "https://www.deezer.com/track/61501690",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/4/0/9a4017f48796573627be4e090423a777.mp3?hdnea=exp=1795654073~acl=/api/1/1/9/a/4/0/9a4017f48796573627be4e090423a777.mp3*~data=user_id=0,application_id=42~hmac=3e00971c3e08a3e28e70a43defb2123888f25c004e7f1d0bb047bdf7ad2e625a",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Goldhearted Miner",
+            "length": "4:51",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501691,
+              "link": "https://www.deezer.com/track/61501691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/f/0/7bfc34fdc47e1c9f5b95fb9a098852c1.mp3?hdnea=exp=1795654073~acl=/api/1/1/7/b/f/0/7bfc34fdc47e1c9f5b95fb9a098852c1.mp3*~data=user_id=0,application_id=42~hmac=adb196d5409bd16db6221e947954516b812328cb9b7a0487abc0038371d653ea",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Brewery of Beggars",
+            "length": "8:23",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501692,
+              "link": "https://www.deezer.com/track/61501692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/5/0/9255f568189bea8cf4e47955ac794e0c.mp3?hdnea=exp=1795654073~acl=/api/1/1/9/2/5/0/9255f568189bea8cf4e47955ac794e0c.mp3*~data=user_id=0,application_id=42~hmac=ebabc42c2930efcbe4400ebe16ef5c2bd62a2c9e0dfb659e2ecd97dcb769a58b",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Beggar’s Blanket",
+            "length": "2:56",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501693,
+              "link": "https://www.deezer.com/track/61501693",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/3/0/7733f11f889e9a25295f09906f8e87d0.mp3?hdnea=exp=1795654073~acl=/api/1/1/7/7/3/0/7733f11f889e9a25295f09906f8e87d0.mp3*~data=user_id=0,application_id=42~hmac=c47e75042b0ab8dd28ef28aa8787008c44f920ce92b8118da03b0eaf59d92bac",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dolores in a Shoestand",
+            "length": "8:53",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501694,
+              "link": "https://www.deezer.com/track/61501694",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/c/0/d8c6d0312d2acce02e3896e86e75b776.mp3?hdnea=exp=1795654073~acl=/api/1/1/d/8/c/0/d8c6d0312d2acce02e3896e86e75b776.mp3*~data=user_id=0,application_id=42~hmac=a3578cba242e03dd40e2ef5534f76ccc3d0992a841d18490241460de8e81304d",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Where We Used to Live",
+            "length": "4:27",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501695,
+              "link": "https://www.deezer.com/track/61501695",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/4/0/2f463102f4d1dae88f52d952abfa60db.mp3?hdnea=exp=1795654073~acl=/api/1/1/2/f/4/0/2f463102f4d1dae88f52d952abfa60db.mp3*~data=user_id=0,application_id=42~hmac=22b18c8985f43287f8d28435116f0e1b92512d3f906d1e7fe7b1cf332423d049",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Eighthundred Streets by Feet",
+            "length": "6:49",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501696,
+              "link": "https://www.deezer.com/track/61501696",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/3/0/703e1334b9ef7a8bc5456494039c2b48.mp3?hdnea=exp=1795654073~acl=/api/1/1/7/0/3/0/703e1334b9ef7a8bc5456494039c2b48.mp3*~data=user_id=0,application_id=42~hmac=865fd69ee11dba0bca2f6521efa9a256045b37d69a0b476aaaebd1b22b1e8b17",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Goldwrap",
+            "length": "4:03",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501697,
+              "link": "https://www.deezer.com/track/61501697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/3/0/b63a76ec16fc30770a4abff885863b63.mp3?hdnea=exp=1795654073~acl=/api/1/1/b/6/3/0/b63a76ec16fc30770a4abff885863b63.mp3*~data=user_id=0,application_id=42~hmac=76fe6fbc83cb0f1315954809c3d33297e3840096504e625bee90499e354f0f3d",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sipping on the Solid Ground",
+            "length": "4:37",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501698,
+              "link": "https://www.deezer.com/track/61501698",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/5/0/315fad5c509b4291bb9244df0ffc513c.mp3?hdnea=exp=1795654073~acl=/api/1/1/3/1/5/0/315fad5c509b4291bb9244df0ffc513c.mp3*~data=user_id=0,application_id=42~hmac=ee3d5296e9c6b422f73fac87220973a3ef982ce36d6ebfa36c136405a69ac407",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Fading Maid Postludium",
+            "length": "12:29",
+            "artist": "e.s.t.",
+            "deezer": {
+              "id": 61501699,
+              "link": "https://www.deezer.com/track/61501699",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/3/0/7e3327b0c68cdf2309e746be138eb843.mp3?hdnea=exp=1795654073~acl=/api/1/1/7/e/3/0/7e3327b0c68cdf2309e746be138eb843.mp3*~data=user_id=0,application_id=42~hmac=748e6bfdd67e01311768446286856aface3028d0cf2e02bdabaea654b9bea06b",
+              "preview_expires": "2026-11-26T00:47:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Esbjörn Svensson Trio/Tuesday Wonderland.jpg"
+}

@@ -1,0 +1,296 @@
+{
+  "title": "Greatest Hits: God’s Favorite Band",
+  "artist": "Green Day",
+  "year": 2017,
+  "release_date": "2017-11-17",
+  "type": "Album + Compilation",
+  "description": "Greatest Hits: God's Favorite Band is the second greatest hits album by American rock band Green Day, released on November 17, 2017.",
+  "genres": [
+    "punk",
+    "rock"
+  ],
+  "tags": [
+    "punk",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/036b6fa3-f73d-4742-b224-595ca5880433",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greatest_Hits%3A_God's_Favorite_Band",
+    "allmusic": "https://www.allmusic.com/album/mw0003116876",
+    "discogs": "https://www.discogs.com/master/1268345",
+    "wikidata": "https://www.wikidata.org/wiki/Q42302105",
+    "deezer": "https://www.deezer.com/album/51488752"
+  },
+  "musicbrainz_id": "036b6fa3-f73d-4742-b224-595ca5880433",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/76825acf-8826-49ba-8f73-4f2d81a66d8c",
+      "barcode": "093624909163",
+      "title": "Greatest Hits: God’s Favorite Band",
+      "disambiguation": null,
+      "date": "2017-11-17",
+      "country": null
+    },
+    "total_tracks": 22,
+    "total_length": "1:16:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "2,000 Light Years Away",
+            "length": "2:25",
+            "deezer": {
+              "id": 427638052,
+              "link": "https://www.deezer.com/track/427638052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/2/0/a22c04e09ed700e829c8fc7ab10308cf.mp3?hdnea=exp=1795654763~acl=/api/1/1/a/2/2/0/a22c04e09ed700e829c8fc7ab10308cf.mp3*~data=user_id=0,application_id=42~hmac=3349e6765efcd7d662a33cb73de517a0736a4e642524fb6728be28724cbf488e",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Longview",
+            "length": "3:57",
+            "deezer": {
+              "id": 427638062,
+              "link": "https://www.deezer.com/track/427638062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/3/0/27339cc1b5c577315640e61c7226b567.mp3?hdnea=exp=1795654763~acl=/api/1/1/2/7/3/0/27339cc1b5c577315640e61c7226b567.mp3*~data=user_id=0,application_id=42~hmac=152ce66c02683de1dec5a506b0ebffe00ae3a78887bebc9e945e4740d623d1fd",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Welcome to Paradise",
+            "length": "3:45",
+            "deezer": {
+              "id": 427638072,
+              "link": "https://www.deezer.com/track/427638072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/8/0/4e88a37bfd3dad90a0ffba5a09cae3cc.mp3?hdnea=exp=1795654763~acl=/api/1/1/4/e/8/0/4e88a37bfd3dad90a0ffba5a09cae3cc.mp3*~data=user_id=0,application_id=42~hmac=fc9307fc9812ff0261957bbc8125220e4b8b1d298c5fba247873b7a24760a5c5",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Basket Case",
+            "length": "3:03",
+            "deezer": {
+              "id": 427638082,
+              "link": "https://www.deezer.com/track/427638082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/0/0/5c0a8d19bf8ff24dee12334b5a4a69b8.mp3?hdnea=exp=1795654763~acl=/api/1/1/5/c/0/0/5c0a8d19bf8ff24dee12334b5a4a69b8.mp3*~data=user_id=0,application_id=42~hmac=905236106fd5a019c2eebce678f2d95d0079ea8c06d4ae4b6237794b421b5331",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "When I Come Around",
+            "length": "2:59",
+            "deezer": {
+              "id": 427638092,
+              "link": "https://www.deezer.com/track/427638092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/1/0/5517d7a5d3ac0f7bad3aba9cc9e6bcf5.mp3?hdnea=exp=1795654763~acl=/api/1/1/5/5/1/0/5517d7a5d3ac0f7bad3aba9cc9e6bcf5.mp3*~data=user_id=0,application_id=42~hmac=6154d7e55106621fd604152f71835e5739c46d2d0e2b80695138ea6ac28669b2",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "She",
+            "length": "2:16",
+            "deezer": {
+              "id": 427638102,
+              "link": "https://www.deezer.com/track/427638102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/5/0/9354caf53bb3735a5983077677f5ef25.mp3?hdnea=exp=1795654763~acl=/api/1/1/9/3/5/0/9354caf53bb3735a5983077677f5ef25.mp3*~data=user_id=0,application_id=42~hmac=a827a0e29ac89b6dea9d31ec1aa4f592b83d801a018bc9ffe4658838aaf5fe05",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Brain Stew",
+            "length": "3:15",
+            "deezer": {
+              "id": 427638112,
+              "link": "https://www.deezer.com/track/427638112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/f/0/9ff43810fa627b77544438f43cb762b4.mp3?hdnea=exp=1795654763~acl=/api/1/1/9/f/f/0/9ff43810fa627b77544438f43cb762b4.mp3*~data=user_id=0,application_id=42~hmac=7215a8d6c118213fcad78f3b0edc16aa7a626220609c8f480d19a55589c6a028",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Hitchin’ a Ride",
+            "length": "2:53",
+            "deezer": {
+              "id": 427638122,
+              "link": "https://www.deezer.com/track/427638122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/6/0/4d6c5e4ee8635bee7f681edc8cda75e9.mp3?hdnea=exp=1795654763~acl=/api/1/1/4/d/6/0/4d6c5e4ee8635bee7f681edc8cda75e9.mp3*~data=user_id=0,application_id=42~hmac=fb5cf2a63e8acbdda2cbca377dda41e0df20eed78aeb5d667df332c7a7ef53a9",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Good Riddance (Time of Your Life)",
+            "length": "2:35",
+            "deezer": {
+              "id": 427638132,
+              "link": "https://www.deezer.com/track/427638132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/b/0/d4b70a4b6a7803c47839d626e1631288.mp3?hdnea=exp=1795654763~acl=/api/1/1/d/4/b/0/d4b70a4b6a7803c47839d626e1631288.mp3*~data=user_id=0,application_id=42~hmac=8d6497b423e5b4d429d45766803348391aecf4fbffd95d5a11b818b19a3552b1",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Minority",
+            "length": "2:50",
+            "deezer": {
+              "id": 427638142,
+              "link": "https://www.deezer.com/track/427638142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/3/0/fd383856ae359b0d79a7020c68823f7d.mp3?hdnea=exp=1795654763~acl=/api/1/1/f/d/3/0/fd383856ae359b0d79a7020c68823f7d.mp3*~data=user_id=0,application_id=42~hmac=645263ff632e78764e9096fdf10b7c88c9e2e3091f11dcde143fe7d4aac655ee",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Warning",
+            "length": "3:43",
+            "deezer": {
+              "id": 427638152,
+              "link": "https://www.deezer.com/track/427638152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/d/0/18d234f959d4b38180e28a46c6999366.mp3?hdnea=exp=1795654763~acl=/api/1/1/1/8/d/0/18d234f959d4b38180e28a46c6999366.mp3*~data=user_id=0,application_id=42~hmac=b94736403ab6df6e108f31e87819ae4e399098fe11aa524438e3a20bdd7d081a",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "American Idiot",
+            "length": "2:57",
+            "deezer": {
+              "id": 427638162,
+              "link": "https://www.deezer.com/track/427638162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/2/0/6b20f0ea0464d874e0dc5bc77b581c21.mp3?hdnea=exp=1795654763~acl=/api/1/1/6/b/2/0/6b20f0ea0464d874e0dc5bc77b581c21.mp3*~data=user_id=0,application_id=42~hmac=549fc9b0f054418ec3eeef7f6b93437223650d4b75f9b1cfce89cf42cba8f4ee",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Holiday",
+            "length": "3:53",
+            "deezer": {
+              "id": 427638172,
+              "link": "https://www.deezer.com/track/427638172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/2/0/6c27cb77115c91b1cab5817099467a07.mp3?hdnea=exp=1795654763~acl=/api/1/1/6/c/2/0/6c27cb77115c91b1cab5817099467a07.mp3*~data=user_id=0,application_id=42~hmac=e1444db5b194060448389b8a354a162a8705f1eb1e12052c691b48c2592d2b98",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Boulevard of Broken Dreams",
+            "length": "4:22",
+            "deezer": {
+              "id": 427638182,
+              "link": "https://www.deezer.com/track/427638182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/c/0/9fc25d6ed5383281f9cef03f4091d6b0.mp3?hdnea=exp=1795654763~acl=/api/1/1/9/f/c/0/9fc25d6ed5383281f9cef03f4091d6b0.mp3*~data=user_id=0,application_id=42~hmac=8f7c3c7c9026bb8cd80862cd28837057a4d721eafe3c8f35a349a6d59ac8240f",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Wake Me Up When September Ends",
+            "length": "4:46",
+            "deezer": {
+              "id": 427638192,
+              "link": "https://www.deezer.com/track/427638192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/8/0/0b8fc649e434f8c834bf946db059aac1.mp3?hdnea=exp=1795654763~acl=/api/1/1/0/b/8/0/0b8fc649e434f8c834bf946db059aac1.mp3*~data=user_id=0,application_id=42~hmac=22c170e00d0f8aa2807aefa4c0f0a616fdc6d708981eaf2bbfbf2af9e2943d1d",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Know Your Enemy",
+            "length": "3:12",
+            "deezer": {
+              "id": 427638202,
+              "link": "https://www.deezer.com/track/427638202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/8/0/1d80b849d9cc7cc235c01c43ee318a0d.mp3?hdnea=exp=1795654763~acl=/api/1/1/1/d/8/0/1d80b849d9cc7cc235c01c43ee318a0d.mp3*~data=user_id=0,application_id=42~hmac=9143d5527c1c8f8ac21a45b12190eac9a2f99bb18b9a4bfb63a04611eba8e77d",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "21 Guns",
+            "length": "5:25",
+            "deezer": {
+              "id": 427638212,
+              "link": "https://www.deezer.com/track/427638212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/7/0/337ba709a081ae24895ed047eece6d73.mp3?hdnea=exp=1795654763~acl=/api/1/1/3/3/7/0/337ba709a081ae24895ed047eece6d73.mp3*~data=user_id=0,application_id=42~hmac=2b35ae7c7c0b1b6e1d24f07805f3c6da80bfb1de0e252e714ca558b35e127872",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Oh Love",
+            "length": "5:04",
+            "deezer": {
+              "id": 427638222,
+              "link": "https://www.deezer.com/track/427638222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/6/0/d36c799da704d8111e788d5771da6fcc.mp3?hdnea=exp=1795654763~acl=/api/1/1/d/3/6/0/d36c799da704d8111e788d5771da6fcc.mp3*~data=user_id=0,application_id=42~hmac=d9e4833167108c21a9ab0591f57bba2c3f778bec7f18c98a14ab38b39b249c19",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Bang Bang",
+            "length": "3:27",
+            "deezer": {
+              "id": 427638232,
+              "link": "https://www.deezer.com/track/427638232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/c/0/c4cd38ca5d504429182487c4305402e6.mp3?hdnea=exp=1795654763~acl=/api/1/1/c/4/c/0/c4cd38ca5d504429182487c4305402e6.mp3*~data=user_id=0,application_id=42~hmac=f7f2168eeed80b1b120bc424e2ce29662532d59ea6e909bf99529aefbd377785",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Still Breathing",
+            "length": "3:46",
+            "deezer": {
+              "id": 427638242,
+              "link": "https://www.deezer.com/track/427638242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/8/0/228273e880ac8142d9b44e6e5445e77d.mp3?hdnea=exp=1795654763~acl=/api/1/1/2/2/8/0/228273e880ac8142d9b44e6e5445e77d.mp3*~data=user_id=0,application_id=42~hmac=617d1bc7caa95cfe98be2c373f64bd4227f4fedb81fa728c20d0eb746633988a",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Ordinary World",
+            "length": "3:01",
+            "artist": "Green Day feat. Miranda Lambert",
+            "deezer": {
+              "id": 427638252,
+              "link": "https://www.deezer.com/track/427638252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/9/0/1b94eeba776186986fc5f8fb1411c9ff.mp3?hdnea=exp=1795654763~acl=/api/1/1/1/b/9/0/1b94eeba776186986fc5f8fb1411c9ff.mp3*~data=user_id=0,application_id=42~hmac=36d72631e8f9c2726b3a201f35688c513fff18ceba31d835d5def801067d8573",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Back in the USA",
+            "length": "2:36",
+            "deezer": {
+              "id": 427638262,
+              "link": "https://www.deezer.com/track/427638262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/3/0/6336127361d70169221c1688d35d184b.mp3?hdnea=exp=1795654763~acl=/api/1/1/6/3/3/0/6336127361d70169221c1688d35d184b.mp3*~data=user_id=0,application_id=42~hmac=b9dacfd7fd103c9402f83ddb88d519239540d12be1009d48deed8206e0905703",
+              "preview_expires": "2026-11-26T00:59:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Green Day/Greatest Hits- God's Favorite Band.jpg"
+}

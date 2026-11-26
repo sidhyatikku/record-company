@@ -1,0 +1,51 @@
+{
+  "title": "Dilbar",
+  "artist": "Tech Panda, Kenzani, Rusha & Blizza",
+  "year": 2023,
+  "release_date": "2023-03-02",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD",
+    "deezer": "https://www.deezer.com/album/413304487"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD",
+      "title": "Dilbar",
+      "date": "2023-03-02"
+    },
+    "total_tracks": 1,
+    "total_length": "2:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dilbar",
+            "length": "2:49",
+            "deezer": {
+              "id": 2173312927,
+              "link": "https://www.deezer.com/track/2173312927",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/8/0/708ff50733178dfcd7cea7e640508ed7.mp3?hdnea=exp=1795721258~acl=/api/1/1/7/0/8/0/708ff50733178dfcd7cea7e640508ed7.mp3*~data=user_id=0,application_id=42~hmac=35c9f21ef4f0eb4ae150df5c009e7809479ee1f2cab0ecae807dc11e109e1c55",
+              "preview_expires": "2026-11-26T19:27:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Dilbar.jpg"
+}

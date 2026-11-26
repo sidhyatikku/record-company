@@ -1,0 +1,58 @@
+{
+  "title": "So High",
+  "artist": "Sidhu Moose Wala & Byg Byrd",
+  "year": 2017,
+  "release_date": "2017-08-10",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "hip hop"
+  ],
+  "tags": [
+    "bhangra",
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/52f889ec-8111-4a27-adb8-d1411f5335c3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/345515307"
+  },
+  "musicbrainz_id": "52f889ec-8111-4a27-adb8-d1411f5335c3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/788102c0-fc58-4d85-b629-d266cf8648bd",
+      "barcode": "810059349544",
+      "title": "So High",
+      "disambiguation": null,
+      "date": "2017-08-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "So High",
+            "length": "3:38",
+            "artist": "Sidhu Moose Wala",
+            "deezer": {
+              "id": 1862983267,
+              "link": "https://www.deezer.com/track/1862983267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/d/0/66d4370974a16d51208884432eeaba43.mp3?hdnea=exp=1795720621~acl=/api/1/1/6/6/d/0/66d4370974a16d51208884432eeaba43.mp3*~data=user_id=0,application_id=42~hmac=43fa9e76bc830ab8535fd0cb1a9174cd4121b68307c23b52f911c9550cb15e4a",
+              "preview_expires": "2026-11-26T19:17:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/So High.jpg"
+}

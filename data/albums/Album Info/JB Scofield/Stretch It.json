@@ -1,0 +1,52 @@
+{
+  "title": "Stretch It",
+  "artist": "JB Scofield",
+  "year": 2019,
+  "release_date": "2019-06-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "grime",
+    "uk grime",
+    "uk drill",
+    "drill"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7fHu1FvjaWgF0u2lO1v5q9",
+    "deezer": "https://www.deezer.com/album/98753212"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7fHu1FvjaWgF0u2lO1v5q9",
+      "title": "Stretch It",
+      "date": "2019-06-03"
+    },
+    "total_tracks": 1,
+    "total_length": "3:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stretch It",
+            "length": "3:09",
+            "deezer": {
+              "id": 688589312,
+              "link": "https://www.deezer.com/track/688589312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/f/0/a8fb28238af81e5cf15c6e4f7d08555a.mp3?hdnea=exp=1795655540~acl=/api/1/1/a/8/f/0/a8fb28238af81e5cf15c6e4f7d08555a.mp3*~data=user_id=0,application_id=42~hmac=d9c3dc91d44aa10079d3dba9effc9f850058b5cf355e057d70be38068db43833",
+              "preview_expires": "2026-11-26T01:12:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/JB Scofield/Stretch It.jpg"
+}

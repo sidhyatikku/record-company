@@ -1,0 +1,59 @@
+{
+  "title": "Poland",
+  "artist": "Lil Yachty",
+  "year": 2022,
+  "release_date": "2022-10-04",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hip hop",
+    "pop rap",
+    "rage"
+  ],
+  "tags": [
+    "hip hop",
+    "pop rap",
+    "rage"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6f8f92e2-fe54-49eb-af74-91a41ea59696",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/364414767"
+  },
+  "musicbrainz_id": "6f8f92e2-fe54-49eb-af74-91a41ea59696",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c1344fdd-fc1d-40ab-9fa2-14c4fdaf17af",
+      "barcode": "602448745538",
+      "title": "Poland",
+      "disambiguation": null,
+      "date": "2022-10-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "1:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Poland",
+            "length": "1:23",
+            "deezer": {
+              "id": 1954515757,
+              "link": "https://www.deezer.com/track/1954515757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/e/0/cce07eb4e1e9a87f4e8dde060ed7f880.mp3?hdnea=exp=1795656507~acl=/api/1/1/c/c/e/0/cce07eb4e1e9a87f4e8dde060ed7f880.mp3*~data=user_id=0,application_id=42~hmac=ce8caa2cd56bd6646e8b8d0899c18ba9e67c58242e92b94a954995a2f9f8e408",
+              "preview_expires": "2026-11-26T01:28:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lil Yachty/Poland.jpg"
+}

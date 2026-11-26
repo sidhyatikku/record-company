@@ -1,0 +1,244 @@
+{
+  "title": "The Best of Willie Nelson",
+  "artist": "Willie Nelson",
+  "year": 1995,
+  "release_date": "1995-02-08",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "country"
+  ],
+  "tags": [
+    "country"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4da9bdad-3497-4dfb-8cca-ae687f07ca61",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/77443"
+  },
+  "musicbrainz_id": "4da9bdad-3497-4dfb-8cca-ae687f07ca61",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/67db71bf-23d3-4169-981c-8baf3e4146a0",
+      "barcode": "828765276528",
+      "title": "Greatest Hits",
+      "disambiguation": null,
+      "date": "2003-05-17",
+      "country": "AL"
+    },
+    "total_tracks": 18,
+    "total_length": "48:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fire and Rain",
+            "length": "2:56",
+            "deezer": {
+              "id": 612769,
+              "link": "https://www.deezer.com/track/612769",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "2",
+            "title": "Me and Paul",
+            "length": "3:45",
+            "deezer": {
+              "id": 2244104,
+              "link": "https://www.deezer.com/track/2244104",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "Crazy Arms",
+            "length": "2:30",
+            "deezer": {
+              "id": 628160,
+              "link": "https://www.deezer.com/track/628160",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "4",
+            "title": "Night Life",
+            "length": "2:23",
+            "deezer": {
+              "id": 613453,
+              "link": "https://www.deezer.com/track/613453",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "5",
+            "title": "Funny How Time Slips Away",
+            "length": "2:38",
+            "deezer": {
+              "id": 612771,
+              "link": "https://www.deezer.com/track/612771",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hello Walls",
+            "length": "2:10",
+            "deezer": {
+              "id": 612772,
+              "link": "https://www.deezer.com/track/612772",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "If You Can Touch Her at All",
+            "length": "3:04",
+            "deezer": {
+              "id": 628161,
+              "link": "https://www.deezer.com/track/628161",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "8",
+            "title": "Yesterday’s Wine",
+            "length": "3:12",
+            "deezer": {
+              "id": 612774,
+              "link": "https://www.deezer.com/track/612774",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "9",
+            "title": "Help Me Make It Through the Night",
+            "length": "2:56",
+            "deezer": {
+              "id": 628231,
+              "link": "https://www.deezer.com/track/628231",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "One in a Row",
+            "length": "2:33",
+            "deezer": {
+              "id": 612776,
+              "link": "https://www.deezer.com/track/612776",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "11",
+            "title": "San Antonio Rose",
+            "length": "2:07",
+            "deezer": {
+              "id": 612778,
+              "link": "https://www.deezer.com/track/612778",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "12",
+            "title": "Once More With Feeling",
+            "length": "2:36",
+            "deezer": {
+              "id": 612780,
+              "link": "https://www.deezer.com/track/612780",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "13",
+            "title": "Good Hearted Woman",
+            "length": "3:00",
+            "deezer": {
+              "id": 613493,
+              "link": "https://www.deezer.com/track/613493",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "14",
+            "title": "Mammas, Don’t Let Your Babies Grow Up to Be Cowboys",
+            "length": "2:28",
+            "artist": "Willie Nelson & Waylon Jennings",
+            "deezer": {
+              "id": 612782,
+              "link": "https://www.deezer.com/track/612782",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "15",
+            "title": "Just to Satisfy You",
+            "length": "2:49",
+            "artist": "Waylon Jennings",
+            "deezer": {
+              "id": 612784,
+              "link": "https://www.deezer.com/track/612784",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "16",
+            "title": "Blackjack County Chain",
+            "length": "2:02",
+            "deezer": {
+              "id": 612785,
+              "link": "https://www.deezer.com/track/612785",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "17",
+            "title": "Good Times",
+            "length": "2:24",
+            "deezer": {
+              "id": 612786,
+              "link": "https://www.deezer.com/track/612786",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "18",
+            "title": "I’m a Memory",
+            "length": "2:30",
+            "deezer": {
+              "id": 612788,
+              "link": "https://www.deezer.com/track/612788",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Willie Nelson/The Best Of Willie Nelson.jpg"
+}

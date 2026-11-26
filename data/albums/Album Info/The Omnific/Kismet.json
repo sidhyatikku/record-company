@@ -1,0 +1,134 @@
+{
+  "title": "Kismet",
+  "artist": "The Omnific",
+  "year": 2017,
+  "release_date": "2017-11-24",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "experimental",
+    "rock"
+  ],
+  "tags": [
+    "experimental",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a7b33c4b-f48e-4fee-8738-79831517f129",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/49664722"
+  },
+  "musicbrainz_id": "a7b33c4b-f48e-4fee-8738-79831517f129",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/424aa28a-c273-4ad5-b5cd-2c02e81af98d",
+      "barcode": "192378855495",
+      "title": "Kismet",
+      "disambiguation": null,
+      "date": "2017-11-24",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "30:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Proem",
+            "length": "4:33",
+            "deezer": {
+              "id": 416131652,
+              "link": "https://www.deezer.com/track/416131652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/2/0/4b2f3954d7bd12d00ed91b420579a715.mp3?hdnea=exp=1795721625~acl=/api/1/1/4/b/2/0/4b2f3954d7bd12d00ed91b420579a715.mp3*~data=user_id=0,application_id=42~hmac=ac46fa9c53db703da09015db0f82f588e1b9c5f548c9868893dd7dc3be0ee624",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Objets de Vertu",
+            "length": "3:31",
+            "deezer": {
+              "id": 416131662,
+              "link": "https://www.deezer.com/track/416131662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/d/0/80d4165031f6fc4f4d0ef06628d6f9e2.mp3?hdnea=exp=1795721625~acl=/api/1/1/8/0/d/0/80d4165031f6fc4f4d0ef06628d6f9e2.mp3*~data=user_id=0,application_id=42~hmac=ba985ebb82774b37c1ae6400188981ea67f8c94581b6da3181925dabda37eabb",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bugbear",
+            "length": "4:07",
+            "deezer": {
+              "id": 416131672,
+              "link": "https://www.deezer.com/track/416131672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/b/0/61bb5bc988ec969fba95b07d6b31a8d6.mp3?hdnea=exp=1795721625~acl=/api/1/1/6/1/b/0/61bb5bc988ec969fba95b07d6b31a8d6.mp3*~data=user_id=0,application_id=42~hmac=6e24b510e3b8dd539f784be9664fd054b689ac092ca2d13de3bde5ce1ed4fa12",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kismet",
+            "length": "4:59",
+            "deezer": {
+              "id": 416131682,
+              "link": "https://www.deezer.com/track/416131682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/4/0/cf46426c12c46fec7f5a4fd06050508c.mp3?hdnea=exp=1795721625~acl=/api/1/1/c/f/4/0/cf46426c12c46fec7f5a4fd06050508c.mp3*~data=user_id=0,application_id=42~hmac=6677d85a32a79f923c3abd743ee3f07c3de975f4227ae7d7f6b7368351cefb3b",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "That’s All She Wrote",
+            "length": "2:42",
+            "deezer": {
+              "id": 416131692,
+              "link": "https://www.deezer.com/track/416131692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/6/0/266bbea2d831b53883a4124c1e2bf85c.mp3?hdnea=exp=1795721625~acl=/api/1/1/2/6/6/0/266bbea2d831b53883a4124c1e2bf85c.mp3*~data=user_id=0,application_id=42~hmac=909496d4771575873fd8783bf437865b2cf44c9b0ab82c8af4a37532337e22e1",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Condemned",
+            "length": "3:17",
+            "deezer": {
+              "id": 416131702,
+              "link": "https://www.deezer.com/track/416131702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/a/0/78aa6e548e21d27aeb63b5f39f5bceca.mp3?hdnea=exp=1795721625~acl=/api/1/1/7/8/a/0/78aa6e548e21d27aeb63b5f39f5bceca.mp3*~data=user_id=0,application_id=42~hmac=4782b25e1a12c78ba84a64b725c02cb1d7e5619f6da735f9d507b60e0140372e",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ersatz",
+            "length": "2:14",
+            "deezer": {
+              "id": 416131712,
+              "link": "https://www.deezer.com/track/416131712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/4/0/11485213ad3fc818cfaa69a276e6cb04.mp3?hdnea=exp=1795721625~acl=/api/1/1/1/1/4/0/11485213ad3fc818cfaa69a276e6cb04.mp3*~data=user_id=0,application_id=42~hmac=ec5ce0e23aa62bcbbc2e4454a571f46392582b4750dfb3a4d901de0d88e6f9c1",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sonorous, Pt. 2",
+            "length": "4:48",
+            "deezer": {
+              "id": 416131722,
+              "link": "https://www.deezer.com/track/416131722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/3/0/1839128806de82d0ede1a346cef5954d.mp3?hdnea=exp=1795721625~acl=/api/1/1/1/8/3/0/1839128806de82d0ede1a346cef5954d.mp3*~data=user_id=0,application_id=42~hmac=1ecf405af07e0e6695a14f6d1748aada8b9f59308a07a849822a1bf64d0acaf8",
+              "preview_expires": "2026-11-26T19:33:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Omnific/Kismet.jpg"
+}

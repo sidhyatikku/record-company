@@ -1,0 +1,51 @@
+{
+  "title": "Rangi Saari",
+  "artist": "Kavita Seth & Kanishk Seth",
+  "year": 2020,
+  "release_date": "2020-04-24",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7aa24049-9d4d-4d1c-82da-3a038a39843b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/141859412"
+  },
+  "musicbrainz_id": "7aa24049-9d4d-4d1c-82da-3a038a39843b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1cbf1397-ef44-4afd-90dc-c66d3d70c1b9",
+      "barcode": "3616405187887",
+      "title": "Rangi Saari",
+      "disambiguation": null,
+      "date": "2020-04-24",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rangi Saari",
+            "length": "3:34",
+            "deezer": {
+              "id": 930073882,
+              "link": "https://www.deezer.com/track/930073882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/4/0/224a9b5513e27405624ee6b3d06b547d.mp3?hdnea=exp=1795656054~acl=/api/1/1/2/2/4/0/224a9b5513e27405624ee6b3d06b547d.mp3*~data=user_id=0,application_id=42~hmac=500ac404b9909ef66b3f5ffcde7500b7a712afd8c3d09a475ca8b7268c32836f",
+              "preview_expires": "2026-11-26T01:20:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kavita Seth/Rangi Saari.jpg"
+}

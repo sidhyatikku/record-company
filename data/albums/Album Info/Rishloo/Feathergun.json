@@ -1,0 +1,169 @@
+{
+  "title": "Feathergun",
+  "artist": "Rishloo",
+  "year": 2009,
+  "release_date": "2009-12-08",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "progressive rock"
+  ],
+  "tags": [
+    "progressive rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/044ce23c-27cb-462d-a76f-dc4a41b0eabc",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1063808541"
+  },
+  "musicbrainz_id": "044ce23c-27cb-462d-a76f-dc4a41b0eabc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3d4258ba-0339-4dc3-bea4-37b07465265e",
+      "barcode": "700261288420",
+      "title": "Feathergun",
+      "disambiguation": null,
+      "date": "2009",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "58:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Scissorlips",
+            "length": "5:49",
+            "deezer": {
+              "id": 4247901871,
+              "link": "https://www.deezer.com/track/4247901871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/6/0/7e61f0b85742891fb42e3e956c17cbbe.mp3?hdnea=exp=1795720118~acl=/api/1/1/7/e/6/0/7e61f0b85742891fb42e3e956c17cbbe.mp3*~data=user_id=0,application_id=42~hmac=2224382c6259a6c1191cce3c373113f81b2704fd43273537bb8488ae44c6169b",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Turning Sheep Into Goats",
+            "length": "3:54",
+            "deezer": {
+              "id": 4247901881,
+              "link": "https://www.deezer.com/track/4247901881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/7/0/1a7b52e79f66dbd10bbc07410788be7b.mp3?hdnea=exp=1795720118~acl=/api/1/1/1/a/7/0/1a7b52e79f66dbd10bbc07410788be7b.mp3*~data=user_id=0,application_id=42~hmac=fa623c99bfb85e58ad0baff38d52e01f061b7830cac11eb613bc0bcfa115ae81",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Systematomatic",
+            "length": "3:42",
+            "deezer": {
+              "id": 4247901891,
+              "link": "https://www.deezer.com/track/4247901891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/d/0/3ed97979899cf985fb9212589b5c3ee0.mp3?hdnea=exp=1795720118~acl=/api/1/1/3/e/d/0/3ed97979899cf985fb9212589b5c3ee0.mp3*~data=user_id=0,application_id=42~hmac=7e3bb6e01e6ad49aac0254024a90e3d5ba5537cef8147cc36e3d534f5340494b",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "River of Glass",
+            "length": "4:55",
+            "deezer": {
+              "id": 4247901901,
+              "link": "https://www.deezer.com/track/4247901901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/b/0/42b90c9c111c40672011c03225b1046e.mp3?hdnea=exp=1795720118~acl=/api/1/1/4/2/b/0/42b90c9c111c40672011c03225b1046e.mp3*~data=user_id=0,application_id=42~hmac=c8f4dbeeede155bb66eaae4cbde71dc065ee36fb88aa9f76799e9b8b514b7eaf",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Keyhole in the Sky",
+            "length": "5:14",
+            "deezer": {
+              "id": 4247901911,
+              "link": "https://www.deezer.com/track/4247901911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/7/0/5e7366e8286ebb5ff3ceb75290e05bf1.mp3?hdnea=exp=1795720118~acl=/api/1/1/5/e/7/0/5e7366e8286ebb5ff3ceb75290e05bf1.mp3*~data=user_id=0,application_id=42~hmac=ebc351b6e5cbb5bdf01250473e24e6f03a683deb29e226e8132e822b386f7bc6",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Downhill",
+            "length": "8:13",
+            "deezer": {
+              "id": 4247901921,
+              "link": "https://www.deezer.com/track/4247901921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/c/0/f3c7a5b28a0dcc5dd52b280aba754653.mp3?hdnea=exp=1795720118~acl=/api/1/1/f/3/c/0/f3c7a5b28a0dcc5dd52b280aba754653.mp3*~data=user_id=0,application_id=42~hmac=32bb58ec899edc65759d01963adf44a446bf90e5cdddf54bfad6a5c5a3bff679",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Feathergun in the Garden of the Sun",
+            "length": "5:18",
+            "deezer": {
+              "id": 4247901931,
+              "link": "https://www.deezer.com/track/4247901931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/6/0/27643f6fcaae07df0d82ab211a2a6754.mp3?hdnea=exp=1795720118~acl=/api/1/1/2/7/6/0/27643f6fcaae07df0d82ab211a2a6754.mp3*~data=user_id=0,application_id=42~hmac=d04d296d3b1674454ac00bc98faf0edda33c0366771ccdba4b5a79cd2b407794",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dreamcatcher",
+            "length": "0:54",
+            "deezer": {
+              "id": 4247901941,
+              "link": "https://www.deezer.com/track/4247901941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/3/0/96306e5b8d885d68dd9e32a05a5c4b66.mp3?hdnea=exp=1795720118~acl=/api/1/1/9/6/3/0/96306e5b8d885d68dd9e32a05a5c4b66.mp3*~data=user_id=0,application_id=42~hmac=349a54fdf22bee7ac877cb62474556871cec6f312fbf0e1e315c6b75177daf88",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Diamond Eyes",
+            "length": "6:26",
+            "deezer": {
+              "id": 4247901951,
+              "link": "https://www.deezer.com/track/4247901951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/4/0/7449c0ecf926ea55af9ffd3c70e528e1.mp3?hdnea=exp=1795720118~acl=/api/1/1/7/4/4/0/7449c0ecf926ea55af9ffd3c70e528e1.mp3*~data=user_id=0,application_id=42~hmac=3b7724a139d405c0358c5d13a22550120946ec67a2524b23f0b0487f8f2b56b9",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Katsushika",
+            "length": "5:00",
+            "deezer": {
+              "id": 4247901961,
+              "link": "https://www.deezer.com/track/4247901961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/7/0/b87c222268c4794d3aa897bf9a00ddd4.mp3?hdnea=exp=1795720118~acl=/api/1/1/b/8/7/0/b87c222268c4794d3aa897bf9a00ddd4.mp3*~data=user_id=0,application_id=42~hmac=fc956462dcea2f794774fadbf3d6c736140c43dc209a21b6186dc66825148025",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Weevil Bride / I’m Sorry, I Don’t Want to Be an Emperor",
+            "length": "8:51",
+            "deezer": {
+              "id": 4247901971,
+              "link": "https://www.deezer.com/track/4247901971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/9/0/ec9a439a93d374091bb41432598cfaf2.mp3?hdnea=exp=1795720118~acl=/api/1/1/e/c/9/0/ec9a439a93d374091bb41432598cfaf2.mp3*~data=user_id=0,application_id=42~hmac=326d4a1c190cba78228c8c273cd8d227486e5f505e399e15e05725d0181fb07f",
+              "preview_expires": "2026-11-26T19:08:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Rishloo/Feathergun.jpg"
+}

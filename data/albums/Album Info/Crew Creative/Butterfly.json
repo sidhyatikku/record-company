@@ -1,0 +1,73 @@
+{
+  "title": "Butterfly",
+  "artist": "Crew Creative, Pargan",
+  "year": 1994,
+  "release_date": "1994-01-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5n0u1ouMad4NQYGsvgGPzD",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5n0u1ouMad4NQYGsvgGPzD",
+      "title": "Butterfly",
+      "date": "1994-01-01"
+    },
+    "total_tracks": 6,
+    "total_length": "26:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Makhana",
+            "length": "3:57"
+          },
+          {
+            "number": "2",
+            "title": "Wild Fashion And Style",
+            "length": "4:02",
+            "artist": "Crew Creative, Mangal Singh"
+          },
+          {
+            "number": "3",
+            "title": "Chill Out",
+            "length": "4:47",
+            "artist": "Crew Creative, Jayshri Shivram"
+          },
+          {
+            "number": "4",
+            "title": "Sajana",
+            "length": "4:12",
+            "artist": "Crew Creative, Balwinder Safri"
+          },
+          {
+            "number": "5",
+            "title": "Badla",
+            "length": "4:29",
+            "artist": "Crew Creative, The Crew"
+          },
+          {
+            "number": "6",
+            "title": "Crew Creative",
+            "length": "4:49",
+            "artist": "Crew Creative, Donny"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Crew Creative/Butterfly.jpg"
+}

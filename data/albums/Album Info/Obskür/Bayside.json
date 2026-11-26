@@ -1,0 +1,62 @@
+{
+  "title": "Bayside",
+  "artist": "Obskür",
+  "year": 2020,
+  "release_date": "2020-11-09",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/38cc677a-bf82-49cc-a076-4a5ea82eaa6d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/184529552"
+  },
+  "musicbrainz_id": "38cc677a-bf82-49cc-a076-4a5ea82eaa6d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5a2602c1-aacd-42e1-88c6-eebc36c7f554",
+      "barcode": "190295078867",
+      "title": "Bayside",
+      "disambiguation": null,
+      "date": "2020-11-09",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "8:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bayside",
+            "length": "5:29",
+            "deezer": {
+              "id": 1133682022,
+              "link": "https://www.deezer.com/track/1133682022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/3/0/663dcd37ff5ee50575f9f90a6f390c07.mp3?hdnea=exp=1795719118~acl=/api/1/1/6/6/3/0/663dcd37ff5ee50575f9f90a6f390c07.mp3*~data=user_id=0,application_id=42~hmac=1d6c14694385085dd841763423ac6735cf2acec0202c1c7778d3ba4e9124b7e7",
+              "preview_expires": "2026-11-26T18:51:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bayside (Radio Edit)",
+            "length": "3:17",
+            "deezer": {
+              "id": 1133682032,
+              "link": "https://www.deezer.com/track/1133682032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/a/0/e5a16c288365ce44f3e2fdbbc71d0e7a.mp3?hdnea=exp=1795719118~acl=/api/1/1/e/5/a/0/e5a16c288365ce44f3e2fdbbc71d0e7a.mp3*~data=user_id=0,application_id=42~hmac=0cf777bcde99e35155926cf8395c3dd65e608c1fd381880d8a8bd9ca46901c07",
+              "preview_expires": "2026-11-26T18:51:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Obskür/Bayside.jpg"
+}

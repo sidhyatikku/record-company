@@ -1,0 +1,233 @@
+{
+  "title": "Issues",
+  "artist": "Korn",
+  "year": 1999,
+  "release_date": "1999-11-15",
+  "type": "Album",
+  "description": "Issues is the fourth studio album by American nu metal band Korn. It was released on November 16, 1999, through both Immortal and Epic Records. The album was promoted throughout 2000 by the band's highly successful Sick and Twisted Tour.",
+  "genres": [
+    "nu metal",
+    "alternative metal",
+    "heavy metal",
+    "industrial rock"
+  ],
+  "tags": [
+    "nu metal",
+    "alternative metal",
+    "heavy metal",
+    "industrial rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c7497ce4-c746-3a75-946e-daa8ab117c47",
+    "wikipedia": "https://en.wikipedia.org/wiki/Issues_(Korn_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000252370",
+    "discogs": "https://www.discogs.com/master/32586",
+    "wikidata": "https://www.wikidata.org/wiki/Q572173",
+    "deezer": "https://www.deezer.com/album/1398831"
+  },
+  "musicbrainz_id": "c7497ce4-c746-3a75-946e-daa8ab117c47",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/40d2b064-27e4-3374-b961-86942c062bdc",
+      "barcode": "074646371022",
+      "title": "Issues",
+      "disambiguation": null,
+      "date": "1999-11-16",
+      "country": "US"
+    },
+    "total_tracks": 16,
+    "total_length": "53:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dead",
+            "length": "1:12",
+            "deezer": {
+              "id": 15176378,
+              "link": "https://www.deezer.com/track/15176378",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/f/0/9bf97302c0a6d2f31aec46704491608e.mp3?hdnea=exp=1795656286~acl=/api/1/1/9/b/f/0/9bf97302c0a6d2f31aec46704491608e.mp3*~data=user_id=0,application_id=42~hmac=759f7942f6cdee468334e822efbffb1af3a6d519673ad62e8ddbd3062a8fc022",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Falling Away From Me",
+            "length": "4:31",
+            "deezer": {
+              "id": 15175502,
+              "link": "https://www.deezer.com/track/15175502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/8/0/6c899b25fdd97795f42021cc3ec075a0.mp3?hdnea=exp=1795656286~acl=/api/1/1/6/c/8/0/6c899b25fdd97795f42021cc3ec075a0.mp3*~data=user_id=0,application_id=42~hmac=08c789aa838989afa19bbed66b5282f7a110eecfb901fc798eb79dbc9345ec51",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Trash",
+            "length": "3:27",
+            "deezer": {
+              "id": 15175504,
+              "link": "https://www.deezer.com/track/15175504",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/6/0/1f622b7bb98a05207950a82a3d8e0bb4.mp3?hdnea=exp=1795656286~acl=/api/1/1/1/f/6/0/1f622b7bb98a05207950a82a3d8e0bb4.mp3*~data=user_id=0,application_id=42~hmac=3115516ea6fb1475c3e5f19691c37cd6a59376ea6083a442146a9a72878105d2",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "4 U",
+            "length": "1:42",
+            "deezer": {
+              "id": 15176683,
+              "link": "https://www.deezer.com/track/15176683",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/d/0/6ed03a58d96be54a254dd968277b86dc.mp3?hdnea=exp=1795656286~acl=/api/1/1/6/e/d/0/6ed03a58d96be54a254dd968277b86dc.mp3*~data=user_id=0,application_id=42~hmac=59cc377d43f6e58d36aa16d04cbc46d5cb2b98045b66fe8242cbda248ad8cf73",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Beg for Me",
+            "length": "3:54",
+            "deezer": {
+              "id": 15176379,
+              "link": "https://www.deezer.com/track/15176379",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/5/0/995a7a2df3a58e1826e89344a35761bf.mp3?hdnea=exp=1795656286~acl=/api/1/1/9/9/5/0/995a7a2df3a58e1826e89344a35761bf.mp3*~data=user_id=0,application_id=42~hmac=b252abe281bb598cf0c0436c9dc45fc310366edd84cc33bfa1a78d059ac0e4cd",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Make Me Bad",
+            "length": "3:55",
+            "deezer": {
+              "id": 15175506,
+              "link": "https://www.deezer.com/track/15175506",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/b/0/4fb86dee79f6e829802ea609332b8340.mp3?hdnea=exp=1795656286~acl=/api/1/1/4/f/b/0/4fb86dee79f6e829802ea609332b8340.mp3*~data=user_id=0,application_id=42~hmac=18b4686002a29042ed98e90b7f332445ed2cbc850128bdaf3b30774353bfd7df",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "It’s Gonna Go Away",
+            "length": "1:31",
+            "deezer": {
+              "id": 15175507,
+              "link": "https://www.deezer.com/track/15175507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/6/0/ba6bc5c0aa3756d5217475c27594ca58.mp3?hdnea=exp=1795656286~acl=/api/1/1/b/a/6/0/ba6bc5c0aa3756d5217475c27594ca58.mp3*~data=user_id=0,application_id=42~hmac=2064ec78605b9948597f75582424ec9e261eb4e4df0d3f0a5e900a93ae86a0d7",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Wake Up",
+            "length": "4:08",
+            "deezer": {
+              "id": 15176377,
+              "link": "https://www.deezer.com/track/15176377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/5/0/b058ecd445ad8700890de5214c2b0581.mp3?hdnea=exp=1795656286~acl=/api/1/1/b/0/5/0/b058ecd445ad8700890de5214c2b0581.mp3*~data=user_id=0,application_id=42~hmac=1b6ddb88539e33060cdc0a62f3c3c70e7bb7b3b898ee3eb0d1f7c3395c749063",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Am I Going Crazy",
+            "length": "0:59",
+            "deezer": {
+              "id": 15176684,
+              "link": "https://www.deezer.com/track/15176684",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/3/0/73325b980c6a667d8ab4dda10d49ff82.mp3?hdnea=exp=1795656286~acl=/api/1/1/7/3/3/0/73325b980c6a667d8ab4dda10d49ff82.mp3*~data=user_id=0,application_id=42~hmac=1b0638ebba1597dd217120abb394dfb3a781ee16f4964b29cb01b4c9dffad065",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Hey Daddy",
+            "length": "3:44",
+            "deezer": {
+              "id": 15175509,
+              "link": "https://www.deezer.com/track/15175509",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/4/0/ae497fc47045b83606cd3ce96a1223fc.mp3?hdnea=exp=1795656286~acl=/api/1/1/a/e/4/0/ae497fc47045b83606cd3ce96a1223fc.mp3*~data=user_id=0,application_id=42~hmac=61316a090aa398e1fd1ca55b48957eeb1a1d3a2954f8bd49642a5ff5d8360f4c",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Somebody Someone",
+            "length": "3:47",
+            "deezer": {
+              "id": 15177135,
+              "link": "https://www.deezer.com/track/15177135",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/b/0/8cbde33e5a064d0de91ee96709f9f3d3.mp3?hdnea=exp=1795656286~acl=/api/1/1/8/c/b/0/8cbde33e5a064d0de91ee96709f9f3d3.mp3*~data=user_id=0,application_id=42~hmac=19301c6122078acae6deb81d4126f5ae03fa7d42f527ea9f5f9b35abed30cbde",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "No Way",
+            "length": "4:08",
+            "deezer": {
+              "id": 15175511,
+              "link": "https://www.deezer.com/track/15175511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/c/0/e9cbe260908a28af8b9e05ffe0c03681.mp3?hdnea=exp=1795656286~acl=/api/1/1/e/9/c/0/e9cbe260908a28af8b9e05ffe0c03681.mp3*~data=user_id=0,application_id=42~hmac=d9ea306dbce27f469c56d2b80dea8daac68fd06930ca55892e8c6f1618f61290",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Let’s Get This Party Started",
+            "length": "3:41",
+            "deezer": {
+              "id": 15175513,
+              "link": "https://www.deezer.com/track/15175513",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/3/0/2830c795e10dac50e2aa42bf538e2d1e.mp3?hdnea=exp=1795656286~acl=/api/1/1/2/8/3/0/2830c795e10dac50e2aa42bf538e2d1e.mp3*~data=user_id=0,application_id=42~hmac=e038ea8ff3f6799da3b3829d1385ba3498773e15dc40f769399285cd5ce06c60",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Wish You Could Be Me",
+            "length": "1:07",
+            "deezer": {
+              "id": 15176685,
+              "link": "https://www.deezer.com/track/15176685",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/e/0/d2ed8a4fd0e0787914e009ae0ba9455a.mp3?hdnea=exp=1795656286~acl=/api/1/1/d/2/e/0/d2ed8a4fd0e0787914e009ae0ba9455a.mp3*~data=user_id=0,application_id=42~hmac=e9be5ccca9b90894f5dd898b2f24131c7cb59b65fb0210803f87fdb133f3b1c2",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Counting",
+            "length": "3:38",
+            "deezer": {
+              "id": 15177025,
+              "link": "https://www.deezer.com/track/15177025",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/f/0/d0f38895af6527e81c122c171f3c49d3.mp3?hdnea=exp=1795656286~acl=/api/1/1/d/0/f/0/d0f38895af6527e81c122c171f3c49d3.mp3*~data=user_id=0,application_id=42~hmac=57c5f19435a5334c836f6f7edafd9011334ee1e452fe3a8459b50ce853ec7364",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Dirty",
+            "length": "7:50",
+            "deezer": {
+              "id": 15175515,
+              "link": "https://www.deezer.com/track/15175515",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/2/0/d822be340840854ce642342e8c1e40e1.mp3?hdnea=exp=1795656286~acl=/api/1/1/d/8/2/0/d822be340840854ce642342e8c1e40e1.mp3*~data=user_id=0,application_id=42~hmac=0032239184e20c5caf4d1f0cad31208b813298abfa3e9ad9bad2b2a784fcf358",
+              "preview_expires": "2026-11-26T01:24:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Korn/Issues.jpg"
+}

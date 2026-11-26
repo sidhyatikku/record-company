@@ -1,0 +1,155 @@
+{
+  "title": "Every Picture Tells a Story",
+  "artist": "Rod Stewart",
+  "year": 1971,
+  "release_date": "1971-05-18",
+  "type": "Album",
+  "description": "Every Picture Tells a Story is the third studio album by British singer-songwriter Rod Stewart, released on 28 May 1971, by Mercury Records. It incorporates hard rock, folk, and blues styles. It went to number one on both the UK and US charts and finished third in the Jazz & Pop critics' poll for best album of 1971. It has been an enduring critical success, including being ranked number 172 on Rolling Stone's 2003 list of the \"500 Greatest Albums of All Time\", repositioned to number 177 in the 2020 revision.",
+  "genres": [
+    "rock",
+    "folk rock",
+    "pop",
+    "blues rock",
+    "pop rock",
+    "classic rock",
+    "roots rock",
+    "soft rock",
+    "hard rock"
+  ],
+  "tags": [
+    "rock",
+    "folk rock",
+    "pop",
+    "blues rock",
+    "pop rock",
+    "classic rock",
+    "roots rock",
+    "soft rock",
+    "hard rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.25,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d4e7be0c-6db3-372e-aee6-e048dbb9ac51",
+    "wikipedia": "https://en.wikipedia.org/wiki/Every_Picture_Tells_a_Story",
+    "allmusic": "https://www.allmusic.com/album/mw0000191890",
+    "discogs": "https://www.discogs.com/master/68324",
+    "wikidata": "https://www.wikidata.org/wiki/Q993764",
+    "deezer": "https://www.deezer.com/album/70198672"
+  },
+  "musicbrainz_id": "d4e7be0c-6db3-372e-aee6-e048dbb9ac51",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5e09b451-488d-4008-a002-5820a71fe6bb",
+      "barcode": "00602567825975",
+      "title": "Every Picture Tells a Story",
+      "disambiguation": null,
+      "date": "1971-05-18",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "40:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Every Picture Tells a Story",
+            "length": "6:01",
+            "deezer": {
+              "id": 538646222,
+              "link": "https://www.deezer.com/track/538646222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/2/0/122dc00fbc844ce97a2158ad7877837a.mp3?hdnea=exp=1795720152~acl=/api/1/1/1/2/2/0/122dc00fbc844ce97a2158ad7877837a.mp3*~data=user_id=0,application_id=42~hmac=72311ab58602641c0afe8d409d448b1ced3473294bb2d14a0f7c06251262447a",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Seems Like a Long Time",
+            "length": "4:03",
+            "deezer": {
+              "id": 538646232,
+              "link": "https://www.deezer.com/track/538646232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/a/0/3aa05bc720fcd0ab8dd0d3d356f03dea.mp3?hdnea=exp=1795720152~acl=/api/1/1/3/a/a/0/3aa05bc720fcd0ab8dd0d3d356f03dea.mp3*~data=user_id=0,application_id=42~hmac=18c6cec2ec9a150dd4de80732cea78216313901655b47bc374a51b83c0ab5564",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "That’s All Right",
+            "length": "6:00",
+            "deezer": {
+              "id": 538646242,
+              "link": "https://www.deezer.com/track/538646242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/a/0/90a8a65cfbbaecb7de21ae5547eec97d.mp3?hdnea=exp=1795720152~acl=/api/1/1/9/0/a/0/90a8a65cfbbaecb7de21ae5547eec97d.mp3*~data=user_id=0,application_id=42~hmac=e1b0aeaa0c01b074643e96b5a2a6c8220b66f72e9d7eeab0ddb737bd7345cd9c",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tomorrow Is a Long Time",
+            "length": "3:44",
+            "deezer": {
+              "id": 538646252,
+              "link": "https://www.deezer.com/track/538646252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/6/0/4d6275dfc810aa030d3b0c9310e02b3a.mp3?hdnea=exp=1795720152~acl=/api/1/1/4/d/6/0/4d6275dfc810aa030d3b0c9310e02b3a.mp3*~data=user_id=0,application_id=42~hmac=e23cda25409f7a44375920720c8c4355bc7b8cea5de609ff97a8779089c53912",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Maggie May",
+            "length": "5:55",
+            "deezer": {
+              "id": 538646262,
+              "link": "https://www.deezer.com/track/538646262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/6/0/7166ab676e2618e48dc4e6c81ccbcec0.mp3?hdnea=exp=1795720152~acl=/api/1/1/7/1/6/0/7166ab676e2618e48dc4e6c81ccbcec0.mp3*~data=user_id=0,application_id=42~hmac=8841ce8fd9cff018e9cf0f7048a3e75c58a49c9f46aef5955eb6e06c0b80e85a",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mandolin Wind",
+            "length": "5:33",
+            "deezer": {
+              "id": 538646272,
+              "link": "https://www.deezer.com/track/538646272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/6/0/116aa8c0d09305d8f397ebf83c8cb0fb.mp3?hdnea=exp=1795720152~acl=/api/1/1/1/1/6/0/116aa8c0d09305d8f397ebf83c8cb0fb.mp3*~data=user_id=0,application_id=42~hmac=b6b68b2d3714184a1940e6ff3379728adaf9dd16a21ea0e23aeb5fa79d773f16",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "(I Know) I’m Losing You",
+            "length": "5:22",
+            "deezer": {
+              "id": 538646282,
+              "link": "https://www.deezer.com/track/538646282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/9/0/5a9a4f38996b43fa92a623dc232eba78.mp3?hdnea=exp=1795720152~acl=/api/1/1/5/a/9/0/5a9a4f38996b43fa92a623dc232eba78.mp3*~data=user_id=0,application_id=42~hmac=a7de059f366d9a1a40f7e6793264a16f4da3e1d33925fddc13f8ff99b67c85c7",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "(Find A) Reason to Believe",
+            "length": "4:05",
+            "deezer": {
+              "id": 538646292,
+              "link": "https://www.deezer.com/track/538646292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/c/0/87cda05529e5e08c3c50ce8e8a34dde0.mp3?hdnea=exp=1795720152~acl=/api/1/1/8/7/c/0/87cda05529e5e08c3c50ce8e8a34dde0.mp3*~data=user_id=0,application_id=42~hmac=d7cd31a32f79488b8cd7cec8e180708b4bbc094ba2c42459c3b4a1ddec8b90b3",
+              "preview_expires": "2026-11-26T19:09:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Rod Stewart/Every Picture Tells A Story.jpg"
+}

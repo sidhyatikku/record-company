@@ -1,0 +1,45 @@
+{
+  "title": "NAKHRE",
+  "artist": "MC Amrit, GHILDIYAL & Eyepatch",
+  "year": 2023,
+  "release_date": "2023-05-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a984a122-cbbb-4466-b377-33f3d49cb621",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "a984a122-cbbb-4466-b377-33f3d49cb621",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7789390e-1ae6-49fb-b67c-03df560c44a7",
+      "barcode": null,
+      "title": "NAKHRE",
+      "disambiguation": null,
+      "date": "2023-05-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "NAKHRE",
+            "length": "2:56"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/MC Amrit/NAKHRE.jpg"
+}

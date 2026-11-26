@@ -1,0 +1,177 @@
+{
+  "title": "Canned Heat",
+  "artist": "Canned Heat",
+  "year": 1967,
+  "release_date": "1967-01-01",
+  "type": "Album",
+  "description": "Canned Heat is the debut studio album by American blues rock band Canned Heat, released shortly after their appearance at the 1967 Monterey Pop Festival. The album consists of covers of traditional and popular blues songs.",
+  "genres": [
+    "blues",
+    "blues rock",
+    "boogie rock",
+    "electric blues",
+    "rock"
+  ],
+  "tags": [
+    "blues",
+    "blues rock",
+    "boogie rock",
+    "electric blues",
+    "rock",
+    "self-titled"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/01465a39-2fb3-3ac9-a778-acb576e5b8d2",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canned_Heat_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000840238",
+    "discogs": "https://www.discogs.com/master/234708",
+    "wikidata": "https://www.wikidata.org/wiki/Q1638306",
+    "deezer": "https://www.deezer.com/album/8619800"
+  },
+  "musicbrainz_id": "01465a39-2fb3-3ac9-a778-acb576e5b8d2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b6696c8b-6f05-4fbe-a8f2-e2322ad59d9a",
+      "barcode": "00602547019943",
+      "title": "Canned Heat",
+      "disambiguation": null,
+      "date": "1967-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "38:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rollin' And Tumblin'",
+            "length": "3:11",
+            "deezer": {
+              "id": 85495968,
+              "link": "https://www.deezer.com/track/85495968",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/a/0/78a46f37394ad89f37598921a8afc1d2.mp3?hdnea=exp=1795652665~acl=/api/1/1/7/8/a/0/78a46f37394ad89f37598921a8afc1d2.mp3*~data=user_id=0,application_id=42~hmac=a71ff4ad3130c8a52cbf3a16ac59b502315ded69e5ea56ebd72f142dd58f5dd0",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bullfrog Blues",
+            "length": "2:20",
+            "deezer": {
+              "id": 85495970,
+              "link": "https://www.deezer.com/track/85495970",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/2/0/9023e055b0883f855d7d0aed758a0c9e.mp3?hdnea=exp=1795652665~acl=/api/1/1/9/0/2/0/9023e055b0883f855d7d0aed758a0c9e.mp3*~data=user_id=0,application_id=42~hmac=51ef74156618d24ce9077c8c695747819ea1298aec4c0daac1a15307ef5521dc",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Evil Is Going On",
+            "length": "2:24",
+            "deezer": {
+              "id": 85495972,
+              "link": "https://www.deezer.com/track/85495972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/9/0/ed9d878992f6c6359849dc56bb419ab6.mp3?hdnea=exp=1795652665~acl=/api/1/1/e/d/9/0/ed9d878992f6c6359849dc56bb419ab6.mp3*~data=user_id=0,application_id=42~hmac=737132805ad8d605ee1529a593c12ae2524958322a9f5823d2b5dd777bf04361",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Goin' Down Slow",
+            "length": "3:49",
+            "deezer": {
+              "id": 85495974,
+              "link": "https://www.deezer.com/track/85495974",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/9/0/68964588554961c436a166b09439c9e0.mp3?hdnea=exp=1795652665~acl=/api/1/1/6/8/9/0/68964588554961c436a166b09439c9e0.mp3*~data=user_id=0,application_id=42~hmac=2fc207810793921d146ef87b1829c6342ec506a9a25f78170f6be6bbef13720e",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Catfish Blues",
+            "length": "6:48",
+            "deezer": {
+              "id": 85495976,
+              "link": "https://www.deezer.com/track/85495976",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/0/0/630dd022d4bdd6c4f8e97e6867d2ff0a.mp3?hdnea=exp=1795652665~acl=/api/1/1/6/3/0/0/630dd022d4bdd6c4f8e97e6867d2ff0a.mp3*~data=user_id=0,application_id=42~hmac=e6d6f0b52a40cb2ece3029213490ae6856cba371b3275dfa4b34bd34774753b4",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dust My Broom",
+            "length": "3:19",
+            "deezer": {
+              "id": 85495978,
+              "link": "https://www.deezer.com/track/85495978",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/2/0/fb2b2e2f6a369cf261c497785fca3a73.mp3?hdnea=exp=1795652665~acl=/api/1/1/f/b/2/0/fb2b2e2f6a369cf261c497785fca3a73.mp3*~data=user_id=0,application_id=42~hmac=796d5438a07f590c9339fa57fae9be121ff85f98a791c07dae743812a7a36c39",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Help Me",
+            "length": "3:13",
+            "deezer": {
+              "id": 85495980,
+              "link": "https://www.deezer.com/track/85495980",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/3/0/263bf3b28e77b614263abae07010a5f2.mp3?hdnea=exp=1795652665~acl=/api/1/1/2/6/3/0/263bf3b28e77b614263abae07010a5f2.mp3*~data=user_id=0,application_id=42~hmac=73f9a4225cb6c1d4e5f2be69d2d81f3480a025ded1136e50f34e18ef3ffd28c7",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Big Road Blues",
+            "length": "3:16",
+            "deezer": {
+              "id": 85495982,
+              "link": "https://www.deezer.com/track/85495982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/d/0/c9d3cd1179199a2f0aeb5aa4cda4ef6b.mp3?hdnea=exp=1795652665~acl=/api/1/1/c/9/d/0/c9d3cd1179199a2f0aeb5aa4cda4ef6b.mp3*~data=user_id=0,application_id=42~hmac=cd50632d426aa106a121f509170493da9f1b7640f700d0f2a44aca36f5306479",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Story Of My Life",
+            "length": "3:43",
+            "deezer": {
+              "id": 85495984,
+              "link": "https://www.deezer.com/track/85495984",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/b/0/adb9918fb5e554b65942b3f342506951.mp3?hdnea=exp=1795652665~acl=/api/1/1/a/d/b/0/adb9918fb5e554b65942b3f342506951.mp3*~data=user_id=0,application_id=42~hmac=fdbca1ab8c07c0b9e6beb2193397303f9281673aa23a1376d3c706d36ac2e631",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Road Song",
+            "length": "3:16",
+            "deezer": {
+              "id": 85495986,
+              "link": "https://www.deezer.com/track/85495986",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/0/0/b10446767abc9ea972baeeb3235ca950.mp3?hdnea=exp=1795652665~acl=/api/1/1/b/1/0/0/b10446767abc9ea972baeeb3235ca950.mp3*~data=user_id=0,application_id=42~hmac=92e680cb56e404243709a8b9345926f46a75000b8c3d2d1c9a3de3eec096d2f3",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Rich Woman",
+            "length": "3:04",
+            "deezer": {
+              "id": 85495988,
+              "link": "https://www.deezer.com/track/85495988",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/9/0/5a98f24a60885b4b959ac6072de9aa2c.mp3?hdnea=exp=1795652665~acl=/api/1/1/5/a/9/0/5a98f24a60885b4b959ac6072de9aa2c.mp3*~data=user_id=0,application_id=42~hmac=2db88c6ebc9d07937b544d75bae763bb33a15eb056d2ede7d97446a28a3281a7",
+              "preview_expires": "2026-11-26T00:24:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Canned Heat/Canned Heat.jpg"
+}

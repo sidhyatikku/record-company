@@ -1,0 +1,68 @@
+{
+  "title": "Sundress",
+  "artist": "A$AP Rocky",
+  "year": 2018,
+  "release_date": "2018-11-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "ambient",
+    "electronic",
+    "indie pop",
+    "jazz",
+    "neo-psychedelia",
+    "pop rap",
+    "psychedelic pop"
+  ],
+  "tags": [
+    "ambient",
+    "electronic",
+    "indie pop",
+    "jazz",
+    "neo-psychedelia",
+    "pop rap",
+    "psychedelic pop",
+    "rhythm and blues"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/33ac64a9-f6e2-464a-aa94-f402ac4eafa8",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/79004672"
+  },
+  "musicbrainz_id": "33ac64a9-f6e2-464a-aa94-f402ac4eafa8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/89d1ca18-02cc-44b5-bbeb-398682484a46",
+      "barcode": "886447427453",
+      "title": "Sundress",
+      "disambiguation": "explicit",
+      "date": "2018-11-23",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "2:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sundress",
+            "length": "2:38",
+            "deezer": {
+              "id": 587756192,
+              "link": "https://www.deezer.com/track/587756192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/4/0/5a4a70d2845380ddfa1df3a2444c5ec9.mp3?hdnea=exp=1795648705~acl=/api/1/1/5/a/4/0/5a4a70d2845380ddfa1df3a2444c5ec9.mp3*~data=user_id=0,application_id=42~hmac=c37d43d57854be66956feb38f657a2f1c4326cec25e09b58bf5e093dc691d550",
+              "preview_expires": "2026-11-25T23:18:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/A$AP Rocky/Sundress.jpg"
+}

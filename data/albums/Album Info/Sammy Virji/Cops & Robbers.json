@@ -1,0 +1,55 @@
+{
+  "title": "Cops & Robbers",
+  "artist": "Sammy Virji & Skepta",
+  "year": 2025,
+  "release_date": "2025-05-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "tags": [
+    "uk garage"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/73b9ec89-eb09-4cad-8c13-017958bca336",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/761106531"
+  },
+  "musicbrainz_id": "73b9ec89-eb09-4cad-8c13-017958bca336",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0de01b1b-b51b-41fc-9ccb-dc7a9a6e1486",
+      "barcode": "00602478380068",
+      "title": "Cops & Robbers",
+      "disambiguation": null,
+      "date": "2025-05-29",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cops & Robbers",
+            "length": "2:41",
+            "deezer": {
+              "id": 3380052561,
+              "link": "https://www.deezer.com/track/3380052561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/4/0/7f4d7c8bd0f0fba0068fbb06a1d15c24.mp3?hdnea=exp=1795720300~acl=/api/1/1/7/f/4/0/7f4d7c8bd0f0fba0068fbb06a1d15c24.mp3*~data=user_id=0,application_id=42~hmac=6076bf74ec8b896c1ee5d84c461c6b184e7ad9618f53cedf5ab3f69c071b6919",
+              "preview_expires": "2026-11-26T19:11:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sammy Virji/Cops & Robbers.jpg"
+}

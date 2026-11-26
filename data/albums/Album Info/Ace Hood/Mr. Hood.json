@@ -1,0 +1,201 @@
+{
+  "title": "Mr. Hood",
+  "artist": "Ace Hood",
+  "year": 2020,
+  "release_date": "2020-05-29",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "southern hip hop"
+  ],
+  "tags": [
+    "southern hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a70f7078-c6d9-4a6e-a798-74ae32cc254b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/137053212"
+  },
+  "musicbrainz_id": "a70f7078-c6d9-4a6e-a798-74ae32cc254b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fee449b1-8cbd-4f24-ba9c-c7ec88ee6762",
+      "barcode": "194690149184",
+      "title": "Mr. Hood",
+      "disambiguation": null,
+      "date": "2020-05-29",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "43:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "We Ball",
+            "length": "3:21",
+            "deezer": {
+              "id": 907295812,
+              "link": "https://www.deezer.com/track/907295812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/f/0/58fb3efd4daaade6b9773e0f726fd0b3.mp3?hdnea=exp=1795648882~acl=/api/1/1/5/8/f/0/58fb3efd4daaade6b9773e0f726fd0b3.mp3*~data=user_id=0,application_id=42~hmac=9068fb93699d1e09e000cf63f5ddb5b9635f4e586f7e2366f14cab337e0707ee",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Say Less",
+            "length": "3:16",
+            "artist": "Ace Hood & Slim Diesel",
+            "deezer": {
+              "id": 907295822,
+              "link": "https://www.deezer.com/track/907295822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/4/0/3248f75ffa06caca8fee88927b62dd8f.mp3?hdnea=exp=1795648882~acl=/api/1/1/3/2/4/0/3248f75ffa06caca8fee88927b62dd8f.mp3*~data=user_id=0,application_id=42~hmac=8017449d42b302cf4e7d09882ddb4d3ef29264c4b9957fb1e981bd90015d1e91",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Casino",
+            "length": "3:53",
+            "artist": "Ace Hood feat. Alexdynamix & Oz",
+            "deezer": {
+              "id": 907295832,
+              "link": "https://www.deezer.com/track/907295832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/5/0/295c272163547a8a9c894011240cf465.mp3?hdnea=exp=1795648882~acl=/api/1/1/2/9/5/0/295c272163547a8a9c894011240cf465.mp3*~data=user_id=0,application_id=42~hmac=22e98fa92db70d91aa3d46848798665446932b86f7fc14c5d17aa293cdb3db5c",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Big Fish",
+            "length": "2:52",
+            "deezer": {
+              "id": 907295842,
+              "link": "https://www.deezer.com/track/907295842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/0/0/b00daabd6ced99338e2e2ee1ececbc1d.mp3?hdnea=exp=1795648882~acl=/api/1/1/b/0/0/0/b00daabd6ced99338e2e2ee1ececbc1d.mp3*~data=user_id=0,application_id=42~hmac=02f4616c05b230cbc302e99b3fd2fef6ce29da65e86d4438d7099366569e2c99",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "12 O’Clock",
+            "length": "3:54",
+            "artist": "Ace Hood feat. Jacquees",
+            "deezer": {
+              "id": 907295852,
+              "link": "https://www.deezer.com/track/907295852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/3/0/da3679d6d10f4266a10016ff6092c336.mp3?hdnea=exp=1795648882~acl=/api/1/1/d/a/3/0/da3679d6d10f4266a10016ff6092c336.mp3*~data=user_id=0,application_id=42~hmac=f36cd1981f14b639f97a5f7f2386e448bdd931ba56475404f0514317df644a66",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Eiffel",
+            "length": "3:00",
+            "deezer": {
+              "id": 907295862,
+              "link": "https://www.deezer.com/track/907295862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/1/0/3111bfcfd0427933de845eb93a5b8ae9.mp3?hdnea=exp=1795648882~acl=/api/1/1/3/1/1/0/3111bfcfd0427933de845eb93a5b8ae9.mp3*~data=user_id=0,application_id=42~hmac=dca7bd5520a2494fb545ddc9f29770f55eed9f51869b4e821addf7e4e4be0be0",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Remember Nights",
+            "length": "3:05",
+            "deezer": {
+              "id": 907295872,
+              "link": "https://www.deezer.com/track/907295872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/2/0/7e2e4e552b8af168cfef2ceb706f8af8.mp3?hdnea=exp=1795648882~acl=/api/1/1/7/e/2/0/7e2e4e552b8af168cfef2ceb706f8af8.mp3*~data=user_id=0,application_id=42~hmac=4e7bea25e5d8483d9966fb16f59b4a422faf39654dc6ce0a59b0e3e7ebdec75d",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Look in My Eyes",
+            "length": "3:46",
+            "deezer": {
+              "id": 907295882,
+              "link": "https://www.deezer.com/track/907295882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/8/0/8485f379978c4b273bdf22af4d3d1454.mp3?hdnea=exp=1795648882~acl=/api/1/1/8/4/8/0/8485f379978c4b273bdf22af4d3d1454.mp3*~data=user_id=0,application_id=42~hmac=bf80e81f35f2101b84d8c145bb58138020145a5d031726eaedd2c7f129f5ffe5",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sexy Mufugga",
+            "length": "2:51",
+            "deezer": {
+              "id": 907295892,
+              "link": "https://www.deezer.com/track/907295892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/d/0/d7d370c657444701672c75d03c512d99.mp3?hdnea=exp=1795648882~acl=/api/1/1/d/7/d/0/d7d370c657444701672c75d03c512d99.mp3*~data=user_id=0,application_id=42~hmac=49fdbb7aa6f0475a955b32689c7ec9700904345fa929165a7024398a4bbc3bb3",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Trampoline",
+            "length": "2:08",
+            "deezer": {
+              "id": 907295902,
+              "link": "https://www.deezer.com/track/907295902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/4/0/c04e1e73c36faffd60a3a30db2229d20.mp3?hdnea=exp=1795648882~acl=/api/1/1/c/0/4/0/c04e1e73c36faffd60a3a30db2229d20.mp3*~data=user_id=0,application_id=42~hmac=e41b80b906ea78a99c7d3c2599b585d9dd0f2734373c7ab4470bab008dda2f12",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Facts",
+            "length": "2:56",
+            "deezer": {
+              "id": 907295912,
+              "link": "https://www.deezer.com/track/907295912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/4/0/304f5a43a428baf608caf4c4c7a0cf6c.mp3?hdnea=exp=1795648882~acl=/api/1/1/3/0/4/0/304f5a43a428baf608caf4c4c7a0cf6c.mp3*~data=user_id=0,application_id=42~hmac=134ecabf2f60170c4c1ec992995c5cd5b74b465fda6cbccd2ac4f651c822373c",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Neva Say",
+            "length": "2:21",
+            "deezer": {
+              "id": 907295922,
+              "link": "https://www.deezer.com/track/907295922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/e/0/c7ebc195c1bcfe69b132df21c225ba26.mp3?hdnea=exp=1795648882~acl=/api/1/1/c/7/e/0/c7ebc195c1bcfe69b132df21c225ba26.mp3*~data=user_id=0,application_id=42~hmac=43cbf7dfe2f108dd068a8098cf8a6e969efc9bde9137c7845d5549f4255460f9",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Confident",
+            "length": "3:07",
+            "deezer": {
+              "id": 907295932,
+              "link": "https://www.deezer.com/track/907295932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/1/0/ee108ecd895fd6e8ec2aafe04fb2dba3.mp3?hdnea=exp=1795648882~acl=/api/1/1/e/e/1/0/ee108ecd895fd6e8ec2aafe04fb2dba3.mp3*~data=user_id=0,application_id=42~hmac=0ed5fa5e2927124094cab0cb9341e20e6608c5b0dedd50dc8b78a92f772f99b7",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Popovitch",
+            "length": "2:52",
+            "deezer": {
+              "id": 907295942,
+              "link": "https://www.deezer.com/track/907295942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/2/0/e524361d51533176fd3a97d0737beda3.mp3?hdnea=exp=1795648882~acl=/api/1/1/e/5/2/0/e524361d51533176fd3a97d0737beda3.mp3*~data=user_id=0,application_id=42~hmac=f16fc07beb720894d59a3ea7181256f4155fbead005c964629c9921d81c5f4f8",
+              "preview_expires": "2026-11-25T23:21:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Ace Hood/Mr. Hood.jpg"
+}

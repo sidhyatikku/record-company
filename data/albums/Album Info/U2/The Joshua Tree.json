@@ -1,0 +1,642 @@
+{
+  "title": "The Joshua Tree",
+  "artist": "U2",
+  "year": 1987,
+  "release_date": "1987-03-09",
+  "type": "Album",
+  "description": "The Joshua Tree is the fifth studio album by the Irish rock band U2. It was produced by Daniel Lanois and Brian Eno, and was released on 9 March 1987 by Island Records. In contrast to the ambient experimentation of their 1984 album The Unforgettable Fire, for The Joshua Tree the band aimed for a harder-hitting sound within the limitation of conventional song structures. The album is influenced by American and Irish roots music, and through sociopolitically conscious lyrics embellished with spiritual imagery, it contrasts the group's antipathy for the \"real America\" with their fascination with the \"mythical America\". The record's theme was inspired by their experiences in the United States, as well as American literature and politics.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "alternative rock",
+    "post-punk",
+    "blues",
+    "pop",
+    "electronic",
+    "heartland rock",
+    "indie rock"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "adult alternative rock",
+    "alternative rock",
+    "post-punk",
+    "album rock",
+    "ireland",
+    "1987",
+    "blues",
+    "pop",
+    "alternative pop/rock",
+    "alternative/indie rock",
+    "college rock",
+    "contemporary pop/rock",
+    "electronic",
+    "heartland rock",
+    "indie rock",
+    "irish",
+    "irlandais",
+    "irlande",
+    "pop/rock",
+    "rock ballad",
+    "vyrzukhisuc-album"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 40
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Joshua_Tree",
+    "allmusic": "https://www.allmusic.com/album/mw0000196162",
+    "discogs": "https://www.discogs.com/master/64290",
+    "wikidata": "https://www.wikidata.org/wiki/Q152873",
+    "deezer": "https://www.deezer.com/album/42217921"
+  },
+  "musicbrainz_id": "6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c17f275b-59cc-4578-a502-d15a656e5fc2",
+      "barcode": "00602557527414",
+      "title": "The Joshua Tree",
+      "disambiguation": "super deluxe",
+      "date": "2017-06-02",
+      "country": "AL"
+    },
+    "total_tracks": 49,
+    "total_length": "3:37:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Where the Streets Have No Name",
+            "length": "5:38",
+            "deezer": {
+              "id": 366440291,
+              "link": "https://www.deezer.com/track/366440291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/b/0/82b39f91e7571ded93eccabdb2b37836.mp3?hdnea=exp=1795722109~acl=/api/1/1/8/2/b/0/82b39f91e7571ded93eccabdb2b37836.mp3*~data=user_id=0,application_id=42~hmac=ce8e849422b08f40da131f679fc0f748c21da1e3451f8ad19e7190420481b61b",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Still Haven’t Found What I’m Looking For",
+            "length": "4:37",
+            "deezer": {
+              "id": 366440301,
+              "link": "https://www.deezer.com/track/366440301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/4/0/e84eee429c7b22443d678cad2100cc37.mp3?hdnea=exp=1795722109~acl=/api/1/1/e/8/4/0/e84eee429c7b22443d678cad2100cc37.mp3*~data=user_id=0,application_id=42~hmac=bf542d1119382e54af6c751755e921c49b23c3e9fbb5934d96512dc898590c88",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "With or Without You",
+            "length": "4:56",
+            "deezer": {
+              "id": 366440311,
+              "link": "https://www.deezer.com/track/366440311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/a/0/0aa613fd3e899a54f4fec23d0812dc94.mp3?hdnea=exp=1795722109~acl=/api/1/1/0/a/a/0/0aa613fd3e899a54f4fec23d0812dc94.mp3*~data=user_id=0,application_id=42~hmac=b20bf1f94d1762b65dfbce8487fb4e5c960e9f93874d334be203a58b888778c9",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bullet the Blue Sky",
+            "length": "4:32",
+            "deezer": {
+              "id": 366440321,
+              "link": "https://www.deezer.com/track/366440321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/8/0/8584f7689f95de0c49dc9f24079349ba.mp3?hdnea=exp=1795722109~acl=/api/1/1/8/5/8/0/8584f7689f95de0c49dc9f24079349ba.mp3*~data=user_id=0,application_id=42~hmac=2cf7f32f1ceebb1bf204dbdd913f45e1e3ee38afe4fb2141760c5200642baf82",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Running to Stand Still",
+            "length": "4:17",
+            "deezer": {
+              "id": 366440331,
+              "link": "https://www.deezer.com/track/366440331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/c/0/adcbbab203c70ed18d82a1e958a55470.mp3?hdnea=exp=1795722109~acl=/api/1/1/a/d/c/0/adcbbab203c70ed18d82a1e958a55470.mp3*~data=user_id=0,application_id=42~hmac=a3b27bd0789c275cef1f16781ae2316410226e6a7a55bca5a58773b451985eeb",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Red Hill Mining Town",
+            "length": "4:53",
+            "deezer": {
+              "id": 366440341,
+              "link": "https://www.deezer.com/track/366440341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/c/0/fac6ea073b98442be65e3748c168df64.mp3?hdnea=exp=1795722109~acl=/api/1/1/f/a/c/0/fac6ea073b98442be65e3748c168df64.mp3*~data=user_id=0,application_id=42~hmac=c66ebda14e94c16334338fd1fdcd740feccf413ab771ccc75d2e10fc691f13b1",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "In God’s Country",
+            "length": "2:57",
+            "deezer": {
+              "id": 366440351,
+              "link": "https://www.deezer.com/track/366440351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/e/0/1be03dae5300cdcf5b1ce2a8895e0f28.mp3?hdnea=exp=1795722109~acl=/api/1/1/1/b/e/0/1be03dae5300cdcf5b1ce2a8895e0f28.mp3*~data=user_id=0,application_id=42~hmac=2365254c151b112e48e75f3966af6808dd9250f4211c8a82d247e59c2eb005f1",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Trip Through Your Wires",
+            "length": "3:32",
+            "deezer": {
+              "id": 366440361,
+              "link": "https://www.deezer.com/track/366440361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/2/0/4c20d01a9958c62c0803a5ab8ff7a47a.mp3?hdnea=exp=1795722109~acl=/api/1/1/4/c/2/0/4c20d01a9958c62c0803a5ab8ff7a47a.mp3*~data=user_id=0,application_id=42~hmac=fcd04915c35656f035f4b4a53f4f74d2095149820c0a566a1dca16cc1096b9be",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "One Tree Hill",
+            "length": "5:22",
+            "deezer": {
+              "id": 366440371,
+              "link": "https://www.deezer.com/track/366440371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/b/0/40b68edfe784e24f566c7516cd7b2ac3.mp3?hdnea=exp=1795722109~acl=/api/1/1/4/0/b/0/40b68edfe784e24f566c7516cd7b2ac3.mp3*~data=user_id=0,application_id=42~hmac=1e02586660427c2d2a9a628995146a8788931f7de30e447c7a497a7ec3b83bc6",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Exit",
+            "length": "4:13",
+            "deezer": {
+              "id": 366440381,
+              "link": "https://www.deezer.com/track/366440381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/e/0/bfe73e7dbd6176724962445c8eb8110d.mp3?hdnea=exp=1795722109~acl=/api/1/1/b/f/e/0/bfe73e7dbd6176724962445c8eb8110d.mp3*~data=user_id=0,application_id=42~hmac=8e9e6cf73804c1bdcd90dcdba1f3c05bc5ce20ae1b2df144d94783eb69509a18",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Mothers of the Disappeared",
+            "length": "5:14",
+            "deezer": {
+              "id": 366440391,
+              "link": "https://www.deezer.com/track/366440391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/0/0/030e1b7cb3366e03c095dba14f31dc60.mp3?hdnea=exp=1795722109~acl=/api/1/1/0/3/0/0/030e1b7cb3366e03c095dba14f31dc60.mp3*~data=user_id=0,application_id=42~hmac=43d694edcdc077b9e849d2e4883d7aa733147da38052424251dba0e3e2f8eb02",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Where the Streets Have No Name (live)",
+            "length": "6:30",
+            "deezer": {
+              "id": 366440401,
+              "link": "https://www.deezer.com/track/366440401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/c/0/4ec32cd812e83846470fceee9e6c91a9.mp3?hdnea=exp=1795722109~acl=/api/1/1/4/e/c/0/4ec32cd812e83846470fceee9e6c91a9.mp3*~data=user_id=0,application_id=42~hmac=5897243493d0a42b43e3192d216cefa5db9cf306476163810ad6552bc7d75ce7",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Will Follow (live)",
+            "length": "3:59",
+            "deezer": {
+              "id": 366440411,
+              "link": "https://www.deezer.com/track/366440411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/d/0/06dd5b4fb143a4e752307178e6ea081e.mp3?hdnea=exp=1795722109~acl=/api/1/1/0/6/d/0/06dd5b4fb143a4e752307178e6ea081e.mp3*~data=user_id=0,application_id=42~hmac=ce24fb904e3335f71cee6df17b7ecea0c88475ab3f8e3e05b5d0c205fba00e04",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Trip Through Your Wires (live)",
+            "length": "3:46",
+            "deezer": {
+              "id": 366440421,
+              "link": "https://www.deezer.com/track/366440421",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e538ad8257a352125f8692f81285a1e6.mp3?hdnea=exp=1795722109~acl=/api/1/1/e/5/3/0/e538ad8257a352125f8692f81285a1e6.mp3*~data=user_id=0,application_id=42~hmac=0bfc5becca4eef2facb8eed1a10f4fa5959e41164de22f95181de96c09ebdf97",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Medley: I Still Haven’t Found What I’m Looking For / Exodus (live)",
+            "length": "5:51",
+            "deezer": {
+              "id": 366440431,
+              "link": "https://www.deezer.com/track/366440431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/1/0/091f50e5fa73c9832e83163a0531e924.mp3?hdnea=exp=1795722109~acl=/api/1/1/0/9/1/0/091f50e5fa73c9832e83163a0531e924.mp3*~data=user_id=0,application_id=42~hmac=82146c3a1ce839cc626ad634c6a569c8cfa978219bf7ff95b1bb45321e6b2041",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "MLK (live)",
+            "length": "2:02",
+            "deezer": {
+              "id": 366440441,
+              "link": "https://www.deezer.com/track/366440441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/8/0/1c84600a4c403e54915609b8d10d6d28.mp3?hdnea=exp=1795722109~acl=/api/1/1/1/c/8/0/1c84600a4c403e54915609b8d10d6d28.mp3*~data=user_id=0,application_id=42~hmac=33c47460cc37fc9685a6e0f79e82a68baeb7c45120e404761d333d79af453ccf",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Bullet the Blue Sky (live)",
+            "length": "5:48",
+            "deezer": {
+              "id": 366440451,
+              "link": "https://www.deezer.com/track/366440451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/3/0/7c30922125804a5e249718d1a3f9e47a.mp3?hdnea=exp=1795722109~acl=/api/1/1/7/c/3/0/7c30922125804a5e249718d1a3f9e47a.mp3*~data=user_id=0,application_id=42~hmac=cb599f3b2ba7c35b254393878f4d4a219a1baae2186555b7f6e861c4b14f9dd0",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Running to Stand Still (live)",
+            "length": "4:45",
+            "deezer": {
+              "id": 366440461,
+              "link": "https://www.deezer.com/track/366440461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/1/0/131a36c6ffe93a1facff4b8f85300f9f.mp3?hdnea=exp=1795722109~acl=/api/1/1/1/3/1/0/131a36c6ffe93a1facff4b8f85300f9f.mp3*~data=user_id=0,application_id=42~hmac=3b0a737c4b0b1c1b7ebc04903792075d9f2a2a9c5469a073cf1ce984275f5414",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "In God’s Country (live)",
+            "length": "2:49",
+            "deezer": {
+              "id": 366440471,
+              "link": "https://www.deezer.com/track/366440471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/7/0/a179c0b7368d142c5aa06914a86c8bc2.mp3?hdnea=exp=1795722109~acl=/api/1/1/a/1/7/0/a179c0b7368d142c5aa06914a86c8bc2.mp3*~data=user_id=0,application_id=42~hmac=2846db9143add1432cde226df5c96b9428daed3f5260223b7594c7a0111e8fd1",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sunday Bloody Sunday (live)",
+            "length": "4:13",
+            "deezer": {
+              "id": 366440481,
+              "link": "https://www.deezer.com/track/366440481",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/e/0/e3e2b0044f21d1b4ab330ae4d515aa28.mp3?hdnea=exp=1795722109~acl=/api/1/1/e/3/e/0/e3e2b0044f21d1b4ab330ae4d515aa28.mp3*~data=user_id=0,application_id=42~hmac=e3017786c766cc93d6cb9cc0d67266b22edf0ab6648910a9c423e88d4839c628",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Medley: Exit / Gloria (live)",
+            "length": "4:40",
+            "deezer": {
+              "id": 366440491,
+              "link": "https://www.deezer.com/track/366440491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/f/0/d0ff8b8d991d50d51977b59f3253f6e4.mp3?hdnea=exp=1795722109~acl=/api/1/1/d/0/f/0/d0ff8b8d991d50d51977b59f3253f6e4.mp3*~data=user_id=0,application_id=42~hmac=321888d76f1b39c87674fa1ef8dbbf13ba9a8798a861afe97066790370409ad9",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "October (live)",
+            "length": "2:05",
+            "deezer": {
+              "id": 366440501,
+              "link": "https://www.deezer.com/track/366440501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/e/0/bdec427ae79a0811216d3fffd4ea671c.mp3?hdnea=exp=1795722109~acl=/api/1/1/b/d/e/0/bdec427ae79a0811216d3fffd4ea671c.mp3*~data=user_id=0,application_id=42~hmac=92fb4c5ad63a42928359e0bfbaee2a4d732cd7782be60ac362aef9b9d4a60b80",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "New Year’s Day (live)",
+            "length": "4:44",
+            "deezer": {
+              "id": 366440511,
+              "link": "https://www.deezer.com/track/366440511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/2/0/61289cf8595b5e97632617fff63c2a74.mp3?hdnea=exp=1795722109~acl=/api/1/1/6/1/2/0/61289cf8595b5e97632617fff63c2a74.mp3*~data=user_id=0,application_id=42~hmac=07a70ba3399034c2334636180621e486fe136f756f04da324accba9beb7dedfd",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Pride (In the Name of Love) (live)",
+            "length": "4:54",
+            "deezer": {
+              "id": 366440521,
+              "link": "https://www.deezer.com/track/366440521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/5/0/df5bb026135fb484fdb4cdc824e4a8db.mp3?hdnea=exp=1795722109~acl=/api/1/1/d/f/5/0/df5bb026135fb484fdb4cdc824e4a8db.mp3*~data=user_id=0,application_id=42~hmac=67e1670c7b85f667bb71b442209d89aeb5217e0e3d2f63912fa2d8bf00bb04bf",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "With or Without You (live)",
+            "length": "5:28",
+            "deezer": {
+              "id": 366440531,
+              "link": "https://www.deezer.com/track/366440531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/2/0/482322fe6a1f0dc0c4481da625989d21.mp3?hdnea=exp=1795722109~acl=/api/1/1/4/8/2/0/482322fe6a1f0dc0c4481da625989d21.mp3*~data=user_id=0,application_id=42~hmac=a1786dc517acd1056a56625b8ba3e7f219f5fcc9e5b2325cc9555469b0641e7f",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Party Girl (live)",
+            "length": "3:24",
+            "deezer": {
+              "id": 366440541,
+              "link": "https://www.deezer.com/track/366440541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/7/0/d17b4b5cf52ae3bc97c7ee76d3acaaae.mp3?hdnea=exp=1795722109~acl=/api/1/1/d/1/7/0/d17b4b5cf52ae3bc97c7ee76d3acaaae.mp3*~data=user_id=0,application_id=42~hmac=9c359b4aee45dd7f780961f40a0d1484ed08dbcdb40815987650cc6c0c5be001",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I Still Haven’t Found What I’m Looking For (live / choir version)",
+            "length": "5:54",
+            "deezer": {
+              "id": 366440551,
+              "link": "https://www.deezer.com/track/366440551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/a/0/daa856217ac7453942b1dc707c2db675.mp3?hdnea=exp=1795722109~acl=/api/1/1/d/a/a/0/daa856217ac7453942b1dc707c2db675.mp3*~data=user_id=0,application_id=42~hmac=986a145438ab903b034a7902493b9abcedbf0fd902953865a99278cd0ed8dd4b",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "“40” (live)",
+            "length": "5:52",
+            "deezer": {
+              "id": 366440561,
+              "link": "https://www.deezer.com/track/366440561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/7/0/ae7dc23291550f24a33d91d23ebfae03.mp3?hdnea=exp=1795722109~acl=/api/1/1/a/e/7/0/ae7dc23291550f24a33d91d23ebfae03.mp3*~data=user_id=0,application_id=42~hmac=92b83034e58c256dce0713713b96883625ae1fad4f883cbe224dc812af775861",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 3,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "One Tree Hill (St Francis Hotel remix)",
+            "length": "4:17",
+            "deezer": {
+              "id": 366440571,
+              "link": "https://www.deezer.com/track/366440571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/6/0/e46841f62bd69896b942a17a1c82ce7a.mp3?hdnea=exp=1795722109~acl=/api/1/1/e/4/6/0/e46841f62bd69896b942a17a1c82ce7a.mp3*~data=user_id=0,application_id=42~hmac=b84204490000f034b4f6f5065125ad14174d89887401e3c58fbbb6df3f186fea",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bullet the Blue Sky (Jacknife Lee remix)",
+            "length": "6:03",
+            "deezer": {
+              "id": 366440581,
+              "link": "https://www.deezer.com/track/366440581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/5/0/3f572c20a3592995cdefb9fc4a761b53.mp3?hdnea=exp=1795722109~acl=/api/1/1/3/f/5/0/3f572c20a3592995cdefb9fc4a761b53.mp3*~data=user_id=0,application_id=42~hmac=d10be6ab8aec33f0fe99fe018eef8210ba671205b230cd70961023109bb65c4c",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Running to Stand Still (Daniel Lanois remix)",
+            "length": "4:41",
+            "deezer": {
+              "id": 366440591,
+              "link": "https://www.deezer.com/track/366440591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/3/0/6833787db6960db929d80f7e3be834d8.mp3?hdnea=exp=1795722109~acl=/api/1/1/6/8/3/0/6833787db6960db929d80f7e3be834d8.mp3*~data=user_id=0,application_id=42~hmac=19b88d0f4659becb08986f33c198ab6da81744430b6c54d59c2efad1aa1bb662",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Red Hill Mining Town (Steve Lillywhite 2017 mix)",
+            "length": "4:53",
+            "deezer": {
+              "id": 366440601,
+              "link": "https://www.deezer.com/track/366440601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/1/0/5e1df720a1a674ebf5ce6a688953e6cc.mp3?hdnea=exp=1795722109~acl=/api/1/1/5/e/1/0/5e1df720a1a674ebf5ce6a688953e6cc.mp3*~data=user_id=0,application_id=42~hmac=153428be0b447d3794d2a787a100ded7112d3136d823101d68900d83efe028fb",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "With or Without You (Daniel Lanois remix)",
+            "length": "5:04",
+            "deezer": {
+              "id": 366440611,
+              "link": "https://www.deezer.com/track/366440611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/e/0/6ae148b00acf1cba42f97bf5969667c4.mp3?hdnea=exp=1795722109~acl=/api/1/1/6/a/e/0/6ae148b00acf1cba42f97bf5969667c4.mp3*~data=user_id=0,application_id=42~hmac=184aaa2fe936ad706f90f036ac7d24c33fddbf8f57ffaee7687c9fd1b47b484c",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Where the Streets Have No Name (Flood remix)",
+            "length": "6:45",
+            "deezer": {
+              "id": 366440621,
+              "link": "https://www.deezer.com/track/366440621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/7/0/1b7dc5f3def8646dde9d0ac82a4badc3.mp3?hdnea=exp=1795722109~acl=/api/1/1/1/b/7/0/1b7dc5f3def8646dde9d0ac82a4badc3.mp3*~data=user_id=0,application_id=42~hmac=baac1dba8f9fd7b1ba50edb8a8e06fae17fdc1b40a484c573390f92b5196e80b",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 4,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Luminous Times (Hold On to Love)",
+            "length": "4:35",
+            "deezer": {
+              "id": 366440631,
+              "link": "https://www.deezer.com/track/366440631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/6/0/97622621f9deab8417df55332116c9bb.mp3?hdnea=exp=1795722109~acl=/api/1/1/9/7/6/0/97622621f9deab8417df55332116c9bb.mp3*~data=user_id=0,application_id=42~hmac=b86b9efad645fca9cd25436ee169a418a28c6d349e319e575f7c234c766a72bf",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Walk to the Water",
+            "length": "4:49",
+            "deezer": {
+              "id": 366440641,
+              "link": "https://www.deezer.com/track/366440641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/9/0/649aa8f60cfec46749d8d8cba1eda5fa.mp3?hdnea=exp=1795722109~acl=/api/1/1/6/4/9/0/649aa8f60cfec46749d8d8cba1eda5fa.mp3*~data=user_id=0,application_id=42~hmac=69e4514152f4f119cb7ea7a07e758217839156bab750c66987ec0d0ca33100f2",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Spanish Eyes",
+            "length": "3:16",
+            "deezer": {
+              "id": 366440651,
+              "link": "https://www.deezer.com/track/366440651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/d/0/bad938a802b205dc520d98ff88ae6ca9.mp3?hdnea=exp=1795722109~acl=/api/1/1/b/a/d/0/bad938a802b205dc520d98ff88ae6ca9.mp3*~data=user_id=0,application_id=42~hmac=6dbcaa435e6caa81b0981637871c88afdf9cd56c5649cc7de87353aa9d8b97d3",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Deep in the Heart",
+            "length": "4:31",
+            "deezer": {
+              "id": 366440661,
+              "link": "https://www.deezer.com/track/366440661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/8/0/848df03af20d05bb7fb22ef94b44b228.mp3?hdnea=exp=1795722109~acl=/api/1/1/8/4/8/0/848df03af20d05bb7fb22ef94b44b228.mp3*~data=user_id=0,application_id=42~hmac=bd8e3888e3d8da71367a62e87ec59a3215c35940eacec733618bf80751e7a40a",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Silver and Gold",
+            "length": "4:38",
+            "deezer": {
+              "id": 366440671,
+              "link": "https://www.deezer.com/track/366440671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/9/0/f79af363d8014086c155de0120568aae.mp3?hdnea=exp=1795722109~acl=/api/1/1/f/7/9/0/f79af363d8014086c155de0120568aae.mp3*~data=user_id=0,application_id=42~hmac=02ef05e95913fad9007897cb7acdc53736147b09ae0bfe349009193d788a0dc4",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Sweetest Thing",
+            "length": "3:05",
+            "deezer": {
+              "id": 366440681,
+              "link": "https://www.deezer.com/track/366440681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/a/0/31a8198ad32526aca19c12eee937ccd9.mp3?hdnea=exp=1795722109~acl=/api/1/1/3/1/a/0/31a8198ad32526aca19c12eee937ccd9.mp3*~data=user_id=0,application_id=42~hmac=275c086a6ac4d67a4e8f68a0144a4f8b01e98c4717c8b41f0bba217f8d72ab35",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Race Against Time",
+            "length": "4:04",
+            "deezer": {
+              "id": 366440691,
+              "link": "https://www.deezer.com/track/366440691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/7/0/5f730b5441097cfe4f78047d4e20581a.mp3?hdnea=exp=1795722109~acl=/api/1/1/5/f/7/0/5f730b5441097cfe4f78047d4e20581a.mp3*~data=user_id=0,application_id=42~hmac=77976b57460abb5366c424aefc2fa6b84ed50644b78a7da1db650e65f78cbc84",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Still Haven’t Found What I’m Looking For (Lillywhite alternative mix ’87)",
+            "length": "4:16",
+            "deezer": {
+              "id": 366440701,
+              "link": "https://www.deezer.com/track/366440701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/f/0/a2f413598d72e741b81175caad74af75.mp3?hdnea=exp=1795722109~acl=/api/1/1/a/2/f/0/a2f413598d72e741b81175caad74af75.mp3*~data=user_id=0,application_id=42~hmac=8e6cef08a9a659e9712d3838964f04de464d679b1ac79de341875489061d7682",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "One Tree Hill Reprise (Brian Eno 2017 mix)",
+            "length": "2:10",
+            "deezer": {
+              "id": 366440711,
+              "link": "https://www.deezer.com/track/366440711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/a/0/07abf8887116e7e2a9752f87986c75e0.mp3?hdnea=exp=1795722109~acl=/api/1/1/0/7/a/0/07abf8887116e7e2a9752f87986c75e0.mp3*~data=user_id=0,application_id=42~hmac=32d1797d53311073476bd4471aa4d5df4d6ae8becd469f55bb4fc3e24120b724",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Silver and Gold",
+            "length": "4:43",
+            "artist": "Bono",
+            "deezer": {
+              "id": 366440721,
+              "link": "https://www.deezer.com/track/366440721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/b/0/31bffbe5f0e38d5a2c156d81ca18700c.mp3?hdnea=exp=1795722109~acl=/api/1/1/3/1/b/0/31bffbe5f0e38d5a2c156d81ca18700c.mp3*~data=user_id=0,application_id=42~hmac=21647a87973ecada12e189ee934336c78e7d19d6dcf18a5d90635c30fd9c3862",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Beautiful Ghost / Introduction to Songs of Experience",
+            "length": "3:56",
+            "deezer": {
+              "id": 366440731,
+              "link": "https://www.deezer.com/track/366440731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92f621a1e4057c29b8971bc7651f9a66.mp3?hdnea=exp=1795722109~acl=/api/1/1/9/2/f/0/92f621a1e4057c29b8971bc7651f9a66.mp3*~data=user_id=0,application_id=42~hmac=943617f7ada025a3cad9d191539ece5059d51e4a170fffd7842a60a4035c635d",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Wave of Sorrow (Birdland)",
+            "length": "4:06",
+            "deezer": {
+              "id": 366440741,
+              "link": "https://www.deezer.com/track/366440741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/4/0/7541c375baa140ad0d1466cfc00de73d.mp3?hdnea=exp=1795722109~acl=/api/1/1/7/5/4/0/7541c375baa140ad0d1466cfc00de73d.mp3*~data=user_id=0,application_id=42~hmac=d139f330081f50a35cf0f24b7b7e8388702feb977657e7a796b0b44e2122a53f",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Desert of Our Love",
+            "length": "4:59",
+            "deezer": {
+              "id": 366440751,
+              "link": "https://www.deezer.com/track/366440751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/d/0/a6d96e3287ad5c8c173184f1c00ccf9c.mp3?hdnea=exp=1795722109~acl=/api/1/1/a/6/d/0/a6d96e3287ad5c8c173184f1c00ccf9c.mp3*~data=user_id=0,application_id=42~hmac=e3396bd49504dc2b46c3f9d1555a14cd46c7204aa194ebc7ba8091837382d7c5",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Rise Up",
+            "length": "4:08",
+            "deezer": {
+              "id": 366440761,
+              "link": "https://www.deezer.com/track/366440761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a633b27be8285308c07c258b4111042.mp3?hdnea=exp=1795722109~acl=/api/1/1/8/a/6/0/8a633b27be8285308c07c258b4111042.mp3*~data=user_id=0,application_id=42~hmac=0624c85fcd92eb1422fa70113c8d9ce0296332251d8bfeb851bc72794e82f1a8",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Drunk Chicken / America",
+            "length": "1:31",
+            "deezer": {
+              "id": 366440771,
+              "link": "https://www.deezer.com/track/366440771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/c/0/aec4e1be4d758e58a1014de4b7d0ae92.mp3?hdnea=exp=1795722109~acl=/api/1/1/a/e/c/0/aec4e1be4d758e58a1014de4b7d0ae92.mp3*~data=user_id=0,application_id=42~hmac=0f56abdb8fe70d97787c0875033debbcaedbec98944185b3a3fc60242b4c0f29",
+              "preview_expires": "2026-11-26T19:41:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/U2/The Joshua Tree.jpg"
+}

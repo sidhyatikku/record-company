@@ -1,0 +1,97 @@
+{
+  "title": "Far From Over",
+  "artist": "KR$NA",
+  "year": 2023,
+  "release_date": "2023-08-29",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0634e4e6-1fc6-4731-adce-15d44a34ea7a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/998081971"
+  },
+  "musicbrainz_id": "0634e4e6-1fc6-4731-adce-15d44a34ea7a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/842c28d8-9183-45e0-9bdb-952d61638ca9",
+      "barcode": null,
+      "title": "Far From Over",
+      "disambiguation": null,
+      "date": "2023-08-29",
+      "country": "IN"
+    },
+    "total_tracks": 5,
+    "total_length": "17:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Still Standing",
+            "length": "3:02",
+            "deezer": {
+              "id": 4063375581,
+              "link": "https://www.deezer.com/track/4063375581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/5/0/1559c1ada03eeebe32f2e72773551ef9.mp3?hdnea=exp=1795656309~acl=/api/1/1/1/5/5/0/1559c1ada03eeebe32f2e72773551ef9.mp3*~data=user_id=0,application_id=42~hmac=c4e05a0cef12947d93c2df707663f009fc9c8f70528620bcfd22e67b8d6ecaeb",
+              "preview_expires": "2026-11-26T01:25:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Prarthana",
+            "length": "3:19",
+            "deezer": {
+              "id": 4063375591,
+              "link": "https://www.deezer.com/track/4063375591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/5/0/ec5a32f4907b4ee15024fa198e30297d.mp3?hdnea=exp=1795656309~acl=/api/1/1/e/c/5/0/ec5a32f4907b4ee15024fa198e30297d.mp3*~data=user_id=0,application_id=42~hmac=b8511722cb06aad8f639ff0b3c7b58e4c88b4b5e0f747adb7dc758088f2da77d",
+              "preview_expires": "2026-11-26T01:25:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wanna Know",
+            "length": "3:25",
+            "deezer": {
+              "id": 4063375601,
+              "link": "https://www.deezer.com/track/4063375601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/6862fbbb6beac764a2ec8397d0147e89.mp3?hdnea=exp=1795656309~acl=/api/1/1/6/8/6/0/6862fbbb6beac764a2ec8397d0147e89.mp3*~data=user_id=0,application_id=42~hmac=6066365bd55e4189965b6a5f0d6cfba86b1c32ab3d4a39c3b9ecc31371216b57",
+              "preview_expires": "2026-11-26T01:25:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hola Amigo",
+            "length": "3:46",
+            "artist": "KR$NA & Seedhe Maut",
+            "deezer": {
+              "id": 4063375611,
+              "link": "https://www.deezer.com/track/4063375611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/b/0/c7b2a018bc5070cc0970e85bc2863c8d.mp3?hdnea=exp=1795656309~acl=/api/1/1/c/7/b/0/c7b2a018bc5070cc0970e85bc2863c8d.mp3*~data=user_id=0,application_id=42~hmac=a24b5e93c5750350c8838facf01f811f575cfb009ef80e75dcea03e275a75b1c",
+              "preview_expires": "2026-11-26T01:25:09Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Some Of Us",
+            "length": "3:45",
+            "artist": "KR$NA & AR Paisley",
+            "deezer": {
+              "id": 4063375621,
+              "link": "https://www.deezer.com/track/4063375621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/d/0/92dc0c2a18fbdbbe12ec62ff37c6025d.mp3?hdnea=exp=1795656309~acl=/api/1/1/9/2/d/0/92dc0c2a18fbdbbe12ec62ff37c6025d.mp3*~data=user_id=0,application_id=42~hmac=27cd602208ada27163ecce3d33774e35a200a4828a805adea82112a41419f306",
+              "preview_expires": "2026-11-26T01:25:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/KR$NA/FAR FROM OVER.jpg"
+}

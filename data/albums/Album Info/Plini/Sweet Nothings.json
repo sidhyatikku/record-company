@@ -1,0 +1,95 @@
+{
+  "title": "Sweet Nothings",
+  "artist": "Plini",
+  "year": 2013,
+  "release_date": "2013-10-11",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "indie rock",
+    "rock"
+  ],
+  "tags": [
+    "indie rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/700c9c07-a219-4fd2-a727-e94b7ca9efca",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1453623",
+    "deezer": "https://www.deezer.com/album/221642412"
+  },
+  "musicbrainz_id": "700c9c07-a219-4fd2-a727-e94b7ca9efca",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8640e342-ca55-4318-ba45-f9b92de83ad5",
+      "barcode": "859711418440",
+      "title": "Sweet Nothings",
+      "disambiguation": null,
+      "date": "2013-10-11",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "17:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Opening",
+            "length": "5:07",
+            "deezer": {
+              "id": 1333998672,
+              "link": "https://www.deezer.com/track/1333998672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/c/0/00cd94e55bea90410fa647bdd1d7e18d.mp3?hdnea=exp=1795719575~acl=/api/1/1/0/0/c/0/00cd94e55bea90410fa647bdd1d7e18d.mp3*~data=user_id=0,application_id=42~hmac=0f368ea5afaa8323ce874010d90b3cc8ed243300ec0586a68e733e8a20e770ee",
+              "preview_expires": "2026-11-26T18:59:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tarred & Feathered",
+            "length": "3:14",
+            "deezer": {
+              "id": 1333998682,
+              "link": "https://www.deezer.com/track/1333998682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/1/0/e416485200b4c5d277eb2b6f99e89483.mp3?hdnea=exp=1795719575~acl=/api/1/1/e/4/1/0/e416485200b4c5d277eb2b6f99e89483.mp3*~data=user_id=0,application_id=42~hmac=3b64b491f8c8108e2293bc953ee0e41ad1f921fd05ab345e5f20b3bbe9ea2841",
+              "preview_expires": "2026-11-26T18:59:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Away",
+            "length": "3:43",
+            "deezer": {
+              "id": 1333998692,
+              "link": "https://www.deezer.com/track/1333998692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/e/0/dce5bb16f28407e6c3e57abc160ff78c.mp3?hdnea=exp=1795719575~acl=/api/1/1/d/c/e/0/dce5bb16f28407e6c3e57abc160ff78c.mp3*~data=user_id=0,application_id=42~hmac=31d17f389d1d87323a5b85808140c5be5c8602b8ab45676eea1be2c8bb163503",
+              "preview_expires": "2026-11-26T18:59:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sweet Nothings",
+            "length": "5:02",
+            "deezer": {
+              "id": 1333998702,
+              "link": "https://www.deezer.com/track/1333998702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/2/0/872720bde99aba655abed5080ff0a0b2.mp3?hdnea=exp=1795719575~acl=/api/1/1/8/7/2/0/872720bde99aba655abed5080ff0a0b2.mp3*~data=user_id=0,application_id=42~hmac=29706729813138c832b208320ea463129e14433704a9644b78aeafe68989ad8a",
+              "preview_expires": "2026-11-26T18:59:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Plini/Sweet Nothings.jpg"
+}

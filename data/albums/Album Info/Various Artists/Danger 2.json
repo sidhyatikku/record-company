@@ -1,0 +1,112 @@
+{
+  "title": "Danger 2",
+  "artist": "Various Artists",
+  "year": 2002,
+  "release_date": "2002",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b3cd3eb7-d91b-4028-b1e0-62cf087e4888",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "b3cd3eb7-d91b-4028-b1e0-62cf087e4888",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3c08416a-a87b-4dca-b863-dafea0caf650",
+      "barcode": null,
+      "title": "Danger 2",
+      "disambiguation": null,
+      "date": "2002",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "46:42",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro",
+            "length": "0:38",
+            "artist": "RDB"
+          },
+          {
+            "number": "2",
+            "title": "Aja Mahi",
+            "length": "4:06",
+            "artist": "RDB, Metz 'n' Trix & Manjeet Singh"
+          },
+          {
+            "number": "3",
+            "title": "Jat Marda",
+            "length": "3:08",
+            "artist": "RDB, Labh Janjua & Lethal Dholis"
+          },
+          {
+            "number": "4",
+            "title": "Punjabi Munday",
+            "length": "3:43",
+            "artist": "Illegal Demo, Amar Arshi & Lady Lyrical"
+          },
+          {
+            "number": "5",
+            "title": "Guddi Vangar",
+            "length": "4:09",
+            "artist": "Lethal Dholis, Metz 'n' Trix, Rimpy & MC Husky"
+          },
+          {
+            "number": "6",
+            "title": "Hullary",
+            "length": "4:33",
+            "artist": "RDB, Amar Arshi, MC Coppa & Usmaan"
+          },
+          {
+            "number": "7",
+            "title": "Teray Meray Pyar Dian",
+            "length": "3:50",
+            "artist": "RDB, Gubi Sandhu & G.I. Jatt"
+          },
+          {
+            "number": "8",
+            "title": "Goreeaa Noo",
+            "length": "5:09",
+            "artist": "RDB, Mehsopuria, Nee2 & MCP"
+          },
+          {
+            "number": "9",
+            "title": "Mirza",
+            "length": "4:08",
+            "artist": "Indy Sagu & Ranjit Mani"
+          },
+          {
+            "number": "10",
+            "title": "Yaar Dha",
+            "length": "3:02",
+            "artist": "DJ H & Major Mehran"
+          },
+          {
+            "number": "11",
+            "title": "Thenoo Thakia",
+            "length": "4:50",
+            "artist": "De Jav, MC Coppa, MC Mental & Bobby Singh"
+          },
+          {
+            "number": "12",
+            "title": "Boliyan",
+            "length": "5:26",
+            "artist": "Pal D, G.I. Jatt & Jagtar"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Danger 2.jpg"
+}

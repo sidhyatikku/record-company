@@ -1,0 +1,62 @@
+{
+  "title": "The Enemy Inside",
+  "artist": "Dream Theater",
+  "year": 2013,
+  "release_date": "2013-08-06",
+  "type": "Single",
+  "description": "\"The Enemy Inside\" is the first single by American progressive metal band Dream Theater's eponymous twelfth studio album. It was announced on the band's official Facebook page as the first single on August 3, 2013 and was made available by USA Today for streaming on August 5. A lyric video on YouTube for the song was published on the band's YouTube channel a day later.",
+  "genres": [
+    "heavy metal",
+    "progressive metal"
+  ],
+  "tags": [
+    "heavy metal",
+    "progressive metal"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/58d5150f-1513-43ec-a949-ccd5367506bb",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Enemy_Inside_(Dream_Theater_song)",
+    "wikidata": "https://www.wikidata.org/wiki/Q14759972",
+    "deezer": "https://www.deezer.com/album/6794982"
+  },
+  "musicbrainz_id": "58d5150f-1513-43ec-a949-ccd5367506bb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/372f660f-1faa-4927-a668-51ed7a1cd7cc",
+      "barcode": "016861355401",
+      "title": "The Enemy Inside",
+      "disambiguation": null,
+      "date": "2013-08-06",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "6:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Enemy Inside",
+            "length": "6:17",
+            "deezer": {
+              "id": 69320565,
+              "link": "https://www.deezer.com/track/69320565",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/9/0/6e9647caebc4e497a869bafcff79b3d2.mp3?hdnea=exp=1795653702~acl=/api/1/1/6/e/9/0/6e9647caebc4e497a869bafcff79b3d2.mp3*~data=user_id=0,application_id=42~hmac=95ba01eb47178aa1390ab95f7bd969a0a12bb40c652386f1553f42c3c4cb74dd",
+              "preview_expires": "2026-11-26T00:41:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dream Theater/The Enemy Inside.jpg"
+}

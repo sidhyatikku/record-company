@@ -1,0 +1,222 @@
+{
+  "title": "i am > i was",
+  "artist": "21 Savage",
+  "year": 2018,
+  "release_date": "2018-12-21",
+  "type": "Album",
+  "description": "I Am > I Was is the second solo studio album by rapper 21 Savage, released on December 21, 2018. I Am > I Was features vocals by J. Cole, City Girls, Offset, Post Malone, Gunna, Lil Baby, Schoolboy Q, Project Pat, Childish Gambino, and Savage's cousin Young Nudy. The deluxe edition was released three days later, featuring one more song, which features an additional guest appearance from Travis Scott.",
+  "genres": [
+    "hip hop",
+    "pop",
+    "southern hip hop",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "pop",
+    "southern hip hop",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f56fbad2-66bc-4c51-b744-1349835e7a7c",
+    "wikipedia": "https://en.wikipedia.org/wiki/I_Am_Greater_than_I_Was",
+    "allmusic": "https://www.allmusic.com/album/mw0003236925",
+    "discogs": "https://www.discogs.com/master/1474682",
+    "wikidata": "https://www.wikidata.org/wiki/Q60028756",
+    "deezer": "https://www.deezer.com/album/82411002"
+  },
+  "musicbrainz_id": "f56fbad2-66bc-4c51-b744-1349835e7a7c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3a1355ba-0fdb-406a-90f3-d7c41d1c3747",
+      "barcode": "886447489512",
+      "title": "i am > i was",
+      "disambiguation": "explicit",
+      "date": "2018-12-21",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "51:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "a lot",
+            "length": "4:49",
+            "deezer": {
+              "id": 607697962,
+              "link": "https://www.deezer.com/track/607697962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/2/0/87284291e3804195dd2b63db1199365f.mp3?hdnea=exp=1795648526~acl=/api/1/1/8/7/2/0/87284291e3804195dd2b63db1199365f.mp3*~data=user_id=0,application_id=42~hmac=a9c5366af6a647b2f8831a9bb8b49401cb4a37ce556013bb754e27d96e8065a1",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "break da law",
+            "length": "2:58",
+            "deezer": {
+              "id": 607697972,
+              "link": "https://www.deezer.com/track/607697972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/4/0/cc4725e76fe7914fd07aba241095c50f.mp3?hdnea=exp=1795648526~acl=/api/1/1/c/c/4/0/cc4725e76fe7914fd07aba241095c50f.mp3*~data=user_id=0,application_id=42~hmac=ee8e8519d99d127ba28943e2b092faf068a83d42ddda47dbf8b8b74ae99cffbe",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "a&t",
+            "length": "3:32",
+            "deezer": {
+              "id": 607697982,
+              "link": "https://www.deezer.com/track/607697982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/0/0/a20cabc8ebaa78daf8ffee465cd45ea2.mp3?hdnea=exp=1795648526~acl=/api/1/1/a/2/0/0/a20cabc8ebaa78daf8ffee465cd45ea2.mp3*~data=user_id=0,application_id=42~hmac=6911744da481b96e0f6298f58d94e8cfd9dcfccff573b267be017d9d74c15f20",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "out for the night",
+            "length": "2:17",
+            "deezer": {
+              "id": 607697992,
+              "link": "https://www.deezer.com/track/607697992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/6/0/a4638a23d2935e6683d541d4157ceeaf.mp3?hdnea=exp=1795648526~acl=/api/1/1/a/4/6/0/a4638a23d2935e6683d541d4157ceeaf.mp3*~data=user_id=0,application_id=42~hmac=9ad929d46cf739487acf4cb7dc3163bf848ef1e6ed1a103d725143ef28281b7b",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "gun smoke",
+            "length": "2:47",
+            "deezer": {
+              "id": 607698002,
+              "link": "https://www.deezer.com/track/607698002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/7/0/5d78065997b07730490b18fd40ed74a7.mp3?hdnea=exp=1795648526~acl=/api/1/1/5/d/7/0/5d78065997b07730490b18fd40ed74a7.mp3*~data=user_id=0,application_id=42~hmac=9f4251f9e72484daa2dfcf7cd722ea04458a3da079b6adb893286dea437b062c",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "1.5",
+            "length": "2:29",
+            "deezer": {
+              "id": 607698012,
+              "link": "https://www.deezer.com/track/607698012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/1/0/0b16719c1caeb2076ab08ca6437ca599.mp3?hdnea=exp=1795648526~acl=/api/1/1/0/b/1/0/0b16719c1caeb2076ab08ca6437ca599.mp3*~data=user_id=0,application_id=42~hmac=7beaf14b6db9208a37e5b3d43b5fb7d7e6dc95bfb2963408e8b3560914fb07cb",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "all my friends",
+            "length": "3:32",
+            "deezer": {
+              "id": 607698022,
+              "link": "https://www.deezer.com/track/607698022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/f/0/18f1d1e82533b4df38ec0bd1d8e72e21.mp3?hdnea=exp=1795648526~acl=/api/1/1/1/8/f/0/18f1d1e82533b4df38ec0bd1d8e72e21.mp3*~data=user_id=0,application_id=42~hmac=d8690bdcc8b8af9c14bd35b931692ea75a3abdeaf56d3b40872458e81ad5ac9f",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "can't leave without it",
+            "length": "3:25",
+            "deezer": {
+              "id": 607698032,
+              "link": "https://www.deezer.com/track/607698032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/1/0/b91a4aa5d996a3ef035ab66625b14edb.mp3?hdnea=exp=1795648526~acl=/api/1/1/b/9/1/0/b91a4aa5d996a3ef035ab66625b14edb.mp3*~data=user_id=0,application_id=42~hmac=84f7e7bc3e50ea801a55240cc880ae16681226ca5728a825b5a4fac4663ba356",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "asmr",
+            "length": "2:52",
+            "deezer": {
+              "id": 607698042,
+              "link": "https://www.deezer.com/track/607698042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/0/0/85062c13f52912331c84e9017d6a1d3b.mp3?hdnea=exp=1795648526~acl=/api/1/1/8/5/0/0/85062c13f52912331c84e9017d6a1d3b.mp3*~data=user_id=0,application_id=42~hmac=0de021aed9b3736f5559301665fe526ee02524c4eaabfceadb27afabc4d9f072",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "ball w/o you",
+            "length": "3:15",
+            "deezer": {
+              "id": 607698052,
+              "link": "https://www.deezer.com/track/607698052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/5/0/955d18088e0867c52ccbb277d0106ae6.mp3?hdnea=exp=1795648526~acl=/api/1/1/9/5/5/0/955d18088e0867c52ccbb277d0106ae6.mp3*~data=user_id=0,application_id=42~hmac=b23cc4ced1edad37d2262ca999fa7365e75790ff12e5e380fc256c6fd85ace0d",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "good day",
+            "length": "4:02",
+            "deezer": {
+              "id": 607698062,
+              "link": "https://www.deezer.com/track/607698062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/2/0/6b21c8c6f078bad9f7f06671d44a9148.mp3?hdnea=exp=1795648526~acl=/api/1/1/6/b/2/0/6b21c8c6f078bad9f7f06671d44a9148.mp3*~data=user_id=0,application_id=42~hmac=f2f506a9870eeba8d1597d47d657a1fa855f6454ee26699aff2c37920a657fb4",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "pad lock",
+            "length": "3:11",
+            "deezer": {
+              "id": 607698072,
+              "link": "https://www.deezer.com/track/607698072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/7/0/51728a24911b537e226ac26f1d975d2e.mp3?hdnea=exp=1795648526~acl=/api/1/1/5/1/7/0/51728a24911b537e226ac26f1d975d2e.mp3*~data=user_id=0,application_id=42~hmac=01cd66c00cee6c7770becfc41e9cd5a8ea33a59f924bdb0d0d87507ab5074f88",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "monster",
+            "length": "3:53",
+            "deezer": {
+              "id": 607698082,
+              "link": "https://www.deezer.com/track/607698082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/5/0/e0577752c7e4cceed428ada962e2966f.mp3?hdnea=exp=1795648526~acl=/api/1/1/e/0/5/0/e0577752c7e4cceed428ada962e2966f.mp3*~data=user_id=0,application_id=42~hmac=ddf1363e6b4f08f6008c15e5d72c1aefa3df0188b2d4d53831653abcab14ca14",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "letter 2 my momma",
+            "length": "3:15",
+            "deezer": {
+              "id": 607698092,
+              "link": "https://www.deezer.com/track/607698092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/9/0/c495187e1353008331ba0cd90828cb8b.mp3?hdnea=exp=1795648526~acl=/api/1/1/c/4/9/0/c495187e1353008331ba0cd90828cb8b.mp3*~data=user_id=0,application_id=42~hmac=f114286a82d2af273f4d12008e9107b7e23e84661b42276fd115d8c2928da4b0",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "4L",
+            "length": "4:48",
+            "deezer": {
+              "id": 607698102,
+              "link": "https://www.deezer.com/track/607698102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/0/0/cf0e2e1943dfa59889b88561c8867a0f.mp3?hdnea=exp=1795648526~acl=/api/1/1/c/f/0/0/cf0e2e1943dfa59889b88561c8867a0f.mp3*~data=user_id=0,application_id=42~hmac=e2de626c4e786b00ba6837fdf1c8a67051288fffa7d277ef5115cb6206bd03df",
+              "preview_expires": "2026-11-25T23:15:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/21 Savage/i am - i was.jpg"
+}

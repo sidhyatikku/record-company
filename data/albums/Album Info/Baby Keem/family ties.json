@@ -1,0 +1,57 @@
+{
+  "title": "family ties",
+  "artist": "Baby Keem & Kendrick Lamar",
+  "year": 2021,
+  "release_date": "2021-08-27",
+  "type": "Single",
+  "description": "\"Family Ties\" is a song by American rappers Baby Keem and Kendrick Lamar. The song was released on August 27, 2021, by Columbia Records and pgLang. The song serves as the fourth single from Keem's debut album, The Melodic Blue. The song also serves as Lamar’s first musical release under pgLang, a production company he co-founded in March 2020.",
+  "genres": [
+    "alternative hip hop"
+  ],
+  "tags": [
+    "alternative hip hop",
+    "hardcore hip-hop;trap"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/196b4d88-1543-4c00-9be4-703001fb00d3",
+    "wikipedia": "https://en.wikipedia.org/wiki/Family_Ties_(song)",
+    "wikidata": "https://www.wikidata.org/wiki/Q108306979",
+    "deezer": "https://www.deezer.com/album/254593952"
+  },
+  "musicbrainz_id": "196b4d88-1543-4c00-9be4-703001fb00d3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c5d4692b-ba6a-4548-8407-71f27726d507",
+      "barcode": "886449507214",
+      "title": "family ties",
+      "disambiguation": "explicit",
+      "date": "2021-08-27",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "family ties",
+            "length": "4:12",
+            "deezer": {
+              "id": 1476644212,
+              "link": "https://www.deezer.com/track/1476644212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/9/0/b99e34247d7ac00239eea33b61b7a55d.mp3?hdnea=exp=1795651797~acl=/api/1/1/b/9/9/0/b99e34247d7ac00239eea33b61b7a55d.mp3*~data=user_id=0,application_id=42~hmac=89331ec0e9e6260c70b75fdd76d1e14f5f5c92e3987c3f3f514e78f015a22a9e",
+              "preview_expires": "2026-11-26T00:09:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Baby Keem/family ties.jpg"
+}

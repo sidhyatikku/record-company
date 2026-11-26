@@ -1,0 +1,51 @@
+{
+  "title": "TT",
+  "artist": "Seedhe Maut",
+  "year": 2024,
+  "release_date": "2024-06-27",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a5ed0b48-d2cb-403f-8947-34b0a3ad670f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/723308191"
+  },
+  "musicbrainz_id": "a5ed0b48-d2cb-403f-8947-34b0a3ad670f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a8e7683d-0463-4812-9a09-891257d1c362",
+      "barcode": "8447053238783",
+      "title": "TT",
+      "disambiguation": null,
+      "date": "2024-06-27",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "TT",
+            "length": "3:57",
+            "deezer": {
+              "id": 3265933501,
+              "link": "https://www.deezer.com/track/3265933501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/f/0/b8fecb1e46f00718e08a6b833c9f6563.mp3?hdnea=exp=1795720428~acl=/api/1/1/b/8/f/0/b8fecb1e46f00718e08a6b833c9f6563.mp3*~data=user_id=0,application_id=42~hmac=67c8ee28fd8a5f0efef7bb37726091a2691bb2ea5dab17aedf3ec7f2bb3bbbb4",
+              "preview_expires": "2026-11-26T19:13:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Seedhe Maut/TT.jpg"
+}

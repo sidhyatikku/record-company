@@ -1,0 +1,52 @@
+{
+  "title": "We Don't Dance",
+  "artist": "Stickz",
+  "year": 2019,
+  "release_date": "2019-07-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk drill",
+    "drill",
+    "grime"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7bpJo5HiMNhl7usYKvGvfu",
+    "deezer": "https://www.deezer.com/album/361617797"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7bpJo5HiMNhl7usYKvGvfu",
+      "title": "We Don't Dance",
+      "date": "2019-07-08"
+    },
+    "total_tracks": 1,
+    "total_length": "3:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "We Don't Dance",
+            "length": "3:07",
+            "artist": "Stickz, M24",
+            "deezer": {
+              "id": 1938748997,
+              "link": "https://www.deezer.com/track/1938748997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/5/0/125dc1249dc8d550793ea209161c3491.mp3?hdnea=exp=1795721005~acl=/api/1/1/1/2/5/0/125dc1249dc8d550793ea209161c3491.mp3*~data=user_id=0,application_id=42~hmac=2a352eeedcf469634490add702a6f01dfdf8d78a548f651c3448b664935dfdea",
+              "preview_expires": "2026-11-26T19:23:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Stickz/We Don't Dance.jpg"
+}

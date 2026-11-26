@@ -1,0 +1,189 @@
+{
+  "title": "H₂O",
+  "artist": "Daryl Hall + John Oates",
+  "year": 1982,
+  "release_date": "1982",
+  "type": "Album",
+  "description": "H2O is the eleventh studio album by American pop rock duo Daryl Hall & John Oates, released by RCA Records on October 4, 1982. It peaked at number three on the Billboard 200, making it the duo's highest-charting album, and has been certified double platinum by the Recording Industry Association of America (RIAA) with sales of over two million copies. The album title is a play on the chemical formula for water, where \"H\" is for Hall and \"O\" is for Oates. It features three US top-10 singles, including \"Maneater\", the most successful single of their career, spending four weeks at number one on the Billboard Hot 100. The album marks the first appearance for longtime bassist and musical director Tom \"T-Bone\" Wolk.",
+  "genres": [
+    "pop rock",
+    "blue-eyed soul",
+    "pop",
+    "soft rock",
+    "aor",
+    "dance-rock",
+    "new wave",
+    "soul",
+    "synth funk"
+  ],
+  "tags": [
+    "pop rock",
+    "blue-eyed soul",
+    "pop",
+    "soft rock",
+    "adult contemporary",
+    "aor",
+    "dance-rock",
+    "new wave",
+    "soul",
+    "synth funk"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/60617d21-4d43-3f4f-829f-eb933c562ba3",
+    "wikipedia": "https://en.wikipedia.org/wiki/H2O_(Hall_%26_Oates_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000650228",
+    "discogs": "https://www.discogs.com/master/27487",
+    "wikidata": "https://www.wikidata.org/wiki/Q3780359",
+    "deezer": "https://www.deezer.com/album/80189632"
+  },
+  "musicbrainz_id": "60617d21-4d43-3f4f-829f-eb933c562ba3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/884b4d12-3362-42cc-a5b2-c02c1d4e857b",
+      "barcode": "886447381243",
+      "title": "H2O",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "45:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Maneater",
+            "length": "4:27",
+            "deezer": {
+              "id": 595411042,
+              "link": "https://www.deezer.com/track/595411042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/a/0/beafee429b2a5365cc3fbc640fbcd002.mp3?hdnea=exp=1795653120~acl=/api/1/1/b/e/a/0/beafee429b2a5365cc3fbc640fbcd002.mp3*~data=user_id=0,application_id=42~hmac=94f28d1365d4b55baa2c37b06248c74a94b9f052768fa149b2b135b449102222",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Crime Pays",
+            "length": "4:23",
+            "deezer": {
+              "id": 595411052,
+              "link": "https://www.deezer.com/track/595411052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/a/0/b4a2b8481de12f085775e09aa6c18eeb.mp3?hdnea=exp=1795653120~acl=/api/1/1/b/4/a/0/b4a2b8481de12f085775e09aa6c18eeb.mp3*~data=user_id=0,application_id=42~hmac=2ec38a5da8cbf1696c67dcd9e168179d12025136327f01229223247244ac0361",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Art of Heartbreak",
+            "length": "3:36",
+            "deezer": {
+              "id": 595411062,
+              "link": "https://www.deezer.com/track/595411062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/7/0/f474052e688100de889d4c32dcb20b6d.mp3?hdnea=exp=1795653120~acl=/api/1/1/f/4/7/0/f474052e688100de889d4c32dcb20b6d.mp3*~data=user_id=0,application_id=42~hmac=37c71ad749d062aac4d288feb91654f6e1591b0b6c23c30cf82675d3529e1bd4",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "One on One",
+            "length": "4:08",
+            "deezer": {
+              "id": 595411072,
+              "link": "https://www.deezer.com/track/595411072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/b/0/71b488c397f06aeef4c8feedc6606f4c.mp3?hdnea=exp=1795653120~acl=/api/1/1/7/1/b/0/71b488c397f06aeef4c8feedc6606f4c.mp3*~data=user_id=0,application_id=42~hmac=2976d2dd9e0cddf588a229d4594acaeb2c5bced112fb96f8065e387992033e4c",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Open All Night",
+            "length": "4:24",
+            "deezer": {
+              "id": 595411082,
+              "link": "https://www.deezer.com/track/595411082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/5/0/445c4605f1f1b96a0e42a81709edbd6f.mp3?hdnea=exp=1795653120~acl=/api/1/1/4/4/5/0/445c4605f1f1b96a0e42a81709edbd6f.mp3*~data=user_id=0,application_id=42~hmac=fc64e86d6b089a41dd60a4034481a3eace08d1ce57aacfc4f29b4c84a3c1842a",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Family Man",
+            "length": "3:24",
+            "deezer": {
+              "id": 595411092,
+              "link": "https://www.deezer.com/track/595411092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/2/0/db28d68525422cb7ff8263a8e89aeeb4.mp3?hdnea=exp=1795653120~acl=/api/1/1/d/b/2/0/db28d68525422cb7ff8263a8e89aeeb4.mp3*~data=user_id=0,application_id=42~hmac=62b13a4f06cb944f73a083e27bc831aae2bf05ae578d94eaeddf043fde55a62a",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Italian Girls",
+            "length": "3:16",
+            "deezer": {
+              "id": 595411102,
+              "link": "https://www.deezer.com/track/595411102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/7/0/a0746baf650a354e28f91fb9c4a3f5a2.mp3?hdnea=exp=1795653120~acl=/api/1/1/a/0/7/0/a0746baf650a354e28f91fb9c4a3f5a2.mp3*~data=user_id=0,application_id=42~hmac=23d03d5a0707ee468418311e42a307d6c02e943eeb1cf2d62c1327b2a1863b17",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Guessing Games",
+            "length": "3:13",
+            "deezer": {
+              "id": 595411112,
+              "link": "https://www.deezer.com/track/595411112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/4/0/4040bb3787873302c9e596970a820675.mp3?hdnea=exp=1795653120~acl=/api/1/1/4/0/4/0/4040bb3787873302c9e596970a820675.mp3*~data=user_id=0,application_id=42~hmac=3a5096d32ec4360a37dee47f35af6540bdc86c9cc7c486b9cef5a7ff95e3632a",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Delayed Reaction",
+            "length": "3:56",
+            "deezer": {
+              "id": 595411122,
+              "link": "https://www.deezer.com/track/595411122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/a/0/a0a704f01c33cbd17d2f28f0b9c1c72d.mp3?hdnea=exp=1795653120~acl=/api/1/1/a/0/a/0/a0a704f01c33cbd17d2f28f0b9c1c72d.mp3*~data=user_id=0,application_id=42~hmac=ea5e3203f10b094e3b873efd59e53a2746d928a3c77e31e89a91e8b09d39b87d",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "At Tension",
+            "length": "6:10",
+            "deezer": {
+              "id": 595411132,
+              "link": "https://www.deezer.com/track/595411132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fef832a8cb872c18434f182a984e37cc.mp3?hdnea=exp=1795653120~acl=/api/1/1/f/e/f/0/fef832a8cb872c18434f182a984e37cc.mp3*~data=user_id=0,application_id=42~hmac=47174f25a2266891e3bf2f0379218c21878d48fb385619eb6a91bb8e36165ad8",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Go Solo",
+            "length": "4:25",
+            "deezer": {
+              "id": 595411142,
+              "link": "https://www.deezer.com/track/595411142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/e/0/fbeb5b94cb5dc53a81491cc2fa66cdb5.mp3?hdnea=exp=1795653120~acl=/api/1/1/f/b/e/0/fbeb5b94cb5dc53a81491cc2fa66cdb5.mp3*~data=user_id=0,application_id=42~hmac=7f3acd5b805645c92c17291a25527bfbe9ab1478ceb956ef1c76d020e5b5bd52",
+              "preview_expires": "2026-11-26T00:32:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Daryl Hall & John Oates/H2O.jpg"
+}

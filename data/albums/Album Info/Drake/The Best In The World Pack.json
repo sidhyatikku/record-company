@@ -1,0 +1,72 @@
+{
+  "title": "The Best in the World Pack",
+  "artist": "Drake",
+  "year": 2019,
+  "release_date": "2019-06-15",
+  "type": "Single",
+  "description": "The Best in the World Pack is the third extended play by Canadian rapper Drake. It was released on June 15, 2019, by Frozen Moments, Republic Records and OVO Sound. It contains the dual singles \"Omertà\" and \"Money in the Grave\", with the latter featuring a guest appearance from American rapper Rick Ross, and later becoming Drake's 26th and Ross' 2nd number one respectively, on Billboard's Rhythmic Songs chart in August 2019. Multiple publications noted that the EP marks Drake's first release outside of the Cash Money Records and Young Money Records record labels. Instead, on streaming services, the release lists \"2019 Frozen Moments, LLC, under exclusive licensing to Republic Records, a division of UMG Recordings, Inc\". Billboard confirmed that Frozen Moments has previously been listed on additional OVO projects.",
+  "genres": [],
+  "tags": [
+    "foreignrap",
+    "hip-hop/rap",
+    "rap/hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fa068606-3e4a-4e77-8890-d4259cb9ff83",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Best_in_the_World_Pack",
+    "wikidata": "https://www.wikidata.org/wiki/Q65046901",
+    "deezer": "https://www.deezer.com/album/100449132"
+  },
+  "musicbrainz_id": "fa068606-3e4a-4e77-8890-d4259cb9ff83",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cd1f3a1d-cb3c-441f-809f-c09b4d4362e8",
+      "barcode": "0602508017728",
+      "title": "The Best in the World Pack",
+      "disambiguation": "explicit",
+      "date": "2019-06-15",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "7:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Omertà",
+            "length": "3:40",
+            "deezer": {
+              "id": 696957232,
+              "link": "https://www.deezer.com/track/696957232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/6/0/926dcf16866367090e41677afc58fafa.mp3?hdnea=exp=1795653595~acl=/api/1/1/9/2/6/0/926dcf16866367090e41677afc58fafa.mp3*~data=user_id=0,application_id=42~hmac=b37417523ecdf39b53e545c964d5ae951c9123524815640ed8b4d4aab6e35005",
+              "preview_expires": "2026-11-26T00:39:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Money in the Grave",
+            "length": "3:25",
+            "artist": "Drake feat. Rick Ross",
+            "deezer": {
+              "id": 696957242,
+              "link": "https://www.deezer.com/track/696957242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/7/0/ba7358aa3d74b60dc6bcf26211f7f9e5.mp3?hdnea=exp=1795653595~acl=/api/1/1/b/a/7/0/ba7358aa3d74b60dc6bcf26211f7f9e5.mp3*~data=user_id=0,application_id=42~hmac=95da4627154bbda5fdba1fe5c9ae90ba55242c8258034890a5905994d4278bc0",
+              "preview_expires": "2026-11-26T00:39:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/The Best In The World Pack.jpg"
+}

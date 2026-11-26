@@ -1,0 +1,294 @@
+{
+  "title": "Before the Storm",
+  "artist": "Darude",
+  "year": 2000,
+  "release_date": "2000-01-18",
+  "type": "Album",
+  "description": "Before the Storm is the debut studio album by Finnish DJ and record producer Darude. It was released on 18 September 2000 by 16 Inch Records. The album sold 800,000 copies worldwide. It also peaked number one on the Finland's Official List for albums.",
+  "genres": [
+    "electronic",
+    "trance",
+    "deep house",
+    "euro house",
+    "dance",
+    "euro-trance",
+    "techno"
+  ],
+  "tags": [
+    "electronic",
+    "trance",
+    "deep house",
+    "electronica dance",
+    "euro house",
+    "152",
+    "dance",
+    "euro-trance",
+    "techno",
+    "танцевальная музыка",
+    "электронная музыка"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b91d4cd0-dfee-3ff8-a06c-2ea3270d54a0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Before_the_Storm_(Darude_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000003841",
+    "discogs": "https://www.discogs.com/master/34877",
+    "wikidata": "https://www.wikidata.org/wiki/Q1953742",
+    "deezer": "https://www.deezer.com/album/6294293"
+  },
+  "musicbrainz_id": "b91d4cd0-dfee-3ff8-a06c-2ea3270d54a0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ccf18b92-87f4-4274-9f48-43dfb8db2faf",
+      "barcode": "743218652523",
+      "title": "Before the Storm",
+      "disambiguation": "special edition",
+      "date": "2001",
+      "country": "FI"
+    },
+    "total_tracks": 20,
+    "total_length": "2:02:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Out of Control (Back for More)",
+            "length": "3:38",
+            "deezer": {
+              "id": 64252632,
+              "link": "https://www.deezer.com/track/64252632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/c/0/b6c7b44914f02cd8c2a25a0e0eed1def.mp3?hdnea=exp=1795653117~acl=/api/1/1/b/6/c/0/b6c7b44914f02cd8c2a25a0e0eed1def.mp3*~data=user_id=0,application_id=42~hmac=d6248d40b946d421c3cd3dc371196d6d6e96dfd750a774792a4bd7805d3dcf32",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Burning",
+            "length": "7:11",
+            "deezer": {
+              "id": 64252633,
+              "link": "https://www.deezer.com/track/64252633",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/a/0/0aa98206c5c20e9ac07ac9e2a13ef70f.mp3?hdnea=exp=1795653117~acl=/api/1/1/0/a/a/0/0aa98206c5c20e9ac07ac9e2a13ef70f.mp3*~data=user_id=0,application_id=42~hmac=3465480ba4edcbb738840d1f79fc1826ae6b3d7dfcce5d7b04a0e1c9f4dfe231",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Feel the Beat",
+            "length": "4:19",
+            "deezer": {
+              "id": 64252634,
+              "link": "https://www.deezer.com/track/64252634",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/a/0/40aa4e4943bf2dd9277827719b326beb.mp3?hdnea=exp=1795653117~acl=/api/1/1/4/0/a/0/40aa4e4943bf2dd9277827719b326beb.mp3*~data=user_id=0,application_id=42~hmac=aa81a88d8bc01856aa32c05bc497ecbcb75b26e064ffbff27b7ec814198cf600",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sandstorm",
+            "length": "3:45",
+            "deezer": {
+              "id": 64252635,
+              "link": "https://www.deezer.com/track/64252635",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/3/0/a53a178b6ce4ec14fe0e7effd595a047.mp3?hdnea=exp=1795653117~acl=/api/1/1/a/5/3/0/a53a178b6ce4ec14fe0e7effd595a047.mp3*~data=user_id=0,application_id=42~hmac=bb1f1f557e7272edac89dede07872456e6cb2b56893709d70075d6e2f0b6298e",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Touch Me Feel Me",
+            "length": "6:14",
+            "deezer": {
+              "id": 64252636,
+              "link": "https://www.deezer.com/track/64252636",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/8/0/ec8023ec688b50e4e2c6eacaae2d9515.mp3?hdnea=exp=1795653117~acl=/api/1/1/e/c/8/0/ec8023ec688b50e4e2c6eacaae2d9515.mp3*~data=user_id=0,application_id=42~hmac=69817999ad5dabee913612abac0a354072f5f3fac3fc25ae81f3dd4071af1e70",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Calm Before the Storm",
+            "length": "4:53",
+            "deezer": {
+              "id": 64252637,
+              "link": "https://www.deezer.com/track/64252637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/e/0/93e0e9985cde0a04aad692e67300fb36.mp3?hdnea=exp=1795653117~acl=/api/1/1/9/3/e/0/93e0e9985cde0a04aad692e67300fb36.mp3*~data=user_id=0,application_id=42~hmac=284d33156267b48a8da3b7c11ac2be8459565c306064d5b6354da01a71a9e4ce",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Let the Music Take Control",
+            "length": "5:46",
+            "deezer": {
+              "id": 64252638,
+              "link": "https://www.deezer.com/track/64252638",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/a/0/4ea7a8d1875f3b7298c9885e39cd317d.mp3?hdnea=exp=1795653117~acl=/api/1/1/4/e/a/0/4ea7a8d1875f3b7298c9885e39cd317d.mp3*~data=user_id=0,application_id=42~hmac=81b20fd3494829f7a62746a8a9fcd3ce537ec524d8086520b3961d8d8eb5b8a2",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Drums of New York",
+            "length": "6:05",
+            "deezer": {
+              "id": 64252639,
+              "link": "https://www.deezer.com/track/64252639",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/f/0/42fe100c8ca71b9c7f05ef79d86d680d.mp3?hdnea=exp=1795653117~acl=/api/1/1/4/2/f/0/42fe100c8ca71b9c7f05ef79d86d680d.mp3*~data=user_id=0,application_id=42~hmac=4245e15052aa602e97890d3c858bfb7d94c8fce4eac4919b5bb35882211c8bad",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Flow",
+            "length": "3:51",
+            "deezer": {
+              "id": 64252640,
+              "link": "https://www.deezer.com/track/64252640",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/6/0/f76fff3154836463bee624475286612f.mp3?hdnea=exp=1795653117~acl=/api/1/1/f/7/6/0/f76fff3154836463bee624475286612f.mp3*~data=user_id=0,application_id=42~hmac=01c2a8344b00dfe56f3210870e6c0f1eb868723f87ab9b2f93e36176ac51468b",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Out of Control (Back for More) (JS16 remix)",
+            "length": "7:05",
+            "deezer": {
+              "id": 64252641,
+              "link": "https://www.deezer.com/track/64252641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/c/0/08ce5458433a5f52bf606b5137342722.mp3?hdnea=exp=1795653117~acl=/api/1/1/0/8/c/0/08ce5458433a5f52bf606b5137342722.mp3*~data=user_id=0,application_id=42~hmac=72bb9e6a089a074d8f04a90a27705fc6513bf529c36dba28b3c82ceefe26f6f7",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sandstorm (Terpsichord remix)",
+            "length": "7:02",
+            "deezer": {
+              "id": 64252642,
+              "link": "https://www.deezer.com/track/64252642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/3/0/1030fb596a2065b93639bac0c4d0e0f3.mp3?hdnea=exp=1795653117~acl=/api/1/1/1/0/3/0/1030fb596a2065b93639bac0c4d0e0f3.mp3*~data=user_id=0,application_id=42~hmac=c6586cdb441d6b9d80daca70137ec1d694a4cedfc2e95babe2bfa9575881080f",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sandstorm (JS16 remix)",
+            "length": "7:22",
+            "deezer": {
+              "id": 64252643,
+              "link": "https://www.deezer.com/track/64252643",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/2/0/e3291c3baad965da2bd9f1dc31530c60.mp3?hdnea=exp=1795653117~acl=/api/1/1/e/3/2/0/e3291c3baad965da2bd9f1dc31530c60.mp3*~data=user_id=0,application_id=42~hmac=b036b1cc39d195743173d9a01d316384017e07418228e031ee8b7b703b0df91b",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sandstorm (Ariel remix)",
+            "length": "6:41",
+            "deezer": {
+              "id": 64252644,
+              "link": "https://www.deezer.com/track/64252644",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/0/0/180d774709c3c1d5a9a02409523e064b.mp3?hdnea=exp=1795653117~acl=/api/1/1/1/8/0/0/180d774709c3c1d5a9a02409523e064b.mp3*~data=user_id=0,application_id=42~hmac=120e8b3f2e4079fdafd0dcf80f639b95ea3e22f12cc7948772ea352efa3b3e5d",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Feel the Beat (JS16 Dark mix)",
+            "length": "7:05",
+            "deezer": {
+              "id": 64252645,
+              "link": "https://www.deezer.com/track/64252645",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/c/0/59c46a7bfb4382cb0d60614e13cdc68f.mp3?hdnea=exp=1795653117~acl=/api/1/1/5/9/c/0/59c46a7bfb4382cb0d60614e13cdc68f.mp3*~data=user_id=0,application_id=42~hmac=4b2878897fdcd89a25ed6fcb672d6ec2d4a527278192890f6cda744231b57d9a",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Feel the Beat (Rocco & Heist remix)",
+            "length": "9:02",
+            "deezer": {
+              "id": 64252646,
+              "link": "https://www.deezer.com/track/64252646",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/f/0/4af6b4391d5102c185c5ad7be8d3535e.mp3?hdnea=exp=1795653117~acl=/api/1/1/4/a/f/0/4af6b4391d5102c185c5ad7be8d3535e.mp3*~data=user_id=0,application_id=42~hmac=2acee1b5995e68da4718357d48390a364ba043c8852ac639dab08a1571ad85b4",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Feel the Beat (Missing Link remix)",
+            "length": "4:55",
+            "deezer": {
+              "id": 64252647,
+              "link": "https://www.deezer.com/track/64252647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/3/0/c43689360e4993429fe5dfdd3333deaa.mp3?hdnea=exp=1795653117~acl=/api/1/1/c/4/3/0/c43689360e4993429fe5dfdd3333deaa.mp3*~data=user_id=0,application_id=42~hmac=6ae82fd5ec6aa05ec334e6a7e0ef6be0e2384d49ff79314042ad05fe4f8cfa96",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Feel the Beat (Soundfreak remix)",
+            "length": "5:37",
+            "deezer": {
+              "id": 64252648,
+              "link": "https://www.deezer.com/track/64252648",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/0/0/f90ca675771fa098ebe028004a09b570.mp3?hdnea=exp=1795653117~acl=/api/1/1/f/9/0/0/f90ca675771fa098ebe028004a09b570.mp3*~data=user_id=0,application_id=42~hmac=a7fd730d98aefe132c00a03f4239dbe19cdc98c4ca47f77079e22d89cb80e7f3",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Out of Control (Back for More) (Spectro remix)",
+            "length": "6:54",
+            "deezer": {
+              "id": 64252649,
+              "link": "https://www.deezer.com/track/64252649",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92f7f21bc0e7de1a3072f010005816cb.mp3?hdnea=exp=1795653117~acl=/api/1/1/9/2/f/0/92f7f21bc0e7de1a3072f010005816cb.mp3*~data=user_id=0,application_id=42~hmac=31c0e91872f6a74e16a1e8367a009c09cb08d8507ac149c4335b95e8ccf20c24",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Out of Control (Bostik remix)",
+            "length": "8:41",
+            "deezer": {
+              "id": 64252650,
+              "link": "https://www.deezer.com/track/64252650",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/e/0/35e6def02d8024bddb08d8f9313e3c5f.mp3?hdnea=exp=1795653117~acl=/api/1/1/3/5/e/0/35e6def02d8024bddb08d8f9313e3c5f.mp3*~data=user_id=0,application_id=42~hmac=5bdf1d39607237f12e5d642c432f6064e6579754a94b96433f7cee37d1a6e638",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Calm Before the Storm ('99 remix)",
+            "length": "6:32",
+            "deezer": {
+              "id": 64252651,
+              "link": "https://www.deezer.com/track/64252651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/b/0/c8b938af64e5800c8e3cc2cc30d98019.mp3?hdnea=exp=1795653117~acl=/api/1/1/c/8/b/0/c8b938af64e5800c8e3cc2cc30d98019.mp3*~data=user_id=0,application_id=42~hmac=5616ee6a17c906add47dd756d4751c67eeb683205b300e070d847ae20a116a13",
+              "preview_expires": "2026-11-26T00:31:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Darude/Before the Storm, Special Edition.jpg"
+}

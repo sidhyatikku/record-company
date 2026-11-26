@@ -1,0 +1,688 @@
+{
+  "title": "Kinks",
+  "artist": "The Kinks",
+  "year": 1964,
+  "release_date": "1964-10-02",
+  "type": "Album",
+  "description": "Kinks is the debut studio album by the English rock band the Kinks. It was released on 2 October 1964 in the United Kingdom by Pye Records. The original United States release, issued by Reprise Records on 25 November 1964, omits three tracks and is instead titled You Really Got Me.",
+  "genres": [
+    "rock",
+    "british rhythm & blues",
+    "garage rock",
+    "mod",
+    "pop rock",
+    "rock and roll"
+  ],
+  "tags": [
+    "rock",
+    "british invasion",
+    "rock & roll",
+    "british rhythm & blues",
+    "contemporary pop/rock",
+    "garage rock",
+    "mod",
+    "pop rock",
+    "pop/rock",
+    "rock and roll"
+  ],
+  "rating": {
+    "value_out_of_5": 2.75,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/874449ed-f27e-4e1b-923e-9f1aaef4cc06",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kinks_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0001983603",
+    "discogs": "https://www.discogs.com/master/101473",
+    "wikidata": "https://www.wikidata.org/wiki/Q950706",
+    "deezer": "https://www.deezer.com/album/905339752"
+  },
+  "musicbrainz_id": "874449ed-f27e-4e1b-923e-9f1aaef4cc06",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a9f9bc6a-9eb4-42cb-8a04-410c4c2dcef1",
+      "barcode": "5414939496776",
+      "title": "Kinks (deluxe edition)",
+      "disambiguation": null,
+      "date": "2011-03-28",
+      "country": "XW"
+    },
+    "total_tracks": 56,
+    "total_length": "2:06:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beautiful Delilah (stereo mix)",
+            "length": "2:07",
+            "deezer": {
+              "id": 3803574872,
+              "link": "https://www.deezer.com/track/3803574872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93a73e323abbfbd84acb08cbec0fe548.mp3?hdnea=exp=1795721555~acl=/api/1/1/9/3/a/0/93a73e323abbfbd84acb08cbec0fe548.mp3*~data=user_id=0,application_id=42~hmac=6fec8205af9e7eef6b4f466955bfbb64f61d311c0d3de1e16939901fdbd6b85b",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "So Mystifying (stereo mix)",
+            "length": "2:56",
+            "deezer": {
+              "id": 3803574882,
+              "link": "https://www.deezer.com/track/3803574882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/b/0/1eba58cddb9dc9bb6b135c1deba793bf.mp3?hdnea=exp=1795721555~acl=/api/1/1/1/e/b/0/1eba58cddb9dc9bb6b135c1deba793bf.mp3*~data=user_id=0,application_id=42~hmac=3e13f0943c0b55c3320a6804a766f12bc7a845cf40cc9a8e86d346397db77b55",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Just Can’t Go to Sleep (stereo mix)",
+            "length": "1:58",
+            "deezer": {
+              "id": 3803574892,
+              "link": "https://www.deezer.com/track/3803574892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/9/0/f4914feff4e7bc39ae48fb487d28e68a.mp3?hdnea=exp=1795721555~acl=/api/1/1/f/4/9/0/f4914feff4e7bc39ae48fb487d28e68a.mp3*~data=user_id=0,application_id=42~hmac=38e56c221a27d7c31048deb142fb61e5ab32aeb4f4382dbb38a024c061759c6b",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Long Tall Shorty (stereo version)",
+            "length": "2:52",
+            "deezer": {
+              "id": 3803574902,
+              "link": "https://www.deezer.com/track/3803574902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/9/0/1595375f5bd8cacd5cc11fe26eb8f619.mp3?hdnea=exp=1795721555~acl=/api/1/1/1/5/9/0/1595375f5bd8cacd5cc11fe26eb8f619.mp3*~data=user_id=0,application_id=42~hmac=dffb7ad13b22e7c803885db62256c3647ca05eedc0cb4d813445b1c3528efc55",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Took My Baby Home (stereo)",
+            "length": "1:48",
+            "deezer": {
+              "id": 3803574912,
+              "link": "https://www.deezer.com/track/3803574912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/1/0/b11755fb4d087cf26d7ec84e7ffa9ee0.mp3?hdnea=exp=1795721555~acl=/api/1/1/b/1/1/0/b11755fb4d087cf26d7ec84e7ffa9ee0.mp3*~data=user_id=0,application_id=42~hmac=120270173e16a2d16bf43b1637f1855027c181f7a18f82efb2becf3f896f11c3",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I’m a Lover Not a Fighter (stereo mix)",
+            "length": "2:05",
+            "deezer": {
+              "id": 3803574922,
+              "link": "https://www.deezer.com/track/3803574922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/2/0/1e2413c18c373bbd0389c4484ba2fd4f.mp3?hdnea=exp=1795721555~acl=/api/1/1/1/e/2/0/1e2413c18c373bbd0389c4484ba2fd4f.mp3*~data=user_id=0,application_id=42~hmac=4a5ebc6489fe740a51d22612150fef5de7779a5c97463cf465980f36f7a55524",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "You Really Got Me (mono version with reverb)",
+            "length": "2:15",
+            "deezer": {
+              "id": 3803574932,
+              "link": "https://www.deezer.com/track/3803574932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/c/0/d8c3fd4ef019b7b3c377a3b31d710877.mp3?hdnea=exp=1795721555~acl=/api/1/1/d/8/c/0/d8c3fd4ef019b7b3c377a3b31d710877.mp3*~data=user_id=0,application_id=42~hmac=48bd6939fb2bd8df68368a305f998c67c3db12208e763d0708b36b4c05b5e9fb",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cadillac (stereo mix)",
+            "length": "2:44",
+            "deezer": {
+              "id": 3803574942,
+              "link": "https://www.deezer.com/track/3803574942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/5/0/445603a3104c8286e8e25239af1a6fa8.mp3?hdnea=exp=1795721555~acl=/api/1/1/4/4/5/0/445603a3104c8286e8e25239af1a6fa8.mp3*~data=user_id=0,application_id=42~hmac=7e258df5288c92ef845299d33b285a857145b824732a76240f3b1a9df29dcdd9",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bald Headed Woman (stereo mix)",
+            "length": "2:42",
+            "deezer": {
+              "id": 3803574952,
+              "link": "https://www.deezer.com/track/3803574952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/7/0/9770cff750833be89a8580fab7425bbb.mp3?hdnea=exp=1795721555~acl=/api/1/1/9/7/7/0/9770cff750833be89a8580fab7425bbb.mp3*~data=user_id=0,application_id=42~hmac=389be1a0f2d49374f317947328e6777b8d70b644f66663ea6031aed14652465b",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Revenge (stereo mix)",
+            "length": "1:31",
+            "deezer": {
+              "id": 3803574962,
+              "link": "https://www.deezer.com/track/3803574962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/5/0/0858388758df33ce7bd7199cad5e93e5.mp3?hdnea=exp=1795721555~acl=/api/1/1/0/8/5/0/0858388758df33ce7bd7199cad5e93e5.mp3*~data=user_id=0,application_id=42~hmac=dad28e4d52ac26325c16c59d8d2724addc6878bde293fcc56c939e29b1374914",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Too Much Monkey Business (stereo mix)",
+            "length": "2:15",
+            "deezer": {
+              "id": 3803574972,
+              "link": "https://www.deezer.com/track/3803574972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/4/0/8a46748a54ee24f874ad485bf0447286.mp3?hdnea=exp=1795721555~acl=/api/1/1/8/a/4/0/8a46748a54ee24f874ad485bf0447286.mp3*~data=user_id=0,application_id=42~hmac=8b0536a95b845d76acdc0202dce4efa00873466a0ff989fb9288080ef707f5fa",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I’ve Been Driving on Bald Mountain (stereo mix)",
+            "length": "2:07",
+            "deezer": {
+              "id": 3803574982,
+              "link": "https://www.deezer.com/track/3803574982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/6/0/3060ae51bf365b74bffb7b4926c905a1.mp3?hdnea=exp=1795721555~acl=/api/1/1/3/0/6/0/3060ae51bf365b74bffb7b4926c905a1.mp3*~data=user_id=0,application_id=42~hmac=da0ec9006898b67a855bfc36f2cb6f041f0cf98b165cc747129cabcc22c8a75d",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Stop Your Sobbing (stereo mix)",
+            "length": "2:06",
+            "deezer": {
+              "id": 3803574992,
+              "link": "https://www.deezer.com/track/3803574992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/2/0/a7264af883480aa07ef81ec046441de5.mp3?hdnea=exp=1795721555~acl=/api/1/1/a/7/2/0/a7264af883480aa07ef81ec046441de5.mp3*~data=user_id=0,application_id=42~hmac=ea0112cfaa0ba1390689a7487c10422994f82e4cd88d1b5fb2c6e433eb9ca97b",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Got Love If You Want It (stereo mix)",
+            "length": "3:45",
+            "deezer": {
+              "id": 3803575002,
+              "link": "https://www.deezer.com/track/3803575002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/f/0/bef87bfb91fe8353dce4333fa7947082.mp3?hdnea=exp=1795721555~acl=/api/1/1/b/e/f/0/bef87bfb91fe8353dce4333fa7947082.mp3*~data=user_id=0,application_id=42~hmac=48907861f5ecbd5c4bfffc016f7f1882151f874ed0f0db8e3b0bd36da5f0526c",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "I Believed You (mono mix) [demo version]",
+            "length": "1:57",
+            "deezer": {
+              "id": 3803575012,
+              "link": "https://www.deezer.com/track/3803575012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/9/0/8e95488ed5aef83f65238fec9dd56509.mp3?hdnea=exp=1795721555~acl=/api/1/1/8/e/9/0/8e95488ed5aef83f65238fec9dd56509.mp3*~data=user_id=0,application_id=42~hmac=1fbe6600d995d614f909337231ede789dd89e81e4eaf17c6941fc899c4f4c74b",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I’m a Hog for You Baby (mono mix) [demo version]",
+            "length": "1:39",
+            "deezer": {
+              "id": 3803575022,
+              "link": "https://www.deezer.com/track/3803575022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/c/0/aac91f22e167b19d5fc5ef065ae40ca2.mp3?hdnea=exp=1795721555~acl=/api/1/1/a/a/c/0/aac91f22e167b19d5fc5ef065ae40ca2.mp3*~data=user_id=0,application_id=42~hmac=a6595e35de0f479d12b95f035b6a61fcb13ddd3403d5422c8c64820290b95dbd",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "I Don’t Need You Anymore (mono mix) [demo version]",
+            "length": "2:13",
+            "deezer": {
+              "id": 3803575032,
+              "link": "https://www.deezer.com/track/3803575032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/f/0/edf6737d12bff338d0fe73991764e435.mp3?hdnea=exp=1795721555~acl=/api/1/1/e/d/f/0/edf6737d12bff338d0fe73991764e435.mp3*~data=user_id=0,application_id=42~hmac=bfaaeecd124f9459e715864b9f1676d1f67193f5fc48d2ecd011bfa57b396ac3",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Ev’rybody’s Gonna Be Happy (mono mix) [demo version]",
+            "length": "2:22",
+            "deezer": {
+              "id": 3803575042,
+              "link": "https://www.deezer.com/track/3803575042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/8/0/5287e408c3ac7e43546f48a6e89fcc7f.mp3?hdnea=exp=1795721555~acl=/api/1/1/5/2/8/0/5287e408c3ac7e43546f48a6e89fcc7f.mp3*~data=user_id=0,application_id=42~hmac=d644e46175ac1bda136fe9acfb4855a49f2e20728fb8e457a732a36be2c26340",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Long Tall Sally (mono mix)",
+            "length": "2:11",
+            "deezer": {
+              "id": 3803575052,
+              "link": "https://www.deezer.com/track/3803575052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/4/0/e748591928cbc4662c11d7e6d277e30c.mp3?hdnea=exp=1795721555~acl=/api/1/1/e/7/4/0/e748591928cbc4662c11d7e6d277e30c.mp3*~data=user_id=0,application_id=42~hmac=e0955c27d6604348b85d52cec2fd41adeb49f09bdd98dfe71e1de2b2d4a8ee23",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "You Still Want Me (mono mix)",
+            "length": "1:58",
+            "deezer": {
+              "id": 3803575062,
+              "link": "https://www.deezer.com/track/3803575062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/8/0/208010e707179519aabe2ca03b2704a3.mp3?hdnea=exp=1795721555~acl=/api/1/1/2/0/8/0/208010e707179519aabe2ca03b2704a3.mp3*~data=user_id=0,application_id=42~hmac=7e3be23a5190b42ffa9bc0303fc554ccb56056c27109ed82e0df307c026b36fa",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "You Do Something to Me",
+            "length": "2:24",
+            "deezer": {
+              "id": 3803575072,
+              "link": "https://www.deezer.com/track/3803575072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/0/0/c40c64347e2a3d3f3c123799d39b6d0f.mp3?hdnea=exp=1795721555~acl=/api/1/1/c/4/0/0/c40c64347e2a3d3f3c123799d39b6d0f.mp3*~data=user_id=0,application_id=42~hmac=ed661fdb953c4201832852351beb256405a455d8f3931ed48168a6613c4d8802",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "It’s All Right",
+            "length": "2:36",
+            "deezer": {
+              "id": 3803575082,
+              "link": "https://www.deezer.com/track/3803575082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/f/0/ebfcb8b27d4a341ee26c63b688299ef5.mp3?hdnea=exp=1795721555~acl=/api/1/1/e/b/f/0/ebfcb8b27d4a341ee26c63b688299ef5.mp3*~data=user_id=0,application_id=42~hmac=67ba11d48e6aae32bb7154a104cfd57f13cef652e2b88b03f075d61c67d0a61e",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "All Day and All of the Night",
+            "length": "2:22",
+            "deezer": {
+              "id": 3803575092,
+              "link": "https://www.deezer.com/track/3803575092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/f/0/c3f894968224486da7c148d847518f3c.mp3?hdnea=exp=1795721555~acl=/api/1/1/c/3/f/0/c3f894968224486da7c148d847518f3c.mp3*~data=user_id=0,application_id=42~hmac=443b282cc84c545c486409ea6dfaa7c6ce470459de8acce114f8ed272e519b64",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "I Gotta Move",
+            "length": "2:24",
+            "deezer": {
+              "id": 3803575102,
+              "link": "https://www.deezer.com/track/3803575102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a59206e8281f19e56643353d3ed43c8.mp3?hdnea=exp=1795721555~acl=/api/1/1/7/a/5/0/7a59206e8281f19e56643353d3ed43c8.mp3*~data=user_id=0,application_id=42~hmac=7e3e625013b0cef7eafac6f764ac84384ffd74f763c953cd4e7e9b55351c0a02",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "Louie Louie",
+            "length": "2:57",
+            "deezer": {
+              "id": 3803575112,
+              "link": "https://www.deezer.com/track/3803575112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/9/0/5f98ece16eb585023a0f894a3db5d8c8.mp3?hdnea=exp=1795721555~acl=/api/1/1/5/f/9/0/5f98ece16eb585023a0f894a3db5d8c8.mp3*~data=user_id=0,application_id=42~hmac=dc1251145cd7549cd700f8328ffcec2693a2cc4d6a1663328b00ba9b266c5c12",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "I’ve Got That Feeling",
+            "length": "2:43",
+            "deezer": {
+              "id": 3803575122,
+              "link": "https://www.deezer.com/track/3803575122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/8/0/eb8f236bc7b8a61b67db8add357e4626.mp3?hdnea=exp=1795721555~acl=/api/1/1/e/b/8/0/eb8f236bc7b8a61b67db8add357e4626.mp3*~data=user_id=0,application_id=42~hmac=c73fa0c00a16e5f49cab7b5b7db233fdd730d0046e1eaeba57438eb1c992c188",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "I Gotta Go Now",
+            "length": "2:53",
+            "deezer": {
+              "id": 3803575132,
+              "link": "https://www.deezer.com/track/3803575132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/c/0/8bc8470d5d3f8cd277deb82b761cd18b.mp3?hdnea=exp=1795721555~acl=/api/1/1/8/b/c/0/8bc8470d5d3f8cd277deb82b761cd18b.mp3*~data=user_id=0,application_id=42~hmac=76893a04518a18781edcec402a31c9335540cc666d20ab0f4a623e14adc3c4d9",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "Things Are Getting Better",
+            "length": "1:55",
+            "deezer": {
+              "id": 3803575142,
+              "link": "https://www.deezer.com/track/3803575142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/1/0/151d5a1ac145c612d41cbe0d679f42ae.mp3?hdnea=exp=1795721555~acl=/api/1/1/1/5/1/0/151d5a1ac145c612d41cbe0d679f42ae.mp3*~data=user_id=0,application_id=42~hmac=3345641ce895b6dca2fe02f867fdd26774a1476c4080d452929e2bc68666349c",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beautiful Delilah",
+            "length": "2:05",
+            "deezer": {
+              "id": 3803575152,
+              "link": "https://www.deezer.com/track/3803575152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/d/0/77da84495d299b4054148f4af31fdec3.mp3?hdnea=exp=1795721555~acl=/api/1/1/7/7/d/0/77da84495d299b4054148f4af31fdec3.mp3*~data=user_id=0,application_id=42~hmac=a3ab63a02382c895dcc05b1c20c7107ab69ee801c0c5f43e34c9073918b9bdf0",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "So Mystifying",
+            "length": "2:53",
+            "deezer": {
+              "id": 3803575162,
+              "link": "https://www.deezer.com/track/3803575162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/d/0/1fde6b84ef37d322cd9fedb962853fc1.mp3?hdnea=exp=1795721555~acl=/api/1/1/1/f/d/0/1fde6b84ef37d322cd9fedb962853fc1.mp3*~data=user_id=0,application_id=42~hmac=ed0a2eedc9b70b3fd06931c21defa88609cab1e2dbfd1d604c350c0cb1831140",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Just Can’t Go to Sleep",
+            "length": "1:59",
+            "deezer": {
+              "id": 3803575172,
+              "link": "https://www.deezer.com/track/3803575172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/c/0/aec8ba88fc57d46d3d3d1fa88c3f9bed.mp3?hdnea=exp=1795721555~acl=/api/1/1/a/e/c/0/aec8ba88fc57d46d3d3d1fa88c3f9bed.mp3*~data=user_id=0,application_id=42~hmac=c535af5f422d8ae14cce142d989c10d23cfa6a05ee6e72948b519156db6678e2",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Long Tall Shorty (mono version)",
+            "length": "2:50",
+            "deezer": {
+              "id": 3803575182,
+              "link": "https://www.deezer.com/track/3803575182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/0/0/3503bb0c2ff23d28e8b6a920529c7738.mp3?hdnea=exp=1795721555~acl=/api/1/1/3/5/0/0/3503bb0c2ff23d28e8b6a920529c7738.mp3*~data=user_id=0,application_id=42~hmac=42273453e3119fa4d6a15a9553d818474a4db83615d90cb4dac29214b58b0abb",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Took My Baby Home (mono)",
+            "length": "1:48",
+            "deezer": {
+              "id": 3803575192,
+              "link": "https://www.deezer.com/track/3803575192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/5/0/0b542ec4685af26b35050c355e926a12.mp3?hdnea=exp=1795721555~acl=/api/1/1/0/b/5/0/0b542ec4685af26b35050c355e926a12.mp3*~data=user_id=0,application_id=42~hmac=38e3c9ed26db8cd8df987d348c033f33e450423fa4a72c1f829ea9859918d7e9",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I’m a Lover Not a Fighter",
+            "length": "2:04",
+            "deezer": {
+              "id": 3803575202,
+              "link": "https://www.deezer.com/track/3803575202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/b/0/90b02b00c7a7f84035ecb87094b140df.mp3?hdnea=exp=1795721555~acl=/api/1/1/9/0/b/0/90b02b00c7a7f84035ecb87094b140df.mp3*~data=user_id=0,application_id=42~hmac=c175ba5d5fc7d46d07e6bb5255b8390777149605e552a9ad89d8eef395f7bd51",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "You Really Got Me",
+            "length": "2:14",
+            "deezer": {
+              "id": 3803575212,
+              "link": "https://www.deezer.com/track/3803575212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/d/0/70d2e38b219e541e492e10e964fc729a.mp3?hdnea=exp=1795721555~acl=/api/1/1/7/0/d/0/70d2e38b219e541e492e10e964fc729a.mp3*~data=user_id=0,application_id=42~hmac=b9ac18b647bb7f199e1795c11b80552b55b90135f5a3b4fca210e1e3febd470e",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cadillac",
+            "length": "2:45",
+            "deezer": {
+              "id": 3803575222,
+              "link": "https://www.deezer.com/track/3803575222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/f/0/f3fbe1345820f8e5dae15f6f9aa04c63.mp3?hdnea=exp=1795721555~acl=/api/1/1/f/3/f/0/f3fbe1345820f8e5dae15f6f9aa04c63.mp3*~data=user_id=0,application_id=42~hmac=a73189128a7c8358682e9e3a8ebed52272849306950a976c6f292a3543e941e4",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bald Headed Woman",
+            "length": "2:42",
+            "deezer": {
+              "id": 3803575232,
+              "link": "https://www.deezer.com/track/3803575232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/7/0/7679608b1471cc16525d0d1c5811d0e2.mp3?hdnea=exp=1795721555~acl=/api/1/1/7/6/7/0/7679608b1471cc16525d0d1c5811d0e2.mp3*~data=user_id=0,application_id=42~hmac=10f543f605a1de581e90049b606aa5b765f1008a48baa8d961fd319d2df4466a",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Revenge",
+            "length": "1:30",
+            "deezer": {
+              "id": 3803575242,
+              "link": "https://www.deezer.com/track/3803575242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/e/0/5bed70c87056a1580194bd4be68e8559.mp3?hdnea=exp=1795721555~acl=/api/1/1/5/b/e/0/5bed70c87056a1580194bd4be68e8559.mp3*~data=user_id=0,application_id=42~hmac=a54a40b9497daffe6a7b3f97d01b3b368b01c3aa60fc9132928ff2a28cbeff15",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Too Much Monkey Business",
+            "length": "2:15",
+            "deezer": {
+              "id": 3803575252,
+              "link": "https://www.deezer.com/track/3803575252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/3/0/643655ade6482347f2b35c1f13e74626.mp3?hdnea=exp=1795721555~acl=/api/1/1/6/4/3/0/643655ade6482347f2b35c1f13e74626.mp3*~data=user_id=0,application_id=42~hmac=9a93b5ab49e699873c9ef0e4d5792ee5f9b4dfd9b6373df49c89fd30ee29b97d",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I’ve Been Driving on Bald Mountain",
+            "length": "2:02",
+            "deezer": {
+              "id": 3803575262,
+              "link": "https://www.deezer.com/track/3803575262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/9/0/109ea1fbd9e59ecfddf40e87591dc14b.mp3?hdnea=exp=1795721555~acl=/api/1/1/1/0/9/0/109ea1fbd9e59ecfddf40e87591dc14b.mp3*~data=user_id=0,application_id=42~hmac=035fa1566f272233c286a138662c6bd8dc8b8f355f171f25e1c9d24d1456ee9e",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Stop Your Sobbing",
+            "length": "2:05",
+            "deezer": {
+              "id": 3803575272,
+              "link": "https://www.deezer.com/track/3803575272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/1/0/be146ffeff0a94aec73c045b6fb7872a.mp3?hdnea=exp=1795721555~acl=/api/1/1/b/e/1/0/be146ffeff0a94aec73c045b6fb7872a.mp3*~data=user_id=0,application_id=42~hmac=418f138a2c434c91bbec87f13d7d8cc89f4cac4fb8553a83c2e63f577f879b46",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Got Love If You Want It",
+            "length": "3:46",
+            "deezer": {
+              "id": 3803575282,
+              "link": "https://www.deezer.com/track/3803575282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/8/0/fe8bf045ea07480ee0f0dadb4c0e57fa.mp3?hdnea=exp=1795721555~acl=/api/1/1/f/e/8/0/fe8bf045ea07480ee0f0dadb4c0e57fa.mp3*~data=user_id=0,application_id=42~hmac=4dc61c06966a800ce1e8ab72660910dde3100051924116b0c845d4290e479580",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Don’t Ever Let Me Go (mono mix)",
+            "length": "2:18",
+            "deezer": {
+              "id": 3803575292,
+              "link": "https://www.deezer.com/track/3803575292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/b/0/00b3605a4f8407348971334eaf87f8e2.mp3?hdnea=exp=1795721555~acl=/api/1/1/0/0/b/0/00b3605a4f8407348971334eaf87f8e2.mp3*~data=user_id=0,application_id=42~hmac=4ba17160cfc562790a53902388bcf2b2f54ba1681144dfb6d9a11e6129407a79",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I Don’t Need You Anymore (mono mix)",
+            "length": "2:08",
+            "deezer": {
+              "id": 3803575302,
+              "link": "https://www.deezer.com/track/3803575302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/3/0/7a3bff016c2d4fa0989c83e8fa5b1e3d.mp3?hdnea=exp=1795721555~acl=/api/1/1/7/a/3/0/7a3bff016c2d4fa0989c83e8fa5b1e3d.mp3*~data=user_id=0,application_id=42~hmac=98c62b79d5189ab841484b81ad7457ad92205791ba8f208fd5e2d78c50a8d7ef",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Bald Headed Woman (mono US mix)",
+            "length": "2:40",
+            "deezer": {
+              "id": 3803575312,
+              "link": "https://www.deezer.com/track/3803575312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/4/0/54423eb3b0ef366163a954add7cf8363.mp3?hdnea=exp=1795721555~acl=/api/1/1/5/4/4/0/54423eb3b0ef366163a954add7cf8363.mp3*~data=user_id=0,application_id=42~hmac=260558f507399e1ec1d72c1d19763ddd15734d6121fd30e57e00786e02358d6d",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Too Much Monkey Business (alternate take)",
+            "length": "2:08",
+            "deezer": {
+              "id": 3803575322,
+              "link": "https://www.deezer.com/track/3803575322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/a/0/eaa16de7469e11d57f0773cd063279e4.mp3?hdnea=exp=1795721555~acl=/api/1/1/e/a/a/0/eaa16de7469e11d57f0773cd063279e4.mp3*~data=user_id=0,application_id=42~hmac=fc6dedd798884260b1032961e8299c54a6edddaa9ec6a7115761dbfa608df3ea",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Got Love If You Want It (mono alternate take)",
+            "length": "3:34",
+            "deezer": {
+              "id": 3803575332,
+              "link": "https://www.deezer.com/track/3803575332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/5/0/2c5bb045824ca2ea1d72e1e8becf14a3.mp3?hdnea=exp=1795721555~acl=/api/1/1/2/c/5/0/2c5bb045824ca2ea1d72e1e8becf14a3.mp3*~data=user_id=0,application_id=42~hmac=bf07849c23e27249ab5b8b767be0944171eabbcc6d3789f2756ea434e52c1281",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Meet the Kinks (BBC Interview)",
+            "length": "0:34",
+            "deezer": {
+              "id": 3803575342,
+              "link": "https://www.deezer.com/track/3803575342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/4/0/864c7b67cc86742a57234bab2682f5fe.mp3?hdnea=exp=1795721555~acl=/api/1/1/8/6/4/0/864c7b67cc86742a57234bab2682f5fe.mp3*~data=user_id=0,application_id=42~hmac=5cd3ad79d15d68a7c88cc060c3afd8a7ac9083549692581e584c7c6f58ffefee",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Cadillac (live at the Playhouse Theatre, 1964)",
+            "length": "2:35",
+            "deezer": {
+              "id": 3803575352,
+              "link": "https://www.deezer.com/track/3803575352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/0/0/0603e28b4e35c012e04924711b620f27.mp3?hdnea=exp=1795721555~acl=/api/1/1/0/6/0/0/0603e28b4e35c012e04924711b620f27.mp3*~data=user_id=0,application_id=42~hmac=a6ffc61a1c92badcf81582780efd342e733ba736d13e3ea6bfe9063e74b6b687",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Meet the Kinks (BBC Interview: Ray Talks About ‘You Really Got Me’)",
+            "length": "0:14",
+            "deezer": {
+              "id": 3803575362,
+              "link": "https://www.deezer.com/track/3803575362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/7/0/a777c6de8246b9bade039f68130f407f.mp3?hdnea=exp=1795721555~acl=/api/1/1/a/7/7/0/a777c6de8246b9bade039f68130f407f.mp3*~data=user_id=0,application_id=42~hmac=9fd1a26f06ead7d71546275c61cc60f0ea20b92c2455068d1b44000d8aba8f12",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "You Really Got Me (live at the Playhouse Theatre, 1964)",
+            "length": "2:08",
+            "deezer": {
+              "id": 3803575372,
+              "link": "https://www.deezer.com/track/3803575372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/2/0/432a0d39af44253731ae0e2e631058bb.mp3?hdnea=exp=1795721555~acl=/api/1/1/4/3/2/0/432a0d39af44253731ae0e2e631058bb.mp3*~data=user_id=0,application_id=42~hmac=3faf0247940bb0cccd00adf293f5566b797c905ecdfca2167ffb70eb51cf5db3",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Little Queenie (live at the Playhouse Theatre, 1964)",
+            "length": "1:48",
+            "deezer": {
+              "id": 3803575382,
+              "link": "https://www.deezer.com/track/3803575382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/c/0/f7c3b6c74ec407ef0c57112124ae29e5.mp3?hdnea=exp=1795721555~acl=/api/1/1/f/7/c/0/f7c3b6c74ec407ef0c57112124ae29e5.mp3*~data=user_id=0,application_id=42~hmac=0754efb519c8aec4c50bf10203128aaf545f2883c60dee22c89f01e08c87452d",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "I’m a Lover Not a Fighter (live at the Playhouse Theatre, 1964)",
+            "length": "2:12",
+            "deezer": {
+              "id": 3803575392,
+              "link": "https://www.deezer.com/track/3803575392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/a/0/9fae05cace785cbd3a814e0dda724622.mp3?hdnea=exp=1795721555~acl=/api/1/1/9/f/a/0/9fae05cace785cbd3a814e0dda724622.mp3*~data=user_id=0,application_id=42~hmac=c80958ca4341151ee8577b6298fea25b40a6c2cb0da825efa937f3d13e1b95de",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "All Day and All of the Night (live at the Playhouse Theatre, 1964)",
+            "length": "2:18",
+            "deezer": {
+              "id": 3803575402,
+              "link": "https://www.deezer.com/track/3803575402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/9/0/799a7319821db423677ab252c2aafb64.mp3?hdnea=exp=1795721555~acl=/api/1/1/7/9/9/0/799a7319821db423677ab252c2aafb64.mp3*~data=user_id=0,application_id=42~hmac=9afc842bdcfb3824324b4f2edebe2b54233e5250546483591b422f1e86af319e",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "Meet the Kinks (BBC Interview: Ray Talks About the USA)",
+            "length": "0:40",
+            "deezer": {
+              "id": 3803575412,
+              "link": "https://www.deezer.com/track/3803575412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/e/0/5de388e8ba30d92ea783046784b770e4.mp3?hdnea=exp=1795721555~acl=/api/1/1/5/d/e/0/5de388e8ba30d92ea783046784b770e4.mp3*~data=user_id=0,application_id=42~hmac=d73b73dc85efdcc93820e69c79261e851714120ea3d89ec1ae112810d7d49a72",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "I’ve Got That Feeling (live at Piccadilly Studios, 1964)",
+            "length": "2:46",
+            "deezer": {
+              "id": 3803575422,
+              "link": "https://www.deezer.com/track/3803575422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/5/0/45530084d3e27cb02eb3213ed6b63422.mp3?hdnea=exp=1795721555~acl=/api/1/1/4/5/5/0/45530084d3e27cb02eb3213ed6b63422.mp3*~data=user_id=0,application_id=42~hmac=60cad96ff68bcf49dfe0166a189e8035b6616357b5e2f368f9e2006850754277",
+              "preview_expires": "2026-11-26T19:32:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Kinks/Kinks.jpg"
+}

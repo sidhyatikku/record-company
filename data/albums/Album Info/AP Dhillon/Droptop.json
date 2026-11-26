@@ -1,0 +1,51 @@
+{
+  "title": "Droptop",
+  "artist": "AP Dhillon & Gurinder Gill",
+  "year": 2020,
+  "release_date": "2020-05-22",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/05baf62e-50bd-44ce-8a4c-5ca2a39e1d65",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/165717392"
+  },
+  "musicbrainz_id": "05baf62e-50bd-44ce-8a4c-5ca2a39e1d65",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4d223191-770a-4606-a969-2d934dbca9d4",
+      "barcode": null,
+      "title": "Droptop",
+      "disambiguation": null,
+      "date": "2020-05-22",
+      "country": "GB"
+    },
+    "total_tracks": 1,
+    "total_length": "2:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Droptop",
+            "length": "2:21",
+            "deezer": {
+              "id": 1045154462,
+              "link": "https://www.deezer.com/track/1045154462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/f/0/daf6f55c88134a1519cf5eec797f3037.mp3?hdnea=exp=1795649320~acl=/api/1/1/d/a/f/0/daf6f55c88134a1519cf5eec797f3037.mp3*~data=user_id=0,application_id=42~hmac=dac5164dd228b63245b9f969e0ab4ae63bd1d86273f06e86126252ea7ecf4d3e",
+              "preview_expires": "2026-11-25T23:28:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AP Dhillon/Droptop.jpg"
+}

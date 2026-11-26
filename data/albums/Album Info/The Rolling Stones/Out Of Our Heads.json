@@ -1,0 +1,202 @@
+{
+  "title": "Out of Our Heads",
+  "artist": "The Rolling Stones",
+  "year": 1965,
+  "release_date": "1965-07-30",
+  "type": "Album",
+  "description": "Out of Our Heads is the third studio album by the English rock band the Rolling Stones, released in two editions with different covers and track listings. In the United States, London Records released it in July 1965 as the band's fourth American album, while Decca Records released its UK edition on 24 September 1965 as the third British album.",
+  "genres": [
+    "rock",
+    "blues rock",
+    "classic rock",
+    "rock and roll",
+    "mod",
+    "beat music",
+    "blues",
+    "british rhythm & blues",
+    "r&b"
+  ],
+  "tags": [
+    "rock",
+    "blues rock",
+    "classic rock",
+    "rock & roll",
+    "rock and roll",
+    "british invasion",
+    "mod",
+    "rhythm & blues",
+    "beat music",
+    "blues",
+    "british rhythm & blues",
+    "r&b"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3be81f5e-9bdd-303a-b9bf-f8eb2059ef9f",
+    "wikipedia": "https://en.wikipedia.org/wiki/Out_of_Our_Heads",
+    "allmusic": "https://www.allmusic.com/album/mw0000191520",
+    "discogs": "https://www.discogs.com/master/194321",
+    "wikidata": "https://www.wikidata.org/wiki/Q580504",
+    "deezer": "https://www.deezer.com/album/912316"
+  },
+  "musicbrainz_id": "3be81f5e-9bdd-303a-b9bf-f8eb2059ef9f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f24b9c81-0bc3-4051-95e7-49211dffaf0b",
+      "barcode": "00018771942924",
+      "title": "Out of Our Heads",
+      "disambiguation": "US version",
+      "date": "2011-02-21",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "33:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mercy, Mercy",
+            "length": "2:46",
+            "deezer": {
+              "id": 9955990,
+              "link": "https://www.deezer.com/track/9955990",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/b/0/51bb6b2647b8116f739bd43eab3764f0.mp3?hdnea=exp=1795721688~acl=/api/1/1/5/1/b/0/51bb6b2647b8116f739bd43eab3764f0.mp3*~data=user_id=0,application_id=42~hmac=7efbf05f658036ae5e5045f144223f7971b12ad54f54ec6b73f3834a33b4e337",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hitch Hike",
+            "length": "2:26",
+            "deezer": {
+              "id": 9955991,
+              "link": "https://www.deezer.com/track/9955991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/b/0/75b06617206d43e997348e887a1ee3ca.mp3?hdnea=exp=1795721688~acl=/api/1/1/7/5/b/0/75b06617206d43e997348e887a1ee3ca.mp3*~data=user_id=0,application_id=42~hmac=bf0e8727d5076fc1d337e0ba2328c5bbc6678cc82a3ea4c744b2ddab4ac93145",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Last Time",
+            "length": "3:42",
+            "deezer": {
+              "id": 9955992,
+              "link": "https://www.deezer.com/track/9955992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/a/0/9ca2827ab29417409884366b27c2c53e.mp3?hdnea=exp=1795721688~acl=/api/1/1/9/c/a/0/9ca2827ab29417409884366b27c2c53e.mp3*~data=user_id=0,application_id=42~hmac=997b4f542f3de0066034a1ea01d388b01b6df28809b97ecce3e1b1c4b597a5fb",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "That’s How Strong My Love Is",
+            "length": "2:25",
+            "deezer": {
+              "id": 9955993,
+              "link": "https://www.deezer.com/track/9955993",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/2/0/e92c6a8fb979c9748cc64895fd5e3a8d.mp3?hdnea=exp=1795721688~acl=/api/1/1/e/9/2/0/e92c6a8fb979c9748cc64895fd5e3a8d.mp3*~data=user_id=0,application_id=42~hmac=b388cd68cb0519ee0801985e4140e619d2edd9518cc6c67830dca7d80af8d167",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Good Times",
+            "length": "1:59",
+            "deezer": {
+              "id": 9955994,
+              "link": "https://www.deezer.com/track/9955994",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/d/0/3fd3c1bc0e24b82506230f0d88359464.mp3?hdnea=exp=1795721688~acl=/api/1/1/3/f/d/0/3fd3c1bc0e24b82506230f0d88359464.mp3*~data=user_id=0,application_id=42~hmac=dfc6289f8a475841d808c10c1c45bc7b9818d0c6dc923cc03ac1f24ed77d1a4b",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I’m Alright",
+            "length": "2:25",
+            "deezer": {
+              "id": 9955995,
+              "link": "https://www.deezer.com/track/9955995",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/3/0/243b4680fb77f200d2d1b677d2d40e4a.mp3?hdnea=exp=1795721688~acl=/api/1/1/2/4/3/0/243b4680fb77f200d2d1b677d2d40e4a.mp3*~data=user_id=0,application_id=42~hmac=021114f5647e874fbfb9c3d53197414193cfdedab6275d6ff48aee9fa2fd5032",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "(I Can’t Get No) Satisfaction",
+            "length": "3:43",
+            "deezer": {
+              "id": 9955996,
+              "link": "https://www.deezer.com/track/9955996",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/8/0/718055edd07283cbb0db509505979da8.mp3?hdnea=exp=1795721688~acl=/api/1/1/7/1/8/0/718055edd07283cbb0db509505979da8.mp3*~data=user_id=0,application_id=42~hmac=f3dc89507856056ab85e3cfffc8a32e2e4b791fc387a5aa9ae9afe380881f56b",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cry to Me",
+            "length": "3:09",
+            "deezer": {
+              "id": 9955997,
+              "link": "https://www.deezer.com/track/9955997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/3/0/e236f391bf176724dcaac6b44f19aa42.mp3?hdnea=exp=1795721688~acl=/api/1/1/e/2/3/0/e236f391bf176724dcaac6b44f19aa42.mp3*~data=user_id=0,application_id=42~hmac=9a02c4924ed051e377000cca19ad50f22af88b2c6b22a6b0aad91954d86085c1",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Under Assistant West Coast Promotion Man",
+            "length": "3:07",
+            "deezer": {
+              "id": 9955998,
+              "link": "https://www.deezer.com/track/9955998",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/0/0/9d0f83dd67fd2f23eddff4bd85685153.mp3?hdnea=exp=1795721688~acl=/api/1/1/9/d/0/0/9d0f83dd67fd2f23eddff4bd85685153.mp3*~data=user_id=0,application_id=42~hmac=3f963c5c68ed994beaa61ba27a578e170eaa06e425b645addcac5559fb1eabe4",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Play With Fire",
+            "length": "2:15",
+            "deezer": {
+              "id": 9955999,
+              "link": "https://www.deezer.com/track/9955999",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/e/0/aee43cbd8855abc2ccd7e6487cfc589c.mp3?hdnea=exp=1795721688~acl=/api/1/1/a/e/e/0/aee43cbd8855abc2ccd7e6487cfc589c.mp3*~data=user_id=0,application_id=42~hmac=3fe58cbe5025619cdfbd84bc29a3fcbebb21bf77f52c29914fe200a47dc6613e",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Spider and the Fly",
+            "length": "3:39",
+            "deezer": {
+              "id": 9956000,
+              "link": "https://www.deezer.com/track/9956000",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/2/0/5a288c5905e4b42af8faa9724175c1cf.mp3?hdnea=exp=1795721688~acl=/api/1/1/5/a/2/0/5a288c5905e4b42af8faa9724175c1cf.mp3*~data=user_id=0,application_id=42~hmac=57334f2c0dd9d127dc7b14e1327c5821e879a10064f73570b5e236ff9e3c2233",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "One More Try",
+            "length": "1:56",
+            "deezer": {
+              "id": 9956001,
+              "link": "https://www.deezer.com/track/9956001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/8/0/1083d155eab98e49dff7ddb8d5dbdcdc.mp3?hdnea=exp=1795721688~acl=/api/1/1/1/0/8/0/1083d155eab98e49dff7ddb8d5dbdcdc.mp3*~data=user_id=0,application_id=42~hmac=d0437c8d0f10340b7acd03c95659d2e23778ab6f265bf040d62489d6127e9ab0",
+              "preview_expires": "2026-11-26T19:34:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Rolling Stones/Out Of Our Heads.jpg"
+}

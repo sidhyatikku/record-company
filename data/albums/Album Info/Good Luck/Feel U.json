@@ -1,0 +1,49 @@
+{
+  "title": "Feel U",
+  "artist": "Good Luck",
+  "year": 2019,
+  "release_date": "2019-11-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "lo-fi house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6IdTo7PTH6fCV7D5MqLp25",
+    "deezer": "https://www.deezer.com/album/295677612"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6IdTo7PTH6fCV7D5MqLp25",
+      "title": "Feel U",
+      "date": "2019-11-26"
+    },
+    "total_tracks": 1,
+    "total_length": "4:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Feel U",
+            "length": "4:16",
+            "deezer": {
+              "id": 1655887332,
+              "link": "https://www.deezer.com/track/1655887332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/8/0/368c31226b350f75a5013686d3ee2fe6.mp3?hdnea=exp=1795654684~acl=/api/1/1/3/6/8/0/368c31226b350f75a5013686d3ee2fe6.mp3*~data=user_id=0,application_id=42~hmac=4502026cdcec3f02d655948f86a196367654de19cab9d8894d892be801fe53ea",
+              "preview_expires": "2026-11-26T00:58:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Good Luck/Feel U.jpg"
+}

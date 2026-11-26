@@ -1,0 +1,53 @@
+{
+  "title": "Wid It",
+  "artist": "Tion Wayne, ArrDee",
+  "year": 2021,
+  "release_date": "2021-08-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk drill",
+    "drill",
+    "grime",
+    "afroswing",
+    "uk grime"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM",
+    "deezer": "https://www.deezer.com/album/251675492"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM",
+      "title": "Wid It",
+      "date": "2021-08-19"
+    },
+    "total_tracks": 1,
+    "total_length": "3:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wid It",
+            "length": "3:01",
+            "deezer": {
+              "id": 1463846752,
+              "link": "https://www.deezer.com/track/1463846752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/7/0/8a70160fef1a213ba71d2c3fc5e4d44a.mp3?hdnea=exp=1795721909~acl=/api/1/1/8/a/7/0/8a70160fef1a213ba71d2c3fc5e4d44a.mp3*~data=user_id=0,application_id=42~hmac=4054043fe73805f60a66acd3798222a9077b5792076be6501fb30bb737585ed7",
+              "preview_expires": "2026-11-26T19:38:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tion Wayne/Wid It.jpg"
+}

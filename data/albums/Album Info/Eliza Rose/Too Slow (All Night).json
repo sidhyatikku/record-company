@@ -1,0 +1,63 @@
+{
+  "title": "Too Slow (All Night)",
+  "artist": "Eliza Rose & Oppidan",
+  "year": 2025,
+  "release_date": "2025-11-11",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance",
+    "electronic",
+    "uk garage"
+  ],
+  "tags": [
+    "autumn 2025",
+    "dance",
+    "electronic",
+    "garage",
+    "uk",
+    "uk dance",
+    "uk garage"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4e1ddbf7-d305-4112-9d3e-a55fc0564c17",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/843107642"
+  },
+  "musicbrainz_id": "4e1ddbf7-d305-4112-9d3e-a55fc0564c17",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/747bc5fd-2706-49ac-9368-4b551f5a41dd",
+      "barcode": "5054429208030",
+      "title": "Too Slow (All Night)",
+      "disambiguation": null,
+      "date": "2025-11-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Too Slow (All Night)",
+            "length": "2:51",
+            "deezer": {
+              "id": 3617283692,
+              "link": "https://www.deezer.com/track/3617283692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/3/0/523a9486c4e0d9908f2dc488e2db4efe.mp3?hdnea=exp=1795653814~acl=/api/1/1/5/2/3/0/523a9486c4e0d9908f2dc488e2db4efe.mp3*~data=user_id=0,application_id=42~hmac=b76b75c4ecdbae57807bae0a08658a2fa6d50ae234bc8c003556c9409a386e1f",
+              "preview_expires": "2026-11-26T00:43:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eliza Rose/Too Slow (All Night).jpg"
+}

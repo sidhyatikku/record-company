@@ -1,0 +1,51 @@
+{
+  "title": "BARRIN' ALOT (FREESTYLE)",
+  "artist": "LZee",
+  "year": 2024,
+  "release_date": "2024-05-09",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage",
+    "drum and bass",
+    "hip house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4gPTGKiUx3XkSb8kVzCGEi",
+    "deezer": "https://www.deezer.com/album/578077561"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4gPTGKiUx3XkSb8kVzCGEi",
+      "title": "BARRIN' ALOT (FREESTYLE)",
+      "date": "2024-05-09"
+    },
+    "total_tracks": 1,
+    "total_length": "2:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "BARRIN' ALOT (FREESTYLE)",
+            "length": "2:05",
+            "deezer": {
+              "id": 2766127221,
+              "link": "https://www.deezer.com/track/2766127221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/5/0/875278b70db8ce084dea81b6a29d3796.mp3?hdnea=exp=1795718136~acl=/api/1/1/8/7/5/0/875278b70db8ce084dea81b6a29d3796.mp3*~data=user_id=0,application_id=42~hmac=cdad87acaa0cd99288350805e62fc7712adfec3839d09fbdca5722a489fe27c6",
+              "preview_expires": "2026-11-26T18:35:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/LZee/BARRIN' ALOT (FREESTYLE).jpg"
+}

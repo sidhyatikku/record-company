@@ -1,0 +1,79 @@
+{
+  "title": "Beatbox",
+  "artist": "Jack Beats",
+  "year": 2014,
+  "release_date": "2014-03-18",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electro house",
+    "electronic"
+  ],
+  "tags": [
+    "electro house",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/501c84e5-5132-404f-a181-31e29253364a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/9793622"
+  },
+  "musicbrainz_id": "501c84e5-5132-404f-a181-31e29253364a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/29fd39a9-a235-4c5e-bdfe-f5595d78b91e",
+      "barcode": "075679929792",
+      "title": "Beatbox",
+      "disambiguation": null,
+      "date": "2014-03-18",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "13:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beatbox",
+            "length": "4:23",
+            "deezer": {
+              "id": 96255602,
+              "link": "https://www.deezer.com/track/96255602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/d/0/bad81215102902fe7bce5efd4c1930fb.mp3?hdnea=exp=1795655371~acl=/api/1/1/b/a/d/0/bad81215102902fe7bce5efd4c1930fb.mp3*~data=user_id=0,application_id=42~hmac=a9bf96b37ab8b6f73a8ec4938bf19dc90f1a3d8d14b4825cd5f8a3b98464f044",
+              "preview_expires": "2026-11-26T01:09:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Beatbox (Big Mack extended edit)",
+            "length": "4:42",
+            "deezer": {
+              "id": 96255604,
+              "link": "https://www.deezer.com/track/96255604",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/2/0/bb20c414dd44274650a610230c0b5132.mp3?hdnea=exp=1795655371~acl=/api/1/1/b/b/2/0/bb20c414dd44274650a610230c0b5132.mp3*~data=user_id=0,application_id=42~hmac=89beafcfaeba004a657c28df2d7913b41095b78f31f1f577eda2b751e935a84c",
+              "preview_expires": "2026-11-26T01:09:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Ill Shit",
+            "length": "4:07",
+            "deezer": {
+              "id": 96255606,
+              "link": "https://www.deezer.com/track/96255606",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/a/0/83a31a5b4c91b56018fb274d3dbfe01d.mp3?hdnea=exp=1795655371~acl=/api/1/1/8/3/a/0/83a31a5b4c91b56018fb274d3dbfe01d.mp3*~data=user_id=0,application_id=42~hmac=167bc5ebcb367faf55193bee6f615d61ab69c395d898e84f489ee70e682f5546",
+              "preview_expires": "2026-11-26T01:09:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jack Beats/Beatbox.jpg"
+}

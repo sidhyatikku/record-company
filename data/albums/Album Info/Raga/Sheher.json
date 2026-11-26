@@ -1,0 +1,50 @@
+{
+  "title": "Sheher",
+  "artist": "Raga",
+  "year": 2022,
+  "release_date": "2022-03-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8",
+    "deezer": "https://www.deezer.com/album/302968177"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8",
+      "title": "Sheher",
+      "date": "2022-03-22"
+    },
+    "total_tracks": 1,
+    "total_length": "3:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sheher",
+            "length": "3:31",
+            "deezer": {
+              "id": 1685742427,
+              "link": "https://www.deezer.com/track/1685742427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/8/0/c98facfdac3f0e078a5149c948d1506a.mp3?hdnea=exp=1795719928~acl=/api/1/1/c/9/8/0/c98facfdac3f0e078a5149c948d1506a.mp3*~data=user_id=0,application_id=42~hmac=19debfdc6f8878c64c9acaa747dc3501d7fa34bf3affef9ad870e0ac3b397e6e",
+              "preview_expires": "2026-11-26T19:05:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Raga/Sheher.jpg"
+}

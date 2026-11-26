@@ -1,0 +1,105 @@
+{
+  "title": "Trinity Lounge",
+  "artist": "Lxury",
+  "year": 2020,
+  "release_date": "2020-09-11",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "deep house",
+    "electro",
+    "electronic",
+    "house"
+  ],
+  "tags": [
+    "deep house",
+    "electro",
+    "electronic",
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/afcfd4e0-dddb-4fd7-8b73-9ebe6f6266c3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/166768302"
+  },
+  "musicbrainz_id": "afcfd4e0-dddb-4fd7-8b73-9ebe6f6266c3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f4cbda62-b3b6-4246-89cd-65f868c33dc0",
+      "barcode": null,
+      "title": "Trinity Lounge",
+      "disambiguation": null,
+      "date": "2020-09-11",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "22:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Skydance",
+            "length": "4:54",
+            "deezer": {
+              "id": 1049590932,
+              "link": "https://www.deezer.com/track/1049590932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/c/0/53cdbfe6e1b3dfe1f1818cd3330a65ee.mp3?hdnea=exp=1795718104~acl=/api/1/1/5/3/c/0/53cdbfe6e1b3dfe1f1818cd3330a65ee.mp3*~data=user_id=0,application_id=42~hmac=a3009a4aa074008573e5b49cd62e3e272a77a406c06de2def3f35a16ac07b224",
+              "preview_expires": "2026-11-26T18:35:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Blue Orchid",
+            "length": "3:43",
+            "deezer": {
+              "id": 1049590942,
+              "link": "https://www.deezer.com/track/1049590942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/8/0/5c8242f163e0ac0bae18d6eb9db99b27.mp3?hdnea=exp=1795718104~acl=/api/1/1/5/c/8/0/5c8242f163e0ac0bae18d6eb9db99b27.mp3*~data=user_id=0,application_id=42~hmac=c78a23fa85680c1e4f095f72b002094c1bc4bc835cd77c42d90dd22241f35496",
+              "preview_expires": "2026-11-26T18:35:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dimly Lit",
+            "length": "3:24",
+            "deezer": {
+              "id": 1049590952,
+              "link": "https://www.deezer.com/track/1049590952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/0/0/ab08a75711f21635aa80ac91009c7f84.mp3?hdnea=exp=1795718104~acl=/api/1/1/a/b/0/0/ab08a75711f21635aa80ac91009c7f84.mp3*~data=user_id=0,application_id=42~hmac=963de704b3421bb72abbd4a5eadd449398a0b3bd6054ce9533d6767666b4461d",
+              "preview_expires": "2026-11-26T18:35:04Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Memphis",
+            "length": "5:47",
+            "deezer": {
+              "id": 1049590962,
+              "link": "https://www.deezer.com/track/1049590962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/a/0/cfaff656b4282e3c32f31b7145cf9b9e.mp3?hdnea=exp=1795718104~acl=/api/1/1/c/f/a/0/cfaff656b4282e3c32f31b7145cf9b9e.mp3*~data=user_id=0,application_id=42~hmac=76b9d8b85ddb746b5ad8adb52a14622398b3621edb3b9635eb6ed927ce8f6da5",
+              "preview_expires": "2026-11-26T18:35:04Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Go (dub)",
+            "length": "4:34",
+            "deezer": {
+              "id": 1049590972,
+              "link": "https://www.deezer.com/track/1049590972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/a/0/53a9c806cf385bef8c006c8657b5cbe1.mp3?hdnea=exp=1795718104~acl=/api/1/1/5/3/a/0/53a9c806cf385bef8c006c8657b5cbe1.mp3*~data=user_id=0,application_id=42~hmac=0ab8e9a561c8aa78597b76dd587dd015dc7633573e9200697794f9eff5427e1a",
+              "preview_expires": "2026-11-26T18:35:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lxury/Trinity Lounge.jpg"
+}

@@ -1,0 +1,150 @@
+{
+  "title": "Alfaaz",
+  "artist": "Alfaaz",
+  "year": 2011,
+  "release_date": "2011-08-13",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bc00ebce-2e1e-416d-9270-f6221faebbe0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/68766811"
+  },
+  "musicbrainz_id": "bc00ebce-2e1e-416d-9270-f6221faebbe0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/58d5d71f-de5a-4bea-bad7-6b21e80ac725",
+      "barcode": "8902633266735",
+      "title": "Alfaaz",
+      "disambiguation": null,
+      "date": "2011-08-13",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "38:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ashqan Di Toli",
+            "length": "3:24",
+            "deezer": {
+              "id": 530773921,
+              "link": "https://www.deezer.com/track/530773921",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "2",
+            "title": "Farian",
+            "length": "3:07",
+            "deezer": {
+              "id": 530773931,
+              "link": "https://www.deezer.com/track/530773931",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gaddi",
+            "length": "4:58",
+            "deezer": {
+              "id": 530773941,
+              "link": "https://www.deezer.com/track/530773941",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hai Mera Dil",
+            "length": "3:30",
+            "deezer": {
+              "id": 530773951,
+              "link": "https://www.deezer.com/track/530773951",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "5",
+            "title": "Idd",
+            "length": "5:45",
+            "deezer": {
+              "id": 530773961,
+              "link": "https://www.deezer.com/track/530773961",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "6",
+            "title": "Idd Remix",
+            "length": "4:16",
+            "deezer": {
+              "id": 530773971,
+              "link": "https://www.deezer.com/track/530773971",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "Panchi Parone",
+            "length": "4:20",
+            "deezer": {
+              "id": 530773981,
+              "link": "https://www.deezer.com/track/530773981",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "8",
+            "title": "Poem Intro",
+            "length": "1:22",
+            "deezer": {
+              "id": 530773991,
+              "link": "https://www.deezer.com/track/530773991",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "9",
+            "title": "Rikshaw",
+            "length": "3:41",
+            "deezer": {
+              "id": 530774001,
+              "link": "https://www.deezer.com/track/530774001",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "Yaar Bathere",
+            "length": "4:02",
+            "deezer": {
+              "id": 530774011,
+              "link": "https://www.deezer.com/track/530774011",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Alfaaz/Alfaaz.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Love Tonight",
+  "artist": "Shouse",
+  "year": 2017,
+  "release_date": "2017-12-14",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "acid house",
+    "house",
+    "electronic"
+  ],
+  "tags": [
+    "acid house",
+    "house",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7f8dff5d-ea1c-4358-8030-b2feda0b52f9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/977167091"
+  },
+  "musicbrainz_id": "7f8dff5d-ea1c-4358-8030-b2feda0b52f9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3b4c8591-a2a0-421a-b25d-db14deda4c6c",
+      "barcode": "191515989932",
+      "title": "Love Tonight",
+      "disambiguation": null,
+      "date": "2017-12-14",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "12:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Love Tonight",
+            "length": "8:14",
+            "deezer": {
+              "id": 4005760691,
+              "link": "https://www.deezer.com/track/4005760691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/b/0/2eb7ee671606d1568be685944b7f0acc.mp3?hdnea=exp=1795720537~acl=/api/1/1/2/e/b/0/2eb7ee671606d1568be685944b7f0acc.mp3*~data=user_id=0,application_id=42~hmac=efd4144e6e33cf0ce5d907ac8b813222769fd1afb71bc90f51a24126fbbfc751",
+              "preview_expires": "2026-11-26T19:15:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Love Tonight (edit)",
+            "length": "4:02",
+            "deezer": {
+              "id": 4005760701,
+              "link": "https://www.deezer.com/track/4005760701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/8/0/2d8c3cbca8c40b83f797a9b02ff34e03.mp3?hdnea=exp=1795720537~acl=/api/1/1/2/d/8/0/2d8c3cbca8c40b83f797a9b02ff34e03.mp3*~data=user_id=0,application_id=42~hmac=5d52f2792bf1733c9cbba77cbf3f6159c82d4ba3873806159c31fe5c4fe1522e",
+              "preview_expires": "2026-11-26T19:15:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Shouse/Love Tonight.png"
+}

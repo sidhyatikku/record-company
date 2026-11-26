@@ -1,0 +1,94 @@
+{
+  "title": "Shootout At Lokhandwala",
+  "artist": "Various Artists",
+  "year": 2007,
+  "release_date": "2007-04-25",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f5c954d1-02a2-3e5b-b1f6-717bb3c31385",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "f5c954d1-02a2-3e5b-b1f6-717bb3c31385",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8544db89-dd24-4eb8-b4a9-2d6a9138fea8",
+      "barcode": null,
+      "title": "Shootout At Lokhandwala",
+      "disambiguation": null,
+      "date": "2007-04-25",
+      "country": "IN"
+    },
+    "total_tracks": 9,
+    "total_length": "45:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": null,
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mere yaar",
+            "length": "5:01",
+            "artist": "Anand Raj Anand & Sunidhi Chauhan"
+          },
+          {
+            "number": "2",
+            "title": "Aakhri alvida",
+            "length": "4:39",
+            "artist": "Strings"
+          },
+          {
+            "number": "3",
+            "title": "Ganpat",
+            "length": "4:29",
+            "artist": "Mika Singh & Aanchal"
+          },
+          {
+            "number": "4",
+            "title": "Unke nashe mein",
+            "length": "4:49",
+            "artist": "Sukhwinder Singh, Mika Singh & Anand Raj Anand"
+          },
+          {
+            "number": "5",
+            "title": "Live by the gun",
+            "length": "4:22",
+            "artist": "Biddu"
+          },
+          {
+            "number": "6",
+            "title": "Sone de maa",
+            "length": "4:45",
+            "artist": "Palash Sen"
+          },
+          {
+            "number": "7",
+            "title": "Ganpat (rap)",
+            "length": "5:47",
+            "artist": "Mika Singh & Aanchal"
+          },
+          {
+            "number": "8",
+            "title": "Aakhri alvida (club mix)",
+            "length": "6:24",
+            "artist": "Strings"
+          },
+          {
+            "number": "9",
+            "title": "Unke nashe mein (club mix)",
+            "length": "5:25",
+            "artist": "Sukhwinder Singh, Anand Raj Anand & Mika Singh"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Shootout At Lokhandwala.jpg"
+}

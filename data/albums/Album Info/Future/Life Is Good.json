@@ -1,0 +1,55 @@
+{
+  "title": "Life Is Good",
+  "artist": "Future feat. Drake",
+  "year": 2020,
+  "release_date": "2020-01-10",
+  "type": "Single",
+  "description": "\"Life Is Good\" is a song by American rapper Future featuring Canadian rapper Drake. It was released on January 10, 2020, and later confirmed to be the third single from the former's eighth studio album High Off Life.",
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b485d554-f8d9-48c0-97e4-798959bca46b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Life_Is_Good_(song)",
+    "deezer": "https://www.deezer.com/album/125628232"
+  },
+  "musicbrainz_id": "b485d554-f8d9-48c0-97e4-798959bca46b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b319b4da-4458-468b-8346-aef29a42bc32",
+      "barcode": "886448218845",
+      "title": "Life Is Good",
+      "disambiguation": "explicit",
+      "date": "2020-01-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Life Is Good",
+            "length": "3:58",
+            "deezer": {
+              "id": 847699482,
+              "link": "https://www.deezer.com/track/847699482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/b/0/56bc96a4528c0ee63bfaf260a8591493.mp3?hdnea=exp=1795654535~acl=/api/1/1/5/6/b/0/56bc96a4528c0ee63bfaf260a8591493.mp3*~data=user_id=0,application_id=42~hmac=20d7b48b46563555ffabd6f3be7e5471cb8da3dbfce61bc48d160dd317e61bcb",
+              "preview_expires": "2026-11-26T00:55:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Future/Life Is Good.jpg"
+}

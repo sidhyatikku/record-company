@@ -1,0 +1,157 @@
+{
+  "title": "Piece of Mind",
+  "artist": "Iron Maiden",
+  "year": 1983,
+  "release_date": "1983-05-16",
+  "type": "Album",
+  "description": "Piece of Mind is the fourth studio album by English heavy metal band Iron Maiden. It was released on 16 May 1983 in the United Kingdom by EMI Records and in the United States by Capitol Records. It was the first album to feature drummer Nicko McBrain, who had recently left the band Trust.",
+  "genres": [
+    "heavy metal",
+    "metal",
+    "nwobhm"
+  ],
+  "tags": [
+    "heavy metal",
+    "metal",
+    "nwobhm",
+    "history",
+    "new wave of british heavy metal",
+    "passionate"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 31
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/169361b5-af6f-34ca-b8f2-13605a7f9691",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piece_of_Mind",
+    "allmusic": "https://www.allmusic.com/album/mw0000045853",
+    "discogs": "https://www.discogs.com/master/18823",
+    "wikidata": "https://www.wikidata.org/wiki/Q476977",
+    "deezer": "https://www.deezer.com/album/902135292"
+  },
+  "musicbrainz_id": "169361b5-af6f-34ca-b8f2-13605a7f9691",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d466bd5b-2caf-4e79-baa2-b2c72cee77eb",
+      "barcode": "190295524210",
+      "title": "Piece of Mind",
+      "disambiguation": "2015 remaster",
+      "date": "2015-04-06",
+      "country": null
+    },
+    "total_tracks": 9,
+    "total_length": "46:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Where Eagles Dare",
+            "length": "6:13",
+            "deezer": {
+              "id": 3788329882,
+              "link": "https://www.deezer.com/track/3788329882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/1/0/4512a2ed0fa58c1f73819ef1a15b28e6.mp3?hdnea=exp=1795655295~acl=/api/1/1/4/5/1/0/4512a2ed0fa58c1f73819ef1a15b28e6.mp3*~data=user_id=0,application_id=42~hmac=048ef47e1c29671984a787cdb2ce1ad8be8265f9c94d120ac4e03fb8c827806e",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Revelations",
+            "length": "6:50",
+            "deezer": {
+              "id": 3788329892,
+              "link": "https://www.deezer.com/track/3788329892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/e/0/66e459a8113e0b837b2efa2f7e63c6ac.mp3?hdnea=exp=1795655295~acl=/api/1/1/6/6/e/0/66e459a8113e0b837b2efa2f7e63c6ac.mp3*~data=user_id=0,application_id=42~hmac=7a304ac693a4b53f990cbf09d1561c978264d78aa91c9096adab92cb1a3b65f4",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Flight of Icarus",
+            "length": "3:51",
+            "deezer": {
+              "id": 3788329902,
+              "link": "https://www.deezer.com/track/3788329902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/2/0/542723cb7123505363a8e3a154ff2915.mp3?hdnea=exp=1795655295~acl=/api/1/1/5/4/2/0/542723cb7123505363a8e3a154ff2915.mp3*~data=user_id=0,application_id=42~hmac=096bac9c89a6f5da1c39b57bc54c5611a7d6ded3c2d1a7f32e1e8dc87a8025d9",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Die With Your Boots On",
+            "length": "5:27",
+            "deezer": {
+              "id": 3788329912,
+              "link": "https://www.deezer.com/track/3788329912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/f/0/f5f743ca7e2347455a6ab2a45ebd6d5a.mp3?hdnea=exp=1795655295~acl=/api/1/1/f/5/f/0/f5f743ca7e2347455a6ab2a45ebd6d5a.mp3*~data=user_id=0,application_id=42~hmac=8f069ddfda1afeb144ed56a0c9f410f28819194df8a084eb08283673a6b36f16",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Trooper",
+            "length": "4:13",
+            "deezer": {
+              "id": 3788329922,
+              "link": "https://www.deezer.com/track/3788329922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/5/0/af54b0ba531fa548c718435286e38488.mp3?hdnea=exp=1795655295~acl=/api/1/1/a/f/5/0/af54b0ba531fa548c718435286e38488.mp3*~data=user_id=0,application_id=42~hmac=d08fd169de9411d011a1293cfff43f54ea44075088a5771fafdfa355104f7f84",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Still Life",
+            "length": "4:57",
+            "deezer": {
+              "id": 3788329932,
+              "link": "https://www.deezer.com/track/3788329932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/d/0/5cde9b3db3ae81a61fc131c461fd85b6.mp3?hdnea=exp=1795655295~acl=/api/1/1/5/c/d/0/5cde9b3db3ae81a61fc131c461fd85b6.mp3*~data=user_id=0,application_id=42~hmac=e6c6d50cef508eac5385157187e81ce15e6fc67157de99aa230a4383011ee08a",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Quest for Fire",
+            "length": "3:43",
+            "deezer": {
+              "id": 3788329942,
+              "link": "https://www.deezer.com/track/3788329942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/3/0/5a35c1583414c2af09a92ab73f04004f.mp3?hdnea=exp=1795655295~acl=/api/1/1/5/a/3/0/5a35c1583414c2af09a92ab73f04004f.mp3*~data=user_id=0,application_id=42~hmac=f835c2214fadd5e9f358c88e451060cd710c3a197e4ba6e33eb6103b829ea317",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sun and Steel",
+            "length": "3:28",
+            "deezer": {
+              "id": 3788329952,
+              "link": "https://www.deezer.com/track/3788329952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/7/0/1b75216f75cb1da3f1556ab24df218c3.mp3?hdnea=exp=1795655295~acl=/api/1/1/1/b/7/0/1b75216f75cb1da3f1556ab24df218c3.mp3*~data=user_id=0,application_id=42~hmac=875e3ddabb211ada004e007120e1d073ad44f75e6bbe4a1433092c394902781a",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "To Tame a Land",
+            "length": "7:29",
+            "deezer": {
+              "id": 3788329962,
+              "link": "https://www.deezer.com/track/3788329962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/3/0/6232fd74536593ce904206dff206a0e8.mp3?hdnea=exp=1795655295~acl=/api/1/1/6/2/3/0/6232fd74536593ce904206dff206a0e8.mp3*~data=user_id=0,application_id=42~hmac=5bb9d89d8dadd0650f2d25de7511caae9f0e905c223a2b90bb7052217460042d",
+              "preview_expires": "2026-11-26T01:08:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Iron Maiden/Piece of Mind.jpg"
+}

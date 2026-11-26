@@ -1,0 +1,51 @@
+{
+  "title": "LEVELS",
+  "artist": "Fuzion",
+  "year": 2025,
+  "release_date": "2025-03-07",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/23ab598f-cf6f-48df-aa87-698ce9d1ef12",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/722173031"
+  },
+  "musicbrainz_id": "23ab598f-cf6f-48df-aa87-698ce9d1ef12",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1fdd9e35-ab35-4db1-9561-1c089e7ffca2",
+      "barcode": "00602478068874",
+      "title": "LEVELS",
+      "disambiguation": null,
+      "date": "2025-03-07",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "LEVELS",
+            "length": "3:18",
+            "deezer": {
+              "id": 3262412211,
+              "link": "https://www.deezer.com/track/3262412211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915ad224a75d612c33b8b26f9aad2f3e.mp3?hdnea=exp=1795654553~acl=/api/1/1/9/1/5/0/915ad224a75d612c33b8b26f9aad2f3e.mp3*~data=user_id=0,application_id=42~hmac=a6225cf7e52a3f2987b12dc4a7afd556074b4f5843f7b0c0e654196feee667b4",
+              "preview_expires": "2026-11-26T00:55:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/FUZION/LEVELS.jpg"
+}

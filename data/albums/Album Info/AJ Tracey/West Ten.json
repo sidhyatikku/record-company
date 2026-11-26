@@ -1,0 +1,51 @@
+{
+  "title": "West Ten",
+  "artist": "AJ Tracey & Mabel",
+  "year": 2020,
+  "release_date": "2020-07-02",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9ed336fb-ea7e-495b-996b-7131cabef2e7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/327934647"
+  },
+  "musicbrainz_id": "9ed336fb-ea7e-495b-996b-7131cabef2e7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8b2b4af8-62fa-4309-ae8b-795535964e02",
+      "barcode": "190296829345",
+      "title": "West Ten",
+      "disambiguation": null,
+      "date": "2020-07-02",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "West Ten",
+            "length": "3:34",
+            "deezer": {
+              "id": 1793377627,
+              "link": "https://www.deezer.com/track/1793377627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/6/0/2d6557e1bd77a5d4497a577222e662fd.mp3?hdnea=exp=1795649021~acl=/api/1/1/2/d/6/0/2d6557e1bd77a5d4497a577222e662fd.mp3*~data=user_id=0,application_id=42~hmac=1b70f1dda21bfe79286b0278673c528ad68af844b7facdb249fe8a4dba01db12",
+              "preview_expires": "2026-11-25T23:23:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AJ Tracey/West Ten.jpg"
+}

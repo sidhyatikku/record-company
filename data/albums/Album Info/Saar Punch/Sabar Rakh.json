@@ -1,0 +1,46 @@
+{
+  "title": "Sabar Rakh",
+  "artist": "Saar Punch, Frisk",
+  "year": 2024,
+  "release_date": "2024-05-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "hindi indie",
+    "indian indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/38RknSKQfGCNvkqyRVrse3",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/38RknSKQfGCNvkqyRVrse3",
+      "title": "Sabar Rakh",
+      "date": "2024-05-01"
+    },
+    "total_tracks": 1,
+    "total_length": "2:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sabar Rakh",
+            "length": "2:34"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Saar Punch/Sabar Rakh.jpg"
+}

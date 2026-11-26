@@ -1,0 +1,51 @@
+{
+  "title": "OH HO HO HO (Original Song)",
+  "artist": "Sukhbir",
+  "year": 1999,
+  "release_date": "1999-01-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "bollywood",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5rjzvC3sxusUuShz1paV9R",
+    "deezer": "https://www.deezer.com/album/57714932"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5rjzvC3sxusUuShz1paV9R",
+      "title": "OH HO HO HO (Original Song)",
+      "date": "1999-01-01"
+    },
+    "total_tracks": 1,
+    "total_length": "6:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "OH HO HO HO (Original Song)",
+            "length": "6:08",
+            "deezer": {
+              "id": 465835562,
+              "link": "https://www.deezer.com/track/465835562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/9/0/f79bc6e49bc36903f9c5557bcbba1cc8.mp3?hdnea=exp=1795721050~acl=/api/1/1/f/7/9/0/f79bc6e49bc36903f9c5557bcbba1cc8.mp3*~data=user_id=0,application_id=42~hmac=cffc53de8c72021eecef92a43c2de0a904773e7cd268dbb7687c5bcce26ce0c5",
+              "preview_expires": "2026-11-26T19:24:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Sukhbir/OH HO HO HO (Original Song).jpg"
+}

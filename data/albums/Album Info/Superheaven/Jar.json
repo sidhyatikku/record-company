@@ -1,0 +1,197 @@
+{
+  "title": "Jar",
+  "artist": "Daylight",
+  "year": 2013,
+  "release_date": "2013-04-30",
+  "type": "Album",
+  "description": "Jar is the debut studio album by American alternative rock band Superheaven, released on April 30, 2013. It was originally released under the band's prior name, Daylight, which has since been changed due to a legal dispute. The album peaked at #184 on the US Billboard 200.",
+  "genres": [
+    "alternative rock",
+    "hard rock",
+    "post-grunge",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "hard rock",
+    "post-grunge",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/abd4ca7a-7ccf-410b-acd0-0f622d71581b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jar_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002493424",
+    "discogs": "https://www.discogs.com/master/553015",
+    "wikidata": "https://www.wikidata.org/wiki/Q20813550",
+    "deezer": "https://www.deezer.com/album/123219302"
+  },
+  "musicbrainz_id": "abd4ca7a-7ccf-410b-acd0-0f622d71581b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f971da45-aaa7-446b-a689-05dcfe4ae225",
+      "barcode": "811774020510",
+      "title": "Jar",
+      "disambiguation": null,
+      "date": "2013-04-30",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "41:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sponge",
+            "length": "4:23",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187832,
+              "link": "https://www.deezer.com/track/833187832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/9/0/cc92d5ad683f2a4eb4a58e432c6946d9.mp3?hdnea=exp=1795721074~acl=/api/1/1/c/c/9/0/cc92d5ad683f2a4eb4a58e432c6946d9.mp3*~data=user_id=0,application_id=42~hmac=ffdaf04a28c74298c9cc0a72c317c407c65a2ca26e858392493434067963118b",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Life in a Jar",
+            "length": "3:41",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187852,
+              "link": "https://www.deezer.com/track/833187852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/1/0/8e1251c5fcf14adce6165794fa61a4d1.mp3?hdnea=exp=1795721074~acl=/api/1/1/8/e/1/0/8e1251c5fcf14adce6165794fa61a4d1.mp3*~data=user_id=0,application_id=42~hmac=c7e5d1c5d74af6d4449e049e57e2b84fdf55d22b3a4704470e4e3e73c902be7c",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Outside of Me",
+            "length": "2:31",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187872,
+              "link": "https://www.deezer.com/track/833187872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/0/0/0508d10d0fc731abdead94cd0e4815fc.mp3?hdnea=exp=1795721074~acl=/api/1/1/0/5/0/0/0508d10d0fc731abdead94cd0e4815fc.mp3*~data=user_id=0,application_id=42~hmac=ecbb00183663c3ea433868a8c49828c97afd8b65b3fd1c59b001b46e421e8d7a",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sheltered",
+            "length": "2:41",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187892,
+              "link": "https://www.deezer.com/track/833187892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/e/0/55e3c67d9dc141ea7497c0c54829ce93.mp3?hdnea=exp=1795721074~acl=/api/1/1/5/5/e/0/55e3c67d9dc141ea7497c0c54829ce93.mp3*~data=user_id=0,application_id=42~hmac=c8c00b8723c278eb7e7827bf7e7eef49c74596600fe3ad0cffeeb3d3037d4de5",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Crawl",
+            "length": "2:33",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187912,
+              "link": "https://www.deezer.com/track/833187912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/c/0/9bc311d79ce9a92e3cb6e4eafbd36f56.mp3?hdnea=exp=1795721074~acl=/api/1/1/9/b/c/0/9bc311d79ce9a92e3cb6e4eafbd36f56.mp3*~data=user_id=0,application_id=42~hmac=524cc7cb1dc719d485bca9ad1a917241cc827add6c6c7594c228fd8f2ae3d0fc",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Last October",
+            "length": "3:52",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187922,
+              "link": "https://www.deezer.com/track/833187922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/9/0/f291d978e113ea9111a59579e76cafad.mp3?hdnea=exp=1795721074~acl=/api/1/1/f/2/9/0/f291d978e113ea9111a59579e76cafad.mp3*~data=user_id=0,application_id=42~hmac=42a67f12b10e607473f9b9e2504a8f9da47a595ada5a9a267607d70506a70a71",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Youngest Daughter",
+            "length": "4:09",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187932,
+              "link": "https://www.deezer.com/track/833187932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/b/0/6db19a588adfa55c3c2b9cf3e86d9252.mp3?hdnea=exp=1795721074~acl=/api/1/1/6/d/b/0/6db19a588adfa55c3c2b9cf3e86d9252.mp3*~data=user_id=0,application_id=42~hmac=716256200c8c9c590f77785e7901c906c17523ba083613fefc88f46d49b40c89",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Knew",
+            "length": "1:18",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187942,
+              "link": "https://www.deezer.com/track/833187942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/6/0/a867b46df437274e9f5a74cae180f296.mp3?hdnea=exp=1795721074~acl=/api/1/1/a/8/6/0/a867b46df437274e9f5a74cae180f296.mp3*~data=user_id=0,application_id=42~hmac=2c314aa98dbabb33c791a5d66112f79af80407548db9cb7a5510f3c09210141e",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "No One’s Deserving",
+            "length": "3:03",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187952,
+              "link": "https://www.deezer.com/track/833187952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a75f12ef5a3001ae0617b9b880153c59.mp3?hdnea=exp=1795721074~acl=/api/1/1/a/7/5/0/a75f12ef5a3001ae0617b9b880153c59.mp3*~data=user_id=0,application_id=42~hmac=4d0e7101ce47ecb0d1dde70dce292ffcf4d2c37fa8958ce3c3b8ace9df1a81d3",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Hole in the Ground",
+            "length": "4:31",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187962,
+              "link": "https://www.deezer.com/track/833187962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/9/0/f698cde016758d8406359050146ea6e3.mp3?hdnea=exp=1795721074~acl=/api/1/1/f/6/9/0/f698cde016758d8406359050146ea6e3.mp3*~data=user_id=0,application_id=42~hmac=524ebefa47540196905d4341649dab227ccd76b4f7ccdd48f9ce5ac6ee6dfdd5",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "In on It",
+            "length": "3:22",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187972,
+              "link": "https://www.deezer.com/track/833187972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/c/0/61ced0af7b20659107d7a91a1e1a3bc5.mp3?hdnea=exp=1795721074~acl=/api/1/1/6/1/c/0/61ced0af7b20659107d7a91a1e1a3bc5.mp3*~data=user_id=0,application_id=42~hmac=6cffb3e674ebb54c0647369bd50d0b175b66cb9f7d0dd116cd48d62db0a088f0",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Around the Railing",
+            "length": "5:09",
+            "artist": "Superheaven",
+            "deezer": {
+              "id": 833187982,
+              "link": "https://www.deezer.com/track/833187982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/f/0/0cf82b0744451b26ca9d2e0b406abbc5.mp3?hdnea=exp=1795721074~acl=/api/1/1/0/c/f/0/0cf82b0744451b26ca9d2e0b406abbc5.mp3*~data=user_id=0,application_id=42~hmac=e548387af5117369282fd171939a9ecdf19d32bdd5f72723cf30ee2be5357aa1",
+              "preview_expires": "2026-11-26T19:24:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Superheaven/Jar.jpg"
+}

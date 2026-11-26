@@ -1,0 +1,49 @@
+{
+  "title": "Blue Romance",
+  "artist": "Chris Memento",
+  "year": 2021,
+  "release_date": "2021-01-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH",
+    "deezer": "https://www.deezer.com/album/358182477"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH",
+      "title": "Blue Romance",
+      "date": "2021-01-01"
+    },
+    "total_tracks": 1,
+    "total_length": "4:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blue Romance",
+            "length": "4:02",
+            "deezer": {
+              "id": 1921987627,
+              "link": "https://www.deezer.com/track/1921987627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/c/0/00cf032afc1589e1b0ca4671a6e33835.mp3?hdnea=exp=1795652819~acl=/api/1/1/0/0/c/0/00cf032afc1589e1b0ca4671a6e33835.mp3*~data=user_id=0,application_id=42~hmac=caeb108182738d567cd11fc9e73f361482d6e2023c32b6fe618775626a0e7d01",
+              "preview_expires": "2026-11-26T00:26:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Chris Memento/Blue Romance.jpg"
+}

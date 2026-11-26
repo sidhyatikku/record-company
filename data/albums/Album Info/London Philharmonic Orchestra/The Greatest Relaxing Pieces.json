@@ -1,0 +1,107 @@
+{
+  "title": "The Greatest Relaxing Pieces",
+  "artist": "London Philharmonic Orchestra",
+  "year": 2011,
+  "release_date": "2011-05-24",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "classical",
+    "opera",
+    "orchestral"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2jHS8ql7jn3lTgwpQPd87R",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2jHS8ql7jn3lTgwpQPd87R",
+      "title": "The Greatest Relaxing Pieces",
+      "date": "2011-05-24"
+    },
+    "total_tracks": 12,
+    "total_length": "1:04:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Symphony No. 5 in C-Sharp Minor: IV. Adagietto",
+            "length": "11:01"
+          },
+          {
+            "number": "2",
+            "title": "Peer Gynt Suite No. 1, Op. 46: Morning Mood",
+            "length": "3:45"
+          },
+          {
+            "number": "3",
+            "title": "Nocturnes, Op. 9: No. 2 in E-Flat Major",
+            "length": "4:53",
+            "artist": "Finghin Collins"
+          },
+          {
+            "number": "4",
+            "title": "Orchestral Suite No. 3 in D Major, BWV 1068: Air",
+            "length": "4:14"
+          },
+          {
+            "number": "5",
+            "title": "Suite Bergamasque, L 75: Clair de lune",
+            "length": "5:14",
+            "artist": "Finghin Collins"
+          },
+          {
+            "number": "6",
+            "title": "Concerto No. 21 in C Major for Piano and Orchestra, K. 467: II. Andante",
+            "length": "7:18",
+            "artist": "Finghin Collins"
+          },
+          {
+            "number": "7",
+            "title": "Bagatelle in A Minor, WoO 59, \"Für Elise\"",
+            "length": "3:16",
+            "artist": "Finghin Collins"
+          },
+          {
+            "number": "8",
+            "title": "Thaïs: Méditation",
+            "length": "5:01",
+            "artist": "London Philharmonic Orchestra, Pieter Schoeman"
+          },
+          {
+            "number": "9",
+            "title": "Adagio for Strings, Op. 11a",
+            "length": "8:23"
+          },
+          {
+            "number": "10",
+            "title": "Gymnopédie No. 1",
+            "length": "3:41",
+            "artist": "Finghin Collins"
+          },
+          {
+            "number": "11",
+            "title": "Les contes d'Hoffmann (The Tales of Hoffmann): Barcarolle",
+            "length": "3:34"
+          },
+          {
+            "number": "12",
+            "title": "Cavatina",
+            "length": "4:00",
+            "artist": "Craig Ogden"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/London Philharmonic Orchestra/The Greatest Relaxing Pieces.jpg"
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Beamin’ (Extended Mix)",
+  "artist": "K Motionz, Songer",
+  "year": 2024,
+  "release_date": "2024-09-20",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "drum and bass",
+    "liquid funk",
+    "bassline"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5PhrIIgHnIx4cgQ35PyQlW",
+    "deezer": "https://www.deezer.com/album/652129911"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5PhrIIgHnIx4cgQ35PyQlW",
+      "title": "Beamin’ (Extended Mix)",
+      "date": "2024-09-20"
+    },
+    "total_tracks": 2,
+    "total_length": "5:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beamin’ - Extended Mix",
+            "length": "3:22",
+            "deezer": {
+              "id": 3030992411,
+              "link": "https://www.deezer.com/track/3030992411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/7/0/1b71a7752235103c6b6ef99418c9a0f9.mp3?hdnea=exp=1795655803~acl=/api/1/1/1/b/7/0/1b71a7752235103c6b6ef99418c9a0f9.mp3*~data=user_id=0,application_id=42~hmac=07d05dc84da5919f144abc529d4b10a7e46f07c6fa7bb062b90b88143904f170",
+              "preview_expires": "2026-11-26T01:16:43Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Beamin’",
+            "length": "2:21"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/K Motionz/Beamin’ (Extended Mix).jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Raghupati",
+  "artist": "Niladri Kumar",
+  "year": 2021,
+  "release_date": "2021-05-29",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5Qbp0HKnWUxlECKb6gZNL1",
+    "deezer": "https://www.deezer.com/album/577378081"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5Qbp0HKnWUxlECKb6gZNL1",
+      "title": "Raghupati",
+      "date": "2021-05-29"
+    },
+    "total_tracks": 1,
+    "total_length": "5:04",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Raghupati",
+            "length": "5:04",
+            "deezer": {
+              "id": 2763892461,
+              "link": "https://www.deezer.com/track/2763892461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/1/0/1212b4815e5faffe0b61a9f8d13e7a16.mp3?hdnea=exp=1795718921~acl=/api/1/1/1/2/1/0/1212b4815e5faffe0b61a9f8d13e7a16.mp3*~data=user_id=0,application_id=42~hmac=dc373e218bde41c52d64050ddb7b8c10a725d20f4a4fcd7d732f270d8cd45479",
+              "preview_expires": "2026-11-26T18:48:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Niladri Kumar/Raghupati.jpg"
+}

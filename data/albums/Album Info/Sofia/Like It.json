@@ -1,0 +1,45 @@
+{
+  "title": "Like It",
+  "artist": "Nvrsoft&Sofia",
+  "year": 2023,
+  "release_date": "2023-07-14",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1923ee9c-7af7-438a-8b81-b7a2fdbc1307",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "1923ee9c-7af7-438a-8b81-b7a2fdbc1307",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e1505d3e-b439-45e0-8716-3a09a90adfe7",
+      "barcode": null,
+      "title": "Like It",
+      "disambiguation": null,
+      "date": "2023-07-14",
+      "country": "GB"
+    },
+    "total_tracks": 1,
+    "total_length": "3:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Like It",
+            "length": "3:43"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sofia/Like It.jpg"
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Off Wiv Ya Headz",
+  "artist": "Nia Archives",
+  "year": 2023,
+  "release_date": "2023-06-09",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "breakbeat hardcore",
+    "electronic",
+    "jungle"
+  ],
+  "tags": [
+    "breakbeat hardcore",
+    "electronic",
+    "jungle"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0e84f8e5-c260-4a2e-bd07-4190da2ae87c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/448659805"
+  },
+  "musicbrainz_id": "0e84f8e5-c260-4a2e-bd07-4190da2ae87c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/188224cc-648b-4356-b792-f6c45f04d5dc",
+      "barcode": "0602455881175",
+      "title": "Off Wiv Ya Headz",
+      "disambiguation": null,
+      "date": "2023-06-09",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Off Wiv Ya Headz",
+            "length": "3:27",
+            "deezer": {
+              "id": 2310389495,
+              "link": "https://www.deezer.com/track/2310389495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/0/0/0e0a8223ca983c8326d4197d602b5ca3.mp3?hdnea=exp=1795718866~acl=/api/1/1/0/e/0/0/0e0a8223ca983c8326d4197d602b5ca3.mp3*~data=user_id=0,application_id=42~hmac=ba281df9d363f257f7f3841b2bf968f5276b778bb2df0d8bf443197f6e6eda6e",
+              "preview_expires": "2026-11-26T18:47:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nia Archives/Off Wiv Ya Headz.jpg"
+}

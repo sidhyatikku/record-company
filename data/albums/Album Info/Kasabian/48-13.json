@@ -1,0 +1,208 @@
+{
+  "title": "48:13",
+  "artist": "Kasabian",
+  "year": 2014,
+  "release_date": "2014-06-09",
+  "type": "Album",
+  "description": "48:13 is the fifth studio album by English rock band Kasabian. The album, produced by the band's leader, songwriter, guitarist, and second vocalist Sergio Pizzorno, and named after its total running time, was released in Germany on 6 June 2014 and in the UK on 9 June 2014. The album entered at number one on the UK Albums Chart in its first week of release making it the band's fourth consecutive UK number one album. The album received mixed-to-positive reviews from critics who were divided on the electronic-heavy direction as well as criticising the lyrics.",
+  "genres": [
+    "rock",
+    "indie rock",
+    "alternative rock"
+  ],
+  "tags": [
+    "rock",
+    "indie rock",
+    "alternative rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c714fb23-514a-4395-a396-8c77926c4209",
+    "wikipedia": "https://en.wikipedia.org/wiki/48%3A13",
+    "allmusic": "https://www.allmusic.com/album/mw0002668450",
+    "discogs": "https://www.discogs.com/master/696552",
+    "wikidata": "https://www.wikidata.org/wiki/Q16735842",
+    "deezer": "https://www.deezer.com/album/320939017"
+  },
+  "musicbrainz_id": "c714fb23-514a-4395-a396-8c77926c4209",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ae36226d-1867-45df-b30e-09c81c04370c",
+      "barcode": "886444827683",
+      "title": "48:13 deluxe",
+      "disambiguation": "Deluxe",
+      "date": "2014",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "56:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "(Shiva)",
+            "length": "1:07",
+            "deezer": {
+              "id": 1761510027,
+              "link": "https://www.deezer.com/track/1761510027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/a/0/f6abaf8c64e94f24c71f09f93d452ae6.mp3?hdnea=exp=1795656020~acl=/api/1/1/f/6/a/0/f6abaf8c64e94f24c71f09f93d452ae6.mp3*~data=user_id=0,application_id=42~hmac=929583c490679d1412c21205e2bb9ea9cb49ee6f8a2946cd8e0d4ccbe1f519ad",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bumblebeee",
+            "length": "4:01",
+            "deezer": {
+              "id": 1761510037,
+              "link": "https://www.deezer.com/track/1761510037",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/5/0/2e5e7c1dcd4df913420dae7c47de47ce.mp3?hdnea=exp=1795656020~acl=/api/1/1/2/e/5/0/2e5e7c1dcd4df913420dae7c47de47ce.mp3*~data=user_id=0,application_id=42~hmac=7d3edd87f6d629426304f41f150b5b62c16566d67f08e4be8002ea27d58e0727",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Stevie",
+            "length": "4:45",
+            "deezer": {
+              "id": 1761510047,
+              "link": "https://www.deezer.com/track/1761510047",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/8/0/e789e1ba789b6b05dab2eedfc765ddd0.mp3?hdnea=exp=1795656020~acl=/api/1/1/e/7/8/0/e789e1ba789b6b05dab2eedfc765ddd0.mp3*~data=user_id=0,application_id=42~hmac=0c33ae763b1330457bd303da5b34abfa26e62fc49e675b31a4f1bc26941024ef",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "(Mortis)",
+            "length": "0:48",
+            "deezer": {
+              "id": 1761510057,
+              "link": "https://www.deezer.com/track/1761510057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/a/0/53a1d560fa8a829452a49b4fb9cd3069.mp3?hdnea=exp=1795656020~acl=/api/1/1/5/3/a/0/53a1d560fa8a829452a49b4fb9cd3069.mp3*~data=user_id=0,application_id=42~hmac=880bc69fb6135470685c005fe72dbc55e37b1f48b3e1d63635ba83dd2f724f2f",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Doomsday",
+            "length": "3:40",
+            "deezer": {
+              "id": 1761510067,
+              "link": "https://www.deezer.com/track/1761510067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/0/0/130760b4b4173365bfcb4fc208914cf5.mp3?hdnea=exp=1795656020~acl=/api/1/1/1/3/0/0/130760b4b4173365bfcb4fc208914cf5.mp3*~data=user_id=0,application_id=42~hmac=4cef65de325fc7a8a8a7d2660dde138f2e47f09cabcb3f92e59acca49bc4ca2c",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Treat",
+            "length": "6:53",
+            "deezer": {
+              "id": 1761510077,
+              "link": "https://www.deezer.com/track/1761510077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/c/0/b3cae91c7d2e1dffe4c713ce00e9cdef.mp3?hdnea=exp=1795656020~acl=/api/1/1/b/3/c/0/b3cae91c7d2e1dffe4c713ce00e9cdef.mp3*~data=user_id=0,application_id=42~hmac=6a68c462cf5513364f65f2c092f403bd2b5189cb15f9e53c2008010e369434e6",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Glass",
+            "length": "4:48",
+            "deezer": {
+              "id": 1761510087,
+              "link": "https://www.deezer.com/track/1761510087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/e/0/d1e8a151f9f153640393092a6e892f25.mp3?hdnea=exp=1795656020~acl=/api/1/1/d/1/e/0/d1e8a151f9f153640393092a6e892f25.mp3*~data=user_id=0,application_id=42~hmac=4f55e772e4a4fc9bef4652f2cfbe2f471c915f67f8f3c98cdb89a63e33f32433",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Explodes",
+            "length": "4:18",
+            "deezer": {
+              "id": 1761510097,
+              "link": "https://www.deezer.com/track/1761510097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/3/0/b038e3dfdf0d7b7a87a8bd04e80b8fea.mp3?hdnea=exp=1795656020~acl=/api/1/1/b/0/3/0/b038e3dfdf0d7b7a87a8bd04e80b8fea.mp3*~data=user_id=0,application_id=42~hmac=47052190833d392ac6f3817034df801b47c41c7cfd0fec54eabb980a31019150",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "(Levitation)",
+            "length": "1:19",
+            "deezer": {
+              "id": 1761510107,
+              "link": "https://www.deezer.com/track/1761510107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/2/0/0c23e986d8bb4eb084f58849d91798a3.mp3?hdnea=exp=1795656020~acl=/api/1/1/0/c/2/0/0c23e986d8bb4eb084f58849d91798a3.mp3*~data=user_id=0,application_id=42~hmac=a98e6d88bccdbe071a72be5efe0703a6939496f316a4459311f2a65bc64d8d54",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Clouds",
+            "length": "4:45",
+            "deezer": {
+              "id": 1761510117,
+              "link": "https://www.deezer.com/track/1761510117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/2/0/962dda2b2287db8f1d41b31760916875.mp3?hdnea=exp=1795656020~acl=/api/1/1/9/6/2/0/962dda2b2287db8f1d41b31760916875.mp3*~data=user_id=0,application_id=42~hmac=73b35855ac9a6713b2484a276e76088fb6bb78812556a99a80db843cf50a76d1",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Eez-Eh",
+            "length": "3:00",
+            "deezer": {
+              "id": 1761510127,
+              "link": "https://www.deezer.com/track/1761510127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/d/0/6ed98da19a12c1e2af095b532a4c15a0.mp3?hdnea=exp=1795656020~acl=/api/1/1/6/e/d/0/6ed98da19a12c1e2af095b532a4c15a0.mp3*~data=user_id=0,application_id=42~hmac=4bafded342613782084520b6e91385591819adc0fccf1582b272d0e791037083",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Bow",
+            "length": "4:27",
+            "deezer": {
+              "id": 1761510137,
+              "link": "https://www.deezer.com/track/1761510137",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/6/0/bc6062fa55113c45633a159b4eaa9459.mp3?hdnea=exp=1795656020~acl=/api/1/1/b/c/6/0/bc6062fa55113c45633a159b4eaa9459.mp3*~data=user_id=0,application_id=42~hmac=09c2c884dad2fb7744e1c020438e35d658632cf024ab43f0191c8beed4dc5abe",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "S.P.S.",
+            "length": "4:22",
+            "deezer": {
+              "id": 1761510147,
+              "link": "https://www.deezer.com/track/1761510147",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/3/0/6a3dfe34e456cc993fa4e3be0590498b.mp3?hdnea=exp=1795656020~acl=/api/1/1/6/a/3/0/6a3dfe34e456cc993fa4e3be0590498b.mp3*~data=user_id=0,application_id=42~hmac=3227b779c4f9e887c3ff1e9e6b84b58c39b4cbda58a4e43efeaedac6e756f7ac",
+              "preview_expires": "2026-11-26T01:20:20Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Beanz",
+            "length": "4:41"
+          },
+          {
+            "number": "15",
+            "title": "Gelfling",
+            "length": "3:14"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kasabian/48-13.jpg"
+}

@@ -1,0 +1,197 @@
+{
+  "title": "Unorthodox Jukebox",
+  "artist": "Bruno Mars",
+  "year": 2012,
+  "release_date": "2012-12-07",
+  "type": "Album",
+  "description": "Unorthodox Jukebox is the second studio album by the American singer and songwriter Bruno Mars. It was released on December 7, 2012, by Atlantic Records and was made available to listen to in its entirety for a week before its release. It serves as the follow-up to Mars's debut record Doo-Wops & Hooligans (2010). Mars's writing and production team, the Smeezingtons, composed the whole record and worked with several past collaborators, Jeff Bhasker and Supa Dups, while enlisting new producers, such as Mark Ronson and Emile Haynie.",
+  "genres": [
+    "pop",
+    "contemporary r&b",
+    "pop rock",
+    "r&b",
+    "rock",
+    "boogie",
+    "disco",
+    "funk",
+    "pop soul",
+    "reggae",
+    "soul",
+    "synth funk",
+    "dance-pop",
+    "deep house",
+    "electronic",
+    "house",
+    "smooth soul"
+  ],
+  "tags": [
+    "pop",
+    "contemporary r&b",
+    "pop rock",
+    "r&b",
+    "rock",
+    "boogie",
+    "disco",
+    "funk",
+    "pop soul",
+    "reggae",
+    "soul",
+    "synth funk",
+    "contemporary pop/rock",
+    "dance-pop",
+    "deep house",
+    "disco house",
+    "electronic",
+    "funk / soul",
+    "house",
+    "pop reggae",
+    "smooth soul"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/978d88db-60ec-41d9-ade7-beea020941b0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Unorthodox_Jukebox",
+    "allmusic": "https://www.allmusic.com/album/mw0002438815",
+    "discogs": "https://www.discogs.com/master/505655",
+    "wikidata": "https://www.wikidata.org/wiki/Q716353",
+    "deezer": "https://www.deezer.com/album/6157080"
+  },
+  "musicbrainz_id": "978d88db-60ec-41d9-ade7-beea020941b0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/94238177-512d-48b8-b8d2-572d3f228863",
+      "barcode": "075679960658",
+      "title": "Unorthodox Jukebox",
+      "disambiguation": null,
+      "date": "2012-12-07",
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "34:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Young Girls",
+            "length": "3:49",
+            "deezer": {
+              "id": 62724014,
+              "link": "https://www.deezer.com/track/62724014",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/e/0/bbeb1462deb9219c7a964860ccf6279a.mp3?hdnea=exp=1795652572~acl=/api/1/1/b/b/e/0/bbeb1462deb9219c7a964860ccf6279a.mp3*~data=user_id=0,application_id=42~hmac=e75fa70cbb99799674a16c211009e1e2de5febaab8b0d188d8516a6ad27c192a",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Locked Out of Heaven",
+            "length": "3:53",
+            "deezer": {
+              "id": 62724015,
+              "link": "https://www.deezer.com/track/62724015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/5/0/4152102c32bb9cb7a22a1815a5f3fe99.mp3?hdnea=exp=1795652572~acl=/api/1/1/4/1/5/0/4152102c32bb9cb7a22a1815a5f3fe99.mp3*~data=user_id=0,application_id=42~hmac=a23f7f4c2896193f8ec7adb5c2cff2e0e4daa7907496c22c9c1e8b990e3693ec",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gorilla",
+            "length": "4:04",
+            "deezer": {
+              "id": 62724016,
+              "link": "https://www.deezer.com/track/62724016",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/2/0/29248bd8b4e28e82cd1800c882c734bd.mp3?hdnea=exp=1795652572~acl=/api/1/1/2/9/2/0/29248bd8b4e28e82cd1800c882c734bd.mp3*~data=user_id=0,application_id=42~hmac=5feaa167ef311da4a7bb4d717a71e8f9b30f2c918c6b1e150accb0223730cec4",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Treasure",
+            "length": "2:58",
+            "deezer": {
+              "id": 62724017,
+              "link": "https://www.deezer.com/track/62724017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/4/0/f749bbe82440df17398bca0b87272f9b.mp3?hdnea=exp=1795652572~acl=/api/1/1/f/7/4/0/f749bbe82440df17398bca0b87272f9b.mp3*~data=user_id=0,application_id=42~hmac=aec2a42567b6af56a5c9927b24680ffc287f534e9f05c2757fd3334e34c803a3",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Moonshine",
+            "length": "3:48",
+            "deezer": {
+              "id": 62724018,
+              "link": "https://www.deezer.com/track/62724018",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/f/0/2cf9e1ef5b13b4f00a1849b1b2562802.mp3?hdnea=exp=1795652572~acl=/api/1/1/2/c/f/0/2cf9e1ef5b13b4f00a1849b1b2562802.mp3*~data=user_id=0,application_id=42~hmac=c6c4bccf45f61c404a56e5c5dcd377c9712988e4be59477288c22d69ad85d164",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "When I Was Your Man",
+            "length": "3:33",
+            "deezer": {
+              "id": 62724019,
+              "link": "https://www.deezer.com/track/62724019",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/e/0/2bea35dd5ed7fbd460a50ea0a3b3bb68.mp3?hdnea=exp=1795652572~acl=/api/1/1/2/b/e/0/2bea35dd5ed7fbd460a50ea0a3b3bb68.mp3*~data=user_id=0,application_id=42~hmac=9dff1f83bc8f4b329c610bfe21ba506e088706ccd2afb67a71a59a945ebb7966",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Natalie",
+            "length": "3:45",
+            "deezer": {
+              "id": 62724020,
+              "link": "https://www.deezer.com/track/62724020",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/d/0/46dcc58122d7d95ebe4db0fb6ea7a324.mp3?hdnea=exp=1795652572~acl=/api/1/1/4/6/d/0/46dcc58122d7d95ebe4db0fb6ea7a324.mp3*~data=user_id=0,application_id=42~hmac=8a3ec1af8ef0090bce6b36c598de06a29374d1d280c6c8bea52030b83199401f",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Show Me",
+            "length": "3:27",
+            "deezer": {
+              "id": 62724021,
+              "link": "https://www.deezer.com/track/62724021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/c/0/acc78281a2b32fad6639f9d8a7cecdca.mp3?hdnea=exp=1795652572~acl=/api/1/1/a/c/c/0/acc78281a2b32fad6639f9d8a7cecdca.mp3*~data=user_id=0,application_id=42~hmac=560280772a07d5a45104228140f84235a98bd14d5213431ccb954686cec5c70d",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Money Make Her Smile",
+            "length": "3:23",
+            "deezer": {
+              "id": 62724022,
+              "link": "https://www.deezer.com/track/62724022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/1/0/be1a2815b1fe203d55b70fc1c53e8817.mp3?hdnea=exp=1795652572~acl=/api/1/1/b/e/1/0/be1a2815b1fe203d55b70fc1c53e8817.mp3*~data=user_id=0,application_id=42~hmac=198c1849982ecf926e9426a0a27645cb756c899c644b7e4070512e55039cf68f",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "If I Knew",
+            "length": "2:12",
+            "deezer": {
+              "id": 62724023,
+              "link": "https://www.deezer.com/track/62724023",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/b/0/d0ba6fe01c15f5092251505853198032.mp3?hdnea=exp=1795652572~acl=/api/1/1/d/0/b/0/d0ba6fe01c15f5092251505853198032.mp3*~data=user_id=0,application_id=42~hmac=de8438cb269183a7560b89bf1c0ac0fcd9fffda3c2a682e1e1dc22a24fa36c53",
+              "preview_expires": "2026-11-26T00:22:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bruno Mars/Unorthodox Jukebox.jpg"
+}

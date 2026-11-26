@@ -1,0 +1,60 @@
+{
+  "title": "Pianos Raining Down (Full Press Mixes)",
+  "artist": "4am Kru",
+  "year": 2023,
+  "release_date": "2023-03-01",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8fb28419-4fc9-4e9c-b43e-a8f08767251a",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "8fb28419-4fc9-4e9c-b43e-a8f08767251a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/86e974e6-b8b1-4ccf-90ac-11a874c59ce8",
+      "barcode": null,
+      "title": "Pianos Raining Down (Full Press Mixes)",
+      "disambiguation": null,
+      "date": "2023-03-01",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "21:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pianos Raining Down (165 BPM to 134 extended mix)",
+            "length": "5:12"
+          },
+          {
+            "number": "2",
+            "title": "Pianos Raining Down (134 BPM to 165 extended mix)",
+            "length": "5:11"
+          },
+          {
+            "number": "3",
+            "title": "Pianos Raining Down (134 BPM extended Breaks mix)",
+            "length": "4:58"
+          },
+          {
+            "number": "4",
+            "title": "Pianos Raining Down (165 BPM extended Jungle mix)",
+            "length": "5:47"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/4am Kru/Pianos Raining Down.jpg"
+}

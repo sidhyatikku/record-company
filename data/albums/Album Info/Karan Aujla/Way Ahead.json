@@ -1,0 +1,72 @@
+{
+  "title": "Way Ahead",
+  "artist": "Karan Aujla",
+  "year": 2022,
+  "release_date": "2022-05-09",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3cc8f7d4-fcba-49b6-9e61-94b3ba1d0bd9",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "3cc8f7d4-fcba-49b6-9e61-94b3ba1d0bd9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8f5b22d0-40c0-49c2-8400-61ba559fbf4c",
+      "barcode": "859761929279",
+      "title": "Way Ahead",
+      "disambiguation": null,
+      "date": "2022-05-09",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "15:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro",
+            "length": "0:57"
+          },
+          {
+            "number": "2",
+            "title": "Oouuu",
+            "length": "2:27"
+          },
+          {
+            "number": "3",
+            "title": "They Know",
+            "length": "2:24"
+          },
+          {
+            "number": "4",
+            "title": "Game Over",
+            "length": "2:34"
+          },
+          {
+            "number": "5",
+            "title": "Unreachable",
+            "length": "3:57",
+            "artist": "Karan Aujla & Ikka"
+          },
+          {
+            "number": "6",
+            "title": "Gangsta",
+            "length": "3:10",
+            "artist": "Karan Aujla & YG"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karan Aujla/Way Ahead.jpg"
+}

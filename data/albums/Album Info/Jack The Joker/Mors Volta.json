@@ -1,0 +1,147 @@
+{
+  "title": "Mors Volta",
+  "artist": "Jack the Joker",
+  "year": 2016,
+  "release_date": "2016-11-23",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "heavy metal",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "heavy metal",
+    "progressive metal",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2d3c6cf6-2f12-43ab-8cd3-0f248fb42570",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/14495254"
+  },
+  "musicbrainz_id": "2d3c6cf6-2f12-43ab-8cd3-0f248fb42570",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0eb0c17a-a272-4016-a7ee-97ee4f8bf054",
+      "barcode": null,
+      "title": "Mors Volta",
+      "disambiguation": null,
+      "date": "2016-11-23",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "1:10:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Volte Face",
+            "length": "5:59",
+            "deezer": {
+              "id": 135680954,
+              "link": "https://www.deezer.com/track/135680954",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/2/0/7524193a8e5dd2ca07961b2931fe1b98.mp3?hdnea=exp=1795655383~acl=/api/1/1/7/5/2/0/7524193a8e5dd2ca07961b2931fe1b98.mp3*~data=user_id=0,application_id=42~hmac=1b03624045f46084bc34ddfad979cd84040a0651a166627fb3e7315b00334a82",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sucks",
+            "length": "4:46",
+            "deezer": {
+              "id": 135680956,
+              "link": "https://www.deezer.com/track/135680956",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/8/0/0b83932df9acd9a228cd5be5c6631a89.mp3?hdnea=exp=1795655383~acl=/api/1/1/0/b/8/0/0b83932df9acd9a228cd5be5c6631a89.mp3*~data=user_id=0,application_id=42~hmac=1aa631967cc71f0e2a0987577bb12c3be3f25bed05dfaeca25c18e9ab272ef6d",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Black Karma Rider",
+            "length": "4:04",
+            "deezer": {
+              "id": 135680958,
+              "link": "https://www.deezer.com/track/135680958",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/d/0/b6d48a79108ed145214dee3258c71a3d.mp3?hdnea=exp=1795655383~acl=/api/1/1/b/6/d/0/b6d48a79108ed145214dee3258c71a3d.mp3*~data=user_id=0,application_id=42~hmac=a5333e74d0fda916c60c1edb5dc804e0adb661e6388f5d28185d76fca205cba3",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Brutal Behavior",
+            "length": "5:31",
+            "deezer": {
+              "id": 135680960,
+              "link": "https://www.deezer.com/track/135680960",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/6/0/9960eacb2b1c4822dd6260eb68930131.mp3?hdnea=exp=1795655383~acl=/api/1/1/9/9/6/0/9960eacb2b1c4822dd6260eb68930131.mp3*~data=user_id=0,application_id=42~hmac=3ea25838ec863f91203fd53d17b12fc5faafdbae4a02425b7b2b3aa8f6488f51",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Brad Pit",
+            "length": "7:27",
+            "deezer": {
+              "id": 135680962,
+              "link": "https://www.deezer.com/track/135680962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/3/0/953022c548be3cd2626fa178353bc117.mp3?hdnea=exp=1795655383~acl=/api/1/1/9/5/3/0/953022c548be3cd2626fa178353bc117.mp3*~data=user_id=0,application_id=42~hmac=85969a49f9119eb0edfd41538b83ff3eab773219f855016a549f54f14be635fe",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "V",
+            "length": "6:31",
+            "deezer": {
+              "id": 135680964,
+              "link": "https://www.deezer.com/track/135680964",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/9/0/2f96c959edd0408317cb70b349733e36.mp3?hdnea=exp=1795655383~acl=/api/1/1/2/f/9/0/2f96c959edd0408317cb70b349733e36.mp3*~data=user_id=0,application_id=42~hmac=c01a07a21809e089d9d3e4a6a23435c47a45fce42d7888775141c3ed840e5bbd",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Lady of Dunes",
+            "length": "6:26",
+            "deezer": {
+              "id": 135680966,
+              "link": "https://www.deezer.com/track/135680966",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/f/0/e5fb2ac56ea08aee83329193815effd7.mp3?hdnea=exp=1795655383~acl=/api/1/1/e/5/f/0/e5fb2ac56ea08aee83329193815effd7.mp3*~data=user_id=0,application_id=42~hmac=b339a2e19bcbbff649f816554c72599e636dca2350a0b1bce4eb533a50a520ea",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Be Less",
+            "length": "4:53",
+            "deezer": {
+              "id": 135680968,
+              "link": "https://www.deezer.com/track/135680968",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/b/0/07b5a329da6d0f83ad44a724bb0e74d3.mp3?hdnea=exp=1795655383~acl=/api/1/1/0/7/b/0/07b5a329da6d0f83ad44a724bb0e74d3.mp3*~data=user_id=0,application_id=42~hmac=36b62457c08745b3c4cb4ead2438d250a58a00fab183a6f740253749279de3f5",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Venus & Mars",
+            "length": "24:38",
+            "deezer": {
+              "id": 135680970,
+              "link": "https://www.deezer.com/track/135680970",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/d/0/c9d6db28552e0107765a66f8a8dfb3d4.mp3?hdnea=exp=1795655383~acl=/api/1/1/c/9/d/0/c9d6db28552e0107765a66f8a8dfb3d4.mp3*~data=user_id=0,application_id=42~hmac=1e97bf7c761122007575a7101d57fd70cd2840b84ed00a5c18aaa774fbd36901",
+              "preview_expires": "2026-11-26T01:09:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jack The Joker/Mors Volta.jpg"
+}

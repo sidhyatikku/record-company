@@ -1,0 +1,46 @@
+{
+  "title": "Arm in Arm",
+  "artist": "Nicolò Ricci",
+  "year": 2022,
+  "release_date": "2022-04-08",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/49Z9I1f38CayyMlcClA3Hc",
+    "deezer": "https://www.deezer.com/album/305511297"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/49Z9I1f38CayyMlcClA3Hc",
+      "title": "Arm in Arm",
+      "date": "2022-04-08"
+    },
+    "total_tracks": 1,
+    "total_length": "8:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Arm in Arm",
+            "length": "8:44",
+            "deezer": {
+              "id": 1696454727,
+              "link": "https://www.deezer.com/track/1696454727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/8/0/a785627c012b116e8cbff48b4817cc42.mp3?hdnea=exp=1795718913~acl=/api/1/1/a/7/8/0/a785627c012b116e8cbff48b4817cc42.mp3*~data=user_id=0,application_id=42~hmac=cf8f32da440df65921f91caa14b63b1a4fc930d5fbc8befc37f9db1a452c4737",
+              "preview_expires": "2026-11-26T18:48:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Nicolò Ricci/Arm in Arm.jpg"
+}

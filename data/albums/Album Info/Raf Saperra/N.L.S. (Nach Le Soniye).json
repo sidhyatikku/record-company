@@ -1,0 +1,57 @@
+{
+  "title": "N.L.S. (Nach Le Soniye)",
+  "artist": "Raf Saperra",
+  "year": 2022,
+  "release_date": "2022-09-23",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "hip hop"
+  ],
+  "tags": [
+    "bhangra",
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/aee832b2-883f-45e5-aa89-3e557cc17970",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/358185097"
+  },
+  "musicbrainz_id": "aee832b2-883f-45e5-aa89-3e557cc17970",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1fb6cd70-9f51-4267-8b43-ffc9133d9b6d",
+      "barcode": "5059552453920",
+      "title": "N.L.S. (Nach Le Soniye)",
+      "disambiguation": null,
+      "date": "2022-09-23",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "N.L.S. (Nach Le Soniye)",
+            "length": "3:18",
+            "deezer": {
+              "id": 1922000007,
+              "link": "https://www.deezer.com/track/1922000007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/3/0/34395dfd2c5244d62dd509973c7d25fb.mp3?hdnea=exp=1795719910~acl=/api/1/1/3/4/3/0/34395dfd2c5244d62dd509973c7d25fb.mp3*~data=user_id=0,application_id=42~hmac=23e906e7c515eae67ac74ffae9f1b6d018b71e43f79c91943470c4ba41047585",
+              "preview_expires": "2026-11-26T19:05:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Raf Saperra/N.L.S. (Nach Le Soniye).jpg"
+}

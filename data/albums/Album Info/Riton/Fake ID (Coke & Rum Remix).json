@@ -1,0 +1,55 @@
+{
+  "title": "Fake ID (Coke & Rum Remix)",
+  "artist": "Riton, Kah‐Lo, & GEE LEE",
+  "year": 2022,
+  "release_date": "2022-12-15",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [
+    "deep house"
+  ],
+  "tags": [
+    "deep house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/95b9e57d-705c-457a-9d76-dac8f3a41777",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/377062467"
+  },
+  "musicbrainz_id": "95b9e57d-705c-457a-9d76-dac8f3a41777",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/49856674-06af-4551-9d63-444dcaf852b6",
+      "barcode": "638812835024",
+      "title": "Fake ID (Coke & Rum Remix)",
+      "disambiguation": "Explicit",
+      "date": "2022-12-15",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fake ID (Coke & Rum remix)",
+            "length": "2:06",
+            "deezer": {
+              "id": 2023470977,
+              "link": "https://www.deezer.com/track/2023470977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/a/0/0eaf1c59c6a72d284d61ed7e3e1083d5.mp3?hdnea=exp=1795720122~acl=/api/1/1/0/e/a/0/0eaf1c59c6a72d284d61ed7e3e1083d5.mp3*~data=user_id=0,application_id=42~hmac=4bc4850334be38d38ee960084bea4004d6d84b787bb834693590793c13d71c45",
+              "preview_expires": "2026-11-26T19:08:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Riton/Fake ID (Coke & Rum Remix).jpg"
+}

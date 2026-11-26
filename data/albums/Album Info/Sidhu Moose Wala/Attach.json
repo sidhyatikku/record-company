@@ -1,0 +1,51 @@
+{
+  "title": "Attach",
+  "artist": "Sidhu Moose Wala, Steel Banglez & Fredo",
+  "year": 2024,
+  "release_date": "2024-08-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cd1b4d29-f655-40ce-bc6b-10e096ac55ee",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/630483561"
+  },
+  "musicbrainz_id": "cd1b4d29-f655-40ce-bc6b-10e096ac55ee",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5984d441-3c1a-41d5-88fd-8cf65dd04d70",
+      "barcode": "198846068114",
+      "title": "Attach",
+      "disambiguation": null,
+      "date": "2024-08-30",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Attach",
+            "length": "3:33",
+            "deezer": {
+              "id": 2950770241,
+              "link": "https://www.deezer.com/track/2950770241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/7/0/5a7c31415f3738c719b616edc9b1cd04.mp3?hdnea=exp=1795720568~acl=/api/1/1/5/a/7/0/5a7c31415f3738c719b616edc9b1cd04.mp3*~data=user_id=0,application_id=42~hmac=ab1514deee30f31595155999c838f2f79d399708fd0f2442b2a3b1fd6e5c0787",
+              "preview_expires": "2026-11-26T19:16:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Attach.jpg"
+}

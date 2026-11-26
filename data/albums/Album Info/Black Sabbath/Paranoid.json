@@ -1,0 +1,164 @@
+{
+  "title": "Paranoid",
+  "artist": "Black Sabbath",
+  "year": 1970,
+  "release_date": "1970-09-18",
+  "type": "Album",
+  "description": "Paranoid is the second studio album by the British heavy metal band Black Sabbath. It was released on 18 September 1970 in the United Kingdom by Vertigo Records, and on 7 January 1971 in the United States by Warner Bros. Records. The album contains several of the band's signature songs, including \"Iron Man\", \"War Pigs\" and the title track, which was the band's only top 20 hit, reaching number four on the UK Singles Chart. The title track reached No. 1 on the US Billboard Hot Hard Rock Songs for the first time 55 years after its release in July 2025.",
+  "genres": [
+    "heavy metal",
+    "hard rock",
+    "blues rock",
+    "rock",
+    "doom metal",
+    "metal",
+    "heavy psych",
+    "traditional doom metal",
+    "classic rock",
+    "occult rock",
+    "progressive rock"
+  ],
+  "tags": [
+    "heavy metal",
+    "hard rock",
+    "classic british metal",
+    "blues rock",
+    "rock",
+    "best songs ever",
+    "doom metal",
+    "metal",
+    "heavy psych",
+    "traditional doom metal",
+    "70s",
+    "classic rock",
+    "occult rock",
+    "classic",
+    "ozzy",
+    "progressive rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.65,
+    "votes": 57
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cc053745-c447-3566-8f27-bed5438c9133",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paranoid_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000600570",
+    "discogs": "https://www.discogs.com/master/302",
+    "wikidata": "https://www.wikidata.org/wiki/Q271787",
+    "deezer": "https://www.deezer.com/album/7308090"
+  },
+  "musicbrainz_id": "cc053745-c447-3566-8f27-bed5438c9133",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/188fb66b-2fd9-41a7-8d81-088e20714ad1",
+      "barcode": "5414939679377",
+      "title": "Paranoid",
+      "disambiguation": "2009 remastered version",
+      "date": "2009",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "41:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "War Pigs",
+            "length": "7:54",
+            "deezer": {
+              "id": 74062527,
+              "link": "https://www.deezer.com/track/74062527",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/7/0/ac7d30693a7a9dfd9943f33b9050b545.mp3?hdnea=exp=1795652117~acl=/api/1/1/a/c/7/0/ac7d30693a7a9dfd9943f33b9050b545.mp3*~data=user_id=0,application_id=42~hmac=0621d887a694c269586490a2ebb0acf84781273bbface59d7c63564ccd9c6e35",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Paranoid",
+            "length": "2:48",
+            "deezer": {
+              "id": 74062528,
+              "link": "https://www.deezer.com/track/74062528",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/3/0/ec38738cb80d4a47b2a665a12e56bf09.mp3?hdnea=exp=1795652117~acl=/api/1/1/e/c/3/0/ec38738cb80d4a47b2a665a12e56bf09.mp3*~data=user_id=0,application_id=42~hmac=c595173c580e2fb177d15d4969946a80c7b1ddc5e59e31eca42e709a7549d57d",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Planet Caravan",
+            "length": "4:29",
+            "deezer": {
+              "id": 74062529,
+              "link": "https://www.deezer.com/track/74062529",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/7/0/7d7c294b9d59fc8b25db5c170ab62330.mp3?hdnea=exp=1795652117~acl=/api/1/1/7/d/7/0/7d7c294b9d59fc8b25db5c170ab62330.mp3*~data=user_id=0,application_id=42~hmac=a650008da670dff5d0664ccf4a2b7c7d2adf053eed94189302a61aa6cde76117",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Iron Man",
+            "length": "5:54",
+            "deezer": {
+              "id": 74062530,
+              "link": "https://www.deezer.com/track/74062530",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/1/0/de1971426956d4dac872e7f7f8252fba.mp3?hdnea=exp=1795652117~acl=/api/1/1/d/e/1/0/de1971426956d4dac872e7f7f8252fba.mp3*~data=user_id=0,application_id=42~hmac=efaff7fe1f50827dbe9a8b53d2e6b604d44e0a2f5ea442707265d0e763232171",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Electric Funeral",
+            "length": "4:49",
+            "deezer": {
+              "id": 74062531,
+              "link": "https://www.deezer.com/track/74062531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/d/0/f7d40a9bd6f3c14eb2d40c678cfea3a0.mp3?hdnea=exp=1795652117~acl=/api/1/1/f/7/d/0/f7d40a9bd6f3c14eb2d40c678cfea3a0.mp3*~data=user_id=0,application_id=42~hmac=496278decb4e8dbab68d29c736d468015ff9b34e80df96d017758c4a5cec4329",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hand of Doom",
+            "length": "7:08",
+            "deezer": {
+              "id": 74062532,
+              "link": "https://www.deezer.com/track/74062532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/3/0/c23c1ed583afbbe83f1725dad11c65f5.mp3?hdnea=exp=1795652117~acl=/api/1/1/c/2/3/0/c23c1ed583afbbe83f1725dad11c65f5.mp3*~data=user_id=0,application_id=42~hmac=e0023b66a7e310d646b9513c483535e146104cd465edfc3da277c09bba1b0bb5",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Rat Salad",
+            "length": "2:29",
+            "deezer": {
+              "id": 74062533,
+              "link": "https://www.deezer.com/track/74062533",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/6/0/e06dd736fa861b93a7b112642349dc9f.mp3?hdnea=exp=1795652117~acl=/api/1/1/e/0/6/0/e06dd736fa861b93a7b112642349dc9f.mp3*~data=user_id=0,application_id=42~hmac=d5fb0fbd59438707a41640d77f79c95c82b89b20700eacd759ac004cc01986c4",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Fairies Wear Boots",
+            "length": "6:13",
+            "deezer": {
+              "id": 74062534,
+              "link": "https://www.deezer.com/track/74062534",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/3/0/7b35157176c3b3bbd15fe8200b960afa.mp3?hdnea=exp=1795652117~acl=/api/1/1/7/b/3/0/7b35157176c3b3bbd15fe8200b960afa.mp3*~data=user_id=0,application_id=42~hmac=56f835ea287478dfcd72e2316847098c925cf124f89c9bcbac143d8496151b9e",
+              "preview_expires": "2026-11-26T00:15:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Black Sabbath/Paranoid.png"
+}

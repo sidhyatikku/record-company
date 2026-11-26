@@ -1,0 +1,53 @@
+{
+  "title": "Brown Munde",
+  "artist": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+  "year": 2020,
+  "release_date": "2020-09-18",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "punjabi hip hop",
+    "punjabi pop",
+    "desi",
+    "bhangra",
+    "desi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs",
+    "deezer": "https://www.deezer.com/album/173373922"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs",
+      "title": "Brown Munde",
+      "date": "2020-09-18"
+    },
+    "total_tracks": 1,
+    "total_length": "4:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Brown Munde",
+            "length": "4:14",
+            "deezer": {
+              "id": 1080642602,
+              "link": "https://www.deezer.com/track/1080642602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/6/0/eb67559cd3c26408698569bd8dddfb70.mp3?hdnea=exp=1795649314~acl=/api/1/1/e/b/6/0/eb67559cd3c26408698569bd8dddfb70.mp3*~data=user_id=0,application_id=42~hmac=241dd58c1f1ffa598a512833ae1e8300f15576e2aa54542cf23136a4e2cba1ee",
+              "preview_expires": "2026-11-25T23:28:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/AP Dhillon/Brown Munde.jpg"
+}

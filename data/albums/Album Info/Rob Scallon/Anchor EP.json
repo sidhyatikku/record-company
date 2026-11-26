@@ -1,0 +1,102 @@
+{
+  "title": "Anchor",
+  "artist": "Rob Scallon",
+  "year": 2014,
+  "release_date": "2014-12-08",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "ambient",
+    "rock"
+  ],
+  "tags": [
+    "ambient",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fc806d18-e824-4fc3-842b-689ca23aa508",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1099639",
+    "deezer": "https://www.deezer.com/album/14455482"
+  },
+  "musicbrainz_id": "fc806d18-e824-4fc3-842b-689ca23aa508",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/847fe147-a878-406b-b91e-d4276827350f",
+      "barcode": null,
+      "title": "Anchor",
+      "disambiguation": null,
+      "date": "2014-12-08",
+      "country": "US"
+    },
+    "total_tracks": 5,
+    "total_length": "15:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Anchor",
+            "length": "3:50",
+            "deezer": {
+              "id": 135343912,
+              "link": "https://www.deezer.com/track/135343912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/9/0/7a92727e0aa0ed1e030b31a503fc3385.mp3?hdnea=exp=1795720131~acl=/api/1/1/7/a/9/0/7a92727e0aa0ed1e030b31a503fc3385.mp3*~data=user_id=0,application_id=42~hmac=20eda3eac2f34762e68acd24c63718513d2e7be8f6ccd628ef2f9d50b68f45aa",
+              "preview_expires": "2026-11-26T19:08:51Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "A Collapse",
+            "length": "2:23",
+            "deezer": {
+              "id": 135343914,
+              "link": "https://www.deezer.com/track/135343914",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/8/0/8c8e79c54364ae2fbd56a2af445193e3.mp3?hdnea=exp=1795720131~acl=/api/1/1/8/c/8/0/8c8e79c54364ae2fbd56a2af445193e3.mp3*~data=user_id=0,application_id=42~hmac=77bd91c3416359e07ad64a8eb94bc519adfdb6ded0dfcf340f649a5c22100684",
+              "preview_expires": "2026-11-26T19:08:51Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Theater Girl",
+            "length": "3:06",
+            "deezer": {
+              "id": 135343916,
+              "link": "https://www.deezer.com/track/135343916",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/4/0/c8412c6d8fb7c2bf7bf86ab8438ed544.mp3?hdnea=exp=1795720131~acl=/api/1/1/c/8/4/0/c8412c6d8fb7c2bf7bf86ab8438ed544.mp3*~data=user_id=0,application_id=42~hmac=7ab910226d6e73e9ea6abd3079db27d6ff5ea16c11d871809f0fe40a25df78b3",
+              "preview_expires": "2026-11-26T19:08:51Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "HomeHomeHome",
+            "length": "3:18",
+            "deezer": {
+              "id": 135343918,
+              "link": "https://www.deezer.com/track/135343918",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/5/0/015ac6fed344f5a69f46c9d0f336f91b.mp3?hdnea=exp=1795720131~acl=/api/1/1/0/1/5/0/015ac6fed344f5a69f46c9d0f336f91b.mp3*~data=user_id=0,application_id=42~hmac=eba8dcc7d7c2a41adaf328aed44a3d53eb2f8643800178b55e2a50b74d9d326f",
+              "preview_expires": "2026-11-26T19:08:51Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Le Gentil & The Transit of Venus",
+            "length": "3:20",
+            "deezer": {
+              "id": 135343920,
+              "link": "https://www.deezer.com/track/135343920",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/e/0/ade2cd9a439d30b061d7404c91a76b10.mp3?hdnea=exp=1795720131~acl=/api/1/1/a/d/e/0/ade2cd9a439d30b061d7404c91a76b10.mp3*~data=user_id=0,application_id=42~hmac=dd4f7a830e76daa7b40eadab239a92cf9a68a8b8e4fd6e286865a5fb9b1be476",
+              "preview_expires": "2026-11-26T19:08:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Rob Scallon/Anchor EP.jpg"
+}

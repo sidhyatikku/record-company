@@ -1,0 +1,84 @@
+{
+  "title": "Hook",
+  "artist": "Zero",
+  "year": 2003,
+  "release_date": "2003",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7c8e30bf-4417-458c-a565-0f2e585bb53d",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "7c8e30bf-4417-458c-a565-0f2e585bb53d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/12a04b6b-3be1-4b08-a926-ea9bad01f6bc",
+      "barcode": null,
+      "title": "Hook",
+      "disambiguation": null,
+      "date": "2003",
+      "country": "IN"
+    },
+    "total_tracks": 8,
+    "total_length": "30:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Not My Kind of Girl",
+            "length": "4:00"
+          },
+          {
+            "number": "2",
+            "title": "Lost",
+            "length": "4:22"
+          },
+          {
+            "number": "3",
+            "title": "Spitleaf",
+            "length": "3:59"
+          },
+          {
+            "number": "4",
+            "title": "PSP 12\"",
+            "length": "4:36"
+          },
+          {
+            "number": "5",
+            "title": "Christmas in July",
+            "length": "4:18"
+          },
+          {
+            "number": "6",
+            "title": "Lucy",
+            "length": "3:32"
+          },
+          {
+            "number": "7",
+            "title": "Lijo",
+            "length": "2:09"
+          },
+          {
+            "number": "8",
+            "title": "Not My Kind of Girl (reprise)",
+            "length": "3:55"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Zero Zero/Hook.jpg"
+}

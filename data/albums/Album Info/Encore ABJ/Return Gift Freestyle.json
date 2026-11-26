@@ -1,0 +1,118 @@
+{
+  "title": "EE",
+  "artist": "Encore ABJ",
+  "year": 2026,
+  "release_date": "2026-03-15",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5ba239bb-b7cb-4be4-8149-331a3d7e5875",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/934406451"
+  },
+  "musicbrainz_id": "5ba239bb-b7cb-4be4-8149-331a3d7e5875",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9726539f-4a97-467f-8b5f-d613ecbc163f",
+      "barcode": "820200643995",
+      "title": "EE",
+      "disambiguation": null,
+      "date": "2026-03-15",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "20:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "ALL CAPS",
+            "length": "1:58",
+            "deezer": {
+              "id": 3886359581,
+              "link": "https://www.deezer.com/track/3886359581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/f/0/9bf7a2d244cc6e8fc9087c2252f37c25.mp3?hdnea=exp=1795653966~acl=/api/1/1/9/b/f/0/9bf7a2d244cc6e8fc9087c2252f37c25.mp3*~data=user_id=0,application_id=42~hmac=26a0188df8a3a1ad6c8097dc94120c46f2f26dc2b0e49dc5b0de3b0d82a90bac",
+              "preview_expires": "2026-11-26T00:46:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Neelam Aur Neeli",
+            "length": "4:24",
+            "artist": "Encore ABJ, Bhaskar & RiJ",
+            "deezer": {
+              "id": 3886359591,
+              "link": "https://www.deezer.com/track/3886359591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/7/0/be7e3cfaf1f2e405cc8ce3b09e2c6bc9.mp3?hdnea=exp=1795653966~acl=/api/1/1/b/e/7/0/be7e3cfaf1f2e405cc8ce3b09e2c6bc9.mp3*~data=user_id=0,application_id=42~hmac=365d911df5477569b27aaaee7126240db6c2666242dc00cbbe990b05c31ff487",
+              "preview_expires": "2026-11-26T00:46:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Elevator Music",
+            "length": "3:21",
+            "deezer": {
+              "id": 3886359601,
+              "link": "https://www.deezer.com/track/3886359601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/5/0/bb5280695565a9b648a58d42a0f3707f.mp3?hdnea=exp=1795653966~acl=/api/1/1/b/b/5/0/bb5280695565a9b648a58d42a0f3707f.mp3*~data=user_id=0,application_id=42~hmac=770dcae821ae85e7a97d8d6e3407f5049ae3a278a056377f7e81c4b464d7f35e",
+              "preview_expires": "2026-11-26T00:46:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kya Mai Yaha",
+            "length": "3:45",
+            "deezer": {
+              "id": 3886359611,
+              "link": "https://www.deezer.com/track/3886359611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/a/0/a6a777b622d52dffc570ef083c112c96.mp3?hdnea=exp=1795653966~acl=/api/1/1/a/6/a/0/a6a777b622d52dffc570ef083c112c96.mp3*~data=user_id=0,application_id=42~hmac=b4561b6faee2c3057b73a02ab2e9e6b863d1fec9f06366650a3211393871e8b8",
+              "preview_expires": "2026-11-26T00:46:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Masti",
+            "length": "2:57",
+            "deezer": {
+              "id": 3886359621,
+              "link": "https://www.deezer.com/track/3886359621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/5/0/e5591e67d53af66ecb8917828892a63f.mp3?hdnea=exp=1795653966~acl=/api/1/1/e/5/5/0/e5591e67d53af66ecb8917828892a63f.mp3*~data=user_id=0,application_id=42~hmac=3e5c0f55f41bf2845fa5d3cb5319665a7e95143bbb430b8fff299584a773572c",
+              "preview_expires": "2026-11-26T00:46:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dilli Ka Driver(skit)",
+            "length": "0:59",
+            "deezer": {
+              "id": 3886359631,
+              "link": "https://www.deezer.com/track/3886359631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/0/0/e40b81922442667ead66a4714451733f.mp3?hdnea=exp=1795653966~acl=/api/1/1/e/4/0/0/e40b81922442667ead66a4714451733f.mp3*~data=user_id=0,application_id=42~hmac=993f8f2cf2cb217b7e93efb585aff165b95afaeac79821f707f54fc075fda11c",
+              "preview_expires": "2026-11-26T00:46:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Crash Out",
+            "length": "2:44",
+            "deezer": {
+              "id": 3886359641,
+              "link": "https://www.deezer.com/track/3886359641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/9/0/f196a03f29d3db040657ad4c55bbabd9.mp3?hdnea=exp=1795653966~acl=/api/1/1/f/1/9/0/f196a03f29d3db040657ad4c55bbabd9.mp3*~data=user_id=0,application_id=42~hmac=447233f8ac4be477e146063d3700677ea55efd65e80b774b8ef656ca796172a0",
+              "preview_expires": "2026-11-26T00:46:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Encore ABJ/Return Gift Freestyle.jpg"
+}

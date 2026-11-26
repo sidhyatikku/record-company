@@ -1,0 +1,106 @@
+{
+  "title": "By Public Demand",
+  "artist": "B21",
+  "year": 1998,
+  "release_date": "1998-01-01",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0d4823bf-70dc-44df-a910-eaa40a339269",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/829681331"
+  },
+  "musicbrainz_id": "0d4823bf-70dc-44df-a910-eaa40a339269",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7c04e3e3-9643-48b4-9b29-b28daf26f18b",
+      "barcode": null,
+      "title": "By Public Demand",
+      "disambiguation": null,
+      "date": "1998-01-01",
+      "country": "US"
+    },
+    "total_tracks": 6,
+    "total_length": "28:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Chandigarh",
+            "length": "5:16",
+            "deezer": {
+              "id": 3578906801,
+              "link": "https://www.deezer.com/track/3578906801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/9/0/65910e236db93d8558b9a2301c9e526f.mp3?hdnea=exp=1795651758~acl=/api/1/1/6/5/9/0/65910e236db93d8558b9a2301c9e526f.mp3*~data=user_id=0,application_id=42~hmac=c2f6f89a04d8ae7b8c271d3d6691b18bf8c10644f496e2a096dcf857247bb308",
+              "preview_expires": "2026-11-26T00:09:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Deor Da Viah",
+            "length": "5:11",
+            "deezer": {
+              "id": 3578906811,
+              "link": "https://www.deezer.com/track/3578906811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/d/0/59d5760af98beb6222ebcf1004b4b7a7.mp3?hdnea=exp=1795651758~acl=/api/1/1/5/9/d/0/59d5760af98beb6222ebcf1004b4b7a7.mp3*~data=user_id=0,application_id=42~hmac=84c867ef66c8d46562a8422b30d62846d5254720cc0d7978ae2c55fb261ccb7f",
+              "preview_expires": "2026-11-26T00:09:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Chitia Kipha Dia",
+            "length": "4:17",
+            "deezer": {
+              "id": 3578906821,
+              "link": "https://www.deezer.com/track/3578906821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/a/0/6caf9005c910429c8d12e2880cb17041.mp3?hdnea=exp=1795651758~acl=/api/1/1/6/c/a/0/6caf9005c910429c8d12e2880cb17041.mp3*~data=user_id=0,application_id=42~hmac=828b4236d775553e52cdb63f8d99d4e0f2914d7d91eec4fed843f0089fad35c4",
+              "preview_expires": "2026-11-26T00:09:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Khote Te",
+            "length": "5:24",
+            "deezer": {
+              "id": 3578906831,
+              "link": "https://www.deezer.com/track/3578906831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/d/0/99da4f8d78066a76cdfe4dc591b11fb0.mp3?hdnea=exp=1795651758~acl=/api/1/1/9/9/d/0/99da4f8d78066a76cdfe4dc591b11fb0.mp3*~data=user_id=0,application_id=42~hmac=a55c1465728ddb442469f7171183b224e497c214eca32b2af9f82715e60264e1",
+              "preview_expires": "2026-11-26T00:09:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Din Raat",
+            "length": "3:41",
+            "deezer": {
+              "id": 3578906841,
+              "link": "https://www.deezer.com/track/3578906841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/4/0/1949fe02cbd4cdc32798fca1b728971b.mp3?hdnea=exp=1795651758~acl=/api/1/1/1/9/4/0/1949fe02cbd4cdc32798fca1b728971b.mp3*~data=user_id=0,application_id=42~hmac=28da7113ba0d3e79cb05d800b5a37238ef16a86ce8413cdc1ae2d89301421543",
+              "preview_expires": "2026-11-26T00:09:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Putt Sardaran Da",
+            "length": "4:33",
+            "deezer": {
+              "id": 3578906851,
+              "link": "https://www.deezer.com/track/3578906851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/5/0/005fa6d98eb61e881196bf04d9b57a55.mp3?hdnea=exp=1795651758~acl=/api/1/1/0/0/5/0/005fa6d98eb61e881196bf04d9b57a55.mp3*~data=user_id=0,application_id=42~hmac=e488420aa5d2c04dd848cc3b2342d1d2eaf0056006a797d30d5f821a7d5d194a",
+              "preview_expires": "2026-11-26T00:09:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/B21/By Public Demand.jpg"
+}

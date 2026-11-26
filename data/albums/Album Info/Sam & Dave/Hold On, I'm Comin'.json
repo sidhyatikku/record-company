@@ -1,0 +1,271 @@
+{
+  "title": "Hold On I'm Comin'",
+  "artist": "Sam & Dave",
+  "year": 2012,
+  "release_date": "2012-11-06",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/df315867-ec86-4f6b-ba3b-1491f88c0a61",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/6507609"
+  },
+  "musicbrainz_id": "df315867-ec86-4f6b-ba3b-1491f88c0a61",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dc2a2089-d8e3-4ba4-b40d-2579882a8ad1",
+      "barcode": "888002118073",
+      "title": "Hold On I'm Comin'",
+      "disambiguation": null,
+      "date": "2012-11-06",
+      "country": "XW"
+    },
+    "total_tracks": 21,
+    "total_length": "56:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "A Place Nobody Can Find",
+            "length": "2:56",
+            "deezer": {
+              "id": 66525661,
+              "link": "https://www.deezer.com/track/66525661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/4/0/124eb0e04952e42d965fdcb961d0b10c.mp3?hdnea=exp=1795720277~acl=/api/1/1/1/2/4/0/124eb0e04952e42d965fdcb961d0b10c.mp3*~data=user_id=0,application_id=42~hmac=576057085a2831d4b3d865cbfee245cf3ebb0c019fc2c8dff7f7edebb0f5044e",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Can't You Find Another Way (Of Doing It)",
+            "length": "2:26",
+            "deezer": {
+              "id": 66525662,
+              "link": "https://www.deezer.com/track/66525662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/b/0/36bb16a8fe4112892d3fb8cb6b875c80.mp3?hdnea=exp=1795720277~acl=/api/1/1/3/6/b/0/36bb16a8fe4112892d3fb8cb6b875c80.mp3*~data=user_id=0,application_id=42~hmac=e04eb62a116614c5f5083538e3f01d932f74d47ec026fec924f375b4599e87dd",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Come On In",
+            "length": "2:48",
+            "deezer": {
+              "id": 66525663,
+              "link": "https://www.deezer.com/track/66525663",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/3/0/6e3f239e1c05ec9bac96f1e090b99869.mp3?hdnea=exp=1795720277~acl=/api/1/1/6/e/3/0/6e3f239e1c05ec9bac96f1e090b99869.mp3*~data=user_id=0,application_id=42~hmac=ec6078598bdd5becf5712f38a013ab5e32bcc50936cd1bf021aeab5e1dd3c54e",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Good Night Baby",
+            "length": "2:46",
+            "deezer": {
+              "id": 66525664,
+              "link": "https://www.deezer.com/track/66525664",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/9/0/47928569613e8a704c653e7e17570d8e.mp3?hdnea=exp=1795720277~acl=/api/1/1/4/7/9/0/47928569613e8a704c653e7e17570d8e.mp3*~data=user_id=0,application_id=42~hmac=bba617d612bba51746dd0e674f33e1b3ae0ddfa22e8bc57806c2f61f52d57f93",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hold On, I'm Comin'",
+            "length": "2:33",
+            "deezer": {
+              "id": 66525665,
+              "link": "https://www.deezer.com/track/66525665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/6/0/42694668642a7052ed4a25b1d608b45d.mp3?hdnea=exp=1795720277~acl=/api/1/1/4/2/6/0/42694668642a7052ed4a25b1d608b45d.mp3*~data=user_id=0,application_id=42~hmac=3a041ad894fd0667e79424035846aaeb2f830ed90e8aa0b86ab3739c8ead1b89",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Take What I Want",
+            "length": "2:31",
+            "deezer": {
+              "id": 66525666,
+              "link": "https://www.deezer.com/track/66525666",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/4/0/9e45b0f94e7a44e70ebb023630acc07b.mp3?hdnea=exp=1795720277~acl=/api/1/1/9/e/4/0/9e45b0f94e7a44e70ebb023630acc07b.mp3*~data=user_id=0,application_id=42~hmac=24c1ad6402417a6cacd460e1d6f6e838defac2ab4bc4bf841d7bb2eb9ca8ec7d",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Thank You",
+            "length": "2:55",
+            "deezer": {
+              "id": 66525667,
+              "link": "https://www.deezer.com/track/66525667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/c/0/fac51dd23ffc7e28086764f869772dd6.mp3?hdnea=exp=1795720277~acl=/api/1/1/f/a/c/0/fac51dd23ffc7e28086764f869772dd6.mp3*~data=user_id=0,application_id=42~hmac=2679bc456a3e0ccdd77779922586f9a8c6910f9c9d17bbc92538d1c8a98ac47e",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "May I Baby",
+            "length": "2:39",
+            "deezer": {
+              "id": 66525668,
+              "link": "https://www.deezer.com/track/66525668",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/5/0/2555606a3736250d5842055b11ab3bde.mp3?hdnea=exp=1795720277~acl=/api/1/1/2/5/5/0/2555606a3736250d5842055b11ab3bde.mp3*~data=user_id=0,application_id=42~hmac=7c8d7fd00003d0bca263277e142de31f62e8c038d502c236eee51381a6adefde",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Said I Wasn't Gonna Tell Nobody",
+            "length": "2:33",
+            "deezer": {
+              "id": 66525669,
+              "link": "https://www.deezer.com/track/66525669",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/d/0/84d19f8fa52ddf7a1aa0291a2e7383f0.mp3?hdnea=exp=1795720277~acl=/api/1/1/8/4/d/0/84d19f8fa52ddf7a1aa0291a2e7383f0.mp3*~data=user_id=0,application_id=42~hmac=b9921b3d4b6323b245f14205779b8701b2865e91a7b55a78c686735288432482",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Small Portion of Your Love",
+            "length": "2:38",
+            "deezer": {
+              "id": 66525670,
+              "link": "https://www.deezer.com/track/66525670",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/1/0/99171b490beb9f97b277c25e82d22c19.mp3?hdnea=exp=1795720277~acl=/api/1/1/9/9/1/0/99171b490beb9f97b277c25e82d22c19.mp3*~data=user_id=0,application_id=42~hmac=74c47803647f8554f2c4a7354ba3b0e1d9f92c6c040fea41d6fac1411cbad796",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Soothe Me",
+            "length": "2:32",
+            "deezer": {
+              "id": 66525671,
+              "link": "https://www.deezer.com/track/66525671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/4/0/2142534ec2cdf6389f3e725312ee53b0.mp3?hdnea=exp=1795720277~acl=/api/1/1/2/1/4/0/2142534ec2cdf6389f3e725312ee53b0.mp3*~data=user_id=0,application_id=42~hmac=1a5d78510cde0b85c48b213ca25886dc490380a9258f6785b13c2ecdf0e1f458",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Soul Man",
+            "length": "2:39",
+            "deezer": {
+              "id": 66525672,
+              "link": "https://www.deezer.com/track/66525672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/0/0/890bd3b8afa6d01fc2920d729b64dd86.mp3?hdnea=exp=1795720277~acl=/api/1/1/8/9/0/0/890bd3b8afa6d01fc2920d729b64dd86.mp3*~data=user_id=0,application_id=42~hmac=56044ba0204c3a00a913e8d01f90aab247e5e5b76c7cbcde340a2a886bb77a9b",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Soul Sister, Brown Sugar",
+            "length": "2:32",
+            "deezer": {
+              "id": 66525673,
+              "link": "https://www.deezer.com/track/66525673",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/1/0/7c1a574c1a07179c2fbb649dd782a0b0.mp3?hdnea=exp=1795720277~acl=/api/1/1/7/c/1/0/7c1a574c1a07179c2fbb649dd782a0b0.mp3*~data=user_id=0,application_id=42~hmac=28071262ed6d2308d50ef6325c5609cf6c77ed41263dc30695c1c0df44725519",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Still Is the Night",
+            "length": "2:42",
+            "deezer": {
+              "id": 66525674,
+              "link": "https://www.deezer.com/track/66525674",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/5/0/f75389dd952e0ef001b3967230d98994.mp3?hdnea=exp=1795720277~acl=/api/1/1/f/7/5/0/f75389dd952e0ef001b3967230d98994.mp3*~data=user_id=0,application_id=42~hmac=45b853443bc6c65ee385e6dd2381426fffd109b23c4ff19462b378f62fbeec74",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Sweet Home",
+            "length": "2:38",
+            "deezer": {
+              "id": 66525675,
+              "link": "https://www.deezer.com/track/66525675",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/d/0/6ed9f96b42d68e17f10cba33e7fb20b5.mp3?hdnea=exp=1795720277~acl=/api/1/1/6/e/d/0/6ed9f96b42d68e17f10cba33e7fb20b5.mp3*~data=user_id=0,application_id=42~hmac=674c0c2d5243364592f42d9f0d07c97ba2e0cfe0e4ab634e7fc3024775435439",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "This Is Your World",
+            "length": "2:25",
+            "deezer": {
+              "id": 66525676,
+              "link": "https://www.deezer.com/track/66525676",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/d/0/93d87544a10f46d6884d48e86845a694.mp3?hdnea=exp=1795720277~acl=/api/1/1/9/3/d/0/93d87544a10f46d6884d48e86845a694.mp3*~data=user_id=0,application_id=42~hmac=26d226b2cb3d6fb6934058b24a6f54b1da7ed881d262ff00c223cb8b88232092",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "When Something Is Wrong With My Baby",
+            "length": "3:18",
+            "deezer": {
+              "id": 66525677,
+              "link": "https://www.deezer.com/track/66525677",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/2/0/4e2c5681e4b33d7d169295edf05a3be0.mp3?hdnea=exp=1795720277~acl=/api/1/1/4/e/2/0/4e2c5681e4b33d7d169295edf05a3be0.mp3*~data=user_id=0,application_id=42~hmac=e755420584e6e1a7c4f973c3e1822abb30db906731cf1a9a4ecca21feb29ee26",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Wrap It Up",
+            "length": "2:32",
+            "deezer": {
+              "id": 66525678,
+              "link": "https://www.deezer.com/track/66525678",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/d/0/32d86413809920604aed5db8d97701db.mp3?hdnea=exp=1795720277~acl=/api/1/1/3/2/d/0/32d86413809920604aed5db8d97701db.mp3*~data=user_id=0,application_id=42~hmac=14548ae17b19daf524ad3ec7c178f5a6ed7581ac90a5d1c652b53d57276a04ec",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "You Don't Know Like I Know",
+            "length": "2:39",
+            "deezer": {
+              "id": 66525679,
+              "link": "https://www.deezer.com/track/66525679",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/f/0/03f171532be10cf7ae0f4d403596c368.mp3?hdnea=exp=1795720277~acl=/api/1/1/0/3/f/0/03f171532be10cf7ae0f4d403596c368.mp3*~data=user_id=0,application_id=42~hmac=4940954bc96b13ae3d68ddff0e9c88ce2ab7c06e64ff870969dd3d0e6099341e",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "You Don't Know What You Mean to Me",
+            "length": "2:42",
+            "deezer": {
+              "id": 66525680,
+              "link": "https://www.deezer.com/track/66525680",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/e/0/48e7a706d7a32e95bcf63d4e38c25826.mp3?hdnea=exp=1795720277~acl=/api/1/1/4/8/e/0/48e7a706d7a32e95bcf63d4e38c25826.mp3*~data=user_id=0,application_id=42~hmac=8ce5018f3b62cb5e5e1f71a8d5d4b238dd3c97cf04e23ae9802267ff62611b0e",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "You Got Me Hummin'",
+            "length": "2:54",
+            "deezer": {
+              "id": 66525681,
+              "link": "https://www.deezer.com/track/66525681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/7/0/317375b42b0a70d6888bd6459f7de819.mp3?hdnea=exp=1795720277~acl=/api/1/1/3/1/7/0/317375b42b0a70d6888bd6459f7de819.mp3*~data=user_id=0,application_id=42~hmac=063ef2ca5081d17165ed0c251f5ebfedbba4ecfc87381b9628544258ff4f351d",
+              "preview_expires": "2026-11-26T19:11:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sam & Dave/Hold On, I'm Comin'.jpg"
+}

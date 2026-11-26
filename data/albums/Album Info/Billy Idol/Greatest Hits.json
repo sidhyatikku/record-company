@@ -1,0 +1,233 @@
+{
+  "title": "Greatest Hits",
+  "artist": "Billy Idol",
+  "year": 2001,
+  "release_date": "2001-03-22",
+  "type": "Album + Compilation",
+  "description": "Greatest Hits is a compilation of Billy Idol's most popular singles, released by Capitol Records in 2001. The album includes two additional tracks: a live recording of one of his most popular songs, \"Rebel Yell\", plus a new version of Idol's longtime producer Keith Forsey's \"Don't You \". Although Forsey originally wrote the song with Idol in mind, Idol turned it down and eventually the song was given to Simple Minds who would go on to make it a worldwide hit in 1985. Greatest Hits was certified platinum by the RIAA in 2005.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "pop",
+    "new wave",
+    "glam"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "pop",
+    "new wave",
+    "glam",
+    "hard rock; new wave",
+    "oldies"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/85cdd22b-3653-3a38-87b2-cee20bfc4bf1",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greatest_Hits_(Billy_Idol_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000115581",
+    "discogs": "https://www.discogs.com/master/111835",
+    "wikidata": "https://www.wikidata.org/wiki/Q5601064",
+    "deezer": "https://www.deezer.com/album/639840041"
+  },
+  "musicbrainz_id": "85cdd22b-3653-3a38-87b2-cee20bfc4bf1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/96fcf57c-9145-426f-a5a0-d7c1e1b2afc5",
+      "barcode": "724352881253",
+      "title": "Greatest Hits",
+      "disambiguation": null,
+      "date": "2001-03-27",
+      "country": "AU"
+    },
+    "total_tracks": 16,
+    "total_length": "1:11:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dancing With Myself",
+            "length": "4:50",
+            "deezer": {
+              "id": 2983696101,
+              "link": "https://www.deezer.com/track/2983696101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/3/0/1e3f6d07b67caab943bab2d382ff8a9e.mp3?hdnea=exp=1795652037~acl=/api/1/1/1/e/3/0/1e3f6d07b67caab943bab2d382ff8a9e.mp3*~data=user_id=0,application_id=42~hmac=a053bf011b523c7ed2f98ee2e48741084d0356039ef8b190f3c1729fc7466d5c",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Mony Mony",
+            "length": "5:01",
+            "deezer": {
+              "id": 2983696111,
+              "link": "https://www.deezer.com/track/2983696111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/1/0/32183171409cfc729d8c5ac14732a4fa.mp3?hdnea=exp=1795652037~acl=/api/1/1/3/2/1/0/32183171409cfc729d8c5ac14732a4fa.mp3*~data=user_id=0,application_id=42~hmac=dd4321ccdf688dedfe5a36787252f212bff2bb9a8f7560f69c08db8b9a432a0f",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hot in the City",
+            "length": "3:33",
+            "deezer": {
+              "id": 2983696121,
+              "link": "https://www.deezer.com/track/2983696121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/7/0/3a78b51a218b6ff7cf45df7080f753f3.mp3?hdnea=exp=1795652037~acl=/api/1/1/3/a/7/0/3a78b51a218b6ff7cf45df7080f753f3.mp3*~data=user_id=0,application_id=42~hmac=7f7fbb40a442de262e6297270ade0f607133c5f94d137502f4944355ccb023ab",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "White Wedding, Part 1",
+            "length": "4:12",
+            "deezer": {
+              "id": 2983696131,
+              "link": "https://www.deezer.com/track/2983696131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/8/0/5a8809150d873d6cce5948e26e7c9baa.mp3?hdnea=exp=1795652037~acl=/api/1/1/5/a/8/0/5a8809150d873d6cce5948e26e7c9baa.mp3*~data=user_id=0,application_id=42~hmac=c4a92102d1c566af7ab4a3a040f693d73de62e591d961042febc48d338e0b1aa",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Rebel Yell",
+            "length": "4:47",
+            "deezer": {
+              "id": 2983696141,
+              "link": "https://www.deezer.com/track/2983696141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/0/0/d50fa1ef0933249d9630b3ea3224c43a.mp3?hdnea=exp=1795652037~acl=/api/1/1/d/5/0/0/d50fa1ef0933249d9630b3ea3224c43a.mp3*~data=user_id=0,application_id=42~hmac=3006c6c553db3017e2b57fe09ba118d3abc237502ed31fa04cfe1c132f00a16d",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Eyes Without a Face",
+            "length": "4:57",
+            "deezer": {
+              "id": 2983696151,
+              "link": "https://www.deezer.com/track/2983696151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/8/0/d385b721e6ef9c304d09085779a12552.mp3?hdnea=exp=1795652037~acl=/api/1/1/d/3/8/0/d385b721e6ef9c304d09085779a12552.mp3*~data=user_id=0,application_id=42~hmac=3a696dec98336eb350c900fe8813c67243c8145485bfd2f3d597904daee64f23",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Flesh for Fantasy",
+            "length": "4:38",
+            "deezer": {
+              "id": 2983696161,
+              "link": "https://www.deezer.com/track/2983696161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/a/0/a7acceb200ac780968ff84d22e5e32d9.mp3?hdnea=exp=1795652037~acl=/api/1/1/a/7/a/0/a7acceb200ac780968ff84d22e5e32d9.mp3*~data=user_id=0,application_id=42~hmac=63f4175f6c8c9b15491901e655ae38f88071c4a909c254a09edee4ab5b0bf954",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Catch My Fall",
+            "length": "3:41",
+            "deezer": {
+              "id": 2983696171,
+              "link": "https://www.deezer.com/track/2983696171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/5/0/8a524abfa34c0072f7032364a9b43196.mp3?hdnea=exp=1795652037~acl=/api/1/1/8/a/5/0/8a524abfa34c0072f7032364a9b43196.mp3*~data=user_id=0,application_id=42~hmac=e053d6765eea30bc98af2d1b9930430c95b86700e31f6673b4178b54e42d4e2e",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "To Be a Lover",
+            "length": "3:52",
+            "deezer": {
+              "id": 2983696181,
+              "link": "https://www.deezer.com/track/2983696181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/4/0/bf4aa55921aaff6f4499e4bab12fda69.mp3?hdnea=exp=1795652037~acl=/api/1/1/b/f/4/0/bf4aa55921aaff6f4499e4bab12fda69.mp3*~data=user_id=0,application_id=42~hmac=dcd26ad5fb61f63ab088d5b1bf9f402be86bf250786da65811e3ca18d70c4352",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Don’t Need a Gun (single edit)",
+            "length": "5:24",
+            "deezer": {
+              "id": 2983696191,
+              "link": "https://www.deezer.com/track/2983696191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/9/0/219dbfe0b65f3a0948cf53c6e106cc3c.mp3?hdnea=exp=1795652037~acl=/api/1/1/2/1/9/0/219dbfe0b65f3a0948cf53c6e106cc3c.mp3*~data=user_id=0,application_id=42~hmac=6205385dcc16796de6470814ac2958d76367f1d789e4fd3139be9fa9caa36b56",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Sweet Sixteen",
+            "length": "4:15",
+            "deezer": {
+              "id": 2983696201,
+              "link": "https://www.deezer.com/track/2983696201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/7/0/e67651346f1a488bc39ff25357af8d56.mp3?hdnea=exp=1795652037~acl=/api/1/1/e/6/7/0/e67651346f1a488bc39ff25357af8d56.mp3*~data=user_id=0,application_id=42~hmac=4cf1da02d3f0ad12a50b841bc6773897e721e38074321257b6b12ffb2b42cf43",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Cradle of Love",
+            "length": "4:39",
+            "deezer": {
+              "id": 2983696211,
+              "link": "https://www.deezer.com/track/2983696211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/3/0/d53137b55b380892438fe60d3cbe3ecc.mp3?hdnea=exp=1795652037~acl=/api/1/1/d/5/3/0/d53137b55b380892438fe60d3cbe3ecc.mp3*~data=user_id=0,application_id=42~hmac=9f39a82dcda4a2b806565c339139bf4e435cd4423534a7453c165e5ff9fd5887",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "L.A. Woman (single edit)",
+            "length": "4:04",
+            "deezer": {
+              "id": 2983696221,
+              "link": "https://www.deezer.com/track/2983696221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/c/0/d9c14106d303b0ff7cb598d49e843330.mp3?hdnea=exp=1795652037~acl=/api/1/1/d/9/c/0/d9c14106d303b0ff7cb598d49e843330.mp3*~data=user_id=0,application_id=42~hmac=bd9878e5b91138368c22fd7163f11ee0f753fa0baf3e33d8c757f6512f7bbce1",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Shock to the System",
+            "length": "3:37",
+            "deezer": {
+              "id": 2983696231,
+              "link": "https://www.deezer.com/track/2983696231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/3/0/bb3ac5e753ca0c17b9f2c45d3d6212d5.mp3?hdnea=exp=1795652037~acl=/api/1/1/b/b/3/0/bb3ac5e753ca0c17b9f2c45d3d6212d5.mp3*~data=user_id=0,application_id=42~hmac=54c2c6e6852eadeb55ee3230033d45448003b011f6ec3ae4aabc3f62bb445a6c",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Rebel Yell (live and acoustic)",
+            "length": "5:35",
+            "deezer": {
+              "id": 2983696241,
+              "link": "https://www.deezer.com/track/2983696241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/1/0/f215458cc548f00780d24c42f3fae955.mp3?hdnea=exp=1795652037~acl=/api/1/1/f/2/1/0/f215458cc548f00780d24c42f3fae955.mp3*~data=user_id=0,application_id=42~hmac=3d1294ddae933111fefe450b77fe84f1ffa83d5197ee1cb3a6a6be3428b6560e",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Don’t You (Forget About Me)",
+            "length": "4:52",
+            "deezer": {
+              "id": 2983696251,
+              "link": "https://www.deezer.com/track/2983696251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/6/0/6d602cff6318afc06f489dd54b1ec9aa.mp3?hdnea=exp=1795652037~acl=/api/1/1/6/d/6/0/6d602cff6318afc06f489dd54b1ec9aa.mp3*~data=user_id=0,application_id=42~hmac=4ffd445bd714807dc66e8fc2062cc7930476615252fd7048571f6f8cce42af63",
+              "preview_expires": "2026-11-26T00:13:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Billy Idol/Greatest Hits.jpg"
+}

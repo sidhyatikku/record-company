@@ -1,0 +1,239 @@
+{
+  "title": "Sherdil",
+  "artist": "Rawal",
+  "year": 2025,
+  "release_date": "2025-05-07",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4e82ae2d-7f7e-4c8c-80f1-c482945295a6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/752151411"
+  },
+  "musicbrainz_id": "4e82ae2d-7f7e-4c8c-80f1-c482945295a6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b29e70e1-1c5a-4bc5-ae90-5203d087e6e3",
+      "barcode": "859705595898",
+      "title": "Sherdil",
+      "disambiguation": null,
+      "date": "2025-05-07",
+      "country": "XW"
+    },
+    "total_tracks": 17,
+    "total_length": "45:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sherdil",
+            "length": "4:03",
+            "artist": "Rawal & AFKAP",
+            "deezer": {
+              "id": 3352976761,
+              "link": "https://www.deezer.com/track/3352976761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/5/0/c05dd6904a093a82abcaeaf67fc99bd6.mp3?hdnea=exp=1795720005~acl=/api/1/1/c/0/5/0/c05dd6904a093a82abcaeaf67fc99bd6.mp3*~data=user_id=0,application_id=42~hmac=ee6444b0e36320c9572c99c8a44480e2963a40956533ac00d493fcb776fa9666",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Eiffel Tower",
+            "length": "3:16",
+            "artist": "Rawal, Ikka & Raga",
+            "deezer": {
+              "id": 3352976771,
+              "link": "https://www.deezer.com/track/3352976771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0ca15012dea6462351ab1489ddcc7bc.mp3?hdnea=exp=1795720005~acl=/api/1/1/f/0/c/0/f0ca15012dea6462351ab1489ddcc7bc.mp3*~data=user_id=0,application_id=42~hmac=a182329f6ea98f125424c0a21d1803a92e6c00130ae3a2b8253325a81958b461",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Moohfatt",
+            "length": "2:49",
+            "deezer": {
+              "id": 3352976781,
+              "link": "https://www.deezer.com/track/3352976781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/1/0/9c120d66c5d868e129553da7082f5a76.mp3?hdnea=exp=1795720005~acl=/api/1/1/9/c/1/0/9c120d66c5d868e129553da7082f5a76.mp3*~data=user_id=0,application_id=42~hmac=952a1a915b36fd98928ffa31ee78cf0f454eb9d1d6142b106de098a2d09073ec",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Meri Zindagi",
+            "length": "2:39",
+            "artist": "Rawal & Gaurav",
+            "deezer": {
+              "id": 3352976791,
+              "link": "https://www.deezer.com/track/3352976791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/5/0/d75d1067ed9d95b46adf21da5f82b8b9.mp3?hdnea=exp=1795720005~acl=/api/1/1/d/7/5/0/d75d1067ed9d95b46adf21da5f82b8b9.mp3*~data=user_id=0,application_id=42~hmac=fbd0824ace94384b2ed88db9b2ba3d09d3dc5df70d96c9c508ac1ffa20400d5a",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bhundfaad",
+            "length": "3:22",
+            "artist": "Rawal & Seedhe Maut",
+            "deezer": {
+              "id": 3352976801,
+              "link": "https://www.deezer.com/track/3352976801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/0/0/7f073fd35c38627b810ab37fd8766e3f.mp3?hdnea=exp=1795720005~acl=/api/1/1/7/f/0/0/7f073fd35c38627b810ab37fd8766e3f.mp3*~data=user_id=0,application_id=42~hmac=be0b63e5cdb2f9af5bb6a2c6ebae67d3a2b96ef86eeb614db923e2669e66cd7c",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Adele",
+            "length": "1:54",
+            "deezer": {
+              "id": 3352976811,
+              "link": "https://www.deezer.com/track/3352976811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/a/0/44abe0fb5b98e7b1c5ba61698a848e73.mp3?hdnea=exp=1795720005~acl=/api/1/1/4/4/a/0/44abe0fb5b98e7b1c5ba61698a848e73.mp3*~data=user_id=0,application_id=42~hmac=85f45a37230f3e6b5bc226004785d7d6c811062a52ba07ec9a60d3c2532cb6c8",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mere Saare Nakli Dost",
+            "length": "4:06",
+            "artist": "Rawal, Saar Punch & Manya Mograi",
+            "deezer": {
+              "id": 3352976821,
+              "link": "https://www.deezer.com/track/3352976821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/6/0/d26b20bbfb8fc31928c62ab5e912f932.mp3?hdnea=exp=1795720005~acl=/api/1/1/d/2/6/0/d26b20bbfb8fc31928c62ab5e912f932.mp3*~data=user_id=0,application_id=42~hmac=748b8385df763a8ee0ef4762a52fd73fe4f4600532570225a62a510cfe542688",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Bounce",
+            "length": "1:54",
+            "artist": "Rawal, Burrah & Arpit Bala",
+            "deezer": {
+              "id": 3352976831,
+              "link": "https://www.deezer.com/track/3352976831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/1/0/1f16e57eddb78e9ed6ba33ed7f598da9.mp3?hdnea=exp=1795720005~acl=/api/1/1/1/f/1/0/1f16e57eddb78e9ed6ba33ed7f598da9.mp3*~data=user_id=0,application_id=42~hmac=9cda580cc7a3416af2414cc72948780b4d32190e04fe6c7471a83f40ae876fa9",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Tu",
+            "length": "2:33",
+            "artist": "Rawal, Rohh & Tang Mizaaji",
+            "deezer": {
+              "id": 3352976841,
+              "link": "https://www.deezer.com/track/3352976841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/f/0/61f7dc9ccd7867e2d2020f849d4549a9.mp3?hdnea=exp=1795720005~acl=/api/1/1/6/1/f/0/61f7dc9ccd7867e2d2020f849d4549a9.mp3*~data=user_id=0,application_id=42~hmac=007a6dfd0538b97f738f1076396f04608652745b0fdd0e1c4c695fd1a38e3f06",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Tabla Faad!",
+            "length": "2:24",
+            "artist": "Rawal & Zero Chill",
+            "deezer": {
+              "id": 3352976851,
+              "link": "https://www.deezer.com/track/3352976851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/3/0/db315e741fafb30ef1f78fbec6a8ff38.mp3?hdnea=exp=1795720005~acl=/api/1/1/d/b/3/0/db315e741fafb30ef1f78fbec6a8ff38.mp3*~data=user_id=0,application_id=42~hmac=290a7d5bf34c66b3f1e720c4abab9bef3421cc1abff2af260274c6bbb1b58252",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "4coal",
+            "length": "1:57",
+            "deezer": {
+              "id": 3352976861,
+              "link": "https://www.deezer.com/track/3352976861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/1/0/11141a6d619617c0434ada10ce6ff0ae.mp3?hdnea=exp=1795720005~acl=/api/1/1/1/1/1/0/11141a6d619617c0434ada10ce6ff0ae.mp3*~data=user_id=0,application_id=42~hmac=f96f85a03e4e3e17ac67baa278b5efbc0e6be75b82cb6a2d93df5d24f7cc011e",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Baatcheet",
+            "length": "2:01",
+            "deezer": {
+              "id": 3352976871,
+              "link": "https://www.deezer.com/track/3352976871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/b/0/53b631a33a6b9026449d4f54bf53f181.mp3?hdnea=exp=1795720005~acl=/api/1/1/5/3/b/0/53b631a33a6b9026449d4f54bf53f181.mp3*~data=user_id=0,application_id=42~hmac=4cab76d096970ae7b48cf2698dbf5cd6da6575ada901342429ad163c9d632324",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Rawal Khaata Chawal, Pt.1",
+            "length": "2:29",
+            "artist": "Rawal & Zero Chill",
+            "deezer": {
+              "id": 3352976891,
+              "link": "https://www.deezer.com/track/3352976891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/9/0/ed98babe5032dbde9e29c8a0d8ff579b.mp3?hdnea=exp=1795720005~acl=/api/1/1/e/d/9/0/ed98babe5032dbde9e29c8a0d8ff579b.mp3*~data=user_id=0,application_id=42~hmac=67cb7bf2a10042cc27d155fb548dcb5fe5abbbe72981d57e8c9a6c17538cac39",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Zeher",
+            "length": "2:22",
+            "artist": "Rawal & Ab 17",
+            "deezer": {
+              "id": 3352976901,
+              "link": "https://www.deezer.com/track/3352976901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2c7926625fe7bbc1a30ecc0c895436.mp3?hdnea=exp=1795720005~acl=/api/1/1/b/c/2/0/bc2c7926625fe7bbc1a30ecc0c895436.mp3*~data=user_id=0,application_id=42~hmac=6ad3a6175694f5e2478aa7b78870888b11e322191ee5c4be1f02b5a9879635f4",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Trauma Repair",
+            "length": "2:30",
+            "artist": "Rawal & Qaab",
+            "deezer": {
+              "id": 3352976911,
+              "link": "https://www.deezer.com/track/3352976911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/e/0/0de48a348a2e07415886e172668027c5.mp3?hdnea=exp=1795720005~acl=/api/1/1/0/d/e/0/0de48a348a2e07415886e172668027c5.mp3*~data=user_id=0,application_id=42~hmac=2f869c10917950fd5da16baf27a95c6b39f88d38ea2f6aa0f031d6abf139c106",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Andar Ka Bacha",
+            "length": "2:34",
+            "deezer": {
+              "id": 3352976921,
+              "link": "https://www.deezer.com/track/3352976921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/8/0/0686143fef2bf6640803eedf513ed5f0.mp3?hdnea=exp=1795720005~acl=/api/1/1/0/6/8/0/0686143fef2bf6640803eedf513ed5f0.mp3*~data=user_id=0,application_id=42~hmac=7c9701b5b1ea213c4974cac03703285bd54c27e53e67fdce31af94442ce99c66",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Im Sorry",
+            "length": "2:36",
+            "artist": "Rawal & Tang Mizaaji",
+            "deezer": {
+              "id": 3352976931,
+              "link": "https://www.deezer.com/track/3352976931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/3/0/403205046c2fd420a909e5c528f4d6c8.mp3?hdnea=exp=1795720005~acl=/api/1/1/4/0/3/0/403205046c2fd420a909e5c528f4d6c8.mp3*~data=user_id=0,application_id=42~hmac=1b8130ed5c73de3f945871561036c3d1673e5b1d4784ed46789cfcbacccd2b84",
+              "preview_expires": "2026-11-26T19:06:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Rawal/Sherdil.jpg"
+}

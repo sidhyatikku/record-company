@@ -1,0 +1,103 @@
+{
+  "title": "Senpai EP II: The Noticing",
+  "artist": "Sithu Aye",
+  "year": 2017,
+  "release_date": "2017-05-08",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "metal"
+  ],
+  "tags": [
+    "metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/42406942-cc58-4b9f-8a43-297672a6eada",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/117446722"
+  },
+  "musicbrainz_id": "42406942-cc58-4b9f-8a43-297672a6eada",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7102a21d-58ef-4876-a09a-ce3aa843b608",
+      "barcode": null,
+      "title": "Senpai EP II: The Noticing",
+      "disambiguation": null,
+      "date": "2017-05-08",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "22:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Summer Break! (夏休み!)",
+            "length": "4:02",
+            "deezer": {
+              "id": 796224222,
+              "link": "https://www.deezer.com/track/796224222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/8/0/d6884be04150510764f7eec6ffde8d6c.mp3?hdnea=exp=1795720716~acl=/api/1/1/d/6/8/0/d6884be04150510764f7eec6ffde8d6c.mp3*~data=user_id=0,application_id=42~hmac=642d5566efd979c67d8c789f913e1c8c21370c454716dac09a6cc1de5fdbc119",
+              "preview_expires": "2026-11-26T19:18:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "It's the Second Season, So We Need a New Character After All! (もう2クール目だし、新キャラ登場させなきゃね！)",
+            "length": "3:38",
+            "deezer": {
+              "id": 796224232,
+              "link": "https://www.deezer.com/track/796224232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/9/0/f1921e93d6ff018ad48767b4a48de899.mp3?hdnea=exp=1795720716~acl=/api/1/1/f/1/9/0/f1921e93d6ff018ad48767b4a48de899.mp3*~data=user_id=0,application_id=42~hmac=e33b9d32341de84f5989095c37d8948a00892747b4a9db824570e1252e6490b0",
+              "preview_expires": "2026-11-26T19:18:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "A Rival Appears! (ライバル出現！)",
+            "length": "3:55",
+            "deezer": {
+              "id": 796224242,
+              "link": "https://www.deezer.com/track/796224242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/5/0/745fbfcd76c0c90ee0bd4e32f220ab92.mp3?hdnea=exp=1795720716~acl=/api/1/1/7/4/5/0/745fbfcd76c0c90ee0bd4e32f220ab92.mp3*~data=user_id=0,application_id=42~hmac=1db551b85b6744e9cc40a3ace5b1b5e43f5170d97640d1883db521b27e7f7804",
+              "preview_expires": "2026-11-26T19:18:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Noticing! (ザ・ノーティシング!)",
+            "length": "5:44",
+            "deezer": {
+              "id": 796224252,
+              "link": "https://www.deezer.com/track/796224252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/b/0/42b8c0e6f9cbb44e798fc9fd38530fb3.mp3?hdnea=exp=1795720716~acl=/api/1/1/4/2/b/0/42b8c0e6f9cbb44e798fc9fd38530fb3.mp3*~data=user_id=0,application_id=42~hmac=0ffd6fbc25c978760b6120bf98e0887d2c1d9815a8c57ecb737ff68e10b682e0",
+              "preview_expires": "2026-11-26T19:18:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Anime as Leaders (The Woven Weeab)",
+            "length": "5:13",
+            "deezer": {
+              "id": 796224262,
+              "link": "https://www.deezer.com/track/796224262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/f/0/6ef87cbcf47793bd63f1d55f8e32813e.mp3?hdnea=exp=1795720716~acl=/api/1/1/6/e/f/0/6ef87cbcf47793bd63f1d55f8e32813e.mp3*~data=user_id=0,application_id=42~hmac=29b25b6cf6312f03f6fd9ea1788a230bc4cdee625f17bfb5629cb8fc0f8a0e2e",
+              "preview_expires": "2026-11-26T19:18:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/Senpai EP II- The Noticing.png"
+}

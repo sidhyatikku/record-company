@@ -1,0 +1,180 @@
+{
+  "title": "Supermodel",
+  "artist": "Foster the People",
+  "year": 2014,
+  "release_date": "2014-03-14",
+  "type": "Album",
+  "description": "Supermodel is the second studio album by American indie pop band Foster the People. The album was co-produced by their frontman Mark Foster and British musician Paul Epworth, and was released by Columbia Records on March 14, 2014, in Friday-release countries and March 18, 2014, in the United States. It is the follow-up to the band's 2011 debut album, Torches.",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "electronic",
+    "indie pop",
+    "indie rock"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "electronic",
+    "indie pop",
+    "indie rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7378f8f0-0c46-443d-bdda-c699befa046c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Supermodel_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002613687",
+    "discogs": "https://www.discogs.com/master/666533",
+    "wikidata": "https://www.wikidata.org/wiki/Q15624484",
+    "deezer": "https://www.deezer.com/album/7509946"
+  },
+  "musicbrainz_id": "7378f8f0-0c46-443d-bdda-c699befa046c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/54eae136-b268-48f2-bd8e-d5f92f209f7c",
+      "barcode": "886444398190",
+      "title": "Supermodel",
+      "disambiguation": null,
+      "date": "2014-03-14",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "48:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Are You What You Want to Be?",
+            "length": "4:31",
+            "deezer": {
+              "id": 75802457,
+              "link": "https://www.deezer.com/track/75802457",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/b/0/4dbb6de46d534f0079a2ab1acd34af6e.mp3?hdnea=exp=1795654302~acl=/api/1/1/4/d/b/0/4dbb6de46d534f0079a2ab1acd34af6e.mp3*~data=user_id=0,application_id=42~hmac=3ea72d9ad63ecd66f0f131fb103cc0cf6c6ec7d0c7b210af673e2505431f74f9",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ask Yourself",
+            "length": "4:23",
+            "deezer": {
+              "id": 75802458,
+              "link": "https://www.deezer.com/track/75802458",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/b/0/67b0a91706753bf2c62f430b454fdfa7.mp3?hdnea=exp=1795654302~acl=/api/1/1/6/7/b/0/67b0a91706753bf2c62f430b454fdfa7.mp3*~data=user_id=0,application_id=42~hmac=8f488ce1abf67734942bcb08c47e86193777a06466ab8e52cba6b6e85c7e8fcf",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Coming of Age",
+            "length": "4:40",
+            "deezer": {
+              "id": 75802459,
+              "link": "https://www.deezer.com/track/75802459",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/c/0/cdc9a2542a7729fd3212fb19c85a5a39.mp3?hdnea=exp=1795654302~acl=/api/1/1/c/d/c/0/cdc9a2542a7729fd3212fb19c85a5a39.mp3*~data=user_id=0,application_id=42~hmac=d751e1631d6d8d75faaf09da34147d8719d5d08f2321e99c0e108db86d6edbe3",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Nevermind",
+            "length": "5:18",
+            "deezer": {
+              "id": 75802460,
+              "link": "https://www.deezer.com/track/75802460",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/2/0/a92b29785550831094ac9bc2b8f4d7eb.mp3?hdnea=exp=1795654302~acl=/api/1/1/a/9/2/0/a92b29785550831094ac9bc2b8f4d7eb.mp3*~data=user_id=0,application_id=42~hmac=78b45291d7bdaac18de946db6b45b10d1abb17e2c8cc798181464e06fd8c05cb",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Pseudologia Fantastica",
+            "length": "5:31",
+            "deezer": {
+              "id": 75802461,
+              "link": "https://www.deezer.com/track/75802461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/c/0/96cb7363d89b3f68714dcbbcb87d8ea4.mp3?hdnea=exp=1795654302~acl=/api/1/1/9/6/c/0/96cb7363d89b3f68714dcbbcb87d8ea4.mp3*~data=user_id=0,application_id=42~hmac=512a36ac1a34d429538ea402d6014a4e22981fc256e596b91b61d2576d9f86f4",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Angelic Welcome of Mr. Jones",
+            "length": "0:33",
+            "deezer": {
+              "id": 75802462,
+              "link": "https://www.deezer.com/track/75802462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/f/0/adfe44c852623fa2aeebd6dacbd633db.mp3?hdnea=exp=1795654302~acl=/api/1/1/a/d/f/0/adfe44c852623fa2aeebd6dacbd633db.mp3*~data=user_id=0,application_id=42~hmac=7a123abedd6a64b7cf2e7d344a124b9cac159502b51c85164bc912e49940f142",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Best Friend",
+            "length": "4:28",
+            "deezer": {
+              "id": 75802463,
+              "link": "https://www.deezer.com/track/75802463",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/0/0/b006857b5e9637e8df6a6ca312125336.mp3?hdnea=exp=1795654302~acl=/api/1/1/b/0/0/0/b006857b5e9637e8df6a6ca312125336.mp3*~data=user_id=0,application_id=42~hmac=d041518f9f6a74ea5226638f2e54f46026d227bf0cdc84e6fbbced63858d7cfb",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "A Beginner’s Guide to Destroying the Moon",
+            "length": "4:40",
+            "deezer": {
+              "id": 75802464,
+              "link": "https://www.deezer.com/track/75802464",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/b/0/d1b855247f26b6df763bfad0dd192b54.mp3?hdnea=exp=1795654302~acl=/api/1/1/d/1/b/0/d1b855247f26b6df763bfad0dd192b54.mp3*~data=user_id=0,application_id=42~hmac=2492afa28c54989b90bdaa64620847153fa11703914f1f8c2f4d0f5bccd8612e",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Goats in Trees",
+            "length": "5:10",
+            "deezer": {
+              "id": 75802465,
+              "link": "https://www.deezer.com/track/75802465",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/5/0/37514ca1773cb6853ba1b3e3251a22ee.mp3?hdnea=exp=1795654302~acl=/api/1/1/3/7/5/0/37514ca1773cb6853ba1b3e3251a22ee.mp3*~data=user_id=0,application_id=42~hmac=de6ffdaeff6a469905403e886b83089dab6007c4f34097fcc65ce8d4e5098717",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Truth",
+            "length": "4:30",
+            "deezer": {
+              "id": 75802466,
+              "link": "https://www.deezer.com/track/75802466",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/0/0/370eaeede733e5e1792135790a4ad2da.mp3?hdnea=exp=1795654302~acl=/api/1/1/3/7/0/0/370eaeede733e5e1792135790a4ad2da.mp3*~data=user_id=0,application_id=42~hmac=c330ca83ea96ad207946ffcac62b494790a8ff5d03c40f286fe87d28b5f5db0e",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Fire Escape",
+            "length": "4:22",
+            "deezer": {
+              "id": 75802467,
+              "link": "https://www.deezer.com/track/75802467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/2/0/3b2e976aa86578306ef130c137727c56.mp3?hdnea=exp=1795654302~acl=/api/1/1/3/b/2/0/3b2e976aa86578306ef130c137727c56.mp3*~data=user_id=0,application_id=42~hmac=915844bbb3da1e7339103702e79a91597201e4d28de2bf26176e8c93ea647d3c",
+              "preview_expires": "2026-11-26T00:51:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Foster The People/Supermodel.jpg"
+}

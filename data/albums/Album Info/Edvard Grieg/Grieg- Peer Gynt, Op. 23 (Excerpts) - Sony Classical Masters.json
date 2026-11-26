@@ -1,0 +1,65 @@
+{
+  "title": "Peer Gynt",
+  "artist": "Edvard Grieg",
+  "year": 1988,
+  "release_date": "1988",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/67f1bac5-17f6-4c08-96f1-374a818ad3e0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/350142027"
+  },
+  "musicbrainz_id": "67f1bac5-17f6-4c08-96f1-374a818ad3e0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ce1de5c4-f7bc-4822-8839-c4a6cf952645",
+      "barcode": "028942791138",
+      "title": "Peer Gynt",
+      "disambiguation": null,
+      "date": "1988",
+      "country": "DE"
+    },
+    "total_tracks": 5,
+    "total_length": "19:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "8cm CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Morning Mood",
+            "length": "4:16"
+          },
+          {
+            "number": "2",
+            "title": "The Death of Åse",
+            "length": "3:52"
+          },
+          {
+            "number": "3",
+            "title": "Anitra’s Dance",
+            "length": "3:42"
+          },
+          {
+            "number": "4",
+            "title": "Solveig’s Song",
+            "length": "5:00"
+          },
+          {
+            "number": "5",
+            "title": "In the Hall of the Mountain King",
+            "length": "2:51"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Edvard Grieg/Grieg- Peer Gynt, Op. 23 (Excerpts) - Sony Classical Masters.jpg"
+}

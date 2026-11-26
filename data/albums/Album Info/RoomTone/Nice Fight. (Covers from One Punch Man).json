@@ -1,0 +1,71 @@
+{
+  "title": "Nice Fight. (Covers from One Punch Man)",
+  "artist": "RoomTone",
+  "year": 2019,
+  "release_date": "2019-04-21",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "anime"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7vz1DYKv8SxFvOX76oelo0",
+    "deezer": "https://www.deezer.com/album/94525902"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7vz1DYKv8SxFvOX76oelo0",
+      "title": "Nice Fight. (Covers from One Punch Man)",
+      "date": "2019-04-21"
+    },
+    "total_tracks": 3,
+    "total_length": "5:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Battle!!",
+            "length": "1:46",
+            "deezer": {
+              "id": 669479022,
+              "link": "https://www.deezer.com/track/669479022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/b/0/77b9221d704f07b344507980661606f8.mp3?hdnea=exp=1795720162~acl=/api/1/1/7/7/b/0/77b9221d704f07b344507980661606f8.mp3*~data=user_id=0,application_id=42~hmac=44c6be3569bdc6c0d205943ce645aa7ed72daa09d078895d053c425ed05ea661",
+              "preview_expires": "2026-11-26T19:09:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Cyborg Fights",
+            "length": "1:47",
+            "deezer": {
+              "id": 669479032,
+              "link": "https://www.deezer.com/track/669479032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/1/0/6c18876372bbfef04885357354a99465.mp3?hdnea=exp=1795720162~acl=/api/1/1/6/c/1/0/6c18876372bbfef04885357354a99465.mp3*~data=user_id=0,application_id=42~hmac=7663dc4c16b85720f36e2bc0a94badde4dec2115624e8be6861a008405dfcb8d",
+              "preview_expires": "2026-11-26T19:09:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Theme of One Punch Man (Seigi Shikkou)",
+            "length": "1:46",
+            "deezer": {
+              "id": 669479042,
+              "link": "https://www.deezer.com/track/669479042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/a/0/85a189f385456d2779b22cb5df9e0f59.mp3?hdnea=exp=1795720162~acl=/api/1/1/8/5/a/0/85a189f385456d2779b22cb5df9e0f59.mp3*~data=user_id=0,application_id=42~hmac=5b7acac5c7676890ca3c0403144ad3f818de427e282e146674f1855c253de51b",
+              "preview_expires": "2026-11-26T19:09:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/RoomTone/Nice Fight. (Covers from One Punch Man).jpg"
+}

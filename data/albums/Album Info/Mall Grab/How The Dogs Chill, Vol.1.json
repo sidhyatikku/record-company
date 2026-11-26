@@ -1,0 +1,88 @@
+{
+  "title": "How The Dogs Chill, Vol.1",
+  "artist": "Mall Grab",
+  "year": 2018,
+  "release_date": "2018-09-21",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "house"
+  ],
+  "tags": [
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c0fc446b-4bc3-47ad-abdf-1b7c6ad09076",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/993703521"
+  },
+  "musicbrainz_id": "c0fc446b-4bc3-47ad-abdf-1b7c6ad09076",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c8aedc28-413e-462a-9a7c-3c04fb2a3daa",
+      "barcode": "5060589486454",
+      "title": "How The Dogs Chill, Vol.1",
+      "disambiguation": null,
+      "date": "2018-09-21",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "21:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Liverpool Street in the Rain",
+            "length": "5:32",
+            "deezer": {
+              "id": 4051773751,
+              "link": "https://www.deezer.com/track/4051773751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/a/0/51a18a8a3e025c687b3913cda4e9d85c.mp3?hdnea=exp=1795718199~acl=/api/1/1/5/1/a/0/51a18a8a3e025c687b3913cda4e9d85c.mp3*~data=user_id=0,application_id=42~hmac=c9e8f4361e8019756209605f160bb1176b0d954e6f4e4c8498e83924fd73f0df",
+              "preview_expires": "2026-11-26T18:36:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bust",
+            "length": "5:01",
+            "deezer": {
+              "id": 4051773761,
+              "link": "https://www.deezer.com/track/4051773761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/e/0/94e9444012a0547eb1b767947eeb7f96.mp3?hdnea=exp=1795718199~acl=/api/1/1/9/4/e/0/94e9444012a0547eb1b767947eeb7f96.mp3*~data=user_id=0,application_id=42~hmac=cc2583b800c8763c9d240801c92a4cefc762b8d6a3a5fed88cb32926dfd6e2c6",
+              "preview_expires": "2026-11-26T18:36:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Looking for Trouble",
+            "length": "5:08",
+            "deezer": {
+              "id": 4051773771,
+              "link": "https://www.deezer.com/track/4051773771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/0/0/e904198cf1baa62e3a4f2a94439b8496.mp3?hdnea=exp=1795718199~acl=/api/1/1/e/9/0/0/e904198cf1baa62e3a4f2a94439b8496.mp3*~data=user_id=0,application_id=42~hmac=0b5b4eaf1324597943e60bf4523a5a136a66f73bf16563cad3d6dc2e529d2a10",
+              "preview_expires": "2026-11-26T18:36:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Get Impetuous",
+            "length": "5:31",
+            "deezer": {
+              "id": 4051773781,
+              "link": "https://www.deezer.com/track/4051773781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/9/0/8f928a1b1fce826811b36fb1ad1433ac.mp3?hdnea=exp=1795718199~acl=/api/1/1/8/f/9/0/8f928a1b1fce826811b36fb1ad1433ac.mp3*~data=user_id=0,application_id=42~hmac=1832c6962f4702f6d2ac004c3b3caa19fa5070072c7c6731e107fdff1a0ce4b8",
+              "preview_expires": "2026-11-26T18:36:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mall Grab/How The Dogs Chill, Vol.1.jpg"
+}

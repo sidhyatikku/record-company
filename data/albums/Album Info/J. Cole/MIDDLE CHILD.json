@@ -1,0 +1,69 @@
+{
+  "title": "MIDDLE CHILD",
+  "artist": "J. Cole",
+  "year": 2019,
+  "release_date": "2019-01-23",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hip hop",
+    "conscious hip hop",
+    "pop",
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "conscious hip hop",
+    "fanfare",
+    "pop",
+    "pop rap",
+    "rap/hip-hop",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d263c57b-400b-4553-9fc2-b329497c6488",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/85306262"
+  },
+  "musicbrainz_id": "d263c57b-400b-4553-9fc2-b329497c6488",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fee1a9f6-2e96-48ee-bcae-1311ba5118f9",
+      "barcode": "0810760037709",
+      "title": "MIDDLE CHILD",
+      "disambiguation": null,
+      "date": "2019-01-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "MIDDLE CHILD",
+            "length": "3:34",
+            "deezer": {
+              "id": 622457832,
+              "link": "https://www.deezer.com/track/622457832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/5/0/4c56026860c0a440d0bdae24b691e06f.mp3?hdnea=exp=1795655357~acl=/api/1/1/4/c/5/0/4c56026860c0a440d0bdae24b691e06f.mp3*~data=user_id=0,application_id=42~hmac=f7db08433adf436d462bbc53e6f97da16c45bbfc6a42dc531eb67262d5bc11d4",
+              "preview_expires": "2026-11-26T01:09:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/J. Cole/MIDDLE CHILD.jpg"
+}

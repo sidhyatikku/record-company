@@ -1,0 +1,178 @@
+{
+  "title": "The World We Knew",
+  "artist": "Frank Sinatra",
+  "year": 1967,
+  "release_date": "1967",
+  "type": "Album",
+  "description": "The World We Knew, also known as Frank Sinatra, is a 1967 studio album by American singer Frank Sinatra.",
+  "genres": [
+    "jazz",
+    "traditional pop",
+    "big band",
+    "easy listening",
+    "pop",
+    "pop rock",
+    "rock",
+    "vocal jazz"
+  ],
+  "tags": [
+    "jazz",
+    "traditional pop",
+    "vocal",
+    "big band",
+    "easy listening",
+    "pop",
+    "pop rock",
+    "rock",
+    "standards",
+    "vocal jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 3.15,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/44dffb7c-2efe-3631-a2c5-0f32d2c7498b",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_World_We_Knew",
+    "allmusic": "https://www.allmusic.com/album/mw0000312632",
+    "discogs": "https://www.discogs.com/master/168052",
+    "wikidata": "https://www.wikidata.org/wiki/Q2897120",
+    "deezer": "https://www.deezer.com/album/6975983"
+  },
+  "musicbrainz_id": "44dffb7c-2efe-3631-a2c5-0f32d2c7498b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dd6899e7-5f41-4d2d-b289-d86b412bc2ce",
+      "barcode": "0602537570713",
+      "title": "The World We Knew",
+      "disambiguation": null,
+      "date": "2013-10-01",
+      "country": "US"
+    },
+    "total_tracks": 10,
+    "total_length": "28:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The World We Knew (Over and Over)",
+            "length": "2:47",
+            "deezer": {
+              "id": 71068125,
+              "link": "https://www.deezer.com/track/71068125",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/7/0/897a4030ab7da7f0deb1e20556890fd9.mp3?hdnea=exp=1795654417~acl=/api/1/1/8/9/7/0/897a4030ab7da7f0deb1e20556890fd9.mp3*~data=user_id=0,application_id=42~hmac=f9c0ec768119401e459a7a2ec4c64b71cb5cd58768d12f62a9e05908370fcacd",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Somethin’ Stupid",
+            "length": "2:42",
+            "artist": "Frank Sinatra & Nancy Sinatra",
+            "deezer": {
+              "id": 71068126,
+              "link": "https://www.deezer.com/track/71068126",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/8/0/e88b4b1c31e4400def861a63e9580191.mp3?hdnea=exp=1795654417~acl=/api/1/1/e/8/8/0/e88b4b1c31e4400def861a63e9580191.mp3*~data=user_id=0,application_id=42~hmac=3aa7b39088d2c94298c8439e84d4f87ff2a05066ae81b36fcbca5429fec80fae",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "This Is My Love",
+            "length": "3:34",
+            "deezer": {
+              "id": 71068127,
+              "link": "https://www.deezer.com/track/71068127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/c/0/d2c050f81195c8bcc72b723a2aac4fa7.mp3?hdnea=exp=1795654417~acl=/api/1/1/d/2/c/0/d2c050f81195c8bcc72b723a2aac4fa7.mp3*~data=user_id=0,application_id=42~hmac=08379d696f9c48eea29674bbef542a6ebf2c68780eeaf9a96717a60d6fa51547",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Born Free",
+            "length": "2:03",
+            "deezer": {
+              "id": 71068128,
+              "link": "https://www.deezer.com/track/71068128",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/9/0/b59ef1aec32b80d7efa8760015f393ef.mp3?hdnea=exp=1795654417~acl=/api/1/1/b/5/9/0/b59ef1aec32b80d7efa8760015f393ef.mp3*~data=user_id=0,application_id=42~hmac=38b3968ba27f3f077776942c693ec7169e6d3caa87a01796f40ee09d97c6872c",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Don't Sleep in the Subway",
+            "length": "2:19",
+            "deezer": {
+              "id": 71068129,
+              "link": "https://www.deezer.com/track/71068129",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/b/0/a2b9d2b3f12e179514c676bd8a04815b.mp3?hdnea=exp=1795654417~acl=/api/1/1/a/2/b/0/a2b9d2b3f12e179514c676bd8a04815b.mp3*~data=user_id=0,application_id=42~hmac=3f0aabdbd0782c7c6dc3e5e4a40b1d56ded352dcac80491ac2eb6efc774764ad",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "This Town",
+            "length": "3:02",
+            "deezer": {
+              "id": 71068130,
+              "link": "https://www.deezer.com/track/71068130",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/d/0/7ada5cff78d92043d21d2c5d5ca63719.mp3?hdnea=exp=1795654417~acl=/api/1/1/7/a/d/0/7ada5cff78d92043d21d2c5d5ca63719.mp3*~data=user_id=0,application_id=42~hmac=c3d744bcb4ed1bda6403bad6a9d5d1565a6512fd17d1cc48395347a7c9e42c37",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "This Is My Song",
+            "length": "2:27",
+            "deezer": {
+              "id": 71068131,
+              "link": "https://www.deezer.com/track/71068131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd204dedcf01d59e16eb129a7e225f58.mp3?hdnea=exp=1795654417~acl=/api/1/1/d/d/2/0/dd204dedcf01d59e16eb129a7e225f58.mp3*~data=user_id=0,application_id=42~hmac=23dbc71fac484a895d55608d7cd86dabb477456604f2dce6490fd2d4c0265b7d",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "You Are There",
+            "length": "3:28",
+            "deezer": {
+              "id": 71068132,
+              "link": "https://www.deezer.com/track/71068132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/7/0/617ef05d89874b3b114e4fd27d22098e.mp3?hdnea=exp=1795654417~acl=/api/1/1/6/1/7/0/617ef05d89874b3b114e4fd27d22098e.mp3*~data=user_id=0,application_id=42~hmac=d1ee90d503edc83192eb01d4e5fa1b03fd3346923b509933d1b4439f79f27509",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Drinking Again",
+            "length": "3:10",
+            "deezer": {
+              "id": 71068133,
+              "link": "https://www.deezer.com/track/71068133",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/d/0/d0d6b7f9218f9c14c9f402c7e0eacb7c.mp3?hdnea=exp=1795654417~acl=/api/1/1/d/0/d/0/d0d6b7f9218f9c14c9f402c7e0eacb7c.mp3*~data=user_id=0,application_id=42~hmac=9391e28d46764df71937fa6006986698ec37b04cc1e6ebced277dac0302504b8",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Some Enchanted Evening",
+            "length": "2:36",
+            "deezer": {
+              "id": 71068134,
+              "link": "https://www.deezer.com/track/71068134",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/4/0/8041af67a2d814049e5479f84eaa43c0.mp3?hdnea=exp=1795654417~acl=/api/1/1/8/0/4/0/8041af67a2d814049e5479f84eaa43c0.mp3*~data=user_id=0,application_id=42~hmac=4edb492fcd84ffc9329697688af14230c7b0eb056f936a3a01363bf494f9b0e0",
+              "preview_expires": "2026-11-26T00:53:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Frank Sinatra/The World We Knew.jpg"
+}

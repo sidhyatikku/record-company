@@ -1,0 +1,58 @@
+{
+  "title": "On My Love",
+  "artist": "Zara Larsson × David Guetta",
+  "year": 2023,
+  "release_date": "2023-09-15",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "artist on cover",
+    "electronic",
+    "motorcycle on cover"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c371da82-8e36-40be-aa50-d99670ea0978",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/485169635"
+  },
+  "musicbrainz_id": "c371da82-8e36-40be-aa50-d99670ea0978",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5566c6bf-9371-4f8a-b62e-1bb27b58645a",
+      "barcode": "196871437585",
+      "title": "On My Love",
+      "disambiguation": null,
+      "date": "2023-09-15",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "On My Love",
+            "length": "3:43",
+            "artist": "Zara Larsson & David Guetta",
+            "deezer": {
+              "id": 2443944015,
+              "link": "https://www.deezer.com/track/2443944015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/5/0/7f58896024951b82b4cb81feaa08c8fd.mp3?hdnea=exp=1795724586~acl=/api/1/1/7/f/5/0/7f58896024951b82b4cb81feaa08c8fd.mp3*~data=user_id=0,application_id=42~hmac=e3c4acca81e29a0d8aa953331819a739b4dcf9a76bdd78562789a887a00aed24",
+              "preview_expires": "2026-11-26T20:23:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Zara Larsson/On My Love.jpg"
+}

@@ -1,0 +1,182 @@
+{
+  "title": "Be",
+  "artist": "Common",
+  "year": 2005,
+  "release_date": "2005-05-23",
+  "type": "Album",
+  "description": "Be is the sixth studio album by American rapper Common. It was released on May 24, 2005, by Geffen Records and GOOD Music. The album is Common's first album under Geffen, following the mediocre performance of 2002's Electric Circus and the July 2003 merger of preceding label MCA Records, which, like Geffen and its sister label Interscope Records, was a division of Universal Music Group.",
+  "genres": [
+    "hip hop",
+    "instrumental",
+    "conscious hip hop"
+  ],
+  "tags": [
+    "conscious",
+    "hip hop",
+    "hip hop rap",
+    "instrumental",
+    "conscious hip hop",
+    "hip-hop/rap"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 7
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/93b891c9-4fc4-3085-960e-5da4c7fe8113",
+    "wikipedia": "https://en.wikipedia.org/wiki/Be_(Common_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000208461",
+    "discogs": "https://www.discogs.com/master/32461",
+    "wikidata": "https://www.wikidata.org/wiki/Q812804",
+    "deezer": "https://www.deezer.com/album/217750"
+  },
+  "musicbrainz_id": "93b891c9-4fc4-3085-960e-5da4c7fe8113",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/780dd2d2-27eb-4244-9103-c7a47a4fc240",
+      "barcode": "602498818626",
+      "title": "Be",
+      "disambiguation": null,
+      "date": "2007-07-12",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "42:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Be (intro)",
+            "length": "2:24",
+            "deezer": {
+              "id": 2176508,
+              "link": "https://www.deezer.com/track/2176508",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/2/0/7a2e5faf675eaee50c759ca4df0fafc8.mp3?hdnea=exp=1795652925~acl=/api/1/1/7/a/2/0/7a2e5faf675eaee50c759ca4df0fafc8.mp3*~data=user_id=0,application_id=42~hmac=20ad2dc513d2bec5dec9e388b5a502b44d7ba5c6b48b880bef49495a07ab9bea",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Corner",
+            "length": "3:45",
+            "artist": "Common feat. The Last Poets",
+            "deezer": {
+              "id": 2176509,
+              "link": "https://www.deezer.com/track/2176509",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/8/0/e28d4dd6c04a185ca3e291036f5569d7.mp3?hdnea=exp=1795652925~acl=/api/1/1/e/2/8/0/e28d4dd6c04a185ca3e291036f5569d7.mp3*~data=user_id=0,application_id=42~hmac=8fd2ef05116eefa527b41527494e550933bd750500e4f45b2d903a8d0bd26292",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "GO!",
+            "length": "3:44",
+            "deezer": {
+              "id": 2176510,
+              "link": "https://www.deezer.com/track/2176510",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/9/0/639791716be9e1d70ae8fe46854d49c6.mp3?hdnea=exp=1795652925~acl=/api/1/1/6/3/9/0/639791716be9e1d70ae8fe46854d49c6.mp3*~data=user_id=0,application_id=42~hmac=85adfbf6f33193ef80f0fad2431cae02b9c5da8e79cf24490a3bdcc27fa7c9c3",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Faithful",
+            "length": "3:33",
+            "deezer": {
+              "id": 2176511,
+              "link": "https://www.deezer.com/track/2176511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/2/0/f420fcd380ae04e359ede4eaede2dba2.mp3?hdnea=exp=1795652925~acl=/api/1/1/f/4/2/0/f420fcd380ae04e359ede4eaede2dba2.mp3*~data=user_id=0,application_id=42~hmac=c44649562bc4ae6497492355a600d5f02fa391f93aa7b2400c17f50a19425d92",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Testify",
+            "length": "2:37",
+            "deezer": {
+              "id": 2176512,
+              "link": "https://www.deezer.com/track/2176512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/9/0/bd9d3e9ae52f0e270c210dadb29c298b.mp3?hdnea=exp=1795652925~acl=/api/1/1/b/d/9/0/bd9d3e9ae52f0e270c210dadb29c298b.mp3*~data=user_id=0,application_id=42~hmac=1a9ec166e409bf5e1bc3c2cfcf5b704c4e5526c10c637e97693e893c56224818",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Love Is…",
+            "length": "4:10",
+            "deezer": {
+              "id": 2176513,
+              "link": "https://www.deezer.com/track/2176513",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/f/0/17fe16f5f2ae4d6a1bd3b9dafca536ec.mp3?hdnea=exp=1795652925~acl=/api/1/1/1/7/f/0/17fe16f5f2ae4d6a1bd3b9dafca536ec.mp3*~data=user_id=0,application_id=42~hmac=52cb65b0a9aa50cfd8fa05ec1b3eb09c3502cbacd35ab7ab9113eae8123cec73",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Chi‐City",
+            "length": "3:27",
+            "deezer": {
+              "id": 2176514,
+              "link": "https://www.deezer.com/track/2176514",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/7/0/187d21934860506b37cb1d3f0e2588b9.mp3?hdnea=exp=1795652925~acl=/api/1/1/1/8/7/0/187d21934860506b37cb1d3f0e2588b9.mp3*~data=user_id=0,application_id=42~hmac=3d45f91fd040654663f24bdd7746347229a4505d07b843cabd5d77be869996c0",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Food (live)",
+            "length": "3:37",
+            "deezer": {
+              "id": 2176515,
+              "link": "https://www.deezer.com/track/2176515",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/9/0/89920b9f81facaf19d9106737f59c233.mp3?hdnea=exp=1795652925~acl=/api/1/1/8/9/9/0/89920b9f81facaf19d9106737f59c233.mp3*~data=user_id=0,application_id=42~hmac=e4200678612ecdb6cc975d221efc2d4a21613b9d928e9d89647519b416bdb9f5",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Real People",
+            "length": "2:48",
+            "deezer": {
+              "id": 2176516,
+              "link": "https://www.deezer.com/track/2176516",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/6/0/496b141b34375133fba3e0342ce2c605.mp3?hdnea=exp=1795652925~acl=/api/1/1/4/9/6/0/496b141b34375133fba3e0342ce2c605.mp3*~data=user_id=0,application_id=42~hmac=6ca7d9ca48164623bb54b19e71daff1ccf7f5bf74f94aed6c7c931ed536463b8",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "They Say",
+            "length": "3:58",
+            "artist": "Common feat. Kanye West & John Legend",
+            "deezer": {
+              "id": 2176517,
+              "link": "https://www.deezer.com/track/2176517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/f/0/10ff8ceb1de718149378da6cf3cdbb87.mp3?hdnea=exp=1795652925~acl=/api/1/1/1/0/f/0/10ff8ceb1de718149378da6cf3cdbb87.mp3*~data=user_id=0,application_id=42~hmac=d2faacf6e9338966059ed883e8c298830805f23038dc9c894c2ddb1d3abfa7b2",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "It’s Your World, Parts 1 & 2",
+            "length": "8:34",
+            "artist": "Common feat. “The Kids”",
+            "deezer": {
+              "id": 2176518,
+              "link": "https://www.deezer.com/track/2176518",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/b/0/76be576fd9f058bc48a4c0ae05d88d10.mp3?hdnea=exp=1795652925~acl=/api/1/1/7/6/b/0/76be576fd9f058bc48a4c0ae05d88d10.mp3*~data=user_id=0,application_id=42~hmac=19a3547ac7b008963d94b2f50f47eb82f254cfcb8a89b254f57c13737ce43403",
+              "preview_expires": "2026-11-26T00:28:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Common/Be.jpg"
+}

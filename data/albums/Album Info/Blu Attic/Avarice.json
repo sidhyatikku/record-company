@@ -1,0 +1,61 @@
+{
+  "title": "Avarice",
+  "artist": "Blu Attic",
+  "year": 2023,
+  "release_date": "2023-03-31",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3ayiLPRnGzTm0VNphIDynV",
+    "deezer": "https://www.deezer.com/album/414860267"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3ayiLPRnGzTm0VNphIDynV",
+      "title": "Avarice",
+      "date": "2023-03-31"
+    },
+    "total_tracks": 2,
+    "total_length": "12:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Avarice",
+            "length": "5:34",
+            "deezer": {
+              "id": 2179972907,
+              "link": "https://www.deezer.com/track/2179972907",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/d/0/41d5ef8393c811eda66166052fc107d5.mp3?hdnea=exp=1795652234~acl=/api/1/1/4/1/d/0/41d5ef8393c811eda66166052fc107d5.mp3*~data=user_id=0,application_id=42~hmac=74b181a8fdba5742c8231cf389683e88446704bde72c6439227bdaac1824236b",
+              "preview_expires": "2026-11-26T00:17:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Renaissance",
+            "length": "7:21",
+            "deezer": {
+              "id": 2179972917,
+              "link": "https://www.deezer.com/track/2179972917",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/d/0/fbd995a507e34bb9823c23d364f74a35.mp3?hdnea=exp=1795652234~acl=/api/1/1/f/b/d/0/fbd995a507e34bb9823c23d364f74a35.mp3*~data=user_id=0,application_id=42~hmac=b601b96d7fe02444748a2f53c8d45b2db9db8ebb3fda9fedca9f898530b4a35d",
+              "preview_expires": "2026-11-26T00:17:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Blu Attic/Avarice.jpg"
+}

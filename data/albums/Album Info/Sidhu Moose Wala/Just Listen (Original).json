@@ -1,0 +1,58 @@
+{
+  "title": "Just Listen",
+  "artist": "Sidhu Moose Wala, Sunny Malton & Byg Byrd",
+  "year": 2017,
+  "release_date": "2017-12-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "hip hop"
+  ],
+  "tags": [
+    "bhangra",
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/172c202b-fe18-466c-8488-9c10fa42b952",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/339293667"
+  },
+  "musicbrainz_id": "172c202b-fe18-466c-8488-9c10fa42b952",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/881021f2-6404-4881-92e6-dba53fd319a3",
+      "barcode": "810059349483",
+      "title": "Just Listen",
+      "disambiguation": null,
+      "date": "2017-12-29",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "4:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Just Listen",
+            "length": "4:43",
+            "artist": "Sidhu Moose Wala & Sunny Malton",
+            "deezer": {
+              "id": 1839257207,
+              "link": "https://www.deezer.com/track/1839257207",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/a/0/c1a91c67c51f5e8a2f3e4905a8c5ef32.mp3?hdnea=exp=1795720587~acl=/api/1/1/c/1/a/0/c1a91c67c51f5e8a2f3e4905a8c5ef32.mp3*~data=user_id=0,application_id=42~hmac=3c01c7c7ced4d5f815afeca30278240acecc64cba9864e09add77086cb88838c",
+              "preview_expires": "2026-11-26T19:16:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Just Listen (Original).jpg"
+}

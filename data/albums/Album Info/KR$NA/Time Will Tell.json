@@ -1,0 +1,75 @@
+{
+  "title": "Time Will Tell",
+  "artist": "KR$NA",
+  "year": 2023,
+  "release_date": "2023-03-03",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a9547fdd-0e74-4f97-9886-c874475da924",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1000318851"
+  },
+  "musicbrainz_id": "a9547fdd-0e74-4f97-9886-c874475da924",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8d0bad5c-4545-4811-bc09-76e54754b654",
+      "barcode": null,
+      "title": "Time Will Tell",
+      "disambiguation": null,
+      "date": "2023-03-03",
+      "country": "IN"
+    },
+    "total_tracks": 3,
+    "total_length": "11:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kaha Tak",
+            "length": "3:34",
+            "deezer": {
+              "id": 4070496341,
+              "link": "https://www.deezer.com/track/4070496341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/6/0/6965015ce2fc521c10fc3b0a6ec525b4.mp3?hdnea=exp=1795656316~acl=/api/1/1/6/9/6/0/6965015ce2fc521c10fc3b0a6ec525b4.mp3*~data=user_id=0,application_id=42~hmac=3a3fc2a279bbf1889bb1d11efdd342036dd83fddfbcf9de469c874005aaec389",
+              "preview_expires": "2026-11-26T01:25:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "NGL (feat. Talhah Yunus)",
+            "length": "4:00",
+            "artist": "KR$NA, Talhah Yunus",
+            "deezer": {
+              "id": 4070496351,
+              "link": "https://www.deezer.com/track/4070496351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/f/0/45f07036065246078c46bcea05d7db36.mp3?hdnea=exp=1795656316~acl=/api/1/1/4/5/f/0/45f07036065246078c46bcea05d7db36.mp3*~data=user_id=0,application_id=42~hmac=1040515ee27da1ea4988a2df0588fa0f13f87399c6cd8d29656ffd6584c0e731",
+              "preview_expires": "2026-11-26T01:25:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Been a While (feat. Talha Anjum)",
+            "length": "3:48",
+            "artist": "KR$NA, Talha Anjum",
+            "deezer": {
+              "id": 4070496361,
+              "link": "https://www.deezer.com/track/4070496361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/4/0/6c4b6d21f34ab526c0aa43a8d4ab2ea9.mp3?hdnea=exp=1795656316~acl=/api/1/1/6/c/4/0/6c4b6d21f34ab526c0aa43a8d4ab2ea9.mp3*~data=user_id=0,application_id=42~hmac=a25e484df8712249eec0b10c5453c8af810a0cdfc3d84a1d6acfcfe4700c940d",
+              "preview_expires": "2026-11-26T01:25:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/KR$NA/Time Will Tell.jpg"
+}

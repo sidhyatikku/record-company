@@ -1,0 +1,94 @@
+{
+  "title": "[trauma ray]",
+  "artist": "trauma ray",
+  "year": 2018,
+  "release_date": "2018-09-21",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "alternative rock",
+    "grunge",
+    "shoegaze",
+    "space rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "grunge",
+    "shoegaze",
+    "space rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/69d34e5b-b5a0-43c8-9588-caedb52ccf89",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/126591322"
+  },
+  "musicbrainz_id": "69d34e5b-b5a0-43c8-9588-caedb52ccf89",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/020f85df-6fb8-407b-bfcc-6fdb9a9d67d7",
+      "barcode": null,
+      "title": "[trauma ray]",
+      "disambiguation": null,
+      "date": "2018-09-21",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "19:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blend",
+            "length": "4:26",
+            "deezer": {
+              "id": 851802082,
+              "link": "https://www.deezer.com/track/851802082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/8/0/9c817c937c9d19b7b9fa6a3468074ad6.mp3?hdnea=exp=1795722005~acl=/api/1/1/9/c/8/0/9c817c937c9d19b7b9fa6a3468074ad6.mp3*~data=user_id=0,application_id=42~hmac=6030044a4e90b1c836e20cfce4f68dc97e199dedebfe5d0339e67e7c6ecca243",
+              "preview_expires": "2026-11-26T19:40:05Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Relay",
+            "length": "3:22",
+            "deezer": {
+              "id": 851802092,
+              "link": "https://www.deezer.com/track/851802092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/a/0/c8ae14269a29788f49fa00188bfab14a.mp3?hdnea=exp=1795722005~acl=/api/1/1/c/8/a/0/c8ae14269a29788f49fa00188bfab14a.mp3*~data=user_id=0,application_id=42~hmac=4878f5e7067a2a9ad4d39777b3c214376a042eae6bf447e65dc274cb61d4a400",
+              "preview_expires": "2026-11-26T19:40:05Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Solstice",
+            "length": "6:35",
+            "deezer": {
+              "id": 851802102,
+              "link": "https://www.deezer.com/track/851802102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/0/0/e502b70f50f94ea7ee3c33fe78ea17fd.mp3?hdnea=exp=1795722005~acl=/api/1/1/e/5/0/0/e502b70f50f94ea7ee3c33fe78ea17fd.mp3*~data=user_id=0,application_id=42~hmac=570f63bc4ee3426f7e6ba9f5f90aac2656aaf753e9f5287d78de2240cf4aca86",
+              "preview_expires": "2026-11-26T19:40:05Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Starve",
+            "length": "4:57",
+            "deezer": {
+              "id": 851802112,
+              "link": "https://www.deezer.com/track/851802112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/4/0/2d462fef8d02810a431240aa4c0ff189.mp3?hdnea=exp=1795722005~acl=/api/1/1/2/d/4/0/2d462fef8d02810a431240aa4c0ff189.mp3*~data=user_id=0,application_id=42~hmac=45d86fcde67d040cc01ba76d47cec1ae77ced6a8400aefa3955871a2a19fb978",
+              "preview_expires": "2026-11-26T19:40:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/trauma ray/[trauma ray].jpg"
+}

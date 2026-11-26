@@ -1,0 +1,126 @@
+{
+  "title": "Taranga",
+  "artist": "Prem Joshua",
+  "year": 2006,
+  "release_date": "2006",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "ambient",
+    "downtempo",
+    "electronic"
+  ],
+  "tags": [
+    "ambient",
+    "downtempo",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ca306af1-26ce-380d-bc77-deadad8ebff9",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/967054",
+    "deezer": "https://www.deezer.com/album/114604112"
+  },
+  "musicbrainz_id": "ca306af1-26ce-380d-bc77-deadad8ebff9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cdb79dac-fea6-41dc-8b36-4f7cb097e5ad",
+      "barcode": "717147007525",
+      "title": "Taranga",
+      "disambiguation": null,
+      "date": "2019-11",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "1:01:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mata Bharat",
+            "length": "7:51",
+            "deezer": {
+              "id": 774326502,
+              "link": "https://www.deezer.com/track/774326502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/c/0/f9cd71e89bf7e2610be19624ca356066.mp3?hdnea=exp=1795719693~acl=/api/1/1/f/9/c/0/f9cd71e89bf7e2610be19624ca356066.mp3*~data=user_id=0,application_id=42~hmac=020abcd4210447b24664ff75d8f1e3cb5cfa5166250bac908af9f249da30cf4f",
+              "preview_expires": "2026-11-26T19:01:33Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bombay Railways",
+            "length": "7:01",
+            "deezer": {
+              "id": 774326512,
+              "link": "https://www.deezer.com/track/774326512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/a/0/b6a984b8c9744e2d027a978be4ec9ebd.mp3?hdnea=exp=1795719693~acl=/api/1/1/b/6/a/0/b6a984b8c9744e2d027a978be4ec9ebd.mp3*~data=user_id=0,application_id=42~hmac=542ee1bb455e2163a00f2377d59832a7b7cfb081de67929423e19dd56a9e211e",
+              "preview_expires": "2026-11-26T19:01:33Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Song for Sayang",
+            "length": "7:09",
+            "deezer": {
+              "id": 774326522,
+              "link": "https://www.deezer.com/track/774326522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/1/0/e916611270b53fb354b3d866175b8d38.mp3?hdnea=exp=1795719693~acl=/api/1/1/e/9/1/0/e916611270b53fb354b3d866175b8d38.mp3*~data=user_id=0,application_id=42~hmac=178bf7b99fa3ff048f18bc754089b622f5754f08ed67437fcfe619afc58f1a9e",
+              "preview_expires": "2026-11-26T19:01:33Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Song for Seven Gods",
+            "length": "7:10",
+            "deezer": {
+              "id": 774326532,
+              "link": "https://www.deezer.com/track/774326532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/e/0/46e25cf9dd3b052238fd4c3b76d28106.mp3?hdnea=exp=1795719693~acl=/api/1/1/4/6/e/0/46e25cf9dd3b052238fd4c3b76d28106.mp3*~data=user_id=0,application_id=42~hmac=1dba05178d42e5ab4d15530e1f12a85591252e876495e3bb80339d3ad1641f29",
+              "preview_expires": "2026-11-26T19:01:33Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Taranga",
+            "length": "5:56",
+            "deezer": {
+              "id": 774326542,
+              "link": "https://www.deezer.com/track/774326542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/5/0/0c516f49ea6bfac8e929cb077558f9ad.mp3?hdnea=exp=1795719693~acl=/api/1/1/0/c/5/0/0c516f49ea6bfac8e929cb077558f9ad.mp3*~data=user_id=0,application_id=42~hmac=866d131a4a74de949d89624a778a993f1365438c3ffb7e5bbeccfb392827066f",
+              "preview_expires": "2026-11-26T19:01:33Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ranga",
+            "length": "7:24",
+            "deezer": {
+              "id": 774326552,
+              "link": "https://www.deezer.com/track/774326552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/f/0/22fb3010714f40b1bc0f3f66777a4129.mp3?hdnea=exp=1795719693~acl=/api/1/1/2/2/f/0/22fb3010714f40b1bc0f3f66777a4129.mp3*~data=user_id=0,application_id=42~hmac=558166a79af88bee7a85b84b06f6560aea249f0f93dc0528e8bd6285117f1c08",
+              "preview_expires": "2026-11-26T19:01:33Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Meherbani",
+            "length": "18:56",
+            "deezer": {
+              "id": 774326562,
+              "link": "https://www.deezer.com/track/774326562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/3/0/523ee54252d2522ddcb87500e4c8ee89.mp3?hdnea=exp=1795719693~acl=/api/1/1/5/2/3/0/523ee54252d2522ddcb87500e4c8ee89.mp3*~data=user_id=0,application_id=42~hmac=fda22aae3fc22f3729573cafb81b52a297367b62fea494e669b6868815493a8b",
+              "preview_expires": "2026-11-26T19:01:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Prem Joshua/Taranga.jpg"
+}

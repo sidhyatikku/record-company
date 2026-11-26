@@ -1,0 +1,205 @@
+{
+  "title": "808s & Heartbreak",
+  "artist": "Kanye West",
+  "year": 2008,
+  "release_date": "2008-11-21",
+  "type": "Album",
+  "description": "808s & Heartbreak is the fourth studio album by the American rapper Kanye West. It was released through Def Jam Recordings and Roc-A-Fella Records on November 24, 2008. West recorded it between September and October 2008 at Glenwood Studios in Burbank, California and Avex Recording Studio in Honolulu, Hawaii, and produced it with assistance from No I.D., Plain Pat, Jeff Bhasker, and Mr Hudson. Guest appearances include Kid Cudi, Young Jeezy, Mr Hudson, and Lil Wayne.",
+  "genres": [
+    "hip hop",
+    "electronic",
+    "pop rap",
+    "alternative r&b",
+    "electropop",
+    "experimental",
+    "contemporary r&b",
+    "pop"
+  ],
+  "tags": [
+    "hip hop",
+    "electronic",
+    "pop rap",
+    "alternative r&b",
+    "electropop",
+    "experimental",
+    "synthpop",
+    "chicago rap",
+    "contemporary r&b",
+    "midwest rap",
+    "pop",
+    "us"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 26
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55",
+    "wikipedia": "https://en.wikipedia.org/wiki/808s_%26_Heartbreak",
+    "allmusic": "https://www.allmusic.com/album/mw0000802924",
+    "discogs": "https://www.discogs.com/master/8489",
+    "wikidata": "https://www.wikidata.org/wiki/Q271308",
+    "deezer": "https://www.deezer.com/album/13833162"
+  },
+  "musicbrainz_id": "1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4bb7cd59-cd20-4fa8-bf8e-f33fac5ff7f8",
+      "barcode": "00602557134230",
+      "title": "808s & Heartbreak",
+      "disambiguation": null,
+      "date": "2020",
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "52:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Say You Will",
+            "length": "6:18",
+            "deezer": {
+              "id": 130412296,
+              "link": "https://www.deezer.com/track/130412296",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/1/0/f91d42cc2368ce43887e76d0fac890bc.mp3?hdnea=exp=1795655881~acl=/api/1/1/f/9/1/0/f91d42cc2368ce43887e76d0fac890bc.mp3*~data=user_id=0,application_id=42~hmac=29c92b5c254ff4a23cf3813a5d14f0b26a6b9e5f4e8e1d89d5ccb5687b96513d",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Welcome to Heartbreak",
+            "length": "4:23",
+            "artist": "Kanye West feat. Kid Cudi",
+            "deezer": {
+              "id": 130412298,
+              "link": "https://www.deezer.com/track/130412298",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/e/0/58e2d143c3031cab0ada1514a562ba72.mp3?hdnea=exp=1795655881~acl=/api/1/1/5/8/e/0/58e2d143c3031cab0ada1514a562ba72.mp3*~data=user_id=0,application_id=42~hmac=49235cfcf6d2c0a9f09f347aa115ee016dbf4a666780f4aae80ef2626bf0e50c",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Heartless",
+            "length": "3:31",
+            "deezer": {
+              "id": 130412300,
+              "link": "https://www.deezer.com/track/130412300",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/e/0/8ce3717c2fe0e8d3fd7d847c220fe708.mp3?hdnea=exp=1795655881~acl=/api/1/1/8/c/e/0/8ce3717c2fe0e8d3fd7d847c220fe708.mp3*~data=user_id=0,application_id=42~hmac=31fdbb48d23a13890bad7132cfc756e226164fefe28e8c54375dd04136022be3",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Amazing",
+            "length": "3:58",
+            "artist": "Kanye West feat. Young Jeezy",
+            "deezer": {
+              "id": 130412302,
+              "link": "https://www.deezer.com/track/130412302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/5/0/4d55efd2e24c0d6c9731bf5e95495d61.mp3?hdnea=exp=1795655881~acl=/api/1/1/4/d/5/0/4d55efd2e24c0d6c9731bf5e95495d61.mp3*~data=user_id=0,application_id=42~hmac=a34d729cf5bd10adb0e72c5c60992e70a4c32a07583fcfcfacd32fde4f4245b0",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Love Lockdown",
+            "length": "4:30",
+            "deezer": {
+              "id": 130412304,
+              "link": "https://www.deezer.com/track/130412304",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/1/0/e11bfa8b83b3a37636353621803687cd.mp3?hdnea=exp=1795655881~acl=/api/1/1/e/1/1/0/e11bfa8b83b3a37636353621803687cd.mp3*~data=user_id=0,application_id=42~hmac=c4f0e26fd6a8b0dca2c76c57079969ede63ec05780ce89ba213a86b4457e95b0",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Paranoid",
+            "length": "4:38",
+            "artist": "Kanye West feat. Mr Hudson",
+            "deezer": {
+              "id": 130412306,
+              "link": "https://www.deezer.com/track/130412306",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/8/0/d287e049dcb55a580413c5da931328a5.mp3?hdnea=exp=1795655881~acl=/api/1/1/d/2/8/0/d287e049dcb55a580413c5da931328a5.mp3*~data=user_id=0,application_id=42~hmac=4fa3397a41204d0f9ce0e0197865f6f9d262f74c3dc98e13a55d2b5600cdb43e",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "RoboCop",
+            "length": "4:34",
+            "deezer": {
+              "id": 130412308,
+              "link": "https://www.deezer.com/track/130412308",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/3/0/873c60ae32830bcad6f75b1fa38c6983.mp3?hdnea=exp=1795655881~acl=/api/1/1/8/7/3/0/873c60ae32830bcad6f75b1fa38c6983.mp3*~data=user_id=0,application_id=42~hmac=34aea9632f8184e9ccd3504f37950084d277485127c94d4e69022d2c4f1d8292",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Street Lights",
+            "length": "3:10",
+            "deezer": {
+              "id": 130412310,
+              "link": "https://www.deezer.com/track/130412310",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/7/0/d872df80b91aad613fce60b8ba6b43c6.mp3?hdnea=exp=1795655881~acl=/api/1/1/d/8/7/0/d872df80b91aad613fce60b8ba6b43c6.mp3*~data=user_id=0,application_id=42~hmac=ea1fca08ae269dfdc3950a0a7cfb46955b24321f6af04241bc6d7d36070cceb2",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bad News",
+            "length": "3:59",
+            "deezer": {
+              "id": 130412312,
+              "link": "https://www.deezer.com/track/130412312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/8/0/de821532c70dbb34c65f95ce0298b21c.mp3?hdnea=exp=1795655881~acl=/api/1/1/d/e/8/0/de821532c70dbb34c65f95ce0298b21c.mp3*~data=user_id=0,application_id=42~hmac=a17e3745bd2322d8664f4678c901faade6ecc582cd9df09758638d1ebc3f265f",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "See You in My Nightmares",
+            "length": "4:18",
+            "artist": "Kanye West feat. Lil Wayne",
+            "deezer": {
+              "id": 130412314,
+              "link": "https://www.deezer.com/track/130412314",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/9/0/fb9a450747bc13bb63734bd7f84cff0a.mp3?hdnea=exp=1795655881~acl=/api/1/1/f/b/9/0/fb9a450747bc13bb63734bd7f84cff0a.mp3*~data=user_id=0,application_id=42~hmac=6da061de9f12ce594f095c2bc8a51e71c297f131d9d4de2d8fe8888f4d1ff816",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Coldest Winter",
+            "length": "2:44",
+            "deezer": {
+              "id": 130412316,
+              "link": "https://www.deezer.com/track/130412316",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/3/0/333392f90c473c57fe80278f83cb65bd.mp3?hdnea=exp=1795655881~acl=/api/1/1/3/3/3/0/333392f90c473c57fe80278f83cb65bd.mp3*~data=user_id=0,application_id=42~hmac=d46571fb94d89ee0529035a7fd563059c798c8e9fcf83aca4f3c0de93f7f5c43",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Pinocchio Story (freestyle live from Singapore)",
+            "length": "6:02",
+            "deezer": {
+              "id": 130412318,
+              "link": "https://www.deezer.com/track/130412318",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/c/0/7ecad51bcae3de9a4c6ad7fcace833c8.mp3?hdnea=exp=1795655881~acl=/api/1/1/7/e/c/0/7ecad51bcae3de9a4c6ad7fcace833c8.mp3*~data=user_id=0,application_id=42~hmac=08bc6f6dfd85f270830b288cfacec64d1b8f0182fbc9fe9e1cff307664254caa",
+              "preview_expires": "2026-11-26T01:18:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kanye West/808s & Heartbreak.jpg"
+}

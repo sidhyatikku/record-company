@@ -1,0 +1,111 @@
+{
+  "title": "Tchaikovsky",
+  "artist": "Pyotr Ilyich Tchaikovsky",
+  "year": 1995,
+  "release_date": "1995",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8d244cbd-778a-401f-9ce3-d4bd55aad1d5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/40191321"
+  },
+  "musicbrainz_id": "8d244cbd-778a-401f-9ce3-d4bd55aad1d5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0dac05d9-fc84-47f4-bed9-6aed8c129b9f",
+      "barcode": null,
+      "title": "Tchaikovsky",
+      "disambiguation": "The Telegraph masters of music",
+      "date": "1995",
+      "country": "GB"
+    },
+    "total_tracks": 13,
+    "total_length": "1:10:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Sleeping Beauty: Act I. Valse",
+            "length": "4:26"
+          },
+          {
+            "number": "2",
+            "title": "The Sleeping Beauty: Act II. Panorama",
+            "length": "2:39"
+          },
+          {
+            "number": "3",
+            "title": "Piano Concerto no. 1 in B flat minor, op. 23",
+            "length": "7:03"
+          },
+          {
+            "number": "4",
+            "title": "Eugene Onegin: Lensky’s Aria",
+            "length": "6:24"
+          },
+          {
+            "number": "5",
+            "title": "Eugene Onegin: Act II. Entr’acte & Waltz",
+            "length": "8:50"
+          },
+          {
+            "number": "6",
+            "title": "The Nutcracker: Act II. Trepak (Russian Dance)",
+            "length": "1:11"
+          },
+          {
+            "number": "7",
+            "title": "The Nutcracker: Act II. Dance of the Reed-Flutes",
+            "length": "2:39"
+          },
+          {
+            "number": "8",
+            "title": "The Nutcracker: Act II. Waltz of the Flowers",
+            "length": "6:43"
+          },
+          {
+            "number": "9",
+            "title": "Violin Concerto in D, op. 35: II. Canzonetté: Andante",
+            "length": "7:02",
+            "deezer": {
+              "id": 351905971,
+              "link": "https://www.deezer.com/track/351905971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/1/0/e51d001af70dd9d691604ad7814b8669.mp3?hdnea=exp=1795719769~acl=/api/1/1/e/5/1/0/e51d001af70dd9d691604ad7814b8669.mp3*~data=user_id=0,application_id=42~hmac=401fdcda572eab2cf46143ec44b8ddd80b2864bee0281040799c92051ef51ed8",
+              "preview_expires": "2026-11-26T19:02:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Symphony no. 6 in B minor, op. 74 ‘Pathétique’: IV. Finale: Adagio lamentoso",
+            "length": "10:04"
+          },
+          {
+            "number": "11",
+            "title": "Swan Lake: Act I. Valse",
+            "length": "6:53"
+          },
+          {
+            "number": "12",
+            "title": "Swan Lake: Act III. Danze Napolitaine",
+            "length": "2:05"
+          },
+          {
+            "number": "13",
+            "title": "Swan Lake: Act III. Mazurka",
+            "length": "4:10"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pyotr Ilyich Tchaikovsky/Tchaikovsky.jpg"
+}

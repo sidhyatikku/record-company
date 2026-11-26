@@ -1,0 +1,77 @@
+{
+  "title": "On the Floor",
+  "artist": "JLO feat. Pitbull",
+  "year": 2011,
+  "release_date": "2011-02-18",
+  "type": "Single",
+  "description": "\"On the Floor\" is a song recorded by American singer Jennifer Lopez for her seventh studio album, Love? (2011). Featuring American rapper Pitbull, it was released by Island Records on February 8, 2011, as the lead single from the album. \"On the Floor\" was written by Kinnda \"Kee\" Hamid, AJ Junior, Teddy Sky, Bilal \"The Chef\" Hajji, Pitbull, Gonzalo Hermosa, Ulises Hermosa, along with the song's producer RedOne. It is a pop song combining Latin, dance-pop, house and techno music and with a common time tempo of 130 beats per minute. Lopez recorded a Spanish-language version of the song titled \"Ven a Bailar\", which includes additional lyrical contributions from Julio Reyes Copello and Jimena Romero.",
+  "genres": [
+    "house",
+    "pop",
+    "dance",
+    "electro",
+    "electronic",
+    "euro house",
+    "europop",
+    "hip hop",
+    "pop rap"
+  ],
+  "tags": [
+    "house",
+    "pop",
+    "dance",
+    "electro",
+    "electronic",
+    "euro house",
+    "europop",
+    "hip hop",
+    "pop rap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/800b61ac-96cb-4973-ab31-3b08b30d6251",
+    "wikipedia": "https://en.wikipedia.org/wiki/On_the_Floor",
+    "discogs": "https://www.discogs.com/master/318276",
+    "wikidata": "https://www.wikidata.org/wiki/Q169453",
+    "deezer": "https://www.deezer.com/album/819649"
+  },
+  "musicbrainz_id": "800b61ac-96cb-4973-ab31-3b08b30d6251",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bbc2a1d9-e507-41b5-8e18-61ad543f1d94",
+      "barcode": "00602527636436",
+      "title": "On the Floor",
+      "disambiguation": null,
+      "date": "2011-02-18",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "On the Floor",
+            "length": "3:50",
+            "deezer": {
+              "id": 8930372,
+              "link": "https://www.deezer.com/track/8930372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/0/0/6408ca8d561953e3920dc30be03822e2.mp3?hdnea=exp=1795655570~acl=/api/1/1/6/4/0/0/6408ca8d561953e3920dc30be03822e2.mp3*~data=user_id=0,application_id=42~hmac=ec3f0d272e4dcf35b07c10d3085bc896ca7b1b2eb9c7363c1506c71234824877",
+              "preview_expires": "2026-11-26T01:12:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jennifer Lopez/On The Floor.jpg"
+}

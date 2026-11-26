@@ -1,0 +1,52 @@
+{
+  "title": "Tidalwave",
+  "artist": "Moksi",
+  "year": 2020,
+  "release_date": "2020-08-06",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bass house",
+    "future house",
+    "g-house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04",
+    "deezer": "https://www.deezer.com/album/159716902"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04",
+      "title": "Tidalwave",
+      "date": "2020-08-06"
+    },
+    "total_tracks": 1,
+    "total_length": "2:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tidalwave",
+            "length": "2:48",
+            "artist": "Moksi, Adam McInnis",
+            "deezer": {
+              "id": 1016501442,
+              "link": "https://www.deezer.com/track/1016501442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/e/0/f3e5a0b2f9e1399e07d5b99099902e21.mp3?hdnea=exp=1795718587~acl=/api/1/1/f/3/e/0/f3e5a0b2f9e1399e07d5b99099902e21.mp3*~data=user_id=0,application_id=42~hmac=4ce051769c2e3d9282fdcb95c8d72d1d9b52db43f27734612e5783431e597e2e",
+              "preview_expires": "2026-11-26T18:43:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Moksi/Tidalwave.jpg"
+}

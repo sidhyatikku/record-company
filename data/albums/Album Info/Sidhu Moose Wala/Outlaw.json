@@ -1,0 +1,58 @@
+{
+  "title": "Outlaw",
+  "artist": "Sidhu Moose Wala & Byg Byrd",
+  "year": 2019,
+  "release_date": "2019-01-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "hip hop"
+  ],
+  "tags": [
+    "bhangra",
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/eff8a27d-41fb-49eb-a5dc-52ee0666ced9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/278853642"
+  },
+  "musicbrainz_id": "eff8a27d-41fb-49eb-a5dc-52ee0666ced9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b52487a4-c683-48e2-b320-bc60ecb3b582",
+      "barcode": "3615936711189",
+      "title": "Outlaw",
+      "disambiguation": null,
+      "date": "2019-01-17",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Outlaw",
+            "length": "3:00",
+            "artist": "Sidhu Moose Wala",
+            "deezer": {
+              "id": 1583175572,
+              "link": "https://www.deezer.com/track/1583175572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4ca68a7883a795a21af72c85e280c06.mp3?hdnea=exp=1795720604~acl=/api/1/1/a/4/c/0/a4ca68a7883a795a21af72c85e280c06.mp3*~data=user_id=0,application_id=42~hmac=f05a087c58db14d90656e709f13ecc5a29863ba4d81f0bcaa6d21595ec0e22bf",
+              "preview_expires": "2026-11-26T19:16:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Outlaw.jpg"
+}

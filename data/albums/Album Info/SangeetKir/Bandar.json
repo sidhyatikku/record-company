@@ -1,0 +1,51 @@
+{
+  "title": "Bandar",
+  "artist": "SangeetKir & Arpit Bala",
+  "year": 2021,
+  "release_date": "2021-10-15",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e2936718-519b-4f17-ab25-a6d12ca276d0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/263566772"
+  },
+  "musicbrainz_id": "e2936718-519b-4f17-ab25-a6d12ca276d0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/790319b5-54e2-4252-b281-9bcde769efa2",
+      "barcode": "198002318305",
+      "title": "Bandar",
+      "disambiguation": null,
+      "date": "2021-10-15",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bandar",
+            "length": "3:50",
+            "deezer": {
+              "id": 1513261922,
+              "link": "https://www.deezer.com/track/1513261922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/6/0/2b628fb4c54c8b239efaacf8f360efc2.mp3?hdnea=exp=1795720321~acl=/api/1/1/2/b/6/0/2b628fb4c54c8b239efaacf8f360efc2.mp3*~data=user_id=0,application_id=42~hmac=989104af66a7b368291e886e56c0b81f6005341fdae0a33dd7ab02afda91b97b",
+              "preview_expires": "2026-11-26T19:12:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/SangeetKir/Bandar.jpg"
+}

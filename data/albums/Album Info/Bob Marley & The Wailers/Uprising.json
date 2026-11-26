@@ -1,0 +1,185 @@
+{
+  "title": "Uprising",
+  "artist": "Bob Marley & The Wailers",
+  "year": 1980,
+  "release_date": "1980-06-10",
+  "type": "Album",
+  "description": "Uprising is the twelfth studio album by Bob Marley and the Wailers and the final studio album released during Marley's lifetime. Released on 10 June 1980, the album is one of Marley's most directly religious, with nearly every song referencing his religious beliefs, culminating in the acoustic recording of \"Redemption Song\".",
+  "genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "tags": [
+    "reggae",
+    "roots reggae"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6dd29c00-7539-319d-98e0-b2f07e861497",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uprising_(Bob_Marley_and_the_Wailers_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000650465",
+    "discogs": "https://www.discogs.com/master/66044",
+    "wikidata": "https://www.wikidata.org/wiki/Q1051420",
+    "deezer": "https://www.deezer.com/album/249141"
+  },
+  "musicbrainz_id": "6dd29c00-7539-319d-98e0-b2f07e861497",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9961ee3c-f655-4b66-89d5-26c354246a47",
+      "barcode": "00731454890229",
+      "title": "Uprising",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "46:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Coming in From the Cold",
+            "length": "4:31",
+            "deezer": {
+              "id": 2542696,
+              "link": "https://www.deezer.com/track/2542696",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/e/0/2becf25be7c1da4de6e6bba78bd490b5.mp3?hdnea=exp=1795652379~acl=/api/1/1/2/b/e/0/2becf25be7c1da4de6e6bba78bd490b5.mp3*~data=user_id=0,application_id=42~hmac=2a943226f3a7fd18901ec311edd46b2e27a554188619aac641d6903ea6e27efc",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Real Situation",
+            "length": "3:08",
+            "deezer": {
+              "id": 2542697,
+              "link": "https://www.deezer.com/track/2542697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/f/0/1ef7794fe33f3c7d600b2a840cca58d9.mp3?hdnea=exp=1795652379~acl=/api/1/1/1/e/f/0/1ef7794fe33f3c7d600b2a840cca58d9.mp3*~data=user_id=0,application_id=42~hmac=51a0bf7d0216836f29b5e6615412ef6915f3d09d57c50512615533cad410a100",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bad Card",
+            "length": "2:50",
+            "deezer": {
+              "id": 2542698,
+              "link": "https://www.deezer.com/track/2542698",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/e/0/24e55e6751f6e6b6c75b3aeb9303a118.mp3?hdnea=exp=1795652379~acl=/api/1/1/2/4/e/0/24e55e6751f6e6b6c75b3aeb9303a118.mp3*~data=user_id=0,application_id=42~hmac=dcba39538ab2f245c21afbf3af421c4b2ef85430a36d05d7f298be68440b2e18",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "We and Dem",
+            "length": "3:14",
+            "deezer": {
+              "id": 2542699,
+              "link": "https://www.deezer.com/track/2542699",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/6/0/386827a306364fb5c0edc2d501795954.mp3?hdnea=exp=1795652379~acl=/api/1/1/3/8/6/0/386827a306364fb5c0edc2d501795954.mp3*~data=user_id=0,application_id=42~hmac=60ad20b5cc70f8ee6c173c3447e03191df3bf8cc0f33839def46c8ea0f7046cd",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Work",
+            "length": "3:41",
+            "deezer": {
+              "id": 2542700,
+              "link": "https://www.deezer.com/track/2542700",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/7/0/617c12ab9166a81326e73972e96a4a59.mp3?hdnea=exp=1795652379~acl=/api/1/1/6/1/7/0/617c12ab9166a81326e73972e96a4a59.mp3*~data=user_id=0,application_id=42~hmac=33d26dca482a9626b24ce29583fb2be3dcb437e4a62ddc9b2424cdb8a9e3f7fc",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Zion Train",
+            "length": "3:36",
+            "deezer": {
+              "id": 2542701,
+              "link": "https://www.deezer.com/track/2542701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/b/0/13bd450a4f6ffc62f82816cdd7188fef.mp3?hdnea=exp=1795652379~acl=/api/1/1/1/3/b/0/13bd450a4f6ffc62f82816cdd7188fef.mp3*~data=user_id=0,application_id=42~hmac=7941943db7c98922d828064c6bbc1e65d0f8b673f4ab6f9bac17481fdb686ff6",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Pimper’s Paradise",
+            "length": "3:27",
+            "deezer": {
+              "id": 2542702,
+              "link": "https://www.deezer.com/track/2542702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/7/0/f477d9de30baf4d94cc4f7cb9ec3a265.mp3?hdnea=exp=1795652379~acl=/api/1/1/f/4/7/0/f477d9de30baf4d94cc4f7cb9ec3a265.mp3*~data=user_id=0,application_id=42~hmac=53956780d123b5905b803108336a06a158b81b0d23d79a86bde213acfbf6602f",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Could You Be Loved",
+            "length": "3:57",
+            "deezer": {
+              "id": 2542703,
+              "link": "https://www.deezer.com/track/2542703",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/e/0/02e9a09ea790764292cffb6ea747b7a0.mp3?hdnea=exp=1795652379~acl=/api/1/1/0/2/e/0/02e9a09ea790764292cffb6ea747b7a0.mp3*~data=user_id=0,application_id=42~hmac=e2ebc0c28b9ab2ed2df97785ccff9bd7a6a96cfe23bbe653c7bc9293e294d174",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Forever Loving Jah",
+            "length": "4:02",
+            "deezer": {
+              "id": 2542704,
+              "link": "https://www.deezer.com/track/2542704",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/2/0/7d2e276d95183ebc0acc20c5a319461e.mp3?hdnea=exp=1795652379~acl=/api/1/1/7/d/2/0/7d2e276d95183ebc0acc20c5a319461e.mp3*~data=user_id=0,application_id=42~hmac=35af76b8b9d5394a1c61afd2790596f741cb8604e9b38740181fbf3c8e807793",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Redemption Song",
+            "length": "3:53",
+            "deezer": {
+              "id": 2542705,
+              "link": "https://www.deezer.com/track/2542705",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/0/0/620b8d26bff21f6b969a4d5f93424497.mp3?hdnea=exp=1795652379~acl=/api/1/1/6/2/0/0/620b8d26bff21f6b969a4d5f93424497.mp3*~data=user_id=0,application_id=42~hmac=410797566f233cfd47ab55a40699b3e7f74ac9a1f59e633a0187be38f26f94d6",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Redemption Song (band version)",
+            "length": "4:50",
+            "deezer": {
+              "id": 2542706,
+              "link": "https://www.deezer.com/track/2542706",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/1/0/13180c7ce1435d1f8f4a6f65ea3c0470.mp3?hdnea=exp=1795652379~acl=/api/1/1/1/3/1/0/13180c7ce1435d1f8f4a6f65ea3c0470.mp3*~data=user_id=0,application_id=42~hmac=40f1925313b44a2f58b54d211d8f39d71b7c83b4ab67b5f373ad91c9acb0854f",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Could You Be Loved - Errol Brown and Alex Sadkin Remix",
+            "length": "5:25",
+            "deezer": {
+              "id": 2542707,
+              "link": "https://www.deezer.com/track/2542707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/a/0/82a550656ff6d7149c485a2ebde79432.mp3?hdnea=exp=1795652379~acl=/api/1/1/8/2/a/0/82a550656ff6d7149c485a2ebde79432.mp3*~data=user_id=0,application_id=42~hmac=5e640abd2ff826d96e6a642710b2bd9b62898d05c6ff44a20053a19da698329e",
+              "preview_expires": "2026-11-26T00:19:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bob Marley & The Wailers/Uprising.jpg"
+}

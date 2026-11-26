@@ -1,0 +1,151 @@
+{
+  "title": "Mundeh Panjabi",
+  "artist": "Kulvinder Johal",
+  "year": 2010,
+  "release_date": "2010-07-08",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/32f0f0d4-514a-4176-8339-6dcd56f69f8a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/851420902"
+  },
+  "musicbrainz_id": "32f0f0d4-514a-4176-8339-6dcd56f69f8a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5db7131a-31b0-4f73-84c8-5dc57fc8684a",
+      "barcode": null,
+      "title": "Mundeh Panjabi",
+      "disambiguation": null,
+      "date": "2010-07-08",
+      "country": "GB"
+    },
+    "total_tracks": 10,
+    "total_length": "40:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Gubindhi",
+            "length": "3:53",
+            "deezer": {
+              "id": 3641365552,
+              "link": "https://www.deezer.com/track/3641365552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/d/0/8dd0bada71b1539dac92530b883dcecd.mp3?hdnea=exp=1795656353~acl=/api/1/1/8/d/d/0/8dd0bada71b1539dac92530b883dcecd.mp3*~data=user_id=0,application_id=42~hmac=ecaaa3fc08724be11c3689a539ea108ac21dd6fca0654e7e4a416cb5de562466",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Mundeh Panjabi",
+            "length": "4:36",
+            "deezer": {
+              "id": 3641365562,
+              "link": "https://www.deezer.com/track/3641365562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/9/0/fc9fe5893af23abe3f2129b9908f129f.mp3?hdnea=exp=1795656353~acl=/api/1/1/f/c/9/0/fc9fe5893af23abe3f2129b9908f129f.mp3*~data=user_id=0,application_id=42~hmac=313fe12bf7308749f16a9fa3911a7d259cc310ac2bbb1a3d37b8af7a4577e35e",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kehjaa Kehjaa",
+            "length": "3:50",
+            "deezer": {
+              "id": 3641365572,
+              "link": "https://www.deezer.com/track/3641365572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/d/0/7ad35a827a8ccb86a6e58fd3c36b2434.mp3?hdnea=exp=1795656353~acl=/api/1/1/7/a/d/0/7ad35a827a8ccb86a6e58fd3c36b2434.mp3*~data=user_id=0,application_id=42~hmac=7aff44f66fbde45938cbf618d0a1e5dc001bc7d56576c9d4daf7cdde39fc6129",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Johal Boliyan",
+            "length": "4:24",
+            "artist": "Kulvinder Johal & Raman Aujla",
+            "deezer": {
+              "id": 3641365582,
+              "link": "https://www.deezer.com/track/3641365582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/c/0/5ac3241be36404bec6424eec2b548b4f.mp3?hdnea=exp=1795656353~acl=/api/1/1/5/a/c/0/5ac3241be36404bec6424eec2b548b4f.mp3*~data=user_id=0,application_id=42~hmac=6c06f6f8eb35d864607f7e45a124e838a7add33d239875b65a428fe6a9ffd9ea",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Vasdhi",
+            "length": "3:33",
+            "deezer": {
+              "id": 3641365592,
+              "link": "https://www.deezer.com/track/3641365592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/b/0/62b1e01973e09ef2e375ed79063008db.mp3?hdnea=exp=1795656353~acl=/api/1/1/6/2/b/0/62b1e01973e09ef2e375ed79063008db.mp3*~data=user_id=0,application_id=42~hmac=9ecc680b0c7995832e71b1765d351b8e08471c8984c5ab4d0f892c9f5f08f40b",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Puth Sardaran Deh",
+            "length": "4:00",
+            "deezer": {
+              "id": 3641365602,
+              "link": "https://www.deezer.com/track/3641365602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/f/0/93fa98301f4968e8e1d3e683af0a6448.mp3?hdnea=exp=1795656353~acl=/api/1/1/9/3/f/0/93fa98301f4968e8e1d3e683af0a6448.mp3*~data=user_id=0,application_id=42~hmac=98be2e2f33731f2f765347ff168de399f800f917f8c591da5ecde97832b5d93b",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bhangre Wich Mashoor",
+            "length": "3:52",
+            "deezer": {
+              "id": 3641365612,
+              "link": "https://www.deezer.com/track/3641365612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/a/0/17ac69e0cb1fd5cdf5b8ae1123c4c7d3.mp3?hdnea=exp=1795656353~acl=/api/1/1/1/7/a/0/17ac69e0cb1fd5cdf5b8ae1123c4c7d3.mp3*~data=user_id=0,application_id=42~hmac=cd1556761a28a347e8b9c201a15ae26f8eaef42ab0b5937494d9f4679a297990",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sohneh Sajanna Deh",
+            "length": "4:55",
+            "deezer": {
+              "id": 3641365622,
+              "link": "https://www.deezer.com/track/3641365622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/0/0/700f1856e77f2f5977d61151db88f17c.mp3?hdnea=exp=1795656353~acl=/api/1/1/7/0/0/0/700f1856e77f2f5977d61151db88f17c.mp3*~data=user_id=0,application_id=42~hmac=45964a20f9d7449af65720d7988393e59ef1001ff0adb80e847ef97e81242ed8",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sun Baliyeh",
+            "length": "4:03",
+            "deezer": {
+              "id": 3641365632,
+              "link": "https://www.deezer.com/track/3641365632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/0/0/ba02fe5e84a010471cd594c9634eba4d.mp3?hdnea=exp=1795656353~acl=/api/1/1/b/a/0/0/ba02fe5e84a010471cd594c9634eba4d.mp3*~data=user_id=0,application_id=42~hmac=8a4a0b1040fa45101203987ef3f7835d8abac8a345f556ad4d3c134b8fccf4a9",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Rani Sundran",
+            "length": "3:51",
+            "deezer": {
+              "id": 3641365642,
+              "link": "https://www.deezer.com/track/3641365642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/b/0/19bd115937c0569f0afd9f642f98210e.mp3?hdnea=exp=1795656353~acl=/api/1/1/1/9/b/0/19bd115937c0569f0afd9f642f98210e.mp3*~data=user_id=0,application_id=42~hmac=6c91aa7430a9c5f4fef36cec85cece1d1f88e8c471b9f59ef7740ef60a5e952d",
+              "preview_expires": "2026-11-26T01:25:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kulvinder Johal/Mundeh Panjabi.jpg"
+}

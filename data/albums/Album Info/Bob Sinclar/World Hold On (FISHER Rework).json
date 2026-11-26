@@ -1,0 +1,56 @@
+{
+  "title": "World, Hold On (FISHER rework)",
+  "artist": "Bob Sinclar feat. Steve Edwards",
+  "year": 2022,
+  "release_date": "2022-07-08",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [
+    "tech house"
+  ],
+  "tags": [
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/514ecb8f-cb8a-4388-a534-7f52bd1db01b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/351711437"
+  },
+  "musicbrainz_id": "514ecb8f-cb8a-4388-a534-7f52bd1db01b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/836163c2-2bbb-407e-bb02-d73c5314e3a6",
+      "barcode": "3616848572837",
+      "title": "World, Hold On (FISHER Rework)",
+      "disambiguation": null,
+      "date": "2022-07-08",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "2:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "World, Hold On (FISHER rework)",
+            "length": "2:58",
+            "artist": "Bob Sinclar ft. Steve Edwards",
+            "deezer": {
+              "id": 1892838227,
+              "link": "https://www.deezer.com/track/1892838227",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/4/0/404ec1d207fc83d90cb02a04a2205df4.mp3?hdnea=exp=1795652403~acl=/api/1/1/4/0/4/0/404ec1d207fc83d90cb02a04a2205df4.mp3*~data=user_id=0,application_id=42~hmac=1a7add7c26234eebbe228e3d8b122f60ba8f0e04984f9b9878eed70fbd8c3314",
+              "preview_expires": "2026-11-26T00:20:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bob Sinclar/World Hold On (FISHER Rework).jpg"
+}

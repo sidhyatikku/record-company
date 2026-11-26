@@ -1,0 +1,52 @@
+{
+  "title": "Gotta Be",
+  "artist": "Isenberg",
+  "year": 2021,
+  "release_date": "2021-02-02",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage",
+    "bass house",
+    "rally house",
+    "bassline"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6N0o5ahE5wkDzdnuz07prB",
+    "deezer": "https://www.deezer.com/album/975292051"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6N0o5ahE5wkDzdnuz07prB",
+      "title": "Gotta Be",
+      "date": "2021-02-02"
+    },
+    "total_tracks": 1,
+    "total_length": "2:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Gotta Be",
+            "length": "2:34",
+            "deezer": {
+              "id": 4000305581,
+              "link": "https://www.deezer.com/track/4000305581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/b/0/f7b690fdf367492c26df0e3b63585661.mp3?hdnea=exp=1795655318~acl=/api/1/1/f/7/b/0/f7b690fdf367492c26df0e3b63585661.mp3*~data=user_id=0,application_id=42~hmac=38c09b6f1453f494bee94c32de46736fe526f81c1057a893b79742e9fbef5a62",
+              "preview_expires": "2026-11-26T01:08:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Isenberg/Gotta Be.jpg"
+}

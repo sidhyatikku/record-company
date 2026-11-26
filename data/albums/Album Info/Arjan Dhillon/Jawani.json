@@ -1,0 +1,51 @@
+{
+  "title": "Jawani",
+  "artist": "Arjan Dhillon",
+  "year": 2022,
+  "release_date": "2022-03-25",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cec4ea1a-125e-4a29-a1eb-dfa7ec5209db",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/306798697"
+  },
+  "musicbrainz_id": "cec4ea1a-125e-4a29-a1eb-dfa7ec5209db",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/92d7522b-29d6-4c74-a968-7b616649ed2d",
+      "barcode": "8905285039894",
+      "title": "Jawani",
+      "disambiguation": null,
+      "date": "2022-03-25",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jawani",
+            "length": "2:31",
+            "deezer": {
+              "id": 1702318577,
+              "link": "https://www.deezer.com/track/1702318577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/d/0/c4d698f1c0d38caf0975daa528122ca2.mp3?hdnea=exp=1795651679~acl=/api/1/1/c/4/d/0/c4d698f1c0d38caf0975daa528122ca2.mp3*~data=user_id=0,application_id=42~hmac=1dfcd1bf52f30d2ac850095527b11dbd3081c89a1c1193a39cc43d8fea5d0ff8",
+              "preview_expires": "2026-11-26T00:07:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Arjan Dhillon/Jawani.jpg"
+}

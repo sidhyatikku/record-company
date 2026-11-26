@@ -1,0 +1,62 @@
+{
+  "title": "Figure Numatic",
+  "artist": "Nubiyan Twist",
+  "year": 2014,
+  "release_date": "2014-10-31",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7a0ef491-b64a-4be2-a462-755061c9b548",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/8967005"
+  },
+  "musicbrainz_id": "7a0ef491-b64a-4be2-a462-755061c9b548",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0301139b-4f00-4ce7-bacf-5c977b322164",
+      "barcode": "3610159023927",
+      "title": "Figure Numatic",
+      "disambiguation": null,
+      "date": "2014-10-31",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "9:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Figure Numatic",
+            "length": "6:11",
+            "deezer": {
+              "id": 88724227,
+              "link": "https://www.deezer.com/track/88724227",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/c/0/25c7d96210cd6ce47a343e990cd281fb.mp3?hdnea=exp=1795719039~acl=/api/1/1/2/5/c/0/25c7d96210cd6ce47a343e990cd281fb.mp3*~data=user_id=0,application_id=42~hmac=11b2b4698239a476f23949d0c8a3b5680988d2864ea41ba8c47e41c34c21e5cc",
+              "preview_expires": "2026-11-26T18:50:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Figure Numatic - radio edit",
+            "length": "3:40",
+            "deezer": {
+              "id": 88724229,
+              "link": "https://www.deezer.com/track/88724229",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/b/0/e7ba1c52f71b1d260285bf92d36e3a39.mp3?hdnea=exp=1795719039~acl=/api/1/1/e/7/b/0/e7ba1c52f71b1d260285bf92d36e3a39.mp3*~data=user_id=0,application_id=42~hmac=516c1a028e16c03c313a5fd9071cd29b27b015ec8a982f6ecaadf8ccef4e1859",
+              "preview_expires": "2026-11-26T18:50:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nubiyan Twist/Figure Numatic.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Patasa",
+  "artist": "Anyasa, Lost Stories",
+  "year": 2025,
+  "release_date": "2025-11-28",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/63UdXUCfARWxqIfLk70aUx",
+    "deezer": "https://www.deezer.com/album/843588782"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/63UdXUCfARWxqIfLk70aUx",
+      "title": "Patasa",
+      "date": "2025-11-28"
+    },
+    "total_tracks": 1,
+    "total_length": "3:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Patasa",
+            "length": "3:20",
+            "artist": "Anyasa, Lost Stories, Sarthak Kalyani",
+            "deezer": {
+              "id": 3618739682,
+              "link": "https://www.deezer.com/track/3618739682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/5/0/b056715ea0a66ce6a5ec5f37d85775c7.mp3?hdnea=exp=1795649306~acl=/api/1/1/b/0/5/0/b056715ea0a66ce6a5ec5f37d85775c7.mp3*~data=user_id=0,application_id=42~hmac=9228adc6db701b9e19118e27a8f78242fbac08365d2f72faefb8fe5df773e156",
+              "preview_expires": "2026-11-25T23:28:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Anyasa/Patasa.jpg"
+}

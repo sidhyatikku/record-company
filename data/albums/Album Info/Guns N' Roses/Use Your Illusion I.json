@@ -1,0 +1,250 @@
+{
+  "title": "Use Your Illusion I",
+  "artist": "Guns N’ Roses",
+  "year": 1991,
+  "release_date": "1991-09-16",
+  "type": "Album",
+  "description": "Use Your Illusion I is the third studio album by American hard rock band Guns N' Roses, released by Geffen Records on September 17, 1991, the same day as its counterpart Use Your Illusion II. It was the band's first album with keyboardist Dizzy Reed, and drummer Matt Sorum, who replaced Steven Adler following Adler's departure in 1990, shortly after playing on \"Civil War\", which appears on Use Your Illusion II. The supporting tour for the albums, the Use Your Illusion Tour, began in May 1991, four months before the release of the albums due to delays in getting the albums out.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "arena rock",
+    "heavy metal",
+    "blues",
+    "pop rock",
+    "blues rock",
+    "classic rock",
+    "glam",
+    "progressive rock",
+    "rock and roll",
+    "sleaze rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "arena rock",
+    "album rock",
+    "heavy metal",
+    "blues",
+    "pop rock",
+    "blues rock",
+    "classic rock",
+    "glam",
+    "progressive rock",
+    "rock and roll",
+    "sleaze rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 22
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/642b183a-3e59-3cb9-9187-aeeefa0d8818",
+    "wikipedia": "https://en.wikipedia.org/wiki/Use_Your_Illusion_I",
+    "allmusic": "https://www.allmusic.com/album/mw0000598424",
+    "discogs": "https://www.discogs.com/master/9536",
+    "wikidata": "https://www.wikidata.org/wiki/Q826486",
+    "deezer": "https://www.deezer.com/album/125209"
+  },
+  "musicbrainz_id": "642b183a-3e59-3cb9-9187-aeeefa0d8818",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/77d5a256-601f-46f7-bb97-23a04718b638",
+      "barcode": "720642441527",
+      "title": "Use Your Illusion I",
+      "disambiguation": null,
+      "date": "",
+      "country": "AD"
+    },
+    "total_tracks": 16,
+    "total_length": "1:16:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Right Next Door to Hell",
+            "length": "3:02",
+            "deezer": {
+              "id": 1169674,
+              "link": "https://www.deezer.com/track/1169674",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/b/0/32b45f7c4654e900b10485dabc9a5c05.mp3?hdnea=exp=1795654826~acl=/api/1/1/3/2/b/0/32b45f7c4654e900b10485dabc9a5c05.mp3*~data=user_id=0,application_id=42~hmac=36ac73b60c87211240978c683fbfd2c4c9b274eb219ddfd3273545db900d1b1d",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dust N’ Bones",
+            "length": "4:58",
+            "deezer": {
+              "id": 1169675,
+              "link": "https://www.deezer.com/track/1169675",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/b/0/9dbb2b555b8d08e9d820c7ca774e6a6a.mp3?hdnea=exp=1795654826~acl=/api/1/1/9/d/b/0/9dbb2b555b8d08e9d820c7ca774e6a6a.mp3*~data=user_id=0,application_id=42~hmac=77eeae91bcd8a62874656f6b14cb22a263ccfa7a6a5af68e9daae99f3dcd4505",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Live and Let Die",
+            "length": "3:04",
+            "deezer": {
+              "id": 1169676,
+              "link": "https://www.deezer.com/track/1169676",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/5/0/03579e12c239322dd21653175c8dd81f.mp3?hdnea=exp=1795654826~acl=/api/1/1/0/3/5/0/03579e12c239322dd21653175c8dd81f.mp3*~data=user_id=0,application_id=42~hmac=85883df046a3cd7ec3e97771c34f6e79d2b4385d5fe0339e2cf4d5115fadb0f8",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Don’t Cry (original)",
+            "length": "4:45",
+            "deezer": {
+              "id": 1169677,
+              "link": "https://www.deezer.com/track/1169677",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/9/0/929232c70eca30ce34e5233d2702e224.mp3?hdnea=exp=1795654826~acl=/api/1/1/9/2/9/0/929232c70eca30ce34e5233d2702e224.mp3*~data=user_id=0,application_id=42~hmac=ec13321e010bb079dbd0f2b5056f2dfbc6814f53ed7ae293144be33a50b9403f",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Perfect Crime",
+            "length": "2:24",
+            "deezer": {
+              "id": 1169678,
+              "link": "https://www.deezer.com/track/1169678",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/3/0/c7348c3dfeb48cb88232d70bd42ca380.mp3?hdnea=exp=1795654826~acl=/api/1/1/c/7/3/0/c7348c3dfeb48cb88232d70bd42ca380.mp3*~data=user_id=0,application_id=42~hmac=70b3e674088471c1e7110dea878f77eb3d4da487ed4a5d26573c69e63ae41769",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "You Ain’t the First",
+            "length": "2:36",
+            "deezer": {
+              "id": 1169679,
+              "link": "https://www.deezer.com/track/1169679",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/9/0/f395842146d8f7399a8ba4a929538a71.mp3?hdnea=exp=1795654826~acl=/api/1/1/f/3/9/0/f395842146d8f7399a8ba4a929538a71.mp3*~data=user_id=0,application_id=42~hmac=951c576413f97ee58557d116647c7ea620b1f93a433df35ec2cb6a68f07de26a",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bad Obsession",
+            "length": "5:28",
+            "deezer": {
+              "id": 1169680,
+              "link": "https://www.deezer.com/track/1169680",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/a/0/69a4fa26528c6d76f5a2e9ef59a5755b.mp3?hdnea=exp=1795654826~acl=/api/1/1/6/9/a/0/69a4fa26528c6d76f5a2e9ef59a5755b.mp3*~data=user_id=0,application_id=42~hmac=1cd6548c32f6555ab940583ebdd7a8c5ca76899d1c7700a5623facff82616eea",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Back Off Bitch",
+            "length": "5:03",
+            "deezer": {
+              "id": 1169681,
+              "link": "https://www.deezer.com/track/1169681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/5/0/87516e0141e3447bb09cd6f8909954d3.mp3?hdnea=exp=1795654826~acl=/api/1/1/8/7/5/0/87516e0141e3447bb09cd6f8909954d3.mp3*~data=user_id=0,application_id=42~hmac=11ba5b9c6826de598971503814495ca3a2de95d0f289691afc746756479c3a3a",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Double Talkin’ Jive",
+            "length": "3:24",
+            "deezer": {
+              "id": 1169682,
+              "link": "https://www.deezer.com/track/1169682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/8/0/9e8202a8183e7646f00a7965e9b03f4d.mp3?hdnea=exp=1795654826~acl=/api/1/1/9/e/8/0/9e8202a8183e7646f00a7965e9b03f4d.mp3*~data=user_id=0,application_id=42~hmac=91ce8c9f3b3281a680e80c48e516b923431f42ad749f7c48d553194951ad0921",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "November Rain",
+            "length": "8:58",
+            "deezer": {
+              "id": 1169683,
+              "link": "https://www.deezer.com/track/1169683",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/4/0/c841da8f662caa4e9b9abcd69471ea41.mp3?hdnea=exp=1795654826~acl=/api/1/1/c/8/4/0/c841da8f662caa4e9b9abcd69471ea41.mp3*~data=user_id=0,application_id=42~hmac=a9561c501abc69be9ab0bc29783c469c3ca2ad52bced1963c6b04f162f9b8e11",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Garden",
+            "length": "5:22",
+            "deezer": {
+              "id": 1169684,
+              "link": "https://www.deezer.com/track/1169684",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/3/0/563824d5de2cb73c885889b1dcd4b382.mp3?hdnea=exp=1795654826~acl=/api/1/1/5/6/3/0/563824d5de2cb73c885889b1dcd4b382.mp3*~data=user_id=0,application_id=42~hmac=1c9bde7f5d176a83e90adc5a90ec9632d4fba2654de02a6e4837f8c38f5c8a99",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Garden of Eden",
+            "length": "2:42",
+            "deezer": {
+              "id": 1169685,
+              "link": "https://www.deezer.com/track/1169685",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/2/0/e122340d553e0a3ae9934204b8fe6ce5.mp3?hdnea=exp=1795654826~acl=/api/1/1/e/1/2/0/e122340d553e0a3ae9934204b8fe6ce5.mp3*~data=user_id=0,application_id=42~hmac=01e8f7df9ddb478b5435b69e789f77352afdaa8331873741f44fb5074ec37395",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Don’t Damn Me",
+            "length": "5:19",
+            "deezer": {
+              "id": 1169686,
+              "link": "https://www.deezer.com/track/1169686",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/0/0/6a003e2e5439e7e473c84ea5f81aef55.mp3?hdnea=exp=1795654826~acl=/api/1/1/6/a/0/0/6a003e2e5439e7e473c84ea5f81aef55.mp3*~data=user_id=0,application_id=42~hmac=1941525b2057be11276777043c004561720f882394544dba5da57fa020cfb89a",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Bad Apples",
+            "length": "4:28",
+            "deezer": {
+              "id": 1169687,
+              "link": "https://www.deezer.com/track/1169687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/b/0/02b44b7f059c096d124129f662779186.mp3?hdnea=exp=1795654826~acl=/api/1/1/0/2/b/0/02b44b7f059c096d124129f662779186.mp3*~data=user_id=0,application_id=42~hmac=ed91a3e38e8a029d77738534b3df1efd27205f5497701ee683d195806bd3d335",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Dead Horse",
+            "length": "4:18",
+            "deezer": {
+              "id": 1169688,
+              "link": "https://www.deezer.com/track/1169688",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/1/0/e71e34b79950e33f3b231469d11b859f.mp3?hdnea=exp=1795654826~acl=/api/1/1/e/7/1/0/e71e34b79950e33f3b231469d11b859f.mp3*~data=user_id=0,application_id=42~hmac=a1e43eb00069a0856b2896d866d77447e353bc20fb71638df4ba4b0f2833006e",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Coma",
+            "length": "10:16",
+            "deezer": {
+              "id": 1169689,
+              "link": "https://www.deezer.com/track/1169689",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/e/0/d8e3ebfa7f531525a250972b065e58af.mp3?hdnea=exp=1795654826~acl=/api/1/1/d/8/e/0/d8e3ebfa7f531525a250972b065e58af.mp3*~data=user_id=0,application_id=42~hmac=4603188b802e6691ae97d8f77512864d265b570c4fd7ff1d50e6d34c2b34231f",
+              "preview_expires": "2026-11-26T01:00:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Guns N' Roses/Use Your Illusion I.jpg"
+}

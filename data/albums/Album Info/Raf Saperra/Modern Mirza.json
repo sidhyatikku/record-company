@@ -1,0 +1,51 @@
+{
+  "title": "Modern Mirza",
+  "artist": "Raf Saperra",
+  "year": 2022,
+  "release_date": "2022-12-02",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/af39ff91-0a5b-495d-9bef-f11fa9d5ee5b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/380227917"
+  },
+  "musicbrainz_id": "af39ff91-0a5b-495d-9bef-f11fa9d5ee5b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/360a72ff-b566-4d84-8b2f-434311973421",
+      "barcode": "5059552465787",
+      "title": "Modern Mirza",
+      "disambiguation": null,
+      "date": "2022-12-02",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Modern Mirza",
+            "length": "3:33",
+            "deezer": {
+              "id": 2036131517,
+              "link": "https://www.deezer.com/track/2036131517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/2/0/362276057cd9638452c1bb36ed961b19.mp3?hdnea=exp=1795719905~acl=/api/1/1/3/6/2/0/362276057cd9638452c1bb36ed961b19.mp3*~data=user_id=0,application_id=42~hmac=fbb1588bce67fa6a8b6ff3b3d08d8f231a464a832ab86336ac58c47c697ab2cb",
+              "preview_expires": "2026-11-26T19:05:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Raf Saperra/Modern Mirza.jpg"
+}

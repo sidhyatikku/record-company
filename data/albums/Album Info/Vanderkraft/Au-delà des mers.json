@@ -1,0 +1,79 @@
+{
+  "title": "Au-delà des Mers",
+  "artist": "Vanderkraft",
+  "year": 2017,
+  "release_date": "2017",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "electronic",
+    "house"
+  ],
+  "tags": [
+    "electronic",
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0fd4363d-3306-4900-abb4-3a2a1c651772",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/217381522"
+  },
+  "musicbrainz_id": "0fd4363d-3306-4900-abb4-3a2a1c651772",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9c429754-8814-4253-a933-d7a01e2125e8",
+      "barcode": "3663729051783",
+      "title": "Au‐delà des Mers",
+      "disambiguation": null,
+      "date": "2018-03-16",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "17:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ce bon vieux Jean Lassalle",
+            "length": "6:23",
+            "deezer": {
+              "id": 1285678312,
+              "link": "https://www.deezer.com/track/1285678312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/d/0/b6de43f711b4ccff6dbf77f19c9e0a2a.mp3?hdnea=exp=1795722184~acl=/api/1/1/b/6/d/0/b6de43f711b4ccff6dbf77f19c9e0a2a.mp3*~data=user_id=0,application_id=42~hmac=5bccd6b3bd73091325b77775e1d8cd0e10426ad212877503b4de959a1f528c15",
+              "preview_expires": "2026-11-26T19:43:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "La romance",
+            "length": "5:27",
+            "deezer": {
+              "id": 1285678322,
+              "link": "https://www.deezer.com/track/1285678322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/6/0/fa6e90bd89beb20ba116475c26779a44.mp3?hdnea=exp=1795722184~acl=/api/1/1/f/a/6/0/fa6e90bd89beb20ba116475c26779a44.mp3*~data=user_id=0,application_id=42~hmac=1f32ce85bffe4b18c3acf478a08e85c5b7975f5a83f88c7d05577651ff89b478",
+              "preview_expires": "2026-11-26T19:43:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kimono doux",
+            "length": "5:30",
+            "deezer": {
+              "id": 1285678332,
+              "link": "https://www.deezer.com/track/1285678332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/d/0/26df57063eda5c7936086ea1ab395722.mp3?hdnea=exp=1795722184~acl=/api/1/1/2/6/d/0/26df57063eda5c7936086ea1ab395722.mp3*~data=user_id=0,application_id=42~hmac=361a54306ee41380af85c7ceed828cbb3e09a7c8331c55ece01f2482e9b212f9",
+              "preview_expires": "2026-11-26T19:43:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Vanderkraft/Au-delà des mers.jpg"
+}

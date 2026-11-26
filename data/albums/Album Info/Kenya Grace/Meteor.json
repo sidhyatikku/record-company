@@ -1,0 +1,51 @@
+{
+  "title": "Meteor",
+  "artist": "Kenya Grace",
+  "year": 2023,
+  "release_date": "2023-05-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bf6e5f77-9883-41e5-a5a0-9494275a5efa",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/672481721"
+  },
+  "musicbrainz_id": "bf6e5f77-9883-41e5-a5a0-9494275a5efa",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6990b79a-37a7-4539-9c5c-11e6020ea52a",
+      "barcode": "197338740026",
+      "title": "Meteor",
+      "disambiguation": null,
+      "date": "2023-05-17",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Meteor",
+            "length": "2:51",
+            "deezer": {
+              "id": 3100316411,
+              "link": "https://www.deezer.com/track/3100316411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/f/0/75ffcb28e4fbc63d9acccbcd9619f867.mp3?hdnea=exp=1795656129~acl=/api/1/1/7/5/f/0/75ffcb28e4fbc63d9acccbcd9619f867.mp3*~data=user_id=0,application_id=42~hmac=a5d5f3e682456d793a5ffc10576ab0941485d8dd606dd5b810ae44833219d03a",
+              "preview_expires": "2026-11-26T01:22:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kenya Grace/Meteor.png"
+}

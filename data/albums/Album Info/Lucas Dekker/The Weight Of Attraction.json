@@ -1,0 +1,49 @@
+{
+  "title": "The Weight Of Attraction",
+  "artist": "Lucas Dekker",
+  "year": 2024,
+  "release_date": "2024-07-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5lu3vO2NxRakTkGPWWqDnA",
+    "deezer": "https://www.deezer.com/album/1015652141"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5lu3vO2NxRakTkGPWWqDnA",
+      "title": "The Weight Of Attraction",
+      "date": "2024-07-19"
+    },
+    "total_tracks": 1,
+    "total_length": "2:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Weight Of Attraction",
+            "length": "2:23",
+            "deezer": {
+              "id": 4117916951,
+              "link": "https://www.deezer.com/track/4117916951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/4/0/824b16379aae5751b6ba6bde4474b2a5.mp3?hdnea=exp=1795656700~acl=/api/1/1/8/2/4/0/824b16379aae5751b6ba6bde4474b2a5.mp3*~data=user_id=0,application_id=42~hmac=bb0709d4be14a79b7a18d2c82148e9aaf2e5879a3710c0d1431eea1d1bbb2872",
+              "preview_expires": "2026-11-26T01:31:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Lucas Dekker/The Weight Of Attraction.jpg"
+}

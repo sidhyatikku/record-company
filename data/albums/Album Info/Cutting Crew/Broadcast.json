@@ -1,0 +1,170 @@
+{
+  "title": "Broadcast",
+  "artist": "Cutting Crew",
+  "year": 1986,
+  "release_date": "1986",
+  "type": "Album",
+  "description": "Broadcast is the debut studio album by the English rock band Cutting Crew. It was first released in the United Kingdom in November 1986, and was later released more widely, including in the United States, Canada and Japan in March 1987 with different packaging and four remixed tracks, all of which were released as singles. It was the first album to be released in the US by Virgin Records' new American imprint, Virgin Records America.",
+  "genres": [
+    "rock",
+    "pop",
+    "pop rock",
+    "electronic",
+    "new wave"
+  ],
+  "tags": [
+    "rock",
+    "pop",
+    "pop rock",
+    "aor classic rock",
+    "electronic",
+    "new wave"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fc218e4c-8cee-36d7-b8ee-595879839b24",
+    "wikipedia": "https://en.wikipedia.org/wiki/Broadcast_(Cutting_Crew_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000189574",
+    "discogs": "https://www.discogs.com/master/65301",
+    "wikidata": "https://www.wikidata.org/wiki/Q955758",
+    "deezer": "https://www.deezer.com/album/303129"
+  },
+  "musicbrainz_id": "fc218e4c-8cee-36d7-b8ee-595879839b24",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/12692d52-6390-482f-a808-030d3bf8bf90",
+      "barcode": "00077778600251",
+      "title": "Broadcast",
+      "disambiguation": "iTunes/Deezer/Spotify",
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "48:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Any Colour",
+            "length": "4:43",
+            "deezer": {
+              "id": 3152704,
+              "link": "https://www.deezer.com/track/3152704",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/0/0/b7021b13638cca6460769c2ada097063.mp3?hdnea=exp=1795653007~acl=/api/1/1/b/7/0/0/b7021b13638cca6460769c2ada097063.mp3*~data=user_id=0,application_id=42~hmac=0d5b74990b53adad83fe280d19c92ec199df22c04c4e02834a45588969e9390d",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "One for the Mockingbird",
+            "length": "4:31",
+            "deezer": {
+              "id": 3152705,
+              "link": "https://www.deezer.com/track/3152705",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/1/0/aa108f7316129bbb49a264a56e5f522f.mp3?hdnea=exp=1795653007~acl=/api/1/1/a/a/1/0/aa108f7316129bbb49a264a56e5f522f.mp3*~data=user_id=0,application_id=42~hmac=511e0bef7011c6d493e632db5a759712eb371a4730c11bca8e10f3ba4668644e",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I’ve Been in Love Before",
+            "length": "5:08",
+            "deezer": {
+              "id": 3152706,
+              "link": "https://www.deezer.com/track/3152706",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/9/0/db9ee5505051e13da18bbb4f77e7b4d4.mp3?hdnea=exp=1795653007~acl=/api/1/1/d/b/9/0/db9ee5505051e13da18bbb4f77e7b4d4.mp3*~data=user_id=0,application_id=42~hmac=927ef88212fc1774a78163efc60f05cc2b9f6731e8d6b7fc819c674e90dcdd8f",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Life in a Dangerous Time",
+            "length": "4:33",
+            "deezer": {
+              "id": 3152707,
+              "link": "https://www.deezer.com/track/3152707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/0/0/1b0e325a5ecbd8f738d27585af9c56d5.mp3?hdnea=exp=1795653007~acl=/api/1/1/1/b/0/0/1b0e325a5ecbd8f738d27585af9c56d5.mp3*~data=user_id=0,application_id=42~hmac=aafba205d3c71d041ccc166d0a7aeea96684987f577cd7f24a5ee8bc97232468",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Fear of Falling",
+            "length": "4:53",
+            "deezer": {
+              "id": 3152708,
+              "link": "https://www.deezer.com/track/3152708",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/4/0/17475b0b25aa92b29e47853711a7268e.mp3?hdnea=exp=1795653007~acl=/api/1/1/1/7/4/0/17475b0b25aa92b29e47853711a7268e.mp3*~data=user_id=0,application_id=42~hmac=65f5d1b55e9a87ae669ad8f537dfb960a6aaf286897316b1d742c8465214fedf",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "(I Just) Died in Your Arms",
+            "length": "4:40",
+            "deezer": {
+              "id": 3152709,
+              "link": "https://www.deezer.com/track/3152709",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/a/0/dca875c0aff4520e0d12719504174be9.mp3?hdnea=exp=1795653007~acl=/api/1/1/d/c/a/0/dca875c0aff4520e0d12719504174be9.mp3*~data=user_id=0,application_id=42~hmac=cf185dd32eca606eb0834c192fecd39514075389d63453dcff556fa7f38b8405",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Don’t Look Back",
+            "length": "4:09",
+            "deezer": {
+              "id": 3152710,
+              "link": "https://www.deezer.com/track/3152710",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/f/0/4ff4b04577d98105781fe2ff5d886ee7.mp3?hdnea=exp=1795653007~acl=/api/1/1/4/f/f/0/4ff4b04577d98105781fe2ff5d886ee7.mp3*~data=user_id=0,application_id=42~hmac=693a6192cacea77be9f3ac02d24be6a55007e20f7ef3ee68481d3fc0364aa0a0",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sahara",
+            "length": "4:53",
+            "deezer": {
+              "id": 3152711,
+              "link": "https://www.deezer.com/track/3152711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/4/0/7948d244d4df7b7390094c9c806122b3.mp3?hdnea=exp=1795653007~acl=/api/1/1/7/9/4/0/7948d244d4df7b7390094c9c806122b3.mp3*~data=user_id=0,application_id=42~hmac=3aa26080e75f62adc5545d249e2c6bcbca513eef3bed917f1ba782e39e493cbb",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It Shouldn’t Take Too Long",
+            "length": "4:06",
+            "deezer": {
+              "id": 3152712,
+              "link": "https://www.deezer.com/track/3152712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/a/0/17ac332037264c1081a33c0d64b9a17b.mp3?hdnea=exp=1795653007~acl=/api/1/1/1/7/a/0/17ac332037264c1081a33c0d64b9a17b.mp3*~data=user_id=0,application_id=42~hmac=ce6ec49aa48e61bd619da60cdb5bff0b776c3f08ab72234063df54ba258ac5ce",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Broadcast",
+            "length": "6:40",
+            "deezer": {
+              "id": 3152713,
+              "link": "https://www.deezer.com/track/3152713",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/e/0/14e2dddc4c659669e228566ba22388b7.mp3?hdnea=exp=1795653007~acl=/api/1/1/1/4/e/0/14e2dddc4c659669e228566ba22388b7.mp3*~data=user_id=0,application_id=42~hmac=f56c8c929a6319a357402a9b11c23a538792e83103b56020086da98ec8755079",
+              "preview_expires": "2026-11-26T00:30:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Cutting Crew/Broadcast.jpg"
+}

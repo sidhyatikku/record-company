@@ -1,0 +1,316 @@
+{
+  "title": "’60s Gold",
+  "artist": "Various Artists",
+  "year": 2006,
+  "release_date": "2006-09-22",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "rock"
+  ],
+  "tags": [
+    "funk / soul",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c906ea18-6c21-4925-b9b5-113d82c0d62e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/338296087"
+  },
+  "musicbrainz_id": "c906ea18-6c21-4925-b9b5-113d82c0d62e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ab608417-d420-4ac6-8ef2-cc180fb7845f",
+      "barcode": "602498384244",
+      "title": "’60s Gold",
+      "disambiguation": null,
+      "date": "2006-09-22",
+      "country": "XE"
+    },
+    "total_tracks": 40,
+    "total_length": "1:53:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shop Around",
+            "length": "2:49",
+            "artist": "The Miracles"
+          },
+          {
+            "number": "2",
+            "title": "Please Mr. Postman",
+            "length": "2:30",
+            "artist": "The Marvelettes"
+          },
+          {
+            "number": "3",
+            "title": "Hey Baby",
+            "length": "2:24",
+            "artist": "Bruce Channel"
+          },
+          {
+            "number": "4",
+            "title": "Sealed With a Kiss",
+            "length": "2:41",
+            "artist": "Brian Hyland"
+          },
+          {
+            "number": "5",
+            "title": "It's My Party",
+            "length": "2:22",
+            "artist": "Lesley Gore"
+          },
+          {
+            "number": "6",
+            "title": "My Boyfriend's Back",
+            "length": "2:10",
+            "artist": "The Angels"
+          },
+          {
+            "number": "7",
+            "title": "Dancing in the Street",
+            "length": "2:39",
+            "artist": "Martha and the Vandellas"
+          },
+          {
+            "number": "8",
+            "title": "Leader of the Pack",
+            "length": "2:53",
+            "artist": "The Shangri‐Las"
+          },
+          {
+            "number": "9",
+            "title": "Baby Love",
+            "length": "2:37",
+            "artist": "Diana Ross & The Supremes",
+            "deezer": {
+              "id": 1834449897,
+              "link": "https://www.deezer.com/track/1834449897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/6/0/ec6cdae2abb3e4b2bea5fd578623b8cf.mp3?hdnea=exp=1795722196~acl=/api/1/1/e/c/6/0/ec6cdae2abb3e4b2bea5fd578623b8cf.mp3*~data=user_id=0,application_id=42~hmac=8dc2508fff04253de51af0ab06341d1ee85038fa9b1a9dcbebde4c37ad6c8c57",
+              "preview_expires": "2026-11-26T19:43:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "You've Lost That Lovin' Feelin'",
+            "length": "3:46",
+            "artist": "The Righteous Brothers"
+          },
+          {
+            "number": "11",
+            "title": "Game of Love",
+            "length": "2:08",
+            "artist": "Wayne Fontana & The Mindbenders",
+            "deezer": {
+              "id": 1834449927,
+              "link": "https://www.deezer.com/track/1834449927",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/b/0/6bb7f3d1100ee2a8cf0721fc8f91b98d.mp3?hdnea=exp=1795722196~acl=/api/1/1/6/b/b/0/6bb7f3d1100ee2a8cf0721fc8f91b98d.mp3*~data=user_id=0,application_id=42~hmac=11ba39ba5b3aac536eab95b49f026cb280174523e8e301e23bcbbba31fc47b41",
+              "preview_expires": "2026-11-26T19:43:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Wooly Bully",
+            "length": "2:22",
+            "artist": "Sam the Sham & the Pharaohs"
+          },
+          {
+            "number": "13",
+            "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+            "length": "2:46",
+            "artist": "Four Tops"
+          },
+          {
+            "number": "14",
+            "title": "Eve of Destruction",
+            "length": "3:35",
+            "artist": "Barry McGuire"
+          },
+          {
+            "number": "15",
+            "title": "Rescue Me",
+            "length": "2:53",
+            "artist": "Fontella Bass"
+          },
+          {
+            "number": "16",
+            "title": "1-2-3",
+            "length": "2:27",
+            "artist": "Len Barry"
+          },
+          {
+            "number": "17",
+            "title": "I Got You (I Feel Good)",
+            "length": "2:48",
+            "artist": "James Brown"
+          },
+          {
+            "number": "18",
+            "title": "Lightnin' Strikes",
+            "length": "3:01",
+            "artist": "Lou Christie"
+          },
+          {
+            "number": "19",
+            "title": "California Dreamin'",
+            "length": "2:41",
+            "artist": "The Mamas & the Papas"
+          },
+          {
+            "number": "20",
+            "title": "Sunny",
+            "length": "2:43",
+            "artist": "Bobby Hebb"
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wild Thing",
+            "length": "2:37",
+            "artist": "The Troggs"
+          },
+          {
+            "number": "2",
+            "title": "(We Ain't Got) Nothin' Yet",
+            "length": "2:17",
+            "artist": "The Blues Magoos"
+          },
+          {
+            "number": "3",
+            "title": "98.6",
+            "length": "3:04",
+            "artist": "Keith"
+          },
+          {
+            "number": "4",
+            "title": "Come on Down to My Boat",
+            "length": "2:37",
+            "artist": "Every Mother’s Son"
+          },
+          {
+            "number": "5",
+            "title": "Sunday Will Never Be the Same",
+            "length": "3:03",
+            "artist": "Spanky & Our Gang"
+          },
+          {
+            "number": "6",
+            "title": "Let's Live for Today",
+            "length": "2:48",
+            "artist": "The Grass Roots"
+          },
+          {
+            "number": "7",
+            "title": "A Whiter Shade of Pale",
+            "length": "4:05",
+            "artist": "Procol Harum"
+          },
+          {
+            "number": "8",
+            "title": "Reflections",
+            "length": "2:52",
+            "artist": "Diana Ross & The Supremes",
+            "deezer": {
+              "id": 1834450047,
+              "link": "https://www.deezer.com/track/1834450047",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/e/0/b3e8cf3cb815d1f5e490540b7493432e.mp3?hdnea=exp=1795722196~acl=/api/1/1/b/3/e/0/b3e8cf3cb815d1f5e490540b7493432e.mp3*~data=user_id=0,application_id=42~hmac=0c8313c2a70c5dc3642885afad217c3e13dd8c564ff104a7c79519e5d3ae8143",
+              "preview_expires": "2026-11-26T19:43:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Incense and Peppermints",
+            "length": "2:49",
+            "artist": "Strawberry Alarm Clock"
+          },
+          {
+            "number": "10",
+            "title": "The Rain, the Park and Other Things",
+            "length": "3:01",
+            "artist": "The Cowsills"
+          },
+          {
+            "number": "11",
+            "title": "Let It Out (Let It All Hang Out)",
+            "length": "2:06",
+            "artist": "The Hombres"
+          },
+          {
+            "number": "12",
+            "title": "Bend Me, Shape Me",
+            "length": "2:13",
+            "artist": "The American Breed"
+          },
+          {
+            "number": "13",
+            "title": "Love Is Blue",
+            "length": "2:34",
+            "artist": "Paul Mauriat"
+          },
+          {
+            "number": "14",
+            "title": "Summertime Blues",
+            "length": "3:47",
+            "artist": "Blue Cheer"
+          },
+          {
+            "number": "15",
+            "title": "Grazing in the Grass",
+            "length": "2:39",
+            "artist": "Hugh Masekela"
+          },
+          {
+            "number": "16",
+            "title": "Love Child",
+            "length": "2:57",
+            "artist": "Diana Ross & The Supremes",
+            "deezer": {
+              "id": 1834450097,
+              "link": "https://www.deezer.com/track/1834450097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/6/0/9d69723f05e8f1560d322f4f14865b28.mp3?hdnea=exp=1795722196~acl=/api/1/1/9/d/6/0/9d69723f05e8f1560d322f4f14865b28.mp3*~data=user_id=0,application_id=42~hmac=f225cfe31ebc193595d5bbc538f17f24864312973d9f5b7af777afed0b2a2bab",
+              "preview_expires": "2026-11-26T19:43:16Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "I Heard It Through the Grapevine",
+            "length": "3:15",
+            "artist": "Marvin Gaye"
+          },
+          {
+            "number": "18",
+            "title": "Only the Strong Survive",
+            "length": "2:37",
+            "artist": "Jerry Butler"
+          },
+          {
+            "number": "19",
+            "title": "Rock Me",
+            "length": "3:39",
+            "artist": "Steppenwolf"
+          },
+          {
+            "number": "20",
+            "title": "Na Na Hey Hey Kiss Him Goodbye",
+            "length": "4:09",
+            "artist": "Steam"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/60's Gold.jpg"
+}

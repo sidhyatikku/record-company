@@ -1,0 +1,84 @@
+{
+  "title": "The Final Countdown",
+  "artist": "Europe",
+  "year": 1986,
+  "release_date": "1986-05-26",
+  "type": "Album",
+  "description": "The Final Countdown is the third studio album by the Swedish rock band Europe. Released on 26 May 1986 through Epic Records, the album was a commercial success, peaking at number 8 on the U.S. Billboard 200 chart and reaching high positions in charts worldwide. It was recorded at Powerplay Studios in Zürich, Soundtrade Studios in Stockholm, Mastersound Studios in Atlanta and Fantasy Studios in Berkeley. The Final Countdown is the first album to feature keyboardist Mic Michaeli and drummer Ian Haugland and the last to feature guitarist John Norum until 2004's Start from the Dark.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "heavy metal",
+    "soft rock",
+    "aor",
+    "arena rock",
+    "glam metal",
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "heavy metal",
+    "soft rock",
+    "80s",
+    "aor",
+    "arena rock",
+    "glam metal",
+    "hair metal",
+    "pop",
+    "pop rock",
+    "rock ballad",
+    "rock ballads",
+    "world"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/da4f2d37-3eb9-3d62-800d-88d345551ec9",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Final_Countdown_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000189939",
+    "discogs": "https://www.discogs.com/master/61559",
+    "wikidata": "https://www.wikidata.org/wiki/Q198713",
+    "deezer": "https://www.deezer.com/album/97615"
+  },
+  "musicbrainz_id": "da4f2d37-3eb9-3d62-800d-88d345551ec9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1994938d-e95c-4b7d-8a2a-6010a63eeaff",
+      "barcode": null,
+      "title": "The Final Countdown",
+      "disambiguation": null,
+      "date": "2011-12-31",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Final Countdown (Beats Antique REMIX - NYE 2011)",
+            "length": null,
+            "artist": "Europe (Remix by Beats Antique)",
+            "deezer": {
+              "id": 858371,
+              "link": "https://www.deezer.com/track/858371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/0/0/040685eaaa8099482ac9079bbd08a318.mp3?hdnea=exp=1795654110~acl=/api/1/1/0/4/0/0/040685eaaa8099482ac9079bbd08a318.mp3*~data=user_id=0,application_id=42~hmac=da160d4aaef3afc2d132f9fd91afd093da71315144d16a4bf7cd571c7f934394",
+              "preview_expires": "2026-11-26T00:48:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Europe/The Final Countdown.png"
+}

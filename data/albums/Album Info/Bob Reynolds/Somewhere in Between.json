@@ -1,0 +1,106 @@
+{
+  "title": "Somewhere in Between",
+  "artist": "Bob Reynolds",
+  "year": 2013,
+  "release_date": "2013-08-06",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "contemporary jazz",
+    "jazz",
+    "soul jazz"
+  ],
+  "tags": [
+    "contemporary jazz",
+    "fusion",
+    "jazz",
+    "soul jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1b66499c-cd80-451e-adae-ed4912e4ea0f",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "1b66499c-cd80-451e-adae-ed4912e4ea0f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1569c332-355d-4df1-ab15-9b4632f5b619",
+      "barcode": null,
+      "title": "Somewhere in Between",
+      "disambiguation": null,
+      "date": "2013-08-06",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "59:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Creep",
+            "length": "5:24"
+          },
+          {
+            "number": "2",
+            "title": "Feedback",
+            "length": "5:31",
+            "artist": "Bob Reynolds feat. John Mayer"
+          },
+          {
+            "number": "3",
+            "title": "The Beginning",
+            "length": "5:25",
+            "artist": "Bob Reynolds feat. John Mayer"
+          },
+          {
+            "number": "4",
+            "title": "Holocene",
+            "length": "4:16"
+          },
+          {
+            "number": "5",
+            "title": "What She Didn't Say",
+            "length": "5:18"
+          },
+          {
+            "number": "6",
+            "title": "Rise and Fall",
+            "length": "7:01"
+          },
+          {
+            "number": "7",
+            "title": "A Love Story (In Three Cities)",
+            "length": "4:51"
+          },
+          {
+            "number": "8",
+            "title": "Everlong",
+            "length": "4:53"
+          },
+          {
+            "number": "9",
+            "title": "Phalanx",
+            "length": "5:56"
+          },
+          {
+            "number": "10",
+            "title": "Closer",
+            "length": "5:31"
+          },
+          {
+            "number": "11",
+            "title": "622",
+            "length": "5:19"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bob Reynolds/Somewhere in Between.jpg"
+}

@@ -1,0 +1,645 @@
+{
+  "title": "The 50 Greatest Pieces of Classical Music",
+  "artist": "London Philharmonic Orchestra",
+  "year": 2009,
+  "release_date": "2009-11-23",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "classical",
+    "baroque",
+    "modern classical",
+    "romantic classical"
+  ],
+  "tags": [
+    "classical",
+    "baroque",
+    "modern",
+    "modern classical",
+    "romantic classical"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ee8282bb-624a-4dcc-b59e-02cc30fa1f28",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001987351",
+    "discogs": "https://www.discogs.com/master/1111478",
+    "deezer": "https://www.deezer.com/album/491226"
+  },
+  "musicbrainz_id": "ee8282bb-624a-4dcc-b59e-02cc30fa1f28",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e863bf26-97d8-426c-9511-243993429f37",
+      "barcode": "7340027075005",
+      "title": "The 50 Greatest Pieces of Classical Music",
+      "disambiguation": null,
+      "date": "2009-11-23",
+      "country": "XW"
+    },
+    "total_tracks": 50,
+    "total_length": "4:23:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Peer Gynt Suite no. 1, op. 46: I. Morning Mood",
+            "length": "3:45",
+            "artist": "Edvard Grieg",
+            "deezer": {
+              "id": 5360596,
+              "link": "https://www.deezer.com/track/5360596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/a/0/e8a6fc19daf562a39d385d6b40c4271e.mp3?hdnea=exp=1795724102~acl=/api/1/1/e/8/a/0/e8a6fc19daf562a39d385d6b40c4271e.mp3*~data=user_id=0,application_id=42~hmac=012adbae4118e1e65d7c0f9b0daf16acb0ab6d90d1beadf7c51ffdc3e71bf280",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Symphony no. 5 in C minor, op. 67 \"Fate\": I. Allegro con brio",
+            "length": "7:28",
+            "artist": "Ludwig van Beethoven",
+            "deezer": {
+              "id": 5360597,
+              "link": "https://www.deezer.com/track/5360597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/e/0/c0e44d361ac5aa6799fd5f508d10d5ed.mp3?hdnea=exp=1795724102~acl=/api/1/1/c/0/e/0/c0e44d361ac5aa6799fd5f508d10d5ed.mp3*~data=user_id=0,application_id=42~hmac=f693de6db3dc9f989d868bf4e6e1357135352ed3ce5c349bce8f3f3fc171e9fe",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Four Seasons, op. 8 \"Spring\": I. Allegro",
+            "length": "3:13",
+            "artist": "Antonio Vivaldi",
+            "deezer": {
+              "id": 5360598,
+              "link": "https://www.deezer.com/track/5360598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/9/0/f49c7ee0cfa3a5128c9b1effc1c649d9.mp3?hdnea=exp=1795724102~acl=/api/1/1/f/4/9/0/f49c7ee0cfa3a5128c9b1effc1c649d9.mp3*~data=user_id=0,application_id=42~hmac=4d098d82cea0e74b9a0dd6e28fc55a8c4b8481133f4d0dd27dc8f3eeba8ab2da",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Adagio for Strings",
+            "length": "8:23",
+            "artist": "Samuel Barber",
+            "deezer": {
+              "id": 5360599,
+              "link": "https://www.deezer.com/track/5360599",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/e/0/feef7fccb13820038c2d9d44a2b5985a.mp3?hdnea=exp=1795724102~acl=/api/1/1/f/e/e/0/feef7fccb13820038c2d9d44a2b5985a.mp3*~data=user_id=0,application_id=42~hmac=fba4b44f9b89b9f6d8f53f1d10d6812744ab3e3527ebe260627bf9bd0ec8da8d",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Valkyrie: Ride of the Valkyries",
+            "length": "5:11",
+            "artist": "Richard Wagner",
+            "deezer": {
+              "id": 5360600,
+              "link": "https://www.deezer.com/track/5360600",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/8/0/808dd217a022c6ca187e70ca41083ab1.mp3?hdnea=exp=1795724102~acl=/api/1/1/8/0/8/0/808dd217a022c6ca187e70ca41083ab1.mp3*~data=user_id=0,application_id=42~hmac=3b22cecf1d31b39797fd70b5017c43c7f5b01e5216542409ac75af7e606c5a79",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Nocturne no. 2 in E-flat major, op. 9 no. 2",
+            "length": "4:53",
+            "artist": "Frédéric Chopin",
+            "deezer": {
+              "id": 5360601,
+              "link": "https://www.deezer.com/track/5360601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/9/0/7b9f239de886f0bf11356985a39ae0ec.mp3?hdnea=exp=1795724102~acl=/api/1/1/7/b/9/0/7b9f239de886f0bf11356985a39ae0ec.mp3*~data=user_id=0,application_id=42~hmac=28b2f08c3a829ec7080b582a8b68b4997714e76f735608a4d4118f6fe4cf3fec",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Canon in D major",
+            "length": "3:30",
+            "artist": "Johann Pachelbel",
+            "deezer": {
+              "id": 5360602,
+              "link": "https://www.deezer.com/track/5360602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/4/0/fa4f5a0758e183b79a623e2e0876bb2d.mp3?hdnea=exp=1795724102~acl=/api/1/1/f/a/4/0/fa4f5a0758e183b79a623e2e0876bb2d.mp3*~data=user_id=0,application_id=42~hmac=fb12e4770e8fb66483ace7d913f6de1657b7593bcbe824545cf64710293ffd80",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Carmina Burana: O Fortuna",
+            "length": "2:43",
+            "artist": "Carl Orff",
+            "deezer": {
+              "id": 5360603,
+              "link": "https://www.deezer.com/track/5360603",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/a/0/05afe61cc2b63d8a4f5d0e2f72e24cf9.mp3?hdnea=exp=1795724102~acl=/api/1/1/0/5/a/0/05afe61cc2b63d8a4f5d0e2f72e24cf9.mp3*~data=user_id=0,application_id=42~hmac=ba3a120453797ab0f0b916a394d886e6c3e67e07e62decb22df91964e3ae5ff1",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Orchestral Suite no. 3 in D major, BWV 1068: II. Air",
+            "length": "4:14",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 5360604,
+              "link": "https://www.deezer.com/track/5360604",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/c/0/a8c98ca4b4947a24b7900bb17a032d3d.mp3?hdnea=exp=1795724102~acl=/api/1/1/a/8/c/0/a8c98ca4b4947a24b7900bb17a032d3d.mp3*~data=user_id=0,application_id=42~hmac=7d04df34f134646812ccdbf01c83d717020547a2d4f930fefda80c4eefa3c7ed",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Planets, op. 32: IV. Jupiter, the Bringer of Jollity",
+            "length": "7:46",
+            "artist": "Gustav Holst",
+            "deezer": {
+              "id": 5360605,
+              "link": "https://www.deezer.com/track/5360605",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/f/0/7ffb3f725fab0987bc7806aae698acad.mp3?hdnea=exp=1795724102~acl=/api/1/1/7/f/f/0/7ffb3f725fab0987bc7806aae698acad.mp3*~data=user_id=0,application_id=42~hmac=8d04788b8818bd611fbf0db2ad5a330f3c754c51dc37c1f7a49e6b40ca6211b5",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Suite Bergamasque, L 75: III. Clair de lune",
+            "length": "5:14",
+            "artist": "Claude Debussy",
+            "deezer": {
+              "id": 5360606,
+              "link": "https://www.deezer.com/track/5360606",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/3/0/ff3310dccb1bd2a133d88c2add5badd7.mp3?hdnea=exp=1795724102~acl=/api/1/1/f/f/3/0/ff3310dccb1bd2a133d88c2add5badd7.mp3*~data=user_id=0,application_id=42~hmac=9965c12da0c5289499d842c2c093569756905db90ab69f49d8e62cb886440bb5",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Nabucco: Chorus of the Hebrew Slaves (Va', pensiero, sull'ali dorate)",
+            "length": "4:59",
+            "artist": "Giuseppe Verdi",
+            "deezer": {
+              "id": 5360607,
+              "link": "https://www.deezer.com/track/5360607",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/a/0/7ca140b79e207f3ea8ca337856614b26.mp3?hdnea=exp=1795724102~acl=/api/1/1/7/c/a/0/7ca140b79e207f3ea8ca337856614b26.mp3*~data=user_id=0,application_id=42~hmac=45149c6164b2e16f6fedc6f3bfbd979b01784d19d950aa37439f4fbd20b4a2c1",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Piano Concerto no. 21 in C major, K. 467: II. Andante",
+            "length": "7:18",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 5360608,
+              "link": "https://www.deezer.com/track/5360608",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/a/0/dda45575679e14f406cb42d09a397973.mp3?hdnea=exp=1795724102~acl=/api/1/1/d/d/a/0/dda45575679e14f406cb42d09a397973.mp3*~data=user_id=0,application_id=42~hmac=768602d72b9981737686a05e4a1eeca1bc5c0d9d5d103048e93daf3d6ffc3934",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Brandenburg Concerto no. 3 in G major, BWV 1048: I. Allegro",
+            "length": "5:45",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 5360609,
+              "link": "https://www.deezer.com/track/5360609",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/6/0/9267f8722934e31f9047f445838b1715.mp3?hdnea=exp=1795724102~acl=/api/1/1/9/2/6/0/9267f8722934e31f9047f445838b1715.mp3*~data=user_id=0,application_id=42~hmac=d8fe44067187bb126577dc46d963de6d4714b706472e8c3d50d05d85c224b4a8",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Thaïs: Meditation",
+            "length": "5:01",
+            "artist": "Jules Massenet",
+            "deezer": {
+              "id": 5360610,
+              "link": "https://www.deezer.com/track/5360610",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d71899ae43e8a539943fecd23127a504.mp3?hdnea=exp=1795724102~acl=/api/1/1/d/7/1/0/d71899ae43e8a539943fecd23127a504.mp3*~data=user_id=0,application_id=42~hmac=8ad302b47715db252dc8a86bdfd9376e14ba7af7ef75dba9a8332535de348bb6",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Symphony no. 9 in E minor, op. 95 \"From the New World\": II. Largo",
+            "length": "12:50",
+            "artist": "Antonín Dvořák",
+            "deezer": {
+              "id": 5360611,
+              "link": "https://www.deezer.com/track/5360611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/b/0/d9bb5c30412c77e61aaeb95b5a67571d.mp3?hdnea=exp=1795724102~acl=/api/1/1/d/9/b/0/d9bb5c30412c77e61aaeb95b5a67571d.mp3*~data=user_id=0,application_id=42~hmac=aa19dc32e349f8bfa62d25c5cc87c437b3b59d2409c290a4e35e365c38f2fa22",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "On the Beautiful Blue Danube, op. 314",
+            "length": "5:51",
+            "artist": "Johann Strauss II",
+            "deezer": {
+              "id": 5360612,
+              "link": "https://www.deezer.com/track/5360612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/9/0/9d9dc91ed6666c97ff364039c6a5b201.mp3?hdnea=exp=1795724102~acl=/api/1/1/9/d/9/0/9d9dc91ed6666c97ff364039c6a5b201.mp3*~data=user_id=0,application_id=42~hmac=bba7b1b864e76c0db0442186de0dd823a790a5bf180cdbf348583613e0153950",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Hungarian Dance no. 5 in G minor",
+            "length": "2:39",
+            "artist": "Johannes Brahms",
+            "deezer": {
+              "id": 5360613,
+              "link": "https://www.deezer.com/track/5360613",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/b/0/0bbd373e54fbac32e2fad50a369c8308.mp3?hdnea=exp=1795724102~acl=/api/1/1/0/b/b/0/0bbd373e54fbac32e2fad50a369c8308.mp3*~data=user_id=0,application_id=42~hmac=107df019a64f65d939f172328014122271c8fb2bd45cd66bdc37f94511ef5bd5",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Swan Lake Suite, op. 20: Scéne",
+            "length": "3:02",
+            "artist": "Пётр Ильич Чайковский",
+            "deezer": {
+              "id": 5360614,
+              "link": "https://www.deezer.com/track/5360614",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/4/0/674f23f4d232fe1c4a91b4b0a1164f24.mp3?hdnea=exp=1795724102~acl=/api/1/1/6/7/4/0/674f23f4d232fe1c4a91b4b0a1164f24.mp3*~data=user_id=0,application_id=42~hmac=bbb15e2042da612151837c5d59977526c2003eceb99c48a195da3cdb3e5f4a62",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Gymnopédie no. 1",
+            "length": "3:41",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 5360615,
+              "link": "https://www.deezer.com/track/5360615",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/d/0/3addef77afd696147fe411d77d068702.mp3?hdnea=exp=1795724102~acl=/api/1/1/3/a/d/0/3addef77afd696147fe411d77d068702.mp3*~data=user_id=0,application_id=42~hmac=4e47c622f24db1abcb989452a60db1f651cf2eef486d33e1094e810a4cd03f3e",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Requiem, K. 626: Part III, VI. Lacrimosa dies illa",
+            "length": "2:50",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 5360616,
+              "link": "https://www.deezer.com/track/5360616",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/0/0/3e07e14dedb5b09762960bcc5bd835d9.mp3?hdnea=exp=1795724102~acl=/api/1/1/3/e/0/0/3e07e14dedb5b09762960bcc5bd835d9.mp3*~data=user_id=0,application_id=42~hmac=016ff56bbe9838826b62e5568acbe570fa43ec452406b628997b3678462ee02a",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Bagatelle in A minor, WoO 59 \"Für Elise\"",
+            "length": "3:16",
+            "artist": "Ludwig van Beethoven",
+            "deezer": {
+              "id": 5360617,
+              "link": "https://www.deezer.com/track/5360617",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/2/0/a422a3aa43a0c8764f8b299a4197de9c.mp3?hdnea=exp=1795724102~acl=/api/1/1/a/4/2/0/a422a3aa43a0c8764f8b299a4197de9c.mp3*~data=user_id=0,application_id=42~hmac=8911961ff945f36d27cf505119616b0d78a5661baeb6319e872a8cc96531ba6f",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "Pomp and Circumstance, op. 39: I. Land of Hope and Glory",
+            "length": "5:46",
+            "artist": "Sir Edward Elgar",
+            "deezer": {
+              "id": 5360618,
+              "link": "https://www.deezer.com/track/5360618",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/6/0/546fe687265da953ed61a640724f71b9.mp3?hdnea=exp=1795724102~acl=/api/1/1/5/4/6/0/546fe687265da953ed61a640724f71b9.mp3*~data=user_id=0,application_id=42~hmac=5969d9a430b7e933d121e5327c6ab4fcbbe45eb876c58a276c88db08d00c5340",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Carmen Suite no. 2: Habanera",
+            "length": "2:13",
+            "artist": "Georges Bizet",
+            "deezer": {
+              "id": 5360619,
+              "link": "https://www.deezer.com/track/5360619",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/1/0/901cb8a256c603c8e2b8a7047ba621e8.mp3?hdnea=exp=1795724102~acl=/api/1/1/9/0/1/0/901cb8a256c603c8e2b8a7047ba621e8.mp3*~data=user_id=0,application_id=42~hmac=d52bf99b404db0042eff7fe4e67a4b7ad781b8775813b857330d8ff1d8c80d12",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "Symphony no. 9 in D minor, op. 125 \"Choral\": Ode an die Freude",
+            "length": "2:33",
+            "artist": "Ludwig van Beethoven",
+            "deezer": {
+              "id": 5360620,
+              "link": "https://www.deezer.com/track/5360620",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/4/0/a348d01b1da133b26062a35789e6b6ac.mp3?hdnea=exp=1795724102~acl=/api/1/1/a/3/4/0/a348d01b1da133b26062a35789e6b6ac.mp3*~data=user_id=0,application_id=42~hmac=5f62412f4615a2fce2cb56c6ae27612af9e4e7e36566330e8ffbf5af856bc39a",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "The Tales of Hoffman: Barcarolle",
+            "length": "3:34",
+            "artist": "Jacques Offenbach"
+          },
+          {
+            "number": "27",
+            "title": "Adagio in G minor for Strings and Organ (after T. Albinoni)",
+            "length": "8:38",
+            "artist": "Remo Giazotto",
+            "deezer": {
+              "id": 5360622,
+              "link": "https://www.deezer.com/track/5360622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/2/0/3c26ee0261f3d8e4d1ed6f8cc8e8b44d.mp3?hdnea=exp=1795724102~acl=/api/1/1/3/c/2/0/3c26ee0261f3d8e4d1ed6f8cc8e8b44d.mp3*~data=user_id=0,application_id=42~hmac=b32a61650b13ef79632fccec3b8b3fabd9c6e755d9bd78284232a070ac842cee",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "Serenade no. 13 in G major, K. 525 \"Eine kleine Nachtmusik\": I. Allegro",
+            "length": "5:51",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 5360623,
+              "link": "https://www.deezer.com/track/5360623",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/1/0/5c10c5ad5cce4e891b8f33cad5be6373.mp3?hdnea=exp=1795724102~acl=/api/1/1/5/c/1/0/5c10c5ad5cce4e891b8f33cad5be6373.mp3*~data=user_id=0,application_id=42~hmac=22684102cfac3d1c0989a6717ea98d2dc8270ed2adca71194240869b1615c06d",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "The Barber of Seville: Overture",
+            "length": "6:59",
+            "artist": "Gioachino Rossini",
+            "deezer": {
+              "id": 5360624,
+              "link": "https://www.deezer.com/track/5360624",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/7/0/ad714eb5c04a39c420fa80d98bec34ca.mp3?hdnea=exp=1795724102~acl=/api/1/1/a/d/7/0/ad714eb5c04a39c420fa80d98bec34ca.mp3*~data=user_id=0,application_id=42~hmac=37cdf0496297ba80d3cd6b99b9ddbbe398bc655eb952ad1013284656637051f3",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "Piano Sonata no. 14 in C-sharp minor, op. 27 no. 2 \"Moonlight Sonata\": I. Adagio sostenuto",
+            "length": "5:37",
+            "artist": "Ludwig van Beethoven",
+            "deezer": {
+              "id": 5360625,
+              "link": "https://www.deezer.com/track/5360625",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/a/0/d0aac36c3b0fc5ababfabd4ac8a71687.mp3?hdnea=exp=1795724102~acl=/api/1/1/d/0/a/0/d0aac36c3b0fc5ababfabd4ac8a71687.mp3*~data=user_id=0,application_id=42~hmac=f2df30ada40a906f68913eb10539327f653d148ae3bd2f9688d0afa856b9b8bc",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "31",
+            "title": "Má Vlast (My Fatherland): Vltava (The Moldau)",
+            "length": "11:27",
+            "artist": "Bedřich Smetana",
+            "deezer": {
+              "id": 5360626,
+              "link": "https://www.deezer.com/track/5360626",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/a/0/25af9ac00cf27966fdd4d663e91f13fe.mp3?hdnea=exp=1795724102~acl=/api/1/1/2/5/a/0/25af9ac00cf27966fdd4d663e91f13fe.mp3*~data=user_id=0,application_id=42~hmac=3739b61886664914b96abf3beb340428505e9825b18ed14c066f80488bc68f39",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "32",
+            "title": "String Quintet in E major, op. 13: Minuet",
+            "length": "3:48",
+            "artist": "Luigi Boccherini",
+            "deezer": {
+              "id": 5360627,
+              "link": "https://www.deezer.com/track/5360627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/f/0/19fee6e7740ac553a2e4ce05a91a4f1b.mp3?hdnea=exp=1795724102~acl=/api/1/1/1/9/f/0/19fee6e7740ac553a2e4ce05a91a4f1b.mp3*~data=user_id=0,application_id=42~hmac=56de77f77b265f6cb5fec77ffd47aec0b942fa5252d174453572f4385a9e390d",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "33",
+            "title": "Symphony no. 40 in G minor, K. 550: I. Allegro molto",
+            "length": "7:02",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 5360628,
+              "link": "https://www.deezer.com/track/5360628",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/1/0/551c79de8aaf888de1fabf5da2ef7db6.mp3?hdnea=exp=1795724102~acl=/api/1/1/5/5/1/0/551c79de8aaf888de1fabf5da2ef7db6.mp3*~data=user_id=0,application_id=42~hmac=5c0dc084524cdad795492de8fbf20c9ee7d17159f6dd29369114d496378a859b",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "34",
+            "title": "Slavonic Dance no. 2, op. 72",
+            "length": "5:35",
+            "artist": "Antonín Dvořák",
+            "deezer": {
+              "id": 5360629,
+              "link": "https://www.deezer.com/track/5360629",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/0/0/a309b80b8b391e243b073b00c25d0dcf.mp3?hdnea=exp=1795724102~acl=/api/1/1/a/3/0/0/a309b80b8b391e243b073b00c25d0dcf.mp3*~data=user_id=0,application_id=42~hmac=58c70401f930d8ce9933f91596515310d4b6667a77febb5ab49a28d0c90cdb4e",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "35",
+            "title": "Ave Maria (after J.S. Bach)",
+            "length": "2:34",
+            "artist": "Charles‐François Gounod",
+            "deezer": {
+              "id": 5360630,
+              "link": "https://www.deezer.com/track/5360630",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/f/0/8afb146bdee308e4c59da5e23a6ea6b8.mp3?hdnea=exp=1795724102~acl=/api/1/1/8/a/f/0/8afb146bdee308e4c59da5e23a6ea6b8.mp3*~data=user_id=0,application_id=42~hmac=a6ce86f35b075f736e1160179c858e93652015b1c15d3b673bc0139fe4b5f354",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "36",
+            "title": "Finlandia, op. 26",
+            "length": "8:06",
+            "artist": "Jean Sibelius",
+            "deezer": {
+              "id": 5360631,
+              "link": "https://www.deezer.com/track/5360631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/7/0/f07b83d86bad5d046e93751ae6722c05.mp3?hdnea=exp=1795724102~acl=/api/1/1/f/0/7/0/f07b83d86bad5d046e93751ae6722c05.mp3*~data=user_id=0,application_id=42~hmac=8b9756b32c34ccfc44603c44ebeb7755cb84a8b706a130b492181680661eab1d",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "37",
+            "title": "Piano Sonata no. 11 in A major, K. 331: III. Rondo. Alla turca",
+            "length": "3:25",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 5360632,
+              "link": "https://www.deezer.com/track/5360632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/b/0/3abb95d9b22249467c26bfb34f91a314.mp3?hdnea=exp=1795724102~acl=/api/1/1/3/a/b/0/3abb95d9b22249467c26bfb34f91a314.mp3*~data=user_id=0,application_id=42~hmac=553070b3cb60374d762efc126779c550b8fb1050289c0af464f9211abb57ef2b",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "38",
+            "title": "The Magic Flute, K. 620: Overture",
+            "length": "6:24",
+            "artist": "Wolfgang Amadeus Mozart",
+            "deezer": {
+              "id": 5360633,
+              "link": "https://www.deezer.com/track/5360633",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/1/0/4a1088d4080a43cbafc7e900ca9aae4c.mp3?hdnea=exp=1795724102~acl=/api/1/1/4/a/1/0/4a1088d4080a43cbafc7e900ca9aae4c.mp3*~data=user_id=0,application_id=42~hmac=7602fd3bea3232ddf9bb1708558fe5855d458a593b0ae82d101ccca09e2dcc0a",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "39",
+            "title": "The Messiah, HWV 56: Hallelujah Chorus",
+            "length": "3:32",
+            "artist": "Georg Friedrich Händel",
+            "deezer": {
+              "id": 5360634,
+              "link": "https://www.deezer.com/track/5360634",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/5/0/c4511a4a208f390ca7ca65e7f475ed79.mp3?hdnea=exp=1795724102~acl=/api/1/1/c/4/5/0/c4511a4a208f390ca7ca65e7f475ed79.mp3*~data=user_id=0,application_id=42~hmac=e18173db248a55941efedff6e5caef6ca91bc180ec1a206ba0dd13dca0432852",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "40",
+            "title": "Peer Gynt Suite no. 1, op. 46: IV. In the Hall of the Mountain King",
+            "length": "2:43",
+            "artist": "Edvard Grieg",
+            "deezer": {
+              "id": 5360635,
+              "link": "https://www.deezer.com/track/5360635",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/3/0/1f3552fefdbce2c53d8b51c1032df10a.mp3?hdnea=exp=1795724102~acl=/api/1/1/1/f/3/0/1f3552fefdbce2c53d8b51c1032df10a.mp3*~data=user_id=0,application_id=42~hmac=6f6496580e825e0ef4e960bca9045aafa71ccb89ec3fbfd3a73d748a6c42ec27",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "41",
+            "title": "Pavane, op. 50",
+            "length": "5:08",
+            "artist": "Gabriel Fauré",
+            "deezer": {
+              "id": 5360636,
+              "link": "https://www.deezer.com/track/5360636",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/5/0/6756b5f5f6d224881486e4e4236ffb41.mp3?hdnea=exp=1795724102~acl=/api/1/1/6/7/5/0/6756b5f5f6d224881486e4e4236ffb41.mp3*~data=user_id=0,application_id=42~hmac=b768a7fb180144440586c95a11b435b096092b685f67f7576f1cfeda1b7aa81d",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "42",
+            "title": "Double Concerto in D minor for Two Violins, BWV 1043: I. Vivace",
+            "length": "3:39",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 5360637,
+              "link": "https://www.deezer.com/track/5360637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/f/0/a2ff25e94cc4189f4d1b7496b6c23a91.mp3?hdnea=exp=1795724102~acl=/api/1/1/a/2/f/0/a2ff25e94cc4189f4d1b7496b6c23a91.mp3*~data=user_id=0,application_id=42~hmac=ab43e1b6e252647a4d603f6aeef2a0b50ff179ff0c82fabc6df7c91e94ed9b17",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "43",
+            "title": "L'Arlesienne Suite no. 1: I. Prelude",
+            "length": "6:53",
+            "artist": "Georges Bizet",
+            "deezer": {
+              "id": 5360638,
+              "link": "https://www.deezer.com/track/5360638",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/9/0/5795f1c64527917f2d1f30342798d6ae.mp3?hdnea=exp=1795724102~acl=/api/1/1/5/7/9/0/5795f1c64527917f2d1f30342798d6ae.mp3*~data=user_id=0,application_id=42~hmac=c709b0c7594d09fc95461caf4afb0abffe5f4fdb4b1c76158ca5de34fe84baa1",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "44",
+            "title": "Radetzky March, op. 228",
+            "length": "3:06",
+            "artist": "Johann Strauss I",
+            "deezer": {
+              "id": 5360639,
+              "link": "https://www.deezer.com/track/5360639",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/c/0/0ccb9c13e51214c51ffc75088f59c8e8.mp3?hdnea=exp=1795724102~acl=/api/1/1/0/c/c/0/0ccb9c13e51214c51ffc75088f59c8e8.mp3*~data=user_id=0,application_id=42~hmac=8e54e7cc74cba1bd7f0293cd59867505573ab1ffc08cf555e70e46d7d299a476",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "45",
+            "title": "Egmont, op. 84: Overture",
+            "length": "7:58",
+            "artist": "Ludwig van Beethoven",
+            "deezer": {
+              "id": 5360640,
+              "link": "https://www.deezer.com/track/5360640",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/4/0/e7482d15f12ec2cd30ae216995413b86.mp3?hdnea=exp=1795724102~acl=/api/1/1/e/7/4/0/e7482d15f12ec2cd30ae216995413b86.mp3*~data=user_id=0,application_id=42~hmac=f1b37b557876b3a7af6457dda13439544f923cee37c88ee3badbc0ead333c9b6",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "46",
+            "title": "Cavatina",
+            "length": "4:00",
+            "artist": "Stanley Myers",
+            "deezer": {
+              "id": 5360641,
+              "link": "https://www.deezer.com/track/5360641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/f/0/60fd3f8b9cb7b6dc8d20986a8331ed83.mp3?hdnea=exp=1795724102~acl=/api/1/1/6/0/f/0/60fd3f8b9cb7b6dc8d20986a8331ed83.mp3*~data=user_id=0,application_id=42~hmac=92c0c8d12f642762ad6f82bdef998383db52cfd33c9e36c5a72232c88bb94c08",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "47",
+            "title": "Concerto Grosso no. 8 in G minor, op. 6 no. 8 \"Christmas Concerto\": II. Allegro",
+            "length": "2:28",
+            "artist": "Arcangelo Corelli",
+            "deezer": {
+              "id": 5360642,
+              "link": "https://www.deezer.com/track/5360642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/3/0/4a379b4a8b52d7d4ebd2bc50ad45a1ab.mp3?hdnea=exp=1795724102~acl=/api/1/1/4/a/3/0/4a379b4a8b52d7d4ebd2bc50ad45a1ab.mp3*~data=user_id=0,application_id=42~hmac=81f763471a5a8dfda587007db0b56e1c84997cfb00be1527dc66fdf3533555f0",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "48",
+            "title": "Vocalise, op. 34",
+            "length": "5:51",
+            "artist": "Сергей Васильевич Рахманинов"
+          },
+          {
+            "number": "49",
+            "title": "Messa da Requiem: Part II. Dies irae, II. Tuba Mirum",
+            "length": "3:55",
+            "artist": "Giuseppe Verdi",
+            "deezer": {
+              "id": 5360644,
+              "link": "https://www.deezer.com/track/5360644",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf718573fe0b332f6f28f5ac687eae4b.mp3?hdnea=exp=1795724102~acl=/api/1/1/b/f/7/0/bf718573fe0b332f6f28f5ac687eae4b.mp3*~data=user_id=0,application_id=42~hmac=4346430de361e12692c10bc6e73308d7f964c60cbaf6de4f9ca88bee7729c875",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          },
+          {
+            "number": "50",
+            "title": "Symphony no. 5: IV. Adagietto",
+            "length": "11:01",
+            "artist": "Gustav Mahler",
+            "deezer": {
+              "id": 5360645,
+              "link": "https://www.deezer.com/track/5360645",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/0/0/690bec56dc70c505a7351b7b323d5344.mp3?hdnea=exp=1795724102~acl=/api/1/1/6/9/0/0/690bec56dc70c505a7351b7b323d5344.mp3*~data=user_id=0,application_id=42~hmac=c56276861ad99fb451bee8ae9892dd0ebb243bc572c20d058bde3bc319c87423",
+              "preview_expires": "2026-11-26T20:15:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/The 50 Greatest Pieces of Classical Music.jpg"
+}

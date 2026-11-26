@@ -1,0 +1,49 @@
+{
+  "title": "Dere Duni",
+  "artist": "Kalzi",
+  "year": 2025,
+  "release_date": "2025-03-28",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4907tH5ajWc1CvEZJVFkd9",
+    "deezer": "https://www.deezer.com/album/730671931"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4907tH5ajWc1CvEZJVFkd9",
+      "title": "Dere Duni",
+      "date": "2025-03-28"
+    },
+    "total_tracks": 1,
+    "total_length": "2:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dere Duni",
+            "length": "2:26",
+            "deezer": {
+              "id": 3288181581,
+              "link": "https://www.deezer.com/track/3288181581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/3/0/463c3b99714305a4df50e34595de550b.mp3?hdnea=exp=1795655841~acl=/api/1/1/4/6/3/0/463c3b99714305a4df50e34595de550b.mp3*~data=user_id=0,application_id=42~hmac=0e33d60eafce847ad5dd667311451a81c3992b18b966c732e2f0ed898fce6f41",
+              "preview_expires": "2026-11-26T01:17:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kalzi/Dere Duni.jpg"
+}

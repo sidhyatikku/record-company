@@ -1,0 +1,51 @@
+{
+  "title": "Saturday Love",
+  "artist": "Matroda & Dino DZ",
+  "year": 2023,
+  "release_date": "2023-04-07",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/69be1603-b847-418f-9018-ea405dddc6b2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/418437887"
+  },
+  "musicbrainz_id": "69be1603-b847-418f-9018-ea405dddc6b2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/72a8c03c-124a-49a9-8916-9fdd9016aae8",
+      "barcode": "8720923697294",
+      "title": "Saturday Love",
+      "disambiguation": null,
+      "date": "2023-04-07",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Saturday Love",
+            "length": "2:21",
+            "deezer": {
+              "id": 2194894237,
+              "link": "https://www.deezer.com/track/2194894237",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/3/0/0932a4d0a5ee62c378075d4a36159715.mp3?hdnea=exp=1795718316~acl=/api/1/1/0/9/3/0/0932a4d0a5ee62c378075d4a36159715.mp3*~data=user_id=0,application_id=42~hmac=b5772ad20500283bc822470abcc2923e0afbcd506e99cdd2af7feecf008fdb1f",
+              "preview_expires": "2026-11-26T18:38:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Matroda/Saturday Love.png"
+}

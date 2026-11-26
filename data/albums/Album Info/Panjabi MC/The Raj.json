@@ -1,0 +1,253 @@
+{
+  "title": "The Raj",
+  "artist": "Panjabi MC",
+  "year": 2010,
+  "release_date": "2010-11-15",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "trance"
+  ],
+  "tags": [
+    "electronic",
+    "trance"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/454c04b3-2188-4173-b811-9a167070acc1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/466666635"
+  },
+  "musicbrainz_id": "454c04b3-2188-4173-b811-9a167070acc1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/240734bd-a7bc-41c6-99fa-1c2965ce7bbd",
+      "barcode": null,
+      "title": "The Raj",
+      "disambiguation": null,
+      "date": "2010-11-15",
+      "country": "GB"
+    },
+    "total_tracks": 18,
+    "total_length": "1:19:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Moorni",
+            "length": "4:25",
+            "deezer": {
+              "id": 2375518555,
+              "link": "https://www.deezer.com/track/2375518555",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/1/0/a61d459ab7ce88d7e37f21116611d42f.mp3?hdnea=exp=1795719298~acl=/api/1/1/a/6/1/0/a61d459ab7ce88d7e37f21116611d42f.mp3*~data=user_id=0,application_id=42~hmac=a5ff55ae3d6d0b2ea3bacce99e83457252e069e124f259dd40777b43df1df38a",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Big Day Party",
+            "length": "4:01",
+            "deezer": {
+              "id": 2375518565,
+              "link": "https://www.deezer.com/track/2375518565",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/d/0/40d5982f8eea2e9e38e476fe877621af.mp3?hdnea=exp=1795719298~acl=/api/1/1/4/0/d/0/40d5982f8eea2e9e38e476fe877621af.mp3*~data=user_id=0,application_id=42~hmac=990cd3d9ad4d61f8db04fc4026a3a527ad67140ee587ab53ab4ccc61283cb248",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Nach Di Di",
+            "length": "4:06",
+            "deezer": {
+              "id": 2375518575,
+              "link": "https://www.deezer.com/track/2375518575",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/d/0/3bdc8a920afe157194fb76ea561ef374.mp3?hdnea=exp=1795719298~acl=/api/1/1/3/b/d/0/3bdc8a920afe157194fb76ea561ef374.mp3*~data=user_id=0,application_id=42~hmac=3432dd4303d710f931c7915248ef1a95ded8fd0ce187f16de88e8fac73d591cf",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Jatti",
+            "length": "4:54",
+            "deezer": {
+              "id": 2375518585,
+              "link": "https://www.deezer.com/track/2375518585",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/4/0/2c48709e09e8f75da7b6222d070aa4e0.mp3?hdnea=exp=1795719298~acl=/api/1/1/2/c/4/0/2c48709e09e8f75da7b6222d070aa4e0.mp3*~data=user_id=0,application_id=42~hmac=99383b209df45977a7a80ea6680d6808b39a5b510cd0d624fc4ff97b7d209cf4",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Salute",
+            "length": "4:41",
+            "artist": "Panjabi MC feat. Gulshan Meer",
+            "deezer": {
+              "id": 2375518595,
+              "link": "https://www.deezer.com/track/2375518595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/9/0/6c962ae2b0c2ec61f4c10d75e8b0baf5.mp3?hdnea=exp=1795719298~acl=/api/1/1/6/c/9/0/6c962ae2b0c2ec61f4c10d75e8b0baf5.mp3*~data=user_id=0,application_id=42~hmac=8bb1fba3265f7985a6825a05183ae06b05f8985e6f154ae9b22cf56dc29020d1",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mundian Di Kher",
+            "length": "3:33",
+            "deezer": {
+              "id": 2375518605,
+              "link": "https://www.deezer.com/track/2375518605",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/9/0/c79cc4dc961a7124281bd4e30e3e60e2.mp3?hdnea=exp=1795719298~acl=/api/1/1/c/7/9/0/c79cc4dc961a7124281bd4e30e3e60e2.mp3*~data=user_id=0,application_id=42~hmac=496449257564e15bb4cb58c66ecb4c43d0da0f8d8668d6a935f576e8085f1cc5",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Akh Da Eshara",
+            "length": "3:32",
+            "deezer": {
+              "id": 2375518615,
+              "link": "https://www.deezer.com/track/2375518615",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/1/0/751f5671823febc7b23b3c2404da1ce4.mp3?hdnea=exp=1795719298~acl=/api/1/1/7/5/1/0/751f5671823febc7b23b3c2404da1ce4.mp3*~data=user_id=0,application_id=42~hmac=4aaaf36b839f3e28de3b99684a2a636a045fa01e71825cd02fd0f3697b0682b8",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Raj",
+            "length": "5:20",
+            "artist": "Panjabi MC feat. Jaily Manjitpuri",
+            "deezer": {
+              "id": 2375518625,
+              "link": "https://www.deezer.com/track/2375518625",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/b/0/84b894d50c3cefc578ea59bce886a08b.mp3?hdnea=exp=1795719298~acl=/api/1/1/8/4/b/0/84b894d50c3cefc578ea59bce886a08b.mp3*~data=user_id=0,application_id=42~hmac=a85e4ef6e683abb6af49cdbaba4bfe8c6b1523bdd408ae27f061376d54fab520",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dil Mor De",
+            "length": "5:59",
+            "deezer": {
+              "id": 2375518635,
+              "link": "https://www.deezer.com/track/2375518635",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c87f531b18c9df4f75351eb88c31ac.mp3?hdnea=exp=1795719298~acl=/api/1/1/f/0/c/0/f0c87f531b18c9df4f75351eb88c31ac.mp3*~data=user_id=0,application_id=42~hmac=8e5a615aedbfb95972185a255b85450eba7da975ce4daee9e505aca26c3505c1",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "What You Feeling",
+            "length": "3:13",
+            "artist": "Panjabi MC feat. Mel OD",
+            "deezer": {
+              "id": 2375518645,
+              "link": "https://www.deezer.com/track/2375518645",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/d/0/b6d91c5a9d61f9b4bf4fe41d1f32991e.mp3?hdnea=exp=1795719298~acl=/api/1/1/b/6/d/0/b6d91c5a9d61f9b4bf4fe41d1f32991e.mp3*~data=user_id=0,application_id=42~hmac=f5b1c6e493374b3a5b3d3eab32fda38cf7e346c995c4aab811bbfa7385072968",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Kuri Panjaban",
+            "length": "4:41",
+            "deezer": {
+              "id": 2375518655,
+              "link": "https://www.deezer.com/track/2375518655",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/9/0/a094911f96f003386a3bc1b8e8a085bb.mp3?hdnea=exp=1795719298~acl=/api/1/1/a/0/9/0/a094911f96f003386a3bc1b8e8a085bb.mp3*~data=user_id=0,application_id=42~hmac=7282b431d45ad4434dbe674bc8b167ea03e7e77ab2cb8d06b9b294e8cda61c51",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Freaky Like That",
+            "length": "4:04",
+            "deezer": {
+              "id": 2375518665,
+              "link": "https://www.deezer.com/track/2375518665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/d/0/4cd2d121e3ee00bc23cd9d23896bf012.mp3?hdnea=exp=1795719298~acl=/api/1/1/4/c/d/0/4cd2d121e3ee00bc23cd9d23896bf012.mp3*~data=user_id=0,application_id=42~hmac=450e6b5f2194f5a4b3cda063a8c4e1f5586918ccec0c77227e71260a569ccac3",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Pambooka",
+            "length": "3:17",
+            "deezer": {
+              "id": 2375518675,
+              "link": "https://www.deezer.com/track/2375518675",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/c/0/8acd0048f4521d95c0e13c9ce59597c0.mp3?hdnea=exp=1795719298~acl=/api/1/1/8/a/c/0/8acd0048f4521d95c0e13c9ce59597c0.mp3*~data=user_id=0,application_id=42~hmac=a6a5b7022237d45a1570a3c58ceb4ebd6ec04b9a3ed88d374e34eb246b135060",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Panjab in Here",
+            "length": "5:38",
+            "deezer": {
+              "id": 2375518685,
+              "link": "https://www.deezer.com/track/2375518685",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/8/0/6e80cf25cebb2a42b414491ee734767f.mp3?hdnea=exp=1795719298~acl=/api/1/1/6/e/8/0/6e80cf25cebb2a42b414491ee734767f.mp3*~data=user_id=0,application_id=42~hmac=40b3d35d08696be9741ae5d79f9d0f56db77064a95f034b85070dc9154c2ea43",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Sox in da Air",
+            "length": "3:18",
+            "artist": "Panjabi MC feat. Kamalmeet Kaur",
+            "deezer": {
+              "id": 2375518695,
+              "link": "https://www.deezer.com/track/2375518695",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/4/0/bf476d10997dbbd629bca040b9d7724a.mp3?hdnea=exp=1795719298~acl=/api/1/1/b/f/4/0/bf476d10997dbbd629bca040b9d7724a.mp3*~data=user_id=0,application_id=42~hmac=9065d08dd5e9ea21d3003e2d0d590f96082d60f8164f8132f46151a4f46b5348",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Kee Lagh Da (dance mix)",
+            "length": "5:27",
+            "deezer": {
+              "id": 2375518705,
+              "link": "https://www.deezer.com/track/2375518705",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/6/0/49697ba951fcb01e6c6a43f2f42360fa.mp3?hdnea=exp=1795719298~acl=/api/1/1/4/9/6/0/49697ba951fcb01e6c6a43f2f42360fa.mp3*~data=user_id=0,application_id=42~hmac=65de0a6d6a38484b11bd067ddcf870851a504ad4d66ec41b81e68b59b6567b34",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Moorni (houce mix)",
+            "length": "5:59",
+            "deezer": {
+              "id": 2375518715,
+              "link": "https://www.deezer.com/track/2375518715",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/8/0/088bc605167730dea79bbb4b205d4444.mp3?hdnea=exp=1795719298~acl=/api/1/1/0/8/8/0/088bc605167730dea79bbb4b205d4444.mp3*~data=user_id=0,application_id=42~hmac=d3c608d671b72fa59aeba480d20cab1c40df6d276f6006699b63abe14f74c7a0",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Panjaban (dance mix)",
+            "length": "3:15",
+            "artist": "Panjabi MC feat. Avion",
+            "deezer": {
+              "id": 2375518725,
+              "link": "https://www.deezer.com/track/2375518725",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/c/0/54c85c3c3299fb6e2e628df53c484ff0.mp3?hdnea=exp=1795719298~acl=/api/1/1/5/4/c/0/54c85c3c3299fb6e2e628df53c484ff0.mp3*~data=user_id=0,application_id=42~hmac=6c07c78fd1f45308e095a526057e79d359e902205a0f6444edf09164b6b02303",
+              "preview_expires": "2026-11-26T18:54:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Panjabi MC/The Raj.jpg"
+}

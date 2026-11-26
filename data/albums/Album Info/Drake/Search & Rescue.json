@@ -1,0 +1,68 @@
+{
+  "title": "Search & Rescue",
+  "artist": "Drake",
+  "year": 2023,
+  "release_date": "2023-04-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "alternative r&b",
+    "cloud rap",
+    "emo rap",
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "alternative r&b",
+    "cloud rap",
+    "emo rap",
+    "pop rap",
+    "pop/rock/rap",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b6559c8c-d717-477f-aeac-07ce767c092b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/426872707"
+  },
+  "musicbrainz_id": "b6559c8c-d717-477f-aeac-07ce767c092b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9c2aaa66-a2d3-4523-906c-518058a3f389",
+      "barcode": "00602455686190",
+      "title": "Search & Rescue",
+      "disambiguation": "explicit",
+      "date": "2023-04-07",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "4:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Search & Rescue",
+            "length": "4:32",
+            "deezer": {
+              "id": 2227136297,
+              "link": "https://www.deezer.com/track/2227136297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/8/0/5b81c43e87b31903aeef2d81c003769b.mp3?hdnea=exp=1795653584~acl=/api/1/1/5/b/8/0/5b81c43e87b31903aeef2d81c003769b.mp3*~data=user_id=0,application_id=42~hmac=7492d43dfce311d50fb629c33db752d755fc8b9c3d3c6f59b10f84cea423cdde",
+              "preview_expires": "2026-11-26T00:39:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/Search & Rescue.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "No Broke Boys",
+  "artist": "Disco Lines & Tinashe",
+  "year": 2025,
+  "release_date": "2025-06-06",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "alternative r&b",
+    "dance",
+    "electro",
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "tags": [
+    "alternative r&b",
+    "dance",
+    "electro",
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f29bbae9-161d-4f74-a9f9-758d416b8ea0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/771059371"
+  },
+  "musicbrainz_id": "f29bbae9-161d-4f74-a9f9-758d416b8ea0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/da4213b3-d34c-4ab3-bb0f-e8dc724c258a",
+      "barcode": "075679605375",
+      "title": "No Broke Boys",
+      "disambiguation": null,
+      "date": "2025-06-06",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "No Broke Boys",
+            "length": "2:44",
+            "deezer": {
+              "id": 3410229851,
+              "link": "https://www.deezer.com/track/3410229851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/1/0/98178ee4545d11da6f344c241716439c.mp3?hdnea=exp=1795653376~acl=/api/1/1/9/8/1/0/98178ee4545d11da6f344c241716439c.mp3*~data=user_id=0,application_id=42~hmac=8276cbd2ca0b8c55141f62bd4e7691fb68248322fa2d8da4290b43ecaac86534",
+              "preview_expires": "2026-11-26T00:36:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Disco Lines/No Broke Boys.jpg"
+}

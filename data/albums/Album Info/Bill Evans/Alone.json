@@ -1,0 +1,125 @@
+{
+  "title": "Alone",
+  "artist": "Bill Evans",
+  "year": 1969,
+  "release_date": "1969",
+  "type": "Album",
+  "description": "Alone is a solo piano album by jazz musician Bill Evans, recorded in the fall of 1968 for Verve Records, featuring a particularly notable 14+-minute performance of the jazz standard \"Never Let Me Go\". Evans contributed notes to the album, including the following statement:Perhaps the hours of greatest pleasure in my life have come about as a result of the capacity of the piano to be in itself a complete expressive musical medium. In retrospect, I think that these countless hours of aloneness with music unified the directive energy of my life. At those times when I have achieved this sense of oneness while playing alone, the many technical or analytic aspects of the music happened of themselves with positive rightness which always served to remind me that to understand music most profoundly one only has to be listening well. Perhaps it is a peculiarity of mine that despite the fact that I am a professional performer, it is true that I have always preferred playing without an audience. This has nothing to do with my desire to communicate or not, but rather I think just a problem of personal self-consciousness which had to be conquered through discipline and concentration. Yet, to know one is truly alone with one’s instrument and music has always been an attractive and conducive situation for me to find my best playing level. Therefore, what I desired to present in a solo piano recording was especially this unique feeling.",
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz",
+    "post bop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/11bc3876-ee35-3dd3-9427-0a8f451180b9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alone_(Bill_Evans_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000198687",
+    "discogs": "https://www.discogs.com/master/243667",
+    "wikidata": "https://www.wikidata.org/wiki/Q2839221",
+    "deezer": "https://www.deezer.com/album/73608902"
+  },
+  "musicbrainz_id": "11bc3876-ee35-3dd3-9427-0a8f451180b9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/31402de8-feaf-40f4-a903-a2fc014de919",
+      "barcode": "042283380127",
+      "title": "Alone",
+      "disambiguation": null,
+      "date": "1988-02-01",
+      "country": "US"
+    },
+    "total_tracks": 7,
+    "total_length": "46:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Here's That Rainy Day",
+            "length": "5:21",
+            "deezer": {
+              "id": 557134022,
+              "link": "https://www.deezer.com/track/557134022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/1/0/2a16916b35db71ce174f1d7d1e75ff01.mp3?hdnea=exp=1795652008~acl=/api/1/1/2/a/1/0/2a16916b35db71ce174f1d7d1e75ff01.mp3*~data=user_id=0,application_id=42~hmac=08a3bcebfe71e109b6599e06c95c36836b85b67a311a334fa6cb0414400acf61",
+              "preview_expires": "2026-11-26T00:13:28Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "A Time for Love",
+            "length": "5:06",
+            "deezer": {
+              "id": 557134032,
+              "link": "https://www.deezer.com/track/557134032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/3/0/9434f6755a7ca9075e967f592c3796d2.mp3?hdnea=exp=1795652008~acl=/api/1/1/9/4/3/0/9434f6755a7ca9075e967f592c3796d2.mp3*~data=user_id=0,application_id=42~hmac=00f13c60768bf291c2c8c0c781616086aa338a07e3238e9dec0e432e89dca8ce",
+              "preview_expires": "2026-11-26T00:13:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Midnight Mood",
+            "length": "5:20",
+            "deezer": {
+              "id": 557134042,
+              "link": "https://www.deezer.com/track/557134042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/0/0/ea063a88802f1bbb833846e15e24c28d.mp3?hdnea=exp=1795652008~acl=/api/1/1/e/a/0/0/ea063a88802f1bbb833846e15e24c28d.mp3*~data=user_id=0,application_id=42~hmac=f78ca653c83725d1063dbb89299002c266170e3384d1d5ffdf22f82dfc5a5b80",
+              "preview_expires": "2026-11-26T00:13:28Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "On a Clear Day (You Can See Forever)",
+            "length": "4:49",
+            "deezer": {
+              "id": 557134052,
+              "link": "https://www.deezer.com/track/557134052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/f/0/edfc24c2a794883eb8cb12b8aa6e0f32.mp3?hdnea=exp=1795652008~acl=/api/1/1/e/d/f/0/edfc24c2a794883eb8cb12b8aa6e0f32.mp3*~data=user_id=0,application_id=42~hmac=8da69fa77e8179d1b103d7b54820009b76a16609410f441b85c554a811b1c877",
+              "preview_expires": "2026-11-26T00:13:28Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Never Let Me Go",
+            "length": "14:32",
+            "deezer": {
+              "id": 557134062,
+              "link": "https://www.deezer.com/track/557134062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/4/0/2e416d8069337a0df8f13bd0616179ae.mp3?hdnea=exp=1795652008~acl=/api/1/1/2/e/4/0/2e416d8069337a0df8f13bd0616179ae.mp3*~data=user_id=0,application_id=42~hmac=42a60e1dacfa9acdda7b207409558b76f758f5ff738b0f5c4287a220251dc90f",
+              "preview_expires": "2026-11-26T00:13:28Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Medley: All the Things You Are / Midnight Mood",
+            "length": "4:12",
+            "deezer": {
+              "id": 557134072,
+              "link": "https://www.deezer.com/track/557134072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/4/0/6747ea293ca55d0686673da462d560e5.mp3?hdnea=exp=1795652008~acl=/api/1/1/6/7/4/0/6747ea293ca55d0686673da462d560e5.mp3*~data=user_id=0,application_id=42~hmac=452864d2648c79d3607af1902ee878bee00feb5a42b23857d8d9b1b080ade292",
+              "preview_expires": "2026-11-26T00:13:28Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "A Time for Love (alternate)",
+            "length": "6:56",
+            "deezer": {
+              "id": 557134082,
+              "link": "https://www.deezer.com/track/557134082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/1/0/f81fe0eeacd9dd56fef40fc2a5673fb7.mp3?hdnea=exp=1795652008~acl=/api/1/1/f/8/1/0/f81fe0eeacd9dd56fef40fc2a5673fb7.mp3*~data=user_id=0,application_id=42~hmac=d5a1b79a697aa347e5773f4d33680df396f66bed6acf1bfead17f550b803aee6",
+              "preview_expires": "2026-11-26T00:13:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bill Evans/Alone.jpg"
+}

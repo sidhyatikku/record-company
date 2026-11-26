@@ -1,0 +1,49 @@
+{
+  "title": "Rooh",
+  "artist": "ENLIV3N",
+  "year": 2025,
+  "release_date": "2025-09-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "tropical house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7oZcaKaYK4mJA5VwfWmSuE",
+    "deezer": "https://www.deezer.com/album/812963541"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7oZcaKaYK4mJA5VwfWmSuE",
+      "title": "Rooh",
+      "date": "2025-09-12"
+    },
+    "total_tracks": 1,
+    "total_length": "2:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rooh",
+            "length": "2:38",
+            "deezer": {
+              "id": 3532530451,
+              "link": "https://www.deezer.com/track/3532530451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/4/0/ed4ff273aa5a29443b8d5ac56ce405af.mp3?hdnea=exp=1795653989~acl=/api/1/1/e/d/4/0/ed4ff273aa5a29443b8d5ac56ce405af.mp3*~data=user_id=0,application_id=42~hmac=6ddcabc5617075f4f0b09ad05ae20611ceb564262293ea0d3067ca2dcfb676ab",
+              "preview_expires": "2026-11-26T00:46:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/ENLIV3N/Rooh.jpg"
+}

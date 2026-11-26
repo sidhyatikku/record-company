@@ -1,0 +1,144 @@
+{
+  "title": "Someday My Prince Will Come",
+  "artist": "Miles Davis Sextet",
+  "year": 1961,
+  "release_date": "1961-12-11",
+  "type": "Album",
+  "description": "Someday My Prince Will Come is a studio album by American jazz musician Miles Davis, released on December 11, 1961, by Columbia Records. Recorded at Columbia's 30th Street Studio in Manhattan, New York City, it marked the only Miles Davis Quintet studio recording session to feature saxophonist Hank Mobley.",
+  "genres": [
+    "jazz",
+    "cool jazz",
+    "hard bop"
+  ],
+  "tags": [
+    "jazz",
+    "cool jazz",
+    "cool",
+    "hard bop"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7f5e9a98-d9db-3310-ad31-12e5593f3c9b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Someday_My_Prince_Will_Come_(Miles_Davis_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000187921",
+    "discogs": "https://www.discogs.com/master/122262",
+    "wikidata": "https://www.wikidata.org/wiki/Q931516",
+    "deezer": "https://www.deezer.com/album/1209557"
+  },
+  "musicbrainz_id": "7f5e9a98-d9db-3310-ad31-12e5593f3c9b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/044df368-706c-47e9-8573-76b903b0f87e",
+      "barcode": "074646591925",
+      "title": "Someday My Prince Will Come",
+      "disambiguation": null,
+      "date": "1999",
+      "country": "US"
+    },
+    "total_tracks": 8,
+    "total_length": "55:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Someday My Prince Will Come",
+            "length": "9:06",
+            "deezer": {
+              "id": 13188915,
+              "link": "https://www.deezer.com/track/13188915",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/4/0/3f4c1f89b1b534311557b01d2c5abe23.mp3?hdnea=exp=1795718501~acl=/api/1/1/3/f/4/0/3f4c1f89b1b534311557b01d2c5abe23.mp3*~data=user_id=0,application_id=42~hmac=00af946ad7dfbce7d16ca5cdc1feed03603eefe865a37165c4fc404028b8a5ba",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Old Folks",
+            "length": "5:17",
+            "deezer": {
+              "id": 13188919,
+              "link": "https://www.deezer.com/track/13188919",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/5/0/ef51b34cbb23c379121150f7148c2b87.mp3?hdnea=exp=1795718501~acl=/api/1/1/e/f/5/0/ef51b34cbb23c379121150f7148c2b87.mp3*~data=user_id=0,application_id=42~hmac=eaac0b10870022365cc3c5d36f3a0a3bcd1b05efeef0e55fad003006e0fa5e2d",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Pfrancing",
+            "length": "8:33",
+            "deezer": {
+              "id": 13188879,
+              "link": "https://www.deezer.com/track/13188879",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/6/0/25640d0fedfab9a5cfa88b1a040b8687.mp3?hdnea=exp=1795718501~acl=/api/1/1/2/5/6/0/25640d0fedfab9a5cfa88b1a040b8687.mp3*~data=user_id=0,application_id=42~hmac=764a89bb7a65de21f0b6b11754352c541558523b85e6eaf0c55da213349f4265",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Drad Dog",
+            "length": "4:51",
+            "deezer": {
+              "id": 13188913,
+              "link": "https://www.deezer.com/track/13188913",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/d/0/a2ddc060383e08e2600bd4a972859d7f.mp3?hdnea=exp=1795718501~acl=/api/1/1/a/2/d/0/a2ddc060383e08e2600bd4a972859d7f.mp3*~data=user_id=0,application_id=42~hmac=e14efb568494b27c4bcd53973e47edce928dd29458e7221856d477e27c177d2d",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Teo",
+            "length": "9:36",
+            "deezer": {
+              "id": 13188894,
+              "link": "https://www.deezer.com/track/13188894",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/a/0/41a3d8307aa72d63e30513181693a2f5.mp3?hdnea=exp=1795718501~acl=/api/1/1/4/1/a/0/41a3d8307aa72d63e30513181693a2f5.mp3*~data=user_id=0,application_id=42~hmac=8616a41b7cb7804fa28f80b276ff5f48a47988bd18db42da5e541f22d4968ea2",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Thought About You",
+            "length": "4:55",
+            "deezer": {
+              "id": 13188914,
+              "link": "https://www.deezer.com/track/13188914",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/b/0/b8b494eb63c37d3cef9160b150184d1b.mp3?hdnea=exp=1795718501~acl=/api/1/1/b/8/b/0/b8b494eb63c37d3cef9160b150184d1b.mp3*~data=user_id=0,application_id=42~hmac=0228b1445393e6007aa3b4accb699ade031235342001f0ba8f715767721dfceb",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Blues No. 2",
+            "length": "7:08",
+            "deezer": {
+              "id": 13188882,
+              "link": "https://www.deezer.com/track/13188882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/2/0/d2295f58046b3fe4583cc25cace0e31f.mp3?hdnea=exp=1795718501~acl=/api/1/1/d/2/2/0/d2295f58046b3fe4583cc25cace0e31f.mp3*~data=user_id=0,application_id=42~hmac=2f16f785d44ccf8cc75decf62eb1482ededd91006f81bbb34c6ec2969c1d6327",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Someday My Prince Will Come (alternate)",
+            "length": "5:35",
+            "deezer": {
+              "id": 13188918,
+              "link": "https://www.deezer.com/track/13188918",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/c/0/82ce43d3800764e4956739374e69e18a.mp3?hdnea=exp=1795718501~acl=/api/1/1/8/2/c/0/82ce43d3800764e4956739374e69e18a.mp3*~data=user_id=0,application_id=42~hmac=b1c5bb7a6e473c6c8db0215d615c3d75e6c1dbf3f8627a88128c22eca8a51f68",
+              "preview_expires": "2026-11-26T18:41:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Miles Davis/Someday My Prince Will Come.jpg"
+}

@@ -1,0 +1,301 @@
+{
+  "title": "Nothing but the Best",
+  "artist": "Frank Sinatra",
+  "year": 2008,
+  "release_date": "2008-05-09",
+  "type": "Album + Compilation",
+  "description": "Nothing but the Best is a 2008 compilation album by American singer Frank Sinatra. All the tracks on this album are recordings made when Sinatra was on his own Reprise label, thus the first track, \"Come Fly with Me\" is not the 1957 Capitol version. Other notable differences are \"Strangers in the Night\" has an extended fade out and the first cymbal hit is cut from the beginning of the \"Theme from New York, New York\".",
+  "genres": [
+    "jazz",
+    "pop"
+  ],
+  "tags": [
+    "vocal",
+    "jazz",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/51fba24a-7fa1-3876-acb5-09d9feb7c23d",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nothing_but_the_Best_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000785716",
+    "discogs": "https://www.discogs.com/master/445320",
+    "wikidata": "https://www.wikidata.org/wiki/Q3878724",
+    "deezer": "https://www.deezer.com/album/7021224"
+  },
+  "musicbrainz_id": "51fba24a-7fa1-3876-acb5-09d9feb7c23d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6cd9f2a1-072e-48b4-afcb-96e53ae229f6",
+      "barcode": "00602537596379",
+      "title": "Nothing but the Best",
+      "disambiguation": "2008 remastered",
+      "date": "2013-10-01",
+      "country": "XW"
+    },
+    "total_tracks": 22,
+    "total_length": "1:14:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Come Fly With Me",
+            "length": "3:13",
+            "deezer": {
+              "id": 71483060,
+              "link": "https://www.deezer.com/track/71483060",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/d/0/fcd091a11f880d3e6158699773242a07.mp3?hdnea=exp=1795654376~acl=/api/1/1/f/c/d/0/fcd091a11f880d3e6158699773242a07.mp3*~data=user_id=0,application_id=42~hmac=bf7be8287d4c3471039171c5c14de1926539fb746cb533563e1bb2f3f1123b9c",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Best Is Yet to Come",
+            "length": "2:55",
+            "artist": "Frank Sinatra feat. Count Basie and His Orchestra",
+            "deezer": {
+              "id": 71483061,
+              "link": "https://www.deezer.com/track/71483061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/c/0/ebc8eb30c6d0a20bf3bed325aef194f5.mp3?hdnea=exp=1795654376~acl=/api/1/1/e/b/c/0/ebc8eb30c6d0a20bf3bed325aef194f5.mp3*~data=user_id=0,application_id=42~hmac=23fe894e8c516de3f83fd7d5ccd8c87185695315abf558f4508657134acaf23c",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Way You Look Tonight",
+            "length": "3:22",
+            "deezer": {
+              "id": 71483062,
+              "link": "https://www.deezer.com/track/71483062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/9/0/a9902ebe0ddf595409046202bd7187f1.mp3?hdnea=exp=1795654376~acl=/api/1/1/a/9/9/0/a9902ebe0ddf595409046202bd7187f1.mp3*~data=user_id=0,application_id=42~hmac=4c2a967b29b8660810f831e39a920a31822168282612e39d502b621c21492c85",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Luck Be a Lady",
+            "length": "5:14",
+            "deezer": {
+              "id": 71483063,
+              "link": "https://www.deezer.com/track/71483063",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/4/0/6043d3e4351e07755119c9f5a09533fc.mp3?hdnea=exp=1795654376~acl=/api/1/1/6/0/4/0/6043d3e4351e07755119c9f5a09533fc.mp3*~data=user_id=0,application_id=42~hmac=20eec5d35486d9fff92c5208497ea674498e7294c77fd76d155bd9bceb397b09",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bewitched",
+            "length": "2:59",
+            "deezer": {
+              "id": 71483064,
+              "link": "https://www.deezer.com/track/71483064",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/3/0/d83b3960aac23225ec3a57c33e98e533.mp3?hdnea=exp=1795654376~acl=/api/1/1/d/8/3/0/d83b3960aac23225ec3a57c33e98e533.mp3*~data=user_id=0,application_id=42~hmac=993c0486e2227ecf95e8fba54587ec5977f23d8578f2a9d205ba2b542514abbc",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Good Life",
+            "length": "2:27",
+            "artist": "Frank Sinatra feat. Count Basie and His Orchestra",
+            "deezer": {
+              "id": 71483065,
+              "link": "https://www.deezer.com/track/71483065",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/d/0/42d134345db43a32527b1018bec3af4e.mp3?hdnea=exp=1795654376~acl=/api/1/1/4/2/d/0/42d134345db43a32527b1018bec3af4e.mp3*~data=user_id=0,application_id=42~hmac=b1f03005d08d0cb1ed8e706fb3d0e62e7d01f98b9b82b02e02e23d1caea24b50",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Girl From Ipanema",
+            "length": "3:14",
+            "artist": "Frank Sinatra feat. Antônio Carlos Jobim",
+            "deezer": {
+              "id": 71483066,
+              "link": "https://www.deezer.com/track/71483066",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/a/0/faa52b359168376429e406b3c4b2117b.mp3?hdnea=exp=1795654376~acl=/api/1/1/f/a/a/0/faa52b359168376429e406b3c4b2117b.mp3*~data=user_id=0,application_id=42~hmac=9c5457353c7907b2baca1e0f6f0e8299b658c0f559aba0dbf2d0ffd02b43f9c9",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Fly Me to the Moon",
+            "length": "2:27",
+            "artist": "Frank Sinatra feat. Count Basie and His Orchestra",
+            "deezer": {
+              "id": 71483067,
+              "link": "https://www.deezer.com/track/71483067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25fa2562736f3eeb449a25bc12e21777.mp3?hdnea=exp=1795654376~acl=/api/1/1/2/5/f/0/25fa2562736f3eeb449a25bc12e21777.mp3*~data=user_id=0,application_id=42~hmac=bcf268002f331890b776292b402393d79e1b514354d41c96e5dbaa55cec7a1f8",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Summer Wind",
+            "length": "2:55",
+            "deezer": {
+              "id": 71483068,
+              "link": "https://www.deezer.com/track/71483068",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/a/0/9eae3472eff7e9a9034185e4cd2b3be8.mp3?hdnea=exp=1795654376~acl=/api/1/1/9/e/a/0/9eae3472eff7e9a9034185e4cd2b3be8.mp3*~data=user_id=0,application_id=42~hmac=d65715c373e2d475b1b8eed82875f28aa275bf27263334fc0add0354435f0b3c",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Strangers in the Night",
+            "length": "2:44",
+            "deezer": {
+              "id": 71483069,
+              "link": "https://www.deezer.com/track/71483069",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/b/0/ccb26c4e3a5a3daa052abae91e762548.mp3?hdnea=exp=1795654376~acl=/api/1/1/c/c/b/0/ccb26c4e3a5a3daa052abae91e762548.mp3*~data=user_id=0,application_id=42~hmac=32a74eab9035ff77f891a3e46fb28c2c7e9087a0a798fbf73d91b738c2310b60",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Call Me Irresponsible",
+            "length": "2:55",
+            "deezer": {
+              "id": 71483070,
+              "link": "https://www.deezer.com/track/71483070",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/2/0/7c27bb09975d4fefad6f615148b4db73.mp3?hdnea=exp=1795654376~acl=/api/1/1/7/c/2/0/7c27bb09975d4fefad6f615148b4db73.mp3*~data=user_id=0,application_id=42~hmac=9fd94d8a95ca0428d14a942ab6b117dfdc13ea2726098db6a6da8a1ac7d5be08",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Somethin’ Stupid",
+            "length": "2:40",
+            "artist": "Frank Sinatra feat. Nancy Sinatra",
+            "deezer": {
+              "id": 71483071,
+              "link": "https://www.deezer.com/track/71483071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/b/0/29b2f8f6df6345feb3d230447bbdefbc.mp3?hdnea=exp=1795654376~acl=/api/1/1/2/9/b/0/29b2f8f6df6345feb3d230447bbdefbc.mp3*~data=user_id=0,application_id=42~hmac=fb65bef9b0607c3b913993a6c247c187bc0c34d56167dbff1431fafedd2f1c75",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "My Kind of Town",
+            "length": "3:11",
+            "deezer": {
+              "id": 71483072,
+              "link": "https://www.deezer.com/track/71483072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/8/0/4383f55b57008187fd43f7d9b2fbe360.mp3?hdnea=exp=1795654376~acl=/api/1/1/4/3/8/0/4383f55b57008187fd43f7d9b2fbe360.mp3*~data=user_id=0,application_id=42~hmac=ce18dd8a5147a6f6d4a482db5f0e93b067f037427f66f27c3c87b11200e7f685",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "It Was a Very Good Year",
+            "length": "4:26",
+            "deezer": {
+              "id": 71483073,
+              "link": "https://www.deezer.com/track/71483073",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/0/0/4201bc392c3a578c0db78a25dffe6768.mp3?hdnea=exp=1795654376~acl=/api/1/1/4/2/0/0/4201bc392c3a578c0db78a25dffe6768.mp3*~data=user_id=0,application_id=42~hmac=08ae0db085e37b0040f0c61f3d60591df9f73e76d2a0bd4b15a4bd763f0c7b64",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "That’s Life",
+            "length": "3:07",
+            "deezer": {
+              "id": 71483074,
+              "link": "https://www.deezer.com/track/71483074",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/6/0/3663bfcab45130962edba0c619292f9d.mp3?hdnea=exp=1795654376~acl=/api/1/1/3/6/6/0/3663bfcab45130962edba0c619292f9d.mp3*~data=user_id=0,application_id=42~hmac=8b7f5f98d0304be6b43d73128b59c5acc566ac3feed0c734e7235469de0eb797",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Moonlight Serenade",
+            "length": "3:28",
+            "deezer": {
+              "id": 71483075,
+              "link": "https://www.deezer.com/track/71483075",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/0/0/e40aef0b2e18b986c30fda1d32be7ff1.mp3?hdnea=exp=1795654376~acl=/api/1/1/e/4/0/0/e40aef0b2e18b986c30fda1d32be7ff1.mp3*~data=user_id=0,application_id=42~hmac=acda0a8fe2f6ef5cf8ca6716cedd9cf1a81252d87b0d3aaa227d04ff0dd94cbc",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Nothing but the Best",
+            "length": "3:00",
+            "deezer": {
+              "id": 71483076,
+              "link": "https://www.deezer.com/track/71483076",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/5/0/135672771328368df59f427c13089fb5.mp3?hdnea=exp=1795654376~acl=/api/1/1/1/3/5/0/135672771328368df59f427c13089fb5.mp3*~data=user_id=0,application_id=42~hmac=3ca6192c7c2f61b9129579da91270c8851d00ee5d0d9a18bae71ebe8a3e8d9c1",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Drinking Again",
+            "length": "3:15",
+            "deezer": {
+              "id": 71483077,
+              "link": "https://www.deezer.com/track/71483077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/f/0/caf8893f13e3299b31f47b31aec0418d.mp3?hdnea=exp=1795654376~acl=/api/1/1/c/a/f/0/caf8893f13e3299b31f47b31aec0418d.mp3*~data=user_id=0,application_id=42~hmac=96097a547d6912f5f813ecf07bd43e890e607bff9a7fa252e52a881ff6d56aa6",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "All My Tomorrows",
+            "length": "4:35",
+            "deezer": {
+              "id": 71483078,
+              "link": "https://www.deezer.com/track/71483078",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/b/0/fabb03d8600b8654ec56aebcaebcb791.mp3?hdnea=exp=1795654376~acl=/api/1/1/f/a/b/0/fabb03d8600b8654ec56aebcaebcb791.mp3*~data=user_id=0,application_id=42~hmac=8232b4c497ded21f54ed217d0b44856ff010ccd1868746c656ca89173de090f2",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "My Way",
+            "length": "4:36",
+            "deezer": {
+              "id": 71483079,
+              "link": "https://www.deezer.com/track/71483079",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/c/0/cac91421e68a8b1de8cfaa5e7e6d94fa.mp3?hdnea=exp=1795654376~acl=/api/1/1/c/a/c/0/cac91421e68a8b1de8cfaa5e7e6d94fa.mp3*~data=user_id=0,application_id=42~hmac=b9adfb2a6cfed5274fe75cbdf3d076b2ded0e08cca67b8578cd1ea9241a537e4",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Theme From New York, New York",
+            "length": "3:24",
+            "deezer": {
+              "id": 71483080,
+              "link": "https://www.deezer.com/track/71483080",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/3/0/67368e68a72b827399d075b6ab60f281.mp3?hdnea=exp=1795654376~acl=/api/1/1/6/7/3/0/67368e68a72b827399d075b6ab60f281.mp3*~data=user_id=0,application_id=42~hmac=231c31ebdcbf8a8be120761eb32f09cbde20425d57714590a380f4c8bbd72515",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Body and Soul",
+            "length": "4:19",
+            "deezer": {
+              "id": 71483081,
+              "link": "https://www.deezer.com/track/71483081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/a/0/8faa9d468ff0248aa76e50bb43dbb566.mp3?hdnea=exp=1795654376~acl=/api/1/1/8/f/a/0/8faa9d468ff0248aa76e50bb43dbb566.mp3*~data=user_id=0,application_id=42~hmac=ddfda7dd5940e27326bf63437f5cf9938a444f791dee69d5720c3ae125000bc5",
+              "preview_expires": "2026-11-26T00:52:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Frank Sinatra/Nothing But The Best.jpg"
+}

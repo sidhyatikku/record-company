@@ -1,0 +1,49 @@
+{
+  "title": "Algorithmblues",
+  "artist": "Matty",
+  "year": 2021,
+  "release_date": "2021-05-14",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "neo-psychedelic"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/015JELAWqRE9TS7IYHkFVr",
+    "deezer": "https://www.deezer.com/album/223241252"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/015JELAWqRE9TS7IYHkFVr",
+      "title": "Algorithmblues",
+      "date": "2021-05-14"
+    },
+    "total_tracks": 1,
+    "total_length": "5:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Algorithmblues",
+            "length": "5:12",
+            "deezer": {
+              "id": 1345193982,
+              "link": "https://www.deezer.com/track/1345193982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/1/0/b61cdb3c50752cf85ea1b6839ee74d50.mp3?hdnea=exp=1795718320~acl=/api/1/1/b/6/1/0/b61cdb3c50752cf85ea1b6839ee74d50.mp3*~data=user_id=0,application_id=42~hmac=915591bed9735f5058d1450dd603438bdcb75a58e338943e040c955dbf75a38e",
+              "preview_expires": "2026-11-26T18:38:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Matty/Algorithmblues.jpg"
+}

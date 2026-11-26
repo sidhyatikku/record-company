@@ -1,0 +1,57 @@
+{
+  "title": "Mash up the Dance",
+  "artist": "Watch the Ride & Nia Archives",
+  "year": 2022,
+  "release_date": "2022-05-16",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jungle",
+    "ragga jungle"
+  ],
+  "tags": [
+    "jungle",
+    "ragga jungle"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fd10ff88-aa8e-43db-b3e0-fe3d4ce93f42",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/423235537"
+  },
+  "musicbrainz_id": "fd10ff88-aa8e-43db-b3e0-fe3d4ce93f42",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/16eda261-ab2c-4e7c-8395-ac03bb057e80",
+      "barcode": "800071006891",
+      "title": "Mash up the Dance",
+      "disambiguation": null,
+      "date": "2022-05-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mash up the Dance",
+            "length": "3:09",
+            "deezer": {
+              "id": 2214088847,
+              "link": "https://www.deezer.com/track/2214088847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/d/0/96dd12a8e8247614530ddb7a7bee810a.mp3?hdnea=exp=1795724262~acl=/api/1/1/9/6/d/0/96dd12a8e8247614530ddb7a7bee810a.mp3*~data=user_id=0,application_id=42~hmac=129e9c21cfe10da15a66a2056f4026ed5c9d280ac4ab96bfac5616af7207fd34",
+              "preview_expires": "2026-11-26T20:17:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Watch the Ride/Mash up the Dance.jpg"
+}

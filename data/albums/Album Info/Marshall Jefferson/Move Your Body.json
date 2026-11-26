@@ -1,0 +1,51 @@
+{
+  "title": "Move Your Body",
+  "artist": "Marshall Jefferson & Solardo",
+  "year": 2019,
+  "release_date": "2019-10-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2c306e65-3ea9-487b-9b77-f7422889d0f4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/114141302"
+  },
+  "musicbrainz_id": "2c306e65-3ea9-487b-9b77-f7422889d0f4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6c122b5d-0c5e-42f7-be1f-0788880e6ccc",
+      "barcode": "0617465009631",
+      "title": "Move Your Body",
+      "disambiguation": null,
+      "date": "2019-10-18",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Move Your Body",
+            "length": "3:16",
+            "deezer": {
+              "id": 771050902,
+              "link": "https://www.deezer.com/track/771050902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/a/0/41a2d127a477b7a38c8b0141d7d0e0d6.mp3?hdnea=exp=1795718257~acl=/api/1/1/4/1/a/0/41a2d127a477b7a38c8b0141d7d0e0d6.mp3*~data=user_id=0,application_id=42~hmac=a2c9bc6b7d35601c0c5ceb17456441ad8b489330c316352e26c07306a38218fc",
+              "preview_expires": "2026-11-26T18:37:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Marshall Jefferson/Move Your Body.jpg"
+}

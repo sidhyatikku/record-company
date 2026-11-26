@@ -1,0 +1,167 @@
+{
+  "title": "Hotel California",
+  "artist": "Eagles",
+  "year": 1976,
+  "release_date": "1976-12-08",
+  "type": "Album",
+  "description": "Hotel California is the fifth studio album by the American rock band the Eagles, released on December 8, 1976, by Asylum Records. Recorded by the band and produced by Bill Szymczyk at the Criteria and Record Plant studios between March and October 1976, it was the band's first album with guitarist Joe Walsh, who had replaced founding member Bernie Leadon, and the last to feature founding bassist/vocalist Randy Meisner. The album cover is a photograph of the Beverly Hills Hotel, taken by David Alexander.",
+  "genres": [
+    "country rock",
+    "rock",
+    "classic rock",
+    "soft rock",
+    "pop rock",
+    "blues",
+    "country",
+    "electronic"
+  ],
+  "tags": [
+    "country rock",
+    "rock",
+    "classic rock",
+    "soft rock",
+    "pop rock",
+    "album rock",
+    "blues",
+    "classic rock_blues_rock",
+    "country",
+    "electronic",
+    "laurel canyon scene"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 35
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/836f349a-0434-3e8b-a0bc-261f77a9f99c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hotel_California_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000189884",
+    "discogs": "https://www.discogs.com/master/59501",
+    "wikidata": "https://www.wikidata.org/wiki/Q752172",
+    "deezer": "https://www.deezer.com/album/6670584"
+  },
+  "musicbrainz_id": "836f349a-0434-3e8b-a0bc-261f77a9f99c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/754d7d77-6b6c-4784-a594-e6cbaff7bb65",
+      "barcode": "603497921256",
+      "title": "Hotel California",
+      "disambiguation": null,
+      "date": "2013-04-26",
+      "country": null
+    },
+    "total_tracks": 9,
+    "total_length": "43:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hotel California",
+            "length": "6:30",
+            "deezer": {
+              "id": 68097787,
+              "link": "https://www.deezer.com/track/68097787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/0/0/de0b52925103149e94a7123d0c0cb6c4.mp3?hdnea=exp=1795653765~acl=/api/1/1/d/e/0/0/de0b52925103149e94a7123d0c0cb6c4.mp3*~data=user_id=0,application_id=42~hmac=5249c7f5f93ce1e6b9278aefdd0ca66213c6aafd765565e832ba00833c77fad6",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "New Kid in Town",
+            "length": "5:04",
+            "deezer": {
+              "id": 68097788,
+              "link": "https://www.deezer.com/track/68097788",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/b/0/9cbc1329a9ad1ebb6374b5d4a18e3c96.mp3?hdnea=exp=1795653765~acl=/api/1/1/9/c/b/0/9cbc1329a9ad1ebb6374b5d4a18e3c96.mp3*~data=user_id=0,application_id=42~hmac=dfec0e96c54040427ba74fcfb85d6aef42bc402aacf672933f73ca72abcabd4d",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Life in the Fast Lane",
+            "length": "4:46",
+            "deezer": {
+              "id": 68097789,
+              "link": "https://www.deezer.com/track/68097789",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/c/0/56c1283f56c64135a7ac25ae74c65dbf.mp3?hdnea=exp=1795653765~acl=/api/1/1/5/6/c/0/56c1283f56c64135a7ac25ae74c65dbf.mp3*~data=user_id=0,application_id=42~hmac=9dba213f41bd0b140d5f352d19d0e2afc215504a672264155c3956f13191cff5",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Wasted Time",
+            "length": "4:56",
+            "deezer": {
+              "id": 68097790,
+              "link": "https://www.deezer.com/track/68097790",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/8/0/4a8bb975ac08486c9bc9a1d7e8d5deba.mp3?hdnea=exp=1795653765~acl=/api/1/1/4/a/8/0/4a8bb975ac08486c9bc9a1d7e8d5deba.mp3*~data=user_id=0,application_id=42~hmac=9f8753c14695ca6909ab343ace55824bbed732755a9850ba155fad7beaf93059",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Wasted Time (reprise)",
+            "length": "1:23",
+            "deezer": {
+              "id": 68097791,
+              "link": "https://www.deezer.com/track/68097791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/9/0/1994e2a76c3e3ee511fe3efb378c7afb.mp3?hdnea=exp=1795653765~acl=/api/1/1/1/9/9/0/1994e2a76c3e3ee511fe3efb378c7afb.mp3*~data=user_id=0,application_id=42~hmac=c9e442e2f65b66c479b1f56cfbdebd67ef45bf6935717c881e6e2f2064194155",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Victim of Love",
+            "length": "4:09",
+            "deezer": {
+              "id": 68097792,
+              "link": "https://www.deezer.com/track/68097792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65837617bf64640f68d34fe59fd97ac.mp3?hdnea=exp=1795653765~acl=/api/1/1/f/6/5/0/f65837617bf64640f68d34fe59fd97ac.mp3*~data=user_id=0,application_id=42~hmac=2082c25992f973a318156abf191f916491acba46da243389540e336d4867bbd2",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Pretty Maids All in a Row",
+            "length": "3:59",
+            "deezer": {
+              "id": 68097793,
+              "link": "https://www.deezer.com/track/68097793",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/a/0/edab780e537055e2a6b4df5d3e0e52af.mp3?hdnea=exp=1795653765~acl=/api/1/1/e/d/a/0/edab780e537055e2a6b4df5d3e0e52af.mp3*~data=user_id=0,application_id=42~hmac=553bcff893779885b8f2daae127df2411a56d045dd670171419b7468dd2a9689",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Try and Love Again",
+            "length": "5:11",
+            "deezer": {
+              "id": 68097794,
+              "link": "https://www.deezer.com/track/68097794",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/c/0/67c396a284944bdfa4e06259ae32fb06.mp3?hdnea=exp=1795653765~acl=/api/1/1/6/7/c/0/67c396a284944bdfa4e06259ae32fb06.mp3*~data=user_id=0,application_id=42~hmac=24f65580bb142ce883a8369db120e0cdf4642cf02d467fa11ed407367db47779",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Last Resort",
+            "length": "7:29",
+            "deezer": {
+              "id": 68097795,
+              "link": "https://www.deezer.com/track/68097795",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/f/0/7af3b3cf978942108fd0a70cb46fbb76.mp3?hdnea=exp=1795653765~acl=/api/1/1/7/a/f/0/7af3b3cf978942108fd0a70cb46fbb76.mp3*~data=user_id=0,application_id=42~hmac=2a62c56b43c6ad111752dd82af7b2722885e7f671495594913d14e398753892b",
+              "preview_expires": "2026-11-26T00:42:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eagles/Hotel California.jpg"
+}

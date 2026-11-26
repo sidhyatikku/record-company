@@ -1,0 +1,158 @@
+{
+  "title": "Dholicious",
+  "artist": "Ryan Singh",
+  "year": 2006,
+  "release_date": "2006-01-27",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "bhangra"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4jOPoLvz5T6zyRNeItAgyD",
+    "deezer": "https://www.deezer.com/album/893373442"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4jOPoLvz5T6zyRNeItAgyD",
+      "title": "Dholicious",
+      "date": "2006-01-27"
+    },
+    "total_tracks": 10,
+    "total_length": "45:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kuriye",
+            "length": "4:21",
+            "artist": "Ryan Singh, Jaswant Heera",
+            "deezer": {
+              "id": 3762667492,
+              "link": "https://www.deezer.com/track/3762667492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/8/0/3a8fca9f63dc981994b40b47393bc420.mp3?hdnea=exp=1795720212~acl=/api/1/1/3/a/8/0/3a8fca9f63dc981994b40b47393bc420.mp3*~data=user_id=0,application_id=42~hmac=ed5be42592fc425387ffb6df215f87beb090c2378c37284cdd69845fc5a6a19a",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Nasha Jawani Da",
+            "length": "4:49",
+            "artist": "Ryan Singh, Yog Rag",
+            "deezer": {
+              "id": 3762667502,
+              "link": "https://www.deezer.com/track/3762667502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/4/0/ba4a218c9cc2baf73a3ee82f88eb617f.mp3?hdnea=exp=1795720212~acl=/api/1/1/b/a/4/0/ba4a218c9cc2baf73a3ee82f88eb617f.mp3*~data=user_id=0,application_id=42~hmac=f1691274a0b54d75e43154063c2a49cbd8a1a73faadf327274390d0395fbb224",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Akh Teri Largayi",
+            "length": "5:10",
+            "artist": "Ryan Singh, Rajan Mattu",
+            "deezer": {
+              "id": 3762667512,
+              "link": "https://www.deezer.com/track/3762667512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/7/0/cb7cb6e0158c6abda3cc6234748eb747.mp3?hdnea=exp=1795720212~acl=/api/1/1/c/b/7/0/cb7cb6e0158c6abda3cc6234748eb747.mp3*~data=user_id=0,application_id=42~hmac=974f863349c50257afbf6103c65ce104f48c0d24da936efb378660416e153eb1",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Margaye Kuriye - Reprise",
+            "length": "3:57",
+            "artist": "Ryan Singh, Mc Special, Jaswant Heera",
+            "deezer": {
+              "id": 3762667522,
+              "link": "https://www.deezer.com/track/3762667522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/d/0/dedb2d63c3a309a1c1043a01e984ecce.mp3?hdnea=exp=1795720212~acl=/api/1/1/d/e/d/0/dedb2d63c3a309a1c1043a01e984ecce.mp3*~data=user_id=0,application_id=42~hmac=f53d6f8d908486ff4d3005cbabdd97f219d192c38437c5520f34521ffa873da7",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Baari Barsi",
+            "length": "4:40",
+            "artist": "Ryan Singh, K Preet",
+            "deezer": {
+              "id": 3762667532,
+              "link": "https://www.deezer.com/track/3762667532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a93c6793f89717bb0e6e92a115133ae.mp3?hdnea=exp=1795720212~acl=/api/1/1/4/a/9/0/4a93c6793f89717bb0e6e92a115133ae.mp3*~data=user_id=0,application_id=42~hmac=dc2ce55612d79f04d5ea9e87bd0770abf57e5e3854d6afdb6b6839d15241ac87",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Bottlan De Dutt - Wedding Song",
+            "length": "4:08",
+            "artist": "Ryan Singh, Rakesh Kumar Verma",
+            "deezer": {
+              "id": 3762667542,
+              "link": "https://www.deezer.com/track/3762667542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/7/0/e070e8c41e9854f6f8048a7899cbe3fe.mp3?hdnea=exp=1795720212~acl=/api/1/1/e/0/7/0/e070e8c41e9854f6f8048a7899cbe3fe.mp3*~data=user_id=0,application_id=42~hmac=ec8cc1c9486d92854eafe20470cf95d22a6e303d6a6edcb368aff77df2c484b9",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ishq De Kedha",
+            "length": "4:35",
+            "artist": "Ryan Singh, Davinder Soni",
+            "deezer": {
+              "id": 3762667552,
+              "link": "https://www.deezer.com/track/3762667552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/1/0/0b1210a8c6d7736f0093f598f432eba3.mp3?hdnea=exp=1795720212~acl=/api/1/1/0/b/1/0/0b1210a8c6d7736f0093f598f432eba3.mp3*~data=user_id=0,application_id=42~hmac=612d9af15bf446beb0d28a7b71f7eeacffdc98e6b9fa858efbd254489d437f41",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sajan Hasde Ne",
+            "length": "6:12",
+            "artist": "Ryan Singh, Rajan Mattu",
+            "deezer": {
+              "id": 3762667562,
+              "link": "https://www.deezer.com/track/3762667562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/2/0/db282f6361ad5dcea68997f143f99d2b.mp3?hdnea=exp=1795720212~acl=/api/1/1/d/b/2/0/db282f6361ad5dcea68997f143f99d2b.mp3*~data=user_id=0,application_id=42~hmac=a9d1a3bc34475717ec7a37950b16a16bcb1670ff36aa3d189864835ea7c7f5dc",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dil Koke Wich",
+            "length": "3:24",
+            "artist": "Ryan Singh, Rajan Mattu",
+            "deezer": {
+              "id": 3762667572,
+              "link": "https://www.deezer.com/track/3762667572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/e/0/6aeeb4da9df3141f94750c8a6a52a494.mp3?hdnea=exp=1795720212~acl=/api/1/1/6/a/e/0/6aeeb4da9df3141f94750c8a6a52a494.mp3*~data=user_id=0,application_id=42~hmac=0681307b86cfb6f9fe898cb69ab55dee363e6c0d3530c771281dc8be9fbc4460",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Margaye Kuriye",
+            "length": "3:58",
+            "artist": "Ryan Singh, Jaswant Heera",
+            "deezer": {
+              "id": 3762667582,
+              "link": "https://www.deezer.com/track/3762667582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/5/0/635131fa812ab995865d46535109789a.mp3?hdnea=exp=1795720212~acl=/api/1/1/6/3/5/0/635131fa812ab995865d46535109789a.mp3*~data=user_id=0,application_id=42~hmac=cd3794eae73fff2f4df54de3b70d1d6af132f4475ed650647fb47c3991acc8e1",
+              "preview_expires": "2026-11-26T19:10:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Ryan Singh/Dholicious.jpg"
+}

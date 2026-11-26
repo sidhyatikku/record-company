@@ -1,0 +1,210 @@
+{
+  "title": "Laundry Service",
+  "artist": "Shakira",
+  "year": 2001,
+  "release_date": "2001-11-13",
+  "type": "Album",
+  "description": "Laundry Service is the fifth studio album and first English-language album by Colombian singer-songwriter Shakira. It was released on 5 November 2001, by Epic Records. After her fourth studio album Dónde Están los Ladrones? (1998) became a success, Shakira was encouraged by her friend, American singer Gloria Estefan to record songs in English, as Estefan believed Shakira had potential to cross over into the anglophone pop market. Initially hesitant, Shakira decided to learn English well enough to write songs in the language. Shakira went on to write and produce the entirety of the record, under the guidance of Emilio Estefan, who executive produced the album. Writing predominantly about love, Shakira titled the album Laundry Service as she compared the fusion of love and music to that of water and soap. An eclectic pop rock record, the album draws on influences from Andean and Middle Eastern music while incorporating styles of dance-pop, rock and roll and tango.",
+  "genres": [
+    "pop",
+    "pop rock",
+    "house",
+    "latin",
+    "latin pop",
+    "electronic",
+    "rock",
+    "dance-pop",
+    "alternative rock"
+  ],
+  "tags": [
+    "pop",
+    "pop rock",
+    "house",
+    "latin",
+    "latin pop",
+    "electronic",
+    "rock",
+    "dance-pop",
+    "alternative rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2dbd0eff-17ce-34da-83f1-c707a199bc1e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laundry_Service",
+    "allmusic": "https://www.allmusic.com/album/mw0000016418",
+    "discogs": "https://www.discogs.com/master/47316",
+    "wikidata": "https://www.wikidata.org/wiki/Q158329",
+    "deezer": "https://www.deezer.com/album/1401302"
+  },
+  "musicbrainz_id": "2dbd0eff-17ce-34da-83f1-c707a199bc1e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/46f25a39-1630-4bed-8b5c-5aef1e464757",
+      "barcode": "074646390023",
+      "title": "Laundry Service",
+      "disambiguation": null,
+      "date": "2001-11-13",
+      "country": "US"
+    },
+    "total_tracks": 13,
+    "total_length": "49:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Objection (Tango)",
+            "length": "3:44",
+            "deezer": {
+              "id": 15209461,
+              "link": "https://www.deezer.com/track/15209461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/c/0/25cff14654ae65a294a0bc0c02721d0d.mp3?hdnea=exp=1795720470~acl=/api/1/1/2/5/c/0/25cff14654ae65a294a0bc0c02721d0d.mp3*~data=user_id=0,application_id=42~hmac=ba896ee54189442e7a3c947b2cb8225f2f61575938d3ff44f69f346a36f37b11",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Underneath Your Clothes",
+            "length": "3:45",
+            "deezer": {
+              "id": 15210161,
+              "link": "https://www.deezer.com/track/15210161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/8/0/d28c0ce17792b7faa9e63a06a19cffad.mp3?hdnea=exp=1795720470~acl=/api/1/1/d/2/8/0/d28c0ce17792b7faa9e63a06a19cffad.mp3*~data=user_id=0,application_id=42~hmac=7c9043fb62891ba5616322f157801a0faad815f90c5742284806d8641a5785cd",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Whenever, Wherever",
+            "length": "3:17",
+            "deezer": {
+              "id": 15211178,
+              "link": "https://www.deezer.com/track/15211178",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/a/0/89aafd76a99c7f4ae707c999968ae8d5.mp3?hdnea=exp=1795720470~acl=/api/1/1/8/9/a/0/89aafd76a99c7f4ae707c999968ae8d5.mp3*~data=user_id=0,application_id=42~hmac=d67669ad8a9cc7160aea48f596d2abaf8ebb777b934f92648786430d3a8c3eb2",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Rules",
+            "length": "3:41",
+            "deezer": {
+              "id": 15211466,
+              "link": "https://www.deezer.com/track/15211466",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/8/0/6a89da6aaf42c90307785ae5104bf180.mp3?hdnea=exp=1795720470~acl=/api/1/1/6/a/8/0/6a89da6aaf42c90307785ae5104bf180.mp3*~data=user_id=0,application_id=42~hmac=9370826b645e75acb413e5f3f1c2bf8a342458aa562b766ed7b9ae435cbce83b",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The One",
+            "length": "3:44",
+            "deezer": {
+              "id": 15209462,
+              "link": "https://www.deezer.com/track/15209462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/4/0/7442b1e30a45b06dad8c4d7c06740fce.mp3?hdnea=exp=1795720470~acl=/api/1/1/7/4/4/0/7442b1e30a45b06dad8c4d7c06740fce.mp3*~data=user_id=0,application_id=42~hmac=a2669a640399d80e212538d64d4893fece8e7e1c1ae8e6bce2329ec83fb6fde8",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ready for the Good Times",
+            "length": "4:14",
+            "deezer": {
+              "id": 15211179,
+              "link": "https://www.deezer.com/track/15211179",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/6/0/516b92f3582908ee5c9393d361dc7bce.mp3?hdnea=exp=1795720470~acl=/api/1/1/5/1/6/0/516b92f3582908ee5c9393d361dc7bce.mp3*~data=user_id=0,application_id=42~hmac=d28974b34d84ae5eb9942e85db60ce0c2f51d8d33921986c0fe68c7a4bc8aa58",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Fool",
+            "length": "3:52",
+            "deezer": {
+              "id": 15209463,
+              "link": "https://www.deezer.com/track/15209463",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/0/0/f0072cb878a15511bf490d6299e10e29.mp3?hdnea=exp=1795720470~acl=/api/1/1/f/0/0/0/f0072cb878a15511bf490d6299e10e29.mp3*~data=user_id=0,application_id=42~hmac=5aa07b555347ea3f7f0b5e5ed02182014b3579798d5c2cbe1d6d7509290a1c02",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Te dejo Madrid",
+            "length": "3:07",
+            "deezer": {
+              "id": 40812001,
+              "link": "https://www.deezer.com/track/40812001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/3/0/6b3b14e434682aef313ff30d5a2c5f8d.mp3?hdnea=exp=1795720470~acl=/api/1/1/6/b/3/0/6b3b14e434682aef313ff30d5a2c5f8d.mp3*~data=user_id=0,application_id=42~hmac=2f61c21f88f905b18fd94388ea9e765cb6d8b26cffb6b9c14829ad4cf826c49e",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Poem to a Horse",
+            "length": "4:09",
+            "deezer": {
+              "id": 15211181,
+              "link": "https://www.deezer.com/track/15211181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/8/0/d980fc152d83f31d893357d8644c605e.mp3?hdnea=exp=1795720470~acl=/api/1/1/d/9/8/0/d980fc152d83f31d893357d8644c605e.mp3*~data=user_id=0,application_id=42~hmac=ce263b0eb34cca456299e8b2a3db0f4b86f26451b2535fecb7704217fd466f27",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Que me quedes tú",
+            "length": "4:48",
+            "deezer": {
+              "id": 15209464,
+              "link": "https://www.deezer.com/track/15209464",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/c/0/d3c499aed51ec01d1de56a18ff32ba65.mp3?hdnea=exp=1795720470~acl=/api/1/1/d/3/c/0/d3c499aed51ec01d1de56a18ff32ba65.mp3*~data=user_id=0,application_id=42~hmac=6b25b5cbb79c1aff8621efad8d8b117af89a668aa7caecebdc08e210cee84a0f",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Eyes Like Yours (Ojos así)",
+            "length": "3:58",
+            "deezer": {
+              "id": 15210158,
+              "link": "https://www.deezer.com/track/15210158",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/a/0/6ea98685b94d1644c9ab6961b0b3104d.mp3?hdnea=exp=1795720470~acl=/api/1/1/6/e/a/0/6ea98685b94d1644c9ab6961b0b3104d.mp3*~data=user_id=0,application_id=42~hmac=fdb2ddce34fc0e0df7932cec84383a691d512c51af5b86e5df026b040f050363",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Suerte (Whenever, Wherever)",
+            "length": "3:16",
+            "deezer": {
+              "id": 15212551,
+              "link": "https://www.deezer.com/track/15212551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/c/0/8fc8e5822c6b6548c714d46893e61e8d.mp3?hdnea=exp=1795720470~acl=/api/1/1/8/f/c/0/8fc8e5822c6b6548c714d46893e61e8d.mp3*~data=user_id=0,application_id=42~hmac=736f785297abea57e08444fe459a2ebb9c96722f08c6a4b74dfa2258fec764bf",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Te aviso, te anuncio (Tango)",
+            "length": "3:43",
+            "deezer": {
+              "id": 15209465,
+              "link": "https://www.deezer.com/track/15209465",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/7/0/607ee825df68cc419a5545483b44f225.mp3?hdnea=exp=1795720470~acl=/api/1/1/6/0/7/0/607ee825df68cc419a5545483b44f225.mp3*~data=user_id=0,application_id=42~hmac=6d4df8f5d5097458fc5a57137b89dfa85d208678459b1487650ea57899416337",
+              "preview_expires": "2026-11-26T19:14:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Shakira/Laundry Service.jpg"
+}

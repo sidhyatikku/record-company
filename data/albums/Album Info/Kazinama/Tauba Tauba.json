@@ -1,0 +1,52 @@
+{
+  "title": "Tauba Tauba",
+  "artist": "Kazinama",
+  "year": 2024,
+  "release_date": "2024-09-02",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c755ffb1-9ef5-47e4-8e88-bcb4c29d665d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/704382501"
+  },
+  "musicbrainz_id": "c755ffb1-9ef5-47e4-8e88-bcb4c29d665d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/64777c0c-3201-44b5-9c39-e472cd3d000a",
+      "barcode": "00602475903062",
+      "title": "Tauba Tauba",
+      "disambiguation": null,
+      "date": "2024-09-02",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tauba Tauba (Kazinama remix)",
+            "length": "3:09",
+            "artist": "Nusrat Fateh Ali Khan",
+            "deezer": {
+              "id": 3206575941,
+              "link": "https://www.deezer.com/track/3206575941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/c/0/dec33b3df60d331a5d4f035dc08b3c5e.mp3?hdnea=exp=1795656069~acl=/api/1/1/d/e/c/0/dec33b3df60d331a5d4f035dc08b3c5e.mp3*~data=user_id=0,application_id=42~hmac=fae15dc1d82114d353e99144a6290708d6a7c836846ce4507b5fb19732693366",
+              "preview_expires": "2026-11-26T01:21:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kazinama/Tauba Tauba.jpg"
+}

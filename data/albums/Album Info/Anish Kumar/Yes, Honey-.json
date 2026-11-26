@@ -1,0 +1,62 @@
+{
+  "title": "Yes, Honey?",
+  "artist": "Anish Kumar",
+  "year": 2025,
+  "release_date": "2025-10-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2a400b98-45f1-44e6-8a29-6982a8692d6d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/816820501"
+  },
+  "musicbrainz_id": "2a400b98-45f1-44e6-8a29-6982a8692d6d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ec51fbf6-957c-4d37-85b3-5df3cc81f048",
+      "barcode": "5059449259123",
+      "title": "Yes, Honey?",
+      "disambiguation": null,
+      "date": "2025-10-10",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "6:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yes, Honey?",
+            "length": "3:23",
+            "deezer": {
+              "id": 3542932511,
+              "link": "https://www.deezer.com/track/3542932511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/68681422e00e6cb9fdab0a6ab1e0c1b9.mp3?hdnea=exp=1795649271~acl=/api/1/1/6/8/6/0/68681422e00e6cb9fdab0a6ab1e0c1b9.mp3*~data=user_id=0,application_id=42~hmac=df6cc1e35033a83aa56c08385d885c4ffa00bc6e827d3660f103268f0fc6fbee",
+              "preview_expires": "2026-11-25T23:27:51Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Paging N.Y.C.",
+            "length": "3:20",
+            "deezer": {
+              "id": 3542932501,
+              "link": "https://www.deezer.com/track/3542932501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/8/0/558e2dfc952d9c2d2485155ea9421010.mp3?hdnea=exp=1795649271~acl=/api/1/1/5/5/8/0/558e2dfc952d9c2d2485155ea9421010.mp3*~data=user_id=0,application_id=42~hmac=9e193fddd8e15e3325b428d1d2ce4e4f4aa135be6535748d9fc3a32b3580e28f",
+              "preview_expires": "2026-11-25T23:27:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/Yes, Honey-.jpg"
+}

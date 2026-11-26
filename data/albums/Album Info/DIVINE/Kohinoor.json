@@ -1,0 +1,132 @@
+{
+  "title": "Kohinoor",
+  "artist": "Divine",
+  "year": 2019,
+  "release_date": "2019-10-09",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/595543f4-5273-4aee-b0ac-0b5dc00d2c4d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/113611632"
+  },
+  "musicbrainz_id": "595543f4-5273-4aee-b0ac-0b5dc00d2c4d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7d7ca4b6-2a35-4e30-ac3b-6e183d3d44f6",
+      "barcode": "602508384943",
+      "title": "Kohinoor",
+      "disambiguation": null,
+      "date": "2019-10-09",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "24:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kohinoor",
+            "length": "3:18",
+            "deezer": {
+              "id": 768712762,
+              "link": "https://www.deezer.com/track/768712762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/f/0/cff259517fd41c2cfde005275d83dfb6.mp3?hdnea=exp=1795653398~acl=/api/1/1/c/f/f/0/cff259517fd41c2cfde005275d83dfb6.mp3*~data=user_id=0,application_id=42~hmac=2181fed62c40dd1be64790929b938933e453ee6892da24e2744b44480d67e82f",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Wallah",
+            "length": "3:30",
+            "artist": "Divine feat. Shah RuLe",
+            "deezer": {
+              "id": 768712772,
+              "link": "https://www.deezer.com/track/768712772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/7/0/82747c325f47112d2afb94a4bae5b570.mp3?hdnea=exp=1795653398~acl=/api/1/1/8/2/7/0/82747c325f47112d2afb94a4bae5b570.mp3*~data=user_id=0,application_id=42~hmac=2152a006685346d4433d084abe4c9665cec9d135dd4e160aeb8127d8406e5977",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gandhi Money",
+            "length": "2:55",
+            "deezer": {
+              "id": 768712782,
+              "link": "https://www.deezer.com/track/768712782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/8/0/bd85e0616d869207ad71d672e62f3073.mp3?hdnea=exp=1795653398~acl=/api/1/1/b/d/8/0/bd85e0616d869207ad71d672e62f3073.mp3*~data=user_id=0,application_id=42~hmac=5c6632fbb7cc223fa69f93ca8cb9321b59fb102a44cf2ab78cd4bb794e2a4baf",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Nas Interlude (skit)",
+            "length": "1:28",
+            "deezer": {
+              "id": 768712792,
+              "link": "https://www.deezer.com/track/768712792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/2/0/8a20de47ee6c7c5eb4e3b5a4b8278639.mp3?hdnea=exp=1795653398~acl=/api/1/1/8/a/2/0/8a20de47ee6c7c5eb4e3b5a4b8278639.mp3*~data=user_id=0,application_id=42~hmac=bddbdf6b50ba1c5634212cb124d5ea3360d813cb4995a6247fca5fc5ea66c7c4",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Vibe Hai",
+            "length": "3:21",
+            "artist": "Divine feat. Shah RuLe, Aavrutti & D'evil",
+            "deezer": {
+              "id": 768712802,
+              "link": "https://www.deezer.com/track/768712802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/e/0/4de24b7c2c0af184216f6179620c7be5.mp3?hdnea=exp=1795653398~acl=/api/1/1/4/d/e/0/4de24b7c2c0af184216f6179620c7be5.mp3*~data=user_id=0,application_id=42~hmac=1219e6bb819bf0e798a79df75a7e45a86201007db013fe2f8737f8608ec3a641",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Chal Bombay",
+            "length": "2:54",
+            "deezer": {
+              "id": 768712812,
+              "link": "https://www.deezer.com/track/768712812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/b/0/5fbff6b3dd4d77141125ddbbf207025b.mp3?hdnea=exp=1795653398~acl=/api/1/1/5/f/b/0/5fbff6b3dd4d77141125ddbbf207025b.mp3*~data=user_id=0,application_id=42~hmac=3a6805eb290f599901b2105708f0ceab6d65fe3411c9adfe5d9fb96526a67282",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Remand",
+            "length": "3:30",
+            "artist": "Divine feat. Dave East",
+            "deezer": {
+              "id": 768712822,
+              "link": "https://www.deezer.com/track/768712822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/a/0/ddaa7e448357ec0514954f5664e8fe85.mp3?hdnea=exp=1795653398~acl=/api/1/1/d/d/a/0/ddaa7e448357ec0514954f5664e8fe85.mp3*~data=user_id=0,application_id=42~hmac=ed2e21c6295a5a36f73b94c8bd1e93cfd2bded5e233809333142ef350d0fa692",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Too Hype",
+            "length": "3:27",
+            "artist": "Divine feat. Sid Sriram & Sanjoy",
+            "deezer": {
+              "id": 768712832,
+              "link": "https://www.deezer.com/track/768712832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/7/0/cf7ed71df8b20d2e7b8ac143ea9c4d25.mp3?hdnea=exp=1795653398~acl=/api/1/1/c/f/7/0/cf7ed71df8b20d2e7b8ac143ea9c4d25.mp3*~data=user_id=0,application_id=42~hmac=5e3f532bbbdfe83fb45e003211c2b9b03bf931da412e78c61f763a251af4ee6e",
+              "preview_expires": "2026-11-26T00:36:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/DIVINE/Kohinoor.jpg"
+}

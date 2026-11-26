@@ -1,0 +1,51 @@
+{
+  "title": "Bhagwaan",
+  "artist": "Karma & Sez on the Beat",
+  "year": 2023,
+  "release_date": "2023-12-31",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/60b58ad6-9b9f-4a1e-9a1c-c31a0b124a9a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/520102452"
+  },
+  "musicbrainz_id": "60b58ad6-9b9f-4a1e-9a1c-c31a0b124a9a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b7a33b64-1a91-4cae-b9d9-96cffcf35c8b",
+      "barcode": "859781236838",
+      "title": "Bhagwaan",
+      "disambiguation": null,
+      "date": "2023-12-31",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bhagwaan",
+            "length": "3:26",
+            "deezer": {
+              "id": 2571519022,
+              "link": "https://www.deezer.com/track/2571519022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/c/0/21c22d2018691a9b435959a7bb8ef6bc.mp3?hdnea=exp=1795655946~acl=/api/1/1/2/1/c/0/21c22d2018691a9b435959a7bb8ef6bc.mp3*~data=user_id=0,application_id=42~hmac=e77ceac8f538c3c55f70823e660a70a7a9397de7354f7cd007a060975a75c887",
+              "preview_expires": "2026-11-26T01:19:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karma/Bhagwaan.jpg"
+}

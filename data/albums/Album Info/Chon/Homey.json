@@ -1,0 +1,185 @@
+{
+  "title": "Homey",
+  "artist": "CHON",
+  "year": 2017,
+  "release_date": "2017-06-16",
+  "type": "Album",
+  "description": "Homey is the second studio album by the American progressive rock band Chon. It was released on June 16, 2017, through Sumerian Records. It was the band's first release not to feature bassist Drew Pelisek.",
+  "genres": [
+    "math rock",
+    "rock"
+  ],
+  "tags": [
+    "math rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f02c572c-e5e8-4c72-8b9d-08832b7697f5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Homey_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003041413",
+    "discogs": "https://www.discogs.com/master/1198154",
+    "wikidata": "https://www.wikidata.org/wiki/Q39071003",
+    "deezer": "https://www.deezer.com/album/764295141"
+  },
+  "musicbrainz_id": "f02c572c-e5e8-4c72-8b9d-08832b7697f5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/55063ae9-a6c2-443c-bdf6-e412e5e1ce9e",
+      "barcode": null,
+      "title": "Homey",
+      "disambiguation": null,
+      "date": "2017-06-16",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "39:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sleepy Tea",
+            "length": "3:05",
+            "deezer": {
+              "id": 3390060011,
+              "link": "https://www.deezer.com/track/3390060011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/8/0/0b88509f44bb1622e5d36c0809ec6cf2.mp3?hdnea=exp=1795652778~acl=/api/1/1/0/b/8/0/0b88509f44bb1622e5d36c0809ec6cf2.mp3*~data=user_id=0,application_id=42~hmac=2e832e3bc800c2eb7cb99593e8fa63b0113d229c0eb688dab917e70b69037f6c",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Waterslide",
+            "length": "3:26",
+            "deezer": {
+              "id": 3390060021,
+              "link": "https://www.deezer.com/track/3390060021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/6/0/e1666c75c2533615bed36b5f5ce2b624.mp3?hdnea=exp=1795652778~acl=/api/1/1/e/1/6/0/e1666c75c2533615bed36b5f5ce2b624.mp3*~data=user_id=0,application_id=42~hmac=35810b7313b670be5c1076a4ee83fa4a2988bdd8ed57ebb2ec8414a384ca18a1",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Berry Streets",
+            "length": "3:28",
+            "artist": "CHON feat. GoYama",
+            "deezer": {
+              "id": 3390060031,
+              "link": "https://www.deezer.com/track/3390060031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/5/0/07532b3f5cc3ae310c2c3d0c0885eb91.mp3?hdnea=exp=1795652778~acl=/api/1/1/0/7/5/0/07532b3f5cc3ae310c2c3d0c0885eb91.mp3*~data=user_id=0,application_id=42~hmac=2a8f24257957e056edd3f07a16e93f6feb4d99ab7084d83b278542711bec64e4",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "No Signal",
+            "length": "3:48",
+            "deezer": {
+              "id": 3390060041,
+              "link": "https://www.deezer.com/track/3390060041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/a/0/13a78c63292835bbddf224d4786800dd.mp3?hdnea=exp=1795652778~acl=/api/1/1/1/3/a/0/13a78c63292835bbddf224d4786800dd.mp3*~data=user_id=0,application_id=42~hmac=2803ddcd37637c70b83b1308f80ad58e66e5405ce97e51e16353e74bbaaf6eab",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Checkpoint",
+            "length": "3:05",
+            "deezer": {
+              "id": 3390060051,
+              "link": "https://www.deezer.com/track/3390060051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/a/0/06af951976271bc30668cdbe001654ea.mp3?hdnea=exp=1795652778~acl=/api/1/1/0/6/a/0/06af951976271bc30668cdbe001654ea.mp3*~data=user_id=0,application_id=42~hmac=80087fc1d5eb8324d82879464f220431aa35b60ea909596f25101838cc7ed623",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Nayhoo",
+            "length": "2:51",
+            "artist": "CHON feat. Masego & Lophiile",
+            "deezer": {
+              "id": 3390060061,
+              "link": "https://www.deezer.com/track/3390060061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/3/0/de37766ffb91ddb0b0398c01badc7413.mp3?hdnea=exp=1795652778~acl=/api/1/1/d/e/3/0/de37766ffb91ddb0b0398c01badc7413.mp3*~data=user_id=0,application_id=42~hmac=0dc6fa4113c4d0b42c054e120482f1a9d95fd08cf7edb696f036a9fd1d42a554",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Here and There",
+            "length": "3:40",
+            "deezer": {
+              "id": 3390060071,
+              "link": "https://www.deezer.com/track/3390060071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/9/0/0e9e43261626b78666abe196649b8881.mp3?hdnea=exp=1795652778~acl=/api/1/1/0/e/9/0/0e9e43261626b78666abe196649b8881.mp3*~data=user_id=0,application_id=42~hmac=ec8fbba4e98a4f21a6a94c0a0e66f581e8bb32bd809291344997771f2e21ee6b",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Space",
+            "length": "2:47",
+            "deezer": {
+              "id": 3390060081,
+              "link": "https://www.deezer.com/track/3390060081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/e/0/f8eb48524f29be2205e10b6fcf6ae74c.mp3?hdnea=exp=1795652778~acl=/api/1/1/f/8/e/0/f8eb48524f29be2205e10b6fcf6ae74c.mp3*~data=user_id=0,application_id=42~hmac=64196f5a6d370ee087148524fd95c30f97fc74f6d434023c311495619cc0c5f5",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Feel This Way",
+            "length": "3:43",
+            "artist": "CHON feat. Giraffage",
+            "deezer": {
+              "id": 3390060091,
+              "link": "https://www.deezer.com/track/3390060091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/f/0/6bf9b0ea20feae9d0bc28152f41dfab6.mp3?hdnea=exp=1795652778~acl=/api/1/1/6/b/f/0/6bf9b0ea20feae9d0bc28152f41dfab6.mp3*~data=user_id=0,application_id=42~hmac=2d9b543df1a3e2bd5f42431ebdcb289e08f7cef5f17fffce793c74f237bf99c8",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Continue?",
+            "length": "4:15",
+            "deezer": {
+              "id": 3390060101,
+              "link": "https://www.deezer.com/track/3390060101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/3/0/df32546ff7e199843f096766e4eeb4bf.mp3?hdnea=exp=1795652778~acl=/api/1/1/d/f/3/0/df32546ff7e199843f096766e4eeb4bf.mp3*~data=user_id=0,application_id=42~hmac=dec52be411e0b7688379fd3ae975cef188c8c75739309e3e33a939318c7be5f5",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Glitch",
+            "length": "2:05",
+            "artist": "CHON feat. ROM",
+            "deezer": {
+              "id": 3390060111,
+              "link": "https://www.deezer.com/track/3390060111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/d/0/b0d775ab6cf71bffa7b2890a7640435d.mp3?hdnea=exp=1795652778~acl=/api/1/1/b/0/d/0/b0d775ab6cf71bffa7b2890a7640435d.mp3*~data=user_id=0,application_id=42~hmac=dd1c7d2d2b6e9c8a7a2dc8fb7a2ad880f79b92fd82ec68b01d2ce8f722b86587",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Wave Bounce",
+            "length": "3:01",
+            "deezer": {
+              "id": 3390060121,
+              "link": "https://www.deezer.com/track/3390060121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/6/0/cc6e65c2ad7d7b613c03e2af9d747ca9.mp3?hdnea=exp=1795652778~acl=/api/1/1/c/c/6/0/cc6e65c2ad7d7b613c03e2af9d747ca9.mp3*~data=user_id=0,application_id=42~hmac=b0f9406d50093e9d55fc4a1862b3f1ffb5263995f8a0c2e59cac1324c9edc70c",
+              "preview_expires": "2026-11-26T00:26:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chon/Homey.jpg"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Never Sleep",
+  "artist": "Travis Scott, NAV & Lil Baby",
+  "year": 2022,
+  "release_date": "2022-07-29",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/87a0b3c0-fb66-473d-8281-2aababf4ee81",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/340572507"
+  },
+  "musicbrainz_id": "87a0b3c0-fb66-473d-8281-2aababf4ee81",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/424a2522-e9d2-45fb-9a59-44abe86cac52",
+      "barcode": "00602448355669",
+      "title": "Never Sleep",
+      "disambiguation": null,
+      "date": "2022-07-29",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Never Sleep",
+            "length": "3:06",
+            "artist": "NAV, Lil Baby & Travis Scott",
+            "deezer": {
+              "id": 1843949937,
+              "link": "https://www.deezer.com/track/1843949937",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/b/0/c2b099c2c3f862733784047d3f7db7df.mp3?hdnea=exp=1795718761~acl=/api/1/1/c/2/b/0/c2b099c2c3f862733784047d3f7db7df.mp3*~data=user_id=0,application_id=42~hmac=e5fd78600c04dacf056168a4d4e9fa781e697ac42c2e328ab2bc962ba0b130ca",
+              "preview_expires": "2026-11-26T18:46:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/NAV/Never Sleep.png"
+}

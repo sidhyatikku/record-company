@@ -1,0 +1,46 @@
+{
+  "title": "Sitara",
+  "artist": "makaan",
+  "year": 2024,
+  "release_date": "2024-02-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0zw5tC1zl3uaScwCpUX75V",
+    "deezer": "https://www.deezer.com/album/543508692"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0zw5tC1zl3uaScwCpUX75V",
+      "title": "Sitara",
+      "date": "2024-02-09"
+    },
+    "total_tracks": 1,
+    "total_length": "4:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sitara",
+            "length": "4:05",
+            "deezer": {
+              "id": 2648433372,
+              "link": "https://www.deezer.com/track/2648433372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/b/0/48b2e6bfb3abff6ee183f1fa21ef44ff.mp3?hdnea=exp=1795718191~acl=/api/1/1/4/8/b/0/48b2e6bfb3abff6ee183f1fa21ef44ff.mp3*~data=user_id=0,application_id=42~hmac=c5f39ebb22fb584d18e8e07c0a3ceae8f6b571ba6897e664581d373f33095c5e",
+              "preview_expires": "2026-11-26T18:36:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/makaan/Sitara.jpg"
+}

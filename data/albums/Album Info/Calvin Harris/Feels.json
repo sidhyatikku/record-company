@@ -1,0 +1,66 @@
+{
+  "title": "Feels",
+  "artist": "Calvin Harris feat. Pharrell Williams, Katy Perry & Big Sean",
+  "year": 2017,
+  "release_date": "2017-06-16",
+  "type": "Single",
+  "description": "\"Feels\" is a song by the Scottish DJ and record producer Calvin Harris featuring the American musicians Pharrell Williams, Katy Perry and Big Sean. It was released on 15 June 2017 through Columbia Records as the fourth single from Harris's fifth album, Funk Wav Bounces Vol. 1 (2017). Starrah assisted the artists in writing the song.",
+  "genres": [
+    "electronic",
+    "dance",
+    "house",
+    "pop",
+    "ska"
+  ],
+  "tags": [
+    "electronic",
+    "dance",
+    "house",
+    "pop",
+    "ska"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/41902d54-1f05-43f0-8cc7-47c1b0b0e323",
+    "wikipedia": "https://en.wikipedia.org/wiki/Feels_(song)",
+    "allmusic": "https://www.allmusic.com/album/mw0003122590",
+    "discogs": "https://www.discogs.com/master/1225087",
+    "wikidata": "https://www.wikidata.org/wiki/Q30303535",
+    "deezer": "https://www.deezer.com/album/43240681"
+  },
+  "musicbrainz_id": "41902d54-1f05-43f0-8cc7-47c1b0b0e323",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/45789b33-4582-4446-9311-c887be0c3508",
+      "barcode": "0886446569925",
+      "title": "Feels",
+      "disambiguation": "qobuz, hi-res",
+      "date": "2017-06-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Feels",
+            "length": "3:43",
+            "deezer": {
+              "id": 374051471,
+              "link": "https://www.deezer.com/track/374051471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/e/0/9ae28d3a010d95112358f9542f121685.mp3?hdnea=exp=1795652642~acl=/api/1/1/9/a/e/0/9ae28d3a010d95112358f9542f121685.mp3*~data=user_id=0,application_id=42~hmac=4230174426c4f30fa9f6254c89d5e93ba4843922b5e41895eb85b830349d596b",
+              "preview_expires": "2026-11-26T00:24:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Calvin Harris/Feels.jpg"
+}

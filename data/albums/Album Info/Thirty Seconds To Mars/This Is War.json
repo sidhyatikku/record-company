@@ -1,0 +1,187 @@
+{
+  "title": "This Is War",
+  "artist": "Thirty Seconds to Mars",
+  "year": 2009,
+  "release_date": "2009-12-04",
+  "type": "Album",
+  "description": "This Is War is the third studio album by American rock band Thirty Seconds to Mars, released on December 8, 2009, through Virgin Records. It was the band's first studio album in four years, after the breakthrough of their previous work, A Beautiful Lie (2005). The album was recorded over a span of two years while the band was in the midst of a legal dispute with Virgin over an alleged breach-of-contract. The case was later settled in April 2009, and the band signed to EMI later that year.",
+  "genres": [
+    "alternative rock",
+    "rock"
+  ],
+  "tags": [
+    "alt rock",
+    "alternative rock",
+    "rock",
+    "escape"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/016f0068-f33e-4a46-9d60-d7db6100d24a",
+    "wikipedia": "https://en.wikipedia.org/wiki/This_Is_War",
+    "allmusic": "https://www.allmusic.com/album/mw0001792357",
+    "discogs": "https://www.discogs.com/master/229257",
+    "wikidata": "https://www.wikidata.org/wiki/Q255304",
+    "deezer": "https://www.deezer.com/album/142649542"
+  },
+  "musicbrainz_id": "016f0068-f33e-4a46-9d60-d7db6100d24a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/277d7d63-88ce-4162-905d-454ab5da3517",
+      "barcode": "05099996511152",
+      "title": "This Is War",
+      "disambiguation": null,
+      "date": "2009-12-04",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "1:00:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Escape",
+            "length": "2:23",
+            "deezer": {
+              "id": 934217812,
+              "link": "https://www.deezer.com/track/934217812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/9/0/5297859ce1ae257c60052491cb00d620.mp3?hdnea=exp=1795721866~acl=/api/1/1/5/2/9/0/5297859ce1ae257c60052491cb00d620.mp3*~data=user_id=0,application_id=42~hmac=a3a308ced90c4dd832dda9ee437167a99f1069eddb0b8533577be89e4736f73d",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Night of the Hunter",
+            "length": "5:40",
+            "deezer": {
+              "id": 934217822,
+              "link": "https://www.deezer.com/track/934217822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/5/0/5c5498754599fe571643cdff9f5bf7f6.mp3?hdnea=exp=1795721866~acl=/api/1/1/5/c/5/0/5c5498754599fe571643cdff9f5bf7f6.mp3*~data=user_id=0,application_id=42~hmac=342eba2f16eb3c6b57cbb3cce8e4d217b8b4547c1cdf6b51c5322326248db11f",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kings and Queens",
+            "length": "5:47",
+            "deezer": {
+              "id": 934217832,
+              "link": "https://www.deezer.com/track/934217832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/4/0/0c4d1edf8e434c2d554259e95a7a2b6a.mp3?hdnea=exp=1795721866~acl=/api/1/1/0/c/4/0/0c4d1edf8e434c2d554259e95a7a2b6a.mp3*~data=user_id=0,application_id=42~hmac=d042a0c8596d3fd7862ef6efc4debc64023b812183886d33800fecc6048b0135",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "This Is War",
+            "length": "5:26",
+            "deezer": {
+              "id": 934217842,
+              "link": "https://www.deezer.com/track/934217842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d0dea85798817c32f29f29d536ecdd1.mp3?hdnea=exp=1795721866~acl=/api/1/1/0/d/0/0/0d0dea85798817c32f29f29d536ecdd1.mp3*~data=user_id=0,application_id=42~hmac=1cae617927f2d2653a09ad3c94c1b8d3174da4927ada98ebf23c2d67ae05809b",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "100 Suns",
+            "length": "1:58",
+            "deezer": {
+              "id": 934217852,
+              "link": "https://www.deezer.com/track/934217852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/c/0/b3ce7213316de6a9f69712bfec6ffad1.mp3?hdnea=exp=1795721866~acl=/api/1/1/b/3/c/0/b3ce7213316de6a9f69712bfec6ffad1.mp3*~data=user_id=0,application_id=42~hmac=841da1f4bf547a4c8088afbdf25f12f31b0397f9377b79cdd11af56744d87f75",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hurricane",
+            "length": "6:12",
+            "deezer": {
+              "id": 934217862,
+              "link": "https://www.deezer.com/track/934217862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/4/0/a345d723935917fb8ec775d1f6bba800.mp3?hdnea=exp=1795721866~acl=/api/1/1/a/3/4/0/a345d723935917fb8ec775d1f6bba800.mp3*~data=user_id=0,application_id=42~hmac=7bfc6f889464a03251b71d006614eb338a3df5236e194d5aae658bc10f3db306",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Closer to the Edge",
+            "length": "4:33",
+            "deezer": {
+              "id": 934217872,
+              "link": "https://www.deezer.com/track/934217872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/f/0/b1f44a9ca85f193c4529ac830dc1a6b1.mp3?hdnea=exp=1795721866~acl=/api/1/1/b/1/f/0/b1f44a9ca85f193c4529ac830dc1a6b1.mp3*~data=user_id=0,application_id=42~hmac=509bbde494ec3c2a6a4c541174b90104e15a5a1a2e82ddd3b94afef5ea30ceed",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Vox Populi",
+            "length": "5:42",
+            "deezer": {
+              "id": 934217882,
+              "link": "https://www.deezer.com/track/934217882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/0/0/540aea63ccca8b13107ecbe5b5af35d6.mp3?hdnea=exp=1795721866~acl=/api/1/1/5/4/0/0/540aea63ccca8b13107ecbe5b5af35d6.mp3*~data=user_id=0,application_id=42~hmac=ed5b6e87fe7e8d2d14628800971b8d99317b84e1118a42e639d2c48ba032b647",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Search and Destroy",
+            "length": "5:38",
+            "deezer": {
+              "id": 934217892,
+              "link": "https://www.deezer.com/track/934217892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/2/0/58265df00f531a40e946133506e5ab38.mp3?hdnea=exp=1795721866~acl=/api/1/1/5/8/2/0/58265df00f531a40e946133506e5ab38.mp3*~data=user_id=0,application_id=42~hmac=cf0e3ea16c53e3b98e969c13c945cace3365f8a7f85750b29af9ad2176bea106",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Alibi",
+            "length": "5:59",
+            "deezer": {
+              "id": 934217902,
+              "link": "https://www.deezer.com/track/934217902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/c/0/3dc2cf369f57258549bffe648349d62a.mp3?hdnea=exp=1795721866~acl=/api/1/1/3/d/c/0/3dc2cf369f57258549bffe648349d62a.mp3*~data=user_id=0,application_id=42~hmac=93a4d8b348d59db1c61629507f23ebb22c105534829ceecd0544faa301e7b97c",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Stranger in a Strange Land",
+            "length": "6:54",
+            "deezer": {
+              "id": 934217912,
+              "link": "https://www.deezer.com/track/934217912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/2/0/c624aebb518b70d0c433b98c4fdb6448.mp3?hdnea=exp=1795721866~acl=/api/1/1/c/6/2/0/c624aebb518b70d0c433b98c4fdb6448.mp3*~data=user_id=0,application_id=42~hmac=72fb10d535253d1bca2ab81ab5597c625b1cccdd72e4e445c9803d2d91fc79aa",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "L490",
+            "length": "4:26",
+            "deezer": {
+              "id": 934217922,
+              "link": "https://www.deezer.com/track/934217922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/0/0/b20e25d7c7cc79c16cf9abb543064470.mp3?hdnea=exp=1795721866~acl=/api/1/1/b/2/0/0/b20e25d7c7cc79c16cf9abb543064470.mp3*~data=user_id=0,application_id=42~hmac=882b4e0ee950d12be506073f2a0d0b8180a8b886427c41fd3e358a8cf8e5221d",
+              "preview_expires": "2026-11-26T19:37:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Thirty Seconds To Mars/This Is War.jpg"
+}

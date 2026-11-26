@@ -1,0 +1,131 @@
+{
+  "title": "Serenity",
+  "artist": "Sea in the Sky",
+  "year": 2014,
+  "release_date": "2014-12-27",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "djent",
+    "progressive metal",
+    "progressive rock",
+    "rock"
+  ],
+  "tags": [
+    "djent",
+    "progressive metal",
+    "progressive rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8e2be505-1831-45db-8ed8-13a0cafcd404",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/9436180"
+  },
+  "musicbrainz_id": "8e2be505-1831-45db-8ed8-13a0cafcd404",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b14f4aae-04b7-4945-ac36-c96cb2a2fbbb",
+      "barcode": null,
+      "title": "Serenity",
+      "disambiguation": null,
+      "date": "2014-12-27",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "29:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tamagotchi",
+            "length": "3:24",
+            "deezer": {
+              "id": 92945882,
+              "link": "https://www.deezer.com/track/92945882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/2/0/c52a4dda1b817d82f4e083ed3a8d2e85.mp3?hdnea=exp=1795720356~acl=/api/1/1/c/5/2/0/c52a4dda1b817d82f4e083ed3a8d2e85.mp3*~data=user_id=0,application_id=42~hmac=19693395d9233eab394dbd4733224cac2b5cd60ff96b8a75b825d2e6d1c63ef9",
+              "preview_expires": "2026-11-26T19:12:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tread Lightly",
+            "length": "5:28",
+            "deezer": {
+              "id": 92945884,
+              "link": "https://www.deezer.com/track/92945884",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92f532cdbdd3aed552631c3351edd8d0.mp3?hdnea=exp=1795720356~acl=/api/1/1/9/2/f/0/92f532cdbdd3aed552631c3351edd8d0.mp3*~data=user_id=0,application_id=42~hmac=56b32e4530b72b5ef352997502f3553c1a9199e3be2b7eb94e0287341e2b0edb",
+              "preview_expires": "2026-11-26T19:12:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Visions",
+            "length": "3:13",
+            "deezer": {
+              "id": 92945886,
+              "link": "https://www.deezer.com/track/92945886",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad4f0c410817d01c792e1f668cfb30ab.mp3?hdnea=exp=1795720356~acl=/api/1/1/a/d/4/0/ad4f0c410817d01c792e1f668cfb30ab.mp3*~data=user_id=0,application_id=42~hmac=bb6889acd64ce24b12aa947b680074fd9380e8d0408ae2be54884769c4ee6090",
+              "preview_expires": "2026-11-26T19:12:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Future Babez",
+            "length": "4:11",
+            "deezer": {
+              "id": 92945888,
+              "link": "https://www.deezer.com/track/92945888",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/d/0/08d81194774872270a920f584fbffe59.mp3?hdnea=exp=1795720356~acl=/api/1/1/0/8/d/0/08d81194774872270a920f584fbffe59.mp3*~data=user_id=0,application_id=42~hmac=4283096f5e3268f781eb7980930eea94ec48f6946e1bfc5092ca16cfc1bd18b3",
+              "preview_expires": "2026-11-26T19:12:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Dingus",
+            "length": "4:45",
+            "deezer": {
+              "id": 92945890,
+              "link": "https://www.deezer.com/track/92945890",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/8/0/9d8fa8c173570eafa4cc382fd4ea7e48.mp3?hdnea=exp=1795720356~acl=/api/1/1/9/d/8/0/9d8fa8c173570eafa4cc382fd4ea7e48.mp3*~data=user_id=0,application_id=42~hmac=572be782765f633884ac78fb6099ab8cb6ebc9a3564d8234c924d30d65fc4657",
+              "preview_expires": "2026-11-26T19:12:36Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Krill",
+            "length": "4:01",
+            "deezer": {
+              "id": 92945892,
+              "link": "https://www.deezer.com/track/92945892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/f/0/9cfe825e46b97e1df0214154deeca54f.mp3?hdnea=exp=1795720356~acl=/api/1/1/9/c/f/0/9cfe825e46b97e1df0214154deeca54f.mp3*~data=user_id=0,application_id=42~hmac=e41ef2e7d1c468c01d3a0b717409fdcd7d59fefb7e7d6dbf9cd88b2b7ecc0448",
+              "preview_expires": "2026-11-26T19:12:36Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Serenity",
+            "length": "4:06",
+            "deezer": {
+              "id": 92945894,
+              "link": "https://www.deezer.com/track/92945894",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/6/0/2661906327f0039be28e6b92886c1f4f.mp3?hdnea=exp=1795720356~acl=/api/1/1/2/6/6/0/2661906327f0039be28e6b92886c1f4f.mp3*~data=user_id=0,application_id=42~hmac=48b043cee9005759afea8adf23cfa50dae93a04cb6c6f1c65354eb55ffec1504",
+              "preview_expires": "2026-11-26T19:12:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sea in the Sky/Serenity.jpg"
+}

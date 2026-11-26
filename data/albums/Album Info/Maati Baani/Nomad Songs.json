@@ -1,0 +1,85 @@
+{
+  "title": "Nomad Songs",
+  "artist": "Maatibaani",
+  "year": 2021,
+  "release_date": "2021-03-04",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/32a4a642-7c4f-43cc-b456-161939924520",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/211868272"
+  },
+  "musicbrainz_id": "32a4a642-7c4f-43cc-b456-161939924520",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/562c4d32-24f7-4020-8a24-3784c8b57741",
+      "barcode": "3616553709429",
+      "title": "Nomad Songs",
+      "disambiguation": null,
+      "date": "2021-03-04",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "24:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Boondan Boondan",
+            "length": "7:08",
+            "deezer": {
+              "id": 1262636312,
+              "link": "https://www.deezer.com/track/1262636312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/4/0/7847b56f8a623c298caf947c89fcaee4.mp3?hdnea=exp=1795718167~acl=/api/1/1/7/8/4/0/7847b56f8a623c298caf947c89fcaee4.mp3*~data=user_id=0,application_id=42~hmac=b673c547a06d3cb01e8550234bdbfb0ab4baccfe65d9b27381ca77b1caff4a9e",
+              "preview_expires": "2026-11-26T18:36:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Moko Kahaan",
+            "length": "6:03",
+            "deezer": {
+              "id": 1262636322,
+              "link": "https://www.deezer.com/track/1262636322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/2/0/562c6f90d936c1e4cc810b64ec37a01d.mp3?hdnea=exp=1795718167~acl=/api/1/1/5/6/2/0/562c6f90d936c1e4cc810b64ec37a01d.mp3*~data=user_id=0,application_id=42~hmac=912ce9e7030ded23fb6525df26eb062a166eaaea393a24386267f7cb2aaf3931",
+              "preview_expires": "2026-11-26T18:36:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Albela Sajan",
+            "length": "6:06",
+            "artist": "Maati Baani & Elena Botica",
+            "deezer": {
+              "id": 1262636332,
+              "link": "https://www.deezer.com/track/1262636332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/3/0/963fe5d689f65ddd35fe640fa8d4d3b7.mp3?hdnea=exp=1795718167~acl=/api/1/1/9/6/3/0/963fe5d689f65ddd35fe640fa8d4d3b7.mp3*~data=user_id=0,application_id=42~hmac=a76d3ba33210983d95e7876aae892983b484fd757b24c6d3a8d5758405088aac",
+              "preview_expires": "2026-11-26T18:36:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dhoom",
+            "length": "5:03",
+            "deezer": {
+              "id": 1262636342,
+              "link": "https://www.deezer.com/track/1262636342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/7/0/887d8b86b5c05b23f7f89657c522398a.mp3?hdnea=exp=1795718167~acl=/api/1/1/8/8/7/0/887d8b86b5c05b23f7f89657c522398a.mp3*~data=user_id=0,application_id=42~hmac=93816e4631693957c8792667fd1a16e77861636947fe54431afc2c34e2b6d9e4",
+              "preview_expires": "2026-11-26T18:36:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Maati Baani/Nomad Songs.jpg"
+}

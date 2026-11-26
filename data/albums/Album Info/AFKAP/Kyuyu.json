@@ -1,0 +1,52 @@
+{
+  "title": "Kyuyu",
+  "artist": "AFKAP",
+  "year": 2020,
+  "release_date": "2020-04-10",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5RAeTHU3XYGr9aMQIz7j4K",
+    "deezer": "https://www.deezer.com/album/141558892"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5RAeTHU3XYGr9aMQIz7j4K",
+      "title": "Kyuyu",
+      "date": "2020-04-10"
+    },
+    "total_tracks": 1,
+    "total_length": "4:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kyuyu",
+            "length": "4:19",
+            "deezer": {
+              "id": 928878212,
+              "link": "https://www.deezer.com/track/928878212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/5/0/795f635fd9f3bdc613259464a6f81d88.mp3?hdnea=exp=1795648991~acl=/api/1/1/7/9/5/0/795f635fd9f3bdc613259464a6f81d88.mp3*~data=user_id=0,application_id=42~hmac=f2745679407031e54706c28cfd3659211db1e57042529fec2f549532f7f648ce",
+              "preview_expires": "2026-11-25T23:23:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/AFKAP/Kyuyu.jpg"
+}

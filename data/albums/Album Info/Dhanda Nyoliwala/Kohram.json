@@ -1,0 +1,208 @@
+{
+  "title": "Kohram",
+  "artist": "Dhanda Nyoliwala",
+  "year": 2026,
+  "release_date": "2026-04-16",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fe54a0c7-c24f-4993-a3cb-1e57f8529acb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/962843141"
+  },
+  "musicbrainz_id": "fe54a0c7-c24f-4993-a3cb-1e57f8529acb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/598f1d8f-2ab3-461f-a2dd-47b09a27d044",
+      "barcode": "00199957860710",
+      "title": "Kohram",
+      "disambiguation": null,
+      "date": "2026-04-16",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "43:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro (Kohram)",
+            "length": "3:15",
+            "deezer": {
+              "id": 3964715251,
+              "link": "https://www.deezer.com/track/3964715251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/5/0/c65ec4afc369bab28b4477cf65de70ff.mp3?hdnea=exp=1795653293~acl=/api/1/1/c/6/5/0/c65ec4afc369bab28b4477cf65de70ff.mp3*~data=user_id=0,application_id=42~hmac=958b15a8c6a31cc0a93d6118081a5ee1a775fc8ddaff99a5ce7e503782ce87e2",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "No Fluke",
+            "length": "3:29",
+            "deezer": {
+              "id": 3964715261,
+              "link": "https://www.deezer.com/track/3964715261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/d/0/bad320893cce28e26df3dcd0ab375a9c.mp3?hdnea=exp=1795653293~acl=/api/1/1/b/a/d/0/bad320893cce28e26df3dcd0ab375a9c.mp3*~data=user_id=0,application_id=42~hmac=cb005dfb36fb6821b46f1d7282b8ef3aa10ab952ead451c89d5198ccd3c9e700",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Tension",
+            "length": "2:24",
+            "deezer": {
+              "id": 3964715271,
+              "link": "https://www.deezer.com/track/3964715271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/4/0/2b40b62faa78d9dee82a4d5064e238b3.mp3?hdnea=exp=1795653293~acl=/api/1/1/2/b/4/0/2b40b62faa78d9dee82a4d5064e238b3.mp3*~data=user_id=0,application_id=42~hmac=5afdca88bf2f03f0db459dba3d4603ba6926f4bf76e26ef1620ab349f88fd3fd",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Maruti",
+            "length": "3:34",
+            "artist": "Dhanda Nyoliwala, Ron Likhari & Miki Malang",
+            "deezer": {
+              "id": 3964715281,
+              "link": "https://www.deezer.com/track/3964715281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/6/0/58647be664efdd803bc810f631f40dfb.mp3?hdnea=exp=1795653293~acl=/api/1/1/5/8/6/0/58647be664efdd803bc810f631f40dfb.mp3*~data=user_id=0,application_id=42~hmac=0c634701497091b6c72f11bb9d370f5137d1a0e411bdc5efd2a344e14047ed1c",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Underground",
+            "length": "3:25",
+            "deezer": {
+              "id": 3964715291,
+              "link": "https://www.deezer.com/track/3964715291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/1/0/0f15324cf82bf50be2e93768cd417030.mp3?hdnea=exp=1795653293~acl=/api/1/1/0/f/1/0/0f15324cf82bf50be2e93768cd417030.mp3*~data=user_id=0,application_id=42~hmac=2faf75042f24608385b1ad5765e92461eec4f20768d78f6d314731ab756ffffa",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "BLACK RIDE",
+            "length": "2:50",
+            "artist": "Dhanda Nyoliwala & Hammy Muzic",
+            "deezer": {
+              "id": 3964715301,
+              "link": "https://www.deezer.com/track/3964715301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/f/0/c4f060c939be2756ebbff24b471435d5.mp3?hdnea=exp=1795653293~acl=/api/1/1/c/4/f/0/c4f060c939be2756ebbff24b471435d5.mp3*~data=user_id=0,application_id=42~hmac=c41ee229953a05576811eb231412723970db203c385ae7bfe42c0febed9ac9cf",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Whispers & Wounds",
+            "length": "1:22",
+            "deezer": {
+              "id": 3964715311,
+              "link": "https://www.deezer.com/track/3964715311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/3/0/5b3e5d3827e7fc2b59b59778ece0454c.mp3?hdnea=exp=1795653293~acl=/api/1/1/5/b/3/0/5b3e5d3827e7fc2b59b59778ece0454c.mp3*~data=user_id=0,application_id=42~hmac=78bc59e4c0082ec7e7d31e2bf855e0919749e08962b503566c0a55859894dbf3",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Balkan Girl",
+            "length": "3:26",
+            "artist": "Dhanda Nyoliwala & Xvir Grewal",
+            "deezer": {
+              "id": 3964715321,
+              "link": "https://www.deezer.com/track/3964715321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/4/0/0944ebddc24910a149be5455ad2b02a4.mp3?hdnea=exp=1795653293~acl=/api/1/1/0/9/4/0/0944ebddc24910a149be5455ad2b02a4.mp3*~data=user_id=0,application_id=42~hmac=397666dc5e588a456dd81e87a450dadd5401cea23617aae82a870598bb0aa10c",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Nobody Came",
+            "length": "4:11",
+            "deezer": {
+              "id": 3964715331,
+              "link": "https://www.deezer.com/track/3964715331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/7/0/31767a0abfed322619d4bc506cfa5ee5.mp3?hdnea=exp=1795653293~acl=/api/1/1/3/1/7/0/31767a0abfed322619d4bc506cfa5ee5.mp3*~data=user_id=0,application_id=42~hmac=e3cd181a9a682e5bef5f512950eb4fdce45c178387e7bcfdb58856127ae2fe8e",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Forever",
+            "length": "2:36",
+            "deezer": {
+              "id": 3964715341,
+              "link": "https://www.deezer.com/track/3964715341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/b/0/1bb23c012112145f098178088c1b8dee.mp3?hdnea=exp=1795653293~acl=/api/1/1/1/b/b/0/1bb23c012112145f098178088c1b8dee.mp3*~data=user_id=0,application_id=42~hmac=9900d6c4130a8d58aadface2f6dd47f8e61f9c90c82a575aabb07e227166b82e",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Vomit On Paper",
+            "length": "3:42",
+            "deezer": {
+              "id": 3964715351,
+              "link": "https://www.deezer.com/track/3964715351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/6/0/3363f38582f13d57f1026b2fcfe3fd3e.mp3?hdnea=exp=1795653293~acl=/api/1/1/3/3/6/0/3363f38582f13d57f1026b2fcfe3fd3e.mp3*~data=user_id=0,application_id=42~hmac=934d005125a6145d09e1d95e13dcb52bd6fc035b6a1b0795b1a5f2a39f983434",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Not Guilty",
+            "length": "2:56",
+            "deezer": {
+              "id": 3964715361,
+              "link": "https://www.deezer.com/track/3964715361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/9/0/00962f3c6eac32e1549037f9d2ccae6f.mp3?hdnea=exp=1795653293~acl=/api/1/1/0/0/9/0/00962f3c6eac32e1549037f9d2ccae6f.mp3*~data=user_id=0,application_id=42~hmac=c23fdd44e3e63fe861b64ff1c25bbbd83d21665637e3550ae03f8f81bb0f4311",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Deadly Zone",
+            "length": "2:48",
+            "deezer": {
+              "id": 3964715371,
+              "link": "https://www.deezer.com/track/3964715371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/9/0/789d5861131757436b976fc310e65ffa.mp3?hdnea=exp=1795653293~acl=/api/1/1/7/8/9/0/789d5861131757436b976fc310e65ffa.mp3*~data=user_id=0,application_id=42~hmac=1a420f5dfcdc24a6f924aea56444c2a25a2fe2a1ed3a37a81a8f2ee2b2078138",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Paradox",
+            "length": "3:07",
+            "deezer": {
+              "id": 3964715381,
+              "link": "https://www.deezer.com/track/3964715381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/0/0/ac075ed7fbfed4dc6ec6cd6a447da269.mp3?hdnea=exp=1795653293~acl=/api/1/1/a/c/0/0/ac075ed7fbfed4dc6ec6cd6a447da269.mp3*~data=user_id=0,application_id=42~hmac=24f1c0b86350049ca3e33fb462768d88d8aadc2ccc6eef2f14fd974d393ad9ef",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Revenge of a Warrior",
+            "length": "0:46",
+            "deezer": {
+              "id": 3964715391,
+              "link": "https://www.deezer.com/track/3964715391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/d/0/85dab36f885eb0c2834439e0fcfb112c.mp3?hdnea=exp=1795653293~acl=/api/1/1/8/5/d/0/85dab36f885eb0c2834439e0fcfb112c.mp3*~data=user_id=0,application_id=42~hmac=cde7160034b2a75107451b3a4cc4df40563ac1263b923169d60d228f1f8fb6fd",
+              "preview_expires": "2026-11-26T00:34:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dhanda Nyoliwala/Kohram.jpg"
+}

@@ -1,0 +1,145 @@
+{
+  "title": "Images and Words",
+  "artist": "Dream Theater",
+  "year": 1992,
+  "release_date": "1992-07-06",
+  "type": "Album",
+  "description": "Images and Words is the second studio album by American progressive metal band Dream Theater, released on July 7, 1992, through Atco Records. It is the first Dream Theater release to feature James LaBrie on vocals. Since its release, the album has maintained its position as the band's most commercially successful studio album, and the song \"Pull Me Under\" has the distinction of being the only Top 10 hit the band has had to date. This particular song also had renewed popularity due to its appearance in the 2008 video game Guitar Hero World Tour.",
+  "genres": [
+    "progressive metal",
+    "heavy metal",
+    "progressive rock",
+    "rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "heavy metal",
+    "progressive rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 32
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ee30c026-b4f4-3e2a-94cf-7e586f1ccae0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Images_and_Words",
+    "allmusic": "https://www.allmusic.com/album/mw0000079922",
+    "discogs": "https://www.discogs.com/master/52086",
+    "wikidata": "https://www.wikidata.org/wiki/Q643906",
+    "deezer": "https://www.deezer.com/album/273337"
+  },
+  "musicbrainz_id": "ee30c026-b4f4-3e2a-94cf-7e586f1ccae0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b9c968b8-be2b-4177-ae7e-d2f4bbb3dab8",
+      "barcode": "075679214867",
+      "title": "Images and Words",
+      "disambiguation": null,
+      "date": "2014-07-15",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "57:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pull Me Under",
+            "length": "8:13",
+            "deezer": {
+              "id": 2814112,
+              "link": "https://www.deezer.com/track/2814112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/d/0/c8df1e9ad47801ca7cb41347e13676a9.mp3?hdnea=exp=1795653661~acl=/api/1/1/c/8/d/0/c8df1e9ad47801ca7cb41347e13676a9.mp3*~data=user_id=0,application_id=42~hmac=7fd830cfc78cda0163ea4e74e27d3f09c088174c9f80b76adf4ec8c273a9e12e",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Another Day",
+            "length": "4:23",
+            "deezer": {
+              "id": 2814113,
+              "link": "https://www.deezer.com/track/2814113",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/f/0/adf74685a30e6320d0751e2742ee54a0.mp3?hdnea=exp=1795653661~acl=/api/1/1/a/d/f/0/adf74685a30e6320d0751e2742ee54a0.mp3*~data=user_id=0,application_id=42~hmac=9e066cbb9c152859334f2b338ab401df41a11f5654dfc90c9e33499a56ee8805",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take the Time",
+            "length": "8:20",
+            "deezer": {
+              "id": 2814114,
+              "link": "https://www.deezer.com/track/2814114",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/4/0/b4408a1b94ea04c7b8c9b21606980bf6.mp3?hdnea=exp=1795653661~acl=/api/1/1/b/4/4/0/b4408a1b94ea04c7b8c9b21606980bf6.mp3*~data=user_id=0,application_id=42~hmac=7f17964309a519adac41dc279b766650e60b450f3a45db773e822c5304af83e5",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Surrounded",
+            "length": "5:30",
+            "deezer": {
+              "id": 2814115,
+              "link": "https://www.deezer.com/track/2814115",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/5/0/b150c662b5f75560781584794ebb3ce9.mp3?hdnea=exp=1795653661~acl=/api/1/1/b/1/5/0/b150c662b5f75560781584794ebb3ce9.mp3*~data=user_id=0,application_id=42~hmac=e50e86dd849b547b6969d729a4b636b3c7561a98868aaaaf4799454a059ed43f",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Metropolis – Part I: “The Miracle and the Sleeper”",
+            "length": "9:32",
+            "deezer": {
+              "id": 2814116,
+              "link": "https://www.deezer.com/track/2814116",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/9/0/a09a75f044996a3a6147cd2134c5599e.mp3?hdnea=exp=1795653661~acl=/api/1/1/a/0/9/0/a09a75f044996a3a6147cd2134c5599e.mp3*~data=user_id=0,application_id=42~hmac=36614c14d3f76a413e9148f482393b93229108946ea6366710a4fc2571416c1a",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Under a Glass Moon",
+            "length": "7:03",
+            "deezer": {
+              "id": 2814117,
+              "link": "https://www.deezer.com/track/2814117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/7/0/9b789e9fac1455f14eb2165cc7cf433c.mp3?hdnea=exp=1795653661~acl=/api/1/1/9/b/7/0/9b789e9fac1455f14eb2165cc7cf433c.mp3*~data=user_id=0,application_id=42~hmac=dce76346d1afe844238a5a7474300f102f058cb18cd5103cef30f5d2e0fc6e10",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Wait for Sleep",
+            "length": "2:31",
+            "deezer": {
+              "id": 2814118,
+              "link": "https://www.deezer.com/track/2814118",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123efe98306c465116e5a7078cd1990f.mp3?hdnea=exp=1795653661~acl=/api/1/1/1/2/3/0/123efe98306c465116e5a7078cd1990f.mp3*~data=user_id=0,application_id=42~hmac=892a847eedf595252429f75bc2700f800ef812e85e506e40584393600ffc6063",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Learning to Live",
+            "length": "11:30",
+            "deezer": {
+              "id": 2814119,
+              "link": "https://www.deezer.com/track/2814119",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/d/0/1dd727a4c6503aa1f908cea32d89ac25.mp3?hdnea=exp=1795653661~acl=/api/1/1/1/d/d/0/1dd727a4c6503aa1f908cea32d89ac25.mp3*~data=user_id=0,application_id=42~hmac=29cad8434fd17861005900ae80c20d6f8a6d839a2d506fcfa4942b734553199b",
+              "preview_expires": "2026-11-26T00:41:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dream Theater/Images and Words.jpg"
+}

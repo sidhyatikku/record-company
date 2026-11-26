@@ -1,0 +1,106 @@
+{
+  "title": "Royal EP",
+  "artist": "The Royal Concept",
+  "year": 2013,
+  "release_date": "2013-09-24",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9bb6b278-df9f-4aee-a05f-380684963874",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/6935280"
+  },
+  "musicbrainz_id": "9bb6b278-df9f-4aee-a05f-380684963874",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b5a82151-d455-4571-8b84-531a51e2acf7",
+      "barcode": "602537571253",
+      "title": "Royal EP",
+      "disambiguation": null,
+      "date": "2013-09-24",
+      "country": "US"
+    },
+    "total_tracks": 6,
+    "total_length": "20:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "World on Fire",
+            "length": "3:20",
+            "deezer": {
+              "id": 70638584,
+              "link": "https://www.deezer.com/track/70638584",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/2/0/4427dffca5da1d60fda372f4e6d1d1c2.mp3?hdnea=exp=1795721718~acl=/api/1/1/4/4/2/0/4427dffca5da1d60fda372f4e6d1d1c2.mp3*~data=user_id=0,application_id=42~hmac=ce09175c0d5a301fc69e9bc848a1e53835f3855fb124751082de71f9ce27b6d2",
+              "preview_expires": "2026-11-26T19:35:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "On Our Way",
+            "length": "3:15",
+            "deezer": {
+              "id": 70638585,
+              "link": "https://www.deezer.com/track/70638585",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/b/0/8fbfe289034b2d10ec5f6581cea4ceae.mp3?hdnea=exp=1795721718~acl=/api/1/1/8/f/b/0/8fbfe289034b2d10ec5f6581cea4ceae.mp3*~data=user_id=0,application_id=42~hmac=7fb039aa28c182131515e603f82a610d64d9a31aab5a12085296b2043b17fad4",
+              "preview_expires": "2026-11-26T19:35:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gimme Twice",
+            "length": "3:27",
+            "deezer": {
+              "id": 70638586,
+              "link": "https://www.deezer.com/track/70638586",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/9/0/589d0c7f8e21b2c6c93c92ad712add10.mp3?hdnea=exp=1795721718~acl=/api/1/1/5/8/9/0/589d0c7f8e21b2c6c93c92ad712add10.mp3*~data=user_id=0,application_id=42~hmac=4ad79fd00a9360b47701a99fdfe71a39725a23e9dec6e8a0f77a5be46f39bda1",
+              "preview_expires": "2026-11-26T19:35:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Radio",
+            "length": "2:45",
+            "deezer": {
+              "id": 70638587,
+              "link": "https://www.deezer.com/track/70638587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/8/0/e68a068f3f41962a206c2845b9668605.mp3?hdnea=exp=1795721718~acl=/api/1/1/e/6/8/0/e68a068f3f41962a206c2845b9668605.mp3*~data=user_id=0,application_id=42~hmac=f433bececa0f0cffaeceeade73b69966dc8202c6635c5c156efa34177b992b08",
+              "preview_expires": "2026-11-26T19:35:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Shut the World",
+            "length": "4:05",
+            "deezer": {
+              "id": 70638588,
+              "link": "https://www.deezer.com/track/70638588",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/c/0/f4c024675da10ac9dcea0c7928bd1a78.mp3?hdnea=exp=1795721718~acl=/api/1/1/f/4/c/0/f4c024675da10ac9dcea0c7928bd1a78.mp3*~data=user_id=0,application_id=42~hmac=fb00556b0a7e27848e1f5c8f7565caa42ded21513384c4dcc042570341f575cd",
+              "preview_expires": "2026-11-26T19:35:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Goldrushed",
+            "length": "3:47",
+            "deezer": {
+              "id": 70638589,
+              "link": "https://www.deezer.com/track/70638589",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/6/0/0c6ad7286fe723794dcb0f8a59d91180.mp3?hdnea=exp=1795721718~acl=/api/1/1/0/c/6/0/0c6ad7286fe723794dcb0f8a59d91180.mp3*~data=user_id=0,application_id=42~hmac=5f5a8dccfea1b130819bf505e82c1ad7973527a5aa8565c468bb3d9d33370490",
+              "preview_expires": "2026-11-26T19:35:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Royal Concept/Royal.jpg"
+}

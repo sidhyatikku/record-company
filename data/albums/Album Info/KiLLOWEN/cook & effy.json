@@ -1,0 +1,49 @@
+{
+  "title": "cook & effy",
+  "artist": "KiLLOWEN, Frankie Stew and Harvey Gunn",
+  "year": 2025,
+  "release_date": "2025-01-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2HirnkkdHn5NqUAyy2jeYx",
+    "deezer": "https://www.deezer.com/album/690637351"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2HirnkkdHn5NqUAyy2jeYx",
+      "title": "cook & effy",
+      "date": "2025-01-17"
+    },
+    "total_tracks": 1,
+    "total_length": "3:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "cook & effy",
+            "length": "3:08",
+            "deezer": {
+              "id": 3164329601,
+              "link": "https://www.deezer.com/track/3164329601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/2/0/482ca89bc4a6a5cd735471cbda7b1153.mp3?hdnea=exp=1795656188~acl=/api/1/1/4/8/2/0/482ca89bc4a6a5cd735471cbda7b1153.mp3*~data=user_id=0,application_id=42~hmac=147843ee7767452f1926d1cd04a1c2880d219715593c2f47ed7772083dd0dc9e",
+              "preview_expires": "2026-11-26T01:23:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/KiLLOWEN/cook & effy.jpg"
+}

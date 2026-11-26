@@ -1,0 +1,46 @@
+{
+  "title": "Wolf",
+  "artist": "Munawar Faruqui, Raga, Karan Kanchan",
+  "year": 2024,
+  "release_date": "2024-12-11",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "punjabi pop",
+    "punjabi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3hHpcqbVrgUOSb4BRdWHTJ",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3hHpcqbVrgUOSb4BRdWHTJ",
+      "title": "Wolf",
+      "date": "2024-12-11"
+    },
+    "total_tracks": 1,
+    "total_length": "2:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wolf",
+            "length": "2:50"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Munawar Faruqui/Wolf.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Flight Time",
+  "artist": "Karma & Sez on the Beat",
+  "year": 2024,
+  "release_date": "2024-12-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/739d2294-1cc5-40e9-9701-9f9bb07b4f59",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/689744521"
+  },
+  "musicbrainz_id": "739d2294-1cc5-40e9-9701-9f9bb07b4f59",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b43a3c0c-9753-46bc-ac1b-2b13c36f6c32",
+      "barcode": "5021732602626",
+      "title": "Flight Time",
+      "disambiguation": null,
+      "date": "2024-12-30",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Flight Time",
+            "length": "3:49",
+            "deezer": {
+              "id": 3161916221,
+              "link": "https://www.deezer.com/track/3161916221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/1/0/1f19f5c31083e034db737df8f68e6218.mp3?hdnea=exp=1795655956~acl=/api/1/1/1/f/1/0/1f19f5c31083e034db737df8f68e6218.mp3*~data=user_id=0,application_id=42~hmac=923ebbbe3824d178d0d198cfc4235ae3bf59d92a3dbcf8cc0d81617e29ac0f83",
+              "preview_expires": "2026-11-26T01:19:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karma/Flight Time.jpg"
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Music Sounds Better With You",
+  "artist": "Stardust",
+  "year": 1998,
+  "release_date": "1998-06-23",
+  "type": "Single",
+  "description": "\"Music Sounds Better with You\" is the only song by the French house trio Stardust, released on 20 July 1998. Stardust was composed of the Daft Punk member Thomas Bangalter, the DJ Alan Braxe, and the vocalist Benjamin Diamond.",
+  "genres": [
+    "house",
+    "electronic",
+    "french house",
+    "progressive house",
+    "deep house",
+    "disco",
+    "funky house"
+  ],
+  "tags": [
+    "house",
+    "electronic",
+    "french house",
+    "club/dance",
+    "progressive house",
+    "deep house",
+    "disco",
+    "funky house"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a65ec23c-d260-3eaa-9fd2-afd9f839ecac",
+    "wikipedia": "https://en.wikipedia.org/wiki/Music_Sounds_Better_with_You",
+    "discogs": "https://www.discogs.com/master/29410",
+    "wikidata": "https://www.wikidata.org/wiki/Q1110639",
+    "deezer": "https://www.deezer.com/album/100030032"
+  },
+  "musicbrainz_id": "a65ec23c-d260-3eaa-9fd2-afd9f839ecac",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cc183cda-4ddb-4d53-a5af-17b280f18de1",
+      "barcode": "5060686501241",
+      "title": "Music Sounds Better With You",
+      "disambiguation": null,
+      "date": "2019-06-28",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "11:04",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Music Sounds Better With You",
+            "length": "6:43",
+            "deezer": {
+              "id": 695110932,
+              "link": "https://www.deezer.com/track/695110932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/7/0/187239722319276182313046d6a275d2.mp3?hdnea=exp=1795720952~acl=/api/1/1/1/8/7/0/187239722319276182313046d6a275d2.mp3*~data=user_id=0,application_id=42~hmac=70aa3235e9308f416e83cf9321fcc1ce424e2fa062ecef9618c6937198ec76f4",
+              "preview_expires": "2026-11-26T19:22:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Music Sounds Better With You (radio edit)",
+            "length": "4:21",
+            "deezer": {
+              "id": 695110942,
+              "link": "https://www.deezer.com/track/695110942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/1/0/cb1e8d6481b8510e18e747245f689f4f.mp3?hdnea=exp=1795720952~acl=/api/1/1/c/b/1/0/cb1e8d6481b8510e18e747245f689f4f.mp3*~data=user_id=0,application_id=42~hmac=89fce4afeae8175ff1e26caea0214274f61354cfc36f95d1c66fe874198eda6f",
+              "preview_expires": "2026-11-26T19:22:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Stardust/Music Sounds Better With You.jpg"
+}

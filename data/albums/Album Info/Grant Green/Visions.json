@@ -1,0 +1,139 @@
+{
+  "title": "Visions",
+  "artist": "Grant Green",
+  "year": 1971,
+  "release_date": "1971",
+  "type": "Album",
+  "description": "Visions is an album by American jazz guitarist Grant Green featuring performances recorded in 1971 and released on the Blue Note label.",
+  "genres": [
+    "jazz",
+    "smooth jazz",
+    "soul jazz"
+  ],
+  "tags": [
+    "jazz",
+    "smooth jazz",
+    "soul jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9f4a11f0-09f9-31e8-a612-e1d16720665a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Visions_(Grant_Green_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000914740",
+    "discogs": "https://www.discogs.com/master/623982",
+    "wikidata": "https://www.wikidata.org/wiki/Q7936241",
+    "deezer": "https://www.deezer.com/album/62004312"
+  },
+  "musicbrainz_id": "9f4a11f0-09f9-31e8-a612-e1d16720665a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2e0e1a01-c8c4-44ab-882d-945dcd6ddf09",
+      "barcode": "602567553922",
+      "title": "Visions",
+      "disambiguation": null,
+      "date": "2018-04-27",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "37:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Does Anybody Really Know What Time It Is",
+            "length": "5:13",
+            "deezer": {
+              "id": 490419392,
+              "link": "https://www.deezer.com/track/490419392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/7/0/9b7c2a764815fedc7139388fa8d27e93.mp3?hdnea=exp=1795654729~acl=/api/1/1/9/b/7/0/9b7c2a764815fedc7139388fa8d27e93.mp3*~data=user_id=0,application_id=42~hmac=98f3b5147ccb44b94e38cb629f3d9c47e1829af174e36600cbe4f827a516d3ef",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Maybe Tomorrow",
+            "length": "4:56",
+            "deezer": {
+              "id": 490419402,
+              "link": "https://www.deezer.com/track/490419402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/2/0/11229d9f0ce921d929b3e1304f139014.mp3?hdnea=exp=1795654729~acl=/api/1/1/1/1/2/0/11229d9f0ce921d929b3e1304f139014.mp3*~data=user_id=0,application_id=42~hmac=dc39a7dd810e61cf1745936de72a09f018c6357d36f1526c6ae1346f6089d3a0",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mozart Symphony #40 in G minor, K550, 1st Movement",
+            "length": "4:08",
+            "deezer": {
+              "id": 490419412,
+              "link": "https://www.deezer.com/track/490419412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/8/0/b78e39316bb9d79ef9343d07b93fd4af.mp3?hdnea=exp=1795654729~acl=/api/1/1/b/7/8/0/b78e39316bb9d79ef9343d07b93fd4af.mp3*~data=user_id=0,application_id=42~hmac=b3e4e311ce639e1ae56a95601faf484dd3e429f7b03b52c16c2a4031e57f2d14",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Love on a Two Way Street",
+            "length": "4:47",
+            "deezer": {
+              "id": 490419422,
+              "link": "https://www.deezer.com/track/490419422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/e/0/fceebafbf443e7b618839c3b03cc6f18.mp3?hdnea=exp=1795654729~acl=/api/1/1/f/c/e/0/fceebafbf443e7b618839c3b03cc6f18.mp3*~data=user_id=0,application_id=42~hmac=944dc3866e38ba0f7d1ae7a87d3a1fc0e0dab53447d8160e2290a324a7d5c12c",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Cantaloupe Woman",
+            "length": "5:35",
+            "deezer": {
+              "id": 490419432,
+              "link": "https://www.deezer.com/track/490419432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/3/0/f630db152ff9e30a944cbff859e9af48.mp3?hdnea=exp=1795654729~acl=/api/1/1/f/6/3/0/f630db152ff9e30a944cbff859e9af48.mp3*~data=user_id=0,application_id=42~hmac=c8cbf4af1be785488e100764f4e517ea3c40af618bfb8880ea7304c98c4d148f",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "We’ve Only Just Begun",
+            "length": "5:10",
+            "deezer": {
+              "id": 490419442,
+              "link": "https://www.deezer.com/track/490419442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/f/0/8efd2e9c3fdca797e52791e9f9e44023.mp3?hdnea=exp=1795654729~acl=/api/1/1/8/e/f/0/8efd2e9c3fdca797e52791e9f9e44023.mp3*~data=user_id=0,application_id=42~hmac=42178d0525c74af6339c3bb328fd7ea2154b0aa744859dbedf07e77e749b97ac",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Never Can Say Goodbye",
+            "length": "5:04",
+            "deezer": {
+              "id": 490419452,
+              "link": "https://www.deezer.com/track/490419452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/b/0/41b8dccd8c470917e2fc8e849e9a0e96.mp3?hdnea=exp=1795654729~acl=/api/1/1/4/1/b/0/41b8dccd8c470917e2fc8e849e9a0e96.mp3*~data=user_id=0,application_id=42~hmac=64a0549c13ad36f8a46e38fa3232425b374f02614fbac6190d7939cdfc2fe3a7",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Blues for Abraham",
+            "length": "2:34",
+            "deezer": {
+              "id": 490419462,
+              "link": "https://www.deezer.com/track/490419462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/d/0/b5da89d74210a35d6f8134a9454bb974.mp3?hdnea=exp=1795654729~acl=/api/1/1/b/5/d/0/b5da89d74210a35d6f8134a9454bb974.mp3*~data=user_id=0,application_id=42~hmac=5356aff46e7c59f1bf305b53d3e609d8cb80e08294ca19f509c94a5f8a0ffab7",
+              "preview_expires": "2026-11-26T00:58:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Grant Green/Visions.jpg"
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Country Willie",
+  "artist": "Willie Nelson",
+  "year": 1975,
+  "release_date": "1975",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "country"
+  ],
+  "tags": [
+    "country"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/708366b3-af72-4309-86d0-cda61cd24d09",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/10089844"
+  },
+  "musicbrainz_id": "708366b3-af72-4309-86d0-cda61cd24d09",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/36092178-7f7b-483c-8caa-93c2036378c9",
+      "barcode": "602547322869",
+      "title": "Country Willie",
+      "disambiguation": null,
+      "date": "2015-05-04",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "25:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Country Willie",
+            "length": "2:45",
+            "deezer": {
+              "id": 98709946,
+              "link": "https://www.deezer.com/track/98709946",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/2/0/cb295cfcbf7db7541489a0a9d780dd17.mp3?hdnea=exp=1795724343~acl=/api/1/1/c/b/2/0/cb295cfcbf7db7541489a0a9d780dd17.mp3*~data=user_id=0,application_id=42~hmac=f50592954dfbd07b4c1848e038de37294131af0665d1eee946e1ea3e6631b106",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "There’ll Be No Teardrops Tonight",
+            "length": "2:17",
+            "deezer": {
+              "id": 98709948,
+              "link": "https://www.deezer.com/track/98709948",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/1/0/8b19836abf064941d6e06462fdb2efe4.mp3?hdnea=exp=1795724343~acl=/api/1/1/8/b/1/0/8b19836abf064941d6e06462fdb2efe4.mp3*~data=user_id=0,application_id=42~hmac=304d0e0f01c8d32cbb1e2c92c8e046509d2e430fcc87f5341809c4d48ee78ca9",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Right or Wrong",
+            "length": "2:12",
+            "deezer": {
+              "id": 98709950,
+              "link": "https://www.deezer.com/track/98709950",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/7/0/517ef07d01faec1893bccb81355d6eb9.mp3?hdnea=exp=1795724343~acl=/api/1/1/5/1/7/0/517ef07d01faec1893bccb81355d6eb9.mp3*~data=user_id=0,application_id=42~hmac=134672e5148ac5c4d5029d6850d7387f34b47030deeecc9ed0dac42307af591d",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I’ll Walk Alone",
+            "length": "2:26",
+            "deezer": {
+              "id": 98709952,
+              "link": "https://www.deezer.com/track/98709952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/1/0/ef111288966e09918d33e92f9ece246a.mp3?hdnea=exp=1795724343~acl=/api/1/1/e/f/1/0/ef111288966e09918d33e92f9ece246a.mp3*~data=user_id=0,application_id=42~hmac=3686cf43763167fb77c349e39e8815e6054a7c8cfff53a03c55b8a8c5e45ce83",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Take Me as I Am (Or Let Me Go)",
+            "length": "2:35",
+            "deezer": {
+              "id": 98709954,
+              "link": "https://www.deezer.com/track/98709954",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/9/0/0d9ec954fa57e065c0d65b31faf4420e.mp3?hdnea=exp=1795724343~acl=/api/1/1/0/d/9/0/0d9ec954fa57e065c0d65b31faf4420e.mp3*~data=user_id=0,application_id=42~hmac=576ad98d36df0a4b17024c0391aa151ea1a568670493059e33a0d806e5424f68",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Night Life",
+            "length": "2:32",
+            "deezer": {
+              "id": 98709956,
+              "link": "https://www.deezer.com/track/98709956",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/d/0/0cdd69efafe55f8d3f282e9d28fb27bc.mp3?hdnea=exp=1795724343~acl=/api/1/1/0/c/d/0/0cdd69efafe55f8d3f282e9d28fb27bc.mp3*~data=user_id=0,application_id=42~hmac=3c37ce6e56b5b5dfb36242abe220f6466fc52484d3c1954a33cf3d67fd896e1b",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Seasons of My Heart",
+            "length": "2:34",
+            "deezer": {
+              "id": 98709958,
+              "link": "https://www.deezer.com/track/98709958",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/e/0/64ebb9d7b50bf39588840990154ad962.mp3?hdnea=exp=1795724343~acl=/api/1/1/6/4/e/0/64ebb9d7b50bf39588840990154ad962.mp3*~data=user_id=0,application_id=42~hmac=0a324a2156a0dd70b2b1a909599e99527b6f24cd29d15fc2f5b83152678e1a7e",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Columbus Stockade Blues",
+            "length": "2:06",
+            "artist": "Willie Nelson & Shirley Collie",
+            "deezer": {
+              "id": 98709960,
+              "link": "https://www.deezer.com/track/98709960",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/0/0/4c0269ae733d2be01b4f60bdd90327ca.mp3?hdnea=exp=1795724343~acl=/api/1/1/4/c/0/0/4c0269ae733d2be01b4f60bdd90327ca.mp3*~data=user_id=0,application_id=42~hmac=fab3c87516e6f0fbc5476cc0919ff6f437c7790bcea6fe4fcfd3037e07052f73",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "There Goes a Man",
+            "length": "2:33",
+            "deezer": {
+              "id": 98709962,
+              "link": "https://www.deezer.com/track/98709962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/0/0/430a0c2b616f0af0f86c881e27c24a9f.mp3?hdnea=exp=1795724343~acl=/api/1/1/4/3/0/0/430a0c2b616f0af0f86c881e27c24a9f.mp3*~data=user_id=0,application_id=42~hmac=eedc54fbdbbcf8c8052535aa501e5eb5884ce269b5a261bb160590ff4ed8e644",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Last Letter",
+            "length": "3:00",
+            "deezer": {
+              "id": 98709964,
+              "link": "https://www.deezer.com/track/98709964",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/f/0/bef549a3ad58f635cba8562d1773168e.mp3?hdnea=exp=1795724343~acl=/api/1/1/b/e/f/0/bef549a3ad58f635cba8562d1773168e.mp3*~data=user_id=0,application_id=42~hmac=8ee6178d246ef9c1ba11115fc648dfb8b48f7c1ce8d5ee3e42e10a4c159955bb",
+              "preview_expires": "2026-11-26T20:19:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Willie Nelson/Country Willie.jpg"
+}

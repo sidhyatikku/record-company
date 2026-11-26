@@ -1,0 +1,51 @@
+{
+  "title": "9:45",
+  "artist": "Prabh Singh & Jay Trak",
+  "year": 2023,
+  "release_date": "2023-03-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0c2af7e5-1992-4e95-87c4-5a7885e54e78",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/414533927"
+  },
+  "musicbrainz_id": "0c2af7e5-1992-4e95-87c4-5a7885e54e78",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8c922a52-5cb7-4996-a911-6fa7d9031953",
+      "barcode": "197629049487",
+      "title": "9:45",
+      "disambiguation": null,
+      "date": "2023-03-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "1:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "9:45",
+            "length": "1:58",
+            "deezer": {
+              "id": 2178488977,
+              "link": "https://www.deezer.com/track/2178488977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/c/0/7bcfe22033a644f40b7b03cd59c755c3.mp3?hdnea=exp=1795719662~acl=/api/1/1/7/b/c/0/7bcfe22033a644f40b7b03cd59c755c3.mp3*~data=user_id=0,application_id=42~hmac=386f21e8202be585185ea33f3632243fb4c32d7d686427bb3f49425921fbba82",
+              "preview_expires": "2026-11-26T19:01:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Prabh Singh/9-45.jpg"
+}

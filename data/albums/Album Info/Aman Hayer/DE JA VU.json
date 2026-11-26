@@ -1,0 +1,81 @@
+{
+  "title": "Deja Ja Vu",
+  "artist": "Aman Hayer",
+  "year": 2002,
+  "release_date": "2002",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "bhangra"
+  ],
+  "tags": [
+    "bhangra"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b21a12d1-bfe5-451e-918a-ec593348a266",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "b21a12d1-bfe5-451e-918a-ec593348a266",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/413d741c-3626-47ef-ab37-ed7a5278348d",
+      "barcode": null,
+      "title": "Deja Ja Vu",
+      "disambiguation": null,
+      "date": "2002",
+      "country": "GB"
+    },
+    "total_tracks": 7,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Put Jatan De",
+            "length": null,
+            "artist": "Sukshinder Shinda & Aman Hayer"
+          },
+          {
+            "number": "2",
+            "title": "Oh Jandi",
+            "length": null,
+            "artist": "Amar Arshi"
+          },
+          {
+            "number": "3",
+            "title": "Dhola",
+            "length": null
+          },
+          {
+            "number": "4",
+            "title": "Put Jatan De (Gangsta mix)",
+            "length": null
+          },
+          {
+            "number": "5",
+            "title": "Je Karda",
+            "length": null
+          },
+          {
+            "number": "6",
+            "title": "Take Me With U",
+            "length": null
+          },
+          {
+            "number": "7",
+            "title": "Panga (No Prisoners mix)",
+            "length": null
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Aman Hayer/DE JA VU.jpg"
+}

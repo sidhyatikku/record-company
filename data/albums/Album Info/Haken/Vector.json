@@ -1,0 +1,132 @@
+{
+  "title": "Vector",
+  "artist": "Haken",
+  "year": 2018,
+  "release_date": "2018-10-25",
+  "type": "Album",
+  "description": "Vector is the fifth studio album by English progressive metal band Haken. It was released on 26 October 2018 through Inside Out Music. It is the shortest studio album by the band and the first with a duration of less than one hour. The album was produced by the band and mixed by ex-Periphery bassist and producer Adam \"Nolly\" Getgood.",
+  "genres": [
+    "progressive metal",
+    "pop rock",
+    "rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "pop rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/562d848c-aac2-4cbd-b889-7546c63e6ae5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vector_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003200230",
+    "discogs": "https://www.discogs.com/master/1442580",
+    "wikidata": "https://www.wikidata.org/wiki/Q56275941",
+    "deezer": "https://www.deezer.com/album/71515162"
+  },
+  "musicbrainz_id": "562d848c-aac2-4cbd-b889-7546c63e6ae5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f45a619e-7aa4-4ffe-b15f-fe0e2cc90f7f",
+      "barcode": "886447217689",
+      "title": "Vector",
+      "disambiguation": null,
+      "date": "2018-10-26",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "44:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Clear",
+            "length": "1:51",
+            "deezer": {
+              "id": 545804522,
+              "link": "https://www.deezer.com/track/545804522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/1/0/0e1c3baac05fa09b4e65f6f42d8aec1e.mp3?hdnea=exp=1795654921~acl=/api/1/1/0/e/1/0/0e1c3baac05fa09b4e65f6f42d8aec1e.mp3*~data=user_id=0,application_id=42~hmac=0a39c646f375c40b87e75ff61afe0ae5cc2b77c099ba5a12b6e5005239b17881",
+              "preview_expires": "2026-11-26T01:02:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Good Doctor",
+            "length": "3:56",
+            "deezer": {
+              "id": 545804532,
+              "link": "https://www.deezer.com/track/545804532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/b/0/1cbbd3b2ea42934fbe98a6f33edddfe2.mp3?hdnea=exp=1795654921~acl=/api/1/1/1/c/b/0/1cbbd3b2ea42934fbe98a6f33edddfe2.mp3*~data=user_id=0,application_id=42~hmac=2737692e92c317c09e91b57a73b5ddb4b1d5e3d1d98c78a2da381296f21841a8",
+              "preview_expires": "2026-11-26T01:02:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Puzzle Box",
+            "length": "7:43",
+            "deezer": {
+              "id": 545804542,
+              "link": "https://www.deezer.com/track/545804542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/8/0/c0869e1bbc41ed437c663882b30ead31.mp3?hdnea=exp=1795654921~acl=/api/1/1/c/0/8/0/c0869e1bbc41ed437c663882b30ead31.mp3*~data=user_id=0,application_id=42~hmac=f2bd62225296a0a461e06f347c40e13acbad8a4d1a6ae5a0dbc882c2c1c64242",
+              "preview_expires": "2026-11-26T01:02:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Veil",
+            "length": "12:36",
+            "deezer": {
+              "id": 545804552,
+              "link": "https://www.deezer.com/track/545804552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/6/0/4365b0c52e4a33cd3510276d0313dcca.mp3?hdnea=exp=1795654921~acl=/api/1/1/4/3/6/0/4365b0c52e4a33cd3510276d0313dcca.mp3*~data=user_id=0,application_id=42~hmac=3fa6fbc92e24d3c65a3690423ca0d826251345ac0228fee8819bb2f5076b84fd",
+              "preview_expires": "2026-11-26T01:02:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Nil by Mouth",
+            "length": "6:52",
+            "deezer": {
+              "id": 545804562,
+              "link": "https://www.deezer.com/track/545804562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/f/0/cef68463710eeb3b58f5b70d32a56ac6.mp3?hdnea=exp=1795654921~acl=/api/1/1/c/e/f/0/cef68463710eeb3b58f5b70d32a56ac6.mp3*~data=user_id=0,application_id=42~hmac=ec5613b5584da271cdc643c778db06218b8d044efe11f6346778d331ad2f58b8",
+              "preview_expires": "2026-11-26T01:02:01Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Host",
+            "length": "6:46",
+            "deezer": {
+              "id": 545804572,
+              "link": "https://www.deezer.com/track/545804572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/b/0/60b200f067b05a4b1aa7933cd83f05ce.mp3?hdnea=exp=1795654921~acl=/api/1/1/6/0/b/0/60b200f067b05a4b1aa7933cd83f05ce.mp3*~data=user_id=0,application_id=42~hmac=b532e6b09423a7c44ffa541d2f43df298f54de03204fe8a4313460d553aa3c80",
+              "preview_expires": "2026-11-26T01:02:01Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "A Cell Divides",
+            "length": "4:57",
+            "deezer": {
+              "id": 545804582,
+              "link": "https://www.deezer.com/track/545804582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/0/0/800ff1644c9035fdb18a7e333af44d0b.mp3?hdnea=exp=1795654921~acl=/api/1/1/8/0/0/0/800ff1644c9035fdb18a7e333af44d0b.mp3*~data=user_id=0,application_id=42~hmac=f81931507567161fe0cd9032e1f9c5b4f26513086045f71a6a216aaafcbac695",
+              "preview_expires": "2026-11-26T01:02:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Haken/Vector.jpg"
+}

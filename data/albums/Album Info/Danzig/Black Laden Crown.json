@@ -1,0 +1,102 @@
+{
+  "title": "Black Laden Crown",
+  "artist": "Danzig",
+  "year": 2017,
+  "release_date": "2017-05-26",
+  "type": "Album",
+  "description": "Black Laden Crown is the eleventh studio album, and the tenth of all-new original material, by the American heavy metal band Danzig, released on May 26, 2017.",
+  "genres": [
+    "heavy metal",
+    "hard rock",
+    "metal",
+    "rock"
+  ],
+  "tags": [
+    "heavy metal",
+    "hard rock",
+    "metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 2,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4620614b-3e6d-48ad-989e-cc8731ce644e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Laden_Crown",
+    "allmusic": "https://www.allmusic.com/album/mw0003038535",
+    "discogs": "https://www.discogs.com/master/1183823",
+    "wikidata": "https://www.wikidata.org/wiki/Q29344682",
+    "deezer": null
+  },
+  "musicbrainz_id": "4620614b-3e6d-48ad-989e-cc8731ce644e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/29719a6f-d2bf-417c-9c58-56e52eaf2b68",
+      "barcode": "884860178723",
+      "title": "Black Laden Crown",
+      "disambiguation": null,
+      "date": "2017-05-26",
+      "country": "GB"
+    },
+    "total_tracks": 9,
+    "total_length": "45:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Black Laden Crown",
+            "length": "5:59"
+          },
+          {
+            "number": "2",
+            "title": "Eyes Ripping Fire",
+            "length": "4:19"
+          },
+          {
+            "number": "3",
+            "title": "Devil on Hwy 9",
+            "length": "3:52"
+          },
+          {
+            "number": "4",
+            "title": "Last Ride",
+            "length": "5:00"
+          },
+          {
+            "number": "5",
+            "title": "The Witching Hour",
+            "length": "5:59"
+          },
+          {
+            "number": "6",
+            "title": "But a Nightmare",
+            "length": "5:04"
+          },
+          {
+            "number": "7",
+            "title": "Skulls & Daisies",
+            "length": "3:58"
+          },
+          {
+            "number": "8",
+            "title": "Blackness Falls",
+            "length": "5:48"
+          },
+          {
+            "number": "9",
+            "title": "Pull the Sun",
+            "length": "5:55"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Danzig/Black Laden Crown.jpg"
+}

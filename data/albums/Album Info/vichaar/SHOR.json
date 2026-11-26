@@ -1,0 +1,51 @@
+{
+  "title": "SHOR",
+  "artist": "vichaar & Sez on the Beat",
+  "year": 2025,
+  "release_date": "2025-11-05",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7f0e3193-4765-4227-b680-6e951218ba18",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/845024782"
+  },
+  "musicbrainz_id": "7f0e3193-4765-4227-b680-6e951218ba18",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b5fe4a09-12f7-4ec8-af8d-34776c0c5dab",
+      "barcode": "199806206362",
+      "title": "SHOR",
+      "disambiguation": null,
+      "date": "2025-11-05",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "SHOR",
+            "length": "3:03",
+            "deezer": {
+              "id": 3622599812,
+              "link": "https://www.deezer.com/track/3622599812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/a/0/dba9659e1c1a0b37fd69dcb8e4320791.mp3?hdnea=exp=1795724202~acl=/api/1/1/d/b/a/0/dba9659e1c1a0b37fd69dcb8e4320791.mp3*~data=user_id=0,application_id=42~hmac=0706d11d4b3c6c62f6e0a9bb9d4ef21529e5c4a204706276d2ae78cd7ae37fb8",
+              "preview_expires": "2026-11-26T20:16:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/vichaar/SHOR.jpg"
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Rhythm",
+  "artist": "Bodysync",
+  "year": 2023,
+  "release_date": "2023-02-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b21d6971-f862-4bc9-9753-1afa1dc054db",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/400864877"
+  },
+  "musicbrainz_id": "b21d6971-f862-4bc9-9753-1afa1dc054db",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2105381d-e73b-4287-9a7a-878c80e561ca",
+      "barcode": "5056614700008",
+      "title": "Rhythm",
+      "disambiguation": null,
+      "date": "2023-02-17",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "4:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rhythm",
+            "length": "2:32",
+            "deezer": {
+              "id": 2125428107,
+              "link": "https://www.deezer.com/track/2125428107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/b/0/e9b92e57b05e164719fa9840468e1f80.mp3?hdnea=exp=1795652466~acl=/api/1/1/e/9/b/0/e9b92e57b05e164719fa9840468e1f80.mp3*~data=user_id=0,application_id=42~hmac=45d7327adf8e43a644af8906240132de6407af60358aa935b818fe68b9bdec5c",
+              "preview_expires": "2026-11-26T00:21:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "This Edible Ain’t Shit",
+            "length": "2:17",
+            "deezer": {
+              "id": 2125428117,
+              "link": "https://www.deezer.com/track/2125428117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/b/0/21b0e2c4babbebc05d46a1c907bc85d0.mp3?hdnea=exp=1795652466~acl=/api/1/1/2/1/b/0/21b0e2c4babbebc05d46a1c907bc85d0.mp3*~data=user_id=0,application_id=42~hmac=36185c3056e2d501472de18061d7b8ccb619ff9c739267e46ad71b1ed68f7be7",
+              "preview_expires": "2026-11-26T00:21:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bodysync/Rhythm.jpg"
+}

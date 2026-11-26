@@ -1,0 +1,268 @@
+{
+  "title": "Chopin",
+  "artist": "Frédéric Chopin; Alfred Cortot",
+  "year": 1997,
+  "release_date": "1997-06-01",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8d28afc4-5e0a-3cdf-a738-b32d729a0e7a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/459526725"
+  },
+  "musicbrainz_id": "8d28afc4-5e0a-3cdf-a738-b32d729a0e7a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c0f3f5ed-f99b-48e4-bcda-1b1c5caeb67a",
+      "barcode": "8004429509238",
+      "title": "Ballades / Tarantelle / Valses",
+      "disambiguation": null,
+      "date": "1997-06-01",
+      "country": "XW"
+    },
+    "total_tracks": 19,
+    "total_length": "1:16:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ballade no. 1 in G minor, op. 23, IFC 5: Largo - Moderato",
+            "length": "8:40",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702705,
+              "link": "https://www.deezer.com/track/2349702705",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/6/0/056bf130c397ff7a8e8c0850c3b4fcee.mp3?hdnea=exp=1795654494~acl=/api/1/1/0/5/6/0/056bf130c397ff7a8e8c0850c3b4fcee.mp3*~data=user_id=0,application_id=42~hmac=2dbc14218a6bf051ba0036da7d85bd30463925983769486955ab77fefb3de758",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ballade no. 2 in F major, op. 38, IFC 6: Andantino - Presto con fuoco",
+            "length": "6:49",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702715,
+              "link": "https://www.deezer.com/track/2349702715",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/e/0/73ea8443e8ff6e6f3e16099b645642a3.mp3?hdnea=exp=1795654494~acl=/api/1/1/7/3/e/0/73ea8443e8ff6e6f3e16099b645642a3.mp3*~data=user_id=0,application_id=42~hmac=61e824ebabc409394a656cb3d86831efb278090ffcd680ef2164c5efdd75f426",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ballade no. 3 in A-flat major, op. 47, IFC 7: Allegretto",
+            "length": "6:38",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702725,
+              "link": "https://www.deezer.com/track/2349702725",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/5/0/c257d72f45767c2ac91f6826e73c00a3.mp3?hdnea=exp=1795654494~acl=/api/1/1/c/2/5/0/c257d72f45767c2ac91f6826e73c00a3.mp3*~data=user_id=0,application_id=42~hmac=98cec3899562019004b96e7fcb9d42ad94d4f15ae9c289281ea8e124532a236a",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ballade no. 4 in F minor, op. 52, IFC 8: Andante con moto",
+            "length": "9:26",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702735,
+              "link": "https://www.deezer.com/track/2349702735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/f/0/a6fd3cb196778fe51841eb12b769d810.mp3?hdnea=exp=1795654494~acl=/api/1/1/a/6/f/0/a6fd3cb196778fe51841eb12b769d810.mp3*~data=user_id=0,application_id=42~hmac=1d7427c9f4273acb41e4207bd85e872ef351f43e781286f6e9665a8146ada058",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tarantella in A-flat major, op. 43, IFC 104: Presto",
+            "length": "3:04",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702745,
+              "link": "https://www.deezer.com/track/2349702745",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/c/0/a6cf827310bcaf1599e896a271cddf6e.mp3?hdnea=exp=1795654494~acl=/api/1/1/a/6/c/0/a6cf827310bcaf1599e896a271cddf6e.mp3*~data=user_id=0,application_id=42~hmac=3e1862aa352dba36a4a3fbebfe75542b29930015ec588dcabb6ad0772729ebfa",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Grande valse brillante in E-flat major, op. 18, IFC 29: Vivo",
+            "length": "4:36",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702755,
+              "link": "https://www.deezer.com/track/2349702755",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/2/0/4c21672f6fb294cfbc2c3ee286b1b189.mp3?hdnea=exp=1795654494~acl=/api/1/1/4/c/2/0/4c21672f6fb294cfbc2c3ee286b1b189.mp3*~data=user_id=0,application_id=42~hmac=ed920f79a12579b8649ea9ec150933c4bfb2e57840ca13838db05fb0e45886e9",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Waltz no. 1 in A-flat major, op. 34, IFC 118: Vivace",
+            "length": "4:30",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702765,
+              "link": "https://www.deezer.com/track/2349702765",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/4/0/5b4ffa9400fb78419feca2f0af298abd.mp3?hdnea=exp=1795654494~acl=/api/1/1/5/b/4/0/5b4ffa9400fb78419feca2f0af298abd.mp3*~data=user_id=0,application_id=42~hmac=d0473976dd39c5c4f0097aa7c2735bc5a439a260b4988c1c84f044d1a0767f72",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Waltz no. 2 in A minor, op. 34, IFC 118: Lento",
+            "length": "4:06",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702775,
+              "link": "https://www.deezer.com/track/2349702775",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/7/0/777c2f040c25d9c42704d7581f4d4bfb.mp3?hdnea=exp=1795654494~acl=/api/1/1/7/7/7/0/777c2f040c25d9c42704d7581f4d4bfb.mp3*~data=user_id=0,application_id=42~hmac=0d9a09fe157cd04f1c232844d4ec83508fedb59e7eda5847e8aa246c21495c41",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Waltz no. 3 in F major, op. 34, IFC 118: Vivace",
+            "length": "2:04",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702785,
+              "link": "https://www.deezer.com/track/2349702785",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/8/0/d98f2d8b0432a0ef6e15e3bfdac19a0c.mp3?hdnea=exp=1795654494~acl=/api/1/1/d/9/8/0/d98f2d8b0432a0ef6e15e3bfdac19a0c.mp3*~data=user_id=0,application_id=42~hmac=26e7cd14255dc70fd52a1d1b485b78b0d4903b70f4d2e7c58b0612ec9cfe66cd",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Waltz in A-flat major, op. 42, IFC 113: Vivace",
+            "length": "3:40",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702795,
+              "link": "https://www.deezer.com/track/2349702795",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/f/0/7bfb28a6ec863d8a0a6722e80e1ae018.mp3?hdnea=exp=1795654494~acl=/api/1/1/7/b/f/0/7bfb28a6ec863d8a0a6722e80e1ae018.mp3*~data=user_id=0,application_id=42~hmac=7859e45415ac9fb5f21271eda011b1af96a8886a623792d4745d6857b962ad88",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Waltz no. 1 in D-flat major, op. 64, IFC 119: Molto vivace \"Minute Waltz\"",
+            "length": "1:32",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702805,
+              "link": "https://www.deezer.com/track/2349702805",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/3/0/873d37e84850927773dba7d904f9c215.mp3?hdnea=exp=1795654494~acl=/api/1/1/8/7/3/0/873d37e84850927773dba7d904f9c215.mp3*~data=user_id=0,application_id=42~hmac=e11392f141c89a576c47aeb00b98abd09492bca0c04eb042cdcf99d764b367c9",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Waltz no. 2 in C-sharp minor, op. 64, IFC 119: Tempo giusto",
+            "length": "3:03",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702815,
+              "link": "https://www.deezer.com/track/2349702815",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/e/0/7be9cc25d496b4fc8d3858cc66f7a119.mp3?hdnea=exp=1795654494~acl=/api/1/1/7/b/e/0/7be9cc25d496b4fc8d3858cc66f7a119.mp3*~data=user_id=0,application_id=42~hmac=5e242791bf30ee66e0b4b1d6d95ba3cdc18be248439e58b49c7082171b6521ec",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Waltz no. 3 in A-flat major, op. 64, IFC 119: Moderato",
+            "length": "2:53",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702825,
+              "link": "https://www.deezer.com/track/2349702825",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/1/0/ff142536b967e84e4af437a0ae95987d.mp3?hdnea=exp=1795654494~acl=/api/1/1/f/f/1/0/ff142536b967e84e4af437a0ae95987d.mp3*~data=user_id=0,application_id=42~hmac=1fc7b1b092d0b209cd7c27ae6a845ff58d0c8f3faa03f5be1c3b7e6418388322",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Waltz no. 1 in A-flat major, op. 69, IFC 120: Lento",
+            "length": "3:15",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702835,
+              "link": "https://www.deezer.com/track/2349702835",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/b/0/eeb72551d821011822042942dd6b9c48.mp3?hdnea=exp=1795654494~acl=/api/1/1/e/e/b/0/eeb72551d821011822042942dd6b9c48.mp3*~data=user_id=0,application_id=42~hmac=dd6548cb34c33473ae4e80184283c909a79d2ef75618e3aced27610e237e4481",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Waltz no. 2 in B minor, op. 69, IFC 120: Moderato",
+            "length": "2:52",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702845,
+              "link": "https://www.deezer.com/track/2349702845",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/a/0/76aa7a2a3b88b3ef806a64b93746e55b.mp3?hdnea=exp=1795654494~acl=/api/1/1/7/6/a/0/76aa7a2a3b88b3ef806a64b93746e55b.mp3*~data=user_id=0,application_id=42~hmac=ab6706db441d1ae116f7d8c75a2be7d96aa56e9190ff2d18f9a081e59afc8555",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Waltz no. 1 in G-flat major, op. 70, IFC 121: Molto vivace",
+            "length": "2:55",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702855,
+              "link": "https://www.deezer.com/track/2349702855",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/c/0/8acce2c9851d4a29755d76264348009a.mp3?hdnea=exp=1795654494~acl=/api/1/1/8/a/c/0/8acce2c9851d4a29755d76264348009a.mp3*~data=user_id=0,application_id=42~hmac=b3d8ac4da25edce31cc80c650bc2dfc5646b3474532ecbfc38083e0179f85336",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Waltz no. 2 in F minor, op. 70, IFC 121: Tempo giusto",
+            "length": "2:12",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702865,
+              "link": "https://www.deezer.com/track/2349702865",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/7/0/b777b6c6536f34c2f62df1c0fac0d43a.mp3?hdnea=exp=1795654494~acl=/api/1/1/b/7/7/0/b777b6c6536f34c2f62df1c0fac0d43a.mp3*~data=user_id=0,application_id=42~hmac=2b6cb4d61041980b4ef0700b9a6a40c039e1ee8aa800d0c40bd9232156a14c4d",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Waltz no. 3 in D-flat major, op. 70, IFC 121: Moderato",
+            "length": "1:54",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702875,
+              "link": "https://www.deezer.com/track/2349702875",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/7/0/487868d778886c064cfabc42c9a93dd5.mp3?hdnea=exp=1795654494~acl=/api/1/1/4/8/7/0/487868d778886c064cfabc42c9a93dd5.mp3*~data=user_id=0,application_id=42~hmac=e2de0421be5f256d829c2574d52e03501b85f470c0fdbc9e122c634f24840492",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Waltz in E minor, op. posth.",
+            "length": "2:38",
+            "artist": "Fryderyk Chopin",
+            "deezer": {
+              "id": 2349702885,
+              "link": "https://www.deezer.com/track/2349702885",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/a/0/2caa55359e92309bf40864aab40e324f.mp3?hdnea=exp=1795654494~acl=/api/1/1/2/c/a/0/2caa55359e92309bf40864aab40e324f.mp3*~data=user_id=0,application_id=42~hmac=8272d2c7c1ea0486c862a185d24a14e7a452cd1f0e67eeba46d58d948f660e15",
+              "preview_expires": "2026-11-26T00:54:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Frédéric Chopin/Chopin - Preludes, Ballades Nos 3 & 4, Nocturnes.jpg"
+}

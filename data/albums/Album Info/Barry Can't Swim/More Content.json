@@ -1,0 +1,95 @@
+{
+  "title": "More Content",
+  "artist": "Barry Can’t Swim",
+  "year": 2022,
+  "release_date": "2022-06-24",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "deep house",
+    "future garage",
+    "outsider house"
+  ],
+  "tags": [
+    "deep house",
+    "future garage",
+    "outsider house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/01abfc39-18b8-4d6e-b91c-898b16be412f",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003701895",
+    "deezer": "https://www.deezer.com/album/307123277"
+  },
+  "musicbrainz_id": "01abfc39-18b8-4d6e-b91c-898b16be412f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c2a5de2c-b82c-452b-949b-4da21c4a7d02",
+      "barcode": "5054429156188",
+      "title": "More Content",
+      "disambiguation": null,
+      "date": "2022-06-24",
+      "country": "GB"
+    },
+    "total_tracks": 4,
+    "total_length": "14:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sonder",
+            "length": "3:02",
+            "deezer": {
+              "id": 1703647327,
+              "link": "https://www.deezer.com/track/1703647327",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/3/0/0d36c5d1ec9744e38aa80f75617d18f7.mp3?hdnea=exp=1795651880~acl=/api/1/1/0/d/3/0/0d36c5d1ec9744e38aa80f75617d18f7.mp3*~data=user_id=0,application_id=42~hmac=e305743729863f5b0322349acdb0e8e081761f886bc9c0fff36c2557e9a1c24a",
+              "preview_expires": "2026-11-26T00:11:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Can We Still Be Friends?",
+            "length": "4:03",
+            "artist": "Barry Can’t Swim & Laurence Guy",
+            "deezer": {
+              "id": 1703647337,
+              "link": "https://www.deezer.com/track/1703647337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/d/0/4fd45837031c497b6ab90fe79a6f2ff4.mp3?hdnea=exp=1795651880~acl=/api/1/1/4/f/d/0/4fd45837031c497b6ab90fe79a6f2ff4.mp3*~data=user_id=0,application_id=42~hmac=846c3d0a5d6441b201d54fcd571cf501faf2dd4f53fb617233b9cfe640560130",
+              "preview_expires": "2026-11-26T00:11:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "God Is the Space Between Us",
+            "length": "3:08",
+            "artist": "Barry Can’t Swim & Taite Imogen",
+            "deezer": {
+              "id": 1703647347,
+              "link": "https://www.deezer.com/track/1703647347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/2/0/4925b3ce236febcf1c9145c6bbd84a84.mp3?hdnea=exp=1795651880~acl=/api/1/1/4/9/2/0/4925b3ce236febcf1c9145c6bbd84a84.mp3*~data=user_id=0,application_id=42~hmac=e4cc1ff32ee90c289b64197a2669baf16dde236faf05defc95b0dba8492c1b85",
+              "preview_expires": "2026-11-26T00:11:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Fiorucci Made Me Hardcore",
+            "length": "3:51",
+            "deezer": {
+              "id": 1703647357,
+              "link": "https://www.deezer.com/track/1703647357",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/5/0/a85a0bd0d6b0fb71ab8219e43a105918.mp3?hdnea=exp=1795651880~acl=/api/1/1/a/8/5/0/a85a0bd0d6b0fb71ab8219e43a105918.mp3*~data=user_id=0,application_id=42~hmac=bd6e007cc3c413f9e4c267ce2772364039e0b05c692f7ec800576dc0d461fe72",
+              "preview_expires": "2026-11-26T00:11:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Barry Can't Swim/More Content.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Alors Alors",
+  "artist": "Benzz",
+  "year": 2022,
+  "release_date": "2022-12-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk drill",
+    "drill"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6NW9xEZgwyhhNal3GoUOWl",
+    "deezer": "https://www.deezer.com/album/382588227"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6NW9xEZgwyhhNal3GoUOWl",
+      "title": "Alors Alors",
+      "date": "2022-12-08"
+    },
+    "total_tracks": 1,
+    "total_length": "2:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Alors Alors",
+            "length": "2:13",
+            "deezer": {
+              "id": 2046277477,
+              "link": "https://www.deezer.com/track/2046277477",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/7/0/a27a51b2a0535f756bce2d6474821b80.mp3?hdnea=exp=1795651954~acl=/api/1/1/a/2/7/0/a27a51b2a0535f756bce2d6474821b80.mp3*~data=user_id=0,application_id=42~hmac=f8d9ea004256c88dc59ebc4b6e920d26654cdd4f9b10686deac535434ce7a958",
+              "preview_expires": "2026-11-26T00:12:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Benzz/Alors Alors.jpg"
+}

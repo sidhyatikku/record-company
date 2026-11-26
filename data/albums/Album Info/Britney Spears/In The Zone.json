@@ -1,0 +1,213 @@
+{
+  "title": "In the Zone",
+  "artist": "Britney Spears",
+  "year": 2003,
+  "release_date": "2003-11-13",
+  "type": "Album",
+  "description": "In the Zone is the fourth studio album by American singer Britney Spears. It was released on November 15, 2003, by Jive Records. Spears began writing songs during her Dream Within a Dream Tour, not knowing the direction of the record. She stated she was an autobiographical songwriter, although not to the point where she felt self-exploited. During the process, she ended her highly-publicized relationship with singer Justin Timberlake. With the tour's conclusion in July 2002, Spears planned to take a six-month break from her career. However, recording for the album commenced in November.",
+  "genres": [
+    "pop",
+    "dance",
+    "dance-pop",
+    "hip hop",
+    "synth-pop",
+    "electro",
+    "electronic",
+    "electropop"
+  ],
+  "tags": [
+    "pop",
+    "general teen pop",
+    "dance",
+    "dance-pop",
+    "hip hop",
+    "synth-pop",
+    "electro",
+    "electronic",
+    "electropop",
+    "rnb swing"
+  ],
+  "rating": {
+    "value_out_of_5": 3.75,
+    "votes": 17
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/add6cf16-f4c1-3d50-9b28-633b35ca8189",
+    "wikipedia": "https://en.wikipedia.org/wiki/In_the_Zone",
+    "allmusic": "https://www.allmusic.com/album/mw0000320439",
+    "discogs": "https://www.discogs.com/master/29427",
+    "wikidata": "https://www.wikidata.org/wiki/Q27166",
+    "deezer": "https://www.deezer.com/album/1421245"
+  },
+  "musicbrainz_id": "add6cf16-f4c1-3d50-9b28-633b35ca8189",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/029e8809-e62d-4c62-9ffb-35cec53a726e",
+      "barcode": "828765374828",
+      "title": "In the Zone",
+      "disambiguation": null,
+      "date": "2003-11-13",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "49:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Me Against the Music",
+            "length": "3:43",
+            "artist": "Britney Spears feat. Madonna",
+            "deezer": {
+              "id": 15392959,
+              "link": "https://www.deezer.com/track/15392959",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/f/0/effc8c88c046ad1d1ad9c03d2ba08b18.mp3?hdnea=exp=1795652555~acl=/api/1/1/e/f/f/0/effc8c88c046ad1d1ad9c03d2ba08b18.mp3*~data=user_id=0,application_id=42~hmac=88f956b4b496e9c298ced4f5a9f939b7361e67aef98e6d3a69e556ac639fd4f3",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "(I Got That) Boom Boom",
+            "length": "4:49",
+            "artist": "Britney Spears feat. Ying Yang Twins",
+            "deezer": {
+              "id": 15390628,
+              "link": "https://www.deezer.com/track/15390628",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/a/0/70aa968843b5f06a80a4cca8a9f65bd3.mp3?hdnea=exp=1795652555~acl=/api/1/1/7/0/a/0/70aa968843b5f06a80a4cca8a9f65bd3.mp3*~data=user_id=0,application_id=42~hmac=047704edf16affa7f14ed1c5d03ea2a571947bb762b62a9ba9bb9dfbcc19be4c",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Showdown",
+            "length": "3:16",
+            "deezer": {
+              "id": 15391616,
+              "link": "https://www.deezer.com/track/15391616",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/9/0/b59e50fc4c2dd674965a101de9bf230c.mp3?hdnea=exp=1795652555~acl=/api/1/1/b/5/9/0/b59e50fc4c2dd674965a101de9bf230c.mp3*~data=user_id=0,application_id=42~hmac=88a55adff842092af0c027595d170934a3ecba840e2963ad90ddbcd1538f5263",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Breathe on Me",
+            "length": "3:43",
+            "deezer": {
+              "id": 15391617,
+              "link": "https://www.deezer.com/track/15391617",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/8/0/198901e5ac6f2863d1b6933aff4d548c.mp3?hdnea=exp=1795652555~acl=/api/1/1/1/9/8/0/198901e5ac6f2863d1b6933aff4d548c.mp3*~data=user_id=0,application_id=42~hmac=829ef81cd3ebf2e99f12c7710bd8dfe47acf6952f6947d612298cd3240b56b5d",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Early Mornin’",
+            "length": "3:45",
+            "deezer": {
+              "id": 15392960,
+              "link": "https://www.deezer.com/track/15392960",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/5/0/aa5062dbe64c38c24e2afb46ff2be4a8.mp3?hdnea=exp=1795652555~acl=/api/1/1/a/a/5/0/aa5062dbe64c38c24e2afb46ff2be4a8.mp3*~data=user_id=0,application_id=42~hmac=2a608ecc7c70dda98850b70ba16113c604f82fb7587b24c4bc1780d743026c98",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Toxic",
+            "length": "3:18",
+            "deezer": {
+              "id": 15391618,
+              "link": "https://www.deezer.com/track/15391618",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/3/0/9d34e72ceb70f4d8e347d3e21e245531.mp3?hdnea=exp=1795652555~acl=/api/1/1/9/d/3/0/9d34e72ceb70f4d8e347d3e21e245531.mp3*~data=user_id=0,application_id=42~hmac=37271b0ef02bfeae08b242c7595cad325e0f1e6c119b51495063b0550ebb2f17",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Outrageous",
+            "length": "3:21",
+            "deezer": {
+              "id": 15392961,
+              "link": "https://www.deezer.com/track/15392961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/7/0/e6723b1b2a5c19c3983aa65e194cffac.mp3?hdnea=exp=1795652555~acl=/api/1/1/e/6/7/0/e6723b1b2a5c19c3983aa65e194cffac.mp3*~data=user_id=0,application_id=42~hmac=f00ce6b598b0f0c0f5e881b388df09d7d7c688d22a79388ea9ab2b59468af37b",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Touch of My Hand",
+            "length": "4:19",
+            "deezer": {
+              "id": 15391619,
+              "link": "https://www.deezer.com/track/15391619",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/e/0/48ec9be6965583e61d0766fe81fd3ca7.mp3?hdnea=exp=1795652555~acl=/api/1/1/4/8/e/0/48ec9be6965583e61d0766fe81fd3ca7.mp3*~data=user_id=0,application_id=42~hmac=e4123a4fb7d593f83e3af882615bd431e80986c33f6eb41b10cede4dccccee5b",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Hook Up",
+            "length": "3:54",
+            "deezer": {
+              "id": 15391620,
+              "link": "https://www.deezer.com/track/15391620",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/1/0/4b16c66174a67c7b473e4fa741b8a1c0.mp3?hdnea=exp=1795652555~acl=/api/1/1/4/b/1/0/4b16c66174a67c7b473e4fa741b8a1c0.mp3*~data=user_id=0,application_id=42~hmac=e16d89ab6fe91cefa62f7393a3f6c1d5e50df507e1736587eb42d09c3347a94f",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Shadow",
+            "length": "3:44",
+            "deezer": {
+              "id": 15392962,
+              "link": "https://www.deezer.com/track/15392962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/0/0/39034da46403e988ae5eb5e1edf0e28c.mp3?hdnea=exp=1795652555~acl=/api/1/1/3/9/0/0/39034da46403e988ae5eb5e1edf0e28c.mp3*~data=user_id=0,application_id=42~hmac=0ecc3319c07913252578d730b31cbd28c506d33dc618df7edaac657aa962cef9",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Brave New Girl",
+            "length": "3:28",
+            "deezer": {
+              "id": 15392963,
+              "link": "https://www.deezer.com/track/15392963",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/0/0/5d0eebf8cc5c2313d596ff5ee4b6da8f.mp3?hdnea=exp=1795652555~acl=/api/1/1/5/d/0/0/5d0eebf8cc5c2313d596ff5ee4b6da8f.mp3*~data=user_id=0,application_id=42~hmac=998af8f91f11cce5daafb85fadd12e4312d92fbd183adc27c1b2995e4c63ddba",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Everytime",
+            "length": "3:50",
+            "deezer": {
+              "id": 15391621,
+              "link": "https://www.deezer.com/track/15391621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/b/0/42b61365eb0b4d7f7b12a141a31af9c9.mp3?hdnea=exp=1795652555~acl=/api/1/1/4/2/b/0/42b61365eb0b4d7f7b12a141a31af9c9.mp3*~data=user_id=0,application_id=42~hmac=e54b5933b14f69793b8a216d7ffae9f384824150d3a319aaee2d0dc74b584eeb",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Me Against the Music (Rishi Rich’s Desi Kulcha remix)",
+            "length": "4:29",
+            "artist": "Britney Spears feat. Madonna",
+            "deezer": {
+              "id": 15390627,
+              "link": "https://www.deezer.com/track/15390627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/0/0/ab0c314e87cb1b1264652c9c5511c600.mp3?hdnea=exp=1795652555~acl=/api/1/1/a/b/0/0/ab0c314e87cb1b1264652c9c5511c600.mp3*~data=user_id=0,application_id=42~hmac=702336fe361cd36cd413a89640dd3673cbe4f8a050bd55691d18fa637a1bd64a",
+              "preview_expires": "2026-11-26T00:22:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Britney Spears/In The Zone.jpg"
+}

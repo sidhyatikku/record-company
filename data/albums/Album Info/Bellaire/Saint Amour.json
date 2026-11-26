@@ -1,0 +1,106 @@
+{
+  "title": "Saint Amour",
+  "artist": "Bellaire",
+  "year": 2017,
+  "release_date": "2017-11-25",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/14711aaf-ae0c-45a2-92f9-e562c4d44bfa",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/606805722"
+  },
+  "musicbrainz_id": "14711aaf-ae0c-45a2-92f9-e562c4d44bfa",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8aa33b27-346b-4179-bf05-b93bcc152c37",
+      "barcode": "3614978903767",
+      "title": "Saint Amour",
+      "disambiguation": null,
+      "date": "2017-11-25",
+      "country": "FR"
+    },
+    "total_tracks": 6,
+    "total_length": "32:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pigalle",
+            "length": "4:10",
+            "deezer": {
+              "id": 2863848832,
+              "link": "https://www.deezer.com/track/2863848832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/9/0/119f387252f33557f9c65fb33da6f491.mp3?hdnea=exp=1795651929~acl=/api/1/1/1/1/9/0/119f387252f33557f9c65fb33da6f491.mp3*~data=user_id=0,application_id=42~hmac=a7da183178fbea697d9f65795c2243bb123ca621e11bee3dc312c25fe896482b",
+              "preview_expires": "2026-11-26T00:12:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "No More",
+            "length": "5:57",
+            "deezer": {
+              "id": 2863848842,
+              "link": "https://www.deezer.com/track/2863848842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/5/0/7c59d039a4fa5e2cff8c1cba150e82ea.mp3?hdnea=exp=1795651929~acl=/api/1/1/7/c/5/0/7c59d039a4fa5e2cff8c1cba150e82ea.mp3*~data=user_id=0,application_id=42~hmac=32316ec881f4e4a3d3f04123cfa2f867a890c8a099879d0f0c60779a196acc42",
+              "preview_expires": "2026-11-26T00:12:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ghetto Dance",
+            "length": "5:27",
+            "deezer": {
+              "id": 2863848852,
+              "link": "https://www.deezer.com/track/2863848852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/7/0/b573dd3f136d12dfda7d4dbedd427e63.mp3?hdnea=exp=1795651929~acl=/api/1/1/b/5/7/0/b573dd3f136d12dfda7d4dbedd427e63.mp3*~data=user_id=0,application_id=42~hmac=49d8ca9c957cd2d2d14945c801475592cf9545bcb0dd0c489b44c54dfa5c9ac1",
+              "preview_expires": "2026-11-26T00:12:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Brooklyn",
+            "length": "5:41",
+            "deezer": {
+              "id": 2863848862,
+              "link": "https://www.deezer.com/track/2863848862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/3/0/703d56c3ff98e2aae2ae9b2634ab7c9b.mp3?hdnea=exp=1795651929~acl=/api/1/1/7/0/3/0/703d56c3ff98e2aae2ae9b2634ab7c9b.mp3*~data=user_id=0,application_id=42~hmac=daf5f72248b0522e87f77ac8b3e6e35c632e8503a9da3874898c3368fa379351",
+              "preview_expires": "2026-11-26T00:12:09Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Groovin'",
+            "length": "5:28",
+            "deezer": {
+              "id": 2863848872,
+              "link": "https://www.deezer.com/track/2863848872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/2/0/602daa223a3740a43363d10ff4c7bf0c.mp3?hdnea=exp=1795651929~acl=/api/1/1/6/0/2/0/602daa223a3740a43363d10ff4c7bf0c.mp3*~data=user_id=0,application_id=42~hmac=95e55d75d2e12d1e6c1619ea4bdd777ea4f96da61b3c98c4ae161586e85c386f",
+              "preview_expires": "2026-11-26T00:12:09Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Voyage",
+            "length": "6:12",
+            "deezer": {
+              "id": 2863848882,
+              "link": "https://www.deezer.com/track/2863848882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/4/0/f842922ff7a6bfeae315e3fb6b9a1862.mp3?hdnea=exp=1795651929~acl=/api/1/1/f/8/4/0/f842922ff7a6bfeae315e3fb6b9a1862.mp3*~data=user_id=0,application_id=42~hmac=d1d8f9388b4065c0c80ff1c215803bd9906631c22fcf1767f181c5fa1a0896c6",
+              "preview_expires": "2026-11-26T00:12:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bellaire/Saint Amour.jpg"
+}

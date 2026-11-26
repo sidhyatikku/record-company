@@ -1,0 +1,51 @@
+{
+  "title": "All I Need",
+  "artist": "Slushii",
+  "year": 2020,
+  "release_date": "2020-09-25",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1b4debbc-8aa5-4abb-b64d-171e1b7339ab",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/174876702"
+  },
+  "musicbrainz_id": "1b4debbc-8aa5-4abb-b64d-171e1b7339ab",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/af8d34e9-2eae-4c6f-8b76-46b83a3d8199",
+      "barcode": "703980551684",
+      "title": "All I Need",
+      "disambiguation": null,
+      "date": "2020-09-25",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "All I Need",
+            "length": "3:46",
+            "deezer": {
+              "id": 1087365562,
+              "link": "https://www.deezer.com/track/1087365562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9816cfea8fb3e00ca9473db94bd0fa.mp3?hdnea=exp=1795720775~acl=/api/1/1/4/a/9/0/4a9816cfea8fb3e00ca9473db94bd0fa.mp3*~data=user_id=0,application_id=42~hmac=684ff006c025ea648ee829b0a8ed0a4698c5427194d9486ce353379006b3c299",
+              "preview_expires": "2026-11-26T19:19:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Slushii/All I Need.jpg"
+}

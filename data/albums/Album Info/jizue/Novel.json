@@ -1,0 +1,152 @@
+{
+  "title": "novel",
+  "artist": "jizue",
+  "year": 2012,
+  "release_date": "2012-05-09",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "jazz",
+    "post-rock",
+    "rock"
+  ],
+  "tags": [
+    "jazz",
+    "post-rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0ca6b5d0-2bb6-4c8d-9725-1a81a43ac96c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/277470892"
+  },
+  "musicbrainz_id": "0ca6b5d0-2bb6-4c8d-9725-1a81a43ac96c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/09d6eee8-e958-44ac-9dc0-68e406decf79",
+      "barcode": null,
+      "title": "novel",
+      "disambiguation": null,
+      "date": "2012-05-09",
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "49:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "intro",
+            "length": "1:21",
+            "deezer": {
+              "id": 1575807762,
+              "link": "https://www.deezer.com/track/1575807762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/7/0/8370be1dbe77552a426d063fdf08abb7.mp3?hdnea=exp=1795655629~acl=/api/1/1/8/3/7/0/8370be1dbe77552a426d063fdf08abb7.mp3*~data=user_id=0,application_id=42~hmac=64418a33aa133427ccd979dd00d838d869d4b6b82f684671e7ca5d22ffa94b37",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "sun",
+            "length": "6:01",
+            "deezer": {
+              "id": 1575807772,
+              "link": "https://www.deezer.com/track/1575807772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/e/0/d2e7753b1dcfe70d4e2137a0bb771cc0.mp3?hdnea=exp=1795655629~acl=/api/1/1/d/2/e/0/d2e7753b1dcfe70d4e2137a0bb771cc0.mp3*~data=user_id=0,application_id=42~hmac=7e98ce67a369e0759238cd3428a4eee4137c81771621b57ef59a30ab1cf095df",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "unnecessary pain",
+            "length": "5:37",
+            "deezer": {
+              "id": 1575807782,
+              "link": "https://www.deezer.com/track/1575807782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/3/0/9b335e7ec0fcc77fa1cf961c1708a25f.mp3?hdnea=exp=1795655629~acl=/api/1/1/9/b/3/0/9b335e7ec0fcc77fa1cf961c1708a25f.mp3*~data=user_id=0,application_id=42~hmac=b20368191a570b6781070fd23276d3036cfbf4cc71baccc7781c95302e8fdd4a",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "chaser",
+            "length": "6:27",
+            "deezer": {
+              "id": 1575807792,
+              "link": "https://www.deezer.com/track/1575807792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/7/0/807b0db9749eb930fe251b6c39f6b4cb.mp3?hdnea=exp=1795655629~acl=/api/1/1/8/0/7/0/807b0db9749eb930fe251b6c39f6b4cb.mp3*~data=user_id=0,application_id=42~hmac=0a215acc1c3df862450303c45700ce8407c195ddcd877158795850eeff53b6ee",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "c‐loud",
+            "length": "3:00",
+            "deezer": {
+              "id": 1575807802,
+              "link": "https://www.deezer.com/track/1575807802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/1/0/351166a13fbe2c040f1ccf4e767a955e.mp3?hdnea=exp=1795655629~acl=/api/1/1/3/5/1/0/351166a13fbe2c040f1ccf4e767a955e.mp3*~data=user_id=0,application_id=42~hmac=a1c18dc7fc5293fd7dce379188635d2dc0e8b437994f790ec7bd11c968a7830c",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "hitorinouta",
+            "length": "5:40",
+            "deezer": {
+              "id": 1575807812,
+              "link": "https://www.deezer.com/track/1575807812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/6/0/37665a1ca2df8bfe0912472e4e2dbe5f.mp3?hdnea=exp=1795655629~acl=/api/1/1/3/7/6/0/37665a1ca2df8bfe0912472e4e2dbe5f.mp3*~data=user_id=0,application_id=42~hmac=a069f4bd14e1dc84de86cd375cffbec62ae463f004eb7ea82672a69ffb4ddd10",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "kotonoha",
+            "length": "4:55",
+            "deezer": {
+              "id": 1575807822,
+              "link": "https://www.deezer.com/track/1575807822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25f7d7c0918e8a0b4272db9e0d62d0aa.mp3?hdnea=exp=1795655629~acl=/api/1/1/2/5/f/0/25f7d7c0918e8a0b4272db9e0d62d0aa.mp3*~data=user_id=0,application_id=42~hmac=7f78dfdfe567d755cc001ec0b28e463a8df4de2a44a39e5615b71a2f6e1bc861",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "ふる里",
+            "length": "3:31"
+          },
+          {
+            "number": "9",
+            "title": "yubiwa",
+            "length": "5:41",
+            "deezer": {
+              "id": 1575807842,
+              "link": "https://www.deezer.com/track/1575807842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/6/0/436e9917e067148447f911bf4c994a3e.mp3?hdnea=exp=1795655629~acl=/api/1/1/4/3/6/0/436e9917e067148447f911bf4c994a3e.mp3*~data=user_id=0,application_id=42~hmac=e39dca64d15f1a3e37fe53cae70ad4645690feecdc97389ea09d91770604183a",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "pray",
+            "length": "7:44",
+            "deezer": {
+              "id": 1575807852,
+              "link": "https://www.deezer.com/track/1575807852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/4/0/034a95ca4a8869ef3d2795118358628d.mp3?hdnea=exp=1795655629~acl=/api/1/1/0/3/4/0/034a95ca4a8869ef3d2795118358628d.mp3*~data=user_id=0,application_id=42~hmac=c67b24e9b26ce55232bbedb4008f37554857d7807fcef18ca2ed1e45ec04435b",
+              "preview_expires": "2026-11-26T01:13:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/jizue/Novel.jpg"
+}

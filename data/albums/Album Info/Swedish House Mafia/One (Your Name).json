@@ -1,0 +1,109 @@
+{
+  "title": "One (Your Name)",
+  "artist": "Swedish House Mafia featuring Pharrell",
+  "year": 2010,
+  "release_date": "2010-04-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "progressive house",
+    "club",
+    "electro",
+    "electronic",
+    "house",
+    "rock"
+  ],
+  "tags": [
+    "progressive house",
+    "club",
+    "electro",
+    "electronic",
+    "house",
+    "rock",
+    "swedish house mafia"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b80034d8-e56e-486f-8d39-4d753bee469a",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0002022051",
+    "discogs": "https://www.discogs.com/master/263330",
+    "deezer": "https://www.deezer.com/album/600817"
+  },
+  "musicbrainz_id": "b80034d8-e56e-486f-8d39-4d753bee469a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2564fc4a-18a2-46fb-852a-3c1af16ca61d",
+      "barcode": "5099990579158",
+      "title": "One (Your Name)",
+      "disambiguation": null,
+      "date": "2010-06-25",
+      "country": null
+    },
+    "total_tracks": 4,
+    "total_length": "17:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "One (Your Name) (radio edit)",
+            "length": "2:43",
+            "artist": "Swedish House Mafia & Pharrell Williams",
+            "deezer": {
+              "id": 6517504,
+              "link": "https://www.deezer.com/track/6517504",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "2",
+            "title": "One (Your Name)",
+            "length": "5:50",
+            "artist": "Swedish House Mafia & Pharrell Williams",
+            "deezer": {
+              "id": 6517506,
+              "link": "https://www.deezer.com/track/6517506",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "One (radio edit)",
+            "length": "2:50",
+            "artist": "Swedish House Mafia",
+            "deezer": {
+              "id": 6517507,
+              "link": "https://www.deezer.com/track/6517507",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "4",
+            "title": "One",
+            "length": "5:50",
+            "artist": "Swedish House Mafia",
+            "deezer": {
+              "id": 6517508,
+              "link": "https://www.deezer.com/track/6517508",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Swedish House Mafia/One (Your Name).jpg"
+}

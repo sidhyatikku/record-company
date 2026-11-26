@@ -1,0 +1,45 @@
+{
+  "title": "New York Giddha",
+  "artist": "Kahani, HARJI, Indo Warehouse",
+  "year": 2023,
+  "release_date": "2023-07-14",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4ZhiCpjn2CmzGmSfMrT1Py",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4ZhiCpjn2CmzGmSfMrT1Py",
+      "title": "New York Giddha",
+      "date": "2023-07-14"
+    },
+    "total_tracks": 2,
+    "total_length": "8:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "New York Giddha",
+            "length": "5:14"
+          },
+          {
+            "number": "2",
+            "title": "New York Giddha - Radio Edit",
+            "length": "3:41"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kahani/New York Giddha.jpg"
+}

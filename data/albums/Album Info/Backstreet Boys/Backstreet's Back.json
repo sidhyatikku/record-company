@@ -1,0 +1,187 @@
+{
+  "title": "Backstreet’s Back",
+  "artist": "Backstreet Boys",
+  "year": 1997,
+  "release_date": "1997-08-11",
+  "type": "Album",
+  "description": "Backstreet's Back is the second studio album by American boy band Backstreet Boys, released on August 11, 1997, by Jive Records and Trans Continental Records, appearing in most countries except the United States. The album served as one of two follow-ups to the group's debut Backstreet Boys, which came out a year prior. A day after Backstreet's Back came out for most of the world, a United States–exclusive album was released with the same title as the group's debut: Backstreet Boys—a hybrid reissue containing a revised track list and additional songs from Backstreet's Back.",
+  "genres": [
+    "pop",
+    "electronic",
+    "teen pop",
+    "dance-pop",
+    "europop",
+    "rock"
+  ],
+  "tags": [
+    "pop",
+    "boy band",
+    "electronic",
+    "teen pop",
+    "alliteration",
+    "dance pop",
+    "dance-pop",
+    "europop",
+    "pop/rock",
+    "pop_europop",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 2.75,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/92ca640f-9098-3d39-a348-9f1f307c4043",
+    "wikipedia": "https://en.wikipedia.org/wiki/Backstreet's_Back",
+    "allmusic": "https://www.allmusic.com/album/mw0001986242",
+    "discogs": "https://www.discogs.com/master/48244",
+    "wikidata": "https://www.wikidata.org/wiki/Q1140469",
+    "deezer": "https://www.deezer.com/album/1442196"
+  },
+  "musicbrainz_id": "92ca640f-9098-3d39-a348-9f1f307c4043",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f7b04da2-e4ed-4e0b-a519-267da8762093",
+      "barcode": "888880780928",
+      "title": "Backstreet’s Back",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "46:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Everybody (Backstreet’s Back) (radio edit)",
+            "length": "3:45",
+            "deezer": {
+              "id": 15608663,
+              "link": "https://www.deezer.com/track/15608663",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/d/0/fcd1f2df6ae0cea3b151c5f290ed7fc7.mp3?hdnea=exp=1795651811~acl=/api/1/1/f/c/d/0/fcd1f2df6ae0cea3b151c5f290ed7fc7.mp3*~data=user_id=0,application_id=42~hmac=b261fbff53185ce5a9c2673fb51847ab178e6992c2b9d62edbfbf3a2b9a27b31",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "As Long as You Love Me",
+            "length": "3:41",
+            "deezer": {
+              "id": 15608664,
+              "link": "https://www.deezer.com/track/15608664",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/2/0/f221a49cf8cd3349612cb545f7e0a389.mp3?hdnea=exp=1795651811~acl=/api/1/1/f/2/2/0/f221a49cf8cd3349612cb545f7e0a389.mp3*~data=user_id=0,application_id=42~hmac=a07cf932ede8e0ba78f45928401c9cc61b10b48e0539b298ce9cdab7717d2004",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "All I Have to Give",
+            "length": "4:34",
+            "deezer": {
+              "id": 15608665,
+              "link": "https://www.deezer.com/track/15608665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/4/0/1d44e259eb2991a67dde42617cb053e9.mp3?hdnea=exp=1795651811~acl=/api/1/1/1/d/4/0/1d44e259eb2991a67dde42617cb053e9.mp3*~data=user_id=0,application_id=42~hmac=6a3b5866c3b8e91e67bb99effd910819a6cd862b459ca09579311fb24d3db3de",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "That’s the Way I Like It",
+            "length": "3:40",
+            "deezer": {
+              "id": 15608666,
+              "link": "https://www.deezer.com/track/15608666",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/2/0/6d23d3f290a6cb2452e8bf02f6d4a625.mp3?hdnea=exp=1795651811~acl=/api/1/1/6/d/2/0/6d23d3f290a6cb2452e8bf02f6d4a625.mp3*~data=user_id=0,application_id=42~hmac=9c1f8e6ed8705e3c1fa77f12d6e9006627d5ece2ba1147abe9cf7fac475e8fb5",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "10.000 Promises",
+            "length": "4:03",
+            "deezer": {
+              "id": 15608667,
+              "link": "https://www.deezer.com/track/15608667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/7/0/6b7f500752d0e7b39ec301dd31481331.mp3?hdnea=exp=1795651811~acl=/api/1/1/6/b/7/0/6b7f500752d0e7b39ec301dd31481331.mp3*~data=user_id=0,application_id=42~hmac=ac66e64f3fe280f141b5598946948b4e2dd34d8d95da0d93fd66ba131aa410f0",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Like a Child",
+            "length": "5:05",
+            "deezer": {
+              "id": 15608668,
+              "link": "https://www.deezer.com/track/15608668",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/0/0/ff0fe135d7ea164ecc6a60eee0025a06.mp3?hdnea=exp=1795651811~acl=/api/1/1/f/f/0/0/ff0fe135d7ea164ecc6a60eee0025a06.mp3*~data=user_id=0,application_id=42~hmac=ef0d48e706490b5aac9c5fff8b0a8a8b39552c7c8fdefe87503466536a600a34",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Hey Mr. DJ (Keep Playin’ This Song)",
+            "length": "4:25",
+            "deezer": {
+              "id": 15608669,
+              "link": "https://www.deezer.com/track/15608669",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/3/0/563a63440eef347b612fde356bfb6972.mp3?hdnea=exp=1795651811~acl=/api/1/1/5/6/3/0/563a63440eef347b612fde356bfb6972.mp3*~data=user_id=0,application_id=42~hmac=ab27d9e2d35ac0435abb4d1bd4dcef731ec295d81c9f4e4cb90ea62af354faa8",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Set Adrift on Memory Bliss",
+            "length": "3:30",
+            "deezer": {
+              "id": 15608670,
+              "link": "https://www.deezer.com/track/15608670",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/d/0/7dd6da2ac6e5d833c5acd8a3ee14bea1.mp3?hdnea=exp=1795651811~acl=/api/1/1/7/d/d/0/7dd6da2ac6e5d833c5acd8a3ee14bea1.mp3*~data=user_id=0,application_id=42~hmac=de6ec0c3413aadabe9248ddcc194e20a0e0a71d1b0e659b681d196317662672b",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "That’s What She Said",
+            "length": "4:04",
+            "deezer": {
+              "id": 15608671,
+              "link": "https://www.deezer.com/track/15608671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/1/0/96156a68b8fe40802098d82aa0ff8f25.mp3?hdnea=exp=1795651811~acl=/api/1/1/9/6/1/0/96156a68b8fe40802098d82aa0ff8f25.mp3*~data=user_id=0,application_id=42~hmac=096bf0ba1efdd94e2621e8693c609fa99f29dd71ea1f09b685e0af5bb1a22fd5",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "If You Want to Be a Good Girl (Get Yourself a Bad Boy)",
+            "length": "4:50",
+            "deezer": {
+              "id": 15608672,
+              "link": "https://www.deezer.com/track/15608672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/d/0/dfd6d9a8a8f6a07267cf9abc49264312.mp3?hdnea=exp=1795651811~acl=/api/1/1/d/f/d/0/dfd6d9a8a8f6a07267cf9abc49264312.mp3*~data=user_id=0,application_id=42~hmac=ead057ef2c2b91860f9b15f7ed06f2262bf1d3f0c8e6220f431c5eb9609702c6",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "If I Don’t Have You",
+            "length": "4:34",
+            "deezer": {
+              "id": 15608673,
+              "link": "https://www.deezer.com/track/15608673",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/9/0/1a98152e7a1662245229fda866e3a785.mp3?hdnea=exp=1795651811~acl=/api/1/1/1/a/9/0/1a98152e7a1662245229fda866e3a785.mp3*~data=user_id=0,application_id=42~hmac=eefb856a52d9bfe7c88b3f309d0e395e309e3ca372af23365af8a0cd9c4516bd",
+              "preview_expires": "2026-11-26T00:10:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Backstreet Boys/Backstreet's Back.jpg"
+}

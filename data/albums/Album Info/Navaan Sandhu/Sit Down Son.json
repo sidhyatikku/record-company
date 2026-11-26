@@ -1,0 +1,52 @@
+{
+  "title": "Sit Down Son",
+  "artist": "Navaan Sandhu",
+  "year": 2024,
+  "release_date": "2024-11-29",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fe39a6b2-c5ea-43dc-b533-c0ee2c6bc977",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/813244391"
+  },
+  "musicbrainz_id": "fe39a6b2-c5ea-43dc-b533-c0ee2c6bc977",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2695d792-79e0-4ec0-8bab-b219b08491ad",
+      "barcode": null,
+      "title": "Sit Down Son",
+      "disambiguation": null,
+      "date": "2024-11-29",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sit Down Son",
+            "length": "3:24",
+            "artist": "Navaan Sandhu, Rxtro & Avvy",
+            "deezer": {
+              "id": 3533294751,
+              "link": "https://www.deezer.com/track/3533294751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/1/0/df1568ea2f6334c1cbd5bed7324b002b.mp3?hdnea=exp=1795718769~acl=/api/1/1/d/f/1/0/df1568ea2f6334c1cbd5bed7324b002b.mp3*~data=user_id=0,application_id=42~hmac=f7be0a35c6f0bd52fc90c1057d36c77cebe1f44caefade3be07e5b7d80361f4a",
+              "preview_expires": "2026-11-26T18:46:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Navaan Sandhu/Sit Down Son.jpg"
+}

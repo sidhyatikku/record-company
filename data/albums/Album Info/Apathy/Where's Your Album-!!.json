@@ -1,0 +1,298 @@
+{
+  "title": "Where's Your Album?!!",
+  "artist": "Apathy",
+  "year": 2004,
+  "release_date": "2004",
+  "type": "Album + Mixtape/Street",
+  "description": null,
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "hip-hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a2b78a5c-f56a-3d5a-bfbe-ac52216dd8e5",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001028319",
+    "discogs": "https://www.discogs.com/master/68949",
+    "deezer": "https://www.deezer.com/album/6312082"
+  },
+  "musicbrainz_id": "a2b78a5c-f56a-3d5a-bfbe-ac52216dd8e5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d36a1ec7-07e3-42e2-84a8-8988e02ab231",
+      "barcode": "057937002720",
+      "title": "Where's Your Album?!!",
+      "disambiguation": null,
+      "date": "2004",
+      "country": "US"
+    },
+    "total_tracks": 22,
+    "total_length": "53:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ap's Intro",
+            "length": "2:20",
+            "deezer": {
+              "id": 64429025,
+              "link": "https://www.deezer.com/track/64429025",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/3/0/8c3cfca0ac35861f51ac3d7a9cdc6d6f.mp3?hdnea=exp=1795651653~acl=/api/1/1/8/c/3/0/8c3cfca0ac35861f51ac3d7a9cdc6d6f.mp3*~data=user_id=0,application_id=42~hmac=3f3a906cd19ef91f02bec023ccdb50c040db83fecdd8dfe714e26e17bd8a59ed",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "It Takes a Seven Nation Army to Hold Us Back",
+            "length": "3:04",
+            "artist": "Apathy feat. Emilio Lopez",
+            "deezer": {
+              "id": 64429026,
+              "link": "https://www.deezer.com/track/64429026",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/8/0/d18666e9fc79ea776d820f07cb8d1393.mp3?hdnea=exp=1795651653~acl=/api/1/1/d/1/8/0/d18666e9fc79ea776d820f07cb8d1393.mp3*~data=user_id=0,application_id=42~hmac=53914812cf0ad95314f363771042925a90f4c9ea5c71323b9f2216f9c95f1c5c",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Represent",
+            "length": "3:21",
+            "artist": "Apathy feat. Celph Titled & Motive",
+            "deezer": {
+              "id": 64429027,
+              "link": "https://www.deezer.com/track/64429027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/7/0/fb7dadc03c12e02df57692b743dac4f3.mp3?hdnea=exp=1795651653~acl=/api/1/1/f/b/7/0/fb7dadc03c12e02df57692b743dac4f3.mp3*~data=user_id=0,application_id=42~hmac=8bf29cca0ae40c748ea39a9c6a7126dcff39179f470e425550261122853dfba9",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mother Molestors Freestyle",
+            "length": "2:29",
+            "artist": "Apathy feat. Majik Most & Celph Titled",
+            "deezer": {
+              "id": 64429028,
+              "link": "https://www.deezer.com/track/64429028",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/c/0/eccd86f19ace215a25da2908663ef7cd.mp3?hdnea=exp=1795651653~acl=/api/1/1/e/c/c/0/eccd86f19ace215a25da2908663ef7cd.mp3*~data=user_id=0,application_id=42~hmac=c40e54b35066ecc66229bd515c992977ade36271ffab178d8f050357af687582",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ap's Theme",
+            "length": "0:39",
+            "deezer": {
+              "id": 64429029,
+              "link": "https://www.deezer.com/track/64429029",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/f/0/2cf0644a98ca32dda91ef0ec1949d110.mp3?hdnea=exp=1795651653~acl=/api/1/1/2/c/f/0/2cf0644a98ca32dda91ef0ec1949d110.mp3*~data=user_id=0,application_id=42~hmac=8af9822cb599150c071f5d29276065a78ea0113e6ff39132e273ce9d5f61c0c3",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mary Song",
+            "length": "3:12",
+            "artist": "Apathy feat. One Two",
+            "deezer": {
+              "id": 64429030,
+              "link": "https://www.deezer.com/track/64429030",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/9/0/ec95755db179d406da0872b8cc56df05.mp3?hdnea=exp=1795651653~acl=/api/1/1/e/c/9/0/ec95755db179d406da0872b8cc56df05.mp3*~data=user_id=0,application_id=42~hmac=7bc492fe3125e642926b34171652231da7d7fbcfa252714691d80457e5ae4399",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Lesson Freestyle",
+            "length": "1:43",
+            "deezer": {
+              "id": 64429031,
+              "link": "https://www.deezer.com/track/64429031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/e/0/f5e65f5d7475b179ce68f24b02da5251.mp3?hdnea=exp=1795651653~acl=/api/1/1/f/5/e/0/f5e65f5d7475b179ce68f24b02da5251.mp3*~data=user_id=0,application_id=42~hmac=4bea06ab2d6cfd67ccefbdc57c5f67dcd6a3126a2b4f3c96849afb14b8494d38",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Da Bichez",
+            "length": "3:55",
+            "artist": "Apathy feat. Eternia",
+            "deezer": {
+              "id": 64429032,
+              "link": "https://www.deezer.com/track/64429032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/7/0/2878f814b2c522a60b62dfea24f6cbaf.mp3?hdnea=exp=1795651653~acl=/api/1/1/2/8/7/0/2878f814b2c522a60b62dfea24f6cbaf.mp3*~data=user_id=0,application_id=42~hmac=61a9da77a8a57c12b7aa09218a91deceea4cb290e9dea464a7eaa3418e9a13bb",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Personal Jesus",
+            "length": "1:29",
+            "deezer": {
+              "id": 64429033,
+              "link": "https://www.deezer.com/track/64429033",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/4/0/d240fb167991ac7acd51dab8479970c1.mp3?hdnea=exp=1795651653~acl=/api/1/1/d/2/4/0/d240fb167991ac7acd51dab8479970c1.mp3*~data=user_id=0,application_id=42~hmac=04dd744c4bc60c902ed8692256e2f624df206c4e3081fd82215967dcc52af85f",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Big Hoot Interlude",
+            "length": "1:17",
+            "deezer": {
+              "id": 64429034,
+              "link": "https://www.deezer.com/track/64429034",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/8/0/d685cb34a23f3a3cbdce012286fbf91e.mp3?hdnea=exp=1795651653~acl=/api/1/1/d/6/8/0/d685cb34a23f3a3cbdce012286fbf91e.mp3*~data=user_id=0,application_id=42~hmac=7163216083228149a91026758e066bf836a77f296256f5b9282bf285df1da653",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Trust",
+            "length": "2:51",
+            "artist": "Apathy feat. Emilio Lopez",
+            "deezer": {
+              "id": 64429035,
+              "link": "https://www.deezer.com/track/64429035",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/6/0/5e62266a933b52adcda219f7a1ae7612.mp3?hdnea=exp=1795651653~acl=/api/1/1/5/e/6/0/5e62266a933b52adcda219f7a1ae7612.mp3*~data=user_id=0,application_id=42~hmac=0cdee5dbf77291b88893d8ae9c689c7511cfd8e4a0b1a1f396da4a2600e9d8ba",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Different Song",
+            "length": "1:05",
+            "deezer": {
+              "id": 64429036,
+              "link": "https://www.deezer.com/track/64429036",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/c/0/80c93a1d6f8a61706c43c7ee76ce7387.mp3?hdnea=exp=1795651653~acl=/api/1/1/8/0/c/0/80c93a1d6f8a61706c43c7ee76ce7387.mp3*~data=user_id=0,application_id=42~hmac=4e7976f8e7a2aa8eed4df04d689aae4df7ed52b256df29262dd7d16354707c36",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Womanizer",
+            "length": "3:13",
+            "deezer": {
+              "id": 64429037,
+              "link": "https://www.deezer.com/track/64429037",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/3/0/093b41982e2c424d0c977bc279997e19.mp3?hdnea=exp=1795651653~acl=/api/1/1/0/9/3/0/093b41982e2c424d0c977bc279997e19.mp3*~data=user_id=0,application_id=42~hmac=075c00fb4b40624dd81c64c0872c1cfdc10e17dedc485d68fd989391a891d79d",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Night Life (original mix)",
+            "length": "3:16",
+            "deezer": {
+              "id": 64429038,
+              "link": "https://www.deezer.com/track/64429038",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/5/0/33599c7b90febd7dcafce0e26a856861.mp3?hdnea=exp=1795651653~acl=/api/1/1/3/3/5/0/33599c7b90febd7dcafce0e26a856861.mp3*~data=user_id=0,application_id=42~hmac=d4c85a3994bbb6d40ace33345cafc8da9b6b207c104b071fe207b5da045f6c0b",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Can't Nobody",
+            "length": "4:15",
+            "artist": "Apathy feat. S.O.B. a.k.a. Ryu & Tak",
+            "deezer": {
+              "id": 64429039,
+              "link": "https://www.deezer.com/track/64429039",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/1/0/91198c9017802e81a156d7d8c20fbf46.mp3?hdnea=exp=1795651653~acl=/api/1/1/9/1/1/0/91198c9017802e81a156d7d8c20fbf46.mp3*~data=user_id=0,application_id=42~hmac=83519550046d3ddc051cbf93adb5c8146c7420fd6819f2dac95ba8ce80d4277e",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Radio",
+            "length": "2:54",
+            "artist": "Apathy feat. 8TH & Crisis",
+            "deezer": {
+              "id": 64429040,
+              "link": "https://www.deezer.com/track/64429040",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/6/0/a06dda28bd8e04a16de1cef8d8f39ead.mp3?hdnea=exp=1795651653~acl=/api/1/1/a/0/6/0/a06dda28bd8e04a16de1cef8d8f39ead.mp3*~data=user_id=0,application_id=42~hmac=cc0b30f5263de7522654db74085ce8a10212d4bf1efea1e814f45c0ce34c72c7",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Rappaz R.N. Dainja Freestyle",
+            "length": "2:23",
+            "artist": "Apathy feat. Emilio Lopez",
+            "deezer": {
+              "id": 64429041,
+              "link": "https://www.deezer.com/track/64429041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/5/0/9059bf77813c4f86ee61cee3e467c349.mp3?hdnea=exp=1795651653~acl=/api/1/1/9/0/5/0/9059bf77813c4f86ee61cee3e467c349.mp3*~data=user_id=0,application_id=42~hmac=e86ad2ca8e8fcfb956af598c793f69117f4f42db0937550c278f188c50263bf0",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Doe for Clothes",
+            "length": "3:30",
+            "deezer": {
+              "id": 64429042,
+              "link": "https://www.deezer.com/track/64429042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/a/0/e6abd2aef3472e12e570d07435fed770.mp3?hdnea=exp=1795651653~acl=/api/1/1/e/6/a/0/e6abd2aef3472e12e570d07435fed770.mp3*~data=user_id=0,application_id=42~hmac=b245647e3c60c25a189c29df2f75c47a5897f45f9f280e7ff9e0544c43dcd857",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Same Ol', Same Ol'",
+            "length": "1:15",
+            "deezer": {
+              "id": 64429043,
+              "link": "https://www.deezer.com/track/64429043",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/c/0/f4c7a46d7de6d127225a6710a8060f0d.mp3?hdnea=exp=1795651653~acl=/api/1/1/f/4/c/0/f4c7a46d7de6d127225a6710a8060f0d.mp3*~data=user_id=0,application_id=42~hmac=3e8177d85330464608699eb6afa90ccf4cdb9a4591a34c1cfc6676fbcf8bfbb3",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "The Janitor",
+            "length": "2:22",
+            "deezer": {
+              "id": 64429044,
+              "link": "https://www.deezer.com/track/64429044",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/a/0/82adaa84d8da93310fa4aa1c0f479fc0.mp3?hdnea=exp=1795651653~acl=/api/1/1/8/2/a/0/82adaa84d8da93310fa4aa1c0f479fc0.mp3*~data=user_id=0,application_id=42~hmac=a66d9afdd2eb80f0bf9b04187226348fe3437009df99eb0173d79a63f02fbbb6",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Shot Outs",
+            "length": "1:47",
+            "deezer": {
+              "id": 64429045,
+              "link": "https://www.deezer.com/track/64429045",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/6/0/166e9e375f02cc7704bb1eafc255ed2d.mp3?hdnea=exp=1795651653~acl=/api/1/1/1/6/6/0/166e9e375f02cc7704bb1eafc255ed2d.mp3*~data=user_id=0,application_id=42~hmac=cf95a52ff58c9a590aed76da2cefa9c50fb22a4e3ba4912c483737a5174b8be3",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Checkmate",
+            "length": "1:19",
+            "deezer": {
+              "id": 64429046,
+              "link": "https://www.deezer.com/track/64429046",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/8/0/318fca4031cc6d628a689112bb6cc797.mp3?hdnea=exp=1795651653~acl=/api/1/1/3/1/8/0/318fca4031cc6d628a689112bb6cc797.mp3*~data=user_id=0,application_id=42~hmac=0c0b5a871970348f27d5ffe2c278da50aba5d6adfe4983b8c452ab51b63548bb",
+              "preview_expires": "2026-11-26T00:07:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Apathy/Where's Your Album-!!.jpg"
+}

@@ -1,0 +1,384 @@
+{
+  "title": "All Things Must Pass",
+  "artist": "George Harrison",
+  "year": 1970,
+  "release_date": "1970-11-27",
+  "type": "Album",
+  "description": "All Things Must Pass is the third studio album by the English rock musician George Harrison. Released as a triple album on Apple Records in November 1970, it was Harrison's first solo work after the break-up of the Beatles in April that year. It includes the hit singles \"My Sweet Lord\" and \"What Is Life\", as well as songs such as \"Isn't It a Pity\" and the title track that had been overlooked for inclusion on releases by the Beatles. The album reflects the influence of Harrison's musical activities with artists such as Bob Dylan, the Band, Delaney & Bonnie and Friends and Billy Preston during 1968–70, and his growth as an artist beyond his supporting role to former bandmates John Lennon and Paul McCartney. All Things Must Pass introduced Harrison's signature slide guitar sound and the spiritual themes present throughout his subsequent solo work. The original vinyl release consisted of two LPs of songs and a third disc of informal jams titled Apple Jam. Several commentators interpret Barry Feinstein's album cover photo, showing Harrison surrounded by four garden gnomes, as a statement on his independence from the Beatles.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "folk rock",
+    "pop",
+    "gospel",
+    "jam band",
+    "psychedelic pop"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "folk rock",
+    "pop",
+    "5+ wochen",
+    "general rock",
+    "genre",
+    "gospel",
+    "jam band",
+    "offizielle charts",
+    "psychedelic pop",
+    "singer/songwriter",
+    "triple album"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d4b0f3e2-e3eb-3531-b305-ed8105cb5be4",
+    "wikipedia": "https://en.wikipedia.org/wiki/All_Things_Must_Pass",
+    "allmusic": "https://www.allmusic.com/album/mw0000194979",
+    "discogs": "https://www.discogs.com/master/56036",
+    "wikidata": "https://www.wikidata.org/wiki/Q654204",
+    "deezer": "https://www.deezer.com/album/8548959"
+  },
+  "musicbrainz_id": "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f92e0ecd-89c5-42be-b94f-d2682b82d897",
+      "barcode": "602547025340",
+      "title": "All Things Must Pass",
+      "disambiguation": null,
+      "date": "2015-10-16",
+      "country": "XW"
+    },
+    "total_tracks": 28,
+    "total_length": "2:06:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I’d Have You Anytime",
+            "length": "3:01",
+            "deezer": {
+              "id": 84791525,
+              "link": "https://www.deezer.com/track/84791525",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/a/0/6bac56c2922de63e9876a3c9c0691eee.mp3?hdnea=exp=1795654602~acl=/api/1/1/6/b/a/0/6bac56c2922de63e9876a3c9c0691eee.mp3*~data=user_id=0,application_id=42~hmac=c5ee946ba1c124ba18101f20a12baa6f8a963cfb4b101e61ac26fcccfabf8bb1",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "My Sweet Lord",
+            "length": "4:44",
+            "deezer": {
+              "id": 84791527,
+              "link": "https://www.deezer.com/track/84791527",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/1/0/72198db0054fe75e0d974e184cdf4dda.mp3?hdnea=exp=1795654602~acl=/api/1/1/7/2/1/0/72198db0054fe75e0d974e184cdf4dda.mp3*~data=user_id=0,application_id=42~hmac=11f8d70468f6909b3ab90a8eb366518a1c0af12595d37b0a2d906c65fdbaf568",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wah‐Wah",
+            "length": "5:39",
+            "deezer": {
+              "id": 84791529,
+              "link": "https://www.deezer.com/track/84791529",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/6/0/a160ccf087a96bbb27f25053dba57f82.mp3?hdnea=exp=1795654602~acl=/api/1/1/a/1/6/0/a160ccf087a96bbb27f25053dba57f82.mp3*~data=user_id=0,application_id=42~hmac=26d9f5cd0a6b9dd4af2ac005aa45eabe934749b812398b3c14482c6bda1bfd46",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Isn’t It a Pity",
+            "length": "7:13",
+            "deezer": {
+              "id": 84791531,
+              "link": "https://www.deezer.com/track/84791531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/9/0/0d9b61ef390e13643ca14c3c320ce68b.mp3?hdnea=exp=1795654602~acl=/api/1/1/0/d/9/0/0d9b61ef390e13643ca14c3c320ce68b.mp3*~data=user_id=0,application_id=42~hmac=77c7d6028c3eca992ccd1cc411bf13ca44319bda24258aa373c2223711e8bc36",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "What Is Life",
+            "length": "4:27",
+            "deezer": {
+              "id": 84791533,
+              "link": "https://www.deezer.com/track/84791533",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/c/0/e9c22f88dbd8edd55c12cdb4bd4c1be9.mp3?hdnea=exp=1795654602~acl=/api/1/1/e/9/c/0/e9c22f88dbd8edd55c12cdb4bd4c1be9.mp3*~data=user_id=0,application_id=42~hmac=3fef353377e76d3e5f38b2d285b52186ee624c2e34c2b7882b8e196a88b43f90",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "If Not for You",
+            "length": "3:34",
+            "deezer": {
+              "id": 84791535,
+              "link": "https://www.deezer.com/track/84791535",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/1/0/511a05ef4cb3c2705dd193384f1d6ef6.mp3?hdnea=exp=1795654602~acl=/api/1/1/5/1/1/0/511a05ef4cb3c2705dd193384f1d6ef6.mp3*~data=user_id=0,application_id=42~hmac=0866cedfedf1d29991861d005824ca25bc25d6df397d5c7941a427870439fa57",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Behind That Locked Door",
+            "length": "3:10",
+            "deezer": {
+              "id": 84791537,
+              "link": "https://www.deezer.com/track/84791537",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/6/0/b9678b8e7d93661cedce98a1d8c829f7.mp3?hdnea=exp=1795654602~acl=/api/1/1/b/9/6/0/b9678b8e7d93661cedce98a1d8c829f7.mp3*~data=user_id=0,application_id=42~hmac=59c2639128bfc1d97865d761987dabc4ffdab7f1e465e28035d10c5c43103d4c",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Let It Down",
+            "length": "5:01",
+            "deezer": {
+              "id": 84791539,
+              "link": "https://www.deezer.com/track/84791539",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/3/0/3e3858b9a28980586d58e44ab25d916e.mp3?hdnea=exp=1795654602~acl=/api/1/1/3/e/3/0/3e3858b9a28980586d58e44ab25d916e.mp3*~data=user_id=0,application_id=42~hmac=28e042a4d87fbef073ff3556418c55488f26cf73dcd931adebd379485bc41ed1",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Run of the Mill",
+            "length": "2:52",
+            "deezer": {
+              "id": 84791541,
+              "link": "https://www.deezer.com/track/84791541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/a/0/18a686b7a73493c14f598cb8a90be30e.mp3?hdnea=exp=1795654602~acl=/api/1/1/1/8/a/0/18a686b7a73493c14f598cb8a90be30e.mp3*~data=user_id=0,application_id=42~hmac=e2103d03525e5bb9f9d9233c94b2c84739b84ffb0c8675979feb7efbb46fbf6e",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I Live for You (out-take)",
+            "length": "3:38",
+            "deezer": {
+              "id": 84791543,
+              "link": "https://www.deezer.com/track/84791543",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/2/0/172e8ac1895ef7c7cb59fd02cb9f633f.mp3?hdnea=exp=1795654602~acl=/api/1/1/1/7/2/0/172e8ac1895ef7c7cb59fd02cb9f633f.mp3*~data=user_id=0,application_id=42~hmac=0f2edeb3203c3d7e0d1ca8ad7470e7ea5cdb60383882c245badeb4ecd85e2e61",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Beware of Darkness (acoustic demo)",
+            "length": "3:22",
+            "deezer": {
+              "id": 84791545,
+              "link": "https://www.deezer.com/track/84791545",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/c/0/f9c8d6f4079cde652b5a3467d9d1f1fe.mp3?hdnea=exp=1795654602~acl=/api/1/1/f/9/c/0/f9c8d6f4079cde652b5a3467d9d1f1fe.mp3*~data=user_id=0,application_id=42~hmac=145d2b8b28ffaf9d3a201c011e26428f2c27e019cf5b0771b44d5f6ceecff32f",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Let It Down (acoustic demo)",
+            "length": "3:56",
+            "deezer": {
+              "id": 84791547,
+              "link": "https://www.deezer.com/track/84791547",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/5/0/1551d9197d60f8da73f056c8e5718a6a.mp3?hdnea=exp=1795654602~acl=/api/1/1/1/5/5/0/1551d9197d60f8da73f056c8e5718a6a.mp3*~data=user_id=0,application_id=42~hmac=e65fc9ef164673bb5d4e00f0ca0db034fb11597efd0be62cf8911a0cd6fda312",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "What Is Life (backing track)",
+            "length": "4:27",
+            "deezer": {
+              "id": 84791549,
+              "link": "https://www.deezer.com/track/84791549",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/a/0/8caeaf40345147348e7bac8cdeaf4597.mp3?hdnea=exp=1795654602~acl=/api/1/1/8/c/a/0/8caeaf40345147348e7bac8cdeaf4597.mp3*~data=user_id=0,application_id=42~hmac=95ed61dac4504142cc0945ab4b8644d14cec230598a98f44f4109164d607a95c",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "My Sweet Lord (2000)",
+            "length": "4:57",
+            "deezer": {
+              "id": 84791551,
+              "link": "https://www.deezer.com/track/84791551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/2/0/e0233fe26c2ad70baf93d9f3602e23e9.mp3?hdnea=exp=1795654602~acl=/api/1/1/e/0/2/0/e0233fe26c2ad70baf93d9f3602e23e9.mp3*~data=user_id=0,application_id=42~hmac=f9a3107ff96b82ae4b26d5c9729e50bff4a1ca0055faf7b8651f3f3b72b377f7",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beware of Darkness",
+            "length": "3:53",
+            "deezer": {
+              "id": 84791553,
+              "link": "https://www.deezer.com/track/84791553",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/5/0/7b5c9309b2c03f4a179551bce2f66b22.mp3?hdnea=exp=1795654602~acl=/api/1/1/7/b/5/0/7b5c9309b2c03f4a179551bce2f66b22.mp3*~data=user_id=0,application_id=42~hmac=2a39244c29fe20d306117293ca9170f12ce41371b284eb6b22279928383120bc",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Apple Scruffs",
+            "length": "3:09",
+            "deezer": {
+              "id": 84791555,
+              "link": "https://www.deezer.com/track/84791555",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/7/0/667ae960623e402886c85604bfb22199.mp3?hdnea=exp=1795654602~acl=/api/1/1/6/6/7/0/667ae960623e402886c85604bfb22199.mp3*~data=user_id=0,application_id=42~hmac=9012b7a8919d1969197b1b26d6948324084bf60bc597b45b2b5fde4db0611d30",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ballad of Sir Frankie Crisp (Let It Roll)",
+            "length": "3:53",
+            "deezer": {
+              "id": 84791557,
+              "link": "https://www.deezer.com/track/84791557",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/d/0/75d506b15445ee5c7223568b05830b2f.mp3?hdnea=exp=1795654602~acl=/api/1/1/7/5/d/0/75d506b15445ee5c7223568b05830b2f.mp3*~data=user_id=0,application_id=42~hmac=b3b24e1a16732e783b3ad6856b72213dbcfa56347055ac95faf142e761e4aec7",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Awaiting on You All",
+            "length": "2:51",
+            "deezer": {
+              "id": 84791559,
+              "link": "https://www.deezer.com/track/84791559",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/4/0/da4458ae5085ce7d7c304b90555e5572.mp3?hdnea=exp=1795654602~acl=/api/1/1/d/a/4/0/da4458ae5085ce7d7c304b90555e5572.mp3*~data=user_id=0,application_id=42~hmac=60cb8f2da821b764481c7ff4c93db1e162dee07a2b1f6a8d8a6dc14cd56b8be9",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "All Things Must Pass",
+            "length": "3:47",
+            "deezer": {
+              "id": 84791561,
+              "link": "https://www.deezer.com/track/84791561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/6/0/3c6bb3ef6698b0527caa764066cb7d05.mp3?hdnea=exp=1795654602~acl=/api/1/1/3/c/6/0/3c6bb3ef6698b0527caa764066cb7d05.mp3*~data=user_id=0,application_id=42~hmac=7ca0aed79e3238dc3965c95403237d21c3a5818c39b6ac9dc65d2ba9cae2d08f",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Dig Love",
+            "length": "5:01",
+            "deezer": {
+              "id": 84791563,
+              "link": "https://www.deezer.com/track/84791563",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/f/0/0bfb954dd37aec1f8c23c98ff446afd5.mp3?hdnea=exp=1795654602~acl=/api/1/1/0/b/f/0/0bfb954dd37aec1f8c23c98ff446afd5.mp3*~data=user_id=0,application_id=42~hmac=2e2258da9a6a65d6b42ee795c17379899db6bd350935904efa4c93f703017c52",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Art of Dying",
+            "length": "3:44",
+            "deezer": {
+              "id": 84791565,
+              "link": "https://www.deezer.com/track/84791565",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/b/0/c6b6cd5a0c465dcbf267d71fa311f3f7.mp3?hdnea=exp=1795654602~acl=/api/1/1/c/6/b/0/c6b6cd5a0c465dcbf267d71fa311f3f7.mp3*~data=user_id=0,application_id=42~hmac=df9f34ae156a93fa198a9253911bed898bd4a54bbd8d9c07b1b818553434ee0c",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Isn’t It a Pity (version two)",
+            "length": "4:51",
+            "deezer": {
+              "id": 84791567,
+              "link": "https://www.deezer.com/track/84791567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/6/0/f3634bf0682ad15197a5d83f91e76fa9.mp3?hdnea=exp=1795654602~acl=/api/1/1/f/3/6/0/f3634bf0682ad15197a5d83f91e76fa9.mp3*~data=user_id=0,application_id=42~hmac=3e9cf876f911604f83d8b27ad203f443aefe6549ffae460efd5b860493b4e5ae",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Hear Me Lord",
+            "length": "6:01",
+            "deezer": {
+              "id": 84791569,
+              "link": "https://www.deezer.com/track/84791569",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/a/0/dca4211993be449376792d4bb681a638.mp3?hdnea=exp=1795654602~acl=/api/1/1/d/c/a/0/dca4211993be449376792d4bb681a638.mp3*~data=user_id=0,application_id=42~hmac=e8b21023dc361c410e2a8cb453a29f251f0e50741e0572ae93243cf212e27068",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "It’s Johnny’s Birthday",
+            "length": "0:49",
+            "deezer": {
+              "id": 84791571,
+              "link": "https://www.deezer.com/track/84791571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/c/0/d5ca0f9e0c3827b201cebc1a49d64add.mp3?hdnea=exp=1795654602~acl=/api/1/1/d/5/c/0/d5ca0f9e0c3827b201cebc1a49d64add.mp3*~data=user_id=0,application_id=42~hmac=e776992c7418e35fb1f5b7dd985955762d8bb5cd2b995686f566c53aaae45a02",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Plug Me In",
+            "length": "3:20",
+            "deezer": {
+              "id": 84791573,
+              "link": "https://www.deezer.com/track/84791573",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/1/0/e21fcb5c3de65bac2916cbbfc3f8a2e1.mp3?hdnea=exp=1795654602~acl=/api/1/1/e/2/1/0/e21fcb5c3de65bac2916cbbfc3f8a2e1.mp3*~data=user_id=0,application_id=42~hmac=43f84c19509551418121f4d6bfa06589428396eae53f068a3f0b3152b23d81a3",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I Remember Jeep",
+            "length": "8:09",
+            "deezer": {
+              "id": 84791575,
+              "link": "https://www.deezer.com/track/84791575",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/8/0/858fef3ec4ed9f2ff61ce173f06999c3.mp3?hdnea=exp=1795654602~acl=/api/1/1/8/5/8/0/858fef3ec4ed9f2ff61ce173f06999c3.mp3*~data=user_id=0,application_id=42~hmac=a87b64efd46ec18fea8b73fecf058ff8f178437116c66b49aff192a513bece73",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Thanks for the Pepperoni",
+            "length": "5:32",
+            "deezer": {
+              "id": 84791577,
+              "link": "https://www.deezer.com/track/84791577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/6/0/806c3af1c3a929104e1e184cb9ae2c96.mp3?hdnea=exp=1795654602~acl=/api/1/1/8/0/6/0/806c3af1c3a929104e1e184cb9ae2c96.mp3*~data=user_id=0,application_id=42~hmac=1fcbace32e53f7e502d9ed86d86415f5afd80c09844c71b22e9a68921d56785f",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Out of the Blue",
+            "length": "11:18",
+            "deezer": {
+              "id": 84791579,
+              "link": "https://www.deezer.com/track/84791579",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/a/0/f7abdb96d0912dd34675b78f0e4892b7.mp3?hdnea=exp=1795654602~acl=/api/1/1/f/7/a/0/f7abdb96d0912dd34675b78f0e4892b7.mp3*~data=user_id=0,application_id=42~hmac=c072f0d92cb71800f93bb6f545399d87d31641680c9bf8f748177f96dd234db0",
+              "preview_expires": "2026-11-26T00:56:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/George Harrison/All Things Must Pass.jpg"
+}

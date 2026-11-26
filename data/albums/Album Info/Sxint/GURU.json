@@ -1,0 +1,51 @@
+{
+  "title": "GURU",
+  "artist": "Dhanji & Sxint",
+  "year": 2021,
+  "release_date": "2021-07-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bff64cee-5342-4e41-92f2-2d0ac07a1b43",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/244435072"
+  },
+  "musicbrainz_id": "bff64cee-5342-4e41-92f2-2d0ac07a1b43",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/33d58a17-9ecb-4ced-b17f-6cd5ac1fb9e6",
+      "barcode": "1941570770735",
+      "title": "GURU",
+      "disambiguation": null,
+      "date": "2021-07-30",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "GURU",
+            "length": "4:00",
+            "deezer": {
+              "id": 1434209182,
+              "link": "https://www.deezer.com/track/1434209182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/1/0/811ca8add6b0b2095fd4f86b95722c3b.mp3?hdnea=exp=1795721140~acl=/api/1/1/8/1/1/0/811ca8add6b0b2095fd4f86b95722c3b.mp3*~data=user_id=0,application_id=42~hmac=c4ec726fdb21662f3ad15860793a5c5257b874993023e25b732b01c553f446bc",
+              "preview_expires": "2026-11-26T19:25:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sxint/GURU.jpg"
+}

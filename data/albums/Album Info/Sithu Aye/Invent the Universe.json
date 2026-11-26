@@ -1,0 +1,168 @@
+{
+  "title": "Invent the Universe",
+  "artist": "Sithu Aye",
+  "year": 2012,
+  "release_date": "2012-10-15",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "progressive metal",
+    "djent",
+    "instrumental rock",
+    "rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "djent",
+    "happy proggressive metal",
+    "instrumental rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/73cd048c-0e5e-4160-942d-f5c24d59e59f",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1065697",
+    "deezer": "https://www.deezer.com/album/117413442"
+  },
+  "musicbrainz_id": "73cd048c-0e5e-4160-942d-f5c24d59e59f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/56c4fdd8-baa5-4f2d-87ba-d9a84e075aa5",
+      "barcode": "194871483618",
+      "title": "Invent the Universe",
+      "disambiguation": null,
+      "date": "2012-10-15",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "46:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Invent the Universe",
+            "length": "1:27",
+            "deezer": {
+              "id": 796074912,
+              "link": "https://www.deezer.com/track/796074912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/2/0/3323d88e4b7d706333b9efb308b80ed4.mp3?hdnea=exp=1795720693~acl=/api/1/1/3/3/2/0/3323d88e4b7d706333b9efb308b80ed4.mp3*~data=user_id=0,application_id=42~hmac=0cba1882f9f564a9e69255e1eae74125cba78b5d7ecbcd838088315e8ad86f12",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Grand Unification",
+            "length": "5:00",
+            "artist": "Sithu Aye feat. David Maxim Micic",
+            "deezer": {
+              "id": 796074922,
+              "link": "https://www.deezer.com/track/796074922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/4/0/b345aa43cc0f03f1caebe52b9d85b59b.mp3?hdnea=exp=1795720693~acl=/api/1/1/b/3/4/0/b345aa43cc0f03f1caebe52b9d85b59b.mp3*~data=user_id=0,application_id=42~hmac=511ecc6fefd1751e3f5e451c49fc75d1c2f36f6c535203443cc5fa20a1c40285",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Expansion",
+            "length": "3:45",
+            "deezer": {
+              "id": 796074932,
+              "link": "https://www.deezer.com/track/796074932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/d/0/a0d9943b8f17c471a4f24a9b365d8f93.mp3?hdnea=exp=1795720693~acl=/api/1/1/a/0/d/0/a0d9943b8f17c471a4f24a9b365d8f93.mp3*~data=user_id=0,application_id=42~hmac=77bcbfa3e126b41df5de33ca09bef3321231c65e634c61747ae91ca78bf596be",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Baryogenesis",
+            "length": "6:19",
+            "deezer": {
+              "id": 796074942,
+              "link": "https://www.deezer.com/track/796074942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/1/0/aa1a8339370a83b229e8b87398b711e8.mp3?hdnea=exp=1795720693~acl=/api/1/1/a/a/1/0/aa1a8339370a83b229e8b87398b711e8.mp3*~data=user_id=0,application_id=42~hmac=b56b71ca627d527576b70336552455bebb0ea61c693c890dc6bcf99a52121d4a",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Particles Collide",
+            "length": "5:40",
+            "artist": "Sithu Aye feat. Plini",
+            "deezer": {
+              "id": 796074952,
+              "link": "https://www.deezer.com/track/796074952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/f/0/6bf8a63b122b1442e3329a693858d3eb.mp3?hdnea=exp=1795720693~acl=/api/1/1/6/b/f/0/6bf8a63b122b1442e3329a693858d3eb.mp3*~data=user_id=0,application_id=42~hmac=04bd80053a4479d940abd8a80e4c4c0cbedd440990e8ae2aafbb1c8bf20bf097",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Nucleosynthesis (Interlude)",
+            "length": "1:36",
+            "deezer": {
+              "id": 796074962,
+              "link": "https://www.deezer.com/track/796074962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/0/0/4b08bb42cb020967b5e45c777f09b211.mp3?hdnea=exp=1795720693~acl=/api/1/1/4/b/0/0/4b08bb42cb020967b5e45c777f09b211.mp3*~data=user_id=0,application_id=42~hmac=d1281d5fb3c57e05a9b29397818481344ae33416833bb5d5bec0c985bfdf26ff",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Recombination",
+            "length": "6:11",
+            "deezer": {
+              "id": 796074972,
+              "link": "https://www.deezer.com/track/796074972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/d/0/c1d26e684a4d3cd70c780a035bc77814.mp3?hdnea=exp=1795720693~acl=/api/1/1/c/1/d/0/c1d26e684a4d3cd70c780a035bc77814.mp3*~data=user_id=0,application_id=42~hmac=079e233a852047780effe1315bfe40b30486ee3c4ff4183dcc7ea278e3dd0775",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dark Ages",
+            "length": "6:43",
+            "deezer": {
+              "id": 796074982,
+              "link": "https://www.deezer.com/track/796074982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/b/0/d9b2fa9e63509ef773d0b8ded462f9e9.mp3?hdnea=exp=1795720693~acl=/api/1/1/d/9/b/0/d9b2fa9e63509ef773d0b8ded462f9e9.mp3*~data=user_id=0,application_id=42~hmac=50678c51c1fe1e828c810f3d29a4f1b1e0274e72768295bdc72afe41d7f8c30d",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Formation",
+            "length": "4:38",
+            "deezer": {
+              "id": 796074992,
+              "link": "https://www.deezer.com/track/796074992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/e/0/3cea1a95974d08f62db8b38483eb293c.mp3?hdnea=exp=1795720693~acl=/api/1/1/3/c/e/0/3cea1a95974d08f62db8b38483eb293c.mp3*~data=user_id=0,application_id=42~hmac=826eec5ba33fb43b58ad2b512a3504ecb80381f8569932b3dffe6508f38b7745",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Pale Blue Dot",
+            "length": "4:48",
+            "deezer": {
+              "id": 796075002,
+              "link": "https://www.deezer.com/track/796075002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/e/0/ede479afcbb13bd3d9685145cac7bfa9.mp3?hdnea=exp=1795720693~acl=/api/1/1/e/d/e/0/ede479afcbb13bd3d9685145cac7bfa9.mp3*~data=user_id=0,application_id=42~hmac=3357dfaed8da3d1df2c2f1afbfc161ff34407d67ee25de33c7e8abaf13966b4c",
+              "preview_expires": "2026-11-26T19:18:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/Invent the Universe.jpg"
+}

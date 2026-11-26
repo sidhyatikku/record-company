@@ -1,0 +1,194 @@
+{
+  "title": "Garbage",
+  "artist": "Garbage",
+  "year": 1995,
+  "release_date": "1995-08-15",
+  "type": "Album",
+  "description": "Garbage is the debut studio album by American rock band Garbage, released on August 15, 1995 by Almo Sounds. It was recorded from April 1994 to May 1995, during which the album was overhauled multiple times. The band aimed \"to create something that sounded fresh\" by experimenting with different styles and genres, and lead singer and songwriter Shirley Manson wrote about darker themes in her lyrics.",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "alternative dance",
+    "pop rock",
+    "pop"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "alternative dance",
+    "pop rock",
+    "alternative",
+    "alternative pop/rock",
+    "pop",
+    "post-grunge alternative rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 12
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/dcad245f-9d95-3751-9e69-d50ca399b46a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garbage_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000178973",
+    "discogs": "https://www.discogs.com/master/26091",
+    "wikidata": "https://www.wikidata.org/wiki/Q239773",
+    "deezer": "https://www.deezer.com/album/320877567"
+  },
+  "musicbrainz_id": "dcad245f-9d95-3751-9e69-d50ca399b46a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/47f17695-b333-4fcf-bba9-df654ae2da55",
+      "barcode": "00602547364982",
+      "title": "Garbage",
+      "disambiguation": "20th anniversary edition",
+      "date": "2015",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "51:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Supervixen",
+            "length": "3:56",
+            "deezer": {
+              "id": 1761052407,
+              "link": "https://www.deezer.com/track/1761052407",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/3/0/9e379bc8ad87a1291334d231cdff2367.mp3?hdnea=exp=1795654576~acl=/api/1/1/9/e/3/0/9e379bc8ad87a1291334d231cdff2367.mp3*~data=user_id=0,application_id=42~hmac=f22fc6892ad422b48779ef552e72137e76d02da0f80df3e743d7ba31ac6c223b",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Queer",
+            "length": "4:36",
+            "deezer": {
+              "id": 1761052417,
+              "link": "https://www.deezer.com/track/1761052417",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/c/0/f4cdc72c589595125f6dcfd081da8664.mp3?hdnea=exp=1795654576~acl=/api/1/1/f/4/c/0/f4cdc72c589595125f6dcfd081da8664.mp3*~data=user_id=0,application_id=42~hmac=dfb1799515e18cd962a290f752eb07c60c08a6346c9a89967ccbafb69c16e1a9",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Only Happy When It Rains",
+            "length": "3:57",
+            "deezer": {
+              "id": 1761052427,
+              "link": "https://www.deezer.com/track/1761052427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/0/0/b507e316be8d1134034ea0d1c91b07e3.mp3?hdnea=exp=1795654576~acl=/api/1/1/b/5/0/0/b507e316be8d1134034ea0d1c91b07e3.mp3*~data=user_id=0,application_id=42~hmac=18fa0a5f86d7deff9eeb3709320a6b1bd00b145a6d89af5796e3ca6d896af6c8",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "As Heaven Is Wide",
+            "length": "4:53",
+            "deezer": {
+              "id": 1761052437,
+              "link": "https://www.deezer.com/track/1761052437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/6/0/f56f1f38d3924bc8e89de9be26a1b662.mp3?hdnea=exp=1795654576~acl=/api/1/1/f/5/6/0/f56f1f38d3924bc8e89de9be26a1b662.mp3*~data=user_id=0,application_id=42~hmac=6de9b04e202cb233dfbd7cb14d19ebd0b001c1e0c07f20326ac336bf039f7940",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Not My Idea",
+            "length": "3:41",
+            "deezer": {
+              "id": 1761052447,
+              "link": "https://www.deezer.com/track/1761052447",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/5/0/e05b9d828519ba973e7e309ece13b497.mp3?hdnea=exp=1795654576~acl=/api/1/1/e/0/5/0/e05b9d828519ba973e7e309ece13b497.mp3*~data=user_id=0,application_id=42~hmac=97697c30fe8b7f742a0d26d4dc99fa5934544404b51fa69086cc5e579cb8d083",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "A Stroke of Luck",
+            "length": "4:44",
+            "deezer": {
+              "id": 1761052457,
+              "link": "https://www.deezer.com/track/1761052457",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a758f2dca2830e9cd861e3739515b384.mp3?hdnea=exp=1795654576~acl=/api/1/1/a/7/5/0/a758f2dca2830e9cd861e3739515b384.mp3*~data=user_id=0,application_id=42~hmac=db3694ca6c903457987576aa2fecc17e58563c18357bd8d94b3e8ce75eeb127a",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Vow",
+            "length": "4:30",
+            "deezer": {
+              "id": 1761052467,
+              "link": "https://www.deezer.com/track/1761052467",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/f/0/9efe90e4eacc1713bd3718e03791b36b.mp3?hdnea=exp=1795654576~acl=/api/1/1/9/e/f/0/9efe90e4eacc1713bd3718e03791b36b.mp3*~data=user_id=0,application_id=42~hmac=247613a2436a45d3ec959b86c1a04c45344fdd94b3719548198332267f4d3809",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Stupid Girl",
+            "length": "4:19",
+            "deezer": {
+              "id": 1761052477,
+              "link": "https://www.deezer.com/track/1761052477",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/4/0/0747addd4baec4a2cbc4279968924140.mp3?hdnea=exp=1795654576~acl=/api/1/1/0/7/4/0/0747addd4baec4a2cbc4279968924140.mp3*~data=user_id=0,application_id=42~hmac=c15635cec130a383df273cc3b41ee53596d00f8afe7d870197599708a44d2da5",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dog New Tricks",
+            "length": "3:57",
+            "deezer": {
+              "id": 1761052487,
+              "link": "https://www.deezer.com/track/1761052487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/c/0/10cce1345c887fb0f7553831e807b10b.mp3?hdnea=exp=1795654576~acl=/api/1/1/1/0/c/0/10cce1345c887fb0f7553831e807b10b.mp3*~data=user_id=0,application_id=42~hmac=2f0e45a0ebe5d78d357c491a46d5bf04e7bdcf5c5991ba11bc7f5da3e26d51a0",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "My Lover’s Box",
+            "length": "3:55",
+            "deezer": {
+              "id": 1761052497,
+              "link": "https://www.deezer.com/track/1761052497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/7/0/8b7fe24298f14f1fe98eac23221181a9.mp3?hdnea=exp=1795654576~acl=/api/1/1/8/b/7/0/8b7fe24298f14f1fe98eac23221181a9.mp3*~data=user_id=0,application_id=42~hmac=11d7122db304dca2bee64ec648b103aedec55200060cdda8f28aa7e9e59499a4",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Fix Me Now",
+            "length": "4:43",
+            "deezer": {
+              "id": 1761052507,
+              "link": "https://www.deezer.com/track/1761052507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/3/0/ec32ed6bdb69824083c9690962a4f4cb.mp3?hdnea=exp=1795654576~acl=/api/1/1/e/c/3/0/ec32ed6bdb69824083c9690962a4f4cb.mp3*~data=user_id=0,application_id=42~hmac=da3427f35e1e1b91625fc67d38d8377c908fad89d098d9c504795c9c4a06fbf9",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Milk",
+            "length": "3:55",
+            "deezer": {
+              "id": 1761052517,
+              "link": "https://www.deezer.com/track/1761052517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/a/0/59a0c8031f84a1435306c48a32c04ed2.mp3?hdnea=exp=1795654576~acl=/api/1/1/5/9/a/0/59a0c8031f84a1435306c48a32c04ed2.mp3*~data=user_id=0,application_id=42~hmac=ba946741e7db65edca6a23e71e58fa86919b96663fb45e4202b433b77c2fa56b",
+              "preview_expires": "2026-11-26T00:56:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Garbage/Garbage.jpg"
+}

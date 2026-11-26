@@ -1,0 +1,51 @@
+{
+  "title": "Want It",
+  "artist": "Pola & Bryson & Iyamah",
+  "year": 2025,
+  "release_date": "2025-03-21",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9ca2479f-2161-4556-854d-4d805f7a5e3b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/718976321"
+  },
+  "musicbrainz_id": "9ca2479f-2161-4556-854d-4d805f7a5e3b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a690046d-ee88-491c-bbac-60c8a6686e03",
+      "barcode": "3617391101598",
+      "title": "Want It",
+      "disambiguation": null,
+      "date": "2025-03-21",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Want It",
+            "length": "3:24",
+            "deezer": {
+              "id": 3251789991,
+              "link": "https://www.deezer.com/track/3251789991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/1/0/861ec53c0c0dfc2de42a5a7070f73b19.mp3?hdnea=exp=1795719583~acl=/api/1/1/8/6/1/0/861ec53c0c0dfc2de42a5a7070f73b19.mp3*~data=user_id=0,application_id=42~hmac=6d103f4768807a0db238dd09d42bf5d900019dd4fb3f948910dbc8ee92a9f09d",
+              "preview_expires": "2026-11-26T18:59:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pola & Bryson/Want It.jpg"
+}

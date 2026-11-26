@@ -1,0 +1,308 @@
+{
+  "title": "Version 2.0",
+  "artist": "Garbage",
+  "year": 1998,
+  "release_date": "1998-05-01",
+  "type": "Album",
+  "description": "Version 2.0 is the second studio album by American rock band Garbage. It was released on May 11, 1998, by Mushroom Records worldwide, with the North American release on Almo Sounds the following day. With this album, the band aimed to improve and expand upon the style of their 1995 eponymous debut rather than reinventing their sound. Lead singer Shirley Manson wrote dark, introspective lyrics, which she felt complemented the songs' melodies.",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "pop rock",
+    "alternative dance",
+    "alternative punk",
+    "dance-rock"
+  ],
+  "tags": [
+    "alternative and punk",
+    "rock",
+    "alternative rock",
+    "pop rock",
+    "alternative",
+    "alternative dance",
+    "alternative pop/rock",
+    "alternative punk",
+    "alternative/indie rock",
+    "dance-rock",
+    "pop/rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e8786e7c-1737-331f-8973-3593f3bde895",
+    "wikipedia": "https://en.wikipedia.org/wiki/Version_2.0",
+    "allmusic": "https://www.allmusic.com/album/mw0000032128",
+    "discogs": "https://www.discogs.com/master/26127",
+    "wikidata": "https://www.wikidata.org/wiki/Q1415934",
+    "deezer": "https://www.deezer.com/album/65984722"
+  },
+  "musicbrainz_id": "e8786e7c-1737-331f-8973-3593f3bde895",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/22e185be-7350-4011-bf5c-39bdc05a6f7f",
+      "barcode": "5414940013641",
+      "title": "Version 2.0 (deluxe edition)",
+      "disambiguation": "20th anniversary",
+      "date": "2021-01-04",
+      "country": null
+    },
+    "total_tracks": 22,
+    "total_length": "1:24:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Temptation Waits",
+            "length": "4:37",
+            "deezer": {
+              "id": 514401912,
+              "link": "https://www.deezer.com/track/514401912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/a/0/94ad5f735444771522639184606dd74b.mp3?hdnea=exp=1795654580~acl=/api/1/1/9/4/a/0/94ad5f735444771522639184606dd74b.mp3*~data=user_id=0,application_id=42~hmac=d281abe79106444982d60691fcf414dfc1270312067688f05dfe64dafd3efc87",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Think I’m Paranoid",
+            "length": "3:38",
+            "deezer": {
+              "id": 514401922,
+              "link": "https://www.deezer.com/track/514401922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a18e0ae30a42157954e15dddd2ef23fa.mp3?hdnea=exp=1795654580~acl=/api/1/1/a/1/8/0/a18e0ae30a42157954e15dddd2ef23fa.mp3*~data=user_id=0,application_id=42~hmac=eaabfec3b6d4e3f35e5bf0ae741f1dd96222879431cc488e0a13823c1c8df07c",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "When I Grow Up",
+            "length": "3:25",
+            "deezer": {
+              "id": 514401932,
+              "link": "https://www.deezer.com/track/514401932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/2/0/9521ce9300148d305798b2488b00f7d7.mp3?hdnea=exp=1795654580~acl=/api/1/1/9/5/2/0/9521ce9300148d305798b2488b00f7d7.mp3*~data=user_id=0,application_id=42~hmac=5ed157d4554d3ff464e19c68129cad4e7e6ff3ff14d55f6f44f68151396fc2f9",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Medication",
+            "length": "4:08",
+            "deezer": {
+              "id": 514401942,
+              "link": "https://www.deezer.com/track/514401942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/7/0/ef7dec0b4b834dfb723069b0cf29494c.mp3?hdnea=exp=1795654580~acl=/api/1/1/e/f/7/0/ef7dec0b4b834dfb723069b0cf29494c.mp3*~data=user_id=0,application_id=42~hmac=fc756465061c7fccd10df409aade50ce8e29f8bcfe65d006f9b6de8360a19e95",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Special",
+            "length": "3:44",
+            "deezer": {
+              "id": 514401952,
+              "link": "https://www.deezer.com/track/514401952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/8/0/d38705db9a2d89c4c0478241452f72e9.mp3?hdnea=exp=1795654580~acl=/api/1/1/d/3/8/0/d38705db9a2d89c4c0478241452f72e9.mp3*~data=user_id=0,application_id=42~hmac=cefcbe4a81740520f31b2d807cc787baeddb40be608f1125322448927872e28d",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hammering in My Head",
+            "length": "4:52",
+            "deezer": {
+              "id": 514401962,
+              "link": "https://www.deezer.com/track/514401962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/e/0/dfe255fc7db0a3ae1b2319721c7b44a9.mp3?hdnea=exp=1795654580~acl=/api/1/1/d/f/e/0/dfe255fc7db0a3ae1b2319721c7b44a9.mp3*~data=user_id=0,application_id=42~hmac=2ac872562e1b49d27a6f55d83cc9cb4fe1b274fb74cda314ef9943ed24832905",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Push It",
+            "length": "4:03",
+            "deezer": {
+              "id": 514401972,
+              "link": "https://www.deezer.com/track/514401972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/4/0/cf4f3661b6ee79974c029f15d5d3a30b.mp3?hdnea=exp=1795654580~acl=/api/1/1/c/f/4/0/cf4f3661b6ee79974c029f15d5d3a30b.mp3*~data=user_id=0,application_id=42~hmac=62e38e122df60c32c90dc82cbfdc5504e1ac7b5ce514e9fda999476b96043df9",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Trick Is to Keep Breathing",
+            "length": "4:12",
+            "deezer": {
+              "id": 514401982,
+              "link": "https://www.deezer.com/track/514401982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/b/0/ebb54e18af9239747770a5aa305ad3c9.mp3?hdnea=exp=1795654580~acl=/api/1/1/e/b/b/0/ebb54e18af9239747770a5aa305ad3c9.mp3*~data=user_id=0,application_id=42~hmac=d9b7fef09c485dec154893eff48e399240fb8440e09e0aeb4446740650b159d4",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dumb",
+            "length": "3:50",
+            "deezer": {
+              "id": 514401992,
+              "link": "https://www.deezer.com/track/514401992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/6/0/5c65569da22aba3554293c6886671c92.mp3?hdnea=exp=1795654580~acl=/api/1/1/5/c/6/0/5c65569da22aba3554293c6886671c92.mp3*~data=user_id=0,application_id=42~hmac=6e2724c59ca0621c9b79a5a904f5d0f054c9b0a2345cb8d16e29b354305f8df7",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sleep Together",
+            "length": "4:03",
+            "deezer": {
+              "id": 514402002,
+              "link": "https://www.deezer.com/track/514402002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/e/0/2deabb95217632bae9485465fd8facce.mp3?hdnea=exp=1795654580~acl=/api/1/1/2/d/e/0/2deabb95217632bae9485465fd8facce.mp3*~data=user_id=0,application_id=42~hmac=87887431d6f6c768748c176d1d3b03635d3fab9b05b77f178fd477a02eef7c9e",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Wicked Ways",
+            "length": "3:44",
+            "deezer": {
+              "id": 514402012,
+              "link": "https://www.deezer.com/track/514402012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/7/0/9e7dde9a497e8a723d71c6bdaed54097.mp3?hdnea=exp=1795654580~acl=/api/1/1/9/e/7/0/9e7dde9a497e8a723d71c6bdaed54097.mp3*~data=user_id=0,application_id=42~hmac=e41cdce2089adc0aa3faccc1b3de6d1c860aa2d2e887976c963e759446645bab",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "You Look So Fine",
+            "length": "5:23",
+            "deezer": {
+              "id": 514402022,
+              "link": "https://www.deezer.com/track/514402022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/8/0/548d1f1e374fb09e0e462857a3d7c57f.mp3?hdnea=exp=1795654580~acl=/api/1/1/5/4/8/0/548d1f1e374fb09e0e462857a3d7c57f.mp3*~data=user_id=0,application_id=42~hmac=7da0f687a3c1d6ed992ec42cb012b677d7da5b2038eda2c83a9fc75ebfd1f039",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Can’t Seem to Make You Mine",
+            "length": "2:55",
+            "deezer": {
+              "id": 514402032,
+              "link": "https://www.deezer.com/track/514402032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/e/0/9fe4761af8a170c00c1d587f130e4efb.mp3?hdnea=exp=1795654580~acl=/api/1/1/9/f/e/0/9fe4761af8a170c00c1d587f130e4efb.mp3*~data=user_id=0,application_id=42~hmac=bf062faa873857625630534582831292e02f0d4338a93dcf8ffbb5d466841171",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "13× Forever",
+            "length": "3:55",
+            "deezer": {
+              "id": 514402042,
+              "link": "https://www.deezer.com/track/514402042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/a/0/b0af094bed31ad8bc0b6c228854fcb5c.mp3?hdnea=exp=1795654580~acl=/api/1/1/b/0/a/0/b0af094bed31ad8bc0b6c228854fcb5c.mp3*~data=user_id=0,application_id=42~hmac=fba38bb66673f12bedcc25189642fb138f42408405f49639bb1fc8f7c9fd5708",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Deadwood",
+            "length": "4:22",
+            "deezer": {
+              "id": 514402052,
+              "link": "https://www.deezer.com/track/514402052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/e/0/46e15ae07d46d8af04511ce427ccf8dd.mp3?hdnea=exp=1795654580~acl=/api/1/1/4/6/e/0/46e15ae07d46d8af04511ce427ccf8dd.mp3*~data=user_id=0,application_id=42~hmac=a4fc0dab53d55e85fb8f47a1ea8081ae498218e32acddfb4bec42724b576aea6",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Get Busy With the Fizzy",
+            "length": "2:55",
+            "deezer": {
+              "id": 514402062,
+              "link": "https://www.deezer.com/track/514402062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/0/0/340d06b40b943fbfde5733999e491067.mp3?hdnea=exp=1795654580~acl=/api/1/1/3/4/0/0/340d06b40b943fbfde5733999e491067.mp3*~data=user_id=0,application_id=42~hmac=da69e0f167570eb5a1decd7d6dafb1d4fdba21a2aacd7c6530ddddc417c5e13d",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Soldier Through This",
+            "length": "3:48",
+            "deezer": {
+              "id": 514402072,
+              "link": "https://www.deezer.com/track/514402072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f6537804a102d41eaf9544606b5d2494.mp3?hdnea=exp=1795654580~acl=/api/1/1/f/6/5/0/f6537804a102d41eaf9544606b5d2494.mp3*~data=user_id=0,application_id=42~hmac=70957f7bd3d7bcdc4cb83627afe50767519656f6cd0544ef7f7db6bfd6c9d78e",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Thirteen",
+            "length": "3:30",
+            "deezer": {
+              "id": 514402082,
+              "link": "https://www.deezer.com/track/514402082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/d/0/79d12a5643be8168cf2d20ab763ee9ab.mp3?hdnea=exp=1795654580~acl=/api/1/1/7/9/d/0/79d12a5643be8168cf2d20ab763ee9ab.mp3*~data=user_id=0,application_id=42~hmac=52a47f37c35816321ad0512ca4d725d14ca9143c4fbe9374dd127cd0c3987501",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Lick the Pavement",
+            "length": "2:42",
+            "deezer": {
+              "id": 514402092,
+              "link": "https://www.deezer.com/track/514402092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/2/0/e92a2bb669a0dcb60d54e9729f006c14.mp3?hdnea=exp=1795654580~acl=/api/1/1/e/9/2/0/e92a2bb669a0dcb60d54e9729f006c14.mp3*~data=user_id=0,application_id=42~hmac=cf909b0cb879f72ade8c07f406be0d32f623890839076af039695b6af6f9c5f3",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Medication (acoustic)",
+            "length": "4:11",
+            "deezer": {
+              "id": 514402102,
+              "link": "https://www.deezer.com/track/514402102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/5/0/a5562970fec16801b022e6afc9efe693.mp3?hdnea=exp=1795654580~acl=/api/1/1/a/5/5/0/a5562970fec16801b022e6afc9efe693.mp3*~data=user_id=0,application_id=42~hmac=5851242fdcea8d567b900a40520379ab207d35648c314640d4c755631f7e1b17",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Tornado",
+            "length": "3:42",
+            "deezer": {
+              "id": 514402112,
+              "link": "https://www.deezer.com/track/514402112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/4/0/ce4b8812425912852fcdfec17cecab67.mp3?hdnea=exp=1795654580~acl=/api/1/1/c/e/4/0/ce4b8812425912852fcdfec17cecab67.mp3*~data=user_id=0,application_id=42~hmac=e6e94774315bcb9806882edca22033944a8820295d07769c5987b38054187680",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Afterglow",
+            "length": "2:31",
+            "deezer": {
+              "id": 514402122,
+              "link": "https://www.deezer.com/track/514402122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/c/0/c8cc8107b20b9586a55f80e005375ea6.mp3?hdnea=exp=1795654580~acl=/api/1/1/c/8/c/0/c8cc8107b20b9586a55f80e005375ea6.mp3*~data=user_id=0,application_id=42~hmac=f2004d683cdc6cbb838e84104edee9cb52214c1072e6f209aa11d25fbaf01337",
+              "preview_expires": "2026-11-26T00:56:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Garbage/Version 2.0.jpg"
+}

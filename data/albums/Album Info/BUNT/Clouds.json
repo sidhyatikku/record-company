@@ -1,0 +1,51 @@
+{
+  "title": "Clouds",
+  "artist": "BUNT. & Nate Traveller",
+  "year": 2023,
+  "release_date": "2023-01-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/16f4d7fc-c6c6-43f5-83db-ac1aa79db8c3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/401377457"
+  },
+  "musicbrainz_id": "16f4d7fc-c6c6-43f5-83db-ac1aa79db8c3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/545ccc8a-d8d5-4747-a07f-7ff74e34114a",
+      "barcode": "197511887166",
+      "title": "Clouds",
+      "disambiguation": null,
+      "date": "2023-01-13",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Clouds",
+            "length": "2:39",
+            "deezer": {
+              "id": 2127304097,
+              "link": "https://www.deezer.com/track/2127304097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/7/0/697a782efef273cbd09edfd85aab8573.mp3?hdnea=exp=1795652603~acl=/api/1/1/6/9/7/0/697a782efef273cbd09edfd85aab8573.mp3*~data=user_id=0,application_id=42~hmac=d08d1e550f06b3f3a042845d2dd36732ea3456e3d7b5b755d3a788e3ec88359f",
+              "preview_expires": "2026-11-26T00:23:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/BUNT/Clouds.jpg"
+}

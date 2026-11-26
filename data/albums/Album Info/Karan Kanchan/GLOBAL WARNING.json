@@ -1,0 +1,136 @@
+{
+  "title": "GLOBAL WARNING",
+  "artist": "Karan Kanchan",
+  "year": 2026,
+  "release_date": "2026-04-18",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/530c4e91-bf77-4345-951e-281035c8ca14",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/962892201"
+  },
+  "musicbrainz_id": "530c4e91-bf77-4345-951e-281035c8ca14",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9037dfaf-f220-4e65-9a5c-59667dc4fbf8",
+      "barcode": "8721253138358",
+      "title": "GLOBAL WARNING",
+      "disambiguation": null,
+      "date": "2026-04-18",
+      "country": null
+    },
+    "total_tracks": 8,
+    "total_length": "23:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "DURGHATNA",
+            "length": "2:11",
+            "artist": "Karan Kanchan, Raga & Ikka",
+            "deezer": {
+              "id": 3964864231,
+              "link": "https://www.deezer.com/track/3964864231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/5/0/8a549af71cf90fac6d0e78c7367811ce.mp3?hdnea=exp=1795655936~acl=/api/1/1/8/a/5/0/8a549af71cf90fac6d0e78c7367811ce.mp3*~data=user_id=0,application_id=42~hmac=273dcc483c7dd9c8def89ddc1df07b5cb4e0cb4d8fc37cd888d9884f0aab275a",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "TEN",
+            "length": "3:23",
+            "artist": "Karan Kanchan & GRAVITY",
+            "deezer": {
+              "id": 3964864241,
+              "link": "https://www.deezer.com/track/3964864241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/c/0/89cd3e152cae36fa80c6c0861356859a.mp3?hdnea=exp=1795655936~acl=/api/1/1/8/9/c/0/89cd3e152cae36fa80c6c0861356859a.mp3*~data=user_id=0,application_id=42~hmac=2d0caab279fd9a5e65e9d9133f7705d69061d0dd502351dd15c3eecf89f7e1a6",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "IFUSAYSO",
+            "length": "3:49",
+            "artist": "Karan Kanchan & Yung Raja",
+            "deezer": {
+              "id": 3964864251,
+              "link": "https://www.deezer.com/track/3964864251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/4/0/564a280ea85777d0a612f1da0faea0d9.mp3?hdnea=exp=1795655936~acl=/api/1/1/5/6/4/0/564a280ea85777d0a612f1da0faea0d9.mp3*~data=user_id=0,application_id=42~hmac=96ab00c2767f75a6044e91cdd82f5d2e86caf78866541c4ec21cf424f36d9144",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "WOSOS",
+            "length": "2:54",
+            "artist": "Karan Kanchan & YUNG SAMMY",
+            "deezer": {
+              "id": 3964864261,
+              "link": "https://www.deezer.com/track/3964864261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/4/0/504cea5bfd7ad8a961ee3dde02926ac2.mp3?hdnea=exp=1795655936~acl=/api/1/1/5/0/4/0/504cea5bfd7ad8a961ee3dde02926ac2.mp3*~data=user_id=0,application_id=42~hmac=ad021d461088232d6b0e89252128e878d4056650f1ce85fbe03153a1b01f7372",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "BHAAG",
+            "length": "3:08",
+            "artist": "Karan Kanchan & Monk Lama",
+            "deezer": {
+              "id": 3964864271,
+              "link": "https://www.deezer.com/track/3964864271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/d/0/43d820ca5810b6b87623ad6ef33e6ce4.mp3?hdnea=exp=1795655936~acl=/api/1/1/4/3/d/0/43d820ca5810b6b87623ad6ef33e6ce4.mp3*~data=user_id=0,application_id=42~hmac=5496c87f8a4e39fc2051ff2869b23f26b25766f2a2d620506b96dc109ccc49ba",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "CHARCHA",
+            "length": "2:48",
+            "artist": "Karan Kanchan & Shreyas",
+            "deezer": {
+              "id": 3964864281,
+              "link": "https://www.deezer.com/track/3964864281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/4/0/ba4f60ecce73e67e562ce3c4d199de14.mp3?hdnea=exp=1795655936~acl=/api/1/1/b/a/4/0/ba4f60ecce73e67e562ce3c4d199de14.mp3*~data=user_id=0,application_id=42~hmac=b036926129f76aec65fb13628ac245a5b8b0eeedbedb752af3757626dfb20c6e",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "UNSTOPPABLE",
+            "length": "2:30",
+            "artist": "Karan Kanchan & tricksingh",
+            "deezer": {
+              "id": 3964864291,
+              "link": "https://www.deezer.com/track/3964864291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/d/0/4bdbf6ff020bf7e96c6e86c4a1753d64.mp3?hdnea=exp=1795655936~acl=/api/1/1/4/b/d/0/4bdbf6ff020bf7e96c6e86c4a1753d64.mp3*~data=user_id=0,application_id=42~hmac=f3f868bc86deab2607aebb6f70645b29561f4fbeef54ee487d184229aa45e092",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "SADHANA",
+            "length": "2:30",
+            "artist": "Karan Kanchan, Mahesh Kale & Shreyas",
+            "deezer": {
+              "id": 3964864301,
+              "link": "https://www.deezer.com/track/3964864301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/1/0/1a17c10f38faa56e817b6c680b3f626b.mp3?hdnea=exp=1795655936~acl=/api/1/1/1/a/1/0/1a17c10f38faa56e817b6c680b3f626b.mp3*~data=user_id=0,application_id=42~hmac=682c793a70cd1e60abac6713f3cfa8758a206a7122e2d4119dfd696cf252c66b",
+              "preview_expires": "2026-11-26T01:18:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karan Kanchan/GLOBAL WARNING.jpg"
+}

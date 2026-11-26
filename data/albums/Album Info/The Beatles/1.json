@@ -1,0 +1,380 @@
+{
+  "title": "1",
+  "artist": "The Beatles",
+  "year": 2000,
+  "release_date": "2000-11-13",
+  "type": "Album + Compilation",
+  "description": "1 is a greatest hits album of the British rock band the Beatles, originally released on 13 November 2000. The album features virtually every number-one single the band achieved in the United Kingdom or United States from 1962 to 1970. Issued on the 30th anniversary of the band's break-up, it was their first compilation album available on only one CD. 1 was a commercial success and topped charts worldwide. It has sold over 31 million copies. Since Nielsen SoundScan began tracking US album sales in January 1991, 1 is the fourth-best-selling album in the US, the best-selling album of the 2000s decade in the US, as well as the best-selling album of the decade worldwide.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "merseybeat",
+    "psychedelic",
+    "pop",
+    "easy listening",
+    "folk pop",
+    "psychedelic pop",
+    "classic rock"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "am pop",
+    "merseybeat",
+    "psychedelic",
+    "adult alternative pop rock",
+    "beat",
+    "british invasion",
+    "pop",
+    "rock & roll",
+    "album rock",
+    "british psychedelia",
+    "early pop/rock",
+    "easy listening",
+    "folk pop",
+    "folk-rock",
+    "oldies",
+    "psychedelic pop",
+    "60s",
+    "classic rock",
+    "contemporary pop/rock",
+    "pop/rock",
+    "unknown",
+    "vyrzukhisuc-album"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 21
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4f539c70-1a19-37a3-ba14-979f11fc0686",
+    "wikipedia": "https://en.wikipedia.org/wiki/1_(Beatles_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000096318",
+    "discogs": "https://www.discogs.com/master/447254",
+    "wikidata": "https://www.wikidata.org/wiki/Q208994",
+    "deezer": "https://www.deezer.com/album/12047956"
+  },
+  "musicbrainz_id": "4f539c70-1a19-37a3-ba14-979f11fc0686",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c8f74705-2545-48d2-b0c8-7c899f595b20",
+      "barcode": "00602547673503",
+      "title": "1",
+      "disambiguation": "2015 version",
+      "date": "2015-12-24",
+      "country": "XW"
+    },
+    "total_tracks": 27,
+    "total_length": "1:19:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Love Me Do (mono)",
+            "length": "2:20",
+            "deezer": {
+              "id": 116348592,
+              "link": "https://www.deezer.com/track/116348592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/3/0/be3a10eba1712be653f343e37bbda420.mp3?hdnea=exp=1795721355~acl=/api/1/1/b/e/3/0/be3a10eba1712be653f343e37bbda420.mp3*~data=user_id=0,application_id=42~hmac=f003a1c27423fbf359661888abc43a31052da21d30b9b8be3c093c7c3a721a70",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "From Me to You (mono)",
+            "length": "1:56",
+            "deezer": {
+              "id": 116348594,
+              "link": "https://www.deezer.com/track/116348594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/0/0/6d0f84c9e5f8108a8166cf92f5210224.mp3?hdnea=exp=1795721355~acl=/api/1/1/6/d/0/0/6d0f84c9e5f8108a8166cf92f5210224.mp3*~data=user_id=0,application_id=42~hmac=5049c8c2f619516186e8d24dc1763c3739997045ff033583ed960a5c6cfbf719",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "She Loves You (mono)",
+            "length": "2:21",
+            "deezer": {
+              "id": 116348596,
+              "link": "https://www.deezer.com/track/116348596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/e/0/f2e940eb56ef7a00bf9f073a824147b2.mp3?hdnea=exp=1795721355~acl=/api/1/1/f/2/e/0/f2e940eb56ef7a00bf9f073a824147b2.mp3*~data=user_id=0,application_id=42~hmac=73b92056cd05ebddf20e791794b9dc69f02ad2ad992d088830af5f180574b420",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Want to Hold Your Hand",
+            "length": "2:26",
+            "deezer": {
+              "id": 116348598,
+              "link": "https://www.deezer.com/track/116348598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/2/0/6d2ecadd74d73423993e5fdb370b03d2.mp3?hdnea=exp=1795721355~acl=/api/1/1/6/d/2/0/6d2ecadd74d73423993e5fdb370b03d2.mp3*~data=user_id=0,application_id=42~hmac=827785bedc76bb003eee5235d957142e88805a9b57c81ee52439e7ebba688399",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Can’t Buy Me Love",
+            "length": "2:11",
+            "deezer": {
+              "id": 116348600,
+              "link": "https://www.deezer.com/track/116348600",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/c/0/7fcfcca55277e5aea229b3c6e3f54ea3.mp3?hdnea=exp=1795721355~acl=/api/1/1/7/f/c/0/7fcfcca55277e5aea229b3c6e3f54ea3.mp3*~data=user_id=0,application_id=42~hmac=39bb45a5897ffd10089ceecbf0477629cede4f5032fcfeaa7f8ba2a8f90fdc9c",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "A Hard Day’s Night",
+            "length": "2:33",
+            "deezer": {
+              "id": 116348602,
+              "link": "https://www.deezer.com/track/116348602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/8/0/f68d15c871b5ad32e7b79b1c1e04a5bd.mp3?hdnea=exp=1795721355~acl=/api/1/1/f/6/8/0/f68d15c871b5ad32e7b79b1c1e04a5bd.mp3*~data=user_id=0,application_id=42~hmac=7dbe6dc1f8dac002c85964d923c5ec3a2b9e0e33830c4099b1ceef5a87dd203c",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Feel Fine",
+            "length": "2:19",
+            "deezer": {
+              "id": 116348604,
+              "link": "https://www.deezer.com/track/116348604",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/0/0/710caa384d305be23ed081d46d1d51b1.mp3?hdnea=exp=1795721355~acl=/api/1/1/7/1/0/0/710caa384d305be23ed081d46d1d51b1.mp3*~data=user_id=0,application_id=42~hmac=7f20157473031359f5586c954838bd6b6f94738185d88a95f8a6a532d2da15cc",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Eight Days a Week",
+            "length": "2:43",
+            "deezer": {
+              "id": 116348606,
+              "link": "https://www.deezer.com/track/116348606",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/f/0/b5f09b7e6eba46c25e6cb3810db1938b.mp3?hdnea=exp=1795721355~acl=/api/1/1/b/5/f/0/b5f09b7e6eba46c25e6cb3810db1938b.mp3*~data=user_id=0,application_id=42~hmac=ff4c8ff881bf103572a5927602e8e7ce8929ac9a7576a03ce27bbc54296d8ec8",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ticket to Ride",
+            "length": "3:10",
+            "deezer": {
+              "id": 116348608,
+              "link": "https://www.deezer.com/track/116348608",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/9/0/3c926cd9c3e177e9c74e92316a9bb4b7.mp3?hdnea=exp=1795721355~acl=/api/1/1/3/c/9/0/3c926cd9c3e177e9c74e92316a9bb4b7.mp3*~data=user_id=0,application_id=42~hmac=64a9bdd226b7e42a2e62eeb92771534d48ce957e16476f23db927e0f2198f79e",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Help!",
+            "length": "2:19",
+            "deezer": {
+              "id": 116348610,
+              "link": "https://www.deezer.com/track/116348610",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aebf14b1355a5d295b677433ac27229e.mp3?hdnea=exp=1795721355~acl=/api/1/1/a/e/b/0/aebf14b1355a5d295b677433ac27229e.mp3*~data=user_id=0,application_id=42~hmac=466e058d0f6c5f4d9bbc00f98b3644f5c6be54e0283e17ee36735600d7934d53",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Yesterday",
+            "length": "2:05",
+            "deezer": {
+              "id": 116348612,
+              "link": "https://www.deezer.com/track/116348612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/2/0/b92a1a6becd36ae9f8721999d3d916a6.mp3?hdnea=exp=1795721355~acl=/api/1/1/b/9/2/0/b92a1a6becd36ae9f8721999d3d916a6.mp3*~data=user_id=0,application_id=42~hmac=3ba13f20e04c1aac59d421620aacf812e62c9f24ca779957db60953244a68b7b",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Day Tripper",
+            "length": "2:49",
+            "deezer": {
+              "id": 116348614,
+              "link": "https://www.deezer.com/track/116348614",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/9/0/1190024ccfe9e24bb7b9d493ecb87a13.mp3?hdnea=exp=1795721355~acl=/api/1/1/1/1/9/0/1190024ccfe9e24bb7b9d493ecb87a13.mp3*~data=user_id=0,application_id=42~hmac=8451a5fa786da3f26868be79c41ad5e1e1df47396fa7c9be108dd48711d5edbd",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "We Can Work It Out",
+            "length": "2:16",
+            "deezer": {
+              "id": 116348616,
+              "link": "https://www.deezer.com/track/116348616",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71b7e0ce46b658be41ea134fc049464.mp3?hdnea=exp=1795721355~acl=/api/1/1/a/7/1/0/a71b7e0ce46b658be41ea134fc049464.mp3*~data=user_id=0,application_id=42~hmac=344d9e064ff6785aa4915ba1a0af2edb9efb7efd023d31a90fb3bfd9df470a1d",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Paperback Writer",
+            "length": "2:18",
+            "deezer": {
+              "id": 116348618,
+              "link": "https://www.deezer.com/track/116348618",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/7/0/187f00035eb434404bfcca0990f3283f.mp3?hdnea=exp=1795721355~acl=/api/1/1/1/8/7/0/187f00035eb434404bfcca0990f3283f.mp3*~data=user_id=0,application_id=42~hmac=fd71dc36aea64f6ad545a1d912799c0e332061e9f01e2339e9d8084ceff29531",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Yellow Submarine",
+            "length": "2:39",
+            "deezer": {
+              "id": 116348620,
+              "link": "https://www.deezer.com/track/116348620",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/c/0/3ccbaf5c4eaa0a21b4742a06ca5fee75.mp3?hdnea=exp=1795721355~acl=/api/1/1/3/c/c/0/3ccbaf5c4eaa0a21b4742a06ca5fee75.mp3*~data=user_id=0,application_id=42~hmac=ac936896fb6e35f5e044ca0ebaa9a797cac68af9a5938063277adcc430c80c6b",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Eleanor Rigby",
+            "length": "2:06",
+            "deezer": {
+              "id": 116348622,
+              "link": "https://www.deezer.com/track/116348622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/f/0/b9f4eb9cbe506a599f23932602c5d652.mp3?hdnea=exp=1795721355~acl=/api/1/1/b/9/f/0/b9f4eb9cbe506a599f23932602c5d652.mp3*~data=user_id=0,application_id=42~hmac=215a01584c44f19238c42ed5b2d6cb161c29b58877a826b9a01ffe34cc830f80",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Penny Lane",
+            "length": "3:01",
+            "deezer": {
+              "id": 116348624,
+              "link": "https://www.deezer.com/track/116348624",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a6b00f46b6c6e71938ab023e15a20ef.mp3?hdnea=exp=1795721355~acl=/api/1/1/8/a/6/0/8a6b00f46b6c6e71938ab023e15a20ef.mp3*~data=user_id=0,application_id=42~hmac=6c3256999b22316734f016875a15a3309929100c4fddaca89f330a3865b00850",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "All You Need Is Love",
+            "length": "3:48",
+            "deezer": {
+              "id": 116348626,
+              "link": "https://www.deezer.com/track/116348626",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/b/0/d2b5912d297ce8edda352a27424c7646.mp3?hdnea=exp=1795721355~acl=/api/1/1/d/2/b/0/d2b5912d297ce8edda352a27424c7646.mp3*~data=user_id=0,application_id=42~hmac=3019ce2c474382f685e4b268c3589d4bc7aba7d95a4cee324ea5bf85c3199ca0",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Hello, Goodbye",
+            "length": "3:28",
+            "deezer": {
+              "id": 116348628,
+              "link": "https://www.deezer.com/track/116348628",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/6/0/c26780fa852d50f4a0a95bb70b9b3063.mp3?hdnea=exp=1795721355~acl=/api/1/1/c/2/6/0/c26780fa852d50f4a0a95bb70b9b3063.mp3*~data=user_id=0,application_id=42~hmac=cb69cb5805e493e4db0c83b62c4736c74d9b7af99bd5aaa40a7ba674cd419aea",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Lady Madonna",
+            "length": "2:17",
+            "deezer": {
+              "id": 116348630,
+              "link": "https://www.deezer.com/track/116348630",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d1c1fba2d411ef25db63a797f43bbab.mp3?hdnea=exp=1795721355~acl=/api/1/1/7/d/1/0/7d1c1fba2d411ef25db63a797f43bbab.mp3*~data=user_id=0,application_id=42~hmac=406cd04fb1d6c651f45d5f6d631ad9bfd04a3183c7f3a103bc2593a4f844b37b",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Hey Jude",
+            "length": "7:06",
+            "deezer": {
+              "id": 116348632,
+              "link": "https://www.deezer.com/track/116348632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/3/0/be3c33e5b05a25dc63b8951748615d74.mp3?hdnea=exp=1795721355~acl=/api/1/1/b/e/3/0/be3c33e5b05a25dc63b8951748615d74.mp3*~data=user_id=0,application_id=42~hmac=9767f334f934a08fc93df21455e4277362dd133a2afaba5a88a8582774d00f89",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Get Back",
+            "length": "3:12",
+            "artist": "The Beatles & Billy Preston",
+            "deezer": {
+              "id": 116348634,
+              "link": "https://www.deezer.com/track/116348634",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/0/0/4f021c738eae4fb3f6d0a2e53c31bed9.mp3?hdnea=exp=1795721355~acl=/api/1/1/4/f/0/0/4f021c738eae4fb3f6d0a2e53c31bed9.mp3*~data=user_id=0,application_id=42~hmac=2a4cd20a403256dd4ef653830f2a7774991f2db37e5a5e60523371818e39cbaa",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "The Ballad of John and Yoko",
+            "length": "2:59",
+            "deezer": {
+              "id": 116348636,
+              "link": "https://www.deezer.com/track/116348636",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/c/0/3dc951c4e96d32c1c4e54b77ee8df899.mp3?hdnea=exp=1795721355~acl=/api/1/1/3/d/c/0/3dc951c4e96d32c1c4e54b77ee8df899.mp3*~data=user_id=0,application_id=42~hmac=88bdecd6a8d95ab0a9682ec44ce478ee0099e073427fb02e5beb756e1c348702",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Something",
+            "length": "3:01",
+            "deezer": {
+              "id": 116348638,
+              "link": "https://www.deezer.com/track/116348638",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/a/0/fba9ccd775b6d8bc32be87866669eb96.mp3?hdnea=exp=1795721355~acl=/api/1/1/f/b/a/0/fba9ccd775b6d8bc32be87866669eb96.mp3*~data=user_id=0,application_id=42~hmac=2452e945ec23dc5cfc9d08fb5c9cc8c7cb81cc95645dd0762c48e95109e7a655",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "Come Together",
+            "length": "4:19",
+            "deezer": {
+              "id": 116348640,
+              "link": "https://www.deezer.com/track/116348640",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/9/0/8f96233a890e4be9444afc902146ee11.mp3?hdnea=exp=1795721355~acl=/api/1/1/8/f/9/0/8f96233a890e4be9444afc902146ee11.mp3*~data=user_id=0,application_id=42~hmac=45f63ddf193f5dde8c5c2890b25525f2c6b68aef7604d8044e791c5a6ad7b4d8",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "Let It Be",
+            "length": "3:50",
+            "deezer": {
+              "id": 116348642,
+              "link": "https://www.deezer.com/track/116348642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/b/0/47bedf802597b55e39143364a78bd296.mp3?hdnea=exp=1795721355~acl=/api/1/1/4/7/b/0/47bedf802597b55e39143364a78bd296.mp3*~data=user_id=0,application_id=42~hmac=c95faf6009fc7c466cd444371fee60fc133b27463b3984b7d16c9a8cf938e0a7",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "The Long and Winding Road",
+            "length": "3:39",
+            "deezer": {
+              "id": 116348644,
+              "link": "https://www.deezer.com/track/116348644",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/1/0/5012aacdb12a732afddac0b93a5ad534.mp3?hdnea=exp=1795721355~acl=/api/1/1/5/0/1/0/5012aacdb12a732afddac0b93a5ad534.mp3*~data=user_id=0,application_id=42~hmac=7e245ceea3f0fc4f0fd3d65adf8f183e2b34dfebebb71f8be47932cd6d9414f7",
+              "preview_expires": "2026-11-26T19:29:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Beatles/1.jpg"
+}

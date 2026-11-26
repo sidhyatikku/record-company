@@ -1,0 +1,714 @@
+{
+  "title": "Time Signatures: A Career Retrospective",
+  "artist": "Dave Brubeck",
+  "year": 1992,
+  "release_date": "1992",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/aa1405a6-3cd8-3f56-bed8-ec7d194e7043",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/97797"
+  },
+  "musicbrainz_id": "aa1405a6-3cd8-3f56-bed8-ec7d194e7043",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/435acb8d-4265-4449-bbf5-dec05a5c5c7e",
+      "barcode": null,
+      "title": "Time Signatures: A Career Retrospective",
+      "disambiguation": null,
+      "date": "1992",
+      "country": "US"
+    },
+    "total_tracks": 59,
+    "total_length": "4:34:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Curtain Music (Closing Theme)",
+            "length": "0:34",
+            "deezer": {
+              "id": 14895072,
+              "link": "https://www.deezer.com/track/14895072",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "2",
+            "title": "Indiana",
+            "length": "2:37",
+            "deezer": {
+              "id": 14895073,
+              "link": "https://www.deezer.com/track/14895073",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "Body and Soul",
+            "length": "3:46",
+            "deezer": {
+              "id": 14895084,
+              "link": "https://www.deezer.com/track/14895084",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "4",
+            "title": "Undecided",
+            "length": "2:30",
+            "deezer": {
+              "id": 14895074,
+              "link": "https://www.deezer.com/track/14895074",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Way You Look Tonight",
+            "length": "3:02",
+            "deezer": {
+              "id": 14895075,
+              "link": "https://www.deezer.com/track/14895075",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "6",
+            "title": "Look for the Silver Lining",
+            "length": "3:45",
+            "deezer": {
+              "id": 14895076,
+              "link": "https://www.deezer.com/track/14895076",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "Over the Rainbow",
+            "length": "5:07",
+            "deezer": {
+              "id": 14895077,
+              "link": "https://www.deezer.com/track/14895077",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "8",
+            "title": "Perdido",
+            "length": "7:51",
+            "deezer": {
+              "id": 14895078,
+              "link": "https://www.deezer.com/track/14895078",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "9",
+            "title": "Le Souk",
+            "length": "4:40",
+            "deezer": {
+              "id": 849153,
+              "link": "https://www.deezer.com/track/849153",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/c/0/f8cf61ef0a617ad52e2745119b52fb9f.mp3?hdnea=exp=1795653160~acl=/api/1/1/f/8/c/0/f8cf61ef0a617ad52e2745119b52fb9f.mp3*~data=user_id=0,application_id=42~hmac=50942f49ff928c052afd1fc442b15195a2fb1715d4c65604b9d1f58be2d7dc98",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Stompin’ for Mili",
+            "length": "5:23",
+            "deezer": {
+              "id": 853374,
+              "link": "https://www.deezer.com/track/853374",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/9/0/f99646f56dca8e5761ec214883d2c56b.mp3?hdnea=exp=1795653160~acl=/api/1/1/f/9/9/0/f99646f56dca8e5761ec214883d2c56b.mp3*~data=user_id=0,application_id=42~hmac=232381e1db5afce60c373fbbaab2df68d7f15dcc626e9059e08b259711b2501f",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Duke",
+            "length": "2:49",
+            "deezer": {
+              "id": 854594,
+              "link": "https://www.deezer.com/track/854594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/f/0/64f601102030b47023760a58174c6b0e.mp3?hdnea=exp=1795653160~acl=/api/1/1/6/4/f/0/64f601102030b47023760a58174c6b0e.mp3*~data=user_id=0,application_id=42~hmac=5a608b119d579432fd0aeffbbdb023e39b2b07e561c42ba2f33f82cdc4043aff",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Two‐Part Contention",
+            "length": "5:41",
+            "deezer": {
+              "id": 852094,
+              "link": "https://www.deezer.com/track/852094",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/b/0/25b01fdfaaf4ad5afb9b4446cffd301e.mp3?hdnea=exp=1795653160~acl=/api/1/1/2/5/b/0/25b01fdfaaf4ad5afb9b4446cffd301e.mp3*~data=user_id=0,application_id=42~hmac=700a67055fa07b941488d900d6d0d1d55d739d45d490ccc0c606349316115cf7",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "In Your Own Sweet Way",
+            "length": "8:43",
+            "deezer": {
+              "id": 851235,
+              "link": "https://www.deezer.com/track/851235",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/f/0/84fe06f02f8a09dcd6d6038469437ce6.mp3?hdnea=exp=1795653160~acl=/api/1/1/8/4/f/0/84fe06f02f8a09dcd6d6038469437ce6.mp3*~data=user_id=0,application_id=42~hmac=66df27d722974ef3cdb3dacc6bc8f79a1bb0c4d9e90c818d16fa5e1cc66d4148",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "History of a Boy Scout (We Crossed the Rhine)",
+            "length": "4:37",
+            "deezer": {
+              "id": 849155,
+              "link": "https://www.deezer.com/track/849155",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/b/0/5ebc2b103192e0a8cc37196f133640ca.mp3?hdnea=exp=1795653160~acl=/api/1/1/5/e/b/0/5ebc2b103192e0a8cc37196f133640ca.mp3*~data=user_id=0,application_id=42~hmac=0b81122580ad85371380d10d86608299d5069a114d9288a754ffbe8ee427bd16",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Some Day My Prince Will Come",
+            "length": "8:18",
+            "deezer": {
+              "id": 853375,
+              "link": "https://www.deezer.com/track/853375",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/a/0/dda590fc037be4b22ace0b1c8ce9461c.mp3?hdnea=exp=1795653160~acl=/api/1/1/d/d/a/0/dda590fc037be4b22ace0b1c8ce9461c.mp3*~data=user_id=0,application_id=42~hmac=1f2ebda11dfe14ba78804ff6ffdc05dc933035395449b53551900cf734c7dc99",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tangerine",
+            "length": "10:24",
+            "deezer": {
+              "id": 852092,
+              "link": "https://www.deezer.com/track/852092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/4/0/fa4c5d71f7b80d5ed4c1d50ca6de2ea5.mp3?hdnea=exp=1795653160~acl=/api/1/1/f/a/4/0/fa4c5d71f7b80d5ed4c1d50ca6de2ea5.mp3*~data=user_id=0,application_id=42~hmac=0c35c6411f8684b997d3fe1dd6bad1b8787bedbe6d34ddbe9a6a87f9815390a7",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jump for Joy",
+            "length": "5:30",
+            "deezer": {
+              "id": 849158,
+              "link": "https://www.deezer.com/track/849158",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/e/0/4bee91a699c794422b704b96e16feaf4.mp3?hdnea=exp=1795653160~acl=/api/1/1/4/b/e/0/4bee91a699c794422b704b96e16feaf4.mp3*~data=user_id=0,application_id=42~hmac=da2820367b2089d2f05948a6af3f29345da1a3d21e18d1fc8fc6a314a3b581d3",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Golden Horn",
+            "length": "5:04",
+            "deezer": {
+              "id": 849161,
+              "link": "https://www.deezer.com/track/849161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/1/0/2e1a35759f86e7c20bc632a0ff47987f.mp3?hdnea=exp=1795653160~acl=/api/1/1/2/e/1/0/2e1a35759f86e7c20bc632a0ff47987f.mp3*~data=user_id=0,application_id=42~hmac=91c79a0ccdd0e648ac1f5ba6df1d26ff0b91b2b5e22fcdda2bcde19c9c6a471b",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Marble Arch",
+            "length": "7:01",
+            "deezer": {
+              "id": 854285,
+              "link": "https://www.deezer.com/track/854285",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/e/0/78e052e185350a3c0aa0e03578014c28.mp3?hdnea=exp=1795653160~acl=/api/1/1/7/8/e/0/78e052e185350a3c0aa0e03578014c28.mp3*~data=user_id=0,application_id=42~hmac=0bb47479ff90b5ed4651bcb20cde7184817f0c464162984b2ea13c74f7bf9daf",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Georgia on My Mind",
+            "length": "6:40",
+            "deezer": {
+              "id": 854318,
+              "link": "https://www.deezer.com/track/854318",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/e/0/08e0df1ac697119e7ce13268ee07e41b.mp3?hdnea=exp=1795653160~acl=/api/1/1/0/8/e/0/08e0df1ac697119e7ce13268ee07e41b.mp3*~data=user_id=0,application_id=42~hmac=d0251ba2af65f6c74d8ce5919eb40c77677ce8adf803ee50598d65e8565decd9",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Three to Get Ready",
+            "length": "5:26",
+            "deezer": {
+              "id": 849165,
+              "link": "https://www.deezer.com/track/849165",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/9/0/9097aa68b0873a1d6db2b3f0a26d8110.mp3?hdnea=exp=1795653160~acl=/api/1/1/9/0/9/0/9097aa68b0873a1d6db2b3f0a26d8110.mp3*~data=user_id=0,application_id=42~hmac=5ce95f1a780f47560b230ff706649cadccf329d3fcc166bec1948a36235185b8",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Blue Rondo a la Turk",
+            "length": "6:47",
+            "deezer": {
+              "id": 853377,
+              "link": "https://www.deezer.com/track/853377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/7/0/a1756ada4c9bbf76602fa840ee32afb0.mp3?hdnea=exp=1795653160~acl=/api/1/1/a/1/7/0/a1756ada4c9bbf76602fa840ee32afb0.mp3*~data=user_id=0,application_id=42~hmac=1491ca761b8dfefe8c552bee8310c29b10d782841f08aef3aaefe44fcc44a14d",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Strange Meadowlark",
+            "length": "7:27",
+            "deezer": {
+              "id": 856383,
+              "link": "https://www.deezer.com/track/856383",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/8/0/608e813f7e22bff666ed6c2acc95bbf6.mp3?hdnea=exp=1795653160~acl=/api/1/1/6/0/8/0/608e813f7e22bff666ed6c2acc95bbf6.mp3*~data=user_id=0,application_id=42~hmac=e6b6befdb31b90d20c1b287cfcc3e4c03d63c649377339b1beba11c506692597",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Take Five",
+            "length": "5:27",
+            "deezer": {
+              "id": 849168,
+              "link": "https://www.deezer.com/track/849168",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/8/0/6c84957751f335689e7c28c07d99e05d.mp3?hdnea=exp=1795653160~acl=/api/1/1/6/c/8/0/6c84957751f335689e7c28c07d99e05d.mp3*~data=user_id=0,application_id=42~hmac=dcceedac7b18a7953f0e1c92d6a325b52e753f97c1d903fece4cf1706c1b62dc",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Darktown Strutter’s Ball",
+            "length": "1:41",
+            "deezer": {
+              "id": 852086,
+              "link": "https://www.deezer.com/track/852086",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/c/0/bdc11e426b5392978947c1fc1045d179.mp3?hdnea=exp=1795653160~acl=/api/1/1/b/d/c/0/bdc11e426b5392978947c1fc1045d179.mp3*~data=user_id=0,application_id=42~hmac=0ab7d0703a30d5097fa768bbbe9054f960b69bd0fdc2e2268944ef55f40c3742",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Offshoot",
+            "length": "2:41",
+            "deezer": {
+              "id": 853379,
+              "link": "https://www.deezer.com/track/853379",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/7/0/cb7dfeda984b46a34f1379b91d9d0550.mp3?hdnea=exp=1795653160~acl=/api/1/1/c/b/7/0/cb7dfeda984b46a34f1379b91d9d0550.mp3*~data=user_id=0,application_id=42~hmac=cb1d2e14856a72f5b7f85b179d2dd6b654ed11575603a81431323d3c3bf56411",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "There’ll Be Some Changes Made",
+            "length": "2:07",
+            "deezer": {
+              "id": 849169,
+              "link": "https://www.deezer.com/track/849169",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/f/0/4bf4634f8180c3d130ac80a211c730d8.mp3?hdnea=exp=1795653160~acl=/api/1/1/4/b/f/0/4bf4634f8180c3d130ac80a211c730d8.mp3*~data=user_id=0,application_id=42~hmac=29205d568ac2a73edb4faae1d42a207854524778ab312f62a0bc9532552527d7",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 3,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Allegro Blues",
+            "length": "5:36",
+            "deezer": {
+              "id": 852083,
+              "link": "https://www.deezer.com/track/852083",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/3/0/6e38c584ca1d7a9644a539ee7b8f429c.mp3?hdnea=exp=1795653160~acl=/api/1/1/6/e/3/0/6e38c584ca1d7a9644a539ee7b8f429c.mp3*~data=user_id=0,application_id=42~hmac=61eeb63ea8d27a5279d9aba36cb05f7cc8cbe1d4266e67056e8971a3509dad28",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Somewhere",
+            "length": "4:18",
+            "deezer": {
+              "id": 853380,
+              "link": "https://www.deezer.com/track/853380",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/2/0/022c0aef88d9de474bdf9c7f4e450981.mp3?hdnea=exp=1795653160~acl=/api/1/1/0/2/2/0/022c0aef88d9de474bdf9c7f4e450981.mp3*~data=user_id=0,application_id=42~hmac=9a82cd94278625d17b698703f59ba6ed4ee202523d83f1ad1e55d96f4d55a747",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Weep No More",
+            "length": "2:52",
+            "deezer": {
+              "id": 854595,
+              "link": "https://www.deezer.com/track/854595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/4/0/c145dac5315efaf7712c6cbdcf2214f3.mp3?hdnea=exp=1795653160~acl=/api/1/1/c/1/4/0/c145dac5315efaf7712c6cbdcf2214f3.mp3*~data=user_id=0,application_id=42~hmac=1f16055772b306bb26c7f090d6d425642d611ec254ad85378129ce1c83f340c1",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Charles Matthew Hallelujah",
+            "length": "2:53",
+            "deezer": {
+              "id": 854935,
+              "link": "https://www.deezer.com/track/854935",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/2/0/4d2e9c7fb8ce5bc8296ab00392054c65.mp3?hdnea=exp=1795653160~acl=/api/1/1/4/d/2/0/4d2e9c7fb8ce5bc8296ab00392054c65.mp3*~data=user_id=0,application_id=42~hmac=45f42e95d80bd701f31ded87fbf85f9b1f067ae6cc7ce1029b53b7943b97e6d4",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Unsquare Dance",
+            "length": "2:03",
+            "deezer": {
+              "id": 849172,
+              "link": "https://www.deezer.com/track/849172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/3/0/4a352bb24f93eca6854010e03c129cbd.mp3?hdnea=exp=1795653160~acl=/api/1/1/4/a/3/0/4a352bb24f93eca6854010e03c129cbd.mp3*~data=user_id=0,application_id=42~hmac=212281985eb4890620ac221787d40f4f7a752feaa1e75d86dd1fd31ab9890fc7",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Why Phillis",
+            "length": "2:20",
+            "deezer": {
+              "id": 853382,
+              "link": "https://www.deezer.com/track/853382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/4/0/14468dc0cd5f2243bc652a2e3e07bcbd.mp3?hdnea=exp=1795653160~acl=/api/1/1/1/4/4/0/14468dc0cd5f2243bc652a2e3e07bcbd.mp3*~data=user_id=0,application_id=42~hmac=b4b712b75e8492688d560e814190b52efa5acf3b35c529021a93463a1278a6f8",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Kathy’s Waltz",
+            "length": "3:04",
+            "deezer": {
+              "id": 849174,
+              "link": "https://www.deezer.com/track/849174",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/6/0/7162bdddf638252a80c4f83a3ad589a0.mp3?hdnea=exp=1795653160~acl=/api/1/1/7/1/6/0/7162bdddf638252a80c4f83a3ad589a0.mp3*~data=user_id=0,application_id=42~hmac=c3dfadd692ded85225a2aa781dd585cd3b3ec408c26ac620240c85887afc988c",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Travellin’ Blues",
+            "length": "2:52",
+            "deezer": {
+              "id": 854029,
+              "link": "https://www.deezer.com/track/854029",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/e/0/21e8c97f492f2b14705a10e69724099a.mp3?hdnea=exp=1795653160~acl=/api/1/1/2/1/e/0/21e8c97f492f2b14705a10e69724099a.mp3*~data=user_id=0,application_id=42~hmac=9c078fe21b8edcffbbc1318e8979f14697d9b43474a010b088e8fee457ef99c8",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Summer Song",
+            "length": "3:17",
+            "deezer": {
+              "id": 849176,
+              "link": "https://www.deezer.com/track/849176",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/5/0/2852682bcf562762e4df3113619101f2.mp3?hdnea=exp=1795653160~acl=/api/1/1/2/8/5/0/2852682bcf562762e4df3113619101f2.mp3*~data=user_id=0,application_id=42~hmac=a7bcdef17cb9a42c70ba4954970a9a33c76dd7688ae6c06d2d98f68d5b987378",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Real Ambassador",
+            "length": "3:10",
+            "deezer": {
+              "id": 853384,
+              "link": "https://www.deezer.com/track/853384",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/f/0/35f0f58d85eda240962612babe650514.mp3?hdnea=exp=1795653160~acl=/api/1/1/3/5/f/0/35f0f58d85eda240962612babe650514.mp3*~data=user_id=0,application_id=42~hmac=b4fd6e48a7912940ed77f04cabcb6ce2301e1502cdc92e3d420298f36a1b6844",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Non‐Sectarian Blues (mono recording)",
+            "length": "3:45",
+            "deezer": {
+              "id": 855786,
+              "link": "https://www.deezer.com/track/855786",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/2/0/b72e4b8a194089e8ba85a7e6d669e16b.mp3?hdnea=exp=1795653160~acl=/api/1/1/b/7/2/0/b72e4b8a194089e8ba85a7e6d669e16b.mp3*~data=user_id=0,application_id=42~hmac=e982a2f239d66cf68ca5f3484ba69a03830f49016667498a04be1da4ed11a4ec",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Bossa Nova U.S.A.",
+            "length": "2:27",
+            "deezer": {
+              "id": 855468,
+              "link": "https://www.deezer.com/track/855468",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/8/0/73809eaa13b02cc7824fd356ba091662.mp3?hdnea=exp=1795653160~acl=/api/1/1/7/3/8/0/73809eaa13b02cc7824fd356ba091662.mp3*~data=user_id=0,application_id=42~hmac=e5f655a341af6741e8ca08b4188a8f0c685305106c2ef1f22685cccfe010ebe5",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "It’s a Raggy Waltz",
+            "length": "6:40",
+            "deezer": {
+              "id": 853387,
+              "link": "https://www.deezer.com/track/853387",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/1/0/871d45566a456b746f989d0a4598c5d2.mp3?hdnea=exp=1795653160~acl=/api/1/1/8/7/1/0/871d45566a456b746f989d0a4598c5d2.mp3*~data=user_id=0,application_id=42~hmac=30e7f6fd89ac92f414a050be4f0f405fd8f4142fd65ca15654f0fa40b7e6c2ac",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "The World’s Fair",
+            "length": "2:47",
+            "deezer": {
+              "id": 856429,
+              "link": "https://www.deezer.com/track/856429",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/1/0/fa1be4a95a385645d1ddcb7a0f939613.mp3?hdnea=exp=1795653160~acl=/api/1/1/f/a/1/0/fa1be4a95a385645d1ddcb7a0f939613.mp3*~data=user_id=0,application_id=42~hmac=1a58b280976810e5eca95c18e66ddb06464dfbd31893430fc3f7d1c78e410927",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Fujiyama",
+            "length": "5:05",
+            "deezer": {
+              "id": 849180,
+              "link": "https://www.deezer.com/track/849180",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/a/0/11adf5548fb6493a7f9c103ef2f4e1a2.mp3?hdnea=exp=1795653160~acl=/api/1/1/1/1/a/0/11adf5548fb6493a7f9c103ef2f4e1a2.mp3*~data=user_id=0,application_id=42~hmac=34323fecd738db22364c8853a51ff66d5f156e2dae30ec22838f5405a00012b6",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Upstage Rumba",
+            "length": "4:12",
+            "deezer": {
+              "id": 852080,
+              "link": "https://www.deezer.com/track/852080",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/0/0/bb0a2a792b662ef9e73d6cfc9a6d7600.mp3?hdnea=exp=1795653160~acl=/api/1/1/b/b/0/0/bb0a2a792b662ef9e73d6cfc9a6d7600.mp3*~data=user_id=0,application_id=42~hmac=d4d91ea6cc81ae65549129df56122adf6a6f91f3bfe95b9f29e70535afc466b2",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Little Man With a Candy Cigar",
+            "length": "3:37",
+            "deezer": {
+              "id": 849183,
+              "link": "https://www.deezer.com/track/849183",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/6/0/9b6918b152a01e8e6400dfd7edf93681.mp3?hdnea=exp=1795653160~acl=/api/1/1/9/b/6/0/9b6918b152a01e8e6400dfd7edf93681.mp3*~data=user_id=0,application_id=42~hmac=ae78263ef706fa6d377f7ea1662b5deb11f12ddedbaffee1b26739ff55db862a",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "My Favorite Things",
+            "length": "2:58",
+            "deezer": {
+              "id": 853388,
+              "link": "https://www.deezer.com/track/853388",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/1/0/4e1c92748e38c3d7c5a0dc11d18153ba.mp3?hdnea=exp=1795653160~acl=/api/1/1/4/e/1/0/4e1c92748e38c3d7c5a0dc11d18153ba.mp3*~data=user_id=0,application_id=42~hmac=b18b7f4077cbd0d44ea9fbf3d654f0ec920c72646fb590e73321a75f07b81eb6",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Lost Waltz",
+            "length": "3:52",
+            "deezer": {
+              "id": 849186,
+              "link": "https://www.deezer.com/track/849186",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/1/0/981855e9883af652a2de271e4808329b.mp3?hdnea=exp=1795653160~acl=/api/1/1/9/8/1/0/981855e9883af652a2de271e4808329b.mp3*~data=user_id=0,application_id=42~hmac=e061e24b461dbbe2b3426407db202fceb165d4ecded7e763eec6719c33a6e858",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 4,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Get a Kick Out of You",
+            "length": "5:18",
+            "deezer": {
+              "id": 851237,
+              "link": "https://www.deezer.com/track/851237",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/4/0/a74d9e66060aa5f06d9ebf97d4a3c7ca.mp3?hdnea=exp=1795653160~acl=/api/1/1/a/7/4/0/a74d9e66060aa5f06d9ebf97d4a3c7ca.mp3*~data=user_id=0,application_id=42~hmac=72fae991691666b779cfddf39342957f08a3eb210bd5b986e6ce0ea23ac3100f",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Koto Song",
+            "length": "8:07",
+            "deezer": {
+              "id": 852078,
+              "link": "https://www.deezer.com/track/852078",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/4/0/194c94771b39368c16e6d97328c12af6.mp3?hdnea=exp=1795653160~acl=/api/1/1/1/9/4/0/194c94771b39368c16e6d97328c12af6.mp3*~data=user_id=0,application_id=42~hmac=309383f6ead021da555765747f4aec9c217094d83cacba88c1a6ed8482daa465",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "La Paloma Azul (The Blue Dove)",
+            "length": "6:22",
+            "deezer": {
+              "id": 854596,
+              "link": "https://www.deezer.com/track/854596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/c/0/22c8b572d309a0cd2fc5e8fee5823d9f.mp3?hdnea=exp=1795653160~acl=/api/1/1/2/2/c/0/22c8b572d309a0cd2fc5e8fee5823d9f.mp3*~data=user_id=0,application_id=42~hmac=6660b03608e4ab26e5b89cf4b9a0eb92b8ba8f95467e518c72c441a0f268925d",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Estrellita (Little Star)",
+            "length": "4:54",
+            "deezer": {
+              "id": 853389,
+              "link": "https://www.deezer.com/track/853389",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/e/0/92e9f26ffca958a840a9bd857980afed.mp3?hdnea=exp=1795653160~acl=/api/1/1/9/2/e/0/92e9f26ffca958a840a9bd857980afed.mp3*~data=user_id=0,application_id=42~hmac=5b636786a496f0caaac3ff04ca25f02f63fb5122ea138a013a83f3f6d0fcb527",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Forty Days",
+            "length": "7:26",
+            "deezer": {
+              "id": 854315,
+              "link": "https://www.deezer.com/track/854315",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/f/0/b8f4915f82966a85ad34484fb56ed8b5.mp3?hdnea=exp=1795653160~acl=/api/1/1/b/8/f/0/b8f4915f82966a85ad34484fb56ed8b5.mp3*~data=user_id=0,application_id=42~hmac=6f1aa4bd6ddb76924cbd32e705146e7b1cbdce33bbaf80c9db3d652c059108c7",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Sapito",
+            "length": "3:10",
+            "deezer": {
+              "id": 852070,
+              "link": "https://www.deezer.com/track/852070",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/b/0/c3b4ba6dbe0a7edfe6444479690ecb5f.mp3?hdnea=exp=1795653160~acl=/api/1/1/c/3/b/0/c3b4ba6dbe0a7edfe6444479690ecb5f.mp3*~data=user_id=0,application_id=42~hmac=9f2612fc794c4f9b419796ce3bffe91b19b6f6c46ded258b30772a411aa47ca4",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Recuerdo",
+            "length": "5:22",
+            "deezer": {
+              "id": 849188,
+              "link": "https://www.deezer.com/track/849188",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/2/0/1e2b38e05e57a03710f7d26da4d4c066.mp3?hdnea=exp=1795653160~acl=/api/1/1/1/e/2/0/1e2b38e05e57a03710f7d26da4d4c066.mp3*~data=user_id=0,application_id=42~hmac=e07afd9ecfa28df0fbd107773dc33ff882d34291ab7daa53e95e236d5524f213",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "St. Louis Blues",
+            "length": "6:37",
+            "deezer": {
+              "id": 855702,
+              "link": "https://www.deezer.com/track/855702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/6/0/fb68bd8c386f918cd3d001f43b5fa3eb.mp3?hdnea=exp=1795653160~acl=/api/1/1/f/b/6/0/fb68bd8c386f918cd3d001f43b5fa3eb.mp3*~data=user_id=0,application_id=42~hmac=f7c4e0cf4425281f37d7a9be1da85cf3278a2c20cd2d9df1c1107d34f829d9af",
+              "preview_expires": "2026-11-26T00:32:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mr. Broadway",
+            "length": "2:46",
+            "deezer": {
+              "id": 14895079,
+              "link": "https://www.deezer.com/track/14895079",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "Caravan",
+            "length": "4:14",
+            "deezer": {
+              "id": 14895080,
+              "link": "https://www.deezer.com/track/14895080",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "11",
+            "title": "Tritonis",
+            "length": "8:00",
+            "deezer": {
+              "id": 14895081,
+              "link": "https://www.deezer.com/track/14895081",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "12",
+            "title": "Benjamin",
+            "length": "3:49",
+            "deezer": {
+              "id": 14895082,
+              "link": "https://www.deezer.com/track/14895082",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "13",
+            "title": "Stardust",
+            "length": "5:24",
+            "deezer": {
+              "id": 14895083,
+              "link": "https://www.deezer.com/track/14895083",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dave Brubeck/Time Signatures- A Career Retrospective.jpg"
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Moomal",
+  "artist": "AREUBLUE, Payal Jay",
+  "year": 2024,
+  "release_date": "2024-03-15",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "gujarati garba"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3prJWzRUHzJfeHoUfQTshQ",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3prJWzRUHzJfeHoUfQTshQ",
+      "title": "Moomal",
+      "date": "2024-03-15"
+    },
+    "total_tracks": 2,
+    "total_length": "9:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Moomal",
+            "length": "3:57"
+          },
+          {
+            "number": "2",
+            "title": "Moomal - Extended Mix",
+            "length": "5:12"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/AREUBLUE/Moomal.jpg"
+}

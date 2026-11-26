@@ -1,0 +1,223 @@
+{
+  "title": "Mylo Xyloto",
+  "artist": "Coldplay",
+  "year": 2011,
+  "release_date": "2011-10-19",
+  "type": "Album",
+  "description": "Mylo Xyloto is the fifth studio album by British rock band Coldplay. It was released by Parlophone on 19 October 2011 in Japan and 24 October 2011 in the rest of the world. The band worked closely with producer Brian Eno following their successful collaboration on their previous album, Viva la Vida or Death and All His Friends (2008).",
+  "genres": [
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "alternative dance",
+    "dream pop",
+    "electronic",
+    "pop"
+  ],
+  "tags": [
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "alternative dance",
+    "alternative rock / pop",
+    "big music",
+    "dream pop",
+    "electronic",
+    "melodic",
+    "pop",
+    "uplifting"
+  ],
+  "rating": {
+    "value_out_of_5": 3.55,
+    "votes": 27
+  },
+  "musicbrainz_annotation": "Produced and recorded by Markus Dravs, Daniel Green and Rik Simpson\r\nMixing by Mark 'Spike' Stent, Rik Simpson, Daniel Green and Michael Brauler\r\nStrings by Davide Rossi\r\nAdditional cello by Rosie Danvers\r\nPercussion by Luis Jardim\r\nMastered by Ted Jensen and Bob Ludwig\r\nRecording and mix assistance by Andy Rugg, Matt McGinn, Mat Miller, Christian Green, Olga Fitzroy, Ryan Gilligan, Matt Green, Pierre Eiras, David Emery, Ian Sylvester, Noah Goldstein, Ian Shea, Andrew Denny, Deepu Panjwani, Nobuyuki Murakami, Hidefumi Ohbuchi, and Mr. Tim Crompton",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/61b7b6cd-86a6-4728-9478-b58c93bca8fd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mylo_Xyloto",
+    "allmusic": "https://www.allmusic.com/album/mw0002206149",
+    "discogs": "https://www.discogs.com/master/377924",
+    "wikidata": "https://www.wikidata.org/wiki/Q679632",
+    "deezer": "https://www.deezer.com/album/1312875"
+  },
+  "musicbrainz_id": "61b7b6cd-86a6-4728-9478-b58c93bca8fd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c96948f8-d7e6-4d03-9a05-76329e6a5463",
+      "barcode": "5099955960458",
+      "title": "Mylo Xyloto",
+      "disambiguation": null,
+      "date": "2011-10-24",
+      "country": null
+    },
+    "total_tracks": 14,
+    "total_length": "44:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mylo Xyloto",
+            "length": "0:42",
+            "deezer": {
+              "id": 14299587,
+              "link": "https://www.deezer.com/track/14299587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/d/0/08d78407f3a291fd8121116800a1561c.mp3?hdnea=exp=1795652897~acl=/api/1/1/0/8/d/0/08d78407f3a291fd8121116800a1561c.mp3*~data=user_id=0,application_id=42~hmac=589b1f22fb8bbac7e8691f1c82c3800cc18f9cd945c1726ac6585063505a258e",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hurts Like Heaven",
+            "length": "4:02",
+            "deezer": {
+              "id": 14299588,
+              "link": "https://www.deezer.com/track/14299588",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/c/0/99ccd985135667920f675ee7083a0972.mp3?hdnea=exp=1795652897~acl=/api/1/1/9/9/c/0/99ccd985135667920f675ee7083a0972.mp3*~data=user_id=0,application_id=42~hmac=2549229f640de63a19e14895a84e9ea7042f6db40b179920a90261ee9315248e",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Paradise",
+            "length": "4:38",
+            "deezer": {
+              "id": 14299589,
+              "link": "https://www.deezer.com/track/14299589",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/6/0/3168a7df5abaacb366e2f88935fdbd99.mp3?hdnea=exp=1795652897~acl=/api/1/1/3/1/6/0/3168a7df5abaacb366e2f88935fdbd99.mp3*~data=user_id=0,application_id=42~hmac=fe299e38c1d26bcfaa354358defd30bdde561e6d76fe6246d857b16c7ee3e5b2",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Charlie Brown",
+            "length": "4:45",
+            "deezer": {
+              "id": 14299590,
+              "link": "https://www.deezer.com/track/14299590",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/a/0/b6a7fa4c3a463a0d63a08ad88a112cdb.mp3?hdnea=exp=1795652897~acl=/api/1/1/b/6/a/0/b6a7fa4c3a463a0d63a08ad88a112cdb.mp3*~data=user_id=0,application_id=42~hmac=2d71f20d472e0fee4a0f27dce865417a5a7d1b763572869eca793c210f8a7efd",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Us Against the World",
+            "length": "3:59",
+            "deezer": {
+              "id": 14299591,
+              "link": "https://www.deezer.com/track/14299591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb1c959dfc252fbfc60f04c163dc6bd1.mp3?hdnea=exp=1795652897~acl=/api/1/1/b/b/1/0/bb1c959dfc252fbfc60f04c163dc6bd1.mp3*~data=user_id=0,application_id=42~hmac=f294164f43d4dae27b534b2570019780575e3e04f26162c8cc0c1e01eb135f94",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "M.M.I.X.",
+            "length": "0:48",
+            "deezer": {
+              "id": 14299592,
+              "link": "https://www.deezer.com/track/14299592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/0/0/c50d3346555b00680edfbcbefeb81ceb.mp3?hdnea=exp=1795652897~acl=/api/1/1/c/5/0/0/c50d3346555b00680edfbcbefeb81ceb.mp3*~data=user_id=0,application_id=42~hmac=8cddb16b5f13e746578f46d3c3868d6c5755cdc3271769bf86f94c1bed27d42f",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Every Teardrop Is a Waterfall",
+            "length": "4:00",
+            "deezer": {
+              "id": 14299593,
+              "link": "https://www.deezer.com/track/14299593",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/9/0/1091343b3c6eb4f035875639d0b77968.mp3?hdnea=exp=1795652897~acl=/api/1/1/1/0/9/0/1091343b3c6eb4f035875639d0b77968.mp3*~data=user_id=0,application_id=42~hmac=80897775302b81f31ce8da945b5df2cfdb83f2e284d458d1407fd7fe49ace32c",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Major Minus",
+            "length": "3:30",
+            "deezer": {
+              "id": 14299594,
+              "link": "https://www.deezer.com/track/14299594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/6/0/1c6e557368e871c26c4b29179fd940ca.mp3?hdnea=exp=1795652897~acl=/api/1/1/1/c/6/0/1c6e557368e871c26c4b29179fd940ca.mp3*~data=user_id=0,application_id=42~hmac=a27cd0c2c52693cb63395dfc7954c7cee41a4db95ed6ddc9b40ff18841b7c1d4",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "U.F.O.",
+            "length": "2:17",
+            "deezer": {
+              "id": 14299595,
+              "link": "https://www.deezer.com/track/14299595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/a/0/32a6debd023d77d1eb73f74ee4b8963e.mp3?hdnea=exp=1795652897~acl=/api/1/1/3/2/a/0/32a6debd023d77d1eb73f74ee4b8963e.mp3*~data=user_id=0,application_id=42~hmac=276486d09df80fd32cbf259abbc0da7dabeccf313e1cd3e44773dfe111e5dbf3",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Princess of China",
+            "length": "3:59",
+            "artist": "Coldplay feat. Rihanna",
+            "deezer": {
+              "id": 14299596,
+              "link": "https://www.deezer.com/track/14299596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/f/0/0cf1b711553c972e1fa00beb581b6a8c.mp3?hdnea=exp=1795652897~acl=/api/1/1/0/c/f/0/0cf1b711553c972e1fa00beb581b6a8c.mp3*~data=user_id=0,application_id=42~hmac=8b5c7df00496f936adac904b66a618bac1b38aeb44c0eb2e61abad4bd165fa37",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Up in Flames",
+            "length": "3:13",
+            "deezer": {
+              "id": 14299597,
+              "link": "https://www.deezer.com/track/14299597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/1/0/e61106cc7796109e678e4faf87e860ec.mp3?hdnea=exp=1795652897~acl=/api/1/1/e/6/1/0/e61106cc7796109e678e4faf87e860ec.mp3*~data=user_id=0,application_id=42~hmac=a2b32c130fae560b0eff3b8f04ab8dbd08f92b33bc73eb919c2e418c6143551b",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "A Hopeful Transmission",
+            "length": "0:33",
+            "deezer": {
+              "id": 14299598,
+              "link": "https://www.deezer.com/track/14299598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/9/0/c190260bd420750e35ccdc126918708a.mp3?hdnea=exp=1795652897~acl=/api/1/1/c/1/9/0/c190260bd420750e35ccdc126918708a.mp3*~data=user_id=0,application_id=42~hmac=386f84507eee566d14f00ce6a5ae28882671b0a779195dad1dba57cca1fb0ed1",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Don’t Let It Break Your Heart",
+            "length": "3:54",
+            "deezer": {
+              "id": 14299599,
+              "link": "https://www.deezer.com/track/14299599",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/f/0/71f8548c8e365b5fb1786965d7eaa36e.mp3?hdnea=exp=1795652897~acl=/api/1/1/7/1/f/0/71f8548c8e365b5fb1786965d7eaa36e.mp3*~data=user_id=0,application_id=42~hmac=c1b9805f5595abc207dcf38c920843f320f588b3980b22a286aadea01950beba",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Up With the Birds",
+            "length": "3:45",
+            "deezer": {
+              "id": 14299600,
+              "link": "https://www.deezer.com/track/14299600",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/f/0/98fe6fab7cac331c3511d74997b2411c.mp3?hdnea=exp=1795652897~acl=/api/1/1/9/8/f/0/98fe6fab7cac331c3511d74997b2411c.mp3*~data=user_id=0,application_id=42~hmac=1540d2be6169fac6db8691be2c32ddb4048212aeaf957132878ee2d7259251fc",
+              "preview_expires": "2026-11-26T00:28:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Coldplay/Mylo Xyloto.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "3 Peg",
+  "artist": "Sharry Mann",
+  "year": 2016,
+  "release_date": "2016-12-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/753055c1-1b4e-42c8-8cba-4a4efd56bbc6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/697112841"
+  },
+  "musicbrainz_id": "753055c1-1b4e-42c8-8cba-4a4efd56bbc6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8e92e557-84bf-4b00-bae3-b93dd93c5cfc",
+      "barcode": "8903431631213",
+      "title": "3 Peg",
+      "disambiguation": null,
+      "date": "2016-12-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "3 Peg",
+            "length": "3:24",
+            "deezer": {
+              "id": 3183346211,
+              "link": "https://www.deezer.com/track/3183346211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/0/0/6303a30221e223cb60ed2b7302a4991b.mp3?hdnea=exp=1795720528~acl=/api/1/1/6/3/0/0/6303a30221e223cb60ed2b7302a4991b.mp3*~data=user_id=0,application_id=42~hmac=e0c9fb16e36530a4a385ae7e62aa6f45b85218dad618ff2906eca6c6962fd169",
+              "preview_expires": "2026-11-26T19:15:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sharry Mann/3 Peg.jpg"
+}

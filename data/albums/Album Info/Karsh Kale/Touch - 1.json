@@ -1,0 +1,95 @@
+{
+  "title": "TOUCH : 1",
+  "artist": "Karsh Kale",
+  "year": 2021,
+  "release_date": "2021-05-18",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b512d858-34f1-4b49-85f2-ce00252cf9e4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/228206822"
+  },
+  "musicbrainz_id": "b512d858-34f1-4b49-85f2-ce00252cf9e4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7b450afe-7ea4-4dfd-b398-dbbeec676d2f",
+      "barcode": "657036723726",
+      "title": "TOUCH : 1",
+      "disambiguation": null,
+      "date": "2021-05-18",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "26:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Touch",
+            "length": "6:00",
+            "deezer": {
+              "id": 1364898642,
+              "link": "https://www.deezer.com/track/1364898642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/c/0/d6c390441fa38c3f45447a9c79d51d6a.mp3?hdnea=exp=1795655994~acl=/api/1/1/d/6/c/0/d6c390441fa38c3f45447a9c79d51d6a.mp3*~data=user_id=0,application_id=42~hmac=e87b8ce7dbe8711c6e8a252f3cec491e2f6cce28d4ff6738245b366f2d08273c",
+              "preview_expires": "2026-11-26T01:19:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Refugee",
+            "length": "5:28",
+            "deezer": {
+              "id": 1364898652,
+              "link": "https://www.deezer.com/track/1364898652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/1/0/3316ab5ab78cca8d7e4d2f2f5de5beeb.mp3?hdnea=exp=1795655994~acl=/api/1/1/3/3/1/0/3316ab5ab78cca8d7e4d2f2f5de5beeb.mp3*~data=user_id=0,application_id=42~hmac=047a2fc33814cf0a732894bb9bc52d703dfc83433489336e719ba276717ee6ff",
+              "preview_expires": "2026-11-26T01:19:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lovers",
+            "length": "5:01",
+            "deezer": {
+              "id": 1364898662,
+              "link": "https://www.deezer.com/track/1364898662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/a/0/16a307a536eb0c90b0bb69d1679673a0.mp3?hdnea=exp=1795655994~acl=/api/1/1/1/6/a/0/16a307a536eb0c90b0bb69d1679673a0.mp3*~data=user_id=0,application_id=42~hmac=4275fadaf9cd9de2f689c209327ed465984c54a72352c33932d7335585109861",
+              "preview_expires": "2026-11-26T01:19:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Fist of Fury",
+            "length": "6:01",
+            "deezer": {
+              "id": 1364898672,
+              "link": "https://www.deezer.com/track/1364898672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/6/0/a56f040a07dccbd1e160a9492811d3de.mp3?hdnea=exp=1795655994~acl=/api/1/1/a/5/6/0/a56f040a07dccbd1e160a9492811d3de.mp3*~data=user_id=0,application_id=42~hmac=902e4b0eb300d1c80ac67f21ffc5fc4dcd16d1b92d4a2cb238bc1853d5b70ed7",
+              "preview_expires": "2026-11-26T01:19:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sunset Sketch",
+            "length": "3:35",
+            "deezer": {
+              "id": 1364898682,
+              "link": "https://www.deezer.com/track/1364898682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/7/0/5e756fc34c48c12aea4764ac1dcdcc44.mp3?hdnea=exp=1795655994~acl=/api/1/1/5/e/7/0/5e756fc34c48c12aea4764ac1dcdcc44.mp3*~data=user_id=0,application_id=42~hmac=7f549fca6b0a5444a118556326e71f9a846810b99d2af248476158bc7daf1cc4",
+              "preview_expires": "2026-11-26T01:19:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karsh Kale/Touch - 1.jpg"
+}

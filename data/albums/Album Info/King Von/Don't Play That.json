@@ -1,0 +1,51 @@
+{
+  "title": "Don't Play That",
+  "artist": "King Von",
+  "year": 2022,
+  "release_date": "2022",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c9bad898-dab3-47d0-a623-39411b9ba25c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/291905132"
+  },
+  "musicbrainz_id": "c9bad898-dab3-47d0-a623-39411b9ba25c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a1525293-313b-480b-bffa-75a7feaca9aa",
+      "barcode": null,
+      "title": "Don't Play That",
+      "disambiguation": null,
+      "date": "2022",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don't Play That",
+            "length": "2:13",
+            "deezer": {
+              "id": 1640208222,
+              "link": "https://www.deezer.com/track/1640208222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/a/0/2faccfb35fbbac958806d84b4f5f6fc8.mp3?hdnea=exp=1795656231~acl=/api/1/1/2/f/a/0/2faccfb35fbbac958806d84b4f5f6fc8.mp3*~data=user_id=0,application_id=42~hmac=7bf2af3ab31645a6449301afc6a6fa6e47cf936c7d765267077c8c6c833a7d0c",
+              "preview_expires": "2026-11-26T01:23:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/King Von/Don't Play That.jpg"
+}

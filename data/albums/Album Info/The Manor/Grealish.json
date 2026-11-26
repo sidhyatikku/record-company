@@ -1,0 +1,51 @@
+{
+  "title": "Grealish",
+  "artist": "The Manor, Danny Graft & Jonny Dutch",
+  "year": 2021,
+  "release_date": "2021-06-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/51b11c0f-4998-47c0-b775-ffffe3a6ccb1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/233968932"
+  },
+  "musicbrainz_id": "51b11c0f-4998-47c0-b775-ffffe3a6ccb1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/90945682-0fc8-472c-9fd6-590d111bd7eb",
+      "barcode": "859748160244",
+      "title": "Grealish",
+      "disambiguation": null,
+      "date": "2021-06-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Grealish",
+            "length": "3:15",
+            "deezer": {
+              "id": 1388717962,
+              "link": "https://www.deezer.com/track/1388717962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/6/0/f76c69657b395cfcab9231c516c8bd40.mp3?hdnea=exp=1795721589~acl=/api/1/1/f/7/6/0/f76c69657b395cfcab9231c516c8bd40.mp3*~data=user_id=0,application_id=42~hmac=d6572fcae0642448965367e1cc5c6b96d398197c54e611539e4a169db6f02fc0",
+              "preview_expires": "2026-11-26T19:33:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Manor/Grealish.jpg"
+}

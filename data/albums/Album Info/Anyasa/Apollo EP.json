@@ -1,0 +1,139 @@
+{
+  "title": "Apollo EP",
+  "artist": "Anyasa",
+  "year": 2023,
+  "release_date": "2023-06-20",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d92bd003-643d-4e9b-b07a-cb9694fb6cb8",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/452582885"
+  },
+  "musicbrainz_id": "d92bd003-643d-4e9b-b07a-cb9694fb6cb8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a5ecdb4c-5378-484c-ab79-676cecc3aca0",
+      "barcode": "5039060888391",
+      "title": "Apollo EP",
+      "disambiguation": null,
+      "date": "2023-06-20",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "43:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Khimsar",
+            "length": "4:33",
+            "artist": "Anyasa feat. Isheeta Chakrvarty",
+            "deezer": {
+              "id": 2324804535,
+              "link": "https://www.deezer.com/track/2324804535",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/c/0/bccb8b3e7b82f3fd313bab9abffde16f.mp3?hdnea=exp=1795649296~acl=/api/1/1/b/c/c/0/bccb8b3e7b82f3fd313bab9abffde16f.mp3*~data=user_id=0,application_id=42~hmac=13e1e0a2e794aea0d2c96e9112d91bc4a7a2fff90f197cd9e305e83653fd78e5",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shibuya",
+            "length": "4:15",
+            "deezer": {
+              "id": 2324804545,
+              "link": "https://www.deezer.com/track/2324804545",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/f/0/e5f8c8b2d9c17635dae1bc4944cf3334.mp3?hdnea=exp=1795649296~acl=/api/1/1/e/5/f/0/e5f8c8b2d9c17635dae1bc4944cf3334.mp3*~data=user_id=0,application_id=42~hmac=8a66c7933629285eebca075e154435e5125fd0c8d6744c8b8cc9f3ca7f2a98dd",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Colaba",
+            "length": "4:04",
+            "deezer": {
+              "id": 2324804555,
+              "link": "https://www.deezer.com/track/2324804555",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/e/0/53eb63ef6f9177eee92f8d9e117e7a2b.mp3?hdnea=exp=1795649296~acl=/api/1/1/5/3/e/0/53eb63ef6f9177eee92f8d9e117e7a2b.mp3*~data=user_id=0,application_id=42~hmac=d882b17358102f6dce0b23420c28fe9af3f10d961eeb5b96ca1dd335691ce034",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Shiva Valley",
+            "length": "4:04",
+            "artist": "Anyasa feat. Asad Khan",
+            "deezer": {
+              "id": 2324804565,
+              "link": "https://www.deezer.com/track/2324804565",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/8/0/1f8b03ef19a04876421ecb8d01320e8e.mp3?hdnea=exp=1795649296~acl=/api/1/1/1/f/8/0/1f8b03ef19a04876421ecb8d01320e8e.mp3*~data=user_id=0,application_id=42~hmac=3744e662b994b1edc3560b2674a550842250ace394622358647f013e26c4f34c",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Khimsar (extended mix)",
+            "length": "7:18",
+            "artist": "Anyasa feat. Isheeta Chakrvarty",
+            "deezer": {
+              "id": 2324804575,
+              "link": "https://www.deezer.com/track/2324804575",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/9/0/ac9c4a9308e0fe979ccfb897f5d219a7.mp3?hdnea=exp=1795649296~acl=/api/1/1/a/c/9/0/ac9c4a9308e0fe979ccfb897f5d219a7.mp3*~data=user_id=0,application_id=42~hmac=9a103b24b6bec7748aebbfe44dd2b4371cccee81ac2a8e377f7f18ccc626506d",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shibuya (extended mix)",
+            "length": "6:55",
+            "deezer": {
+              "id": 2324804585,
+              "link": "https://www.deezer.com/track/2324804585",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/c/0/fdc40ef373f7a050487d781f22585292.mp3?hdnea=exp=1795649296~acl=/api/1/1/f/d/c/0/fdc40ef373f7a050487d781f22585292.mp3*~data=user_id=0,application_id=42~hmac=d1ed8234abc5e5a6a38855b104aedb146979b2d6367b9fbae1bb3a5566426802",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Colaba (extended mix)",
+            "length": "5:29",
+            "deezer": {
+              "id": 2324804595,
+              "link": "https://www.deezer.com/track/2324804595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/4/0/d941fe3ed9872fbb7ecb09422755f5ae.mp3?hdnea=exp=1795649296~acl=/api/1/1/d/9/4/0/d941fe3ed9872fbb7ecb09422755f5ae.mp3*~data=user_id=0,application_id=42~hmac=8aa8b843350280c47e31c2aa50fa251b248785fc78453562df4c26407586146e",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Shiva Valley (extended mix)",
+            "length": "6:57",
+            "artist": "Anyasa feat. Asad Khan",
+            "deezer": {
+              "id": 2324804605,
+              "link": "https://www.deezer.com/track/2324804605",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/a/0/7fa48f2f7b9a39039dbc2051c645c30a.mp3?hdnea=exp=1795649296~acl=/api/1/1/7/f/a/0/7fa48f2f7b9a39039dbc2051c645c30a.mp3*~data=user_id=0,application_id=42~hmac=2abcfd3142cdc3549950978eee3d9a16c43de0c8fa186d9e91f435ea81b0dda7",
+              "preview_expires": "2026-11-25T23:28:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anyasa/Apollo EP.png"
+}

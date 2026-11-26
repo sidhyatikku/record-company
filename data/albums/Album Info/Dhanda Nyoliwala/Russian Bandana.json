@@ -1,0 +1,51 @@
+{
+  "title": "Russian Bandana",
+  "artist": "Dhanda Nyoliwala",
+  "year": 2024,
+  "release_date": "2024-09-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0d65a131-745a-436c-961b-3552be4bb096",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/639454431"
+  },
+  "musicbrainz_id": "0d65a131-745a-436c-961b-3552be4bb096",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/355f6833-f0c7-4e74-bdf0-c5d769de62ce",
+      "barcode": "00602475233404",
+      "title": "Russian Bandana",
+      "disambiguation": null,
+      "date": "2024-09-12",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Russian Bandana",
+            "length": "3:26",
+            "deezer": {
+              "id": 2982272401,
+              "link": "https://www.deezer.com/track/2982272401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/9/0/bb9230238a23e0d062d6d56e9414a206.mp3?hdnea=exp=1795653298~acl=/api/1/1/b/b/9/0/bb9230238a23e0d062d6d56e9414a206.mp3*~data=user_id=0,application_id=42~hmac=7284b525b397cd2da96b7b47e4e1dd34e60398740063d58d98c6407089ffff7e",
+              "preview_expires": "2026-11-26T00:34:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dhanda Nyoliwala/Russian Bandana.jpg"
+}

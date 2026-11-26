@@ -1,0 +1,296 @@
+{
+  "title": "Dutty Rock",
+  "artist": "Sean Paul",
+  "year": 2002,
+  "release_date": "2002-11-12",
+  "type": "Album",
+  "description": "Dutty Rock is the second studio album by the Jamaican rapper and singer Sean Paul. Released on 12 November 2002 through VP Records and Atlantic Records, it was largely inspired by the social environment and music culture of his youth in Jamaica. Paul worked with longtime collaborators like Jeremy Harding, Tony \"CD\" Kelly, Delroy Foster, and Steely & Clevie, while also teaming up with new producers including Mark Ronson, The Neptunes, King Jammy, and Ward 21.",
+  "genres": [
+    "dancehall",
+    "reggae",
+    "electronic"
+  ],
+  "tags": [
+    "dancehall",
+    "reggae",
+    "electronic",
+    "hip-hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b7769a1d-f1d9-3657-bd7e-af597c9b61ed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dutty_Rock",
+    "allmusic": "https://www.allmusic.com/album/mw0000228608",
+    "discogs": "https://www.discogs.com/master/138061",
+    "wikidata": "https://www.wikidata.org/wiki/Q911821",
+    "deezer": "https://www.deezer.com/album/372098497"
+  },
+  "musicbrainz_id": "b7769a1d-f1d9-3657-bd7e-af597c9b61ed",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/043620cc-41ad-4b9b-9017-bb7096b52d27",
+      "barcode": "603497833917",
+      "title": "Dutty Rock",
+      "disambiguation": "20th anniversary edition",
+      "date": "2022-11-11",
+      "country": "XW"
+    },
+    "total_tracks": 21,
+    "total_length": "1:16:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dutty Rock Intro",
+            "length": "2:25",
+            "deezer": {
+              "id": 1995617567,
+              "link": "https://www.deezer.com/track/1995617567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/8/0/d783da66520a3bbd6b1fc29a5b48a37b.mp3?hdnea=exp=1795720362~acl=/api/1/1/d/7/8/0/d783da66520a3bbd6b1fc29a5b48a37b.mp3*~data=user_id=0,application_id=42~hmac=f590e87a0a5746fd93d0295cae10ba1b7c719cfecd0a4a49cd1a08466d3cf674",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shout (Street Respect)",
+            "length": "3:43",
+            "deezer": {
+              "id": 1995617577,
+              "link": "https://www.deezer.com/track/1995617577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/f/0/05f6ae714b3b66ff8b25472133b048fe.mp3?hdnea=exp=1795720362~acl=/api/1/1/0/5/f/0/05f6ae714b3b66ff8b25472133b048fe.mp3*~data=user_id=0,application_id=42~hmac=e870d3765018c62d6420369ff62c276e1f6288ae7735361b0a95b1743795dfde",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gimme the Light",
+            "length": "3:48",
+            "deezer": {
+              "id": 1995617587,
+              "link": "https://www.deezer.com/track/1995617587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/b/0/51b32623a36645db859a6a120d257709.mp3?hdnea=exp=1795720362~acl=/api/1/1/5/1/b/0/51b32623a36645db859a6a120d257709.mp3*~data=user_id=0,application_id=42~hmac=a2bca1705fe45ab8dbb799265ab46b02ed1fce5af19e61e9062fa7e8ebfc91a8",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Like Glue",
+            "length": "3:53",
+            "deezer": {
+              "id": 1995617597,
+              "link": "https://www.deezer.com/track/1995617597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/7/0/0979a3ab0cc433f524abec38f26379e0.mp3?hdnea=exp=1795720362~acl=/api/1/1/0/9/7/0/0979a3ab0cc433f524abec38f26379e0.mp3*~data=user_id=0,application_id=42~hmac=159690451f1fe71ae2f85f7bac823758ede3b91863e680e02754679ba10af903",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Get Busy",
+            "length": "3:32",
+            "deezer": {
+              "id": 1995617607,
+              "link": "https://www.deezer.com/track/1995617607",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/e/0/8be9ec9b943f8375ce79979a49989e1f.mp3?hdnea=exp=1795720362~acl=/api/1/1/8/b/e/0/8be9ec9b943f8375ce79979a49989e1f.mp3*~data=user_id=0,application_id=42~hmac=67cc66003378476c3c7dac98d3da87271451ea1f034c92201795bf6955e3de92",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Baby Boy",
+            "length": "4:07",
+            "artist": "Sean Paul feat. Beyoncé",
+            "deezer": {
+              "id": 1995617617,
+              "link": "https://www.deezer.com/track/1995617617",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/c/0/16c747f80fd46fbccc5e48d4d5c5d4cc.mp3?hdnea=exp=1795720362~acl=/api/1/1/1/6/c/0/16c747f80fd46fbccc5e48d4d5c5d4cc.mp3*~data=user_id=0,application_id=42~hmac=b26526efbd022fa3bcb1e3b87d0a5ad18a1f438abbcbb473453e570f9fff95f7",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Top of the Game",
+            "length": "4:04",
+            "artist": "Sean Paul feat. Rahzel",
+            "deezer": {
+              "id": 1995617627,
+              "link": "https://www.deezer.com/track/1995617627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/c/0/2fca44a624b81eebc262d866abdcfbd0.mp3?hdnea=exp=1795720362~acl=/api/1/1/2/f/c/0/2fca44a624b81eebc262d866abdcfbd0.mp3*~data=user_id=0,application_id=42~hmac=1bf7110f5caf71926d1f92c3b3cc1421b8d6a9bd2f081650d305587259975a45",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ganja Breed",
+            "length": "3:15",
+            "artist": "Sean Paul feat. Chico",
+            "deezer": {
+              "id": 1995617637,
+              "link": "https://www.deezer.com/track/1995617637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/1/0/631aa6594655dc9982ed01a313352e99.mp3?hdnea=exp=1795720362~acl=/api/1/1/6/3/1/0/631aa6594655dc9982ed01a313352e99.mp3*~data=user_id=0,application_id=42~hmac=ee2a783768eab494a1af65c67a7953d9802821342f9c4cef966085c209ff8de1",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Concrete",
+            "length": "3:55",
+            "deezer": {
+              "id": 1995617647,
+              "link": "https://www.deezer.com/track/1995617647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc3a3e36a2c7db0c247fcd02260b8279.mp3?hdnea=exp=1795720362~acl=/api/1/1/f/c/3/0/fc3a3e36a2c7db0c247fcd02260b8279.mp3*~data=user_id=0,application_id=42~hmac=5be323c11350d6a04ef2c50861b2dc243bf03019568aeaa2ca28793d18c2cf38",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Still in Love With You",
+            "length": "4:33",
+            "artist": "Sean Paul feat. Sasha",
+            "deezer": {
+              "id": 1995617657,
+              "link": "https://www.deezer.com/track/1995617657",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/c/0/26c1be9ac92f9b484df61bfbe4f6c238.mp3?hdnea=exp=1795720362~acl=/api/1/1/2/6/c/0/26c1be9ac92f9b484df61bfbe4f6c238.mp3*~data=user_id=0,application_id=42~hmac=158023bf3b9dffe535e313342ec447828e145083ecfdb957944ba91a7979e50f",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "International Affair",
+            "length": "3:49",
+            "artist": "Sean Paul feat. Debi Nova",
+            "deezer": {
+              "id": 1995617667,
+              "link": "https://www.deezer.com/track/1995617667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/f/0/44f16853851ffd71675c9d0c2f5086d5.mp3?hdnea=exp=1795720362~acl=/api/1/1/4/4/f/0/44f16853851ffd71675c9d0c2f5086d5.mp3*~data=user_id=0,application_id=42~hmac=1ec9260e16a2f3e4cc83f1fc3f699c921bbc8ff24c526e9f420300dc14b3095e",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Can You Do the Work",
+            "length": "3:25",
+            "artist": "Sean Paul feat. Ce’Cile",
+            "deezer": {
+              "id": 1995617677,
+              "link": "https://www.deezer.com/track/1995617677",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/5/0/ba56212b411fec39b131f37a21a1338e.mp3?hdnea=exp=1795720362~acl=/api/1/1/b/a/5/0/ba56212b411fec39b131f37a21a1338e.mp3*~data=user_id=0,application_id=42~hmac=c7b02c58345684d0b2598513acef834bddb58d43d332e3991aa348fc397b446e",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Punkie",
+            "length": "3:48",
+            "deezer": {
+              "id": 1995617687,
+              "link": "https://www.deezer.com/track/1995617687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/4/0/aa4c54c4a811a1e2466281b9035d6c77.mp3?hdnea=exp=1795720362~acl=/api/1/1/a/a/4/0/aa4c54c4a811a1e2466281b9035d6c77.mp3*~data=user_id=0,application_id=42~hmac=4a1c60d5a407deee174aee869f94a6df4c816ec79a31a6c927c7c014deddf2aa",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "My Name",
+            "length": "3:41",
+            "deezer": {
+              "id": 1995617697,
+              "link": "https://www.deezer.com/track/1995617697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/0/0/7f047a9121562ed87a4e6a68b9cd092f.mp3?hdnea=exp=1795720362~acl=/api/1/1/7/f/0/0/7f047a9121562ed87a4e6a68b9cd092f.mp3*~data=user_id=0,application_id=42~hmac=61524e4cbfcd4655d0c3cedba494dca5873d40772860e700159b3502ddf8715d",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Jukin’ Punny",
+            "length": "2:03",
+            "deezer": {
+              "id": 1995617707,
+              "link": "https://www.deezer.com/track/1995617707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/a/0/27a2060efa19635e6e30bdffd5199990.mp3?hdnea=exp=1795720362~acl=/api/1/1/2/7/a/0/27a2060efa19635e6e30bdffd5199990.mp3*~data=user_id=0,application_id=42~hmac=795a24d2d148fbd5dd23882ec1b93d756c77ce9045427109787a149c4381ad8f",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Gimme the Light (Pass the Dro‐voisier remix)",
+            "length": "3:21",
+            "artist": "Sean Paul feat. Busta Rhymes",
+            "deezer": {
+              "id": 1995617717,
+              "link": "https://www.deezer.com/track/1995617717",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/7/0/0a7479ce5d26707786100c9293347b1b.mp3?hdnea=exp=1795720362~acl=/api/1/1/0/a/7/0/0a7479ce5d26707786100c9293347b1b.mp3*~data=user_id=0,application_id=42~hmac=bcfd1e803dea7c1e9fe19433b45eae1e17cd62efbd43e7b3da3c0deb12b6a124",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Bubble",
+            "length": "3:48",
+            "artist": "Sean Paul feat. Fahrenheit",
+            "deezer": {
+              "id": 1995617727,
+              "link": "https://www.deezer.com/track/1995617727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/e/0/76e867a6ce998cfea42e91b2c28b1bcd.mp3?hdnea=exp=1795720362~acl=/api/1/1/7/6/e/0/76e867a6ce998cfea42e91b2c28b1bcd.mp3*~data=user_id=0,application_id=42~hmac=80b82d691d08963015a921135181e3fbf768be16389c353edcc08fc683770406",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Shake That Thing",
+            "length": "3:55",
+            "deezer": {
+              "id": 1995617737,
+              "link": "https://www.deezer.com/track/1995617737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/a/0/8ea01bca1850c0158c60cb664f94c1ca.mp3?hdnea=exp=1795720362~acl=/api/1/1/8/e/a/0/8ea01bca1850c0158c60cb664f94c1ca.mp3*~data=user_id=0,application_id=42~hmac=846ccdf2932ed845176ed1535aff7cc6d8684f5b19495dac1ce181ca1fb22bba",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Esa loca",
+            "length": "3:46",
+            "artist": "Sean Paul feat. Tony Touch and R.O.B.B.",
+            "deezer": {
+              "id": 1995617747,
+              "link": "https://www.deezer.com/track/1995617747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/5/0/705276d659d5ed99129bb49bde4365cf.mp3?hdnea=exp=1795720362~acl=/api/1/1/7/0/5/0/705276d659d5ed99129bb49bde4365cf.mp3*~data=user_id=0,application_id=42~hmac=4ca21ee18c00ba91847783d9db2078251cc3646d5c87efacf8e33ef245808388",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Punkie (Español version)",
+            "length": "3:35",
+            "deezer": {
+              "id": 1995617757,
+              "link": "https://www.deezer.com/track/1995617757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/1/0/3713ab5552ce24e79430a2ffb6bc60e4.mp3?hdnea=exp=1795720362~acl=/api/1/1/3/7/1/0/3713ab5552ce24e79430a2ffb6bc60e4.mp3*~data=user_id=0,application_id=42~hmac=4743d5f690b1c2452effff38e6d73de51da5656509e912facc654476bb24395d",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Baby Girl",
+            "length": "3:38",
+            "deezer": {
+              "id": 1995617767,
+              "link": "https://www.deezer.com/track/1995617767",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/7/0/fd77a16f06d2fc93dbe7c33bcfb1c02b.mp3?hdnea=exp=1795720362~acl=/api/1/1/f/d/7/0/fd77a16f06d2fc93dbe7c33bcfb1c02b.mp3*~data=user_id=0,application_id=42~hmac=e04bdbaed79e91618e0a1dbde7f45a14b6fa21be4f3c35d5867348c1ebff5bd2",
+              "preview_expires": "2026-11-26T19:12:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sean Paul/Dutty Rock.jpg"
+}

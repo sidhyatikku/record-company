@@ -1,0 +1,245 @@
+{
+  "title": "All Over the Place",
+  "artist": "KSI",
+  "year": 2021,
+  "release_date": "2021-07-16",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "grime",
+    "hip hop",
+    "pop",
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "grime",
+    "hip hop",
+    "pop",
+    "pop rap",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 2.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/035669fd-08f5-40d9-959d-6359dcb44d9c",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/2216119",
+    "wikidata": "https://www.wikidata.org/wiki/Q106949011",
+    "deezer": "https://www.deezer.com/album/901421392"
+  },
+  "musicbrainz_id": "035669fd-08f5-40d9-959d-6359dcb44d9c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/72e3a59f-0c12-43ce-8c96-5ca453e9ec45",
+      "barcode": "4050538708912",
+      "title": "All Over the Place",
+      "disambiguation": "platinum VIP edition, explicit",
+      "date": "2021-07-16",
+      "country": "XW"
+    },
+    "total_tracks": 16,
+    "total_length": "46:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Moment",
+            "length": "2:43",
+            "deezer": {
+              "id": 3786076862,
+              "link": "https://www.deezer.com/track/3786076862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/b/0/76bc435c7c70d8254b5b72f95cbc56dc.mp3?hdnea=exp=1795656338~acl=/api/1/1/7/6/b/0/76bc435c7c70d8254b5b72f95cbc56dc.mp3*~data=user_id=0,application_id=42~hmac=afd6e6d07fb55d980f57e1dcdaacf8f4347b4b40e7bf820c5417e5529aaf7a96",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Number 2",
+            "length": "2:54",
+            "artist": "KSI feat. Future & 21 Savage",
+            "deezer": {
+              "id": 3786076872,
+              "link": "https://www.deezer.com/track/3786076872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/5/0/515413ed300692c278aad555a31815c6.mp3?hdnea=exp=1795656338~acl=/api/1/1/5/1/5/0/515413ed300692c278aad555a31815c6.mp3*~data=user_id=0,application_id=42~hmac=96b1cb79b47d8a9e655d9483a924e1466f0a425e71d889bf336c3da62110d381",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Patience",
+            "length": "3:02",
+            "artist": "KSI feat. YUNGBLUD & Polo G",
+            "deezer": {
+              "id": 3786076892,
+              "link": "https://www.deezer.com/track/3786076892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/c/0/a2ca81c47cab90eb9be2e1af829eb1b5.mp3?hdnea=exp=1795656338~acl=/api/1/1/a/2/c/0/a2ca81c47cab90eb9be2e1af829eb1b5.mp3*~data=user_id=0,application_id=42~hmac=34ba010807b1e10aa38040a44486f67fc439f257ffb3b9c3c663690bda5ebdf9",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "You",
+            "length": "3:33",
+            "deezer": {
+              "id": 3786076902,
+              "link": "https://www.deezer.com/track/3786076902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/e/0/eee064aca236a335dd62ad92c6cfb57e.mp3?hdnea=exp=1795656338~acl=/api/1/1/e/e/e/0/eee064aca236a335dd62ad92c6cfb57e.mp3*~data=user_id=0,application_id=42~hmac=2eed3359fca871aa8bb16f2847cc3b7725d9b5e2a0dc5ce40b1af7bb5618cd6d",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Don’t Play",
+            "length": "3:09",
+            "artist": "Anne‐Marie, KSI & Digital Farm Animals",
+            "deezer": {
+              "id": 3786076912,
+              "link": "https://www.deezer.com/track/3786076912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/7/0/6272ebd887127826bc5973a6f06e6e32.mp3?hdnea=exp=1795656338~acl=/api/1/1/6/2/7/0/6272ebd887127826bc5973a6f06e6e32.mp3*~data=user_id=0,application_id=42~hmac=f5330149d4a61f7376eb1b9e7341eb11f6cc0971526d54da3b842eaba5a9d048",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Really Love",
+            "length": "2:58",
+            "artist": "KSI feat. Craig David & Digital Farm Animals",
+            "deezer": {
+              "id": 3786076922,
+              "link": "https://www.deezer.com/track/3786076922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/5/0/7d52204c13e8a7d4879c660fbdbda386.mp3?hdnea=exp=1795656338~acl=/api/1/1/7/d/5/0/7d52204c13e8a7d4879c660fbdbda386.mp3*~data=user_id=0,application_id=42~hmac=5d406b4bfa348718cbcef0f64638f42bf7da47331a25ffa357b63a6374aad7d8",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Gang Gang",
+            "length": "2:44",
+            "artist": "KSI feat. JAY1 & Deno",
+            "deezer": {
+              "id": 3786076932,
+              "link": "https://www.deezer.com/track/3786076932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/4/0/8f40df2f57f6ebf31b641af2f3080455.mp3?hdnea=exp=1795656338~acl=/api/1/1/8/f/4/0/8f40df2f57f6ebf31b641af2f3080455.mp3*~data=user_id=0,application_id=42~hmac=b1fd2b88dff2fd5ab7c843bb0b460d110bd6c90ffc1bdcb13f4ff0b8c266489f",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rent Free",
+            "length": "2:44",
+            "artist": "KSI feat. GRACEY",
+            "deezer": {
+              "id": 3786076942,
+              "link": "https://www.deezer.com/track/3786076942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/7/0/cc7b9a77c6e5aeb686cc16e8596942a0.mp3?hdnea=exp=1795656338~acl=/api/1/1/c/c/7/0/cc7b9a77c6e5aeb686cc16e8596942a0.mp3*~data=user_id=0,application_id=42~hmac=17618f78ab492ae7a44d0a65f6f17b857f99b1c9679ca0f76195c16ee3855119",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Madness",
+            "length": "2:59",
+            "deezer": {
+              "id": 3786076952,
+              "link": "https://www.deezer.com/track/3786076952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/1/0/7b17dddf19ad96362fecb640c945ddec.mp3?hdnea=exp=1795656338~acl=/api/1/1/7/b/1/0/7b17dddf19ad96362fecb640c945ddec.mp3*~data=user_id=0,application_id=42~hmac=c86d51a4385fa3c156489ab094fae25070648d87940423686ccfd1a8d2099e2c",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Silly",
+            "length": "2:46",
+            "artist": "KSI feat. Bugzy Malone",
+            "deezer": {
+              "id": 3786076962,
+              "link": "https://www.deezer.com/track/3786076962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/e/0/aeeab7ada834f1ed5871d6a433e0c519.mp3?hdnea=exp=1795656338~acl=/api/1/1/a/e/e/0/aeeab7ada834f1ed5871d6a433e0c519.mp3*~data=user_id=0,application_id=42~hmac=8b00faac3292ece8177e5cfbb385c5588d57a838071e4a66c8aaa804a6e85620",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Flash It",
+            "length": "3:24",
+            "artist": "KSI feat. Rico Love",
+            "deezer": {
+              "id": 3786076992,
+              "link": "https://www.deezer.com/track/3786076992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/6/0/4d63b7beb0305a74d9eb05728b79b0ea.mp3?hdnea=exp=1795656338~acl=/api/1/1/4/d/6/0/4d63b7beb0305a74d9eb05728b79b0ea.mp3*~data=user_id=0,application_id=42~hmac=86872c3812090cc74221948cfb2b8fb348ad51e521bbf8a936c4e423116c9833",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "No Time",
+            "length": "3:00",
+            "artist": "KSI feat. Lil Durk",
+            "deezer": {
+              "id": 3786077012,
+              "link": "https://www.deezer.com/track/3786077012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/3/0/2933557b1252a1218ad6520fa266285d.mp3?hdnea=exp=1795656338~acl=/api/1/1/2/9/3/0/2933557b1252a1218ad6520fa266285d.mp3*~data=user_id=0,application_id=42~hmac=a838e88b5a1ce8e264662e9a06fd3eca20ae7f3fee19d76a4cb629d939020eff",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "No Pressure",
+            "length": "2:19",
+            "deezer": {
+              "id": 3786077032,
+              "link": "https://www.deezer.com/track/3786077032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/5/0/0a5cc372ee3a1a056869f795f5b88ff1.mp3?hdnea=exp=1795656338~acl=/api/1/1/0/a/5/0/0a5cc372ee3a1a056869f795f5b88ff1.mp3*~data=user_id=0,application_id=42~hmac=4b3b377298d7a64ea1ee30cf78322d6701fd9dc0d0102deb4892f495f9f489cb",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Holiday",
+            "length": "3:14",
+            "deezer": {
+              "id": 3786077052,
+              "link": "https://www.deezer.com/track/3786077052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/b/0/85b7b7af5f6553de5c9a00d8fcd07a1f.mp3?hdnea=exp=1795656338~acl=/api/1/1/8/5/b/0/85b7b7af5f6553de5c9a00d8fcd07a1f.mp3*~data=user_id=0,application_id=42~hmac=72a1c03998e304830be5d83875f332171b9196fb8d16bc2bddb9da76bc7a9a88",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Sleeping With the Enemy",
+            "length": "2:26",
+            "artist": "KSI feat. S‐X",
+            "deezer": {
+              "id": 3786077062,
+              "link": "https://www.deezer.com/track/3786077062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/0/0/44069ada982d1a454e81bc3caf7ab38d.mp3?hdnea=exp=1795656338~acl=/api/1/1/4/4/0/0/44069ada982d1a454e81bc3caf7ab38d.mp3*~data=user_id=0,application_id=42~hmac=93c0f452b880b811ee620baddf93d0101c8231d755ab4effd7b886184d828c9a",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "SWERVE",
+            "length": "2:25",
+            "artist": "KSI & JAY1",
+            "deezer": {
+              "id": 3786077072,
+              "link": "https://www.deezer.com/track/3786077072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/f/0/9af58b16dc28c849bedf474254f371c9.mp3?hdnea=exp=1795656338~acl=/api/1/1/9/a/f/0/9af58b16dc28c849bedf474254f371c9.mp3*~data=user_id=0,application_id=42~hmac=58217dcdf0af333abf47418145f3ce5ea64cdb6affe606638990e7fbecd6f59d",
+              "preview_expires": "2026-11-26T01:25:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/KSI/All Over The Place.jpg"
+}

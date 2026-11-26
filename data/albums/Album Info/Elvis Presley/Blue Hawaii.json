@@ -1,0 +1,219 @@
+{
+  "title": "Blue Hawaii",
+  "artist": "Elvis Presley",
+  "year": 1961,
+  "release_date": "1961-10-01",
+  "type": "Album + Soundtrack",
+  "description": "Blue Hawaii is the fourth soundtrack album by the American singer Elvis Presley, released by RCA Victor in mono and stereo on October 20, 1961. It is the soundtrack to the 1961 film Blue Hawaii starring Presley. In the United States, the album spent 20 weeks at the number one slot and 39 weeks in the Top 10 on Billboard's Top Pop LPs chart. It was certified Gold on December 21, 1961, Platinum and 2× Platinum on March 27, 1992, and 3× Platinum on July 30, 2002, by the Recording Industry Association of America. In the UK, the album spent 18 weeks at No. 1 on the Record Retailers (RR) album chart. On the US Top Pop Albums chart, Blue Hawaii is second only to West Side Story as the most successful soundtrack album of the 1960s.",
+  "genres": [
+    "jazz",
+    "pop",
+    "rock",
+    "big beat",
+    "pop rock",
+    "rock and roll"
+  ],
+  "tags": [
+    "film soundtrack",
+    "jazz",
+    "pop",
+    "rock",
+    "rock & roll",
+    "big beat",
+    "hawaiian music",
+    "pop rock",
+    "rock and roll",
+    "standards"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/eb26d6a0-35db-38a7-b3c0-ae2083db5737",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Hawaii_(soundtrack)",
+    "allmusic": "https://www.allmusic.com/album/mw0000195246",
+    "discogs": "https://www.discogs.com/master/107391",
+    "wikidata": "https://www.wikidata.org/wiki/Q1766452",
+    "deezer": "https://www.deezer.com/album/9344800"
+  },
+  "musicbrainz_id": "eb26d6a0-35db-38a7-b3c0-ae2083db5737",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/860587f7-55e6-46a5-bdec-81620dd0cf1b",
+      "barcode": "886445009798",
+      "title": "Blue Hawaii",
+      "disambiguation": null,
+      "date": "2015-01-02",
+      "country": "US"
+    },
+    "total_tracks": 14,
+    "total_length": "32:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blue Hawaii",
+            "length": "2:37",
+            "deezer": {
+              "id": 92066350,
+              "link": "https://www.deezer.com/track/92066350",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/b/0/a0b9e507ac6dda1f7a41e357ea01647f.mp3?hdnea=exp=1795653833~acl=/api/1/1/a/0/b/0/a0b9e507ac6dda1f7a41e357ea01647f.mp3*~data=user_id=0,application_id=42~hmac=69f00b459a36513d846cf97749d6b2b56eda6b59f18cad0a6d353d62cd623351",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Almost Always True",
+            "length": "2:24",
+            "deezer": {
+              "id": 92066352,
+              "link": "https://www.deezer.com/track/92066352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/b/0/3cb2c5f3e832f762d6b73eb67b5f5977.mp3?hdnea=exp=1795653833~acl=/api/1/1/3/c/b/0/3cb2c5f3e832f762d6b73eb67b5f5977.mp3*~data=user_id=0,application_id=42~hmac=5ba4bd11215689b6364d8188f6142220a093565b1cdaacc8850521f39d55f198",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Aloha oe",
+            "length": "1:55",
+            "deezer": {
+              "id": 92066354,
+              "link": "https://www.deezer.com/track/92066354",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/0/0/4606d4b49e3b1a8f0df13a3794f7e9f0.mp3?hdnea=exp=1795653833~acl=/api/1/1/4/6/0/0/4606d4b49e3b1a8f0df13a3794f7e9f0.mp3*~data=user_id=0,application_id=42~hmac=a0e3d1ecf3861d5c07a431418f3aaa4fc308290f79f9852197a1e20591a7c8bd",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "No More",
+            "length": "2:24",
+            "deezer": {
+              "id": 92066356,
+              "link": "https://www.deezer.com/track/92066356",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/7/0/327275787c267a1534ed768be677c178.mp3?hdnea=exp=1795653833~acl=/api/1/1/3/2/7/0/327275787c267a1534ed768be677c178.mp3*~data=user_id=0,application_id=42~hmac=5f81b3967feb00577105fd14d2dd3871a728c9f1a13e7c8912b82292265094b7",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Can’t Help Falling in Love",
+            "length": "3:06",
+            "deezer": {
+              "id": 92066358,
+              "link": "https://www.deezer.com/track/92066358",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/8/0/9888cd4c986d5d27d2f038ec174c8633.mp3?hdnea=exp=1795653833~acl=/api/1/1/9/8/8/0/9888cd4c986d5d27d2f038ec174c8633.mp3*~data=user_id=0,application_id=42~hmac=01f855923a17105bea4f4c327154d71986761f1999e15071f42ec171f55e5e5c",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rock‐a‐Hula Baby",
+            "length": "2:04",
+            "deezer": {
+              "id": 92066360,
+              "link": "https://www.deezer.com/track/92066360",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/d/0/ebd60020deae0bf7090666c9f44ed94a.mp3?hdnea=exp=1795653833~acl=/api/1/1/e/b/d/0/ebd60020deae0bf7090666c9f44ed94a.mp3*~data=user_id=0,application_id=42~hmac=94ae5c6c641e6af451e6a6093728f9a7654d12f6508fc10e9904539fea7cb8ce",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Moonlight Swim",
+            "length": "2:21",
+            "deezer": {
+              "id": 92066362,
+              "link": "https://www.deezer.com/track/92066362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/6/0/48649ae0e5706e46e28397334c39240a.mp3?hdnea=exp=1795653833~acl=/api/1/1/4/8/6/0/48649ae0e5706e46e28397334c39240a.mp3*~data=user_id=0,application_id=42~hmac=e7d5c214ab93aae65b67ff16ff1a50090077dde145d998dc179954c838d6cef2",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ku‐u‐i‐po",
+            "length": "2:23",
+            "deezer": {
+              "id": 92066364,
+              "link": "https://www.deezer.com/track/92066364",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/c/0/afc93400d959fe2ae491981605123d7c.mp3?hdnea=exp=1795653833~acl=/api/1/1/a/f/c/0/afc93400d959fe2ae491981605123d7c.mp3*~data=user_id=0,application_id=42~hmac=64111c25511ebe7e95bf8060da4bca5b19a1d89bce6ebb701d0db4758e458014",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ito Eats",
+            "length": "1:25",
+            "deezer": {
+              "id": 92066366,
+              "link": "https://www.deezer.com/track/92066366",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/1/0/16128d89f196ef688f79e5306f19894a.mp3?hdnea=exp=1795653833~acl=/api/1/1/1/6/1/0/16128d89f196ef688f79e5306f19894a.mp3*~data=user_id=0,application_id=42~hmac=84c25a17979df5718425b649f6e81c5c90d858536ac5f504c363c9fe73bee67b",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Slicin’ Sand",
+            "length": "1:37",
+            "deezer": {
+              "id": 92066368,
+              "link": "https://www.deezer.com/track/92066368",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/7/0/e37e51402f88acf9ef8cfd6060ed299b.mp3?hdnea=exp=1795653833~acl=/api/1/1/e/3/7/0/e37e51402f88acf9ef8cfd6060ed299b.mp3*~data=user_id=0,application_id=42~hmac=ffe1ebd6f6aeca90e43db24303cf1c2da3ca57a0fde6e609c2d6472cadc0db13",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hawaiian Sunset",
+            "length": "2:35",
+            "deezer": {
+              "id": 92066370,
+              "link": "https://www.deezer.com/track/92066370",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/6/0/c46fe984751f3c4da4e202d123ca292c.mp3?hdnea=exp=1795653833~acl=/api/1/1/c/4/6/0/c46fe984751f3c4da4e202d123ca292c.mp3*~data=user_id=0,application_id=42~hmac=c6d40fca484055fe54aa34489b2df6122a0122dd205b645b49b09c6af0c249b0",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Beach Boy Blues",
+            "length": "2:05",
+            "deezer": {
+              "id": 92066372,
+              "link": "https://www.deezer.com/track/92066372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/f/0/9afc0a9b80ddde467b4dc73245f7c1cb.mp3?hdnea=exp=1795653833~acl=/api/1/1/9/a/f/0/9afc0a9b80ddde467b4dc73245f7c1cb.mp3*~data=user_id=0,application_id=42~hmac=20fef90cab0b5fd1fae7728e36e7b301e1ad66bf152f3c9a87ef8dce0fd98e34",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Island of Love",
+            "length": "2:41",
+            "deezer": {
+              "id": 92066374,
+              "link": "https://www.deezer.com/track/92066374",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/e/0/26e2cd847063a1acb18172c9302a6984.mp3?hdnea=exp=1795653833~acl=/api/1/1/2/6/e/0/26e2cd847063a1acb18172c9302a6984.mp3*~data=user_id=0,application_id=42~hmac=34263cf94a893f7e2e5676e6ae9d2dccb42e74324a12d99d7dae06db72365e29",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Hawaiian Wedding Song",
+            "length": "2:49",
+            "deezer": {
+              "id": 92066376,
+              "link": "https://www.deezer.com/track/92066376",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/d/0/9cdd0afcd3339a69b3fa075bf3bfb058.mp3?hdnea=exp=1795653833~acl=/api/1/1/9/c/d/0/9cdd0afcd3339a69b3fa075bf3bfb058.mp3*~data=user_id=0,application_id=42~hmac=a0d91c47108523ad625806a5c4197e0d2e87b47d8ceea38cc9412bbdaf9cb033",
+              "preview_expires": "2026-11-26T00:43:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Elvis Presley/Blue Hawaii.jpg"
+}

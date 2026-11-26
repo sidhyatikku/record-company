@@ -1,0 +1,177 @@
+{
+  "title": "Weezer",
+  "artist": "Weezer",
+  "year": 2001,
+  "release_date": "2001-05-07",
+  "type": "Album",
+  "description": "Weezer is the third studio album by American rock band Weezer. It was released on May 15, 2001, by Geffen Records. It was the second Weezer album produced by Ric Ocasek, who produced their debut album. It is the only studio album to feature bassist Mikey Welsh, who left a few months after its release due to health problems.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "emo",
+    "power pop",
+    "pop punk"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "alternative and punk",
+    "alternative pop/rock",
+    "alternative/indie rock",
+    "emo",
+    "power pop",
+    "punk-pop",
+    "2001",
+    "pop punk",
+    "self-titled",
+    "alternative",
+    "pop/rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 13
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/923d5ba6-7eee-3bce-bcb2-c913b2bd69d4",
+    "wikipedia": "https://en.wikipedia.org/wiki/Weezer_(Green_Album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000719526",
+    "discogs": "https://www.discogs.com/master/35285",
+    "wikidata": "https://www.wikidata.org/wiki/Q1540223",
+    "deezer": "https://www.deezer.com/album/249320"
+  },
+  "musicbrainz_id": "923d5ba6-7eee-3bce-bcb2-c913b2bd69d4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cb6b07fe-d4a3-3ae7-87ff-d7d184de3570",
+      "barcode": "606949304522",
+      "title": "Weezer",
+      "disambiguation": "green album",
+      "date": "2001-05-15",
+      "country": "US"
+    },
+    "total_tracks": 10,
+    "total_length": "28:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don’t Let Go",
+            "length": "3:00",
+            "deezer": {
+              "id": 2544625,
+              "link": "https://www.deezer.com/track/2544625",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/2/0/e5202b85574457c1898c38fbf889d023.mp3?hdnea=exp=1795724290~acl=/api/1/1/e/5/2/0/e5202b85574457c1898c38fbf889d023.mp3*~data=user_id=0,application_id=42~hmac=30cdcfd553dfb3b19890a48c7322dd898a490e7303dd09a34fe3b017d781202c",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Photograph",
+            "length": "2:19",
+            "deezer": {
+              "id": 2544626,
+              "link": "https://www.deezer.com/track/2544626",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/7/0/0b752fbf9bb1381d68563cfb878288d0.mp3?hdnea=exp=1795724290~acl=/api/1/1/0/b/7/0/0b752fbf9bb1381d68563cfb878288d0.mp3*~data=user_id=0,application_id=42~hmac=9f9584cbe48daa95b545ee69e192430d0fe29a52ca4c34e306542d0eb5ee7b87",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hash Pipe",
+            "length": "2:52",
+            "deezer": {
+              "id": 2544627,
+              "link": "https://www.deezer.com/track/2544627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/a/0/47a14eecd069f5d426e947539b5f53cc.mp3?hdnea=exp=1795724290~acl=/api/1/1/4/7/a/0/47a14eecd069f5d426e947539b5f53cc.mp3*~data=user_id=0,application_id=42~hmac=55e0c542bb9e258c55d20272d231ffe536e57cb53c251fbe3cbf478aaf661632",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Island in the Sun",
+            "length": "3:20",
+            "deezer": {
+              "id": 2544628,
+              "link": "https://www.deezer.com/track/2544628",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/0/0/4c04b1949ee94c585ecbf98aca43bcd4.mp3?hdnea=exp=1795724290~acl=/api/1/1/4/c/0/0/4c04b1949ee94c585ecbf98aca43bcd4.mp3*~data=user_id=0,application_id=42~hmac=df6cb959484f0629279c61e9e976e52e545dd1c1924503edba57a672a681b3e9",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Crab",
+            "length": "2:35",
+            "deezer": {
+              "id": 2544629,
+              "link": "https://www.deezer.com/track/2544629",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/6/0/fe6ceaab10752c07eb7a62314c810976.mp3?hdnea=exp=1795724290~acl=/api/1/1/f/e/6/0/fe6ceaab10752c07eb7a62314c810976.mp3*~data=user_id=0,application_id=42~hmac=50c1480d601e26086756fa074fc3a2ddbf7ff0b01790acf7c75f10cb6ebfdec3",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Knock‐Down Drag‐Out",
+            "length": "2:08",
+            "deezer": {
+              "id": 2544630,
+              "link": "https://www.deezer.com/track/2544630",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/d/0/5ddc1201a8177b30fdb5a89acf0bb877.mp3?hdnea=exp=1795724290~acl=/api/1/1/5/d/d/0/5ddc1201a8177b30fdb5a89acf0bb877.mp3*~data=user_id=0,application_id=42~hmac=a374135117b85364dcfdd69d9abf80d423654267672b0790755245c8d146d732",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Smile",
+            "length": "2:39",
+            "deezer": {
+              "id": 2544631,
+              "link": "https://www.deezer.com/track/2544631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/7/0/357ff9204f01bf6b52de44451cee527a.mp3?hdnea=exp=1795724290~acl=/api/1/1/3/5/7/0/357ff9204f01bf6b52de44451cee527a.mp3*~data=user_id=0,application_id=42~hmac=0b20f99eaa789470d227eede4d35700734b39f6649a4bbc6b9cbe258091c5266",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Simple Pages",
+            "length": "2:57",
+            "deezer": {
+              "id": 2544632,
+              "link": "https://www.deezer.com/track/2544632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/3/0/20342024b78b55cd9b0bd9acea81b441.mp3?hdnea=exp=1795724290~acl=/api/1/1/2/0/3/0/20342024b78b55cd9b0bd9acea81b441.mp3*~data=user_id=0,application_id=42~hmac=ee9e5514491edb0ea33ab8dedf254aa161aba84236598c5c61cd5be03017f59f",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Glorious Day",
+            "length": "2:41",
+            "deezer": {
+              "id": 2544633,
+              "link": "https://www.deezer.com/track/2544633",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/2/0/272e319db748e0c04545f75f13c8ada7.mp3?hdnea=exp=1795724290~acl=/api/1/1/2/7/2/0/272e319db748e0c04545f75f13c8ada7.mp3*~data=user_id=0,application_id=42~hmac=67e811a3cd30c227d838bb8ff85a58991e48eb70af4f43e7ebe258eff3acffdd",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "O Girlfriend",
+            "length": "3:50",
+            "deezer": {
+              "id": 2544634,
+              "link": "https://www.deezer.com/track/2544634",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/c/0/83ca2240f832e96b17d19c93bab1ea05.mp3?hdnea=exp=1795724290~acl=/api/1/1/8/3/c/0/83ca2240f832e96b17d19c93bab1ea05.mp3*~data=user_id=0,application_id=42~hmac=f8367c2fb97d8d5a59b96d22d3543a0946d84a75206007b6fa2e8a9a1868632a",
+              "preview_expires": "2026-11-26T20:18:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Weezer/Weezer.jpg"
+}

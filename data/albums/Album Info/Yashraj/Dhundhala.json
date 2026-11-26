@@ -1,0 +1,51 @@
+{
+  "title": "Dhundhala",
+  "artist": "Yashraj, Dropped Out & Talwiinder",
+  "year": 2022,
+  "release_date": "2022-02-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cc322116-963e-4f67-acba-ad4ae8d9345a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/500230121"
+  },
+  "musicbrainz_id": "cc322116-963e-4f67-acba-ad4ae8d9345a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3f82ba9d-9ade-4675-b2c6-707487af629b",
+      "barcode": "00602458533965",
+      "title": "Dhundhala",
+      "disambiguation": null,
+      "date": "2022-02-18",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dhundhala",
+            "length": "3:02",
+            "deezer": {
+              "id": 2498890101,
+              "link": "https://www.deezer.com/track/2498890101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/a/0/cba325a4b19c531b24b31d6209ae2afd.mp3?hdnea=exp=1795724455~acl=/api/1/1/c/b/a/0/cba325a4b19c531b24b31d6209ae2afd.mp3*~data=user_id=0,application_id=42~hmac=72f773333cc9dcc30a896e18bab72970055770cb410ea22892b18df7a10d34cf",
+              "preview_expires": "2026-11-26T20:20:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yashraj/Dhundhala.jpg"
+}

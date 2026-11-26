@@ -1,0 +1,212 @@
+{
+  "title": "Promise",
+  "artist": "David Sylvian",
+  "year": 2011,
+  "release_date": "2011",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "pop",
+    "electronic",
+    "synth-pop"
+  ],
+  "tags": [
+    "pop",
+    "electronic",
+    "synth-pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3e61783c-4b21-31ca-a962-b7b104752efc",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/364218"
+  },
+  "musicbrainz_id": "3e61783c-4b21-31ca-a962-b7b104752efc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0188459b-6d38-4054-8529-f4835d208771",
+      "barcode": null,
+      "title": "Promise",
+      "disambiguation": null,
+      "date": "2011",
+      "country": "US"
+    },
+    "total_tracks": 29,
+    "total_length": "2:28:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Promise (The Cult of Eurydice)",
+            "length": "3:28",
+            "deezer": {
+              "id": 3901899,
+              "link": "https://www.deezer.com/track/3901899",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/3/0/be37c7aa201ff6c520cec32055bbc073.mp3?hdnea=exp=1795653206~acl=/api/1/1/b/e/3/0/be37c7aa201ff6c520cec32055bbc073.mp3*~data=user_id=0,application_id=42~hmac=4771136d526fa050f518f78464dbb0e29b254e768bf9573064164ffe65ed6ed8",
+              "preview_expires": "2026-11-26T00:33:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Some Small Hope",
+            "length": "4:13"
+          },
+          {
+            "number": "3",
+            "title": "Goodnight",
+            "length": "1:32"
+          },
+          {
+            "number": "4",
+            "title": "Bamboo Houses",
+            "length": "5:29"
+          },
+          {
+            "number": "5",
+            "title": "Bamboo Music",
+            "length": "5:41"
+          },
+          {
+            "number": "6",
+            "title": "Forbidden Colours",
+            "length": "4:46",
+            "deezer": {
+              "id": 3901904,
+              "link": "https://www.deezer.com/track/3901904",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/4/0/1c456a92803abc61e8dbc955be29cdda.mp3?hdnea=exp=1795653206~acl=/api/1/1/1/c/4/0/1c456a92803abc61e8dbc955be29cdda.mp3*~data=user_id=0,application_id=42~hmac=4aadd051977ad5aef1aeef944445364576ca8ef05a93025185ea50591509e773",
+              "preview_expires": "2026-11-26T00:33:26Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "How Safe Is Deep?",
+            "length": "7:37"
+          },
+          {
+            "number": "8",
+            "title": "To a Reason",
+            "length": "6:27"
+          },
+          {
+            "number": "9",
+            "title": "Victim of Stars",
+            "length": "4:45"
+          },
+          {
+            "number": "10",
+            "title": "Heartbeat",
+            "length": "3:52"
+          },
+          {
+            "number": "11",
+            "title": "Preparations for a Journey",
+            "length": "3:41"
+          },
+          {
+            "number": "12",
+            "title": "The Women at the Well",
+            "length": "7:55"
+          },
+          {
+            "number": "13",
+            "title": "Taking the Veil (Julian Mendelsohn mix)",
+            "length": "6:40"
+          },
+          {
+            "number": "14",
+            "title": "Weathered Wall (instrumental)",
+            "length": "5:46"
+          },
+          {
+            "number": "15",
+            "title": "Epiphany",
+            "length": "2:15"
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pop Song",
+            "length": "4:35"
+          },
+          {
+            "number": "2",
+            "title": "Blue of Noon",
+            "length": "5:43"
+          },
+          {
+            "number": "3",
+            "title": "Buoy (remix)",
+            "length": "5:53"
+          },
+          {
+            "number": "4",
+            "title": "Come Morning",
+            "length": "4:10"
+          },
+          {
+            "number": "5",
+            "title": "The Golden Way",
+            "length": "5:59"
+          },
+          {
+            "number": "6",
+            "title": "Maya",
+            "length": "4:27"
+          },
+          {
+            "number": "7",
+            "title": "Ti Ho Aspettato (I Have Waited for You)",
+            "length": "4:15"
+          },
+          {
+            "number": "8",
+            "title": "I Drink to Forget",
+            "length": "1:49"
+          },
+          {
+            "number": "9",
+            "title": "When Love Walks In",
+            "length": "6:19"
+          },
+          {
+            "number": "10",
+            "title": "Cloud #9",
+            "length": "5:21"
+          },
+          {
+            "number": "11",
+            "title": "Tallow Moon",
+            "length": "5:44"
+          },
+          {
+            "number": "12",
+            "title": "Le Pollen",
+            "length": "7:20"
+          },
+          {
+            "number": "13",
+            "title": "Earthbound (Starblind)",
+            "length": "10:08"
+          },
+          {
+            "number": "14",
+            "title": "Endgame",
+            "length": "2:21"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/David Spinelli/The Promise.jpg"
+}

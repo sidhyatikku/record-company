@@ -1,0 +1,51 @@
+{
+  "title": "COULD BE WRONG",
+  "artist": "LOSTBOYJAY",
+  "year": 2022,
+  "release_date": "2022-12-02",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8f73fe70-1884-48fd-86c2-d44744844758",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/380255097"
+  },
+  "musicbrainz_id": "8f73fe70-1884-48fd-86c2-d44744844758",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3707efc6-9a0f-4b02-9ca4-3566b22b54df",
+      "barcode": "00602455006332",
+      "title": "COULD BE WRONG",
+      "disambiguation": null,
+      "date": "2022-12-02",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "COULD BE WRONG",
+            "length": "3:06",
+            "deezer": {
+              "id": 2036226807,
+              "link": "https://www.deezer.com/track/2036226807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/b/0/8ebabb24e08a42309b7193afb700b159.mp3?hdnea=exp=1795656639~acl=/api/1/1/8/e/b/0/8ebabb24e08a42309b7193afb700b159.mp3*~data=user_id=0,application_id=42~hmac=da50a73f77b65e503f69db15b0318f30cac228e224f56bfa15b99809a8589300",
+              "preview_expires": "2026-11-26T01:30:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/LOSTBOYJAY/COULD BE WRONG (James Hiraeth Remix).jpg"
+}

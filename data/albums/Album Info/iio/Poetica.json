@@ -1,0 +1,232 @@
+{
+  "title": "Poetica",
+  "artist": "iiO",
+  "year": 2005,
+  "release_date": "2005-02-25",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "electronica",
+    "house",
+    "trance"
+  ],
+  "tags": [
+    "electronic",
+    "electronica",
+    "house",
+    "trance"
+  ],
+  "rating": {
+    "value_out_of_5": 4.05,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d3bcf73f-2cd0-3f2e-956e-835ad3a24ab6",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0000441790",
+    "discogs": "https://www.discogs.com/master/60411",
+    "deezer": "https://www.deezer.com/album/1054429"
+  },
+  "musicbrainz_id": "d3bcf73f-2cd0-3f2e-956e-835ad3a24ab6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/661798c2-ecd1-4e86-9ce3-5409ebca8af4",
+      "barcode": "827912002119",
+      "title": "Poetica",
+      "disambiguation": null,
+      "date": "2006-06-27",
+      "country": "US"
+    },
+    "total_tracks": 16,
+    "total_length": "1:13:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rapture",
+            "length": "4:14",
+            "deezer": {
+              "id": 11495726,
+              "link": "https://www.deezer.com/track/11495726",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/d/0/48d98a354dd517dcc23828542e04cf98.mp3?hdnea=exp=1795655165~acl=/api/1/1/4/8/d/0/48d98a354dd517dcc23828542e04cf98.mp3*~data=user_id=0,application_id=42~hmac=ed62d205bbfbc6c1a843a766a93f1fe02ff876ba9458670d8d58aec732d39a54",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "At the End",
+            "length": "3:39",
+            "deezer": {
+              "id": 11495727,
+              "link": "https://www.deezer.com/track/11495727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/d/0/91d4b1d636c62dd886c242666a0f147e.mp3?hdnea=exp=1795655165~acl=/api/1/1/9/1/d/0/91d4b1d636c62dd886c242666a0f147e.mp3*~data=user_id=0,application_id=42~hmac=456a8521c2a0eeae57fdf40d8c4d83bf0b2c6938c6aec333cc918b5420b1ef8d",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Smooth",
+            "length": "4:30",
+            "deezer": {
+              "id": 11495728,
+              "link": "https://www.deezer.com/track/11495728",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/9/0/0b9af982a7f9eda471d3b990251a64c8.mp3?hdnea=exp=1795655165~acl=/api/1/1/0/b/9/0/0b9af982a7f9eda471d3b990251a64c8.mp3*~data=user_id=0,application_id=42~hmac=eb7785d8527550ebdd622600f05b8507882446e6177c624a5d35421cd83ac1b5",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Run Away",
+            "length": "3:37",
+            "deezer": {
+              "id": 11495729,
+              "link": "https://www.deezer.com/track/11495729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/c/0/8acf9ea207d6b76a8471d15afe880f39.mp3?hdnea=exp=1795655165~acl=/api/1/1/8/a/c/0/8acf9ea207d6b76a8471d15afe880f39.mp3*~data=user_id=0,application_id=42~hmac=a631d7afca66e5663e32659e4ee02787d61d71fac4653ca5a707568aba0afe6c",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Kiss You",
+            "length": "4:17",
+            "deezer": {
+              "id": 11495730,
+              "link": "https://www.deezer.com/track/11495730",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/e/0/2aea19dfb5f5cb7ce7bdedba7fc5907e.mp3?hdnea=exp=1795655165~acl=/api/1/1/2/a/e/0/2aea19dfb5f5cb7ce7bdedba7fc5907e.mp3*~data=user_id=0,application_id=42~hmac=8fc5bb2a740aa2d1f75583db4fd9a4262bf981fac8f1198785834d98cfb87490",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Chastity",
+            "length": "9:23",
+            "deezer": {
+              "id": 11495731,
+              "link": "https://www.deezer.com/track/11495731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/6/0/09647dfcf07979b9e1e543dd432a7ee2.mp3?hdnea=exp=1795655165~acl=/api/1/1/0/9/6/0/09647dfcf07979b9e1e543dd432a7ee2.mp3*~data=user_id=0,application_id=42~hmac=d5c124dbb829191fd30b9b539fdc41a07fbed7d3f5011e2e3f1c2124128b84a1",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Tantric",
+            "length": "3:35",
+            "deezer": {
+              "id": 11495732,
+              "link": "https://www.deezer.com/track/11495732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/3/0/fb3fff1eed670e3df0b969238d8d07c8.mp3?hdnea=exp=1795655165~acl=/api/1/1/f/b/3/0/fb3fff1eed670e3df0b969238d8d07c8.mp3*~data=user_id=0,application_id=42~hmac=5ad12a2de10b0d453b3a203e875a447806e7f068dc8a6728107c397009e3a1e0",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rebel",
+            "length": "5:15",
+            "deezer": {
+              "id": 11495733,
+              "link": "https://www.deezer.com/track/11495733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/b/0/b2b62a694d694d1d4120092ab34757db.mp3?hdnea=exp=1795655165~acl=/api/1/1/b/2/b/0/b2b62a694d694d1d4120092ab34757db.mp3*~data=user_id=0,application_id=42~hmac=6f8cc79ce9d7245254c56863c0b796572615e0dd70734e50962f4b5332fa3f39",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Is It Love",
+            "length": "4:30",
+            "deezer": {
+              "id": 11495734,
+              "link": "https://www.deezer.com/track/11495734",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/3/0/5b30be8c8ab6a3ddee847d2f9f2ec73c.mp3?hdnea=exp=1795655165~acl=/api/1/1/5/b/3/0/5b30be8c8ab6a3ddee847d2f9f2ec73c.mp3*~data=user_id=0,application_id=42~hmac=4e3da2b40ed9cbedf1381a00ac9798b978805cd0f9ea606812da188b5ef7cbab",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Be It",
+            "length": "6:16",
+            "deezer": {
+              "id": 11495735,
+              "link": "https://www.deezer.com/track/11495735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/0/0/8f002d4337bfa2023e06516225b912ec.mp3?hdnea=exp=1795655165~acl=/api/1/1/8/f/0/0/8f002d4337bfa2023e06516225b912ec.mp3*~data=user_id=0,application_id=42~hmac=111f43dcb38200655f113eeb4963d10305a2fe31324f6649bc587ca977a2700a",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Give It Up",
+            "length": "6:51",
+            "deezer": {
+              "id": 11495736,
+              "link": "https://www.deezer.com/track/11495736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/c/0/b2c37dcc3984ddd2282c5b4a90d3fc6e.mp3?hdnea=exp=1795655165~acl=/api/1/1/b/2/c/0/b2c37dcc3984ddd2282c5b4a90d3fc6e.mp3*~data=user_id=0,application_id=42~hmac=6870c338ab0c1434accd8ece6b16b739e3bc41e851b31e31855c834671849b65",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Hangin On",
+            "length": "3:23",
+            "deezer": {
+              "id": 11495737,
+              "link": "https://www.deezer.com/track/11495737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/9/0/bb9f9b2283195c73ac23d192a5a00bc7.mp3?hdnea=exp=1795655165~acl=/api/1/1/b/b/9/0/bb9f9b2283195c73ac23d192a5a00bc7.mp3*~data=user_id=0,application_id=42~hmac=9917cf402d422eb5eee09f9f066aef5698d75cd411d9eaf287faa7886f5702fc",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "The One",
+            "length": "4:39",
+            "deezer": {
+              "id": 11495738,
+              "link": "https://www.deezer.com/track/11495738",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/b/0/1fbebfdcea95951b542fa5056f2ffc63.mp3?hdnea=exp=1795655165~acl=/api/1/1/1/f/b/0/1fbebfdcea95951b542fa5056f2ffc63.mp3*~data=user_id=0,application_id=42~hmac=bd042581e605ec5b7946535a44cfb3a061f46b025a4a3cd8ea620437bb12b6aa",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "What a Way",
+            "length": "4:05",
+            "deezer": {
+              "id": 11495739,
+              "link": "https://www.deezer.com/track/11495739",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/5/0/b059224e347be04d69de98b0801720a8.mp3?hdnea=exp=1795655165~acl=/api/1/1/b/0/5/0/b059224e347be04d69de98b0801720a8.mp3*~data=user_id=0,application_id=42~hmac=572ab9c14058b4d519ef63ca44e18ac468babbd1502386941f19b0f952eaad3f",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Poetica",
+            "length": "1:52",
+            "deezer": {
+              "id": 11495740,
+              "link": "https://www.deezer.com/track/11495740",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/0/0/26081a00bdf9bd53c1b426ab5d19b38d.mp3?hdnea=exp=1795655165~acl=/api/1/1/2/6/0/0/26081a00bdf9bd53c1b426ab5d19b38d.mp3*~data=user_id=0,application_id=42~hmac=40a7735d5f72ca5813aeebfd485446aa705aaaff8f1d4e5a95b6c4c86c2cedfa",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Kiss You (Bailey edit)",
+            "length": "3:38",
+            "deezer": {
+              "id": 11495741,
+              "link": "https://www.deezer.com/track/11495741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/0/0/8a0752ef88cffbf5744199481b67e389.mp3?hdnea=exp=1795655165~acl=/api/1/1/8/a/0/0/8a0752ef88cffbf5744199481b67e389.mp3*~data=user_id=0,application_id=42~hmac=44f2a9b1bc70ab204b677578ac451b45ef178da79f652e0ecc2f9322408542a5",
+              "preview_expires": "2026-11-26T01:06:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/iio/Poetica.png"
+}

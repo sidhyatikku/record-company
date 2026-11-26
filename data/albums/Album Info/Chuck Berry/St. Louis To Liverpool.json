@@ -1,0 +1,222 @@
+{
+  "title": "St. Louis to Liverpool",
+  "artist": "Chuck Berry",
+  "year": 1964,
+  "release_date": "1964",
+  "type": "Album",
+  "description": "St. Louis to Liverpool is the seventh studio album by American rock and roll musician Chuck Berry. Released in 1964 by Chess Records, it peaked at number 124 on the US Billboard album chart, the first of Berry's studio albums to appear on the chart. Music critic Dave Marsh called St. Louis to Liverpool \"one of the greatest rock and roll records ever made\".",
+  "genres": [
+    "rock",
+    "rock and roll",
+    "blues"
+  ],
+  "tags": [
+    "rhythm & blues",
+    "rock",
+    "rock & roll",
+    "rock and roll",
+    "blues"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/12fe4954-04d0-3b95-b961-b0dbd3518ac6",
+    "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_to_Liverpool",
+    "allmusic": "https://www.allmusic.com/album/mw0000199175",
+    "discogs": "https://www.discogs.com/master/135210",
+    "wikidata": "https://www.wikidata.org/wiki/Q1619036",
+    "deezer": "https://www.deezer.com/album/101231292"
+  },
+  "musicbrainz_id": "12fe4954-04d0-3b95-b961-b0dbd3518ac6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/58fa4afd-30ae-473c-ac43-f2d548276e98",
+      "barcode": "0602577174131",
+      "title": "St. Louis To Liverpool",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 15,
+    "total_length": "40:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Little Marie",
+            "length": "2:37",
+            "deezer": {
+              "id": 700722402,
+              "link": "https://www.deezer.com/track/700722402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/3/0/2634e1b7582208024a28c6c5afa1e18f.mp3?hdnea=exp=1795652836~acl=/api/1/1/2/6/3/0/2634e1b7582208024a28c6c5afa1e18f.mp3*~data=user_id=0,application_id=42~hmac=f148e10d6fc8c14f1011e23d095fadd90516b3a2053554f0fb8fafeffa64824e",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Our Little Rendezvous",
+            "length": "2:04",
+            "deezer": {
+              "id": 700722412,
+              "link": "https://www.deezer.com/track/700722412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/7/0/bd7f6fe4b0d93b948b52a8edac5dcff5.mp3?hdnea=exp=1795652836~acl=/api/1/1/b/d/7/0/bd7f6fe4b0d93b948b52a8edac5dcff5.mp3*~data=user_id=0,application_id=42~hmac=982144f6cbe3321d6907ae7b0d744197b6557174b4a8a7be05ced3022ad7e5c0",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "No Particular Place to Go",
+            "length": "2:45",
+            "deezer": {
+              "id": 700722422,
+              "link": "https://www.deezer.com/track/700722422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/0/0/180bceea00608a7759d6888ded018bcf.mp3?hdnea=exp=1795652836~acl=/api/1/1/1/8/0/0/180bceea00608a7759d6888ded018bcf.mp3*~data=user_id=0,application_id=42~hmac=06bb7cd4def077894adf050f6a54020882f325c8b7c1493c42939c13a4e1c759",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "You Two",
+            "length": "2:11",
+            "deezer": {
+              "id": 700722432,
+              "link": "https://www.deezer.com/track/700722432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/3/0/5f3ce8358cb4e26bb3f6e0bfd6e487d0.mp3?hdnea=exp=1795652836~acl=/api/1/1/5/f/3/0/5f3ce8358cb4e26bb3f6e0bfd6e487d0.mp3*~data=user_id=0,application_id=42~hmac=2993c84e432419e693c513718264b1e403bbcdffa7c45212678051b7ca2c37e1",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Promised Land",
+            "length": "2:25",
+            "deezer": {
+              "id": 700722442,
+              "link": "https://www.deezer.com/track/700722442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/9/0/4495aefe5ba802efa7f3a01d90d5195a.mp3?hdnea=exp=1795652836~acl=/api/1/1/4/4/9/0/4495aefe5ba802efa7f3a01d90d5195a.mp3*~data=user_id=0,application_id=42~hmac=789c21331b441ef9bc9d8f0213554c10140917ae64efb3aa2aad14d87d36f4f8",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "You Never Can Tell",
+            "length": "2:43",
+            "deezer": {
+              "id": 700722452,
+              "link": "https://www.deezer.com/track/700722452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/a/0/f0a506da482bad15ab46d959cdb09e49.mp3?hdnea=exp=1795652836~acl=/api/1/1/f/0/a/0/f0a506da482bad15ab46d959cdb09e49.mp3*~data=user_id=0,application_id=42~hmac=c228928f32232bd3bed1c369befefac063890772aa9f9eebf51549a2eb12add7",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Go Bobby Soxer",
+            "length": "3:00",
+            "deezer": {
+              "id": 700722462,
+              "link": "https://www.deezer.com/track/700722462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/9/0/079136a98533029c24e7578551e4802c.mp3?hdnea=exp=1795652836~acl=/api/1/1/0/7/9/0/079136a98533029c24e7578551e4802c.mp3*~data=user_id=0,application_id=42~hmac=e87d74ac6710b2002e53a8ec523bf6b28b20b95040c0e630cd3eb88ea04f9208",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Things I Used to Do",
+            "length": "2:43",
+            "deezer": {
+              "id": 700722472,
+              "link": "https://www.deezer.com/track/700722472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/a/0/3aa7fc0dc09de4b6ed1da8724020440f.mp3?hdnea=exp=1795652836~acl=/api/1/1/3/a/a/0/3aa7fc0dc09de4b6ed1da8724020440f.mp3*~data=user_id=0,application_id=42~hmac=9cf14598870a857df2c3f635662068a4dd656ac5672221aa38a4f65e0785de01",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Liverpool Drive",
+            "length": "2:57",
+            "deezer": {
+              "id": 700722482,
+              "link": "https://www.deezer.com/track/700722482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/7/0/2b7d1155f8468ac0907c3c315fd82b3d.mp3?hdnea=exp=1795652836~acl=/api/1/1/2/b/7/0/2b7d1155f8468ac0907c3c315fd82b3d.mp3*~data=user_id=0,application_id=42~hmac=98ce3443a3b08117351154274226ea2dc543ec2b65894712d007ff0316626dcb",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Night Beat",
+            "length": "2:46",
+            "deezer": {
+              "id": 700722492,
+              "link": "https://www.deezer.com/track/700722492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/1/0/271fa7d9aac20caf8e949c5258740e23.mp3?hdnea=exp=1795652836~acl=/api/1/1/2/7/1/0/271fa7d9aac20caf8e949c5258740e23.mp3*~data=user_id=0,application_id=42~hmac=3b8266f48f8d9eeeeabc297aedbbe2c44c9f7bc78c03eb48d8cf7bbb18f48109",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Merry Christmas Baby",
+            "length": "3:15",
+            "deezer": {
+              "id": 700722502,
+              "link": "https://www.deezer.com/track/700722502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/d/0/ccd3874ede59ba2821d3f02f48915258.mp3?hdnea=exp=1795652836~acl=/api/1/1/c/c/d/0/ccd3874ede59ba2821d3f02f48915258.mp3*~data=user_id=0,application_id=42~hmac=901c2c2746b4a43618fcef215917a23f508092cde821a3afff7146aa473e0e42",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Brenda Lee",
+            "length": "2:16",
+            "deezer": {
+              "id": 700722512,
+              "link": "https://www.deezer.com/track/700722512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/8/0/778dad9bf5f80f5ec478872f34ef3efd.mp3?hdnea=exp=1795652836~acl=/api/1/1/7/7/8/0/778dad9bf5f80f5ec478872f34ef3efd.mp3*~data=user_id=0,application_id=42~hmac=debde8367e8e0f0b6f57426a41399563de136eaf654400b54b4c1662cadd2558",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Fraulein",
+            "length": "2:54",
+            "deezer": {
+              "id": 700722522,
+              "link": "https://www.deezer.com/track/700722522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/f/0/bcf4c3fe7bdff4718b3685a466e792ab.mp3?hdnea=exp=1795652836~acl=/api/1/1/b/c/f/0/bcf4c3fe7bdff4718b3685a466e792ab.mp3*~data=user_id=0,application_id=42~hmac=ee013364eb59bec818db9c152e3ab4e8637df0cf6fa84dd4a471380786061b37",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "O'Rangutang",
+            "length": "3:05",
+            "deezer": {
+              "id": 700722532,
+              "link": "https://www.deezer.com/track/700722532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/9/0/0194bb690a6257d7b679908fc5e603a5.mp3?hdnea=exp=1795652836~acl=/api/1/1/0/1/9/0/0194bb690a6257d7b679908fc5e603a5.mp3*~data=user_id=0,application_id=42~hmac=ed2759b6ea72b3e2cea5977c5a9aff8fe06757bf12643d8791f2ab7d3c00364f",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "The Little Girl From Central",
+            "length": "2:38",
+            "deezer": {
+              "id": 700722542,
+              "link": "https://www.deezer.com/track/700722542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/2/0/b32526f2a960e6469ad753b3f2b506db.mp3?hdnea=exp=1795652836~acl=/api/1/1/b/3/2/0/b32526f2a960e6469ad753b3f2b506db.mp3*~data=user_id=0,application_id=42~hmac=0e3c13b77c43cbf578b5424162530b344160701751f50996de1f26cbb97f433a",
+              "preview_expires": "2026-11-26T00:27:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chuck Berry/St. Louis To Liverpool.jpg"
+}

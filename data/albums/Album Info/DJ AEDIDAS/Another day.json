@@ -1,0 +1,50 @@
+{
+  "title": "Another day",
+  "artist": "DJ AEDIDAS",
+  "year": 2016,
+  "release_date": "2016-11-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "lo-fi house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0nP9UYEWFXkPCKRePoa6WK",
+    "deezer": "https://www.deezer.com/album/480708725"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0nP9UYEWFXkPCKRePoa6WK",
+      "title": "Another day",
+      "date": "2016-11-08"
+    },
+    "total_tracks": 1,
+    "total_length": "4:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Another day",
+            "length": "4:11",
+            "artist": "DJ AEDIDAS, TDK",
+            "deezer": {
+              "id": 2427648525,
+              "link": "https://www.deezer.com/track/2427648525",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/3/0/553344cbb707aa1d1d5d16f116b7839e.mp3?hdnea=exp=1795653414~acl=/api/1/1/5/5/3/0/553344cbb707aa1d1d5d16f116b7839e.mp3*~data=user_id=0,application_id=42~hmac=7c609fd8370d4eca5d873cf81cc5acd24357b7f90732a7ae500990fab5b73313",
+              "preview_expires": "2026-11-26T00:36:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/DJ AEDIDAS/Another day.jpg"
+}

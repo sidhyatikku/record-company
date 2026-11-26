@@ -1,0 +1,57 @@
+{
+  "title": "Beggin’",
+  "artist": "Chris Lake & Aluna",
+  "year": 2023,
+  "release_date": "2023-04-20",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "tech house",
+    "electronic"
+  ],
+  "tags": [
+    "tech house",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/38983005-150c-4718-97bd-dd9091041d90",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/429698797"
+  },
+  "musicbrainz_id": "38983005-150c-4718-97bd-dd9091041d90",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/01ff1f22-d861-4069-a170-09f0f658d716",
+      "barcode": "00602455570154",
+      "title": "Beggin’",
+      "disambiguation": null,
+      "date": "2023-04-20",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "3:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beggin’",
+            "length": "3:03",
+            "deezer": {
+              "id": 2238000797,
+              "link": "https://www.deezer.com/track/2238000797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/8/0/8e83d85f3391eb468bfae978fc1379f9.mp3?hdnea=exp=1795652788~acl=/api/1/1/8/e/8/0/8e83d85f3391eb468bfae978fc1379f9.mp3*~data=user_id=0,application_id=42~hmac=2e326c69c0fdc20775d39669c81b3f4082be82cbd44007a8151880ed0be56f1d",
+              "preview_expires": "2026-11-26T00:26:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chris Lake/Beggin'.jpg"
+}

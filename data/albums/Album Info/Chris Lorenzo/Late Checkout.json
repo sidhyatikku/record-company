@@ -1,0 +1,192 @@
+{
+  "title": "Late Checkout",
+  "artist": "Chris Lorenzo",
+  "year": 2019,
+  "release_date": "2019-10-11",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "house",
+    "bassline",
+    "garage house",
+    "tech house"
+  ],
+  "tags": [
+    "electronic",
+    "house",
+    "bassline",
+    "garage house",
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fb036f27-74dc-4890-a414-6a5b4bd49af4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/780859021"
+  },
+  "musicbrainz_id": "fb036f27-74dc-4890-a414-6a5b4bd49af4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7c77c863-110d-4ef6-86dc-e38d588ae845",
+      "barcode": "3616401423668",
+      "title": "Late Checkout",
+      "disambiguation": "streaming",
+      "date": "2019-10-11",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "52:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bad Bitch",
+            "length": "4:49",
+            "artist": "Chris Lorenzo feat. Chynna",
+            "deezer": {
+              "id": 3438717021,
+              "link": "https://www.deezer.com/track/3438717021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/c/0/01c438662197231668ead986155c8643.mp3?hdnea=exp=1795652813~acl=/api/1/1/0/1/c/0/01c438662197231668ead986155c8643.mp3*~data=user_id=0,application_id=42~hmac=84beabf703a8c10a4c3153c91662c5cb9d86c92b126d156639e5678964b4fd27",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Stereotypes",
+            "length": "4:21",
+            "deezer": {
+              "id": 3438717031,
+              "link": "https://www.deezer.com/track/3438717031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/5/0/865640dafa15a7bf3dbcfd6d545f1e0c.mp3?hdnea=exp=1795652813~acl=/api/1/1/8/6/5/0/865640dafa15a7bf3dbcfd6d545f1e0c.mp3*~data=user_id=0,application_id=42~hmac=2fe3df2d9678b7b87429ff230f32f7b6d2008ab8f7ef02c7004314a717f94484",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Memories Fade",
+            "length": "5:56",
+            "artist": "Chris Lorenzo feat. Jinadu",
+            "deezer": {
+              "id": 3438717041,
+              "link": "https://www.deezer.com/track/3438717041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/9/0/6593061a85e9020dfa8e4890c53f8766.mp3?hdnea=exp=1795652813~acl=/api/1/1/6/5/9/0/6593061a85e9020dfa8e4890c53f8766.mp3*~data=user_id=0,application_id=42~hmac=b9b73411068b6851d8b5eb596325cfc16b4f7baff606ab98f58c67dd730f5962",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Every Morning",
+            "length": "3:16",
+            "deezer": {
+              "id": 3438717051,
+              "link": "https://www.deezer.com/track/3438717051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/2/0/7b2b215e22f95739eebbeec842dff449.mp3?hdnea=exp=1795652813~acl=/api/1/1/7/b/2/0/7b2b215e22f95739eebbeec842dff449.mp3*~data=user_id=0,application_id=42~hmac=17f63f456e2049c699434e85ca54de22f711e811a3768bf90c9e451a1615cc9b",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Work",
+            "length": "3:38",
+            "artist": "Chris Lorenzo feat. Denise & Puppah Nas-T",
+            "deezer": {
+              "id": 3438717061,
+              "link": "https://www.deezer.com/track/3438717061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/1/0/a518b3d1588142e26ee494cff1590dae.mp3?hdnea=exp=1795652813~acl=/api/1/1/a/5/1/0/a518b3d1588142e26ee494cff1590dae.mp3*~data=user_id=0,application_id=42~hmac=26e129ffcbda26ea936828ba800525d5a9be9403c2fa8c4d4fc1f230cbdb3e15",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Here Kitty",
+            "length": "4:55",
+            "artist": "Chris Lorenzo feat. Dances With White Girls",
+            "deezer": {
+              "id": 3438717071,
+              "link": "https://www.deezer.com/track/3438717071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/c/0/06cbbb0a32427729cd8e7632e779f3c9.mp3?hdnea=exp=1795652813~acl=/api/1/1/0/6/c/0/06cbbb0a32427729cd8e7632e779f3c9.mp3*~data=user_id=0,application_id=42~hmac=c821be22aa9e43863ad4eeaf78c1372108ad3aa249778d210bae3e2716be950b",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Don't Care",
+            "length": "4:53",
+            "deezer": {
+              "id": 3438717081,
+              "link": "https://www.deezer.com/track/3438717081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/7/0/8a7b051dcbc515125bbfd5f7865b24d1.mp3?hdnea=exp=1795652813~acl=/api/1/1/8/a/7/0/8a7b051dcbc515125bbfd5f7865b24d1.mp3*~data=user_id=0,application_id=42~hmac=edefc1e7166c09691f1ac84a30df0bed10ddbf0b4300a63e9e1f891e94ddf7e5",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Nuttin Dat",
+            "length": "3:42",
+            "artist": "Chris Lorenzo & Cause & Affect",
+            "deezer": {
+              "id": 3438717091,
+              "link": "https://www.deezer.com/track/3438717091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/9/0/469f11a2681655d8503576d814ac5006.mp3?hdnea=exp=1795652813~acl=/api/1/1/4/6/9/0/469f11a2681655d8503576d814ac5006.mp3*~data=user_id=0,application_id=42~hmac=dd91a1ef47db763d1f82f9712078995a9e2ab5e902db164ae9af94025d1cb8ce",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Take Me as I Am",
+            "length": "3:07",
+            "artist": "Chris Lorenzo feat. The Streets",
+            "deezer": {
+              "id": 3438717101,
+              "link": "https://www.deezer.com/track/3438717101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/8/0/1e87f4b08834f32f30927b6d287260a5.mp3?hdnea=exp=1795652813~acl=/api/1/1/1/e/8/0/1e87f4b08834f32f30927b6d287260a5.mp3*~data=user_id=0,application_id=42~hmac=743e42a3e24c969ab3860c4d40127d6a16433b540ec45ea3deb1ff7ede3752c9",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Doors of Perception (Interlude)",
+            "length": "2:23",
+            "deezer": {
+              "id": 3438717111,
+              "link": "https://www.deezer.com/track/3438717111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/d/0/eade9f915f12d9cf49d830b97657f9b1.mp3?hdnea=exp=1795652813~acl=/api/1/1/e/a/d/0/eade9f915f12d9cf49d830b97657f9b1.mp3*~data=user_id=0,application_id=42~hmac=2f8e0800e955fccce41796fdafae986b318a99dd7306e714bec28244909c4e66",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Run Up",
+            "length": "3:42",
+            "artist": "Chris Lorenzo & Redlight",
+            "deezer": {
+              "id": 3438717121,
+              "link": "https://www.deezer.com/track/3438717121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/9/0/0695032764a3706a7f0b3988629f7979.mp3?hdnea=exp=1795652813~acl=/api/1/1/0/6/9/0/0695032764a3706a7f0b3988629f7979.mp3*~data=user_id=0,application_id=42~hmac=2fd1d367d3f017c2f860336d0a1b1e46adf2a4c81c3959beb079f10947a382f7",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "City Traffic",
+            "length": "8:10",
+            "artist": "Chris Lorenzo feat. Marc Spence & Aubrey",
+            "deezer": {
+              "id": 3438717131,
+              "link": "https://www.deezer.com/track/3438717131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/3/0/df38283a787d33b88ba0571c8f6752e3.mp3?hdnea=exp=1795652813~acl=/api/1/1/d/f/3/0/df38283a787d33b88ba0571c8f6752e3.mp3*~data=user_id=0,application_id=42~hmac=140ecb1e65f93da7159d4b6fcf4fc839b463c58bc0c0e71777920e76fa43b603",
+              "preview_expires": "2026-11-26T00:26:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chris Lorenzo/Late Checkout.jpg"
+}

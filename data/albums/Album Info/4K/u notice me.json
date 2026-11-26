@@ -1,0 +1,51 @@
+{
+  "title": "u notice me",
+  "artist": "4K feat. Olivia Rose",
+  "year": 2025,
+  "release_date": "2025-04-04",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5c86dcd2-52a1-459e-8cd3-19d4f2b19676",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/727019241"
+  },
+  "musicbrainz_id": "5c86dcd2-52a1-459e-8cd3-19d4f2b19676",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1d576b29-9dac-4f4d-9a0e-192928d714e3",
+      "barcode": "199343395444",
+      "title": "u notice me",
+      "disambiguation": null,
+      "date": "2025-04-04",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "u notice me",
+            "length": "3:00",
+            "deezer": {
+              "id": 3277382571,
+              "link": "https://www.deezer.com/track/3277382571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/0/0/380b9adc780fc92092cf583e00fb8842.mp3?hdnea=exp=1795648646~acl=/api/1/1/3/8/0/0/380b9adc780fc92092cf583e00fb8842.mp3*~data=user_id=0,application_id=42~hmac=bf7261b66278f9e4bf72da5ef3267bd14897a8b4f15fd5479314f468499ce21c",
+              "preview_expires": "2026-11-25T23:17:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/4K/u notice me.jpg"
+}

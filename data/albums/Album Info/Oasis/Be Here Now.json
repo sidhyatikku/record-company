@@ -1,0 +1,540 @@
+{
+  "title": "Be Here Now",
+  "artist": "Oasis",
+  "year": 1997,
+  "release_date": "1997-08-21",
+  "type": "Album",
+  "description": "Be Here Now is the third studio album by the English rock band Oasis, released on 21 August 1997 by Creation Records. The album was recorded at multiple recording studios in London, including Abbey Road Studios, as well as Ridge Farm Studio in Surrey. Although most tracks retain the anthemic quality of previous releases, the songs on Be Here Now are longer and contain many guitar overdubs. Noel Gallagher said this was done to make the album sound as \"colossal\" as possible. The album cover features a shot of the band members at Stocks House in Hertfordshire. It is the last Oasis studio album to feature founding members guitarist Paul \"Bonehead\" Arthurs and bassist Paul \"Guigsy\" McGuigan as the two left in 1999, and the first to entirely feature Alan \"Whitey\" White on drums, having joined the band two years prior.",
+  "genres": [
+    "britpop",
+    "alternative rock",
+    "neo-psychedelia",
+    "hard rock",
+    "rock",
+    "indie rock",
+    "madchester",
+    "noise pop",
+    "power pop",
+    "psychedelic"
+  ],
+  "tags": [
+    "britpop",
+    "alternative rock",
+    "neo-psychedelia",
+    "alternative pop/rock",
+    "hard rock",
+    "brit pop",
+    "rock",
+    "5+ wochen",
+    "anthemic",
+    "bittersweet",
+    "british trad rock",
+    "dense",
+    "drugs",
+    "english",
+    "indie rock",
+    "lush",
+    "madchester",
+    "melodic",
+    "noise pop",
+    "noisy",
+    "offizielle charts",
+    "optimistic",
+    "passionate",
+    "power pop",
+    "psychedelic",
+    "uplifting",
+    "wall of sound"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 13
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/aea3ea51-121e-30a6-adc2-c63e659603ac",
+    "wikipedia": "https://en.wikipedia.org/wiki/Be_Here_Now_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000594848",
+    "discogs": "https://www.discogs.com/master/52240",
+    "wikidata": "https://www.wikidata.org/wiki/Q812828",
+    "deezer": "https://www.deezer.com/album/153555042"
+  },
+  "musicbrainz_id": "aea3ea51-121e-30a6-adc2-c63e659603ac",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2310dd1a-44e2-4790-844b-ea2a4019277e",
+      "barcode": "886446009667",
+      "title": "Be Here Now",
+      "disambiguation": "remastered",
+      "date": "2016-10-14",
+      "country": null
+    },
+    "total_tracks": 40,
+    "total_length": "3:37:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "D’You Know What I Mean?",
+            "length": "7:43",
+            "deezer": {
+              "id": 986463952,
+              "link": "https://www.deezer.com/track/986463952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc0ae683252427ac0083f0974dac429e.mp3?hdnea=exp=1795719081~acl=/api/1/1/d/c/0/0/dc0ae683252427ac0083f0974dac429e.mp3*~data=user_id=0,application_id=42~hmac=6386c20e5acf025e56142dcda58180168f086e533c86a66365e7a4e720c8914b",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "My Big Mouth",
+            "length": "5:11",
+            "deezer": {
+              "id": 986463962,
+              "link": "https://www.deezer.com/track/986463962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/5/0/605149f32b100cb37cda454c22c9baf2.mp3?hdnea=exp=1795719081~acl=/api/1/1/6/0/5/0/605149f32b100cb37cda454c22c9baf2.mp3*~data=user_id=0,application_id=42~hmac=2647823e994b6667786d573077858c90a10f5b3e33181aa4eb50ff8a68c34504",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Magic Pie",
+            "length": "7:10",
+            "deezer": {
+              "id": 986463972,
+              "link": "https://www.deezer.com/track/986463972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/7/0/357244fab54d2b1d64095e3a4b3728b1.mp3?hdnea=exp=1795719081~acl=/api/1/1/3/5/7/0/357244fab54d2b1d64095e3a4b3728b1.mp3*~data=user_id=0,application_id=42~hmac=c560c759eb62ccabdd094a3d5b49b7156413830455e1f94eb1ead9d7361f2567",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Stand by Me",
+            "length": "5:56",
+            "deezer": {
+              "id": 986463982,
+              "link": "https://www.deezer.com/track/986463982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/2/0/a02b6c2760f58337d3dffa38a03e6242.mp3?hdnea=exp=1795719081~acl=/api/1/1/a/0/2/0/a02b6c2760f58337d3dffa38a03e6242.mp3*~data=user_id=0,application_id=42~hmac=89fc77c265e58a58ed0ec5d6744641f3d91ca27b3c02cb3c0bae0630ae89d819",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Hope, I Think, I Know",
+            "length": "4:22",
+            "deezer": {
+              "id": 986463992,
+              "link": "https://www.deezer.com/track/986463992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/4/0/c249c0eb43c4f48254325af9d0b8a142.mp3?hdnea=exp=1795719081~acl=/api/1/1/c/2/4/0/c249c0eb43c4f48254325af9d0b8a142.mp3*~data=user_id=0,application_id=42~hmac=a604e42298fa0ee42295deafa350419d49593e609c0f347df7d180b0039da832",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Girl in the Dirty Shirt",
+            "length": "5:50",
+            "deezer": {
+              "id": 986464002,
+              "link": "https://www.deezer.com/track/986464002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/1/0/471c788d45d850ac87d569ee782b3106.mp3?hdnea=exp=1795719081~acl=/api/1/1/4/7/1/0/471c788d45d850ac87d569ee782b3106.mp3*~data=user_id=0,application_id=42~hmac=9c5f6a841a960266782f1becd149591822188ccc279752d912bdf56869be47cd",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Fade In‐Out",
+            "length": "6:51",
+            "deezer": {
+              "id": 986464012,
+              "link": "https://www.deezer.com/track/986464012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/4/0/91467858048e7929bfa6e5eb8d208560.mp3?hdnea=exp=1795719081~acl=/api/1/1/9/1/4/0/91467858048e7929bfa6e5eb8d208560.mp3*~data=user_id=0,application_id=42~hmac=9cc7a4ca91c4e36e5c9f5732e3dd134c692427cc08779b79345e8a33ecd8f793",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Don’t Go Away",
+            "length": "4:49",
+            "deezer": {
+              "id": 986464022,
+              "link": "https://www.deezer.com/track/986464022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/d/0/1ad8176e508595b26911534080b9ce60.mp3?hdnea=exp=1795719081~acl=/api/1/1/1/a/d/0/1ad8176e508595b26911534080b9ce60.mp3*~data=user_id=0,application_id=42~hmac=610eab4e18bea30bd8d324b9d84aab016a8a6a5ec680df9f670c22589cca9ed6",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Be Here Now",
+            "length": "5:13",
+            "deezer": {
+              "id": 986464032,
+              "link": "https://www.deezer.com/track/986464032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/4/0/3c478b679e8c8b60a0de8c667dea5602.mp3?hdnea=exp=1795719081~acl=/api/1/1/3/c/4/0/3c478b679e8c8b60a0de8c667dea5602.mp3*~data=user_id=0,application_id=42~hmac=b8f178dc28526a62d9400e81f29313bea8b322942fe47a37e1b95612af7078fc",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "All Around the World",
+            "length": "9:19",
+            "deezer": {
+              "id": 986464042,
+              "link": "https://www.deezer.com/track/986464042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/c/0/5cc5b015498eb6442c204524996afaed.mp3?hdnea=exp=1795719081~acl=/api/1/1/5/c/c/0/5cc5b015498eb6442c204524996afaed.mp3*~data=user_id=0,application_id=42~hmac=111c716b660a6dd8d3a58ad52acd4186761f9d7d91b5340b61a7713dcfd6707f",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "It’s Gettin’ Better (Man!!)",
+            "length": "7:03",
+            "deezer": {
+              "id": 986464052,
+              "link": "https://www.deezer.com/track/986464052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/d/0/99dfacb19fed7dc9c151fee528908574.mp3?hdnea=exp=1795719081~acl=/api/1/1/9/9/d/0/99dfacb19fed7dc9c151fee528908574.mp3*~data=user_id=0,application_id=42~hmac=f79aaa0ee8aa0df4afd2ee361c5b62754fb89d7e5704e8ff5fdd695c4ed6b82e",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "All Around the World (reprise)",
+            "length": "2:07",
+            "deezer": {
+              "id": 986464062,
+              "link": "https://www.deezer.com/track/986464062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/0/0/9708590acd4b52aee49447a22a1295ca.mp3?hdnea=exp=1795719081~acl=/api/1/1/9/7/0/0/9708590acd4b52aee49447a22a1295ca.mp3*~data=user_id=0,application_id=42~hmac=f5c4a054cb3243f77486430b6ff002129e29404f2b1b56ca40d3ff9bcdc91ba9",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stay Young",
+            "length": "5:08",
+            "deezer": {
+              "id": 986464072,
+              "link": "https://www.deezer.com/track/986464072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/3/0/4532d9b920d1dfcb74659ceff2a3c0c8.mp3?hdnea=exp=1795719081~acl=/api/1/1/4/5/3/0/4532d9b920d1dfcb74659ceff2a3c0c8.mp3*~data=user_id=0,application_id=42~hmac=479bafcc5fb18498eacf73405db5e959d1c1f140db5313b9e129c6a583030249",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Fame",
+            "length": "4:36",
+            "deezer": {
+              "id": 986464082,
+              "link": "https://www.deezer.com/track/986464082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/4/0/6c4dfa2f561e3e99480b173d44c2b88d.mp3?hdnea=exp=1795719081~acl=/api/1/1/6/c/4/0/6c4dfa2f561e3e99480b173d44c2b88d.mp3*~data=user_id=0,application_id=42~hmac=3a05065ac54a1d6331c97b0e0fe8026f9dfeeec71be411148d1ea50cbf87423a",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Flashbax",
+            "length": "5:09",
+            "deezer": {
+              "id": 986464092,
+              "link": "https://www.deezer.com/track/986464092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/0/0/d80b08e1667fb2e7d81f745ef94516fe.mp3?hdnea=exp=1795719081~acl=/api/1/1/d/8/0/0/d80b08e1667fb2e7d81f745ef94516fe.mp3*~data=user_id=0,application_id=42~hmac=4bca98a13b33ab6e5f9c79dadebc99a299066d46d37024ee1bff7282d71843a4",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "(I Got) The Fever",
+            "length": "5:15",
+            "deezer": {
+              "id": 986464102,
+              "link": "https://www.deezer.com/track/986464102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/4/0/284014129c40294851516e7526179fca.mp3?hdnea=exp=1795719081~acl=/api/1/1/2/8/4/0/284014129c40294851516e7526179fca.mp3*~data=user_id=0,application_id=42~hmac=60a5022beec68ce4b4edd2f26973dfad57fdf3dcc6b6b709eb1715a076ca9741",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "My Sister Lover",
+            "length": "5:59",
+            "deezer": {
+              "id": 986464112,
+              "link": "https://www.deezer.com/track/986464112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f35ed7ae99d93027fde3cafe3244f84.mp3?hdnea=exp=1795719081~acl=/api/1/1/6/f/3/0/6f35ed7ae99d93027fde3cafe3244f84.mp3*~data=user_id=0,application_id=42~hmac=cf6f6d469661690730fb1f5e024da35983e4a6c088fd9d5b61f080612dd656bf",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Going Nowhere",
+            "length": "4:42",
+            "deezer": {
+              "id": 986464122,
+              "link": "https://www.deezer.com/track/986464122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/8/0/2b8728fc6fa1f147c9f9d4c1f36a4e4e.mp3?hdnea=exp=1795719081~acl=/api/1/1/2/b/8/0/2b8728fc6fa1f147c9f9d4c1f36a4e4e.mp3*~data=user_id=0,application_id=42~hmac=1f01899926ce6153853b381679affada05444f4584615571d134f60d6faaf315",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Stand by Me (live at Bonehead’s outtake)",
+            "length": "6:03",
+            "deezer": {
+              "id": 986464132,
+              "link": "https://www.deezer.com/track/986464132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/9/0/9b92acfdd52cb829709faf9c0168b24a.mp3?hdnea=exp=1795719081~acl=/api/1/1/9/b/9/0/9b92acfdd52cb829709faf9c0168b24a.mp3*~data=user_id=0,application_id=42~hmac=5d8dfcc955aab4463abdb259a6b45adac96b2bc18568d4255a75552f8a2b1a15",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Untitled (demo)",
+            "length": "4:38",
+            "deezer": {
+              "id": 986464142,
+              "link": "https://www.deezer.com/track/986464142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/8/0/3f88befb9590e61d1b9d64baed8f2b5f.mp3?hdnea=exp=1795719081~acl=/api/1/1/3/f/8/0/3f88befb9590e61d1b9d64baed8f2b5f.mp3*~data=user_id=0,application_id=42~hmac=342789eef173c6a651b57c2bce5fac2251e969c56b13ecbbc366f13518572dc9",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Help! (live in LA)",
+            "length": "3:45",
+            "deezer": {
+              "id": 986464152,
+              "link": "https://www.deezer.com/track/986464152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/0/0/70050a6cc51f41aacc0f1864208cb2c5.mp3?hdnea=exp=1795719081~acl=/api/1/1/7/0/0/0/70050a6cc51f41aacc0f1864208cb2c5.mp3*~data=user_id=0,application_id=42~hmac=93dcc90f702831d79d63eac8437f3ae00a924fa11660b61ddfe09b18bcf32ce3",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Setting Sun (live radio broadcast)",
+            "length": "3:56",
+            "deezer": {
+              "id": 986464162,
+              "link": "https://www.deezer.com/track/986464162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/3/0/813776db9fa1e94e85bb4ef964041637.mp3?hdnea=exp=1795719081~acl=/api/1/1/8/1/3/0/813776db9fa1e94e85bb4ef964041637.mp3*~data=user_id=0,application_id=42~hmac=a6189f222c9ec8fe079d0385eb1d1456452d5378d686877416960d0a7b9c47ee",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "If We Shadows (demo)",
+            "length": "4:53",
+            "deezer": {
+              "id": 986464172,
+              "link": "https://www.deezer.com/track/986464172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/9/0/f397ec51778f1e586eb6ba3eb9c79795.mp3?hdnea=exp=1795719081~acl=/api/1/1/f/3/9/0/f397ec51778f1e586eb6ba3eb9c79795.mp3*~data=user_id=0,application_id=42~hmac=583f96ae0cb7b0960ac403707d6a68116b0ebcc2ed101a3f49d48920d468bd6d",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Don’t Go Away (demo)",
+            "length": "3:43",
+            "deezer": {
+              "id": 986464182,
+              "link": "https://www.deezer.com/track/986464182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/4/0/134a29979163c7d806bb1ac1193b8b58.mp3?hdnea=exp=1795719081~acl=/api/1/1/1/3/4/0/134a29979163c7d806bb1ac1193b8b58.mp3*~data=user_id=0,application_id=42~hmac=ac87a48f1941795291f369506ed8476c0d22ef055e2efc3ab192afa694149af3",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "My Big Mouth (live at Knebworth Park)",
+            "length": "5:21",
+            "deezer": {
+              "id": 986464192,
+              "link": "https://www.deezer.com/track/986464192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/5/0/ba5c2585ebda2a3cb443b187edc7788f.mp3?hdnea=exp=1795719081~acl=/api/1/1/b/a/5/0/ba5c2585ebda2a3cb443b187edc7788f.mp3*~data=user_id=0,application_id=42~hmac=4031801176f7e65eed4669dd25dd367ad2a0106b25b76ac96e71e5b36677a916",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "D’You Know What I Mean? (NG’s 2016 Rethink)",
+            "length": "7:23",
+            "deezer": {
+              "id": 986464202,
+              "link": "https://www.deezer.com/track/986464202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/7/0/c576bd4bc9e6022e3e7afa6b9cb3d0c5.mp3?hdnea=exp=1795719081~acl=/api/1/1/c/5/7/0/c576bd4bc9e6022e3e7afa6b9cb3d0c5.mp3*~data=user_id=0,application_id=42~hmac=f98d6b7751412ec51b9a46d1c145b407b08dc131219d34bd72a59bea946fba1f",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 3,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "D’You Know What I Mean? (Mustique demo)",
+            "length": "7:15",
+            "deezer": {
+              "id": 986464212,
+              "link": "https://www.deezer.com/track/986464212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/a/0/6aa022178bf6a182aa1cc192b924ce25.mp3?hdnea=exp=1795719081~acl=/api/1/1/6/a/a/0/6aa022178bf6a182aa1cc192b924ce25.mp3*~data=user_id=0,application_id=42~hmac=afc9c8faac551eca93dce9a0af7d0693d1614963f2809522cbd49c66e5ce7794",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "My Big Mouth (Mustique demo)",
+            "length": "5:17",
+            "deezer": {
+              "id": 986464222,
+              "link": "https://www.deezer.com/track/986464222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/a/0/0aa09d82576c1f2c90c17d16e0a1d5a6.mp3?hdnea=exp=1795719081~acl=/api/1/1/0/a/a/0/0aa09d82576c1f2c90c17d16e0a1d5a6.mp3*~data=user_id=0,application_id=42~hmac=6437f124a2ef06ff3e86e846feedd483dd8a0adb22ef4a818a6ad10f44202f28",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "My Sister Lover (Mustique demo)",
+            "length": "6:09",
+            "deezer": {
+              "id": 986464232,
+              "link": "https://www.deezer.com/track/986464232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/0/0/0c0b8500bcc21cba9c495374a83e8153.mp3?hdnea=exp=1795719081~acl=/api/1/1/0/c/0/0/0c0b8500bcc21cba9c495374a83e8153.mp3*~data=user_id=0,application_id=42~hmac=1d6fc390c63b7b879ad506a62fe0671752160d1a037b680dc0a85469433af246",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Stand by Me (Mustique demo)",
+            "length": "6:01",
+            "deezer": {
+              "id": 986464242,
+              "link": "https://www.deezer.com/track/986464242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/b/0/e7b3db2d9faede1c3789edb46da3e648.mp3?hdnea=exp=1795719081~acl=/api/1/1/e/7/b/0/e7b3db2d9faede1c3789edb46da3e648.mp3*~data=user_id=0,application_id=42~hmac=6dbc62b9755238b963fd23638e7a06cf30bafd3f6d2f9aded1e43a5006de574d",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Hope, I Think, I Know (Mustique demo)",
+            "length": "4:11",
+            "deezer": {
+              "id": 986464252,
+              "link": "https://www.deezer.com/track/986464252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/b/0/0db8446adea570d3149b1bd8546ca1bd.mp3?hdnea=exp=1795719081~acl=/api/1/1/0/d/b/0/0db8446adea570d3149b1bd8546ca1bd.mp3*~data=user_id=0,application_id=42~hmac=267d15eb00f6ec37b6565a039df639ac7677f1c47a1218d01ee67c4313c30d20",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Girl in the Dirty Shirt (Mustique demo)",
+            "length": "5:23",
+            "deezer": {
+              "id": 986464262,
+              "link": "https://www.deezer.com/track/986464262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/a/0/c4a781f92bd5cfd41ca0118cb8511b11.mp3?hdnea=exp=1795719081~acl=/api/1/1/c/4/a/0/c4a781f92bd5cfd41ca0118cb8511b11.mp3*~data=user_id=0,application_id=42~hmac=0be83cfe0a8cac221d91573731852eeab6014d3814c69a84c2462dc167427845",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Don’t Go Away (Mustique demo)",
+            "length": "4:18",
+            "deezer": {
+              "id": 986464272,
+              "link": "https://www.deezer.com/track/986464272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/2/0/d727a23bd4a8107cb060b55edb6f615d.mp3?hdnea=exp=1795719081~acl=/api/1/1/d/7/2/0/d727a23bd4a8107cb060b55edb6f615d.mp3*~data=user_id=0,application_id=42~hmac=6b29996d929894c660e7ef4ec097ea03cfa285994c5cdd560ece57226992a4e3",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Trip Inside (Be Here Now) (Mustique demo)",
+            "length": "3:35",
+            "deezer": {
+              "id": 986464282,
+              "link": "https://www.deezer.com/track/986464282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/2/0/c52d68a95442e80d9b8d08a502305369.mp3?hdnea=exp=1795719081~acl=/api/1/1/c/5/2/0/c52d68a95442e80d9b8d08a502305369.mp3*~data=user_id=0,application_id=42~hmac=fa572c106bac7939eba3ccf183230e30805f4b53bcb49adb7a79c90aad4cd739",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Fade In‐Out (Mustique demo)",
+            "length": "6:03",
+            "deezer": {
+              "id": 986464292,
+              "link": "https://www.deezer.com/track/986464292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/d/0/dcd4d86b2b76a2fcefb6ada776e12ebb.mp3?hdnea=exp=1795719081~acl=/api/1/1/d/c/d/0/dcd4d86b2b76a2fcefb6ada776e12ebb.mp3*~data=user_id=0,application_id=42~hmac=eaae2ae5e488369c8024806155e3bbac5693fac0a90b16d25b9b4251805ac1e8",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Stay Young (Mustique demo)",
+            "length": "4:56",
+            "deezer": {
+              "id": 986464302,
+              "link": "https://www.deezer.com/track/986464302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/e/0/76e036af2c6aaa39373c31c18ea1a10c.mp3?hdnea=exp=1795719081~acl=/api/1/1/7/6/e/0/76e036af2c6aaa39373c31c18ea1a10c.mp3*~data=user_id=0,application_id=42~hmac=1a4f68dad1246eaaa57886da02de83482f54c4e7527dd72a3bae2ae55960ae71",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Angel Child (Mustique demo)",
+            "length": "4:28",
+            "deezer": {
+              "id": 986464312,
+              "link": "https://www.deezer.com/track/986464312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/6/0/91694bdd30a5c1e99c42e4d1a6bcc219.mp3?hdnea=exp=1795719081~acl=/api/1/1/9/1/6/0/91694bdd30a5c1e99c42e4d1a6bcc219.mp3*~data=user_id=0,application_id=42~hmac=4da28e8aa32bcb3ad051538ff8abada0b4a7fe980cba18ec31ca1b09fc95fd92",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Fame (Mustique demo)",
+            "length": "4:45",
+            "deezer": {
+              "id": 986464322,
+              "link": "https://www.deezer.com/track/986464322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/0/0/fe0b98a3d750435a17264915d24169d6.mp3?hdnea=exp=1795719081~acl=/api/1/1/f/e/0/0/fe0b98a3d750435a17264915d24169d6.mp3*~data=user_id=0,application_id=42~hmac=5ae80e5db2d7eb7845e15bbd3f008aed8e97da2ba3afd4706b6a2d33bbca9c94",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "All Around the World (Mustique demo)",
+            "length": "6:31",
+            "deezer": {
+              "id": 986464332,
+              "link": "https://www.deezer.com/track/986464332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/7/0/647319dec9681de0aaa2cc9b8850953f.mp3?hdnea=exp=1795719081~acl=/api/1/1/6/4/7/0/647319dec9681de0aaa2cc9b8850953f.mp3*~data=user_id=0,application_id=42~hmac=1cff723b574d43f184a9884368909b88cca6adeae172ba82253b91f785a2e876",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "It’s Gettin’ Better (Man!!) (Mustique demo)",
+            "length": "6:38",
+            "deezer": {
+              "id": 986464342,
+              "link": "https://www.deezer.com/track/986464342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/a/0/92ac64d1e5e27a9e08841361160faad9.mp3?hdnea=exp=1795719081~acl=/api/1/1/9/2/a/0/92ac64d1e5e27a9e08841361160faad9.mp3*~data=user_id=0,application_id=42~hmac=432470c6b20a7e26d271bff11ce34c574be80332751bcc3dcd8ce749fc416f1e",
+              "preview_expires": "2026-11-26T18:51:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Oasis/Be Here Now.jpg"
+}

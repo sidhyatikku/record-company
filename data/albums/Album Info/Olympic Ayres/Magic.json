@@ -1,0 +1,55 @@
+{
+  "title": "Magic",
+  "artist": "Olympic Ayres",
+  "year": 2013,
+  "release_date": "2013-06-25",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7f63e1ea-79cf-4d03-8725-02a0f3ff4981",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/75877192"
+  },
+  "musicbrainz_id": "7f63e1ea-79cf-4d03-8725-02a0f3ff4981",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f653c9ef-578e-489d-9585-3e94471eceb9",
+      "barcode": null,
+      "title": "Magic",
+      "disambiguation": null,
+      "date": "2013-06-25",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "4:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Magic",
+            "length": "4:01",
+            "deezer": {
+              "id": 569577302,
+              "link": "https://www.deezer.com/track/569577302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f19e985fe8a084726b7048a4794c08b.mp3?hdnea=exp=1795719148~acl=/api/1/1/3/f/1/0/3f19e985fe8a084726b7048a4794c08b.mp3*~data=user_id=0,application_id=42~hmac=97280bfb233b06e39a95fad2c8a6bf17b24beeab191cc76a0becbd283987097d",
+              "preview_expires": "2026-11-26T18:52:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Olympic Ayres/Magic.jpg"
+}

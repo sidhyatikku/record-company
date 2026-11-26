@@ -1,0 +1,51 @@
+{
+  "title": "Guddi Riddim",
+  "artist": "DJ Snake, Wade & Nooran Sisters",
+  "year": 2022,
+  "release_date": "2022-12-20",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/097e000e-44ae-4a53-aaf9-a6f600eb8f83",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/388135097"
+  },
+  "musicbrainz_id": "097e000e-44ae-4a53-aaf9-a6f600eb8f83",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6609e2cf-c18d-46bb-97b1-08edb411b579",
+      "barcode": "00602455082022",
+      "title": "Guddi Riddim",
+      "disambiguation": null,
+      "date": "2022-12-20",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Guddi Riddim",
+            "length": "3:30",
+            "deezer": {
+              "id": 2076096427,
+              "link": "https://www.deezer.com/track/2076096427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/7/0/da70c481746aa2d80f5209b27d009947.mp3?hdnea=exp=1795653445~acl=/api/1/1/d/a/7/0/da70c481746aa2d80f5209b27d009947.mp3*~data=user_id=0,application_id=42~hmac=71e97122d3fe6f0eff0c8f91cc8918d45df4b1d359fe27ee2c43ee14597cf683",
+              "preview_expires": "2026-11-26T00:37:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/DJ Snake/Guddi Riddim.jpg"
+}

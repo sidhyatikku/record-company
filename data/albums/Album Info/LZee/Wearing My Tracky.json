@@ -1,0 +1,51 @@
+{
+  "title": "Wearing My Tracky",
+  "artist": "LZee, Toddla T",
+  "year": 2024,
+  "release_date": "2024-06-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage",
+    "drum and bass",
+    "hip house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH",
+    "deezer": "https://www.deezer.com/album/591130632"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH",
+      "title": "Wearing My Tracky",
+      "date": "2024-06-12"
+    },
+    "total_tracks": 1,
+    "total_length": "1:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wearing My Tracky",
+            "length": "1:45",
+            "deezer": {
+              "id": 2815598832,
+              "link": "https://www.deezer.com/track/2815598832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/1/0/9912935d5ca31ef0dab2b1807411d305.mp3?hdnea=exp=1795718140~acl=/api/1/1/9/9/1/0/9912935d5ca31ef0dab2b1807411d305.mp3*~data=user_id=0,application_id=42~hmac=ee9fc2b2ab2b76212a5b5b381448635d3d480f30367d766a1dcbc4d14e798d09",
+              "preview_expires": "2026-11-26T18:35:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/LZee/Wearing My Tracky.jpg"
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Waking Life: Original Motion Picture Soundtrack",
+  "artist": "Various Artists",
+  "year": 2001,
+  "release_date": "2001",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ea83c417-00a5-40b6-ac5f-43328343cc4d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/9078065"
+  },
+  "musicbrainz_id": "ea83c417-00a5-40b6-ac5f-43328343cc4d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/113c3b07-bf78-423b-b0c7-9f0c10859388",
+      "barcode": "016581689022",
+      "title": "Waking Life: Original Motion Picture Soundtrack",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "43:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ballade 4 Part 1",
+            "length": "3:05",
+            "artist": "Tosca Tango Orchestra"
+          },
+          {
+            "number": "2",
+            "title": "Mi Otra Mitad De Naranja",
+            "length": "5:07",
+            "artist": "Tosca Tango Orchestra"
+          },
+          {
+            "number": "3",
+            "title": "Pelo Negro",
+            "length": "4:16",
+            "artist": "Tosca Tango Orchestra"
+          },
+          {
+            "number": "4",
+            "title": "La Cosa Pequeña",
+            "length": "3:56",
+            "artist": "Tosca Tango Orchestra"
+          },
+          {
+            "number": "5",
+            "title": "Lastima Grande",
+            "length": "2:50",
+            "artist": "Tosca Tango Orchestra"
+          },
+          {
+            "number": "6",
+            "title": "Nocturne In E-Flat Opus 9 #2",
+            "length": "4:00",
+            "artist": "Glover Gil"
+          },
+          {
+            "number": "7",
+            "title": "Ballade 3",
+            "length": "7:53",
+            "artist": "Tosca Tango Orchestra"
+          },
+          {
+            "number": "8",
+            "title": "El Cholulo",
+            "length": "2:51",
+            "artist": "Tosca Tango Orchestra"
+          },
+          {
+            "number": "9",
+            "title": "Nocturna",
+            "length": "3:36",
+            "artist": "Glovertango"
+          },
+          {
+            "number": "10",
+            "title": "Super Sport",
+            "length": "3:54",
+            "artist": "Glovertango"
+          },
+          {
+            "number": "11",
+            "title": "Ballade 4 Part 2",
+            "length": "2:08",
+            "artist": "Tosca Tango Orchestra"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Once In The Life (Original Motion Picture Soundtrack).jpg"
+}

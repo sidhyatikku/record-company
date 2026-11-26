@@ -1,0 +1,150 @@
+{
+  "title": "Blowin’ Your Mind!",
+  "artist": "Van Morrison",
+  "year": 1967,
+  "release_date": "1967",
+  "type": "Album",
+  "description": "Blowin' Your Mind! is the debut studio album by Northern Irish musician Van Morrison, released in 1967. It was recorded 28–29 March 1967 and contained his first solo pop hit \"Brown Eyed Girl\". It was included by Rolling Stone as one of the 40 Essential Albums of 1967.",
+  "genres": [
+    "rock",
+    "blues",
+    "blue-eyed soul",
+    "folk pop",
+    "folk rock",
+    "pop rock"
+  ],
+  "tags": [
+    "rock",
+    "blues",
+    "blue-eyed soul",
+    "folk pop",
+    "folk rock",
+    "pop rock",
+    "rhythm & blues"
+  ],
+  "rating": {
+    "value_out_of_5": 3.45,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c89a3194-d0bb-3089-a538-f0b782ca4395",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blowin'_Your_Mind!",
+    "allmusic": "https://www.allmusic.com/album/mw0000044748",
+    "discogs": "https://www.discogs.com/master/16557",
+    "wikidata": "https://www.wikidata.org/wiki/Q2884757",
+    "deezer": "https://www.deezer.com/album/793589981"
+  },
+  "musicbrainz_id": "c89a3194-d0bb-3089-a538-f0b782ca4395",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/34c78187-bcb0-42c6-a999-c3341d418d34",
+      "barcode": "886445460452",
+      "title": "Blowin’ Your Mind!",
+      "disambiguation": "192kHz/24bit",
+      "date": "2015-08-28",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "35:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Brown Eyed Girl",
+            "length": "3:07",
+            "deezer": {
+              "id": 3476207771,
+              "link": "https://www.deezer.com/track/3476207771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/0/0/9000088857bb550f343f22740bd252f4.mp3?hdnea=exp=1795722175~acl=/api/1/1/9/0/0/0/9000088857bb550f343f22740bd252f4.mp3*~data=user_id=0,application_id=42~hmac=1ece0b3e1f7ea6a40ea6680659b883e009511083f266775d99fac8598e10e072",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "He Ain’t Give You None",
+            "length": "5:16",
+            "deezer": {
+              "id": 3476207781,
+              "link": "https://www.deezer.com/track/3476207781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/d/0/12d0695ddd13480d7a24f911648b5585.mp3?hdnea=exp=1795722175~acl=/api/1/1/1/2/d/0/12d0695ddd13480d7a24f911648b5585.mp3*~data=user_id=0,application_id=42~hmac=2e5c824b6ffbf6d3592b7b28f34a9016a102aac62c09f899894d2ab1a64e0a94",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "T. B. Sheets",
+            "length": "9:47",
+            "deezer": {
+              "id": 3476207791,
+              "link": "https://www.deezer.com/track/3476207791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/6/0/fb633814d468d606b6b6d3f35c2558a8.mp3?hdnea=exp=1795722175~acl=/api/1/1/f/b/6/0/fb633814d468d606b6b6d3f35c2558a8.mp3*~data=user_id=0,application_id=42~hmac=19bc96548ca918348f5b85d9f13b91ed2b093367a35b02e19f24c1aff468270a",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Spanish Rose",
+            "length": "3:09",
+            "deezer": {
+              "id": 3476207801,
+              "link": "https://www.deezer.com/track/3476207801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/5/0/a6515dc291427972f288dc72eb6f75c6.mp3?hdnea=exp=1795722175~acl=/api/1/1/a/6/5/0/a6515dc291427972f288dc72eb6f75c6.mp3*~data=user_id=0,application_id=42~hmac=cc0a860d4924e3e8b15c73e7a09699c999a4f57d31274d9cd1652ae46600dc1b",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Goodbye Baby (Baby Goodbye)",
+            "length": "3:00",
+            "deezer": {
+              "id": 3476207811,
+              "link": "https://www.deezer.com/track/3476207811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/c/0/3ac9f3044062c2896ac1d3fd240ea30b.mp3?hdnea=exp=1795722175~acl=/api/1/1/3/a/c/0/3ac9f3044062c2896ac1d3fd240ea30b.mp3*~data=user_id=0,application_id=42~hmac=e36dbf145a3cde8d8614bf37d289c2e888bddc5a0d60c45eb786801ffab39843",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ro Ro Rosey",
+            "length": "3:06",
+            "deezer": {
+              "id": 3476207821,
+              "link": "https://www.deezer.com/track/3476207821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/a/0/9da8641154cc3d42fa63230f4ee09322.mp3?hdnea=exp=1795722175~acl=/api/1/1/9/d/a/0/9da8641154cc3d42fa63230f4ee09322.mp3*~data=user_id=0,application_id=42~hmac=2d9a949f2537607a46bbbb201f60f1ba966473e0b55a166fb9f09b0149b0d95e",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Who Drove the Red Sports Car",
+            "length": "5:37",
+            "deezer": {
+              "id": 3476207831,
+              "link": "https://www.deezer.com/track/3476207831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/c/0/4dcebd433822dfd9464f481ea4fc2aff.mp3?hdnea=exp=1795722175~acl=/api/1/1/4/d/c/0/4dcebd433822dfd9464f481ea4fc2aff.mp3*~data=user_id=0,application_id=42~hmac=7cb795b0996cc06a5b720b014d75d92849734dbe578d568f36bcc1aeed3b9b92",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Midnight Special",
+            "length": "2:51",
+            "deezer": {
+              "id": 3476207841,
+              "link": "https://www.deezer.com/track/3476207841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/9/0/2996a81d881ae13c6d6f835691d9f0ee.mp3?hdnea=exp=1795722175~acl=/api/1/1/2/9/9/0/2996a81d881ae13c6d6f835691d9f0ee.mp3*~data=user_id=0,application_id=42~hmac=896bf27c7ca00e2d42a9f7e927e34fc5e347fa5a15d6164bde1c8732ae6b4e51",
+              "preview_expires": "2026-11-26T19:42:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Van Morrison/Blowin' Your Mind!.jpg"
+}

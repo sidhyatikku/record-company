@@ -1,0 +1,193 @@
+{
+  "title": "Go! Common Classics",
+  "artist": "Common",
+  "year": 2010,
+  "release_date": "2010-05-18",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4e88deb2-4800-4382-95e3-bc45d88b1170",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/557144"
+  },
+  "musicbrainz_id": "4e88deb2-4800-4382-95e3-bc45d88b1170",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a229c074-a934-4e56-83c4-a0375d324c40",
+      "barcode": "602527231617",
+      "title": "Go! Common Classics",
+      "disambiguation": null,
+      "date": "2010-05-25",
+      "country": "US"
+    },
+    "total_tracks": 13,
+    "total_length": "51:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Light",
+            "length": "4:03",
+            "deezer": {
+              "id": 6106509,
+              "link": "https://www.deezer.com/track/6106509",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/6/0/dc64856dfa2357f33187c005dc5acad2.mp3?hdnea=exp=1795652935~acl=/api/1/1/d/c/6/0/dc64856dfa2357f33187c005dc5acad2.mp3*~data=user_id=0,application_id=42~hmac=7b13705014395ea0b5e095c5098c84e99c54dff6d4f921dab2d4046b7eb7cac5",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Universal Mind Control (UMC)",
+            "length": "3:26",
+            "deezer": {
+              "id": 6106510,
+              "link": "https://www.deezer.com/track/6106510",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/8/0/178ef7973d7322c5e71cbd27507bdc81.mp3?hdnea=exp=1795652935~acl=/api/1/1/1/7/8/0/178ef7973d7322c5e71cbd27507bdc81.mp3*~data=user_id=0,application_id=42~hmac=7e7d464911572edd9561b266d7d4e933f00ee7f87891c3025c061c8c633bd775",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Next Time (Just Right version)",
+            "length": "3:52",
+            "artist": "Common feat. Queen Latifah",
+            "deezer": {
+              "id": 6106511,
+              "link": "https://www.deezer.com/track/6106511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/0/0/df0b0d77daff3c252ee6e09f6cb15727.mp3?hdnea=exp=1795652935~acl=/api/1/1/d/f/0/0/df0b0d77daff3c252ee6e09f6cb15727.mp3*~data=user_id=0,application_id=42~hmac=1b90dd24ee44d554efbe9c31b216332ac3d85a85a20eb67207497bdbabd52a5e",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Go!",
+            "length": "3:45",
+            "deezer": {
+              "id": 6106512,
+              "link": "https://www.deezer.com/track/6106512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/d/0/3fd892223fd53dfe479e4f6e75e7c828.mp3?hdnea=exp=1795652935~acl=/api/1/1/3/f/d/0/3fd892223fd53dfe479e4f6e75e7c828.mp3*~data=user_id=0,application_id=42~hmac=e128fd6105426aa57d916b92000ffe5abb2cdac9763297a5a24ff953df5939ca",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Come Close",
+            "length": "4:11",
+            "artist": "Common feat. Mary J. Blige",
+            "deezer": {
+              "id": 6106513,
+              "link": "https://www.deezer.com/track/6106513",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/f/0/43f8dc036c754293b76bc79dadb32d18.mp3?hdnea=exp=1795652935~acl=/api/1/1/4/3/f/0/43f8dc036c754293b76bc79dadb32d18.mp3*~data=user_id=0,application_id=42~hmac=d8047ed3b7c435178dccf1d9fa34dd047a00c40c6dd1afb986abf687f4011927",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Want You",
+            "length": "4:31",
+            "deezer": {
+              "id": 6106514,
+              "link": "https://www.deezer.com/track/6106514",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/3/0/013a0884ba23414b4364bdded7d1da91.mp3?hdnea=exp=1795652935~acl=/api/1/1/0/1/3/0/013a0884ba23414b4364bdded7d1da91.mp3*~data=user_id=0,application_id=42~hmac=f66b751d5f7e834736674d36fc69632c83b05ca05769dca55553bb46440df02a",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Corner",
+            "length": "3:46",
+            "artist": "Common feat. The Last Poets",
+            "deezer": {
+              "id": 6106515,
+              "link": "https://www.deezer.com/track/6106515",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/b/0/34b4af478ba2d7ce4be076efaf6a66cd.mp3?hdnea=exp=1795652935~acl=/api/1/1/3/4/b/0/34b4af478ba2d7ce4be076efaf6a66cd.mp3*~data=user_id=0,application_id=42~hmac=9c7b77dd8521e1e60ef706853b0c5030d0deda4aab0534173cbf4fb00aa27daf",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Love of My Life (An Ode to Hip Hop)",
+            "length": "5:38",
+            "artist": "Erykah Badu feat. Common",
+            "deezer": {
+              "id": 6106516,
+              "link": "https://www.deezer.com/track/6106516",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/a/0/b0a1512680c7b02838ca81d00e2cedca.mp3?hdnea=exp=1795652935~acl=/api/1/1/b/0/a/0/b0a1512680c7b02838ca81d00e2cedca.mp3*~data=user_id=0,application_id=42~hmac=84e19196504773b1d94be383e4a1ad23c1bef0cf58feb6944d4b5d6268bda878",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Testify",
+            "length": "2:38",
+            "deezer": {
+              "id": 6106517,
+              "link": "https://www.deezer.com/track/6106517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/5/0/7756c658e2917b04f4a95780a03050d2.mp3?hdnea=exp=1795652935~acl=/api/1/1/7/7/5/0/7756c658e2917b04f4a95780a03050d2.mp3*~data=user_id=0,application_id=42~hmac=9caca4f9737c4a89cd3e7a12de3fcc1c8589c6a80852ba7fd553275dd293c95c",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The People",
+            "length": "3:26",
+            "deezer": {
+              "id": 6106518,
+              "link": "https://www.deezer.com/track/6106518",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/7/0/cc79f164345b88fa251a83e5a73288d5.mp3?hdnea=exp=1795652935~acl=/api/1/1/c/c/7/0/cc79f164345b88fa251a83e5a73288d5.mp3*~data=user_id=0,application_id=42~hmac=ffb40a3639da3e04e121f1a938ddf9fd1a1b3d36ef53b0721c725ed63a8ddbc6",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Drivin' Me Wild",
+            "length": "3:44",
+            "artist": "Common feat. Lily Allen",
+            "deezer": {
+              "id": 6106519,
+              "link": "https://www.deezer.com/track/6106519",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/f/0/57f449f9e2d7fe7f393e82c494261576.mp3?hdnea=exp=1795652935~acl=/api/1/1/5/7/f/0/57f449f9e2d7fe7f393e82c494261576.mp3*~data=user_id=0,application_id=42~hmac=ed9d48ca87a0ddd861bde32897b75f06dc9b5a6456fdedb9a9723068947bed07",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Southside",
+            "length": "4:00",
+            "artist": "Common feat. Kanye West",
+            "deezer": {
+              "id": 6106520,
+              "link": "https://www.deezer.com/track/6106520",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/b/0/bdb98b84c1e6c1e395472d790e94bf9b.mp3?hdnea=exp=1795652935~acl=/api/1/1/b/d/b/0/bdb98b84c1e6c1e395472d790e94bf9b.mp3*~data=user_id=0,application_id=42~hmac=b372501fef6cb4f576afb01798cf6063df36fc9080cf0ff43abec674bd1287ff",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "The Bitch in Yoo",
+            "length": "4:02",
+            "deezer": {
+              "id": 6106521,
+              "link": "https://www.deezer.com/track/6106521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/b/0/71b1916478999d8f0545232f09478d00.mp3?hdnea=exp=1795652935~acl=/api/1/1/7/1/b/0/71b1916478999d8f0545232f09478d00.mp3*~data=user_id=0,application_id=42~hmac=06a8bf800ceb0fe3f6b61af965ed0060d9a2d6f47d80d9aa17277d048bdf92d5",
+              "preview_expires": "2026-11-26T00:28:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Common/Go! Common Classics.jpg"
+}

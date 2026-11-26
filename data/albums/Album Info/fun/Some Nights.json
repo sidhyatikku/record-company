@@ -1,0 +1,186 @@
+{
+  "title": "Some Nights",
+  "artist": "fun.",
+  "year": 2012,
+  "release_date": "2012-02-14",
+  "type": "Album",
+  "description": "Some Nights is the second and final studio album by the American pop rock group fun. It was released on February 21, 2012, through Fueled by Ramen. It was recorded in 2011 and produced by Jeff Bhasker. After signing to the new label, the band began to work on Some Nights for over nine months throughout 2011.",
+  "genres": [
+    "pop rock",
+    "indie rock",
+    "pop",
+    "rock",
+    "electronic",
+    "power pop"
+  ],
+  "tags": [
+    "pop rock",
+    "indie rock",
+    "pop",
+    "alternative/indie rock",
+    "rock",
+    "electronic",
+    "pop rock/indie rock",
+    "pop/rock",
+    "power pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a969cc3c-2ab3-4799-acb1-50e1325cb290",
+    "wikipedia": "https://en.wikipedia.org/wiki/Some_Nights_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002287703",
+    "discogs": "https://www.discogs.com/master/412595",
+    "wikidata": "https://www.wikidata.org/wiki/Q2030332",
+    "deezer": "https://www.deezer.com/album/1543242"
+  },
+  "musicbrainz_id": "a969cc3c-2ab3-4799-acb1-50e1325cb290",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/55699e14-d65d-4f94-a512-e4f2d7800e47",
+      "barcode": "075679968432",
+      "title": "Some Nights",
+      "disambiguation": null,
+      "date": "2012-02-14",
+      "country": null
+    },
+    "total_tracks": 11,
+    "total_length": "45:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Some Nights (intro)",
+            "length": "2:18",
+            "deezer": {
+              "id": 16501726,
+              "link": "https://www.deezer.com/track/16501726",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/1/0/2613f41c5b6187e0834d792e559fceb3.mp3?hdnea=exp=1795654516~acl=/api/1/1/2/6/1/0/2613f41c5b6187e0834d792e559fceb3.mp3*~data=user_id=0,application_id=42~hmac=4401614a4252370d3cd4328c8dd9b7a3066cd1e589734c8d474cebb24d497b39",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Some Nights",
+            "length": "4:37",
+            "deezer": {
+              "id": 16501727,
+              "link": "https://www.deezer.com/track/16501727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/1/0/271a3d702d46a40e9717918c52053860.mp3?hdnea=exp=1795654516~acl=/api/1/1/2/7/1/0/271a3d702d46a40e9717918c52053860.mp3*~data=user_id=0,application_id=42~hmac=b2fae4b23a4648970cad31e9420cacf137c403348edf65aeb6af973ed66ac750",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "We Are Young",
+            "length": "4:11",
+            "artist": "Fun. feat. Janelle Monáe",
+            "deezer": {
+              "id": 16501728,
+              "link": "https://www.deezer.com/track/16501728",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/c/0/82c08ccf615f63cca82adfe5d7110dd4.mp3?hdnea=exp=1795654516~acl=/api/1/1/8/2/c/0/82c08ccf615f63cca82adfe5d7110dd4.mp3*~data=user_id=0,application_id=42~hmac=71830c913414ba09337ffc7c4f448aadc76254d85f79f9f4df266bb4f52ebd10",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Carry On",
+            "length": "4:38",
+            "deezer": {
+              "id": 16501729,
+              "link": "https://www.deezer.com/track/16501729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/3/0/293db0716c6a9b4a61bbee889c11d576.mp3?hdnea=exp=1795654516~acl=/api/1/1/2/9/3/0/293db0716c6a9b4a61bbee889c11d576.mp3*~data=user_id=0,application_id=42~hmac=6d9a4a055574e4061deb8e9607a48d197cd2081080d96dd1ae1a67c0aa03fba7",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "It Gets Better",
+            "length": "3:36",
+            "deezer": {
+              "id": 16501730,
+              "link": "https://www.deezer.com/track/16501730",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/b/0/06b298b81008c59daf507acf9fe739a5.mp3?hdnea=exp=1795654516~acl=/api/1/1/0/6/b/0/06b298b81008c59daf507acf9fe739a5.mp3*~data=user_id=0,application_id=42~hmac=d5e775c6853c035bc66176ac60e1f8acb0ef88d85eee747a869b2345f2d0d22b",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Why Am I the One",
+            "length": "4:47",
+            "deezer": {
+              "id": 16501731,
+              "link": "https://www.deezer.com/track/16501731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a75d019fcf41f0e2412cc039bde9f3.mp3?hdnea=exp=1795654516~acl=/api/1/1/4/8/a/0/48a75d019fcf41f0e2412cc039bde9f3.mp3*~data=user_id=0,application_id=42~hmac=1d298d6b76409f9c8e2b661d78c9ae0e239cfe20c2c9cde8fd5e3d9d8a399fa4",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "All Alone",
+            "length": "3:04",
+            "deezer": {
+              "id": 16501732,
+              "link": "https://www.deezer.com/track/16501732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/f/0/ddfe92289a8470c04d0b7c66d518705c.mp3?hdnea=exp=1795654516~acl=/api/1/1/d/d/f/0/ddfe92289a8470c04d0b7c66d518705c.mp3*~data=user_id=0,application_id=42~hmac=96c4839a248b75da16f780988045c4144ab28a6c0056575ed3a411785e09919a",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "All Alright",
+            "length": "3:57",
+            "deezer": {
+              "id": 16501733,
+              "link": "https://www.deezer.com/track/16501733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/3/0/a03cd6444944915cb933435c09e26ad4.mp3?hdnea=exp=1795654516~acl=/api/1/1/a/0/3/0/a03cd6444944915cb933435c09e26ad4.mp3*~data=user_id=0,application_id=42~hmac=6cb71a03d20fbb2268277d8a2ff041c264dc84d60c9274282a41341bbfe00f5a",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "One Foot",
+            "length": "3:32",
+            "deezer": {
+              "id": 16501734,
+              "link": "https://www.deezer.com/track/16501734",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/0/0/120abc640abd82abafec73fdb84b2327.mp3?hdnea=exp=1795654516~acl=/api/1/1/1/2/0/0/120abc640abd82abafec73fdb84b2327.mp3*~data=user_id=0,application_id=42~hmac=263b3d3f838352f67e14735e2789ac9127eb9a3fc4203e81adc6bad45be132df",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Stars",
+            "length": "6:53",
+            "deezer": {
+              "id": 16501735,
+              "link": "https://www.deezer.com/track/16501735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/3/0/68314e31bdba4a82e8fe1a07f4273213.mp3?hdnea=exp=1795654516~acl=/api/1/1/6/8/3/0/68314e31bdba4a82e8fe1a07f4273213.mp3*~data=user_id=0,application_id=42~hmac=f71005e66934d8277c1d4a32d378f090d9a2b8ff41a3ccf0f8ef2c68ffb35202",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Out on the Town",
+            "length": "4:21",
+            "deezer": {
+              "id": 16501736,
+              "link": "https://www.deezer.com/track/16501736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/b/0/24ba2c83a1e67bf477ac24cc32146e08.mp3?hdnea=exp=1795654516~acl=/api/1/1/2/4/b/0/24ba2c83a1e67bf477ac24cc32146e08.mp3*~data=user_id=0,application_id=42~hmac=cd7bc477b19a3a601318bc2e9161e4ce8868ec4f42bfe7664589f486e07fc790",
+              "preview_expires": "2026-11-26T00:55:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/fun/Some Nights.jpg"
+}

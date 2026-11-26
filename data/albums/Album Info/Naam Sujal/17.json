@@ -1,0 +1,44 @@
+{
+  "title": "17",
+  "artist": "Naam Sujal",
+  "year": 2024,
+  "release_date": "2024-08-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1zIReNiDuxhHq9qAMKnhc0",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1zIReNiDuxhHq9qAMKnhc0",
+      "title": "17",
+      "date": "2024-08-12"
+    },
+    "total_tracks": 1,
+    "total_length": "2:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "17",
+            "length": "2:18"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Naam Sujal/17.jpg"
+}

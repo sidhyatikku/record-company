@@ -1,0 +1,52 @@
+{
+  "title": "Mehsoos",
+  "artist": "Kidjaywest",
+  "year": 2023,
+  "release_date": "2023-10-02",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "punjabi hip hop",
+    "desi hip hop",
+    "hindi hip hop",
+    "punjabi pop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6zY7Qc74z2DefKUoB8D2Sc",
+    "deezer": "https://www.deezer.com/album/486217995"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6zY7Qc74z2DefKUoB8D2Sc",
+      "title": "Mehsoos",
+      "date": "2023-10-02"
+    },
+    "total_tracks": 1,
+    "total_length": "2:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mehsoos",
+            "length": "2:01",
+            "deezer": {
+              "id": 2447661925,
+              "link": "https://www.deezer.com/track/2447661925",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/0/0/600c49ed50360b0b656de2f8578bac18.mp3?hdnea=exp=1795656171~acl=/api/1/1/6/0/0/0/600c49ed50360b0b656de2f8578bac18.mp3*~data=user_id=0,application_id=42~hmac=9af02808b2f1afd6cfa6ff00d41379508942c7f3b33861f805b35afc7177716f",
+              "preview_expires": "2026-11-26T01:22:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kidjaywest/Mehsoos.jpg"
+}

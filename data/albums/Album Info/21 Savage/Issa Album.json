@@ -1,0 +1,210 @@
+{
+  "title": "Issa Album",
+  "artist": "21 Savage",
+  "year": 2017,
+  "release_date": "2017-07-07",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "hip hop",
+    "pop",
+    "trap",
+    "pop rap",
+    "southern hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "pop",
+    "trap",
+    "pop rap",
+    "southern hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2d15bceb-173e-4649-91aa-e4f389d8f836",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/44181911"
+  },
+  "musicbrainz_id": "2d15bceb-173e-4649-91aa-e4f389d8f836",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ecb88c45-17f5-4d94-8b50-10a9e7e48536",
+      "barcode": "886446775005",
+      "title": "Issa Album",
+      "disambiguation": "explicit",
+      "date": "2017-07-07",
+      "country": "US"
+    },
+    "total_tracks": 14,
+    "total_length": "56:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Famous",
+            "length": "3:54",
+            "deezer": {
+              "id": 380536121,
+              "link": "https://www.deezer.com/track/380536121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/8/0/a78b21cf9988a3ebaebcae63395fcdcc.mp3?hdnea=exp=1795648530~acl=/api/1/1/a/7/8/0/a78b21cf9988a3ebaebcae63395fcdcc.mp3*~data=user_id=0,application_id=42~hmac=57a65f35223a7dcc4b61bcceb4448f23ccc7c8ab627419f88452c1b5608af4c4",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bank Account",
+            "length": "3:40",
+            "deezer": {
+              "id": 380536131,
+              "link": "https://www.deezer.com/track/380536131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/a/0/f2a845aa1428e505c112144b3a820c97.mp3?hdnea=exp=1795648530~acl=/api/1/1/f/2/a/0/f2a845aa1428e505c112144b3a820c97.mp3*~data=user_id=0,application_id=42~hmac=3f370a59200c906e7111640927bf2bdd7e24abf2e45ac381294f78213095b1fc",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Close My Eyes",
+            "length": "4:52",
+            "deezer": {
+              "id": 380536141,
+              "link": "https://www.deezer.com/track/380536141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/5/0/1a50558df27dd3f925202e4eb61a351c.mp3?hdnea=exp=1795648530~acl=/api/1/1/1/a/5/0/1a50558df27dd3f925202e4eb61a351c.mp3*~data=user_id=0,application_id=42~hmac=c2966fd36eb0fd51ecbf0f3b423750941cfec2db0074703798b58125f47181a8",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bad Business",
+            "length": "2:42",
+            "deezer": {
+              "id": 380536151,
+              "link": "https://www.deezer.com/track/380536151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/e/0/10ed32a2bd806baaf44d6c226f4187ca.mp3?hdnea=exp=1795648530~acl=/api/1/1/1/0/e/0/10ed32a2bd806baaf44d6c226f4187ca.mp3*~data=user_id=0,application_id=42~hmac=f311452686e0d3a94105b6b80852f49969a56e3be7ce91838323d9908ae9ece1",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Baby Girl",
+            "length": "2:49",
+            "deezer": {
+              "id": 380536161,
+              "link": "https://www.deezer.com/track/380536161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/2/0/ef2e157b2fa678665dca4029e41e446b.mp3?hdnea=exp=1795648530~acl=/api/1/1/e/f/2/0/ef2e157b2fa678665dca4029e41e446b.mp3*~data=user_id=0,application_id=42~hmac=993084bc79100d0c8adf02543f77791c6cc9d9b91d2a33ad182de61e20ca7131",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Thug Life",
+            "length": "4:23",
+            "deezer": {
+              "id": 380536171,
+              "link": "https://www.deezer.com/track/380536171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/7/0/5674a0a4a719d0eb94b13a1797f88a4b.mp3?hdnea=exp=1795648530~acl=/api/1/1/5/6/7/0/5674a0a4a719d0eb94b13a1797f88a4b.mp3*~data=user_id=0,application_id=42~hmac=968ac69fc05b39de26a8bcfdd43b55ba07089068d5a5353852efd2aba152927a",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "FaceTime",
+            "length": "3:59",
+            "deezer": {
+              "id": 380536181,
+              "link": "https://www.deezer.com/track/380536181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/4/0/384a7d6e64462657e92a20ffb969e20e.mp3?hdnea=exp=1795648530~acl=/api/1/1/3/8/4/0/384a7d6e64462657e92a20ffb969e20e.mp3*~data=user_id=0,application_id=42~hmac=0014167b2e8ad653d7337b156e299c2f2650534213d46297f185f5a24c791718",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Nothin New",
+            "length": "3:39",
+            "deezer": {
+              "id": 380536191,
+              "link": "https://www.deezer.com/track/380536191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/c/0/57c37bd358575bf92820e155e347dba5.mp3?hdnea=exp=1795648530~acl=/api/1/1/5/7/c/0/57c37bd358575bf92820e155e347dba5.mp3*~data=user_id=0,application_id=42~hmac=93b6f441db8396af62487d1032c01cf67fc1e0a95beb5de13f952f0cb3d61974",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Numb",
+            "length": "4:31",
+            "deezer": {
+              "id": 380536201,
+              "link": "https://www.deezer.com/track/380536201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/f/0/0ff7dda7b07fc4715e00981fecededa0.mp3?hdnea=exp=1795648530~acl=/api/1/1/0/f/f/0/0ff7dda7b07fc4715e00981fecededa0.mp3*~data=user_id=0,application_id=42~hmac=0ed0c20c1b34d8dfe7c091cd2ebb969be62ba2d00f85641a1f9819ece748a470",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dead People",
+            "length": "2:27",
+            "deezer": {
+              "id": 380536211,
+              "link": "https://www.deezer.com/track/380536211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/7/0/43735386a4914b6b956980938822cb3f.mp3?hdnea=exp=1795648530~acl=/api/1/1/4/3/7/0/43735386a4914b6b956980938822cb3f.mp3*~data=user_id=0,application_id=42~hmac=e29094b93f244d49e6da6aa7e58be4dd1cca4208afeeb2cee9e375bebe0af591",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Money Convo",
+            "length": "3:33",
+            "deezer": {
+              "id": 380536221,
+              "link": "https://www.deezer.com/track/380536221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/c/0/d3cd52adbb95958d9ca02611cc0486af.mp3?hdnea=exp=1795648530~acl=/api/1/1/d/3/c/0/d3cd52adbb95958d9ca02611cc0486af.mp3*~data=user_id=0,application_id=42~hmac=399565227b5440da6e22b647a90ff1b6b53d574b2b299136a4073254c518d102",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Special",
+            "length": "3:38",
+            "deezer": {
+              "id": 380536231,
+              "link": "https://www.deezer.com/track/380536231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/d/0/b6d6e90e8e840eb01b2730a0bede66ef.mp3?hdnea=exp=1795648530~acl=/api/1/1/b/6/d/0/b6d6e90e8e840eb01b2730a0bede66ef.mp3*~data=user_id=0,application_id=42~hmac=4d0b333b60d128a6dbfbd7d84a0f83433e49ead621c2a33643303ee7622979c5",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Whole Lot",
+            "length": "5:14",
+            "deezer": {
+              "id": 380536241,
+              "link": "https://www.deezer.com/track/380536241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/1/0/9f1fed1755c11c615dae0d165c4c327a.mp3?hdnea=exp=1795648530~acl=/api/1/1/9/f/1/0/9f1fed1755c11c615dae0d165c4c327a.mp3*~data=user_id=0,application_id=42~hmac=08e5f589536a7b972781b4d8882d8441cf64a95f639378cd7502a24305511664",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "7 Min Freestyle",
+            "length": "7:12",
+            "deezer": {
+              "id": 380536251,
+              "link": "https://www.deezer.com/track/380536251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/1/0/7a1fb8089aef63cd230ba171c5cddc2c.mp3?hdnea=exp=1795648530~acl=/api/1/1/7/a/1/0/7a1fb8089aef63cd230ba171c5cddc2c.mp3*~data=user_id=0,application_id=42~hmac=9c04298806dd230fa37751832964c95994d7d951bec7ab77e9a839977a0bfa60",
+              "preview_expires": "2026-11-25T23:15:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/21 Savage/Issa Album.jpg"
+}

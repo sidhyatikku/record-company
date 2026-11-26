@@ -1,0 +1,49 @@
+{
+  "title": "Never lonely, but often alone",
+  "artist": "Aron Estocolmo",
+  "year": 2023,
+  "release_date": "2023-10-06",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "organic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7gYQZCHY2c9Wm1eG3nmht8",
+    "deezer": "https://www.deezer.com/album/492935801"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7gYQZCHY2c9Wm1eG3nmht8",
+      "title": "Never lonely, but often alone",
+      "date": "2023-10-06"
+    },
+    "total_tracks": 1,
+    "total_length": "4:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Never lonely, but often alone",
+            "length": "4:52",
+            "deezer": {
+              "id": 2472168851,
+              "link": "https://www.deezer.com/track/2472168851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/8/0/5d8013cb2f37ef454807e5514e91b0e3.mp3?hdnea=exp=1795651699~acl=/api/1/1/5/d/8/0/5d8013cb2f37ef454807e5514e91b0e3.mp3*~data=user_id=0,application_id=42~hmac=a5f0e8c0a09a30c0059c696c2c0de572b7b582a2eea6e1c421c9d5e7a29bfe9d",
+              "preview_expires": "2026-11-26T00:08:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Aron Estocolmo/Never lonely, but often alone.jpg"
+}

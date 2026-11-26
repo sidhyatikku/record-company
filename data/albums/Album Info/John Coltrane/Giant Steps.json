@@ -1,0 +1,134 @@
+{
+  "title": "Giant Steps",
+  "artist": "John Coltrane",
+  "year": 1960,
+  "release_date": "1960-01-27",
+  "type": "Album",
+  "description": "Giant Steps is a studio album by the jazz saxophonist John Coltrane. It was released in February 1960 through Atlantic Records. It was Coltrane's first album as leader for the label, with which he had signed a new contract the previous year. The record is regarded as one of the most influential jazz albums of all time, and many of its tracks have become practice templates for jazz saxophonists. In 2004, it was one of fifty recordings chosen that year by the Library of Congress to be added to the National Recording Registry. It attained gold record status in 2018, having sold 500,000 copies.",
+  "genres": [
+    "jazz",
+    "hard bop",
+    "modal jazz",
+    "post-bop"
+  ],
+  "tags": [
+    "jazz",
+    "hard bop",
+    "modal jazz",
+    "post-bop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giant_Steps",
+    "allmusic": "https://www.allmusic.com/album/mw0000604243",
+    "discogs": "https://www.discogs.com/master/32236",
+    "wikidata": "https://www.wikidata.org/wiki/Q1516218",
+    "deezer": "https://www.deezer.com/album/8342494"
+  },
+  "musicbrainz_id": "2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/efa183b4-66ec-4067-a4bf-b60f99088872",
+      "barcode": null,
+      "title": "Giant Steps",
+      "disambiguation": "24-Bit / 192 kHz",
+      "date": "2014",
+      "country": "US"
+    },
+    "total_tracks": 7,
+    "total_length": "37:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Giant Steps",
+            "length": "4:48",
+            "deezer": {
+              "id": 83075382,
+              "link": "https://www.deezer.com/track/83075382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/2/0/8a2f5cda669510cda3c66f31c41243a5.mp3?hdnea=exp=1795655662~acl=/api/1/1/8/a/2/0/8a2f5cda669510cda3c66f31c41243a5.mp3*~data=user_id=0,application_id=42~hmac=d471c8810bd0ac24557f0ec89b8760f3682798851cdde2798166f654dc57df23",
+              "preview_expires": "2026-11-26T01:14:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Cousin Mary",
+            "length": "5:50",
+            "deezer": {
+              "id": 83075384,
+              "link": "https://www.deezer.com/track/83075384",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/6/0/86647fc6050923c7c8dd4ce2ea0421ae.mp3?hdnea=exp=1795655662~acl=/api/1/1/8/6/6/0/86647fc6050923c7c8dd4ce2ea0421ae.mp3*~data=user_id=0,application_id=42~hmac=6130586a701edb65202982d8c1d028839b1ef425f93c481b0d1b1d43e9472531",
+              "preview_expires": "2026-11-26T01:14:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Countdown",
+            "length": "2:25",
+            "deezer": {
+              "id": 83075388,
+              "link": "https://www.deezer.com/track/83075388",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a6608e18b9a75f19ae9e656a296a9676.mp3?hdnea=exp=1795655662~acl=/api/1/1/a/6/6/0/a6608e18b9a75f19ae9e656a296a9676.mp3*~data=user_id=0,application_id=42~hmac=ad0b17a5c6bd87bd41b7148415d0ed0fb0ca3def64664e4eb116e2533862c7a9",
+              "preview_expires": "2026-11-26T01:14:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Spiral",
+            "length": "6:01",
+            "deezer": {
+              "id": 83075390,
+              "link": "https://www.deezer.com/track/83075390",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/5/0/49589463e076a7bc176c915b9a799654.mp3?hdnea=exp=1795655662~acl=/api/1/1/4/9/5/0/49589463e076a7bc176c915b9a799654.mp3*~data=user_id=0,application_id=42~hmac=976d14f264e3a5d22b2295d243cd9fc4044c9b11657c7cf8b5829d6729d8ab32",
+              "preview_expires": "2026-11-26T01:14:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Syeeda’s Song Flute",
+            "length": "7:06",
+            "deezer": {
+              "id": 83075392,
+              "link": "https://www.deezer.com/track/83075392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/a/0/adab9d3436e1587888331ae7fafe8a6c.mp3?hdnea=exp=1795655662~acl=/api/1/1/a/d/a/0/adab9d3436e1587888331ae7fafe8a6c.mp3*~data=user_id=0,application_id=42~hmac=ed0d766b95db4ae58289c6aace3468be75c6a8d346d5f9abfe377d0a3e74e879",
+              "preview_expires": "2026-11-26T01:14:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Naima",
+            "length": "4:25",
+            "deezer": {
+              "id": 83075394,
+              "link": "https://www.deezer.com/track/83075394",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/6/0/a769879ab54cd78b3d97aa929b348dbd.mp3?hdnea=exp=1795655662~acl=/api/1/1/a/7/6/0/a769879ab54cd78b3d97aa929b348dbd.mp3*~data=user_id=0,application_id=42~hmac=e29b8df616c135f4305af0f06dd65b12f31e574262bd336ecf2dfc71a3209a6a",
+              "preview_expires": "2026-11-26T01:14:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mr. P.C.",
+            "length": "6:58",
+            "deezer": {
+              "id": 83075398,
+              "link": "https://www.deezer.com/track/83075398",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/8/0/308077a16ac37cc0d0f011dfdea14eaf.mp3?hdnea=exp=1795655662~acl=/api/1/1/3/0/8/0/308077a16ac37cc0d0f011dfdea14eaf.mp3*~data=user_id=0,application_id=42~hmac=f4e26e9ff7b1083f880b9d2b7fdde31174bd465a4c4dd69939ede1f139d7e5c7",
+              "preview_expires": "2026-11-26T01:14:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Coltrane/Giant Steps.jpg"
+}

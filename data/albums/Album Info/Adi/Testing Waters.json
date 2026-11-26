@@ -1,0 +1,74 @@
+{
+  "title": "Testing Waters",
+  "artist": "Adi",
+  "year": 2019,
+  "release_date": "2019-12-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "desi hip hop",
+    "hindi indie",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7i8XoI57X3IKbfyJ6B5pWx",
+    "deezer": "https://www.deezer.com/album/120841892"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7i8XoI57X3IKbfyJ6B5pWx",
+      "title": "Testing Waters",
+      "date": "2019-12-01"
+    },
+    "total_tracks": 3,
+    "total_length": "5:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Submarine",
+            "length": "1:28",
+            "deezer": {
+              "id": 820885552,
+              "link": "https://www.deezer.com/track/820885552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/8/0/cf8bae52aa27afb9714ebb1dfd5ae448.mp3?hdnea=exp=1795648943~acl=/api/1/1/c/f/8/0/cf8bae52aa27afb9714ebb1dfd5ae448.mp3*~data=user_id=0,application_id=42~hmac=4f38f13ad83a674857558774b45d1e0531e34a555392b3f2324b0d0b4b496854",
+              "preview_expires": "2026-11-25T23:22:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rain Girl",
+            "length": "1:42",
+            "deezer": {
+              "id": 820885562,
+              "link": "https://www.deezer.com/track/820885562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/5/0/c9573630914136f3f03be959e274c463.mp3?hdnea=exp=1795648943~acl=/api/1/1/c/9/5/0/c9573630914136f3f03be959e274c463.mp3*~data=user_id=0,application_id=42~hmac=3ea4fa882f0bfcb1886787b2a96d93f4d842737ede7044d8b4330acc11ffbe34",
+              "preview_expires": "2026-11-25T23:22:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sippy Cup",
+            "length": "2:12",
+            "deezer": {
+              "id": 820885572,
+              "link": "https://www.deezer.com/track/820885572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/d/0/4dd406dfefa1f6125cb37f2455336cb5.mp3?hdnea=exp=1795648943~acl=/api/1/1/4/d/d/0/4dd406dfefa1f6125cb37f2455336cb5.mp3*~data=user_id=0,application_id=42~hmac=720c652d02c6f4d8053a212050dcd9dfee3c3f61683293fba6ff5e5470deed3b",
+              "preview_expires": "2026-11-25T23:22:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Adi/Testing Waters.jpg"
+}

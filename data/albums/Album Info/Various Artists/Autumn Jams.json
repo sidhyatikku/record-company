@@ -1,0 +1,132 @@
+{
+  "title": "Autumn Jams",
+  "artist": "Various Artists",
+  "year": 2017,
+  "release_date": "2017-09-29",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [
+    "ambient",
+    "disco",
+    "electronic",
+    "experimental",
+    "funk",
+    "hip hop",
+    "r&b",
+    "soul",
+    "trap"
+  ],
+  "tags": [
+    "ambient",
+    "disco",
+    "electronic",
+    "experimental",
+    "funk",
+    "hip hop",
+    "r&b",
+    "soul",
+    "trap"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2ea69585-6767-4fee-b302-5e9ca26beca0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/179282862"
+  },
+  "musicbrainz_id": "2ea69585-6767-4fee-b302-5e9ca26beca0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/907782eb-6b02-46e3-a75c-bf02588c32c0",
+      "barcode": "3614977945348",
+      "title": "Autumn Jams",
+      "disambiguation": null,
+      "date": "2017-09-29",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "21:42",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Naive",
+            "length": "2:50",
+            "artist": "Kayloo",
+            "deezer": {
+              "id": 1107564432,
+              "link": "https://www.deezer.com/track/1107564432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/7/0/617604702956e8241ff50f908ac6cc8c.mp3?hdnea=exp=1795722199~acl=/api/1/1/6/1/7/0/617604702956e8241ff50f908ac6cc8c.mp3*~data=user_id=0,application_id=42~hmac=802dce42a48b88ffa90b64d9d848194fd0c0345f11ba72107778d2734325a8e0",
+              "preview_expires": "2026-11-26T19:43:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Moment in Time (ECHLN remix)",
+            "length": "3:00",
+            "artist": "IIndman feat. Camilla Luna",
+            "deezer": {
+              "id": 1107564442,
+              "link": "https://www.deezer.com/track/1107564442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/8/0/468021c04cd9ea9790d886266ce53c72.mp3?hdnea=exp=1795722199~acl=/api/1/1/4/6/8/0/468021c04cd9ea9790d886266ce53c72.mp3*~data=user_id=0,application_id=42~hmac=1df767c016e42b3a98651f6e981bf11ef5cf34ac6fb9061ed1e336e6afa04b74",
+              "preview_expires": "2026-11-26T19:43:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Shine",
+            "length": "4:05",
+            "artist": "Whoeva?",
+            "deezer": {
+              "id": 1107564452,
+              "link": "https://www.deezer.com/track/1107564452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/9/0/91994fe877dd0f0b0e2cd70a5e5f6382.mp3?hdnea=exp=1795722199~acl=/api/1/1/9/1/9/0/91994fe877dd0f0b0e2cd70a5e5f6382.mp3*~data=user_id=0,application_id=42~hmac=996214f6796a4d4526778cdf9b033413f34872e982adcb27b3ebbd717e9b246a",
+              "preview_expires": "2026-11-26T19:43:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Get It",
+            "length": "3:25",
+            "artist": "madD3e",
+            "deezer": {
+              "id": 1107564462,
+              "link": "https://www.deezer.com/track/1107564462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d34b395e8d6d9e70cda4553ad108f1d8.mp3?hdnea=exp=1795722199~acl=/api/1/1/d/3/4/0/d34b395e8d6d9e70cda4553ad108f1d8.mp3*~data=user_id=0,application_id=42~hmac=b7b36e28d44580a39f9cb0b18dd40ec5542a19e3776b6a8f0c5281e92a96dd56",
+              "preview_expires": "2026-11-26T19:43:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Twice",
+            "length": "2:38",
+            "artist": "Neguim.",
+            "deezer": {
+              "id": 1107564472,
+              "link": "https://www.deezer.com/track/1107564472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/2/0/572b4d1959c6be52783412a44bcbfe51.mp3?hdnea=exp=1795722199~acl=/api/1/1/5/7/2/0/572b4d1959c6be52783412a44bcbfe51.mp3*~data=user_id=0,application_id=42~hmac=ecbc7c1e2a96f2a9aa773fde43090156c31bfa8e60bedec98fb5f22d89dd5082",
+              "preview_expires": "2026-11-26T19:43:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Way Luv Goes",
+            "length": "5:44",
+            "artist": "Ricky Razu",
+            "deezer": {
+              "id": 1107564482,
+              "link": "https://www.deezer.com/track/1107564482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/c/0/54c9b026ad6ab705cf05691e65a35243.mp3?hdnea=exp=1795722199~acl=/api/1/1/5/4/c/0/54c9b026ad6ab705cf05691e65a35243.mp3*~data=user_id=0,application_id=42~hmac=4b9a3b2688da9bcf5a47ceb8e8d5c156c24cf57e0212c7748aa7fcec691e162f",
+              "preview_expires": "2026-11-26T19:43:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Autumn Jams.jpg"
+}

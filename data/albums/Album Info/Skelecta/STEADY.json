@@ -1,0 +1,78 @@
+{
+  "title": "Steady",
+  "artist": "Skelecta",
+  "year": 2024,
+  "release_date": "2024",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cf3b6a00-a0c2-4065-9409-b7fb702a740e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/619396381"
+  },
+  "musicbrainz_id": "cf3b6a00-a0c2-4065-9409-b7fb702a740e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1fff6697-bcee-4319-b8b8-fb5e9d174296",
+      "barcode": null,
+      "title": "Skelecta & Emz - Steady",
+      "disambiguation": null,
+      "date": "2024",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "11:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "SKELECTA & EMZ - STEADY [Extended Mix]",
+            "length": "3:18",
+            "deezer": {
+              "id": 2906496971,
+              "link": "https://www.deezer.com/track/2906496971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/d/0/35d6508012ca5a4dafb748d2a0bb13c8.mp3?hdnea=exp=1795720735~acl=/api/1/1/3/5/d/0/35d6508012ca5a4dafb748d2a0bb13c8.mp3*~data=user_id=0,application_id=42~hmac=7bca9c8cecc24497ca9b7746cbf816a0e7e2e366fa3a0b0f56ee3d76ce9f7c53",
+              "preview_expires": "2026-11-26T19:18:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "SKELECTA & EMZ - STEADY [Radio Edit]",
+            "length": "2:22",
+            "deezer": {
+              "id": 2906496981,
+              "link": "https://www.deezer.com/track/2906496981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/9/0/a09cc6a21301417cf6d7128409c5174e.mp3?hdnea=exp=1795720735~acl=/api/1/1/a/0/9/0/a09cc6a21301417cf6d7128409c5174e.mp3*~data=user_id=0,application_id=42~hmac=c38939cf072204a472b873f79d149091b86e78c49e0f2b299f4df76a62e5ac91",
+              "preview_expires": "2026-11-26T19:18:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "SKELECTA & EMZ - STEADY - [INSTRUMENTAL MIX]",
+            "length": "3:18",
+            "deezer": {
+              "id": 2906496991,
+              "link": "https://www.deezer.com/track/2906496991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/1/0/941d30f27a029d4d8998de2eaea0abaf.mp3?hdnea=exp=1795720735~acl=/api/1/1/9/4/1/0/941d30f27a029d4d8998de2eaea0abaf.mp3*~data=user_id=0,application_id=42~hmac=abd0ed59d57e23d3b893fe2e6f89e3a2a2f39c87c3019baf3609393663745f5b",
+              "preview_expires": "2026-11-26T19:18:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "SKELECTA & EMZ - STEADY [DSP Mix]",
+            "length": "2:22"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Skelecta/STEADY.jpg"
+}

@@ -1,0 +1,148 @@
+{
+  "title": "Awarapan",
+  "artist": "Pritam",
+  "year": 2007,
+  "release_date": "2007-05-19",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "filmi"
+  ],
+  "tags": [
+    "2000s",
+    "bollywood",
+    "filmi",
+    "hindi film music",
+    "soundtrack"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/81c85aa5-bbf8-487b-8f39-26747a4d0dad",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/827315411"
+  },
+  "musicbrainz_id": "81c85aa5-bbf8-487b-8f39-26747a4d0dad",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/38e6cd1b-a637-43dd-9eac-da97883269ba",
+      "barcode": "5054197132803",
+      "title": "Awarapan (Original Soundtrack)",
+      "disambiguation": null,
+      "date": "2022-03-21",
+      "country": "IN"
+    },
+    "total_tracks": 8,
+    "total_length": "42:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Toh Phir Aao (Lounge Version)",
+            "length": "5:55",
+            "artist": "Mustafa Zahid",
+            "deezer": {
+              "id": 3572407081,
+              "link": "https://www.deezer.com/track/3572407081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/d/0/efd04a09ae757f331ba4e8b664675231.mp3?hdnea=exp=1795722204~acl=/api/1/1/e/f/d/0/efd04a09ae757f331ba4e8b664675231.mp3*~data=user_id=0,application_id=42~hmac=2adbfcde76c2d99f55ebd2ab56004d94b6c56d10b8fd5c7696181df6973eb452",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tera Mera Rishta",
+            "length": "5:47",
+            "artist": "Mustafa Zahid",
+            "deezer": {
+              "id": 3572407091,
+              "link": "https://www.deezer.com/track/3572407091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/2/0/fa23e4110b54aa650a36ed78286c9823.mp3?hdnea=exp=1795722204~acl=/api/1/1/f/a/2/0/fa23e4110b54aa650a36ed78286c9823.mp3*~data=user_id=0,application_id=42~hmac=5617d1cd00fa1096f18cdf0829473e5b527e6e8e1c1314cddd25978ae64b90ec",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mahiya",
+            "length": "4:24",
+            "artist": "Suzanne D’Mello",
+            "deezer": {
+              "id": 3572407101,
+              "link": "https://www.deezer.com/track/3572407101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/3/0/833829ebf2ed22720be7988263bcece1.mp3?hdnea=exp=1795722204~acl=/api/1/1/8/3/3/0/833829ebf2ed22720be7988263bcece1.mp3*~data=user_id=0,application_id=42~hmac=0dccc1c094d405df1166caf91d563c3436201e4aded65573da2c1feb53506374",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Maula Maula",
+            "length": "5:24",
+            "artist": "Rafaquat Ali Khan",
+            "deezer": {
+              "id": 3572407111,
+              "link": "https://www.deezer.com/track/3572407111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/7/0/3c7c9300408abc4b2c6936652e857b5b.mp3?hdnea=exp=1795722204~acl=/api/1/1/3/c/7/0/3c7c9300408abc4b2c6936652e857b5b.mp3*~data=user_id=0,application_id=42~hmac=00c5aedc8c916f2b77301cb1df4601df6bb218c57b244c6503ce6e4c56747f98",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Toh Phir Aao",
+            "length": "5:48",
+            "artist": "Mustafa Zahid",
+            "deezer": {
+              "id": 3572407121,
+              "link": "https://www.deezer.com/track/3572407121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/4/0/b745b4357331eba76066c5465667d493.mp3?hdnea=exp=1795722204~acl=/api/1/1/b/7/4/0/b745b4357331eba76066c5465667d493.mp3*~data=user_id=0,application_id=42~hmac=8dd99afb402d7d898ae03aa6e7ce0156dca57f6d936dc65426c733fc8ac3fee5",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Toh Phir Aao (Remix)",
+            "length": "5:09",
+            "artist": "Mustafa Zahid",
+            "deezer": {
+              "id": 3572407131,
+              "link": "https://www.deezer.com/track/3572407131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/0/0/0f00dba0bce270e26eebb0fb7a77c93e.mp3?hdnea=exp=1795722204~acl=/api/1/1/0/f/0/0/0f00dba0bce270e26eebb0fb7a77c93e.mp3*~data=user_id=0,application_id=42~hmac=26c796955d0c8d8b590ff80cdb28afb53616024da97a629c55f92b00a5c58b9b",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mahiya (Remix)",
+            "length": "5:12",
+            "artist": "Annie Khalid",
+            "deezer": {
+              "id": 3572407141,
+              "link": "https://www.deezer.com/track/3572407141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/c/0/82ca983015df71b1743dbf78ae0823ae.mp3?hdnea=exp=1795722204~acl=/api/1/1/8/2/c/0/82ca983015df71b1743dbf78ae0823ae.mp3*~data=user_id=0,application_id=42~hmac=694da1b67eb5a13fae7dd109be8689321567a62fc97f17d31cf263658734cde5",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Tera Mera Rishta (Remix)",
+            "length": "4:54",
+            "artist": "Mustafa Zahid",
+            "deezer": {
+              "id": 3572407151,
+              "link": "https://www.deezer.com/track/3572407151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/9/0/2e94098d9eb1b634734d95b54b1ba31a.mp3?hdnea=exp=1795722204~acl=/api/1/1/2/e/9/0/2e94098d9eb1b634734d95b54b1ba31a.mp3*~data=user_id=0,application_id=42~hmac=f884692fe41b44bd7c9fd80359d111b0cf2787927253a925b783e0306a731ab2",
+              "preview_expires": "2026-11-26T19:43:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Awarapan (Original Motion Picture Soundtrack).jpg"
+}

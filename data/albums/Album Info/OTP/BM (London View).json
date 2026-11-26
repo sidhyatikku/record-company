@@ -1,0 +1,51 @@
+{
+  "title": "BM (London View)",
+  "artist": "OTP",
+  "year": 2021,
+  "release_date": "2021-07-23",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/697e29c0-7470-4851-8b33-0c938e3d943c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1019952011"
+  },
+  "musicbrainz_id": "697e29c0-7470-4851-8b33-0c938e3d943c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ab1433d6-fc11-4327-bfc5-61924a4c46d1",
+      "barcode": null,
+      "title": "BM (London View)",
+      "disambiguation": null,
+      "date": "2021-07-23",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "BM (London View)",
+            "length": "2:45",
+            "deezer": {
+              "id": 4129394631,
+              "link": "https://www.deezer.com/track/4129394631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/0/0/d00158543d92a40740caa4fe918ff5a3.mp3?hdnea=exp=1795719221~acl=/api/1/1/d/0/0/0/d00158543d92a40740caa4fe918ff5a3.mp3*~data=user_id=0,application_id=42~hmac=e405da01b8ee1e8e99104250a1c953c63d18fa10ba673927f1049945c5fa4520",
+              "preview_expires": "2026-11-26T18:53:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/OTP/BM (London View).jpg"
+}

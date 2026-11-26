@@ -1,0 +1,43 @@
+{
+  "title": "Uljhi",
+  "artist": "FROZT, Moosa Saleem, Prateeksha Srivastava",
+  "year": 2025,
+  "release_date": "2025-06-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "future house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0tZpHQ7N8LPC0QKA1fikLl",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0tZpHQ7N8LPC0QKA1fikLl",
+      "title": "Uljhi",
+      "date": "2025-06-03"
+    },
+    "total_tracks": 1,
+    "total_length": "1:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Uljhi",
+            "length": "1:52"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/FROZT/Uljhi.jpg"
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Shut Up My Moms Calling",
+  "artist": "Hotel Ugly",
+  "year": 2020,
+  "release_date": "2020-02-10",
+  "type": "Single",
+  "description": "\"Shut Up My Moms Calling\" is a song by American indie pop duo Hotel Ugly, self-released on February 10, 2020, as the lead single from their extended play (EP), The Ugly EP (2020). In 2022, the song gained popularity on TikTok, and has since appeared on many charts around the world, peaking at number 68 on the Billboard Hot 100 and #36 on the UK Singles Chart in early 2023. \"Shut Up My Moms Calling\" was re-released as a single on September 14, 2022 to coincide with this, along with a sped-up version.",
+  "genres": [
+    "r&b"
+  ],
+  "tags": [
+    "r&b"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a955a27a-9f32-4ab1-b132-4f4d8aed0358",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shut_Up_My_Moms_Calling",
+    "wikidata": "https://www.wikidata.org/wiki/Q124474969",
+    "deezer": "https://www.deezer.com/album/308669097"
+  },
+  "musicbrainz_id": "a955a27a-9f32-4ab1-b132-4f4d8aed0358",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3dab558d-a222-4273-a92b-7edb0f91360e",
+      "barcode": "7316214881285",
+      "title": "Shut Up My Moms Calling",
+      "disambiguation": null,
+      "date": "2022-04-05",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shut Up My Moms Calling",
+            "length": "2:44",
+            "deezer": {
+              "id": 1709926897,
+              "link": "https://www.deezer.com/track/1709926897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/3/0/b3397b4bf673d96da549007946aa480a.mp3?hdnea=exp=1795655155~acl=/api/1/1/b/3/3/0/b3397b4bf673d96da549007946aa480a.mp3*~data=user_id=0,application_id=42~hmac=b42dfba0a896dbbfa5b272fcffe0e4ef4328f31226184744e67ee1d5faf68345",
+              "preview_expires": "2026-11-26T01:05:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Hotel Ugly/Shut up My Moms Calling (Sped up).jpg"
+}

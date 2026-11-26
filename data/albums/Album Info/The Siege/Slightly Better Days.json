@@ -1,0 +1,122 @@
+{
+  "title": "Slightly Better Days",
+  "artist": "The Siege",
+  "year": 2022,
+  "release_date": "2022-10-14",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/531d1d47-55ad-4b3e-986f-958ba3ce50cf",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/358415297"
+  },
+  "musicbrainz_id": "531d1d47-55ad-4b3e-986f-958ba3ce50cf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5419a9e5-b611-4274-92a8-818b38f87b7b",
+      "barcode": "3617051448506",
+      "title": "Slightly Better Days",
+      "disambiguation": null,
+      "date": "2022-10-14",
+      "country": null
+    },
+    "total_tracks": 7,
+    "total_length": "17:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Slightly Better Days (Intro)",
+            "length": "1:27",
+            "deezer": {
+              "id": 1922862257,
+              "link": "https://www.deezer.com/track/1922862257",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/c/0/f9cc2b3bb682fd2959d6f2774d736717.mp3?hdnea=exp=1795721737~acl=/api/1/1/f/9/c/0/f9cc2b3bb682fd2959d6f2774d736717.mp3*~data=user_id=0,application_id=42~hmac=4aa99cd539d0833e933f66586fe5edcfaa8697464a0d37323abbdf54464bdebd",
+              "preview_expires": "2026-11-26T19:35:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sundays",
+            "length": "3:14",
+            "deezer": {
+              "id": 1922862267,
+              "link": "https://www.deezer.com/track/1922862267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/f/0/07f94005b15df8c255e061cb1d07cf6b.mp3?hdnea=exp=1795721737~acl=/api/1/1/0/7/f/0/07f94005b15df8c255e061cb1d07cf6b.mp3*~data=user_id=0,application_id=42~hmac=8dac4413729e2a19eaf2221c101edcc0e866c9de9561089dc4d95190f1bbbb28",
+              "preview_expires": "2026-11-26T19:35:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Zindagi Question Paper",
+            "length": "3:11",
+            "artist": "The Siege & wolf.cryman",
+            "deezer": {
+              "id": 1922862277,
+              "link": "https://www.deezer.com/track/1922862277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/e/0/1ee9aa1223c5500e87dea45acd04d7c9.mp3?hdnea=exp=1795721737~acl=/api/1/1/1/e/e/0/1ee9aa1223c5500e87dea45acd04d7c9.mp3*~data=user_id=0,application_id=42~hmac=2da15378a18f0166a975862e4175137679b804227b197eb1335840d89b6b0884",
+              "preview_expires": "2026-11-26T19:35:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ek Din Se Zyaada",
+            "length": "2:29",
+            "artist": "The Siege & Kalbaisakhi",
+            "deezer": {
+              "id": 1922862287,
+              "link": "https://www.deezer.com/track/1922862287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/8/0/ed8e7a1ac364550221ba25dc7407834a.mp3?hdnea=exp=1795721737~acl=/api/1/1/e/d/8/0/ed8e7a1ac364550221ba25dc7407834a.mp3*~data=user_id=0,application_id=42~hmac=8d62102f8ba0ca40556abd534d91a2a58f863647b026d9679384147085aae09e",
+              "preview_expires": "2026-11-26T19:35:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Regularly Scheduled Program (Interlude)",
+            "length": "1:50",
+            "artist": "The Siege & Devoniàn",
+            "deezer": {
+              "id": 1922862297,
+              "link": "https://www.deezer.com/track/1922862297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/8/0/008c16d42ce6e82a09283002b667eeb0.mp3?hdnea=exp=1795721737~acl=/api/1/1/0/0/8/0/008c16d42ce6e82a09283002b667eeb0.mp3*~data=user_id=0,application_id=42~hmac=8e26fa0c53b8347b9e16c625fd1ca90a25a5e25a8ae8cecd6e5f754bee0ab32b",
+              "preview_expires": "2026-11-26T19:35:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "1 of 1",
+            "length": "2:07",
+            "artist": "The Siege & Kalbaisakhi",
+            "deezer": {
+              "id": 1922862307,
+              "link": "https://www.deezer.com/track/1922862307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/e/0/45e94ae86486d57a4926f3658f75fdf4.mp3?hdnea=exp=1795721737~acl=/api/1/1/4/5/e/0/45e94ae86486d57a4926f3658f75fdf4.mp3*~data=user_id=0,application_id=42~hmac=9c61e8332d756b136db3a29214d95f2c2ef2d94b10e94ae4dbb53ad24b2806f0",
+              "preview_expires": "2026-11-26T19:35:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Kabhi Na Mili",
+            "length": "2:51",
+            "artist": "The Siege & Kaala",
+            "deezer": {
+              "id": 1922862317,
+              "link": "https://www.deezer.com/track/1922862317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/f/0/f7f60616afd664bcac38d98ca12da8e9.mp3?hdnea=exp=1795721737~acl=/api/1/1/f/7/f/0/f7f60616afd664bcac38d98ca12da8e9.mp3*~data=user_id=0,application_id=42~hmac=040e207b3e4d6ba0cc3dbe7dd90d9be43eed2a50aa758fd9537447fd35e482df",
+              "preview_expires": "2026-11-26T19:35:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Siege/Slightly Better Days.jpg"
+}

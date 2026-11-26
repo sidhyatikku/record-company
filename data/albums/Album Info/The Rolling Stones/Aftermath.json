@@ -1,0 +1,257 @@
+{
+  "title": "Aftermath",
+  "artist": "The Rolling Stones",
+  "year": 1966,
+  "release_date": "1966-04-15",
+  "type": "Album",
+  "description": "Aftermath is the fourth studio album by the English rock band the Rolling Stones. The group recorded the album at RCA Studios in California in December 1965 and March 1966, during breaks between their international tours. It was released in the United Kingdom on 15 April 1966 by Decca Records and in the United States in late June by London Records. It is the band's fourth British and sixth American studio album, and closely follows a series of international hit singles that helped bring the Stones newfound wealth and fame rivalling that of their contemporaries the Beatles.",
+  "genres": [
+    "rock",
+    "blues rock",
+    "blues",
+    "classic rock",
+    "mod",
+    "beat music",
+    "british rhythm & blues",
+    "hard rock",
+    "merseybeat",
+    "pop rock"
+  ],
+  "tags": [
+    "rock",
+    "blues rock",
+    "blues",
+    "classic rock",
+    "mod",
+    "rock & roll",
+    "album rock",
+    "am pop",
+    "beat music",
+    "british rhythm & blues",
+    "hard rock",
+    "incredible lp",
+    "rhythm & blues",
+    "merseybeat",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.95,
+    "votes": 15
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/26987c39-5914-483b-a897-d43ce6aad9b1",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aftermath_(Rolling_Stones_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000191599",
+    "discogs": "https://www.discogs.com/master/30194",
+    "wikidata": "https://www.wikidata.org/wiki/Q389281",
+    "deezer": "https://www.deezer.com/album/912318"
+  },
+  "musicbrainz_id": "26987c39-5914-483b-a897-d43ce6aad9b1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a2e6db66-c0a6-4d7c-b970-bc331a6aee7c",
+      "barcode": "018771947622",
+      "title": "Aftermath",
+      "disambiguation": "US version",
+      "date": "2002",
+      "country": "US"
+    },
+    "total_tracks": 22,
+    "total_length": "1:25:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Hybrid SACD (CD layer)",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Paint It Black",
+            "length": "3:23",
+            "deezer": {
+              "id": 9956014,
+              "link": "https://www.deezer.com/track/9956014",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/5/0/88528a813afdff09fcc6875c380c6d82.mp3?hdnea=exp=1795721670~acl=/api/1/1/8/8/5/0/88528a813afdff09fcc6875c380c6d82.mp3*~data=user_id=0,application_id=42~hmac=ad31220c728b30ce9e528446296df3c1c01bad18687e39e51824522d1afe56b7",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Stupid Girl",
+            "length": "2:56",
+            "deezer": {
+              "id": 9956015,
+              "link": "https://www.deezer.com/track/9956015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/b/0/92beeb0e4b15744a5c9c987449415b7b.mp3?hdnea=exp=1795721670~acl=/api/1/1/9/2/b/0/92beeb0e4b15744a5c9c987449415b7b.mp3*~data=user_id=0,application_id=42~hmac=bb9ae00a6e5802adab835662cc1f112b4294e475a09ecfbe69a54a01d99bb002",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lady Jane",
+            "length": "3:09",
+            "deezer": {
+              "id": 9956016,
+              "link": "https://www.deezer.com/track/9956016",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/f/0/44f289b56d649eefd95b3389b4304e5d.mp3?hdnea=exp=1795721670~acl=/api/1/1/4/4/f/0/44f289b56d649eefd95b3389b4304e5d.mp3*~data=user_id=0,application_id=42~hmac=c0801ce812fdc8f0b2c48a1e6de68d02b371922bfc65edd351da2ea58996f3f4",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Under My Thumb",
+            "length": "3:42",
+            "deezer": {
+              "id": 9956017,
+              "link": "https://www.deezer.com/track/9956017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/1/0/db11ae5b8b132855620dcf912f65fb29.mp3?hdnea=exp=1795721670~acl=/api/1/1/d/b/1/0/db11ae5b8b132855620dcf912f65fb29.mp3*~data=user_id=0,application_id=42~hmac=92322b6a68d337679ae11d0a3abdce7e8e1610c81cfebfae36ebe57a6dfb83b1",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Doncha Bother Me",
+            "length": "2:41",
+            "deezer": {
+              "id": 9956018,
+              "link": "https://www.deezer.com/track/9956018",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/e/0/48e7b8f82a8cae5d0622b98a0a6ca4a0.mp3?hdnea=exp=1795721670~acl=/api/1/1/4/8/e/0/48e7b8f82a8cae5d0622b98a0a6ca4a0.mp3*~data=user_id=0,application_id=42~hmac=10892b527ed1fd220164815b99c3a0b87dc7d488c0a003c9fecaa35e143eb56e",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Think",
+            "length": "3:09",
+            "deezer": {
+              "id": 9956019,
+              "link": "https://www.deezer.com/track/9956019",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/4/0/d9418883246d8a40ac29088b846a96b8.mp3?hdnea=exp=1795721670~acl=/api/1/1/d/9/4/0/d9418883246d8a40ac29088b846a96b8.mp3*~data=user_id=0,application_id=42~hmac=840a739fc7a693eec6dfb800ffa2e005d48edcd204747c58fbbfcfc47aa58d15",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Flight 505",
+            "length": "3:28",
+            "deezer": {
+              "id": 9956020,
+              "link": "https://www.deezer.com/track/9956020",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/d/0/02dd21a6d5c957cfa7d97a001ef814ed.mp3?hdnea=exp=1795721670~acl=/api/1/1/0/2/d/0/02dd21a6d5c957cfa7d97a001ef814ed.mp3*~data=user_id=0,application_id=42~hmac=14a0af24885bcd5607615537fc6f97ddfbfbf1ec21367100cf826c8da34f08b6",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "High and Dry",
+            "length": "3:08",
+            "deezer": {
+              "id": 9956021,
+              "link": "https://www.deezer.com/track/9956021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/b/0/05b82eaac580f2d9a346ffd128757bd1.mp3?hdnea=exp=1795721670~acl=/api/1/1/0/5/b/0/05b82eaac580f2d9a346ffd128757bd1.mp3*~data=user_id=0,application_id=42~hmac=e1cc27666c7971bb255b25fd64d4bbab5375dd08db271507042532a9f2ade36c",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It’s Not Easy",
+            "length": "2:56",
+            "deezer": {
+              "id": 9956022,
+              "link": "https://www.deezer.com/track/9956022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/1/0/fa1f522b27af8216d3c4c3ea955ce231.mp3?hdnea=exp=1795721670~acl=/api/1/1/f/a/1/0/fa1f522b27af8216d3c4c3ea955ce231.mp3*~data=user_id=0,application_id=42~hmac=decafa4946bb224f8e8c91cbad0515afdec07ca385ebe3f6058cbb58771d846b",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I Am Waiting",
+            "length": "3:11",
+            "deezer": {
+              "id": 9956023,
+              "link": "https://www.deezer.com/track/9956023",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/c/0/11ca5cd0d11279168cdad99672a2c156.mp3?hdnea=exp=1795721670~acl=/api/1/1/1/1/c/0/11ca5cd0d11279168cdad99672a2c156.mp3*~data=user_id=0,application_id=42~hmac=e70f0faea6889758f7648bc4ae05dbc6f6fb565a69996a980fdee3b4bdbbd627",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Going Home",
+            "length": "11:13",
+            "deezer": {
+              "id": 9956024,
+              "link": "https://www.deezer.com/track/9956024",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/1/0/671300f62235795fafe657157a86b5fe.mp3?hdnea=exp=1795721670~acl=/api/1/1/6/7/1/0/671300f62235795fafe657157a86b5fe.mp3*~data=user_id=0,application_id=42~hmac=08d42766a940a5608a30a116e8205a29aacced128950977886d091a8863f6c06",
+              "preview_expires": "2026-11-26T19:34:30Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Hybrid SACD (SACD layer, 2 channels)",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Paint It Black",
+            "length": "3:24"
+          },
+          {
+            "number": "2",
+            "title": "Stupid Girl",
+            "length": "2:56"
+          },
+          {
+            "number": "3",
+            "title": "Lady Jane",
+            "length": "3:09"
+          },
+          {
+            "number": "4",
+            "title": "Under My Thumb",
+            "length": "3:42"
+          },
+          {
+            "number": "5",
+            "title": "Doncha Bother Me",
+            "length": "2:41"
+          },
+          {
+            "number": "6",
+            "title": "Think",
+            "length": "3:09"
+          },
+          {
+            "number": "7",
+            "title": "Flight 505",
+            "length": "3:28"
+          },
+          {
+            "number": "8",
+            "title": "High and Dry",
+            "length": "3:08"
+          },
+          {
+            "number": "9",
+            "title": "It’s Not Easy",
+            "length": "2:56"
+          },
+          {
+            "number": "10",
+            "title": "I Am Waiting",
+            "length": "3:11"
+          },
+          {
+            "number": "11",
+            "title": "Goin’ Home",
+            "length": "11:13"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Rolling Stones/Aftermath.jpg"
+}

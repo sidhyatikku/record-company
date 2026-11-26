@@ -1,0 +1,177 @@
+{
+  "title": "Dopamine",
+  "artist": "BØRNS",
+  "year": 2015,
+  "release_date": "2015-10-16",
+  "type": "Album",
+  "description": "Dopamine is the debut studio album by American singer-songwriter Børns, released on October 16, 2015 by Interscope Records.",
+  "genres": [
+    "indie rock",
+    "pop",
+    "rock"
+  ],
+  "tags": [
+    "indie rock",
+    "modern alternative rock",
+    "pop",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c3edff40-d8c9-42de-912e-54ad4ffb1fc5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dopamine_(B%C3%B8rns_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002876694",
+    "discogs": "https://www.discogs.com/master/936510",
+    "wikidata": "https://www.wikidata.org/wiki/Q20856885",
+    "deezer": "https://www.deezer.com/album/11429034"
+  },
+  "musicbrainz_id": "c3edff40-d8c9-42de-912e-54ad4ffb1fc5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f3912338-cdce-414b-9a05-43810a51dabf",
+      "barcode": "00602547527615",
+      "title": "Dopamine",
+      "disambiguation": null,
+      "date": "2015-10-16",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "40:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "10,000 Emerald Pools",
+            "length": "2:55",
+            "deezer": {
+              "id": 109705148,
+              "link": "https://www.deezer.com/track/109705148",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/c/0/81ceec4be4ff97f40d4430801deed5b7.mp3?hdnea=exp=1795652616~acl=/api/1/1/8/1/c/0/81ceec4be4ff97f40d4430801deed5b7.mp3*~data=user_id=0,application_id=42~hmac=435d9f40427ac533fd0e218d6a7b996ae8532242fa7f749dbfd1b9d018851bf4",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dug My Heart",
+            "length": "3:10",
+            "deezer": {
+              "id": 109705150,
+              "link": "https://www.deezer.com/track/109705150",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/e/0/38ebcce81c08b2fe0d6e17bfb5e7ffa9.mp3?hdnea=exp=1795652616~acl=/api/1/1/3/8/e/0/38ebcce81c08b2fe0d6e17bfb5e7ffa9.mp3*~data=user_id=0,application_id=42~hmac=233aa6ffae6f60c314f6cd8e1c3083452057783060b71009f028ed05de7f1758",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Electric Love",
+            "length": "3:38",
+            "deezer": {
+              "id": 109705152,
+              "link": "https://www.deezer.com/track/109705152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/3/0/4d34388414f7691902e17975f00904d5.mp3?hdnea=exp=1795652616~acl=/api/1/1/4/d/3/0/4d34388414f7691902e17975f00904d5.mp3*~data=user_id=0,application_id=42~hmac=7bc95e246a36ce4febc86f51b3136d12b115f7db1221f589a6dea4282e7deb02",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "American Money",
+            "length": "4:21",
+            "deezer": {
+              "id": 109705154,
+              "link": "https://www.deezer.com/track/109705154",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/1/0/7210460c188eef6efe7a3524a3ed8e33.mp3?hdnea=exp=1795652616~acl=/api/1/1/7/2/1/0/7210460c188eef6efe7a3524a3ed8e33.mp3*~data=user_id=0,application_id=42~hmac=3381687de91d6e4e0167c673299aae2f05d7c34a8a1de148e86f70a9dbe4a955",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Emotion",
+            "length": "3:45",
+            "deezer": {
+              "id": 109705156,
+              "link": "https://www.deezer.com/track/109705156",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56a1dec773d1daba383d11fa70356e48.mp3?hdnea=exp=1795652616~acl=/api/1/1/5/6/a/0/56a1dec773d1daba383d11fa70356e48.mp3*~data=user_id=0,application_id=42~hmac=e24371e6a66c064a3a75d834b7acd58085e687a9e7a26d20bb27b85b5fbd1234",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Holy Ghost",
+            "length": "4:17",
+            "deezer": {
+              "id": 109705158,
+              "link": "https://www.deezer.com/track/109705158",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/a/0/fca2b613a0770002eac231bd1163730e.mp3?hdnea=exp=1795652616~acl=/api/1/1/f/c/a/0/fca2b613a0770002eac231bd1163730e.mp3*~data=user_id=0,application_id=42~hmac=bc918e16867da7c6677706907750097629fe42964699513c53c134db946d9c34",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Past Lives",
+            "length": "4:34",
+            "deezer": {
+              "id": 109705160,
+              "link": "https://www.deezer.com/track/109705160",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/6/0/d86ad3ee1eb214fefb7b3a9ca30ef070.mp3?hdnea=exp=1795652616~acl=/api/1/1/d/8/6/0/d86ad3ee1eb214fefb7b3a9ca30ef070.mp3*~data=user_id=0,application_id=42~hmac=bed3a47e42ce19386215917f5269db016a0843e0da3bed8810ee8946a1991450",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Clouds",
+            "length": "3:10",
+            "deezer": {
+              "id": 109705162,
+              "link": "https://www.deezer.com/track/109705162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/6/0/db6de102837abe8651d35a6cbad0910b.mp3?hdnea=exp=1795652616~acl=/api/1/1/d/b/6/0/db6de102837abe8651d35a6cbad0910b.mp3*~data=user_id=0,application_id=42~hmac=1737a53f5e3dd85e1b8b8836e5859f533a9e221da8c6e36b7dca30098c162367",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dopamine",
+            "length": "3:44",
+            "deezer": {
+              "id": 109705164,
+              "link": "https://www.deezer.com/track/109705164",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/0/0/730bcadc52188274abdcb31826c70967.mp3?hdnea=exp=1795652616~acl=/api/1/1/7/3/0/0/730bcadc52188274abdcb31826c70967.mp3*~data=user_id=0,application_id=42~hmac=3476a30392d5b439c803e7f73136402d86b45344a79782030284bc97b54340a1",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Overnight Sensation",
+            "length": "3:18",
+            "deezer": {
+              "id": 109705166,
+              "link": "https://www.deezer.com/track/109705166",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/4/0/2f4c95a981acf194b7e9e91605c9e7e0.mp3?hdnea=exp=1795652616~acl=/api/1/1/2/f/4/0/2f4c95a981acf194b7e9e91605c9e7e0.mp3*~data=user_id=0,application_id=42~hmac=b8cbc69c49aca0323ea3a6e292f2925305751d551f9cf86b3e604fa48ce72d24",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Fool",
+            "length": "3:38",
+            "deezer": {
+              "id": 109705168,
+              "link": "https://www.deezer.com/track/109705168",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/c/0/f6c7a2cdbd445fcaaddb6386de585424.mp3?hdnea=exp=1795652616~acl=/api/1/1/f/6/c/0/f6c7a2cdbd445fcaaddb6386de585424.mp3*~data=user_id=0,application_id=42~hmac=440b2bc8084f54281a3e31d3c6df0fcb7b8b37aae8f5600779ba0cf29b95d207",
+              "preview_expires": "2026-11-26T00:23:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/BØRNS/Dopamine.jpg"
+}

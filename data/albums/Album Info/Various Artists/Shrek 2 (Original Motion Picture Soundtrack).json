@@ -1,0 +1,220 @@
+{
+  "title": "Shrek 2",
+  "artist": "Various Artists",
+  "year": 2004,
+  "release_date": "2004-05-11",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "alternative rock"
+  ],
+  "tags": [
+    "soundtrack",
+    "alternative rock",
+    "film soundtrack"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d7739c08-752f-331f-9e65-eedc7339165a",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/260886",
+    "wikidata": "https://www.wikidata.org/wiki/Q111265182",
+    "deezer": "https://www.deezer.com/album/15801622"
+  },
+  "musicbrainz_id": "d7739c08-752f-331f-9e65-eedc7339165a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dfe0e97a-c72c-4fb0-b5a4-673022464fd7",
+      "barcode": "00602557562880",
+      "title": "Shrek 2 (Motion Picture Soundtrack)",
+      "disambiguation": null,
+      "date": "2004-05-19",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "47:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Accidentally in Love (from “Shrek 2” soundtrack)",
+            "length": "3:09",
+            "artist": "Counting Crows",
+            "deezer": {
+              "id": 145425722,
+              "link": "https://www.deezer.com/track/145425722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/b/0/d4b45b69d7f13a0c67bf692b8c9531cb.mp3?hdnea=exp=1795724089~acl=/api/1/1/d/4/b/0/d4b45b69d7f13a0c67bf692b8c9531cb.mp3*~data=user_id=0,application_id=42~hmac=64bd30ae85efae23c5b4b594f65908147a99f0d7f80b059d120d9c04c2ff4684",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Holding Out for a Hero",
+            "length": "3:21",
+            "artist": "Frou Frou",
+            "deezer": {
+              "id": 145425728,
+              "link": "https://www.deezer.com/track/145425728",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/5/0/285b6f215663b6d942fbb35f5076106f.mp3?hdnea=exp=1795724089~acl=/api/1/1/2/8/5/0/285b6f215663b6d942fbb35f5076106f.mp3*~data=user_id=0,application_id=42~hmac=e59ecfddde8e484ef636c7314e0789a244c6279ef6479b7177ee7056d754493f",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Changes",
+            "length": "3:22",
+            "artist": "Butterfly Boucher & David Bowie",
+            "deezer": {
+              "id": 145425732,
+              "link": "https://www.deezer.com/track/145425732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/6/0/2f651f0a3e8a697aefae69d7001adb3a.mp3?hdnea=exp=1795724089~acl=/api/1/1/2/f/6/0/2f651f0a3e8a697aefae69d7001adb3a.mp3*~data=user_id=0,application_id=42~hmac=19101e047bc7b1fd21a27bf3d332af9ac6c5a0c94315b4afbaea7172f1ac48b1",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "As Lovers Go",
+            "length": "3:29",
+            "artist": "Dashboard Confessional",
+            "deezer": {
+              "id": 145425736,
+              "link": "https://www.deezer.com/track/145425736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/8/0/1d8dbc287fe350e1709b5fe545580cd8.mp3?hdnea=exp=1795724089~acl=/api/1/1/1/d/8/0/1d8dbc287fe350e1709b5fe545580cd8.mp3*~data=user_id=0,application_id=42~hmac=8526b3dc405a639252282eef323c2cd77bf3892f34a49f68e634569a0c109dc5",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Funkytown",
+            "length": "4:00",
+            "artist": "Lipps Inc.",
+            "deezer": {
+              "id": 145425740,
+              "link": "https://www.deezer.com/track/145425740",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/1/0/8c15b114fb636af8a12646ddae0149fa.mp3?hdnea=exp=1795724089~acl=/api/1/1/8/c/1/0/8c15b114fb636af8a12646ddae0149fa.mp3*~data=user_id=0,application_id=42~hmac=d464ff955a5acc1d35590af8a6f05794d990a27b8d1f8e940c477a3dcb7d26fb",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I’m on My Way",
+            "length": "3:22",
+            "artist": "Richard Price",
+            "deezer": {
+              "id": 145425746,
+              "link": "https://www.deezer.com/track/145425746",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/a/0/49ae2486cd14a9652c974c9c9f4b5321.mp3?hdnea=exp=1795724089~acl=/api/1/1/4/9/a/0/49ae2486cd14a9652c974c9c9f4b5321.mp3*~data=user_id=0,application_id=42~hmac=2f901a48aed7f9085c35c6181ce9ac5b05f2ce0d7acd9000aae6fd5731eac2eb",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Need Some Sleep",
+            "length": "2:28",
+            "artist": "Eels",
+            "deezer": {
+              "id": 145425750,
+              "link": "https://www.deezer.com/track/145425750",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/a/0/fba294df8dfe804ee0ae697a7dc99277.mp3?hdnea=exp=1795724089~acl=/api/1/1/f/b/a/0/fba294df8dfe804ee0ae697a7dc99277.mp3*~data=user_id=0,application_id=42~hmac=b09d9637e52a1e14b5655770b1d652adc0312ba3da6e5d458053125c8d008f77",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ever Fallen in Love",
+            "length": "2:32",
+            "artist": "Pete Yorn",
+            "deezer": {
+              "id": 145425754,
+              "link": "https://www.deezer.com/track/145425754",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/a/0/e1ab864ecb223d0ef2d1cd57967ad0ac.mp3?hdnea=exp=1795724089~acl=/api/1/1/e/1/a/0/e1ab864ecb223d0ef2d1cd57967ad0ac.mp3*~data=user_id=0,application_id=42~hmac=78ff701dac0a5ed5b423074811a34ff784a798905b8f8f65dbf795255bcc5da2",
+              "preview_expires": "2026-11-26T20:14:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Little Drop of Poison",
+            "length": "3:12",
+            "artist": "Tom Waits",
+            "deezer": {
+              "id": 145425758,
+              "link": "https://www.deezer.com/track/145425758",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "You’re So True",
+            "length": "3:53",
+            "artist": "Joseph Arthur",
+            "deezer": {
+              "id": 145425762,
+              "link": "https://www.deezer.com/track/145425762",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "11",
+            "title": "People Ain’t No Good",
+            "length": "5:40",
+            "artist": "Nick Cave & the Bad Seeds",
+            "deezer": {
+              "id": 145425764,
+              "link": "https://www.deezer.com/track/145425764",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "12",
+            "title": "Fairy Godmother Song",
+            "length": "1:52",
+            "artist": "Jennifer Saunders",
+            "deezer": {
+              "id": 145425768,
+              "link": "https://www.deezer.com/track/145425768",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "13",
+            "title": "Livin la vida loca",
+            "length": "3:24",
+            "artist": "Eddie Murphy & Antonio Banderas",
+            "deezer": {
+              "id": 145425772,
+              "link": "https://www.deezer.com/track/145425772",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "14",
+            "title": "Holding Out for a Hero",
+            "length": "3:57",
+            "artist": "Jennifer Saunders",
+            "deezer": {
+              "id": 145425776,
+              "link": "https://www.deezer.com/track/145425776",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Shrek 2 (Original Motion Picture Soundtrack).jpg"
+}

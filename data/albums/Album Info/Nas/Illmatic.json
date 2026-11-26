@@ -1,0 +1,190 @@
+{
+  "title": "Illmatic",
+  "artist": "Nas",
+  "year": 1994,
+  "release_date": "1994-04-15",
+  "type": "Album",
+  "description": "Illmatic is the debut studio album by the American rapper Nas, released on April 19, 1994, through Columbia Records. After signing with the label with the help of MC Serch, Nas recorded the album in 1992 and 1993 at Chung King Studios, D&D Recording, Battery Studios, and Unique Recording Studios in New York City. The album's production was handled by DJ Premier, Large Professor, Pete Rock, Q-Tip, L.E.S., and Nas himself. Styled as a hardcore hip-hop album, Illmatic features multi-syllabic internal rhymes and inner-city narratives based on Nas's experiences growing up in the Queensbridge Houses in Queens, New York. He started writing lyrics for the album when he was 16 years old.",
+  "genres": [
+    "hip hop",
+    "east coast hip hop",
+    "boom bap",
+    "hardcore hip hop",
+    "conscious hip hop",
+    "jazz rap"
+  ],
+  "tags": [
+    "hip hop",
+    "east coast hip hop",
+    "boom bap",
+    "hardcore hip hop",
+    "conscious hip hop",
+    "jazz rap",
+    "alcohol",
+    "boastful",
+    "complex",
+    "conscious",
+    "crime",
+    "drugs",
+    "existential",
+    "introspective",
+    "male vocalist",
+    "passionate",
+    "philosophical",
+    "poetic",
+    "rhythmic",
+    "sampling",
+    "serious",
+    "technical",
+    "urban"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 15
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+    "wikipedia": "https://en.wikipedia.org/wiki/Illmatic",
+    "allmusic": "https://www.allmusic.com/album/mw0000623739",
+    "discogs": "https://www.discogs.com/master/20148",
+    "wikidata": "https://www.wikidata.org/wiki/Q847541",
+    "deezer": "https://www.deezer.com/album/7654077"
+  },
+  "musicbrainz_id": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2bc3bbdb-a5de-4ad7-9bcc-46d6e20d62a8",
+      "barcode": "886444072496",
+      "title": "Illmatic",
+      "disambiguation": "explicit",
+      "date": "2014-04-04",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "39:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Genesis",
+            "length": "1:45",
+            "deezer": {
+              "id": 77096687,
+              "link": "https://www.deezer.com/track/77096687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/e/0/35e53c19e6cb421823ea3ad05353dd01.mp3?hdnea=exp=1795718713~acl=/api/1/1/3/5/e/0/35e53c19e6cb421823ea3ad05353dd01.mp3*~data=user_id=0,application_id=42~hmac=8e1c9d97d981c3254e872bdb65499300be6880c839a6a6f404e23641685d497b",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "N.Y. State of Mind",
+            "length": "4:54",
+            "deezer": {
+              "id": 77096688,
+              "link": "https://www.deezer.com/track/77096688",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/b/0/f9b8c4e99aa0c2ae247f8751e1246565.mp3?hdnea=exp=1795718713~acl=/api/1/1/f/9/b/0/f9b8c4e99aa0c2ae247f8751e1246565.mp3*~data=user_id=0,application_id=42~hmac=f8b2e8345448a189bd6140dd073068f737fea607fea01412f747e4185285128d",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Life’s a Bitch",
+            "length": "3:31",
+            "artist": "Nas feat. AZ & Olu Dara",
+            "deezer": {
+              "id": 77096689,
+              "link": "https://www.deezer.com/track/77096689",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/f/0/e4f1757f16235c23fa96904ecc8493f9.mp3?hdnea=exp=1795718713~acl=/api/1/1/e/4/f/0/e4f1757f16235c23fa96904ecc8493f9.mp3*~data=user_id=0,application_id=42~hmac=0ae5a8f2da8422ebca034ee76891caf87f7160daa454c5dabcec07e9795fe359",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The World Is Yours",
+            "length": "4:51",
+            "deezer": {
+              "id": 77096690,
+              "link": "https://www.deezer.com/track/77096690",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/4/0/2a4f6b74b2720b8b7b488cbc9e822396.mp3?hdnea=exp=1795718713~acl=/api/1/1/2/a/4/0/2a4f6b74b2720b8b7b488cbc9e822396.mp3*~data=user_id=0,application_id=42~hmac=076e9a1a90f57e0875f645c53ee82ef8a0144fb3c1415b63cc1108fcef20e6d8",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Halftime",
+            "length": "4:21",
+            "deezer": {
+              "id": 77096691,
+              "link": "https://www.deezer.com/track/77096691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/7/0/617fef693e513b20a9d8c4eb1f620f37.mp3?hdnea=exp=1795718713~acl=/api/1/1/6/1/7/0/617fef693e513b20a9d8c4eb1f620f37.mp3*~data=user_id=0,application_id=42~hmac=269be4cb9abeb341105152cf8e07c22af4fda10ede5d98b73fda0bf05834a354",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Memory Lane (Sittin’ in da Park)",
+            "length": "4:08",
+            "deezer": {
+              "id": 77096692,
+              "link": "https://www.deezer.com/track/77096692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/4/0/e341f118178415ee482b055140a74a01.mp3?hdnea=exp=1795718713~acl=/api/1/1/e/3/4/0/e341f118178415ee482b055140a74a01.mp3*~data=user_id=0,application_id=42~hmac=fff80da83b777d16d1637139e7b2f0776b35d664c5c9847c0d4c2151cf004ce1",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "One Love",
+            "length": "5:26",
+            "artist": "Nas feat. Q‐Tip",
+            "deezer": {
+              "id": 77096693,
+              "link": "https://www.deezer.com/track/77096693",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/6/0/826e8a2b046ea32835fd050a470c7604.mp3?hdnea=exp=1795718713~acl=/api/1/1/8/2/6/0/826e8a2b046ea32835fd050a470c7604.mp3*~data=user_id=0,application_id=42~hmac=41b12fc779603b898a246ec2f714c59cb0086cf4b6abc22764e7ed0c9198af32",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "One Time 4 Your Mind",
+            "length": "3:19",
+            "deezer": {
+              "id": 77096694,
+              "link": "https://www.deezer.com/track/77096694",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/a/0/f6a2049869a50c8012c9fae791193972.mp3?hdnea=exp=1795718713~acl=/api/1/1/f/6/a/0/f6a2049869a50c8012c9fae791193972.mp3*~data=user_id=0,application_id=42~hmac=b2e733fcd34138238401b23796787407bce2ac4692c194c4d6c94d241e046b8f",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Represent",
+            "length": "4:13",
+            "deezer": {
+              "id": 77096695,
+              "link": "https://www.deezer.com/track/77096695",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/f/0/3ef1fa8c2d687d609b0f5264b10b03b7.mp3?hdnea=exp=1795718713~acl=/api/1/1/3/e/f/0/3ef1fa8c2d687d609b0f5264b10b03b7.mp3*~data=user_id=0,application_id=42~hmac=7e9556b656bbec834dc653cc62715af1d6804617fe21882c7f36e00cbdbc11cb",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "It Ain’t Hard to Tell",
+            "length": "3:22",
+            "deezer": {
+              "id": 77096696,
+              "link": "https://www.deezer.com/track/77096696",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/f/0/70f7c1c0179203d5ee0358995a3f7e08.mp3?hdnea=exp=1795718713~acl=/api/1/1/7/0/f/0/70f7c1c0179203d5ee0358995a3f7e08.mp3*~data=user_id=0,application_id=42~hmac=994b8ca4cbacfe1d174bc4cb95cc02f70e3af5453a874571be64d3475fb99756",
+              "preview_expires": "2026-11-26T18:45:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nas/Illmatic.jpg"
+}

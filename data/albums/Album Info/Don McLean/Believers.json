@@ -1,0 +1,186 @@
+{
+  "title": "Believers",
+  "artist": "Don McLean",
+  "year": 1981,
+  "release_date": "1981",
+  "type": "Album",
+  "description": "Believers is the eighth studio album by American singer-songwriter Don McLean, released on October 29, 1981.",
+  "genres": [
+    "rock",
+    "folk"
+  ],
+  "tags": [
+    "rock",
+    "folk",
+    "male vocal"
+  ],
+  "rating": {
+    "value_out_of_5": 2,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/efde7067-49cf-33c2-825f-cc6002386d01",
+    "wikipedia": "https://en.wikipedia.org/wiki/Believers_(Don_McLean_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000026360",
+    "discogs": "https://www.discogs.com/master/244092",
+    "wikidata": "https://www.wikidata.org/wiki/Q4882828",
+    "deezer": "https://www.deezer.com/album/144879562"
+  },
+  "musicbrainz_id": "efde7067-49cf-33c2-825f-cc6002386d01",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/eb4b8c01-22ba-47b1-8ddd-b36301afd5f2",
+      "barcode": "610583629729",
+      "title": "Believers",
+      "disambiguation": null,
+      "date": "2020",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "46:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Castles in the Air",
+            "length": "3:43",
+            "deezer": {
+              "id": 943734092,
+              "link": "https://www.deezer.com/track/943734092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/2/0/052fde36e792bbcfd59d1c99afca971c.mp3?hdnea=exp=1795653473~acl=/api/1/1/0/5/2/0/052fde36e792bbcfd59d1c99afca971c.mp3*~data=user_id=0,application_id=42~hmac=a66acf4f46d66d626b6cadc2a1d6fccf3f854e91cb37541181ae904c5438def7",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Isn’t It Strange",
+            "length": "4:18",
+            "deezer": {
+              "id": 943734102,
+              "link": "https://www.deezer.com/track/943734102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/a/0/62a2249bf6e1d02b4a4439071f4c0552.mp3?hdnea=exp=1795653473~acl=/api/1/1/6/2/a/0/62a2249bf6e1d02b4a4439071f4c0552.mp3*~data=user_id=0,application_id=42~hmac=a55c25de8d16ab6c2d44795cb6e891d37d4bc03978462e4a827e6a032e626b71",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Left for Dead on the Road of Love",
+            "length": "2:57",
+            "deezer": {
+              "id": 943734112,
+              "link": "https://www.deezer.com/track/943734112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/8/0/0a8b59f9ced133f515e78648949f47d8.mp3?hdnea=exp=1795653473~acl=/api/1/1/0/a/8/0/0a8b59f9ced133f515e78648949f47d8.mp3*~data=user_id=0,application_id=42~hmac=fba16c4408cb46dd49fe99df2b7693fa1f04b1b68e5bfa0b985ac1735deaed4b",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Believers",
+            "length": "6:15",
+            "deezer": {
+              "id": 943734122,
+              "link": "https://www.deezer.com/track/943734122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/3/0/973a2858cf524979123ebc23387a9bdc.mp3?hdnea=exp=1795653473~acl=/api/1/1/9/7/3/0/973a2858cf524979123ebc23387a9bdc.mp3*~data=user_id=0,application_id=42~hmac=8d022aa74fb66746f1d086ca9fd612ca53a9df8d2ff170bdfa36a86dd3816e9c",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sea Man",
+            "length": "4:11",
+            "deezer": {
+              "id": 943734132,
+              "link": "https://www.deezer.com/track/943734132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c0e9affcd83a6b5c0cc63ada011cba3.mp3?hdnea=exp=1795653473~acl=/api/1/1/1/c/0/0/1c0e9affcd83a6b5c0cc63ada011cba3.mp3*~data=user_id=0,application_id=42~hmac=860c32a0fa62948a2484ff2ea06e4053166e71169639d13c2ec1f65c9a763c32",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Tune the World Out",
+            "length": "3:32",
+            "deezer": {
+              "id": 943734142,
+              "link": "https://www.deezer.com/track/943734142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/0/0/92092f78429703abbaf9d88bf5a71721.mp3?hdnea=exp=1795653473~acl=/api/1/1/9/2/0/0/92092f78429703abbaf9d88bf5a71721.mp3*~data=user_id=0,application_id=42~hmac=4e264ef51e69f2e4990ae281caac12f36b602b23460e701021d84d970fa2f65f",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Love Hurts",
+            "length": "3:07",
+            "deezer": {
+              "id": 943734152,
+              "link": "https://www.deezer.com/track/943734152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/a/0/f2ad5baece72ff12329da2598ebcce98.mp3?hdnea=exp=1795653473~acl=/api/1/1/f/2/a/0/f2ad5baece72ff12329da2598ebcce98.mp3*~data=user_id=0,application_id=42~hmac=f37ef9d671fc22c2e2413d26ed8de05b9c9929e5ddc0bc909a824a7c47de61ee",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Jerusalem",
+            "length": "4:43",
+            "deezer": {
+              "id": 943734162,
+              "link": "https://www.deezer.com/track/943734162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/0/0/2b0e1de78032ced7c6272f9f9be67e62.mp3?hdnea=exp=1795653473~acl=/api/1/1/2/b/0/0/2b0e1de78032ced7c6272f9f9be67e62.mp3*~data=user_id=0,application_id=42~hmac=bb4bee83d36b4714122ecf564ee82bffa3b9148c2a988baec8a8899fab3e81ae",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Love Letters",
+            "length": "3:58",
+            "deezer": {
+              "id": 943734172,
+              "link": "https://www.deezer.com/track/943734172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/1/0/1113871a8643c3877617e0441e3e8431.mp3?hdnea=exp=1795653473~acl=/api/1/1/1/1/1/0/1113871a8643c3877617e0441e3e8431.mp3*~data=user_id=0,application_id=42~hmac=f59263af3ad866e5a8fe200cfcf1fdfd312763c6ea9687ee74c4a3c5b081e197",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Crazy Eyes",
+            "length": "2:56",
+            "deezer": {
+              "id": 943734182,
+              "link": "https://www.deezer.com/track/943734182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/c/0/abc0e4d56fa055afe72fd5c5a9bc58d5.mp3?hdnea=exp=1795653473~acl=/api/1/1/a/b/c/0/abc0e4d56fa055afe72fd5c5a9bc58d5.mp3*~data=user_id=0,application_id=42~hmac=026e2c004895488a418aba9178a26b0b898c300a174275769f65857e814d0302",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Sea Cruise",
+            "length": "3:05",
+            "deezer": {
+              "id": 943734192,
+              "link": "https://www.deezer.com/track/943734192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/e/0/efe9862c7766587f8ef57a4937bc0ae2.mp3?hdnea=exp=1795653473~acl=/api/1/1/e/f/e/0/efe9862c7766587f8ef57a4937bc0ae2.mp3*~data=user_id=0,application_id=42~hmac=77472c8328ecf99ca288808e2c075770ec5f5925a392bcc850dfb8a5c3845a86",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Dream Lover",
+            "length": "3:47",
+            "deezer": {
+              "id": 943734202,
+              "link": "https://www.deezer.com/track/943734202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/7/0/387b427c16c56a29580cb3546afc6bc9.mp3?hdnea=exp=1795653473~acl=/api/1/1/3/8/7/0/387b427c16c56a29580cb3546afc6bc9.mp3*~data=user_id=0,application_id=42~hmac=62b6b822c4e846bb3ac877d1e7797d84e6b49de069e8c4f5a03019c2730b8b39",
+              "preview_expires": "2026-11-26T00:37:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Don McLean/Believers.jpg"
+}

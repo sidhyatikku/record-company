@@ -1,0 +1,51 @@
+{
+  "title": "Lotus",
+  "artist": "Bauhouse",
+  "year": 2022,
+  "release_date": "2022-03-15",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b46fe2a9-0904-4f21-b426-32639ed44549",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/176657162"
+  },
+  "musicbrainz_id": "b46fe2a9-0904-4f21-b426-32639ed44549",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a4503868-acfd-425f-86e0-282650912951",
+      "barcode": null,
+      "title": "Lotus",
+      "disambiguation": null,
+      "date": "2022-03-15",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lotus",
+            "length": "4:52",
+            "deezer": {
+              "id": 1095381272,
+              "link": "https://www.deezer.com/track/1095381272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/1/0/cc13ae3e199a90c96dc86b57408c2416.mp3?hdnea=exp=1795651894~acl=/api/1/1/c/c/1/0/cc13ae3e199a90c96dc86b57408c2416.mp3*~data=user_id=0,application_id=42~hmac=2ae58161ee24e36b959276a5e8ad86ef9a2ff7f3f303089fc264679ee48ac91d",
+              "preview_expires": "2026-11-26T00:11:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bauhouse/Lotus.jpg"
+}

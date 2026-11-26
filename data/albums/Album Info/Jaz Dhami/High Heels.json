@@ -1,0 +1,51 @@
+{
+  "title": "High Heels",
+  "artist": "Jaz Dhami & Yo Yo Honey Singh",
+  "year": 2012,
+  "release_date": "2012-08-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a79f531a-eced-48a5-82ce-5e16963288e3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/11082302"
+  },
+  "musicbrainz_id": "a79f531a-eced-48a5-82ce-5e16963288e3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9c9221aa-9794-40da-8239-3e2e49b57925",
+      "barcode": "5060197227067",
+      "title": "High Heels",
+      "disambiguation": null,
+      "date": "2012-08-30",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "High Heels",
+            "length": "4:57",
+            "deezer": {
+              "id": 106288576,
+              "link": "https://www.deezer.com/track/106288576",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/0/0/52082d6a9db73a5d1a6a9cfe90b80ed7.mp3?hdnea=exp=1795655479~acl=/api/1/1/5/2/0/0/52082d6a9db73a5d1a6a9cfe90b80ed7.mp3*~data=user_id=0,application_id=42~hmac=9058ee51631842baaf235b9bca22e14abeadcbd9665fea6039f8dc1b0f120471",
+              "preview_expires": "2026-11-26T01:11:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jaz Dhami/High Heels.jpg"
+}

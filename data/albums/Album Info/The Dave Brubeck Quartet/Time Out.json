@@ -1,0 +1,134 @@
+{
+  "title": "Time Out",
+  "artist": "The Dave Brubeck Quartet",
+  "year": 1959,
+  "release_date": "1959",
+  "type": "Album",
+  "description": "Time Out is a studio album by the American jazz group the Dave Brubeck Quartet, released in 1959 by Columbia Records. Recorded at Columbia’s 30th Street Studio in New York City, the album is noted for its pioneering use of unconventional time signatures for jazz, including 98, 64, and 54. Musically, it represents a subtle fusion of cool and West Coast influences.",
+  "genres": [
+    "jazz",
+    "cool jazz",
+    "hard bop"
+  ],
+  "tags": [
+    "jazz",
+    "bop",
+    "cool jazz",
+    "hard bop",
+    "jazz standard"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/035a7881-3e2c-39d2-b110-fe26a4de94e5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Time_Out_(Dave_Brubeck_Quartet_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000187775",
+    "discogs": "https://www.discogs.com/master/34081",
+    "wikidata": "https://www.wikidata.org/wiki/Q498089",
+    "deezer": "https://www.deezer.com/album/9679328"
+  },
+  "musicbrainz_id": "035a7881-3e2c-39d2-b110-fe26a4de94e5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c324c1a4-3e7e-474d-af66-0e16d046a73e",
+      "barcode": "074646512227",
+      "title": "Time Out",
+      "disambiguation": null,
+      "date": "1997",
+      "country": "CA"
+    },
+    "total_tracks": 7,
+    "total_length": "38:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blue Rondo a la Turk",
+            "length": "6:47",
+            "deezer": {
+              "id": 95137372,
+              "link": "https://www.deezer.com/track/95137372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/6/0/c56b37cc0c2383e5b43fc4a8c16309f5.mp3?hdnea=exp=1795721488~acl=/api/1/1/c/5/6/0/c56b37cc0c2383e5b43fc4a8c16309f5.mp3*~data=user_id=0,application_id=42~hmac=f242ce9343b42b5b1f0bfa536c3daeba8f8f45e597d6c113afbc2cf7e64526fc",
+              "preview_expires": "2026-11-26T19:31:28Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Strange Meadow Lark",
+            "length": "7:27",
+            "deezer": {
+              "id": 95137374,
+              "link": "https://www.deezer.com/track/95137374",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/5/0/865c051ba560c93c125bbd333e450816.mp3?hdnea=exp=1795721488~acl=/api/1/1/8/6/5/0/865c051ba560c93c125bbd333e450816.mp3*~data=user_id=0,application_id=42~hmac=2e213bd13216237bd7a0eeb0a8b6feb3fc464cd8aa54178605e3175b5be681a8",
+              "preview_expires": "2026-11-26T19:31:28Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take Five",
+            "length": "5:29",
+            "deezer": {
+              "id": 95137376,
+              "link": "https://www.deezer.com/track/95137376",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a4ca7eb8c5a575372ed241a36524c0d.mp3?hdnea=exp=1795721488~acl=/api/1/1/7/a/4/0/7a4ca7eb8c5a575372ed241a36524c0d.mp3*~data=user_id=0,application_id=42~hmac=10af3c8c81bb7997c8c442dfaef3cdb94a10f6457744f22e5b37366a9b674a43",
+              "preview_expires": "2026-11-26T19:31:28Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Three to Get Ready",
+            "length": "5:26",
+            "deezer": {
+              "id": 95137378,
+              "link": "https://www.deezer.com/track/95137378",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/6/0/15684dda2d455f7848aa6c50bba27e02.mp3?hdnea=exp=1795721488~acl=/api/1/1/1/5/6/0/15684dda2d455f7848aa6c50bba27e02.mp3*~data=user_id=0,application_id=42~hmac=d4b50f8bebdf318e63eae475f5e71d5cc7884c36ea166114ee8b2073539f6ae2",
+              "preview_expires": "2026-11-26T19:31:28Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Kathy's Waltz",
+            "length": "4:54",
+            "deezer": {
+              "id": 95137380,
+              "link": "https://www.deezer.com/track/95137380",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/b/0/f4ba1dca6a6d5bdc70fe77bfc41a6e1b.mp3?hdnea=exp=1795721488~acl=/api/1/1/f/4/b/0/f4ba1dca6a6d5bdc70fe77bfc41a6e1b.mp3*~data=user_id=0,application_id=42~hmac=6b25574320c83d33479f88e18cbd628b6e0f3b130a6d77a71ad72b8a0c7cdda6",
+              "preview_expires": "2026-11-26T19:31:28Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Everybody's Jumpin'",
+            "length": "4:27",
+            "deezer": {
+              "id": 95137382,
+              "link": "https://www.deezer.com/track/95137382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/9/0/5795a8c4ac309de799a2985ba0eb09ea.mp3?hdnea=exp=1795721488~acl=/api/1/1/5/7/9/0/5795a8c4ac309de799a2985ba0eb09ea.mp3*~data=user_id=0,application_id=42~hmac=e427b0eb3542eb11f3a9fb6c3141432e9159d419d25b26561d9d08540f6fc24a",
+              "preview_expires": "2026-11-26T19:31:28Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Pick Up Sticks",
+            "length": "4:17",
+            "deezer": {
+              "id": 95137384,
+              "link": "https://www.deezer.com/track/95137384",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/7/0/be75c36f319a117adefc92dcbe9baa84.mp3?hdnea=exp=1795721488~acl=/api/1/1/b/e/7/0/be75c36f319a117adefc92dcbe9baa84.mp3*~data=user_id=0,application_id=42~hmac=6e7333b2691503832b475b0c97df336d81e9ac630f7bca57fcbb45a2984ebb8e",
+              "preview_expires": "2026-11-26T19:31:28Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Dave Brubeck Quartet/Time Out.jpg"
+}

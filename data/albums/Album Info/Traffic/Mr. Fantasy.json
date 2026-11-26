@@ -1,0 +1,303 @@
+{
+  "title": "Mr. Fantasy",
+  "artist": "Traffic",
+  "year": 1967,
+  "release_date": "1967-12",
+  "type": "Album",
+  "description": "Mr. Fantasy is the debut studio album by English rock band Traffic, released in December 1967. The recording included group members Jim Capaldi, Steve Winwood, Chris Wood, and Dave Mason; however, Mason temporarily left the band shortly after the album was released. The album reached the number 16 position in the UK Albums Chart, and number 88 on the Billboard Top LPs chart in the United States.",
+  "genres": [
+    "blues rock",
+    "psychedelic rock",
+    "psychedelic pop",
+    "rock",
+    "classic rock",
+    "pop rock"
+  ],
+  "tags": [
+    "blues rock",
+    "psychedelic rock",
+    "psychedelic pop",
+    "rock",
+    "classic rock",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7527bd60-1df3-3f43-8d12-b7a5e8ee265c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mr._Fantasy",
+    "allmusic": "https://www.allmusic.com/album/mw0000193815",
+    "discogs": "https://www.discogs.com/master/69029",
+    "wikidata": "https://www.wikidata.org/wiki/Q6320847",
+    "deezer": "https://www.deezer.com/album/240397"
+  },
+  "musicbrainz_id": "7527bd60-1df3-3f43-8d12-b7a5e8ee265c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/250d68dd-f122-4bd6-9e55-668e83e16b13",
+      "barcode": "0004228427832",
+      "title": "Mr. Fantasy",
+      "disambiguation": "deluxe edition",
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 22,
+    "total_length": "1:13:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Heaven Is in Your Mind",
+            "length": "4:20",
+            "deezer": {
+              "id": 2441097,
+              "link": "https://www.deezer.com/track/2441097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/0/0/8c01495dc6ba22b36e3b32ae9858c193.mp3?hdnea=exp=1795721992~acl=/api/1/1/8/c/0/0/8c01495dc6ba22b36e3b32ae9858c193.mp3*~data=user_id=0,application_id=42~hmac=65d35e97f28236b847b3892afb6fe81d7a8c2fab882dd3a9ccf3947fe86741cb",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Berkshire Poppies",
+            "length": "2:58",
+            "deezer": {
+              "id": 2441098,
+              "link": "https://www.deezer.com/track/2441098",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/f/0/2afc5f7fefb9da4768e903e5156ff3cf.mp3?hdnea=exp=1795721992~acl=/api/1/1/2/a/f/0/2afc5f7fefb9da4768e903e5156ff3cf.mp3*~data=user_id=0,application_id=42~hmac=e22491ba66fcad4d1f4611e33e37d79468c9f3f39163bafa971bd84e4ac29437",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "House for Everyone",
+            "length": "2:06",
+            "deezer": {
+              "id": 2441099,
+              "link": "https://www.deezer.com/track/2441099",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/7/0/77732d04f83438999c5dccf522545982.mp3?hdnea=exp=1795721992~acl=/api/1/1/7/7/7/0/77732d04f83438999c5dccf522545982.mp3*~data=user_id=0,application_id=42~hmac=4c103b62357be7a0b97a824885557095bfaf81be7eb50250cbc39049f28a0e7e",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "No Face, No Name, No Number",
+            "length": "3:34",
+            "deezer": {
+              "id": 2441100,
+              "link": "https://www.deezer.com/track/2441100",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/1/0/161524544239d1c66bf0ac8a3088886a.mp3?hdnea=exp=1795721992~acl=/api/1/1/1/6/1/0/161524544239d1c66bf0ac8a3088886a.mp3*~data=user_id=0,application_id=42~hmac=67872a3c2ad7b3b5ef937a2a146280ef0a8ef604ea3cc9f161c843d651a20778",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Dear Mr. Fantasy",
+            "length": "5:42",
+            "deezer": {
+              "id": 2441101,
+              "link": "https://www.deezer.com/track/2441101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/2/0/7524ae0c585a418632d6dcdba3a9dd6c.mp3?hdnea=exp=1795721992~acl=/api/1/1/7/5/2/0/7524ae0c585a418632d6dcdba3a9dd6c.mp3*~data=user_id=0,application_id=42~hmac=58a57dea64171fd82bf6bc4a2db4b139185e1c8421879d75cf774dd2fbdc0422",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dealer",
+            "length": "3:12",
+            "deezer": {
+              "id": 2441102,
+              "link": "https://www.deezer.com/track/2441102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/a/0/fdab5a04985e66d3d435c2fdb4179a03.mp3?hdnea=exp=1795721992~acl=/api/1/1/f/d/a/0/fdab5a04985e66d3d435c2fdb4179a03.mp3*~data=user_id=0,application_id=42~hmac=d65f45b83325ae8b01216f9504d182cb7b00770c4abfff9a223ba81aea79fc8c",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Utterly Simple",
+            "length": "3:20",
+            "deezer": {
+              "id": 2441103,
+              "link": "https://www.deezer.com/track/2441103",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/4/0/714eda68984fb32f977290449229b441.mp3?hdnea=exp=1795721992~acl=/api/1/1/7/1/4/0/714eda68984fb32f977290449229b441.mp3*~data=user_id=0,application_id=42~hmac=d7541f89ea3401f014576695b4fa1ec316af1d2f7f4f92d1e9e6e1aca9d83c91",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Coloured Rain",
+            "length": "2:44",
+            "deezer": {
+              "id": 2441104,
+              "link": "https://www.deezer.com/track/2441104",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/2/0/482816dce68b7b16592d47ce235e114b.mp3?hdnea=exp=1795721992~acl=/api/1/1/4/8/2/0/482816dce68b7b16592d47ce235e114b.mp3*~data=user_id=0,application_id=42~hmac=163e0874cb30d7a5be285dcf1f5017ae267be6595a2ab8db8398f312ab869b86",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Hope I Never Find Me There",
+            "length": "2:09",
+            "deezer": {
+              "id": 2441105,
+              "link": "https://www.deezer.com/track/2441105",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/b/0/f3b722842043471a80380c31e0f94ecf.mp3?hdnea=exp=1795721992~acl=/api/1/1/f/3/b/0/f3b722842043471a80380c31e0f94ecf.mp3*~data=user_id=0,application_id=42~hmac=6cc9e069dac08edf3c1444dd7246c5d9cb9e6b49b90132f784bb88c4e808b4d1",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Giving to You",
+            "length": "4:25",
+            "deezer": {
+              "id": 2441106,
+              "link": "https://www.deezer.com/track/2441106",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/1/0/d91956ead5626a13c39659d390016889.mp3?hdnea=exp=1795721992~acl=/api/1/1/d/9/1/0/d91956ead5626a13c39659d390016889.mp3*~data=user_id=0,application_id=42~hmac=b42dbe956708d55c6ce450d07cc9e18d5ead53d56e15e7436aaebe23639cbb59",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Paper Sun",
+            "length": "3:27",
+            "deezer": {
+              "id": 2441107,
+              "link": "https://www.deezer.com/track/2441107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/4/0/4648c3235747b46b8a11727a60d911bb.mp3?hdnea=exp=1795721992~acl=/api/1/1/4/6/4/0/4648c3235747b46b8a11727a60d911bb.mp3*~data=user_id=0,application_id=42~hmac=bee6f9811911af917526ac208532cc54df8154889deadb7b11e4c312d6e46221",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Dealer",
+            "length": "3:34",
+            "deezer": {
+              "id": 2441108,
+              "link": "https://www.deezer.com/track/2441108",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/8/0/d486048c9da8f1ca7bc94b1778bc3da4.mp3?hdnea=exp=1795721992~acl=/api/1/1/d/4/8/0/d486048c9da8f1ca7bc94b1778bc3da4.mp3*~data=user_id=0,application_id=42~hmac=eee60304645cec50dd8fea3ff7252f34147093a0e11a91c58723968e7001cf23",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Coloured Rain",
+            "length": "2:55",
+            "deezer": {
+              "id": 2441109,
+              "link": "https://www.deezer.com/track/2441109",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/a/0/20ac93825c93e66c103fd41d0679c1eb.mp3?hdnea=exp=1795721992~acl=/api/1/1/2/0/a/0/20ac93825c93e66c103fd41d0679c1eb.mp3*~data=user_id=0,application_id=42~hmac=e2b2a4cfe91a5eb01249bc9d270274007f893657bb44bea5f13212f38662ad76",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Hole in My Shoe",
+            "length": "2:56",
+            "deezer": {
+              "id": 2441110,
+              "link": "https://www.deezer.com/track/2441110",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/5/0/7d58e3c63434b2bdfc218a419e7d6069.mp3?hdnea=exp=1795721992~acl=/api/1/1/7/d/5/0/7d58e3c63434b2bdfc218a419e7d6069.mp3*~data=user_id=0,application_id=42~hmac=eafad5bfa8aaeaa1ce875cd481f365d75c88e747526977873490723a0601a968",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "No Face, No Name, No Number",
+            "length": "3:35",
+            "deezer": {
+              "id": 2441111,
+              "link": "https://www.deezer.com/track/2441111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/d/0/c9d157929b58965e9c13351135d29406.mp3?hdnea=exp=1795721992~acl=/api/1/1/c/9/d/0/c9d157929b58965e9c13351135d29406.mp3*~data=user_id=0,application_id=42~hmac=935f9ac3cb2ccc21a329eace782b73f458145a22abd2f32757f0d9cbf243da18",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Heaven Is in Your Mind",
+            "length": "4:15",
+            "deezer": {
+              "id": 2441112,
+              "link": "https://www.deezer.com/track/2441112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/c/0/33c46d9b5c6463449861b310f0603c38.mp3?hdnea=exp=1795721992~acl=/api/1/1/3/3/c/0/33c46d9b5c6463449861b310f0603c38.mp3*~data=user_id=0,application_id=42~hmac=3ca040b2f862b719605d0bef36f86dac481ada670401f51483347cf1387abf92",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "House for Everyone",
+            "length": "2:06",
+            "deezer": {
+              "id": 2441113,
+              "link": "https://www.deezer.com/track/2441113",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/d/0/32d92c94a32a2493ba748ed47c16bbec.mp3?hdnea=exp=1795721992~acl=/api/1/1/3/2/d/0/32d92c94a32a2493ba748ed47c16bbec.mp3*~data=user_id=0,application_id=42~hmac=26da48e462ee78620140536c1a8dab47fbca813fcdd223064662ba63ecaf000a",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Berkshire Poppies",
+            "length": "2:56",
+            "deezer": {
+              "id": 2441114,
+              "link": "https://www.deezer.com/track/2441114",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/a/0/54a2ab87197a623cf6cc6e508e017a2f.mp3?hdnea=exp=1795721992~acl=/api/1/1/5/4/a/0/54a2ab87197a623cf6cc6e508e017a2f.mp3*~data=user_id=0,application_id=42~hmac=abab53d8355bd7af918c42362a79ee2f076b49f54eb5ea0edd58ef1709f11d91",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Giving to You",
+            "length": "4:14",
+            "deezer": {
+              "id": 2441115,
+              "link": "https://www.deezer.com/track/2441115",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/1/0/9b16fa37f7037f818d9cc8a6bf494640.mp3?hdnea=exp=1795721992~acl=/api/1/1/9/b/1/0/9b16fa37f7037f818d9cc8a6bf494640.mp3*~data=user_id=0,application_id=42~hmac=a5457d14701e9ec598ef74ddf534081c74e015b54230d072dbbb7b43d892fcc5",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Smiling Phases",
+            "length": "2:44",
+            "deezer": {
+              "id": 2441116,
+              "link": "https://www.deezer.com/track/2441116",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/7/0/477652bbdd0a0cbeda2b99df5da670e7.mp3?hdnea=exp=1795721992~acl=/api/1/1/4/7/7/0/477652bbdd0a0cbeda2b99df5da670e7.mp3*~data=user_id=0,application_id=42~hmac=51e66e9a52acab7bbacabcd4c40d4325c113a40ad4a7c2ab78854c3e5804078f",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Dear Mr. Fantasy",
+            "length": "5:34",
+            "deezer": {
+              "id": 2441117,
+              "link": "https://www.deezer.com/track/2441117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/1/0/5c1b88f7058a76d12b62c850bd2b40c2.mp3?hdnea=exp=1795721992~acl=/api/1/1/5/c/1/0/5c1b88f7058a76d12b62c850bd2b40c2.mp3*~data=user_id=0,application_id=42~hmac=68e7fbbbc418927eca5cff582e103953d9dc665305dfd95121f821e21d326718",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "We’re a Fade You Missed This",
+            "length": "0:54",
+            "deezer": {
+              "id": 2441118,
+              "link": "https://www.deezer.com/track/2441118",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/1/0/3412ff4624c32edd0cd37c3db1b32c79.mp3?hdnea=exp=1795721992~acl=/api/1/1/3/4/1/0/3412ff4624c32edd0cd37c3db1b32c79.mp3*~data=user_id=0,application_id=42~hmac=b694b1319d8e8edf98727607430b8aad98dd7b81f1f12420309d17089415c163",
+              "preview_expires": "2026-11-26T19:39:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Traffic/Mr. Fantasy.jpg"
+}

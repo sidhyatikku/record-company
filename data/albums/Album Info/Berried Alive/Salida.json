@@ -1,0 +1,71 @@
+{
+  "title": "Salida",
+  "artist": "Berried Alive",
+  "year": 2017,
+  "release_date": "2017-02-10",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "ambient",
+    "djent",
+    "electronic",
+    "experimental",
+    "hard rock",
+    "metal",
+    "rock"
+  ],
+  "tags": [
+    "ambient",
+    "djent",
+    "electronic",
+    "experimental",
+    "hard rock",
+    "metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 2,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/25e5a31b-3e6c-4afe-8e52-ad38c773f4be",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/15342787"
+  },
+  "musicbrainz_id": "25e5a31b-3e6c-4afe-8e52-ad38c773f4be",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1ea26e6c-7ccb-4da9-9de0-7a3e9e59ead2",
+      "barcode": "859719704330",
+      "title": "Salida",
+      "disambiguation": null,
+      "date": "2017-02-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Salida",
+            "length": "4:43",
+            "deezer": {
+              "id": 142024605,
+              "link": "https://www.deezer.com/track/142024605",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/b/0/acbc7e0a7531d1083e023995747bfbd3.mp3?hdnea=exp=1795651961~acl=/api/1/1/a/c/b/0/acbc7e0a7531d1083e023995747bfbd3.mp3*~data=user_id=0,application_id=42~hmac=1ced1a8b06cad9361bcf7df99d656e67ce80706e255c40b523e0038eb2e9f3d6",
+              "preview_expires": "2026-11-26T00:12:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Berried Alive/Salida.jpg"
+}

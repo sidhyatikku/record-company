@@ -1,0 +1,310 @@
+{
+  "title": "Illmatic",
+  "artist": "Nas",
+  "year": 1994,
+  "release_date": "1994-04-15",
+  "type": "Album",
+  "description": "Illmatic is the debut studio album by the American rapper Nas, released on April 19, 1994, through Columbia Records. After signing with the label with the help of MC Serch, Nas recorded the album in 1992 and 1993 at Chung King Studios, D&D Recording, Battery Studios, and Unique Recording Studios in New York City. The album's production was handled by DJ Premier, Large Professor, Pete Rock, Q-Tip, L.E.S., and Nas himself. Styled as a hardcore hip-hop album, Illmatic features multi-syllabic internal rhymes and inner-city narratives based on Nas's experiences growing up in the Queensbridge Houses in Queens, New York. He started writing lyrics for the album when he was 16 years old.",
+  "genres": [
+    "hip hop",
+    "east coast hip hop",
+    "boom bap",
+    "hardcore hip hop",
+    "conscious hip hop",
+    "jazz rap"
+  ],
+  "tags": [
+    "hip hop",
+    "east coast hip hop",
+    "boom bap",
+    "hardcore hip hop",
+    "conscious hip hop",
+    "jazz rap",
+    "alcohol",
+    "boastful",
+    "complex",
+    "conscious",
+    "crime",
+    "drugs",
+    "existential",
+    "introspective",
+    "male vocalist",
+    "passionate",
+    "philosophical",
+    "poetic",
+    "rhythmic",
+    "sampling",
+    "serious",
+    "technical",
+    "urban"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 15
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+    "wikipedia": "https://en.wikipedia.org/wiki/Illmatic",
+    "allmusic": "https://www.allmusic.com/album/mw0000623739",
+    "discogs": "https://www.discogs.com/master/20148",
+    "wikidata": "https://www.wikidata.org/wiki/Q847541",
+    "deezer": "https://www.deezer.com/album/7565648"
+  },
+  "musicbrainz_id": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4fe2fa97-c58a-412a-bbe1-20d0908d7a12",
+      "barcode": "886444410557",
+      "title": "Illmatic XX",
+      "disambiguation": "deluxe 20ᵗʰ Anniversary edition, explicit",
+      "date": "2014-04-15",
+      "country": "XW"
+    },
+    "total_tracks": 20,
+    "total_length": "1:25:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Genesis",
+            "length": "1:45",
+            "deezer": {
+              "id": 76306733,
+              "link": "https://www.deezer.com/track/76306733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/6/0/15615b4e6dcc77c3403bc918d4c59a29.mp3?hdnea=exp=1795718718~acl=/api/1/1/1/5/6/0/15615b4e6dcc77c3403bc918d4c59a29.mp3*~data=user_id=0,application_id=42~hmac=3031cfb581bcd4eb4d5f0c4746cdaa6c196672c3b0f5141c583fbf3b40e190e3",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "N.Y. State of Mind",
+            "length": "4:54",
+            "deezer": {
+              "id": 76306734,
+              "link": "https://www.deezer.com/track/76306734",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a6568b9d58f1d988b012195b9f4a276.mp3?hdnea=exp=1795718718~acl=/api/1/1/8/a/6/0/8a6568b9d58f1d988b012195b9f4a276.mp3*~data=user_id=0,application_id=42~hmac=83a8149d00218cab964ee144ca696ffe06ed187fa931f280500000ca99d88c35",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Life's a Bitch",
+            "length": "3:31",
+            "artist": "Nas feat. AZ & Olu Dara",
+            "deezer": {
+              "id": 76306735,
+              "link": "https://www.deezer.com/track/76306735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/d/0/a6d65b8e7bdb9691b8f70bae3199a570.mp3?hdnea=exp=1795718718~acl=/api/1/1/a/6/d/0/a6d65b8e7bdb9691b8f70bae3199a570.mp3*~data=user_id=0,application_id=42~hmac=619a5f8d664c26938c3ce46d77bb307f1906f2a0ff0b27e45252f0c0e29d769d",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The World Is Yours",
+            "length": "4:51",
+            "deezer": {
+              "id": 76306736,
+              "link": "https://www.deezer.com/track/76306736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/a/0/23a7d8b4c354192756fa98dd20441e34.mp3?hdnea=exp=1795718718~acl=/api/1/1/2/3/a/0/23a7d8b4c354192756fa98dd20441e34.mp3*~data=user_id=0,application_id=42~hmac=54977ae0904fd0075277bd655d627dc6055d3e062d7a46213e58cf64b3db331e",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Halftime",
+            "length": "4:21",
+            "deezer": {
+              "id": 76306737,
+              "link": "https://www.deezer.com/track/76306737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/8/0/3988d9c9a154e010fa810eaa367bf579.mp3?hdnea=exp=1795718718~acl=/api/1/1/3/9/8/0/3988d9c9a154e010fa810eaa367bf579.mp3*~data=user_id=0,application_id=42~hmac=e9cf9fb8ce5c643a0d6c15c1b42524374f318b9829c833b0e469afbd809a748d",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Memory Lane (Sittin' in da Park)",
+            "length": "4:08",
+            "deezer": {
+              "id": 76306738,
+              "link": "https://www.deezer.com/track/76306738",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/f/0/5ff1a91a143575ff1711609b51fd92f5.mp3?hdnea=exp=1795718718~acl=/api/1/1/5/f/f/0/5ff1a91a143575ff1711609b51fd92f5.mp3*~data=user_id=0,application_id=42~hmac=de5905376e02b72794ecd680e45e12e1789084bddf5272b6cc0befdfeb2ca71d",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "One Love",
+            "length": "5:26",
+            "artist": "Nas feat. Q‐Tip",
+            "deezer": {
+              "id": 76306739,
+              "link": "https://www.deezer.com/track/76306739",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/7/0/727ea6cd7dc6bc42dcefcaf6fae3a52a.mp3?hdnea=exp=1795718718~acl=/api/1/1/7/2/7/0/727ea6cd7dc6bc42dcefcaf6fae3a52a.mp3*~data=user_id=0,application_id=42~hmac=a778f801923ef440889c10112043a1acc4934994e6deb2c07e19299e6bc93359",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "One Time 4 Your Mind",
+            "length": "3:19",
+            "deezer": {
+              "id": 76306740,
+              "link": "https://www.deezer.com/track/76306740",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/8/0/d98759dd12932682827d37f6c974f142.mp3?hdnea=exp=1795718718~acl=/api/1/1/d/9/8/0/d98759dd12932682827d37f6c974f142.mp3*~data=user_id=0,application_id=42~hmac=a9a5e76d752092a2f37a1a6d60812081cc30a4ed00403fbcb2b4b1bc13942420",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Represent",
+            "length": "4:13",
+            "deezer": {
+              "id": 76306741,
+              "link": "https://www.deezer.com/track/76306741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/3/0/79365b5ee6a1ee36f393d2a6f52d89de.mp3?hdnea=exp=1795718718~acl=/api/1/1/7/9/3/0/79365b5ee6a1ee36f393d2a6f52d89de.mp3*~data=user_id=0,application_id=42~hmac=1ae41bf19f0f0aa78f80c2f2598a578f2bb9a9102341487e6bae0706c9484c2e",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "It Ain't Hard to Tell",
+            "length": "3:22",
+            "deezer": {
+              "id": 76306742,
+              "link": "https://www.deezer.com/track/76306742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/4/0/cb464f7ce04772bcdc26f6455f929f59.mp3?hdnea=exp=1795718718~acl=/api/1/1/c/b/4/0/cb464f7ce04772bcdc26f6455f929f59.mp3*~data=user_id=0,application_id=42~hmac=abc45d7424797b2bc08353951c48382259760cba4f9746c25fa18dcd855c3195",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I'm a Villain",
+            "length": "4:31",
+            "deezer": {
+              "id": 76306743,
+              "link": "https://www.deezer.com/track/76306743",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/f/0/b9f692438605d1cb6ccf53e5baaf1c79.mp3?hdnea=exp=1795718718~acl=/api/1/1/b/9/f/0/b9f692438605d1cb6ccf53e5baaf1c79.mp3*~data=user_id=0,application_id=42~hmac=9fae4822e7feeaa4a67bfa6b79642de25172427fc80d2426ba3c69f0abaf3c77",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Stretch Armstrong and Bobbito Show on WKCR October 28, 1993",
+            "length": "7:47",
+            "artist": "Nas feat. 6'9\", Jungle & Grand Wizard",
+            "deezer": {
+              "id": 76306744,
+              "link": "https://www.deezer.com/track/76306744",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/e/0/bde8af56f4b57db518e4d95efb72dfdd.mp3?hdnea=exp=1795718718~acl=/api/1/1/b/d/e/0/bde8af56f4b57db518e4d95efb72dfdd.mp3*~data=user_id=0,application_id=42~hmac=3312d2a7e7b7315cad119a68638bf737197db94a8a6e5b196e1cd22a036106f1",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Halftime (Butcher remix)",
+            "length": "4:37",
+            "deezer": {
+              "id": 76306745,
+              "link": "https://www.deezer.com/track/76306745",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/f/0/8bfc107162484c1c02a89dacaf9864b9.mp3?hdnea=exp=1795718718~acl=/api/1/1/8/b/f/0/8bfc107162484c1c02a89dacaf9864b9.mp3*~data=user_id=0,application_id=42~hmac=209ca6bed02643b14af61800e8e459e35c147ef00f7d5e4eaf77e4b8acb3b481",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "It Ain't Hard to Tell (remix)",
+            "length": "2:50",
+            "deezer": {
+              "id": 76306746,
+              "link": "https://www.deezer.com/track/76306746",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/5/0/e057e9804385c553c034d0254f9e757a.mp3?hdnea=exp=1795718718~acl=/api/1/1/e/0/5/0/e057e9804385c553c034d0254f9e757a.mp3*~data=user_id=0,application_id=42~hmac=00f5a7dc8d36fc8a7742349bfe074658b0e7ac23c53e279b719b8cd3fde47edb",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "One Love (LG Main Mix)",
+            "length": "5:33",
+            "deezer": {
+              "id": 76306747,
+              "link": "https://www.deezer.com/track/76306747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/c/0/a2c2c43542bd5c043253d151dd711641.mp3?hdnea=exp=1795718718~acl=/api/1/1/a/2/c/0/a2c2c43542bd5c043253d151dd711641.mp3*~data=user_id=0,application_id=42~hmac=8db5f8a930e932c2c10f0cd90168fee7650e4ccc3557c3e30db5bebc2febe2b3",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Life's a Bitch (Arsenal Mix)",
+            "length": "3:30",
+            "artist": "Nas feat. AZ",
+            "deezer": {
+              "id": 76306748,
+              "link": "https://www.deezer.com/track/76306748",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/4/0/c14ddf800a035e39982d2a026b3375e7.mp3?hdnea=exp=1795718718~acl=/api/1/1/c/1/4/0/c14ddf800a035e39982d2a026b3375e7.mp3*~data=user_id=0,application_id=42~hmac=6a860263e0f5cd59c96bceb2e64707fcb5c0cdc329d5a251888510958fe7fc39",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "One Love (One L Main Mix)",
+            "length": "5:43",
+            "artist": "Nas feat. Sadat X",
+            "deezer": {
+              "id": 76306749,
+              "link": "https://www.deezer.com/track/76306749",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/6/0/826fcde2564b576237f16ee72b09f382.mp3?hdnea=exp=1795718718~acl=/api/1/1/8/2/6/0/826fcde2564b576237f16ee72b09f382.mp3*~data=user_id=0,application_id=42~hmac=6b1e23f3fb2f776ee7ff968d77e001ca169a8272a37a9511acde389fdcf869b5",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The World Is Yours (Tip Mix)",
+            "length": "4:29",
+            "deezer": {
+              "id": 76306750,
+              "link": "https://www.deezer.com/track/76306750",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9fdb860fa8ee499cd8876bf99ac4588.mp3?hdnea=exp=1795718718~acl=/api/1/1/f/9/f/0/f9fdb860fa8ee499cd8876bf99ac4588.mp3*~data=user_id=0,application_id=42~hmac=77c2149d0790494a1a71804cfe5e5b3c16e8590d42576b5300f1f77bcf6dc09b",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It Ain't Hard to Tell (The Stink Mix)",
+            "length": "3:21",
+            "deezer": {
+              "id": 76306751,
+              "link": "https://www.deezer.com/track/76306751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/b/0/9cb54e4762297639b70bb7f94f6090b2.mp3?hdnea=exp=1795718718~acl=/api/1/1/9/c/b/0/9cb54e4762297639b70bb7f94f6090b2.mp3*~data=user_id=0,application_id=42~hmac=1c634de1b3f354443667efcb499e978ebaf6715a8fe4f9bde1e382153bed7448",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "It Ain't Hard to Tell (The Laidback remix)",
+            "length": "3:36",
+            "deezer": {
+              "id": 76306752,
+              "link": "https://www.deezer.com/track/76306752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/3/0/7d3535aba6559b7b179d29092f795e24.mp3?hdnea=exp=1795718718~acl=/api/1/1/7/d/3/0/7d3535aba6559b7b179d29092f795e24.mp3*~data=user_id=0,application_id=42~hmac=fe7ecab171dfeaec946be71b68ca94337eccdd2dbf5eb591aef88c7a7f2fb835",
+              "preview_expires": "2026-11-26T18:45:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nas/Illmatic XX.jpg"
+}

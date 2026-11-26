@@ -1,0 +1,160 @@
+{
+  "title": "Happy Music",
+  "artist": "Supershy & Tom Misch",
+  "year": 2023,
+  "release_date": "2023-08-18",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d2b7f792-7f97-44db-97d2-f22a9876a332",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/469949355"
+  },
+  "musicbrainz_id": "d2b7f792-7f97-44db-97d2-f22a9876a332",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0cbcdca6-4eba-44af-9f98-02bef4e708e3",
+      "barcode": "197189619878",
+      "title": "Happy Music",
+      "disambiguation": null,
+      "date": "2023-08-18",
+      "country": "AF"
+    },
+    "total_tracks": 10,
+    "total_length": "44:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Happy Music",
+            "length": "3:53",
+            "artist": "Supershy",
+            "deezer": {
+              "id": 2387554955,
+              "link": "https://www.deezer.com/track/2387554955",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/8/0/c188a5f518cf54ef82055af1896e3067.mp3?hdnea=exp=1795721082~acl=/api/1/1/c/1/8/0/c188a5f518cf54ef82055af1896e3067.mp3*~data=user_id=0,application_id=42~hmac=fcb600463cdb7e4a3028bd505a7fb6035d8860dc39aae49748456bd308469173",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Take My Time",
+            "length": "4:52",
+            "artist": "Supershy feat. Vula",
+            "deezer": {
+              "id": 2387554965,
+              "link": "https://www.deezer.com/track/2387554965",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/2/0/112b430aeebf5ef1648655c2e3d096f0.mp3?hdnea=exp=1795721082~acl=/api/1/1/1/1/2/0/112b430aeebf5ef1648655c2e3d096f0.mp3*~data=user_id=0,application_id=42~hmac=75b837f602d447badc5d48ea9d9290aa32685d13892df4312faf265d35824570",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Keep It Rising",
+            "length": "3:15",
+            "artist": "Supershy",
+            "deezer": {
+              "id": 2387554975,
+              "link": "https://www.deezer.com/track/2387554975",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/9/0/7891c493ef5a7c53e9cce85f732829fd.mp3?hdnea=exp=1795721082~acl=/api/1/1/7/8/9/0/7891c493ef5a7c53e9cce85f732829fd.mp3*~data=user_id=0,application_id=42~hmac=ac10b46c14e2374f49e24e6ba3c57349ba10313d0773683352757b0d20d3f769",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Don’t Let Go",
+            "length": "4:30",
+            "artist": "Supershy",
+            "deezer": {
+              "id": 2387554985,
+              "link": "https://www.deezer.com/track/2387554985",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/5/0/4b568fec7c5c8af5a7e7723b4e0c8d04.mp3?hdnea=exp=1795721082~acl=/api/1/1/4/b/5/0/4b568fec7c5c8af5a7e7723b4e0c8d04.mp3*~data=user_id=0,application_id=42~hmac=33fdb23e3c474d2c9fbfcd7be6597f482c9df6bc52c93a53128001f8928b56e2",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "In My Life",
+            "length": "4:02",
+            "artist": "Supershy",
+            "deezer": {
+              "id": 2387554995,
+              "link": "https://www.deezer.com/track/2387554995",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/f/0/e9f0a886f42575929fc97cb8c1410781.mp3?hdnea=exp=1795721082~acl=/api/1/1/e/9/f/0/e9f0a886f42575929fc97cb8c1410781.mp3*~data=user_id=0,application_id=42~hmac=2f8e14ee762a9d4b01376e827916bece1c390d15d056f2496950ca92f97ce3ae",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Feel Like Makin’ Love",
+            "length": "3:35",
+            "artist": "Supershy feat. Roberta Flack",
+            "deezer": {
+              "id": 2387555005,
+              "link": "https://www.deezer.com/track/2387555005",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/9/0/6f97df5c2ed4328fef8b811bb8956a9b.mp3?hdnea=exp=1795721082~acl=/api/1/1/6/f/9/0/6f97df5c2ed4328fef8b811bb8956a9b.mp3*~data=user_id=0,application_id=42~hmac=c4ed36bb66400beda32be076a52684d066ab97d20c286c62ae0f2f3312edb7af",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "If You Were My Girl",
+            "length": "4:32",
+            "artist": "Supershy",
+            "deezer": {
+              "id": 2387555015,
+              "link": "https://www.deezer.com/track/2387555015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/8/0/0d8568b786f5aeb60ef56648cc88e542.mp3?hdnea=exp=1795721082~acl=/api/1/1/0/d/8/0/0d8568b786f5aeb60ef56648cc88e542.mp3*~data=user_id=0,application_id=42~hmac=82780e124d4cbbf9e2f1ff989c5a1701a2912eb9806823a468c59412d08ca111",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Something On My Mind (Edit)",
+            "length": "3:48",
+            "artist": "Supershy",
+            "deezer": {
+              "id": 2387555025,
+              "link": "https://www.deezer.com/track/2387555025",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/7/0/887479e5b885baf1ccbaaa3bd51a67f5.mp3?hdnea=exp=1795721082~acl=/api/1/1/8/8/7/0/887479e5b885baf1ccbaaa3bd51a67f5.mp3*~data=user_id=0,application_id=42~hmac=b45519a67c3fdf801c2a0a56fa72b567f36ba2935a95f1774cfce1e488580d11",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Moment By Moment",
+            "length": "5:06",
+            "artist": "Supershy feat. Jordan Rakei",
+            "deezer": {
+              "id": 2387555035,
+              "link": "https://www.deezer.com/track/2387555035",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/b/0/b9b3525e2cdc9e4a6c708ee701812c6d.mp3?hdnea=exp=1795721082~acl=/api/1/1/b/9/b/0/b9b3525e2cdc9e4a6c708ee701812c6d.mp3*~data=user_id=0,application_id=42~hmac=da4cd232138c6403d9bc8d332d0b889caf3ed7b567913aa9da43a06447fba899",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Too Late I Had Fallen",
+            "length": "6:55",
+            "artist": "Supershy",
+            "deezer": {
+              "id": 2387555045,
+              "link": "https://www.deezer.com/track/2387555045",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/e/0/55eb8ea6df9de123ca2864b27826c878.mp3?hdnea=exp=1795721082~acl=/api/1/1/5/5/e/0/55eb8ea6df9de123ca2864b27826c878.mp3*~data=user_id=0,application_id=42~hmac=b6fe805839d01eb488e36472546e6d788b95daa96b3d7ad466b52e0f3a711d9e",
+              "preview_expires": "2026-11-26T19:24:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Supershy/Happy Music.jpg"
+}

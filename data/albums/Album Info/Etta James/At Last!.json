@@ -1,0 +1,221 @@
+{
+  "title": "At Last!",
+  "artist": "Etta James",
+  "year": 1960,
+  "release_date": "1960-11-15",
+  "type": "Album",
+  "description": "At Last! is the debut studio album by American blues and soul artist Etta James. Released on Argo Records in November 1960, the album was produced by Phil and Leonard Chess. At Last! rose to no. 12 on the Billboard Top Catalog Albums chart.",
+  "genres": [
+    "blues",
+    "soul",
+    "soul blues",
+    "r&b",
+    "southern soul",
+    "vocal jazz"
+  ],
+  "tags": [
+    "blues",
+    "classic r&b",
+    "soul",
+    "rhythm & blues",
+    "soul blues",
+    "r&b",
+    "southern soul",
+    "vocal jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/56933d06-34a0-3a49-8e42-7c39f8c356dd",
+    "wikipedia": "https://en.wikipedia.org/wiki/At_Last!",
+    "allmusic": "https://www.allmusic.com/album/mw0000194402",
+    "discogs": "https://www.discogs.com/master/173445",
+    "wikidata": "https://www.wikidata.org/wiki/Q3280688",
+    "deezer": "https://www.deezer.com/album/217268"
+  },
+  "musicbrainz_id": "56933d06-34a0-3a49-8e42-7c39f8c356dd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/43f1701a-4b20-4a5f-be3e-821a2aeca9d4",
+      "barcode": "008811201722",
+      "title": "At Last!",
+      "disambiguation": null,
+      "date": "1999-07-27",
+      "country": "US"
+    },
+    "total_tracks": 14,
+    "total_length": "40:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Anything to Say You’re Mine",
+            "length": "2:38",
+            "deezer": {
+              "id": 2171218,
+              "link": "https://www.deezer.com/track/2171218",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/4/0/5d49e5c16b9580a502cab1c4d1440c27.mp3?hdnea=exp=1795654081~acl=/api/1/1/5/d/4/0/5d49e5c16b9580a502cab1c4d1440c27.mp3*~data=user_id=0,application_id=42~hmac=88582bee258ba4e7b066ea1650dfff91bfcf40bccd6555e45512f1a20ca89242",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "My Dearest Darling",
+            "length": "3:05",
+            "deezer": {
+              "id": 2171219,
+              "link": "https://www.deezer.com/track/2171219",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/e/0/daea4b711ae0e7059d6780ec29c857e7.mp3?hdnea=exp=1795654081~acl=/api/1/1/d/a/e/0/daea4b711ae0e7059d6780ec29c857e7.mp3*~data=user_id=0,application_id=42~hmac=5b1674b205fe7a5aad3966ecbb563ee3fbc79766cb006d22e5da22289c6ceecf",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Trust in Me",
+            "length": "3:01",
+            "deezer": {
+              "id": 2171220,
+              "link": "https://www.deezer.com/track/2171220",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fefcf7d3d001a62af741365fbc6e8db7.mp3?hdnea=exp=1795654081~acl=/api/1/1/f/e/f/0/fefcf7d3d001a62af741365fbc6e8db7.mp3*~data=user_id=0,application_id=42~hmac=1133c7a7fa2577333065e2c36d30ade731b23b13caa7e433ba2e9e0ed1b83867",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "A Sunday Kind of Love",
+            "length": "3:19",
+            "deezer": {
+              "id": 2171221,
+              "link": "https://www.deezer.com/track/2171221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/f/0/84f3cf6e4c4b7274b5fee9f33b7131d6.mp3?hdnea=exp=1795654081~acl=/api/1/1/8/4/f/0/84f3cf6e4c4b7274b5fee9f33b7131d6.mp3*~data=user_id=0,application_id=42~hmac=42d8dfc3be38ed6f95fe7e560bfdc94d14a9f61f3cd9a241b3735a1920ff99e7",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tough Mary",
+            "length": "2:28",
+            "deezer": {
+              "id": 2171222,
+              "link": "https://www.deezer.com/track/2171222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/5/0/645f2965fed220c119343539cbee0a7f.mp3?hdnea=exp=1795654081~acl=/api/1/1/6/4/5/0/645f2965fed220c119343539cbee0a7f.mp3*~data=user_id=0,application_id=42~hmac=7552cc648aa1af4f71230b835fc0b78e534121f2710749cc2ef8393867574a50",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Just Want to Make Love to You",
+            "length": "3:09",
+            "deezer": {
+              "id": 2171223,
+              "link": "https://www.deezer.com/track/2171223",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/a/0/7eac7e626b8ca9adcbaa227a6c3df039.mp3?hdnea=exp=1795654081~acl=/api/1/1/7/e/a/0/7eac7e626b8ca9adcbaa227a6c3df039.mp3*~data=user_id=0,application_id=42~hmac=81e0d935a339857792710eceef55ea1d70c854ae16dc3a38a92ad780051701ed",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "At Last",
+            "length": "3:02",
+            "deezer": {
+              "id": 2171224,
+              "link": "https://www.deezer.com/track/2171224",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/d/0/a1d0a9c9c56a2aa462c54e9ff4d6ea12.mp3?hdnea=exp=1795654081~acl=/api/1/1/a/1/d/0/a1d0a9c9c56a2aa462c54e9ff4d6ea12.mp3*~data=user_id=0,application_id=42~hmac=9a9d682eaa701b059d508868f326d5677a33568c2232a8f6a1bb2254b5683e52",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "All I Could Do Was Cry",
+            "length": "2:58",
+            "deezer": {
+              "id": 2171225,
+              "link": "https://www.deezer.com/track/2171225",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/b/0/b7b1d22f1fdba8713b70c3361082c234.mp3?hdnea=exp=1795654081~acl=/api/1/1/b/7/b/0/b7b1d22f1fdba8713b70c3361082c234.mp3*~data=user_id=0,application_id=42~hmac=85ba24c5f2cf8721462f5a9826416bcc6e880fc339f052f52b3231ea02f231b4",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Stormy Weather",
+            "length": "3:10",
+            "deezer": {
+              "id": 2171226,
+              "link": "https://www.deezer.com/track/2171226",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/a/0/e0a3971cb756d9f26bade8bb0aa86f06.mp3?hdnea=exp=1795654081~acl=/api/1/1/e/0/a/0/e0a3971cb756d9f26bade8bb0aa86f06.mp3*~data=user_id=0,application_id=42~hmac=591647652b28624792a079b55f912407b7bcf42463d9bc649d9d86e18a0b79e3",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Girl of My Dreams (rendered as “Boy of My Dreams”)",
+            "length": "2:26",
+            "deezer": {
+              "id": 2171227,
+              "link": "https://www.deezer.com/track/2171227",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/b/0/94b3442e906f433f72ece806a2064fb8.mp3?hdnea=exp=1795654081~acl=/api/1/1/9/4/b/0/94b3442e906f433f72ece806a2064fb8.mp3*~data=user_id=0,application_id=42~hmac=8fea8ecb6d30d8c261fe1a308395705328db4dbfbd961eee69422d8936a02190",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "My Heart Cries",
+            "length": "2:37",
+            "artist": "Etta James duet with Harvey Fuqua",
+            "deezer": {
+              "id": 2171228,
+              "link": "https://www.deezer.com/track/2171228",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/b/0/48b1a9cf237de50ac09c1b0f588ed788.mp3?hdnea=exp=1795654081~acl=/api/1/1/4/8/b/0/48b1a9cf237de50ac09c1b0f588ed788.mp3*~data=user_id=0,application_id=42~hmac=511ec862aa69b8d362963320e344f9832dc0c34b0e03fa5ca62691f48176e2c5",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Spoonful",
+            "length": "2:51",
+            "artist": "Etta James duet with Harvey Fuqua",
+            "deezer": {
+              "id": 2171229,
+              "link": "https://www.deezer.com/track/2171229",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/0/0/380b5fa7aed43ffe4c2ae11ae9f9a98e.mp3?hdnea=exp=1795654081~acl=/api/1/1/3/8/0/0/380b5fa7aed43ffe4c2ae11ae9f9a98e.mp3*~data=user_id=0,application_id=42~hmac=fcbbc9a5ba65a8d78ac3a252867554b8bc9b3745513cca94f58d9558f4194f83",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "It’s a Cryin’ Shame",
+            "length": "2:54",
+            "artist": "Etta James duet with Harvey Fuqua",
+            "deezer": {
+              "id": 2171230,
+              "link": "https://www.deezer.com/track/2171230",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/6/0/e3688276dfffc96179305c0ac0207eb1.mp3?hdnea=exp=1795654081~acl=/api/1/1/e/3/6/0/e3688276dfffc96179305c0ac0207eb1.mp3*~data=user_id=0,application_id=42~hmac=32a13102b10820f9af777546e9cf59bfb8a25ef206e7f4884bcb7362bfb77aef",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "If I Can’t Have You",
+            "length": "2:51",
+            "artist": "Etta James duet with Harvey Fuqua",
+            "deezer": {
+              "id": 2171231,
+              "link": "https://www.deezer.com/track/2171231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/3/0/33300f7723bef10bfb27591161325941.mp3?hdnea=exp=1795654081~acl=/api/1/1/3/3/3/0/33300f7723bef10bfb27591161325941.mp3*~data=user_id=0,application_id=42~hmac=8935d3511104d39832700866390738172aec27805ecc97ea800110521786d1ae",
+              "preview_expires": "2026-11-26T00:48:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Etta James/At Last!.jpg"
+}

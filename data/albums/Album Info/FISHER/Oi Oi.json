@@ -1,0 +1,68 @@
+{
+  "title": "Oi Oi",
+  "artist": "FISHER",
+  "year": 2017,
+  "release_date": "2017-11-10",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "house",
+    "tech house"
+  ],
+  "tags": [
+    "house",
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cf727633-69d9-4985-862a-af9a535e80bb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/479581435"
+  },
+  "musicbrainz_id": "cf727633-69d9-4985-862a-af9a535e80bb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0654b34a-ee4d-43dc-906c-75587e44491a",
+      "barcode": "5054283344707",
+      "title": "Oi Oi",
+      "disambiguation": null,
+      "date": "2017-11-10",
+      "country": "AF"
+    },
+    "total_tracks": 2,
+    "total_length": "5:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stop It",
+            "length": "2:44",
+            "deezer": {
+              "id": 2423179905,
+              "link": "https://www.deezer.com/track/2423179905",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/3/0/7a3a01a7bb77179b6eceef410ca9f5f9.mp3?hdnea=exp=1795654212~acl=/api/1/1/7/a/3/0/7a3a01a7bb77179b6eceef410ca9f5f9.mp3*~data=user_id=0,application_id=42~hmac=85fe14f6f1666e2a8b0375e4d0eea7e21de1c6441b9a2d7c30d7805139b15a63",
+              "preview_expires": "2026-11-26T00:50:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ya Didn’t",
+            "length": "3:06",
+            "deezer": {
+              "id": 2423179915,
+              "link": "https://www.deezer.com/track/2423179915",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/b/0/ffbd9af63caca094bc23f80eb1d163c2.mp3?hdnea=exp=1795654212~acl=/api/1/1/f/f/b/0/ffbd9af63caca094bc23f80eb1d163c2.mp3*~data=user_id=0,application_id=42~hmac=86d98c46803872a2f443487fcd61177a950f12413370647e11023acce275b731",
+              "preview_expires": "2026-11-26T00:50:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/FISHER/Oi Oi.jpg"
+}

@@ -1,0 +1,483 @@
+{
+  "title": "The Essential Glenn Miller",
+  "artist": "Glenn Miller",
+  "year": 2005,
+  "release_date": "2005",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "jazz",
+    "big band",
+    "instrumental",
+    "swing"
+  ],
+  "tags": [
+    "jazz",
+    "big band",
+    "instrumental",
+    "swing"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cd7edb10-c9c0-388a-a5a2-40a909e6d2a3",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/467076",
+    "deezer": "https://www.deezer.com/album/73977"
+  },
+  "musicbrainz_id": "cd7edb10-c9c0-388a-a5a2-40a909e6d2a3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/12333aaa-bd9b-4bd0-8bad-77495801624b",
+      "barcode": "828766924121",
+      "title": "The Essential Glenn Miller",
+      "disambiguation": null,
+      "date": "2005",
+      "country": "US"
+    },
+    "total_tracks": 38,
+    "total_length": "2:06:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "In the Mood",
+            "length": "3:39",
+            "deezer": {
+              "id": 570273,
+              "link": "https://www.deezer.com/track/570273",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/7/0/ea7f3be67b1cd84d64fc9317ded550cf.mp3?hdnea=exp=1795654633~acl=/api/1/1/e/a/7/0/ea7f3be67b1cd84d64fc9317ded550cf.mp3*~data=user_id=0,application_id=42~hmac=a243d0913764de23dd9c13b3bd25e146a208e7d1a129d727ee6b12a96233bfda",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tuxedo Junction",
+            "length": "3:29",
+            "deezer": {
+              "id": 13178680,
+              "link": "https://www.deezer.com/track/13178680",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/f/0/93f61afdd0d117d3bbe61758c1f7213c.mp3?hdnea=exp=1795654633~acl=/api/1/1/9/3/f/0/93f61afdd0d117d3bbe61758c1f7213c.mp3*~data=user_id=0,application_id=42~hmac=d4f50ddbad12673808e8d6874eaf42abb2b4552a5a05fe32e40e9ea156522df6",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Serenade in Blue",
+            "length": "3:29",
+            "deezer": {
+              "id": 570201,
+              "link": "https://www.deezer.com/track/570201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/b/0/2cb4384922cbc4a26a73f022724e39f4.mp3?hdnea=exp=1795654633~acl=/api/1/1/2/c/b/0/2cb4384922cbc4a26a73f022724e39f4.mp3*~data=user_id=0,application_id=42~hmac=8ccb308e39abf9ede09ebfcaaf19bef260eb194910321acfc4a29db3ada426b2",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Blueberry Hill",
+            "length": "2:55",
+            "deezer": {
+              "id": 570203,
+              "link": "https://www.deezer.com/track/570203",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/16774a7785aeb08b5e6a2e39b1f1c0e2.mp3?hdnea=exp=1795654633~acl=/api/1/1/1/6/7/0/16774a7785aeb08b5e6a2e39b1f1c0e2.mp3*~data=user_id=0,application_id=42~hmac=b22bd41456dbef02e64c81ddcc9b393de5fba83f44ad5e13c8fa616e0b019768",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "(I've Got a Gal in) Kalamazoo",
+            "length": "3:17",
+            "deezer": {
+              "id": 570205,
+              "link": "https://www.deezer.com/track/570205",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/6/0/b96d1ad9189d5929db52d4abfac97428.mp3?hdnea=exp=1795654633~acl=/api/1/1/b/9/6/0/b96d1ad9189d5929db52d4abfac97428.mp3*~data=user_id=0,application_id=42~hmac=913b5c23fe02f56dd311be24c45bd763dc2f58b4456ade01bb8b557970f2bd04",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Moon Love",
+            "length": "2:55",
+            "deezer": {
+              "id": 570269,
+              "link": "https://www.deezer.com/track/570269",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/f/0/91f368f77f5c63e07e712672bac841ef.mp3?hdnea=exp=1795654633~acl=/api/1/1/9/1/f/0/91f368f77f5c63e07e712672bac841ef.mp3*~data=user_id=0,application_id=42~hmac=9913d129d0cf4bea89c0c4469e9ab5766151ca30827e4747c3afe7076417ba5f",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Over the Rainbow",
+            "length": "2:31",
+            "deezer": {
+              "id": 570208,
+              "link": "https://www.deezer.com/track/570208",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/6/0/7a64f97ccef22a83d5ff974568eecb2c.mp3?hdnea=exp=1795654633~acl=/api/1/1/7/a/6/0/7a64f97ccef22a83d5ff974568eecb2c.mp3*~data=user_id=0,application_id=42~hmac=8c78c0ee7e5843c21d03a888409510752176810cea5cfa540f5f6e9e5a7c0870",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Stairway to the Stars",
+            "length": "2:54",
+            "deezer": {
+              "id": 570210,
+              "link": "https://www.deezer.com/track/570210",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/3/0/df3905e2b004c1d9662038d0947ef6f1.mp3?hdnea=exp=1795654633~acl=/api/1/1/d/f/3/0/df3905e2b004c1d9662038d0947ef6f1.mp3*~data=user_id=0,application_id=42~hmac=19ab8456d283b6eeef6a7ada92966610344ce8327c10e7cb8c49a9770b8ed489",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Little Brown Jug",
+            "length": "2:52",
+            "deezer": {
+              "id": 570212,
+              "link": "https://www.deezer.com/track/570212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/c/0/4fc3312c0d1913df4a7a35c670c3d8aa.mp3?hdnea=exp=1795654633~acl=/api/1/1/4/f/c/0/4fc3312c0d1913df4a7a35c670c3d8aa.mp3*~data=user_id=0,application_id=42~hmac=7d7468e3f5a7e5616abac79fa652b58c3a146d4a7f8cd49b30336f02aae9ac1a",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "A String of Pearls",
+            "length": "3:16",
+            "deezer": {
+              "id": 570275,
+              "link": "https://www.deezer.com/track/570275",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/b/0/8fb9d7715e666652f0be4f9f3c1f30f2.mp3?hdnea=exp=1795654633~acl=/api/1/1/8/f/b/0/8fb9d7715e666652f0be4f9f3c1f30f2.mp3*~data=user_id=0,application_id=42~hmac=4bb9e893bd1fd05b1a199533a997b6f1f675df8d3fdf8f727fdf5caefd498671",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Juke Box Saturday Night",
+            "length": "3:07",
+            "deezer": {
+              "id": 570214,
+              "link": "https://www.deezer.com/track/570214",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/6/0/0b6759bfb7a2041288db8c7c95c6bde0.mp3?hdnea=exp=1795654633~acl=/api/1/1/0/b/6/0/0b6759bfb7a2041288db8c7c95c6bde0.mp3*~data=user_id=0,application_id=42~hmac=5b9fc870eac3efe49f899d82e7a10ba9f2839209be5bec07a50f7bb41ef94168",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Woodpecker Song",
+            "length": "2:36",
+            "deezer": {
+              "id": 570216,
+              "link": "https://www.deezer.com/track/570216",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/8/0/628adfe7375ab4904a84d675ebfa8206.mp3?hdnea=exp=1795654633~acl=/api/1/1/6/2/8/0/628adfe7375ab4904a84d675ebfa8206.mp3*~data=user_id=0,application_id=42~hmac=f622f49e9f684f33a38da2dcf21f6e873be8a8fc52333a76e9ef8019972812cb",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "When You Wish Upon a Star",
+            "length": "2:54",
+            "deezer": {
+              "id": 570218,
+              "link": "https://www.deezer.com/track/570218",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/c/0/4bc0fe69b6715ccf786cd823efea4ab9.mp3?hdnea=exp=1795654633~acl=/api/1/1/4/b/c/0/4bc0fe69b6715ccf786cd823efea4ab9.mp3*~data=user_id=0,application_id=42~hmac=375cca019bee1e3056e6f1dddd1d34fa5e5e97d913155dc12add8c087482cb1d",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Imagination",
+            "length": "2:50",
+            "deezer": {
+              "id": 570277,
+              "link": "https://www.deezer.com/track/570277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/7/0/19780326f1060c65c5213cd8455983f5.mp3?hdnea=exp=1795654633~acl=/api/1/1/1/9/7/0/19780326f1060c65c5213cd8455983f5.mp3*~data=user_id=0,application_id=42~hmac=5bd466025817ad3fdb7cbe5cdddeb1cc4ec5b5727710159e6c72ca0577e74e33",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "The Booglie Wooglie Piggy",
+            "length": "3:26",
+            "deezer": {
+              "id": 570220,
+              "link": "https://www.deezer.com/track/570220",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/4/0/7543814b446aa54dd8668dc5b97dc38b.mp3?hdnea=exp=1795654633~acl=/api/1/1/7/5/4/0/7543814b446aa54dd8668dc5b97dc38b.mp3*~data=user_id=0,application_id=42~hmac=f937f462ff17de6538ea255b35a80b9caea28df1a05ef17b0b52d9f67d03e107",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Moonlight Cocktail",
+            "length": "3:19",
+            "deezer": {
+              "id": 570278,
+              "link": "https://www.deezer.com/track/570278",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/b/0/72ba005414080dea1197e699ba384019.mp3?hdnea=exp=1795654633~acl=/api/1/1/7/2/b/0/72ba005414080dea1197e699ba384019.mp3*~data=user_id=0,application_id=42~hmac=f03f1d8284b2984cec630a87d11f67a806a7d26f409e9c01acb38306d7d57d11",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "A Nightingale Sang in Berkeley Square",
+            "length": "3:42",
+            "deezer": {
+              "id": 570221,
+              "link": "https://www.deezer.com/track/570221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/3/0/f933d244f6174007dd4786bb3c8c47e6.mp3?hdnea=exp=1795654633~acl=/api/1/1/f/9/3/0/f933d244f6174007dd4786bb3c8c47e6.mp3*~data=user_id=0,application_id=42~hmac=5c6d69e63cc983c3e2a9b58a2b3e4375bb0ca268c06e8d99279537f5a9832498",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Blue Rain",
+            "length": "3:13",
+            "deezer": {
+              "id": 570271,
+              "link": "https://www.deezer.com/track/570271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/4/0/944d95540fd3988409e859c90f0dfe29.mp3?hdnea=exp=1795654633~acl=/api/1/1/9/4/4/0/944d95540fd3988409e859c90f0dfe29.mp3*~data=user_id=0,application_id=42~hmac=9b6feed063443625984011f97497a94ff4bdda72e06984e011a373cd359800a7",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Beat Me Daddy, Eight to the Bar",
+            "length": "3:04",
+            "deezer": {
+              "id": 570223,
+              "link": "https://www.deezer.com/track/570223",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/b/0/b6b2cb477ba5ed7a3c19395579a7dab4.mp3?hdnea=exp=1795654633~acl=/api/1/1/b/6/b/0/b6b2cb477ba5ed7a3c19395579a7dab4.mp3*~data=user_id=0,application_id=42~hmac=e2f0dd06d2e46cf7a3ec8717d40d58615f4864df8df3d4efc9381f2309f89c60",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pennsylvania 6-5000",
+            "length": "3:16",
+            "deezer": {
+              "id": 570225,
+              "link": "https://www.deezer.com/track/570225",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/b/0/6dbde43c7f42f58c49092543b09ab76f.mp3?hdnea=exp=1795654633~acl=/api/1/1/6/d/b/0/6dbde43c7f42f58c49092543b09ab76f.mp3*~data=user_id=0,application_id=42~hmac=933d7cf8ef846dbeb8a64b2be6eaecb5c688378c0ac70097b387ab19207420f4",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Don't Sit Under the Apple Tree (With Anyone Else but Me)",
+            "length": "3:13",
+            "deezer": {
+              "id": 570226,
+              "link": "https://www.deezer.com/track/570226",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/7/0/fe7fb5a09689f3ce233af03348d05510.mp3?hdnea=exp=1795654633~acl=/api/1/1/f/e/7/0/fe7fb5a09689f3ce233af03348d05510.mp3*~data=user_id=0,application_id=42~hmac=60e6276d37efba64ad92a46a776422eefb8dac4b8069539ae59ab08abe66622c",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Elmer's Tune",
+            "length": "3:10",
+            "deezer": {
+              "id": 570228,
+              "link": "https://www.deezer.com/track/570228",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/1/0/7b1b1de6fcd9f6ef9399d654762cc0fb.mp3?hdnea=exp=1795654633~acl=/api/1/1/7/b/1/0/7b1b1de6fcd9f6ef9399d654762cc0fb.mp3*~data=user_id=0,application_id=42~hmac=17a3bff9ad6301eaac82888fc94f250d52d7331a0b688545d4ad3f2c9e76e9d9",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Chattanooga Choo Choo",
+            "length": "3:29",
+            "deezer": {
+              "id": 570280,
+              "link": "https://www.deezer.com/track/570280",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/e/0/0ee2ee09dd5bbc3dd3e6b9cb9c1cac00.mp3?hdnea=exp=1795654633~acl=/api/1/1/0/e/e/0/0ee2ee09dd5bbc3dd3e6b9cb9c1cac00.mp3*~data=user_id=0,application_id=42~hmac=701af87dbf729274db4bda115d8f0a0791094f4e7cb7408b7e54dc49b59a55e2",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Story of a Starry Night",
+            "length": "3:32",
+            "deezer": {
+              "id": 570231,
+              "link": "https://www.deezer.com/track/570231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/a/0/57a9a02e31d7186008539e1c966539a8.mp3?hdnea=exp=1795654633~acl=/api/1/1/5/7/a/0/57a9a02e31d7186008539e1c966539a8.mp3*~data=user_id=0,application_id=42~hmac=a18f7dd5645e95d83396f80b78bd7c8fdcf9dbc801757f59542879ed4d9636bc",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "At Last",
+            "length": "3:07",
+            "deezer": {
+              "id": 570232,
+              "link": "https://www.deezer.com/track/570232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/b/0/25b55c7e08da7b5908a4650bc27d13d9.mp3?hdnea=exp=1795654633~acl=/api/1/1/2/5/b/0/25b55c7e08da7b5908a4650bc27d13d9.mp3*~data=user_id=0,application_id=42~hmac=d707e118934740b2e755f8563cb3f7988424def77d0bb38a33db9cd836cb97de",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "American Patrol",
+            "length": "3:20",
+            "deezer": {
+              "id": 570233,
+              "link": "https://www.deezer.com/track/570233",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/c/0/24c1512cb0e209be645bf4fb684f2659.mp3?hdnea=exp=1795654633~acl=/api/1/1/2/4/c/0/24c1512cb0e209be645bf4fb684f2659.mp3*~data=user_id=0,application_id=42~hmac=7fcc680e182454f37d0d336f759cbf273de742b7092346a4822a5c09026d6fe8",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Fools Rush In (Where Angels Fear to Tread)",
+            "length": "2:35",
+            "deezer": {
+              "id": 570282,
+              "link": "https://www.deezer.com/track/570282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/1/0/bd1dd8218c36490b221fc396dc536034.mp3?hdnea=exp=1795654633~acl=/api/1/1/b/d/1/0/bd1dd8218c36490b221fc396dc536034.mp3*~data=user_id=0,application_id=42~hmac=c08d55f566ea82c702184283c29023418773e058066fe9280544ae9c792b0300",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Nearness of You",
+            "length": "3:15",
+            "deezer": {
+              "id": 570235,
+              "link": "https://www.deezer.com/track/570235",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/3/0/cf36b5a70b7dfa0d62094d9afe122e26.mp3?hdnea=exp=1795654633~acl=/api/1/1/c/f/3/0/cf36b5a70b7dfa0d62094d9afe122e26.mp3*~data=user_id=0,application_id=42~hmac=fd1b28d53dce3c57655b1c7771eb1907929afdd9d1a0ca7b81fc7a8501fa8191",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Blue Orchids",
+            "length": "2:56",
+            "deezer": {
+              "id": 570236,
+              "link": "https://www.deezer.com/track/570236",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/8/0/bf8347086bb2154787c894db8c35e610.mp3?hdnea=exp=1795654633~acl=/api/1/1/b/f/8/0/bf8347086bb2154787c894db8c35e610.mp3*~data=user_id=0,application_id=42~hmac=8c8af9ff4df33428a26bbded8fbeafde1a9cee0e7990f5eb41056a310011baa1",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Song of the Volga Boatmen",
+            "length": "3:27",
+            "deezer": {
+              "id": 570238,
+              "link": "https://www.deezer.com/track/570238",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/c/0/c5c28fbb4492021df82dd8b7516cef92.mp3?hdnea=exp=1795654633~acl=/api/1/1/c/5/c/0/c5c28fbb4492021df82dd8b7516cef92.mp3*~data=user_id=0,application_id=42~hmac=247d960c1922f6e32027904aa615bfd7740f3df7e2ee08a7abb69a795411ba1c",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Moonlight Serenade",
+            "length": "3:25",
+            "deezer": {
+              "id": 570239,
+              "link": "https://www.deezer.com/track/570239",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/b/0/37bcd20afd32d2dadd062e41609fc550.mp3?hdnea=exp=1795654633~acl=/api/1/1/3/7/b/0/37bcd20afd32d2dadd062e41609fc550.mp3*~data=user_id=0,application_id=42~hmac=f21af123bf1c65ca91311b5e50206131a37d0c319727378f4400e6d74d4b7417",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Over There",
+            "length": "2:04",
+            "artist": "Glenn Miller and The Army Air Force Band",
+            "deezer": {
+              "id": 570283,
+              "link": "https://www.deezer.com/track/570283",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/9/0/45958fe9e8cc5f234667f777774a5c5e.mp3?hdnea=exp=1795654633~acl=/api/1/1/4/5/9/0/45958fe9e8cc5f234667f777774a5c5e.mp3*~data=user_id=0,application_id=42~hmac=6937541f80902badb43c7bdc21d06d6c4b4f82bc9f8a716fd5a973a99258bb92",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "The St. Louis Blues March",
+            "length": "4:28",
+            "artist": "Glenn Miller and The Army Air Force Band",
+            "deezer": {
+              "id": 570241,
+              "link": "https://www.deezer.com/track/570241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/3/0/d334d216c3b7b0357e219c84a66dd087.mp3?hdnea=exp=1795654633~acl=/api/1/1/d/3/3/0/d334d216c3b7b0357e219c84a66dd087.mp3*~data=user_id=0,application_id=42~hmac=1c98811f73febf4ca9cd1c5ed4cc93e5a416e03ee1c23087af1c4d8c9177662e",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Peggy the Pin-Up Girl",
+            "length": "3:24",
+            "artist": "Glenn Miller and The Army Air Force Band",
+            "deezer": {
+              "id": 570286,
+              "link": "https://www.deezer.com/track/570286",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/e/0/c2ec661a0876a49d2c7bd8134ea7336a.mp3?hdnea=exp=1795654633~acl=/api/1/1/c/2/e/0/c2ec661a0876a49d2c7bd8134ea7336a.mp3*~data=user_id=0,application_id=42~hmac=92c91228e0288b7d8409d5e37c0bba7eeec50ae834135237555509837e5a4c27",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Along the Santa Fe Trail",
+            "length": "3:22",
+            "artist": "Glenn Miller and The Army Air Force Band",
+            "deezer": {
+              "id": 570242,
+              "link": "https://www.deezer.com/track/570242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/3/0/ce39dbfd1d49c94edf62998153dada39.mp3?hdnea=exp=1795654633~acl=/api/1/1/c/e/3/0/ce39dbfd1d49c94edf62998153dada39.mp3*~data=user_id=0,application_id=42~hmac=0bfcebbe3c2f08878bba0cf97c5e293aacd5ed5c43b2a6c59f78b66fd928d04e",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Mission to Moscow",
+            "length": "2:34",
+            "artist": "Glenn Miller and The Army Air Force Band",
+            "deezer": {
+              "id": 570287,
+              "link": "https://www.deezer.com/track/570287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/3/0/1c3a99563e7d83206bcd5594d588a0f2.mp3?hdnea=exp=1795654633~acl=/api/1/1/1/c/3/0/1c3a99563e7d83206bcd5594d588a0f2.mp3*~data=user_id=0,application_id=42~hmac=fa6fc90e96e360c7e553ba9016f18122fa06d470014919c4617442beb2c2617f",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Londonderry Air (Danny Boy) / Shoo-Shoo Baby / The Way You Look Tonight / Beautiful Blue Danube",
+            "length": "8:50",
+            "artist": "Glenn Miller and The Army Air Force Band",
+            "deezer": {
+              "id": 570245,
+              "link": "https://www.deezer.com/track/570245",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/c/0/72c269a804eab04a1c365db4a4bf0b2b.mp3?hdnea=exp=1795654633~acl=/api/1/1/7/2/c/0/72c269a804eab04a1c365db4a4bf0b2b.mp3*~data=user_id=0,application_id=42~hmac=51f31cd8235434a040222d88d60e6ac916520accdae98a065b5e5de4b12d3801",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "G.I. Jive",
+            "length": "3:10",
+            "artist": "Glenn Miller and The Army Air Force Band",
+            "deezer": {
+              "id": 570246,
+              "link": "https://www.deezer.com/track/570246",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/0/0/ae0f060240a6872802291ee16392c629.mp3?hdnea=exp=1795654633~acl=/api/1/1/a/e/0/0/ae0f060240a6872802291ee16392c629.mp3*~data=user_id=0,application_id=42~hmac=b97340d9c2c58d240409877d17e5320e62b65d170a9abc55ea05214efee72d49",
+              "preview_expires": "2026-11-26T00:57:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Glenn Miller/The Essential Glenn Miller.jpg"
+}

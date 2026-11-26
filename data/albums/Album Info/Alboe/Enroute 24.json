@@ -1,0 +1,84 @@
+{
+  "title": "Enroute 24",
+  "artist": "Alboe",
+  "year": 2024,
+  "release_date": "2024-10-11",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1bv60unwrrutVh29dUXS0w",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1bv60unwrrutVh29dUXS0w",
+      "title": "Enroute 24",
+      "date": "2024-10-11"
+    },
+    "total_tracks": 9,
+    "total_length": "40:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Imarat",
+            "length": "4:26"
+          },
+          {
+            "number": "2",
+            "title": "Sahi",
+            "length": "4:16"
+          },
+          {
+            "number": "3",
+            "title": "The Alligator Song",
+            "length": "5:49"
+          },
+          {
+            "number": "4",
+            "title": "Sliding Doors",
+            "length": "5:02"
+          },
+          {
+            "number": "5",
+            "title": "Bench Warmer",
+            "length": "3:00"
+          },
+          {
+            "number": "6",
+            "title": "Just For Show",
+            "length": "4:37"
+          },
+          {
+            "number": "7",
+            "title": "Jaadu",
+            "length": "4:40"
+          },
+          {
+            "number": "8",
+            "title": "The Whale",
+            "length": "3:17"
+          },
+          {
+            "number": "9",
+            "title": "Imarat - Radio Edit",
+            "length": "5:26"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Alboe/Enroute 24.jpg"
+}

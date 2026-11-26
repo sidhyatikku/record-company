@@ -1,0 +1,51 @@
+{
+  "title": "Blockbuster",
+  "artist": "Faris Shafi, Umair Butt & Gharvi",
+  "year": 2024,
+  "release_date": "2024-05-25",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/61ebaf2a-79ca-4986-8826-a4af620b8802",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/583388542"
+  },
+  "musicbrainz_id": "61ebaf2a-79ca-4986-8826-a4af620b8802",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/88750b83-174c-4109-9e7c-cd4d629d4d1c",
+      "barcode": "085365577756",
+      "title": "Blockbuster",
+      "disambiguation": null,
+      "date": "2024-05-25",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "4:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blockbuster",
+            "length": "4:35",
+            "deezer": {
+              "id": 2787482412,
+              "link": "https://www.deezer.com/track/2787482412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/e/0/0ce4ec0e71cacbb21b3e85642d6a0049.mp3?hdnea=exp=1795654158~acl=/api/1/1/0/c/e/0/0ce4ec0e71cacbb21b3e85642d6a0049.mp3*~data=user_id=0,application_id=42~hmac=b91cf3f6e2d02c6935e5a2abcecb9598a14861c16bcd78c5863c73bc7bf6648d",
+              "preview_expires": "2026-11-26T00:49:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Faris Shafi/Blockbuster.jpg"
+}

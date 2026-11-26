@@ -1,0 +1,49 @@
+{
+  "title": "Chaap Tilak",
+  "artist": "Kalzi",
+  "year": 2025,
+  "release_date": "2025-10-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7nZl85k9NsPmixWtcToQIW",
+    "deezer": "https://www.deezer.com/album/834193342"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7nZl85k9NsPmixWtcToQIW",
+      "title": "Chaap Tilak",
+      "date": "2025-10-17"
+    },
+    "total_tracks": 1,
+    "total_length": "5:11",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Chaap Tilak",
+            "length": "5:11",
+            "deezer": {
+              "id": 3591552402,
+              "link": "https://www.deezer.com/track/3591552402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/c/0/a1cd8c98d83bafcab1730ebc6f62dfca.mp3?hdnea=exp=1795655838~acl=/api/1/1/a/1/c/0/a1cd8c98d83bafcab1730ebc6f62dfca.mp3*~data=user_id=0,application_id=42~hmac=a7128734c1e436404911b0da400f2475e43a03ebe1470ffe6a5bde47e6dcd939",
+              "preview_expires": "2026-11-26T01:17:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kalzi/Chaap Tilak.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Low Again",
+  "artist": "BOVSKI",
+  "year": 2025,
+  "release_date": "2025-08-01",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/39b030c2-44f6-4568-9ffb-43a58b784d1c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/793566161"
+  },
+  "musicbrainz_id": "39b030c2-44f6-4568-9ffb-43a58b784d1c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/56991d80-6423-468a-88e6-325b08a70b5d",
+      "barcode": "038557136910",
+      "title": "Low Again",
+      "disambiguation": null,
+      "date": "2025-08-01",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Low Again",
+            "length": "2:07",
+            "deezer": {
+              "id": 3476139321,
+              "link": "https://www.deezer.com/track/3476139321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/0/0/8c004848922239e879452a1f185ac593.mp3?hdnea=exp=1795652526~acl=/api/1/1/8/c/0/0/8c004848922239e879452a1f185ac593.mp3*~data=user_id=0,application_id=42~hmac=8a6740241e6a6ef90d0d100c383c81f4c8894655517efef7daec1c0138bafb35",
+              "preview_expires": "2026-11-26T00:22:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/BOVSKI/Low Again.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Radha kaise jiye",
+  "artist": "Dhiraaj",
+  "year": 2024,
+  "release_date": "2024-03-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "indian indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0AuKMjg844CqMAcqCf5MsA",
+    "deezer": "https://www.deezer.com/album/553964502"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0AuKMjg844CqMAcqCf5MsA",
+      "title": "Radha kaise jiye",
+      "date": "2024-03-01"
+    },
+    "total_tracks": 1,
+    "total_length": "2:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Radha kaise jiye",
+            "length": "2:49",
+            "deezer": {
+              "id": 2682354422,
+              "link": "https://www.deezer.com/track/2682354422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/4/0/9142a3700a00a189be877c678f824873.mp3?hdnea=exp=1795653323~acl=/api/1/1/9/1/4/0/9142a3700a00a189be877c678f824873.mp3*~data=user_id=0,application_id=42~hmac=7491deff15005b5341c6418f6de5c8a0c91475e49c2bb26f54efff9d8fd91675",
+              "preview_expires": "2026-11-26T00:35:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Dhiraaj/Radha kaise jiye.jpg"
+}

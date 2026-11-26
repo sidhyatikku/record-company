@@ -1,0 +1,186 @@
+{
+  "title": "Steppenwolf",
+  "artist": "Steppenwolf",
+  "year": 1968,
+  "release_date": "1968-01-29",
+  "type": "Album",
+  "description": "Steppenwolf is the debut studio album by Canadian-American rock band Steppenwolf, released on January 29, 1968, on ABC Dunhill Records. It includes songs written by band members and songs written by others such as the Willie Dixon blues classic \"Hoochie Coochie Man\", retitled \"Hootchie Kootchie Man\".",
+  "genres": [
+    "hard rock",
+    "rock",
+    "acid rock",
+    "classic rock",
+    "blues rock",
+    "garage rock",
+    "pop",
+    "psychedelic rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "acid rock",
+    "classic rock",
+    "blues rock",
+    "garage rock",
+    "pop",
+    "psychedelic rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/38562fbb-157e-3803-b343-94f6a710444b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steppenwolf_(Steppenwolf_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000191884",
+    "discogs": "https://www.discogs.com/master/131511",
+    "wikidata": "https://www.wikidata.org/wiki/Q1932024",
+    "deezer": "https://www.deezer.com/album/321119497"
+  },
+  "musicbrainz_id": "38562fbb-157e-3803-b343-94f6a710444b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2c008b6b-5289-421b-9770-efd248efbc27",
+      "barcode": "5011781185720",
+      "title": "Steppenwolf",
+      "disambiguation": "reissue",
+      "date": "1990",
+      "country": "DE"
+    },
+    "total_tracks": 11,
+    "total_length": "47:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sookie Sookie",
+            "length": "3:18",
+            "deezer": {
+              "id": 1762624067,
+              "link": "https://www.deezer.com/track/1762624067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/4/0/4c4ccc2864382be64f6d1941b4889506.mp3?hdnea=exp=1795720970~acl=/api/1/1/4/c/4/0/4c4ccc2864382be64f6d1941b4889506.mp3*~data=user_id=0,application_id=42~hmac=ad93ff92dd52f92dff83999cd863d99868920adc3e5d89d7cf91dfa90d76dcb1",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Everybody’s Next One",
+            "length": "3:00",
+            "deezer": {
+              "id": 1762624077,
+              "link": "https://www.deezer.com/track/1762624077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/2/0/d822e6ed9473bf7b8ff3fed335e1b26a.mp3?hdnea=exp=1795720970~acl=/api/1/1/d/8/2/0/d822e6ed9473bf7b8ff3fed335e1b26a.mp3*~data=user_id=0,application_id=42~hmac=7e9b06b3f35eac4556a1becb7bd444eca7f10282f68324b6c38a78bd2f104e55",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Berry Rides Again",
+            "length": "2:52",
+            "deezer": {
+              "id": 1762624087,
+              "link": "https://www.deezer.com/track/1762624087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f36e02fc758f823d33686495eff8bb9.mp3?hdnea=exp=1795720970~acl=/api/1/1/6/f/3/0/6f36e02fc758f823d33686495eff8bb9.mp3*~data=user_id=0,application_id=42~hmac=393c2494341047da8904bd6b3175dd5e2813d86c1f85736ada3f8e8813588dff",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hoochie Coochie Man",
+            "length": "5:15",
+            "deezer": {
+              "id": 1762624097,
+              "link": "https://www.deezer.com/track/1762624097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/2/0/9f2a399ac215edf2d5fa9855fe665df6.mp3?hdnea=exp=1795720970~acl=/api/1/1/9/f/2/0/9f2a399ac215edf2d5fa9855fe665df6.mp3*~data=user_id=0,application_id=42~hmac=9a24dc981a1c738f8c3f58443a584c651f63f47101e0d6e81aaf67a2b31d3ba6",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Born to Be Wild",
+            "length": "3:33",
+            "deezer": {
+              "id": 1762624107,
+              "link": "https://www.deezer.com/track/1762624107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/0/0/50097ed8badf8201a4d1cc201827a41d.mp3?hdnea=exp=1795720970~acl=/api/1/1/5/0/0/0/50097ed8badf8201a4d1cc201827a41d.mp3*~data=user_id=0,application_id=42~hmac=b59e671dc197d3aa7e64938c0598d7e924e515c6c77799cca89dd19786fc3c10",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Your Wall’s Too High",
+            "length": "5:48",
+            "deezer": {
+              "id": 1762624117,
+              "link": "https://www.deezer.com/track/1762624117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/b/0/a7b0923ea4d0dbf507236a90d8dc8f2c.mp3?hdnea=exp=1795720970~acl=/api/1/1/a/7/b/0/a7b0923ea4d0dbf507236a90d8dc8f2c.mp3*~data=user_id=0,application_id=42~hmac=5d91c762e60b56d440a51d9b301cb53f9977d8e089646552c8cc7c5a7f52ca6c",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Desperation",
+            "length": "5:47",
+            "deezer": {
+              "id": 1762624127,
+              "link": "https://www.deezer.com/track/1762624127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/4/0/e845b88001fdd17f38f1b7daef03ed68.mp3?hdnea=exp=1795720970~acl=/api/1/1/e/8/4/0/e845b88001fdd17f38f1b7daef03ed68.mp3*~data=user_id=0,application_id=42~hmac=5805ff97b6bef41518347484c73373de8a567ea2a8fa3ca16cd11d033e0062e7",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Pusher",
+            "length": "5:52",
+            "deezer": {
+              "id": 1762624137,
+              "link": "https://www.deezer.com/track/1762624137",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/d/0/d9d35730f8ff5a67c7a747058c572602.mp3?hdnea=exp=1795720970~acl=/api/1/1/d/9/d/0/d9d35730f8ff5a67c7a747058c572602.mp3*~data=user_id=0,application_id=42~hmac=b5d07cdeabd2c2850fc036027b19d21460b5ab5e8d663b45394c461fc986246c",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "A Girl I Knew",
+            "length": "2:43",
+            "deezer": {
+              "id": 1762624147,
+              "link": "https://www.deezer.com/track/1762624147",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/7/0/4d74e1eb3a0d98a7a47cc9fdf929445e.mp3?hdnea=exp=1795720970~acl=/api/1/1/4/d/7/0/4d74e1eb3a0d98a7a47cc9fdf929445e.mp3*~data=user_id=0,application_id=42~hmac=623ac909ab5bead1b2af3ca7d95951c416c63502c0c816b7712ccb9bd9b20875",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Take What You Need",
+            "length": "3:31",
+            "deezer": {
+              "id": 1762624157,
+              "link": "https://www.deezer.com/track/1762624157",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/8/0/368799dd1ffd0fe2e3ec334bb33beb25.mp3?hdnea=exp=1795720970~acl=/api/1/1/3/6/8/0/368799dd1ffd0fe2e3ec334bb33beb25.mp3*~data=user_id=0,application_id=42~hmac=b50af1ff27642d67122176a8a1139ecf461aa556e2370b7b5d35faebaacc3c54",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Ostrich",
+            "length": "5:45",
+            "deezer": {
+              "id": 1762624167,
+              "link": "https://www.deezer.com/track/1762624167",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/6/0/a06fa03a2ccca120e1b09acf51b55bf7.mp3?hdnea=exp=1795720970~acl=/api/1/1/a/0/6/0/a06fa03a2ccca120e1b09acf51b55bf7.mp3*~data=user_id=0,application_id=42~hmac=b5514f4bcdab4a10e7d9ed0435599bf665f9bc4feeedabda09fbc5f221e2df21",
+              "preview_expires": "2026-11-26T19:22:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Steppenwolf/Steppenwolf.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Desi Hood",
+  "artist": "Krish Rao",
+  "year": 2024,
+  "release_date": "2024-03-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "haryanvi pop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR",
+    "deezer": "https://www.deezer.com/album/556165572"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR",
+      "title": "Desi Hood",
+      "date": "2024-03-01"
+    },
+    "total_tracks": 1,
+    "total_length": "2:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Desi Hood",
+            "length": "2:28",
+            "deezer": {
+              "id": 2689647782,
+              "link": "https://www.deezer.com/track/2689647782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/3/0/973788ac892ac1ed95619647d7307e3c.mp3?hdnea=exp=1795656326~acl=/api/1/1/9/7/3/0/973788ac892ac1ed95619647d7307e3c.mp3*~data=user_id=0,application_id=42~hmac=c225afa1430c7ca6603bcbc9ec305c3e92bbd401d21acc14b5e3553e9e56a3f7",
+              "preview_expires": "2026-11-26T01:25:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Krish Rao/Desi Hood.jpg"
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Hot Shot",
+  "artist": "Shaggy",
+  "year": 2000,
+  "release_date": "2000-08-08",
+  "type": "Album",
+  "description": "Hot Shot is the fifth studio album released by Jamaican-American singer Shaggy. The album was first released on 8 August 2000, in the United States, before being issued in the United Kingdom on 9 October 2000, with a revised track listing. The revised UK edition was also released in Europe, but without the song \"Why You Mad at Me?\". The album was reissued in the UK on 26 March 2001. Hot Shot went on to be certified six-times platinum in the United States by the RIAA, and was the second best-selling album of 2001 in that country. The album has sold over nine million copies worldwide. A remix album, titled Hot Shot Ultramix, was released in June 2002. Four singles were released from the album: \"It Wasn't Me\", \"Angel\", \"Luv Me, Luv Me\" and the double A-side single \"Dance & Shout / Hope\".",
+  "genres": [
+    "reggae",
+    "dancehall",
+    "pop rap",
+    "pop",
+    "ragga",
+    "rock",
+    "contemporary r&b",
+    "reggae-pop",
+    "dance-pop"
+  ],
+  "tags": [
+    "reggae",
+    "dancehall",
+    "contemporary reggae",
+    "pop rap",
+    "pop",
+    "ragga",
+    "rock",
+    "contemporary r&b",
+    "reggae-pop",
+    "dance-pop",
+    "pop reggae",
+    "pop/rock",
+    "r b",
+    "ragga hiphop",
+    "rap"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bd9be21c-34b8-3692-bba6-29d579bdd8d3",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hot_Shot_(Shaggy_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000552532",
+    "discogs": "https://www.discogs.com/master/83498",
+    "wikidata": "https://www.wikidata.org/wiki/Q1402479",
+    "deezer": "https://www.deezer.com/album/84920482"
+  },
+  "musicbrainz_id": "bd9be21c-34b8-3692-bba6-29d579bdd8d3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/94dcf6a6-4d9a-47cc-99c8-61cd3f60d069",
+      "barcode": "00602577027215",
+      "title": "Hot Shot",
+      "disambiguation": null,
+      "date": "2019-01-25",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "56:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hot Shot",
+            "length": "3:47",
+            "deezer": {
+              "id": 620264622,
+              "link": "https://www.deezer.com/track/620264622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/b/0/ffb8df9ed4f573be8010980202e37d12.mp3?hdnea=exp=1795720463~acl=/api/1/1/f/f/b/0/ffb8df9ed4f573be8010980202e37d12.mp3*~data=user_id=0,application_id=42~hmac=4616d3c2beb70796a61387eff6237879ed03a9c0e9711abede8062c1ab6d192a",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Lonely Lover",
+            "length": "3:47",
+            "deezer": {
+              "id": 620264632,
+              "link": "https://www.deezer.com/track/620264632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/5/0/6d5aaa87b2afd360c4fe5df739f7a00b.mp3?hdnea=exp=1795720463~acl=/api/1/1/6/d/5/0/6d5aaa87b2afd360c4fe5df739f7a00b.mp3*~data=user_id=0,application_id=42~hmac=228b64c77b501b7572cdaa1c486523114427d82d4d7125b2cb82e3975a50cd12",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "It Wasn’t Me",
+            "length": "3:48",
+            "artist": "Shaggy feat. Ricardo Ducent",
+            "deezer": {
+              "id": 620264642,
+              "link": "https://www.deezer.com/track/620264642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/9/0/889be6ba3760dbcb86a1f4c261433772.mp3?hdnea=exp=1795720463~acl=/api/1/1/8/8/9/0/889be6ba3760dbcb86a1f4c261433772.mp3*~data=user_id=0,application_id=42~hmac=70bb3fd3279aaf54cab64583415419cb94bc16c7c98a6b170137b49384ebc1f7",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Freaky Girl",
+            "length": "3:45",
+            "artist": "Shaggy feat. The Kraft",
+            "deezer": {
+              "id": 620264652,
+              "link": "https://www.deezer.com/track/620264652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/5/0/80555774b7119549f0c245b74b4f3418.mp3?hdnea=exp=1795720463~acl=/api/1/1/8/0/5/0/80555774b7119549f0c245b74b4f3418.mp3*~data=user_id=0,application_id=42~hmac=79086b219c03447856c539a5e20ee8c731d45c77da6a16cc9effb8abe98ddedf",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Leave It to Me",
+            "length": "3:38",
+            "artist": "Shaggy feat. Brian & Tony Gold",
+            "deezer": {
+              "id": 620264662,
+              "link": "https://www.deezer.com/track/620264662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/c/0/d5ce3baf7af6a9f7ac5940552c42d646.mp3?hdnea=exp=1795720463~acl=/api/1/1/d/5/c/0/d5ce3baf7af6a9f7ac5940552c42d646.mp3*~data=user_id=0,application_id=42~hmac=111ee9963b488591870cac7d389f797a93bf7fd63c98c78a7371c0395e4d3bb4",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Angel",
+            "length": "3:55",
+            "artist": "Shaggy feat. Rayvon",
+            "deezer": {
+              "id": 620264672,
+              "link": "https://www.deezer.com/track/620264672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/0/0/5e0cc272c9da06347ada9084d30701f9.mp3?hdnea=exp=1795720463~acl=/api/1/1/5/e/0/0/5e0cc272c9da06347ada9084d30701f9.mp3*~data=user_id=0,application_id=42~hmac=8b638c286334a3ad71269bdab8a202e7ab05f4aa3be7004105b83d9802d24eed",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Hope",
+            "length": "3:47",
+            "artist": "Shaggy feat. Prince Mydas",
+            "deezer": {
+              "id": 620264682,
+              "link": "https://www.deezer.com/track/620264682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/9/0/0693cff0c3a6c84b0fe87521543b87a2.mp3?hdnea=exp=1795720463~acl=/api/1/1/0/6/9/0/0693cff0c3a6c84b0fe87521543b87a2.mp3*~data=user_id=0,application_id=42~hmac=cd78e1a4bc0922efc1bdd2536596be42cdd7900e88fda41667409d91b7cd64b6",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Keep’n It Real",
+            "length": "3:56",
+            "deezer": {
+              "id": 620264692,
+              "link": "https://www.deezer.com/track/620264692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/4/0/3a4c1061972ea63a8edaba9c2926314b.mp3?hdnea=exp=1795720463~acl=/api/1/1/3/a/4/0/3a4c1061972ea63a8edaba9c2926314b.mp3*~data=user_id=0,application_id=42~hmac=45ff88249a55f7c1aa2dc79400dc5a01be2256628690585f856c9e151a12cad9",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Luv Me, Luv Me",
+            "length": "3:36",
+            "artist": "Shaggy feat. Samantha Cole",
+            "deezer": {
+              "id": 620264702,
+              "link": "https://www.deezer.com/track/620264702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/4/0/294eb05e60882ad6fd53b4a0040d8047.mp3?hdnea=exp=1795720463~acl=/api/1/1/2/9/4/0/294eb05e60882ad6fd53b4a0040d8047.mp3*~data=user_id=0,application_id=42~hmac=43f6aeaad42e402ca1f8c9dac79cb971f8014f41deaf1f72f183a7c7c1812e1f",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Not Fair",
+            "length": "3:48",
+            "artist": "Shaggy feat. Rude & Miss B",
+            "deezer": {
+              "id": 620264712,
+              "link": "https://www.deezer.com/track/620264712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/e/0/f3ed6df208ccfec9ba7e7ffed9bec120.mp3?hdnea=exp=1795720463~acl=/api/1/1/f/3/e/0/f3ed6df208ccfec9ba7e7ffed9bec120.mp3*~data=user_id=0,application_id=42~hmac=e7e30baa0fc2961ccf4389dbf6c9833ef775e4e7d6bacc227034d53541a0e045",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hey Love",
+            "length": "4:02",
+            "artist": "Shaggy feat. Miss B",
+            "deezer": {
+              "id": 620264722,
+              "link": "https://www.deezer.com/track/620264722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/9/0/5a971a7e5ac85ac432bd2720b74bdbb3.mp3?hdnea=exp=1795720463~acl=/api/1/1/5/a/9/0/5a971a7e5ac85ac432bd2720b74bdbb3.mp3*~data=user_id=0,application_id=42~hmac=ce774ee3f93508c4d19b9ec11714a2e9e5ef80884a928edca1211ed22d4685bb",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Why Me Lord",
+            "length": "3:34",
+            "deezer": {
+              "id": 620264732,
+              "link": "https://www.deezer.com/track/620264732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/3/0/fb3add486a6f48287051374af232dbc2.mp3?hdnea=exp=1795720463~acl=/api/1/1/f/b/3/0/fb3add486a6f48287051374af232dbc2.mp3*~data=user_id=0,application_id=42~hmac=1a9a3adbb08a66408916bfda4c5d13b6f1e42bd5d1cc174593d718676ded24ab",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Joy You Bring",
+            "length": "3:29",
+            "deezer": {
+              "id": 620264742,
+              "link": "https://www.deezer.com/track/620264742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/9/0/599554f78a465bde02930f4112119c96.mp3?hdnea=exp=1795720463~acl=/api/1/1/5/9/9/0/599554f78a465bde02930f4112119c96.mp3*~data=user_id=0,application_id=42~hmac=84dd2e20c6091d6dd6f49e07ff89e07dcf4e314208c2c6ed5117719968957f7f",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Chica Bonita",
+            "length": "4:02",
+            "artist": "Shaggy feat. Ricardo Ducent",
+            "deezer": {
+              "id": 620264752,
+              "link": "https://www.deezer.com/track/620264752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/5/0/7052b2fc8c3f6f1097909ec180635e56.mp3?hdnea=exp=1795720463~acl=/api/1/1/7/0/5/0/7052b2fc8c3f6f1097909ec180635e56.mp3*~data=user_id=0,application_id=42~hmac=928cecaab0ddb3db370276ceee7b32268bf2490a753324df0dc067e3e74e4186",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Dance & Shout (dance hall version)",
+            "length": "3:47",
+            "artist": "Shaggy feat. Pee Wee",
+            "deezer": {
+              "id": 620264762,
+              "link": "https://www.deezer.com/track/620264762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/e/0/06e4a24b28323621a98e0671b7f07ac2.mp3?hdnea=exp=1795720463~acl=/api/1/1/0/6/e/0/06e4a24b28323621a98e0671b7f07ac2.mp3*~data=user_id=0,application_id=42~hmac=57abbdb321d634986795fa6334fb0ae142015f075797f960f8b4af00eefdfa69",
+              "preview_expires": "2026-11-26T19:14:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Shaggy/Hot Shot.png"
+}

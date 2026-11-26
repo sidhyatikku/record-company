@@ -1,0 +1,239 @@
+{
+  "title": "Elvis",
+  "artist": "Elvis Presley",
+  "year": 1973,
+  "release_date": "1973-07-16",
+  "type": "Album",
+  "description": "Elvis is the eighteenth studio album by American singer and musician Elvis Presley, released on July 16, 1973. It sold over 1 million copies worldwide. To differentiate it from his eponymous 1956 release, it is sometimes called The \"Fool\" Album, after its first track which appears just below Elvis' name on the front cover. In the US, \"Fool\" was issued as the B-side of \"Steamroller Blues\" from the Aloha from Hawaii Via Satellite album. In the UK the sides were flipped and \"Fool\" was issued as the A-side. It reached No. 15.",
+  "genres": [
+    "rock",
+    "pop",
+    "pop rock",
+    "rock and roll",
+    "rockabilly"
+  ],
+  "tags": [
+    "rock",
+    "contemporary pop/rock",
+    "pop",
+    "early pop/rock",
+    "pop rock",
+    "pop/rock",
+    "rock & roll",
+    "rock and roll",
+    "rockabilly"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5334291d-f8f1-39d7-b293-361c0d473191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_(1973_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000110495",
+    "discogs": "https://www.discogs.com/master/286877",
+    "wikidata": "https://www.wikidata.org/wiki/Q761651",
+    "deezer": "https://www.deezer.com/album/13669750"
+  },
+  "musicbrainz_id": "5334291d-f8f1-39d7-b293-361c0d473191",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e6f11998-ddf1-4d56-aa7b-0b2da25283e8",
+      "barcode": "886445928006",
+      "title": "Elvis",
+      "disambiguation": null,
+      "date": "2016-07-26",
+      "country": "XW"
+    },
+    "total_tracks": 16,
+    "total_length": "45:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fool",
+            "length": "2:45",
+            "deezer": {
+              "id": 129231794,
+              "link": "https://www.deezer.com/track/129231794",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/0/0/b2035cda72652739a730f99ac1453b66.mp3?hdnea=exp=1795653837~acl=/api/1/1/b/2/0/0/b2035cda72652739a730f99ac1453b66.mp3*~data=user_id=0,application_id=42~hmac=fc4e507eea3342822ecb1ef555f5bd9dfaa29d62511783d2052864807eeb2a06",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Where Do I Go From Here",
+            "length": "2:42",
+            "deezer": {
+              "id": 129231796,
+              "link": "https://www.deezer.com/track/129231796",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/1/0/23125ae95ab628b20159d6312a95744b.mp3?hdnea=exp=1795653837~acl=/api/1/1/2/3/1/0/23125ae95ab628b20159d6312a95744b.mp3*~data=user_id=0,application_id=42~hmac=dd451162ea2be87e658e781e59777a50d65324936960bf498d69d1577da4a1fd",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Love Me, Love the Life I Lead",
+            "length": "3:05",
+            "deezer": {
+              "id": 129231798,
+              "link": "https://www.deezer.com/track/129231798",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/3/0/2a330caad648cd820da1f659a6fb098c.mp3?hdnea=exp=1795653837~acl=/api/1/1/2/a/3/0/2a330caad648cd820da1f659a6fb098c.mp3*~data=user_id=0,application_id=42~hmac=527e050c77a7c08fdd4fb149e00f234baf1787d4ebe9cf359f7e979d05581f37",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "It’s Still Here",
+            "length": "2:06",
+            "deezer": {
+              "id": 129231800,
+              "link": "https://www.deezer.com/track/129231800",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/a/0/dfadfe2bcbc4fd537f385b619097351c.mp3?hdnea=exp=1795653837~acl=/api/1/1/d/f/a/0/dfadfe2bcbc4fd537f385b619097351c.mp3*~data=user_id=0,application_id=42~hmac=764548eceef48dae043a45e431a51a18324d90086d09fc6f2df25de036bd6acf",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "It’s Impossible",
+            "length": "2:53",
+            "deezer": {
+              "id": 129231802,
+              "link": "https://www.deezer.com/track/129231802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/4/0/914e59d995e5890217e3d8988e75d856.mp3?hdnea=exp=1795653837~acl=/api/1/1/9/1/4/0/914e59d995e5890217e3d8988e75d856.mp3*~data=user_id=0,application_id=42~hmac=065529487392b5aa026b41115ff4f6ddb9c0d266f85d3280e305b3a06018b760",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "(That’s What You Get) For Lovin’ Me",
+            "length": "2:11",
+            "deezer": {
+              "id": 129231804,
+              "link": "https://www.deezer.com/track/129231804",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/3/0/c23a8b751d4b26f2b3d852590ac60e8d.mp3?hdnea=exp=1795653837~acl=/api/1/1/c/2/3/0/c23a8b751d4b26f2b3d852590ac60e8d.mp3*~data=user_id=0,application_id=42~hmac=b485477bceb15a7b035e483a0d3b945ab598ea4d43f9206fc86c1012dac788f2",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Padre",
+            "length": "2:30",
+            "deezer": {
+              "id": 129231806,
+              "link": "https://www.deezer.com/track/129231806",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f3763cd621971558af1ce210bf1250c.mp3?hdnea=exp=1795653837~acl=/api/1/1/6/f/3/0/6f3763cd621971558af1ce210bf1250c.mp3*~data=user_id=0,application_id=42~hmac=c9c480c559259bd8c566417f29d806db7e7f4291ab98427f2e66b49f8c47d6db",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I’ll Take You Home Again, Kathleen",
+            "length": "2:28",
+            "deezer": {
+              "id": 129231808,
+              "link": "https://www.deezer.com/track/129231808",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/8/0/8288027af7acbef20cc450008f2a72f4.mp3?hdnea=exp=1795653837~acl=/api/1/1/8/2/8/0/8288027af7acbef20cc450008f2a72f4.mp3*~data=user_id=0,application_id=42~hmac=9920078cca9135ff3b6c924aad491be8a39dac8d0253e8a971be83d4ee7b122c",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I Will Be True",
+            "length": "2:32",
+            "deezer": {
+              "id": 129231810,
+              "link": "https://www.deezer.com/track/129231810",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/7/0/6678320c3f96710f7bbc8dc9a6517f9b.mp3?hdnea=exp=1795653837~acl=/api/1/1/6/6/7/0/6678320c3f96710f7bbc8dc9a6517f9b.mp3*~data=user_id=0,application_id=42~hmac=3bb0699f46376af12125e21b4bf2c5ecc3f5a1789cebf588b6f0b95b5d59f95d",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Don’t Think Twice, It’s All Right",
+            "length": "2:45",
+            "deezer": {
+              "id": 129231812,
+              "link": "https://www.deezer.com/track/129231812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/9/0/d29d6a8e7d5c0ec5ff387dc19888a268.mp3?hdnea=exp=1795653837~acl=/api/1/1/d/2/9/0/d29d6a8e7d5c0ec5ff387dc19888a268.mp3*~data=user_id=0,application_id=42~hmac=20d700b31febef4c95ca3657ea39996125325886220399553d5d3cd5fe94207c",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Separate Ways",
+            "length": "2:37",
+            "deezer": {
+              "id": 129231814,
+              "link": "https://www.deezer.com/track/129231814",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/2/0/0c2a527eba12ad0a87edeed8acbe952c.mp3?hdnea=exp=1795653837~acl=/api/1/1/0/c/2/0/0c2a527eba12ad0a87edeed8acbe952c.mp3*~data=user_id=0,application_id=42~hmac=9a38716ffc27c03e0bf164b866915c3ab4ada2e49271a4b4e3f0a1e72218c070",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "For the Good Times",
+            "length": "3:09",
+            "deezer": {
+              "id": 129231816,
+              "link": "https://www.deezer.com/track/129231816",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/d/0/c4d8fd558f45b04f6fe137ef53bd1177.mp3?hdnea=exp=1795653837~acl=/api/1/1/c/4/d/0/c4d8fd558f45b04f6fe137ef53bd1177.mp3*~data=user_id=0,application_id=42~hmac=6c13595c60ff068ab2e48af8b826cd86594a1c11dd0bc056b7d46dd13c9919f8",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Burning Love",
+            "length": "2:52",
+            "deezer": {
+              "id": 129231818,
+              "link": "https://www.deezer.com/track/129231818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/2/0/ab28234d9080c0fa5a18ec6f4e01964f.mp3?hdnea=exp=1795653837~acl=/api/1/1/a/b/2/0/ab28234d9080c0fa5a18ec6f4e01964f.mp3*~data=user_id=0,application_id=42~hmac=65cef59793128a185a62d550bda2936678cdf78cfeca5f56e39b20a5bea6c602",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Always on My Mind",
+            "length": "3:39",
+            "deezer": {
+              "id": 129231820,
+              "link": "https://www.deezer.com/track/129231820",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/0/0/230eb3c5ef063c03258d0fcc029feb7a.mp3?hdnea=exp=1795653837~acl=/api/1/1/2/3/0/0/230eb3c5ef063c03258d0fcc029feb7a.mp3*~data=user_id=0,application_id=42~hmac=ed2fe320fae54e27977677f71edb87e416ed49eed547db520b709c9efab54eda",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "It’s a Matter of Time",
+            "length": "3:04",
+            "deezer": {
+              "id": 129231822,
+              "link": "https://www.deezer.com/track/129231822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/a/0/01a6262718c23b2f8608c133c332e56d.mp3?hdnea=exp=1795653837~acl=/api/1/1/0/1/a/0/01a6262718c23b2f8608c133c332e56d.mp3*~data=user_id=0,application_id=42~hmac=1a53b7910da4df4e30c18210da6ed18188ffed01229133b1c00d7fb4b163f4f1",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "An American Trilogy (live)",
+            "length": "4:28",
+            "deezer": {
+              "id": 129231824,
+              "link": "https://www.deezer.com/track/129231824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/4/0/5f49d3303cefec66beb6477574ca7dfa.mp3?hdnea=exp=1795653837~acl=/api/1/1/5/f/4/0/5f49d3303cefec66beb6477574ca7dfa.mp3*~data=user_id=0,application_id=42~hmac=e14722cd00650643561a6aad5e53d6e045e1ac6f7172bda5d1be8f6e34607319",
+              "preview_expires": "2026-11-26T00:43:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Elvis Presley/Elvis (Fool).jpg"
+}

@@ -1,0 +1,235 @@
+{
+  "title": "On the Road Again",
+  "artist": "Canned Heat",
+  "year": 2007,
+  "release_date": "2007",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "blues",
+    "rock"
+  ],
+  "tags": [
+    "blues",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ea70fdb0-56f1-41ba-887b-5a3386391ce6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/319756"
+  },
+  "musicbrainz_id": "ea70fdb0-56f1-41ba-887b-5a3386391ce6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e6b87eed-dee7-4cb8-be4c-bd0d75869aa1",
+      "barcode": "8717423036937",
+      "title": "On The Road Again",
+      "disambiguation": null,
+      "date": "2007",
+      "country": "GB"
+    },
+    "total_tracks": 28,
+    "total_length": "2:11:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "On the Road Again",
+            "length": "4:33",
+            "deezer": {
+              "id": 3359885,
+              "link": "https://www.deezer.com/track/3359885",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/d/0/77d16aaad080a244a5dd6cd2929a0119.mp3?hdnea=exp=1795652671~acl=/api/1/1/7/7/d/0/77d16aaad080a244a5dd6cd2929a0119.mp3*~data=user_id=0,application_id=42~hmac=6484c5af44df00479bbb8f4ef895c5663f06de7f6fe1941aa9e711a4fd6b1dbd",
+              "preview_expires": "2026-11-26T00:24:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rollin' and Tumblin' (part 1)",
+            "length": "2:15",
+            "deezer": {
+              "id": 3359896,
+              "link": "https://www.deezer.com/track/3359896",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/e/0/cee13f33e9d42fd910d29b15c8b31b6f.mp3?hdnea=exp=1795652671~acl=/api/1/1/c/e/e/0/cee13f33e9d42fd910d29b15c8b31b6f.mp3*~data=user_id=0,application_id=42~hmac=d0d26cd0a1073a382391912111e1dec4c337852dee53de606fb7499f448c42c0",
+              "preview_expires": "2026-11-26T00:24:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dimples",
+            "length": "2:19"
+          },
+          {
+            "number": "4",
+            "title": "I Wish You Would",
+            "length": "8:05"
+          },
+          {
+            "number": "5",
+            "title": "Kings of the Boogie",
+            "length": "3:29"
+          },
+          {
+            "number": "6",
+            "title": "Amphetamine Annie",
+            "length": "5:45",
+            "deezer": {
+              "id": 3359886,
+              "link": "https://www.deezer.com/track/3359886",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/b/0/d9b260f3a70615ac0a12d7774e96505e.mp3?hdnea=exp=1795652671~acl=/api/1/1/d/9/b/0/d9b260f3a70615ac0a12d7774e96505e.mp3*~data=user_id=0,application_id=42~hmac=03b4727856f2582c9666c4a1085ac659ed72ad7d0f014b790ddb129a4e1110f0",
+              "preview_expires": "2026-11-26T00:24:31Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Strut My Stuff",
+            "length": "2:48"
+          },
+          {
+            "number": "8",
+            "title": "Let's Work Together",
+            "length": "3:55",
+            "deezer": {
+              "id": 3359893,
+              "link": "https://www.deezer.com/track/3359893",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/1/0/e01ee028ed62c190482bb27a405a44e4.mp3?hdnea=exp=1795652671~acl=/api/1/1/e/0/1/0/e01ee028ed62c190482bb27a405a44e4.mp3*~data=user_id=0,application_id=42~hmac=9b9994e8be7957561bb121d51b56d24b38e547f767794f175900065eadd01814",
+              "preview_expires": "2026-11-26T00:24:31Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Pretty Thing",
+            "length": "1:58"
+          },
+          {
+            "number": "10",
+            "title": "Sweet Sixteen",
+            "length": "10:48"
+          },
+          {
+            "number": "11",
+            "title": "Chicken Shack Boogie",
+            "length": "3:49",
+            "deezer": {
+              "id": 3359895,
+              "link": "https://www.deezer.com/track/3359895",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/6/0/6466a942f60b10f985cf527c4dbc687b.mp3?hdnea=exp=1795652671~acl=/api/1/1/6/4/6/0/6466a942f60b10f985cf527c4dbc687b.mp3*~data=user_id=0,application_id=42~hmac=7105ea584ffb24853896ac72bae96d25030d763d9be5fd4e4f6b06b53681455a",
+              "preview_expires": "2026-11-26T00:24:31Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Spoonful",
+            "length": "2:28"
+          },
+          {
+            "number": "13",
+            "title": "Open Up Your Back Door",
+            "length": "3:44"
+          },
+          {
+            "number": "14",
+            "title": "Hot Money",
+            "length": "3:32"
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Going Up the Country",
+            "length": "2:57",
+            "deezer": {
+              "id": 3359889,
+              "link": "https://www.deezer.com/track/3359889",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/3/0/9834c2312cdfc4625d9ab6cea2ad97f3.mp3?hdnea=exp=1795652671~acl=/api/1/1/9/8/3/0/9834c2312cdfc4625d9ab6cea2ad97f3.mp3*~data=user_id=0,application_id=42~hmac=1d4dbaed281ee6abb2a79ff73d87db5a46f473e29dabc2498fa3b7651422a12f",
+              "preview_expires": "2026-11-26T00:24:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Can't Hold On",
+            "length": "2:27"
+          },
+          {
+            "number": "3",
+            "title": "I'd Rather Be a Devil",
+            "length": "5:16"
+          },
+          {
+            "number": "4",
+            "title": "Human Condition",
+            "length": "5:37"
+          },
+          {
+            "number": "5",
+            "title": "She's Lookin' Good",
+            "length": "3:20"
+          },
+          {
+            "number": "6",
+            "title": "Big Road Blues",
+            "length": "2:06"
+          },
+          {
+            "number": "7",
+            "title": "Got My Mojo Working",
+            "length": "2:38"
+          },
+          {
+            "number": "8",
+            "title": "Louise",
+            "length": "3:05"
+          },
+          {
+            "number": "9",
+            "title": "Just Got to Be There",
+            "length": "4:08"
+          },
+          {
+            "number": "10",
+            "title": "Hell's on Down the Line",
+            "length": "4:01"
+          },
+          {
+            "number": "11",
+            "title": "Bullfrog Blues",
+            "length": "7:11",
+            "deezer": {
+              "id": 3359892,
+              "link": "https://www.deezer.com/track/3359892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/a/0/9ba50f9ae2a5a85a77b735c19372689f.mp3?hdnea=exp=1795652671~acl=/api/1/1/9/b/a/0/9ba50f9ae2a5a85a77b735c19372689f.mp3*~data=user_id=0,application_id=42~hmac=f3334370c04bbb35ee93f2d85e0e2c3050ff5f1e33d5e3dcd3676ce4735c88e0",
+              "preview_expires": "2026-11-26T00:24:31Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Refried Hockey Boogie",
+            "length": "23:11"
+          },
+          {
+            "number": "13",
+            "title": "House of Blue Lights",
+            "length": "3:36"
+          },
+          {
+            "number": "14",
+            "title": "Same All Over",
+            "length": "2:50"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Canned Heat/On The Road Again.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "It's a Killa",
+  "artist": "FISHER & Shermanology",
+  "year": 2022,
+  "release_date": "2022-03-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/19de6c72-2222-499e-8efb-3d3848e804b0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/607358612"
+  },
+  "musicbrainz_id": "19de6c72-2222-499e-8efb-3d3848e804b0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/94af35d4-a74e-49ac-89ae-f5dd47b1ac67",
+      "barcode": "193436283212",
+      "title": "It’s a Killa",
+      "disambiguation": null,
+      "date": "2022-03-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "It's a Killa",
+            "length": "3:20",
+            "deezer": {
+              "id": 2865641422,
+              "link": "https://www.deezer.com/track/2865641422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/7/0/c27c515b095c450f91b165e35b7974a8.mp3?hdnea=exp=1795654195~acl=/api/1/1/c/2/7/0/c27c515b095c450f91b165e35b7974a8.mp3*~data=user_id=0,application_id=42~hmac=d363c22adbc542df09b9d1e709af0e975e29a76c1492149919f72ab230321959",
+              "preview_expires": "2026-11-26T00:49:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/FISHER/It's A Killa.jpg"
+}

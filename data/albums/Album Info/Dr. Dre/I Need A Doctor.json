@@ -1,0 +1,63 @@
+{
+  "title": "I Need a Doctor",
+  "artist": "Dr. Dre feat. Eminem & Skylar Grey",
+  "year": 2011,
+  "release_date": "2011-02-01",
+  "type": "Single",
+  "description": "\"I Need a Doctor\" is a song by American rapper Dr. Dre featuring fellow American rapper Eminem and American singer Skylar Grey. Written alongside producer Alex da Kid, it was released for digital download through the iTunes Store on February 1, 2011 and was initially released as the lead single for the then-unreleased third studio album, Detox, but production was ultimately cancelled before it was then released in 2015 under its new name Compton.",
+  "genres": [
+    "hip hop",
+    "rock"
+  ],
+  "tags": [
+    "hip hop",
+    "rap",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/683e3f34-d2c2-4216-bccf-4634918591f2",
+    "wikipedia": "https://en.wikipedia.org/wiki/I_Need_a_Doctor",
+    "wikidata": "https://www.wikidata.org/wiki/Q1576279",
+    "deezer": "https://www.deezer.com/album/897364"
+  },
+  "musicbrainz_id": "683e3f34-d2c2-4216-bccf-4634918591f2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1427ffed-2216-45bf-b18d-7c4bcd6619ff",
+      "barcode": "602527608990",
+      "title": "I Need a Doctor",
+      "disambiguation": null,
+      "date": "2011-02-01",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "4:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Need a Doctor",
+            "length": "4:43",
+            "deezer": {
+              "id": 9806802,
+              "link": "https://www.deezer.com/track/9806802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/f/0/3cf6c74847f37fe81ba13ce8a32d2646.mp3?hdnea=exp=1795653518~acl=/api/1/1/3/c/f/0/3cf6c74847f37fe81ba13ce8a32d2646.mp3*~data=user_id=0,application_id=42~hmac=d53b97e62432603a35827bf998c207657ef596e4a2adb069c8c5ff44ba071e15",
+              "preview_expires": "2026-11-26T00:38:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dr. Dre/I Need A Doctor.png"
+}

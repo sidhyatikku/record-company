@@ -1,0 +1,53 @@
+{
+  "title": "Amplifier",
+  "artist": "Imran Khan",
+  "year": 2009,
+  "release_date": "2009-07-27",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "desi",
+    "desi hip hop",
+    "punjabi pop",
+    "punjabi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/72xTc7ZZo6AkQGaBhhmTwg",
+    "deezer": "https://www.deezer.com/album/114446322"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/72xTc7ZZo6AkQGaBhhmTwg",
+      "title": "Amplifier",
+      "date": "2009-07-27"
+    },
+    "total_tracks": 1,
+    "total_length": "3:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Amplifier",
+            "length": "3:53",
+            "deezer": {
+              "id": 773629402,
+              "link": "https://www.deezer.com/track/773629402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/f/0/e1f03e972e60bd6ddeba11b24127b3f1.mp3?hdnea=exp=1795655195~acl=/api/1/1/e/1/f/0/e1f03e972e60bd6ddeba11b24127b3f1.mp3*~data=user_id=0,application_id=42~hmac=31b301ca2518b082ae60744880f0a706467ac34775c566ef00ce02fd25728be4",
+              "preview_expires": "2026-11-26T01:06:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Imran Khan/Amplifier.jpg"
+}

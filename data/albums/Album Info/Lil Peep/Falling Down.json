@@ -1,0 +1,57 @@
+{
+  "title": "Falling Down",
+  "artist": "Lil Peep & XXXTENTACION",
+  "year": 2018,
+  "release_date": "2018-09-19",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [
+    "hip-hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b48db28e-49a9-4757-9466-dbb49536f71d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/103152782"
+  },
+  "musicbrainz_id": "b48db28e-49a9-4757-9466-dbb49536f71d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1b885f57-d236-4554-ad3b-0e692a970583",
+      "barcode": "886447276938",
+      "title": "Falling Down",
+      "disambiguation": null,
+      "date": "2018-09-19",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Falling Down",
+            "length": "3:16",
+            "deezer": {
+              "id": 710344272,
+              "link": "https://www.deezer.com/track/710344272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/1/0/22199e9ee7fd4451bfa0e143246234c9.mp3?hdnea=exp=1795656476~acl=/api/1/1/2/2/1/0/22199e9ee7fd4451bfa0e143246234c9.mp3*~data=user_id=0,application_id=42~hmac=188a06bb7856eb992277b5fb16a19cae1cdaf49ee02a736c30897d66e278ee9f",
+              "preview_expires": "2026-11-26T01:27:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lil Peep/Falling Down.jpg"
+}

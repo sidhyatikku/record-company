@@ -1,0 +1,132 @@
+{
+  "title": "Guru",
+  "artist": "A.R. Rahman",
+  "year": 2006,
+  "release_date": "2006-09-11",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "filmi"
+  ],
+  "tags": [
+    "2000s",
+    "bollywood",
+    "filmi",
+    "hindi film music",
+    "soundtrack"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bbc1f2ad-973a-4856-ad0c-cd64d9b2e252",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/211150"
+  },
+  "musicbrainz_id": "bbc1f2ad-973a-4856-ad0c-cd64d9b2e252",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dbddf38b-6ee1-4e69-be05-2cd09514c599",
+      "barcode": "886970389020",
+      "title": "Guru",
+      "disambiguation": null,
+      "date": "2006-09-11",
+      "country": "US"
+    },
+    "total_tracks": 7,
+    "total_length": "39:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Barso Re",
+            "length": "5:30",
+            "artist": "Shreya Ghoshal & Uday Mazumdar",
+            "deezer": {
+              "id": 13203861,
+              "link": "https://www.deezer.com/track/13203861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/e/0/a6e47209382d92431db46a6d0495d05e.mp3?hdnea=exp=1795648730~acl=/api/1/1/a/6/e/0/a6e47209382d92431db46a6d0495d05e.mp3*~data=user_id=0,application_id=42~hmac=7a4cbc64373a66da3d3e678340994441c25a5511b26780f7e5aab23c99e92113",
+              "preview_expires": "2026-11-25T23:18:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tere Bina",
+            "length": "5:10",
+            "artist": "A. R. Rahman, Chinmayi, Murtuza Khan & Qadir Khan",
+            "deezer": {
+              "id": 2103807,
+              "link": "https://www.deezer.com/track/2103807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/7/0/367b27e2212e2775300ddf4515e016cb.mp3?hdnea=exp=1795648730~acl=/api/1/1/3/6/7/0/367b27e2212e2775300ddf4515e016cb.mp3*~data=user_id=0,application_id=42~hmac=aaed8226aa555c32b87a5911c3c58dbc0b00e5aa4e5fcb0b8d38163f5285e2f2",
+              "preview_expires": "2026-11-25T23:18:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ek Lo Ek Muft",
+            "length": "4:59",
+            "artist": "Bappi Lahiri & K. S. Chithra",
+            "deezer": {
+              "id": 2103808,
+              "link": "https://www.deezer.com/track/2103808",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/2/0/042da0ab5d1ae5ba24282e21eae45820.mp3?hdnea=exp=1795648730~acl=/api/1/1/0/4/2/0/042da0ab5d1ae5ba24282e21eae45820.mp3*~data=user_id=0,application_id=42~hmac=9b549ba06721d9844b60f851f783121ae32efd62d74759f1d4fa5d8c7495ddbf",
+              "preview_expires": "2026-11-25T23:18:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mayya",
+            "length": "6:02",
+            "artist": "Mariam Toller, Chinmayi & Keerthi Sagathia",
+            "deezer": {
+              "id": 2103809,
+              "link": "https://www.deezer.com/track/2103809",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/b/0/d8b984d66109dbe9d66fe3baa97b3cd1.mp3?hdnea=exp=1795648730~acl=/api/1/1/d/8/b/0/d8b984d66109dbe9d66fe3baa97b3cd1.mp3*~data=user_id=0,application_id=42~hmac=42b1f9dbe8436daa035bfbd04022c4910b14bd2411e613ea234d834cd884b029",
+              "preview_expires": "2026-11-25T23:18:50Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ay Hairathe",
+            "length": "6:09",
+            "artist": "Hariharan, Alka Yagnik & A. R. Rahman",
+            "deezer": {
+              "id": 13203862,
+              "link": "https://www.deezer.com/track/13203862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/0/0/7d06072da81d834d227db72ca18eb43b.mp3?hdnea=exp=1795648730~acl=/api/1/1/7/d/0/0/7d06072da81d834d227db72ca18eb43b.mp3*~data=user_id=0,application_id=42~hmac=cc558e32403ef6cec2d1a11580ca4979f79049764405093aa60e9646ffafdbc3",
+              "preview_expires": "2026-11-25T23:18:50Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Baazi Laga",
+            "length": "4:59",
+            "artist": "Udit Narayan, Madhushree, Shweta Mohan & Bhargavi Pillai",
+            "deezer": {
+              "id": 2103810,
+              "link": "https://www.deezer.com/track/2103810",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/e/0/fbee5d9bcbe806df1d28672ed39d0f62.mp3?hdnea=exp=1795648730~acl=/api/1/1/f/b/e/0/fbee5d9bcbe806df1d28672ed39d0f62.mp3*~data=user_id=0,application_id=42~hmac=83fb95ddb2af2ec3fd577998b70208449efebc83124307add39d76e99f970106",
+              "preview_expires": "2026-11-25T23:18:50Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Jaage Hain",
+            "length": "6:35",
+            "artist": "A. R. Rahman, K. S. Chithra & Madras Chorale Group",
+            "deezer": {
+              "id": 2103811,
+              "link": "https://www.deezer.com/track/2103811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/8/0/f887e67d38d0b3cc59708579bb1dc045.mp3?hdnea=exp=1795648730~acl=/api/1/1/f/8/8/0/f887e67d38d0b3cc59708579bb1dc045.mp3*~data=user_id=0,application_id=42~hmac=66ce3fa899feb2d89ec54cd177704459c1f26484afa71694504c647b5213dc07",
+              "preview_expires": "2026-11-25T23:18:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/A.R. Rahman/Guru (Original Motion Picture Soundtrack).jpg"
+}

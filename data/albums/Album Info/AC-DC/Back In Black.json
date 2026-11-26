@@ -1,0 +1,175 @@
+{
+  "title": "Back in Black",
+  "artist": "AC/DC",
+  "year": 1980,
+  "release_date": "1980-07-25",
+  "type": "Album",
+  "description": "Back in Black is the seventh studio album by Australian rock band AC/DC, released on 25 July 1980, by Albert Productions and Atlantic Records. It was the band's first album to feature Brian Johnson as lead singer, following the death of their previous vocalist Bon Scott. After the commercial breakthrough of their 1979 album Highway to Hell, AC/DC was planning to record a follow-up, but in February 1980, Scott died from alcohol poisoning after a night out in London. The remaining members of the group considered disbanding, but ultimately chose to continue on and recruited Johnson, who had previously been the vocalist for Geordie.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "arena rock",
+    "blues rock",
+    "heavy metal",
+    "pop rock",
+    "classic rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "album rock",
+    "arena rock",
+    "aussie rock",
+    "blues rock",
+    "heavy metal",
+    "pop rock",
+    "classic rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 52
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d3bc1a64-7561-3787-b680-0003aa50f8f1",
+    "wikipedia": "https://en.wikipedia.org/wiki/Back_in_Black",
+    "allmusic": "https://www.allmusic.com/album/mw0000188862",
+    "discogs": "https://www.discogs.com/master/8471",
+    "wikidata": "https://www.wikidata.org/wiki/Q155715",
+    "deezer": "https://www.deezer.com/album/9410100"
+  },
+  "musicbrainz_id": "d3bc1a64-7561-3787-b680-0003aa50f8f1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2997842e-cf8c-4dac-85e8-6567068c0700",
+      "barcode": "886444889841",
+      "title": "Back in Black",
+      "disambiguation": null,
+      "date": "2014-10-07",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "42:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hells Bells",
+            "length": "5:12",
+            "deezer": {
+              "id": 92720036,
+              "link": "https://www.deezer.com/track/92720036",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/b/0/f8b4a04d91b5736c17265e681687fe52.mp3?hdnea=exp=1795648827~acl=/api/1/1/f/8/b/0/f8b4a04d91b5736c17265e681687fe52.mp3*~data=user_id=0,application_id=42~hmac=3fff4b324bdbabed3932a6505484e0771b9a69c8f583dd4ec2cb166b9a5a92c6",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shoot to Thrill",
+            "length": "5:17",
+            "deezer": {
+              "id": 92720038,
+              "link": "https://www.deezer.com/track/92720038",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/d/0/fcda6193906653a30f049954af475eb1.mp3?hdnea=exp=1795648827~acl=/api/1/1/f/c/d/0/fcda6193906653a30f049954af475eb1.mp3*~data=user_id=0,application_id=42~hmac=19c502689dcbb22d43b94d55dd5d6c04bdbe4b8d9c718c614078d2abc62b2f47",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "What Do You Do for Money Honey",
+            "length": "3:36",
+            "deezer": {
+              "id": 92720040,
+              "link": "https://www.deezer.com/track/92720040",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/7/0/917ac9bdaf87176a6189d02cdadf54a1.mp3?hdnea=exp=1795648827~acl=/api/1/1/9/1/7/0/917ac9bdaf87176a6189d02cdadf54a1.mp3*~data=user_id=0,application_id=42~hmac=36882cc94d84568aedc31de47dce446f30fa7e6a9324157a3b4809814731d0e0",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Given the Dog a Bone",
+            "length": "3:32",
+            "deezer": {
+              "id": 92720042,
+              "link": "https://www.deezer.com/track/92720042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/3/0/f63583fc26a45d94aa8f1ac4c35e87a9.mp3?hdnea=exp=1795648827~acl=/api/1/1/f/6/3/0/f63583fc26a45d94aa8f1ac4c35e87a9.mp3*~data=user_id=0,application_id=42~hmac=f5771ce5ad0fef091066a20fe54edd62a376f7d32c838fc25106d0058411e09d",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Let Me Put My Love Into You",
+            "length": "4:15",
+            "deezer": {
+              "id": 92720044,
+              "link": "https://www.deezer.com/track/92720044",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/c/0/0bcbd0ddb62a1950bc493a58dc3f5322.mp3?hdnea=exp=1795648827~acl=/api/1/1/0/b/c/0/0bcbd0ddb62a1950bc493a58dc3f5322.mp3*~data=user_id=0,application_id=42~hmac=a72d8b4d2fc47760cadbf94ff1a0adb7de57ff7c0842d3035fd4d05c6f2d4091",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Back in Black",
+            "length": "4:15",
+            "deezer": {
+              "id": 92720046,
+              "link": "https://www.deezer.com/track/92720046",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/b/0/82be918b42c3d26093b20d01e97e4a03.mp3?hdnea=exp=1795648827~acl=/api/1/1/8/2/b/0/82be918b42c3d26093b20d01e97e4a03.mp3*~data=user_id=0,application_id=42~hmac=320f87c53a637b4724f82278280749d81930732b2a9011302e59e4ddce887b25",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "You Shook Me All Night Long",
+            "length": "3:30",
+            "deezer": {
+              "id": 92720048,
+              "link": "https://www.deezer.com/track/92720048",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/a/0/21af9bde7aacee934f02c9df8c931bdf.mp3?hdnea=exp=1795648827~acl=/api/1/1/2/1/a/0/21af9bde7aacee934f02c9df8c931bdf.mp3*~data=user_id=0,application_id=42~hmac=cc61c58ce3bef0191ba2eaa6bba00551dfb697079c4ddc9eef7b6d9a1f721a13",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Have a Drink on Me",
+            "length": "3:58",
+            "deezer": {
+              "id": 92720050,
+              "link": "https://www.deezer.com/track/92720050",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/4/0/c346f3fbe9fb521a0af7db48775a53cb.mp3?hdnea=exp=1795648827~acl=/api/1/1/c/3/4/0/c346f3fbe9fb521a0af7db48775a53cb.mp3*~data=user_id=0,application_id=42~hmac=d9c3d8a931eb9686c9983390e6f7a6f099c904720a09b24d7bb395dfadfc91d1",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Shake a Leg",
+            "length": "4:06",
+            "deezer": {
+              "id": 92720052,
+              "link": "https://www.deezer.com/track/92720052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/7/0/f978f20ba8cf67ded7be76ca852e4c90.mp3?hdnea=exp=1795648827~acl=/api/1/1/f/9/7/0/f978f20ba8cf67ded7be76ca852e4c90.mp3*~data=user_id=0,application_id=42~hmac=6c1bc931b8a0e4feb770e57c7497800cec7e4af7f2a7df15f406ef5d899585e0",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Rock and Roll Ain’t Noise Pollution",
+            "length": "4:26",
+            "deezer": {
+              "id": 92720054,
+              "link": "https://www.deezer.com/track/92720054",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/b/0/74bd9304bc65d34dad709882fa3d794b.mp3?hdnea=exp=1795648827~acl=/api/1/1/7/4/b/0/74bd9304bc65d34dad709882fa3d794b.mp3*~data=user_id=0,application_id=42~hmac=76c8d616ffe54e33b699832a74c5399d74becd5f6777fcf8c9e5d0e88c08106f",
+              "preview_expires": "2026-11-25T23:20:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AC-DC/Back In Black.jpg"
+}

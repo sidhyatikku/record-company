@@ -1,0 +1,238 @@
+{
+  "title": "All or Nothing",
+  "artist": "Jay Sean",
+  "year": 2009,
+  "release_date": "2009-11-20",
+  "type": "Album",
+  "description": "All or Nothing is the third studio album by British R&B singer Jay Sean, released in the United States on 23 November 2009 through Cash Money Records and Universal Republic as the singer's international debut album and a week later on 30 November 2009 with Jayded Records and 2Point9 Records. The album was also released in international markets from December 2009.",
+  "genres": [
+    "contemporary r&b",
+    "pop",
+    "r&b",
+    "dance"
+  ],
+  "tags": [
+    "contemporary r&b",
+    "pop",
+    "r&b",
+    "dance"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6cf5cd4c-2992-4777-839c-3ffae45f46c8",
+    "wikipedia": "https://en.wikipedia.org/wiki/All_or_Nothing_(Jay_Sean_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000833034",
+    "discogs": "https://www.discogs.com/master/540074",
+    "wikidata": "https://www.wikidata.org/wiki/Q2714099",
+    "deezer": "https://www.deezer.com/album/464048"
+  },
+  "musicbrainz_id": "6cf5cd4c-2992-4777-839c-3ffae45f46c8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e2cbe10d-e87f-4788-82c1-cc6730b13e88",
+      "barcode": "00602527309118",
+      "title": "All Or Nothing",
+      "disambiguation": null,
+      "date": "2009-11-23",
+      "country": null
+    },
+    "total_tracks": 16,
+    "total_length": "58:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Down",
+            "length": "3:32",
+            "artist": "Jay Sean feat. Lil Wayne",
+            "deezer": {
+              "id": 5060107,
+              "link": "https://www.deezer.com/track/5060107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/5/0/88505c7e919e9e850954dc5604e35dcc.mp3?hdnea=exp=1795655467~acl=/api/1/1/8/8/5/0/88505c7e919e9e850954dc5604e35dcc.mp3*~data=user_id=0,application_id=42~hmac=587b07721038e4d654a3539b36d80aa53d35dc38a8e49d3761519acaaffb97d3",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Fire",
+            "length": "3:20",
+            "deezer": {
+              "id": 5060108,
+              "link": "https://www.deezer.com/track/5060108",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/1/0/861e702b4339c1364df2266dbcb07099.mp3?hdnea=exp=1795655467~acl=/api/1/1/8/6/1/0/861e702b4339c1364df2266dbcb07099.mp3*~data=user_id=0,application_id=42~hmac=ea3ad318dc4878c872f51846ee852f5e56ac817368b7f82998cea52459e46060",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Do You Remember",
+            "length": "3:30",
+            "artist": "Jay Sean feat. Sean Paul & Lil Jon",
+            "deezer": {
+              "id": 5060109,
+              "link": "https://www.deezer.com/track/5060109",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/8/0/0a8ef4d2b15a70b8eca37ec7bb2152ca.mp3?hdnea=exp=1795655467~acl=/api/1/1/0/a/8/0/0a8ef4d2b15a70b8eca37ec7bb2152ca.mp3*~data=user_id=0,application_id=42~hmac=430468729dd4bac4aea65f16cfbf5a9d042ef278fc378640c839b951acb01e5b",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Love Like This (Eternity)",
+            "length": "3:38",
+            "deezer": {
+              "id": 5060110,
+              "link": "https://www.deezer.com/track/5060110",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/6/0/8b64d5b89fece99b66a039171739b240.mp3?hdnea=exp=1795655467~acl=/api/1/1/8/b/6/0/8b64d5b89fece99b66a039171739b240.mp3*~data=user_id=0,application_id=42~hmac=c3fdbcc7b10ce987bb5ad5ed856054a522da2ac343d6e0d5ab9e1eec371846ac",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Do You",
+            "length": "4:04",
+            "deezer": {
+              "id": 5060111,
+              "link": "https://www.deezer.com/track/5060111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/9/0/17945a89d9061fae58f44799c369df55.mp3?hdnea=exp=1795655467~acl=/api/1/1/1/7/9/0/17945a89d9061fae58f44799c369df55.mp3*~data=user_id=0,application_id=42~hmac=e0225a6ada5c2e2f9d7b6e7bb3c11f894e44e3ce8ce332569c6d661bd0360ba0",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "War",
+            "length": "3:45",
+            "deezer": {
+              "id": 5060112,
+              "link": "https://www.deezer.com/track/5060112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/0/0/620a4432944fae58b3b9f462edda36a4.mp3?hdnea=exp=1795655467~acl=/api/1/1/6/2/0/0/620a4432944fae58b3b9f462edda36a4.mp3*~data=user_id=0,application_id=42~hmac=a3dd978af3f32ee27afa46175f207564ffaf74d1f2e8fc039075ff188a268eba",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "If I Ain't Got You",
+            "length": "3:17",
+            "deezer": {
+              "id": 5060113,
+              "link": "https://www.deezer.com/track/5060113",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/1/0/9916bb16d8ad13930a4cec0f987b603f.mp3?hdnea=exp=1795655467~acl=/api/1/1/9/9/1/0/9916bb16d8ad13930a4cec0f987b603f.mp3*~data=user_id=0,application_id=42~hmac=e0c25f0942767199dfe82af2fdf8ae02b0ff5dd1271a9ab3cd9c8fd678541137",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ride It",
+            "length": "3:00",
+            "deezer": {
+              "id": 5060114,
+              "link": "https://www.deezer.com/track/5060114",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "9",
+            "title": "Far Away",
+            "length": "3:31",
+            "artist": "Jay Sean feat. Keisha Buchanan",
+            "deezer": {
+              "id": 5060115,
+              "link": "https://www.deezer.com/track/5060115",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/d/0/f7dc6344949b91a57f1fed1dfd76fe16.mp3?hdnea=exp=1795655467~acl=/api/1/1/f/7/d/0/f7dc6344949b91a57f1fed1dfd76fe16.mp3*~data=user_id=0,application_id=42~hmac=b0a8de2a9d4441dee0b5297fd93008fa86931ede8fe8a8cc048759124b28d4ae",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Stuck in the Middle",
+            "length": "3:35",
+            "artist": "Jay Sean feat. Craig David",
+            "deezer": {
+              "id": 5060116,
+              "link": "https://www.deezer.com/track/5060116",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "11",
+            "title": "Lights Off",
+            "length": "4:13",
+            "deezer": {
+              "id": 5060117,
+              "link": "https://www.deezer.com/track/5060117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/6/0/cb6f29486cf39c2bbbf1ca87e43b261e.mp3?hdnea=exp=1795655467~acl=/api/1/1/c/b/6/0/cb6f29486cf39c2bbbf1ca87e43b261e.mp3*~data=user_id=0,application_id=42~hmac=8118ce9ca276edb151d10a23e8e3450c6ebfe99b7eea678244d454a8cabc5c2f",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "All or Nothing",
+            "length": "4:21",
+            "deezer": {
+              "id": 5060118,
+              "link": "https://www.deezer.com/track/5060118",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "13",
+            "title": "Stay",
+            "length": "3:38",
+            "deezer": {
+              "id": 5060119,
+              "link": "https://www.deezer.com/track/5060119",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "14",
+            "title": "Cry",
+            "length": "4:34",
+            "deezer": {
+              "id": 5060120,
+              "link": "https://www.deezer.com/track/5060120",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "15",
+            "title": "Down (Candle Light remix)",
+            "length": "3:15",
+            "deezer": {
+              "id": 5060121,
+              "link": "https://www.deezer.com/track/5060121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/3/0/ba36459528fecd33d68b6df5686ef947.mp3?hdnea=exp=1795655467~acl=/api/1/1/b/a/3/0/ba36459528fecd33d68b6df5686ef947.mp3*~data=user_id=0,application_id=42~hmac=6bf1c073da135718246d1383ecf0923f59d9a810a6004b27c3e0ee6634614446",
+              "preview_expires": "2026-11-26T01:11:07Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Stay (Boy Better Known remix)",
+            "length": "3:35",
+            "artist": "Jay Sean feat. Chipmunk, Skepta, Frisco & Jammer",
+            "deezer": {
+              "id": 5060122,
+              "link": "https://www.deezer.com/track/5060122",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jay Sean/All Or Nothing.jpg"
+}

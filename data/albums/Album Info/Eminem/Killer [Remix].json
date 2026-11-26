@@ -1,0 +1,59 @@
+{
+  "title": "Killer (remix)",
+  "artist": "Eminem ft. Jack Harlow & Cordae",
+  "year": 2021,
+  "release_date": "2021-05-28",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f35d27ed-bb49-41c1-bb19-05329eaf8eaf",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/233452142"
+  },
+  "musicbrainz_id": "f35d27ed-bb49-41c1-bb19-05329eaf8eaf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f47be528-5937-40b2-acab-d90fc9e8d6d6",
+      "barcode": "602438360178",
+      "title": "Killer (remix)",
+      "disambiguation": null,
+      "date": "2021-05-28",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Killer (remix)",
+            "length": "3:56",
+            "deezer": {
+              "id": 1386509082,
+              "link": "https://www.deezer.com/track/1386509082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/f/0/aef813f863fd8220ad05bd3a6f29a707.mp3?hdnea=exp=1795653881~acl=/api/1/1/a/e/f/0/aef813f863fd8220ad05bd3a6f29a707.mp3*~data=user_id=0,application_id=42~hmac=440e6d9fb0d31212815302ca8c824a24815b649f3d663b2bf368db117737822d",
+              "preview_expires": "2026-11-26T00:44:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eminem/Killer [Remix].png"
+}

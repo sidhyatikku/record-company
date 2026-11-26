@@ -1,0 +1,84 @@
+{
+  "title": "Gehra",
+  "artist": "Darzi",
+  "year": 2022,
+  "release_date": "2022-06-09",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7w5ZEC6vg4ns15XW8m2Hqp",
+    "deezer": "https://www.deezer.com/album/694732651"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7w5ZEC6vg4ns15XW8m2Hqp",
+      "title": "Gehra",
+      "date": "2022-06-09"
+    },
+    "total_tracks": 4,
+    "total_length": "28:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Gehra",
+            "length": "6:10",
+            "deezer": {
+              "id": 3176083921,
+              "link": "https://www.deezer.com/track/3176083921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/8/0/e180521b91d8678f2a998b5cdf805e39.mp3?hdnea=exp=1795653129~acl=/api/1/1/e/1/8/0/e180521b91d8678f2a998b5cdf805e39.mp3*~data=user_id=0,application_id=42~hmac=c10a8fcd3c428f49a7f9f8b6f1fd9fcdad8c9588ac0ac7b4b773e37a3f54bfee",
+              "preview_expires": "2026-11-26T00:32:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Phasa",
+            "length": "7:13",
+            "deezer": {
+              "id": 3176083931,
+              "link": "https://www.deezer.com/track/3176083931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/4/0/ee40622e68c773d0a116143b66eb7c4d.mp3?hdnea=exp=1795653129~acl=/api/1/1/e/e/4/0/ee40622e68c773d0a116143b66eb7c4d.mp3*~data=user_id=0,application_id=42~hmac=dc5ff872f243c84198a730832f82f00aba495313b6de6aca0d86afa60becf12f",
+              "preview_expires": "2026-11-26T00:32:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ek Din Marna Hai",
+            "length": "6:58",
+            "deezer": {
+              "id": 3176083941,
+              "link": "https://www.deezer.com/track/3176083941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/0/0/1606acf6050558d95de97d0df4d66a2e.mp3?hdnea=exp=1795653129~acl=/api/1/1/1/6/0/0/1606acf6050558d95de97d0df4d66a2e.mp3*~data=user_id=0,application_id=42~hmac=a922f117a9c480d6dda4932a8d6cf73585f4f614bcec64fd15db57c62cf88683",
+              "preview_expires": "2026-11-26T00:32:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "800 Din",
+            "length": "8:18",
+            "deezer": {
+              "id": 3176083951,
+              "link": "https://www.deezer.com/track/3176083951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/6/0/aa66ff6b9a14d5ac62e7d98b59c30474.mp3?hdnea=exp=1795653129~acl=/api/1/1/a/a/6/0/aa66ff6b9a14d5ac62e7d98b59c30474.mp3*~data=user_id=0,application_id=42~hmac=c38a135f91f88acd6dc12c2071b7c0a8ba33a7081c14d3458132a35411bd240b",
+              "preview_expires": "2026-11-26T00:32:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Darzi/Gehra.jpg"
+}

@@ -1,0 +1,220 @@
+{
+  "title": "Qabool Hai",
+  "artist": "Karun",
+  "year": 2022,
+  "release_date": "2022-04-01",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/96b40e6d-20f6-459d-99fe-442b5da9f8f1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/307640617"
+  },
+  "musicbrainz_id": "96b40e6d-20f6-459d-99fe-442b5da9f8f1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/017e5321-05e9-4a15-8487-12f9c32a71c0",
+      "barcode": "3616845973033",
+      "title": "Qabool Hai (Deluxe)",
+      "disambiguation": null,
+      "date": "2022-04-01",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "1:04:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kahaani (Intro)",
+            "length": "9:45",
+            "artist": "Karun & Lambo Drive",
+            "deezer": {
+              "id": 1705653697,
+              "link": "https://www.deezer.com/track/1705653697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/a/0/96a7d891477276d5c74dd6672771a3b4.mp3?hdnea=exp=1795656014~acl=/api/1/1/9/6/a/0/96a7d891477276d5c74dd6672771a3b4.mp3*~data=user_id=0,application_id=42~hmac=e7555e55eef41e2d1f24eca369d8770fa65b83d70578881769a11b7d9542f1c8",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Maharani",
+            "length": "6:30",
+            "artist": "Karun, Lambo Drive, Arpit Bala & GHILDIYAL",
+            "deezer": {
+              "id": 1705653707,
+              "link": "https://www.deezer.com/track/1705653707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/b/0/27bb7b2ce1e4d1c8e4459dca1152e158.mp3?hdnea=exp=1795656014~acl=/api/1/1/2/7/b/0/27bb7b2ce1e4d1c8e4459dca1152e158.mp3*~data=user_id=0,application_id=42~hmac=b4e75653c0bdb1746cf5bd2f7deb759349d3f911d97dfe9efb634a805bc649fd",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Batheriyan",
+            "length": "5:37",
+            "artist": "Karun, Baajewala, Paradox & Uday Bakshi",
+            "deezer": {
+              "id": 1705653717,
+              "link": "https://www.deezer.com/track/1705653717",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/f/0/a5fc1b9feb874e078437dd54e90388f9.mp3?hdnea=exp=1795656014~acl=/api/1/1/a/5/f/0/a5fc1b9feb874e078437dd54e90388f9.mp3*~data=user_id=0,application_id=42~hmac=3bedb3f24f9426892e87cf1414a8f3d38514a15392cfe0ca6616f98f9f19ae44",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kinaare",
+            "length": "4:29",
+            "artist": "Karun & Raghav",
+            "deezer": {
+              "id": 1705653727,
+              "link": "https://www.deezer.com/track/1705653727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/e/0/7fe81cffd76cf9defae06572efa8a8e8.mp3?hdnea=exp=1795656014~acl=/api/1/1/7/f/e/0/7fe81cffd76cf9defae06572efa8a8e8.mp3*~data=user_id=0,application_id=42~hmac=25f11297d131f4fee151836083ae2b98a2547b80394c45bffa5db68f2f0c8e1b",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sharmsaar",
+            "length": "3:34",
+            "artist": "Karun, Lambo Drive & Ahmer",
+            "deezer": {
+              "id": 1705653737,
+              "link": "https://www.deezer.com/track/1705653737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/3/0/b23f0a10f73e542c9188a0b39354b531.mp3?hdnea=exp=1795656014~acl=/api/1/1/b/2/3/0/b23f0a10f73e542c9188a0b39354b531.mp3*~data=user_id=0,application_id=42~hmac=808f20edc0903673ac5092029ad267c6b38ab7fbb5f496e53367c75f1f810b8c",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dry Spell",
+            "length": "5:12",
+            "artist": "Karun & Suspendednotes",
+            "deezer": {
+              "id": 1705653747,
+              "link": "https://www.deezer.com/track/1705653747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/c/0/d4c433308fbf370d3887178d712f6a99.mp3?hdnea=exp=1795656014~acl=/api/1/1/d/4/c/0/d4c433308fbf370d3887178d712f6a99.mp3*~data=user_id=0,application_id=42~hmac=ae9c519a8265ee2b2a161c94be1655ff84a015a2820f569268fbd7fa455886a9",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Chaand Pe Kadam (Interlude)",
+            "length": "1:14",
+            "artist": "Karun & Nanku",
+            "deezer": {
+              "id": 1705653757,
+              "link": "https://www.deezer.com/track/1705653757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/f/0/fcf6298df3af9c4051894aac0b024a14.mp3?hdnea=exp=1795656014~acl=/api/1/1/f/c/f/0/fcf6298df3af9c4051894aac0b024a14.mp3*~data=user_id=0,application_id=42~hmac=f44b4d8fae728d12810bc7a0858ded3687420cbf9554ef54c74506bbbe314afc",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "DYK",
+            "length": "3:27",
+            "artist": "Karun, Nanku & Dhanji",
+            "deezer": {
+              "id": 1705653767,
+              "link": "https://www.deezer.com/track/1705653767",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/c/0/4ec9851f91f947be3c1349a50c010a38.mp3?hdnea=exp=1795656014~acl=/api/1/1/4/e/c/0/4ec9851f91f947be3c1349a50c010a38.mp3*~data=user_id=0,application_id=42~hmac=3e560e2b56e55cd6e347549ea52157617f4b2692f8169eaa1b6b40155a1c587f",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Jaana",
+            "length": "3:33",
+            "artist": "Karun, toorjo dey & Sharon Jassal",
+            "deezer": {
+              "id": 1705653777,
+              "link": "https://www.deezer.com/track/1705653777",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/c/0/26c7e5048d01201be6edad223cb79a3c.mp3?hdnea=exp=1795656014~acl=/api/1/1/2/6/c/0/26c7e5048d01201be6edad223cb79a3c.mp3*~data=user_id=0,application_id=42~hmac=4fe1f20f7ed34b3243c2b42f5af84f880bc28d965f6673927ffdabfdec187dad",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Jau Kahan",
+            "length": "2:14",
+            "artist": "Karun & Adil",
+            "deezer": {
+              "id": 1705653787,
+              "link": "https://www.deezer.com/track/1705653787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/9/0/fb979a4e54beac2e9d0776d798fef9dc.mp3?hdnea=exp=1795656014~acl=/api/1/1/f/b/9/0/fb979a4e54beac2e9d0776d798fef9dc.mp3*~data=user_id=0,application_id=42~hmac=f4701acfce97676a98da19d93d0f928d0413007154fafcbcd3b4c05acfd7b0c7",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Guldasta",
+            "length": "3:58",
+            "artist": "Karun & Baajewala",
+            "deezer": {
+              "id": 1705653797,
+              "link": "https://www.deezer.com/track/1705653797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/3/0/e6360a6271af24de5a9b70852b621ab8.mp3?hdnea=exp=1795656014~acl=/api/1/1/e/6/3/0/e6360a6271af24de5a9b70852b621ab8.mp3*~data=user_id=0,application_id=42~hmac=3a85282e4d32fb67f2a1aecd1339210c34dd312ae4eff58c2a91f9029d0f9245",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Qabool Hai",
+            "length": "3:18",
+            "artist": "Karun & Baajewala",
+            "deezer": {
+              "id": 1705653807,
+              "link": "https://www.deezer.com/track/1705653807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/8/0/8287b84d71c803bb3740652d5b8569da.mp3?hdnea=exp=1795656014~acl=/api/1/1/8/2/8/0/8287b84d71c803bb3740652d5b8569da.mp3*~data=user_id=0,application_id=42~hmac=36fad245a1148d97399cda7b3d5cee0ed3793bc79ace701ece31d548df083989",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Marzi",
+            "length": "3:48",
+            "artist": "Karun & Nanku",
+            "deezer": {
+              "id": 1705653817,
+              "link": "https://www.deezer.com/track/1705653817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93a2e2e117970b8a137a042cc4aa66f4.mp3?hdnea=exp=1795656014~acl=/api/1/1/9/3/a/0/93a2e2e117970b8a137a042cc4aa66f4.mp3*~data=user_id=0,application_id=42~hmac=3c7199866373d476e36f5d47c7ae165f2eca35c2f3fc96287f9f8858bba55a03",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Ajnabee (bonus track)",
+            "length": "4:07",
+            "artist": "Karun, Adil & Tarun.",
+            "deezer": {
+              "id": 1705653827,
+              "link": "https://www.deezer.com/track/1705653827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/e/0/4de4abf2dbb77553ef391f84f7da5e39.mp3?hdnea=exp=1795656014~acl=/api/1/1/4/d/e/0/4de4abf2dbb77553ef391f84f7da5e39.mp3*~data=user_id=0,application_id=42~hmac=9b0772d67f97f823646e3433188cf1f9ac217902e26157eb8a33dee82323f1ca",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Mujhko Mila (bonus track)",
+            "length": "3:21",
+            "artist": "Karun, Adil & Chaar Diwaari",
+            "deezer": {
+              "id": 1705653837,
+              "link": "https://www.deezer.com/track/1705653837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/7/0/b4746e769b0ea95a283e9c34627bf854.mp3?hdnea=exp=1795656014~acl=/api/1/1/b/4/7/0/b4746e769b0ea95a283e9c34627bf854.mp3*~data=user_id=0,application_id=42~hmac=a6325e39be9d27b1eaca905a12ab76314ed4254d6e73b0a8b237d73b49f26246",
+              "preview_expires": "2026-11-26T01:20:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karun/Qabool Hai.jpg"
+}

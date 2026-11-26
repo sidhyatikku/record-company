@@ -1,0 +1,189 @@
+{
+  "title": "America",
+  "artist": "America",
+  "year": 1971,
+  "release_date": "1971-12-01",
+  "type": "Album",
+  "description": "America is the debut studio album by the rock band America, released in January 1972. It was initially released without \"A Horse with No Name\", which was first released as a single in Europe in late 1971. When \"A Horse with No Name\" became a worldwide hit in January of 1972, the album was re-released with the track that same month.",
+  "genres": [
+    "rock",
+    "soft rock",
+    "folk rock",
+    "pop rock"
+  ],
+  "tags": [
+    "rock",
+    "soft rock",
+    "folk rock",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/51e2e0bd-a458-3a6c-8ee1-8a85f62ab7b6",
+    "wikipedia": "https://en.wikipedia.org/wiki/America_(America_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000193675",
+    "discogs": "https://www.discogs.com/master/67405",
+    "wikidata": "https://www.wikidata.org/wiki/Q463081",
+    "deezer": "https://www.deezer.com/album/369493"
+  },
+  "musicbrainz_id": "51e2e0bd-a458-3a6c-8ee1-8a85f62ab7b6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7868e706-ad5f-4469-8420-3db4a050f115",
+      "barcode": "075992725767",
+      "title": "America",
+      "disambiguation": null,
+      "date": "2008-12-16",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "46:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Riverside",
+            "length": "3:01",
+            "deezer": {
+              "id": 3957737,
+              "link": "https://www.deezer.com/track/3957737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/4/0/46471abd08a430c4f1deee7bb28d1aea.mp3?hdnea=exp=1795649107~acl=/api/1/1/4/6/4/0/46471abd08a430c4f1deee7bb28d1aea.mp3*~data=user_id=0,application_id=42~hmac=1602448b594d41bc93a3319001c54ce1fd5a3ca2f5e79307c4da2522b3f96bc8",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sandman",
+            "length": "5:08",
+            "deezer": {
+              "id": 3957738,
+              "link": "https://www.deezer.com/track/3957738",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/5/0/bc56587cbe10af449f6a55433caf0ef1.mp3?hdnea=exp=1795649107~acl=/api/1/1/b/c/5/0/bc56587cbe10af449f6a55433caf0ef1.mp3*~data=user_id=0,application_id=42~hmac=5b2cab7918fdc0593a3b490de97a278d476412977d3b09d0051550c02935df33",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Three Roses",
+            "length": "3:53",
+            "deezer": {
+              "id": 3957739,
+              "link": "https://www.deezer.com/track/3957739",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/6/0/626d63bcd8dcce375da605f4b815a7ba.mp3?hdnea=exp=1795649107~acl=/api/1/1/6/2/6/0/626d63bcd8dcce375da605f4b815a7ba.mp3*~data=user_id=0,application_id=42~hmac=34559aeb8be9a7b91aea7ef3c3885be07bd553fec71ad3d3beb9f97783d77ff1",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Children",
+            "length": "3:08",
+            "deezer": {
+              "id": 3957740,
+              "link": "https://www.deezer.com/track/3957740",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/a/0/cfa9f24a7046998d8289bd5f05da01bf.mp3?hdnea=exp=1795649107~acl=/api/1/1/c/f/a/0/cfa9f24a7046998d8289bd5f05da01bf.mp3*~data=user_id=0,application_id=42~hmac=73b8d2f833cd47a899c3137aca6db7c74d7a0d1bc5368e3b85cdad1c706f6bd7",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "A Horse With No Name",
+            "length": "4:12",
+            "deezer": {
+              "id": 3957741,
+              "link": "https://www.deezer.com/track/3957741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/1/0/e31459445e21914ccbc26f85a8d3db13.mp3?hdnea=exp=1795649107~acl=/api/1/1/e/3/1/0/e31459445e21914ccbc26f85a8d3db13.mp3*~data=user_id=0,application_id=42~hmac=afa034ba5496515d03d23d4f0406dc5054199b41404d34e624c1dd8af8f5f9a3",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Here",
+            "length": "5:27",
+            "deezer": {
+              "id": 3957742,
+              "link": "https://www.deezer.com/track/3957742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/c/0/79ca59c765fd91176a57732b410e1d6b.mp3?hdnea=exp=1795649107~acl=/api/1/1/7/9/c/0/79ca59c765fd91176a57732b410e1d6b.mp3*~data=user_id=0,application_id=42~hmac=cc7cb68c54989d55bddee17249f39dba980fcf5f88433465c0378317f044cf48",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Need You",
+            "length": "3:03",
+            "deezer": {
+              "id": 3957743,
+              "link": "https://www.deezer.com/track/3957743",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/0/0/ef0ba57150c9ac48ae11df056592a0c2.mp3?hdnea=exp=1795649107~acl=/api/1/1/e/f/0/0/ef0ba57150c9ac48ae11df056592a0c2.mp3*~data=user_id=0,application_id=42~hmac=a4ea02418bbef41426388ac3bbcd04706a34b435eddc083f0b67bb4f23675027",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rainy Day",
+            "length": "2:54",
+            "deezer": {
+              "id": 3957744,
+              "link": "https://www.deezer.com/track/3957744",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/1/0/1712a76b43938d556a5650cb393b62ae.mp3?hdnea=exp=1795649107~acl=/api/1/1/1/7/1/0/1712a76b43938d556a5650cb393b62ae.mp3*~data=user_id=0,application_id=42~hmac=4245bd9bf3d99e1bc04117b70ca92b697b51a1232465f9596953bf9ceda713cc",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Never Found the Time",
+            "length": "3:50",
+            "deezer": {
+              "id": 3957745,
+              "link": "https://www.deezer.com/track/3957745",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/b/0/79b6a47897ffbfc9f260b069ec9c8eb4.mp3?hdnea=exp=1795649107~acl=/api/1/1/7/9/b/0/79b6a47897ffbfc9f260b069ec9c8eb4.mp3*~data=user_id=0,application_id=42~hmac=a77c4d6afbd76e335d91b321aa3003140c6714cc6659e893ed3b762cba6dfa2c",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Clarice",
+            "length": "4:01",
+            "deezer": {
+              "id": 3957746,
+              "link": "https://www.deezer.com/track/3957746",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/b/0/ffb3661a080fc79729fd649702682e32.mp3?hdnea=exp=1795649107~acl=/api/1/1/f/f/b/0/ffb3661a080fc79729fd649702682e32.mp3*~data=user_id=0,application_id=42~hmac=b93741f26d4b80ab09f8bbd08c425be85bd7168c3ea637f1c50fd185b47ac493",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Donkey Jaw",
+            "length": "5:19",
+            "deezer": {
+              "id": 3957747,
+              "link": "https://www.deezer.com/track/3957747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/b/0/a6bcd162f1de4b81967814117af2156e.mp3?hdnea=exp=1795649107~acl=/api/1/1/a/6/b/0/a6bcd162f1de4b81967814117af2156e.mp3*~data=user_id=0,application_id=42~hmac=e92cff16a146b2280fe0f3e235d8ee170b8e8d97bb41006fb7b0f75bc45d34cf",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Pigeon Song",
+            "length": "2:18",
+            "deezer": {
+              "id": 3957748,
+              "link": "https://www.deezer.com/track/3957748",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/9/0/d19b2b1ef938ab877b57c5debfc679cf.mp3?hdnea=exp=1795649107~acl=/api/1/1/d/1/9/0/d19b2b1ef938ab877b57c5debfc679cf.mp3*~data=user_id=0,application_id=42~hmac=a5d111d7cab81dfcc723c9549cfb8fe8498e72c877bbb251e584d500c8486e88",
+              "preview_expires": "2026-11-25T23:25:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/America/America.jpg"
+}

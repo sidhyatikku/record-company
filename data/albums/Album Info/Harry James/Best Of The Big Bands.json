@@ -1,0 +1,124 @@
+{
+  "title": "Best of Big Bands: Harry James",
+  "artist": "Harry James",
+  "year": 1990,
+  "release_date": "1990-05-29",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1de4a0fe-5eee-3c03-b658-dadfb8c0c2d9",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "1de4a0fe-5eee-3c03-b658-dadfb8c0c2d9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5c9eff1a-f843-4101-a3e9-5122b16a58d7",
+      "barcode": "0074644534122",
+      "title": "Best of Big Bands: Harry James",
+      "disambiguation": null,
+      "date": "1990-05-29",
+      "country": "US"
+    },
+    "total_tracks": 16,
+    "total_length": "49:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Strictly Instrumental",
+            "length": "2:56"
+          },
+          {
+            "number": "2",
+            "title": "I've Heard That Song Before",
+            "length": "3:01"
+          },
+          {
+            "number": "3",
+            "title": "The Man With the Horn",
+            "length": "3:23"
+          },
+          {
+            "number": "4",
+            "title": "I Had the Craziest Dream",
+            "length": "3:26"
+          },
+          {
+            "number": "5",
+            "title": "Sleepy Lagoon",
+            "length": "2:58"
+          },
+          {
+            "number": "6",
+            "title": "I Can't Begin to Tell You",
+            "length": "3:01"
+          },
+          {
+            "number": "7",
+            "title": "Trumpet Blues & Cantabile",
+            "length": "3:01"
+          },
+          {
+            "number": "8",
+            "title": "You Made Me Love You",
+            "length": "3:16"
+          },
+          {
+            "number": "9",
+            "title": "It's Been a Long, Long Time",
+            "length": "3:27"
+          },
+          {
+            "number": "10",
+            "title": "Ciribiribin",
+            "length": "2:32"
+          },
+          {
+            "number": "11",
+            "title": "I'll Get By (as Long as I Have You)",
+            "length": "2:44"
+          },
+          {
+            "number": "12",
+            "title": "I Don't Want to Walk Without You",
+            "length": "2:55"
+          },
+          {
+            "number": "13",
+            "title": "Carnival",
+            "length": "3:17"
+          },
+          {
+            "number": "14",
+            "title": "The Devil Sat Down and Cried",
+            "length": "2:46"
+          },
+          {
+            "number": "15",
+            "title": "Music Makers",
+            "length": "3:18"
+          },
+          {
+            "number": "16",
+            "title": "I'm Beginning to See the Light",
+            "length": "3:15"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Harry James/Best Of The Big Bands.jpg"
+}

@@ -1,0 +1,163 @@
+{
+  "title": "Liberation",
+  "artist": "Karsh Kale",
+  "year": 2003,
+  "release_date": "2003-06-01",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "breakbeat",
+    "downtempo",
+    "electronic"
+  ],
+  "tags": [
+    "breakbeat",
+    "downtempo",
+    "electronic"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/68b404d5-f695-3223-bc16-4ae6265b996f",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/340502",
+    "deezer": "https://www.deezer.com/album/978726"
+  },
+  "musicbrainz_id": "68b404d5-f695-3223-bc16-4ae6265b996f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/83cc8c07-8a04-432d-89bc-be809e4e5d41",
+      "barcode": "657036109025",
+      "title": "Liberation",
+      "disambiguation": null,
+      "date": "2003-06-03",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "58:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Liberation",
+            "length": "4:57",
+            "deezer": {
+              "id": 10705262,
+              "link": "https://www.deezer.com/track/10705262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/7/0/b372ee3496933743086bedc8b0489b3c.mp3?hdnea=exp=1795655990~acl=/api/1/1/b/3/7/0/b372ee3496933743086bedc8b0489b3c.mp3*~data=user_id=0,application_id=42~hmac=d1e476c8ad29dd2dc2ec2abdd5d642b07378b4c4545380235ea3d9d83cda933d",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Instinct",
+            "length": "5:43",
+            "deezer": {
+              "id": 10705263,
+              "link": "https://www.deezer.com/track/10705263",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/c/0/d6c238583720eb8ce19fc0e13526ff6f.mp3?hdnea=exp=1795655990~acl=/api/1/1/d/6/c/0/d6c238583720eb8ce19fc0e13526ff6f.mp3*~data=user_id=0,application_id=42~hmac=2ab1ec3a2ff784f6ccceafa3e4f12025097610fca56841858560fbb7183dd5b8",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Analog Mood Swings",
+            "length": "6:30",
+            "deezer": {
+              "id": 10705264,
+              "link": "https://www.deezer.com/track/10705264",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/f/0/69ffbc842e18148cc909df87a3ce61ea.mp3?hdnea=exp=1795655990~acl=/api/1/1/6/9/f/0/69ffbc842e18148cc909df87a3ce61ea.mp3*~data=user_id=0,application_id=42~hmac=8d1c5d7e24080fe3770908b3149c6657567efe0298dd7c18d718cca588995233",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Milan",
+            "length": "8:54",
+            "deezer": {
+              "id": 10705265,
+              "link": "https://www.deezer.com/track/10705265",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/e/0/60e8987e51b57d7c25366934eb8fbb42.mp3?hdnea=exp=1795655990~acl=/api/1/1/6/0/e/0/60e8987e51b57d7c25366934eb8fbb42.mp3*~data=user_id=0,application_id=42~hmac=60b4c5db0166544872b90448f65e1a5bf7c995836a79120a9cd33a3f2f7c9b4c",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Break of Dawn",
+            "length": "7:26",
+            "deezer": {
+              "id": 10705266,
+              "link": "https://www.deezer.com/track/10705266",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/4/0/91487521aa14133c3201fe608bbe3eae.mp3?hdnea=exp=1795655990~acl=/api/1/1/9/1/4/0/91487521aa14133c3201fe608bbe3eae.mp3*~data=user_id=0,application_id=42~hmac=16eae5612e734f699441b5843b30511c3aa7525d13f157f0d85e919901ec4ce4",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dirty Fellow",
+            "length": "4:47",
+            "deezer": {
+              "id": 10705267,
+              "link": "https://www.deezer.com/track/10705267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/6/0/11607bacc6598a7322f1cd6d45f736ea.mp3?hdnea=exp=1795655990~acl=/api/1/1/1/1/6/0/11607bacc6598a7322f1cd6d45f736ea.mp3*~data=user_id=0,application_id=42~hmac=ee6b523c146440b344455f94f293066dec56cfab4e7b9c936a3c60bce37d9248",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Letting Go",
+            "length": "6:14",
+            "deezer": {
+              "id": 10705268,
+              "link": "https://www.deezer.com/track/10705268",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/e/0/cee4651fe1fc049b9f07f68dbb650958.mp3?hdnea=exp=1795655990~acl=/api/1/1/c/e/e/0/cee4651fe1fc049b9f07f68dbb650958.mp3*~data=user_id=0,application_id=42~hmac=12e4ad8b578d4331ab2b2be033dcde0053b1174cd68f9e5c700489e9d9fca824",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Gk²",
+            "length": "5:00",
+            "deezer": {
+              "id": 10705269,
+              "link": "https://www.deezer.com/track/10705269",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/9/0/7d967f3e15b21d4828ccce870ab6f0f4.mp3?hdnea=exp=1795655990~acl=/api/1/1/7/d/9/0/7d967f3e15b21d4828ccce870ab6f0f4.mp3*~data=user_id=0,application_id=42~hmac=1eebe8bdcbaf1bb44a30c3be1cd1ba12b32b0899264644d94b08e670a5cede40",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Cinematic Reprise",
+            "length": "2:57",
+            "deezer": {
+              "id": 10705270,
+              "link": "https://www.deezer.com/track/10705270",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/c/0/50c363979be7b0fc36aaf67e9d81ffaf.mp3?hdnea=exp=1795655990~acl=/api/1/1/5/0/c/0/50c363979be7b0fc36aaf67e9d81ffaf.mp3*~data=user_id=0,application_id=42~hmac=f961bc49f1d524101d920267b66ba6151b5e880d79041eec1626b9523310eea9",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Epic",
+            "length": "5:34",
+            "deezer": {
+              "id": 10705271,
+              "link": "https://www.deezer.com/track/10705271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/5/0/ab58a8eebd0f7bf80c7cd9fefb3d7673.mp3?hdnea=exp=1795655990~acl=/api/1/1/a/b/5/0/ab58a8eebd0f7bf80c7cd9fefb3d7673.mp3*~data=user_id=0,application_id=42~hmac=3b0b6810a39f62710ebfae2a0f3d74b0c9ad7763e938f9ee2a8d3d0c29817d9e",
+              "preview_expires": "2026-11-26T01:19:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karsh Kale/Liberation.jpg"
+}

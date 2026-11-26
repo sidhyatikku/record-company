@@ -1,0 +1,51 @@
+{
+  "title": "नalla Freestyle",
+  "artist": "Seedhe Maut & DJ Sa",
+  "year": 2022,
+  "release_date": "2022-09-13",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/61fa3069-7acd-40a4-8693-21e1ed0801a7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/723501871"
+  },
+  "musicbrainz_id": "61fa3069-7acd-40a4-8693-21e1ed0801a7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cd5279fa-c9b7-4bf8-938f-a0efd3582e95",
+      "barcode": "8445162737692",
+      "title": "नalla Freestyle",
+      "disambiguation": null,
+      "date": "2022-09-13",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "नalla Freestyle",
+            "length": "2:57",
+            "deezer": {
+              "id": 3266567341,
+              "link": "https://www.deezer.com/track/3266567341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/7/0/d8737abf1e4557e1b1b4a8432fc79392.mp3?hdnea=exp=1795720437~acl=/api/1/1/d/8/7/0/d8737abf1e4557e1b1b4a8432fc79392.mp3*~data=user_id=0,application_id=42~hmac=83aa2033290ca3150344c0c10c22dc81fea57531a27f4d9b214e5afa13d42019",
+              "preview_expires": "2026-11-26T19:13:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Seedhe Maut/नalla Freestyle.jpg"
+}

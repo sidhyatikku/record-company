@@ -1,0 +1,144 @@
+{
+  "title": "Jazz Impressions of Japan",
+  "artist": "The Dave Brubeck Quartet",
+  "year": 1964,
+  "release_date": "1964-06-16",
+  "type": "Album",
+  "description": "Jazz Impressions of Japan is a 1964 album by The Dave Brubeck Quartet. It was recorded on June 16–17, 1964 at the CBS 30th Street Studio, except for \"Zen Is When\" which was recorded on January 30, 1960. It was released on August 10, 1964. The album, as the back cover of the remastered CD confirms, had been long out-of-print until it was reissued on CD in 2001, then re-released in 2008 and 2009.",
+  "genres": [
+    "jazz",
+    "cool jazz",
+    "modal jazz",
+    "post-bop"
+  ],
+  "tags": [
+    "jazz",
+    "cool jazz",
+    "modal jazz",
+    "post-bop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ad2253e8-8b2a-3eca-b6e9-f1a5243fb2dd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jazz_Impressions_of_Japan",
+    "discogs": "https://www.discogs.com/master/248401",
+    "wikidata": "https://www.wikidata.org/wiki/Q6168253",
+    "deezer": "https://www.deezer.com/album/7095329"
+  },
+  "musicbrainz_id": "ad2253e8-8b2a-3eca-b6e9-f1a5243fb2dd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/27ab7075-3512-4c05-b830-441c279f7c1c",
+      "barcode": null,
+      "title": "Jazz Impressions of Japan",
+      "disambiguation": null,
+      "date": "2001-04-10",
+      "country": "US"
+    },
+    "total_tracks": 8,
+    "total_length": "34:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tokyo Traffic",
+            "length": "5:51",
+            "deezer": {
+              "id": 72203933,
+              "link": "https://www.deezer.com/track/72203933",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/5/0/bb57c0a009d4acb98f48bc40aa1c32cb.mp3?hdnea=exp=1795721483~acl=/api/1/1/b/b/5/0/bb57c0a009d4acb98f48bc40aa1c32cb.mp3*~data=user_id=0,application_id=42~hmac=2b58f27ef0d3b6ae86ccb2cdb2daad1eb0f5bc98537fcee8bfc5190345783a58",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rising Sun",
+            "length": "4:39",
+            "deezer": {
+              "id": 72203934,
+              "link": "https://www.deezer.com/track/72203934",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/7/0/c87ea2c51fe5a7b0686831673636465f.mp3?hdnea=exp=1795721483~acl=/api/1/1/c/8/7/0/c87ea2c51fe5a7b0686831673636465f.mp3*~data=user_id=0,application_id=42~hmac=d0405df9ff6962b3d1f80bc306a3602ec98865baab267956e5af6a25915f7dda",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Toki's Theme",
+            "length": "2:08",
+            "deezer": {
+              "id": 72203935,
+              "link": "https://www.deezer.com/track/72203935",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/7/0/d77d9359fa35368b2baf5a60c019ecdb.mp3?hdnea=exp=1795721483~acl=/api/1/1/d/7/7/0/d77d9359fa35368b2baf5a60c019ecdb.mp3*~data=user_id=0,application_id=42~hmac=437b04dcb4a38a4c786742781d2831e14f9e3382869e0b05e7dd56cec7fce3e5",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Fujiyama",
+            "length": "5:03",
+            "deezer": {
+              "id": 72203936,
+              "link": "https://www.deezer.com/track/72203936",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/b/0/90bd7e3c65fedc81f207a52a495883d8.mp3?hdnea=exp=1795721483~acl=/api/1/1/9/0/b/0/90bd7e3c65fedc81f207a52a495883d8.mp3*~data=user_id=0,application_id=42~hmac=d282b9115f380a61dad5044b96ff17dc2467f13c3d6ab9f1f0d697ead9e93c96",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Zen Is When",
+            "length": "2:52",
+            "deezer": {
+              "id": 72203937,
+              "link": "https://www.deezer.com/track/72203937",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/5/0/955ce3e94e4de23827ac325393b5555c.mp3?hdnea=exp=1795721483~acl=/api/1/1/9/5/5/0/955ce3e94e4de23827ac325393b5555c.mp3*~data=user_id=0,application_id=42~hmac=d72d789b6892e028ddaab087cfe12c73c461d3e90b0388f274cb6a693ae476d4",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The City Is Crying",
+            "length": "6:01",
+            "deezer": {
+              "id": 72203938,
+              "link": "https://www.deezer.com/track/72203938",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/f/0/9bf1a6d7a595e8c35c756d98d2044b62.mp3?hdnea=exp=1795721483~acl=/api/1/1/9/b/f/0/9bf1a6d7a595e8c35c756d98d2044b62.mp3*~data=user_id=0,application_id=42~hmac=9633d23ca2274aedac66878a35e094aa157405d47d1a1c65ba1fa22158eca2ff",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Osaka Blues",
+            "length": "5:09",
+            "deezer": {
+              "id": 72203939,
+              "link": "https://www.deezer.com/track/72203939",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/e/0/55ef7be0db12004ba07b6e2a72a01aba.mp3?hdnea=exp=1795721483~acl=/api/1/1/5/5/e/0/55ef7be0db12004ba07b6e2a72a01aba.mp3*~data=user_id=0,application_id=42~hmac=8c6b2dcc11a62eeb2aa75d16f85afc9cc9dbed32a2c9fd2f2db1ad13d76b32d6",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Koto Song",
+            "length": "3:01",
+            "deezer": {
+              "id": 72203940,
+              "link": "https://www.deezer.com/track/72203940",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/4/0/7043ee51c138a1f79e93439b34d04c3c.mp3?hdnea=exp=1795721483~acl=/api/1/1/7/0/4/0/7043ee51c138a1f79e93439b34d04c3c.mp3*~data=user_id=0,application_id=42~hmac=3241f4012cd55d63b8ba9f1bd527cf86b3bf3f06225bbb97aaa2bb14d089fa78",
+              "preview_expires": "2026-11-26T19:31:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Dave Brubeck Quartet/Jazz Impressions Of Japan.jpg"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Panjebaan",
+  "artist": "Harjit Harman",
+  "year": 2004,
+  "release_date": "2004-02-13",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "punjabi pop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7p3bl1FjXKHLgA9d2gzK0W",
+    "deezer": "https://www.deezer.com/album/700093371"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7p3bl1FjXKHLgA9d2gzK0W",
+      "title": "Panjebaan",
+      "date": "2004-02-13"
+    },
+    "total_tracks": 9,
+    "total_length": "42:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Panjebaan Chhakaave Jaanke(Kolon Lang Di)",
+            "length": "4:56",
+            "deezer": {
+              "id": 3193223151,
+              "link": "https://www.deezer.com/track/3193223151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/5/0/3b53a11949f3a3d003d9b9324dbf1fdb.mp3?hdnea=exp=1795655029~acl=/api/1/1/3/b/5/0/3b53a11949f3a3d003d9b9324dbf1fdb.mp3*~data=user_id=0,application_id=42~hmac=8e5dbd455da2935d816ca77affcdfb625667499c279b152f802da62fc69515d4",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jattaan De Putt",
+            "length": "3:55",
+            "deezer": {
+              "id": 3193223161,
+              "link": "https://www.deezer.com/track/3193223161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/e/0/6be446aadb3be1e19bb84d6e0aa1d611.mp3?hdnea=exp=1795655029~acl=/api/1/1/6/b/e/0/6be446aadb3be1e19bb84d6e0aa1d611.mp3*~data=user_id=0,application_id=42~hmac=88b88efca1f9eac8597d17bacdaaddf49dd82a0315151272db0841c6169dbecc",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mittraan Da Naa Chalda",
+            "length": "4:16",
+            "deezer": {
+              "id": 3193223171,
+              "link": "https://www.deezer.com/track/3193223171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/c/0/88c260f517dd1d8ccb107b179c9186b3.mp3?hdnea=exp=1795655029~acl=/api/1/1/8/8/c/0/88c260f517dd1d8ccb107b179c9186b3.mp3*~data=user_id=0,application_id=42~hmac=c33cc0c6da4da9484639744953a9038a8f2caf953d4e027aea3c62757cdb221f",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dilaan Nu Sadaa",
+            "length": "4:11",
+            "deezer": {
+              "id": 3193223181,
+              "link": "https://www.deezer.com/track/3193223181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/8/0/ea8212243a2e608bae1926032518560f.mp3?hdnea=exp=1795655029~acl=/api/1/1/e/a/8/0/ea8212243a2e608bae1926032518560f.mp3*~data=user_id=0,application_id=42~hmac=88c5dbf518f00b01fb937fd3968212940ba0922699a607ad3e75a6053723a183",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Intezaar Karaanga",
+            "length": "5:35",
+            "deezer": {
+              "id": 3193223191,
+              "link": "https://www.deezer.com/track/3193223191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dc9ceff5b4db4d687a1fb1bfb85c0a8.mp3?hdnea=exp=1795655029~acl=/api/1/1/0/d/c/0/0dc9ceff5b4db4d687a1fb1bfb85c0a8.mp3*~data=user_id=0,application_id=42~hmac=ca5252c4925aecdc8f86201ba561e51b52cab59ceb9fe8d335b227ce62e8f9f4",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ghund Kadhlei Goriye",
+            "length": "4:12",
+            "deezer": {
+              "id": 3193223201,
+              "link": "https://www.deezer.com/track/3193223201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/5/0/d654f57db4ca04fdd5e8099599218f56.mp3?hdnea=exp=1795655029~acl=/api/1/1/d/6/5/0/d654f57db4ca04fdd5e8099599218f56.mp3*~data=user_id=0,application_id=42~hmac=0485dfefbe0d00bc412118fb9a3a47beefed207ad8815406ff550b4a56b76188",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Nachna Naa Bhuljeen",
+            "length": "5:21",
+            "deezer": {
+              "id": 3193223211,
+              "link": "https://www.deezer.com/track/3193223211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/e/0/4cefd816a7b95da1acc0289584b7660e.mp3?hdnea=exp=1795655029~acl=/api/1/1/4/c/e/0/4cefd816a7b95da1acc0289584b7660e.mp3*~data=user_id=0,application_id=42~hmac=5aafe3e13a59837d8f457da8ff84082daf79be4e1b232676f6837a39f81b3fbc",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dil Marjaane Noo",
+            "length": "5:19",
+            "deezer": {
+              "id": 3193223221,
+              "link": "https://www.deezer.com/track/3193223221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/9/0/bc9c6e9d015d0b05b01f4bb35462a374.mp3?hdnea=exp=1795655029~acl=/api/1/1/b/c/9/0/bc9c6e9d015d0b05b01f4bb35462a374.mp3*~data=user_id=0,application_id=42~hmac=e15a731156427dec29e6e7caebe34dee531ed392f7dd3456417080e3b4cddbb7",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Punjab Di Taraan",
+            "length": "4:47",
+            "deezer": {
+              "id": 3193223231,
+              "link": "https://www.deezer.com/track/3193223231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/7/0/3773381d51a8d75d43053e87974cd50c.mp3?hdnea=exp=1795655029~acl=/api/1/1/3/7/7/0/3773381d51a8d75d43053e87974cd50c.mp3*~data=user_id=0,application_id=42~hmac=3e156ed734720351cc8745917b9e4e71ecaca91d461712609c29872af6b82eaa",
+              "preview_expires": "2026-11-26T01:03:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Harjit Harman/Panjebaan.jpg"
+}

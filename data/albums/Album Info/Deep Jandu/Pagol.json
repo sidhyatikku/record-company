@@ -1,0 +1,54 @@
+{
+  "title": "Pagol",
+  "artist": "Deep Jandu",
+  "year": 2019,
+  "release_date": "2019",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "punjabi hip hop",
+    "punjabi pop",
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7",
+    "deezer": "https://www.deezer.com/album/232557952"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7",
+      "title": "Pagol",
+      "date": "2019"
+    },
+    "total_tracks": 1,
+    "total_length": "3:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pagol",
+            "length": "3:39",
+            "artist": "Deep Jandu, Bohemia",
+            "deezer": {
+              "id": 1382591042,
+              "link": "https://www.deezer.com/track/1382591042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/3/0/fd34124b66a456849fe84fcf7f729e02.mp3?hdnea=exp=1795653234~acl=/api/1/1/f/d/3/0/fd34124b66a456849fe84fcf7f729e02.mp3*~data=user_id=0,application_id=42~hmac=a93064cd675e7bf1c34523a07fad42962716b327cf5a1019d6a67893246bc584",
+              "preview_expires": "2026-11-26T00:33:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Deep Jandu/Pagol.jpg"
+}

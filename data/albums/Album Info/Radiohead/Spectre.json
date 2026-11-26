@@ -1,0 +1,64 @@
+{
+  "title": "Spectre",
+  "artist": "Radiohead",
+  "year": 2015,
+  "release_date": "2015-12-25",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indie rock",
+    "rock"
+  ],
+  "tags": [
+    "indie rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 5
+  },
+  "musicbrainz_annotation": "Radiohead's rejected James Bond Theme, which they released for free download on Christmas 2015.\r\n\r\nFrom Soundcloud:\r\n\"Last year we were asked to write a theme tune for the Bond movie Spectre.\r\nYes we were. It didn’t work out, but became something of our own, which we love very much.\r\nAs the year closes we thought you might like to hear it.\r\nMerry Christmas. May the force be with you.\"",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7510af18-6d4a-444d-8a52-2a438f0191a8",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1003502",
+    "wikidata": "https://www.wikidata.org/wiki/Q60197471",
+    "deezer": "https://www.deezer.com/album/14880333"
+  },
+  "musicbrainz_id": "7510af18-6d4a-444d-8a52-2a438f0191a8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/db18e661-a69e-42c6-8ec8-089f1871a147",
+      "barcode": "634904081867",
+      "title": "Spectre",
+      "disambiguation": null,
+      "date": "2016-05-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Spectre",
+            "length": "3:19",
+            "deezer": {
+              "id": 138544521,
+              "link": "https://www.deezer.com/track/138544521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/5/0/b35b2a6d9380c8fc03a90542bcdb6558.mp3?hdnea=exp=1795719893~acl=/api/1/1/b/3/5/0/b35b2a6d9380c8fc03a90542bcdb6558.mp3*~data=user_id=0,application_id=42~hmac=c62f1a222bc712281f980426568c46b1f6bc2e826dc426738618eac21ca39f43",
+              "preview_expires": "2026-11-26T19:04:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Radiohead/Spectre.jpg"
+}

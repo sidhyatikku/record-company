@@ -1,0 +1,51 @@
+{
+  "title": "Inner Light",
+  "artist": "Elderbrook & Bob Moses",
+  "year": 2021,
+  "release_date": "2021-07-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2886493c-59fe-4a9e-b072-d563035dfcfb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/242214192"
+  },
+  "musicbrainz_id": "2886493c-59fe-4a9e-b072-d563035dfcfb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/47091add-5642-4bd3-9bec-319c1a191491",
+      "barcode": "190296543906",
+      "title": "Inner Light",
+      "disambiguation": null,
+      "date": "2021-07-30",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Inner Light",
+            "length": "4:17",
+            "deezer": {
+              "id": 1424817682,
+              "link": "https://www.deezer.com/track/1424817682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/8/0/e48e0ce2864e1ae8ec6b6ede9e81413b.mp3?hdnea=exp=1795653809~acl=/api/1/1/e/4/8/0/e48e0ce2864e1ae8ec6b6ede9e81413b.mp3*~data=user_id=0,application_id=42~hmac=8dfb3f226d77802257ba783673d1b91d466fa3720dbe97089deb7c3ac8f94a52",
+              "preview_expires": "2026-11-26T00:43:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Elderbrook/Inner Light.jpg"
+}

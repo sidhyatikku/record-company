@@ -1,0 +1,146 @@
+{
+  "title": "The Yes Album",
+  "artist": "Yes",
+  "year": 1971,
+  "release_date": "1971-01-29",
+  "type": "Album",
+  "description": "The Yes Album is the third studio album by English progressive rock band Yes, released in the UK on 19 February 1971 and in the US on 19 March 1971 by Atlantic Records. It was the band's first album to feature guitarist Steve Howe, who replaced Peter Banks in 1970, as well as their last to feature keyboardist Tony Kaye until 1983's 90125.",
+  "genres": [
+    "progressive rock",
+    "rock",
+    "art rock",
+    "arena rock",
+    "classic rock",
+    "progressive",
+    "symphonic prog"
+  ],
+  "tags": [
+    "progressive rock",
+    "rock",
+    "art rock",
+    "prog rock",
+    "arena rock",
+    "classic rock",
+    "progressive",
+    "rock/pop",
+    "symphonic prog"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 16
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0fa03925-736c-3537-b0c6-201091543177",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Yes_Album",
+    "allmusic": "https://www.allmusic.com/album/mw0000592609",
+    "discogs": "https://www.discogs.com/master/34991",
+    "wikidata": "https://www.wikidata.org/wiki/Q3295988",
+    "deezer": "https://www.deezer.com/album/7080833"
+  },
+  "musicbrainz_id": "0fa03925-736c-3537-b0c6-201091543177",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7d9adc00-1661-4f1d-9f7a-86e3491e1dd4",
+      "barcode": "081227378868",
+      "title": "The Yes Album (deluxe edition)",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 9,
+    "total_length": "51:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yours Is No Disgrace",
+            "length": "9:41",
+            "deezer": {
+              "id": 72073407,
+              "link": "https://www.deezer.com/track/72073407",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/5/0/b55c0a6c1a7265f3e4f6634e9363d67f.mp3?hdnea=exp=1795724484~acl=/api/1/1/b/5/5/0/b55c0a6c1a7265f3e4f6634e9363d67f.mp3*~data=user_id=0,application_id=42~hmac=8c3d302bf31d03d8a797913fc91671243184e9b52f0c34f61d7554651e74337c",
+              "preview_expires": "2026-11-26T20:21:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Clap",
+            "length": "3:17",
+            "deezer": {
+              "id": 72073408,
+              "link": "https://www.deezer.com/track/72073408",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/a/0/1eaa242d9b07a254ea7f3728a1d81202.mp3?hdnea=exp=1795724484~acl=/api/1/1/1/e/a/0/1eaa242d9b07a254ea7f3728a1d81202.mp3*~data=user_id=0,application_id=42~hmac=36b2842334348eac0c48825d8c3457f88669db51e6e958fdc023339fc9b5ba8c",
+              "preview_expires": "2026-11-26T20:21:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Starship Trooper: a. Life Seeker / b. Disillusion / c. Würm",
+            "length": "9:26",
+            "deezer": {
+              "id": 72073409,
+              "link": "https://www.deezer.com/track/72073409",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/4/0/9a45dc34215a6f7a934e03e07323812b.mp3?hdnea=exp=1795724484~acl=/api/1/1/9/a/4/0/9a45dc34215a6f7a934e03e07323812b.mp3*~data=user_id=0,application_id=42~hmac=a6ebf2e76312910fffd7b770040948f715b4c2313cae1ae250bec204105940cf",
+              "preview_expires": "2026-11-26T20:21:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I’ve Seen All Good People: a. Your Move / b. All Good People",
+            "length": "6:53",
+            "deezer": {
+              "id": 72073410,
+              "link": "https://www.deezer.com/track/72073410",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/2/0/682455a0f7b48f164417f0b0d2c331c1.mp3?hdnea=exp=1795724484~acl=/api/1/1/6/8/2/0/682455a0f7b48f164417f0b0d2c331c1.mp3*~data=user_id=0,application_id=42~hmac=05e9ead047674eaf7522a6f7cec59ab5007cf4697f12fbed242b4b5361839098",
+              "preview_expires": "2026-11-26T20:21:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "A Venture",
+            "length": "3:20",
+            "deezer": {
+              "id": 72073411,
+              "link": "https://www.deezer.com/track/72073411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/5/0/9058b6a88093b72ccaf8b1eb0bbde1b6.mp3?hdnea=exp=1795724484~acl=/api/1/1/9/0/5/0/9058b6a88093b72ccaf8b1eb0bbde1b6.mp3*~data=user_id=0,application_id=42~hmac=1ea1efc7db1b659270e6d87ef9948569e334ef87d5a880cf8419a22d4ad70e62",
+              "preview_expires": "2026-11-26T20:21:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Perpetual Change",
+            "length": "8:52",
+            "deezer": {
+              "id": 72073412,
+              "link": "https://www.deezer.com/track/72073412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/4/0/0346af3310e931b23255dc19d3f9df6e.mp3?hdnea=exp=1795724484~acl=/api/1/1/0/3/4/0/0346af3310e931b23255dc19d3f9df6e.mp3*~data=user_id=0,application_id=42~hmac=8c8fda948075a7ee678c41618f09fc9e9419368f635b1885577ad9b0c3fc2cbf",
+              "preview_expires": "2026-11-26T20:21:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Your Move (single version)",
+            "length": "2:55"
+          },
+          {
+            "number": "8",
+            "title": "Starship Trooper: Life Seeker (single version)",
+            "length": "3:27"
+          },
+          {
+            "number": "9",
+            "title": "The Clap (studio version)",
+            "length": "4:02"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yes/The Yes Album.jpg"
+}

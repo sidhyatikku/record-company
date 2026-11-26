@@ -1,0 +1,88 @@
+{
+  "title": "Fake Plastic Trees",
+  "artist": "Radiohead",
+  "year": 1995,
+  "release_date": "1995-05-15",
+  "type": "Single",
+  "description": "\"Fake Plastic Trees\" is a song by the English rock band Radiohead, released in May 1995 by Parlophone from their second album, The Bends (1995). It was the third single from The Bends in the UK and the first in the US.",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "blues"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "blues"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 7
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/78690342-5a02-382c-9778-6b1c3dd741a2",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fake_Plastic_Trees",
+    "allmusic": "https://www.allmusic.com/album/mw0000540166",
+    "discogs": "https://www.discogs.com/master/21526",
+    "wikidata": "https://www.wikidata.org/wiki/Q2086905",
+    "deezer": "https://www.deezer.com/album/14880339"
+  },
+  "musicbrainz_id": "78690342-5a02-382c-9778-6b1c3dd741a2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8b9f17c6-004c-41dd-ad77-61321b4f8f61",
+      "barcode": "634904079963",
+      "title": "Fake Plastic Trees",
+      "disambiguation": null,
+      "date": "2016-05-13",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "12:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fake Plastic Trees",
+            "length": "4:50",
+            "deezer": {
+              "id": 138544577,
+              "link": "https://www.deezer.com/track/138544577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/8/0/c28188edc33af22cb175b30847a4e2c1.mp3?hdnea=exp=1795719858~acl=/api/1/1/c/2/8/0/c28188edc33af22cb175b30847a4e2c1.mp3*~data=user_id=0,application_id=42~hmac=3b84db899754327325eb9e8ea14b8bdf35465e47adf1dea78a13963db327cb73",
+              "preview_expires": "2026-11-26T19:04:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "India Rubber",
+            "length": "3:26",
+            "deezer": {
+              "id": 138544579,
+              "link": "https://www.deezer.com/track/138544579",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/8/0/31856ceead1f1f21891af08a6d904e1d.mp3?hdnea=exp=1795719858~acl=/api/1/1/3/1/8/0/31856ceead1f1f21891af08a6d904e1d.mp3*~data=user_id=0,application_id=42~hmac=3d7ec1c382804e421d630840eef2e96bc9d8b66fe8d8aa08e735fb794309a030",
+              "preview_expires": "2026-11-26T19:04:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "How Can You Be Sure?",
+            "length": "4:21",
+            "deezer": {
+              "id": 138544581,
+              "link": "https://www.deezer.com/track/138544581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/b/0/3cbded6edccc6d07c05da610403c5dec.mp3?hdnea=exp=1795719858~acl=/api/1/1/3/c/b/0/3cbded6edccc6d07c05da610403c5dec.mp3*~data=user_id=0,application_id=42~hmac=4dca712efb9ad530a375bff53bbe5b91897f3b85c21753825a4b508a4d0eec50",
+              "preview_expires": "2026-11-26T19:04:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Radiohead/Fake Plastic Trees.jpg"
+}

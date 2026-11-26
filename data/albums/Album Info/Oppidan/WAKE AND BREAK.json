@@ -1,0 +1,51 @@
+{
+  "title": "WAKE AND BREAK",
+  "artist": "Oppidan",
+  "year": 2024,
+  "release_date": "2024-10-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3a9a34fb-ce18-43f4-b1dd-0a5332278ed6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/645547451"
+  },
+  "musicbrainz_id": "3a9a34fb-ce18-43f4-b1dd-0a5332278ed6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2ed511b2-c9be-4c0d-9b2c-b620e66a8960",
+      "barcode": "198704163920",
+      "title": "WAKE AND BREAK",
+      "disambiguation": null,
+      "date": "2024-10-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "WAKE AND BREAK",
+            "length": "3:15",
+            "deezer": {
+              "id": 3003034881,
+              "link": "https://www.deezer.com/track/3003034881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/c/0/4cc92dd42eae4c78fe7c2b4ea2e79f65.mp3?hdnea=exp=1795719204~acl=/api/1/1/4/c/c/0/4cc92dd42eae4c78fe7c2b4ea2e79f65.mp3*~data=user_id=0,application_id=42~hmac=7920626b0bd9af2260c4c68eec2d4c3342151855582bd76e5fbf5615e9e843af",
+              "preview_expires": "2026-11-26T18:53:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Oppidan/WAKE AND BREAK.jpg"
+}

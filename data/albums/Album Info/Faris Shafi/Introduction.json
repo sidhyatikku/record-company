@@ -1,0 +1,51 @@
+{
+  "title": "Introduction",
+  "artist": "Faris Shafi",
+  "year": 2021,
+  "release_date": "2021",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6f0a2541-e44e-4f92-a2a8-8553c21a9012",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/220298162"
+  },
+  "musicbrainz_id": "6f0a2541-e44e-4f92-a2a8-8553c21a9012",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e3856498-64c8-458a-8902-a5daec2e4eca",
+      "barcode": "196052230967",
+      "title": "Introduction",
+      "disambiguation": null,
+      "date": "2021",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "1:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Introduction",
+            "length": "1:56",
+            "deezer": {
+              "id": 1317092412,
+              "link": "https://www.deezer.com/track/1317092412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/c/0/41c876a29ccb8ec2bca2bdb66de60214.mp3?hdnea=exp=1795654169~acl=/api/1/1/4/1/c/0/41c876a29ccb8ec2bca2bdb66de60214.mp3*~data=user_id=0,application_id=42~hmac=f65f11583a239def503174671a0bc1363896efd71eb2bb528601c6a6cce1bae2",
+              "preview_expires": "2026-11-26T00:49:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Faris Shafi/Introduction.jpg"
+}

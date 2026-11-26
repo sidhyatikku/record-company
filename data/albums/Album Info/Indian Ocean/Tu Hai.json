@@ -1,0 +1,108 @@
+{
+  "title": "Tu Hai",
+  "artist": "Indian Ocean",
+  "year": 2023,
+  "release_date": "2023-05-05",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/aae8e905-5edf-4451-a6d6-e48f260f7e32",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/424157107"
+  },
+  "musicbrainz_id": "aae8e905-5edf-4451-a6d6-e48f260f7e32",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0c6370a4-4673-42c2-b33e-7231c6c50ab6",
+      "barcode": "3617058403416",
+      "title": "Tu Hai",
+      "disambiguation": null,
+      "date": "2023-05-05",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "48:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jaadu Maaya",
+            "length": "8:15",
+            "deezer": {
+              "id": 2217569967,
+              "link": "https://www.deezer.com/track/2217569967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/7/0/907ff626b6f205906bc904af27b7d165.mp3?hdnea=exp=1795655247~acl=/api/1/1/9/0/7/0/907ff626b6f205906bc904af27b7d165.mp3*~data=user_id=0,application_id=42~hmac=9f4d2bdb3e971942e8dc0c12043c16eee4dc7927f993acb73fbf842e5b521a54",
+              "preview_expires": "2026-11-26T01:07:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jungle",
+            "length": "10:04",
+            "artist": "Indian Ocean & George Brooks",
+            "deezer": {
+              "id": 2217569977,
+              "link": "https://www.deezer.com/track/2217569977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/5/0/f45914c5ffe8f9989f54c83b38c678a0.mp3?hdnea=exp=1795655247~acl=/api/1/1/f/4/5/0/f45914c5ffe8f9989f54c83b38c678a0.mp3*~data=user_id=0,application_id=42~hmac=c1106290fca00366c09a0d9b6e6e99e62a2e9c7046252965678f8af906a231b4",
+              "preview_expires": "2026-11-26T01:07:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Iss Tan Dhan",
+            "length": "10:15",
+            "artist": "Indian Ocean & Vikku Vinayakram",
+            "deezer": {
+              "id": 2217569987,
+              "link": "https://www.deezer.com/track/2217569987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/f/0/66fa2f2f04ab9a059e7736907bbf063a.mp3?hdnea=exp=1795655247~acl=/api/1/1/6/6/f/0/66fa2f2f04ab9a059e7736907bbf063a.mp3*~data=user_id=0,application_id=42~hmac=90336b977c9b260ea371fa9e75c25a78031c2146fa20edce1c780e27d42cbac9",
+              "preview_expires": "2026-11-26T01:07:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tu Hai, Pt. 01",
+            "length": "5:46",
+            "deezer": {
+              "id": 2217569997,
+              "link": "https://www.deezer.com/track/2217569997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/9/0/f89794891959a09db40d6ea7f21c6223.mp3?hdnea=exp=1795655247~acl=/api/1/1/f/8/9/0/f89794891959a09db40d6ea7f21c6223.mp3*~data=user_id=0,application_id=42~hmac=03829ee4e194538e88dddc65ec6da3f453c17350450936617cab7e420465c05d",
+              "preview_expires": "2026-11-26T01:07:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tu Hai, Pt. 02",
+            "length": "4:50",
+            "deezer": {
+              "id": 2217570007,
+              "link": "https://www.deezer.com/track/2217570007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/0/0/cb034906dbe35d5bfbf472df1372e41d.mp3?hdnea=exp=1795655247~acl=/api/1/1/c/b/0/0/cb034906dbe35d5bfbf472df1372e41d.mp3*~data=user_id=0,application_id=42~hmac=0975141243c781dd7c2d3e784459900ea6483feae240ecb77b4b90f7f6609dfe",
+              "preview_expires": "2026-11-26T01:07:27Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rebirth",
+            "length": "9:12",
+            "deezer": {
+              "id": 2217570017,
+              "link": "https://www.deezer.com/track/2217570017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/8/0/55865403c6f7a6d21901bbf08715a8b4.mp3?hdnea=exp=1795655247~acl=/api/1/1/5/5/8/0/55865403c6f7a6d21901bbf08715a8b4.mp3*~data=user_id=0,application_id=42~hmac=3fa1fa38c9cf8d6d4f0339d37c68ccdf6d3ab799adccc0df983b8965b0ab2ee5",
+              "preview_expires": "2026-11-26T01:07:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Indian Ocean/Tu Hai.jpg"
+}

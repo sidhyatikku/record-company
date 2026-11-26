@@ -1,0 +1,88 @@
+{
+  "title": "Blood Is Better Than Tears",
+  "artist": "Ikka",
+  "year": 2024,
+  "release_date": "2024-11-30",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f9d9b082-b343-49e2-9e8a-a1d04ff1a800",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/681713731"
+  },
+  "musicbrainz_id": "f9d9b082-b343-49e2-9e8a-a1d04ff1a800",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/43366541-7e61-4e6d-bc69-d83c715cd60f",
+      "barcode": "8903431031624",
+      "title": "Blood Is Better Than Tears",
+      "disambiguation": null,
+      "date": "2024-11-30",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "12:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Fucking Umeed",
+            "length": "3:06",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3134455871,
+              "link": "https://www.deezer.com/track/3134455871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/4/0/9f4d1b62b2f4a4dec2d8fbe3b84e9704.mp3?hdnea=exp=1795655175~acl=/api/1/1/9/f/4/0/9f4d1b62b2f4a4dec2d8fbe3b84e9704.mp3*~data=user_id=0,application_id=42~hmac=a67a5dd8b7986b8730d63efa45965ac1bef9f1eb3333ace2ea6da0820e4f7e26",
+              "preview_expires": "2026-11-26T01:06:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Gojira",
+            "length": "2:36",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3134455881,
+              "link": "https://www.deezer.com/track/3134455881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/1/0/d31b582bc955a6a8b5ae8f99f15f718a.mp3?hdnea=exp=1795655175~acl=/api/1/1/d/3/1/0/d31b582bc955a6a8b5ae8f99f15f718a.mp3*~data=user_id=0,application_id=42~hmac=026289614d8c61b46fe09c27ef43d8c6f861939acdabbe51932e5a420c0fa39a",
+              "preview_expires": "2026-11-26T01:06:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Rainy Days",
+            "length": "4:00",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3134455891,
+              "link": "https://www.deezer.com/track/3134455891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/3/0/5d31fff5cdb179359d007081436f22ef.mp3?hdnea=exp=1795655175~acl=/api/1/1/5/d/3/0/5d31fff5cdb179359d007081436f22ef.mp3*~data=user_id=0,application_id=42~hmac=aa235b0017d9d628ada03cef040ae1147ead52d1f7b9b234ee429094d6b4cbae",
+              "preview_expires": "2026-11-26T01:06:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bsdk / Patte Pe Patta",
+            "length": "3:15",
+            "artist": "Ikka & Sez on the Beat",
+            "deezer": {
+              "id": 3134455901,
+              "link": "https://www.deezer.com/track/3134455901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/f/0/77f1ddacb517e646a47153c27055bcf1.mp3?hdnea=exp=1795655175~acl=/api/1/1/7/7/f/0/77f1ddacb517e646a47153c27055bcf1.mp3*~data=user_id=0,application_id=42~hmac=5fb983577e5e0f1c194021b1283e2c6ffb074ac1dcd78d82f598dd1ab8e60f60",
+              "preview_expires": "2026-11-26T01:06:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Ikka/Blood Is Better Than Tears.jpg"
+}

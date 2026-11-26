@@ -1,0 +1,55 @@
+{
+  "title": "flight fm",
+  "artist": "Joy Orbison",
+  "year": 2024,
+  "release_date": "2024-01-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6388bdb1-48d3-43bf-af5c-c18c069d8e3e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/528063552"
+  },
+  "musicbrainz_id": "6388bdb1-48d3-43bf-af5c-c18c069d8e3e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0de79294-3fda-4c44-a1c7-32c35e7a1d7f",
+      "barcode": null,
+      "title": "flight fm",
+      "disambiguation": null,
+      "date": "2024-01-17",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "flight fm",
+            "length": "4:08",
+            "deezer": {
+              "id": 2599569252,
+              "link": "https://www.deezer.com/track/2599569252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1c026bb4e9ae704d15afcb9e57861d6.mp3?hdnea=exp=1795655758~acl=/api/1/1/d/1/c/0/d1c026bb4e9ae704d15afcb9e57861d6.mp3*~data=user_id=0,application_id=42~hmac=7202542bddae2c153b591d9f42d4892fa593047155a9dc21f5f1fcfa7bcac9f9",
+              "preview_expires": "2026-11-26T01:15:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Joy Orbison/flight fm.jpg"
+}

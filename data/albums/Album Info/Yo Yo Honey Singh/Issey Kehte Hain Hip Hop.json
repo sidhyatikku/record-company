@@ -1,0 +1,51 @@
+{
+  "title": "Issey Kehte Hain Hip Hop",
+  "artist": "Yo Yo Honey Singh & Lil Golu",
+  "year": 2014,
+  "release_date": "2014-06-21",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f72ed2a5-600c-4f96-80a5-3252940b769a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/697143151"
+  },
+  "musicbrainz_id": "f72ed2a5-600c-4f96-80a5-3252940b769a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/14258ba8-801e-4eb5-959c-772267573962",
+      "barcode": "8902894355995",
+      "title": "Issey Kehte Hain Hip Hop",
+      "disambiguation": null,
+      "date": "2014-06-21",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Issey Kehte Hain Hip Hop",
+            "length": "3:14",
+            "deezer": {
+              "id": 3183427271,
+              "link": "https://www.deezer.com/track/3183427271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/c/0/59c18351c38d92d9bcaf68808b9b7fab.mp3?hdnea=exp=1795724508~acl=/api/1/1/5/9/c/0/59c18351c38d92d9bcaf68808b9b7fab.mp3*~data=user_id=0,application_id=42~hmac=e685c24a7dd8beea6c749cefee755cab8f12c3f12005dae65abac7622f3ac12a",
+              "preview_expires": "2026-11-26T20:21:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yo Yo Honey Singh/Issey Kehte Hain Hip Hop.jpg"
+}

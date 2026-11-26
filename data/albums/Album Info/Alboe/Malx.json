@@ -1,0 +1,51 @@
+{
+  "title": "Malx",
+  "artist": "Alboe",
+  "year": 2023,
+  "release_date": "2023-03-31",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3vLgsz9XtuIFYunWX4k0RG",
+    "deezer": "https://www.deezer.com/album/420253807"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3vLgsz9XtuIFYunWX4k0RG",
+      "title": "Malx",
+      "date": "2023-03-31"
+    },
+    "total_tracks": 1,
+    "total_length": "4:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Malx",
+            "length": "4:43",
+            "artist": "Alboe, Shrii",
+            "deezer": {
+              "id": 2202304877,
+              "link": "https://www.deezer.com/track/2202304877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/8/0/c382736b58bfc9395b0e901b5b4bfadc.mp3?hdnea=exp=1795649069~acl=/api/1/1/c/3/8/0/c382736b58bfc9395b0e901b5b4bfadc.mp3*~data=user_id=0,application_id=42~hmac=4912a744b9a91e890af4701edbc4620ad5ecd407fa5c1833c9b21f1904a3741f",
+              "preview_expires": "2026-11-25T23:24:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Alboe/Malx.jpg"
+}

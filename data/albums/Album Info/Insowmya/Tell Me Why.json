@@ -1,0 +1,51 @@
+{
+  "title": "Tell Me Why",
+  "artist": "Insowmya",
+  "year": 2024,
+  "release_date": "2024-10-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2c3f11db-3f27-47be-92fd-fa418949d8cf",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/878043572"
+  },
+  "musicbrainz_id": "2c3f11db-3f27-47be-92fd-fa418949d8cf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d7f80c80-96c0-4a89-8d8a-18307310e33d",
+      "barcode": "8720766830742",
+      "title": "Tell Me Why",
+      "disambiguation": null,
+      "date": "2024-10-11",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tell Me Why",
+            "length": "3:15",
+            "deezer": {
+              "id": 3718380592,
+              "link": "https://www.deezer.com/track/3718380592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/a/0/72a5536302b64696f6acba4797700eb7.mp3?hdnea=exp=1795655278~acl=/api/1/1/7/2/a/0/72a5536302b64696f6acba4797700eb7.mp3*~data=user_id=0,application_id=42~hmac=d4383847e721d44a9e9528c70bd6f643194573e5ec0d226adb2e275a5a14e223",
+              "preview_expires": "2026-11-26T01:07:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Insowmya/Tell Me Why.jpg"
+}

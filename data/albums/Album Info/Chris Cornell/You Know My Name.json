@@ -1,0 +1,58 @@
+{
+  "title": "You Know My Name",
+  "artist": "Chris Cornell",
+  "year": 2006,
+  "release_date": "2006-11-13",
+  "type": "Single + Soundtrack",
+  "description": "\"You Know My Name\" is the theme song of the 2006 James Bond film Casino Royale, performed by American musician Chris Cornell, who wrote and produced it jointly with David Arnold, the film's composer. The track was leaked onto the internet on September 20, 2006, and later released as an official single on November 13, 2006 through Interscope Records. It was not included in the Casino Royale soundtrack, but appeared on Cornell's 2007 second solo album, Carry On.",
+  "genres": [
+    "alternative rock",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d8b09aa4-1ecd-4592-bb19-7d86bc2b5803",
+    "wikipedia": "https://en.wikipedia.org/wiki/You_Know_My_Name",
+    "allmusic": "https://www.allmusic.com/album/mw0000770670",
+    "discogs": "https://www.discogs.com/master/104865",
+    "wikidata": "https://www.wikidata.org/wiki/Q1636004",
+    "deezer": null
+  },
+  "musicbrainz_id": "d8b09aa4-1ecd-4592-bb19-7d86bc2b5803",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7195c10a-0e53-4ef6-a1c1-d0bb220ab56b",
+      "barcode": "0602498451878",
+      "title": "You Know My Name",
+      "disambiguation": null,
+      "date": "2006-11-13",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "You Know My Name",
+            "length": "4:03"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chris Cornell/You Know My Name.png"
+}

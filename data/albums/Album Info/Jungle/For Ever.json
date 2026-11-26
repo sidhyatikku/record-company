@@ -1,0 +1,202 @@
+{
+  "title": "For Ever",
+  "artist": "Jungle",
+  "year": 2018,
+  "release_date": "2018-09-14",
+  "type": "Album",
+  "description": "For Ever is the second studio album by British neo soul band, Jungle. The album was released on 14 September 2018 through XL Recordings. It is their final release for XL Recordings before the formation of their own label, Caiola Records, in 2021.",
+  "genres": [
+    "neo soul",
+    "funktronica",
+    "nu disco",
+    "smooth soul",
+    "synth funk"
+  ],
+  "tags": [
+    "neo soul",
+    "funktronica",
+    "nu disco",
+    "smooth soul",
+    "synth funk"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6cac3a96-2661-4d2b-a253-bef16a559616",
+    "wikipedia": "https://en.wikipedia.org/wiki/For_Ever_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003197433",
+    "discogs": "https://www.discogs.com/master/1421507",
+    "wikidata": "https://www.wikidata.org/wiki/Q60741312",
+    "deezer": "https://www.deezer.com/album/69962892"
+  },
+  "musicbrainz_id": "6cac3a96-2661-4d2b-a253-bef16a559616",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/71f14f0d-9b50-4e90-bdfa-5737df92fca8",
+      "barcode": "191404092750",
+      "title": "For Ever",
+      "disambiguation": null,
+      "date": "2018-09-14",
+      "country": null
+    },
+    "total_tracks": 13,
+    "total_length": "46:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Smile",
+            "length": "3:07",
+            "deezer": {
+              "id": 537271922,
+              "link": "https://www.deezer.com/track/537271922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a66175a180aeccdb6db2271d7498a05d.mp3?hdnea=exp=1795655785~acl=/api/1/1/a/6/6/0/a66175a180aeccdb6db2271d7498a05d.mp3*~data=user_id=0,application_id=42~hmac=5056d56ee8226628f40ed5a74d2e39b0d26a09ce60cbb15107a750ad582ef81c",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Heavy, California",
+            "length": "3:05",
+            "deezer": {
+              "id": 537271932,
+              "link": "https://www.deezer.com/track/537271932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/6/0/1462ee76ea6451dadafd6c0c44d889cd.mp3?hdnea=exp=1795655785~acl=/api/1/1/1/4/6/0/1462ee76ea6451dadafd6c0c44d889cd.mp3*~data=user_id=0,application_id=42~hmac=b39dd7276f73bada96c5d3d7c7b591306164be5857102bc177ef104c7b9310d3",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Beat 54 (All Good Now)",
+            "length": "4:07",
+            "deezer": {
+              "id": 537271942,
+              "link": "https://www.deezer.com/track/537271942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/8/0/6a82842fe87479d6445e7da1efb899dc.mp3?hdnea=exp=1795655785~acl=/api/1/1/6/a/8/0/6a82842fe87479d6445e7da1efb899dc.mp3*~data=user_id=0,application_id=42~hmac=6a7b3b47204f8676a6f283bc8d64ac47204e4f6c2918e8cc75d61396e944c265",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Cherry",
+            "length": "3:16",
+            "deezer": {
+              "id": 537271952,
+              "link": "https://www.deezer.com/track/537271952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/6/0/e26772516416742e9fabc20c8e9c020b.mp3?hdnea=exp=1795655785~acl=/api/1/1/e/2/6/0/e26772516416742e9fabc20c8e9c020b.mp3*~data=user_id=0,application_id=42~hmac=ff48729f60f3bce0f4aa7520af27b90239ece7a465a49ef644837c5c30f024f4",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Happy Man",
+            "length": "3:12",
+            "deezer": {
+              "id": 537271962,
+              "link": "https://www.deezer.com/track/537271962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/e/0/f1e760daae2478b31ea744e0d9108796.mp3?hdnea=exp=1795655785~acl=/api/1/1/f/1/e/0/f1e760daae2478b31ea744e0d9108796.mp3*~data=user_id=0,application_id=42~hmac=dd35c734be1abbfd70f4c97c9524cce42518dc6009415f4b98abed4cd249ef57",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Casio",
+            "length": "3:54",
+            "deezer": {
+              "id": 537271972,
+              "link": "https://www.deezer.com/track/537271972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/f/0/c2fe8778b3263f651908acb3c62aa275.mp3?hdnea=exp=1795655785~acl=/api/1/1/c/2/f/0/c2fe8778b3263f651908acb3c62aa275.mp3*~data=user_id=0,application_id=42~hmac=2ac40cb168d72e3266f42f7a0eafd4e26026eb87171e0d94d8b8d7a8e4680d63",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mama Oh No",
+            "length": "3:17",
+            "deezer": {
+              "id": 537271982,
+              "link": "https://www.deezer.com/track/537271982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/8/0/0c846a8d8b8a4cc82e16b8b1329c5dca.mp3?hdnea=exp=1795655785~acl=/api/1/1/0/c/8/0/0c846a8d8b8a4cc82e16b8b1329c5dca.mp3*~data=user_id=0,application_id=42~hmac=174a3589836897932f8cbb40f05491e7128e7c0a4666ab0b82017484ced0f64a",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "House in LA",
+            "length": "4:44",
+            "deezer": {
+              "id": 537271992,
+              "link": "https://www.deezer.com/track/537271992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/2/0/e72ac71535b8285b2faeae93c8e6e20b.mp3?hdnea=exp=1795655785~acl=/api/1/1/e/7/2/0/e72ac71535b8285b2faeae93c8e6e20b.mp3*~data=user_id=0,application_id=42~hmac=35c166c2a8337522741298949e3f9e52d41a287cd8e9007fa05bf2256ef57643",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Give Over",
+            "length": "3:33",
+            "deezer": {
+              "id": 537272002,
+              "link": "https://www.deezer.com/track/537272002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/2/0/c5273a891888aace20d469ec85a2f7bd.mp3?hdnea=exp=1795655785~acl=/api/1/1/c/5/2/0/c5273a891888aace20d469ec85a2f7bd.mp3*~data=user_id=0,application_id=42~hmac=2f0320b5d746baefcb4510f36833dbc5df56e82510b8a3bf6c6d80cb069f5ab5",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Cosurmyne",
+            "length": "3:40",
+            "deezer": {
+              "id": 537272012,
+              "link": "https://www.deezer.com/track/537272012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/2/0/8f2f79d88949c5db41194076dabd879e.mp3?hdnea=exp=1795655785~acl=/api/1/1/8/f/2/0/8f2f79d88949c5db41194076dabd879e.mp3*~data=user_id=0,application_id=42~hmac=68afe0346e5e000e8c28ee0807f503d8fc8f1b938ea3c4afd5a8ff28224b1628",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Home",
+            "length": "2:12",
+            "deezer": {
+              "id": 537272022,
+              "link": "https://www.deezer.com/track/537272022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/f/0/e4f34f70f5e42892883ecd469116242c.mp3?hdnea=exp=1795655785~acl=/api/1/1/e/4/f/0/e4f34f70f5e42892883ecd469116242c.mp3*~data=user_id=0,application_id=42~hmac=9347a7140b8ddb1cb405f939e4d665fe5af76682e1ea72e64a12032e85d7338a",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "(More and More) It Ain’t Easy",
+            "length": "3:12",
+            "deezer": {
+              "id": 537272032,
+              "link": "https://www.deezer.com/track/537272032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/a/0/76a5057a290f803b58e2cd9618549a18.mp3?hdnea=exp=1795655785~acl=/api/1/1/7/6/a/0/76a5057a290f803b58e2cd9618549a18.mp3*~data=user_id=0,application_id=42~hmac=a7ccb0b3518b601fad5762e3edd912455e094255392b689eecd1059d3d33f448",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Pray",
+            "length": "4:41",
+            "deezer": {
+              "id": 537272042,
+              "link": "https://www.deezer.com/track/537272042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/4/0/7243afb119fac3500abb89e304752abc.mp3?hdnea=exp=1795655785~acl=/api/1/1/7/2/4/0/7243afb119fac3500abb89e304752abc.mp3*~data=user_id=0,application_id=42~hmac=eff4a4a846e5ba9d24cd25389aa2126f7d13a5bc4172422fe82b089d83c2982b",
+              "preview_expires": "2026-11-26T01:16:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jungle/For Ever.png"
+}

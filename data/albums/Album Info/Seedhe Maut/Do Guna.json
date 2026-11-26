@@ -1,0 +1,51 @@
+{
+  "title": "Do Guna",
+  "artist": "Seedhe Maut",
+  "year": 2020,
+  "release_date": "2020-07-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/767d2d59-e4e6-4ce9-aba8-aa7e8ef29142",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/723686911"
+  },
+  "musicbrainz_id": "767d2d59-e4e6-4ce9-aba8-aa7e8ef29142",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9a90133d-eb00-4711-80b9-1f3d8c5cb9a9",
+      "barcode": "193436224895",
+      "title": "Do Guna",
+      "disambiguation": null,
+      "date": "2020-07-17",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Do Guna",
+            "length": "2:35",
+            "deezer": {
+              "id": 3267102801,
+              "link": "https://www.deezer.com/track/3267102801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/6/0/7963de2e7542ea0385802936961ce93c.mp3?hdnea=exp=1795720401~acl=/api/1/1/7/9/6/0/7963de2e7542ea0385802936961ce93c.mp3*~data=user_id=0,application_id=42~hmac=c0ffbc0fbc42cb9c0dcd6d91f5ce41e18551d5486cb4649e03f4eda5108ee8be",
+              "preview_expires": "2026-11-26T19:13:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Seedhe Maut/Do Guna.jpg"
+}

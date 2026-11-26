@@ -1,0 +1,138 @@
+{
+  "title": "Open Sesame",
+  "artist": "Freddie Hubbard",
+  "year": 1960,
+  "release_date": "1960",
+  "type": "Album",
+  "description": "Open Sesame is the debut album by then-22 years old jazz trumpeter Freddie Hubbard, recorded on June 19, 1960, by Rudy Van Gelder at his studio in Englewood Cliffs, New Jersey, and released on the Blue Note label in 1960 in mono as BLP 4040 and in stereo as BST 84040. It features performances by Hubbard, Tina Brooks, McCoy Tyner, Sam Jones and Clifford Jarvis. In 1988, Capitol Records issued it on compact disc with Michael Cuscuna as reissue producer and in 2001, they released a version remastered by Rudy Van Gelder.",
+  "genres": [
+    "jazz",
+    "hard bop"
+  ],
+  "tags": [
+    "jazz",
+    "hard bop",
+    "modal"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4953ba3d-e831-32d4-990d-fc01bc89f4a3",
+    "wikipedia": "https://en.wikipedia.org/wiki/Open_Sesame_(Freddie_Hubbard_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000213239",
+    "discogs": "https://www.discogs.com/master/177623",
+    "wikidata": "https://www.wikidata.org/wiki/Q2025755",
+    "deezer": "https://www.deezer.com/album/328674"
+  },
+  "musicbrainz_id": "4953ba3d-e831-32d4-990d-fc01bc89f4a3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/edfe0ac4-2e37-4f19-af43-478d72a7c49b",
+      "barcode": "00724349534155",
+      "title": "Open Sesame (The Rudy Van Gelder Edition)",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 8,
+    "total_length": "53:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Open Sesame",
+            "length": "7:12",
+            "deezer": {
+              "id": 3464669,
+              "link": "https://www.deezer.com/track/3464669",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a6669b7b5c01b745285616e1206449e2.mp3?hdnea=exp=1795654470~acl=/api/1/1/a/6/6/0/a6669b7b5c01b745285616e1206449e2.mp3*~data=user_id=0,application_id=42~hmac=197704ce955e81714b991aa14585c0b065a599de1f78a6cd516481ddb2387de1",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "But Beautiful",
+            "length": "6:27",
+            "deezer": {
+              "id": 3464670,
+              "link": "https://www.deezer.com/track/3464670",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/3/0/bd3bb04aff1fe520a0bc53ee0f5e45dc.mp3?hdnea=exp=1795654470~acl=/api/1/1/b/d/3/0/bd3bb04aff1fe520a0bc53ee0f5e45dc.mp3*~data=user_id=0,application_id=42~hmac=6e3dd39bf9944aa0d63b830cca0dbb47806bf38696dd0b9d4300156021849210",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gypsy Blue",
+            "length": "6:28",
+            "deezer": {
+              "id": 3464671,
+              "link": "https://www.deezer.com/track/3464671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/6/0/786719423e6a762381c84bc44ff4f6b4.mp3?hdnea=exp=1795654470~acl=/api/1/1/7/8/6/0/786719423e6a762381c84bc44ff4f6b4.mp3*~data=user_id=0,application_id=42~hmac=6b9f00610b9f63b08b2d71325ad799bf7ac4265fee01cec3f537722d597c299c",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "All or Nothing at All",
+            "length": "5:36",
+            "deezer": {
+              "id": 3464672,
+              "link": "https://www.deezer.com/track/3464672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/5/0/3a55d83f6d6471f6f156535663fe818d.mp3?hdnea=exp=1795654470~acl=/api/1/1/3/a/5/0/3a55d83f6d6471f6f156535663fe818d.mp3*~data=user_id=0,application_id=42~hmac=6c23382af0c10a1e53daa56f9c077dc92154ba8574c50e5896c1cb4e0b2619f3",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "One Mint Julep",
+            "length": "6:04",
+            "deezer": {
+              "id": 3464673,
+              "link": "https://www.deezer.com/track/3464673",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/6/0/2e6b3e4695ead55441505dd48721187a.mp3?hdnea=exp=1795654470~acl=/api/1/1/2/e/6/0/2e6b3e4695ead55441505dd48721187a.mp3*~data=user_id=0,application_id=42~hmac=0f9c78d04b58260a1ab661b104a8694f9681f7cbea69f6fbfe5c7c3adab23a34",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Hub’s Nub",
+            "length": "6:52",
+            "deezer": {
+              "id": 3464674,
+              "link": "https://www.deezer.com/track/3464674",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/b/0/23bb9debab818bc01dc78cead1ae9338.mp3?hdnea=exp=1795654470~acl=/api/1/1/2/3/b/0/23bb9debab818bc01dc78cead1ae9338.mp3*~data=user_id=0,application_id=42~hmac=8cdf4a192c43dd3571fa37cef61bb547172ef128581a79b09a9265bdee42dff7",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Open Sesame (alternate take)",
+            "length": "7:16",
+            "deezer": {
+              "id": 3464675,
+              "link": "https://www.deezer.com/track/3464675",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/7/0/b4733a4abf24bb42765a0ccdee96e56a.mp3?hdnea=exp=1795654470~acl=/api/1/1/b/4/7/0/b4733a4abf24bb42765a0ccdee96e56a.mp3*~data=user_id=0,application_id=42~hmac=b4c3f22c26345721208fb50033355a4c517d69c15c89dccb245ce46c48b608dc",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Gypsy Blue (alternate take)",
+            "length": "7:35",
+            "deezer": {
+              "id": 3464676,
+              "link": "https://www.deezer.com/track/3464676",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/f/0/3df5aeef59c4bb30f9f2992543651225.mp3?hdnea=exp=1795654470~acl=/api/1/1/3/d/f/0/3df5aeef59c4bb30f9f2992543651225.mp3*~data=user_id=0,application_id=42~hmac=8e14cf208ca6f94e183ce27fa5e8134ec469b50002c66958a7f286062be8c85a",
+              "preview_expires": "2026-11-26T00:54:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Freddie Hubbard/Open Sesame.jpg"
+}

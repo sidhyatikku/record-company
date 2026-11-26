@@ -1,0 +1,51 @@
+{
+  "title": "Stop This Flame",
+  "artist": "Celeste x MK",
+  "year": 2021,
+  "release_date": "2021-06-25",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ffa3d894-c46a-49e9-b903-cd00e5e38b92",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/239919492"
+  },
+  "musicbrainz_id": "ffa3d894-c46a-49e9-b903-cd00e5e38b92",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/140e89c6-04ae-4652-b4c7-912c8fab07b8",
+      "barcode": "00602438444052",
+      "title": "Stop This Flame",
+      "disambiguation": null,
+      "date": "2021-06-25",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stop This Flame",
+            "length": "3:24",
+            "deezer": {
+              "id": 1415410612,
+              "link": "https://www.deezer.com/track/1415410612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/a/0/a6a5607b15044fe90252a2f9e439cddf.mp3?hdnea=exp=1795652687~acl=/api/1/1/a/6/a/0/a6a5607b15044fe90252a2f9e439cddf.mp3*~data=user_id=0,application_id=42~hmac=1fd967691ee0335e511a61397b2f952955999a3411d876a848f25344d7a42cad",
+              "preview_expires": "2026-11-26T00:24:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Celeste/Stop This Flame (Celeste x MK).jpg"
+}

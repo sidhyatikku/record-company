@@ -1,0 +1,52 @@
+{
+  "title": "Kaleshi Chori",
+  "artist": "DG IMMORTALS",
+  "year": 2022,
+  "release_date": "2022-01-04",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a69163f6-f933-4543-82be-c54bcd8686e3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/395421627"
+  },
+  "musicbrainz_id": "a69163f6-f933-4543-82be-c54bcd8686e3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8bc56cea-85ee-4212-ab86-aa20bdec5e84",
+      "barcode": null,
+      "title": "Kaleshi Chori",
+      "disambiguation": null,
+      "date": "2022-01-04",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kaleshi Chori",
+            "length": "3:31",
+            "artist": "DG IMMORTALS feat. Raga, Harjas, DG, Dark Horse & Virtualaf",
+            "deezer": {
+              "id": 2104180477,
+              "link": "https://www.deezer.com/track/2104180477",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/d/0/e2d00839248097d281ba059701cd1206.mp3?hdnea=exp=1795653283~acl=/api/1/1/e/2/d/0/e2d00839248097d281ba059701cd1206.mp3*~data=user_id=0,application_id=42~hmac=56684ed56e6db0feec0afa96db0892fd4fac4d55af411da97e9db02cac35e841",
+              "preview_expires": "2026-11-26T00:34:43Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/DG IMMORTALS/KALESHI CHORI.jpg"
+}

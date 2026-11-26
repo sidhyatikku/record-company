@@ -1,0 +1,157 @@
+{
+  "title": "Nanku Sharma",
+  "artist": "Nanku",
+  "year": 2020,
+  "release_date": "2020-07-15",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0a5802e5-3d9c-4a9b-a314-48734b539ca1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/654839641"
+  },
+  "musicbrainz_id": "0a5802e5-3d9c-4a9b-a314-48734b539ca1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d64d9b52-1314-415b-9b45-db181d567eb5",
+      "barcode": "0195396106136",
+      "title": "Nanku Sharma",
+      "disambiguation": null,
+      "date": "2020-07-15",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "33:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Aajkal",
+            "length": "1:39",
+            "artist": "Nanku & Natiq",
+            "deezer": {
+              "id": 3039472961,
+              "link": "https://www.deezer.com/track/3039472961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/2/0/942fedc7c23c6d4995b086185dae17f2.mp3?hdnea=exp=1795718702~acl=/api/1/1/9/4/2/0/942fedc7c23c6d4995b086185dae17f2.mp3*~data=user_id=0,application_id=42~hmac=4ed8102048b0823f467b647b53b303ca65b51600b7e5c8be357e16174bb56f01",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Kehna",
+            "length": "2:00",
+            "artist": "Nanku & toorjo dey",
+            "deezer": {
+              "id": 3039472971,
+              "link": "https://www.deezer.com/track/3039472971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/2/0/b92091bdd65a4dc098f907d9c845c30f.mp3?hdnea=exp=1795718702~acl=/api/1/1/b/9/2/0/b92091bdd65a4dc098f907d9c845c30f.mp3*~data=user_id=0,application_id=42~hmac=2810366fe425cb4bbfdf22f22d02c3d96039f995afa72b7d9f5cfab0b17056bb",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "5mins",
+            "length": "2:31",
+            "deezer": {
+              "id": 3039472981,
+              "link": "https://www.deezer.com/track/3039472981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/f/0/daf75c4f6160f4b4296ba6f094a85613.mp3?hdnea=exp=1795718702~acl=/api/1/1/d/a/f/0/daf75c4f6160f4b4296ba6f094a85613.mp3*~data=user_id=0,application_id=42~hmac=c430fe35379783b2400375e9333e0a2e830b9b345db204a4f0c0a1c4bab9007e",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kaafizyada",
+            "length": "2:44",
+            "deezer": {
+              "id": 3039473001,
+              "link": "https://www.deezer.com/track/3039473001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/a/0/a8ae72ee347081e0c1d3508bc362749e.mp3?hdnea=exp=1795718702~acl=/api/1/1/a/8/a/0/a8ae72ee347081e0c1d3508bc362749e.mp3*~data=user_id=0,application_id=42~hmac=d5f92142d1eac2f42f76b0c32c1a03c1978e3638c31351b4d0409604d767982b",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Nanku",
+            "length": "1:08",
+            "artist": "Nanku & toorjo dey",
+            "deezer": {
+              "id": 3039473011,
+              "link": "https://www.deezer.com/track/3039473011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/c/0/b7ca9fc7be6e8ec37f2e860463d7f114.mp3?hdnea=exp=1795718702~acl=/api/1/1/b/7/c/0/b7ca9fc7be6e8ec37f2e860463d7f114.mp3*~data=user_id=0,application_id=42~hmac=e8cf3a2fef5c6ef0ad09a3f67622566f857b18612605281268156f3650f0ee6b",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Abtak",
+            "length": "4:21",
+            "artist": "Nanku & toorjo dey",
+            "deezer": {
+              "id": 3039473021,
+              "link": "https://www.deezer.com/track/3039473021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/4/0/fc49e8371a4b615400d01158c22e7dde.mp3?hdnea=exp=1795718702~acl=/api/1/1/f/c/4/0/fc49e8371a4b615400d01158c22e7dde.mp3*~data=user_id=0,application_id=42~hmac=a7ed4e3f92da191b44086b13507790d63a9fd94a2a56803df82e72833779da14",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Sabkuch",
+            "length": "5:27",
+            "artist": "Nanku & toorjo dey",
+            "deezer": {
+              "id": 3039473031,
+              "link": "https://www.deezer.com/track/3039473031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/5/0/4a500b3a92b530ed8d1c3cdfe32de93d.mp3?hdnea=exp=1795718702~acl=/api/1/1/4/a/5/0/4a500b3a92b530ed8d1c3cdfe32de93d.mp3*~data=user_id=0,application_id=42~hmac=6d73bf1cc2ae1f570f2d748b78e9c7870bab1d9bd9b747ae45cc850bd8f7f46e",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Jeenedo",
+            "length": "3:40",
+            "deezer": {
+              "id": 3039473041,
+              "link": "https://www.deezer.com/track/3039473041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/9/0/639098faba8279f8c3084e36979730ee.mp3?hdnea=exp=1795718702~acl=/api/1/1/6/3/9/0/639098faba8279f8c3084e36979730ee.mp3*~data=user_id=0,application_id=42~hmac=0ec20a84b8fc884b5dbddae448964c2549e53397269e9d22c81cca54a28fc47e",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Doori",
+            "length": "5:27",
+            "artist": "Nanku & toorjo dey",
+            "deezer": {
+              "id": 3039473071,
+              "link": "https://www.deezer.com/track/3039473071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/2/0/db21b6ef31c81d79b9c95ea222d58c8b.mp3?hdnea=exp=1795718702~acl=/api/1/1/d/b/2/0/db21b6ef31c81d79b9c95ea222d58c8b.mp3*~data=user_id=0,application_id=42~hmac=261664ccbf620c7fdf3e030f78bd6da7e28977425865f06fae81c9871ccf8680",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Jaanekya",
+            "length": "4:06",
+            "artist": "Nanku & HVSH",
+            "deezer": {
+              "id": 3039473081,
+              "link": "https://www.deezer.com/track/3039473081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/2/0/d7223463ae24be4685e703165f498824.mp3?hdnea=exp=1795718702~acl=/api/1/1/d/7/2/0/d7223463ae24be4685e703165f498824.mp3*~data=user_id=0,application_id=42~hmac=3856863b738b8467b43d9ba29dff6a482b2f4798b6877b223a63edbed13146d4",
+              "preview_expires": "2026-11-26T18:45:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nanku/Nanku Sharma.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Hurt",
+  "artist": "AFKAP, Raga, Zero Chill",
+  "year": 2025,
+  "release_date": "2025-08-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6UEvm5vUjUmS9Jd9fasEMD",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6UEvm5vUjUmS9Jd9fasEMD",
+      "title": "Hurt",
+      "date": "2025-08-19"
+    },
+    "total_tracks": 1,
+    "total_length": "2:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hurt",
+            "length": "2:51"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/AFKAP/Hurt.jpg"
+}

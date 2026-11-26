@@ -1,0 +1,55 @@
+{
+  "title": "Yeah the Girls",
+  "artist": "FISHER ft. MERYLL",
+  "year": 2022,
+  "release_date": "2022-09-02",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "tech house"
+  ],
+  "tags": [
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9efc27f0-be7a-4871-8554-f4ccbc208e34",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/607358882"
+  },
+  "musicbrainz_id": "9efc27f0-be7a-4871-8554-f4ccbc208e34",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/06a2a78e-7adb-437d-a87f-d98f9cdff27c",
+      "barcode": "193436300094",
+      "title": "Yeah the Girls",
+      "disambiguation": null,
+      "date": "2022-09-02",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "3:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Yeah the Girls",
+            "length": "3:14",
+            "deezer": {
+              "id": 2865642182,
+              "link": "https://www.deezer.com/track/2865642182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/6/0/e56df3c66b67d4398e959a0a9b79486d.mp3?hdnea=exp=1795654220~acl=/api/1/1/e/5/6/0/e56df3c66b67d4398e959a0a9b79486d.mp3*~data=user_id=0,application_id=42~hmac=9fd42cfeb2b13252b84d88ba0a215062801d431054b60cba9ff75b02b2420754",
+              "preview_expires": "2026-11-26T00:50:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/FISHER/Yeah The Girls.png"
+}

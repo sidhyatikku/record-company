@@ -1,0 +1,84 @@
+{
+  "title": "Rascal",
+  "artist": "Mall Grab",
+  "year": 2023,
+  "release_date": "2023-10-05",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f9d09c4f-4644-4658-aced-9bb31a888241",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/993060381"
+  },
+  "musicbrainz_id": "f9d09c4f-4644-4658-aced-9bb31a888241",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ed791e42-017e-4d3a-b9e1-f5c4be700f9b",
+      "barcode": "00044003397972",
+      "title": "Rascal",
+      "disambiguation": null,
+      "date": "2023-10-05",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "19:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Foxes",
+            "length": "4:16",
+            "deezer": {
+              "id": 4049987341,
+              "link": "https://www.deezer.com/track/4049987341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/8/0/6d8cc1a0b2e03bf96c91ff232949b38f.mp3?hdnea=exp=1795718205~acl=/api/1/1/6/d/8/0/6d8cc1a0b2e03bf96c91ff232949b38f.mp3*~data=user_id=0,application_id=42~hmac=e32ae4fd442630f7d09322f26a3148d220232c4ca644ff66c6d7c1a505e1318a",
+              "preview_expires": "2026-11-26T18:36:45Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Workout",
+            "length": "5:28",
+            "deezer": {
+              "id": 4049987351,
+              "link": "https://www.deezer.com/track/4049987351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/a/0/03a51a4796e34ded0b772d58c4200821.mp3?hdnea=exp=1795718205~acl=/api/1/1/0/3/a/0/03a51a4796e34ded0b772d58c4200821.mp3*~data=user_id=0,application_id=42~hmac=a8e8872f656d3ab63c750ec609cf205ac7e34fe13f8c2e4588a0d31b5cffb838",
+              "preview_expires": "2026-11-26T18:36:45Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Everything",
+            "length": "5:33",
+            "deezer": {
+              "id": 4049987361,
+              "link": "https://www.deezer.com/track/4049987361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/2/0/9f2b1b0c2c979b129948fce135b9123c.mp3?hdnea=exp=1795718205~acl=/api/1/1/9/f/2/0/9f2b1b0c2c979b129948fce135b9123c.mp3*~data=user_id=0,application_id=42~hmac=2ab9cfe2072bf6e8c8ecc9476786aaf68638d5461fb2dbdf9c17d7c50fb67502",
+              "preview_expires": "2026-11-26T18:36:45Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dive",
+            "length": "4:18",
+            "deezer": {
+              "id": 4049987371,
+              "link": "https://www.deezer.com/track/4049987371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/0/0/1d0afbfd26049d4da8b41e417535e3d3.mp3?hdnea=exp=1795718205~acl=/api/1/1/1/d/0/0/1d0afbfd26049d4da8b41e417535e3d3.mp3*~data=user_id=0,application_id=42~hmac=897caeedf1a4a216fc5cea01ce2f657282bdcfdd4996c9882a106db052a813f0",
+              "preview_expires": "2026-11-26T18:36:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mall Grab/Rascal.jpg"
+}

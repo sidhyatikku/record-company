@@ -1,0 +1,51 @@
+{
+  "title": "Welcome to Brixton",
+  "artist": "SR",
+  "year": 2020,
+  "release_date": "2020-11-27",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/759dd1e1-99b4-48ec-8834-a4f5bbfb1fac",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/185888162"
+  },
+  "musicbrainz_id": "759dd1e1-99b4-48ec-8834-a4f5bbfb1fac",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5a01a021-a9d2-459c-a214-800073de7390",
+      "barcode": "5059435959907",
+      "title": "Welcome to Brixton",
+      "disambiguation": null,
+      "date": "2020-11-27",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Welcome to Brixton",
+            "length": "3:00",
+            "deezer": {
+              "id": 1140087992,
+              "link": "https://www.deezer.com/track/1140087992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/8/0/b180dc55a1a8e78b918a7f781a9f235c.mp3?hdnea=exp=1795720910~acl=/api/1/1/b/1/8/0/b180dc55a1a8e78b918a7f781a9f235c.mp3*~data=user_id=0,application_id=42~hmac=d3379922a67af559d84f90471a50c3cc4c0bdc02ebee8823e8b469a10ba23699",
+              "preview_expires": "2026-11-26T19:21:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/SR/Welcome To Brixton.jpg"
+}

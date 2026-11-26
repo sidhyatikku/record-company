@@ -1,0 +1,307 @@
+{
+  "title": "Souvlaki",
+  "artist": "Slowdive",
+  "year": 1993,
+  "release_date": "1993-06-01",
+  "type": "Album",
+  "description": "Souvlaki is the second studio album by the English alternative rock band Slowdive. It was recorded in 1992, and released on 1 June 1993 through Creation Records.",
+  "genres": [
+    "shoegaze",
+    "dream pop",
+    "alternative rock",
+    "ambient",
+    "psychedelic",
+    "rock"
+  ],
+  "tags": [
+    "shoegaze",
+    "dream pop",
+    "alternative rock",
+    "ambient",
+    "atmospheric",
+    "autumn",
+    "bittersweet",
+    "breakup",
+    "bright",
+    "cannabis",
+    "dense",
+    "drugs",
+    "ethereal",
+    "female vocalist",
+    "hazy",
+    "hypnotic",
+    "introspective",
+    "lethargic",
+    "lonely",
+    "longing",
+    "love",
+    "lush",
+    "male vocalist",
+    "melancholic",
+    "mellow",
+    "melodic",
+    "nostalgia",
+    "poetic",
+    "psychedelic",
+    "regret",
+    "rock",
+    "romantic",
+    "sad",
+    "sentimental",
+    "soothing",
+    "warm"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 12
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/46482030-ef12-319c-9c5a-5d04c39d574b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Souvlaki_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000622910",
+    "discogs": "https://www.discogs.com/master/9478",
+    "wikidata": "https://www.wikidata.org/wiki/Q1582736",
+    "deezer": "https://www.deezer.com/album/700938"
+  },
+  "musicbrainz_id": "46482030-ef12-319c-9c5a-5d04c39d574b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b74eed9d-6cbb-4587-89a3-6c47d289e502",
+      "barcode": "884977791648",
+      "title": "Souvlaki",
+      "disambiguation": null,
+      "date": "2010-11-05",
+      "country": "XW"
+    },
+    "total_tracks": 19,
+    "total_length": "1:29:59",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Alison",
+            "length": "3:53",
+            "deezer": {
+              "id": 7599569,
+              "link": "https://www.deezer.com/track/7599569",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/e/0/87e5c753d8d7ec32ec357953b4d1accd.mp3?hdnea=exp=1795720767~acl=/api/1/1/8/7/e/0/87e5c753d8d7ec32ec357953b4d1accd.mp3*~data=user_id=0,application_id=42~hmac=a0a1a0ca31cd5d429224794680889dce6f3aa8d941df7a2e0aba30fa816a9a9e",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Machine Gun",
+            "length": "4:29",
+            "deezer": {
+              "id": 7599570,
+              "link": "https://www.deezer.com/track/7599570",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/57197d3f840e0ddc3fc2fd8859fbbd1a.mp3?hdnea=exp=1795720767~acl=/api/1/1/5/7/1/0/57197d3f840e0ddc3fc2fd8859fbbd1a.mp3*~data=user_id=0,application_id=42~hmac=096580cb1000aa60552bb23483819623e4568f1dc229f258fb22ab083afb6020",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "40 Days",
+            "length": "3:16",
+            "deezer": {
+              "id": 7599571,
+              "link": "https://www.deezer.com/track/7599571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/d/0/c6de0b78bdd782eb27521a6920ace232.mp3?hdnea=exp=1795720767~acl=/api/1/1/c/6/d/0/c6de0b78bdd782eb27521a6920ace232.mp3*~data=user_id=0,application_id=42~hmac=05b671466ef3fd9b8756715b3829230bb5d16181891eb86ff2e39da51d9abfe7",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sing",
+            "length": "4:51",
+            "deezer": {
+              "id": 7599572,
+              "link": "https://www.deezer.com/track/7599572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/a/0/d1ae95d32ef3d4a5be405247fa352fa4.mp3?hdnea=exp=1795720767~acl=/api/1/1/d/1/a/0/d1ae95d32ef3d4a5be405247fa352fa4.mp3*~data=user_id=0,application_id=42~hmac=aa1825604a859e98b3f21b27d11898d3e21ec46c7b6704a480dbdd1280a582f2",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Here She Comes",
+            "length": "2:20",
+            "deezer": {
+              "id": 7599573,
+              "link": "https://www.deezer.com/track/7599573",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/4/0/ee4bb842e71341dc4c4061da57969b43.mp3?hdnea=exp=1795720767~acl=/api/1/1/e/e/4/0/ee4bb842e71341dc4c4061da57969b43.mp3*~data=user_id=0,application_id=42~hmac=97ee79ac21f859af90ad5419fe525bc6402c113bc18858ac603653c2f42a4827",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Souvlaki Space Station",
+            "length": "5:59",
+            "deezer": {
+              "id": 7599574,
+              "link": "https://www.deezer.com/track/7599574",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/a/0/d0a2ed767ac0a47136663300ec00f1eb.mp3?hdnea=exp=1795720767~acl=/api/1/1/d/0/a/0/d0a2ed767ac0a47136663300ec00f1eb.mp3*~data=user_id=0,application_id=42~hmac=11921d5bd62e9e8bb29470771ee915128bd39129e5b781f3047471a30bc70b8f",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "When the Sun Hits",
+            "length": "4:48",
+            "deezer": {
+              "id": 7599575,
+              "link": "https://www.deezer.com/track/7599575",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/2/0/4127ae38266d506f4562fbeaf3b8c9d6.mp3?hdnea=exp=1795720767~acl=/api/1/1/4/1/2/0/4127ae38266d506f4562fbeaf3b8c9d6.mp3*~data=user_id=0,application_id=42~hmac=3c9e992b4484242efdd33c658f4d48dd6b4a9771d4c121933299667931985ce9",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Altogether",
+            "length": "3:43",
+            "deezer": {
+              "id": 7599576,
+              "link": "https://www.deezer.com/track/7599576",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f608f44402f011a39a3c3be37250482e.mp3?hdnea=exp=1795720767~acl=/api/1/1/f/6/0/0/f608f44402f011a39a3c3be37250482e.mp3*~data=user_id=0,application_id=42~hmac=379d9a5c908f4a95450fde96b254a2f68636a650fa0718a023b06c5c8e2a3f13",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Melon Yellow",
+            "length": "3:54",
+            "deezer": {
+              "id": 7599577,
+              "link": "https://www.deezer.com/track/7599577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/8/0/e683cbba70994c35da334a14eee72783.mp3?hdnea=exp=1795720767~acl=/api/1/1/e/6/8/0/e683cbba70994c35da334a14eee72783.mp3*~data=user_id=0,application_id=42~hmac=cacb53c9a369c7175493d2a278042a263cc5ed9bb01bf6acbc663693077060cb",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dagger",
+            "length": "3:35",
+            "deezer": {
+              "id": 7599578,
+              "link": "https://www.deezer.com/track/7599578",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/4/0/d84a2ebe5f5fa7aa6cd1b5e12775956c.mp3?hdnea=exp=1795720767~acl=/api/1/1/d/8/4/0/d84a2ebe5f5fa7aa6cd1b5e12775956c.mp3*~data=user_id=0,application_id=42~hmac=3ee67a4e353b3a9c77c10610331a102c48dc4a42889bbe416131a3810f25919b",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Some Velvet Morning",
+            "length": "3:23",
+            "deezer": {
+              "id": 7599579,
+              "link": "https://www.deezer.com/track/7599579",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/4/0/6d46d85b3bf6084dbd506815febb3637.mp3?hdnea=exp=1795720767~acl=/api/1/1/6/d/4/0/6d46d85b3bf6084dbd506815febb3637.mp3*~data=user_id=0,application_id=42~hmac=478776c0bbda9fee234c9578cd4e4c955d85da9da825b522aae73df420a5aa2c",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "So Tired (single version)",
+            "length": "4:04",
+            "deezer": {
+              "id": 7599580,
+              "link": "https://www.deezer.com/track/7599580",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/8/0/4a89424939eca22e10e5b2b6235dccc6.mp3?hdnea=exp=1795720767~acl=/api/1/1/4/a/8/0/4a89424939eca22e10e5b2b6235dccc6.mp3*~data=user_id=0,application_id=42~hmac=f1efd6c5962db4337c2ef5d07031025fcba9acaac5cf2480d8ca317d208691c0",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Moussaka Chaos (single version)",
+            "length": "6:25",
+            "deezer": {
+              "id": 7599581,
+              "link": "https://www.deezer.com/track/7599581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/6/0/a96622d6d9863b6c86ad4ccd1443f312.mp3?hdnea=exp=1795720767~acl=/api/1/1/a/9/6/0/a96622d6d9863b6c86ad4ccd1443f312.mp3*~data=user_id=0,application_id=42~hmac=09405f1703ea3f862bdafa738b1b3819109dbe3b5cf380d5a85026bdafed282e",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "In Mind (single version)",
+            "length": "3:46",
+            "deezer": {
+              "id": 7599582,
+              "link": "https://www.deezer.com/track/7599582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/2/0/ec2cac1b70033424e75ba9fb239224d3.mp3?hdnea=exp=1795720767~acl=/api/1/1/e/c/2/0/ec2cac1b70033424e75ba9fb239224d3.mp3*~data=user_id=0,application_id=42~hmac=f809939ad47e5d8d55726f324e7fcfdc2a2d8812d1709f2d47e3733a490ab495",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Good Day Sunshine (single version)",
+            "length": "5:09",
+            "deezer": {
+              "id": 7599583,
+              "link": "https://www.deezer.com/track/7599583",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/5/0/865681c1f537dc0ea233de911f880c96.mp3?hdnea=exp=1795720767~acl=/api/1/1/8/6/5/0/865681c1f537dc0ea233de911f880c96.mp3*~data=user_id=0,application_id=42~hmac=3f2fadcb89612dc52e67fbe76edaba3b101b8a97c6009415b156eca21fc8e5e1",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Missing You (single version)",
+            "length": "4:16",
+            "deezer": {
+              "id": 7599584,
+              "link": "https://www.deezer.com/track/7599584",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/0/0/d40b97fdc7f8b923295ca0b4c7958392.mp3?hdnea=exp=1795720767~acl=/api/1/1/d/4/0/0/d40b97fdc7f8b923295ca0b4c7958392.mp3*~data=user_id=0,application_id=42~hmac=9f9cc34fdffa8c605788bb8160161fd2488a5a7bc192684c5910a169fecc2b3f",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Country Rain (single version)",
+            "length": "3:35",
+            "deezer": {
+              "id": 7599585,
+              "link": "https://www.deezer.com/track/7599585",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/1/0/3a1bc7f8c47957648dde6c65871e01f7.mp3?hdnea=exp=1795720767~acl=/api/1/1/3/a/1/0/3a1bc7f8c47957648dde6c65871e01f7.mp3*~data=user_id=0,application_id=42~hmac=11a1baf3bd1b18cdd3f667d5daff2332fc39119f9273380f509598e60ec91354",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "In Mind (Bandulu remix Out Mind)",
+            "length": "8:06",
+            "deezer": {
+              "id": 7599586,
+              "link": "https://www.deezer.com/track/7599586",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/0/0/d7081aa579912ebe450039847a8ab75f.mp3?hdnea=exp=1795720767~acl=/api/1/1/d/7/0/0/d7081aa579912ebe450039847a8ab75f.mp3*~data=user_id=0,application_id=42~hmac=0549f964e3a956613b5cce976c1a1ad6d7af16320877397aa47ef9eeb9524c3c",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "In Mind (Reload remix the 147 take)",
+            "length": "10:27",
+            "deezer": {
+              "id": 7599587,
+              "link": "https://www.deezer.com/track/7599587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/f/0/8eff715a2d957f7a747a601bfa2750b2.mp3?hdnea=exp=1795720767~acl=/api/1/1/8/e/f/0/8eff715a2d957f7a747a601bfa2750b2.mp3*~data=user_id=0,application_id=42~hmac=5f4e13e35067f0aaf99d05f4011a0f1cb2dc1cf6d11086676de9befefaec01a9",
+              "preview_expires": "2026-11-26T19:19:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Slowdive/Souvlaki.jpg"
+}

@@ -1,0 +1,183 @@
+{
+  "title": "…and Then I Wrote",
+  "artist": "Willie Nelson",
+  "year": 1962,
+  "release_date": "1962-09",
+  "type": "Album",
+  "description": "...And Then I Wrote is the debut studio album by country singer Willie Nelson, recorded during August and September 1962 and released through Liberty Records.",
+  "genres": [
+    "country"
+  ],
+  "tags": [
+    "country"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/783a13fa-4bd8-3310-bd74-ddca9c373dbe",
+    "wikipedia": "https://en.wikipedia.org/wiki/...And_Then_I_Wrote",
+    "allmusic": "https://www.allmusic.com/album/mw0000126628",
+    "discogs": "https://www.discogs.com/master/660571",
+    "wikidata": "https://www.wikidata.org/wiki/Q4187065",
+    "deezer": "https://www.deezer.com/album/10089842"
+  },
+  "musicbrainz_id": "783a13fa-4bd8-3310-bd74-ddca9c373dbe",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d0da4872-3dc8-401e-ac79-1d37a8e0868c",
+      "barcode": "00602547322821",
+      "title": "…and Then I Wrote",
+      "disambiguation": null,
+      "date": "2015-05-04",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "31:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Touch Me",
+            "length": "2:16",
+            "deezer": {
+              "id": 98709922,
+              "link": "https://www.deezer.com/track/98709922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/d/0/d3d191ba76a626e127d399440a344bb0.mp3?hdnea=exp=1795724336~acl=/api/1/1/d/3/d/0/d3d191ba76a626e127d399440a344bb0.mp3*~data=user_id=0,application_id=42~hmac=6f68d5642a423ec70fbf35cabd909a3ba508e426fdfcb85d4c7ed33e16ea0ae3",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Wake Me When It’s Over",
+            "length": "2:51",
+            "deezer": {
+              "id": 98709924,
+              "link": "https://www.deezer.com/track/98709924",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/5/0/d25036750915acd4b8722c985c5a432d.mp3?hdnea=exp=1795724336~acl=/api/1/1/d/2/5/0/d25036750915acd4b8722c985c5a432d.mp3*~data=user_id=0,application_id=42~hmac=f31b40031b7f55547e2648490ebc6dde4278a6384db108e5f0de22edd191c75c",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hello Walls",
+            "length": "2:26",
+            "deezer": {
+              "id": 98709926,
+              "link": "https://www.deezer.com/track/98709926",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f24d28b5c464e8156b8394768816a1da.mp3?hdnea=exp=1795724336~acl=/api/1/1/f/2/4/0/f24d28b5c464e8156b8394768816a1da.mp3*~data=user_id=0,application_id=42~hmac=b97289eae5a287394fdb5c01d77b1c529cfbd6c47e69f2048b615b6ed88f4651",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Funny How Time Slips Away",
+            "length": "3:05",
+            "deezer": {
+              "id": 98709928,
+              "link": "https://www.deezer.com/track/98709928",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/6/0/6665c899a5dbbefc736f7e6f785ecb69.mp3?hdnea=exp=1795724336~acl=/api/1/1/6/6/6/0/6665c899a5dbbefc736f7e6f785ecb69.mp3*~data=user_id=0,application_id=42~hmac=239078f8c4783694835cebe792dfcf9d926344f70d1889902c42518ecff33e65",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Crazy",
+            "length": "2:53",
+            "deezer": {
+              "id": 98709930,
+              "link": "https://www.deezer.com/track/98709930",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/5/0/e151ff9f1c2995a4eca94ec4b6ab8071.mp3?hdnea=exp=1795724336~acl=/api/1/1/e/1/5/0/e151ff9f1c2995a4eca94ec4b6ab8071.mp3*~data=user_id=0,application_id=42~hmac=9d1125dec188a643fe562b278526116c3e161c0b77e6ffd0f49a7b7b1fa3ae38",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Part Where I Cry",
+            "length": "2:22",
+            "deezer": {
+              "id": 98709932,
+              "link": "https://www.deezer.com/track/98709932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/3/0/1c39a875041124dfb211158ef54cdb8f.mp3?hdnea=exp=1795724336~acl=/api/1/1/1/c/3/0/1c39a875041124dfb211158ef54cdb8f.mp3*~data=user_id=0,application_id=42~hmac=6490ee61be2890ef18a1387afcb8591710501f801779da6b3ef07b5fcc6cb66a",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mr. Record Man",
+            "length": "2:47",
+            "deezer": {
+              "id": 98709934,
+              "link": "https://www.deezer.com/track/98709934",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/d/0/c5dec0c6a837943f4c6dcc7fdf39e89a.mp3?hdnea=exp=1795724336~acl=/api/1/1/c/5/d/0/c5dec0c6a837943f4c6dcc7fdf39e89a.mp3*~data=user_id=0,application_id=42~hmac=ec33b9144634ac6d78b595f5a6a7de88be1cd35f050d339a0d72ee6423efa2a2",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Three Days",
+            "length": "2:59",
+            "deezer": {
+              "id": 98709936,
+              "link": "https://www.deezer.com/track/98709936",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/3/0/b3340d3573083403d7419baf2650741e.mp3?hdnea=exp=1795724336~acl=/api/1/1/b/3/3/0/b3340d3573083403d7419baf2650741e.mp3*~data=user_id=0,application_id=42~hmac=4c09cbd6e675bdab7f7e260808cc45b331ce1f9cd7ca098c44c7c9b8251a679d",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "One Step Beyond",
+            "length": "2:27",
+            "deezer": {
+              "id": 98709938,
+              "link": "https://www.deezer.com/track/98709938",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/4/0/414ac30e763b45c667d5e04c8b8e72d5.mp3?hdnea=exp=1795724336~acl=/api/1/1/4/1/4/0/414ac30e763b45c667d5e04c8b8e72d5.mp3*~data=user_id=0,application_id=42~hmac=c9c4d561f6ba0ef23c6b7a78c56744cb3a99dda45ddc251478631885ea09c7a6",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Undo the Right",
+            "length": "2:35",
+            "deezer": {
+              "id": 98709940,
+              "link": "https://www.deezer.com/track/98709940",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/4/0/304e1c80cd4c6def792ba9b304db6d6f.mp3?hdnea=exp=1795724336~acl=/api/1/1/3/0/4/0/304e1c80cd4c6def792ba9b304db6d6f.mp3*~data=user_id=0,application_id=42~hmac=77422f6807de6ff8cdc9dea2bed54b4fece12419fa631bd18bca22a76ec6f8fa",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Darkness on the Face of the Earth",
+            "length": "2:33",
+            "deezer": {
+              "id": 98709942,
+              "link": "https://www.deezer.com/track/98709942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/1/0/d613fc412d3739987d1d41d875e85b89.mp3?hdnea=exp=1795724336~acl=/api/1/1/d/6/1/0/d613fc412d3739987d1d41d875e85b89.mp3*~data=user_id=0,application_id=42~hmac=cb6c8ee509c79b14c71daa3dc8667749ee2915213e31e079b4a003ba53df95af",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Where My House Lives",
+            "length": "2:22",
+            "deezer": {
+              "id": 98709944,
+              "link": "https://www.deezer.com/track/98709944",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/9/0/bb91a078b9e22ad9cbbb105abc3d0294.mp3?hdnea=exp=1795724336~acl=/api/1/1/b/b/9/0/bb91a078b9e22ad9cbbb105abc3d0294.mp3*~data=user_id=0,application_id=42~hmac=aacc41c5b1eca288d35a3e35f342302014685cbe015173acecdb4c7e005dff2f",
+              "preview_expires": "2026-11-26T20:18:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Willie Nelson/And Then I Wrote.jpg"
+}

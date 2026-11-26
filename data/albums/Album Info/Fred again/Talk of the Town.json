@@ -1,0 +1,59 @@
+{
+  "title": "Talk of the Town",
+  "artist": "Fred again.., Sammy Virji & Reggie",
+  "year": 2025,
+  "release_date": "2025-11-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bassline",
+    "dutch house",
+    "house"
+  ],
+  "tags": [
+    "bassline",
+    "dutch house",
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/97be0c30-d3f2-4c9b-824e-4601229c00df",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/849461672"
+  },
+  "musicbrainz_id": "97be0c30-d3f2-4c9b-824e-4601229c00df",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/23ba9766-4777-4eba-b629-b3a7823fd4ed",
+      "barcode": "5026854191539",
+      "title": "Talk of the Town",
+      "disambiguation": null,
+      "date": "2025-11-03",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Talk of the Town",
+            "length": "3:14",
+            "deezer": {
+              "id": 3635565332,
+              "link": "https://www.deezer.com/track/3635565332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/b/0/9fbba30501be438b3a201a415d0b2d18.mp3?hdnea=exp=1795654458~acl=/api/1/1/9/f/b/0/9fbba30501be438b3a201a415d0b2d18.mp3*~data=user_id=0,application_id=42~hmac=f1dac349cc5cb73da16740cc0c63baea9677e2f1dd228ac244908346e58ce679",
+              "preview_expires": "2026-11-26T00:54:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Fred again/Talk of the Town.jpg"
+}

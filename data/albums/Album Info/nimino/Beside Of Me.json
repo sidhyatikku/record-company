@@ -1,0 +1,75 @@
+{
+  "title": "Beside of Me",
+  "artist": "nimino & Maverick Sabre",
+  "year": 2025,
+  "release_date": "2025-06-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/58cbba49-e3d1-4a51-924a-f4777f1aff7d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/767817231"
+  },
+  "musicbrainz_id": "58cbba49-e3d1-4a51-924a-f4777f1aff7d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/66d17593-5578-4b9e-9b95-d1576b746315",
+      "barcode": "5054429205268",
+      "title": "Beside of Me",
+      "disambiguation": null,
+      "date": "2025-06-16",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "10:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beside of Me",
+            "length": "3:27",
+            "deezer": {
+              "id": 3400540721,
+              "link": "https://www.deezer.com/track/3400540721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/9/0/5d9eadf5fee8f55f9bdbd377bc873643.mp3?hdnea=exp=1795718926~acl=/api/1/1/5/d/9/0/5d9eadf5fee8f55f9bdbd377bc873643.mp3*~data=user_id=0,application_id=42~hmac=c41575dc5f9fb2b008239ca1715459b97a1e0fcee3bafde7c880c9bdee3f0e04",
+              "preview_expires": "2026-11-26T18:48:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Only Smoke When I Drink",
+            "length": "3:18",
+            "artist": "nimino",
+            "deezer": {
+              "id": 3400540731,
+              "link": "https://www.deezer.com/track/3400540731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/1/0/681bde2adc439adf7196ad4f549eff23.mp3?hdnea=exp=1795718926~acl=/api/1/1/6/8/1/0/681bde2adc439adf7196ad4f549eff23.mp3*~data=user_id=0,application_id=42~hmac=174ed9a519947ac0e24db194b191bdf419bf62b961bec1822cbe751c844f0d49",
+              "preview_expires": "2026-11-26T18:48:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Shaking Things Up",
+            "length": "3:36",
+            "artist": "nimino",
+            "deezer": {
+              "id": 3400540741,
+              "link": "https://www.deezer.com/track/3400540741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/7/0/fa7f6e69d48582d83c4584310a186edf.mp3?hdnea=exp=1795718926~acl=/api/1/1/f/a/7/0/fa7f6e69d48582d83c4584310a186edf.mp3*~data=user_id=0,application_id=42~hmac=a561bb742f2b0427ca6b11dfbe8394ee9a8f421791daf3b526e0cec2334cd3a3",
+              "preview_expires": "2026-11-26T18:48:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/nimino/Beside Of Me.png"
+}

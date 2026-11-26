@@ -1,0 +1,137 @@
+{
+  "title": "The Reason",
+  "artist": "Hoobastank",
+  "year": 2003,
+  "release_date": "2003-12-03",
+  "type": "Album",
+  "description": "The Reason is the second studio album by American rock band Hoobastank, released on December 9, 2003 by Island Records. Produced by Howard Benson, it was the band's last album to feature bassist Markku Lappaleinen prior to his departure in 2005.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "post-grunge",
+    "alternative pop",
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "alternative",
+    "alternative pop/rock",
+    "post-grunge",
+    "pop/rock",
+    "alternative pop",
+    "alternative/indie rock",
+    "pop",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a15cf3f5-5ca1-39dc-9d1d-7c3aefc530bd",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Reason_(Hoobastank_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000320124",
+    "discogs": "https://www.discogs.com/master/174554",
+    "wikidata": "https://www.wikidata.org/wiki/Q1579245",
+    "deezer": "https://www.deezer.com/album/531275802"
+  },
+  "musicbrainz_id": "a15cf3f5-5ca1-39dc-9d1d-7c3aefc530bd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cf29a7e4-2352-4e61-84ad-19bfc2457f4d",
+      "barcode": "602557684681",
+      "title": "The Reason",
+      "disambiguation": null,
+      "date": "2017-05-19",
+      "country": "JP"
+    },
+    "total_tracks": 12,
+    "total_length": "41:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "セイム・ディレクション",
+            "length": "3:15",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "2",
+            "title": "アウト・オブ・コントロール",
+            "length": "2:42",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "3",
+            "title": "ホワット・ハペンド・トゥ・アス",
+            "length": "4:00",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "4",
+            "title": "エスケープ",
+            "length": "3:44",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "5",
+            "title": "ジャスト・ワン",
+            "length": "3:19",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "6",
+            "title": "ラッキー",
+            "length": "2:59",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "7",
+            "title": "フロム・ザ・ハート",
+            "length": "3:03",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "8",
+            "title": "ザ・リーズン",
+            "length": "3:52",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "9",
+            "title": "レット・イット・アウト",
+            "length": "3:18",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "10",
+            "title": "アンアフェクテッド",
+            "length": "3:33",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "11",
+            "title": "ネヴァー・ゼア",
+            "length": "3:03",
+            "artist": "フーバスタンク"
+          },
+          {
+            "number": "12",
+            "title": "ディサピア",
+            "length": "5:06",
+            "artist": "フーバスタンク"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Hoobastank/The Reason.jpg"
+}

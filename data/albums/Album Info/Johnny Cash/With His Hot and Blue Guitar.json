@@ -1,0 +1,192 @@
+{
+  "title": "Johnny Cash With His Hot and Blue Guitar",
+  "artist": "Johnny Cash",
+  "year": 1957,
+  "release_date": "1957-10-11",
+  "type": "Album",
+  "description": "Johnny Cash with His Hot and Blue Guitar! is the debut studio album by American singer Johnny Cash, released on October 11, 1957. The album contained four of his hit singles: \"I Walk the Line,\" \"Cry! Cry! Cry!,\" \"So Doggone Lonesome,\" and \"Folsom Prison Blues.\" It was re-issued on July 23, 2002, as an expanded edition, under the label Varèse Vintage, containing five bonus tracks, three being alternate versions of tracks already on the original LP. In 2012, Columbia Records reissued the album with 16 additional non-album Sun Records tracks as part of its 63-disc Johnny Cash: The Complete Columbia Album Collection box set. In 2017, 60 years after the original release, the album was remastered under the title Johnny Cash with His Hot and Blue Guitar! . In 2022, Sun released a remastered edition of the original studio album, with only the original track listing. The songs had been remastered as to simulate being in the studio as the tracks were recorded.",
+  "genres": [
+    "country",
+    "country gospel",
+    "rockabilly"
+  ],
+  "tags": [
+    "country",
+    "country gospel",
+    "rockabilly",
+    "desert",
+    "minimalistic",
+    "playful",
+    "raw",
+    "rock & roll"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/288b58ea-6b89-3dae-8428-2822fb15c7cb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Cash_with_His_Hot_and_Blue_Guitar!",
+    "allmusic": "https://www.allmusic.com/album/mw0000226559",
+    "discogs": "https://www.discogs.com/master/73427",
+    "wikidata": "https://www.wikidata.org/wiki/Q1462960",
+    "deezer": "https://www.deezer.com/album/918312981"
+  },
+  "musicbrainz_id": "288b58ea-6b89-3dae-8428-2822fb15c7cb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d8b52f44-af3a-443d-82f1-be9b5896c699",
+      "barcode": "015047800193",
+      "title": "Johnny Cash With His Hot and Blue Guitar",
+      "disambiguation": null,
+      "date": "2021-08-01",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "27:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rock Island Line",
+            "length": "2:11",
+            "deezer": {
+              "id": 3842785211,
+              "link": "https://www.deezer.com/track/3842785211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/8/0/a9842594c76db14de7f116460a87a7af.mp3?hdnea=exp=1795655737~acl=/api/1/1/a/9/8/0/a9842594c76db14de7f116460a87a7af.mp3*~data=user_id=0,application_id=42~hmac=db52b73add11c4f226c58a30b8221504a7f0bcafe3d3658153381717265a7d83",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "(I Heard That) Lonesome Whistle",
+            "length": "2:25",
+            "deezer": {
+              "id": 3842785221,
+              "link": "https://www.deezer.com/track/3842785221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/2/0/c02358556a91d896c22b4e1002d88e3e.mp3?hdnea=exp=1795655737~acl=/api/1/1/c/0/2/0/c02358556a91d896c22b4e1002d88e3e.mp3*~data=user_id=0,application_id=42~hmac=88c9d77a45950a087b65027495ca686f910c9fe95c9bd45bb83759c7b810c99e",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Country Boy",
+            "length": "1:49",
+            "deezer": {
+              "id": 3842785231,
+              "link": "https://www.deezer.com/track/3842785231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/d/0/e4db8de7f4284c752df2cd4ab559c403.mp3?hdnea=exp=1795655737~acl=/api/1/1/e/4/d/0/e4db8de7f4284c752df2cd4ab559c403.mp3*~data=user_id=0,application_id=42~hmac=85081119f7ef161ba6f9e748c9090bbe8f40ecce2c0c1b145b06111fc72eff17",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "If the Good Lord’s Willing",
+            "length": "1:44",
+            "deezer": {
+              "id": 3842785241,
+              "link": "https://www.deezer.com/track/3842785241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/d/0/cad864c3c81827a1ee23a8df94dea1ee.mp3?hdnea=exp=1795655737~acl=/api/1/1/c/a/d/0/cad864c3c81827a1ee23a8df94dea1ee.mp3*~data=user_id=0,application_id=42~hmac=e7fc01401ca8f0c0a8ff4cfb6e7c15ae55b3f530294edd3b0ae472a2101522ac",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Cry! Cry! Cry!",
+            "length": "2:29",
+            "deezer": {
+              "id": 3842785251,
+              "link": "https://www.deezer.com/track/3842785251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/2/0/9425456fdbb4f947fd2f0b6207659340.mp3?hdnea=exp=1795655737~acl=/api/1/1/9/4/2/0/9425456fdbb4f947fd2f0b6207659340.mp3*~data=user_id=0,application_id=42~hmac=955441398b28e97117cc2760976911e420bbfba94514b8a5d9ddec572046c773",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Remember Me (I’m the One Who Loves You)",
+            "length": "2:01",
+            "deezer": {
+              "id": 3842785261,
+              "link": "https://www.deezer.com/track/3842785261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/6/0/466ed79268ac5f2f6ff58f24ee42f8d3.mp3?hdnea=exp=1795655737~acl=/api/1/1/4/6/6/0/466ed79268ac5f2f6ff58f24ee42f8d3.mp3*~data=user_id=0,application_id=42~hmac=c800b34779bc0b99eac0d2279cec39be923d5e377e44b155b14654500e624cd4",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "So Doggone Lonesome",
+            "length": "2:39",
+            "deezer": {
+              "id": 3842785271,
+              "link": "https://www.deezer.com/track/3842785271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/e/0/00e0e7e09121704f268156d71a884f6c.mp3?hdnea=exp=1795655737~acl=/api/1/1/0/0/e/0/00e0e7e09121704f268156d71a884f6c.mp3*~data=user_id=0,application_id=42~hmac=564dfbfb6f2f6b089f3cee0523f0a8c1c8b2323c6639b08653c59c0655d8da9a",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Was There When It Happened",
+            "length": "2:17",
+            "deezer": {
+              "id": 3842785281,
+              "link": "https://www.deezer.com/track/3842785281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/0/0/2e0b4f709c97cdfcf059e95b1703a2be.mp3?hdnea=exp=1795655737~acl=/api/1/1/2/e/0/0/2e0b4f709c97cdfcf059e95b1703a2be.mp3*~data=user_id=0,application_id=42~hmac=5b51c3690858c1819a4f45930a3c59d24b08f9650d3f384e50175afa9ff3cf0f",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I Walk the Line",
+            "length": "2:46",
+            "deezer": {
+              "id": 3842785291,
+              "link": "https://www.deezer.com/track/3842785291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/3/0/df32ced4aee65de94bdf5374ac3b8f00.mp3?hdnea=exp=1795655737~acl=/api/1/1/d/f/3/0/df32ced4aee65de94bdf5374ac3b8f00.mp3*~data=user_id=0,application_id=42~hmac=c17d3ff8d80d2705b0f636ad181bf53ffa95f6eebe013d1f12bad408792e8581",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Wreck of the Old ’97",
+            "length": "1:48",
+            "deezer": {
+              "id": 3842785301,
+              "link": "https://www.deezer.com/track/3842785301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/3/0/d0374bf7f1212a42700557cba67bd262.mp3?hdnea=exp=1795655737~acl=/api/1/1/d/0/3/0/d0374bf7f1212a42700557cba67bd262.mp3*~data=user_id=0,application_id=42~hmac=c58f58ab6b49b4bfe5f4f12610846e2d6689007895720600a953525234e6cd48",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Folsom Prison Blues",
+            "length": "2:51",
+            "deezer": {
+              "id": 3842785311,
+              "link": "https://www.deezer.com/track/3842785311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/f/0/60f6986c55bfbe73acb81d378b6c165b.mp3?hdnea=exp=1795655737~acl=/api/1/1/6/0/f/0/60f6986c55bfbe73acb81d378b6c165b.mp3*~data=user_id=0,application_id=42~hmac=541333e7cad0a9e9727858c166a96b3489b6176da8910192c81c635e97225e84",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Doin’ My Time",
+            "length": "2:40",
+            "deezer": {
+              "id": 3842785321,
+              "link": "https://www.deezer.com/track/3842785321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/7/0/177dcd74019f84b993390327ab7b11a2.mp3?hdnea=exp=1795655737~acl=/api/1/1/1/7/7/0/177dcd74019f84b993390327ab7b11a2.mp3*~data=user_id=0,application_id=42~hmac=d6fcdf006a7ec7d9d2ffdfda8acfd6c296105b4554ac80a63169b599aa09b2ac",
+              "preview_expires": "2026-11-26T01:15:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Johnny Cash/With His Hot and Blue Guitar.jpg"
+}

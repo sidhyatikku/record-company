@@ -1,0 +1,77 @@
+{
+  "title": "Sirens",
+  "artist": "Mark Jenkyns",
+  "year": 2017,
+  "release_date": "2017-09-29",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance"
+  ],
+  "tags": [
+    "dance"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/33a24bda-08f0-4cdf-bda3-6652fe6f4c30",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/419551657"
+  },
+  "musicbrainz_id": "33a24bda-08f0-4cdf-bda3-6652fe6f4c30",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4fb8d9bd-1e78-41d2-a242-c0f1a4844a9b",
+      "barcode": "5060519685780",
+      "title": "Sirens",
+      "disambiguation": null,
+      "date": "2017-09-29",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "19:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sirens",
+            "length": "8:13",
+            "deezer": {
+              "id": 2199688737,
+              "link": "https://www.deezer.com/track/2199688737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/0/0/25070404af4d4d27b5ef5b40019baff5.mp3?hdnea=exp=1795718247~acl=/api/1/1/2/5/0/0/25070404af4d4d27b5ef5b40019baff5.mp3*~data=user_id=0,application_id=42~hmac=b3100662b0743768812ac592e66cf9f137d476135ecffb5d8f63eb10ad5462ba",
+              "preview_expires": "2026-11-26T18:37:27Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hey Honey",
+            "length": "7:15",
+            "deezer": {
+              "id": 2199688747,
+              "link": "https://www.deezer.com/track/2199688747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/d/0/32d04722ab87ef9e7f61aa98221c0688.mp3?hdnea=exp=1795718247~acl=/api/1/1/3/2/d/0/32d04722ab87ef9e7f61aa98221c0688.mp3*~data=user_id=0,application_id=42~hmac=eedaa92072e85d272570b620a44a3e99aafb4fac183558b1bc0b60336eb76f09",
+              "preview_expires": "2026-11-26T18:37:27Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sirens",
+            "length": "4:00",
+            "deezer": {
+              "id": 2199688757,
+              "link": "https://www.deezer.com/track/2199688757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/9/0/f790074ac2df45db4d5cc105ca766d41.mp3?hdnea=exp=1795718247~acl=/api/1/1/f/7/9/0/f790074ac2df45db4d5cc105ca766d41.mp3*~data=user_id=0,application_id=42~hmac=1d81fcd112874517d2f15a5da5994cd6701e8ec9069301ffb3fc16139bd2e2fa",
+              "preview_expires": "2026-11-26T18:37:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mark Jenkyns/Sirens.jpg"
+}

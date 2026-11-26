@@ -1,0 +1,45 @@
+{
+  "title": "Vincent Chase Slippin",
+  "artist": "MALFNKTION & Shayan Roy",
+  "year": 2018,
+  "release_date": "2018-08-03",
+  "type": "Single + Demo",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e203d32e-8cf9-4508-90da-04159107b93c",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "e203d32e-8cf9-4508-90da-04159107b93c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/99e7febf-fa7d-452d-8966-a74c9d0d1997",
+      "barcode": null,
+      "title": "Vincent Chase Slippin",
+      "disambiguation": null,
+      "date": "2018-08-03",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Vincent Chase Slippin",
+            "length": "3:20"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/MALFNKTION/Vincent Chase Slippin'.jpg"
+}

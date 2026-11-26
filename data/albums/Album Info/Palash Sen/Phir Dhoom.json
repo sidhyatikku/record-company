@@ -1,0 +1,154 @@
+{
+  "title": "Dhoom",
+  "artist": "Palash Sen",
+  "year": 1998,
+  "release_date": "1998-11-02",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b12e7ab8-9ee1-49f6-afd1-f9701c290523",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/760005741"
+  },
+  "musicbrainz_id": "b12e7ab8-9ee1-49f6-afd1-f9701c290523",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ce5dde08-b943-4eb0-a3ae-6215a6e372d7",
+      "barcode": null,
+      "title": "Dhoom",
+      "disambiguation": null,
+      "date": "1998-11-02",
+      "country": "IN"
+    },
+    "total_tracks": 12,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Cassette",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sha Na Na Na",
+            "length": null,
+            "deezer": {
+              "id": 3376410731,
+              "link": "https://www.deezer.com/track/3376410731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/a/0/d7a8726a73f63ee7b47f7ac123a1f70e.mp3?hdnea=exp=1795719261~acl=/api/1/1/d/7/a/0/d7a8726a73f63ee7b47f7ac123a1f70e.mp3*~data=user_id=0,application_id=42~hmac=6f7616f950d2785958768b04a7331d2b2b8604e91e2a4f5922833b3c3c32f19c",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dhoom Pichuk",
+            "length": null,
+            "deezer": {
+              "id": 3376410741,
+              "link": "https://www.deezer.com/track/3376410741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/4/0/cf425dc7fbf248b1f3bfc7febaa835bb.mp3?hdnea=exp=1795719261~acl=/api/1/1/c/f/4/0/cf425dc7fbf248b1f3bfc7febaa835bb.mp3*~data=user_id=0,application_id=42~hmac=a12897fdc3c1334946b8479a5c2b6af23d75c167e85809ec8573051f53ccc8cc",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Tum",
+            "length": null,
+            "deezer": {
+              "id": 3376410751,
+              "link": "https://www.deezer.com/track/3376410751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/1/0/6b1c4d6ab792bc09bace997dc1d28b68.mp3?hdnea=exp=1795719261~acl=/api/1/1/6/b/1/0/6b1c4d6ab792bc09bace997dc1d28b68.mp3*~data=user_id=0,application_id=42~hmac=bbab142d12153ecbacc37ececfffca62c719d4c163e0dd93e1800e440e385ce9",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hind Rock and Roll",
+            "length": null,
+            "deezer": {
+              "id": 3376410761,
+              "link": "https://www.deezer.com/track/3376410761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/7/0/e97db3f1fe58801444c8ce573064863c.mp3?hdnea=exp=1795719261~acl=/api/1/1/e/9/7/0/e97db3f1fe58801444c8ce573064863c.mp3*~data=user_id=0,application_id=42~hmac=0b1355f69a888905e4f693023f5b140b94ea625dd563e1b5a035d85a0b1086c4",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Rick's Lick",
+            "length": null
+          },
+          {
+            "number": "6",
+            "title": "Aamne Samne",
+            "length": null,
+            "deezer": {
+              "id": 3376410771,
+              "link": "https://www.deezer.com/track/3376410771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f53b9ce624df54d2ddfc8a53dca54a3.mp3?hdnea=exp=1795719261~acl=/api/1/1/0/f/5/0/0f53b9ce624df54d2ddfc8a53dca54a3.mp3*~data=user_id=0,application_id=42~hmac=33dedda7dff73cf89ecbe01a262ab30c1aa5b02f37bfe752a3e86d3eccd9b268",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Tumse Pyar",
+            "length": null,
+            "deezer": {
+              "id": 3376410801,
+              "link": "https://www.deezer.com/track/3376410801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/5/0/6055f1aed5c5ffb983e9be0cabff8b15.mp3?hdnea=exp=1795719261~acl=/api/1/1/6/0/5/0/6055f1aed5c5ffb983e9be0cabff8b15.mp3*~data=user_id=0,application_id=42~hmac=9049c6f1e7fe293e6cab10284444fc6ebeab131ae76e22ffab5446c4adde01a2",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Body Love",
+            "length": null,
+            "deezer": {
+              "id": 3376410791,
+              "link": "https://www.deezer.com/track/3376410791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/4/0/d44df45c97469bef8c3ab81c7dd285d5.mp3?hdnea=exp=1795719261~acl=/api/1/1/d/4/4/0/d44df45c97469bef8c3ab81c7dd285d5.mp3*~data=user_id=0,application_id=42~hmac=c5c4a4ac8f86af6219f44e3817f258bc186bc22d7a33fdac599f64b6ccb5cf49",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Kyon Juddha",
+            "length": null
+          },
+          {
+            "number": "10",
+            "title": "Ma",
+            "length": null,
+            "deezer": {
+              "id": 3376410811,
+              "link": "https://www.deezer.com/track/3376410811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/5/0/ad56a9ed71b3f7fc1454337b1c7de65c.mp3?hdnea=exp=1795719261~acl=/api/1/1/a/d/5/0/ad56a9ed71b3f7fc1454337b1c7de65c.mp3*~data=user_id=0,application_id=42~hmac=7cd88cacd34065ea37286195f1da0e3837e5e24803f6959d949549bdba51f045",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Sha (Remix)",
+            "length": null
+          },
+          {
+            "number": "12",
+            "title": "Dili",
+            "length": null,
+            "deezer": {
+              "id": 3376410821,
+              "link": "https://www.deezer.com/track/3376410821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/5/0/a05b57db3ae9f5a076ff943d9443d499.mp3?hdnea=exp=1795719261~acl=/api/1/1/a/0/5/0/a05b57db3ae9f5a076ff943d9443d499.mp3*~data=user_id=0,application_id=42~hmac=bf9548ba1d7377ae3c9b797c02d78c0e214d8c2fbea746da3898f2bd4148c079",
+              "preview_expires": "2026-11-26T18:54:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Palash Sen/Phir Dhoom.jpg"
+}

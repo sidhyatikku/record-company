@@ -1,0 +1,56 @@
+{
+  "title": "Nail Tech",
+  "artist": "Jack Harlow",
+  "year": 2022,
+  "release_date": "2022-02-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d26c11af-e329-4c79-8833-16eb550f4f8c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/296259192"
+  },
+  "musicbrainz_id": "d26c11af-e329-4c79-8833-16eb550f4f8c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cf80707f-4bf7-4d0d-b47f-2dcb39328493",
+      "barcode": "075679758590",
+      "title": "Nail Tech",
+      "disambiguation": "explicit",
+      "date": "2022-02-18",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "5:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nail Tech",
+            "length": "3:26",
+            "deezer": {
+              "id": 1658191032,
+              "link": "https://www.deezer.com/track/1658191032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/b/0/25b8769ad9f5f96fb4920a5af18e3cfd.mp3?hdnea=exp=1795655375~acl=/api/1/1/2/5/b/0/25b8769ad9f5f96fb4920a5af18e3cfd.mp3*~data=user_id=0,application_id=42~hmac=d02a1df353c3263ba3cb19bc077842336acf054f27132be1fcf389a08274efc5",
+              "preview_expires": "2026-11-26T01:09:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "WHATS POPPIN",
+            "length": "2:20"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jack Harlow/Nail Tech.jpg"
+}

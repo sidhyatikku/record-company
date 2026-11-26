@@ -1,0 +1,163 @@
+{
+  "title": "Billy Idol",
+  "artist": "Billy Idol",
+  "year": 1982,
+  "release_date": "1982-07-16",
+  "type": "Album",
+  "description": "Billy Idol is the debut studio album by the English rock singer Billy Idol, released on 2 July 1982 by Chrysalis Records. It was the first album by Idol since the break-up of punk rock band Gen X, and his first time collaborating with guitarist Steve Stevens. The album's success was helped by music videos of \"Hot in the City\" and \"White Wedding\" being in heavy rotation on MTV. Despite this, some criticized Idol for \"selling out\", even falsely claiming he was influenced by label executives and managers.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "hard rock",
+    "new wave",
+    "pop punk"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "hard rock",
+    "new wave",
+    "pop punk"
+  ],
+  "rating": {
+    "value_out_of_5": 2.8,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e47df7d5-5be0-396a-a35d-a759d336d094",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Idol_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000652281",
+    "discogs": "https://www.discogs.com/master/29621",
+    "wikidata": "https://www.wikidata.org/wiki/Q2261007",
+    "deezer": "https://www.deezer.com/album/40714531"
+  },
+  "musicbrainz_id": "e47df7d5-5be0-396a-a35d-a759d336d094",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/44622e83-35e8-43cc-a83e-de60d446dc52",
+      "barcode": "602537636075",
+      "title": "Billy Idol",
+      "disambiguation": null,
+      "date": "2013",
+      "country": "XE"
+    },
+    "total_tracks": 10,
+    "total_length": "42:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Come On, Come On",
+            "length": "3:58",
+            "deezer": {
+              "id": 355108521,
+              "link": "https://www.deezer.com/track/355108521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/3/0/0532ef77c1641a50ac23d6152874c0ca.mp3?hdnea=exp=1795652034~acl=/api/1/1/0/5/3/0/0532ef77c1641a50ac23d6152874c0ca.mp3*~data=user_id=0,application_id=42~hmac=360086a179f671ac448aff7083003a0210d097498e5392af73b259ba6546a039",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "White Wedding, Part 1",
+            "length": "4:12",
+            "deezer": {
+              "id": 355108531,
+              "link": "https://www.deezer.com/track/355108531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/e/0/e0e68a64d5476614d91426d026dd2e32.mp3?hdnea=exp=1795652034~acl=/api/1/1/e/0/e/0/e0e68a64d5476614d91426d026dd2e32.mp3*~data=user_id=0,application_id=42~hmac=70120a469f1eba27f8977a4c11802a17afc47f4e26d87952d5a4c20f236c13a9",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hot in the City",
+            "length": "3:38",
+            "deezer": {
+              "id": 355108541,
+              "link": "https://www.deezer.com/track/355108541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/3/0/9b3c3f9bf75997f0f7f3e2c811566699.mp3?hdnea=exp=1795652034~acl=/api/1/1/9/b/3/0/9b3c3f9bf75997f0f7f3e2c811566699.mp3*~data=user_id=0,application_id=42~hmac=195ebc6caa021b914ebda64f5bb598d62d8083e37c054a0cb7fe09a6e1989320",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dead on Arrival",
+            "length": "3:54",
+            "deezer": {
+              "id": 355108551,
+              "link": "https://www.deezer.com/track/355108551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/0/0/120e5859da8af693a09efcb34ef4f06a.mp3?hdnea=exp=1795652034~acl=/api/1/1/1/2/0/0/120e5859da8af693a09efcb34ef4f06a.mp3*~data=user_id=0,application_id=42~hmac=24ebed7f6aafc08605e7df10cdeb1777fa06d3e11660de050b87c9779cbfb77e",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Nobody’s Business",
+            "length": "4:08",
+            "deezer": {
+              "id": 355108561,
+              "link": "https://www.deezer.com/track/355108561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/6/0/e568d5deb537c70d878b9155ed76cbdf.mp3?hdnea=exp=1795652034~acl=/api/1/1/e/5/6/0/e568d5deb537c70d878b9155ed76cbdf.mp3*~data=user_id=0,application_id=42~hmac=7e4324655c1a30684620eb1b61ec513f99ae358eb7cfa6b7d71d24dff05c85de",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Love Calling",
+            "length": "4:56",
+            "deezer": {
+              "id": 355108571,
+              "link": "https://www.deezer.com/track/355108571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/3/0/ee312b96c101c6027cb08cce67765c12.mp3?hdnea=exp=1795652034~acl=/api/1/1/e/e/3/0/ee312b96c101c6027cb08cce67765c12.mp3*~data=user_id=0,application_id=42~hmac=693361a9cfd2b0bf840ef3ac4db51fe264d634947972173f0668e2a0231bc062",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Hole in the Wall",
+            "length": "4:10",
+            "deezer": {
+              "id": 355108581,
+              "link": "https://www.deezer.com/track/355108581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/1/0/4e1cef6a9bab1ef64fed472da79b4dad.mp3?hdnea=exp=1795652034~acl=/api/1/1/4/e/1/0/4e1cef6a9bab1ef64fed472da79b4dad.mp3*~data=user_id=0,application_id=42~hmac=688df875771b2361a75043ab9f9b721cb26b089d0e428f1fc88677ff94b2b390",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Shooting Stars",
+            "length": "4:35",
+            "deezer": {
+              "id": 355108591,
+              "link": "https://www.deezer.com/track/355108591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/f/0/e3f486de326a3e3486228cb6a8d1b907.mp3?hdnea=exp=1795652034~acl=/api/1/1/e/3/f/0/e3f486de326a3e3486228cb6a8d1b907.mp3*~data=user_id=0,application_id=42~hmac=70c71a4d426a0b80a3df1889c2da489b9e09218c84d73953eddeab03bd40eade",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It’s So Cruel",
+            "length": "5:11",
+            "deezer": {
+              "id": 355108601,
+              "link": "https://www.deezer.com/track/355108601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/a/0/14aa2e7bd39c338fff3b6d0cacb8b2d2.mp3?hdnea=exp=1795652034~acl=/api/1/1/1/4/a/0/14aa2e7bd39c338fff3b6d0cacb8b2d2.mp3*~data=user_id=0,application_id=42~hmac=187124e43d4c3e96270082406d9ed374e1127fe7eec6bd5d2c83e252fb233313",
+              "preview_expires": "2026-11-26T00:13:54Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dancing With Myself",
+            "length": "3:20"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Billy Idol/Billy Idol.jpg"
+}

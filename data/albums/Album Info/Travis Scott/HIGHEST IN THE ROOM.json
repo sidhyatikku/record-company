@@ -1,0 +1,55 @@
+{
+  "title": "HIGHEST IN THE ROOM",
+  "artist": "Travis Scott",
+  "year": 2019,
+  "release_date": "2019-10-04",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic"
+  ],
+  "tags": [
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f1cc8696-f40f-45d3-a0d5-8fd2d51defa8",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/113359292"
+  },
+  "musicbrainz_id": "f1cc8696-f40f-45d3-a0d5-8fd2d51defa8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6487a371-4151-45da-ad1a-ad6221cf1b47",
+      "barcode": "886448042792",
+      "title": "HIGHEST IN THE ROOM",
+      "disambiguation": "explicit",
+      "date": "2019-10-04",
+      "country": "DZ"
+    },
+    "total_tracks": 1,
+    "total_length": "2:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "HIGHEST IN THE ROOM",
+            "length": "2:56",
+            "deezer": {
+              "id": 767583072,
+              "link": "https://www.deezer.com/track/767583072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/1/0/2719bbd3dad355b7c5e7f32be24a5cfe.mp3?hdnea=exp=1795722032~acl=/api/1/1/2/7/1/0/2719bbd3dad355b7c5e7f32be24a5cfe.mp3*~data=user_id=0,application_id=42~hmac=cece8b7f34259b1924486f8a61579625a4671fb4242ca36a39ee04f47eb5b340",
+              "preview_expires": "2026-11-26T19:40:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Travis Scott/HIGHEST IN THE ROOM.jpg"
+}

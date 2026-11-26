@@ -1,0 +1,51 @@
+{
+  "title": "Ek Do Ek",
+  "artist": "Tsumyoki & Rawal",
+  "year": 2022,
+  "release_date": "2022-04-07",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fbe4eafc-3e93-4fdf-a8ee-482acb735c68",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/305859967"
+  },
+  "musicbrainz_id": "fbe4eafc-3e93-4fdf-a8ee-482acb735c68",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/23b1839b-18c5-4deb-915f-d79057836dff",
+      "barcode": "196626715388",
+      "title": "Ek Do Ek",
+      "disambiguation": null,
+      "date": "2022-04-07",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ek Do Ek",
+            "length": "3:55",
+            "deezer": {
+              "id": 1697861507,
+              "link": "https://www.deezer.com/track/1697861507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/3/0/c430f44998ed446428b7b9ddcd881a84.mp3?hdnea=exp=1795722048~acl=/api/1/1/c/4/3/0/c430f44998ed446428b7b9ddcd881a84.mp3*~data=user_id=0,application_id=42~hmac=bf817ac9a1a1a18da052e5892e79a86eedb8f9525b3af30d429b9cfa969bb7d5",
+              "preview_expires": "2026-11-26T19:40:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Tsumyoki/Ek Do Ek.jpg"
+}

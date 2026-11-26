@@ -1,0 +1,50 @@
+{
+  "title": "Nachan Nu Jee Karda",
+  "artist": "Tigerstyle, Kaka Bhainiawala",
+  "year": 2020,
+  "release_date": "2020-01-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "punjabi pop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1vxhgVMBDvsRMyaVGQfvD1",
+    "deezer": "https://www.deezer.com/album/137797692"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1vxhgVMBDvsRMyaVGQfvD1",
+      "title": "Nachan Nu Jee Karda",
+      "date": "2020-01-01"
+    },
+    "total_tracks": 1,
+    "total_length": "6:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nachan Nu Jee Karda",
+            "length": "6:17",
+            "deezer": {
+              "id": 911627912,
+              "link": "https://www.deezer.com/track/911627912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb1e8c724809c15df28f9605264cafc2.mp3?hdnea=exp=1795721894~acl=/api/1/1/b/b/1/0/bb1e8c724809c15df28f9605264cafc2.mp3*~data=user_id=0,application_id=42~hmac=5da1a40c45b00ce9cec6fee646b1b0997d56d93a11d33b4ce0486efa246e8608",
+              "preview_expires": "2026-11-26T19:38:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tigerstyle/Nachan Nu Jee Karda.jpg"
+}

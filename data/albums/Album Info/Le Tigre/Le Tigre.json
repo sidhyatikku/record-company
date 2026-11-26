@@ -1,0 +1,200 @@
+{
+  "title": "Le Tigre",
+  "artist": "Le Tigre",
+  "year": 1999,
+  "release_date": "1999-11-08",
+  "type": "Album",
+  "description": "Le Tigre is the debut studio album by American music trio Le Tigre. It was released October 25, 1999, on Mr. Lady Records. The album combined pop music with the band's feminist political lyrics. It received positive reviews from music critics.",
+  "genres": [
+    "electronic",
+    "electro",
+    "rock",
+    "electroclash",
+    "indie rock",
+    "new wave",
+    "pop",
+    "post-punk",
+    "synth-pop"
+  ],
+  "tags": [
+    "electronic",
+    "electro",
+    "rock",
+    "electroclash",
+    "indie rock",
+    "new wave",
+    "new wave/post-punk",
+    "pop",
+    "post-punk",
+    "synth-pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/116d142c-e7fd-3902-8ca5-0d4999abd00e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Le_Tigre_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000255678",
+    "discogs": "https://www.discogs.com/master/96921",
+    "wikidata": "https://www.wikidata.org/wiki/Q847634",
+    "deezer": "https://www.deezer.com/album/236245422"
+  },
+  "musicbrainz_id": "116d142c-e7fd-3902-8ca5-0d4999abd00e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8ea9186f-3836-4c78-96d3-396eefbc7825",
+      "barcode": "4062851649070",
+      "title": "Le Tigre",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "34:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Deceptacon",
+            "length": "3:05",
+            "deezer": {
+              "id": 1399430472,
+              "link": "https://www.deezer.com/track/1399430472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/4/0/e3420a28b3efb4e635aa692c39c484e5.mp3?hdnea=exp=1795656418~acl=/api/1/1/e/3/4/0/e3420a28b3efb4e635aa692c39c484e5.mp3*~data=user_id=0,application_id=42~hmac=4de16d485a9ed4de846c765d2df894263823559ead930aecfdeda5360f357ce8",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hot Topic",
+            "length": "3:44",
+            "deezer": {
+              "id": 1399430482,
+              "link": "https://www.deezer.com/track/1399430482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/d/0/75d284a643bb0469a9f882190179a913.mp3?hdnea=exp=1795656418~acl=/api/1/1/7/5/d/0/75d284a643bb0469a9f882190179a913.mp3*~data=user_id=0,application_id=42~hmac=4be33fd86bbd6902933ca9633cf3bd026fd22ee12c8e12ba2c0fe99aa0b3a823",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "What’s Yr Take on Cassavetes",
+            "length": "2:23",
+            "deezer": {
+              "id": 1399430492,
+              "link": "https://www.deezer.com/track/1399430492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/b/0/65bd4362ae1618864e9d7a4d0a1260d0.mp3?hdnea=exp=1795656418~acl=/api/1/1/6/5/b/0/65bd4362ae1618864e9d7a4d0a1260d0.mp3*~data=user_id=0,application_id=42~hmac=ad31294437e4e9034b9803f48831a5322f2ef6afb479fcddf7cc2e14e948fada",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The the Empty",
+            "length": "2:04",
+            "deezer": {
+              "id": 1399430502,
+              "link": "https://www.deezer.com/track/1399430502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/e/0/c6edbc4d232b631bc07677ca89666325.mp3?hdnea=exp=1795656418~acl=/api/1/1/c/6/e/0/c6edbc4d232b631bc07677ca89666325.mp3*~data=user_id=0,application_id=42~hmac=a1a0445b522c0b7270dfb06b1ee14dc601a4b1a150eeddb7497d2a841be3d10d",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Phanta",
+            "length": "3:15",
+            "deezer": {
+              "id": 1399430512,
+              "link": "https://www.deezer.com/track/1399430512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/2/0/60237a9d11c962e6d84c982e960c3fa0.mp3?hdnea=exp=1795656418~acl=/api/1/1/6/0/2/0/60237a9d11c962e6d84c982e960c3fa0.mp3*~data=user_id=0,application_id=42~hmac=2d40198259910bee59535e2b5f8dac845390a7b4ba91716c5cf72a3e9077ed13",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Eau D’bedroom Dancing",
+            "length": "2:56",
+            "deezer": {
+              "id": 1399430522,
+              "link": "https://www.deezer.com/track/1399430522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/b/0/fcb859b3c4e09c1dc89ce05f85587551.mp3?hdnea=exp=1795656418~acl=/api/1/1/f/c/b/0/fcb859b3c4e09c1dc89ce05f85587551.mp3*~data=user_id=0,application_id=42~hmac=842bb54d6655dc5b128f8b2f11ff112c1631c3c18ff43f604c67b2734af3d967",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Let’s Run",
+            "length": "2:35",
+            "deezer": {
+              "id": 1399430532,
+              "link": "https://www.deezer.com/track/1399430532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/d/0/3dd323a7430748e7ac7e1ad01cb708cf.mp3?hdnea=exp=1795656418~acl=/api/1/1/3/d/d/0/3dd323a7430748e7ac7e1ad01cb708cf.mp3*~data=user_id=0,application_id=42~hmac=e09d25e351521a3706410a308a9421cf24cc2335138c603650335b4a812669b6",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "My My Metrocard",
+            "length": "2:54",
+            "deezer": {
+              "id": 1399430542,
+              "link": "https://www.deezer.com/track/1399430542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/5/0/79552914c71199589445e8b4bf4dac3e.mp3?hdnea=exp=1795656418~acl=/api/1/1/7/9/5/0/79552914c71199589445e8b4bf4dac3e.mp3*~data=user_id=0,application_id=42~hmac=bca55fee3ea324220f1e6b45eae912c0fcb0110c954759609850bf4994f07ca8",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Friendship Station",
+            "length": "3:08",
+            "deezer": {
+              "id": 1399430552,
+              "link": "https://www.deezer.com/track/1399430552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/b/0/2fb97e7b33ccde3489238a10d54432ed.mp3?hdnea=exp=1795656418~acl=/api/1/1/2/f/b/0/2fb97e7b33ccde3489238a10d54432ed.mp3*~data=user_id=0,application_id=42~hmac=2a3f636c5a17271fabf6e83c17d4eb654b51b46775507d967907a64cb9deead8",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Slideshow at Free University",
+            "length": "2:48",
+            "deezer": {
+              "id": 1399430562,
+              "link": "https://www.deezer.com/track/1399430562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/4/0/5b473c9a44e205818e16aaadad5c7d96.mp3?hdnea=exp=1795656418~acl=/api/1/1/5/b/4/0/5b473c9a44e205818e16aaadad5c7d96.mp3*~data=user_id=0,application_id=42~hmac=12a307f29301e5d4ad7e56a04ac367dec2b40e446c817bdbeca3a4798aa400da",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Dude Yr so Crazy!!",
+            "length": "3:27",
+            "deezer": {
+              "id": 1399430572,
+              "link": "https://www.deezer.com/track/1399430572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/1/0/c0195bfa9cfd090be581cafde198ac1d.mp3?hdnea=exp=1795656418~acl=/api/1/1/c/0/1/0/c0195bfa9cfd090be581cafde198ac1d.mp3*~data=user_id=0,application_id=42~hmac=cc93923b11d1fe27664b02bd0e79e1e994622aacc588f8a5b25641abe3a88dba",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Les and Ray",
+            "length": "2:06",
+            "deezer": {
+              "id": 1399430582,
+              "link": "https://www.deezer.com/track/1399430582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/0/0/ad0e5545e98bd80437929f3744e0b270.mp3?hdnea=exp=1795656418~acl=/api/1/1/a/d/0/0/ad0e5545e98bd80437929f3744e0b270.mp3*~data=user_id=0,application_id=42~hmac=6d39c2c3aaf213ea8dde09e8e002b936364222e20de5655e2abb21b355d57933",
+              "preview_expires": "2026-11-26T01:26:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Le Tigre/Le Tigre.jpg"
+}

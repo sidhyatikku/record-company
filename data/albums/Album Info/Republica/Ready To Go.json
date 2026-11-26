@@ -1,0 +1,233 @@
+{
+  "title": "Ready to Go: The Best of Republica",
+  "artist": "Republica",
+  "year": 2002,
+  "release_date": "2002-05-27",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "alternative rock",
+    "electronic",
+    "pop rock",
+    "rock",
+    "synth-pop"
+  ],
+  "tags": [
+    "alternative rock",
+    "electronic",
+    "pop rock",
+    "rock",
+    "synth-pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4c3bc506-7a60-36bb-9867-7e364f487b47",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/617392",
+    "deezer": "https://www.deezer.com/album/110347"
+  },
+  "musicbrainz_id": "4c3bc506-7a60-36bb-9867-7e364f487b47",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c6c841e6-4b79-46cf-b648-b8cfb72c0606",
+      "barcode": "743219397928",
+      "title": "Ready to Go: The Best of Republica",
+      "disambiguation": null,
+      "date": "2002-05-27",
+      "country": "GB"
+    },
+    "total_tracks": 16,
+    "total_length": "1:10:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ready to Go",
+            "length": "5:02",
+            "deezer": {
+              "id": 994557,
+              "link": "https://www.deezer.com/track/994557",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/d/0/fcda746c6aaa97fddcef64c3ea9834ff.mp3?hdnea=exp=1795720070~acl=/api/1/1/f/c/d/0/fcda746c6aaa97fddcef64c3ea9834ff.mp3*~data=user_id=0,application_id=42~hmac=a4af636ea7d858a12e37dcbb43d899ca63cbd23837908ddba8311871f763bcea",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Drop Dead Gorgeous",
+            "length": "4:31",
+            "deezer": {
+              "id": 994559,
+              "link": "https://www.deezer.com/track/994559",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/1/0/7e166878dbe2357f9779aa39478dbfb4.mp3?hdnea=exp=1795720070~acl=/api/1/1/7/e/1/0/7e166878dbe2357f9779aa39478dbfb4.mp3*~data=user_id=0,application_id=42~hmac=865b5a4cd8a98cbc0af2e3bfcf7521e198f3a36c7bcba1cd08c799ee68f6bc83",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "From Rush Hour With Love",
+            "length": "3:27",
+            "deezer": {
+              "id": 994874,
+              "link": "https://www.deezer.com/track/994874",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/d/0/6edcb932d9ee986853d68d0c46efefe8.mp3?hdnea=exp=1795720070~acl=/api/1/1/6/e/d/0/6edcb932d9ee986853d68d0c46efefe8.mp3*~data=user_id=0,application_id=42~hmac=9e932dd70f24f15e2cb4e598fd58c647b1862ddcd9aca72773754e44369d98be",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Holly",
+            "length": "4:24",
+            "deezer": {
+              "id": 994561,
+              "link": "https://www.deezer.com/track/994561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/e/0/56ecb94ce1167c72977bdabfc3a13c65.mp3?hdnea=exp=1795720070~acl=/api/1/1/5/6/e/0/56ecb94ce1167c72977bdabfc3a13c65.mp3*~data=user_id=0,application_id=42~hmac=873ab97e77ecd082a0f8b9918720c8f5793443e3f3f3ac0897bba1ae615cb3ec",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Fading of the Man",
+            "length": "4:36",
+            "deezer": {
+              "id": 994563,
+              "link": "https://www.deezer.com/track/994563",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/3/0/da3a88ee0cb08529e38446e957fe705c.mp3?hdnea=exp=1795720070~acl=/api/1/1/d/a/3/0/da3a88ee0cb08529e38446e957fe705c.mp3*~data=user_id=0,application_id=42~hmac=d2ca7d1c2464eff6d3435811aa596602116c84e3357b534bf090d22ca3a7bd59",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Nothing’s Feeling New",
+            "length": "3:52",
+            "deezer": {
+              "id": 994863,
+              "link": "https://www.deezer.com/track/994863",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/6/0/826e21c9c8879fdf8f22c935441b713b.mp3?hdnea=exp=1795720070~acl=/api/1/1/8/2/6/0/826e21c9c8879fdf8f22c935441b713b.mp3*~data=user_id=0,application_id=42~hmac=9e52ab9b508f89c98e2d608a77101892c87651690b80eaea9e054ab855510843",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Pretty Girl Hate",
+            "length": "3:48",
+            "deezer": {
+              "id": 994565,
+              "link": "https://www.deezer.com/track/994565",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/6/0/2a6a71824da09767644606b119dc0d44.mp3?hdnea=exp=1795720070~acl=/api/1/1/2/a/6/0/2a6a71824da09767644606b119dc0d44.mp3*~data=user_id=0,application_id=42~hmac=e852c5d1b262213c52c10afd6d43558324a627042d80fbdf236012f5ac252107",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Kung Fu Movies",
+            "length": "4:01",
+            "deezer": {
+              "id": 994567,
+              "link": "https://www.deezer.com/track/994567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/0/0/c5036121b61454ded8913f0ffa37ee85.mp3?hdnea=exp=1795720070~acl=/api/1/1/c/5/0/0/c5036121b61454ded8913f0ffa37ee85.mp3*~data=user_id=0,application_id=42~hmac=a9aab30e5a6bff0af6e6d986635dc5ac04796405eea27c7d37e385d1898d0c52",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bitch",
+            "length": "5:16",
+            "deezer": {
+              "id": 994569,
+              "link": "https://www.deezer.com/track/994569",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/6/0/2e66ed1bfc4c6d6d33384b7496ebdbb0.mp3?hdnea=exp=1795720070~acl=/api/1/1/2/e/6/0/2e66ed1bfc4c6d6d33384b7496ebdbb0.mp3*~data=user_id=0,application_id=42~hmac=9ab2778609664934f8b4503a57c4b63c554213e67811ce6e624ce444c59a6cda",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Don’t You Ever",
+            "length": "4:00",
+            "deezer": {
+              "id": 994571,
+              "link": "https://www.deezer.com/track/994571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/a/0/4fadae401cabf11818f186085b2fc615.mp3?hdnea=exp=1795720070~acl=/api/1/1/4/f/a/0/4fadae401cabf11818f186085b2fc615.mp3*~data=user_id=0,application_id=42~hmac=ca71de033d75e6f62a4ad39db2128879e734203d4abc4cc5b1f706b9a1d41786",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Get Off",
+            "length": "3:57",
+            "deezer": {
+              "id": 994573,
+              "link": "https://www.deezer.com/track/994573",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/2/0/3c2d7d3dc8238c55ba9b2793fe6e1dba.mp3?hdnea=exp=1795720070~acl=/api/1/1/3/c/2/0/3c2d7d3dc8238c55ba9b2793fe6e1dba.mp3*~data=user_id=0,application_id=42~hmac=f275a4a0aaab16b48b97145b59104a8c0beb08f76ff78bd2127cd9d41448112d",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Pub Pusher",
+            "length": "4:23",
+            "deezer": {
+              "id": 994876,
+              "link": "https://www.deezer.com/track/994876",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/0/0/e20c6ae6eca170d3c1ef90e2f34cf8ca.mp3?hdnea=exp=1795720070~acl=/api/1/1/e/2/0/0/e20c6ae6eca170d3c1ef90e2f34cf8ca.mp3*~data=user_id=0,application_id=42~hmac=f61d3d9863895dcc65da77117ee54e1bfe34da5528882bb8cd19127cb97d67b5",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Bloke",
+            "length": "4:52",
+            "deezer": {
+              "id": 994574,
+              "link": "https://www.deezer.com/track/994574",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/0/0/ec0140951ba88e77728fe87a6b55d9ba.mp3?hdnea=exp=1795720070~acl=/api/1/1/e/c/0/0/ec0140951ba88e77728fe87a6b55d9ba.mp3*~data=user_id=0,application_id=42~hmac=caab6fe5dc1a9b024c43ef12ae4a7e6cac8220ba534504109e9fff6ef7d9a623",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Out of the Darkness",
+            "length": "3:50",
+            "deezer": {
+              "id": 994722,
+              "link": "https://www.deezer.com/track/994722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/7/0/3b7d5ee99abe0a87ccaa5634993149b4.mp3?hdnea=exp=1795720070~acl=/api/1/1/3/b/7/0/3b7d5ee99abe0a87ccaa5634993149b4.mp3*~data=user_id=0,application_id=42~hmac=5b6de1718f81f27180e5f944546eca48e4e84f4e2355b64314da7e334bc07351",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Picture Me",
+            "length": "5:43",
+            "deezer": {
+              "id": 994577,
+              "link": "https://www.deezer.com/track/994577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/6/0/716fef0296b8add62bc162d3b631ccfb.mp3?hdnea=exp=1795720070~acl=/api/1/1/7/1/6/0/716fef0296b8add62bc162d3b631ccfb.mp3*~data=user_id=0,application_id=42~hmac=59c9d330b76ca193227d54644d51ea359afdd211758e41ad329b5045850d3f4b",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Ready to Go (original mix)",
+            "length": "5:02",
+            "deezer": {
+              "id": 994579,
+              "link": "https://www.deezer.com/track/994579",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/1/0/241c0556f614e9648e0e744bcf760cb4.mp3?hdnea=exp=1795720070~acl=/api/1/1/2/4/1/0/241c0556f614e9648e0e744bcf760cb4.mp3*~data=user_id=0,application_id=42~hmac=6cc6ccd0467ca9750d3fcf8d84dc36897e43890b1c64db8e1ea6be3f604ba1a5",
+              "preview_expires": "2026-11-26T19:07:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Republica/Ready To Go.jpg"
+}

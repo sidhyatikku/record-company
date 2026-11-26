@@ -1,0 +1,97 @@
+{
+  "title": "UNDERGROUND",
+  "artist": "fox capture plan",
+  "year": 2015,
+  "release_date": "2015-04-08",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/637a5104-d49f-47bb-a142-781510acb428",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/882081062"
+  },
+  "musicbrainz_id": "637a5104-d49f-47bb-a142-781510acb428",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dd694cd6-f01c-43e1-9cab-83121eae3408",
+      "barcode": null,
+      "title": "UNDERGROUND",
+      "disambiguation": null,
+      "date": "2015-04-08",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "25:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "beyond the beyond",
+            "length": "5:49",
+            "deezer": {
+              "id": 3731053452,
+              "link": "https://www.deezer.com/track/3731053452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/a/0/cdae0e4cca0acf19f43c0dfeffed0435.mp3?hdnea=exp=1795654350~acl=/api/1/1/c/d/a/0/cdae0e4cca0acf19f43c0dfeffed0435.mp3*~data=user_id=0,application_id=42~hmac=5d36c5cda27ff2996a33615410d94756b3c2456fddcc94196d4d1b3ce6bb731d",
+              "preview_expires": "2026-11-26T00:52:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "地下の世界に流れる時間",
+            "length": "3:52"
+          },
+          {
+            "number": "3",
+            "title": "Adam's Apple",
+            "length": "6:20",
+            "deezer": {
+              "id": 3731053472,
+              "link": "https://www.deezer.com/track/3731053472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/3/0/263849929e9f8b9dadac99a7cc8bb659.mp3?hdnea=exp=1795654350~acl=/api/1/1/2/6/3/0/263849929e9f8b9dadac99a7cc8bb659.mp3*~data=user_id=0,application_id=42~hmac=4d543af375b11bc729d680369c8366d0676408dc896b63229b435a82afcec12e",
+              "preview_expires": "2026-11-26T00:52:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Time to think",
+            "length": "5:16",
+            "deezer": {
+              "id": 3731053482,
+              "link": "https://www.deezer.com/track/3731053482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/2/0/812df4cae4b5fb49d1a422755ecc9d77.mp3?hdnea=exp=1795654350~acl=/api/1/1/8/1/2/0/812df4cae4b5fb49d1a422755ecc9d77.mp3*~data=user_id=0,application_id=42~hmac=f932ea2da771bca692ac9543a0c40f166106abc0bb4db548ac90ea5319701188",
+              "preview_expires": "2026-11-26T00:52:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tonight Tonight",
+            "length": "4:21",
+            "deezer": {
+              "id": 3731053492,
+              "link": "https://www.deezer.com/track/3731053492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/b/0/00b4456c50151a0820abe9a5a520efba.mp3?hdnea=exp=1795654350~acl=/api/1/1/0/0/b/0/00b4456c50151a0820abe9a5a520efba.mp3*~data=user_id=0,application_id=42~hmac=00553be4184b9cbda51da888cabb8bd2484fd35fb6dbca837669dcc883ff0f99",
+              "preview_expires": "2026-11-26T00:52:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/fox capture plan/Underground.jpg"
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Woke Up This Morning",
+  "artist": "Alabama 3",
+  "year": 1997,
+  "release_date": "1997-06",
+  "type": "Single",
+  "description": "\"Woke Up This Morning\" is a song by British band Alabama 3 from their 1997 album Exile on Coldharbour Lane. The song is best known as the opening theme music for the American television series The Sopranos, which used a shortened version of the \"Chosen One Mix\" of the song.",
+  "genres": [
+    "acid house",
+    "electro",
+    "electronic",
+    "electronica",
+    "house",
+    "jungle",
+    "rock"
+  ],
+  "tags": [
+    "acid house",
+    "electro",
+    "electronic",
+    "electronica",
+    "house",
+    "jungle",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/90846050-b6f0-3a21-bb5d-b2cb051fba7c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woke_Up_This_Morning",
+    "discogs": "https://www.discogs.com/master/112455",
+    "wikidata": "https://www.wikidata.org/wiki/Q2758436",
+    "deezer": "https://www.deezer.com/album/293204042"
+  },
+  "musicbrainz_id": "90846050-b6f0-3a21-bb5d-b2cb051fba7c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/526641f6-b2c9-4546-9139-4d4f7d8b658a",
+      "barcode": "5023469004124",
+      "title": "Woke Up This Morning",
+      "disambiguation": "CD1",
+      "date": "1997",
+      "country": "GB"
+    },
+    "total_tracks": 4,
+    "total_length": "24:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Woke Up This Morning (Chosen One mix)",
+            "length": "4:09",
+            "deezer": {
+              "id": 1645567962,
+              "link": "https://www.deezer.com/track/1645567962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/7/0/f877e2d011a048db34221caeb6f75cee.mp3?hdnea=exp=1795649044~acl=/api/1/1/f/8/7/0/f877e2d011a048db34221caeb6f75cee.mp3*~data=user_id=0,application_id=42~hmac=5f7523c27cc6d0c5f28e17452ef466d9666dbfe5295d831f087fea5f8b0f675d",
+              "preview_expires": "2026-11-25T23:24:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Converted (Last Supper mix)",
+            "length": "6:31",
+            "deezer": {
+              "id": 1645567972,
+              "link": "https://www.deezer.com/track/1645567972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/0/0/8a0cffd8fa33fd3cc0fdb7e8cdf64a03.mp3?hdnea=exp=1795649044~acl=/api/1/1/8/a/0/0/8a0cffd8fa33fd3cc0fdb7e8cdf64a03.mp3*~data=user_id=0,application_id=42~hmac=431758c6d4d066746600743493f65ed4fd8c7fd9cabd28f6dd4bff387ae604d8",
+              "preview_expires": "2026-11-25T23:24:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Woke Up This Morning (Drillaz in the Church mix)",
+            "length": "6:36",
+            "deezer": {
+              "id": 1645567982,
+              "link": "https://www.deezer.com/track/1645567982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/4/0/00456a74379c9ba531f3cb30dde9fc57.mp3?hdnea=exp=1795649044~acl=/api/1/1/0/0/4/0/00456a74379c9ba531f3cb30dde9fc57.mp3*~data=user_id=0,application_id=42~hmac=62a2945044cba5fdf87c799f1062e79cf33e0c38f1e609555ced74af517880b8",
+              "preview_expires": "2026-11-25T23:24:04Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Woke Up This Morning (Volume mix)",
+            "length": "6:49",
+            "deezer": {
+              "id": 1645567992,
+              "link": "https://www.deezer.com/track/1645567992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/7/0/b57d808da20ce02c1b4a76c4cf86d592.mp3?hdnea=exp=1795649044~acl=/api/1/1/b/5/7/0/b57d808da20ce02c1b4a76c4cf86d592.mp3*~data=user_id=0,application_id=42~hmac=7a23d601b4406aacfd1538707c84d2de8da01d687c8cee61daca0a510aaff877",
+              "preview_expires": "2026-11-25T23:24:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Alabama 3/Woke Up This Morning (From 'The Sopranos').jpg"
+}

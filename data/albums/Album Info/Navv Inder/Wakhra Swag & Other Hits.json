@@ -1,0 +1,51 @@
+{
+  "title": "Wakhra Swag",
+  "artist": "Navv Inder feat. Badshah",
+  "year": 2015,
+  "release_date": "2015-09-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/07cc4fe6-228c-41a2-a8b3-8f1095e983e5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/825639781"
+  },
+  "musicbrainz_id": "07cc4fe6-228c-41a2-a8b3-8f1095e983e5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7831344b-139b-4166-a223-b3798633a321",
+      "barcode": "8902633233614",
+      "title": "Wakhra Swag",
+      "disambiguation": null,
+      "date": "2015-09-10",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wakhra Swag",
+            "length": "3:10",
+            "deezer": {
+              "id": 3567658901,
+              "link": "https://www.deezer.com/track/3567658901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/6/0/b86d9fb63ee541fe1674c65ae15ec092.mp3?hdnea=exp=1795718781~acl=/api/1/1/b/8/6/0/b86d9fb63ee541fe1674c65ae15ec092.mp3*~data=user_id=0,application_id=42~hmac=6c9c6c9d54ca5a6f607bb27c5091b2ed17edc6f33ae9c1bebe0fbfbb1335ca5b",
+              "preview_expires": "2026-11-26T18:46:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Navv Inder/Wakhra Swag & Other Hits.jpg"
+}

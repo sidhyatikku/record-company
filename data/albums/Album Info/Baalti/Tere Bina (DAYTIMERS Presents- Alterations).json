@@ -1,0 +1,45 @@
+{
+  "title": "Tere Bina",
+  "artist": "DAYTIMERS Presents Baalti",
+  "year": 2025,
+  "release_date": "2025-04-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/061adaae-5c8d-486c-a801-aaab47157fd7",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "061adaae-5c8d-486c-a801-aaab47157fd7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0e384194-3e25-4a60-9d33-a4e63127b128",
+      "barcode": null,
+      "title": "Tere Bina",
+      "disambiguation": null,
+      "date": "2025-04-26",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "3:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tere Bina",
+            "length": "3:47"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Baalti/Tere Bina (DAYTIMERS Presents- Alterations).jpg"
+}

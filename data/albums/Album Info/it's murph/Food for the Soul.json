@@ -1,0 +1,51 @@
+{
+  "title": "Food for the Soul",
+  "artist": "it’s murph",
+  "year": 2023,
+  "release_date": "2023-02-17",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/85261386-bbcb-4ed4-addd-47daae56b4fa",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/404502357"
+  },
+  "musicbrainz_id": "85261386-bbcb-4ed4-addd-47daae56b4fa",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c0560a62-1b09-461b-ba14-28c65c183f8f",
+      "barcode": "193436319928",
+      "title": "Food for the Soul",
+      "disambiguation": null,
+      "date": "2023-02-17",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Food for the Soul",
+            "length": "3:31",
+            "deezer": {
+              "id": 2138615107,
+              "link": "https://www.deezer.com/track/2138615107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/c/0/10c11c1bcba1c28dbd65d78eeaa57efb.mp3?hdnea=exp=1795655325~acl=/api/1/1/1/0/c/0/10c11c1bcba1c28dbd65d78eeaa57efb.mp3*~data=user_id=0,application_id=42~hmac=6858e83e228974048400427ac39cfa278641ed74ed822c53ad89d2d2a9ebcfed",
+              "preview_expires": "2026-11-26T01:08:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/it's murph/Food for the Soul.jpg"
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Made in England",
+  "artist": "B21",
+  "year": 2000,
+  "release_date": "2000-01-01",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "indian pop"
+  ],
+  "tags": [
+    "indian pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2ff4088c-a144-4320-b2d2-62c279309165",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001458629",
+    "deezer": "https://www.deezer.com/album/829681381"
+  },
+  "musicbrainz_id": "2ff4088c-a144-4320-b2d2-62c279309165",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/64f29d08-c180-4b5a-88e3-d63ce6ead53f",
+      "barcode": null,
+      "title": "Made in England",
+      "disambiguation": null,
+      "date": "2000-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "27:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Darshan",
+            "length": "5:03",
+            "deezer": {
+              "id": 3578907061,
+              "link": "https://www.deezer.com/track/3578907061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/6/0/176fb98e83d046dcef4394f278843f75.mp3?hdnea=exp=1795651761~acl=/api/1/1/1/7/6/0/176fb98e83d046dcef4394f278843f75.mp3*~data=user_id=0,application_id=42~hmac=95a222f2f76a1c91469626d1e97da3bf15054bc1559d047686fc80973253c06b",
+              "preview_expires": "2026-11-26T00:09:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Kuriya punjab diya",
+            "length": "4:16",
+            "deezer": {
+              "id": 3578907071,
+              "link": "https://www.deezer.com/track/3578907071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/e/0/fce85533f182fbe7811a25f582f05484.mp3?hdnea=exp=1795651761~acl=/api/1/1/f/c/e/0/fce85533f182fbe7811a25f582f05484.mp3*~data=user_id=0,application_id=42~hmac=d166344f3b5a556c3020725e51dd5ec091a9958d16185bde1487042321c22a4e",
+              "preview_expires": "2026-11-26T00:09:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mahi (Soundz of B21) (Rishi Rich mix)",
+            "length": "4:17",
+            "artist": "B21 & Rishi Rich",
+            "deezer": {
+              "id": 3578907081,
+              "link": "https://www.deezer.com/track/3578907081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/7/0/8a79c9cd620d923279dfe1a3e850d913.mp3?hdnea=exp=1795651761~acl=/api/1/1/8/a/7/0/8a79c9cd620d923279dfe1a3e850d913.mp3*~data=user_id=0,application_id=42~hmac=db7025202c16e7a625d0b546ff15155c7db77bd4b5f38f2fdd00bac30b2ee3cc",
+              "preview_expires": "2026-11-26T00:09:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Darshan (Pa mix)",
+            "length": "4:43",
+            "deezer": {
+              "id": 3578907091,
+              "link": "https://www.deezer.com/track/3578907091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/a/0/22a094c28d2ffbd730ab00fb3e07bf29.mp3?hdnea=exp=1795651761~acl=/api/1/1/2/2/a/0/22a094c28d2ffbd730ab00fb3e07bf29.mp3*~data=user_id=0,application_id=42~hmac=55e972b11e6d81a0d9b3b0cbe1f12d660d84661d793ad80626b456796a1cb3bb",
+              "preview_expires": "2026-11-26T00:09:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Kuriya punjab diya (Pa mix)",
+            "length": "4:16",
+            "deezer": {
+              "id": 3578907101,
+              "link": "https://www.deezer.com/track/3578907101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/d/0/f1de58b18b3a051b6f3e928b433857c4.mp3?hdnea=exp=1795651761~acl=/api/1/1/f/1/d/0/f1de58b18b3a051b6f3e928b433857c4.mp3*~data=user_id=0,application_id=42~hmac=c4144b1e60aa2f3f5393fd1dd8b41847a909fa419a4b222ccc5c3df415fa57b5",
+              "preview_expires": "2026-11-26T00:09:21Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mahi (Soundz of B21) (Bally Jagpal mix)",
+            "length": "4:32",
+            "deezer": {
+              "id": 3578907111,
+              "link": "https://www.deezer.com/track/3578907111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/a/0/5ea2bb19031da5ee298b163e8a497ac4.mp3?hdnea=exp=1795651761~acl=/api/1/1/5/e/a/0/5ea2bb19031da5ee298b163e8a497ac4.mp3*~data=user_id=0,application_id=42~hmac=0cf29de211c8ab33d28706ed29d4e6bf0cf17f09a65406904859f935d9e35e2b",
+              "preview_expires": "2026-11-26T00:09:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/B21/Made in England.jpg"
+}

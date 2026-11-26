@@ -1,0 +1,439 @@
+{
+  "title": "Blur",
+  "artist": "Blur",
+  "year": 1997,
+  "release_date": "1997-01-29",
+  "type": "Album",
+  "description": "Blur is the fifth studio album by the English rock band Blur, released on 10 February 1997 by Food Records. Blur had previously been broadly critical of American popular culture and their previous albums had become associated with the Britpop movement, particularly Parklife, which had helped them become one of Britain's leading pop acts. After their previous album, The Great Escape, the band faced media backlash and relationships between the members became strained.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "britpop",
+    "indie rock",
+    "slacker rock",
+    "art rock",
+    "experimental",
+    "lo-fi",
+    "neo-psychedelia",
+    "pop",
+    "post-grunge",
+    "psychedelic"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "britpop",
+    "indie rock",
+    "slacker rock",
+    "alternative pop/rock",
+    "art rock",
+    "brit pop",
+    "dense",
+    "eclectic",
+    "energetic",
+    "experimental",
+    "lo-fi",
+    "melodic",
+    "neo-psychedelia",
+    "pop",
+    "post-grunge",
+    "psychedelic",
+    "quirky"
+  ],
+  "rating": {
+    "value_out_of_5": 3.8,
+    "votes": 16
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fdd6c833-3c96-33cb-9917-72e15bcd34bc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blur_(Blur_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000082694",
+    "discogs": "https://www.discogs.com/master/34508",
+    "wikidata": "https://www.wikidata.org/wiki/Q548770",
+    "deezer": "https://www.deezer.com/album/3742991"
+  },
+  "musicbrainz_id": "fdd6c833-3c96-33cb-9917-72e15bcd34bc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1f2704d9-59d4-4007-bbb7-4d569981aad1",
+      "barcode": "5099964483054",
+      "title": "Blur",
+      "disambiguation": "special edition",
+      "date": "",
+      "country": "AF"
+    },
+    "total_tracks": 32,
+    "total_length": "2:03:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Beetlebum",
+            "length": "5:05",
+            "deezer": {
+              "id": 38441791,
+              "link": "https://www.deezer.com/track/38441791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/a/0/8aa38a90b22d8ac7568e1771af5edcab.mp3?hdnea=exp=1795652354~acl=/api/1/1/8/a/a/0/8aa38a90b22d8ac7568e1771af5edcab.mp3*~data=user_id=0,application_id=42~hmac=243c7442681f9363344803fb999be9b9e12932cdda8bd74b8b0ee17bb1a9a0d6",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Song 2",
+            "length": "2:01",
+            "deezer": {
+              "id": 38441801,
+              "link": "https://www.deezer.com/track/38441801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/9/0/b1913fbb2efa47444b31bd4f611d59da.mp3?hdnea=exp=1795652354~acl=/api/1/1/b/1/9/0/b1913fbb2efa47444b31bd4f611d59da.mp3*~data=user_id=0,application_id=42~hmac=d6955dded3933515ee72551539fd1ade412799499732c681b690ec1c4a75ee09",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Country Sad Ballad Man",
+            "length": "4:50",
+            "deezer": {
+              "id": 38441811,
+              "link": "https://www.deezer.com/track/38441811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/7/0/d97816dccc4e3ecdeacb1d57ea1c1f57.mp3?hdnea=exp=1795652354~acl=/api/1/1/d/9/7/0/d97816dccc4e3ecdeacb1d57ea1c1f57.mp3*~data=user_id=0,application_id=42~hmac=0754e64892d0c3f637843ee641e96fca6a1705f3ac907d2e64c6a13b54e896e6",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "M.O.R.",
+            "length": "3:27",
+            "deezer": {
+              "id": 38441821,
+              "link": "https://www.deezer.com/track/38441821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/4/0/794b56b7ad47e1a66320048566f1cf71.mp3?hdnea=exp=1795652354~acl=/api/1/1/7/9/4/0/794b56b7ad47e1a66320048566f1cf71.mp3*~data=user_id=0,application_id=42~hmac=44f75444bb5a70de8d875eb012ecf7527d291c4eeef134611aeb2e2e130db226",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "On Your Own",
+            "length": "4:26",
+            "deezer": {
+              "id": 38441831,
+              "link": "https://www.deezer.com/track/38441831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/1/0/be1c62dc1af003b1031f8f5170ac0ca5.mp3?hdnea=exp=1795652354~acl=/api/1/1/b/e/1/0/be1c62dc1af003b1031f8f5170ac0ca5.mp3*~data=user_id=0,application_id=42~hmac=0015805c14487d7febbdadf30606bcced5cd6e8970afa6beb5224c636c7d23ff",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Theme From Retro",
+            "length": "3:37",
+            "deezer": {
+              "id": 38441841,
+              "link": "https://www.deezer.com/track/38441841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/3/0/f33863eb71625bb3c85a4e6d8cfddc07.mp3?hdnea=exp=1795652354~acl=/api/1/1/f/3/3/0/f33863eb71625bb3c85a4e6d8cfddc07.mp3*~data=user_id=0,application_id=42~hmac=51d90ceb7734b5444feb68db7550191e62c25855f3eb71f23197989c0803f29d",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "You’re So Great",
+            "length": "3:36",
+            "deezer": {
+              "id": 38441851,
+              "link": "https://www.deezer.com/track/38441851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/deecd82f6e566fe20b19d8352a868e09.mp3?hdnea=exp=1795652354~acl=/api/1/1/d/e/e/0/deecd82f6e566fe20b19d8352a868e09.mp3*~data=user_id=0,application_id=42~hmac=75b78fb54d8d06f07aa179e80f1db065b91eeddd5540c1b0f753d728545fdbc2",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Death of a Party",
+            "length": "4:34",
+            "deezer": {
+              "id": 38441861,
+              "link": "https://www.deezer.com/track/38441861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/6/0/306b4b0c78c2544c61a0012963a84e34.mp3?hdnea=exp=1795652354~acl=/api/1/1/3/0/6/0/306b4b0c78c2544c61a0012963a84e34.mp3*~data=user_id=0,application_id=42~hmac=7d48964b56c0f11b2f15497e6489d2b75f95fef63b6058542104ca12981e4a9b",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Chinese Bombs",
+            "length": "1:25",
+            "deezer": {
+              "id": 38441871,
+              "link": "https://www.deezer.com/track/38441871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/b/0/9ebb15eab9a370e5558e9607ca58247e.mp3?hdnea=exp=1795652354~acl=/api/1/1/9/e/b/0/9ebb15eab9a370e5558e9607ca58247e.mp3*~data=user_id=0,application_id=42~hmac=8f9f8da27feefcd507dafb23658fa269667d8d93c0ed0570ba947176f8d9c4a0",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Just a Killer for Your Love",
+            "length": "4:12",
+            "deezer": {
+              "id": 38441881,
+              "link": "https://www.deezer.com/track/38441881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/f/0/d0f0654b2a08021598c9b2fc0664d89d.mp3?hdnea=exp=1795652354~acl=/api/1/1/d/0/f/0/d0f0654b2a08021598c9b2fc0664d89d.mp3*~data=user_id=0,application_id=42~hmac=9c2056929c8e2497fee548c069b9ae77c713dde987aeb544562819c41abcf0d7",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Look Inside America",
+            "length": "3:50",
+            "deezer": {
+              "id": 38441891,
+              "link": "https://www.deezer.com/track/38441891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/5/0/c955edf24380d235f0a074ada535f221.mp3?hdnea=exp=1795652354~acl=/api/1/1/c/9/5/0/c955edf24380d235f0a074ada535f221.mp3*~data=user_id=0,application_id=42~hmac=baa4a85281760bcd4b2c91596f83c795914876f3a9736183be2aafe75a1ab820",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Strange News From Another Star",
+            "length": "4:03",
+            "deezer": {
+              "id": 38441901,
+              "link": "https://www.deezer.com/track/38441901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/c/0/87cf068fbcff68285456fd6bf364a3ce.mp3?hdnea=exp=1795652354~acl=/api/1/1/8/7/c/0/87cf068fbcff68285456fd6bf364a3ce.mp3*~data=user_id=0,application_id=42~hmac=3e3891ebe0952a689ddb750a56213a576e4080986768f5cc0ca90f12f14a066c",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Movin’ On",
+            "length": "3:43",
+            "deezer": {
+              "id": 38441911,
+              "link": "https://www.deezer.com/track/38441911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/0/0/f50fec31b169782f34c3c75ea338b04e.mp3?hdnea=exp=1795652354~acl=/api/1/1/f/5/0/0/f50fec31b169782f34c3c75ea338b04e.mp3*~data=user_id=0,application_id=42~hmac=fccc4c861d50c0d66fbb07f25de995945bb0eaeaf4827dbadb09f3ca374e1ddb",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Essex Dogs",
+            "length": "8:10",
+            "deezer": {
+              "id": 38441921,
+              "link": "https://www.deezer.com/track/38441921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/a/0/61aa489e7b189337af176bc1604aa673.mp3?hdnea=exp=1795652354~acl=/api/1/1/6/1/a/0/61aa489e7b189337af176bc1604aa673.mp3*~data=user_id=0,application_id=42~hmac=3cca6571a2edcdaf7ee4a69bf891565124502ec9b0a437e217b79e319bf5a695",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "All Your Life",
+            "length": "4:12",
+            "deezer": {
+              "id": 38441931,
+              "link": "https://www.deezer.com/track/38441931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/6/0/fb6ea453ca235a872de6253337803497.mp3?hdnea=exp=1795652354~acl=/api/1/1/f/b/6/0/fb6ea453ca235a872de6253337803497.mp3*~data=user_id=0,application_id=42~hmac=bf3c36381987d4ad643d9ba442d10edc15236cc74d7b03c419bbbd5477b6cf3c",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "A Spell (For Money)",
+            "length": "3:30",
+            "deezer": {
+              "id": 38441941,
+              "link": "https://www.deezer.com/track/38441941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/b/0/cab891a48c09d3528588e4ae49a95f1f.mp3?hdnea=exp=1795652354~acl=/api/1/1/c/a/b/0/cab891a48c09d3528588e4ae49a95f1f.mp3*~data=user_id=0,application_id=42~hmac=639beec3a5ca2b9205646db433bc41b05356763438c29d215cf96506b2916e17",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Woodpigeon Song",
+            "length": "1:43",
+            "deezer": {
+              "id": 38441951,
+              "link": "https://www.deezer.com/track/38441951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/a/0/daa5d7c280ac1f3c9d17adfb6fb11a1e.mp3?hdnea=exp=1795652354~acl=/api/1/1/d/a/a/0/daa5d7c280ac1f3c9d17adfb6fb11a1e.mp3*~data=user_id=0,application_id=42~hmac=893cdcb1f5d9461c02e472a88c5ae8648fddc8313e7a7b3b47885035ab8a3f24",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dancehall",
+            "length": "3:11",
+            "deezer": {
+              "id": 38441961,
+              "link": "https://www.deezer.com/track/38441961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/c/0/aac455ec28a06aa541ddf3637e6ca6de.mp3?hdnea=exp=1795652354~acl=/api/1/1/a/a/c/0/aac455ec28a06aa541ddf3637e6ca6de.mp3*~data=user_id=0,application_id=42~hmac=fed972414637eb1b156123d54f8a586fda71b1e13ce2554e151af20b12a367f6",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Get Out of Cities",
+            "length": "4:03",
+            "deezer": {
+              "id": 38441971,
+              "link": "https://www.deezer.com/track/38441971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/8/0/98806510b4002674b673d38f40b449fd.mp3?hdnea=exp=1795652354~acl=/api/1/1/9/8/8/0/98806510b4002674b673d38f40b449fd.mp3*~data=user_id=0,application_id=42~hmac=f2966c53f7fb952871c0f1164fe47a6e2b9f663e3cf82deac9d0c1f8d8e192ba",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Polished Stone",
+            "length": "2:43",
+            "deezer": {
+              "id": 38441981,
+              "link": "https://www.deezer.com/track/38441981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/d/0/70d698cafd977be995565956e98ba91d.mp3?hdnea=exp=1795652354~acl=/api/1/1/7/0/d/0/70d698cafd977be995565956e98ba91d.mp3*~data=user_id=0,application_id=42~hmac=c6adc982881a19c9c077115d1cc699419e02492aab11c1c3b0842677f0656be9",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bustin’ and Dronin’",
+            "length": "6:32",
+            "deezer": {
+              "id": 38441991,
+              "link": "https://www.deezer.com/track/38441991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/b/0/77ba74a12e78d3925f2993782bda8882.mp3?hdnea=exp=1795652354~acl=/api/1/1/7/7/b/0/77ba74a12e78d3925f2993782bda8882.mp3*~data=user_id=0,application_id=42~hmac=2c1a9ba44b5c092fdb3f95efcef9e22cfe183abab820ef5f2752b45a4c4b5b49",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "M.O.R. (Road version)",
+            "length": "3:02",
+            "deezer": {
+              "id": 38442001,
+              "link": "https://www.deezer.com/track/38442001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/f/0/bbf5092b2d622f0fb871fe209603efdd.mp3?hdnea=exp=1795652354~acl=/api/1/1/b/b/f/0/bbf5092b2d622f0fb871fe209603efdd.mp3*~data=user_id=0,application_id=42~hmac=43cd4fc3ee9b6eaa8ff62bd14885dcd410b2bc6c8e2e715b7efad9595d408340",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Swallows in the Heatwave",
+            "length": "2:33",
+            "deezer": {
+              "id": 38442011,
+              "link": "https://www.deezer.com/track/38442011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/0/0/a909761660e734fae9dc098688951c6b.mp3?hdnea=exp=1795652354~acl=/api/1/1/a/9/0/0/a909761660e734fae9dc098688951c6b.mp3*~data=user_id=0,application_id=42~hmac=51b4e395f7b4b06e8bbaf3ab5c9e1ba2d19c5fdeb6ee51c69807fc3e60612d57",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Death of a Party (7” remix)",
+            "length": "4:19",
+            "deezer": {
+              "id": 38442021,
+              "link": "https://www.deezer.com/track/38442021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/3/0/383276e615395bcb4ff5f872ff0eabb4.mp3?hdnea=exp=1795652354~acl=/api/1/1/3/8/3/0/383276e615395bcb4ff5f872ff0eabb4.mp3*~data=user_id=0,application_id=42~hmac=7da4e9415e1ede5579b193efe4f60017034ee0c49c1efedf9a597967d4177e2e",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Cowboy Song",
+            "length": "4:07",
+            "deezer": {
+              "id": 38442031,
+              "link": "https://www.deezer.com/track/38442031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/1/0/a2119a6767bf1b57e57fd36efb2004ba.mp3?hdnea=exp=1795652354~acl=/api/1/1/a/2/1/0/a2119a6767bf1b57e57fd36efb2004ba.mp3*~data=user_id=0,application_id=42~hmac=32b2dfe5d155234b6d114fb87193e391525bdb571b45f18fb6f38cfd90f1ca80",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Beetlebum (live acoustic version)",
+            "length": "4:34",
+            "deezer": {
+              "id": 38442041,
+              "link": "https://www.deezer.com/track/38442041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56a3bae2ecad382fde5b315e7ced8aeb.mp3?hdnea=exp=1795652354~acl=/api/1/1/5/6/a/0/56a3bae2ecad382fde5b315e7ced8aeb.mp3*~data=user_id=0,application_id=42~hmac=5f851c872156c7746e8e75963f5424110918959e36be4e50dfbe7da4eee5e056",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "On Your Own (live acoustic version)",
+            "length": "4:11",
+            "deezer": {
+              "id": 38442051,
+              "link": "https://www.deezer.com/track/38442051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/1/0/0e105490d082700e78d7cd2150eff357.mp3?hdnea=exp=1795652354~acl=/api/1/1/0/e/1/0/0e105490d082700e78d7cd2150eff357.mp3*~data=user_id=0,application_id=42~hmac=88a8aac2cedb8103180a6415c9bae8ac61bbf07baf5a9452abbd9fba3c867055",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Country Sad Ballad Man (live acoustic version)",
+            "length": "4:44",
+            "deezer": {
+              "id": 38442061,
+              "link": "https://www.deezer.com/track/38442061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/5/0/155d56dcee818a4cd17269d2cdb75c40.mp3?hdnea=exp=1795652354~acl=/api/1/1/1/5/5/0/155d56dcee818a4cd17269d2cdb75c40.mp3*~data=user_id=0,application_id=42~hmac=f184f2089bbdd29dd035ca7bfa3a035fffc1c9d46c67909bd48a88ee950381eb",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "This Is a Low (live acoustic version)",
+            "length": "3:32",
+            "deezer": {
+              "id": 38442071,
+              "link": "https://www.deezer.com/track/38442071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/b/0/a3bd9b638fe06d334cc523baca40c910.mp3?hdnea=exp=1795652354~acl=/api/1/1/a/3/b/0/a3bd9b638fe06d334cc523baca40c910.mp3*~data=user_id=0,application_id=42~hmac=1dcbd6e4bec78d75d36491e765042c097647f9ba95c3a6373416bfa44ea11db6",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "M.O.R. (live in Utrecht)",
+            "length": "3:18",
+            "deezer": {
+              "id": 38442081,
+              "link": "https://www.deezer.com/track/38442081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/c/0/3dc8d8ac60a9770ae2171bd1acc9c86d.mp3?hdnea=exp=1795652354~acl=/api/1/1/3/d/c/0/3dc8d8ac60a9770ae2171bd1acc9c86d.mp3*~data=user_id=0,application_id=42~hmac=f2cd944b195689799a64a8652928a93d2e71594c8378967f5bc5757dd63c069f",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Death of a Party (live in Utrecht)",
+            "length": "4:16",
+            "deezer": {
+              "id": 38442091,
+              "link": "https://www.deezer.com/track/38442091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/0/0/c9066c1f9fac4dcfd5441ea8a0efa929.mp3?hdnea=exp=1795652354~acl=/api/1/1/c/9/0/0/c9066c1f9fac4dcfd5441ea8a0efa929.mp3*~data=user_id=0,application_id=42~hmac=3e7176b879680f050045d0a1c0e36771ad4b3f87d5c99b7395ba68b4f722588e",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Song 2 (live in Utrecht)",
+            "length": "2:07",
+            "deezer": {
+              "id": 38442101,
+              "link": "https://www.deezer.com/track/38442101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/b/0/49b13574bc6edc2381a05af49218899f.mp3?hdnea=exp=1795652354~acl=/api/1/1/4/9/b/0/49b13574bc6edc2381a05af49218899f.mp3*~data=user_id=0,application_id=42~hmac=ad61df3c83c6f684f2882fcee92c675202e1e3840f67844c2cfb58f06dfc9801",
+              "preview_expires": "2026-11-26T00:19:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Blur/Blur.jpg"
+}

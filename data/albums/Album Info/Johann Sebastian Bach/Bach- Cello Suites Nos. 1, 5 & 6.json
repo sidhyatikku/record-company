@@ -1,0 +1,256 @@
+{
+  "title": "Cello Suites nos. 1, 5 & 6",
+  "artist": "J. S. Bach; Yo‐Yo Ma",
+  "year": 2002,
+  "release_date": "2002-08-27",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/74342b19-358b-3eba-842e-3f86d3e6bfac",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/7066714"
+  },
+  "musicbrainz_id": "74342b19-358b-3eba-842e-3f86d3e6bfac",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ac661b8b-688d-48e8-9087-ea7164e78bba",
+      "barcode": "696998979628",
+      "title": "Cello Suites nos. 1, 5 & 6",
+      "disambiguation": null,
+      "date": "2002-08-27",
+      "country": "US"
+    },
+    "total_tracks": 18,
+    "total_length": "1:07:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Cello Suite no. 1 in G major: I. Prelude",
+            "length": "2:32",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943003,
+              "link": "https://www.deezer.com/track/71943003",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/5/0/105c222003bfb1a3c982057b4f2bc1ac.mp3?hdnea=exp=1795655649~acl=/api/1/1/1/0/5/0/105c222003bfb1a3c982057b4f2bc1ac.mp3*~data=user_id=0,application_id=42~hmac=3edf40850f9f3b8b8768a785bf8aa715037635a33ec9e2fc757f8b488f4df5dc",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Cello Suite no. 1 in G major: II. Allemande",
+            "length": "3:47",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943004,
+              "link": "https://www.deezer.com/track/71943004",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/9/0/91956e67fb9b84d609cc99e642bbbaa9.mp3?hdnea=exp=1795655649~acl=/api/1/1/9/1/9/0/91956e67fb9b84d609cc99e642bbbaa9.mp3*~data=user_id=0,application_id=42~hmac=1f90c96e95b331a20b6fa448bdd2884ce816bef5193f79f32bd13a711966c132",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Cello Suite no. 1 in G major: III. Courante",
+            "length": "2:25",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943005,
+              "link": "https://www.deezer.com/track/71943005",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/0/0/5f09a6e295e1fdde61ca394283deb1bf.mp3?hdnea=exp=1795655649~acl=/api/1/1/5/f/0/0/5f09a6e295e1fdde61ca394283deb1bf.mp3*~data=user_id=0,application_id=42~hmac=925f89443119623406cbe49b1b1496af529d2b9f047c891eb1bf492f94fb208e",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Cello Suite no. 1 in G major: IV. Sarabande",
+            "length": "2:56",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943006,
+              "link": "https://www.deezer.com/track/71943006",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/2/0/e127ef48dda0181de9f46d5913fdd019.mp3?hdnea=exp=1795655649~acl=/api/1/1/e/1/2/0/e127ef48dda0181de9f46d5913fdd019.mp3*~data=user_id=0,application_id=42~hmac=0b936d961f6bba7f77aecfbf88faf3e60d2309d741e2375e535523c57d952018",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Cello Suite no. 1 in G major: V. Menuett",
+            "length": "3:05",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943007,
+              "link": "https://www.deezer.com/track/71943007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/9/0/139ba65fe025690a5aa05272271a232d.mp3?hdnea=exp=1795655649~acl=/api/1/1/1/3/9/0/139ba65fe025690a5aa05272271a232d.mp3*~data=user_id=0,application_id=42~hmac=801b5247aa167881d0b6f250f2b638c3b1cb61be9ebd94f57a30123d4829ef98",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Cello Suite no. 1 in G major: VI. Gigue",
+            "length": "1:54",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943008,
+              "link": "https://www.deezer.com/track/71943008",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/b/0/c7bc8a3e1f5bc4fb268574b6e51541c9.mp3?hdnea=exp=1795655649~acl=/api/1/1/c/7/b/0/c7bc8a3e1f5bc4fb268574b6e51541c9.mp3*~data=user_id=0,application_id=42~hmac=5e7a2cb7597a7d99336e290429b717a95bf498f1d92352f0849c9170def7b97f",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Cello Suite no. 5 in C minor: I. Prelude",
+            "length": "6:18",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943009,
+              "link": "https://www.deezer.com/track/71943009",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/c/0/ebcbe81ae914586630444486ff22e74b.mp3?hdnea=exp=1795655649~acl=/api/1/1/e/b/c/0/ebcbe81ae914586630444486ff22e74b.mp3*~data=user_id=0,application_id=42~hmac=5506bdb012c25e2f035af435a61810cf3c855094aa11c94ad60bdc9b16fd0ab7",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Cello Suite no. 5 in C minor: II. Allemande",
+            "length": "5:22",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943010,
+              "link": "https://www.deezer.com/track/71943010",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/2/0/922158b5859cb5e45421973f2d50da14.mp3?hdnea=exp=1795655649~acl=/api/1/1/9/2/2/0/922158b5859cb5e45421973f2d50da14.mp3*~data=user_id=0,application_id=42~hmac=9214f215c5b385a6a0ca3bee34b3515f0ebc902f55029ea1bd764d6beaea3645",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Cello Suite no. 5 in C minor: III. Courante",
+            "length": "1:56",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943011,
+              "link": "https://www.deezer.com/track/71943011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/9/0/79917474acc7c1b6c575c3f9d93c3554.mp3?hdnea=exp=1795655649~acl=/api/1/1/7/9/9/0/79917474acc7c1b6c575c3f9d93c3554.mp3*~data=user_id=0,application_id=42~hmac=aafbf9e1ea9171de69178e303d7932aac07c5ce55f3fce758c44e2a2a6c0d861",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Cello Suite no. 5 in C minor: IV. Sarabande",
+            "length": "3:18",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943012,
+              "link": "https://www.deezer.com/track/71943012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/2/0/80221b9dbc34a6157f4e70d7114739ae.mp3?hdnea=exp=1795655649~acl=/api/1/1/8/0/2/0/80221b9dbc34a6157f4e70d7114739ae.mp3*~data=user_id=0,application_id=42~hmac=fb09bf55c9fd5498355401b5c4efc6780843f535796ba7ca8f0c7c8a321106a9",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Cello Suite no. 5 in C minor: V. Gavotte",
+            "length": "4:15",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943013,
+              "link": "https://www.deezer.com/track/71943013",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/4/0/5f4ffce21a052e05a9fc6eebd67d1d42.mp3?hdnea=exp=1795655649~acl=/api/1/1/5/f/4/0/5f4ffce21a052e05a9fc6eebd67d1d42.mp3*~data=user_id=0,application_id=42~hmac=7d577ef2c9bc563a1ff1591d4b115a2df320ae0ed67a7721168be51f82d7c5b2",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Cello Suite no. 5 in C minor: VI. Gigue",
+            "length": "2:38",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943014,
+              "link": "https://www.deezer.com/track/71943014",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/b/0/22bb7f84a2fe57eb852d667a8b7d5d02.mp3?hdnea=exp=1795655649~acl=/api/1/1/2/2/b/0/22bb7f84a2fe57eb852d667a8b7d5d02.mp3*~data=user_id=0,application_id=42~hmac=03945230e4792a915cca2a832686bfdf6a50d22c194cb016dc463ca7cfdd036a",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Cello Suite no. 6 in D major: I. Prelude",
+            "length": "4:12",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943015,
+              "link": "https://www.deezer.com/track/71943015",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/d/0/f9de8484c686aa616f61cb54b2277cd8.mp3?hdnea=exp=1795655649~acl=/api/1/1/f/9/d/0/f9de8484c686aa616f61cb54b2277cd8.mp3*~data=user_id=0,application_id=42~hmac=f40042806369a9b3e7d464b04aabb10d8239c1ec0b050fdf045a391fc8c0df94",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Cello Suite no. 6 in D major: II. Allemande",
+            "length": "7:02",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943016,
+              "link": "https://www.deezer.com/track/71943016",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/7/0/8c714299d5c4aa95ad2a03a4f8f082c6.mp3?hdnea=exp=1795655649~acl=/api/1/1/8/c/7/0/8c714299d5c4aa95ad2a03a4f8f082c6.mp3*~data=user_id=0,application_id=42~hmac=5ec91a0ed079256e22a82eebbe15c0a7ca9ea396e9c020fecbf4359f8c44d384",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Cello Suite no. 6 in D major: III. Courante",
+            "length": "3:43",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943017,
+              "link": "https://www.deezer.com/track/71943017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/d/0/3cd643ad4aba9ceee564eb684ca7a326.mp3?hdnea=exp=1795655649~acl=/api/1/1/3/c/d/0/3cd643ad4aba9ceee564eb684ca7a326.mp3*~data=user_id=0,application_id=42~hmac=ba616dd8a4d20b8870158e0f64fea6342e01dfc929e184f223683089843516e6",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Cello Suite no. 6 in D major: IV. Sarabande",
+            "length": "4:31",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943018,
+              "link": "https://www.deezer.com/track/71943018",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/4/0/414ff0f50cc35c97e401db246c0b318e.mp3?hdnea=exp=1795655649~acl=/api/1/1/4/1/4/0/414ff0f50cc35c97e401db246c0b318e.mp3*~data=user_id=0,application_id=42~hmac=1e5e8f6aaefb213f8fdad5fa96fe1548ccc99f762f07bbe516555a728cde9ce5",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Cello Suite no. 6 in D major: V. Gavotte",
+            "length": "3:28",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943019,
+              "link": "https://www.deezer.com/track/71943019",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/3/0/2b3ff30f3b6d1c7b0fd7a9cc50a8abf7.mp3?hdnea=exp=1795655649~acl=/api/1/1/2/b/3/0/2b3ff30f3b6d1c7b0fd7a9cc50a8abf7.mp3*~data=user_id=0,application_id=42~hmac=81dde281b737a72a2162b93035ed6467114d7ba908416e7e675132eacd3ec908",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Cello Suite no. 6 in D major: VI. Gigue",
+            "length": "3:52",
+            "artist": "Johann Sebastian Bach",
+            "deezer": {
+              "id": 71943020,
+              "link": "https://www.deezer.com/track/71943020",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/d/0/12d951d695cea412c633e8aa38455231.mp3?hdnea=exp=1795655649~acl=/api/1/1/1/2/d/0/12d951d695cea412c633e8aa38455231.mp3*~data=user_id=0,application_id=42~hmac=1e2be1a4f2fc76a7ad28df2b1ffdaab0fc2f7d2d7ff81b39e8584023ef7002bb",
+              "preview_expires": "2026-11-26T01:14:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Johann Sebastian Bach/Bach- Cello Suites Nos. 1, 5 & 6.jpg"
+}

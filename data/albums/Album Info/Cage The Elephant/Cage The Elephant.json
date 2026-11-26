@@ -1,0 +1,194 @@
+{
+  "title": "Cage the Elephant",
+  "artist": "Cage the Elephant",
+  "year": 2008,
+  "release_date": "2008-01-01",
+  "type": "Album",
+  "description": "Cage the Elephant is the debut studio album by American rock band Cage the Elephant. The album was produced by Jay Joyce and released on 23 June 2008, in Europe by Relentless Records, and on 24 March 2009, in the United States by RCA/Jive Label Group. It was certified platinum by the RIAA and spawned four singles.",
+  "genres": [
+    "alternative rock",
+    "indie rock",
+    "punk blues",
+    "rock",
+    "garage rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "indie rock",
+    "alternative",
+    "punk blues",
+    "rock",
+    "alternative/indie rock",
+    "garage rock",
+    "pop/rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fbd0f91f-e5a3-3fef-8363-663ec65ce1ff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cage_the_Elephant_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000816114",
+    "discogs": "https://www.discogs.com/master/227383",
+    "wikidata": "https://www.wikidata.org/wiki/Q1950243",
+    "deezer": "https://www.deezer.com/album/74390132"
+  },
+  "musicbrainz_id": "fbd0f91f-e5a3-3fef-8363-663ec65ce1ff",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ee14f43d-f80a-4484-8880-6a45ddac9dd5",
+      "barcode": "886447357378",
+      "title": "Cage the Elephant",
+      "disambiguation": "expanded edition",
+      "date": "2009-03-24",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "41:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "In One Ear",
+            "length": "4:01",
+            "deezer": {
+              "id": 561626922,
+              "link": "https://www.deezer.com/track/561626922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/f/0/abf3f43e74d57640f6ffae3364145f5d.mp3?hdnea=exp=1795652632~acl=/api/1/1/a/b/f/0/abf3f43e74d57640f6ffae3364145f5d.mp3*~data=user_id=0,application_id=42~hmac=9606c88ecb1b38151b182527794ae8297c1d8e052261b4e0d90dadcfefaa7632",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "James Brown",
+            "length": "3:21",
+            "deezer": {
+              "id": 561626932,
+              "link": "https://www.deezer.com/track/561626932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/5/0/6753b990f8cfb7f03bba79c6eb143b71.mp3?hdnea=exp=1795652632~acl=/api/1/1/6/7/5/0/6753b990f8cfb7f03bba79c6eb143b71.mp3*~data=user_id=0,application_id=42~hmac=ce95f426d6594b46666b57115ab8bb46c231f3ba90188ba5dc14020d99f8e962",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ain't No Rest for the Wicked",
+            "length": "2:55",
+            "deezer": {
+              "id": 561626942,
+              "link": "https://www.deezer.com/track/561626942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/6/0/7e616724e6bb657ce0fb51526d8cd168.mp3?hdnea=exp=1795652632~acl=/api/1/1/7/e/6/0/7e616724e6bb657ce0fb51526d8cd168.mp3*~data=user_id=0,application_id=42~hmac=c57c7ba18ce0594ab0fdbbd57cb54c5f94b24a8f416c7c900c0939053894df4e",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tiny Little Robots",
+            "length": "4:11",
+            "deezer": {
+              "id": 561626952,
+              "link": "https://www.deezer.com/track/561626952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/b/0/3bb9a8e3f5d2440579a480b9bb469561.mp3?hdnea=exp=1795652632~acl=/api/1/1/3/b/b/0/3bb9a8e3f5d2440579a480b9bb469561.mp3*~data=user_id=0,application_id=42~hmac=6eb5a81f759198585fa9bc9578cead3f8b2eba2217620274784a576def27f828",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Lotus",
+            "length": "3:17",
+            "deezer": {
+              "id": 561626962,
+              "link": "https://www.deezer.com/track/561626962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/e/0/24e6c7955cff2753d7e200085ff68ed9.mp3?hdnea=exp=1795652632~acl=/api/1/1/2/4/e/0/24e6c7955cff2753d7e200085ff68ed9.mp3*~data=user_id=0,application_id=42~hmac=8513042d8a21ade7adcebe3b9ee19a0a255c3cb430fc1fbbbe80150066bf3049",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Back Against the Wall",
+            "length": "3:48",
+            "deezer": {
+              "id": 561626972,
+              "link": "https://www.deezer.com/track/561626972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/2/0/5f26da111921516ec323683be425e2d3.mp3?hdnea=exp=1795652632~acl=/api/1/1/5/f/2/0/5f26da111921516ec323683be425e2d3.mp3*~data=user_id=0,application_id=42~hmac=7a5b4cf05039eab17b03edfc38517abe23a2f18a72fc55c791ac9f20e718823e",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Drones in the Valley",
+            "length": "2:28",
+            "deezer": {
+              "id": 561626982,
+              "link": "https://www.deezer.com/track/561626982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/1/0/fc1426017d7b64cc0f04629b3ce587d5.mp3?hdnea=exp=1795652632~acl=/api/1/1/f/c/1/0/fc1426017d7b64cc0f04629b3ce587d5.mp3*~data=user_id=0,application_id=42~hmac=6a6ddcfcddc4c79331f37d7ec2f31a3db6bd8dacc0fbad204bf61514f4100a1b",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Judas",
+            "length": "3:27",
+            "deezer": {
+              "id": 561626992,
+              "link": "https://www.deezer.com/track/561626992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/e/0/5fe9404bb8c5c8bd108c2b8b3723e15a.mp3?hdnea=exp=1795652632~acl=/api/1/1/5/f/e/0/5fe9404bb8c5c8bd108c2b8b3723e15a.mp3*~data=user_id=0,application_id=42~hmac=403911b22369ad366b25c30e7a20685f1ac0b44808ef5eb5c2083f0fa361a521",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Back Stabbin' Betty",
+            "length": "3:39",
+            "deezer": {
+              "id": 561627002,
+              "link": "https://www.deezer.com/track/561627002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/8/0/2e8f4d51a8c29c30282584f940d35e67.mp3?hdnea=exp=1795652632~acl=/api/1/1/2/e/8/0/2e8f4d51a8c29c30282584f940d35e67.mp3*~data=user_id=0,application_id=42~hmac=4cd0fe4d952e39a8a35cdc766de19df883b9cb4913f5a883bd68b912e30c4a58",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Soil to the Sun",
+            "length": "3:18",
+            "deezer": {
+              "id": 561627012,
+              "link": "https://www.deezer.com/track/561627012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/a/0/71aec6c2498a0f22a60b315e9514c617.mp3?hdnea=exp=1795652632~acl=/api/1/1/7/1/a/0/71aec6c2498a0f22a60b315e9514c617.mp3*~data=user_id=0,application_id=42~hmac=22ff1bdce0a711ea39cefb793133f3f682ee98ff597223a9870668972ab139bc",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Free Love",
+            "length": "3:29",
+            "deezer": {
+              "id": 561627022,
+              "link": "https://www.deezer.com/track/561627022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/9/0/909537b26da256d20f6997120d08bf1d.mp3?hdnea=exp=1795652632~acl=/api/1/1/9/0/9/0/909537b26da256d20f6997120d08bf1d.mp3*~data=user_id=0,application_id=42~hmac=c36fd3f1b324766e9196c020ec45df1423ffff0395a1a37f54a8915fb0d3510e",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Cover Me Again",
+            "length": "3:16",
+            "deezer": {
+              "id": 561627032,
+              "link": "https://www.deezer.com/track/561627032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/f/0/0ffb4956d9726bdaf180a6b7dd489890.mp3?hdnea=exp=1795652632~acl=/api/1/1/0/f/f/0/0ffb4956d9726bdaf180a6b7dd489890.mp3*~data=user_id=0,application_id=42~hmac=d09d579c730c8e42f86bb717f91d4648e8986508d2996b104f93e761f4b9b220",
+              "preview_expires": "2026-11-26T00:23:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Cage The Elephant/Cage The Elephant.jpg"
+}

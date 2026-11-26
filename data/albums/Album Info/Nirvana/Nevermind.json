@@ -1,0 +1,201 @@
+{
+  "title": "Nevermind",
+  "artist": "Nirvana",
+  "year": 1991,
+  "release_date": "1991-09-24",
+  "type": "Album",
+  "description": "Nevermind is the second studio album by American rock band Nirvana, released on September 24, 1991, by DGC Records. Produced by Butch Vig, Nevermind features a more polished, radio-friendly sound than the band's prior work. It was recorded at Sound City Studios in Van Nuys, California, and Smart Studios in Madison, Wisconsin, in May and June 1991, and mastered that August at the Mastering Lab in Hollywood, California. Nevermind was Nirvana's first album to feature drummer Dave Grohl.",
+  "genres": [
+    "grunge",
+    "alternative rock",
+    "rock",
+    "punk rock"
+  ],
+  "tags": [
+    "grunge",
+    "alternative rock",
+    "rock",
+    "punk rock",
+    "alternative/indie"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 75
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1b022e01-4da6-387b-8658-8678046e4cef",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nevermind",
+    "allmusic": "https://www.allmusic.com/album/mw0000185616",
+    "discogs": "https://www.discogs.com/master/13814",
+    "wikidata": "https://www.wikidata.org/wiki/Q17444",
+    "deezer": "https://www.deezer.com/album/1252978"
+  },
+  "musicbrainz_id": "1b022e01-4da6-387b-8658-8678046e4cef",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/08283094-dd62-4bd7-8884-0d072d19c8e6",
+      "barcode": "00602527805641",
+      "title": "Nevermind",
+      "disambiguation": null,
+      "date": "2011-09-27",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "49:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Smells Like Teen Spirit",
+            "length": "5:02",
+            "deezer": {
+              "id": 13693484,
+              "link": "https://www.deezer.com/track/13693484",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/2/0/0f20d1046c5a2dba67a06a1e89932138.mp3?hdnea=exp=1795718971~acl=/api/1/1/0/f/2/0/0f20d1046c5a2dba67a06a1e89932138.mp3*~data=user_id=0,application_id=42~hmac=31ff4b6407c1431dc9f7c40a8339546fd97d372280d39cbea7147b595ad451c4",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "In Bloom",
+            "length": "4:15",
+            "deezer": {
+              "id": 13693485,
+              "link": "https://www.deezer.com/track/13693485",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/f/0/03ff2b30ff3b50c596158f93a1b42ea7.mp3?hdnea=exp=1795718971~acl=/api/1/1/0/3/f/0/03ff2b30ff3b50c596158f93a1b42ea7.mp3*~data=user_id=0,application_id=42~hmac=2774a985d11a1dc8fa32ce2be2ddda1fe8592261fc2dddd220099b237eefdc52",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Come as You Are",
+            "length": "3:39",
+            "deezer": {
+              "id": 13693486,
+              "link": "https://www.deezer.com/track/13693486",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/9/0/5090a5cc16cfb64e85f099fb4678d5a6.mp3?hdnea=exp=1795718971~acl=/api/1/1/5/0/9/0/5090a5cc16cfb64e85f099fb4678d5a6.mp3*~data=user_id=0,application_id=42~hmac=d7c5ccdf1acc24f2da0009316047e29827aeec2eb6481c9f3ad5f06969f8b7c0",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Breed",
+            "length": "3:04",
+            "deezer": {
+              "id": 13693487,
+              "link": "https://www.deezer.com/track/13693487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/a/0/3fa79b8e5ed79235e3b16d5f51260ef1.mp3?hdnea=exp=1795718971~acl=/api/1/1/3/f/a/0/3fa79b8e5ed79235e3b16d5f51260ef1.mp3*~data=user_id=0,application_id=42~hmac=fc79082298d65296ca7dd8a727811e5eae1ada38af0258a637d0a0acf889ebcd",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Lithium",
+            "length": "4:17",
+            "deezer": {
+              "id": 13693488,
+              "link": "https://www.deezer.com/track/13693488",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/f/0/c9f3cef075abd03e2948e3832c8a647a.mp3?hdnea=exp=1795718971~acl=/api/1/1/c/9/f/0/c9f3cef075abd03e2948e3832c8a647a.mp3*~data=user_id=0,application_id=42~hmac=877f6bf3375a57a02aaf9082248105d5a3f0054bd2223ed93dd4926a1812ccc2",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Polly",
+            "length": "2:54",
+            "deezer": {
+              "id": 13693489,
+              "link": "https://www.deezer.com/track/13693489",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/0/0/780b0e070bcc791a98bb4c7a74a5af5b.mp3?hdnea=exp=1795718971~acl=/api/1/1/7/8/0/0/780b0e070bcc791a98bb4c7a74a5af5b.mp3*~data=user_id=0,application_id=42~hmac=d2a27537fee8acc6c04f841fdda0598d45106ee3fb5065aadeb20cfe2c2f3b1a",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Territorial Pissings",
+            "length": "2:23",
+            "deezer": {
+              "id": 13693490,
+              "link": "https://www.deezer.com/track/13693490",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/0/0/cc04f2de269bb6eb4e5b028dc15b7c6d.mp3?hdnea=exp=1795718971~acl=/api/1/1/c/c/0/0/cc04f2de269bb6eb4e5b028dc15b7c6d.mp3*~data=user_id=0,application_id=42~hmac=4821e165b3c512cff4df50cc5e1404a67bff43558eadbcd4d2871746359ac99d",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Drain You",
+            "length": "3:44",
+            "deezer": {
+              "id": 13693491,
+              "link": "https://www.deezer.com/track/13693491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/d/0/eedba31e93bcfafdfb8fbcd4b7f907ad.mp3?hdnea=exp=1795718971~acl=/api/1/1/e/e/d/0/eedba31e93bcfafdfb8fbcd4b7f907ad.mp3*~data=user_id=0,application_id=42~hmac=49f71a7b80dccda843588c085826c85a989a211c7a492e155cc433561ad293b2",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lounge Act",
+            "length": "2:36",
+            "deezer": {
+              "id": 13693492,
+              "link": "https://www.deezer.com/track/13693492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/1/0/78137784edd035e6d9afb0abd01809eb.mp3?hdnea=exp=1795718971~acl=/api/1/1/7/8/1/0/78137784edd035e6d9afb0abd01809eb.mp3*~data=user_id=0,application_id=42~hmac=d4a20e6318a5c424fb791f8ac5fe261ea1fca0abd04f8780d1388b8b1b41649c",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Stay Away",
+            "length": "3:31",
+            "deezer": {
+              "id": 13693493,
+              "link": "https://www.deezer.com/track/13693493",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/d/0/fbd5b0f24219f1ff160d9d5967ddcd91.mp3?hdnea=exp=1795718971~acl=/api/1/1/f/b/d/0/fbd5b0f24219f1ff160d9d5967ddcd91.mp3*~data=user_id=0,application_id=42~hmac=d7751414d97994c1af7d47aed41f0bb4a9c68be7f8bf8c54f2e617cda9eda4fb",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "On a Plain",
+            "length": "3:14",
+            "deezer": {
+              "id": 13693494,
+              "link": "https://www.deezer.com/track/13693494",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a99009f8fb51feb93b2a9d3f6ea1b43.mp3?hdnea=exp=1795718971~acl=/api/1/1/4/a/9/0/4a99009f8fb51feb93b2a9d3f6ea1b43.mp3*~data=user_id=0,application_id=42~hmac=c669ff338fc7bfe20ba6e092e0460a4af81aa8c6bcb69837df8bb8088dea5dd1",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Something in the Way",
+            "length": "3:52",
+            "deezer": {
+              "id": 13693495,
+              "link": "https://www.deezer.com/track/13693495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/b/0/1eba73a8f4faf32e1d18f2feb0fdea84.mp3?hdnea=exp=1795718971~acl=/api/1/1/1/e/b/0/1eba73a8f4faf32e1d18f2feb0fdea84.mp3*~data=user_id=0,application_id=42~hmac=2a56cfb82b0cc9ceb29d97df9c717239dfca1969ad0fc07e43984a24a60d7443",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Endless, Nameless",
+            "length": "6:43",
+            "deezer": {
+              "id": 13693496,
+              "link": "https://www.deezer.com/track/13693496",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/e/0/b3ea8c33459cde60686c25a40881f25c.mp3?hdnea=exp=1795718971~acl=/api/1/1/b/3/e/0/b3ea8c33459cde60686c25a40881f25c.mp3*~data=user_id=0,application_id=42~hmac=97fe7bc1ceceb3f751e1c9139a48350ceef81e732ab71f190d79084da4369320",
+              "preview_expires": "2026-11-26T18:49:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nirvana/Nevermind.jpg"
+}

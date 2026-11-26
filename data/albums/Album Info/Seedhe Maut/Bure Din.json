@@ -1,0 +1,51 @@
+{
+  "title": "Bure Din",
+  "artist": "Seedhe Maut & Mick Jenkins",
+  "year": 2024,
+  "release_date": "2024-06-14",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c5dcf3fe-874d-4cb3-85ea-141ee133fb3c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/723312091"
+  },
+  "musicbrainz_id": "c5dcf3fe-874d-4cb3-85ea-141ee133fb3c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fa988691-7fb3-411b-a37e-2b83f2ed4e6e",
+      "barcode": "859789689889",
+      "title": "Bure Din",
+      "disambiguation": null,
+      "date": "2024-06-14",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bure Din",
+            "length": "4:25",
+            "deezer": {
+              "id": 3265942271,
+              "link": "https://www.deezer.com/track/3265942271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/4/0/b640b2f8aa6bf602190531d1cf5254c0.mp3?hdnea=exp=1795720391~acl=/api/1/1/b/6/4/0/b640b2f8aa6bf602190531d1cf5254c0.mp3*~data=user_id=0,application_id=42~hmac=2b4fbcb82be1d391e1d6197bd2498f7c06521008a10a4670d270a003451150a9",
+              "preview_expires": "2026-11-26T19:13:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Seedhe Maut/Bure Din.jpg"
+}

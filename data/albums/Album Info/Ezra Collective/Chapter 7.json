@@ -1,0 +1,112 @@
+{
+  "title": "Chapter 7",
+  "artist": "Ezra Collective",
+  "year": 2016,
+  "release_date": "2016-04-19",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "afrobeat",
+    "hip hop",
+    "jazz",
+    "reggae"
+  ],
+  "tags": [
+    "afrobeat",
+    "hip hop",
+    "jazz",
+    "reggae"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/21ca64a6-b5d1-4a3c-8ee7-d6c70b22e2ad",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0004801432",
+    "deezer": "https://www.deezer.com/album/922660271"
+  },
+  "musicbrainz_id": "21ca64a6-b5d1-4a3c-8ee7-d6c70b22e2ad",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/edb39de6-8e5c-4a99-94c5-ae28b404c4d1",
+      "barcode": null,
+      "title": "Chapter 7",
+      "disambiguation": null,
+      "date": "2016-04-19",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "28:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Enter the Jungle",
+            "length": "6:40",
+            "deezer": {
+              "id": 3854536611,
+              "link": "https://www.deezer.com/track/3854536611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/9/0/85938d54d42e5cdd492f5bb1796f89c5.mp3?hdnea=exp=1795654138~acl=/api/1/1/8/5/9/0/85938d54d42e5cdd492f5bb1796f89c5.mp3*~data=user_id=0,application_id=42~hmac=3b49e8e687f7c873ab8b5058993392c0ec26d554332c57afc7884c3b8de32cee",
+              "preview_expires": "2026-11-26T00:48:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Chasing the Square",
+            "length": "4:44",
+            "deezer": {
+              "id": 3854536621,
+              "link": "https://www.deezer.com/track/3854536621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/e/0/1ee6babb9914a6478d561cdc64c304c3.mp3?hdnea=exp=1795654138~acl=/api/1/1/1/e/e/0/1ee6babb9914a6478d561cdc64c304c3.mp3*~data=user_id=0,application_id=42~hmac=2a0e6cc471e1950d3f13ed005a8627b8aaf1f3c6c68209603bace698c78de086",
+              "preview_expires": "2026-11-26T00:48:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Chapter 7",
+            "length": "4:47",
+            "artist": "Ezra Collective feat. Ty",
+            "deezer": {
+              "id": 3854536631,
+              "link": "https://www.deezer.com/track/3854536631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/9/0/069d6cf058060dbe9c6f9fb574059d68.mp3?hdnea=exp=1795654138~acl=/api/1/1/0/6/9/0/069d6cf058060dbe9c6f9fb574059d68.mp3*~data=user_id=0,application_id=42~hmac=cee001014c885866e302da190d971dfeee3f62e91c87a243b5af22614590c275",
+              "preview_expires": "2026-11-26T00:48:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Have a God",
+            "length": "5:11",
+            "artist": "Ezra Collective feat. Zara McFarlane",
+            "deezer": {
+              "id": 3854536641,
+              "link": "https://www.deezer.com/track/3854536641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/b/0/11b6c49d2aacb74efd9514189bdb30af.mp3?hdnea=exp=1795654138~acl=/api/1/1/1/1/b/0/11b6c49d2aacb74efd9514189bdb30af.mp3*~data=user_id=0,application_id=42~hmac=864c97059b08e391f5e66b457859075048ee75c7e42c5522fd21de57848cc5c8",
+              "preview_expires": "2026-11-26T00:48:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Colonial Mentality",
+            "length": "7:32",
+            "deezer": {
+              "id": 3854536651,
+              "link": "https://www.deezer.com/track/3854536651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/4/0/aa466aca80bb8b186f9af8ed12a7ed03.mp3?hdnea=exp=1795654138~acl=/api/1/1/a/a/4/0/aa466aca80bb8b186f9af8ed12a7ed03.mp3*~data=user_id=0,application_id=42~hmac=75d57268b6384dcbee8e7e1f84c2b49cb110b63ebccdff7e75eef8d3ae199123",
+              "preview_expires": "2026-11-26T00:48:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Ezra Collective/Chapter 7.jpg"
+}

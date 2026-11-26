@@ -1,0 +1,299 @@
+{
+  "title": "The Slim Shady LP",
+  "artist": "Eminem",
+  "year": 1999,
+  "release_date": "1999-02-23",
+  "type": "Album",
+  "description": "The Slim Shady LP is the second studio album by American rapper Eminem. It was released through Aftermath Entertainment, WEB Entertainment, and Interscope Records on February 23, 1999. Recorded in Ferndale, Michigan, following Eminem's recruitment by Dr. Dre and Jimmy Iovine, the album features production from Eminem himself, alongside Dr. Dre and the Bass Brothers. Featuring hip-hop and horrorcore musical styles, the majority of The Slim Shady LP's lyrical content was written from the perspective of Eminem's alter ego, named Slim Shady. Slim Shady was introduced on Eminem's Slim Shady EP (1997) and concluded on his studio album The Death of Slim Shady  (2024).",
+  "genres": [
+    "hip hop",
+    "hardcore hip hop",
+    "horrorcore",
+    "boom bap"
+  ],
+  "tags": [
+    "hip hop",
+    "hardcore hip hop",
+    "horrorcore",
+    "boom bap",
+    "comedy rap",
+    "angry",
+    "crime",
+    "dark",
+    "drugs",
+    "hardcore rap",
+    "hateful",
+    "hip hop rap",
+    "hip-hop\\rap",
+    "humorous",
+    "midwest rap",
+    "misanthropic",
+    "sarcastic",
+    "violence",
+    "vulgar"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 28
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/be725de4-4633-3c8a-9a03-f2c4392b6e0d",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Slim_Shady_LP",
+    "allmusic": "https://www.allmusic.com/album/mw0000601851",
+    "discogs": "https://www.discogs.com/master/12172",
+    "wikidata": "https://www.wikidata.org/wiki/Q383459",
+    "deezer": "https://www.deezer.com/album/11047846"
+  },
+  "musicbrainz_id": "be725de4-4633-3c8a-9a03-f2c4392b6e0d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ede60c69-29d1-48dd-a10b-169ae99dee92",
+      "barcode": "00602537439386",
+      "title": "The Slim Shady LP",
+      "disambiguation": "explicit",
+      "date": "2013-06-18",
+      "country": "AL"
+    },
+    "total_tracks": 20,
+    "total_length": "59:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Public Service Announcement",
+            "length": "0:33",
+            "deezer": {
+              "id": 105989822,
+              "link": "https://www.deezer.com/track/105989822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/6/0/0266e4724a7abc4150ea7c5d3bf26c3f.mp3?hdnea=exp=1795653924~acl=/api/1/1/0/2/6/0/0266e4724a7abc4150ea7c5d3bf26c3f.mp3*~data=user_id=0,application_id=42~hmac=5d1de9228f1fa95f872170fd185403d2436c076bda730a4514dd038f6b146f29",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "My Name Is",
+            "length": "4:28",
+            "deezer": {
+              "id": 105989824,
+              "link": "https://www.deezer.com/track/105989824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/d/0/acdc92f4f6cda3094d22d830fb307bfb.mp3?hdnea=exp=1795653924~acl=/api/1/1/a/c/d/0/acdc92f4f6cda3094d22d830fb307bfb.mp3*~data=user_id=0,application_id=42~hmac=f9e50ca92ad02dd7621f4aca2600d02731c72da6627e7f158b3f6e4e2d05e3aa",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Guilty Conscience",
+            "length": "3:19",
+            "artist": "Eminem feat. Dr. Dre",
+            "deezer": {
+              "id": 105989826,
+              "link": "https://www.deezer.com/track/105989826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/1/0/5c103381990692b82da227820f9e8613.mp3?hdnea=exp=1795653924~acl=/api/1/1/5/c/1/0/5c103381990692b82da227820f9e8613.mp3*~data=user_id=0,application_id=42~hmac=150cafdc369ea8ada14ff86265c542b82a4b710bb32ec99bb174d908432e2907",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Brain Damage",
+            "length": "3:47",
+            "deezer": {
+              "id": 105989828,
+              "link": "https://www.deezer.com/track/105989828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/5/0/2458af3bfb719065418518eadbf38124.mp3?hdnea=exp=1795653924~acl=/api/1/1/2/4/5/0/2458af3bfb719065418518eadbf38124.mp3*~data=user_id=0,application_id=42~hmac=ea956bfa8bee28d705257446efbbe63180cbccfab9e26efa2bfc06166e80f6ac",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Paul (skit)",
+            "length": "0:16",
+            "artist": "Eminem & Paul “Bunyan” Rosenberg",
+            "deezer": {
+              "id": 105989830,
+              "link": "https://www.deezer.com/track/105989830",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/2/0/f42aa58946da0426dd9c1fc564dcd0c5.mp3?hdnea=exp=1795653924~acl=/api/1/1/f/4/2/0/f42aa58946da0426dd9c1fc564dcd0c5.mp3*~data=user_id=0,application_id=42~hmac=c27544b407ea15fb2ccbb86a3061da536cd3e5c2104b9a387a309dc49cf0f322",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "If I Had",
+            "length": "4:05",
+            "deezer": {
+              "id": 105989832,
+              "link": "https://www.deezer.com/track/105989832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/9/0/4e908671276376557ea55dde9e0fdda2.mp3?hdnea=exp=1795653924~acl=/api/1/1/4/e/9/0/4e908671276376557ea55dde9e0fdda2.mp3*~data=user_id=0,application_id=42~hmac=e16a6bf31ca48fb72b469689286eda72860b31e3f29711e1f5af3ba472d7c5d8",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "’97 Bonnie & Clyde",
+            "length": "5:16",
+            "deezer": {
+              "id": 105989834,
+              "link": "https://www.deezer.com/track/105989834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/9/0/c698cc71e54eb2ed2ff4f3967a892e6c.mp3?hdnea=exp=1795653924~acl=/api/1/1/c/6/9/0/c698cc71e54eb2ed2ff4f3967a892e6c.mp3*~data=user_id=0,application_id=42~hmac=d635652aa66bd1530bdb5d453fba3adac66edd7d6f31295d1d87eddd761abaa8",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Bitch (skit)",
+            "length": "0:20",
+            "artist": "Eminem & Zoe Winkler",
+            "deezer": {
+              "id": 105989836,
+              "link": "https://www.deezer.com/track/105989836",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/0/0/040ab610a10d025a82f0dcbbd94b6f67.mp3?hdnea=exp=1795653924~acl=/api/1/1/0/4/0/0/040ab610a10d025a82f0dcbbd94b6f67.mp3*~data=user_id=0,application_id=42~hmac=eca2fc8105395b24c663532a4f7f7c1a7ecec00f72ea29f5f12311befe542a2a",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Role Model",
+            "length": "3:25",
+            "deezer": {
+              "id": 105989838,
+              "link": "https://www.deezer.com/track/105989838",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/5/0/5850d5e2c5c6e407845e1374ac7dc1d9.mp3?hdnea=exp=1795653924~acl=/api/1/1/5/8/5/0/5850d5e2c5c6e407845e1374ac7dc1d9.mp3*~data=user_id=0,application_id=42~hmac=6968768f03fedb55704f84822e01bf0b77cccbeadc546db8e44172272cbd227d",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Lounge (skit)",
+            "length": "0:47",
+            "artist": "Eminem & Jeff Bass",
+            "deezer": {
+              "id": 105989840,
+              "link": "https://www.deezer.com/track/105989840",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/5/0/c75b4c78b7dc40282e64cd2f9202b149.mp3?hdnea=exp=1795653924~acl=/api/1/1/c/7/5/0/c75b4c78b7dc40282e64cd2f9202b149.mp3*~data=user_id=0,application_id=42~hmac=f0a3987b00c7ee48a6b8bb8d81ff07e5e0fea6dd9c01ff1c5cd4e128a10e20c1",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "My Fault",
+            "length": "4:02",
+            "deezer": {
+              "id": 105989842,
+              "link": "https://www.deezer.com/track/105989842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/d/0/d0dcc19ec26f100ed7bd846005ed0935.mp3?hdnea=exp=1795653924~acl=/api/1/1/d/0/d/0/d0dcc19ec26f100ed7bd846005ed0935.mp3*~data=user_id=0,application_id=42~hmac=39f2ba7c0954f2dbe73c733bf0976afacca4e5bec23e8bd200e3dbc534456b64",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Ken Kaniff (skit)",
+            "length": "1:16",
+            "artist": "Eminem, Aristotle & Mark Bass",
+            "deezer": {
+              "id": 105989844,
+              "link": "https://www.deezer.com/track/105989844",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/a/0/7ca131a36c40070d7ef7e64395f01a44.mp3?hdnea=exp=1795653924~acl=/api/1/1/7/c/a/0/7ca131a36c40070d7ef7e64395f01a44.mp3*~data=user_id=0,application_id=42~hmac=6b9ad97af1d4174aa08f1b335389e9d3c316f8019acbb7ed6490a504fa097496",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Cum on Everybody",
+            "length": "3:39",
+            "deezer": {
+              "id": 105989846,
+              "link": "https://www.deezer.com/track/105989846",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/a/0/c8ad15801286a0f0ba1fd8e50790977c.mp3?hdnea=exp=1795653924~acl=/api/1/1/c/8/a/0/c8ad15801286a0f0ba1fd8e50790977c.mp3*~data=user_id=0,application_id=42~hmac=1375a7aa0e629578bc246bdc80f24c37b73a750a090112d365d73a24f5df94cd",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Rock Bottom",
+            "length": "3:34",
+            "deezer": {
+              "id": 105989848,
+              "link": "https://www.deezer.com/track/105989848",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/3/0/d130be0675efcdf664fa2ac1b6cb6865.mp3?hdnea=exp=1795653924~acl=/api/1/1/d/1/3/0/d130be0675efcdf664fa2ac1b6cb6865.mp3*~data=user_id=0,application_id=42~hmac=84a0002dd228e27fbcdf36d2906dc87652c372c5db4ccdb2fba1483a9bebf463",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Just Don’t Give a Fuck",
+            "length": "4:03",
+            "deezer": {
+              "id": 105989850,
+              "link": "https://www.deezer.com/track/105989850",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/f/0/adf0d7047139ec62b1890d8df868a290.mp3?hdnea=exp=1795653924~acl=/api/1/1/a/d/f/0/adf0d7047139ec62b1890d8df868a290.mp3*~data=user_id=0,application_id=42~hmac=2943d7118866723d987d7bd2d786d668411e1cf9910cdebbed3d4257aa608647",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Soap (skit)",
+            "length": "0:35",
+            "artist": "Eminem, Jeff Bass & Royce da 5′9″",
+            "deezer": {
+              "id": 105989852,
+              "link": "https://www.deezer.com/track/105989852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/7/0/ba7e59cdf39f40893a2639ab33a86d42.mp3?hdnea=exp=1795653924~acl=/api/1/1/b/a/7/0/ba7e59cdf39f40893a2639ab33a86d42.mp3*~data=user_id=0,application_id=42~hmac=5a70af9973eec3f9385269b67c1ef2346b21777d1b1f90fa27e86f9076926090",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "As the World Turns",
+            "length": "4:25",
+            "deezer": {
+              "id": 105989854,
+              "link": "https://www.deezer.com/track/105989854",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/e/0/4be064cd4e0f4a91f55fc31d4035e536.mp3?hdnea=exp=1795653924~acl=/api/1/1/4/b/e/0/4be064cd4e0f4a91f55fc31d4035e536.mp3*~data=user_id=0,application_id=42~hmac=78d01ed001b916ee2a3f81426db56096ae846ed0d6ccf88d80a09cbc23b9ff91",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "I’m Shady",
+            "length": "3:32",
+            "deezer": {
+              "id": 105989856,
+              "link": "https://www.deezer.com/track/105989856",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/e/0/a8ee58305e369dba63ea3ea7fb894c41.mp3?hdnea=exp=1795653924~acl=/api/1/1/a/8/e/0/a8ee58305e369dba63ea3ea7fb894c41.mp3*~data=user_id=0,application_id=42~hmac=39ee18f9691003530f287b3597a6f89d525814cfaa4bf54fbc56a9eb1f17aa2d",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Bad Meets Evil",
+            "length": "4:13",
+            "artist": "Eminem feat. Royce da 5′9″",
+            "deezer": {
+              "id": 105989858,
+              "link": "https://www.deezer.com/track/105989858",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/f/0/7af8f821f00aaa47fec3d79ef92171d7.mp3?hdnea=exp=1795653924~acl=/api/1/1/7/a/f/0/7af8f821f00aaa47fec3d79ef92171d7.mp3*~data=user_id=0,application_id=42~hmac=8393b02d68a6de0cd000026ae13ef26d374d89b57541f2d0ecfae21b29f1273d",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Still Don’t Give a Fuck",
+            "length": "4:13",
+            "deezer": {
+              "id": 105989860,
+              "link": "https://www.deezer.com/track/105989860",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/5/0/0d51d1f7e005e43eb7efabb324d79c61.mp3?hdnea=exp=1795653924~acl=/api/1/1/0/d/5/0/0d51d1f7e005e43eb7efabb324d79c61.mp3*~data=user_id=0,application_id=42~hmac=5ff2c3ee863bbbfda934e1e4487d4a849c9250110edf416b97b0cac17f3160ba",
+              "preview_expires": "2026-11-26T00:45:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eminem/The Slim Shady LP.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Confessions",
+  "artist": "Fotty Seven",
+  "year": 2022,
+  "release_date": "2022-10-11",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3cyfljsbZpEDfbARyZC6MA",
+    "deezer": "https://www.deezer.com/album/364789567"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3cyfljsbZpEDfbARyZC6MA",
+      "title": "Confessions",
+      "date": "2022-10-11"
+    },
+    "total_tracks": 1,
+    "total_length": "3:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Confessions",
+            "length": "3:13",
+            "deezer": {
+              "id": 1957018097,
+              "link": "https://www.deezer.com/track/1957018097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/a/0/6caf4e830a583b6bd25c85eb00b70f27.mp3?hdnea=exp=1795654312~acl=/api/1/1/6/c/a/0/6caf4e830a583b6bd25c85eb00b70f27.mp3*~data=user_id=0,application_id=42~hmac=4db54ed41fe9f4540b188d401427f08152774cf38bbd94589586a7db48b1a58a",
+              "preview_expires": "2026-11-26T00:51:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Fotty Seven/Confessions.jpg"
+}

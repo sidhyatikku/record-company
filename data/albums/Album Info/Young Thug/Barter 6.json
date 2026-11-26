@@ -1,0 +1,200 @@
+{
+  "title": "Barter 6",
+  "artist": "Young Thug",
+  "year": 2015,
+  "release_date": "2015-04-16",
+  "type": "Album + Mixtape/Street",
+  "description": "Barter 6 is the debut commercial mixtape by American rapper Young Thug. It was released on April 17, 2015, by 300 Entertainment and Atlantic Records. Barter 6 features guest appearances from Birdman, T.I., Boosie Badazz, Young Dolph, Yak Gotti, Lil Duke and Jacquees, while the production was handled primarily by in-house producers London on da Track and Wheezy, among others. Barter 6 received generally positive reviews and peaked at number 22 on the  Billboard 200.",
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a2c14ca9-2adb-4324-acfa-cc451f0a3cf0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barter_6",
+    "wikidata": "https://www.wikidata.org/wiki/Q19803469",
+    "deezer": "https://www.deezer.com/album/10071110"
+  },
+  "musicbrainz_id": "a2c14ca9-2adb-4324-acfa-cc451f0a3cf0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8ee9c3f8-3635-4d2e-b955-a72811fbb32e",
+      "barcode": "075679924889",
+      "title": "Barter 6",
+      "disambiguation": null,
+      "date": "2015-04-16",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "51:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Constantly Hating",
+            "length": "4:27",
+            "artist": "Young Thug feat. Birdman",
+            "deezer": {
+              "id": 98544114,
+              "link": "https://www.deezer.com/track/98544114",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/6/0/5c61c7cf12f166e1b274c02daf0068ef.mp3?hdnea=exp=1795724539~acl=/api/1/1/5/c/6/0/5c61c7cf12f166e1b274c02daf0068ef.mp3*~data=user_id=0,application_id=42~hmac=84b1da9ec79700850e5c588b349ee056a111621cb6397865e7afe883e36cb957",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "With That",
+            "length": "3:23",
+            "artist": "Young Thug feat. Duke",
+            "deezer": {
+              "id": 98544116,
+              "link": "https://www.deezer.com/track/98544116",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/c/0/5cc7665afbe53edcb02b0acf77e19062.mp3?hdnea=exp=1795724539~acl=/api/1/1/5/c/c/0/5cc7665afbe53edcb02b0acf77e19062.mp3*~data=user_id=0,application_id=42~hmac=1954ed98eb206d170fba9bf7fdbc805d59da31c50519356527a1959626e61e05",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Can’t Tell",
+            "length": "6:08",
+            "artist": "Young Thug feat. T.I. and Boosie Badazz",
+            "deezer": {
+              "id": 98544118,
+              "link": "https://www.deezer.com/track/98544118",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/4/0/56477ebd5673fba364be2a022637482e.mp3?hdnea=exp=1795724539~acl=/api/1/1/5/6/4/0/56477ebd5673fba364be2a022637482e.mp3*~data=user_id=0,application_id=42~hmac=143119da63b30c74bff515d9c8de84697537ebe4887ab7215f6b04a4c385a57c",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Check",
+            "length": "3:51",
+            "deezer": {
+              "id": 98544120,
+              "link": "https://www.deezer.com/track/98544120",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/8/0/5a81fd0e8539bb18653c6c082679e97f.mp3?hdnea=exp=1795724539~acl=/api/1/1/5/a/8/0/5a81fd0e8539bb18653c6c082679e97f.mp3*~data=user_id=0,application_id=42~hmac=2a95ffdd8b15d85f30a33093b1b94e6831c3d3b2c95bb47db783d4ce3d65bbb8",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Never Had It",
+            "length": "4:15",
+            "artist": "Young Thug feat. Young Dolph",
+            "deezer": {
+              "id": 98544122,
+              "link": "https://www.deezer.com/track/98544122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/0/0/db0b87b24ee670a6fe96745556b9bd94.mp3?hdnea=exp=1795724539~acl=/api/1/1/d/b/0/0/db0b87b24ee670a6fe96745556b9bd94.mp3*~data=user_id=0,application_id=42~hmac=aaf6b1ae74e718b9ebe449a00b711cf28c33d95d10cd316075629b6aaafaff0b",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dream",
+            "length": "3:01",
+            "artist": "Young Thug feat. Yak Gotti",
+            "deezer": {
+              "id": 98544124,
+              "link": "https://www.deezer.com/track/98544124",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/d/0/c9d08ec32d5a6f0472bd3518b079778a.mp3?hdnea=exp=1795724539~acl=/api/1/1/c/9/d/0/c9d08ec32d5a6f0472bd3518b079778a.mp3*~data=user_id=0,application_id=42~hmac=d2d161cad8c97113d2b522ea1e4d7efff75ff047e1e3161966fa6309cf056ce5",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Dome",
+            "length": "3:51",
+            "artist": "Young Thug feat. Duke",
+            "deezer": {
+              "id": 98544126,
+              "link": "https://www.deezer.com/track/98544126",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/5/0/c6599fa70de2947a9edd35e15a805038.mp3?hdnea=exp=1795724539~acl=/api/1/1/c/6/5/0/c6599fa70de2947a9edd35e15a805038.mp3*~data=user_id=0,application_id=42~hmac=3bec04d99d09f00cd75a1c5578b35f362e8d8d36a4e5c4ae0a50951c849ef3f0",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Halftime",
+            "length": "3:47",
+            "deezer": {
+              "id": 98544128,
+              "link": "https://www.deezer.com/track/98544128",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/1/0/4e1b6ff323ce309f339ea64fe5e86f83.mp3?hdnea=exp=1795724539~acl=/api/1/1/4/e/1/0/4e1b6ff323ce309f339ea64fe5e86f83.mp3*~data=user_id=0,application_id=42~hmac=6bed89e493ce667a1cefd2b2e250a1cea9063b793fa365ee93227021aa4f5837",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Amazing",
+            "length": "3:38",
+            "artist": "Young Thug feat. Jacquees",
+            "deezer": {
+              "id": 98544130,
+              "link": "https://www.deezer.com/track/98544130",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/d/0/52df1fc6d2c4782fdb3edd90ce61a017.mp3?hdnea=exp=1795724539~acl=/api/1/1/5/2/d/0/52df1fc6d2c4782fdb3edd90ce61a017.mp3*~data=user_id=0,application_id=42~hmac=a396ec2bd4b29a8259761cbddc161498291f504e260a480ab1074b3072032b6a",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Knocked Off",
+            "length": "3:17",
+            "artist": "Young Thug feat. Birdman",
+            "deezer": {
+              "id": 98544132,
+              "link": "https://www.deezer.com/track/98544132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/0/0/23063f6c37f7441fb3f1b0cc3eccd107.mp3?hdnea=exp=1795724539~acl=/api/1/1/2/3/0/0/23063f6c37f7441fb3f1b0cc3eccd107.mp3*~data=user_id=0,application_id=42~hmac=9d27d847e4cdb3b9cc6cea9ebea7089397892b7bd4069ffd8600aab48c770741",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "OD",
+            "length": "4:46",
+            "deezer": {
+              "id": 98544134,
+              "link": "https://www.deezer.com/track/98544134",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/2/0/6129abacec696c4af4aedf46d05ebbb9.mp3?hdnea=exp=1795724539~acl=/api/1/1/6/1/2/0/6129abacec696c4af4aedf46d05ebbb9.mp3*~data=user_id=0,application_id=42~hmac=caf177fd05f178497091303fe633dbc339ec10ce8d255a86e169b5f80f9726b3",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Numbers",
+            "length": "3:28",
+            "deezer": {
+              "id": 98544136,
+              "link": "https://www.deezer.com/track/98544136",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/9/0/0992ce52b14f5247fb2df8d213fab46f.mp3?hdnea=exp=1795724539~acl=/api/1/1/0/9/9/0/0992ce52b14f5247fb2df8d213fab46f.mp3*~data=user_id=0,application_id=42~hmac=e7df62c7bd2667ffd565c4e851114213dfb812c774e9bbe1170de60ae6840d34",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Just Might Be",
+            "length": "3:53",
+            "deezer": {
+              "id": 98544138,
+              "link": "https://www.deezer.com/track/98544138",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/3/0/4a38c8d5d318ee309db83d4d0698af5a.mp3?hdnea=exp=1795724539~acl=/api/1/1/4/a/3/0/4a38c8d5d318ee309db83d4d0698af5a.mp3*~data=user_id=0,application_id=42~hmac=5390ed60e5cfa7735b185535d115eaf18f5ad54c81a35e5bf163b2cc42f5ad34",
+              "preview_expires": "2026-11-26T20:22:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Young Thug/Barter 6.jpg"
+}

@@ -1,0 +1,128 @@
+{
+  "title": "In Sri Lanka",
+  "artist": "Anish Kumar",
+  "year": 2023,
+  "release_date": "2023-11-24",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8644ac47-5e3f-49d7-aa38-475f5c2ba07d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/504732531"
+  },
+  "musicbrainz_id": "8644ac47-5e3f-49d7-aa38-475f5c2ba07d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/822d8339-0af9-4c3c-8f03-0efa36e3a94a",
+      "barcode": "197190155372",
+      "title": "In Sri Lanka",
+      "disambiguation": null,
+      "date": "2023-11-24",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "14:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "UL504",
+            "length": "1:10",
+            "deezer": {
+              "id": 2514419201,
+              "link": "https://www.deezer.com/track/2514419201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/a/0/a6a5a8e4f99d547e828f3abc876302bd.mp3?hdnea=exp=1795649238~acl=/api/1/1/a/6/a/0/a6a5a8e4f99d547e828f3abc876302bd.mp3*~data=user_id=0,application_id=42~hmac=05e77a93746c595b536a88bc48f573c8c56153b46f8cd598ba9cd7227461a823",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sri Dalada Veediya",
+            "length": "1:59",
+            "deezer": {
+              "id": 2514419211,
+              "link": "https://www.deezer.com/track/2514419211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/7/0/d9774cc00444beed66014bffdec250c9.mp3?hdnea=exp=1795649238~acl=/api/1/1/d/9/7/0/d9774cc00444beed66014bffdec250c9.mp3*~data=user_id=0,application_id=42~hmac=b812f0e6b98ed864e441afb7e3b1c13e7ed78c88e1082169fb95f3e1d6ebdd96",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ringtone",
+            "length": "1:54",
+            "deezer": {
+              "id": 2514419221,
+              "link": "https://www.deezer.com/track/2514419221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/4/0/b243aff83e46177f2dce36dff842d581.mp3?hdnea=exp=1795649238~acl=/api/1/1/b/2/4/0/b243aff83e46177f2dce36dff842d581.mp3*~data=user_id=0,application_id=42~hmac=8ef6b468262450490d4c8a0709fa6056182a0576644d2a2ceac948ae3f48f46c",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Street Sellers",
+            "length": "2:13",
+            "deezer": {
+              "id": 2514419231,
+              "link": "https://www.deezer.com/track/2514419231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/4/0/1d42a6bea6be69ebf9e5a5643fc2a06e.mp3?hdnea=exp=1795649238~acl=/api/1/1/1/d/4/0/1d42a6bea6be69ebf9e5a5643fc2a06e.mp3*~data=user_id=0,application_id=42~hmac=d3cf4c6af34268649ee009062dd61a2fe791662f0cffa8fca4d2643046f964dc",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Market Dhols",
+            "length": "2:02",
+            "deezer": {
+              "id": 2514419241,
+              "link": "https://www.deezer.com/track/2514419241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/9/0/c39c453879c791007e3f25c4957b596f.mp3?hdnea=exp=1795649238~acl=/api/1/1/c/3/9/0/c39c453879c791007e3f25c4957b596f.mp3*~data=user_id=0,application_id=42~hmac=b701a8340c869116d4aecb9b20827aadf1038fedaa0a915869810d70d5548e87",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Train Dash",
+            "length": "1:10",
+            "deezer": {
+              "id": 2514419251,
+              "link": "https://www.deezer.com/track/2514419251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/d/0/89d8e93968728f8c486500974e87c10c.mp3?hdnea=exp=1795649238~acl=/api/1/1/8/9/d/0/89d8e93968728f8c486500974e87c10c.mp3*~data=user_id=0,application_id=42~hmac=c8ccaaed6606e8cf4f2ceee1408009d61db824437bafa85a99f3e3e3ae77c81b",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Crab Noodling",
+            "length": "1:53",
+            "deezer": {
+              "id": 2514419261,
+              "link": "https://www.deezer.com/track/2514419261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/b/0/bab817a02fe58e83a6b835f84c86c0da.mp3?hdnea=exp=1795649238~acl=/api/1/1/b/a/b/0/bab817a02fe58e83a6b835f84c86c0da.mp3*~data=user_id=0,application_id=42~hmac=670a225e47e12532032b30d858f6edc27a15d8bcf3eba2bc6d3f2184f6f2ce4e",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mount Lavinia Beach",
+            "length": "2:32",
+            "deezer": {
+              "id": 2514419271,
+              "link": "https://www.deezer.com/track/2514419271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/4/0/c747b55ae1dc88c3c4d4a71461db0421.mp3?hdnea=exp=1795649238~acl=/api/1/1/c/7/4/0/c747b55ae1dc88c3c4d4a71461db0421.mp3*~data=user_id=0,application_id=42~hmac=22c318183e0dda5fe3707f30b20f9f071930beca57393c757a03144c797dccd5",
+              "preview_expires": "2026-11-25T23:27:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/In Sri Lanka.jpg"
+}

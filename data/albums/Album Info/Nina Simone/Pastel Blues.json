@@ -1,0 +1,162 @@
+{
+  "title": "Pastel Blues",
+  "artist": "Nina Simone",
+  "year": 1965,
+  "release_date": "1965-10-01",
+  "type": "Album",
+  "description": "Pastel Blues is the seventh full studio album by American singer Nina Simone, released on October 1, 1965, by Philips Records.",
+  "genres": [
+    "blues",
+    "jazz",
+    "vocal jazz",
+    "soul",
+    "soul blues",
+    "soul jazz"
+  ],
+  "tags": [
+    "blues",
+    "jazz",
+    "vocal jazz",
+    "rhythm & blues",
+    "soul",
+    "soul blues",
+    "soul jazz",
+    "soul-jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1b3233e2-15ed-344e-bc8e-6630455db87f",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pastel_Blues",
+    "allmusic": "https://www.allmusic.com/album/mw0000691463",
+    "discogs": "https://www.discogs.com/master/122277",
+    "wikidata": "https://www.wikidata.org/wiki/Q3897497",
+    "deezer": "https://www.deezer.com/album/80676782"
+  },
+  "musicbrainz_id": "1b3233e2-15ed-344e-bc8e-6630455db87f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/eca88334-a5d7-439b-a963-d37140323573",
+      "barcode": "00602577175442",
+      "title": "Pastel Blues",
+      "disambiguation": null,
+      "date": "2018-12-07",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "35:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Be My Husband",
+            "length": "3:22",
+            "deezer": {
+              "id": 598083802,
+              "link": "https://www.deezer.com/track/598083802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/5/0/145a7e20e8d389b9ba03466ec9631ed9.mp3?hdnea=exp=1795718947~acl=/api/1/1/1/4/5/0/145a7e20e8d389b9ba03466ec9631ed9.mp3*~data=user_id=0,application_id=42~hmac=fb7421af570a22918b9c9dde426ee451b4e26bdf59765208a78c65d5937ca5a9",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Nobody Knows You When You’re Down and Out",
+            "length": "2:41",
+            "deezer": {
+              "id": 598083812,
+              "link": "https://www.deezer.com/track/598083812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/f/0/3cf049a177ca72bf20202dcb7ef4ffa6.mp3?hdnea=exp=1795718947~acl=/api/1/1/3/c/f/0/3cf049a177ca72bf20202dcb7ef4ffa6.mp3*~data=user_id=0,application_id=42~hmac=a4f1f7acd37686199205277909052b6fb7f5a954ddc74dd3b831c73abfac2073",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "End of the Line",
+            "length": "2:57",
+            "deezer": {
+              "id": 598083822,
+              "link": "https://www.deezer.com/track/598083822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/c/0/95c6c586d1b0db4be8ec68e2c56b498f.mp3?hdnea=exp=1795718947~acl=/api/1/1/9/5/c/0/95c6c586d1b0db4be8ec68e2c56b498f.mp3*~data=user_id=0,application_id=42~hmac=ef1ae4d34fcbcb588f7539d051167de0eb5acda22893bb4c67b9a4a57bb3657c",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Trouble in Mind",
+            "length": "2:43",
+            "deezer": {
+              "id": 598083832,
+              "link": "https://www.deezer.com/track/598083832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/9/0/8d9d3645ef77535a4bea59f8c73106ba.mp3?hdnea=exp=1795718947~acl=/api/1/1/8/d/9/0/8d9d3645ef77535a4bea59f8c73106ba.mp3*~data=user_id=0,application_id=42~hmac=32243fbee8f8b8f9d2461785e59ac3cf6df2daa40d4e20acec70c230f0592c59",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Tell Me More and More and Then Some",
+            "length": "3:11",
+            "deezer": {
+              "id": 598083842,
+              "link": "https://www.deezer.com/track/598083842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/2/0/c0263fecc05ec764d192a31ee462e1bd.mp3?hdnea=exp=1795718947~acl=/api/1/1/c/0/2/0/c0263fecc05ec764d192a31ee462e1bd.mp3*~data=user_id=0,application_id=42~hmac=7c92e3eda6263263120231bfb31c19299a42f6cd47902b586b697cb8e940f8b1",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Chilly Winds Don’t Blow",
+            "length": "4:06",
+            "deezer": {
+              "id": 598083852,
+              "link": "https://www.deezer.com/track/598083852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/9/0/159e7634bdcfe356f562a8cb919c6c86.mp3?hdnea=exp=1795718947~acl=/api/1/1/1/5/9/0/159e7634bdcfe356f562a8cb919c6c86.mp3*~data=user_id=0,application_id=42~hmac=a6f8fb21b5e12dd518eda2afbc12bc36f800ce93f707dcc05038b8e1d6f1004a",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ain’t No Use",
+            "length": "3:03",
+            "deezer": {
+              "id": 598083862,
+              "link": "https://www.deezer.com/track/598083862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/e/0/6dec6e44902d2c3879b5c4f69a2b71f5.mp3?hdnea=exp=1795718947~acl=/api/1/1/6/d/e/0/6dec6e44902d2c3879b5c4f69a2b71f5.mp3*~data=user_id=0,application_id=42~hmac=7b2931d4b8cd20eac45cb0d8cb25a2136bb41f09d36d7abc36a3514c8a2ec11f",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Strange Fruit",
+            "length": "3:32",
+            "deezer": {
+              "id": 598083872,
+              "link": "https://www.deezer.com/track/598083872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/0/0/7f020973d40c18593a64a9f87b5b0c02.mp3?hdnea=exp=1795718947~acl=/api/1/1/7/f/0/0/7f020973d40c18593a64a9f87b5b0c02.mp3*~data=user_id=0,application_id=42~hmac=0bd92929448e30c753511f6321afa005a13e4f3dec87a37a9651c65e6aa19acd",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sinnerman",
+            "length": "10:19",
+            "deezer": {
+              "id": 598083882,
+              "link": "https://www.deezer.com/track/598083882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/5/0/665f1bb76c93e6bac72eb6fd4298a6af.mp3?hdnea=exp=1795718947~acl=/api/1/1/6/6/5/0/665f1bb76c93e6bac72eb6fd4298a6af.mp3*~data=user_id=0,application_id=42~hmac=f94707b3c4a86b6cdf9139af13eba5b0dbc434a62330b7cf266b5d36896eefc6",
+              "preview_expires": "2026-11-26T18:49:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nina Simone/Pastel Blues.jpg"
+}

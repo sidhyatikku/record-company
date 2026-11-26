@@ -1,0 +1,185 @@
+{
+  "title": "Granth",
+  "artist": "Karun",
+  "year": 2020,
+  "release_date": "2020-12-07",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "hindi indie",
+    "indian indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1OD9hYOFdULDNPQPjM3CnM",
+    "deezer": "https://www.deezer.com/album/582263962"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1OD9hYOFdULDNPQPjM3CnM",
+      "title": "Granth",
+      "date": "2020-12-07"
+    },
+    "total_tracks": 12,
+    "total_length": "45:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Aankhein",
+            "length": "2:49",
+            "artist": "Karun, Natiq, Nanku, Roy",
+            "deezer": {
+              "id": 2784258452,
+              "link": "https://www.deezer.com/track/2784258452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/f/0/36f103dc73ae9c96f10a2a150d2c2f0c.mp3?hdnea=exp=1795655999~acl=/api/1/1/3/6/f/0/36f103dc73ae9c96f10a2a150d2c2f0c.mp3*~data=user_id=0,application_id=42~hmac=6fb1df80ca08bd634345e7f7dff79984bfa8d406a4aa9ea20cf94722f5a111da",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Kamina",
+            "length": "2:42",
+            "artist": "Karun, Natiq, Tarun., Quest",
+            "deezer": {
+              "id": 2784258462,
+              "link": "https://www.deezer.com/track/2784258462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/9/0/cf97b5f88d2b88c89d72503b97330be3.mp3?hdnea=exp=1795655999~acl=/api/1/1/c/f/9/0/cf97b5f88d2b88c89d72503b97330be3.mp3*~data=user_id=0,application_id=42~hmac=5a189f2e7f49ed02fa91cf56f518c47f8d4f92017f2d15184866b8d287c8a92c",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mere baare",
+            "length": "3:12",
+            "artist": "Karun, BLRJ, Barf",
+            "deezer": {
+              "id": 2784258472,
+              "link": "https://www.deezer.com/track/2784258472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/a/0/4fa656ee10bf2efbcc66b6be29e09a99.mp3?hdnea=exp=1795655999~acl=/api/1/1/4/f/a/0/4fa656ee10bf2efbcc66b6be29e09a99.mp3*~data=user_id=0,application_id=42~hmac=9c7a5fcab17af07b97cb2a3fd2fef6bf183562503f6cab2b34839346d338c466",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Khoobsurat",
+            "length": "3:52",
+            "artist": "Karun, toorjo dey, unfuckman, Nanku",
+            "deezer": {
+              "id": 2784258482,
+              "link": "https://www.deezer.com/track/2784258482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/e/0/00e79c0f21e6feda73cf83b791f64676.mp3?hdnea=exp=1795655999~acl=/api/1/1/0/0/e/0/00e79c0f21e6feda73cf83b791f64676.mp3*~data=user_id=0,application_id=42~hmac=5d11aeb3a934ca8111f8153552e7b9187856d63db3856359e84002a11cfb5a2e",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Baxxe",
+            "length": "4:14",
+            "artist": "Karun, Multani, Mc Kode, Babita",
+            "deezer": {
+              "id": 2784258492,
+              "link": "https://www.deezer.com/track/2784258492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/4/0/da469a6c6d13138a3bbcfa49e4ead881.mp3?hdnea=exp=1795655999~acl=/api/1/1/d/a/4/0/da469a6c6d13138a3bbcfa49e4ead881.mp3*~data=user_id=0,application_id=42~hmac=7a8843945e0ffd7ef7e25a6ab4e80c15341601eb026d339b96dd257a871c22e6",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Anant",
+            "length": "3:22",
+            "artist": "Karun, Adil, Lil Kabeer",
+            "deezer": {
+              "id": 2784258502,
+              "link": "https://www.deezer.com/track/2784258502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/3/0/c4334c8ec824ff758196ca7cf2fbb723.mp3?hdnea=exp=1795655999~acl=/api/1/1/c/4/3/0/c4334c8ec824ff758196ca7cf2fbb723.mp3*~data=user_id=0,application_id=42~hmac=12a9b3ab1dc3d208c66e6a34ae4c4aa232acb5d7e48eb623164c98716db68db4",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bhool Gaya",
+            "length": "6:23",
+            "artist": "Karun, Raghav",
+            "deezer": {
+              "id": 2784258512,
+              "link": "https://www.deezer.com/track/2784258512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/2/0/0c2ec3e2e2ac1735884c573d50d11c1c.mp3?hdnea=exp=1795655999~acl=/api/1/1/0/c/2/0/0c2ec3e2e2ac1735884c573d50d11c1c.mp3*~data=user_id=0,application_id=42~hmac=01e55542da944f2c6bf198282dcebc4f669a96deba0884ae5db6f2060910dfae",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Jaane Do",
+            "length": "2:50",
+            "artist": "Karun, Kalpanik Bass, Vrinda",
+            "deezer": {
+              "id": 2784258522,
+              "link": "https://www.deezer.com/track/2784258522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/7/0/117f82862d042db842e9d341ee4ff363.mp3?hdnea=exp=1795655999~acl=/api/1/1/1/1/7/0/117f82862d042db842e9d341ee4ff363.mp3*~data=user_id=0,application_id=42~hmac=d4e6216ae816b228d5592fba8d28ed21570b04dca677077005a89c6c6b7d7211",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Manoharini",
+            "length": "4:57",
+            "artist": "Karun, toorjo dey, Nanku",
+            "deezer": {
+              "id": 2784258532,
+              "link": "https://www.deezer.com/track/2784258532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/3/0/853c5ffac65ad9466bb28f1e39a29fb8.mp3?hdnea=exp=1795655999~acl=/api/1/1/8/5/3/0/853c5ffac65ad9466bb28f1e39a29fb8.mp3*~data=user_id=0,application_id=42~hmac=1fd86fda125810a04c46fc7f9dda1f96488487ce395fe42eb02a1bbb8764ab98",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Seetiyan",
+            "length": "3:40",
+            "artist": "Karun, toorjo dey, Nuke, Achayan",
+            "deezer": {
+              "id": 2784258542,
+              "link": "https://www.deezer.com/track/2784258542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/2/0/bb2205ad9b5a60c0d124aecd23323c44.mp3?hdnea=exp=1795655999~acl=/api/1/1/b/b/2/0/bb2205ad9b5a60c0d124aecd23323c44.mp3*~data=user_id=0,application_id=42~hmac=92799f5c34a67dbba3cca00a2de40c327fd01fb91205ec746c897dc373a8d2b5",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Doob Ja",
+            "length": "3:48",
+            "artist": "Karun, mendůs, Teesri Duniya",
+            "deezer": {
+              "id": 2784258552,
+              "link": "https://www.deezer.com/track/2784258552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/4/0/8c4ec3d400fa3d1ceaad4d26a483394e.mp3?hdnea=exp=1795655999~acl=/api/1/1/8/c/4/0/8c4ec3d400fa3d1ceaad4d26a483394e.mp3*~data=user_id=0,application_id=42~hmac=3b91875115c52a00286e41c48baf976eb875c055cc37db55aa46207722f20064",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Sajna",
+            "length": "3:42",
+            "artist": "Karun, mendůs",
+            "deezer": {
+              "id": 2784258562,
+              "link": "https://www.deezer.com/track/2784258562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/2/0/d527703f57a2677b7573e1b64fe74ebe.mp3?hdnea=exp=1795655999~acl=/api/1/1/d/5/2/0/d527703f57a2677b7573e1b64fe74ebe.mp3*~data=user_id=0,application_id=42~hmac=59384cd78fd9bb90a10c8fa38a6ca410e35703fd42b166947aa60e346e6cdaf8",
+              "preview_expires": "2026-11-26T01:19:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Karun/Granth.jpg"
+}

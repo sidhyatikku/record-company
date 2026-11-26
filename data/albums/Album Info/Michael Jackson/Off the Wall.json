@@ -1,0 +1,176 @@
+{
+  "title": "Off the Wall",
+  "artist": "Michael Jackson",
+  "year": 1979,
+  "release_date": "1979-08-10",
+  "type": "Album",
+  "description": "Off the Wall is the fifth studio album by the American singer Michael Jackson, released on August 10, 1979, by Epic Records. It was Jackson's first album released through Epic Records, and the first produced by Quincy Jones, whom he previously collaborated with while working on the 1978 film The Wiz. Off the Wall was crafted from disco, pop, funk, R&B, soft rock and Broadway ballads. Its lyrical themes include escapism, liberty, hedonism and romance. The album features songwriting contributions from Stevie Wonder, Paul McCartney, Rod Temperton, Tom Bahler, and David Foster, alongside three tracks penned by Jackson himself.",
+  "genres": [
+    "disco",
+    "pop",
+    "contemporary r&b",
+    "r&b",
+    "soul",
+    "funk",
+    "ballad",
+    "quiet storm"
+  ],
+  "tags": [
+    "disco",
+    "pop",
+    "contemporary r&b",
+    "r&b",
+    "soul",
+    "funk",
+    "ballad",
+    "club/dance",
+    "quiet storm"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 22
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ee749c63-5699-38e0-b565-7e84414648d9",
+    "wikipedia": "https://en.wikipedia.org/wiki/Off_the_Wall",
+    "allmusic": "https://www.allmusic.com/album/mw0000190332",
+    "discogs": "https://www.discogs.com/master/435524",
+    "wikidata": "https://www.wikidata.org/wiki/Q44289",
+    "deezer": "https://www.deezer.com/album/1440807"
+  },
+  "musicbrainz_id": "ee749c63-5699-38e0-b565-7e84414648d9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ae218e09-60cf-4799-9129-59a38947b47e",
+      "barcode": "0074643574525",
+      "title": "Off The Wall",
+      "disambiguation": "Digital download",
+      "date": "1979-08-10",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "42:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don't Stop 'Til You Get Enough",
+            "length": "6:04",
+            "deezer": {
+              "id": 15586296,
+              "link": "https://www.deezer.com/track/15586296",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/9/0/2a9486525e7db3b5a80e021cf33eba02.mp3?hdnea=exp=1795718434~acl=/api/1/1/2/a/9/0/2a9486525e7db3b5a80e021cf33eba02.mp3*~data=user_id=0,application_id=42~hmac=a6d287b9675ab8baa5f4fb82215ea7f99524aecd988606c9b4d50fb5c1946ed2",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rock with You",
+            "length": "3:39",
+            "deezer": {
+              "id": 15586286,
+              "link": "https://www.deezer.com/track/15586286",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/d/0/c1dd5a0222a0d9cf5d9369f435429f37.mp3?hdnea=exp=1795718434~acl=/api/1/1/c/1/d/0/c1dd5a0222a0d9cf5d9369f435429f37.mp3*~data=user_id=0,application_id=42~hmac=4941d3f1337c922d458bf1de68c954a7a273dd400a860cbad326dc76502a8b56",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Workin' Day and Night",
+            "length": "5:12",
+            "deezer": {
+              "id": 15586310,
+              "link": "https://www.deezer.com/track/15586310",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/2/0/4d20589f6a6e454a1d2e9c1ef2ba5b1c.mp3?hdnea=exp=1795718434~acl=/api/1/1/4/d/2/0/4d20589f6a6e454a1d2e9c1ef2ba5b1c.mp3*~data=user_id=0,application_id=42~hmac=6f9445c09649001802184eeb0ed77fbe4274fb470c7d0f505496605f6f952a9a",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Get on the Floor",
+            "length": "4:37",
+            "deezer": {
+              "id": 15586313,
+              "link": "https://www.deezer.com/track/15586313",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/2/0/ba2475eb45cef838c4413bbeae036107.mp3?hdnea=exp=1795718434~acl=/api/1/1/b/a/2/0/ba2475eb45cef838c4413bbeae036107.mp3*~data=user_id=0,application_id=42~hmac=cc9f6efdd846112d904a0e53b67f82f59b9a69d7a4bc15aeaa3cb1c3985d072f",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Off the Wall",
+            "length": "4:05",
+            "deezer": {
+              "id": 15586317,
+              "link": "https://www.deezer.com/track/15586317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/1/0/051faa1594de4a2e8f46090ad78d188d.mp3?hdnea=exp=1795718434~acl=/api/1/1/0/5/1/0/051faa1594de4a2e8f46090ad78d188d.mp3*~data=user_id=0,application_id=42~hmac=880f5cbc3394883efa62df13e4decdc439b32a33a424823829b05b8ae42e284f",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Girlfriend",
+            "length": "3:04",
+            "deezer": {
+              "id": 15586311,
+              "link": "https://www.deezer.com/track/15586311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/0/0/990464cba3ffedd305df9e18206e3e99.mp3?hdnea=exp=1795718434~acl=/api/1/1/9/9/0/0/990464cba3ffedd305df9e18206e3e99.mp3*~data=user_id=0,application_id=42~hmac=6e9714e85df24a168a97f6bca1546eaca9088ca03241888214a1fe0ff4c200e2",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "She's out of My Life",
+            "length": "3:38",
+            "deezer": {
+              "id": 15586288,
+              "link": "https://www.deezer.com/track/15586288",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/6/0/e5697c07e37e7fe73b4bf15c15194847.mp3?hdnea=exp=1795718434~acl=/api/1/1/e/5/6/0/e5697c07e37e7fe73b4bf15c15194847.mp3*~data=user_id=0,application_id=42~hmac=1802f39625b51b74407cdfaad07645870faec9a12dace0a3736f834c03c59746",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Can't Help It",
+            "length": "4:29",
+            "deezer": {
+              "id": 15586302,
+              "link": "https://www.deezer.com/track/15586302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/5/0/e65ce310c40ceba237a0809d65835645.mp3?hdnea=exp=1795718434~acl=/api/1/1/e/6/5/0/e65ce310c40ceba237a0809d65835645.mp3*~data=user_id=0,application_id=42~hmac=d6a168ab58b5e0defaf61858b8904c23789db067bb53ca141c6d4e489a12812f",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It's the Falling in Love",
+            "length": "3:48",
+            "deezer": {
+              "id": 15586298,
+              "link": "https://www.deezer.com/track/15586298",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/9/0/8798eac309514adb75193c9b9e4ccc20.mp3?hdnea=exp=1795718434~acl=/api/1/1/8/7/9/0/8798eac309514adb75193c9b9e4ccc20.mp3*~data=user_id=0,application_id=42~hmac=9ba58af11c9ae1aec1bb7ec0821523b5fac2d1b4eff611c4e8d247ee30d7336b",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Burn This Disco Out",
+            "length": "3:41",
+            "deezer": {
+              "id": 15586294,
+              "link": "https://www.deezer.com/track/15586294",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/f/0/47fe7c8bf5aca6f0c4e94e1bc8f6e551.mp3?hdnea=exp=1795718434~acl=/api/1/1/4/7/f/0/47fe7c8bf5aca6f0c4e94e1bc8f6e551.mp3*~data=user_id=0,application_id=42~hmac=e17c1323ad8f5f6719b4371964f80a4721a8fbaf96b8468088e8c39e7f731c7b",
+              "preview_expires": "2026-11-26T18:40:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Michael Jackson/Off the Wall.jpg"
+}

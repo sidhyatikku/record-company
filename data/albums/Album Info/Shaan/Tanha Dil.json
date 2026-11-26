@@ -1,0 +1,141 @@
+{
+  "title": "Tanha Dil...",
+  "artist": "Shaan",
+  "year": 2000,
+  "release_date": "2000-01-29",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "indian pop",
+    "indie pop",
+    "pop"
+  ],
+  "tags": [
+    "indian pop",
+    "indie pop",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/319ee914-fb47-43b1-8027-946f30aa2866",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1742761",
+    "deezer": "https://www.deezer.com/album/312745"
+  },
+  "musicbrainz_id": "319ee914-fb47-43b1-8027-946f30aa2866",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cf557eeb-77fb-49b8-9db2-e0ce2d82b786",
+      "barcode": "724384927851",
+      "title": "Tanha Dil…",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "33:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tanha Dil",
+            "length": "4:51",
+            "deezer": {
+              "id": 3278971,
+              "link": "https://www.deezer.com/track/3278971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/a/0/9fa85b3e30156c5f1b8edf56ec75136e.mp3?hdnea=exp=1795720460~acl=/api/1/1/9/f/a/0/9fa85b3e30156c5f1b8edf56ec75136e.mp3*~data=user_id=0,application_id=42~hmac=dca4fc43b5b27fb5161fdece0b51420e1154bbd164575db43fdbd171635d5e04",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Gum Sum Ho Kyon?",
+            "length": "4:40",
+            "deezer": {
+              "id": 3278972,
+              "link": "https://www.deezer.com/track/3278972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f28dbdc2fdb21c28fd4bf52899e57f78.mp3?hdnea=exp=1795720460~acl=/api/1/1/f/2/8/0/f28dbdc2fdb21c28fd4bf52899e57f78.mp3*~data=user_id=0,application_id=42~hmac=603f637756c5c7b145d780ac9421bc9be3ff688a070d490468ccdc4050cfde73",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Tujh Sa Na Koi",
+            "length": "3:53",
+            "deezer": {
+              "id": 3278973,
+              "link": "https://www.deezer.com/track/3278973",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/0/0/e80b36bcf5e34479f0ed343294cabda7.mp3?hdnea=exp=1795720460~acl=/api/1/1/e/8/0/0/e80b36bcf5e34479f0ed343294cabda7.mp3*~data=user_id=0,application_id=42~hmac=c9224417450764df2bb9636f179489fec56f26983dd58b9e624ec2612380dc0f",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Is Pyar Mein",
+            "length": "3:29",
+            "deezer": {
+              "id": 3278974,
+              "link": "https://www.deezer.com/track/3278974",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/f/0/07fe2db2df8cd6a57ee147a7ef4397c9.mp3?hdnea=exp=1795720460~acl=/api/1/1/0/7/f/0/07fe2db2df8cd6a57ee147a7ef4397c9.mp3*~data=user_id=0,application_id=42~hmac=3e4236175e51ff142c994e2491aab86207649f16a9cd071ff6c6e4d4b4844714",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bhool Ja",
+            "length": "3:34",
+            "deezer": {
+              "id": 3278975,
+              "link": "https://www.deezer.com/track/3278975",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/1/0/e411af2196669eaca2dc4fff239bf734.mp3?hdnea=exp=1795720460~acl=/api/1/1/e/4/1/0/e411af2196669eaca2dc4fff239bf734.mp3*~data=user_id=0,application_id=42~hmac=aacfae4660f6bbf7d6fa9c2b62085ad682a3f0845b2d8389110aab09be9ad3dd",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Faasle",
+            "length": "5:37",
+            "deezer": {
+              "id": 3278976,
+              "link": "https://www.deezer.com/track/3278976",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/d/0/64dc5b78190c92690875270681a5b09f.mp3?hdnea=exp=1795720460~acl=/api/1/1/6/4/d/0/64dc5b78190c92690875270681a5b09f.mp3*~data=user_id=0,application_id=42~hmac=417115fcaf472f591fdaf517c6e7783a0410b9272b22187deb597d286781e0fa",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "(Baby) Tu Hai Kahan?",
+            "length": "3:41",
+            "deezer": {
+              "id": 3278977,
+              "link": "https://www.deezer.com/track/3278977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/8/0/988b56378bb331bf78ff3c0cf1be0eac.mp3?hdnea=exp=1795720460~acl=/api/1/1/9/8/8/0/988b56378bb331bf78ff3c0cf1be0eac.mp3*~data=user_id=0,application_id=42~hmac=48df62a3fcd81a06428f11b3788e1e49710b11329272b93b5ef6d3a120d97098",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Shaan Se",
+            "length": "3:21",
+            "deezer": {
+              "id": 3278978,
+              "link": "https://www.deezer.com/track/3278978",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/d/0/39d68fa4454926fe71e4932d75eecad7.mp3?hdnea=exp=1795720460~acl=/api/1/1/3/9/d/0/39d68fa4454926fe71e4932d75eecad7.mp3*~data=user_id=0,application_id=42~hmac=c3c175f081c9b0cfaf223a257a5e3c7304301620e16a4749fac4f8d5fd56f926",
+              "preview_expires": "2026-11-26T19:14:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Shaan/Tanha Dil.jpg"
+}

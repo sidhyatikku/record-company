@@ -1,0 +1,51 @@
+{
+  "title": "Freakin’ Out on the Interstate (recorded live at Alex the Great)",
+  "artist": "Briston Maroney",
+  "year": 2020,
+  "release_date": "2020-07-10",
+  "type": "Single + Live",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3d5d2ce1-dc1e-4ac1-bc8a-1ae8413c4b61",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/159172202"
+  },
+  "musicbrainz_id": "3d5d2ce1-dc1e-4ac1-bc8a-1ae8413c4b61",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2d2e648f-0686-44e3-b468-5532c5c852c8",
+      "barcode": "075679809285",
+      "title": "Freakin’ Out on the Interstate (recorded live at Alex the Great)",
+      "disambiguation": "acoustic",
+      "date": "2020-07-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "5:04",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Freakin’ Out on the Interstate (acoustic version live)",
+            "length": "5:04",
+            "deezer": {
+              "id": 1014174982,
+              "link": "https://www.deezer.com/track/1014174982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/6/0/416d2c45805c18810315583cb1df0731.mp3?hdnea=exp=1795652543~acl=/api/1/1/4/1/6/0/416d2c45805c18810315583cb1df0731.mp3*~data=user_id=0,application_id=42~hmac=415db991de4e25bfdc6592257b0476ba88bf192579869d5df5cda10d0bb0a616",
+              "preview_expires": "2026-11-26T00:22:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Briston Maroney/Freakin' Out On The Interstate).jpg"
+}

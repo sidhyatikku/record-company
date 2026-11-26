@@ -1,0 +1,59 @@
+{
+  "title": "Really Love",
+  "artist": "KSI, Craig David & Digital Farm Animals",
+  "year": 2020,
+  "release_date": "2020-10-23",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "pop"
+  ],
+  "tags": [
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 1,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fb49db3d-f523-4705-9091-b033e6251fb5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/900566082"
+  },
+  "musicbrainz_id": "fb49db3d-f523-4705-9091-b033e6251fb5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a0c7b8a1-5f53-401a-9ee8-220186820139",
+      "barcode": "4050538649574",
+      "title": "Really Love",
+      "disambiguation": null,
+      "date": "2020-10-23",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Really Love",
+            "length": "2:58",
+            "deezer": {
+              "id": 3783038332,
+              "link": "https://www.deezer.com/track/3783038332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/b/0/a5b2244cf7a655f2bfe9d20f9be87c67.mp3?hdnea=exp=1795656347~acl=/api/1/1/a/5/b/0/a5b2244cf7a655f2bfe9d20f9be87c67.mp3*~data=user_id=0,application_id=42~hmac=52c455453b8eaaf48be7da2af76e5b01e419e408184bf82e2b2ae4483566a7ed",
+              "preview_expires": "2026-11-26T01:25:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/KSI/Really Love.jpg"
+}

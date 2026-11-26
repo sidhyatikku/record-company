@@ -1,0 +1,154 @@
+{
+  "title": "The Silent Sea",
+  "artist": "Advaita",
+  "year": 2012,
+  "release_date": "2012-10-08",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "rock"
+  ],
+  "tags": [
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b9e0cdaf-b451-4acc-b555-97aef05eae18",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/114068122"
+  },
+  "musicbrainz_id": "b9e0cdaf-b451-4acc-b555-97aef05eae18",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3e2a346b-db03-4ba1-b32d-b39db54b723b",
+      "barcode": "5099944035822",
+      "title": "The Silent Sea",
+      "disambiguation": null,
+      "date": "2012-10-08",
+      "country": "IN"
+    },
+    "total_tracks": 10,
+    "total_length": "1:00:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dust",
+            "length": "7:21",
+            "deezer": {
+              "id": 770721222,
+              "link": "https://www.deezer.com/track/770721222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/5/0/b1562e0803a5db9fb6c3b9d1197ab541.mp3?hdnea=exp=1795648962~acl=/api/1/1/b/1/5/0/b1562e0803a5db9fb6c3b9d1197ab541.mp3*~data=user_id=0,application_id=42~hmac=b6aac6d4c4f90cbf465a12d0d655f80ea1a884f5d61aef5ab84218be1dbe622b",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Gorakh",
+            "length": "5:34",
+            "deezer": {
+              "id": 770721232,
+              "link": "https://www.deezer.com/track/770721232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/3/0/bc3f0cbdccb2ccf87c206bcb35ca322a.mp3?hdnea=exp=1795648962~acl=/api/1/1/b/c/3/0/bc3f0cbdccb2ccf87c206bcb35ca322a.mp3*~data=user_id=0,application_id=42~hmac=136fb9ce4c67a7ac47346a36da4f1f7ece71b624875e33f6e8e72aa7884f9006",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Meinda Ishq",
+            "length": "5:02",
+            "deezer": {
+              "id": 770721242,
+              "link": "https://www.deezer.com/track/770721242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/2/0/0a2c833d88aba9c3fadc38f40932c76b.mp3?hdnea=exp=1795648962~acl=/api/1/1/0/a/2/0/0a2c833d88aba9c3fadc38f40932c76b.mp3*~data=user_id=0,application_id=42~hmac=c684da15c193dd03477c662c3e8b41187ee85861d78c32058895b6e9b335b361",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mandirva",
+            "length": "5:46",
+            "deezer": {
+              "id": 770721252,
+              "link": "https://www.deezer.com/track/770721252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/6/0/db633e6ec4f6e2c3625925e5f8c14b65.mp3?hdnea=exp=1795648962~acl=/api/1/1/d/b/6/0/db633e6ec4f6e2c3625925e5f8c14b65.mp3*~data=user_id=0,application_id=42~hmac=07983acc1b5ced858d369dbd15515635d08e22d195af39f5e1f61ac5fe90633a",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Spinning",
+            "length": "6:39",
+            "deezer": {
+              "id": 770721262,
+              "link": "https://www.deezer.com/track/770721262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/3/0/7c3a7f8ed3a17d7aefd0dff855b6eacb.mp3?hdnea=exp=1795648962~acl=/api/1/1/7/c/3/0/7c3a7f8ed3a17d7aefd0dff855b6eacb.mp3*~data=user_id=0,application_id=42~hmac=86f4c64c8fc580adde630828e6ca7738ac02ca6614c923c80148891ae8d6aa00",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Words",
+            "length": "6:43",
+            "deezer": {
+              "id": 770721282,
+              "link": "https://www.deezer.com/track/770721282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/7/0/b1765a2f347a49711758628e2aebe70c.mp3?hdnea=exp=1795648962~acl=/api/1/1/b/1/7/0/b1765a2f347a49711758628e2aebe70c.mp3*~data=user_id=0,application_id=42~hmac=98343cd5fa416b3afb9fefd61d829bf58787035026ada4445d01b7342d696b16",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Gamapanipa",
+            "length": "5:25",
+            "deezer": {
+              "id": 770721292,
+              "link": "https://www.deezer.com/track/770721292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/6/0/2262b7988c5978cac9babc26010a9d98.mp3?hdnea=exp=1795648962~acl=/api/1/1/2/2/6/0/2262b7988c5978cac9babc26010a9d98.mp3*~data=user_id=0,application_id=42~hmac=56105a936af905827fab85e008821676d3dc65fac433c36dc5d71ec393f69e12",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mo Funk",
+            "length": "6:07",
+            "deezer": {
+              "id": 770721302,
+              "link": "https://www.deezer.com/track/770721302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/4/0/89460bd748c95184855c9b4623d6235c.mp3?hdnea=exp=1795648962~acl=/api/1/1/8/9/4/0/89460bd748c95184855c9b4623d6235c.mp3*~data=user_id=0,application_id=42~hmac=5b6226a9bc83af5376a88949cdf31065cdba4dcf88396e4382361adbdf15e98b",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Tremor",
+            "length": "5:40",
+            "deezer": {
+              "id": 770721322,
+              "link": "https://www.deezer.com/track/770721322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/d/0/ced648b979c8b0c05210786bc5088a68.mp3?hdnea=exp=1795648962~acl=/api/1/1/c/e/d/0/ced648b979c8b0c05210786bc5088a68.mp3*~data=user_id=0,application_id=42~hmac=bd03ac491e1c6403a5c0c65d37fbc7db5ce040f2ef67da463ead10d286d3dc7d",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Silent Sea",
+            "length": "6:11",
+            "deezer": {
+              "id": 770721332,
+              "link": "https://www.deezer.com/track/770721332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/6/0/ef6352c686a3e32d8c77c7246142c6ad.mp3?hdnea=exp=1795648962~acl=/api/1/1/e/f/6/0/ef6352c686a3e32d8c77c7246142c6ad.mp3*~data=user_id=0,application_id=42~hmac=5b8678d1876ce8828d711ca53b827f0267bca4c74e5b16c9417aefb7313a6419",
+              "preview_expires": "2026-11-25T23:22:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Advaita/The Silent Sea.jpg"
+}

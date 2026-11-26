@@ -1,0 +1,192 @@
+{
+  "title": "Renaissance",
+  "artist": "Polyphia",
+  "year": 2016,
+  "release_date": "2016-03-11",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "rock",
+    "math rock",
+    "djent",
+    "experimental",
+    "progressive metal",
+    "progressive rock"
+  ],
+  "tags": [
+    "rock",
+    "math rock",
+    "djent",
+    "experimental",
+    "math metal",
+    "progressive metal",
+    "progressive rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d02cb868-9bad-48d4-be01-59b9e3fc9c58",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/986621",
+    "deezer": "https://www.deezer.com/album/12632792"
+  },
+  "musicbrainz_id": "d02cb868-9bad-48d4-be01-59b9e3fc9c58",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7f0fbf6d-4f40-47be-8379-6f4c948f4600",
+      "barcode": "886445801552",
+      "title": "Renaissance",
+      "disambiguation": null,
+      "date": "2016-03-11",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "44:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Culture Shock",
+            "length": "4:42",
+            "deezer": {
+              "id": 120974080,
+              "link": "https://www.deezer.com/track/120974080",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/6/0/df62d89ad45edd2e381e9a5106847826.mp3?hdnea=exp=1795719614~acl=/api/1/1/d/f/6/0/df62d89ad45edd2e381e9a5106847826.mp3*~data=user_id=0,application_id=42~hmac=26ec2cc8260ff4e1425c0a2d938a81b6360bc68104b752b0646fad071a4cec89",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Light",
+            "length": "3:51",
+            "deezer": {
+              "id": 120974082,
+              "link": "https://www.deezer.com/track/120974082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/6/0/0e6511c6695cee4a1fb8780c24039f0d.mp3?hdnea=exp=1795719614~acl=/api/1/1/0/e/6/0/0e6511c6695cee4a1fb8780c24039f0d.mp3*~data=user_id=0,application_id=42~hmac=784a17f4f105e34beacec5dfecce94d2106a41b712263af5e34449dd350c66c5",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Florence",
+            "length": "3:10",
+            "deezer": {
+              "id": 120974084,
+              "link": "https://www.deezer.com/track/120974084",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/4/0/484dd437e6e54cea0f2c20db673ce6d7.mp3?hdnea=exp=1795719614~acl=/api/1/1/4/8/4/0/484dd437e6e54cea0f2c20db673ce6d7.mp3*~data=user_id=0,application_id=42~hmac=082e68348361f0819f068dc147b313c88d7d10e59b62fe60fcd04fef513eda95",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Nightmare",
+            "length": "4:07",
+            "deezer": {
+              "id": 120974086,
+              "link": "https://www.deezer.com/track/120974086",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/2/0/fc2fa63349dee5548b8c9c8d3355e249.mp3?hdnea=exp=1795719614~acl=/api/1/1/f/c/2/0/fc2fa63349dee5548b8c9c8d3355e249.mp3*~data=user_id=0,application_id=42~hmac=95e1340c2d34deb2a71ecd1c8af8ec3cb704634b5a8173c4b8238b0d8e8cd01d",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Storm",
+            "length": "3:29",
+            "deezer": {
+              "id": 120974088,
+              "link": "https://www.deezer.com/track/120974088",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/1/0/7f1403f46ea446d599314d2f5573d8cc.mp3?hdnea=exp=1795719614~acl=/api/1/1/7/f/1/0/7f1403f46ea446d599314d2f5573d8cc.mp3*~data=user_id=0,application_id=42~hmac=e3ee6dff7784ead92575fcb1cc334f4c3818c4dbf71da8cd131d1c4fee88c9a9",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Bittersweet",
+            "length": "3:53",
+            "deezer": {
+              "id": 120974090,
+              "link": "https://www.deezer.com/track/120974090",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/b/0/cdbadc21673b7cf37dddce15d8548de0.mp3?hdnea=exp=1795719614~acl=/api/1/1/c/d/b/0/cdbadc21673b7cf37dddce15d8548de0.mp3*~data=user_id=0,application_id=42~hmac=3c9ae02e7d9e44b8fd8cc47da5cb71bb32c0c4721badc56f1b3390682b7a231d",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Symmetry",
+            "length": "1:57",
+            "deezer": {
+              "id": 120974092,
+              "link": "https://www.deezer.com/track/120974092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/2/0/96260c391f96e0797ef0e710b9860038.mp3?hdnea=exp=1795719614~acl=/api/1/1/9/6/2/0/96260c391f96e0797ef0e710b9860038.mp3*~data=user_id=0,application_id=42~hmac=85fc0422235a53ba44cec73cbf012b059a11f4cd65ab1ed9d992baae84dee1ad",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ivory",
+            "length": "3:06",
+            "deezer": {
+              "id": 120974094,
+              "link": "https://www.deezer.com/track/120974094",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/0/0/390d762dab906977aebdabe27ec6aaa9.mp3?hdnea=exp=1795719614~acl=/api/1/1/3/9/0/0/390d762dab906977aebdabe27ec6aaa9.mp3*~data=user_id=0,application_id=42~hmac=2b1c983ddb0dd0b670c184636cec9d1166854b266b747785c274bd562ab2b2d5",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Paradise",
+            "length": "4:16",
+            "deezer": {
+              "id": 120974096,
+              "link": "https://www.deezer.com/track/120974096",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/d/0/d1dda3f8d74ee3dbc5a94a4a317ca83e.mp3?hdnea=exp=1795719614~acl=/api/1/1/d/1/d/0/d1dda3f8d74ee3dbc5a94a4a317ca83e.mp3*~data=user_id=0,application_id=42~hmac=bd6925fa674b2d232a5b845236d17cf61ff49edfe409997a61ccbaf973137fa9",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Amour",
+            "length": "3:42",
+            "deezer": {
+              "id": 120974098,
+              "link": "https://www.deezer.com/track/120974098",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/0/0/c000ac605665644eee229f82e0c70c52.mp3?hdnea=exp=1795719614~acl=/api/1/1/c/0/0/0/c000ac605665644eee229f82e0c70c52.mp3*~data=user_id=0,application_id=42~hmac=138e3170ce594370aa4f6b852eeb9266e436900c5a00599a5013f7463b54901d",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Crush",
+            "length": "4:01",
+            "deezer": {
+              "id": 120974100,
+              "link": "https://www.deezer.com/track/120974100",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/c/0/c1c139c9e13a409862590c33a6f74e83.mp3?hdnea=exp=1795719614~acl=/api/1/1/c/1/c/0/c1c139c9e13a409862590c33a6f74e83.mp3*~data=user_id=0,application_id=42~hmac=2fb91cab3b41653cfde8e09ff862cdcddc767b4ac83e24372bf86e2d93b37f49",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Euphoria",
+            "length": "4:16",
+            "deezer": {
+              "id": 120974102,
+              "link": "https://www.deezer.com/track/120974102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/3/0/893ed4f257350108d91e22f7c6eb146d.mp3?hdnea=exp=1795719614~acl=/api/1/1/8/9/3/0/893ed4f257350108d91e22f7c6eb146d.mp3*~data=user_id=0,application_id=42~hmac=d8cd961c35d014356c303a5e86342cea27c1fb62f9f04583f8015788097ed114",
+              "preview_expires": "2026-11-26T19:00:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Polyphia/Renaissance.jpg"
+}

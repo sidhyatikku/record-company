@@ -1,0 +1,56 @@
+{
+  "title": "Only You Freestyle",
+  "artist": "Headie One × Drake",
+  "year": 2020,
+  "release_date": "2020-07-20",
+  "type": "Single",
+  "description": "\"Only You Freestyle\" is a song by written and performed by British rapper Headie One and Canadian rapper Drake, released on 20 July 2020 by Relentless Records and OVO Sound. It served as the lead single to the former's debut studio album, Edna (2020).",
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/23b1eb99-9a2e-42da-97c3-71415326a15c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Only_You_Freestyle",
+    "wikidata": "https://www.wikidata.org/wiki/Q97610165",
+    "deezer": "https://www.deezer.com/album/161946292"
+  },
+  "musicbrainz_id": "23b1eb99-9a2e-42da-97c3-71415326a15c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/072cc264-8b77-4ee0-be26-455cc217d634",
+      "barcode": "886448658436",
+      "title": "Only You Freestyle",
+      "disambiguation": "explicit",
+      "date": "2020-07-20",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Only You Freestyle",
+            "length": "4:09",
+            "deezer": {
+              "id": 1028083552,
+              "link": "https://www.deezer.com/track/1028083552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/a/0/0fa9f225bcd2faf85730d0ce124b79be.mp3?hdnea=exp=1795655050~acl=/api/1/1/0/f/a/0/0fa9f225bcd2faf85730d0ce124b79be.mp3*~data=user_id=0,application_id=42~hmac=dab391e815bb73ad2ea2b6d1752480929da7864810a0aed4219304ba2a2382c0",
+              "preview_expires": "2026-11-26T01:04:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Headie One/Only You Freestyle.jpg"
+}

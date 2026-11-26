@@ -1,0 +1,63 @@
+{
+  "title": "Houdini",
+  "artist": "Dua Lipa",
+  "year": 2023,
+  "release_date": "2023-11-09",
+  "type": "Single",
+  "description": "\"Houdini\" is a song by English singer Dua Lipa. It was released on 9 November 2023 through Warner Records, as the lead single from Lipa's third studio album, Radical Optimism (2024). The song was produced by Danny L Harle and Kevin Parker. Lipa co-wrote the song with Harle, Parker, Caroline Ailin and Tobias Jesso Jr.",
+  "genres": [
+    "pop",
+    "neo-psychedelia",
+    "nu disco",
+    "electronica"
+  ],
+  "tags": [
+    "pop",
+    "neo-psychedelia",
+    "nu disco",
+    "electronica"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ee38e44d-c8c7-4bd7-8253-0de4e500eaa4",
+    "wikipedia": "https://en.wikipedia.org/wiki/Houdini_(Dua_Lipa_song)",
+    "allmusic": "https://www.allmusic.com/album/mw0004142515",
+    "wikidata": "https://www.wikidata.org/wiki/Q123273186",
+    "deezer": "https://www.deezer.com/album/508032681"
+  },
+  "musicbrainz_id": "ee38e44d-c8c7-4bd7-8253-0de4e500eaa4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/759c9544-52e2-44a9-a51e-5cc69f7c5482",
+      "barcode": "5054197894091",
+      "title": "Houdini",
+      "disambiguation": null,
+      "date": "2023-11-09",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Houdini",
+            "length": "3:06",
+            "deezer": {
+              "id": 2525537871,
+              "link": "https://www.deezer.com/track/2525537871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/7/0/367e45ecbf07a341e248b400f51fc544.mp3?hdnea=exp=1795653736~acl=/api/1/1/3/6/7/0/367e45ecbf07a341e248b400f51fc544.mp3*~data=user_id=0,application_id=42~hmac=b2c9bf862acb2390368d0210afe5a96447fce24b39a4a76ddba0002c4cb0be79",
+              "preview_expires": "2026-11-26T00:42:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dua Lipa/Houdini.jpg"
+}

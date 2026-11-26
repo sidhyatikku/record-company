@@ -1,0 +1,241 @@
+{
+  "title": "Dangerously in Love",
+  "artist": "Beyoncé",
+  "year": 2003,
+  "release_date": "2003-03-10",
+  "type": "Album",
+  "description": "Dangerously in Love is the debut solo studio album by the American singer and songwriter Beyoncé. It was released on June 20, 2003, by Columbia Records and Music World Entertainment. The album features guest appearances by Beyoncé's then-boyfriend Jay-Z, as well as Missy Elliott, Sean Paul, Big Boi of Outkast, Sleepy Brown, and Luther Vandross, with international editions including vocals from Vanness Wu and IAM. Musically, the album is a mixture of uptempo tracks and ballads, all of which are primarily R&B songs, while also incorporating elements of soul, hip-hop, and Arabic music.",
+  "genres": [
+    "contemporary r&b",
+    "r&b",
+    "pop",
+    "dance-pop",
+    "hip hop",
+    "dancehall"
+  ],
+  "tags": [
+    "contemporary r&b",
+    "r&b",
+    "pop",
+    "dance-pop",
+    "hip hop",
+    "dancehall",
+    "hip-hop",
+    "rnb swing",
+    "urban"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f639ba46-b371-3262-b494-5f2dbee36f5c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dangerously_in_Love",
+    "allmusic": "https://www.allmusic.com/album/mw0000598421",
+    "discogs": "https://www.discogs.com/master/41127",
+    "wikidata": "https://www.wikidata.org/wiki/Q127503",
+    "deezer": "https://www.deezer.com/album/77201"
+  },
+  "musicbrainz_id": "f639ba46-b371-3262-b494-5f2dbee36f5c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3e581f3e-95e4-4099-bc06-1171879b4e5f",
+      "barcode": "5099750939529",
+      "title": "Dangerously in Love",
+      "disambiguation": null,
+      "date": "2003-06-23",
+      "country": "GB"
+    },
+    "total_tracks": 16,
+    "total_length": "1:09:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Crazy in Love",
+            "length": "3:56",
+            "artist": "Beyoncé featuring Jay‐Z",
+            "deezer": {
+              "id": 609244,
+              "link": "https://www.deezer.com/track/609244",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/0/0/ff0bcab7953c35e3b6c28be77ff121fb.mp3?hdnea=exp=1795651973~acl=/api/1/1/f/f/0/0/ff0bcab7953c35e3b6c28be77ff121fb.mp3*~data=user_id=0,application_id=42~hmac=f9c81bb7e021a995cd8c37bf7f47d5a3a46129b219749c184f796557a8f81065",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Naughty Girl",
+            "length": "3:29",
+            "deezer": {
+              "id": 609372,
+              "link": "https://www.deezer.com/track/609372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/9/0/ca9aefb7d7ba2b2d26c44cf822684595.mp3?hdnea=exp=1795651973~acl=/api/1/1/c/a/9/0/ca9aefb7d7ba2b2d26c44cf822684595.mp3*~data=user_id=0,application_id=42~hmac=fea7f199f16c24ac4979f02013d887c599eccba62f6b26bb3b6bd9fb9961e158",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Baby Boy",
+            "length": "4:05",
+            "artist": "Beyoncé featuring Sean Paul",
+            "deezer": {
+              "id": 609381,
+              "link": "https://www.deezer.com/track/609381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/0/0/a106bb0b1a024af7dc2ecea5905674d4.mp3?hdnea=exp=1795651973~acl=/api/1/1/a/1/0/0/a106bb0b1a024af7dc2ecea5905674d4.mp3*~data=user_id=0,application_id=42~hmac=1c7d3535693e8489ed237ecc9d58cf586731a4bea010c977fdb1ccbc7f83e28d",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hip Hop Star",
+            "length": "3:43",
+            "artist": "Beyoncé featuring Big Boi & Sleepy Brown",
+            "deezer": {
+              "id": 609373,
+              "link": "https://www.deezer.com/track/609373",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92fe4a0acbd502d3ae9a51e36c60e4ea.mp3?hdnea=exp=1795651973~acl=/api/1/1/9/2/f/0/92fe4a0acbd502d3ae9a51e36c60e4ea.mp3*~data=user_id=0,application_id=42~hmac=7428157c5b7bf059aac701b2fcb5086a3efbb9253cce4eda5f48b2b1e5c77f7a",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Be With You",
+            "length": "4:20",
+            "deezer": {
+              "id": 609388,
+              "link": "https://www.deezer.com/track/609388",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/b/0/6cbafae33b6b2fa0dd13e80aa10eb239.mp3?hdnea=exp=1795651973~acl=/api/1/1/6/c/b/0/6cbafae33b6b2fa0dd13e80aa10eb239.mp3*~data=user_id=0,application_id=42~hmac=3469be7329877954befc28db1f14e4eaf636e7e7f8e8b69db7fd521a854ac050",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Me, Myself and I",
+            "length": "5:01",
+            "deezer": {
+              "id": 609376,
+              "link": "https://www.deezer.com/track/609376",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/d/0/44d595688accb1707f26755de196e65b.mp3?hdnea=exp=1795651973~acl=/api/1/1/4/4/d/0/44d595688accb1707f26755de196e65b.mp3*~data=user_id=0,application_id=42~hmac=3e0d71c7c133d6c415409cb1ed5adc5cd74e7dbcc7868a529ed887628fc741ac",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Yes",
+            "length": "4:19",
+            "deezer": {
+              "id": 609384,
+              "link": "https://www.deezer.com/track/609384",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/2/0/c328cc32fe1b0d3194b9be3f96df09bb.mp3?hdnea=exp=1795651973~acl=/api/1/1/c/3/2/0/c328cc32fe1b0d3194b9be3f96df09bb.mp3*~data=user_id=0,application_id=42~hmac=c4e46a40633b22aa19970bc907e5dc23c499685571c9ee0eea3af0ca325d1abb",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Signs",
+            "length": "4:59",
+            "artist": "Beyoncé featuring Missy Elliott",
+            "deezer": {
+              "id": 609380,
+              "link": "https://www.deezer.com/track/609380",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/6/0/506b5e304f0670605cc269aa2da28d5e.mp3?hdnea=exp=1795651973~acl=/api/1/1/5/0/6/0/506b5e304f0670605cc269aa2da28d5e.mp3*~data=user_id=0,application_id=42~hmac=cf816685f16eb48bffd1ec7370a61fd2e07595cdeec82e0aa46eb666afc4653b",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Speechless",
+            "length": "6:00",
+            "deezer": {
+              "id": 609385,
+              "link": "https://www.deezer.com/track/609385",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/e/0/3ae9904f8c3bc59aeb53b03300cd0568.mp3?hdnea=exp=1795651973~acl=/api/1/1/3/a/e/0/3ae9904f8c3bc59aeb53b03300cd0568.mp3*~data=user_id=0,application_id=42~hmac=2e06ab615e07820d3f8f58a307e38fac5245d3df1eb6b3c7b16ae0c276bba109",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "That’s How You Like It",
+            "length": "3:39",
+            "artist": "Beyoncé featuring Jay‐Z",
+            "deezer": {
+              "id": 609374,
+              "link": "https://www.deezer.com/track/609374",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/b/0/41bc438de2f1be5832b3ec741398fc4e.mp3?hdnea=exp=1795651973~acl=/api/1/1/4/1/b/0/41bc438de2f1be5832b3ec741398fc4e.mp3*~data=user_id=0,application_id=42~hmac=748c918ff72473f86bb51ccbb0c732bc8d9cbe563bdc37876bd3ce77ef56bdd8",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Closer I Get to You",
+            "length": "4:58",
+            "artist": "Beyoncé with Luther Vandross",
+            "deezer": {
+              "id": 609379,
+              "link": "https://www.deezer.com/track/609379",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/2/0/572349817256eab124790d76073e95d8.mp3?hdnea=exp=1795651973~acl=/api/1/1/5/7/2/0/572349817256eab124790d76073e95d8.mp3*~data=user_id=0,application_id=42~hmac=6d5c55049621507e6a626284ae27ae88d1e855b0765aa834c6176f641bc4cce4",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Dangerously in Love 2",
+            "length": "4:53",
+            "deezer": {
+              "id": 609370,
+              "link": "https://www.deezer.com/track/609370",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/6/0/d06885e53e8a5312f936aad12a5a0aba.mp3?hdnea=exp=1795651973~acl=/api/1/1/d/0/6/0/d06885e53e8a5312f936aad12a5a0aba.mp3*~data=user_id=0,application_id=42~hmac=106933983b02e263fee442e5996723b3bfff15b30c10420a5d92454ea59a39bd",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Beyoncé Interlude",
+            "length": "0:16",
+            "deezer": {
+              "id": 609382,
+              "link": "https://www.deezer.com/track/609382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/c/0/fbc0c75ac401b2ecb2f02590f9c8651d.mp3?hdnea=exp=1795651973~acl=/api/1/1/f/b/c/0/fbc0c75ac401b2ecb2f02590f9c8651d.mp3*~data=user_id=0,application_id=42~hmac=2253b736dbbb200fe46b4160ccc5b67b7779ea2c09b531da5eee07e577a2c34f",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Gift From Virgo",
+            "length": "2:45",
+            "deezer": {
+              "id": 609386,
+              "link": "https://www.deezer.com/track/609386",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/f/0/0df3b83ac5de39c08cf0d7f2ea99bfa3.mp3?hdnea=exp=1795651973~acl=/api/1/1/0/d/f/0/0df3b83ac5de39c08cf0d7f2ea99bfa3.mp3*~data=user_id=0,application_id=42~hmac=5c6740a4e17297dc610363a7edd676feafaa2d4415f6cb30a12aa5ecb40a4edb",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Work It Out",
+            "length": "4:06"
+          },
+          {
+            "number": "16",
+            "title": "Bonnie & Clyde ’03 / Daddy",
+            "length": "8:37",
+            "artist": "Jay‐Z feat. Beyoncé / Beyoncé",
+            "deezer": {
+              "id": 609285,
+              "link": "https://www.deezer.com/track/609285",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/0/0/e80983a23b84cddb030621dd2fbf4b4e.mp3?hdnea=exp=1795651973~acl=/api/1/1/e/8/0/0/e80983a23b84cddb030621dd2fbf4b4e.mp3*~data=user_id=0,application_id=42~hmac=e55613ecab2f12bc884dcf65805c1b9cae904dff96e3b0d4b359d5c1db879871",
+              "preview_expires": "2026-11-26T00:12:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Beyoncé/Dangerously In Love.jpg"
+}

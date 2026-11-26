@@ -1,0 +1,51 @@
+{
+  "title": "Coke Studio India",
+  "artist": "Various Artists",
+  "year": null,
+  "type": "Other",
+  "description": "Coke Studio is an Indian music series that's part of the international franchise, Coke Studio. It features live studio recordings by various artists, showcasing a diverse range of music. This includes classical genres from the Indian subcontinent like Hindustani, Carnatic, Indian folk, alongside hip hop, rock, and pop music.",
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/524d2fcf-74da-4222-984f-eb16d60a0e65",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coke_Studio_(Indian_TV_program)",
+    "deezer": "https://www.deezer.com/album/765936781"
+  },
+  "musicbrainz_id": "524d2fcf-74da-4222-984f-eb16d60a0e65",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e94d4bd8-5bc4-4ef5-b028-18221b0b988d",
+      "barcode": "602478453717",
+      "title": "Ishq Bawla Ft. xvir Grewal",
+      "disambiguation": null,
+      "date": "",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ishq Bawla",
+            "length": null,
+            "artist": "Dhanda Nyoliwala",
+            "deezer": {
+              "id": 3394845031,
+              "link": "https://www.deezer.com/track/3394845031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/c/0/94c34374885c5535c84c8fdec42e5751.mp3?hdnea=exp=1795722279~acl=/api/1/1/9/4/c/0/94c34374885c5535c84c8fdec42e5751.mp3*~data=user_id=0,application_id=42~hmac=0ba2c91c7ff23af12385b583053eff3db554d59181fda2ee36228fd9b5d0169b",
+              "preview_expires": "2026-11-26T19:44:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Coke Studio India Season 2- Episode 7.jpg"
+}

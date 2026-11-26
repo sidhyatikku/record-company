@@ -1,0 +1,208 @@
+{
+  "title": "Open Letter",
+  "artist": "Talha Anjum",
+  "year": 2023,
+  "release_date": "2023-02-18",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ff6fcc75-76c7-4f67-96a5-059f73c30ba7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/657997621"
+  },
+  "musicbrainz_id": "ff6fcc75-76c7-4f67-96a5-059f73c30ba7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ae60d9ae-2ee3-4b21-a6d8-d5c83c76b33a",
+      "barcode": null,
+      "title": "Open Letter",
+      "disambiguation": null,
+      "date": "2023-02-18",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "55:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Melancholy",
+            "length": "1:45",
+            "deezer": {
+              "id": 3049438081,
+              "link": "https://www.deezer.com/track/3049438081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/7/0/a779f8f079e58fbb8daa86f5e501485a.mp3?hdnea=exp=1795721176~acl=/api/1/1/a/7/7/0/a779f8f079e58fbb8daa86f5e501485a.mp3*~data=user_id=0,application_id=42~hmac=60976c14bec441f73b318e889033237ae4777f9ebdae236a2c17c497a1f4bc02",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Happy Hour",
+            "length": "3:15",
+            "deezer": {
+              "id": 3049438091,
+              "link": "https://www.deezer.com/track/3049438091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/c/0/8ece278d4ba877786ce424928e890d75.mp3?hdnea=exp=1795721176~acl=/api/1/1/8/e/c/0/8ece278d4ba877786ce424928e890d75.mp3*~data=user_id=0,application_id=42~hmac=5d023b5e51871e7d550b5b4c9d68253651055bb747152989ac2240c1f4300274",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "At The Top",
+            "length": "2:05",
+            "deezer": {
+              "id": 3049438101,
+              "link": "https://www.deezer.com/track/3049438101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/4/0/05464b33170a25e56b00cd86aa29f669.mp3?hdnea=exp=1795721176~acl=/api/1/1/0/5/4/0/05464b33170a25e56b00cd86aa29f669.mp3*~data=user_id=0,application_id=42~hmac=8741a215b9b3ee54a4986aa9fdc02faaf510e5dda81fe4dfcc0af2a59c2cf409",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Touch Base",
+            "length": "5:02",
+            "artist": "Talha Anjum ft. KR$NA & Talhah Yunus",
+            "deezer": {
+              "id": 3049438111,
+              "link": "https://www.deezer.com/track/3049438111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/0/0/aa02ffb8442b22b123cfd79d30f8c958.mp3?hdnea=exp=1795721176~acl=/api/1/1/a/a/0/0/aa02ffb8442b22b123cfd79d30f8c958.mp3*~data=user_id=0,application_id=42~hmac=93e3b175afd00371978b38cee524bf8207a954810f75eddc4c90cc1c6cbddb6c",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Studio Gangsters",
+            "length": "4:08",
+            "artist": "Talha Anjum ft. Rap Demon",
+            "deezer": {
+              "id": 3049438121,
+              "link": "https://www.deezer.com/track/3049438121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/e/0/bee68c074275ad68f0412a3bd99ba079.mp3?hdnea=exp=1795721176~acl=/api/1/1/b/e/e/0/bee68c074275ad68f0412a3bd99ba079.mp3*~data=user_id=0,application_id=42~hmac=94a194413404541e073f98f90c1a876e2393a4283e9001b42c31f7f45376dce1",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Two Tone",
+            "length": "2:23",
+            "deezer": {
+              "id": 3049438131,
+              "link": "https://www.deezer.com/track/3049438131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/b/0/e9bb6e999a1f4c267c2bb9431e1ca855.mp3?hdnea=exp=1795721176~acl=/api/1/1/e/9/b/0/e9bb6e999a1f4c267c2bb9431e1ca855.mp3*~data=user_id=0,application_id=42~hmac=f5f1c44a25b7211ee8d3e4cb44910deae333f3cdf69cb8cd41b444c6bb5c9f3b",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "False Prophets",
+            "length": "4:19",
+            "deezer": {
+              "id": 3049438141,
+              "link": "https://www.deezer.com/track/3049438141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/0/0/f3071254aca5d9a76950e6480e30c094.mp3?hdnea=exp=1795721176~acl=/api/1/1/f/3/0/0/f3071254aca5d9a76950e6480e30c094.mp3*~data=user_id=0,application_id=42~hmac=d6e71a748c5f4e283d3ac18e1ee36bdcca6e99671672b0be3c4b4af05a86909c",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Desperation",
+            "length": "4:18",
+            "deezer": {
+              "id": 3049438151,
+              "link": "https://www.deezer.com/track/3049438151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/6/0/e9608d1bb2ca6f273261e03ea041397b.mp3?hdnea=exp=1795721176~acl=/api/1/1/e/9/6/0/e9608d1bb2ca6f273261e03ea041397b.mp3*~data=user_id=0,application_id=42~hmac=903a83991148e13b5c3a70ce422e6016f77a56d22b2b4b27570aa64bf4159d8d",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lost In Time",
+            "length": "3:34",
+            "deezer": {
+              "id": 3049438161,
+              "link": "https://www.deezer.com/track/3049438161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/9/0/7393ad846eb786030c2cc48d4658823d.mp3?hdnea=exp=1795721176~acl=/api/1/1/7/3/9/0/7393ad846eb786030c2cc48d4658823d.mp3*~data=user_id=0,application_id=42~hmac=a260f2199cd2a885721cf7b4c3edaa23098e92746bdfa101b1fa3148bc355650",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Kaam Pura",
+            "length": "2:42",
+            "deezer": {
+              "id": 3049438171,
+              "link": "https://www.deezer.com/track/3049438171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/7/0/407ad5428d4939dec534b1566a31ed47.mp3?hdnea=exp=1795721176~acl=/api/1/1/4/0/7/0/407ad5428d4939dec534b1566a31ed47.mp3*~data=user_id=0,application_id=42~hmac=7a9a17f9a09f59095f555df8d5cbec86a08c8aee87f5e2b8ad1d357b9817450b",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Flex",
+            "length": "3:39",
+            "deezer": {
+              "id": 3049438181,
+              "link": "https://www.deezer.com/track/3049438181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/0/0/79060b736629dcef26f5a3ba76ff2d79.mp3?hdnea=exp=1795721176~acl=/api/1/1/7/9/0/0/79060b736629dcef26f5a3ba76ff2d79.mp3*~data=user_id=0,application_id=42~hmac=c555a53b818cdfdde1defb557a9741363dc89939b5b21150d858decd7cbd64b2",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Glass Half Full",
+            "length": "6:34",
+            "artist": "Talha Anjum ft. JJ47 & Talhah Yunus",
+            "deezer": {
+              "id": 3049438191,
+              "link": "https://www.deezer.com/track/3049438191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/b/0/89b988c18eb2e5185e7e0486064ce9c1.mp3?hdnea=exp=1795721176~acl=/api/1/1/8/9/b/0/89b988c18eb2e5185e7e0486064ce9c1.mp3*~data=user_id=0,application_id=42~hmac=ae7f691f6dbe81a9678798ec1d3908d8832facec1a96934c44f9406e9ba559c1",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Downers At Dusk",
+            "length": "4:16",
+            "deezer": {
+              "id": 3049438201,
+              "link": "https://www.deezer.com/track/3049438201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/4/0/14486d287d685403362352f33c792638.mp3?hdnea=exp=1795721176~acl=/api/1/1/1/4/4/0/14486d287d685403362352f33c792638.mp3*~data=user_id=0,application_id=42~hmac=dfd9d27075191a2c3b183b4ac2c8f49d45b4d3cdf7757aee1567be165bae75d1",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Secrets",
+            "length": "4:38",
+            "deezer": {
+              "id": 3049438211,
+              "link": "https://www.deezer.com/track/3049438211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/e/0/4de64fd07a725843e37d158c943ec683.mp3?hdnea=exp=1795721176~acl=/api/1/1/4/d/e/0/4de64fd07a725843e37d158c943ec683.mp3*~data=user_id=0,application_id=42~hmac=236fed4fad3f83c12a3a95e39913cfc24a88f3cbf152b85f7d832f501452381b",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Open Letter",
+            "length": "3:12",
+            "deezer": {
+              "id": 3049438221,
+              "link": "https://www.deezer.com/track/3049438221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/5/0/0051f7a0123bb041d8522650c5d7b49b.mp3?hdnea=exp=1795721176~acl=/api/1/1/0/0/5/0/0051f7a0123bb041d8522650c5d7b49b.mp3*~data=user_id=0,application_id=42~hmac=31d3da58441db94e719640e33c894e037c23c6c875a7a3de8dd9a03b2d1c913d",
+              "preview_expires": "2026-11-26T19:26:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Talha Anjum/Open Letter.jpg"
+}

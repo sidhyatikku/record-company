@@ -1,0 +1,241 @@
+{
+  "title": "The Next Step",
+  "artist": "People Under the Stairs",
+  "year": 1998,
+  "release_date": "1998-03-24",
+  "type": "Album",
+  "description": "The Next Step is the debut studio album by People Under the Stairs, released on March 24, 1998. The duo was responsible for nearly every aspect of the album's production and initial release. Quick sales of the album and its sole single, \"The Next Step II\", also helped to get the group noticed by the label Om Records, with whom the group produced four other albums and found greater success.",
+  "genres": [
+    "hip hop",
+    "boom bap",
+    "conscious hip hop",
+    "hardcore hip hop",
+    "jazz rap",
+    "turntablism"
+  ],
+  "tags": [
+    "hip hop",
+    "boom bap",
+    "conscious hip hop",
+    "general hip hop",
+    "hardcore hip hop",
+    "jazz rap",
+    "turntablism"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/144ee1f0-fd70-32a9-a8ad-df3b4af06b5c",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Next_Step_(People_Under_the_Stairs_album)",
+    "discogs": "https://www.discogs.com/master/54511",
+    "wikidata": "https://www.wikidata.org/wiki/Q10381656",
+    "deezer": "https://www.deezer.com/album/1149909"
+  },
+  "musicbrainz_id": "144ee1f0-fd70-32a9-a8ad-df3b4af06b5c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fa42aac1-27b0-4b9f-bffc-47f65f596abd",
+      "barcode": null,
+      "title": "The Next Step",
+      "disambiguation": null,
+      "date": "2014-11-18",
+      "country": "XW"
+    },
+    "total_tracks": 16,
+    "total_length": "1:12:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro / 4 Everybody",
+            "length": "6:06",
+            "deezer": {
+              "id": 12531947,
+              "link": "https://www.deezer.com/track/12531947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/d/0/15d3b44b189316ddfafba14290550b89.mp3?hdnea=exp=1795719431~acl=/api/1/1/1/5/d/0/15d3b44b189316ddfafba14290550b89.mp3*~data=user_id=0,application_id=42~hmac=ec4b4a70827f022961df11455824f06e41271db35459e7d496e038ccb7481ed4",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Death of a Salesman",
+            "length": "4:37",
+            "deezer": {
+              "id": 12531948,
+              "link": "https://www.deezer.com/track/12531948",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/6/0/876ebb1427224aa964bde5d80e593248.mp3?hdnea=exp=1795719431~acl=/api/1/1/8/7/6/0/876ebb1427224aa964bde5d80e593248.mp3*~data=user_id=0,application_id=42~hmac=f00f44f607ad7a287f75add4a823c4f094ed118a3e4b2a96a58f835b44afb61d",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hardcore",
+            "length": "4:35",
+            "artist": "People Under the Stairs feat. Smile-Oak",
+            "deezer": {
+              "id": 12531949,
+              "link": "https://www.deezer.com/track/12531949",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/8/0/218aa82fae730089f9a50878fcdc2081.mp3?hdnea=exp=1795719431~acl=/api/1/1/2/1/8/0/218aa82fae730089f9a50878fcdc2081.mp3*~data=user_id=0,application_id=42~hmac=7002629e87f3f523754c1b8b01781dd6bfbe1982a610011f142d5d5f45e019cd",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Wannabes",
+            "length": "6:15",
+            "deezer": {
+              "id": 12531950,
+              "link": "https://www.deezer.com/track/12531950",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/2/0/f928872fefbe990817f7da790d4b87c6.mp3?hdnea=exp=1795719431~acl=/api/1/1/f/9/2/0/f928872fefbe990817f7da790d4b87c6.mp3*~data=user_id=0,application_id=42~hmac=c0545ef40b9d88638d80737553fdf6ef3184fc010c633ad6b725521f05b77f2e",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ten Tough Guys",
+            "length": "3:23",
+            "deezer": {
+              "id": 12531951,
+              "link": "https://www.deezer.com/track/12531951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/6/0/8862e3cb76806c27f2c6f97bf8e78e56.mp3?hdnea=exp=1795719431~acl=/api/1/1/8/8/6/0/8862e3cb76806c27f2c6f97bf8e78e56.mp3*~data=user_id=0,application_id=42~hmac=b8d79bd471d5ead03f226305500f795beb4ed6aca538943c86ea0f753bfa55cf",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mid-City Fiesta",
+            "length": "4:29",
+            "deezer": {
+              "id": 12531952,
+              "link": "https://www.deezer.com/track/12531952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/0/0/c60e03a6c5ade1aa798b21516ad868d2.mp3?hdnea=exp=1795719431~acl=/api/1/1/c/6/0/0/c60e03a6c5ade1aa798b21516ad868d2.mp3*~data=user_id=0,application_id=42~hmac=fc1a21a975a2218506b3c25d97575d336358e02716929213a6dc3a8e2898e56c",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Slow Bullet",
+            "length": "1:19",
+            "deezer": {
+              "id": 12531953,
+              "link": "https://www.deezer.com/track/12531953",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/0/0/e00da69dbb869ef7ec55088ac7733af6.mp3?hdnea=exp=1795719431~acl=/api/1/1/e/0/0/0/e00da69dbb869ef7ec55088ac7733af6.mp3*~data=user_id=0,application_id=42~hmac=3982c588bc852f08fa2dff2ae74a0be2407bcdb07f08b72c126debf318325a7a",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "San Francisco Knights",
+            "length": "4:31",
+            "deezer": {
+              "id": 12531954,
+              "link": "https://www.deezer.com/track/12531954",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/8/0/668a2364aa428e7f3203e1200291f7ba.mp3?hdnea=exp=1795719431~acl=/api/1/1/6/6/8/0/668a2364aa428e7f3203e1200291f7ba.mp3*~data=user_id=0,application_id=42~hmac=ba675655b7a10e5b27018ef5b4c4178b8755fc200d020a942d3b5c0fc88ec20f",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Turndown",
+            "length": "4:53",
+            "artist": "People Under the Stairs feat. Assault",
+            "deezer": {
+              "id": 12531955,
+              "link": "https://www.deezer.com/track/12531955",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/8/0/a489c2461f8961918421065e0d5b2fbe.mp3?hdnea=exp=1795719431~acl=/api/1/1/a/4/8/0/a489c2461f8961918421065e0d5b2fbe.mp3*~data=user_id=0,application_id=42~hmac=57e1f1f24196cf0f0831a68d84aa3bf2bcbc7b647246ffe34643a76db4c839ef",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Time to Rock Our Shit",
+            "length": "4:25",
+            "deezer": {
+              "id": 12531956,
+              "link": "https://www.deezer.com/track/12531956",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/2/0/e62e7b672f0c6f3f3afd3a5f3495abcb.mp3?hdnea=exp=1795719431~acl=/api/1/1/e/6/2/0/e62e7b672f0c6f3f3afd3a5f3495abcb.mp3*~data=user_id=0,application_id=42~hmac=ab4ba3d0bca8dc6780b85ea5345f8ca8f444210eeb304cdd04a98aba61b0fbc2",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Tamburo 5",
+            "length": "3:57",
+            "artist": "People Under the Stairs feat. Naimad, Assault & Shine 5",
+            "deezer": {
+              "id": 12531957,
+              "link": "https://www.deezer.com/track/12531957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/5/0/f458a2596884bf0e6d750b69bdcac504.mp3?hdnea=exp=1795719431~acl=/api/1/1/f/4/5/0/f458a2596884bf0e6d750b69bdcac504.mp3*~data=user_id=0,application_id=42~hmac=3c6add9bda7d95e27c87e7279d5dc15e4788f70a964b111a4363adf8f92679fd",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Los Angeles Daze",
+            "length": "6:20",
+            "deezer": {
+              "id": 12531958,
+              "link": "https://www.deezer.com/track/12531958",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/2/0/0d2cc05f7407ff6dd7a2d007ba63a870.mp3?hdnea=exp=1795719431~acl=/api/1/1/0/d/2/0/0d2cc05f7407ff6dd7a2d007ba63a870.mp3*~data=user_id=0,application_id=42~hmac=854336d0a7ca3a283b8c2b55f0ca57614bc93d0e14836fa95ac9a57af2094019",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "The Next Step II",
+            "length": "3:45",
+            "deezer": {
+              "id": 12531959,
+              "link": "https://www.deezer.com/track/12531959",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/2/0/7a2bacd5d06ff90b05ba6591ceea9062.mp3?hdnea=exp=1795719431~acl=/api/1/1/7/a/2/0/7a2bacd5d06ff90b05ba6591ceea9062.mp3*~data=user_id=0,application_id=42~hmac=b67e3bae0d409d6584b9f87c4c76145b158a498c7161ae5838672f2012c1812e",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "D.A.R.E.",
+            "length": "4:18",
+            "deezer": {
+              "id": 12531960,
+              "link": "https://www.deezer.com/track/12531960",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/b/0/c5b27877f961fb00117911211ec38063.mp3?hdnea=exp=1795719431~acl=/api/1/1/c/5/b/0/c5b27877f961fb00117911211ec38063.mp3*~data=user_id=0,application_id=42~hmac=5b826eafa5260bb5dfcc47d464758dd983611e9cce3da25df7e8ee3e1d93ec36",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Asshole",
+            "length": "4:47",
+            "artist": "People Under the Stairs feat. Assault",
+            "deezer": {
+              "id": 12531961,
+              "link": "https://www.deezer.com/track/12531961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/5/0/3c53d36c742cdf74377fe99ae7722984.mp3?hdnea=exp=1795719431~acl=/api/1/1/3/c/5/0/3c53d36c742cdf74377fe99ae7722984.mp3*~data=user_id=0,application_id=42~hmac=3f93a3d97af93a0554dda21c0a046cac2eda0414c1ac42ab7c5cbe60dd9215da",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Play It Again / Outro",
+            "length": "4:37",
+            "deezer": {
+              "id": 12531962,
+              "link": "https://www.deezer.com/track/12531962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/e/0/01e3ba77d20a143e404e783a530e02c9.mp3?hdnea=exp=1795719431~acl=/api/1/1/0/1/e/0/01e3ba77d20a143e404e783a530e02c9.mp3*~data=user_id=0,application_id=42~hmac=32974bfbc08c47e60e94492b5c6c071498c6096d80935f773f53457ed47125f5",
+              "preview_expires": "2026-11-26T18:57:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/People Under The Stairs/The Next Step.jpg"
+}

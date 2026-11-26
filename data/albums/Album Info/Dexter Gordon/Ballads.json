@@ -1,0 +1,135 @@
+{
+  "title": "Ballads",
+  "artist": "Dexter Gordon",
+  "year": 1991,
+  "release_date": "1991",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "tags": [
+    "hard bop",
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fd7c3e18-62f2-39ea-adc5-431ba4c53536",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/332269",
+    "deezer": "https://www.deezer.com/album/326232"
+  },
+  "musicbrainz_id": "fd7c3e18-62f2-39ea-adc5-431ba4c53536",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5c1f0ffc-4477-4310-8853-c3988a16bc17",
+      "barcode": "077779657926",
+      "title": "Ballads",
+      "disambiguation": null,
+      "date": "1991",
+      "country": "CA"
+    },
+    "total_tracks": 8,
+    "total_length": "1:03:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Darn That Dream",
+            "length": "7:32",
+            "deezer": {
+              "id": 3436986,
+              "link": "https://www.deezer.com/track/3436986",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/4/0/ea4be9082eeb216482fbf62f436f1ce3.mp3?hdnea=exp=1795653279~acl=/api/1/1/e/a/4/0/ea4be9082eeb216482fbf62f436f1ce3.mp3*~data=user_id=0,application_id=42~hmac=2eacded294c19ed328bcfe71695c50b818a3b59e981e23a1dc2e2d0e31dc3f7a",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Don't Explain",
+            "length": "6:07",
+            "deezer": {
+              "id": 3436987,
+              "link": "https://www.deezer.com/track/3436987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/4/0/3a4c9f7d68fb165836ace8def55e6fa8.mp3?hdnea=exp=1795653279~acl=/api/1/1/3/a/4/0/3a4c9f7d68fb165836ace8def55e6fa8.mp3*~data=user_id=0,application_id=42~hmac=a56f48e398d162d27710ff01f797497418ba3ae73c5d07a4365dc063cde4b9c0",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I'm a Fool to Want You",
+            "length": "6:45",
+            "deezer": {
+              "id": 3436988,
+              "link": "https://www.deezer.com/track/3436988",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/7/0/5274e959944b298d64474234ebf34da0.mp3?hdnea=exp=1795653279~acl=/api/1/1/5/2/7/0/5274e959944b298d64474234ebf34da0.mp3*~data=user_id=0,application_id=42~hmac=ec0aadd072777fe80ef5cad5aac8fd2f068caea10e2af782f92d8166a705ec96",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ernie's Tune",
+            "length": "4:17",
+            "deezer": {
+              "id": 3436989,
+              "link": "https://www.deezer.com/track/3436989",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/2/0/bd21fa41334e6aa761db2dba203d2acb.mp3?hdnea=exp=1795653279~acl=/api/1/1/b/d/2/0/bd21fa41334e6aa761db2dba203d2acb.mp3*~data=user_id=0,application_id=42~hmac=0dbd09282007fc92fc7dcce90ced87e1d284d033c0cbe9defb41115742441f72",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "You've Changed",
+            "length": "7:28",
+            "deezer": {
+              "id": 3436990,
+              "link": "https://www.deezer.com/track/3436990",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d047fed9c7596f8495df9254f06a673.mp3?hdnea=exp=1795653279~acl=/api/1/1/0/d/0/0/0d047fed9c7596f8495df9254f06a673.mp3*~data=user_id=0,application_id=42~hmac=7f9d703ddaa16b619a0bda8f669d30aabfdf6adda453fa5ac1b9b4375b44288d",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Willow Weep for Me",
+            "length": "8:49",
+            "deezer": {
+              "id": 3436991,
+              "link": "https://www.deezer.com/track/3436991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/7/0/b877126d031e93d9758bb74ffcee6648.mp3?hdnea=exp=1795653279~acl=/api/1/1/b/8/7/0/b877126d031e93d9758bb74ffcee6648.mp3*~data=user_id=0,application_id=42~hmac=4812dd5000b06af8f71a1a870c595ed8eba66c6d607ff383acf49cdf0b69130e",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Guess I'll Hang My Tears Out to Dry",
+            "length": "5:23",
+            "deezer": {
+              "id": 3436992,
+              "link": "https://www.deezer.com/track/3436992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/4/0/7646b8987264b45b5648993b46bfb1c0.mp3?hdnea=exp=1795653279~acl=/api/1/1/7/6/4/0/7646b8987264b45b5648993b46bfb1c0.mp3*~data=user_id=0,application_id=42~hmac=718a721a40860bbe623b0d9a650db360e134df4ac3278153450e0b9d11afaa54",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Body and Soul",
+            "length": "17:00",
+            "deezer": {
+              "id": 3436993,
+              "link": "https://www.deezer.com/track/3436993",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/1/0/8716dff2b08b8a5c127b49e176e19712.mp3?hdnea=exp=1795653279~acl=/api/1/1/8/7/1/0/8716dff2b08b8a5c127b49e176e19712.mp3*~data=user_id=0,application_id=42~hmac=ac1245917c990cf17030817954df88b2f7494d23eb42180dff6cbb06ee5a4d87",
+              "preview_expires": "2026-11-26T00:34:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dexter Gordon/Ballads.jpg"
+}

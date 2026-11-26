@@ -1,0 +1,217 @@
+{
+  "title": "*NSYNC",
+  "artist": "*NSYNC",
+  "year": 1997,
+  "release_date": "1997-05-30",
+  "type": "Album",
+  "description": "'NSYNC is the debut studio album by American boy band NSYNC, initially released in Germany on May 26, 1997, by Trans Continental Records, and internationally on March 24, 1998, by RCA Records. The album reached number one on the Offizielle Top 100 and includes the singles \"I Want You Back\" and \"Tearin' Up My Heart\".",
+  "genres": [
+    "pop",
+    "dance-pop",
+    "electronic",
+    "eurodance",
+    "new jack swing",
+    "teen pop"
+  ],
+  "tags": [
+    "pop",
+    "boy band",
+    "dance-pop",
+    "electronic",
+    "eurodance",
+    "new jack swing",
+    "self-titled",
+    "teen pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0630b411-270c-3ff9-a20d-28762a132cbf",
+    "wikipedia": "https://en.wikipedia.org/wiki/NSYNC_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000031266",
+    "discogs": "https://www.discogs.com/master/73021",
+    "wikidata": "https://www.wikidata.org/wiki/Q2559810",
+    "deezer": "https://www.deezer.com/album/112439"
+  },
+  "musicbrainz_id": "0630b411-270c-3ff9-a20d-28762a132cbf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e065a96b-bfa0-48cf-8d5c-0cc379939b73",
+      "barcode": "743216819027",
+      "title": "'N Sync",
+      "disambiguation": "UK Version",
+      "date": "1999-07-05",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "52:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tearin’ Up My Heart (radio edit)",
+            "length": "3:29",
+            "deezer": {
+              "id": 1022523,
+              "link": "https://www.deezer.com/track/1022523",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/9/0/a29a4fcebe9587e616c7099f60174052.mp3?hdnea=exp=1795648514~acl=/api/1/1/a/2/9/0/a29a4fcebe9587e616c7099f60174052.mp3*~data=user_id=0,application_id=42~hmac=d07f1f836ff1bd47431049ca051e84cc0cc3553feeaca64930278dec7b8cd0a6",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Just Wanna Be With You",
+            "length": "4:02",
+            "deezer": {
+              "id": 1022526,
+              "link": "https://www.deezer.com/track/1022526",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f7dc1146939e349c6f137fe42a41410.mp3?hdnea=exp=1795648514~acl=/api/1/1/4/f/7/0/4f7dc1146939e349c6f137fe42a41410.mp3*~data=user_id=0,application_id=42~hmac=eb7f1e158875b384696265ebb253c177711575ac0fbd4520879e2eccf55b2c63",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Here We Go (radio cut)",
+            "length": "3:34",
+            "deezer": {
+              "id": 1023307,
+              "link": "https://www.deezer.com/track/1023307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/3/0/883c4badefc3c9bf671c1ecea72669fa.mp3?hdnea=exp=1795648514~acl=/api/1/1/8/8/3/0/883c4badefc3c9bf671c1ecea72669fa.mp3*~data=user_id=0,application_id=42~hmac=1b84f0a97daa7f28e62b4866d7afff1e6b03a9e68295b070bcc5afc79ec6beb6",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "For the Girl Who Has Everything (club mix)",
+            "length": "3:44",
+            "deezer": {
+              "id": 1022528,
+              "link": "https://www.deezer.com/track/1022528",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/e/0/feef65491ed6215ed6770282be2ed42b.mp3?hdnea=exp=1795648514~acl=/api/1/1/f/e/e/0/feef65491ed6215ed6770282be2ed42b.mp3*~data=user_id=0,application_id=42~hmac=65ad4a8618a93278fb9852ac3a158f772df3d4d9dd5057d2180e87a9022d5c6e",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "(God Must Have Spent) a Little More Time on You (remix)",
+            "length": "4:01",
+            "deezer": {
+              "id": 1022530,
+              "link": "https://www.deezer.com/track/1022530",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/d/0/4ada2ef450a93ce9daf74c24404e22d5.mp3?hdnea=exp=1795648514~acl=/api/1/1/4/a/d/0/4ada2ef450a93ce9daf74c24404e22d5.mp3*~data=user_id=0,application_id=42~hmac=979ed8448013bc2c92f29ac5a4980427076a41917927b8ed545ac8e479fdc6ab",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "You Got It",
+            "length": "3:31",
+            "deezer": {
+              "id": 1022532,
+              "link": "https://www.deezer.com/track/1022532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/e/0/8be7559a4543f6f2d2e0e140443e51ef.mp3?hdnea=exp=1795648514~acl=/api/1/1/8/b/e/0/8be7559a4543f6f2d2e0e140443e51ef.mp3*~data=user_id=0,application_id=42~hmac=edac5b06f59e4b95f1f27c75ed0672ce189004f590885e07f4fc772f0f10da04",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Need Love",
+            "length": "3:13",
+            "deezer": {
+              "id": 1022534,
+              "link": "https://www.deezer.com/track/1022534",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/c/0/f9c0bea1b427b496e9eefe13765d1078.mp3?hdnea=exp=1795648514~acl=/api/1/1/f/9/c/0/f9c0bea1b427b496e9eefe13765d1078.mp3*~data=user_id=0,application_id=42~hmac=da9a9e3bb35edc5cada371e6200fbb6536bd6776f80104bcb8d190b77e8c6e93",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Want You Back (radio edit)",
+            "length": "3:20",
+            "deezer": {
+              "id": 1022536,
+              "link": "https://www.deezer.com/track/1022536",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/d/0/afd8f6ed73405ade13f917143db75ede.mp3?hdnea=exp=1795648514~acl=/api/1/1/a/f/d/0/afd8f6ed73405ade13f917143db75ede.mp3*~data=user_id=0,application_id=42~hmac=a5befa74c5c522e8269e55f38a22bb971028aa0a1f9d1dbb855f3c0a9371089d",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Everything I Own",
+            "length": "3:55",
+            "deezer": {
+              "id": 1023309,
+              "link": "https://www.deezer.com/track/1023309",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/9/0/7a9e695794a0b4f585118a0ff7aad201.mp3?hdnea=exp=1795648514~acl=/api/1/1/7/a/9/0/7a9e695794a0b4f585118a0ff7aad201.mp3*~data=user_id=0,application_id=42~hmac=d12d5aff49f633eb0ed15fdfecd45a3b4395ee6bf04ed210d3ecb7ab3bd251f4",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Thinking of You (I Drive Myself Crazy) (remix)",
+            "length": "4:01",
+            "deezer": {
+              "id": 1023311,
+              "link": "https://www.deezer.com/track/1023311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/f/0/c3f39e79a1b9f79399dadd903cb9385a.mp3?hdnea=exp=1795648514~acl=/api/1/1/c/3/f/0/c3f39e79a1b9f79399dadd903cb9385a.mp3*~data=user_id=0,application_id=42~hmac=3956d8877955815c978424a097f79448039708f2aece81ccf8951441c95081f4",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Crazy for You",
+            "length": "3:39",
+            "deezer": {
+              "id": 1022538,
+              "link": "https://www.deezer.com/track/1022538",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/5/0/e6583b9cd44d02428205360d2cc88c8d.mp3?hdnea=exp=1795648514~acl=/api/1/1/e/6/5/0/e6583b9cd44d02428205360d2cc88c8d.mp3*~data=user_id=0,application_id=42~hmac=c09fe7c61d914a5f07b79a5d00fba4cdde1be090192b23cf3c85a0c6f78d70fe",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Sailing",
+            "length": "4:35",
+            "deezer": {
+              "id": 1022540,
+              "link": "https://www.deezer.com/track/1022540",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/2/0/bd2bfe7c35b19880de271abc32900e97.mp3?hdnea=exp=1795648514~acl=/api/1/1/b/d/2/0/bd2bfe7c35b19880de271abc32900e97.mp3*~data=user_id=0,application_id=42~hmac=a9ec56146bc4f6951717f90d433d4dc34a926d891137ff8cafe2fabb4b1c14eb",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Giddy Up",
+            "length": "4:08",
+            "deezer": {
+              "id": 1022543,
+              "link": "https://www.deezer.com/track/1022543",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/4/0/2949d78728e37ca9c2ae2a68bd3c2352.mp3?hdnea=exp=1795648514~acl=/api/1/1/2/9/4/0/2949d78728e37ca9c2ae2a68bd3c2352.mp3*~data=user_id=0,application_id=42~hmac=b998ed578a0bf98dc6e389d7e67426159f5381bf6182d4dd8bc098b6674e9de9",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "U Drive Me Crazy (radio edit)",
+            "length": "3:35",
+            "deezer": {
+              "id": 1022545,
+              "link": "https://www.deezer.com/track/1022545",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/c/0/c2cd319d40b157cb26306a9232e2ae99.mp3?hdnea=exp=1795648514~acl=/api/1/1/c/2/c/0/c2cd319d40b157cb26306a9232e2ae99.mp3*~data=user_id=0,application_id=42~hmac=9e190d84179f28c0bd202733363b4ae53b8e5dc27a8a96501c8f9d261b2dcd6e",
+              "preview_expires": "2026-11-25T23:15:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/-NSYNC/'N Sync UK Version.jpg"
+}

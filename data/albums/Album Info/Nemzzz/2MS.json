@@ -1,0 +1,51 @@
+{
+  "title": "2MS",
+  "artist": "Nemzzz",
+  "year": 2022,
+  "release_date": "2022-02-24",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f9b5b52c-c420-4530-bb8b-3edf309fcb94",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/297364482"
+  },
+  "musicbrainz_id": "f9b5b52c-c420-4530-bb8b-3edf309fcb94",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8543032a-3a95-4545-b569-0a0997a3e5a7",
+      "barcode": "602445564156",
+      "title": "2MS",
+      "disambiguation": null,
+      "date": "2022-02-24",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "1:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "2MS",
+            "length": "1:48",
+            "deezer": {
+              "id": 1662753442,
+              "link": "https://www.deezer.com/track/1662753442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/3/0/d339e07fefe0026e75cc2a3409d518f8.mp3?hdnea=exp=1795718812~acl=/api/1/1/d/3/3/0/d339e07fefe0026e75cc2a3409d518f8.mp3*~data=user_id=0,application_id=42~hmac=c89ae491c6f9b8d08ec2ef1bee7c6a23d042ebaf15e648661672c99ae4d24046",
+              "preview_expires": "2026-11-26T18:46:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nemzzz/2MS.jpg"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Heelo Re / Morni",
+  "artist": "Anvaya",
+  "year": 2025,
+  "release_date": "2025-12-05",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "gujarati garba"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6Fe2ZrL7Gc9tWommGuboyK",
+    "deezer": "https://www.deezer.com/album/859805602"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6Fe2ZrL7Gc9tWommGuboyK",
+      "title": "Heelo Re / Morni",
+      "date": "2025-12-05"
+    },
+    "total_tracks": 2,
+    "total_length": "7:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Heelo Re",
+            "length": "4:21",
+            "deezer": {
+              "id": 3665744622,
+              "link": "https://www.deezer.com/track/3665744622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/f/0/73fe1b142c9b781eb844e7d9c9131f28.mp3?hdnea=exp=1795649290~acl=/api/1/1/7/3/f/0/73fe1b142c9b781eb844e7d9c9131f28.mp3*~data=user_id=0,application_id=42~hmac=ba82180c2852c84b32d313a9a9d5ad612c48d1661602337d5da100ec7507978a",
+              "preview_expires": "2026-11-25T23:28:10Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Morni",
+            "length": "3:11",
+            "deezer": {
+              "id": 3665744632,
+              "link": "https://www.deezer.com/track/3665744632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/1/0/0512f6ff73fc7de5de1e97c8a382cdbc.mp3?hdnea=exp=1795649290~acl=/api/1/1/0/5/1/0/0512f6ff73fc7de5de1e97c8a382cdbc.mp3*~data=user_id=0,application_id=42~hmac=2ac6e1cdc64c5f1fa440f610e3f4a2ae398a294750ada9e0cc6810bd2d848ac7",
+              "preview_expires": "2026-11-25T23:28:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Anvaya/Heelo Re - Morni.jpg"
+}

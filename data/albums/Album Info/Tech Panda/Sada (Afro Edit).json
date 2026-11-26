@@ -1,0 +1,52 @@
+{
+  "title": "Sada (Afro Edit)",
+  "artist": "Tech Panda, Kenzani, Blu Attic",
+  "year": 2024,
+  "release_date": "2024-12-15",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5lmEqXyAXca00POQ5zhUBD",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5lmEqXyAXca00POQ5zhUBD",
+      "title": "Sada (Afro Edit)",
+      "date": "2024-12-15"
+    },
+    "total_tracks": 2,
+    "total_length": "9:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sada - Afro Radio Edit",
+            "length": "4:00",
+            "artist": "Tech Panda, Kenzani, Blu Attic, Aaromal"
+          },
+          {
+            "number": "2",
+            "title": "Sada - Afro Extended Edit",
+            "length": "5:41",
+            "artist": "Tech Panda, Kenzani, Blu Attic, Aaromal"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Sada (Afro Edit).jpg"
+}

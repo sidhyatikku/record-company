@@ -1,0 +1,264 @@
+{
+  "title": "[Led Zeppelin IV]",
+  "artist": "Led Zeppelin",
+  "year": 1971,
+  "release_date": "1971-11-08",
+  "type": "Album",
+  "description": "The untitled fourth studio album by the English rock band Led Zeppelin, commonly known as Led Zeppelin IV, was released on 8 November 1971, by Atlantic Records. It was produced by the band's guitarist, Jimmy Page, and recorded between December 1970 and February 1971, mostly in the country house Headley Grange. The album contains one of the band's best-known recordings, the eight-minute-long \"Stairway to Heaven\".",
+  "genres": [
+    "hard rock",
+    "rock",
+    "blues rock",
+    "classic rock",
+    "arena rock",
+    "blues",
+    "folk rock",
+    "british blues",
+    "heavy metal"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "blues rock",
+    "classic rock",
+    "arena rock",
+    "blues",
+    "folk rock",
+    "album rock",
+    "british blues",
+    "heavy metal",
+    "blues-rock",
+    "britannique",
+    "british metal",
+    "chariot",
+    "discogs/the most popular album released every year from 1950 to 2020",
+    "english",
+    "led zeppelin box set",
+    "offizielle charts",
+    "pop/rock",
+    "regional blues",
+    "rock ballad",
+    "second british folk revival"
+  ],
+  "rating": {
+    "value_out_of_5": 4.8,
+    "votes": 46
+  },
+  "musicbrainz_annotation": "Do not remove editorial brackets from the title as this is officially [https://en.wikipedia.org/wiki/Led_Zeppelin_IV|untitled] but commonly known as '''Led Zeppelin IV'''.\nSee [https://musicbrainz.org/doc/Style/Unknown_and_untitled/Special_purpose_track_title#Untitled_tracks|guidance] and [https://musicbrainz.org/search/edits?auto_edit_filter=&order=desc&negation=0&combinator=and&conditions.2.field=release_group&conditions.2.operator=%3D&conditions.2.name=%5BLed+Zeppelin+IV%5D&conditions.2.args.0=18763&conditions.3.field=type&conditions.3.operator=%3D&conditions.3.args=21|edit history] (particularly [https://musicbrainz.org/edit/16277969#note-16277969-1|this edit] by our [https://musicbrainz.org/user/reosarevok|style leader]).",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2e61da88-39e9-3473-81d2-c964cb394952",
+    "wikipedia": "https://en.wikipedia.org/wiki/Led_Zeppelin_IV",
+    "allmusic": "https://www.allmusic.com/album/mw0000190736",
+    "discogs": "https://www.discogs.com/master/4300",
+    "wikidata": "https://www.wikidata.org/wiki/Q201940",
+    "deezer": "https://www.deezer.com/album/8887733"
+  },
+  "musicbrainz_id": "2e61da88-39e9-3473-81d2-c964cb394952",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a41f59ee-500d-4f03-a6ac-661783dffdc5",
+      "barcode": "603497898527",
+      "title": "[Led Zeppelin IV]",
+      "disambiguation": "deluxe edition",
+      "date": "2014-10-27",
+      "country": "XW"
+    },
+    "total_tracks": 16,
+    "total_length": "1:23:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Black Dog",
+            "length": "4:55",
+            "deezer": {
+              "id": 88003853,
+              "link": "https://www.deezer.com/track/88003853",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/0/0/c107eecef522651f031e2bd76cb491be.mp3?hdnea=exp=1795656445~acl=/api/1/1/c/1/0/0/c107eecef522651f031e2bd76cb491be.mp3*~data=user_id=0,application_id=42~hmac=166e2706615a445f26c0b2fff4a04713119216014eb1212d99aa2d3049fd1b87",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rock and Roll",
+            "length": "3:41",
+            "deezer": {
+              "id": 88003855,
+              "link": "https://www.deezer.com/track/88003855",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/7/0/367c1938e3db3b81b5602434545b63b8.mp3?hdnea=exp=1795656445~acl=/api/1/1/3/6/7/0/367c1938e3db3b81b5602434545b63b8.mp3*~data=user_id=0,application_id=42~hmac=b7e5bfde7df95e22f93a9bad1173af3d691996beacbfed2e91071f5c92620f27",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Battle of Evermore",
+            "length": "5:52",
+            "deezer": {
+              "id": 88003857,
+              "link": "https://www.deezer.com/track/88003857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/9/0/259ab7d9ee793ee35a81c9911feb0ba5.mp3?hdnea=exp=1795656445~acl=/api/1/1/2/5/9/0/259ab7d9ee793ee35a81c9911feb0ba5.mp3*~data=user_id=0,application_id=42~hmac=1d9e7d4b69b8848f979694c468c95104941f91cc7e28542ef4545e019cef5213",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Stairway to Heaven",
+            "length": "8:03",
+            "deezer": {
+              "id": 88003859,
+              "link": "https://www.deezer.com/track/88003859",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/6/0/26692783366247f9e456227bc4eb9550.mp3?hdnea=exp=1795656445~acl=/api/1/1/2/6/6/0/26692783366247f9e456227bc4eb9550.mp3*~data=user_id=0,application_id=42~hmac=86aeb9d4c8fe7cc54d51d4b9db42a9d6c14c1230ba39552ebddbf2efaa374800",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Misty Mountain Hop",
+            "length": "4:39",
+            "deezer": {
+              "id": 88003861,
+              "link": "https://www.deezer.com/track/88003861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/e/0/39ebd0b8c57ce86ffbad4fdb87c7f1d8.mp3?hdnea=exp=1795656445~acl=/api/1/1/3/9/e/0/39ebd0b8c57ce86ffbad4fdb87c7f1d8.mp3*~data=user_id=0,application_id=42~hmac=2a481beda05a71761988317beb5355e4e0656e8f494e6407839844a22895be05",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Four Sticks",
+            "length": "4:45",
+            "deezer": {
+              "id": 88003863,
+              "link": "https://www.deezer.com/track/88003863",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/6/0/896d1f828d806416c173861830cb8929.mp3?hdnea=exp=1795656445~acl=/api/1/1/8/9/6/0/896d1f828d806416c173861830cb8929.mp3*~data=user_id=0,application_id=42~hmac=3db1105c2ee77f52a19269ddada71ca026824ec9fada84098604dc9e792abd3e",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Going to California",
+            "length": "3:32",
+            "deezer": {
+              "id": 88003865,
+              "link": "https://www.deezer.com/track/88003865",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/9/0/5c9f2baa1045efe89d68c45fefc4a0cf.mp3?hdnea=exp=1795656445~acl=/api/1/1/5/c/9/0/5c9f2baa1045efe89d68c45fefc4a0cf.mp3*~data=user_id=0,application_id=42~hmac=7718fef60cbb0195a8e822117c7b54e50160fd0333c262aaf136b61b8bfc03d6",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "When the Levee Breaks",
+            "length": "7:09",
+            "deezer": {
+              "id": 88003867,
+              "link": "https://www.deezer.com/track/88003867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/6/0/756587aec4665b754f4805f41aebd3db.mp3?hdnea=exp=1795656445~acl=/api/1/1/7/5/6/0/756587aec4665b754f4805f41aebd3db.mp3*~data=user_id=0,application_id=42~hmac=56801012c88c53e1065d30135749b40a8a16c8a05ac1c055088a8cd087121faf",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Black Dog (basic track with guitar overdubs)",
+            "length": "4:35",
+            "deezer": {
+              "id": 88003869,
+              "link": "https://www.deezer.com/track/88003869",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/4/0/3445461acc13ae4ba2ed23110be835e7.mp3?hdnea=exp=1795656445~acl=/api/1/1/3/4/4/0/3445461acc13ae4ba2ed23110be835e7.mp3*~data=user_id=0,application_id=42~hmac=9adab4b67304ba6d67f566d04d99953f026e453eed622203f86844b4bcb6291e",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rock and Roll (alternate mix)",
+            "length": "3:40",
+            "deezer": {
+              "id": 88003871,
+              "link": "https://www.deezer.com/track/88003871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/a/0/c6af897d3cfe04330b7a88d7552e4159.mp3?hdnea=exp=1795656445~acl=/api/1/1/c/6/a/0/c6af897d3cfe04330b7a88d7552e4159.mp3*~data=user_id=0,application_id=42~hmac=fc902374fb067f0c4e4a83b4d53834caaecc956983903d5975c3ff99ba2b7de3",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Battle of Evermore (mandolin/guitar mix from Headley Grange)",
+            "length": "4:13",
+            "deezer": {
+              "id": 88003873,
+              "link": "https://www.deezer.com/track/88003873",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/5716eb209e6e7a46bef868beb2f8262f.mp3?hdnea=exp=1795656445~acl=/api/1/1/5/7/1/0/5716eb209e6e7a46bef868beb2f8262f.mp3*~data=user_id=0,application_id=42~hmac=94e015d59d34bc673a9344144fb8d770ae1f103c922d28160075e93ce59d3c87",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Stairway to Heaven (Sunset Sound mix)",
+            "length": "8:04",
+            "deezer": {
+              "id": 88003875,
+              "link": "https://www.deezer.com/track/88003875",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/4/0/0d4d6d1f3f1dd8c2ad77134f87865559.mp3?hdnea=exp=1795656445~acl=/api/1/1/0/d/4/0/0d4d6d1f3f1dd8c2ad77134f87865559.mp3*~data=user_id=0,application_id=42~hmac=1f09122e26bd8b92e30303eeee8ac64b18da1c27d9208080e46a79735cdc21e0",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Misty Mountain Hop (alternate mix)",
+            "length": "4:45",
+            "deezer": {
+              "id": 88003877,
+              "link": "https://www.deezer.com/track/88003877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/0/0/2a05bb6f3f7d3d3455d70ec06e81e9b7.mp3?hdnea=exp=1795656445~acl=/api/1/1/2/a/0/0/2a05bb6f3f7d3d3455d70ec06e81e9b7.mp3*~data=user_id=0,application_id=42~hmac=ca15f7cbfe005bbb388edd9478ed1e50d443dc157f495b3c45e5eb0024b2ec9e",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Four Sticks (alternate mix)",
+            "length": "4:33",
+            "deezer": {
+              "id": 88003879,
+              "link": "https://www.deezer.com/track/88003879",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/d/0/66dca885851219ba47e193289c496424.mp3?hdnea=exp=1795656445~acl=/api/1/1/6/6/d/0/66dca885851219ba47e193289c496424.mp3*~data=user_id=0,application_id=42~hmac=12408c01e385efc3bcf0b11f19499292c8b9f1ddb613968690795a30a4f90099",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Going to California (mandolin/guitar mix)",
+            "length": "3:34",
+            "deezer": {
+              "id": 88003881,
+              "link": "https://www.deezer.com/track/88003881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/8/0/518cc36acb8484fe41b548516b32e52f.mp3?hdnea=exp=1795656445~acl=/api/1/1/5/1/8/0/518cc36acb8484fe41b548516b32e52f.mp3*~data=user_id=0,application_id=42~hmac=9f4e8d98b3a320a025e0c9456398dc1ccc4e52143e26843e881c485a7adb510e",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "When the Levee Breaks (alternate UK mix in progress)",
+            "length": "7:09",
+            "deezer": {
+              "id": 88003883,
+              "link": "https://www.deezer.com/track/88003883",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/5/0/f75b5a745d07ba42a44a3b75384a374d.mp3?hdnea=exp=1795656445~acl=/api/1/1/f/7/5/0/f75b5a745d07ba42a44a3b75384a374d.mp3*~data=user_id=0,application_id=42~hmac=f29217e50515a6f440a94bf0fd2b6371cd01e64f49e268b59db57311ac4f626d",
+              "preview_expires": "2026-11-26T01:27:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Led Zeppelin/Led Zeppelin IV.jpg"
+}

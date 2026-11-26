@@ -1,0 +1,201 @@
+{
+  "title": "No Strings Attached",
+  "artist": "*NSYNC",
+  "year": 2000,
+  "release_date": "2000-03-20",
+  "type": "Album",
+  "description": "No Strings Attached is the third studio album by American boy band NSYNC. It was released by Jive Records on March 21, 2000, after several delays due to legal battles. Seeking to distinguish their music from others', NSYNC chose to incorporate pop and R&B styles. Before the release of the album, the band separated from their management, Trans Continental, and their label RCA Records; its title is a play on the idea of independence from corporate control. Contributions to the album's production came from a wide range of producers, including NSYNC members Justin Timberlake and JC Chasez, and collaborators including Kristian Lundin, Jake Schulze, Rami, Teddy Riley, Kevin \"She'kspere\" Briggs, Richard Marx, Veit Renn, Babyface, and Guy Roche.",
+  "genres": [
+    "pop",
+    "ballad",
+    "hip hop",
+    "electronic",
+    "synth-pop",
+    "dance-pop",
+    "teen pop"
+  ],
+  "tags": [
+    "pop",
+    "ballad",
+    "hip hop",
+    "electronic",
+    "rnb swing",
+    "synth-pop",
+    "boy band",
+    "dance-pop",
+    "hip-hop",
+    "rnb/swing",
+    "synthpop_hip-hop_electronic",
+    "teen pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.6,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a648d0c2-1438-33d0-87d2-5fbab3c0990a",
+    "wikipedia": "https://en.wikipedia.org/wiki/No_Strings_Attached_(NSYNC_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000256510",
+    "discogs": "https://www.discogs.com/master/73062",
+    "wikidata": "https://www.wikidata.org/wiki/Q1403940",
+    "deezer": "https://www.deezer.com/album/6988309"
+  },
+  "musicbrainz_id": "a648d0c2-1438-33d0-87d2-5fbab3c0990a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3f0dcafd-359f-46b9-b2bc-988a5eb8fe02",
+      "barcode": "012414170224",
+      "title": "No Strings Attached",
+      "disambiguation": null,
+      "date": "2000-03-21",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "47:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bye Bye Bye",
+            "length": "3:20",
+            "deezer": {
+              "id": 71183268,
+              "link": "https://www.deezer.com/track/71183268",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/9/0/6e9b00f8ee023afa2e2af9601c7e29dc.mp3?hdnea=exp=1795648519~acl=/api/1/1/6/e/9/0/6e9b00f8ee023afa2e2af9601c7e29dc.mp3*~data=user_id=0,application_id=42~hmac=3493f7831b0e9e0f3693e8e6ca10f9fa25ec6b97936775d77cbeeff6b8f08a77",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "It’s Gonna Be Me",
+            "length": "3:12",
+            "deezer": {
+              "id": 71183270,
+              "link": "https://www.deezer.com/track/71183270",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/5/0/485dca1fadbab9bf6e26af1bb2c2ccba.mp3?hdnea=exp=1795648519~acl=/api/1/1/4/8/5/0/485dca1fadbab9bf6e26af1bb2c2ccba.mp3*~data=user_id=0,application_id=42~hmac=7fd2800ab6c797fe1b05152e11ce0e30e63b3d222f2468ebc68eb94722f6a052",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Space Cowboy (Yippie‐Yi‐Yay)",
+            "length": "4:23",
+            "artist": "*NSYNC featuring Lisa “Left Eye” Lopes",
+            "deezer": {
+              "id": 71183272,
+              "link": "https://www.deezer.com/track/71183272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/5/0/35523a867c414ce9987c0e2a953ec2a0.mp3?hdnea=exp=1795648519~acl=/api/1/1/3/5/5/0/35523a867c414ce9987c0e2a953ec2a0.mp3*~data=user_id=0,application_id=42~hmac=9545db6f1924d553a2ca4e46b823ceeb1c486c62df5c6d1fd571beadbc429780",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Just Got Paid",
+            "length": "4:10",
+            "deezer": {
+              "id": 71183274,
+              "link": "https://www.deezer.com/track/71183274",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/5/0/0a53fb9bd91eede801cc313616a86c1a.mp3?hdnea=exp=1795648519~acl=/api/1/1/0/a/5/0/0a53fb9bd91eede801cc313616a86c1a.mp3*~data=user_id=0,application_id=42~hmac=8c2e7ab0b06df5fe83813ee39c75366b2860865bf707c3fac19fdaa21b4c5dd9",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "It Makes Me Ill",
+            "length": "3:28",
+            "deezer": {
+              "id": 71183276,
+              "link": "https://www.deezer.com/track/71183276",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/d/0/acd3395d069996a3a26e7254ed1301ae.mp3?hdnea=exp=1795648519~acl=/api/1/1/a/c/d/0/acd3395d069996a3a26e7254ed1301ae.mp3*~data=user_id=0,application_id=42~hmac=ae3ffe84e66106e159a2f0adf0586a62b7e48b67db347ee0ca1f6e8f1bf47b5a",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "This I Promise You",
+            "length": "4:45",
+            "deezer": {
+              "id": 71183278,
+              "link": "https://www.deezer.com/track/71183278",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/5/0/105843877ddbac3af10b96bb8134627a.mp3?hdnea=exp=1795648519~acl=/api/1/1/1/0/5/0/105843877ddbac3af10b96bb8134627a.mp3*~data=user_id=0,application_id=42~hmac=a356eaa06500f2e0e977c2a55eb45463581593fce285a68b9af476caacf19b79",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "No Strings Attached",
+            "length": "3:49",
+            "deezer": {
+              "id": 71183279,
+              "link": "https://www.deezer.com/track/71183279",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/d/0/01db2e0dfd4bf33fed492300aeca9fb2.mp3?hdnea=exp=1795648519~acl=/api/1/1/0/1/d/0/01db2e0dfd4bf33fed492300aeca9fb2.mp3*~data=user_id=0,application_id=42~hmac=0539038c0f0e5e47d3ac59bb6ac80270e820bc558d7e11e27ec8bb3bc54d4868",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Digital Get Down",
+            "length": "4:23",
+            "deezer": {
+              "id": 71183280,
+              "link": "https://www.deezer.com/track/71183280",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/6/0/09626b31ce310ebd5a4a8fff453a8a77.mp3?hdnea=exp=1795648519~acl=/api/1/1/0/9/6/0/09626b31ce310ebd5a4a8fff453a8a77.mp3*~data=user_id=0,application_id=42~hmac=27e5ae969361e24ffd66309366d057042df3d31163438a29bd58dacdf5fa302a",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bringin’ da Noise",
+            "length": "3:32",
+            "deezer": {
+              "id": 71183281,
+              "link": "https://www.deezer.com/track/71183281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/4/0/8f41f4afe0453431241df60cb3fb1db2.mp3?hdnea=exp=1795648519~acl=/api/1/1/8/f/4/0/8f41f4afe0453431241df60cb3fb1db2.mp3*~data=user_id=0,application_id=42~hmac=2e71defb1c45583a4434460afb6a8f5950ef545efcab9b2154cb1504508e938f",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "That’s When I’ll Stop Loving You",
+            "length": "4:52",
+            "deezer": {
+              "id": 71183282,
+              "link": "https://www.deezer.com/track/71183282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/5/0/065602357504da2020a6d60b640ad410.mp3?hdnea=exp=1795648519~acl=/api/1/1/0/6/5/0/065602357504da2020a6d60b640ad410.mp3*~data=user_id=0,application_id=42~hmac=6bf819d35bf9876accfcda1c4e7a006ac45518c4aa55b2abc5bc8d9b4c46da7c",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "I’ll Be Good for You",
+            "length": "3:56",
+            "deezer": {
+              "id": 71183283,
+              "link": "https://www.deezer.com/track/71183283",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/0/0/780d51ad9a7824c18f02efd64b88faf7.mp3?hdnea=exp=1795648519~acl=/api/1/1/7/8/0/0/780d51ad9a7824c18f02efd64b88faf7.mp3*~data=user_id=0,application_id=42~hmac=c4e783f67a6a0c9e03c6e8395818a91490ce9aa3b1f4c5f749f6de6c16cf8f53",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I Thought She Knew",
+            "length": "3:22",
+            "deezer": {
+              "id": 71183284,
+              "link": "https://www.deezer.com/track/71183284",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/2/0/a528c091fd131518e803631f20f7c973.mp3?hdnea=exp=1795648519~acl=/api/1/1/a/5/2/0/a528c091fd131518e803631f20f7c973.mp3*~data=user_id=0,application_id=42~hmac=7b0984b9644f0894fdb0fa393b852251814ce1bdb0590279dd00b1f995f8c078",
+              "preview_expires": "2026-11-25T23:15:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/-NSYNC/No Strings Attached.jpg"
+}

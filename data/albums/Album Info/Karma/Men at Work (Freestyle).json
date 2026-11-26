@@ -1,0 +1,51 @@
+{
+  "title": "Men at Work (Freestyle)",
+  "artist": "Karma",
+  "year": 2024,
+  "release_date": "2024-02-08",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/963c69c0-a55b-4ee2-967c-8f142bce887f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/545217352"
+  },
+  "musicbrainz_id": "963c69c0-a55b-4ee2-967c-8f142bce887f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f1bfdc27-75ef-4c57-afc7-b7d6807da9b0",
+      "barcode": "859783923255",
+      "title": "Men at Work (Freestyle)",
+      "disambiguation": null,
+      "date": "2024-02-08",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Men at Work (Freestyle)",
+            "length": "2:25",
+            "deezer": {
+              "id": 2653839652,
+              "link": "https://www.deezer.com/track/2653839652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/6/0/86602be1d46d6377bc859dd3485c89a1.mp3?hdnea=exp=1795655971~acl=/api/1/1/8/6/6/0/86602be1d46d6377bc859dd3485c89a1.mp3*~data=user_id=0,application_id=42~hmac=564c7b3539108f1ca16b6cf6333efd8d4970cd1b3bcd72066a6b4e759aba682f",
+              "preview_expires": "2026-11-26T01:19:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karma/Men at Work (Freestyle).jpg"
+}

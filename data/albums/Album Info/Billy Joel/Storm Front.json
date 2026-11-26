@@ -1,0 +1,171 @@
+{
+  "title": "Storm Front",
+  "artist": "Billy Joel",
+  "year": 1989,
+  "release_date": "1989-06-01",
+  "type": "Album",
+  "description": "Storm Front is the eleventh studio album by American singer-songwriter Billy Joel, released on October 17, 1989. The album was produced by Mick Jones of the band Foreigner, who was recommended to Joel by Eddie Van Halen after Jones had produced Van Halen's 1986 album 5150. It was Joel's third album to reach No. 1 in the U.S. and features \"We Didn't Start the Fire\", a fast-paced song that cataloged a list of historical events, trends, and cultural icons from 1949 until 1989.",
+  "genres": [
+    "pop rock",
+    "rock",
+    "aor",
+    "piano rock",
+    "classic rock",
+    "pop"
+  ],
+  "tags": [
+    "pop rock",
+    "rock",
+    "aor",
+    "piano rock",
+    "classic rock",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.2,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2b749a86-14bf-3b42-bdcf-3cc44d9bd338",
+    "wikipedia": "https://en.wikipedia.org/wiki/Storm_Front_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000202019",
+    "discogs": "https://www.discogs.com/master/75442",
+    "wikidata": "https://www.wikidata.org/wiki/Q913805",
+    "deezer": "https://www.deezer.com/album/78425"
+  },
+  "musicbrainz_id": "2b749a86-14bf-3b42-bdcf-3cc44d9bd338",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d0131b90-d34b-4aae-9fcc-15ce2bb23d7c",
+      "barcode": "074646939420",
+      "title": "Storm Front",
+      "disambiguation": null,
+      "date": "1998",
+      "country": "US"
+    },
+    "total_tracks": 10,
+    "total_length": "44:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Enhanced CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "That's Not Her Style",
+            "length": "5:10",
+            "deezer": {
+              "id": 623313,
+              "link": "https://www.deezer.com/track/623313",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/d/0/7fd4751abae6388cd0a24aee28909c39.mp3?hdnea=exp=1795652051~acl=/api/1/1/7/f/d/0/7fd4751abae6388cd0a24aee28909c39.mp3*~data=user_id=0,application_id=42~hmac=cb28fc02c51148033fe47c97585d04c4598131a53e2b90f6876cd77de6842ac7",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "We Didn't Start the Fire",
+            "length": "4:50",
+            "deezer": {
+              "id": 626123,
+              "link": "https://www.deezer.com/track/626123",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/2/0/3c217db98586cfe1f9e923b0bde7db96.mp3?hdnea=exp=1795652051~acl=/api/1/1/3/c/2/0/3c217db98586cfe1f9e923b0bde7db96.mp3*~data=user_id=0,application_id=42~hmac=a1af09e826078abaf4215f0d341545c8afade28168bfaa686981d6ae25057235",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Downeaster \"Alexa\"",
+            "length": "3:45",
+            "deezer": {
+              "id": 626038,
+              "link": "https://www.deezer.com/track/626038",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/6/0/ab6b08919af9187c9b1edbf71bd72c9e.mp3?hdnea=exp=1795652051~acl=/api/1/1/a/b/6/0/ab6b08919af9187c9b1edbf71bd72c9e.mp3*~data=user_id=0,application_id=42~hmac=f99ea00d131485cdf16414e84bcab604e41bf76f4050abfd4e667469c70d5270",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Go to Extremes",
+            "length": "4:23",
+            "deezer": {
+              "id": 626121,
+              "link": "https://www.deezer.com/track/626121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/1/0/e91ecffa37686911b97b6585384d4317.mp3?hdnea=exp=1795652051~acl=/api/1/1/e/9/1/0/e91ecffa37686911b97b6585384d4317.mp3*~data=user_id=0,application_id=42~hmac=b868d9b2875bd14687b45d1cc020245627bbf3e6f0744b9b522621c18ed2d399",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Shameless",
+            "length": "4:30",
+            "deezer": {
+              "id": 626266,
+              "link": "https://www.deezer.com/track/626266",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/8/0/e58a00921227bf82096b19acf6997d75.mp3?hdnea=exp=1795652051~acl=/api/1/1/e/5/8/0/e58a00921227bf82096b19acf6997d75.mp3*~data=user_id=0,application_id=42~hmac=0b38c3ef8dd28e9e0f1e0ca2636f6488851201ea6ff0c2ee80cff2a0ccf6476f",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Storm Front",
+            "length": "5:17",
+            "deezer": {
+              "id": 623312,
+              "link": "https://www.deezer.com/track/623312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/f/0/c3fed03bce9daec66405f2695441dc30.mp3?hdnea=exp=1795652051~acl=/api/1/1/c/3/f/0/c3fed03bce9daec66405f2695441dc30.mp3*~data=user_id=0,application_id=42~hmac=87473727fabb0e686a794d07cd4d069116354629a44db928d404115d90a94d04",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Leningrad",
+            "length": "4:06",
+            "deezer": {
+              "id": 624387,
+              "link": "https://www.deezer.com/track/624387",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/4/0/874cb3d06c464339e215120f6d2312a2.mp3?hdnea=exp=1795652051~acl=/api/1/1/8/7/4/0/874cb3d06c464339e215120f6d2312a2.mp3*~data=user_id=0,application_id=42~hmac=98b1b0b65e077e304531d46b08a99dc62dd1a9975a9ee0ec8c98bb73492d0eaa",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "State of Grace",
+            "length": "4:30",
+            "deezer": {
+              "id": 623441,
+              "link": "https://www.deezer.com/track/623441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/3/0/7c3e7aa369f1937872112436abfcc750.mp3?hdnea=exp=1795652051~acl=/api/1/1/7/c/3/0/7c3e7aa369f1937872112436abfcc750.mp3*~data=user_id=0,application_id=42~hmac=f64081803937f5bf119ac52d8cb021f6a22167bbfa8b54b0cbb55d2f0963b9d5",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "When in Rome",
+            "length": "4:50",
+            "deezer": {
+              "id": 623314,
+              "link": "https://www.deezer.com/track/623314",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/b/0/9eb79aa4550003c92406db24926a7742.mp3?hdnea=exp=1795652051~acl=/api/1/1/9/e/b/0/9eb79aa4550003c92406db24926a7742.mp3*~data=user_id=0,application_id=42~hmac=0c55f0cdac482e02942aefa1b4e0be8e948e2139be970bc3ad611ef0dad092d1",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "And So It Goes",
+            "length": "3:38",
+            "deezer": {
+              "id": 831183,
+              "link": "https://www.deezer.com/track/831183",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/b/0/49b4e7bd7199797e6e1397367edc9a61.mp3?hdnea=exp=1795652051~acl=/api/1/1/4/9/b/0/49b4e7bd7199797e6e1397367edc9a61.mp3*~data=user_id=0,application_id=42~hmac=090ad9b91d395b89c010bcff31b706722ea434c8c4270e7e4c2e4749f60fd75f",
+              "preview_expires": "2026-11-26T00:14:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Billy Joel/Storm Front.jpg"
+}

@@ -1,0 +1,93 @@
+{
+  "title": "26",
+  "artist": "Sithu Aye",
+  "year": 2013,
+  "release_date": "2013-06-26",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "metal"
+  ],
+  "tags": [
+    "indie",
+    "metal"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c9b12491-c684-4593-9085-993a17ff0e6c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/117413492"
+  },
+  "musicbrainz_id": "c9b12491-c684-4593-9085-993a17ff0e6c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e268bd86-6a82-43ec-8689-2a2a554c901f",
+      "barcode": null,
+      "title": "26",
+      "disambiguation": null,
+      "date": "2013-06-26",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "17:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mandalay",
+            "length": "5:12",
+            "deezer": {
+              "id": 796075042,
+              "link": "https://www.deezer.com/track/796075042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/0/0/680b0e4b18919ca6f338e529f8e4e36e.mp3?hdnea=exp=1795720675~acl=/api/1/1/6/8/0/0/680b0e4b18919ca6f338e529f8e4e36e.mp3*~data=user_id=0,application_id=42~hmac=ec6cc6aa24cc61f1ce769c5ae9cc6455f94cb8a8bdc65d61272f8bc7238e8e58",
+              "preview_expires": "2026-11-26T19:17:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Eclipse",
+            "length": "3:09",
+            "deezer": {
+              "id": 796075062,
+              "link": "https://www.deezer.com/track/796075062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/d/0/8fd14902aee53f3254de14e100509a42.mp3?hdnea=exp=1795720675~acl=/api/1/1/8/f/d/0/8fd14902aee53f3254de14e100509a42.mp3*~data=user_id=0,application_id=42~hmac=129031caf528c229101db192fec4e11454edea524c402c7dc9247d3de4c79814",
+              "preview_expires": "2026-11-26T19:17:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "26",
+            "length": "4:44",
+            "deezer": {
+              "id": 796075072,
+              "link": "https://www.deezer.com/track/796075072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/5/0/945f24f6f84bfe5c89979d1d7fcb7d76.mp3?hdnea=exp=1795720675~acl=/api/1/1/9/4/5/0/945f24f6f84bfe5c89979d1d7fcb7d76.mp3*~data=user_id=0,application_id=42~hmac=f766506e1cf758ce78dca977a6e90359de6b0ef057fafa37312bd6c9edd0dfe9",
+              "preview_expires": "2026-11-26T19:17:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hypatia",
+            "length": "4:15",
+            "deezer": {
+              "id": 796075082,
+              "link": "https://www.deezer.com/track/796075082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/7/0/b1779c6715c8e714c62a5c1a55cf88ab.mp3?hdnea=exp=1795720675~acl=/api/1/1/b/1/7/0/b1779c6715c8e714c62a5c1a55cf88ab.mp3*~data=user_id=0,application_id=42~hmac=2194594a9b48e573eef752d9e08ba36540db1e6b51f8183b8f142e050e4c970e",
+              "preview_expires": "2026-11-26T19:17:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/26.jpg"
+}

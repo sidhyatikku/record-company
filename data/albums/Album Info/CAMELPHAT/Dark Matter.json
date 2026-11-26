@@ -1,0 +1,304 @@
+{
+  "title": "Dark Matter",
+  "artist": "CamelPhat",
+  "year": 2020,
+  "release_date": "2020-10-30",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "dance",
+    "deep house",
+    "house"
+  ],
+  "tags": [
+    "dance",
+    "deep house",
+    "house"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/03f126ed-962c-4405-939d-916f3abc8202",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003438435",
+    "discogs": "https://www.discogs.com/master/1849611",
+    "deezer": "https://www.deezer.com/album/174003862"
+  },
+  "musicbrainz_id": "03f126ed-962c-4405-939d-916f3abc8202",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/22377ae6-aeb9-4350-b748-abb6ccedfb5f",
+      "barcode": "886448746478",
+      "title": "Dark Matter",
+      "disambiguation": null,
+      "date": "2020-10-30",
+      "country": "XW"
+    },
+    "total_tracks": 21,
+    "total_length": "1:29:59",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Blackbirds",
+            "length": "3:25",
+            "artist": "CamelPhat feat. Leo Stannard",
+            "deezer": {
+              "id": 1083479282,
+              "link": "https://www.deezer.com/track/1083479282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/b/0/0abdea94b773d2f59a36169077137029.mp3?hdnea=exp=1795652656~acl=/api/1/1/0/a/b/0/0abdea94b773d2f59a36169077137029.mp3*~data=user_id=0,application_id=42~hmac=8d95d2068953e34eddba8f3ad0952b4172446c5e2be43f9aedf7ffff4b886243",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Be Someone",
+            "length": "3:25",
+            "artist": "CamelPhat & Jake Bugg",
+            "deezer": {
+              "id": 1083479302,
+              "link": "https://www.deezer.com/track/1083479302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/9/0/ec9a395e9ee1554a12c11685072b7a12.mp3?hdnea=exp=1795652656~acl=/api/1/1/e/c/9/0/ec9a395e9ee1554a12c11685072b7a12.mp3*~data=user_id=0,application_id=42~hmac=209459b95ee493cffe0434d3c5e60e1c219f6c863817a38dbb9046b92afca88d",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "For a Feeling (Dark Matter edit)",
+            "length": "5:31",
+            "artist": "CamelPhat & ARTBAT feat. RHODES",
+            "deezer": {
+              "id": 1083479312,
+              "link": "https://www.deezer.com/track/1083479312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/8/0/fc8ae9e4733af54d9d928098d38e351f.mp3?hdnea=exp=1795652656~acl=/api/1/1/f/c/8/0/fc8ae9e4733af54d9d928098d38e351f.mp3*~data=user_id=0,application_id=42~hmac=d2bda8ad0400737745067127cc96c93201375c1803a201e2a546dce2e05f93e7",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Inbetween the Lines",
+            "length": "3:25",
+            "deezer": {
+              "id": 1083479322,
+              "link": "https://www.deezer.com/track/1083479322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/e/0/84ee04eeb73a453617bc57f36f1c0c4b.mp3?hdnea=exp=1795652656~acl=/api/1/1/8/4/e/0/84ee04eeb73a453617bc57f36f1c0c4b.mp3*~data=user_id=0,application_id=42~hmac=dd31ecc1d9501e40d192cf16394545d3c34454881080c880cb92c021f47edc94",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hypercolour",
+            "length": "3:29",
+            "artist": "CamelPhat & Yannis Foals",
+            "deezer": {
+              "id": 1083479332,
+              "link": "https://www.deezer.com/track/1083479332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/0/0/14024cd17e2be4a16ce01b37a85507cc.mp3?hdnea=exp=1795652656~acl=/api/1/1/1/4/0/0/14024cd17e2be4a16ce01b37a85507cc.mp3*~data=user_id=0,application_id=42~hmac=062b6b4280c7ac28289f81793f293b6ddb86bda0d86ca061e1b35c1d39084c7f",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Spektrum",
+            "length": "5:19",
+            "artist": "CamelPhat feat. Ali Love",
+            "deezer": {
+              "id": 1083479342,
+              "link": "https://www.deezer.com/track/1083479342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/c/0/24cb60809cc59df6b6a92db22c11c0d0.mp3?hdnea=exp=1795652656~acl=/api/1/1/2/4/c/0/24cb60809cc59df6b6a92db22c11c0d0.mp3*~data=user_id=0,application_id=42~hmac=7c74ff46f6100cc9fcc46e1b7fa1e3a1f45bbca4d263b569c3480e01b19e5d53",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Dance with My Ghost",
+            "length": "4:07",
+            "artist": "CamelPhat feat. Elderbrook",
+            "deezer": {
+              "id": 1083479352,
+              "link": "https://www.deezer.com/track/1083479352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/f/0/2ff7da0d4855c177f505cca3ac4ddbc5.mp3?hdnea=exp=1795652656~acl=/api/1/1/2/f/f/0/2ff7da0d4855c177f505cca3ac4ddbc5.mp3*~data=user_id=0,application_id=42~hmac=0a6ce893d56236a90b969b29a18f6902293248e185e0811b7d4f145939a4c0fd",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Easier",
+            "length": "5:11",
+            "artist": "CamelPhat feat. LOWES",
+            "deezer": {
+              "id": 1083479362,
+              "link": "https://www.deezer.com/track/1083479362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/b/0/48bb85d06928fc89a242353cd9d75795.mp3?hdnea=exp=1795652656~acl=/api/1/1/4/8/b/0/48bb85d06928fc89a242353cd9d75795.mp3*~data=user_id=0,application_id=42~hmac=37918753a97aa87c337560c21b2f0114b61573da2161516e094f6148b503c259",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Panic Room",
+            "length": "3:34",
+            "artist": "CamelPhat & Au/Ra",
+            "deezer": {
+              "id": 1083479372,
+              "link": "https://www.deezer.com/track/1083479372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/f/0/f7fe6cfa59025176c1ee8fa66bd1ce8f.mp3?hdnea=exp=1795652656~acl=/api/1/1/f/7/f/0/f7fe6cfa59025176c1ee8fa66bd1ce8f.mp3*~data=user_id=0,application_id=42~hmac=a0c09175792c6a55761fc6fa2f8a1255c918395334a8b30ea7e2569131933b02",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Keep Movin’",
+            "length": "4:04",
+            "artist": "CamelPhat & Skream feat. Max Milner",
+            "deezer": {
+              "id": 1083479382,
+              "link": "https://www.deezer.com/track/1083479382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/2/0/7325dc7a26448227b2c9ecc866c68b69.mp3?hdnea=exp=1795652656~acl=/api/1/1/7/3/2/0/7325dc7a26448227b2c9ecc866c68b69.mp3*~data=user_id=0,application_id=42~hmac=db1e30c6e80b1e2c04d709750bd68584bad3ba1cbb69dc6b3f6c92b57bbb30fb",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Wildfire",
+            "length": "3:31",
+            "artist": "CamelPhat feat. LOWES",
+            "deezer": {
+              "id": 1083479392,
+              "link": "https://www.deezer.com/track/1083479392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/3/0/8336c9a2b19940ba7472c89b9384ef39.mp3?hdnea=exp=1795652656~acl=/api/1/1/8/3/3/0/8336c9a2b19940ba7472c89b9384ef39.mp3*~data=user_id=0,application_id=42~hmac=5f1b24f6a08d22e37c9ee0db8b6b425ab3864efec7f97d03daffe9880751675b",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Cola (Dark Matter edit)",
+            "length": "4:04",
+            "artist": "CamelPhat & Elderbrook",
+            "deezer": {
+              "id": 1083479402,
+              "link": "https://www.deezer.com/track/1083479402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/0/0/130a43d84a4ffc7e0afb89f643d7b958.mp3?hdnea=exp=1795652656~acl=/api/1/1/1/3/0/0/130a43d84a4ffc7e0afb89f643d7b958.mp3*~data=user_id=0,application_id=42~hmac=4039ca33ad622edcceb4a22b959390f880e211fb906a414d478cf7cf2d12e2d4",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Phantoms",
+            "length": "4:56",
+            "artist": "CamelPhat & Cristoph",
+            "deezer": {
+              "id": 1083479412,
+              "link": "https://www.deezer.com/track/1083479412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/d/0/73def2801f322dedfea0d9b47871e2c8.mp3?hdnea=exp=1795652656~acl=/api/1/1/7/3/d/0/73def2801f322dedfea0d9b47871e2c8.mp3*~data=user_id=0,application_id=42~hmac=366ac4b7a8c19e629ec5010aa8044a2d6fdcc2b545b2e5707ab923eb8aeeb452",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Rabbit Hole",
+            "length": "3:09",
+            "artist": "CamelPhat & Jem Cooke",
+            "deezer": {
+              "id": 1083479422,
+              "link": "https://www.deezer.com/track/1083479422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/3/0/7a34bc3ef32145ad85cdffad672eee5c.mp3?hdnea=exp=1795652656~acl=/api/1/1/7/a/3/0/7a34bc3ef32145ad85cdffad672eee5c.mp3*~data=user_id=0,application_id=42~hmac=4b785060cf7fc69ca6e60c4b73136ce056392fb9bcbd35ab0921fe2b5c658aad",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Not Over Yet",
+            "length": "3:32",
+            "artist": "CamelPhat feat. Noel Gallagher",
+            "deezer": {
+              "id": 1083479432,
+              "link": "https://www.deezer.com/track/1083479432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/1/0/a51a84b7ecbc050923fa419f6a55cc9f.mp3?hdnea=exp=1795652656~acl=/api/1/1/a/5/1/0/a51a84b7ecbc050923fa419f6a55cc9f.mp3*~data=user_id=0,application_id=42~hmac=0f7116abb6361353077513324829596ae57244754442ff8b5e208c00c654f64c",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Waiting",
+            "length": "5:32",
+            "artist": "CamelPhat & Eli & Fur",
+            "deezer": {
+              "id": 1083479442,
+              "link": "https://www.deezer.com/track/1083479442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/a/0/b5a484097712e31528648207fe8cc322.mp3?hdnea=exp=1795652656~acl=/api/1/1/b/5/a/0/b5a484097712e31528648207fe8cc322.mp3*~data=user_id=0,application_id=42~hmac=7899f422159424e94a1af4539fd2dc53e3906c61889e3e8157d6010faff5e405",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Carry Me Away",
+            "length": "5:13",
+            "artist": "CamelPhat feat. Jem Cooke",
+            "deezer": {
+              "id": 1083479452,
+              "link": "https://www.deezer.com/track/1083479452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/3/0/443ffe77a768e7b127c375aab16fea7b.mp3?hdnea=exp=1795652656~acl=/api/1/1/4/4/3/0/443ffe77a768e7b127c375aab16fea7b.mp3*~data=user_id=0,application_id=42~hmac=6d8ab986fb4024f1363b872f41104f042b03b580bc60c2c8dfe87a6d5a80dcbf",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Reaction",
+            "length": "4:48",
+            "artist": "CamelPhat & DEL-30 feat. Maverick Sabre",
+            "deezer": {
+              "id": 1083479462,
+              "link": "https://www.deezer.com/track/1083479462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/1/0/7f1fc458d974bcac422ec6a94b92c727.mp3?hdnea=exp=1795652656~acl=/api/1/1/7/f/1/0/7f1fc458d974bcac422ec6a94b92c727.mp3*~data=user_id=0,application_id=42~hmac=8f3f41dd4ba141102ea706a9ac5675a1761d927a6497539c901d7be071682233",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Witching Hour",
+            "length": "4:18",
+            "artist": "CamelPhat & Will Easton",
+            "deezer": {
+              "id": 1083479472,
+              "link": "https://www.deezer.com/track/1083479472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/2/0/382b9b827814a252cbbfb68bdbdf0b42.mp3?hdnea=exp=1795652656~acl=/api/1/1/3/8/2/0/382b9b827814a252cbbfb68bdbdf0b42.mp3*~data=user_id=0,application_id=42~hmac=a50d2da7e9c382d65c37f905648c5ccc410adc5ea51c4398c5c1b8960cb5a299",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Expect Nothing",
+            "length": "3:11",
+            "deezer": {
+              "id": 1083479482,
+              "link": "https://www.deezer.com/track/1083479482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/9/0/e393528dada8d79315ae9bfb91c3015e.mp3?hdnea=exp=1795652656~acl=/api/1/1/e/3/9/0/e393528dada8d79315ae9bfb91c3015e.mp3*~data=user_id=0,application_id=42~hmac=ad0fb22f3c94655953bd80d6c3a43b2ba119f6bc9fe990060a05decd49505ea1",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Breathe (Dark Matter edit)",
+            "length": "6:15",
+            "artist": "CamelPhat & Cristoph feat. Jem Cooke",
+            "deezer": {
+              "id": 1083479492,
+              "link": "https://www.deezer.com/track/1083479492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/c/0/5bc261eb76d03c7b1c2af19e5bb721cd.mp3?hdnea=exp=1795652656~acl=/api/1/1/5/b/c/0/5bc261eb76d03c7b1c2af19e5bb721cd.mp3*~data=user_id=0,application_id=42~hmac=74da1fb9e109106b6c317275636139009d7b68d856432e8b47b56aa7a2b852fd",
+              "preview_expires": "2026-11-26T00:24:16Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/CAMELPHAT/Dark Matter.jpg"
+}

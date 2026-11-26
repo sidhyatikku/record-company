@@ -1,0 +1,177 @@
+{
+  "title": "Blues",
+  "artist": "Jimi Hendrix",
+  "year": 1994,
+  "release_date": "1994-04-15",
+  "type": "Album + Compilation",
+  "description": "Blues is a compilation album of blues songs recorded by American singer/songwriter/musician Jimi Hendrix. Compiled by interim Hendrix producer Alan Douglas, it was released April 26, 1994, by MCA Records. The album contains eleven songs recorded by Hendrix between 1966 and 1970, six of which were previously unreleased. Hendrix wrote seven of the pieces; other writers include Muddy Waters, Booker T. Jones, and Elmore James. Most are demos, jams, and live recordings, which Hendrix may or may not have completed for release.",
+  "genres": [
+    "rock",
+    "blues rock",
+    "blues"
+  ],
+  "tags": [
+    "rock",
+    "blues rock",
+    "blues",
+    "rock pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f2a64728-1f48-3749-b4ea-cb819562d070",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blues_(Jimi_Hendrix_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000111756",
+    "discogs": "https://www.discogs.com/master/82790",
+    "wikidata": "https://www.wikidata.org/wiki/Q832485",
+    "deezer": "https://www.deezer.com/album/454048"
+  },
+  "musicbrainz_id": "f2a64728-1f48-3749-b4ea-cb819562d070",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fe000fb9-42b6-435a-a54b-7ddf544a893e",
+      "barcode": "884977420609",
+      "title": "Blues",
+      "disambiguation": null,
+      "date": "2010",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "1:12:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hear My Train A‐Comin’ (acoustic version)",
+            "length": "3:06",
+            "deezer": {
+              "id": 4952868,
+              "link": "https://www.deezer.com/track/4952868",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/3/0/7230c3264471b04dd4a34fbb6a2d4891.mp3?hdnea=exp=1795655617~acl=/api/1/1/7/2/3/0/7230c3264471b04dd4a34fbb6a2d4891.mp3*~data=user_id=0,application_id=42~hmac=5db86a4a62e46942ada875e99339d0c40bb6e1b840c8385287e2d1d0974457cd",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Born Under a Bad Sign",
+            "length": "7:38",
+            "deezer": {
+              "id": 4952869,
+              "link": "https://www.deezer.com/track/4952869",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/e/0/5de09d8a2fcb9226a2566081a4bf7651.mp3?hdnea=exp=1795655617~acl=/api/1/1/5/d/e/0/5de09d8a2fcb9226a2566081a4bf7651.mp3*~data=user_id=0,application_id=42~hmac=9a9efeecda3a30471f08d15034cf39804ff91b14d81bae7fbb2eec23970bc3ce",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Red House",
+            "length": "3:44",
+            "deezer": {
+              "id": 4952870,
+              "link": "https://www.deezer.com/track/4952870",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/3/0/9236f3e53c7388df936b6c6b52aae3fe.mp3?hdnea=exp=1795655617~acl=/api/1/1/9/2/3/0/9236f3e53c7388df936b6c6b52aae3fe.mp3*~data=user_id=0,application_id=42~hmac=ebaf80e63b5c278564283cb1f1794004e95a08799669043c8c5b0724c8edacef",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Catfish Blues",
+            "length": "7:47",
+            "deezer": {
+              "id": 4952871,
+              "link": "https://www.deezer.com/track/4952871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/a/0/dda2fa461c7aa5fb83e429911de5a17d.mp3?hdnea=exp=1795655617~acl=/api/1/1/d/d/a/0/dda2fa461c7aa5fb83e429911de5a17d.mp3*~data=user_id=0,application_id=42~hmac=ec7614960f0b1e56bed47281055b1735ba8d0e85f54c9632f4784619f0916710",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Voodoo Chile Blues",
+            "length": "8:48",
+            "deezer": {
+              "id": 4952872,
+              "link": "https://www.deezer.com/track/4952872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/4/0/694551906ba0f7e583c43b76b9ba2534.mp3?hdnea=exp=1795655617~acl=/api/1/1/6/9/4/0/694551906ba0f7e583c43b76b9ba2534.mp3*~data=user_id=0,application_id=42~hmac=d2172ad730b361987ae7a62e67ca0032eaa48893efd098b8ec10a6cd5f911352",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mannish Boy",
+            "length": "5:22",
+            "deezer": {
+              "id": 4952873,
+              "link": "https://www.deezer.com/track/4952873",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/9/0/7b95b145759db5ce34b794c36f96174d.mp3?hdnea=exp=1795655617~acl=/api/1/1/7/b/9/0/7b95b145759db5ce34b794c36f96174d.mp3*~data=user_id=0,application_id=42~hmac=d841275f61f0979edcb07f4fdf123b142f9f0b18d010e1691736c698f75140b8",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Once I Had a Woman",
+            "length": "7:50",
+            "deezer": {
+              "id": 4952874,
+              "link": "https://www.deezer.com/track/4952874",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/a/0/53a2cb7b501d10ce3c56e3c3ace48124.mp3?hdnea=exp=1795655617~acl=/api/1/1/5/3/a/0/53a2cb7b501d10ce3c56e3c3ace48124.mp3*~data=user_id=0,application_id=42~hmac=981c2bf7e45b2a748ac48951ba51ff4763b4310e0bcbfe226bc8138f75026cfc",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Bleeding Heart",
+            "length": "3:27",
+            "deezer": {
+              "id": 4952875,
+              "link": "https://www.deezer.com/track/4952875",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/4/0/0b49a36c8e9de5053905b5184ac13aca.mp3?hdnea=exp=1795655617~acl=/api/1/1/0/b/4/0/0b49a36c8e9de5053905b5184ac13aca.mp3*~data=user_id=0,application_id=42~hmac=31f818140c9589d58ed4520857ca73a84cb68f83bb97b681772f41ab32f639cb",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Jam 292",
+            "length": "6:25",
+            "deezer": {
+              "id": 4952876,
+              "link": "https://www.deezer.com/track/4952876",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/1/0/581cea75a657f060a093e8411def852a.mp3?hdnea=exp=1795655617~acl=/api/1/1/5/8/1/0/581cea75a657f060a093e8411def852a.mp3*~data=user_id=0,application_id=42~hmac=361a1bda64cbca6984b5b16cbd8046f3c5285a1efa4c2ce07f8de95c78391a83",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Electric Church Red House",
+            "length": "6:13",
+            "deezer": {
+              "id": 4952894,
+              "link": "https://www.deezer.com/track/4952894",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/a/0/c2a2769c099c31e87f1b2414aa79436f.mp3?hdnea=exp=1795655617~acl=/api/1/1/c/2/a/0/c2a2769c099c31e87f1b2414aa79436f.mp3*~data=user_id=0,application_id=42~hmac=03fb3a0faaf878a618a2b47e4f0e9ee94fc5bce1d764296fe02ecf0ff1fee9b5",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hear My Train A‐Comin’ (electric version)",
+            "length": "12:09",
+            "deezer": {
+              "id": 4952878,
+              "link": "https://www.deezer.com/track/4952878",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/6/0/1c6fafb99e41cb87f9074440d497ccd7.mp3?hdnea=exp=1795655617~acl=/api/1/1/1/c/6/0/1c6fafb99e41cb87f9074440d497ccd7.mp3*~data=user_id=0,application_id=42~hmac=be21f06a378c6cd3356d83844e992e17b5f7a8de43cadfd072d01bd56e147a5b",
+              "preview_expires": "2026-11-26T01:13:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jimi Hendrix/Blues.png"
+}

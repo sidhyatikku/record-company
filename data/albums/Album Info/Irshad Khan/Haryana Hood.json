@@ -1,0 +1,49 @@
+{
+  "title": "Haryana Hood",
+  "artist": "Irshad Khan",
+  "year": 2022,
+  "release_date": "2022-12-27",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "haryanvi pop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7JoAiAKENyG9cVS2kJysFQ",
+    "deezer": "https://www.deezer.com/album/428802537"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7JoAiAKENyG9cVS2kJysFQ",
+      "title": "Haryana Hood",
+      "date": "2022-12-27"
+    },
+    "total_tracks": 1,
+    "total_length": "3:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Haryana Hood",
+            "length": "3:31",
+            "deezer": {
+              "id": 2234527757,
+              "link": "https://www.deezer.com/track/2234527757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f5a7be479c03d5a4e50ef6b0ef0274b.mp3?hdnea=exp=1795655310~acl=/api/1/1/0/f/5/0/0f5a7be479c03d5a4e50ef6b0ef0274b.mp3*~data=user_id=0,application_id=42~hmac=38cff3e691e93ed7c52f7bc56bcf4e99204f6a677f0bd2b064fab4d8174586a1",
+              "preview_expires": "2026-11-26T01:08:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Irshad Khan/Haryana Hood.jpg"
+}

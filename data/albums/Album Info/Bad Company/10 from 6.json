@@ -1,0 +1,173 @@
+{
+  "title": "10 From 6",
+  "artist": "Bad Company",
+  "year": 1985,
+  "release_date": "1985-12-28",
+  "type": "Album + Compilation",
+  "description": "10 from 6 is a compilation album released by English supergroup Bad Company in December 1985 on Atlantic Records label. All the songs on the album were previously released on Swan Song Records, a record label begun by Led Zeppelin in 1974. The title refers to the album's 10 songs taken from the six albums Bad Company had recorded to that time, though no songs from Burnin' Sky appear on the album.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "arena rock",
+    "blues rock",
+    "classic rock"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "album rock",
+    "arena rock",
+    "blues rock",
+    "blues-rock",
+    "classic rock",
+    "pop/rock",
+    "rock & roll"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/79316a00-2a70-31c6-9294-b19bb64ef922",
+    "wikipedia": "https://en.wikipedia.org/wiki/10_from_6",
+    "allmusic": "https://www.allmusic.com/album/mw0000189045",
+    "discogs": "https://www.discogs.com/master/37531",
+    "wikidata": "https://www.wikidata.org/wiki/Q4546953",
+    "deezer": "https://www.deezer.com/album/356028"
+  },
+  "musicbrainz_id": "79316a00-2a70-31c6-9294-b19bb64ef922",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1fdb4e87-b351-4151-b296-b1f7c201e1ed",
+      "barcode": "081227988258",
+      "title": "10 from 6",
+      "disambiguation": null,
+      "date": "1985",
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "47:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Can’t Get Enough",
+            "length": "4:17",
+            "deezer": {
+              "id": 3818859,
+              "link": "https://www.deezer.com/track/3818859",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/c/0/69c70d8dd12dfb7bdbff8ea68266e828.mp3?hdnea=exp=1795651820~acl=/api/1/1/6/9/c/0/69c70d8dd12dfb7bdbff8ea68266e828.mp3*~data=user_id=0,application_id=42~hmac=420316dd20a6497d89506d5b2a750cce5ad42b5d0f8a6ca70c41c98dab295253",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Feel Like Makin’ Love",
+            "length": "5:15",
+            "deezer": {
+              "id": 3818860,
+              "link": "https://www.deezer.com/track/3818860",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/9/0/bd99fcb65483cadef3876210117a8f7f.mp3?hdnea=exp=1795651820~acl=/api/1/1/b/d/9/0/bd99fcb65483cadef3876210117a8f7f.mp3*~data=user_id=0,application_id=42~hmac=763d81a45b2d6399db5860c886e992087354201819ed5f31f900156af50cbdf3",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Run With the Pack",
+            "length": "5:24",
+            "deezer": {
+              "id": 3818861,
+              "link": "https://www.deezer.com/track/3818861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/1/0/9815bf44f771aea650c6ff7aefc43171.mp3?hdnea=exp=1795651820~acl=/api/1/1/9/8/1/0/9815bf44f771aea650c6ff7aefc43171.mp3*~data=user_id=0,application_id=42~hmac=9bb2db12c458ffaf3d3ad08984208d195a7262067fa56965b23147277ad612be",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Shooting Star",
+            "length": "6:18",
+            "deezer": {
+              "id": 3818862,
+              "link": "https://www.deezer.com/track/3818862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/3/0/5833f5c27cf7ff82a3fb374134484ced.mp3?hdnea=exp=1795651820~acl=/api/1/1/5/8/3/0/5833f5c27cf7ff82a3fb374134484ced.mp3*~data=user_id=0,application_id=42~hmac=9186d60ed830747bc44fa9eeb90698f884d973ee437e51c4965d32e6b1c0a84d",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Movin’ On",
+            "length": "3:23",
+            "deezer": {
+              "id": 3818863,
+              "link": "https://www.deezer.com/track/3818863",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/0/0/4e0fe07ba1b0f4d3e3c216ab5ee04cb8.mp3?hdnea=exp=1795651820~acl=/api/1/1/4/e/0/0/4e0fe07ba1b0f4d3e3c216ab5ee04cb8.mp3*~data=user_id=0,application_id=42~hmac=fbb3e53eb0b08e674e085f46528fc8a0e9f3ecaa2fa1a23e2bafc37e72011347",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Bad Company",
+            "length": "4:50",
+            "deezer": {
+              "id": 3818864,
+              "link": "https://www.deezer.com/track/3818864",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/5/0/27503a073e4d2b43e02122418eeeb2d8.mp3?hdnea=exp=1795651820~acl=/api/1/1/2/7/5/0/27503a073e4d2b43e02122418eeeb2d8.mp3*~data=user_id=0,application_id=42~hmac=ee8645b57bc6333be36519dfbcafa3cc2d7bc00392d255bf4d6c30bf3cc8e669",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Rock ’n’ Roll Fantasy",
+            "length": "3:20",
+            "deezer": {
+              "id": 3818865,
+              "link": "https://www.deezer.com/track/3818865",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/d/0/aad93ac1bb61050dc7b407d28e3e91fd.mp3?hdnea=exp=1795651820~acl=/api/1/1/a/a/d/0/aad93ac1bb61050dc7b407d28e3e91fd.mp3*~data=user_id=0,application_id=42~hmac=989f05c92cc677e7881e71d1b548efc85d2d85d01b541a55672e20e77fcb92c4",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Electric Land",
+            "length": "5:30",
+            "deezer": {
+              "id": 3818866,
+              "link": "https://www.deezer.com/track/3818866",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/5/0/ea5e791f615088496faebdeccb50c443.mp3?hdnea=exp=1795651820~acl=/api/1/1/e/a/5/0/ea5e791f615088496faebdeccb50c443.mp3*~data=user_id=0,application_id=42~hmac=9e60760078f85823b6e6fa0907f2b818fc83485dcdfdea19f1e2139d59741ade",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ready for Love",
+            "length": "5:02",
+            "deezer": {
+              "id": 3818867,
+              "link": "https://www.deezer.com/track/3818867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/c/0/1fc0dd01c77c461b619d60cc37307be1.mp3?hdnea=exp=1795651820~acl=/api/1/1/1/f/c/0/1fc0dd01c77c461b619d60cc37307be1.mp3*~data=user_id=0,application_id=42~hmac=76807d77808cbaeab10666b160bb24569e50116baf60f936ec4c94a4eadd9338",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Live for the Music",
+            "length": "3:59",
+            "deezer": {
+              "id": 3818868,
+              "link": "https://www.deezer.com/track/3818868",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/3/0/4639f4df7159dc1d417a6ae2deddf87e.mp3?hdnea=exp=1795651820~acl=/api/1/1/4/6/3/0/4639f4df7159dc1d417a6ae2deddf87e.mp3*~data=user_id=0,application_id=42~hmac=32786d470c827c59942dd12e427be972461adca08ea5b982e19817c37292bae6",
+              "preview_expires": "2026-11-26T00:10:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bad Company/10 from 6.jpg"
+}

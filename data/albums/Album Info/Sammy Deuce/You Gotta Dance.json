@@ -1,0 +1,62 @@
+{
+  "title": "You Gotta Dance",
+  "artist": "Sammy Deuce, HP Vince",
+  "year": 2021,
+  "release_date": "2021-02-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "disco house",
+    "funky house",
+    "nu disco"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4TBP8t57dAGvG6S8GOPByN",
+    "deezer": "https://www.deezer.com/album/216168432"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4TBP8t57dAGvG6S8GOPByN",
+      "title": "You Gotta Dance",
+      "date": "2021-02-12"
+    },
+    "total_tracks": 2,
+    "total_length": "6:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "You Gotta Dance - Sam's House Mix - Radio Edit",
+            "length": "3:28",
+            "deezer": {
+              "id": 1280912552,
+              "link": "https://www.deezer.com/track/1280912552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc8d5f9383a28229a9f48f9bed29d8ae.mp3?hdnea=exp=1795720291~acl=/api/1/1/d/c/8/0/dc8d5f9383a28229a9f48f9bed29d8ae.mp3*~data=user_id=0,application_id=42~hmac=31c7ed76c3afe75f38577675b2d1c4f11b65a72968b70a43fd595b3665ca4f40",
+              "preview_expires": "2026-11-26T19:11:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "You Gotta Dance - Vince's Nu Disco Mix - Radio Edit",
+            "length": "3:16",
+            "deezer": {
+              "id": 1280912562,
+              "link": "https://www.deezer.com/track/1280912562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/2/0/3f21c9fc156210a2510d9abc2def2395.mp3?hdnea=exp=1795720291~acl=/api/1/1/3/f/2/0/3f21c9fc156210a2510d9abc2def2395.mp3*~data=user_id=0,application_id=42~hmac=eecae37e8aa7b418d5e22143a27300decd7b17237766bea6366e73e2f02bcfe6",
+              "preview_expires": "2026-11-26T19:11:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Sammy Deuce/You Gotta Dance.jpg"
+}

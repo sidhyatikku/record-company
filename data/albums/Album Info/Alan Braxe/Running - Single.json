@@ -1,0 +1,70 @@
+{
+  "title": "Running",
+  "artist": "Alan Braxe & Fred Falke",
+  "year": 2000,
+  "release_date": "2000-04-01",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "disco",
+    "electronic",
+    "house"
+  ],
+  "tags": [
+    "disco",
+    "electronic",
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c86227f9-7d5c-30ca-8b42-7af88d2f762c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/306763507"
+  },
+  "musicbrainz_id": "c86227f9-7d5c-30ca-8b42-7af88d2f762c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a769657f-5dae-4290-8fb7-bf1b2418f382",
+      "barcode": "3539932101976",
+      "title": "Running",
+      "disambiguation": null,
+      "date": "2000-04-01",
+      "country": "FR"
+    },
+    "total_tracks": 2,
+    "total_length": "11:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "12\" Vinyl",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A",
+            "title": "Intro",
+            "length": "4:53",
+            "deezer": {
+              "id": 1702170497,
+              "link": "https://www.deezer.com/track/1702170497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/c/0/41c4a7d111076f7ff1744ce0a85085f7.mp3?hdnea=exp=1795649047~acl=/api/1/1/4/1/c/0/41c4a7d111076f7ff1744ce0a85085f7.mp3*~data=user_id=0,application_id=42~hmac=7fc9ca0de2a146e413833522671daec60f9ab7ebed1ea8e2bebddb679ade517a",
+              "preview_expires": "2026-11-25T23:24:07Z"
+            }
+          },
+          {
+            "number": "B",
+            "title": "Most Wanted",
+            "length": "6:29",
+            "deezer": {
+              "id": 1702170507,
+              "link": "https://www.deezer.com/track/1702170507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/6/0/f06cefbf04c5025030d8570565cb1069.mp3?hdnea=exp=1795649047~acl=/api/1/1/f/0/6/0/f06cefbf04c5025030d8570565cb1069.mp3*~data=user_id=0,application_id=42~hmac=51277ec5e73b0036a6431b85d9875aadd5e70b0cbfd6488c968237c866499421",
+              "preview_expires": "2026-11-25T23:24:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Alan Braxe/Running - Single.jpg"
+}

@@ -1,0 +1,173 @@
+{
+  "title": "Stars",
+  "artist": "Loona",
+  "year": 2020,
+  "release_date": "2020-10-11",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a2bbd396-c57a-43dc-8149-bbcd83cbee64",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/178129862"
+  },
+  "musicbrainz_id": "a2bbd396-c57a-43dc-8149-bbcd83cbee64",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3957eb81-fc97-4ce2-8e7e-2df68f5fd264",
+      "barcode": "4061707450631",
+      "title": "Stars",
+      "disambiguation": null,
+      "date": "2020-10-11",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "40:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Vamos a la Playa",
+            "length": "3:00",
+            "deezer": {
+              "id": 1102129892,
+              "link": "https://www.deezer.com/track/1102129892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/b/0/f3b3253f892c93fcc5ac351a74374cd1.mp3?hdnea=exp=1795656601~acl=/api/1/1/f/3/b/0/f3b3253f892c93fcc5ac351a74374cd1.mp3*~data=user_id=0,application_id=42~hmac=f077162b66aef7f61d32119aea21ab6b1a52cd9ee569b60e4ad8dfc7c491db97",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Badam",
+            "length": "3:04",
+            "deezer": {
+              "id": 1102129902,
+              "link": "https://www.deezer.com/track/1102129902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/0/0/1106a1b6fff4ec0caff95dec045dbdf9.mp3?hdnea=exp=1795656601~acl=/api/1/1/1/1/0/0/1106a1b6fff4ec0caff95dec045dbdf9.mp3*~data=user_id=0,application_id=42~hmac=a1530e64aa8d731d18a308744328c6af651937b524a52d78e2cdabc8c62af91f",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Caliente",
+            "length": "3:09",
+            "deezer": {
+              "id": 1102129912,
+              "link": "https://www.deezer.com/track/1102129912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f78d049eaaa7c8f2a295e295c3cf96c.mp3?hdnea=exp=1795656601~acl=/api/1/1/8/f/7/0/8f78d049eaaa7c8f2a295e295c3cf96c.mp3*~data=user_id=0,application_id=42~hmac=4904dd8ed38c99af7541a40b21c55918e3e230b9b2c8ecb961a6c7b665f29cfa",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Summer of Love",
+            "length": "3:09",
+            "deezer": {
+              "id": 1102129922,
+              "link": "https://www.deezer.com/track/1102129922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/9/0/f99643e71f704288228995ab85333990.mp3?hdnea=exp=1795656601~acl=/api/1/1/f/9/9/0/f99643e71f704288228995ab85333990.mp3*~data=user_id=0,application_id=42~hmac=40f008f3e36cb31de1a35ceebed4acc8a326a8259146987b49e9bc1bf18bb589",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "El Tiburon",
+            "length": "3:00",
+            "deezer": {
+              "id": 1102129932,
+              "link": "https://www.deezer.com/track/1102129932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/1/0/9c1f0f8133694ad15cfd93e56fbea97a.mp3?hdnea=exp=1795656601~acl=/api/1/1/9/c/1/0/9c1f0f8133694ad15cfd93e56fbea97a.mp3*~data=user_id=0,application_id=42~hmac=5e34d5d5ed9e233c5944c1dfa2253ca63d168a1e9dd35b919e99907afffd57e7",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Viva, Viva el Amor",
+            "length": "3:09",
+            "deezer": {
+              "id": 1102129942,
+              "link": "https://www.deezer.com/track/1102129942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/0/0/60091f767908ac640df9915dcecede8d.mp3?hdnea=exp=1795656601~acl=/api/1/1/6/0/0/0/60091f767908ac640df9915dcecede8d.mp3*~data=user_id=0,application_id=42~hmac=bf685e1fdf9a75d1a6fe1f6d60a1be6e8fce61342def47b503f989ed3e521c43",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bailando",
+            "length": "3:34",
+            "deezer": {
+              "id": 1102129952,
+              "link": "https://www.deezer.com/track/1102129952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/3/0/8c37a65ce7d08eadb4a9025c24e86754.mp3?hdnea=exp=1795656601~acl=/api/1/1/8/c/3/0/8c37a65ce7d08eadb4a9025c24e86754.mp3*~data=user_id=0,application_id=42~hmac=16abddbc5f91e168c33e2bf6cf3aae98701dea965754983847abead03e2b359b",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mamboleo",
+            "length": "3:32",
+            "deezer": {
+              "id": 1102129962,
+              "link": "https://www.deezer.com/track/1102129962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/d/0/4cdb3efa1305fdcec369bc5642522e5f.mp3?hdnea=exp=1795656601~acl=/api/1/1/4/c/d/0/4cdb3efa1305fdcec369bc5642522e5f.mp3*~data=user_id=0,application_id=42~hmac=606b29684dd0f1de44dd6ac7aedd240b58215652dc157fec5fe0da94be6517dd",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Vamos a la Playa (Movetown Radio Remix)",
+            "length": "3:38",
+            "artist": "Loona & Movetown",
+            "deezer": {
+              "id": 1102129972,
+              "link": "https://www.deezer.com/track/1102129972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/2/0/7d2b602529f1a555cd2dac42c68b7ec0.mp3?hdnea=exp=1795656601~acl=/api/1/1/7/d/2/0/7d2b602529f1a555cd2dac42c68b7ec0.mp3*~data=user_id=0,application_id=42~hmac=4410e6d8d9832b16394d1fb079682d2e3f814ee876c95dc05f221ce8041f8828",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Caliente (Bernaiela Tropic Remix)",
+            "length": "3:48",
+            "deezer": {
+              "id": 1102129982,
+              "link": "https://www.deezer.com/track/1102129982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/3/0/3d302860d80f393a80cc0d78080e06a3.mp3?hdnea=exp=1795656601~acl=/api/1/1/3/d/3/0/3d302860d80f393a80cc0d78080e06a3.mp3*~data=user_id=0,application_id=42~hmac=2e22ef25438ef36228c85a9865e36660ad97c9cbf8eb145fe5d5878666d79c01",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Summer of Love (DualXess Remix)",
+            "length": "4:15",
+            "deezer": {
+              "id": 1102129992,
+              "link": "https://www.deezer.com/track/1102129992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/b/0/c5bdb66ac62a6dadbd898ff8544c9990.mp3?hdnea=exp=1795656601~acl=/api/1/1/c/5/b/0/c5bdb66ac62a6dadbd898ff8544c9990.mp3*~data=user_id=0,application_id=42~hmac=360304aad92fd8e287528485f1e8e8d5bc7bbdb571effc91ab355b3758f39649",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Bailando (2018)",
+            "length": "3:17",
+            "deezer": {
+              "id": 1102130002,
+              "link": "https://www.deezer.com/track/1102130002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/3/0/9b310f0b74dfa042ef04b31effd885e7.mp3?hdnea=exp=1795656601~acl=/api/1/1/9/b/3/0/9b310f0b74dfa042ef04b31effd885e7.mp3*~data=user_id=0,application_id=42~hmac=edcbd4f03faa1585144e6f9d0bff975f57842afec7cc4e62beb4a6a6781ddd2f",
+              "preview_expires": "2026-11-26T01:30:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Loona/Stars.jpg"
+}

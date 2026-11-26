@@ -1,0 +1,51 @@
+{
+  "title": "The Don",
+  "artist": "AC Slater & Jay Robinson ft. Gabi'el",
+  "year": 2024,
+  "release_date": "2024-04-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/57ba3723-49ee-43a2-9ca4-083eb445328d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/570890681"
+  },
+  "musicbrainz_id": "57ba3723-49ee-43a2-9ca4-083eb445328d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/27be4ac2-41c2-4f00-9928-f60140bbc7c5",
+      "barcode": "723277478333",
+      "title": "The Don",
+      "disambiguation": null,
+      "date": "2024-04-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Don",
+            "length": "2:46",
+            "deezer": {
+              "id": 2742466191,
+              "link": "https://www.deezer.com/track/2742466191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/9/0/a193bfa0dd622168172af98ab14b1bb5.mp3?hdnea=exp=1795648807~acl=/api/1/1/a/1/9/0/a193bfa0dd622168172af98ab14b1bb5.mp3*~data=user_id=0,application_id=42~hmac=0c59304038129e85ff11279eaecd4657a4fc462745bb24abbcdc96a9155789a6",
+              "preview_expires": "2026-11-25T23:20:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AC Slater/The Don.jpg"
+}

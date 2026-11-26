@@ -1,0 +1,44 @@
+{
+  "title": "YKI",
+  "artist": "SOS, 30KEY!",
+  "year": 2026,
+  "release_date": "2026-03-18",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6TNMOVFWn3EdpTs85gr0fT",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6TNMOVFWn3EdpTs85gr0fT",
+      "title": "YKI",
+      "date": "2026-03-18"
+    },
+    "total_tracks": 1,
+    "total_length": "4:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "YKI",
+            "length": "4:21"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/SOS/YKI.jpg"
+}

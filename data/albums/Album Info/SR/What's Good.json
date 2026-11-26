@@ -1,0 +1,51 @@
+{
+  "title": "What's Good",
+  "artist": "SR & Poundz",
+  "year": 2022,
+  "release_date": "2022-07-21",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/24e7353c-8fc1-4701-8a1c-7a2147c9e58d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/327428497"
+  },
+  "musicbrainz_id": "24e7353c-8fc1-4701-8a1c-7a2147c9e58d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f0a12d83-34aa-4e4f-a5c5-1828e731a456",
+      "barcode": "196589185709",
+      "title": "What's Good",
+      "disambiguation": null,
+      "date": "2022-07-21",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "What's Good",
+            "length": "2:57",
+            "deezer": {
+              "id": 1791212097,
+              "link": "https://www.deezer.com/track/1791212097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/b/0/34b0f6ce3edb7b9b6e04d76ef3a499e4.mp3?hdnea=exp=1795720916~acl=/api/1/1/3/4/b/0/34b0f6ce3edb7b9b6e04d76ef3a499e4.mp3*~data=user_id=0,application_id=42~hmac=44ea7001687eebb4b243c1b9d852ceee58ad2b29296f3f36fd65ca8eb9d819e6",
+              "preview_expires": "2026-11-26T19:21:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/SR/What's Good.jpg"
+}

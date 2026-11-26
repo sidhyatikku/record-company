@@ -1,0 +1,83 @@
+{
+  "title": "Without You / Eternal",
+  "artist": "Blu Attic",
+  "year": 2026,
+  "release_date": "2026-06-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4SxoKbf9ihagLHNGWD1zRa",
+    "deezer": "https://www.deezer.com/album/981559161"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4SxoKbf9ihagLHNGWD1zRa",
+      "title": "Without You / Eternal",
+      "date": "2026-06-03"
+    },
+    "total_tracks": 4,
+    "total_length": "16:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Without You",
+            "length": "3:11",
+            "deezer": {
+              "id": 4018303091,
+              "link": "https://www.deezer.com/track/4018303091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/6/0/8960e03cbcc0a8efb0e6164c4ad9c02f.mp3?hdnea=exp=1795652255~acl=/api/1/1/8/9/6/0/8960e03cbcc0a8efb0e6164c4ad9c02f.mp3*~data=user_id=0,application_id=42~hmac=f5c8f6b5e9848fd57f0beb3248add3aa8e048da34baa49766f870868006ad624",
+              "preview_expires": "2026-11-26T00:17:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Eternal",
+            "length": "3:23",
+            "deezer": {
+              "id": 4018303101,
+              "link": "https://www.deezer.com/track/4018303101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/0/0/700e2ce9c4961a9c4f23c5f9140ff35b.mp3?hdnea=exp=1795652255~acl=/api/1/1/7/0/0/0/700e2ce9c4961a9c4f23c5f9140ff35b.mp3*~data=user_id=0,application_id=42~hmac=e8f1ad028e4ef2ee9de3f206b628861e395e29aecbf094973fe5dad115df25a1",
+              "preview_expires": "2026-11-26T00:17:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Without You - Extended Mix",
+            "length": "4:58",
+            "deezer": {
+              "id": 4018303111,
+              "link": "https://www.deezer.com/track/4018303111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/a/0/a3a10931de669414ad4a4a6a40480b30.mp3?hdnea=exp=1795652255~acl=/api/1/1/a/3/a/0/a3a10931de669414ad4a4a6a40480b30.mp3*~data=user_id=0,application_id=42~hmac=fc02c461ce4e8fb70f21db6fddacd9cc201029c37858ec76682937bb8bbdeb17",
+              "preview_expires": "2026-11-26T00:17:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Eternal - Extended Mix",
+            "length": "4:53",
+            "deezer": {
+              "id": 4018303121,
+              "link": "https://www.deezer.com/track/4018303121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/5/0/2156512cc49bc1fbd1d3475a32d2b485.mp3?hdnea=exp=1795652255~acl=/api/1/1/2/1/5/0/2156512cc49bc1fbd1d3475a32d2b485.mp3*~data=user_id=0,application_id=42~hmac=8df46f77d1adb090ab47498202136e6cdecb064cce396a340ec015929a7875a1",
+              "preview_expires": "2026-11-26T00:17:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Blu Attic/Without You - Eternal.jpg"
+}

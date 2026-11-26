@@ -1,0 +1,40 @@
+{
+  "title": "Daulat",
+  "artist": "Fake Tattoos",
+  "year": 2025,
+  "release_date": "2025-11-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7auFHhYcfxehKzxqRil8up",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7auFHhYcfxehKzxqRil8up",
+      "title": "Daulat",
+      "date": "2025-11-12"
+    },
+    "total_tracks": 1,
+    "total_length": "4:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Daulat",
+            "length": "4:13"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Fake Tattoos/Daulat.jpg"
+}

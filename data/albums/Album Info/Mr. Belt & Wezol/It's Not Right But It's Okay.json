@@ -1,0 +1,51 @@
+{
+  "title": "It's Not Right But It's Okay",
+  "artist": "Mr. Belt & Wezol",
+  "year": 2024,
+  "release_date": "2024-02-23",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/dd7bab21-4f5e-413c-8344-30ad63c110bd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/525136512"
+  },
+  "musicbrainz_id": "dd7bab21-4f5e-413c-8344-30ad63c110bd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ea202aba-f795-48bc-ad9c-0a8daf99b223",
+      "barcode": "196871740036",
+      "title": "It's Not Right But It's Okay",
+      "disambiguation": null,
+      "date": "2024-02-23",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "It’s Not Right (But It’s Ok)",
+            "length": "2:32",
+            "deezer": {
+              "id": 2589549242,
+              "link": "https://www.deezer.com/track/2589549242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/4/0/1840c7ce7445aeba0b836db2a51fbc0f.mp3?hdnea=exp=1795718604~acl=/api/1/1/1/8/4/0/1840c7ce7445aeba0b836db2a51fbc0f.mp3*~data=user_id=0,application_id=42~hmac=1bdfa25a2dd3c2ca71b0168f5931a803543a07d7d8ad718d9560d630b2cb2d7c",
+              "preview_expires": "2026-11-26T18:43:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mr. Belt & Wezol/It's Not Right But It's Okay.jpg"
+}

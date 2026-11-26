@@ -1,0 +1,90 @@
+{
+  "title": "Kernkraft 400",
+  "artist": "Zombie Nation",
+  "year": 1999,
+  "release_date": "1999-11-08",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "techno",
+    "electro",
+    "electronic",
+    "hard house",
+    "tech house",
+    "progressive trance",
+    "trance"
+  ],
+  "tags": [
+    "techno",
+    "electro",
+    "electronic",
+    "hard house",
+    "tech house",
+    "progressive trance",
+    "trance"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9da97c95-b571-3a20-b25c-eb4c20dd530b",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/129178",
+    "deezer": "https://www.deezer.com/album/938680"
+  },
+  "musicbrainz_id": "9da97c95-b571-3a20-b25c-eb4c20dd530b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4b5e9237-6ac5-4eed-9362-8ba9aab0df7a",
+      "barcode": "8717578001422",
+      "title": "Kernkraft 400 Single Mixes",
+      "disambiguation": null,
+      "date": "2006-03-07",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "14:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kernkraft 400",
+            "length": "4:45",
+            "deezer": {
+              "id": 10265109,
+              "link": "https://www.deezer.com/track/10265109",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/b/0/43b70611435274d8fc90e8b954e2674f.mp3?hdnea=exp=1795724611~acl=/api/1/1/4/3/b/0/43b70611435274d8fc90e8b954e2674f.mp3*~data=user_id=0,application_id=42~hmac=f11c4b173c7434d459ae8c93e54839b8b75e30d5060dfa327adf516904df8ba3",
+              "preview_expires": "2026-11-26T20:23:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Kernkraft 400 (DJ Gius mix)",
+            "length": "6:06",
+            "deezer": {
+              "id": 10265110,
+              "link": "https://www.deezer.com/track/10265110",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/c/0/7dc080fb3dc25e84e1bc71e620447860.mp3?hdnea=exp=1795724611~acl=/api/1/1/7/d/c/0/7dc080fb3dc25e84e1bc71e620447860.mp3*~data=user_id=0,application_id=42~hmac=d6049b7ef1d0ca479d0bd44d3043d733f7960bd1ae1dec843d54b0f89ec294a9",
+              "preview_expires": "2026-11-26T20:23:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kernkraft 400 (DJ Gius mix - radio edit)",
+            "length": "3:27",
+            "deezer": {
+              "id": 10265111,
+              "link": "https://www.deezer.com/track/10265111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/c/0/1cca66085c33935e0dfd0817c23e07ec.mp3?hdnea=exp=1795724611~acl=/api/1/1/1/c/c/0/1cca66085c33935e0dfd0817c23e07ec.mp3*~data=user_id=0,application_id=42~hmac=feaa8dada51a7b2d2f7cdd1ae232d4f52eaf061f40b06e58fc6885250df426e8",
+              "preview_expires": "2026-11-26T20:23:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Zombie Nation/Kernkraft 400 Single Mixes.jpg"
+}

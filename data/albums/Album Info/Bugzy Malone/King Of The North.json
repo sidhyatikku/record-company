@@ -1,0 +1,135 @@
+{
+  "title": "King of the North",
+  "artist": "Bugzy Malone",
+  "year": 2017,
+  "release_date": "2017-07-14",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "grime"
+  ],
+  "tags": [
+    "grime",
+    "uk hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/60943ef1-1850-477b-96ed-be8f33525c7a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/44168961"
+  },
+  "musicbrainz_id": "60943ef1-1850-477b-96ed-be8f33525c7a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8137243c-1c74-4678-943e-2a836261a6d7",
+      "barcode": "190296962943",
+      "title": "King of the North",
+      "disambiguation": null,
+      "date": "2017-07-14",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "30:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "King of the North",
+            "length": "3:28",
+            "deezer": {
+              "id": 380390821,
+              "link": "https://www.deezer.com/track/380390821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/0/0/be0f6500643ec4b54194c842e0df874d.mp3?hdnea=exp=1795652591~acl=/api/1/1/b/e/0/0/be0f6500643ec4b54194c842e0df874d.mp3*~data=user_id=0,application_id=42~hmac=098b3e075b0488a165d80c2e813b72cc21c76fbb9089c7256d5aef56007fa1cd",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Aggy Wid It",
+            "length": "3:26",
+            "deezer": {
+              "id": 380390831,
+              "link": "https://www.deezer.com/track/380390831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/9/0/2b9365b0da3f667078c6556359529ab2.mp3?hdnea=exp=1795652591~acl=/api/1/1/2/b/9/0/2b9365b0da3f667078c6556359529ab2.mp3*~data=user_id=0,application_id=42~hmac=bd36c2eabb2e8ad556b39a0bdca99a9a5de0f09e39fa447b694ede495d164ca4",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Make or Break",
+            "length": "4:28",
+            "deezer": {
+              "id": 380390841,
+              "link": "https://www.deezer.com/track/380390841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/b/0/54b89e413871f266b22a29cdd8f01c19.mp3?hdnea=exp=1795652591~acl=/api/1/1/5/4/b/0/54b89e413871f266b22a29cdd8f01c19.mp3*~data=user_id=0,application_id=42~hmac=ec6814f69d88ea0facc26bce0c916764d5ae764f28eed0518d352387c09f3c89",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Through the Night",
+            "length": "4:25",
+            "artist": "Bugzy Malone feat. DJ Luck & MC Neat",
+            "deezer": {
+              "id": 380390851,
+              "link": "https://www.deezer.com/track/380390851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/0/0/ec04246d7bfd75a7796b167252cd5ae0.mp3?hdnea=exp=1795652591~acl=/api/1/1/e/c/0/0/ec04246d7bfd75a7796b167252cd5ae0.mp3*~data=user_id=0,application_id=42~hmac=4626e658b31933fec14cb54abf39922e0348bc98236049bfc8ee46d26e30bd22",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "We Don’t Play",
+            "length": "3:37",
+            "deezer": {
+              "id": 380390861,
+              "link": "https://www.deezer.com/track/380390861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/f/0/76fbd5f006ea398a8975d590367f1057.mp3?hdnea=exp=1795652591~acl=/api/1/1/7/6/f/0/76fbd5f006ea398a8975d590367f1057.mp3*~data=user_id=0,application_id=42~hmac=e125efd62e8d1ba27fbfeac41bb8fb601816c0a94bf690a043048cdd38025657",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Memory Lane",
+            "length": "3:31",
+            "artist": "Bugzy Malone feat. Tom Grennan",
+            "deezer": {
+              "id": 380390871,
+              "link": "https://www.deezer.com/track/380390871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c0cc1497f915f99910c3c3046af7b19.mp3?hdnea=exp=1795652591~acl=/api/1/1/1/c/0/0/1c0cc1497f915f99910c3c3046af7b19.mp3*~data=user_id=0,application_id=42~hmac=cb06bab40fb871184ffbe3de4116024b93dceb01fefc75126cf1deeb1a1c2ffe",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bruce Wayne",
+            "length": "3:47",
+            "deezer": {
+              "id": 380390881,
+              "link": "https://www.deezer.com/track/380390881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/0/0/3909778f2a59bb01556f21fbbcb3b992.mp3?hdnea=exp=1795652591~acl=/api/1/1/3/9/0/0/3909778f2a59bb01556f21fbbcb3b992.mp3*~data=user_id=0,application_id=42~hmac=ecf3d193ebc81347cb747d3d997a0e1175bcc975bd6646cac1648a9235d05e90",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sniper",
+            "length": "3:35",
+            "deezer": {
+              "id": 380390891,
+              "link": "https://www.deezer.com/track/380390891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/5/0/3455427caaae5db73cf23216843b82cf.mp3?hdnea=exp=1795652591~acl=/api/1/1/3/4/5/0/3455427caaae5db73cf23216843b82cf.mp3*~data=user_id=0,application_id=42~hmac=96aa3e5f7fca866daf685b143406ef4d0796bf9a06272580bd6bd44a9a282cd9",
+              "preview_expires": "2026-11-26T00:23:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bugzy Malone/King Of The North.jpg"
+}

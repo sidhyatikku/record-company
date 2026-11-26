@@ -1,0 +1,64 @@
+{
+  "title": "Shawty / No Future",
+  "artist": "Zefer, Wilfy D",
+  "year": 2023,
+  "release_date": "2023-03-03",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage",
+    "rally house",
+    "hip house",
+    "bassline",
+    "uk funky"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/66sMMxddxidZWQNXcrz1t6",
+    "deezer": "https://www.deezer.com/album/407415867"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/66sMMxddxidZWQNXcrz1t6",
+      "title": "Shawty / No Future",
+      "date": "2023-03-03"
+    },
+    "total_tracks": 2,
+    "total_length": "7:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shawty",
+            "length": "3:44",
+            "deezer": {
+              "id": 2148993867,
+              "link": "https://www.deezer.com/track/2148993867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/9/0/539799d3bcdb16ba309683886c5775db.mp3?hdnea=exp=1795724599~acl=/api/1/1/5/3/9/0/539799d3bcdb16ba309683886c5775db.mp3*~data=user_id=0,application_id=42~hmac=fc790516dd566e362b8366bd7ac6db79e20f4b7fbd81634e5de79e7ff8b2180b",
+              "preview_expires": "2026-11-26T20:23:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "No Future",
+            "length": "3:58",
+            "deezer": {
+              "id": 2148993877,
+              "link": "https://www.deezer.com/track/2148993877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/7/0/f07578494429adda9f0a4452f2ce955b.mp3?hdnea=exp=1795724599~acl=/api/1/1/f/0/7/0/f07578494429adda9f0a4452f2ce955b.mp3*~data=user_id=0,application_id=42~hmac=4d6d52e2bd77a423ee297688a0823b4ca913a937cf446548c20efc47d5c35b82",
+              "preview_expires": "2026-11-26T20:23:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Zefer/Shawty - No Future.jpg"
+}

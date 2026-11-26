@@ -1,0 +1,201 @@
+{
+  "title": "Mindfilter",
+  "artist": "TJ Rehmi",
+  "year": 1998,
+  "release_date": "1998-05-25",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "downtempo",
+    "electronic"
+  ],
+  "tags": [
+    "downtempo",
+    "electronic"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/54299d4d-ddef-3e66-aec5-473dbb1b447f",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/325539",
+    "deezer": "https://www.deezer.com/album/107030"
+  },
+  "musicbrainz_id": "54299d4d-ddef-3e66-aec5-473dbb1b447f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ce4f4caa-3363-4239-a366-62bddf1a7d3d",
+      "barcode": "5018560107027",
+      "title": "Mindfilter",
+      "disambiguation": null,
+      "date": "1998-05-25",
+      "country": "XE"
+    },
+    "total_tracks": 14,
+    "total_length": "1:18:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mind Filter",
+            "length": "4:24",
+            "deezer": {
+              "id": 951286,
+              "link": "https://www.deezer.com/track/951286",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/6/0/87668e56ce31c203631a9a2163fab32b.mp3?hdnea=exp=1795721926~acl=/api/1/1/8/7/6/0/87668e56ce31c203631a9a2163fab32b.mp3*~data=user_id=0,application_id=42~hmac=1499a1b9eb45c295472968cfc119826bfdd32f60bd1cff20eaaa775c8639cc10",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Raagmania",
+            "length": "5:03",
+            "deezer": {
+              "id": 951288,
+              "link": "https://www.deezer.com/track/951288",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/6/0/e36509a0ba552a9f0972a9514f834aa6.mp3?hdnea=exp=1795721926~acl=/api/1/1/e/3/6/0/e36509a0ba552a9f0972a9514f834aa6.mp3*~data=user_id=0,application_id=42~hmac=a2642e02809735bb50965ce63b9a21aea20963c63a64e2a65318780a82a8e885",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Fusionist",
+            "length": "5:09",
+            "deezer": {
+              "id": 951291,
+              "link": "https://www.deezer.com/track/951291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/c/0/d9c8ebc564c16cad5a495cde90d837ed.mp3?hdnea=exp=1795721926~acl=/api/1/1/d/9/c/0/d9c8ebc564c16cad5a495cde90d837ed.mp3*~data=user_id=0,application_id=42~hmac=4eae3ea679c815c1f0d118d6b3f94c499d08c39976d72f862050f7f447eb4770",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Who Killed Bhangra?",
+            "length": "6:09",
+            "deezer": {
+              "id": 951293,
+              "link": "https://www.deezer.com/track/951293",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/4/0/24486c58d2a619c188ae77c09b493120.mp3?hdnea=exp=1795721926~acl=/api/1/1/2/4/4/0/24486c58d2a619c188ae77c09b493120.mp3*~data=user_id=0,application_id=42~hmac=b037ca6294ca78b661bfc06104a7f9e27d77c59ab142aa7aab66e999b81ab335",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hit n' Bliss",
+            "length": "4:12",
+            "deezer": {
+              "id": 951296,
+              "link": "https://www.deezer.com/track/951296",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/9/0/2493625cc3e229c40d7f028902edf0ed.mp3?hdnea=exp=1795721926~acl=/api/1/1/2/4/9/0/2493625cc3e229c40d7f028902edf0ed.mp3*~data=user_id=0,application_id=42~hmac=0519fa6f7596b7f05be5790aa29749036f38a040ee9a3b73b9df047daf0f25eb",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Elastic",
+            "length": "3:46",
+            "deezer": {
+              "id": 951298,
+              "link": "https://www.deezer.com/track/951298",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/6/0/3e689c6a248affe419ced84edaed6ac7.mp3?hdnea=exp=1795721926~acl=/api/1/1/3/e/6/0/3e689c6a248affe419ced84edaed6ac7.mp3*~data=user_id=0,application_id=42~hmac=d92e5339d1b993d727f9a0f6bae1a354b315fee0eb67ad236b3c435b4ba88e58",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Exploration: 1995",
+            "length": "10:38",
+            "deezer": {
+              "id": 951302,
+              "link": "https://www.deezer.com/track/951302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/9/0/749abcbedd9954e991ac62a9374b3eb3.mp3?hdnea=exp=1795721926~acl=/api/1/1/7/4/9/0/749abcbedd9954e991ac62a9374b3eb3.mp3*~data=user_id=0,application_id=42~hmac=ec58d7923099ecdd2d136199b72f566f27b5452772049e868d761ddb37c497ec",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Prisoners of Freedom",
+            "length": "5:53",
+            "deezer": {
+              "id": 951304,
+              "link": "https://www.deezer.com/track/951304",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/e/0/72ec5218e676b0c89fa5c24fdde44eb2.mp3?hdnea=exp=1795721926~acl=/api/1/1/7/2/e/0/72ec5218e676b0c89fa5c24fdde44eb2.mp3*~data=user_id=0,application_id=42~hmac=2119b3205a393f9989a42902b48fdc400d69155f5c802f09789e4c8f1406bf57",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Skrutinizer",
+            "length": "5:09",
+            "deezer": {
+              "id": 951305,
+              "link": "https://www.deezer.com/track/951305",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/3/0/92322944333dd90b4d07f627c65b577b.mp3?hdnea=exp=1795721926~acl=/api/1/1/9/2/3/0/92322944333dd90b4d07f627c65b577b.mp3*~data=user_id=0,application_id=42~hmac=68e294ac65b37b50a20497462ab977d3e36fc409574afdee587a2355539439be",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "DestiNation",
+            "length": "5:00",
+            "deezer": {
+              "id": 951307,
+              "link": "https://www.deezer.com/track/951307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/4/0/55405e870a5c8b51c999024680f158e7.mp3?hdnea=exp=1795721926~acl=/api/1/1/5/5/4/0/55405e870a5c8b51c999024680f158e7.mp3*~data=user_id=0,application_id=42~hmac=c2bf15605bb005d6237cceadafcc92a7ba0c83e063e94c2ae1cd0b932a814cb3",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Is It Legal?",
+            "length": "5:53",
+            "deezer": {
+              "id": 951310,
+              "link": "https://www.deezer.com/track/951310",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/d/0/badf109f2ac325f5cff29b225cbc2ec1.mp3?hdnea=exp=1795721926~acl=/api/1/1/b/a/d/0/badf109f2ac325f5cff29b225cbc2ec1.mp3*~data=user_id=0,application_id=42~hmac=c0283cad17ce482adb9ad090d82d39259e2a8683a3f1cce134cca9e6d7fe5b19",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Return",
+            "length": "5:55",
+            "deezer": {
+              "id": 951312,
+              "link": "https://www.deezer.com/track/951312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/b/0/58b0583757262c7ff8a2c17b77855754.mp3?hdnea=exp=1795721926~acl=/api/1/1/5/8/b/0/58b0583757262c7ff8a2c17b77855754.mp3*~data=user_id=0,application_id=42~hmac=3f50bc85d962e69279e73066ab3ed0e6c419c00576b62d165fd9b0f1f089ba0a",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Whisper the Meaning",
+            "length": "5:08",
+            "deezer": {
+              "id": 951314,
+              "link": "https://www.deezer.com/track/951314",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/d/0/f8d6f4341b489496cff3303bdf76abda.mp3?hdnea=exp=1795721926~acl=/api/1/1/f/8/d/0/f8d6f4341b489496cff3303bdf76abda.mp3*~data=user_id=0,application_id=42~hmac=8f9fb5d1bdca4e6afc7fd69ed335b17c47a9c5d5602d7c18a8e365d70da053c0",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Second Filter",
+            "length": "5:54",
+            "deezer": {
+              "id": 951317,
+              "link": "https://www.deezer.com/track/951317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/b/0/c4b00e242e7a0b96b2d96c9a93ba5092.mp3?hdnea=exp=1795721926~acl=/api/1/1/c/4/b/0/c4b00e242e7a0b96b2d96c9a93ba5092.mp3*~data=user_id=0,application_id=42~hmac=84ab910e5d5d1eecc35b4d9e80fa7cc3364a1ae3a5d82f82989330dfb3de77c9",
+              "preview_expires": "2026-11-26T19:38:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/TJ Rehmi/Mind Filter.jpg"
+}

@@ -1,0 +1,58 @@
+{
+  "title": "You Are In My System",
+  "artist": "Kerri Chandler, Dennis Quin Ft Troy Denari",
+  "year": 2023,
+  "release_date": "2023-09-15",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ab30c535-e2ef-4790-97a4-5e421496e820",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/479780825"
+  },
+  "musicbrainz_id": "ab30c535-e2ef-4790-97a4-5e421496e820",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0af0e59f-ebcc-41d2-9108-574dd3bb21ff",
+      "barcode": "5054287663538",
+      "title": "You Are In My System (Faster Horses Sport Mix)",
+      "disambiguation": null,
+      "date": "2023-10-06",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "6:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "You Are In My System (Faster Horses sport mix)",
+            "length": "3:17",
+            "artist": "Kerri Chandler, Dennis Quin feat. Troy Denari",
+            "deezer": {
+              "id": 2423872485,
+              "link": "https://www.deezer.com/track/2423872485",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/d/0/b5d1e19ad6668d8ca30dc13c6f573685.mp3?hdnea=exp=1795656134~acl=/api/1/1/b/5/d/0/b5d1e19ad6668d8ca30dc13c6f573685.mp3*~data=user_id=0,application_id=42~hmac=17dc6597e747baca8868a095f250ee9b7ebd6eb296e916060df8a53347e1037a",
+              "preview_expires": "2026-11-26T01:22:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "You Are In My System",
+            "length": "3:05",
+            "artist": "Kerri Chandler, Dennis Quin feat. Troy Denari"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kerri Chandler/You Are In My System (Faster Horses Sport Mix).jpg"
+}

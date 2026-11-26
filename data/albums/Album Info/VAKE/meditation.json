@@ -1,0 +1,50 @@
+{
+  "title": "meditation",
+  "artist": "VAKE",
+  "year": 2024,
+  "release_date": "2024-04-26",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "funky house",
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3K38W7i6aC8ZDK74NTPfKW",
+    "deezer": "https://www.deezer.com/album/575902291"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3K38W7i6aC8ZDK74NTPfKW",
+      "title": "meditation",
+      "date": "2024-04-26"
+    },
+    "total_tracks": 1,
+    "total_length": "3:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "meditation",
+            "length": "3:19",
+            "deezer": {
+              "id": 2759449641,
+              "link": "https://www.deezer.com/track/2759449641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/5/0/855a8a6077c2a61f0a53b248aa927aad.mp3?hdnea=exp=1795722156~acl=/api/1/1/8/5/5/0/855a8a6077c2a61f0a53b248aa927aad.mp3*~data=user_id=0,application_id=42~hmac=1c311450cdc9585e5b3c240abe1ecf0e966c005a734d4a0eb10f7bf9f52a3106",
+              "preview_expires": "2026-11-26T19:42:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/VAKE/meditation.jpg"
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Atomic Mind",
+  "artist": "Nick Johnston",
+  "year": 2014,
+  "release_date": "2014-10-07",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/539d0ac7-72ea-4067-a424-002fbd748841",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/8868031"
+  },
+  "musicbrainz_id": "539d0ac7-72ea-4067-a424-002fbd748841",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e80caac6-ac1f-431d-8d2c-8ca64ed30a8b",
+      "barcode": null,
+      "title": "Atomic Mind",
+      "disambiguation": null,
+      "date": "2014-10-07",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "54:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Atomic Mind",
+            "length": "4:38",
+            "deezer": {
+              "id": 87827263,
+              "link": "https://www.deezer.com/track/87827263",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/a/0/2da9f3d9673aff12710358cea78cb4eb.mp3?hdnea=exp=1795718892~acl=/api/1/1/2/d/a/0/2da9f3d9673aff12710358cea78cb4eb.mp3*~data=user_id=0,application_id=42~hmac=ffbc225e039e76f2e7af0fc6c129cbb012966f6fe12cf8d34514150c68fc5f5e",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ghost of the Robot Graveyard",
+            "length": "5:14",
+            "deezer": {
+              "id": 87827265,
+              "link": "https://www.deezer.com/track/87827265",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/d/0/c2d0949543daf8f934d0a836ed7cc5a3.mp3?hdnea=exp=1795718892~acl=/api/1/1/c/2/d/0/c2d0949543daf8f934d0a836ed7cc5a3.mp3*~data=user_id=0,application_id=42~hmac=0c392cbbf080b3bd64c12f6a3953f816d44f3b2a2d1c152c2e78bfaaebe927b8",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Last Deals of Dead Men",
+            "length": "6:19",
+            "deezer": {
+              "id": 87827267,
+              "link": "https://www.deezer.com/track/87827267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/0/0/bc0edfcffba2d2f78cbb04014050b404.mp3?hdnea=exp=1795718892~acl=/api/1/1/b/c/0/0/bc0edfcffba2d2f78cbb04014050b404.mp3*~data=user_id=0,application_id=42~hmac=5280b6d9c2f79935a42bb70d956fbf57851dc1b6ce576a257cf3985996f99af8",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Silver Tongued Devil",
+            "length": "8:14",
+            "artist": "Nick Johnston feat. Guthrie Govan",
+            "deezer": {
+              "id": 87827269,
+              "link": "https://www.deezer.com/track/87827269",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/b/0/c6bf0e2773f1e5145d06d73e45afbce5.mp3?hdnea=exp=1795718892~acl=/api/1/1/c/6/b/0/c6bf0e2773f1e5145d06d73e45afbce5.mp3*~data=user_id=0,application_id=42~hmac=5e37c35d671ce87a6bb0d6bf8ebd3594f03a584fe218d3e2da36db751b9ef325",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Out of the Wasteland",
+            "length": "3:32",
+            "deezer": {
+              "id": 87827271,
+              "link": "https://www.deezer.com/track/87827271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/7/0/47760e899d171f0db5a7f52767b68544.mp3?hdnea=exp=1795718892~acl=/api/1/1/4/7/7/0/47760e899d171f0db5a7f52767b68544.mp3*~data=user_id=0,application_id=42~hmac=bfff02f7e7ba8cde46249efa8459d49a0174d13d3a2b23d38b5564361cccc796",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Wonderful Madness",
+            "length": "5:07",
+            "deezer": {
+              "id": 87827273,
+              "link": "https://www.deezer.com/track/87827273",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/c/0/8bcfbe51e94cad7ddd094da3ae6e0a3d.mp3?hdnea=exp=1795718892~acl=/api/1/1/8/b/c/0/8bcfbe51e94cad7ddd094da3ae6e0a3d.mp3*~data=user_id=0,application_id=42~hmac=6ff1b9c111ca419c6e11514110226ca981e156dc62dfa9f89dfaf01d77052300",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ultra Force",
+            "length": "4:47",
+            "deezer": {
+              "id": 87827275,
+              "link": "https://www.deezer.com/track/87827275",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/1/0/1411bd5c07313e67829f3059c366a58d.mp3?hdnea=exp=1795718892~acl=/api/1/1/1/4/1/0/1411bd5c07313e67829f3059c366a58d.mp3*~data=user_id=0,application_id=42~hmac=01543e86c2ee2544b7c013a2872607f8047531b70559adb921a2fa2015a838e4",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Scoundrel's Lounge",
+            "length": "6:29",
+            "deezer": {
+              "id": 87827277,
+              "link": "https://www.deezer.com/track/87827277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/5/0/345e03e297d5e8c51eef3a76b561a77c.mp3?hdnea=exp=1795718892~acl=/api/1/1/3/4/5/0/345e03e297d5e8c51eef3a76b561a77c.mp3*~data=user_id=0,application_id=42~hmac=0c30855d766e2aebf526525d15534133dcc397040ff16c1f3f48053d2a26315a",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lost in a Dream",
+            "length": "4:08",
+            "deezer": {
+              "id": 87827279,
+              "link": "https://www.deezer.com/track/87827279",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/5/0/da57cd3f536a8d083782d532663c42e6.mp3?hdnea=exp=1795718892~acl=/api/1/1/d/a/5/0/da57cd3f536a8d083782d532663c42e6.mp3*~data=user_id=0,application_id=42~hmac=98606a2c234e5d737ec699a83ec354602b396e138bfe84ed3e9807bd1622188f",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "My Final Days on a Doomed Planet",
+            "length": "6:04",
+            "deezer": {
+              "id": 87827281,
+              "link": "https://www.deezer.com/track/87827281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/6/0/ec65b034addc12ea2d72cf6e28f5f588.mp3?hdnea=exp=1795718892~acl=/api/1/1/e/c/6/0/ec65b034addc12ea2d72cf6e28f5f588.mp3*~data=user_id=0,application_id=42~hmac=cb4135c53782136283cf3aa8db15ab7e9f89ce49aae9fceb073245e280e9a5c9",
+              "preview_expires": "2026-11-26T18:48:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nick Johnston/Atomic Mind.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "In the Yuma",
+  "artist": "Chris Lake feat. Aatig",
+  "year": 2022,
+  "release_date": "2022-11-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c5982bf7-6870-4290-b37a-ce2940c6689e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/372566047"
+  },
+  "musicbrainz_id": "c5982bf7-6870-4290-b37a-ce2940c6689e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dc21a3c0-5472-4131-afff-531f56c08ffb",
+      "barcode": "795397471723",
+      "title": "In the Yuma",
+      "disambiguation": "extended mix",
+      "date": "2022-11-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "6:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "In The Yuma (extended mix)",
+            "length": "6:06",
+            "deezer": {
+              "id": 1999274077,
+              "link": "https://www.deezer.com/track/1999274077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/b/0/b5bf82c7d89f4c9a2cc8159ebb7d875d.mp3?hdnea=exp=1795652791~acl=/api/1/1/b/5/b/0/b5bf82c7d89f4c9a2cc8159ebb7d875d.mp3*~data=user_id=0,application_id=42~hmac=a84ec6f4f968e40a0ae804aead34be236d58015e5ada1b4e56d6e8ea72bdfbf6",
+              "preview_expires": "2026-11-26T00:26:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chris Lake/In The Yuma.png"
+}

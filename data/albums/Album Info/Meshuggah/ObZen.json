@@ -1,0 +1,162 @@
+{
+  "title": "obZen",
+  "artist": "Meshuggah",
+  "year": 2008,
+  "release_date": "2008-02-27",
+  "type": "Album",
+  "description": "obZen is the sixth studio album by Swedish extreme metal band Meshuggah. It was released in Europe on 7 March 2008, and in North America on 11 March 2008 by Nuclear Blast. Tomas Haake made his return as a studio drummer for the record after the Drumkit From Hell drum software was used on Catch Thirtythree.",
+  "genres": [
+    "death metal",
+    "djent",
+    "experimental",
+    "metal",
+    "progressive metal",
+    "rock",
+    "thrash metal"
+  ],
+  "tags": [
+    "death metal",
+    "djent",
+    "experimental",
+    "metal",
+    "progressive metal",
+    "rock",
+    "thrash metal"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bc3c02ea-5837-32ab-9c65-f60125458187",
+    "wikipedia": "https://en.wikipedia.org/wiki/ObZen",
+    "allmusic": "https://www.allmusic.com/album/mw0000582807",
+    "discogs": "https://www.discogs.com/master/14414",
+    "wikidata": "https://www.wikidata.org/wiki/Q286217",
+    "deezer": "https://www.deezer.com/album/663074831"
+  },
+  "musicbrainz_id": "bc3c02ea-5837-32ab-9c65-f60125458187",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/81b6c5f8-98e2-4394-bdf6-0e801de0bb59",
+      "barcode": "727361193768",
+      "title": "obZen",
+      "disambiguation": null,
+      "date": "2019-03-20",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "52:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Combustion",
+            "length": "4:09",
+            "deezer": {
+              "id": 3065403221,
+              "link": "https://www.deezer.com/track/3065403221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/a/0/d1a1449a18bd4ae3f9f8fafb5bb73e30.mp3?hdnea=exp=1795718372~acl=/api/1/1/d/1/a/0/d1a1449a18bd4ae3f9f8fafb5bb73e30.mp3*~data=user_id=0,application_id=42~hmac=8364e244419753b763c880bf25c4db1d23e7ec8a4bdfc35cdc5a1317db50776c",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Electric Red",
+            "length": "5:51",
+            "deezer": {
+              "id": 3065403231,
+              "link": "https://www.deezer.com/track/3065403231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/4/0/074e8e01f3bdc0bed7fc2c1072a344f0.mp3?hdnea=exp=1795718372~acl=/api/1/1/0/7/4/0/074e8e01f3bdc0bed7fc2c1072a344f0.mp3*~data=user_id=0,application_id=42~hmac=b293d99d4d4d37a8b40f7d707c72290832047ada7a175feef6410e8f98e0caa0",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bleed",
+            "length": "7:23",
+            "deezer": {
+              "id": 3065403241,
+              "link": "https://www.deezer.com/track/3065403241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/9/0/0795a30fb3483e6af419c1add53d7b05.mp3?hdnea=exp=1795718372~acl=/api/1/1/0/7/9/0/0795a30fb3483e6af419c1add53d7b05.mp3*~data=user_id=0,application_id=42~hmac=2e71b71846ce8dc886a078ce5d0df14719c3e9c46b2369f7aa224c7f041d1697",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Lethargica",
+            "length": "5:47",
+            "deezer": {
+              "id": 3065403251,
+              "link": "https://www.deezer.com/track/3065403251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/3/0/8f32b3c8bdb7184be44a2ac3c261a880.mp3?hdnea=exp=1795718372~acl=/api/1/1/8/f/3/0/8f32b3c8bdb7184be44a2ac3c261a880.mp3*~data=user_id=0,application_id=42~hmac=892990169d892d2bb034b47ed02b3ce9fd370e3c198d9a9dcc400e9fadabb193",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Obzen",
+            "length": "4:24",
+            "deezer": {
+              "id": 3065403261,
+              "link": "https://www.deezer.com/track/3065403261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/d/0/4fd2442453f09b92e00e690449fea4e6.mp3?hdnea=exp=1795718372~acl=/api/1/1/4/f/d/0/4fd2442453f09b92e00e690449fea4e6.mp3*~data=user_id=0,application_id=42~hmac=89b27b31ce88a3c6e3352266ea4301c0a81af035a334c3ccfd91ba6bbc40df16",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "This Spiteful Snake",
+            "length": "4:52",
+            "deezer": {
+              "id": 3065403271,
+              "link": "https://www.deezer.com/track/3065403271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/f/0/30f5e2e5a6682dc66e1b638e2c389976.mp3?hdnea=exp=1795718372~acl=/api/1/1/3/0/f/0/30f5e2e5a6682dc66e1b638e2c389976.mp3*~data=user_id=0,application_id=42~hmac=0ddc6a5f61015dde011323086c3bcc41dbb6d4f0e3419dd15e209d98a24a6ead",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Pineal Gland Optics",
+            "length": "5:12",
+            "deezer": {
+              "id": 3065403281,
+              "link": "https://www.deezer.com/track/3065403281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/f/0/0bf1b45ae9a0381aaa108ad0964831e2.mp3?hdnea=exp=1795718372~acl=/api/1/1/0/b/f/0/0bf1b45ae9a0381aaa108ad0964831e2.mp3*~data=user_id=0,application_id=42~hmac=481554e9e11768f827b3373b463ecd3e57a4b0cb82212f4e5397df2044b7cab1",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Pravus",
+            "length": "5:10",
+            "deezer": {
+              "id": 3065403291,
+              "link": "https://www.deezer.com/track/3065403291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/4/0/8a472e1433a9b67570b5c036aebea91d.mp3?hdnea=exp=1795718372~acl=/api/1/1/8/a/4/0/8a472e1433a9b67570b5c036aebea91d.mp3*~data=user_id=0,application_id=42~hmac=05a964602b94dd177fce5f552fdf3ac3e0e1c09869de14ab7bc7a92364b2f083",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dancers to a Discordant System",
+            "length": "9:36",
+            "deezer": {
+              "id": 3065403301,
+              "link": "https://www.deezer.com/track/3065403301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/c/0/31c673645bc44c153e3caa61df4ea3b4.mp3?hdnea=exp=1795718372~acl=/api/1/1/3/1/c/0/31c673645bc44c153e3caa61df4ea3b4.mp3*~data=user_id=0,application_id=42~hmac=7a4d1ca2ccebac3e5b93129dbb28a526741a00c3ae45f325f30e846b0f1a158f",
+              "preview_expires": "2026-11-26T18:39:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Meshuggah/ObZen.jpg"
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Drill",
+  "artist": "Radiohead",
+  "year": 1992,
+  "release_date": "1992-05-05",
+  "type": "EP",
+  "description": "Drill is the debut EP by the English rock band Radiohead, released in May 1992. It was Radiohead's first commercial release, and attracted little attention, reaching 101 on the UK singles chart. Radiohead rerecorded three Drill songs for their debut album, Pablo Honey (1993).",
+  "genres": [
+    "alternative rock",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 2.65,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b2246643-115e-3b53-9a96-6d2df930f970",
+    "wikipedia": "https://en.wikipedia.org/wiki/Drill_(EP)",
+    "allmusic": "https://www.allmusic.com/album/mw0001453641",
+    "discogs": "https://www.discogs.com/master/73605",
+    "wikidata": "https://www.wikidata.org/wiki/Q1931672",
+    "deezer": "https://www.deezer.com/album/121893052"
+  },
+  "musicbrainz_id": "b2246643-115e-3b53-9a96-6d2df930f970",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/33a24eb2-603b-4706-b1dc-48d876ddcae3",
+      "barcode": "634904079567",
+      "title": "Drill EP",
+      "disambiguation": null,
+      "date": "2020-01-19",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "10:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Prove Yourself (Drill version)",
+            "length": "2:33",
+            "deezer": {
+              "id": 826242532,
+              "link": "https://www.deezer.com/track/826242532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/d/0/50d7db07019d7b74aba38020aa652563.mp3?hdnea=exp=1795719855~acl=/api/1/1/5/0/d/0/50d7db07019d7b74aba38020aa652563.mp3*~data=user_id=0,application_id=42~hmac=64066588400c46fde9d52c97cf49f8dfcc785c04c479b2bbba8371d85a3bebec",
+              "preview_expires": "2026-11-26T19:04:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Stupid Car",
+            "length": "2:26",
+            "deezer": {
+              "id": 826242542,
+              "link": "https://www.deezer.com/track/826242542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/1/0/4e1585e25f8f00d091aa7b36e7bf60a8.mp3?hdnea=exp=1795719855~acl=/api/1/1/4/e/1/0/4e1585e25f8f00d091aa7b36e7bf60a8.mp3*~data=user_id=0,application_id=42~hmac=fd5cd48f5e29e414eed14e9cf5f8499b75247e81b4716066c43992aeec97633d",
+              "preview_expires": "2026-11-26T19:04:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "You (Drill version)",
+            "length": "3:24",
+            "deezer": {
+              "id": 826242552,
+              "link": "https://www.deezer.com/track/826242552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/1/0/611ce396075fa1ce5305b594b7c6f0b3.mp3?hdnea=exp=1795719855~acl=/api/1/1/6/1/1/0/611ce396075fa1ce5305b594b7c6f0b3.mp3*~data=user_id=0,application_id=42~hmac=2fbdbb18c347cbe7704bd01a68a6d60fe6464f25eb5faa83148abcde39d2d4e9",
+              "preview_expires": "2026-11-26T19:04:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Thinking About You (Drill version)",
+            "length": "2:16",
+            "deezer": {
+              "id": 826242562,
+              "link": "https://www.deezer.com/track/826242562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/7/0/6f71bada058b364eb9235b89231a7194.mp3?hdnea=exp=1795719855~acl=/api/1/1/6/f/7/0/6f71bada058b364eb9235b89231a7194.mp3*~data=user_id=0,application_id=42~hmac=229ccfa1e9d3556dab16786aa851d742f549b7dd81192ba1352630213bc0e8f6",
+              "preview_expires": "2026-11-26T19:04:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Radiohead/Drill EP.jpg"
+}

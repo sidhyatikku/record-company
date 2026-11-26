@@ -1,0 +1,51 @@
+{
+  "title": "Same Beef",
+  "artist": "Bohemia & Sidhu Moose Wala",
+  "year": 2019,
+  "release_date": "2019-08-19",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1f7fabdc-1ba2-4092-bf87-db0d3d716b14",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/204005802"
+  },
+  "musicbrainz_id": "1f7fabdc-1ba2-4092-bf87-db0d3d716b14",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0eb3d181-e976-4e1e-8281-081e6e0b1f62",
+      "barcode": null,
+      "title": "Same Beef",
+      "disambiguation": null,
+      "date": "2019-08-19",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "4:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Same Beef",
+            "length": "4:50",
+            "deezer": {
+              "id": 1227288222,
+              "link": "https://www.deezer.com/track/1227288222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/4/0/2148c112c6b97ad279e06553d4cd9e89.mp3?hdnea=exp=1795652485~acl=/api/1/1/2/1/4/0/2148c112c6b97ad279e06553d4cd9e89.mp3*~data=user_id=0,application_id=42~hmac=506a59e39d007153ec8cb8d0467a9e0e5095b3fb714553e0d5e7fc5dc136e077",
+              "preview_expires": "2026-11-26T00:21:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bohemia/Same Beef.jpg"
+}

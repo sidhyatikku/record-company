@@ -1,0 +1,205 @@
+{
+  "title": "717 Tapes the Album",
+  "artist": "Warren Zeiders",
+  "year": 2022,
+  "release_date": "2022-09-19",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f4bdd293-a8e2-4734-b4ea-d8e20f9079b1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/355177257"
+  },
+  "musicbrainz_id": "f4bdd293-a8e2-4734-b4ea-d8e20f9079b1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5a676112-2586-4ab2-a9cf-e96612c582a0",
+      "barcode": null,
+      "title": "717 Tapes the Album",
+      "disambiguation": null,
+      "date": "2022-09-19",
+      "country": "US"
+    },
+    "total_tracks": 15,
+    "total_length": "44:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ride the Lightning (717 Tapes)",
+            "length": "3:06",
+            "deezer": {
+              "id": 1907097497,
+              "link": "https://www.deezer.com/track/1907097497",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/9/0/e09077f76931302cf510c28647a76a89.mp3?hdnea=exp=1795724256~acl=/api/1/1/e/0/9/0/e09077f76931302cf510c28647a76a89.mp3*~data=user_id=0,application_id=42~hmac=46c8bc0efbcd598434d1890a360bfa7eb8bf5bca9f568204151833f17389caf8",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Never Look Back (717 Tapes)",
+            "length": "2:51",
+            "deezer": {
+              "id": 1907097507,
+              "link": "https://www.deezer.com/track/1907097507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/5/0/8e5dde1dd795e2368bdb74c3755d048f.mp3?hdnea=exp=1795724256~acl=/api/1/1/8/e/5/0/8e5dde1dd795e2368bdb74c3755d048f.mp3*~data=user_id=0,application_id=42~hmac=31957367056ea8e93c8b69cc45f562a087e1a3195d6e540e9557002a62f2dc6e",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Boys for Life (717 Tapes)",
+            "length": "2:51",
+            "deezer": {
+              "id": 1907097517,
+              "link": "https://www.deezer.com/track/1907097517",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/7/0/f373f9e347352a4ea10251ad9aa994a5.mp3?hdnea=exp=1795724256~acl=/api/1/1/f/3/7/0/f373f9e347352a4ea10251ad9aa994a5.mp3*~data=user_id=0,application_id=42~hmac=1178317888850956378c2f7c8c496a9e2e17e3852948a8c04b7bbcc6653841ac",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dirt Road Don't (717 Tapes)",
+            "length": "3:12",
+            "deezer": {
+              "id": 1907097527,
+              "link": "https://www.deezer.com/track/1907097527",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad4effcf06c7ea36c37e2333801ba0b3.mp3?hdnea=exp=1795724256~acl=/api/1/1/a/d/4/0/ad4effcf06c7ea36c37e2333801ba0b3.mp3*~data=user_id=0,application_id=42~hmac=1bbfdb138fbfbef266313563ccee349b258f1198a68ce76ec1011ddba909299a",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Loving and Hating You (717 Tapes)",
+            "length": "2:55",
+            "deezer": {
+              "id": 1907097537,
+              "link": "https://www.deezer.com/track/1907097537",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/e/0/a1e10b035d6fbc34298b5e877e4a78d9.mp3?hdnea=exp=1795724256~acl=/api/1/1/a/1/e/0/a1e10b035d6fbc34298b5e877e4a78d9.mp3*~data=user_id=0,application_id=42~hmac=de1f92183ed5cc6ce4e80a0406e220988369e85b3b8f8fb63091a6486f46bf9e",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Wild Horse (717 Tapes)",
+            "length": "3:12",
+            "deezer": {
+              "id": 1907097547,
+              "link": "https://www.deezer.com/track/1907097547",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/2/0/5d2fff29aec4ed262e40d84f3fd2828f.mp3?hdnea=exp=1795724256~acl=/api/1/1/5/d/2/0/5d2fff29aec4ed262e40d84f3fd2828f.mp3*~data=user_id=0,application_id=42~hmac=ae48729fb85679f68c108258db4ec86a22f4801099ce5ef912fc9a84725b6e84",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Dark Night (717 Tapes)",
+            "length": "2:38",
+            "deezer": {
+              "id": 1907097557,
+              "link": "https://www.deezer.com/track/1907097557",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/1/0/c71445d9b2c66b4d0ef3e32377a05527.mp3?hdnea=exp=1795724256~acl=/api/1/1/c/7/1/0/c71445d9b2c66b4d0ef3e32377a05527.mp3*~data=user_id=0,application_id=42~hmac=07381fcd18a4cdcc0538d2b34a2623f21101f90e2c7043027c1b2b2af611e8b6",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Southbound (717 Tapes)",
+            "length": "2:34",
+            "deezer": {
+              "id": 1907097567,
+              "link": "https://www.deezer.com/track/1907097567",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/3/0/523bf7541b8114243b3d06b7ee22789d.mp3?hdnea=exp=1795724256~acl=/api/1/1/5/2/3/0/523bf7541b8114243b3d06b7ee22789d.mp3*~data=user_id=0,application_id=42~hmac=f9921375293130671c1ce067e84861856f2c779ac463f38674ce02911fe10067",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Ain't Been Found (717 Tapes)",
+            "length": "3:40",
+            "deezer": {
+              "id": 1907097577,
+              "link": "https://www.deezer.com/track/1907097577",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/5/0/6e5ffae1396f0a423202853217d03c0e.mp3?hdnea=exp=1795724256~acl=/api/1/1/6/e/5/0/6e5ffae1396f0a423202853217d03c0e.mp3*~data=user_id=0,application_id=42~hmac=3ef094abb0c05ce708917465f9fbfbc3f4fe8848990fc4ee8b49557109916b60",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Burn It Down (717 Tapes)",
+            "length": "2:50",
+            "deezer": {
+              "id": 1907097587,
+              "link": "https://www.deezer.com/track/1907097587",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/7/0/c773d18219a4b50f21289ac714f915f0.mp3?hdnea=exp=1795724256~acl=/api/1/1/c/7/7/0/c773d18219a4b50f21289ac714f915f0.mp3*~data=user_id=0,application_id=42~hmac=670e2dac9ad6825538f122df097f739b95e5bc3de3deecd2167202a59501b034",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Wild Horse",
+            "length": "3:15",
+            "deezer": {
+              "id": 1907097597,
+              "link": "https://www.deezer.com/track/1907097597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/3/0/ba3ab3953837246bbe0c0bea43af9097.mp3?hdnea=exp=1795724256~acl=/api/1/1/b/a/3/0/ba3ab3953837246bbe0c0bea43af9097.mp3*~data=user_id=0,application_id=42~hmac=df97744319011577349afa31206b4664da8ce7745fe3a282b412ac8103ba1ae6",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Up To No Good",
+            "length": "2:14",
+            "deezer": {
+              "id": 1907097607,
+              "link": "https://www.deezer.com/track/1907097607",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/2/0/3a26fddd851e0d189f9c0a3f087b40f4.mp3?hdnea=exp=1795724256~acl=/api/1/1/3/a/2/0/3a26fddd851e0d189f9c0a3f087b40f4.mp3*~data=user_id=0,application_id=42~hmac=27dfde338d95d720a09183c319280e5eb2bb38c0c14c78baf89cc71dee7caf18",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "One Hell of an Angel",
+            "length": "3:32",
+            "deezer": {
+              "id": 1907097617,
+              "link": "https://www.deezer.com/track/1907097617",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/4/0/f846badc33a99879fe09e10f5113c12a.mp3?hdnea=exp=1795724256~acl=/api/1/1/f/8/4/0/f846badc33a99879fe09e10f5113c12a.mp3*~data=user_id=0,application_id=42~hmac=3955238b199e3b5de0928cbf02b0ed6cab2445252be13982de4c1c7a4684abfd",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Heavy Pour",
+            "length": "2:28",
+            "deezer": {
+              "id": 1907097627,
+              "link": "https://www.deezer.com/track/1907097627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/8/0/4384f728dd7daa767fa12cd2862f81f5.mp3?hdnea=exp=1795724256~acl=/api/1/1/4/3/8/0/4384f728dd7daa767fa12cd2862f81f5.mp3*~data=user_id=0,application_id=42~hmac=6e3796c3dc4cfb9f5c716cfeeb6c39799b1fb9e38f95d6f7d643b01a494b0578",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Highway Run",
+            "length": "3:03",
+            "deezer": {
+              "id": 1907097637,
+              "link": "https://www.deezer.com/track/1907097637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/f/0/6cfa49a227dfc8a768c1df1570e304da.mp3?hdnea=exp=1795724256~acl=/api/1/1/6/c/f/0/6cfa49a227dfc8a768c1df1570e304da.mp3*~data=user_id=0,application_id=42~hmac=6529a15d4437779ee034d933d92a627c823bbc9b28ee8c832972806888570ac0",
+              "preview_expires": "2026-11-26T20:17:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Warren Zeiders/717 Tapes the Album.jpg"
+}

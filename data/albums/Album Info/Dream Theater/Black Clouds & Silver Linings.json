@@ -1,0 +1,120 @@
+{
+  "title": "Black Clouds & Silver Linings",
+  "artist": "Dream Theater",
+  "year": 2009,
+  "release_date": "2009-06-19",
+  "type": "Album",
+  "description": "Black Clouds & Silver Linings is the tenth studio album by American progressive metal band Dream Theater, released on June 23, 2009, through Roadrunner Records. It was the last album to feature drummer and founding member Mike Portnoy until Parasomnia (2025) following his return in 2023.",
+  "genres": [
+    "progressive metal",
+    "heavy metal"
+  ],
+  "tags": [
+    "progressive metal",
+    "hardnheavy",
+    "heavy metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ba5ef564-b2f8-3bb5-9d8f-57828cfa767c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Clouds_%26_Silver_Linings",
+    "allmusic": "https://www.allmusic.com/album/mw0000815044",
+    "discogs": "https://www.discogs.com/master/198882",
+    "wikidata": "https://www.wikidata.org/wiki/Q83343",
+    "deezer": "https://www.deezer.com/album/356668"
+  },
+  "musicbrainz_id": "ba5ef564-b2f8-3bb5-9d8f-57828cfa767c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f0042ee2-086e-45a0-8260-66760fab2056",
+      "barcode": "016861788308",
+      "title": "Black Clouds & Silver Linings",
+      "disambiguation": null,
+      "date": "2013-10-20",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "1:15:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "A Nightmare to Remember",
+            "length": "16:10",
+            "deezer": {
+              "id": 3826491,
+              "link": "https://www.deezer.com/track/3826491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/a/0/6fad6902848c2894a6d9e1e356a1aa34.mp3?hdnea=exp=1795653635~acl=/api/1/1/6/f/a/0/6fad6902848c2894a6d9e1e356a1aa34.mp3*~data=user_id=0,application_id=42~hmac=3e849c3bcffdd0217461d4174fcf6bd73e215e78b164255b8f2894fb4cb42aeb",
+              "preview_expires": "2026-11-26T00:40:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "A Rite of Passage",
+            "length": "8:36",
+            "deezer": {
+              "id": 3826492,
+              "link": "https://www.deezer.com/track/3826492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/6/0/c262d774a7188a34dbe1a7b32b9b7c6a.mp3?hdnea=exp=1795653635~acl=/api/1/1/c/2/6/0/c262d774a7188a34dbe1a7b32b9b7c6a.mp3*~data=user_id=0,application_id=42~hmac=f716e035338beb41b7a9a81f679424891de908620718c4a1160bc916e435eab7",
+              "preview_expires": "2026-11-26T00:40:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wither",
+            "length": "5:26",
+            "deezer": {
+              "id": 3826493,
+              "link": "https://www.deezer.com/track/3826493",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/d/0/8fd5f3a58ab794a77583c0bd4673bf18.mp3?hdnea=exp=1795653635~acl=/api/1/1/8/f/d/0/8fd5f3a58ab794a77583c0bd4673bf18.mp3*~data=user_id=0,application_id=42~hmac=ae50dac1eee9a314966f33e316e90e2c6d884c4256f7440dccb76d4e2b5b3b6e",
+              "preview_expires": "2026-11-26T00:40:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Shattered Fortress",
+            "length": "12:49",
+            "deezer": {
+              "id": 3826494,
+              "link": "https://www.deezer.com/track/3826494",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/6/0/9c638232f79ef0fc8aa4ca13bf13a18b.mp3?hdnea=exp=1795653635~acl=/api/1/1/9/c/6/0/9c638232f79ef0fc8aa4ca13bf13a18b.mp3*~data=user_id=0,application_id=42~hmac=5162e396f69f7099106612484c8e35b585b8c063d6f1710f6725a0b0d11c0061",
+              "preview_expires": "2026-11-26T00:40:35Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Best of Times",
+            "length": "13:09",
+            "deezer": {
+              "id": 3826495,
+              "link": "https://www.deezer.com/track/3826495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/1/0/ba19d7dd26e0cc248128850420ebcf2d.mp3?hdnea=exp=1795653635~acl=/api/1/1/b/a/1/0/ba19d7dd26e0cc248128850420ebcf2d.mp3*~data=user_id=0,application_id=42~hmac=48654ac960a45aae90797fa5af09932c47f98855484e06090ee9b5275f87417c",
+              "preview_expires": "2026-11-26T00:40:35Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Count of Tuscany",
+            "length": "19:17",
+            "deezer": {
+              "id": 3826496,
+              "link": "https://www.deezer.com/track/3826496",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/1/0/7014a6c3dcf6b6b73e68ad7f6d7efca0.mp3?hdnea=exp=1795653635~acl=/api/1/1/7/0/1/0/7014a6c3dcf6b6b73e68ad7f6d7efca0.mp3*~data=user_id=0,application_id=42~hmac=24a623f345e5dc6fe12228fd4612b46f6c043b3724b09d7f63a1eb4e68e14e33",
+              "preview_expires": "2026-11-26T00:40:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dream Theater/Black Clouds & Silver Linings.jpg"
+}

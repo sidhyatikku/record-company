@@ -1,0 +1,84 @@
+{
+  "title": "Paris City Jazz",
+  "artist": "Bellaire",
+  "year": 2018,
+  "release_date": "2018-01-18",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4b149722-ab21-4537-b103-6e5335e17189",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/606806382"
+  },
+  "musicbrainz_id": "4b149722-ab21-4537-b103-6e5335e17189",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8c984336-3ecd-4b67-9d7c-dc7e9393e556",
+      "barcode": "3614979208045",
+      "title": "Paris City Jazz",
+      "disambiguation": null,
+      "date": "2018-01-19",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "22:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Paris City Jazz",
+            "length": "5:43",
+            "deezer": {
+              "id": 2863852372,
+              "link": "https://www.deezer.com/track/2863852372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/1/0/2310d65ad04c11025d6ae26ede80d022.mp3?hdnea=exp=1795651925~acl=/api/1/1/2/3/1/0/2310d65ad04c11025d6ae26ede80d022.mp3*~data=user_id=0,application_id=42~hmac=0cc5526b1049c8f03810eee4f478c27091c48f00b5f393ff616103faad3da99e",
+              "preview_expires": "2026-11-26T00:12:05Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jazzy Things",
+            "length": "5:25",
+            "deezer": {
+              "id": 2863852382,
+              "link": "https://www.deezer.com/track/2863852382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/7/0/267aa5f35e260e5e063202ac88914d92.mp3?hdnea=exp=1795651925~acl=/api/1/1/2/6/7/0/267aa5f35e260e5e063202ac88914d92.mp3*~data=user_id=0,application_id=42~hmac=f1c1074deb2a928fc4780ab4bfd5d7567dd7417b2706239b048856c0fc5ad993",
+              "preview_expires": "2026-11-26T00:12:05Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Street Blues",
+            "length": "5:41",
+            "deezer": {
+              "id": 2863852392,
+              "link": "https://www.deezer.com/track/2863852392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/9/0/5696bbe9e47a9c4b3a43b04281124e89.mp3?hdnea=exp=1795651925~acl=/api/1/1/5/6/9/0/5696bbe9e47a9c4b3a43b04281124e89.mp3*~data=user_id=0,application_id=42~hmac=77fe13e2dfb3d160c62b20bc7b7ff756f23a4367432d0447c9785754494aab94",
+              "preview_expires": "2026-11-26T00:12:05Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Get Down",
+            "length": "6:09",
+            "deezer": {
+              "id": 2863852402,
+              "link": "https://www.deezer.com/track/2863852402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/1/0/63120de45d9df5fa0103a7966919fe7f.mp3?hdnea=exp=1795651925~acl=/api/1/1/6/3/1/0/63120de45d9df5fa0103a7966919fe7f.mp3*~data=user_id=0,application_id=42~hmac=a4e36fbfd8ff4ea131d4943a670faf5381c7cd99982329218e4f9f7747688373",
+              "preview_expires": "2026-11-26T00:12:05Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bellaire/Paris City Jazz.jpg"
+}

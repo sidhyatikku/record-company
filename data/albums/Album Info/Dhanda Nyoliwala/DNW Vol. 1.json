@@ -1,0 +1,84 @@
+{
+  "title": "DNW Vol. 1",
+  "artist": "Dhanda Nyoliwala",
+  "year": 2024,
+  "release_date": "2024-10-19",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3b2121fe-aeb5-41e2-a80f-731b9918b2c0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/658106201"
+  },
+  "musicbrainz_id": "3b2121fe-aeb5-41e2-a80f-731b9918b2c0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/53dcdca0-0687-4315-a592-d2e67bd5bbc1",
+      "barcode": "00602475421511",
+      "title": "DNW Vol. 1",
+      "disambiguation": null,
+      "date": "2024-10-19",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "12:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Knife Brows",
+            "length": "2:56",
+            "deezer": {
+              "id": 3049762761,
+              "link": "https://www.deezer.com/track/3049762761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/f/0/46f4df39b62407c6b62636cc854b19c1.mp3?hdnea=exp=1795653290~acl=/api/1/1/4/6/f/0/46f4df39b62407c6b62636cc854b19c1.mp3*~data=user_id=0,application_id=42~hmac=fa1f8de3c0d437a8b21f12812614feeba7374625f1a9b239772f84ec3e85c62f",
+              "preview_expires": "2026-11-26T00:34:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Taqdeer",
+            "length": "2:58",
+            "deezer": {
+              "id": 3049762771,
+              "link": "https://www.deezer.com/track/3049762771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/4/0/1441bc38220b0d751e4cc33e958311d7.mp3?hdnea=exp=1795653290~acl=/api/1/1/1/4/4/0/1441bc38220b0d751e4cc33e958311d7.mp3*~data=user_id=0,application_id=42~hmac=acef67c3909996e52fd1ddf47d630b29c70987d916910f50ed5c1191ef694e14",
+              "preview_expires": "2026-11-26T00:34:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Illegal",
+            "length": "2:53",
+            "deezer": {
+              "id": 3049762781,
+              "link": "https://www.deezer.com/track/3049762781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56afb8003766d186f60c6a76fbebeb4d.mp3?hdnea=exp=1795653290~acl=/api/1/1/5/6/a/0/56afb8003766d186f60c6a76fbebeb4d.mp3*~data=user_id=0,application_id=42~hmac=1d3695a5d052d4217998b7e3ca6385e584449b668b779308cf37266e61e0b4e4",
+              "preview_expires": "2026-11-26T00:34:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Relapse",
+            "length": "3:15",
+            "deezer": {
+              "id": 3049762791,
+              "link": "https://www.deezer.com/track/3049762791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/b/0/b6b1c3df96152f634b65a7c4e9ca2eb7.mp3?hdnea=exp=1795653290~acl=/api/1/1/b/6/b/0/b6b1c3df96152f634b65a7c4e9ca2eb7.mp3*~data=user_id=0,application_id=42~hmac=ef68941f9356cb0c5337ffae49550b4dfee3832f0e7d968b923bcbd355c23fee",
+              "preview_expires": "2026-11-26T00:34:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dhanda Nyoliwala/DNW Vol. 1.jpg"
+}

@@ -1,0 +1,172 @@
+{
+  "title": "Liquid Tension Experiment",
+  "artist": "Liquid Tension Experiment",
+  "year": 1998,
+  "release_date": "1998-03-10",
+  "type": "Album",
+  "description": "Liquid Tension Experiment is the self-titled first studio album by the band Liquid Tension Experiment, released on March 10, 1998, through Magna Carta Records. The band featured guitarist John Petrucci and drummer Mike Portnoy, at the time both of Dream Theater; bassist Tony Levin; and keyboardist Jordan Rudess, who would go on to join Dream Theater in 1999.",
+  "genres": [
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.6,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3f4e1639-eb13-30e5-9e70-3b0822804dda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liquid_Tension_Experiment_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000597826",
+    "discogs": "https://www.discogs.com/master/238502",
+    "wikidata": "https://www.wikidata.org/wiki/Q283602",
+    "deezer": "https://www.deezer.com/album/1003803"
+  },
+  "musicbrainz_id": "3f4e1639-eb13-30e5-9e70-3b0822804dda",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f6bec13d-79cd-4550-bfdd-34b9749b3942",
+      "barcode": "026245902329",
+      "title": "Liquid Tension Experiment",
+      "disambiguation": null,
+      "date": "",
+      "country": "XE"
+    },
+    "total_tracks": 13,
+    "total_length": "1:14:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Paradigm Shift",
+            "length": "8:55",
+            "deezer": {
+              "id": 10967896,
+              "link": "https://www.deezer.com/track/10967896",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/5/0/525f4d86b41eb5a3be7b24f9a4d34a4d.mp3?hdnea=exp=1795656562~acl=/api/1/1/5/2/5/0/525f4d86b41eb5a3be7b24f9a4d34a4d.mp3*~data=user_id=0,application_id=42~hmac=a1867ff5b8660857d4a76a8df4e93620ec77531e24db6ec2b58e22e865d6a11a",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Osmosis",
+            "length": "3:26",
+            "deezer": {
+              "id": 10967897,
+              "link": "https://www.deezer.com/track/10967897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/a/0/65a00a292f4b47602ac5c795f8e2d420.mp3?hdnea=exp=1795656562~acl=/api/1/1/6/5/a/0/65a00a292f4b47602ac5c795f8e2d420.mp3*~data=user_id=0,application_id=42~hmac=10a0007b9964b645864c769217c0acbe9acd4a04f36a01a09780415abd40a817",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Kindred Spirits",
+            "length": "6:30",
+            "deezer": {
+              "id": 10967898,
+              "link": "https://www.deezer.com/track/10967898",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/f/0/20f78c6e1799250607ff313f399164d1.mp3?hdnea=exp=1795656562~acl=/api/1/1/2/0/f/0/20f78c6e1799250607ff313f399164d1.mp3*~data=user_id=0,application_id=42~hmac=06bf8b1eaed9750b1af3a868e5383d98df9b94f8f5fbe0d4556b4827308eced6",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Stretch",
+            "length": "2:01",
+            "deezer": {
+              "id": 10967899,
+              "link": "https://www.deezer.com/track/10967899",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/6/0/2d6d649a8085f7fd7c1427a382cd1fe4.mp3?hdnea=exp=1795656562~acl=/api/1/1/2/d/6/0/2d6d649a8085f7fd7c1427a382cd1fe4.mp3*~data=user_id=0,application_id=42~hmac=7eb555f946832b218037e269e67fdadc8fc2562ede373618cf2c4725b59064cb",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Freedom of Speech",
+            "length": "9:19",
+            "deezer": {
+              "id": 10967900,
+              "link": "https://www.deezer.com/track/10967900",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/e/0/84ec8cac29f3bdbc34e2d51928914f3f.mp3?hdnea=exp=1795656562~acl=/api/1/1/8/4/e/0/84ec8cac29f3bdbc34e2d51928914f3f.mp3*~data=user_id=0,application_id=42~hmac=e6f8124b8b7264645419efb673bef67371361e1538cf8500e227e57ce565a5d9",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Chris and Kevin's Excellent Adventure",
+            "length": "2:22",
+            "deezer": {
+              "id": 10967901,
+              "link": "https://www.deezer.com/track/10967901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4c576aea816732f2b72e283c7cb9dee.mp3?hdnea=exp=1795656562~acl=/api/1/1/a/4/c/0/a4c576aea816732f2b72e283c7cb9dee.mp3*~data=user_id=0,application_id=42~hmac=703e2d7349f2fdb2509671bb888054fc98b0038683054c8bb3d29327be5e147e",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "State of Grace",
+            "length": "5:02",
+            "deezer": {
+              "id": 10967902,
+              "link": "https://www.deezer.com/track/10967902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/0/0/3c00d72d7b5ae379a248b5c213d50510.mp3?hdnea=exp=1795656562~acl=/api/1/1/3/c/0/0/3c00d72d7b5ae379a248b5c213d50510.mp3*~data=user_id=0,application_id=42~hmac=d9dd603b5025292b9b806192f702afee4a46db4e6063e8d70a6f7127849fafb1",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Universal Mind",
+            "length": "7:53",
+            "deezer": {
+              "id": 10967903,
+              "link": "https://www.deezer.com/track/10967903",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/7/0/477115775c98380380cbe62425d7dd8e.mp3?hdnea=exp=1795656562~acl=/api/1/1/4/7/7/0/477115775c98380380cbe62425d7dd8e.mp3*~data=user_id=0,application_id=42~hmac=7088a949dbd84612f7fcd5c116bd61b88433368ace69fe549155a2ce77ecd395",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Three Minute Warning, Part 1",
+            "length": "8:20",
+            "deezer": {
+              "id": 10967904,
+              "link": "https://www.deezer.com/track/10967904",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/6/0/056dd8c00c6ff731a6affec50dbe19d5.mp3?hdnea=exp=1795656562~acl=/api/1/1/0/5/6/0/056dd8c00c6ff731a6affec50dbe19d5.mp3*~data=user_id=0,application_id=42~hmac=0f3a273739d82ead575c65e32d8159b22da2ed43fc80323f09d9ed25cbef395c",
+              "preview_expires": "2026-11-26T01:29:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Three Minute Warning, Part 2",
+            "length": "4:03"
+          },
+          {
+            "number": "11",
+            "title": "Three Minute Warning, Part 3",
+            "length": "5:19"
+          },
+          {
+            "number": "12",
+            "title": "Three Minute Warning, Part 4",
+            "length": "4:21"
+          },
+          {
+            "number": "13",
+            "title": "Three Minute Warning, Part 5",
+            "length": "6:31"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Liquid Tension Experiment/Liquid Tension Experiment.jpg"
+}

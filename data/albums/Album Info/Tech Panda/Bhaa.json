@@ -1,0 +1,45 @@
+{
+  "title": "Bhaa",
+  "artist": "Tech Panda, Kenzani",
+  "year": 2021,
+  "release_date": "2021-01-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7nPbQGA8egewozSmJpgObq",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7nPbQGA8egewozSmJpgObq",
+      "title": "Bhaa",
+      "date": "2021-01-22"
+    },
+    "total_tracks": 1,
+    "total_length": "3:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bhaa",
+            "length": "3:22"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Bhaa.jpg"
+}

@@ -1,0 +1,243 @@
+{
+  "title": "Doolittle",
+  "artist": "Pixies",
+  "year": 1989,
+  "release_date": "1989-04-17",
+  "type": "Album",
+  "description": "Doolittle is the second studio album by the American alternative rock band Pixies, released on April 17, 1989, on 4AD. The album was an instant critical success and became the band's breakthrough album. Doolittle was especially well received in Europe, where the British music weeklies Melody Maker and Sounds named it their album of the year. Pixies' main songwriter and lead vocalist Black Francis wrote the idiosyncratic lyrics, which allude to surrealist imagery, biblical violence, and descriptions of torture and death.",
+  "genres": [
+    "alternative rock",
+    "indie rock",
+    "rock",
+    "surf rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "indie rock",
+    "rock",
+    "angular",
+    "anxious",
+    "chaotic",
+    "cryptic",
+    "eclectic",
+    "energetic",
+    "female vocalist",
+    "humorous",
+    "macabre",
+    "male vocalist",
+    "manic",
+    "melodic",
+    "noisy",
+    "passionate",
+    "playful",
+    "poetic",
+    "quirky",
+    "raw",
+    "rebellious",
+    "sarcastic",
+    "surf rock",
+    "surreal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 24
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1aa41b19-5a72-341b-bd91-4cf61d1dab6b",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doolittle_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000653196",
+    "discogs": "https://www.discogs.com/master/16764",
+    "wikidata": "https://www.wikidata.org/wiki/Q909006",
+    "deezer": "https://www.deezer.com/album/106387"
+  },
+  "musicbrainz_id": "1aa41b19-5a72-341b-bd91-4cf61d1dab6b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/67073980-9a62-4fef-b5c0-4b5bd9d2d9ed",
+      "barcode": "5014436905025",
+      "title": "Doolittle",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "38:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Debaser",
+            "length": "2:51",
+            "deezer": {
+              "id": 945378,
+              "link": "https://www.deezer.com/track/945378",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/7/0/d3707d7360348ed1a2e892b3c0954de8.mp3?hdnea=exp=1795719533~acl=/api/1/1/d/3/7/0/d3707d7360348ed1a2e892b3c0954de8.mp3*~data=user_id=0,application_id=42~hmac=0cd0757c8510e9344c808b610ceccdb4f8c5de38e1c34fc56721a40edd6c150a",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tame",
+            "length": "1:56",
+            "deezer": {
+              "id": 945380,
+              "link": "https://www.deezer.com/track/945380",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/662b30b9683df9e9942cdb5b3763dfd9.mp3?hdnea=exp=1795719533~acl=/api/1/1/6/6/2/0/662b30b9683df9e9942cdb5b3763dfd9.mp3*~data=user_id=0,application_id=42~hmac=0b74e6b5a145133f671d3b9a341962d53ad56d2f7b41b2c9e9ca10ea74a5fd8d",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wave of Mutilation",
+            "length": "2:03",
+            "deezer": {
+              "id": 945382,
+              "link": "https://www.deezer.com/track/945382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/f/0/fff60e7abb3463d4d8cb5c585ce6c29e.mp3?hdnea=exp=1795719533~acl=/api/1/1/f/f/f/0/fff60e7abb3463d4d8cb5c585ce6c29e.mp3*~data=user_id=0,application_id=42~hmac=51e24a278a7871036e700690933a0fa3b7d2beedaacab672b9f67234d39f97a2",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Bleed",
+            "length": "2:34",
+            "deezer": {
+              "id": 945385,
+              "link": "https://www.deezer.com/track/945385",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/0/0/7c0b1b99cd7bdba90ca6a71949247579.mp3?hdnea=exp=1795719533~acl=/api/1/1/7/c/0/0/7c0b1b99cd7bdba90ca6a71949247579.mp3*~data=user_id=0,application_id=42~hmac=1c7a836c9e0f58005020fa464a04cea98fc1badf764c68c15a7cd0850acb913e",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Here Comes Your Man",
+            "length": "3:21",
+            "deezer": {
+              "id": 945389,
+              "link": "https://www.deezer.com/track/945389",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/b/0/5bb672bbe039384bbd21ab6a4ba7a406.mp3?hdnea=exp=1795719533~acl=/api/1/1/5/b/b/0/5bb672bbe039384bbd21ab6a4ba7a406.mp3*~data=user_id=0,application_id=42~hmac=da68f60e6b13d0db032bd41dabeeb50fc0f57597b860d7826342b63be10f41d0",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dead",
+            "length": "2:21",
+            "deezer": {
+              "id": 945391,
+              "link": "https://www.deezer.com/track/945391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/0/0/ec075644d5f995f1be0156c52d9a9f40.mp3?hdnea=exp=1795719533~acl=/api/1/1/e/c/0/0/ec075644d5f995f1be0156c52d9a9f40.mp3*~data=user_id=0,application_id=42~hmac=e01519645ea17a93b65df72e64ff9ca48c6cdebfd8b282801526ec7b62457c9c",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Monkey Gone to Heaven",
+            "length": "2:55",
+            "deezer": {
+              "id": 945394,
+              "link": "https://www.deezer.com/track/945394",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/f/0/6cf9eff44dcf17fe8e5b5d6548b8e12f.mp3?hdnea=exp=1795719533~acl=/api/1/1/6/c/f/0/6cf9eff44dcf17fe8e5b5d6548b8e12f.mp3*~data=user_id=0,application_id=42~hmac=f2dd1873ebc7ab6825dd5cd0142101ea84cd82d7b034ffeacb5bd67258d19f71",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Mr. Grieves",
+            "length": "2:05",
+            "deezer": {
+              "id": 945396,
+              "link": "https://www.deezer.com/track/945396",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/9/0/c89df8c67156127204cb9905e05adb3f.mp3?hdnea=exp=1795719533~acl=/api/1/1/c/8/9/0/c89df8c67156127204cb9905e05adb3f.mp3*~data=user_id=0,application_id=42~hmac=486ca3fb308a356ee3a13e362cadd4c31ea7593a8e2ec8869762bb022a91dac7",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Crackity Jones",
+            "length": "1:24",
+            "deezer": {
+              "id": 945399,
+              "link": "https://www.deezer.com/track/945399",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/3/0/1b352c4bc557a53cd1fe4eaecc6885ef.mp3?hdnea=exp=1795719533~acl=/api/1/1/1/b/3/0/1b352c4bc557a53cd1fe4eaecc6885ef.mp3*~data=user_id=0,application_id=42~hmac=56dce4cd258e87290443d70a97c6cb631be0199866e27218b33df5b9719757f1",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "La La Love You",
+            "length": "2:43",
+            "deezer": {
+              "id": 945402,
+              "link": "https://www.deezer.com/track/945402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/e/0/81e2d63100406b070f2e600a798849e1.mp3?hdnea=exp=1795719533~acl=/api/1/1/8/1/e/0/81e2d63100406b070f2e600a798849e1.mp3*~data=user_id=0,application_id=42~hmac=c01e24a59a126fabc9516c3c572e0ad7cd9bccdf594b3abedf29c98b0768482b",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "No. 13 Baby",
+            "length": "3:51",
+            "deezer": {
+              "id": 945404,
+              "link": "https://www.deezer.com/track/945404",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/a/0/a3a6b91cf2ed38a88eddcf0581f56655.mp3?hdnea=exp=1795719533~acl=/api/1/1/a/3/a/0/a3a6b91cf2ed38a88eddcf0581f56655.mp3*~data=user_id=0,application_id=42~hmac=ce0b203358709dbf78a1d98e76792c3bad631634fc5dbf1aafc20d77d32bcc10",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "There Goes My Gun",
+            "length": "1:49",
+            "deezer": {
+              "id": 945407,
+              "link": "https://www.deezer.com/track/945407",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/3/0/423af7ca1ebf289ead21efc3ea48c6e0.mp3?hdnea=exp=1795719533~acl=/api/1/1/4/2/3/0/423af7ca1ebf289ead21efc3ea48c6e0.mp3*~data=user_id=0,application_id=42~hmac=28f0227937a2532abd3f5c79e7e7fc078fed6c83180850036587a73ccf4f24c1",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Hey",
+            "length": "3:30",
+            "deezer": {
+              "id": 945411,
+              "link": "https://www.deezer.com/track/945411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/5/0/b3587150972d14825edce6d1d0a4c7b9.mp3?hdnea=exp=1795719533~acl=/api/1/1/b/3/5/0/b3587150972d14825edce6d1d0a4c7b9.mp3*~data=user_id=0,application_id=42~hmac=15b1d570b1d263789f500fd8845f721276389bd8b4dd6d72550db85bb21b3107",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Silver",
+            "length": "2:25",
+            "deezer": {
+              "id": 945414,
+              "link": "https://www.deezer.com/track/945414",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/1/0/a51b42e6add69233fce7f422635cee4c.mp3?hdnea=exp=1795719533~acl=/api/1/1/a/5/1/0/a51b42e6add69233fce7f422635cee4c.mp3*~data=user_id=0,application_id=42~hmac=184a72270717fa52b8512acb68c08459a7850bcf031336dc3be9fd919a85f280",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Gouge Away",
+            "length": "2:42",
+            "deezer": {
+              "id": 945417,
+              "link": "https://www.deezer.com/track/945417",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/2/0/21259ab52204582cbe9f966cddcdb694.mp3?hdnea=exp=1795719533~acl=/api/1/1/2/1/2/0/21259ab52204582cbe9f966cddcdb694.mp3*~data=user_id=0,application_id=42~hmac=1bb083b6ca06fdd602520d0f1e730a0c8b75e42d380402dfde726d60c0953884",
+              "preview_expires": "2026-11-26T18:58:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Pixies/Doolittle.png"
+}

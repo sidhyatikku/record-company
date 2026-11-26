@@ -1,0 +1,136 @@
+{
+  "title": "Unforgettable Classics",
+  "artist": "Patsy Cline",
+  "year": 1993,
+  "release_date": "1993",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f3e43765-fd44-31f8-9ab8-d2d45bb6b404",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1043679",
+    "deezer": null
+  },
+  "musicbrainz_id": "f3e43765-fd44-31f8-9ab8-d2d45bb6b404",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/44c8c10a-122c-4159-9448-2b36883ad0b8",
+      "barcode": "5026389517323",
+      "title": "Unforgettable Classics",
+      "disambiguation": null,
+      "date": "1993",
+      "country": "XE"
+    },
+    "total_tracks": 19,
+    "total_length": "46:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Walkin’ After Midnight",
+            "length": "2:35"
+          },
+          {
+            "number": "2",
+            "title": "A Church, a Courtroom and Then Goodbye",
+            "length": "3:02"
+          },
+          {
+            "number": "3",
+            "title": "Lovesick Blues",
+            "length": "2:18"
+          },
+          {
+            "number": "4",
+            "title": "Honky Tonk Merry Go Round",
+            "length": "2:21"
+          },
+          {
+            "number": "5",
+            "title": "Three Cigarettes in an Ashtray",
+            "length": "2:16"
+          },
+          {
+            "number": "6",
+            "title": "Lonely Street",
+            "length": "2:30"
+          },
+          {
+            "number": "7",
+            "title": "Turn the Cards Slowly",
+            "length": "2:11"
+          },
+          {
+            "number": "8",
+            "title": "Walkin’ Dream",
+            "length": "2:17"
+          },
+          {
+            "number": "9",
+            "title": "The Heart You Break May Be Your Own",
+            "length": "2:31"
+          },
+          {
+            "number": "10",
+            "title": "If I Could Only Stay Asleep",
+            "length": "2:37"
+          },
+          {
+            "number": "11",
+            "title": "Cry Not for Me",
+            "length": "2:31"
+          },
+          {
+            "number": "12",
+            "title": "In Care of the Blues",
+            "length": "2:35"
+          },
+          {
+            "number": "13",
+            "title": "Don’t Ever Leave Me Again",
+            "length": "2:28"
+          },
+          {
+            "number": "14",
+            "title": "A Stranger in My Arms",
+            "length": "2:28"
+          },
+          {
+            "number": "15",
+            "title": "I Cried All the Way to the Alter",
+            "length": "2:25"
+          },
+          {
+            "number": "16",
+            "title": "Too Many Secrets",
+            "length": "2:17"
+          },
+          {
+            "number": "17",
+            "title": "Today, Tomorrow and Forever",
+            "length": "2:38"
+          },
+          {
+            "number": "18",
+            "title": "Pick Me Up on Your Way Down",
+            "length": "2:17"
+          },
+          {
+            "number": "19",
+            "title": "That Wonderful Someone",
+            "length": "2:28"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Patsy Cline/Classics.png"
+}

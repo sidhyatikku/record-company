@@ -1,0 +1,150 @@
+{
+  "title": "Chalakiyan",
+  "artist": "Lehmber Hussainpuri",
+  "year": 2006,
+  "release_date": "2006-10",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d455b888-ae6d-3f77-a78c-7ab8b69809fb",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/885144672"
+  },
+  "musicbrainz_id": "d455b888-ae6d-3f77-a78c-7ab8b69809fb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/07c374a6-9e50-3f1c-baa4-604c8f4f7b4f",
+      "barcode": null,
+      "title": "Chalakiyan",
+      "disambiguation": null,
+      "date": "2006-10",
+      "country": "GB"
+    },
+    "total_tracks": 10,
+    "total_length": "52:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": null,
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Chalakiyan",
+            "length": "4:36",
+            "deezer": {
+              "id": 3740340362,
+              "link": "https://www.deezer.com/track/3740340362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/4/0/a24f114dc54ee5c03a32087e49b8d862.mp3?hdnea=exp=1795656459~acl=/api/1/1/a/2/4/0/a24f114dc54ee5c03a32087e49b8d862.mp3*~data=user_id=0,application_id=42~hmac=364aade0fbbd96f541576ed5829f8133689f59a5105f2fb6ed47a09f81262f69",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Holi Nach",
+            "length": "4:06",
+            "deezer": {
+              "id": 3740340372,
+              "link": "https://www.deezer.com/track/3740340372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/2/0/b1280210e784035e27df9ea46a211447.mp3?hdnea=exp=1795656459~acl=/api/1/1/b/1/2/0/b1280210e784035e27df9ea46a211447.mp3*~data=user_id=0,application_id=42~hmac=d65444b8fb715d34e479fbae97b6095731d474867507781b2ccdfff10c8e99f1",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bishni",
+            "length": "4:17",
+            "deezer": {
+              "id": 3740340382,
+              "link": "https://www.deezer.com/track/3740340382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/7/0/0b7decb69ec4b6a0ae5d31033fee9617.mp3?hdnea=exp=1795656459~acl=/api/1/1/0/b/7/0/0b7decb69ec4b6a0ae5d31033fee9617.mp3*~data=user_id=0,application_id=42~hmac=8ba0b445efa150adde3ea94141aece76a07153af06757304c39385514947f700",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Manke",
+            "length": "4:44",
+            "deezer": {
+              "id": 3740340392,
+              "link": "https://www.deezer.com/track/3740340392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/b/0/10bbc6698bcd450d756a21b0e2dc8863.mp3?hdnea=exp=1795656459~acl=/api/1/1/1/0/b/0/10bbc6698bcd450d756a21b0e2dc8863.mp3*~data=user_id=0,application_id=42~hmac=207487829e899eac1dd11a957fb647c612ab3876b1677b2aec42f9a1235cdbbf",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Do Kuriyan",
+            "length": "5:36",
+            "deezer": {
+              "id": 3740340402,
+              "link": "https://www.deezer.com/track/3740340402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/5/0/c45d67cf4046eddffd967c8551a1345f.mp3?hdnea=exp=1795656459~acl=/api/1/1/c/4/5/0/c45d67cf4046eddffd967c8551a1345f.mp3*~data=user_id=0,application_id=42~hmac=3fb3313d7eb72b7f483822fcfb4c1713cf37ba329733aa446e05dcf3a28e6a00",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Maa",
+            "length": "5:54",
+            "deezer": {
+              "id": 3740340412,
+              "link": "https://www.deezer.com/track/3740340412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/0/0/920ea207f30efa5d79b6b7c0d914df37.mp3?hdnea=exp=1795656459~acl=/api/1/1/9/2/0/0/920ea207f30efa5d79b6b7c0d914df37.mp3*~data=user_id=0,application_id=42~hmac=5017e39e5fa80ecb2acdfd9f4d5b72b24b7d6fbe3ce860c75f6c1adde4017091",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Duet (feat. Sharonjeet Cheem)",
+            "length": "6:42",
+            "deezer": {
+              "id": 3740340422,
+              "link": "https://www.deezer.com/track/3740340422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/8/0/c2813bd3a5562c6b8df62fc3c7d38c24.mp3?hdnea=exp=1795656459~acl=/api/1/1/c/2/8/0/c2813bd3a5562c6b8df62fc3c7d38c24.mp3*~data=user_id=0,application_id=42~hmac=e1dbfe89f744b83c8b92217e8c6ea1af87d03f2d89713befc6b21ce19628ced4",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dill Varta",
+            "length": "4:24",
+            "deezer": {
+              "id": 3740340432,
+              "link": "https://www.deezer.com/track/3740340432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/3/0/e035e10e695b80135143074c35d39a18.mp3?hdnea=exp=1795656459~acl=/api/1/1/e/0/3/0/e035e10e695b80135143074c35d39a18.mp3*~data=user_id=0,application_id=42~hmac=a7c849215160ea57d757c90ede7fa947d59ba1975cf45e67324c0b44d8af9ff3",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Chori Chori",
+            "length": "6:31",
+            "deezer": {
+              "id": 3740340442,
+              "link": "https://www.deezer.com/track/3740340442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/3/0/903b94f90bdb93090c12cb16b0a9bc3d.mp3?hdnea=exp=1795656459~acl=/api/1/1/9/0/3/0/903b94f90bdb93090c12cb16b0a9bc3d.mp3*~data=user_id=0,application_id=42~hmac=26e4e4f76562881d5d75c58f319782366e97918bfdcf3d6f407381c5f852ac44",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Boliyan",
+            "length": "5:13",
+            "deezer": {
+              "id": 3740340452,
+              "link": "https://www.deezer.com/track/3740340452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/e/0/03e7fa11b6057704a47d040a69da8062.mp3?hdnea=exp=1795656459~acl=/api/1/1/0/3/e/0/03e7fa11b6057704a47d040a69da8062.mp3*~data=user_id=0,application_id=42~hmac=da5f07729c728e00c89cf41c6cbd03a8d88de888d431ea98459e6a70f35243ed",
+              "preview_expires": "2026-11-26T01:27:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lehmber Hussainpuri/Chalakiyan.jpg"
+}

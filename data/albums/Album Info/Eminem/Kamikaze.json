@@ -1,0 +1,206 @@
+{
+  "title": "Kamikaze",
+  "artist": "Eminem",
+  "year": 2018,
+  "release_date": "2018-08-31",
+  "type": "Album",
+  "description": "Kamikaze is the tenth studio album by the American rapper Eminem, released on August 31, 2018, by Shady Records, Goliath Artists, Aftermath Entertainment, and Interscope Records. The album, executive produced by Eminem and Dr. Dre, was released with no prior announcement just eight months after his previous album, Revival, in retaliation to the backlash it received. It features guest appearances from Joyner Lucas, Royce da 5'9\", and Jessie Reyez. Production on the album was handled by Eminem, Luis Resto, Boi-1da, Tay Keith, Ronny J, Mike Will Made It, amongst others.",
+  "genres": [
+    "hip hop",
+    "pop rap",
+    "hardcore hip hop",
+    "trap"
+  ],
+  "tags": [
+    "hip hop",
+    "pop rap",
+    "angry",
+    "hardcore hip hop",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 3.7,
+    "votes": 21
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/802d62ee-65c3-4666-8f47-44844321a6a0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamikaze_(Eminem_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003206796",
+    "discogs": "https://www.discogs.com/master/1416558",
+    "wikidata": "https://www.wikidata.org/wiki/Q56394963",
+    "deezer": "https://www.deezer.com/album/72000342"
+  },
+  "musicbrainz_id": "802d62ee-65c3-4666-8f47-44844321a6a0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f783aaeb-a2b6-4fb8-a170-a3e0df2c58f4",
+      "barcode": "00602577045882",
+      "title": "Kamikaze",
+      "disambiguation": "explicit",
+      "date": "2018-08-31",
+      "country": "US"
+    },
+    "total_tracks": 13,
+    "total_length": "45:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Ringer",
+            "length": "5:38",
+            "deezer": {
+              "id": 548348612,
+              "link": "https://www.deezer.com/track/548348612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/5/0/10520a0881c09eef6e3933d1cb6c36ba.mp3?hdnea=exp=1795653877~acl=/api/1/1/1/0/5/0/10520a0881c09eef6e3933d1cb6c36ba.mp3*~data=user_id=0,application_id=42~hmac=1d6b88a81b8c0ec74b9e8d199843aadaf6d359e98f7eb29e26f56ae3341686ed",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Greatest",
+            "length": "3:47",
+            "deezer": {
+              "id": 548348622,
+              "link": "https://www.deezer.com/track/548348622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/c/0/dfc788ecdb53a127b77e722149ccfa9b.mp3?hdnea=exp=1795653877~acl=/api/1/1/d/f/c/0/dfc788ecdb53a127b77e722149ccfa9b.mp3*~data=user_id=0,application_id=42~hmac=77243349249f155cddedefc067050df912f13eb7f460cde332851377eea8b6b0",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lucky You",
+            "length": "4:05",
+            "artist": "Eminem feat. Joyner Lucas",
+            "deezer": {
+              "id": 548348632,
+              "link": "https://www.deezer.com/track/548348632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/f/0/bdf5f7e8b3c927f9ce13bcaa7ac797e1.mp3?hdnea=exp=1795653877~acl=/api/1/1/b/d/f/0/bdf5f7e8b3c927f9ce13bcaa7ac797e1.mp3*~data=user_id=0,application_id=42~hmac=e1fff8af34099d21526eab92043c81d318a4716e769a2642f3f9084bf95088a0",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Paul (skit)",
+            "length": "0:35",
+            "artist": "Paul Rosenberg",
+            "deezer": {
+              "id": 548348642,
+              "link": "https://www.deezer.com/track/548348642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/1/0/471c436f70a5dc68a0b5637157cb2a1d.mp3?hdnea=exp=1795653877~acl=/api/1/1/4/7/1/0/471c436f70a5dc68a0b5637157cb2a1d.mp3*~data=user_id=0,application_id=42~hmac=ed79a2622e5db107787cedd4fa63f551c769a8f29a6878088161a6104bf226ba",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Normal",
+            "length": "3:42",
+            "deezer": {
+              "id": 548348652,
+              "link": "https://www.deezer.com/track/548348652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/3/0/3a3ccee5643edaaae8967d721537d933.mp3?hdnea=exp=1795653877~acl=/api/1/1/3/a/3/0/3a3ccee5643edaaae8967d721537d933.mp3*~data=user_id=0,application_id=42~hmac=60b836f819131838e685b2e15dc6a02c9c9bbb824560ff02491b57a93bce6082",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Em Calls Paul (skit)",
+            "length": "0:49",
+            "deezer": {
+              "id": 548348662,
+              "link": "https://www.deezer.com/track/548348662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/4/0/bc4ecf573ed9929e5702018a21634809.mp3?hdnea=exp=1795653877~acl=/api/1/1/b/c/4/0/bc4ecf573ed9929e5702018a21634809.mp3*~data=user_id=0,application_id=42~hmac=85989fcf60d35ccda531a182aaeb7ca901065fbe8b4ff1353e7d7e62de3c51ca",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Stepping Stone",
+            "length": "5:10",
+            "deezer": {
+              "id": 548348672,
+              "link": "https://www.deezer.com/track/548348672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/c/0/eec80a1df4d3ccf47107d9d998ef81d9.mp3?hdnea=exp=1795653877~acl=/api/1/1/e/e/c/0/eec80a1df4d3ccf47107d9d998ef81d9.mp3*~data=user_id=0,application_id=42~hmac=1d169fc139b6b46fc324e3f0fd89cb1d9a49844138b955714a536974ec6bfaaa",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Not Alike",
+            "length": "4:48",
+            "artist": "Eminem feat. Royce da 5′9″",
+            "deezer": {
+              "id": 548348682,
+              "link": "https://www.deezer.com/track/548348682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/3/0/1f3486e2fc0d1b839b7a3948a1b1326c.mp3?hdnea=exp=1795653877~acl=/api/1/1/1/f/3/0/1f3486e2fc0d1b839b7a3948a1b1326c.mp3*~data=user_id=0,application_id=42~hmac=7a938325ffb024823162931c8bce1de375f6ae8f19a3badfdb19c428738d1b92",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Kamikaze",
+            "length": "3:36",
+            "deezer": {
+              "id": 548348692,
+              "link": "https://www.deezer.com/track/548348692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/b/0/afbf55934f618853d012dc1d667e55ae.mp3?hdnea=exp=1795653877~acl=/api/1/1/a/f/b/0/afbf55934f618853d012dc1d667e55ae.mp3*~data=user_id=0,application_id=42~hmac=ea0b5cedf273f127157803fa640c2f90b840d7ef6f01b5a61df23a590e157033",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Fall",
+            "length": "4:22",
+            "deezer": {
+              "id": 548348702,
+              "link": "https://www.deezer.com/track/548348702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/3/0/ce30c961d0f897f56b15f7d68ebeaa8c.mp3?hdnea=exp=1795653877~acl=/api/1/1/c/e/3/0/ce30c961d0f897f56b15f7d68ebeaa8c.mp3*~data=user_id=0,application_id=42~hmac=aefcc7bbbdfa1ce1c846e0192aef0e54ed554cc34b24b3f90543b2f5657d6928",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Nice Guy",
+            "length": "2:31",
+            "artist": "Eminem feat. Jessie Reyez",
+            "deezer": {
+              "id": 548348712,
+              "link": "https://www.deezer.com/track/548348712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/3/0/983c61d9ba85140eea0d7b36f7227236.mp3?hdnea=exp=1795653877~acl=/api/1/1/9/8/3/0/983c61d9ba85140eea0d7b36f7227236.mp3*~data=user_id=0,application_id=42~hmac=ed78d7958cee0a5bc04907ed96929c7cb77a88ee193b90dd6e008ffc78739433",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Good Guy",
+            "length": "2:22",
+            "artist": "Eminem feat. Jessie Reyez",
+            "deezer": {
+              "id": 548348722,
+              "link": "https://www.deezer.com/track/548348722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/d/0/e1df60b68c7ab56e505efec7f86c1ae7.mp3?hdnea=exp=1795653877~acl=/api/1/1/e/1/d/0/e1df60b68c7ab56e505efec7f86c1ae7.mp3*~data=user_id=0,application_id=42~hmac=5d0b0cdfd296502917b776b7e07495b216e5a6a56eed1fc6cd6d06f77950846e",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Venom",
+            "length": "4:29",
+            "deezer": {
+              "id": 548348732,
+              "link": "https://www.deezer.com/track/548348732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/8/0/6b88f58650d82d0d4c445985283691c2.mp3?hdnea=exp=1795653877~acl=/api/1/1/6/b/8/0/6b88f58650d82d0d4c445985283691c2.mp3*~data=user_id=0,application_id=42~hmac=d1b4436809dd14900a9fc773124eed35ab90ccd80a99de84e06fc74ea1247f5c",
+              "preview_expires": "2026-11-26T00:44:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eminem/Kamikaze.jpg"
+}

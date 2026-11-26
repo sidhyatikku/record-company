@@ -1,0 +1,100 @@
+{
+  "title": "Fallout 4 (Original Game Soundtrack)",
+  "artist": "Lynda Carter",
+  "year": 2015,
+  "release_date": "2015-11-06",
+  "type": "EP + Soundtrack",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8adf2b4f-1e00-485b-bce4-b42b8ada5442",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/941571041"
+  },
+  "musicbrainz_id": "8adf2b4f-1e00-485b-bce4-b42b8ada5442",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4240cc3d-b729-4382-b60b-5d4410135404",
+      "barcode": "093155171039",
+      "title": "Fallout 4 (Original Game Soundtrack)",
+      "disambiguation": null,
+      "date": "2015-11-06",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "15:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I’m the One You’re Looking For",
+            "length": "3:25",
+            "artist": "Lynda Carter, John Jarvis & Kerry Marx",
+            "deezer": {
+              "id": 3905548451,
+              "link": "https://www.deezer.com/track/3905548451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/c/0/08cb5eb8c6a4d37243e4bf33e531a43e.mp3?hdnea=exp=1795718111~acl=/api/1/1/0/8/c/0/08cb5eb8c6a4d37243e4bf33e531a43e.mp3*~data=user_id=0,application_id=42~hmac=ccbd31c660467287d47a9c0c056342e589fe2314ea4b217c90f04514c6fbfe9f",
+              "preview_expires": "2026-11-26T18:35:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Baby It’s Just You",
+            "length": "2:33",
+            "artist": "Lynda Carter, John Jarvis & Kerry Marx",
+            "deezer": {
+              "id": 3905548461,
+              "link": "https://www.deezer.com/track/3905548461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/8/0/bd89a83e5e5a4f2738f116a5a9505822.mp3?hdnea=exp=1795718111~acl=/api/1/1/b/d/8/0/bd89a83e5e5a4f2738f116a5a9505822.mp3*~data=user_id=0,application_id=42~hmac=98dfd1275fb2533a8fa9ec2876f2885697bbd455fb40ebc85250d0043de746ac",
+              "preview_expires": "2026-11-26T18:35:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Good Neighbor",
+            "length": "3:35",
+            "artist": "Lynda Carter, John Jarvis & Kerry Marx",
+            "deezer": {
+              "id": 3905548471,
+              "link": "https://www.deezer.com/track/3905548471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/c/0/23ca87f37ae9e50934ea314ac170ecf3.mp3?hdnea=exp=1795718111~acl=/api/1/1/2/3/c/0/23ca87f37ae9e50934ea314ac170ecf3.mp3*~data=user_id=0,application_id=42~hmac=d2644f55e7b8d9939337d5622cc828f6de3ccd1f5168182dcc79b1374ba65bd4",
+              "preview_expires": "2026-11-26T18:35:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Man Enough",
+            "length": "3:23",
+            "artist": "Lynda Carter, John Jarvis & Kerry Marx",
+            "deezer": {
+              "id": 3905548481,
+              "link": "https://www.deezer.com/track/3905548481",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/5/0/6551990b80a93e7574184ffd9132329f.mp3?hdnea=exp=1795718111~acl=/api/1/1/6/5/5/0/6551990b80a93e7574184ffd9132329f.mp3*~data=user_id=0,application_id=42~hmac=a7722f97c631e36b005029c579ebbf69f5f1d23da41b8b660ddd5a3a90cf66a1",
+              "preview_expires": "2026-11-26T18:35:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Train Train",
+            "length": "2:14",
+            "artist": "Lynda Carter, John Jarvis & Kerry Marx",
+            "deezer": {
+              "id": 3905548491,
+              "link": "https://www.deezer.com/track/3905548491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/f/0/5afb7683a1afd4d4c48ffbb1ddd085c0.mp3?hdnea=exp=1795718111~acl=/api/1/1/5/a/f/0/5afb7683a1afd4d4c48ffbb1ddd085c0.mp3*~data=user_id=0,application_id=42~hmac=1618a88ba9b10eb7d31bf73e152a2e94719291a3ba0553edbdd5602f34ea106e",
+              "preview_expires": "2026-11-26T18:35:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lynda Carter/Fallout 4 (Original Game Soundtrack).jpg"
+}

@@ -1,0 +1,181 @@
+{
+  "title": "Tera Mera Pyar",
+  "artist": "Partners in Rhyme",
+  "year": 2004,
+  "release_date": "2004-06-17",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "indian pop"
+  ],
+  "tags": [
+    "indian pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/524668d0-f03e-33b9-ab82-7de813eb7452",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001483175",
+    "deezer": "https://www.deezer.com/album/1376566"
+  },
+  "musicbrainz_id": "524668d0-f03e-33b9-ab82-7de813eb7452",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d0031bd0-1e0e-4244-991d-d0fc3e1a3650",
+      "barcode": "888880945280",
+      "title": "Tera Mera Pyar",
+      "disambiguation": null,
+      "date": "2004-06-18",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "1:01:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tera Mera Pyar",
+            "length": "6:13",
+            "artist": "Kumar Sanu",
+            "deezer": {
+              "id": 14926770,
+              "link": "https://www.deezer.com/track/14926770",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/e/0/e3e757c593cd3ec00a821f10af04b3b5.mp3?hdnea=exp=1795719667~acl=/api/1/1/e/3/e/0/e3e757c593cd3ec00a821f10af04b3b5.mp3*~data=user_id=0,application_id=42~hmac=77df39bc9ba078aedd0d39bc44c467472318ed3c055e0df7a99c02a23cdac56e",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Yeh Kya Hua",
+            "length": "5:04",
+            "artist": "Shreya Ghoshal",
+            "deezer": {
+              "id": 14926774,
+              "link": "https://www.deezer.com/track/14926774",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/2/0/7a2dfff673361a30cae01258b18f830a.mp3?hdnea=exp=1795719667~acl=/api/1/1/7/a/2/0/7a2dfff673361a30cae01258b18f830a.mp3*~data=user_id=0,application_id=42~hmac=05d44dd06e2501cd4ca118910bb6702a79e5127a2f1b77653c0b940c881d220a",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Teri Meri Dori",
+            "length": "4:46",
+            "artist": "Sonali Vajpayee & Cheshire Cat",
+            "deezer": {
+              "id": 14926773,
+              "link": "https://www.deezer.com/track/14926773",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/6/0/e26ddd4f77bcf015d15c66eb3b954ab9.mp3?hdnea=exp=1795719667~acl=/api/1/1/e/2/6/0/e26ddd4f77bcf015d15c66eb3b954ab9.mp3*~data=user_id=0,application_id=42~hmac=a488df71df066e5bcafb5f9a63413de2b055bd7a333d014afc58e243a2eea516",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Chup Chup",
+            "length": "6:00",
+            "artist": "Babul Supriyo & Sonali Vajpayee",
+            "deezer": {
+              "id": 14926775,
+              "link": "https://www.deezer.com/track/14926775",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dc2aacc871a4612f925b37c94fc79c7.mp3?hdnea=exp=1795719667~acl=/api/1/1/0/d/c/0/0dc2aacc871a4612f925b37c94fc79c7.mp3*~data=user_id=0,application_id=42~hmac=3b8a124de5b0b98fef760913e63e5869c2f062fb6b5c5cffb317f5926e550cbf",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Ankhon Se Tu Door",
+            "length": "6:15",
+            "artist": "Alka Yagnik",
+            "deezer": {
+              "id": 14926768,
+              "link": "https://www.deezer.com/track/14926768",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/e/0/8ee7fcb5ab3ae48950f7f2805ed7261f.mp3?hdnea=exp=1795719667~acl=/api/1/1/8/e/e/0/8ee7fcb5ab3ae48950f7f2805ed7261f.mp3*~data=user_id=0,application_id=42~hmac=b89adbdeb513879161c2434279c78e688cc71cc21713bf927a0b632f1699cb17",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Kurti Da Tich",
+            "length": "5:34",
+            "artist": "Udit Narayan & Aparna",
+            "deezer": {
+              "id": 14926769,
+              "link": "https://www.deezer.com/track/14926769",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "Pyar Ki Baatein",
+            "length": "6:05",
+            "artist": "Shreya Ghoshal",
+            "deezer": {
+              "id": 14926771,
+              "link": "https://www.deezer.com/track/14926771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/3/0/473ff464001bc441ede4aa05b83fbbdb.mp3?hdnea=exp=1795719667~acl=/api/1/1/4/7/3/0/473ff464001bc441ede4aa05b83fbbdb.mp3*~data=user_id=0,application_id=42~hmac=d8c5a7d4f2c9ffc8e35f07cdcfe91398d08f395d2bdda28f6cbe97833cf03e0f",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dil Mere",
+            "length": "6:51",
+            "artist": "Shreya Ghoshal & Surjo Bhattacharya",
+            "deezer": {
+              "id": 14926776,
+              "link": "https://www.deezer.com/track/14926776",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/6/0/d060bfe33d3c1757b6d3ced540a2207f.mp3?hdnea=exp=1795719667~acl=/api/1/1/d/0/6/0/d060bfe33d3c1757b6d3ced540a2207f.mp3*~data=user_id=0,application_id=42~hmac=3d0139a494db8e3ddd14f6f57a77759a456ae6cd21fde74d9f6633429871b0ae",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Dhak Dhak",
+            "length": "4:01",
+            "artist": "Sunidhi Chauhan",
+            "deezer": {
+              "id": 14926772,
+              "link": "https://www.deezer.com/track/14926772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/b/0/78b8900fadc18ddd3402f85814aaf1ef.mp3?hdnea=exp=1795719667~acl=/api/1/1/7/8/b/0/78b8900fadc18ddd3402f85814aaf1ef.mp3*~data=user_id=0,application_id=42~hmac=0ee5fb250377e44b5e8a341570c23fb40d23f041309f799ec28c23117da3072f",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Mujhe Seene",
+            "length": "5:22",
+            "artist": "Shreya Ghoshal, Precha & Spike",
+            "deezer": {
+              "id": 14926777,
+              "link": "https://www.deezer.com/track/14926777",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/f/0/2efff9ae5f999d666de2e018cba99596.mp3?hdnea=exp=1795719667~acl=/api/1/1/2/e/f/0/2efff9ae5f999d666de2e018cba99596.mp3*~data=user_id=0,application_id=42~hmac=b5895d8533012e204cac538282eff50276d262dabfe94a800a87dc5149ffafd8",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Tum Ne Kuch",
+            "length": "5:34",
+            "artist": "Babul Supriyo & Sonali Vajpayee",
+            "deezer": {
+              "id": 14926778,
+              "link": "https://www.deezer.com/track/14926778",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/6/0/696640b011ff64ec4103e04173b26e85.mp3?hdnea=exp=1795719667~acl=/api/1/1/6/9/6/0/696640b011ff64ec4103e04173b26e85.mp3*~data=user_id=0,application_id=42~hmac=62bd86af766875ba62c37b46983a00727e6832e519416c977b0ab32335d461e8",
+              "preview_expires": "2026-11-26T19:01:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Prem & Hardeep/Tera Mera Pyar.jpg"
+}

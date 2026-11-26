@@ -1,0 +1,223 @@
+{
+  "title": "American Teen",
+  "artist": "Khalid",
+  "year": 2017,
+  "release_date": "2017-03-03",
+  "type": "Album",
+  "description": "American Teen is the debut studio album by American singer Khalid. It was released on March 3, 2017, by Right Hand Music Group and RCA Records. The album was supported by the Billboard Hot 100 top 20 singles \"Location\" and \"Young Dumb & Broke\"; as well as the third single \"Saved\".",
+  "genres": [
+    "hip hop",
+    "r&b",
+    "contemporary r&b",
+    "pop"
+  ],
+  "tags": [
+    "hip hop",
+    "american teen",
+    "r&b",
+    "contemporary r&b",
+    "pop",
+    "debut album",
+    "kalid",
+    "rhythm & blues",
+    "teen"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c7a0a7e9-3ae4-4791-8e55-c79590032cdf",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Teen_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0003017081",
+    "discogs": "https://www.discogs.com/master/1154812",
+    "wikidata": "https://www.wikidata.org/wiki/Q30599342",
+    "deezer": "https://www.deezer.com/album/15498596"
+  },
+  "musicbrainz_id": "c7a0a7e9-3ae4-4791-8e55-c79590032cdf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6376e6f9-4617-4ff3-84f8-617e853a80e4",
+      "barcode": "886446309347",
+      "title": "American Teen",
+      "disambiguation": null,
+      "date": "2017-03-03",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "54:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "American Teen",
+            "length": "4:10",
+            "deezer": {
+              "id": 143172404,
+              "link": "https://www.deezer.com/track/143172404",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/2/0/d92c014cb073fe3361fb064562326f24.mp3?hdnea=exp=1795656157~acl=/api/1/1/d/9/2/0/d92c014cb073fe3361fb064562326f24.mp3*~data=user_id=0,application_id=42~hmac=e84559d89339ddc9fc270788cdc85b2ce59a2249d158d850de352a1cd5d5eed9",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Young Dumb & Broke",
+            "length": "3:22",
+            "deezer": {
+              "id": 143172406,
+              "link": "https://www.deezer.com/track/143172406",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/f/0/57faa820a58d242df3961c10b7502177.mp3?hdnea=exp=1795656157~acl=/api/1/1/5/7/f/0/57faa820a58d242df3961c10b7502177.mp3*~data=user_id=0,application_id=42~hmac=ce9f83c86c72a0c872314dd95626a703201d63fca91b8ac733b3670c7e021328",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Location",
+            "length": "3:39",
+            "deezer": {
+              "id": 143172408,
+              "link": "https://www.deezer.com/track/143172408",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/1/0/3a18659849ca0b8215dfeedad466a682.mp3?hdnea=exp=1795656157~acl=/api/1/1/3/a/1/0/3a18659849ca0b8215dfeedad466a682.mp3*~data=user_id=0,application_id=42~hmac=d18ac085686d439f15dbbc6014503934a0dafab61c11ecaea037eeabc33c7cd7",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Another Sad Love Song",
+            "length": "4:04",
+            "deezer": {
+              "id": 143172410,
+              "link": "https://www.deezer.com/track/143172410",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/4/0/1c447f84241bcbc579b45f27dd960d33.mp3?hdnea=exp=1795656157~acl=/api/1/1/1/c/4/0/1c447f84241bcbc579b45f27dd960d33.mp3*~data=user_id=0,application_id=42~hmac=a89a1c9184f5917b12f3a7e7090aee586d778e450519a946d26b9bf7556fc331",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Saved",
+            "length": "3:26",
+            "deezer": {
+              "id": 143172412,
+              "link": "https://www.deezer.com/track/143172412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/3/0/8b3aff5f40a0a0ef75de8ff1bfa5c088.mp3?hdnea=exp=1795656157~acl=/api/1/1/8/b/3/0/8b3aff5f40a0a0ef75de8ff1bfa5c088.mp3*~data=user_id=0,application_id=42~hmac=07739efd1370a2f03dbcbf1bbb433f452de0699aa8ce81ed947e89ffce8a6124",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Coaster",
+            "length": "3:19",
+            "deezer": {
+              "id": 143172414,
+              "link": "https://www.deezer.com/track/143172414",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/b/0/68b65cbac290e803c96cba1082049198.mp3?hdnea=exp=1795656157~acl=/api/1/1/6/8/b/0/68b65cbac290e803c96cba1082049198.mp3*~data=user_id=0,application_id=42~hmac=d8b871261cb80253b4aae0482f8b4e61037ead185fe0f1de1dda913832104d92",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "8TEEN",
+            "length": "3:48",
+            "deezer": {
+              "id": 143172418,
+              "link": "https://www.deezer.com/track/143172418",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/7/0/8e73c621a50d98c4ceda24f2df48d67e.mp3?hdnea=exp=1795656157~acl=/api/1/1/8/e/7/0/8e73c621a50d98c4ceda24f2df48d67e.mp3*~data=user_id=0,application_id=42~hmac=be80e149840af315044b7245e9c65cb972186ba1dda9265cdd65032c46af3d6b",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Let’s Go",
+            "length": "3:24",
+            "deezer": {
+              "id": 143172422,
+              "link": "https://www.deezer.com/track/143172422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/6/0/a26f2ff3f9f9ff4391d3c54dbdc11937.mp3?hdnea=exp=1795656157~acl=/api/1/1/a/2/6/0/a26f2ff3f9f9ff4391d3c54dbdc11937.mp3*~data=user_id=0,application_id=42~hmac=3b9cae89b250794187bc8438e57d1342e7b8626ebf8e6c96fcde3eaafc9e7a38",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Hopeless",
+            "length": "2:47",
+            "deezer": {
+              "id": 143172424,
+              "link": "https://www.deezer.com/track/143172424",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/2/0/9f24a75f54ab765f680f3f80ee221b36.mp3?hdnea=exp=1795656157~acl=/api/1/1/9/f/2/0/9f24a75f54ab765f680f3f80ee221b36.mp3*~data=user_id=0,application_id=42~hmac=46cc2c4c3973a69dce4b18cee8b9167a6e1491262be5162e65f2bdad808b63a9",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Cold Blooded",
+            "length": "3:27",
+            "deezer": {
+              "id": 143172426,
+              "link": "https://www.deezer.com/track/143172426",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/6/0/94637a2edb785217b4779e3942708c19.mp3?hdnea=exp=1795656157~acl=/api/1/1/9/4/6/0/94637a2edb785217b4779e3942708c19.mp3*~data=user_id=0,application_id=42~hmac=ed03a4cc3d44524288241e8f4b30f6fa2bd97ea794019c4d819d0c20f94e666d",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Winter",
+            "length": "4:01",
+            "deezer": {
+              "id": 143172428,
+              "link": "https://www.deezer.com/track/143172428",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/8/0/768c72677cee4308050d8bdd1b98c61c.mp3?hdnea=exp=1795656157~acl=/api/1/1/7/6/8/0/768c72677cee4308050d8bdd1b98c61c.mp3*~data=user_id=0,application_id=42~hmac=9316249b02778ec255cbba110dd4d384971419d2fa3df2938d6af594329b1a84",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Therapy",
+            "length": "4:17",
+            "deezer": {
+              "id": 143172432,
+              "link": "https://www.deezer.com/track/143172432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/3/0/96324d205b437cc1cb7e6e6d878ecbc8.mp3?hdnea=exp=1795656157~acl=/api/1/1/9/6/3/0/96324d205b437cc1cb7e6e6d878ecbc8.mp3*~data=user_id=0,application_id=42~hmac=042e200304b4e0db76432f1a83a09b65c9977091974e2840157a263efbf6566d",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Keep Me",
+            "length": "4:36",
+            "deezer": {
+              "id": 143172434,
+              "link": "https://www.deezer.com/track/143172434",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/7/0/827940bdb6ca0436a259f0526d710d8f.mp3?hdnea=exp=1795656157~acl=/api/1/1/8/2/7/0/827940bdb6ca0436a259f0526d710d8f.mp3*~data=user_id=0,application_id=42~hmac=722c06cce49c950cbfdd840196879fd15699c8079a3769893813c59ea6b52800",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Shot Down",
+            "length": "3:27",
+            "deezer": {
+              "id": 143172436,
+              "link": "https://www.deezer.com/track/143172436",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/e/0/39e600b8313b8cca578ee50e60b467dd.mp3?hdnea=exp=1795656157~acl=/api/1/1/3/9/e/0/39e600b8313b8cca578ee50e60b467dd.mp3*~data=user_id=0,application_id=42~hmac=84315fd2bed0c4ac34140ee2546f3c607ecbcee65eb4384272e9c0a1db297332",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Angels",
+            "length": "2:50",
+            "deezer": {
+              "id": 143172438,
+              "link": "https://www.deezer.com/track/143172438",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/3/0/7734acf2b9e9adc0bd38923e57ed414a.mp3?hdnea=exp=1795656157~acl=/api/1/1/7/7/3/0/7734acf2b9e9adc0bd38923e57ed414a.mp3*~data=user_id=0,application_id=42~hmac=b0ca3aac3d4fa28b22d381446a01197a3aa5fc888eda2859909a60effdca387d",
+              "preview_expires": "2026-11-26T01:22:37Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Khalid/American Teen.jpg"
+}

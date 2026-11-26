@@ -1,0 +1,239 @@
+{
+  "title": "Rubber Soul",
+  "artist": "The Beatles",
+  "year": 1965,
+  "release_date": "1965-12-03",
+  "type": "Album",
+  "description": "Rubber Soul is the sixth studio album by the English rock band the Beatles. It was released on 3 December 1965 in the United Kingdom on EMI's Parlophone label, accompanied by the non-album double A-side single \"We Can Work It Out\" / \"Day Tripper\". The original North American release, issued by Capitol Records, contains ten of the fourteen songs and two tracks withheld from the band's Help! (1965) album. Rubber Soul was described as an important artistic achievement by the band, meeting a highly favourable critical response and topping sales charts in Britain and the United States for several weeks.",
+  "genres": [
+    "rock",
+    "folk rock",
+    "pop rock",
+    "pop",
+    "british rhythm & blues",
+    "folk pop",
+    "britpop",
+    "psychedelic",
+    "psychedelic pop",
+    "beat music"
+  ],
+  "tags": [
+    "rock",
+    "folk rock",
+    "pop rock",
+    "pop",
+    "am pop",
+    "british rhythm & blues",
+    "folk pop",
+    "britpop",
+    "pop/rock",
+    "psychedelic",
+    "psychedelic pop",
+    "5+ wochen",
+    "autumn",
+    "beat music",
+    "bittersweet",
+    "eclectic",
+    "happy",
+    "introspective",
+    "longing",
+    "love",
+    "melancholic",
+    "mellow",
+    "melodic",
+    "offizielle charts",
+    "romantic",
+    "sentimental"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 56
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/dca03435-8adb-30a5-ba82-5a162267ff38",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rubber_Soul",
+    "allmusic": "https://www.allmusic.com/album/rubber-soul-mw0000192940",
+    "discogs": "https://www.discogs.com/master/45526",
+    "wikidata": "https://www.wikidata.org/wiki/Q190640",
+    "deezer": "https://www.deezer.com/album/12047936"
+  },
+  "musicbrainz_id": "dca03435-8adb-30a5-ba82-5a162267ff38",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/171406fd-6b47-48e7-a6b2-23826304412d",
+      "barcode": "00602547670151",
+      "title": "Rubber Soul",
+      "disambiguation": "remastered",
+      "date": "2015-12-24",
+      "country": "AL"
+    },
+    "total_tracks": 14,
+    "total_length": "35:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Drive My Car",
+            "length": "2:28",
+            "deezer": {
+              "id": 116348252,
+              "link": "https://www.deezer.com/track/116348252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/3/0/503bffe29874005a81949b744569d646.mp3?hdnea=exp=1795721380~acl=/api/1/1/5/0/3/0/503bffe29874005a81949b744569d646.mp3*~data=user_id=0,application_id=42~hmac=8df68987d26a01485af6b26fa0865ec10bc42e7f049a3194174ab819d71e12dc",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Norwegian Wood (This Bird Has Flown)",
+            "length": "2:04",
+            "deezer": {
+              "id": 116348254,
+              "link": "https://www.deezer.com/track/116348254",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/6/0/d76772de9e25b95b4b0943c149e3445a.mp3?hdnea=exp=1795721380~acl=/api/1/1/d/7/6/0/d76772de9e25b95b4b0943c149e3445a.mp3*~data=user_id=0,application_id=42~hmac=74a02ac3272b97090a4483774656a3a1f6d13570ee576bed494cc0d061acb78a",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "You Won’t See Me",
+            "length": "3:19",
+            "deezer": {
+              "id": 116348256,
+              "link": "https://www.deezer.com/track/116348256",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/4/0/904157af6fa1eb25497378b7b4f0d776.mp3?hdnea=exp=1795721380~acl=/api/1/1/9/0/4/0/904157af6fa1eb25497378b7b4f0d776.mp3*~data=user_id=0,application_id=42~hmac=dbb755d2cdf01a7ae283ffa046cf91f808e24bc096c9362c8d3a4a3d9733833c",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Nowhere Man",
+            "length": "2:43",
+            "deezer": {
+              "id": 116348258,
+              "link": "https://www.deezer.com/track/116348258",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/1/0/8c124ab8ea69fb67732c812fa7d1fac8.mp3?hdnea=exp=1795721380~acl=/api/1/1/8/c/1/0/8c124ab8ea69fb67732c812fa7d1fac8.mp3*~data=user_id=0,application_id=42~hmac=abf02136b0c9d3a4d14386cbf5cabedb06fc57d58ee8a4c957f83082ed153941",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Think for Yourself",
+            "length": "2:18",
+            "deezer": {
+              "id": 116348260,
+              "link": "https://www.deezer.com/track/116348260",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/e/0/87e7766e421b7fdd8bb5fce9a33a2ce8.mp3?hdnea=exp=1795721380~acl=/api/1/1/8/7/e/0/87e7766e421b7fdd8bb5fce9a33a2ce8.mp3*~data=user_id=0,application_id=42~hmac=9a65633d16bbab02090403433b9c146a09042e57f608d17a786389b83c8987c6",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Word",
+            "length": "2:43",
+            "deezer": {
+              "id": 116348262,
+              "link": "https://www.deezer.com/track/116348262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/5/0/e056cbc351f691089e2cd2d682b4bca7.mp3?hdnea=exp=1795721380~acl=/api/1/1/e/0/5/0/e056cbc351f691089e2cd2d682b4bca7.mp3*~data=user_id=0,application_id=42~hmac=09fc555fbb9e127901f4dee2f5ace9c9b61d8dc827d86d636251dc1bd7a5a716",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Michelle",
+            "length": "2:42",
+            "deezer": {
+              "id": 116348264,
+              "link": "https://www.deezer.com/track/116348264",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/a/0/82aed4ff815e92629fbd193688e8de2b.mp3?hdnea=exp=1795721380~acl=/api/1/1/8/2/a/0/82aed4ff815e92629fbd193688e8de2b.mp3*~data=user_id=0,application_id=42~hmac=17062a57510a4ec86292dffb2077edae6dd39d140d3c346cbfd523ea6a2207a4",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "What Goes On",
+            "length": "2:48",
+            "deezer": {
+              "id": 116348266,
+              "link": "https://www.deezer.com/track/116348266",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/8/0/338fef2d85340215c5c342406ef8aaba.mp3?hdnea=exp=1795721380~acl=/api/1/1/3/3/8/0/338fef2d85340215c5c342406ef8aaba.mp3*~data=user_id=0,application_id=42~hmac=b39e5ab7c452416ed5b7c6e83a3745b6149d8c7bd376970bf6fdc08253a2f1c4",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Girl",
+            "length": "2:31",
+            "deezer": {
+              "id": 116348268,
+              "link": "https://www.deezer.com/track/116348268",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/1/0/021beba7cf2bd6604a3c8c9b57c22fe5.mp3?hdnea=exp=1795721380~acl=/api/1/1/0/2/1/0/021beba7cf2bd6604a3c8c9b57c22fe5.mp3*~data=user_id=0,application_id=42~hmac=6903d128ca4420bead165987a781342a63798abef06a7cf9a100687eb8c501f9",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Looking Through You",
+            "length": "2:26",
+            "deezer": {
+              "id": 116348270,
+              "link": "https://www.deezer.com/track/116348270",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/9/0/bc9d5fff450d717cc2cf48a49323abf0.mp3?hdnea=exp=1795721380~acl=/api/1/1/b/c/9/0/bc9d5fff450d717cc2cf48a49323abf0.mp3*~data=user_id=0,application_id=42~hmac=2bcebfcc8b7110fa6ce9f6d70ddcf0ac8b2b7fd045be608b5d35b78ab398ce1f",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "In My Life",
+            "length": "2:26",
+            "deezer": {
+              "id": 116348272,
+              "link": "https://www.deezer.com/track/116348272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/d/0/11d42f1cc2e2934417a8fe0f5a683305.mp3?hdnea=exp=1795721380~acl=/api/1/1/1/1/d/0/11d42f1cc2e2934417a8fe0f5a683305.mp3*~data=user_id=0,application_id=42~hmac=e78621fcd3bf8df0e64214db72523a8a7132fc0ea4120e40da3ea85cffd7d42c",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Wait",
+            "length": "2:14",
+            "deezer": {
+              "id": 116348274,
+              "link": "https://www.deezer.com/track/116348274",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/d/0/52ddea5aa9ec93c73945f57d15d68581.mp3?hdnea=exp=1795721380~acl=/api/1/1/5/2/d/0/52ddea5aa9ec93c73945f57d15d68581.mp3*~data=user_id=0,application_id=42~hmac=5e755d590a51738c6f74cbea04037c21f33e78ad706618f67a489441beb71230",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "If I Needed Someone",
+            "length": "2:22",
+            "deezer": {
+              "id": 116348276,
+              "link": "https://www.deezer.com/track/116348276",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/6/0/d7635a0aa8b28e06ac6388a7f6ded94d.mp3?hdnea=exp=1795721380~acl=/api/1/1/d/7/6/0/d7635a0aa8b28e06ac6388a7f6ded94d.mp3*~data=user_id=0,application_id=42~hmac=8623066f3a948d089634628578133c388f9e3b76395c8026c5f0d88fdd05513a",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Run for Your Life",
+            "length": "2:21",
+            "deezer": {
+              "id": 116348278,
+              "link": "https://www.deezer.com/track/116348278",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/8/0/8a87869a717be0227e959d783d9a56c0.mp3?hdnea=exp=1795721380~acl=/api/1/1/8/a/8/0/8a87869a717be0227e959d783d9a56c0.mp3*~data=user_id=0,application_id=42~hmac=e6d89076062ed49b6a75648a9068000e4aa6b4cae0e90ee5c55c3713efb99a01",
+              "preview_expires": "2026-11-26T19:29:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Beatles/Rubber Soul.jpg"
+}

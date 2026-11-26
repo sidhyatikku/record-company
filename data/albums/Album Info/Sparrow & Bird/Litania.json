@@ -1,0 +1,55 @@
+{
+  "title": "Litania",
+  "artist": "Sparrow & Bird",
+  "year": 2020,
+  "release_date": "2020-09-25",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/479cd14e-d19c-4b9d-b6dc-4daee875fd0f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/166921702"
+  },
+  "musicbrainz_id": "479cd14e-d19c-4b9d-b6dc-4daee875fd0f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0a0065bc-67ba-4b10-b901-76712a226181",
+      "barcode": "7330065033228",
+      "title": "Litania",
+      "disambiguation": null,
+      "date": "2020-09-25",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Litania",
+            "length": "3:55",
+            "deezer": {
+              "id": 1050182162,
+              "link": "https://www.deezer.com/track/1050182162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/8/0/d68bd9ebf19b415b958d3695da1988f0.mp3?hdnea=exp=1795720895~acl=/api/1/1/d/6/8/0/d68bd9ebf19b415b958d3695da1988f0.mp3*~data=user_id=0,application_id=42~hmac=6bd2a2b3b82c1f4300595acb5e55a3b271c3471772e8669944b80253901ed012",
+              "preview_expires": "2026-11-26T19:21:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sparrow & Bird/Litania.png"
+}

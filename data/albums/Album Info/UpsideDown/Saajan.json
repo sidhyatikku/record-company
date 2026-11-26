@@ -1,0 +1,45 @@
+{
+  "title": "Saajan",
+  "artist": "UpsideDown, Mitika Kanwar",
+  "year": 2026,
+  "release_date": "2026-05-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "desi pop",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0p8Z2Bx9qOMRn4gyt7LAPh",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0p8Z2Bx9qOMRn4gyt7LAPh",
+      "title": "Saajan",
+      "date": "2026-05-22"
+    },
+    "total_tracks": 1,
+    "total_length": "2:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Saajan",
+            "length": "2:49"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/UpsideDown/Saajan.jpg"
+}

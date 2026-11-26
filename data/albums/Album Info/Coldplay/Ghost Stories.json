@@ -1,0 +1,180 @@
+{
+  "title": "Ghost Stories",
+  "artist": "Coldplay",
+  "year": 2014,
+  "release_date": "2014-05-16",
+  "type": "Album",
+  "description": "Ghost Stories is the sixth studio album by the British rock band Coldplay. It was released on 19 May 2014 by Parlophone in the United Kingdom and Atlantic in the United States. Co-produced by the group along with Paul Epworth and Mylo Xyloto collaborators Dan Green and Rik Simpson, it was their first album to be distributed by Atlantic in North America, as Coldplay were transferred from Capitol after Universal Music purchased EMI in 2012, a transaction which required the sale of Parlophone to Warner Music.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "ambient",
+    "ambient pop",
+    "downtempo",
+    "dream pop",
+    "pop rock",
+    "alternative pop",
+    "art pop",
+    "electronic",
+    "pop"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "ambient",
+    "ambient pop",
+    "downtempo",
+    "dream pop",
+    "pop rock",
+    "alternative pop",
+    "alternative rock / pop",
+    "art pop",
+    "atmospheric",
+    "bittersweet",
+    "breakup",
+    "concept album",
+    "electronic",
+    "ethereal",
+    "melancholic",
+    "mellow",
+    "nocturnal",
+    "pop",
+    "romantic"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 20
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9c5aa9d2-068b-4626-b352-ae6f4f4e0b15",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Stories_(Coldplay_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002630894",
+    "discogs": "https://www.discogs.com/master/688112",
+    "wikidata": "https://www.wikidata.org/wiki/Q15885808",
+    "deezer": "https://www.deezer.com/album/8679369"
+  },
+  "musicbrainz_id": "9c5aa9d2-068b-4626-b352-ae6f4f4e0b15",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/083305cf-1772-4db5-b10a-fb363c7e600b",
+      "barcode": "825646216284",
+      "title": "Ghost Stories",
+      "disambiguation": null,
+      "date": "2014-05-16",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "40:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Always in My Head",
+            "length": "3:36",
+            "deezer": {
+              "id": 86044525,
+              "link": "https://www.deezer.com/track/86044525",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/2/0/e52172f6dd2e73f7bb9fe48014ab4135.mp3?hdnea=exp=1795652894~acl=/api/1/1/e/5/2/0/e52172f6dd2e73f7bb9fe48014ab4135.mp3*~data=user_id=0,application_id=42~hmac=692e17f0466155444051020b0cc02bf89a51a463e6a84a154c54c495faef5fdf",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Magic",
+            "length": "4:45",
+            "deezer": {
+              "id": 86044527,
+              "link": "https://www.deezer.com/track/86044527",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/0/0/40010d92dff38ffd94b7841c13a79569.mp3?hdnea=exp=1795652894~acl=/api/1/1/4/0/0/0/40010d92dff38ffd94b7841c13a79569.mp3*~data=user_id=0,application_id=42~hmac=0b61458e82fae12c78c90bf2bd1bda18f2274396297e2c917ad95320a067e9aa",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Ink",
+            "length": "3:48",
+            "deezer": {
+              "id": 86044529,
+              "link": "https://www.deezer.com/track/86044529",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/6/0/226c5ffaad6239b805825fd5f92c65a2.mp3?hdnea=exp=1795652894~acl=/api/1/1/2/2/6/0/226c5ffaad6239b805825fd5f92c65a2.mp3*~data=user_id=0,application_id=42~hmac=0ad6247cd44fcb91350bc290cbb0455938b75cdd97c6786dfa3d13b3b7b248f2",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "True Love",
+            "length": "4:05",
+            "deezer": {
+              "id": 86044531,
+              "link": "https://www.deezer.com/track/86044531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/b/0/4db4f5ef43d9f9a19057aeb9d1573676.mp3?hdnea=exp=1795652894~acl=/api/1/1/4/d/b/0/4db4f5ef43d9f9a19057aeb9d1573676.mp3*~data=user_id=0,application_id=42~hmac=f39dd97e975d2845a0dedf087b2e5116043d865983cdaf97a09eabc04502b865",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Midnight",
+            "length": "4:54",
+            "deezer": {
+              "id": 86044533,
+              "link": "https://www.deezer.com/track/86044533",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/a/0/daa2351752be2dc3298ece6402e1ddce.mp3?hdnea=exp=1795652894~acl=/api/1/1/d/a/a/0/daa2351752be2dc3298ece6402e1ddce.mp3*~data=user_id=0,application_id=42~hmac=39ffa64e549b5d26442815f40cf2b69a3707d7c089149776b7270574799a3d7a",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Another’s Arms",
+            "length": "3:54",
+            "deezer": {
+              "id": 86044535,
+              "link": "https://www.deezer.com/track/86044535",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/1/0/63180213f37db6e8775491a96f47b0c9.mp3?hdnea=exp=1795652894~acl=/api/1/1/6/3/1/0/63180213f37db6e8775491a96f47b0c9.mp3*~data=user_id=0,application_id=42~hmac=74faade9b993f0f0d47a72ea200a114e5c90230634bb661af72549d72ec38f30",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Oceans",
+            "length": "5:21",
+            "deezer": {
+              "id": 86044537,
+              "link": "https://www.deezer.com/track/86044537",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/4/0/224932805f8444af23af56c4d53029a2.mp3?hdnea=exp=1795652894~acl=/api/1/1/2/2/4/0/224932805f8444af23af56c4d53029a2.mp3*~data=user_id=0,application_id=42~hmac=3606ee938ca7a672ed7d7d4d8878ce7429875d02edce1d149f79399b45b59c23",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "A Sky Full of Stars",
+            "length": "4:28",
+            "deezer": {
+              "id": 86044539,
+              "link": "https://www.deezer.com/track/86044539",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/d/0/8ed66859ab91f709c58d302768747fd7.mp3?hdnea=exp=1795652894~acl=/api/1/1/8/e/d/0/8ed66859ab91f709c58d302768747fd7.mp3*~data=user_id=0,application_id=42~hmac=06416f508f4a42e65ca5524f2026f5a5681eab08c1a6b0774e158d932271ba94",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "O",
+            "length": "5:24",
+            "deezer": {
+              "id": 86044541,
+              "link": "https://www.deezer.com/track/86044541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/f/0/dff2aa75956ebf0ed48e1f4c1f599982.mp3?hdnea=exp=1795652894~acl=/api/1/1/d/f/f/0/dff2aa75956ebf0ed48e1f4c1f599982.mp3*~data=user_id=0,application_id=42~hmac=b20f00f56d809695eb200e8b24ab88bc3341e9df6fdcc8c42742429ecf5110ab",
+              "preview_expires": "2026-11-26T00:28:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Coldplay/Ghost Stories.jpg"
+}

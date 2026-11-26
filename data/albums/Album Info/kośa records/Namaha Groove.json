@@ -1,0 +1,55 @@
+{
+  "title": "Namaha Groove",
+  "artist": "kośa records, Jose Solano",
+  "year": 2019,
+  "release_date": "2019-11-02",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "downtempo",
+    "organic house",
+    "tribal house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1uZni8ZuCqH7k6AfxaCYCT",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1uZni8ZuCqH7k6AfxaCYCT",
+      "title": "Namaha Groove",
+      "date": "2019-11-02"
+    },
+    "total_tracks": 3,
+    "total_length": "22:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bhairavi",
+            "length": "8:05"
+          },
+          {
+            "number": "2",
+            "title": "Bansuri",
+            "length": "7:29"
+          },
+          {
+            "number": "3",
+            "title": "Govinda",
+            "length": "7:05"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/kośa records/Namaha Groove.jpg"
+}

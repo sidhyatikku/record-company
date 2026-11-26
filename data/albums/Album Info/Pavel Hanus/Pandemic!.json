@@ -1,0 +1,167 @@
+{
+  "title": "Pandemic!",
+  "artist": "Pavel Hanus",
+  "year": 2022,
+  "release_date": "2022-04-16",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1p4vSYSxjr4e0WaMRL4MLu",
+    "deezer": "https://www.deezer.com/album/312280477"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1p4vSYSxjr4e0WaMRL4MLu",
+      "title": "Pandemic!",
+      "date": "2022-04-16"
+    },
+    "total_tracks": 12,
+    "total_length": "51:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rising Force",
+            "length": "4:15",
+            "deezer": {
+              "id": 1725765057,
+              "link": "https://www.deezer.com/track/1725765057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/0/0/e909f8316e041bb46e581279afdbaeeb.mp3?hdnea=exp=1795719411~acl=/api/1/1/e/9/0/0/e909f8316e041bb46e581279afdbaeeb.mp3*~data=user_id=0,application_id=42~hmac=f7e30d3e9c886a86cc833ffdcc46ca2bb7a58c8224dd9348f9c89a4e563b7918",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Scarified",
+            "length": "3:01",
+            "deezer": {
+              "id": 1725765067,
+              "link": "https://www.deezer.com/track/1725765067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/a/0/e8a109a07a0114a7e03e6969650da6e3.mp3?hdnea=exp=1795719411~acl=/api/1/1/e/8/a/0/e8a109a07a0114a7e03e6969650da6e3.mp3*~data=user_id=0,application_id=42~hmac=194610a14e740b25a013937b279f85f2d69c34770b1d788a119e3bab42198077",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Child In Time",
+            "length": "5:23",
+            "deezer": {
+              "id": 1725765077,
+              "link": "https://www.deezer.com/track/1725765077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/1/0/32113334506a49b4e4b4b393b668cfe6.mp3?hdnea=exp=1795719411~acl=/api/1/1/3/2/1/0/32113334506a49b4e4b4b393b668cfe6.mp3*~data=user_id=0,application_id=42~hmac=3ec20c0dc5a6017d30605ee5986cc5d7902a6c382cca5fc4b10f5785225aaaad",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tears Of The Dragon",
+            "length": "6:02",
+            "deezer": {
+              "id": 1725765087,
+              "link": "https://www.deezer.com/track/1725765087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/6/0/d76f6ad56f47b1eef3a40a36339bdc0f.mp3?hdnea=exp=1795719411~acl=/api/1/1/d/7/6/0/d76f6ad56f47b1eef3a40a36339bdc0f.mp3*~data=user_id=0,application_id=42~hmac=831f9da7eabd7a6f2ed139c769830b293178fc0da95e23997f7a571a9c5f63a0",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "La Catedral",
+            "length": "5:05",
+            "deezer": {
+              "id": 1725765097,
+              "link": "https://www.deezer.com/track/1725765097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/f/0/9df38739724a6e495fcf7191ccf6d789.mp3?hdnea=exp=1795719411~acl=/api/1/1/9/d/f/0/9df38739724a6e495fcf7191ccf6d789.mp3*~data=user_id=0,application_id=42~hmac=514b144d23c96df1c15203dd6c3967e98d209f5f4e73953f51398f16567ec9b3",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Crying In The Rain",
+            "length": "5:31",
+            "deezer": {
+              "id": 1725765107,
+              "link": "https://www.deezer.com/track/1725765107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/1/0/9c1588f5b37907062b9663b8a11e9e7b.mp3?hdnea=exp=1795719411~acl=/api/1/1/9/c/1/0/9c1588f5b37907062b9663b8a11e9e7b.mp3*~data=user_id=0,application_id=42~hmac=dff3b854327e7b016c41a8bbc126801efba09629276032b46b869ceacdcf6bd2",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Rondo Alla Turca",
+            "length": "3:15",
+            "deezer": {
+              "id": 1725765117,
+              "link": "https://www.deezer.com/track/1725765117",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/6/0/42611ed95aa931732a3178edc81da96a.mp3?hdnea=exp=1795719411~acl=/api/1/1/4/2/6/0/42611ed95aa931732a3178edc81da96a.mp3*~data=user_id=0,application_id=42~hmac=d954651e81540ee9d1e9df21688f6014c8d7cc2aaeb79f8dca2a1f4166731eaf",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Holy Wars...The Punishment Due",
+            "length": "6:34",
+            "deezer": {
+              "id": 1725765127,
+              "link": "https://www.deezer.com/track/1725765127",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/9/0/ae995e98ad1e36727bd08d8caefc1b55.mp3?hdnea=exp=1795719411~acl=/api/1/1/a/e/9/0/ae995e98ad1e36727bd08d8caefc1b55.mp3*~data=user_id=0,application_id=42~hmac=d3079476a3f7946fb21fd81204b79f2f6cf02a1fbbf84a3c4548e1cc83c3a78d",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "El Vito",
+            "length": "1:59",
+            "deezer": {
+              "id": 1725765137,
+              "link": "https://www.deezer.com/track/1725765137",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/3/0/ce34648f14edd8d565d194d089bd91a6.mp3?hdnea=exp=1795719411~acl=/api/1/1/c/e/3/0/ce34648f14edd8d565d194d089bd91a6.mp3*~data=user_id=0,application_id=42~hmac=c9ae535e20ef1dc0fd847c6d8cb8d0cac9ba94c756cd598e96338c17f42058fc",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Tamacun",
+            "length": "3:34",
+            "deezer": {
+              "id": 1725765147,
+              "link": "https://www.deezer.com/track/1725765147",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/a/0/7da040672aa725094f85d0c6464e285f.mp3?hdnea=exp=1795719411~acl=/api/1/1/7/d/a/0/7da040672aa725094f85d0c6464e285f.mp3*~data=user_id=0,application_id=42~hmac=158e2035a8eaada3c9a236e90219443951ecdafb3bd9fa3e33d18643907c7cb1",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Vyznání",
+            "length": "4:13",
+            "deezer": {
+              "id": 1725765157,
+              "link": "https://www.deezer.com/track/1725765157",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/6/0/b36e4434fd53e52dd580ec6026e3586c.mp3?hdnea=exp=1795719411~acl=/api/1/1/b/3/6/0/b36e4434fd53e52dd580ec6026e3586c.mp3*~data=user_id=0,application_id=42~hmac=f065fe18be48e9fdcbd070fed17ff709a904ce8669a7a749699a314845f6f332",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Má první láska se dnes vdává",
+            "length": "2:42",
+            "deezer": {
+              "id": 1725765167,
+              "link": "https://www.deezer.com/track/1725765167",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/8/0/d88a39787f3bf5ed2289e123c52457b1.mp3?hdnea=exp=1795719411~acl=/api/1/1/d/8/8/0/d88a39787f3bf5ed2289e123c52457b1.mp3*~data=user_id=0,application_id=42~hmac=acf873f6ba818e8e29a69e3442af63a07efd17d67243aa16168162bef9f02777",
+              "preview_expires": "2026-11-26T18:56:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Pavel Hanus/Pandemic!.jpg"
+}

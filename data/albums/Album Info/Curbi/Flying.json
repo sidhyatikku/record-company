@@ -1,0 +1,62 @@
+{
+  "title": "Flying",
+  "artist": "Curbi",
+  "year": 2022,
+  "release_date": "2022-05-23",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b0d80609-2610-432d-b1dc-99e88e110f25",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/320350577"
+  },
+  "musicbrainz_id": "b0d80609-2610-432d-b1dc-99e88e110f25",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/90a787b1-75f4-4efe-b534-939a7e6bb54c",
+      "barcode": "742779543301",
+      "title": "Flying",
+      "disambiguation": null,
+      "date": "2022-05-23",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "6:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Flying",
+            "length": "3:05",
+            "deezer": {
+              "id": 1758435847,
+              "link": "https://www.deezer.com/track/1758435847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/4/0/a742d64f7b70d4216ae6a47555158e53.mp3?hdnea=exp=1795653002~acl=/api/1/1/a/7/4/0/a742d64f7b70d4216ae6a47555158e53.mp3*~data=user_id=0,application_id=42~hmac=0e71cc66c6eb1f3195ff77bca6f9be4abf3de1cd69a4a3249f5af4f77ed0695e",
+              "preview_expires": "2026-11-26T00:30:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Flying (extended mix)",
+            "length": "3:43",
+            "deezer": {
+              "id": 1758435857,
+              "link": "https://www.deezer.com/track/1758435857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/f/0/4eff6e2d9b8d672e1b95c4019ed84655.mp3?hdnea=exp=1795653002~acl=/api/1/1/4/e/f/0/4eff6e2d9b8d672e1b95c4019ed84655.mp3*~data=user_id=0,application_id=42~hmac=06ac0aa816ae2f901dcc3263767de87adc853301f723b64abdef22549fb559f1",
+              "preview_expires": "2026-11-26T00:30:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Curbi/Flying.png"
+}

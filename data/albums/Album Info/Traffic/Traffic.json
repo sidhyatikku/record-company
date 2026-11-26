@@ -1,0 +1,212 @@
+{
+  "title": "Traffic",
+  "artist": "Traffic",
+  "year": 1968,
+  "release_date": "1968-10",
+  "type": "Album",
+  "description": "Traffic is the self-titled second studio album by the English rock band Traffic, released on 20 September 1968 on Island Records in the United Kingdom as ILPS 9081T (stereo), and United Artists in the United States, as UAS 6676 (stereo). The album peaked at number 9 in the UK Albums Chart and at number 17 on the Billboard Top LPs chart. It was the last album recorded by the group before their initial breakup.",
+  "genres": [
+    "rock",
+    "blues rock",
+    "folk rock",
+    "psychedelic rock",
+    "progressive rock"
+  ],
+  "tags": [
+    "rock",
+    "blues rock",
+    "folk rock",
+    "psychedelic rock",
+    "progressive rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7d426408-10e5-3c3b-b119-a72e81be8eba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Traffic_(Traffic_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000651445",
+    "discogs": "https://www.discogs.com/master/69053",
+    "wikidata": "https://www.wikidata.org/wiki/Q858200",
+    "deezer": "https://www.deezer.com/album/247876"
+  },
+  "musicbrainz_id": "7d426408-10e5-3c3b-b119-a72e81be8eba",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0acb74be-4928-4581-abdc-14750b0c8451",
+      "barcode": "731454649827",
+      "title": "Traffic",
+      "disambiguation": null,
+      "date": "1999-11-01",
+      "country": "GB"
+    },
+    "total_tracks": 15,
+    "total_length": "57:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "You Can All Join In",
+            "length": "3:41",
+            "deezer": {
+              "id": 2528813,
+              "link": "https://www.deezer.com/track/2528813",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/c/0/77c71df3bdb53157ecd5a1044b9079fc.mp3?hdnea=exp=1795721997~acl=/api/1/1/7/7/c/0/77c71df3bdb53157ecd5a1044b9079fc.mp3*~data=user_id=0,application_id=42~hmac=2d68567d67957becd8ccca3c25b3971d4cb5d9ffad7398c400058c23bdd95749",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Pearly Queen",
+            "length": "4:22",
+            "deezer": {
+              "id": 2528814,
+              "link": "https://www.deezer.com/track/2528814",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/5/0/935da5b9f60dae4d43d8d7828d6fadd3.mp3?hdnea=exp=1795721997~acl=/api/1/1/9/3/5/0/935da5b9f60dae4d43d8d7828d6fadd3.mp3*~data=user_id=0,application_id=42~hmac=d0ae214328d42ad4a8d7129f4fbea6f7602cb0eb4ef0d4e51fe9d5654b5277a4",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Don’t Be Sad",
+            "length": "3:26",
+            "deezer": {
+              "id": 2528815,
+              "link": "https://www.deezer.com/track/2528815",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/8/0/1682beed895fa6232cb57d3e3e2526b0.mp3?hdnea=exp=1795721997~acl=/api/1/1/1/6/8/0/1682beed895fa6232cb57d3e3e2526b0.mp3*~data=user_id=0,application_id=42~hmac=994eddafcf35d6c6056a819cd1aa59ded4a0003df735496c3418ddbe06fd17d2",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Who Knows What Tomorrow May Bring",
+            "length": "3:16",
+            "deezer": {
+              "id": 2528816,
+              "link": "https://www.deezer.com/track/2528816",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/9/0/4c9170e91adc1b38b5f11365d3e8588a.mp3?hdnea=exp=1795721997~acl=/api/1/1/4/c/9/0/4c9170e91adc1b38b5f11365d3e8588a.mp3*~data=user_id=0,application_id=42~hmac=cb3319f2f67e44fe25c268912ade0fd116036ae14932894304547ac18dbafedd",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Feelin’ Alright?",
+            "length": "4:20",
+            "deezer": {
+              "id": 2528817,
+              "link": "https://www.deezer.com/track/2528817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/6/0/d0692e6a8d950cde25acf58d2b08c6a8.mp3?hdnea=exp=1795721997~acl=/api/1/1/d/0/6/0/d0692e6a8d950cde25acf58d2b08c6a8.mp3*~data=user_id=0,application_id=42~hmac=b25d684852987695404625305ed7fdc92313b31c9e13323fa0491402e4600b18",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Vagabond Virgin",
+            "length": "5:23",
+            "deezer": {
+              "id": 2528818,
+              "link": "https://www.deezer.com/track/2528818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/8/0/1283e857a759b66d6bb470e2525e823e.mp3?hdnea=exp=1795721997~acl=/api/1/1/1/2/8/0/1283e857a759b66d6bb470e2525e823e.mp3*~data=user_id=0,application_id=42~hmac=b76b0a670576d4d3cc0d3abe9572b529382bde9a891c33168a39d514b32661fb",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Forty Thousand Headmen",
+            "length": "3:15"
+          },
+          {
+            "number": "8",
+            "title": "Cryin’ to Be Heard",
+            "length": "5:13",
+            "deezer": {
+              "id": 2528820,
+              "link": "https://www.deezer.com/track/2528820",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/e/0/c7e6c286addbf9cfaafc95a90cc48c7b.mp3?hdnea=exp=1795721997~acl=/api/1/1/c/7/e/0/c7e6c286addbf9cfaafc95a90cc48c7b.mp3*~data=user_id=0,application_id=42~hmac=40e58d938f7abdd102ede3f80920cde33e13bb2ce9718da71e3ca00fd0a99bb2",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "No Time to Live",
+            "length": "5:20",
+            "deezer": {
+              "id": 2528821,
+              "link": "https://www.deezer.com/track/2528821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/8/0/c88a54cf5c22c59295d50cdb0373f0bf.mp3?hdnea=exp=1795721997~acl=/api/1/1/c/8/8/0/c88a54cf5c22c59295d50cdb0373f0bf.mp3*~data=user_id=0,application_id=42~hmac=b32079b64660b886b2726938f8a589a01d9de9263d3035dba6b46fe2759de644",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Means to an End",
+            "length": "2:36",
+            "deezer": {
+              "id": 2528822,
+              "link": "https://www.deezer.com/track/2528822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/b/0/5cbf32e1971a3ad2270f8466dcba4a4b.mp3?hdnea=exp=1795721997~acl=/api/1/1/5/c/b/0/5cbf32e1971a3ad2270f8466dcba4a4b.mp3*~data=user_id=0,application_id=42~hmac=89c02dd3a70217858d22ca6fc671fa7c9e1c5e88d68d26a3db2f73002a29d7a1",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Here We Go Round the Mulberry Bush (from the film soundtrack “Here We Go Round the Mulberry Bush”)",
+            "length": "2:45",
+            "deezer": {
+              "id": 2528823,
+              "link": "https://www.deezer.com/track/2528823",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/4/0/7f41484ba58891aa374870ad2db85211.mp3?hdnea=exp=1795721997~acl=/api/1/1/7/f/4/0/7f41484ba58891aa374870ad2db85211.mp3*~data=user_id=0,application_id=42~hmac=93c7801cfa10fb04181841623c27d0546fba6f0a21127ca7cbcbf0b7a165338f",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Am I What I Was or Am I What I Am (from the film soundtrack “Here We Go Round the Mulberry Bush”)",
+            "length": "2:36"
+          },
+          {
+            "number": "13",
+            "title": "Withering Tree (B-Side of “Feelin’ Alright?”)",
+            "length": "2:57",
+            "deezer": {
+              "id": 2528825,
+              "link": "https://www.deezer.com/track/2528825",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/f/0/a7f72fb79a3f2f8c13101140980c9690.mp3?hdnea=exp=1795721997~acl=/api/1/1/a/7/f/0/a7f72fb79a3f2f8c13101140980c9690.mp3*~data=user_id=0,application_id=42~hmac=083952600f5aa1d5b25780f946b9c0a9041ecb2f43e159cf3efa85f51436fe91",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Medicated Goo (Single A-Side)",
+            "length": "3:40",
+            "deezer": {
+              "id": 2528826,
+              "link": "https://www.deezer.com/track/2528826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/6/0/a46c7129a78c621bf9744fb434b4c7d0.mp3?hdnea=exp=1795721997~acl=/api/1/1/a/4/6/0/a46c7129a78c621bf9744fb434b4c7d0.mp3*~data=user_id=0,application_id=42~hmac=597b49410b9507b2f754fde527250b4ccd6af0c60167328542e2aee846e3bfce",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Shanghai Noodle Factory (B-Side of “Medicated Goo”)",
+            "length": "5:03",
+            "deezer": {
+              "id": 2528827,
+              "link": "https://www.deezer.com/track/2528827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/c/0/d9cae304bf50fa851c951addd6068068.mp3?hdnea=exp=1795721997~acl=/api/1/1/d/9/c/0/d9cae304bf50fa851c951addd6068068.mp3*~data=user_id=0,application_id=42~hmac=7071b7ab5174d6722086e9b028efcca1fbbced8fb6fc885faeb17ede6e0e54e8",
+              "preview_expires": "2026-11-26T19:39:57Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Traffic/Traffic.jpg"
+}

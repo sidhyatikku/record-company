@@ -1,0 +1,71 @@
+{
+  "title": "Valley of the Shadows",
+  "artist": "Origin Unknown",
+  "year": 1996,
+  "release_date": "1996",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "drum and bass",
+    "electronic",
+    "jungle"
+  ],
+  "tags": [
+    "drum and bass",
+    "electronic",
+    "jungle"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ef5a4a1c-8a7b-30a5-bde8-420320b69df7",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/46970",
+    "deezer": "https://www.deezer.com/album/900542742"
+  },
+  "musicbrainz_id": "ef5a4a1c-8a7b-30a5-bde8-420320b69df7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bb6b36a6-4972-4011-88f2-70e4ae984d40",
+      "barcode": "5024441990169",
+      "title": "Valley of the Shadows",
+      "disambiguation": null,
+      "date": "1996",
+      "country": "GB"
+    },
+    "total_tracks": 2,
+    "total_length": "10:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "12\" Vinyl",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A",
+            "title": "Valley of the Shadows (original mix)",
+            "length": "4:33",
+            "deezer": {
+              "id": 3782933362,
+              "link": "https://www.deezer.com/track/3782933362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/b/0/41b53c36bc4d635845177aa185ae5335.mp3?hdnea=exp=1795719207~acl=/api/1/1/4/1/b/0/41b53c36bc4d635845177aa185ae5335.mp3*~data=user_id=0,application_id=42~hmac=1bad8671cd13282b5f1a954c093938c63afc3d7bc8d1bcdbfd1d0167633a9452",
+              "preview_expires": "2026-11-26T18:53:27Z"
+            }
+          },
+          {
+            "number": "AA",
+            "title": "Valley of the Shadows (Awake 96’ remix)",
+            "length": "6:16",
+            "deezer": {
+              "id": 3782933372,
+              "link": "https://www.deezer.com/track/3782933372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/b/0/2cb79dc2ee83cf058c9095dbc27a1dd4.mp3?hdnea=exp=1795719207~acl=/api/1/1/2/c/b/0/2cb79dc2ee83cf058c9095dbc27a1dd4.mp3*~data=user_id=0,application_id=42~hmac=686fa6de65b4ec7d78152b010086b9a8916a85b40177edf47021bde4597e0ab9",
+              "preview_expires": "2026-11-26T18:53:27Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Origin Unknown/Valley of the Shadows.jpg"
+}

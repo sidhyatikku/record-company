@@ -1,0 +1,116 @@
+{
+  "title": "Extended Play",
+  "artist": "Tigerstyle",
+  "year": 2001,
+  "release_date": "2001-12-05",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "indian pop"
+  ],
+  "tags": [
+    "indian pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/efac03a8-2c45-48b0-b58c-2ceb518dc0bd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/854938162"
+  },
+  "musicbrainz_id": "efac03a8-2c45-48b0-b58c-2ceb518dc0bd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f0cb5c12-cde3-4f51-9c32-c29ae2e1b8a3",
+      "barcode": null,
+      "title": "Extended Play",
+      "disambiguation": null,
+      "date": "2001-12-05",
+      "country": "US"
+    },
+    "total_tracks": 6,
+    "total_length": "36:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dhol Vajda",
+            "length": "5:51",
+            "artist": "Tigerstyle & Romey Gill",
+            "deezer": {
+              "id": 3651297132,
+              "link": "https://www.deezer.com/track/3651297132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/7/0/107a54e852f8556cddfccc64c9ccbfea.mp3?hdnea=exp=1795721888~acl=/api/1/1/1/0/7/0/107a54e852f8556cddfccc64c9ccbfea.mp3*~data=user_id=0,application_id=42~hmac=a20f543bf3c8790500f302d56f934609940d2f5c8a179f9a1283ab8ccdde68e2",
+              "preview_expires": "2026-11-26T19:38:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sucha / Balbiro",
+            "length": "6:15",
+            "artist": "Tigerstyle & Kuldeep Manak",
+            "deezer": {
+              "id": 3651297142,
+              "link": "https://www.deezer.com/track/3651297142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/7/0/a674f8b98bbfcd6b8faff1dba68e8fc2.mp3?hdnea=exp=1795721888~acl=/api/1/1/a/6/7/0/a674f8b98bbfcd6b8faff1dba68e8fc2.mp3*~data=user_id=0,application_id=42~hmac=26014b3ddc44953571cddee9bd9bbb513fe58997e6e27daab9166b104ea35a34",
+              "preview_expires": "2026-11-26T19:38:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gaddi Vich Beja",
+            "length": "6:38",
+            "artist": "Tigerstyle & Surinder Shinda",
+            "deezer": {
+              "id": 3651297152,
+              "link": "https://www.deezer.com/track/3651297152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/e/0/fce0e7e595acafab50cf2779ad9965ae.mp3?hdnea=exp=1795721888~acl=/api/1/1/f/c/e/0/fce0e7e595acafab50cf2779ad9965ae.mp3*~data=user_id=0,application_id=42~hmac=171f77c69e5a19bf8e34112974a934a9c45d0f28e065a1aaa8b1c4742366a5c3",
+              "preview_expires": "2026-11-26T19:38:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Yaar Noo Manaa",
+            "length": "5:15",
+            "artist": "Tigerstyle & Hema Sharma",
+            "deezer": {
+              "id": 3651297162,
+              "link": "https://www.deezer.com/track/3651297162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/4/0/a7474090ea2b555dc3b3e9db4af32438.mp3?hdnea=exp=1795721888~acl=/api/1/1/a/7/4/0/a7474090ea2b555dc3b3e9db4af32438.mp3*~data=user_id=0,application_id=42~hmac=5cce21441de6be5c86ac2caeb38af13c7c1ddf979e699af1eb8f3dbfe6ddd3bb",
+              "preview_expires": "2026-11-26T19:38:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Chardi Jawani",
+            "length": "6:18",
+            "artist": "Tigerstyle & Gurdas Maan",
+            "deezer": {
+              "id": 3651297172,
+              "link": "https://www.deezer.com/track/3651297172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/f/0/69f2b6802db06dbb92212bf38b5687d7.mp3?hdnea=exp=1795721888~acl=/api/1/1/6/9/f/0/69f2b6802db06dbb92212bf38b5687d7.mp3*~data=user_id=0,application_id=42~hmac=fa581e17b81527665025512447adcdaf7e42657119f3bce8ae4cc02de9da72dd",
+              "preview_expires": "2026-11-26T19:38:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Heer Di Kali (Part 1)",
+            "length": "6:38",
+            "artist": "Tigerstyle & Surinder Shinda",
+            "deezer": {
+              "id": 3651297182,
+              "link": "https://www.deezer.com/track/3651297182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/a/0/23a2b6aed2b42bbd950bdf6ba15b403a.mp3?hdnea=exp=1795721888~acl=/api/1/1/2/3/a/0/23a2b6aed2b42bbd950bdf6ba15b403a.mp3*~data=user_id=0,application_id=42~hmac=3a2e98f73c87b5e9c44a902668040ea4c30d59c075eb564eed4397003f89c853",
+              "preview_expires": "2026-11-26T19:38:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Tigerstyle/Extended Play.jpg"
+}

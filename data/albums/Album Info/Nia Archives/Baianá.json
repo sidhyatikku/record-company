@@ -1,0 +1,57 @@
+{
+  "title": "Baianá",
+  "artist": "Nia Archives",
+  "year": 2022,
+  "release_date": "2022-09-30",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "baião",
+    "jungle"
+  ],
+  "tags": [
+    "baião",
+    "jungle"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/80e94a30-e80c-4468-af6e-f96082255ee7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/359501117"
+  },
+  "musicbrainz_id": "80e94a30-e80c-4468-af6e-f96082255ee7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f914b157-81e1-4c6e-9118-2a78e7514ce9",
+      "barcode": null,
+      "title": "Baianá",
+      "disambiguation": null,
+      "date": "2022-09-30",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "2:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Baianá",
+            "length": "2:32",
+            "deezer": {
+              "id": 1926908957,
+              "link": "https://www.deezer.com/track/1926908957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/1/0/841bf1c27b2d067f898d3f4211694f7b.mp3?hdnea=exp=1795718851~acl=/api/1/1/8/4/1/0/841bf1c27b2d067f898d3f4211694f7b.mp3*~data=user_id=0,application_id=42~hmac=06765f08cc160e00ba2b9939e77c1b2f0a37b510f6ab5fe81e29b8f31ddb7b6e",
+              "preview_expires": "2026-11-26T18:47:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nia Archives/Baianá.jpg"
+}

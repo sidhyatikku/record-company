@@ -1,0 +1,50 @@
+{
+  "title": "Soch",
+  "artist": "MC Altaf",
+  "year": 2021,
+  "release_date": "2021-02-25",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0lQ9GvffDL17ufwTEqA7gm",
+    "deezer": "https://www.deezer.com/album/208325672"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0lQ9GvffDL17ufwTEqA7gm",
+      "title": "Soch",
+      "date": "2021-02-25"
+    },
+    "total_tracks": 1,
+    "total_length": "2:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Soch",
+            "length": "2:37",
+            "deezer": {
+              "id": 1247115042,
+              "link": "https://www.deezer.com/track/1247115042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/2/0/d12aca59418d2837d65b99317dfb4ad2.mp3?hdnea=exp=1795718349~acl=/api/1/1/d/1/2/0/d12aca59418d2837d65b99317dfb4ad2.mp3*~data=user_id=0,application_id=42~hmac=54aba2557f42a1062c3d6c6722988b2587ecb6e0be6d71e7feb27f506e15fdf9",
+              "preview_expires": "2026-11-26T18:39:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/MC Altaf/Soch.jpg"
+}

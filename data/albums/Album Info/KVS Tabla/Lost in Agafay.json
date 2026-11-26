@@ -1,0 +1,46 @@
+{
+  "title": "Lost in Agafay",
+  "artist": "KVS Tabla",
+  "year": 2025,
+  "release_date": "2025-11-13",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/34iQPW4TNB7btIG2Yd63Rk",
+    "deezer": "https://www.deezer.com/album/848846062"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/34iQPW4TNB7btIG2Yd63Rk",
+      "title": "Lost in Agafay",
+      "date": "2025-11-13"
+    },
+    "total_tracks": 1,
+    "total_length": "3:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lost in Agafay",
+            "length": "3:49",
+            "deezer": {
+              "id": 3633940922,
+              "link": "https://www.deezer.com/track/3633940922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/b/0/efbfe75b955294075f2af02320c7c9da.mp3?hdnea=exp=1795656367~acl=/api/1/1/e/f/b/0/efbfe75b955294075f2af02320c7c9da.mp3*~data=user_id=0,application_id=42~hmac=7ee2be928bff0f73d54c33730395b85dad7a31412b4277bf58134b7976d24021",
+              "preview_expires": "2026-11-26T01:26:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/KVS Tabla/Lost in Agafay.jpg"
+}

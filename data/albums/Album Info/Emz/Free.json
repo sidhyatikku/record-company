@@ -1,0 +1,51 @@
+{
+  "title": "Free",
+  "artist": "Emz, Nasser UK & Valor",
+  "year": 2023,
+  "release_date": "2023-08-10",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9d783bd3-1e31-4b8f-9747-f49176a6a6d6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/464219025"
+  },
+  "musicbrainz_id": "9d783bd3-1e31-4b8f-9747-f49176a6a6d6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/db177af4-e19b-419f-ad5f-738fbbd6f744",
+      "barcode": "5061002400842",
+      "title": "Free",
+      "disambiguation": null,
+      "date": "2023-08-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Free",
+            "length": "3:07",
+            "deezer": {
+              "id": 2367062475,
+              "link": "https://www.deezer.com/track/2367062475",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/4/0/23437f7ed125ea92f06f176ffd373732.mp3?hdnea=exp=1795653952~acl=/api/1/1/2/3/4/0/23437f7ed125ea92f06f176ffd373732.mp3*~data=user_id=0,application_id=42~hmac=9085d1c4fe6e856ce5a0750a23d8a32ced0f5236fce5bda9f9c65d5f423dcced",
+              "preview_expires": "2026-11-26T00:45:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Emz/Free.jpg"
+}

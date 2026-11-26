@@ -1,0 +1,471 @@
+{
+  "title": "Piano Works (selection)",
+  "artist": "Satie; Klára Körmendi",
+  "year": 1989,
+  "release_date": "1989",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "classical"
+  ],
+  "tags": [
+    "classical"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/107a1a53-b2bd-3282-824b-66eb38a88993",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0001938673",
+    "deezer": "https://www.deezer.com/album/579494271"
+  },
+  "musicbrainz_id": "107a1a53-b2bd-3282-824b-66eb38a88993",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fc080113-b426-3175-9eb6-4d08ddc7a5c3",
+      "barcode": "730099530521",
+      "title": "Piano Works (selection)",
+      "disambiguation": null,
+      "date": "1990-03",
+      "country": "HK"
+    },
+    "total_tracks": 36,
+    "total_length": "1:01:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Véritables préludes flasques pour un chien",
+            "length": "2:45",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810501,
+              "link": "https://www.deezer.com/track/2772810501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/1/0/831e19b18929759f5449990e65ebc431.mp3?hdnea=exp=1795654037~acl=/api/1/1/8/3/1/0/831e19b18929759f5449990e65ebc431.mp3*~data=user_id=0,application_id=42~hmac=2145132754bd6a485c18bbc2ca8c792542d74b876ab0d73535d7ff3bbba36eaf",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Trois Gnossiennes : I. Lent",
+            "length": "3:11",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810511,
+              "link": "https://www.deezer.com/track/2772810511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/1/0/47144f3f7b5a3891de5e20eee5694b5a.mp3?hdnea=exp=1795654037~acl=/api/1/1/4/7/1/0/47144f3f7b5a3891de5e20eee5694b5a.mp3*~data=user_id=0,application_id=42~hmac=127d9f127d7411ba1709e256d9372270dbe40edc94ab1e5e66a1102d2ee20d83",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Trois Gnossiennes : II. Avec étonnement",
+            "length": "1:38",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810521,
+              "link": "https://www.deezer.com/track/2772810521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/0/0/ff05e6c075cfb9dfd5f183d6b98b8c02.mp3?hdnea=exp=1795654037~acl=/api/1/1/f/f/0/0/ff05e6c075cfb9dfd5f183d6b98b8c02.mp3*~data=user_id=0,application_id=42~hmac=ac244d0fd1d787beff72985a1b162fd9fb7996880197b7aeea62185c7e1c5edd",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Trois Gnossiennes : III. Lent",
+            "length": "2:25",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810531,
+              "link": "https://www.deezer.com/track/2772810531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/b/0/69b8c38ce5bd78d460f8dcc2968c78c0.mp3?hdnea=exp=1795654037~acl=/api/1/1/6/9/b/0/69b8c38ce5bd78d460f8dcc2968c78c0.mp3*~data=user_id=0,application_id=42~hmac=0bc9ef89a5d1b03a792b56055227ee6e9b3428d4e86bb5729e8a91cb2b9378c9",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Quatrième Gnossienne (lent)",
+            "length": "2:56",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810541,
+              "link": "https://www.deezer.com/track/2772810541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/2/0/ad20a16c801c99b91f433eef47b5da3d.mp3?hdnea=exp=1795654037~acl=/api/1/1/a/d/2/0/ad20a16c801c99b91f433eef47b5da3d.mp3*~data=user_id=0,application_id=42~hmac=ddfd7967b3dd8bd04e0c5ac6265fe134b93ee8a499a1c8628195de9c05c8f1e1",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Cinquième Gnossienne (modéré)",
+            "length": "2:29",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810551,
+              "link": "https://www.deezer.com/track/2772810551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/3/0/d83a4385edd0a876419168d343d695a7.mp3?hdnea=exp=1795654037~acl=/api/1/1/d/8/3/0/d83a4385edd0a876419168d343d695a7.mp3*~data=user_id=0,application_id=42~hmac=8902850d25bd93238a6525fb185b5288cda1d9a64a664d26965e3c0a62d796c7",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Sixième Gnossienne (avec conviction et avec une tristesse rigoureuse)",
+            "length": "1:43",
+            "artist": "Erik Satie"
+          },
+          {
+            "number": "8",
+            "title": "Menus propos enfantins : I. Chant guerrier du roi des haricots (mouvement de marche)",
+            "length": "0:54",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810571,
+              "link": "https://www.deezer.com/track/2772810571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/9/0/3a92c638e6e9945ec3c858d6df6edab2.mp3?hdnea=exp=1795654037~acl=/api/1/1/3/a/9/0/3a92c638e6e9945ec3c858d6df6edab2.mp3*~data=user_id=0,application_id=42~hmac=abb855d879d529cdb9ca54fe0f838ed96f4bd32ce0402f4ca8653e1660e8dcd6",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Menus propos enfantins : II. Ce que dit la petite princesse des tulipes (très lent)",
+            "length": "0:40",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810581,
+              "link": "https://www.deezer.com/track/2772810581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/a/0/ccadce87518b95c310d44e0b43f5c2f9.mp3?hdnea=exp=1795654037~acl=/api/1/1/c/c/a/0/ccadce87518b95c310d44e0b43f5c2f9.mp3*~data=user_id=0,application_id=42~hmac=21ca85152528773b38341e780d09e013885f79df56586c84335f435e245161a2",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Menus propos enfantins : III. Valse du chocolat aux amandes (valse)",
+            "length": "0:51",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810591,
+              "link": "https://www.deezer.com/track/2772810591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/a/0/d4ac0957591db3c065361b66e7a64f19.mp3?hdnea=exp=1795654037~acl=/api/1/1/d/4/a/0/d4ac0957591db3c065361b66e7a64f19.mp3*~data=user_id=0,application_id=42~hmac=f64b5dfbd73817bb520b0a943ee35affe33767920fc2eb61650a9e9be80d9278",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Enfantillages pittoresques : I. Petit Prélude à la journée (modéré)",
+            "length": "0:32",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810601,
+              "link": "https://www.deezer.com/track/2772810601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/9/0/f796b0016d44634167e4e6288e149ffd.mp3?hdnea=exp=1795654037~acl=/api/1/1/f/7/9/0/f796b0016d44634167e4e6288e149ffd.mp3*~data=user_id=0,application_id=42~hmac=db2f1a531e1af0b4f3efb54d2f40a0a5abd4ffebcb590f3e12ac0d14ff75557f",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Enfantillages pittoresques : II. Berceuse (lent)",
+            "length": "1:05",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810611,
+              "link": "https://www.deezer.com/track/2772810611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/8/0/f5817b94f90553744ac2a5deb7b5bedd.mp3?hdnea=exp=1795654037~acl=/api/1/1/f/5/8/0/f5817b94f90553744ac2a5deb7b5bedd.mp3*~data=user_id=0,application_id=42~hmac=5365628af6bf5bb51e9a0e42edf070533883a2af165dd638a8bb2da29aaa43b8",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Enfantillages pittoresques : III. Marche du grand escalier",
+            "length": "1:17",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810621,
+              "link": "https://www.deezer.com/track/2772810621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/f/0/2cf5c9d612f71a67de279bea7012f819.mp3?hdnea=exp=1795654037~acl=/api/1/1/2/c/f/0/2cf5c9d612f71a67de279bea7012f819.mp3*~data=user_id=0,application_id=42~hmac=9eab4081fd70f01c58add67d43fdfb37d46c69b06ab11ae2518929a649ab54fd",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Croquis et agaceries d'un gros bonhomme en bois : I. Tyrolienne turque",
+            "length": "1:23",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810631,
+              "link": "https://www.deezer.com/track/2772810631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/2/0/1a27ee8e14c3512f2809bb8b974ae3e4.mp3?hdnea=exp=1795654037~acl=/api/1/1/1/a/2/0/1a27ee8e14c3512f2809bb8b974ae3e4.mp3*~data=user_id=0,application_id=42~hmac=b167d8bf80b822c693eb18ad37d48d9f667354956990ff7a6cf432c526309e60",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Croquis et agaceries d'un gros bonhomme en bois : II. Danse maigre (à la manière de ces messieurs)",
+            "length": "1:29",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810641,
+              "link": "https://www.deezer.com/track/2772810641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/3/0/9d3211ce79bff209252a6a483f41bfa1.mp3?hdnea=exp=1795654037~acl=/api/1/1/9/d/3/0/9d3211ce79bff209252a6a483f41bfa1.mp3*~data=user_id=0,application_id=42~hmac=a9311c1d74c166442676218d56f7ed6e818b5de51cb91ef24232551cb376fb97",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Croquis et agaceries d'un gros bonhomme en bois : III. Españana",
+            "length": "1:36",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810651,
+              "link": "https://www.deezer.com/track/2772810651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/9/0/8096f1f18527ddfb23c8e4080a291d4c.mp3?hdnea=exp=1795654037~acl=/api/1/1/8/0/9/0/8096f1f18527ddfb23c8e4080a291d4c.mp3*~data=user_id=0,application_id=42~hmac=704c9a92084c5ba462b5f01b3dd6bd70f48d2a56dcbb82bf9ec09d615aaac4d0",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Chapitres tournés en tous sens : I. Celle qui parle trop",
+            "length": "0:56",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810661,
+              "link": "https://www.deezer.com/track/2772810661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/3/0/f93e1a8533f10c0b5ddac1581b7da4d3.mp3?hdnea=exp=1795654037~acl=/api/1/1/f/9/3/0/f93e1a8533f10c0b5ddac1581b7da4d3.mp3*~data=user_id=0,application_id=42~hmac=d8b6c832edff9da2825dd4966145fb49f3dfe5cf181255519209a90e3eb8ef11",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Chapitres tournés en tous sens : II. Le Porteur de grosses pierres",
+            "length": "1:52",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810671,
+              "link": "https://www.deezer.com/track/2772810671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/3/0/153169873227aa3225986cb6d83548b0.mp3?hdnea=exp=1795654037~acl=/api/1/1/1/5/3/0/153169873227aa3225986cb6d83548b0.mp3*~data=user_id=0,application_id=42~hmac=49beef35a0a37a3283809a971526acf019aa7eee88c2c92fcf83375fee2ff7c9",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Chapitres tournés en tous sens : III. Regrets des enfermés. Jonas et Latude",
+            "length": "2:06",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810681,
+              "link": "https://www.deezer.com/track/2772810681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/3/0/0636f098094dfc0c91ac75b3c1e907b7.mp3?hdnea=exp=1795654037~acl=/api/1/1/0/6/3/0/0636f098094dfc0c91ac75b3c1e907b7.mp3*~data=user_id=0,application_id=42~hmac=3f7e4b7572d161444db7fb8c2eae93d1cbdf880988d99f3862df59a8e42402fa",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Descriptions automatiques : I. Sur un vaisseau (assez lent)",
+            "length": "1:24",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810691,
+              "link": "https://www.deezer.com/track/2772810691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/b/0/f9bd9910b3b58abec7f5a1e148d0195f.mp3?hdnea=exp=1795654037~acl=/api/1/1/f/9/b/0/f9bd9910b3b58abec7f5a1e148d0195f.mp3*~data=user_id=0,application_id=42~hmac=a14c4d1d497399ab535b6de46249e0c161ae13105fba064e417098f453c0b671",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Descriptions automatiques : II. Sur une lanterne (lent)",
+            "length": "1:25",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810701,
+              "link": "https://www.deezer.com/track/2772810701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56ad10e212bb329824f058e54d08cfd0.mp3?hdnea=exp=1795654037~acl=/api/1/1/5/6/a/0/56ad10e212bb329824f058e54d08cfd0.mp3*~data=user_id=0,application_id=42~hmac=8975e720dc5898a308f6a4a13b2a951df3e04eaf17880722651790fe2e2e5863",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Descriptions automatiques : III. Sur un casque",
+            "length": "1:02",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810711,
+              "link": "https://www.deezer.com/track/2772810711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/e/0/11ebcc9c4c2169c5f9bb0c7ba1278e78.mp3?hdnea=exp=1795654037~acl=/api/1/1/1/1/e/0/11ebcc9c4c2169c5f9bb0c7ba1278e78.mp3*~data=user_id=0,application_id=42~hmac=6cf957de80176fbb63165e1f1aa17adf4e3f1645a1b9efd1a18b03b55996002d",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "Embryons desséchés : I. D'Holothurie",
+            "length": "2:08",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810721,
+              "link": "https://www.deezer.com/track/2772810721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/e/0/c2e298e530ec44d2c177ddf0b8074ab4.mp3?hdnea=exp=1795654037~acl=/api/1/1/c/2/e/0/c2e298e530ec44d2c177ddf0b8074ab4.mp3*~data=user_id=0,application_id=42~hmac=81f88ced231d6fbfcbb3cd4b79134944075e1b05cc61cd9164a7973cb09f411b",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Embryons desséchés : II. D'Edriophthalma",
+            "length": "1:59",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810731,
+              "link": "https://www.deezer.com/track/2772810731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/5/0/e0557b6baa2a5fae7cc7d3cfb1ae21be.mp3?hdnea=exp=1795654037~acl=/api/1/1/e/0/5/0/e0557b6baa2a5fae7cc7d3cfb1ae21be.mp3*~data=user_id=0,application_id=42~hmac=c483e9d4b0755adda7aba3e5fc6365c1f2b03e27b41d93ef266f921e94d3cd53",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "Embryons desséchés : III. De Podophthalma",
+            "length": "1:35",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810741,
+              "link": "https://www.deezer.com/track/2772810741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/f/0/5ff3075f9c133c3bc44e4b90ea174c73.mp3?hdnea=exp=1795654037~acl=/api/1/1/5/f/f/0/5ff3075f9c133c3bc44e4b90ea174c73.mp3*~data=user_id=0,application_id=42~hmac=74c95b975b3d4674dd440726369e34649dbd1c447fba38052bd512da144e4c19",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "Trois Gymnopédies : I. Lent et douloureux",
+            "length": "2:40",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810751,
+              "link": "https://www.deezer.com/track/2772810751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/5/0/375e8181df8f552fc17e446518c86f9c.mp3?hdnea=exp=1795654037~acl=/api/1/1/3/7/5/0/375e8181df8f552fc17e446518c86f9c.mp3*~data=user_id=0,application_id=42~hmac=9c1e611a86b0fad0351ee4e6b17d57efcbcaccd4a93d7607b96c7efa5d738f99",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "Trois Gymnopédies : II. Lent et triste",
+            "length": "2:12",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810771,
+              "link": "https://www.deezer.com/track/2772810771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/b/0/52bafa19ca2213afc27ac5dd4cb42e4b.mp3?hdnea=exp=1795654037~acl=/api/1/1/5/2/b/0/52bafa19ca2213afc27ac5dd4cb42e4b.mp3*~data=user_id=0,application_id=42~hmac=028dde16ce7c193627dce7316a5e0c87e4c76ad7a101ac5897c081802cca5fd0",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "Trois Gymnopédies : III. Lent et grave",
+            "length": "2:01",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810781,
+              "link": "https://www.deezer.com/track/2772810781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/6/0/106b7d7e5f8e8044790cc4aa610ead86.mp3?hdnea=exp=1795654037~acl=/api/1/1/1/0/6/0/106b7d7e5f8e8044790cc4aa610ead86.mp3*~data=user_id=0,application_id=42~hmac=062695de4c36f4e3b9561a61bb307f18cdebb1f5cf19fe4fbec608a98332273c",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "Passacaille (pas trop vif)",
+            "length": "2:53",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810791,
+              "link": "https://www.deezer.com/track/2772810791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/8/0/2081dc27da713ed359e4a7051ff1b9b2.mp3?hdnea=exp=1795654037~acl=/api/1/1/2/0/8/0/2081dc27da713ed359e4a7051ff1b9b2.mp3*~data=user_id=0,application_id=42~hmac=4197b79a6c81451ff88451880cbc6be97cc7a553005f775a371848bd2f3067bc",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "Désespoir agréable (calme)",
+            "length": "1:01",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810801,
+              "link": "https://www.deezer.com/track/2772810801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/f/0/73fff4ed4ced1920c70749a71e7c9060.mp3?hdnea=exp=1795654037~acl=/api/1/1/7/3/f/0/73fff4ed4ced1920c70749a71e7c9060.mp3*~data=user_id=0,application_id=42~hmac=7fef87035575f9fb69f0eed682fa7c2ca5f761fcb3c2f4f8dfc1eed9b603262a",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "31",
+            "title": "Effronterie",
+            "length": "2:14",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810811,
+              "link": "https://www.deezer.com/track/2772810811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/5/0/565f196e4acb184fbc908043e2fe2838.mp3?hdnea=exp=1795654037~acl=/api/1/1/5/6/5/0/565f196e4acb184fbc908043e2fe2838.mp3*~data=user_id=0,application_id=42~hmac=8ded336da895113023610075f7dfe05be8289575e92f3ade8321a69610c8ab2f",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "32",
+            "title": "Poésie (andante) (revised by Robert Caby)",
+            "length": "0:48",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810821,
+              "link": "https://www.deezer.com/track/2772810821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/c/0/b0ce18b1d9d008508735cb6adc3bab07.mp3?hdnea=exp=1795654037~acl=/api/1/1/b/0/c/0/b0ce18b1d9d008508735cb6adc3bab07.mp3*~data=user_id=0,application_id=42~hmac=4165b878e335568961bb748da451540d2b7b7a54e46e766034b96a78ddcf8671",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "33",
+            "title": "Prélude canin (lent) (revised by Robert Caby)",
+            "length": "1:03",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810831,
+              "link": "https://www.deezer.com/track/2772810831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/3/0/863de34186e8adbe70aa1fc8c6152913.mp3?hdnea=exp=1795654037~acl=/api/1/1/8/6/3/0/863de34186e8adbe70aa1fc8c6152913.mp3*~data=user_id=0,application_id=42~hmac=90cb38f160d77ca5fb8be87895e5ea4dfa8510ec9663a9089c602fdd719ee84c",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "34",
+            "title": "Profondeur (avec calme)",
+            "length": "1:23",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810841,
+              "link": "https://www.deezer.com/track/2772810841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/f/0/2af1f7e0c1c9caa1a9cc2865855ec45c.mp3?hdnea=exp=1795654037~acl=/api/1/1/2/a/f/0/2af1f7e0c1c9caa1a9cc2865855ec45c.mp3*~data=user_id=0,application_id=42~hmac=4cdea29367a869ed1987bd36fabf19875735081eeefba4aadf4c188f2c246038",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "35",
+            "title": "Songe creux (très calme) (revised by Robert Caby)",
+            "length": "1:32",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810851,
+              "link": "https://www.deezer.com/track/2772810851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/a/0/43aec2691001c2e7f1df6a3b8d4964d8.mp3?hdnea=exp=1795654037~acl=/api/1/1/4/3/a/0/43aec2691001c2e7f1df6a3b8d4964d8.mp3*~data=user_id=0,application_id=42~hmac=f74c83a38edc684f211f91fe7b81453a72fd5583808b48e5f3e80f175664de3a",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          },
+          {
+            "number": "36",
+            "title": "Rag-Time \"Parade\" from the \"Ballet réaliste\" Parade: (arranged by Hans Ourdine)",
+            "length": "2:35",
+            "artist": "Erik Satie",
+            "deezer": {
+              "id": 2772810861,
+              "link": "https://www.deezer.com/track/2772810861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/4/0/054f28cfac2b9e52bde66a327864112c.mp3?hdnea=exp=1795654037~acl=/api/1/1/0/5/4/0/054f28cfac2b9e52bde66a327864112c.mp3*~data=user_id=0,application_id=42~hmac=8f4906c6c034ab843c5ea8f578a433a238533cc42f3d43ff29dda6be368e55b0",
+              "preview_expires": "2026-11-26T00:47:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Erik Satie/Satie- Piano Works (Selection).jpg"
+}

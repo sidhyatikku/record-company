@@ -1,0 +1,46 @@
+{
+  "title": "Jugnoo",
+  "artist": "Fake Shamans",
+  "year": 2023,
+  "release_date": "2023-03-31",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/72E4irvVE7s4fQit1XLCn0",
+    "deezer": "https://www.deezer.com/album/417219057"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/72E4irvVE7s4fQit1XLCn0",
+      "title": "Jugnoo",
+      "date": "2023-03-31"
+    },
+    "total_tracks": 1,
+    "total_length": "5:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jugnoo",
+            "length": "5:35",
+            "deezer": {
+              "id": 2189762487,
+              "link": "https://www.deezer.com/track/2189762487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/9/0/5e99d07932c734c9f0ebe09f9c7b7124.mp3?hdnea=exp=1795654151~acl=/api/1/1/5/e/9/0/5e99d07932c734c9f0ebe09f9c7b7124.mp3*~data=user_id=0,application_id=42~hmac=1e56126073a4e86c152dd986892fb5d0ac0330d7e3337affab9b5d404d13a9ff",
+              "preview_expires": "2026-11-26T00:49:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Fake Shamans/Jugnoo.jpg"
+}

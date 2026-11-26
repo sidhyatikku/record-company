@@ -1,0 +1,55 @@
+{
+  "title": "All the Things You Are",
+  "artist": "Sentimental Mood Trio",
+  "year": 2023,
+  "release_date": "2023-03-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cfdb42f1-abbb-42d4-a635-5684456b9ee5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/692407691"
+  },
+  "musicbrainz_id": "cfdb42f1-abbb-42d4-a635-5684456b9ee5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f098af53-9c1f-4675-a0a5-afc2a6b133cc",
+      "barcode": "4066218654455",
+      "title": "All the Things You Are",
+      "disambiguation": null,
+      "date": "2023-03-17",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "5:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "All the Things You Are",
+            "length": "5:24",
+            "deezer": {
+              "id": 3169223101,
+              "link": "https://www.deezer.com/track/3169223101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/d/0/a8d70ad3a105b1dd37465b4ef31bfae1.mp3?hdnea=exp=1795651691~acl=/api/1/1/a/8/d/0/a8d70ad3a105b1dd37465b4ef31bfae1.mp3*~data=user_id=0,application_id=42~hmac=81a58bf1d17474e58daa71c9513b43383fd3907791b7d4faccd6e9c819b787ca",
+              "preview_expires": "2026-11-26T00:08:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Armel Dupas Trio/All The Things You Are.jpg"
+}

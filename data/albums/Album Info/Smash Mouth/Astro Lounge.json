@@ -1,0 +1,229 @@
+{
+  "title": "Astro Lounge",
+  "artist": "Smash Mouth",
+  "year": 1999,
+  "release_date": "1999-06-08",
+  "type": "Album",
+  "description": "Astro Lounge is the second studio album by American rock band Smash Mouth, released on June 8, 1999 by Interscope Records.",
+  "genres": [
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "indie rock",
+    "power pop",
+    "ska punk",
+    "sunshine pop"
+  ],
+  "tags": [
+    "alternative rock",
+    "pop rock",
+    "rock",
+    "indie rock",
+    "power pop",
+    "ska punk",
+    "ska-punk",
+    "sunshine pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.25,
+    "votes": 4
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bc8b23b4-3ef9-3764-90cd-bbb08f8c2926",
+    "wikipedia": "https://en.wikipedia.org/wiki/Astro_Lounge",
+    "allmusic": "https://www.allmusic.com/album/mw0000666862",
+    "discogs": "https://www.discogs.com/master/130872",
+    "wikidata": "https://www.wikidata.org/wiki/Q1935074",
+    "deezer": "https://www.deezer.com/album/217808"
+  },
+  "musicbrainz_id": "bc8b23b4-3ef9-3764-90cd-bbb08f8c2926",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3bce4b08-fdb7-4b65-beed-504256ddcfd4",
+      "barcode": "606949031626",
+      "title": "Astro Lounge",
+      "disambiguation": "mfg by Universal",
+      "date": "1999-06-08",
+      "country": "US"
+    },
+    "total_tracks": 15,
+    "total_length": "50:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Who’s There",
+            "length": "3:33",
+            "deezer": {
+              "id": 2176947,
+              "link": "https://www.deezer.com/track/2176947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/e/0/cfed776bdcd20b7dbd36c1f4fa775dae.mp3?hdnea=exp=1795720789~acl=/api/1/1/c/f/e/0/cfed776bdcd20b7dbd36c1f4fa775dae.mp3*~data=user_id=0,application_id=42~hmac=4786353bfcebdd683eb09e4ea8d67d0468b2d4cb3c79124c900f86d25ac2f1ee",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Diggin’ Your Scene",
+            "length": "3:10",
+            "deezer": {
+              "id": 2176948,
+              "link": "https://www.deezer.com/track/2176948",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/4/0/174c211673189bbb55490d9aa76d1a92.mp3?hdnea=exp=1795720789~acl=/api/1/1/1/7/4/0/174c211673189bbb55490d9aa76d1a92.mp3*~data=user_id=0,application_id=42~hmac=4d292838817b60c7205f092b9d917edb4de834173a276aaad913b31d194fa76f",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I Just Wanna See",
+            "length": "3:45",
+            "deezer": {
+              "id": 2176949,
+              "link": "https://www.deezer.com/track/2176949",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/1/0/db10dd2c52e62f12f1947d77f78ace28.mp3?hdnea=exp=1795720789~acl=/api/1/1/d/b/1/0/db10dd2c52e62f12f1947d77f78ace28.mp3*~data=user_id=0,application_id=42~hmac=ff9b1ee7278e4db198f362ea0d1b89bcdfdb884bdd6a154ab524c80196d6f948",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Waste",
+            "length": "3:27",
+            "deezer": {
+              "id": 2176950,
+              "link": "https://www.deezer.com/track/2176950",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/4/0/9943625086d01de1cdcfe9dc1fc31491.mp3?hdnea=exp=1795720789~acl=/api/1/1/9/9/4/0/9943625086d01de1cdcfe9dc1fc31491.mp3*~data=user_id=0,application_id=42~hmac=0eb8410430530c671ac696a3dc09b8b9e0a19ae01e526c026b0e8ac045e43c8d",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "All Star",
+            "length": "3:21",
+            "deezer": {
+              "id": 2176951,
+              "link": "https://www.deezer.com/track/2176951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/6/0/826ddc4a677e4ee26de2943be43c353e.mp3?hdnea=exp=1795720789~acl=/api/1/1/8/2/6/0/826ddc4a677e4ee26de2943be43c353e.mp3*~data=user_id=0,application_id=42~hmac=eb8afd9ad5be189558d8a8dba612a352046ab8201bf68c6fd10018a914ad0f05",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Satellite",
+            "length": "3:39",
+            "deezer": {
+              "id": 2176952,
+              "link": "https://www.deezer.com/track/2176952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/8/0/0b8602767d7fce7e07fc09791085c46a.mp3?hdnea=exp=1795720789~acl=/api/1/1/0/b/8/0/0b8602767d7fce7e07fc09791085c46a.mp3*~data=user_id=0,application_id=42~hmac=cf30fda7fe3ddd394510f21ee83614f6c7b8447985138d72bc3e3967a402e2c0",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Radio",
+            "length": "3:21",
+            "deezer": {
+              "id": 2176953,
+              "link": "https://www.deezer.com/track/2176953",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/5/0/8e545c66b0ba8da1fd48067896649c08.mp3?hdnea=exp=1795720789~acl=/api/1/1/8/e/5/0/8e545c66b0ba8da1fd48067896649c08.mp3*~data=user_id=0,application_id=42~hmac=3be2fa5560a5face7a5556cf3461fbc6be2d85f6a1efb55f50ff9b9659ac8996",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Stoned",
+            "length": "4:10",
+            "deezer": {
+              "id": 2176954,
+              "link": "https://www.deezer.com/track/2176954",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/d/0/8ed1dccc64e5cf13dae251d54b9c7d9c.mp3?hdnea=exp=1795720789~acl=/api/1/1/8/e/d/0/8ed1dccc64e5cf13dae251d54b9c7d9c.mp3*~data=user_id=0,application_id=42~hmac=4e483e33776a85b6b1b19989df85a49ff3d33a279a4f7047c3c02cfbd073718c",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Then the Morning Comes",
+            "length": "3:04",
+            "deezer": {
+              "id": 2176955,
+              "link": "https://www.deezer.com/track/2176955",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/c/0/82ca56d29607e358f1c13d1623f7a1fb.mp3?hdnea=exp=1795720789~acl=/api/1/1/8/2/c/0/82ca56d29607e358f1c13d1623f7a1fb.mp3*~data=user_id=0,application_id=42~hmac=262453276d1b2e94a83f26ec458ae48b75bd228aacd5cc192cfbeef4c632e7d2",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Road Man",
+            "length": "2:31",
+            "deezer": {
+              "id": 2176956,
+              "link": "https://www.deezer.com/track/2176956",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/4/0/5c44bedb8767c16d7ed684889b9f2c19.mp3?hdnea=exp=1795720789~acl=/api/1/1/5/c/4/0/5c44bedb8767c16d7ed684889b9f2c19.mp3*~data=user_id=0,application_id=42~hmac=fa90a11f3fb38f32bd80cea72853a0a2d4baecd0cf5b1f419ba979d04f06c642",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Fallen Horses",
+            "length": "4:06",
+            "deezer": {
+              "id": 2176957,
+              "link": "https://www.deezer.com/track/2176957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/b/0/6db12b9d44d76812cb3c9144031e5429.mp3?hdnea=exp=1795720789~acl=/api/1/1/6/d/b/0/6db12b9d44d76812cb3c9144031e5429.mp3*~data=user_id=0,application_id=42~hmac=6e06c0f7a8b0fdf7fda2b9182efdcedf23114ed025494c54651230d200c9647a",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Defeat You",
+            "length": "3:54",
+            "deezer": {
+              "id": 2176958,
+              "link": "https://www.deezer.com/track/2176958",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/0/0/9e0debc78bae96f68a7b8cbbcb4cd032.mp3?hdnea=exp=1795720789~acl=/api/1/1/9/e/0/0/9e0debc78bae96f68a7b8cbbcb4cd032.mp3*~data=user_id=0,application_id=42~hmac=f727d78a9541d2a2a9f1ebd7e8d66a63ccae6c5e82d1f66966bbee97122a500a",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Come On Come On",
+            "length": "2:33",
+            "deezer": {
+              "id": 2176959,
+              "link": "https://www.deezer.com/track/2176959",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/3/0/ef35741e8b360cc39840a39fa9c046f2.mp3?hdnea=exp=1795720789~acl=/api/1/1/e/f/3/0/ef35741e8b360cc39840a39fa9c046f2.mp3*~data=user_id=0,application_id=42~hmac=9c7187d7451dbe5845fb278851092bc3cf2cb8bb07509279e3f84d26f7eb6c6b",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Home",
+            "length": "3:12",
+            "deezer": {
+              "id": 2176960,
+              "link": "https://www.deezer.com/track/2176960",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/f/0/58f811b12402174d0633378235960f45.mp3?hdnea=exp=1795720789~acl=/api/1/1/5/8/f/0/58f811b12402174d0633378235960f45.mp3*~data=user_id=0,application_id=42~hmac=37979e465b61a60dc6af13a9d2c9ba758dbb3cd38f220a29d50badd5729e9e64",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Can’t Get Enough of You Baby",
+            "length": "2:30",
+            "deezer": {
+              "id": 2176961,
+              "link": "https://www.deezer.com/track/2176961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/2/0/492f08ff22b99c239e2871af7cde375c.mp3?hdnea=exp=1795720789~acl=/api/1/1/4/9/2/0/492f08ff22b99c239e2871af7cde375c.mp3*~data=user_id=0,application_id=42~hmac=251b44eed56c312c81b8607f1e4470637418ab149fc15bde979dc0744bc722cd",
+              "preview_expires": "2026-11-26T19:19:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Smash Mouth/Astro Lounge.jpg"
+}

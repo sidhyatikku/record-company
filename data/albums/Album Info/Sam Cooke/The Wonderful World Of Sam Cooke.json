@@ -1,0 +1,124 @@
+{
+  "title": "The Wonderful World of Sam Cooke",
+  "artist": "Sam Cooke",
+  "year": 1960,
+  "release_date": "1960",
+  "type": "Album + Compilation",
+  "description": "The Wonderful World of Sam Cooke is a compilation album by American singer-songwriter Sam Cooke, released by Keen Records in October 1960.",
+  "genres": [
+    "r&b",
+    "soul"
+  ],
+  "tags": [
+    "r&b",
+    "soul"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bcae91a1-18a5-3a79-a50f-8d9e39d607e8",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Wonderful_World_of_Sam_Cooke",
+    "allmusic": "https://www.allmusic.com/album/mw0000763009",
+    "discogs": "https://www.discogs.com/master/400369",
+    "wikidata": "https://www.wikidata.org/wiki/Q17031383",
+    "deezer": null
+  },
+  "musicbrainz_id": "bcae91a1-18a5-3a79-a50f-8d9e39d607e8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f0fe1b40-de9e-4a02-ac9e-fb16703f1d85",
+      "barcode": "0018771884620",
+      "title": "The Wonderful World of Sam Cooke",
+      "disambiguation": null,
+      "date": "2011-06-27",
+      "country": null
+    },
+    "total_tracks": 15,
+    "total_length": "37:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "(What a) Wonderful World",
+            "length": "2:06"
+          },
+          {
+            "number": "2",
+            "title": "Desire Me",
+            "length": "2:31"
+          },
+          {
+            "number": "3",
+            "title": "Summertime, Part 1",
+            "length": "2:21"
+          },
+          {
+            "number": "4",
+            "title": "Almost in Your Arms (love song from ”Houseboat”)",
+            "length": "2:05"
+          },
+          {
+            "number": "5",
+            "title": "That’s Heaven to Me",
+            "length": "2:52"
+          },
+          {
+            "number": "6",
+            "title": "No One (Can Ever Take Your Place)",
+            "length": "2:23"
+          },
+          {
+            "number": "7",
+            "title": "With You",
+            "length": "2:36"
+          },
+          {
+            "number": "8",
+            "title": "Blue Moon",
+            "length": "2:48"
+          },
+          {
+            "number": "9",
+            "title": "Stealing Kisses",
+            "length": "2:10"
+          },
+          {
+            "number": "10",
+            "title": "You Were Made for Me",
+            "length": "2:53"
+          },
+          {
+            "number": "11",
+            "title": "There I’ve Said It Again",
+            "length": "1:58"
+          },
+          {
+            "number": "12",
+            "title": "I Thank God",
+            "length": "2:58"
+          },
+          {
+            "number": "13",
+            "title": "Steal Away",
+            "length": "2:15"
+          },
+          {
+            "number": "14",
+            "title": "Deep River",
+            "length": "2:49"
+          },
+          {
+            "number": "15",
+            "title": "One Hour Ahead of the Posse",
+            "length": "2:48"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sam Cooke/The Wonderful World Of Sam Cooke.jpg"
+}

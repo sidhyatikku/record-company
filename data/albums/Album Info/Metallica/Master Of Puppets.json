@@ -1,0 +1,175 @@
+{
+  "title": "Master of Puppets",
+  "artist": "Metallica",
+  "year": 1986,
+  "release_date": "1986-03-03",
+  "type": "Album",
+  "description": "Master of Puppets is the third studio album by the American heavy metal band Metallica, released on March 3, 1986, by Elektra Records. Recorded in Copenhagen, Denmark, at Sweet Silence Studios with producer Flemming Rasmussen, it is the band's final album to feature bassist Cliff Burton. While touring in support of Master of Puppets, he died on September 27, 1986, after the band's tour bus was involved in an accident in Dörarp, Sweden.",
+  "genres": [
+    "thrash metal",
+    "heavy metal",
+    "metal",
+    "progressive",
+    "speed metal"
+  ],
+  "tags": [
+    "thrash metal",
+    "heavy metal",
+    "metal",
+    "aggressive",
+    "angry",
+    "energetic",
+    "heavy",
+    "political",
+    "progressive",
+    "rebellious",
+    "serious",
+    "speed metal",
+    "technical",
+    "anthemic",
+    "anti-authoritarian",
+    "apocalyptic",
+    "bay area thrash metal",
+    "chugging",
+    "complex",
+    "dark",
+    "death",
+    "drugs",
+    "epic",
+    "male vocalist",
+    "martial",
+    "melodic",
+    "menacing",
+    "mental health",
+    "pessimistic",
+    "punchy",
+    "rhythmic",
+    "uncommon time signatures",
+    "war"
+  ],
+  "rating": {
+    "value_out_of_5": 4.6,
+    "votes": 83
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3d00fb45-f8ab-3436-a8e1-b4bfc4d66913",
+    "wikipedia": "https://en.wikipedia.org/wiki/Master_of_Puppets",
+    "allmusic": "https://www.allmusic.com/album/mw0000667490",
+    "discogs": "https://www.discogs.com/master/6495",
+    "wikidata": "https://www.wikidata.org/wiki/Q187507",
+    "deezer": "https://www.deezer.com/album/51188172"
+  },
+  "musicbrainz_id": "3d00fb45-f8ab-3436-a8e1-b4bfc4d66913",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/54ea68f6-5aa3-45bb-b4ca-73bbebdeb8e8",
+      "barcode": "602557932621",
+      "title": "Master of Puppets",
+      "disambiguation": "Remastered",
+      "date": "2016",
+      "country": "US"
+    },
+    "total_tracks": 8,
+    "total_length": "54:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Battery",
+            "length": "5:12",
+            "deezer": {
+              "id": 425695562,
+              "link": "https://www.deezer.com/track/425695562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/6/0/a26b5702643997af607e27d29753befc.mp3?hdnea=exp=1795718378~acl=/api/1/1/a/2/6/0/a26b5702643997af607e27d29753befc.mp3*~data=user_id=0,application_id=42~hmac=6e2b0702b5ecd6a01302b2fabf3a30317d5d57e89fb4ac6a3955eec097e292fb",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Master of Puppets",
+            "length": "8:35",
+            "deezer": {
+              "id": 425695572,
+              "link": "https://www.deezer.com/track/425695572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/7/0/0577bf348914d10746af23be8b363b47.mp3?hdnea=exp=1795718378~acl=/api/1/1/0/5/7/0/0577bf348914d10746af23be8b363b47.mp3*~data=user_id=0,application_id=42~hmac=d044fda3626a5db8f7cc2064bdd4e309cfecdf2a71690afced60e3883e5b906b",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Thing That Should Not Be",
+            "length": "6:36",
+            "deezer": {
+              "id": 425695582,
+              "link": "https://www.deezer.com/track/425695582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/8/0/32867d3baaed04ba25b2638605e3ba70.mp3?hdnea=exp=1795718378~acl=/api/1/1/3/2/8/0/32867d3baaed04ba25b2638605e3ba70.mp3*~data=user_id=0,application_id=42~hmac=beca49f48f530752214df0eff7fd27f588385a8bc5a2e6d8b60d3d8614f3c7c5",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Welcome Home (Sanitarium)",
+            "length": "6:27",
+            "deezer": {
+              "id": 425695592,
+              "link": "https://www.deezer.com/track/425695592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/f/0/8ffa83abb5df8b6abb65c84dc55cbb0d.mp3?hdnea=exp=1795718378~acl=/api/1/1/8/f/f/0/8ffa83abb5df8b6abb65c84dc55cbb0d.mp3*~data=user_id=0,application_id=42~hmac=4bfa812d20fe81c1e503b3efdb53acab822fe8a19e67597b950c9b021700a793",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Disposable Heroes",
+            "length": "8:16",
+            "deezer": {
+              "id": 425695602,
+              "link": "https://www.deezer.com/track/425695602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/8/0/84822ef10cf05ad5a8234087944c3936.mp3?hdnea=exp=1795718378~acl=/api/1/1/8/4/8/0/84822ef10cf05ad5a8234087944c3936.mp3*~data=user_id=0,application_id=42~hmac=0727bc9d378b9b738edb21c3bd215dc136319703830b470c7ac4065a57a8c927",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Leper Messiah",
+            "length": "5:39",
+            "deezer": {
+              "id": 425695612,
+              "link": "https://www.deezer.com/track/425695612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/4/0/684754056a5c2731e89b3f65ec5586e3.mp3?hdnea=exp=1795718378~acl=/api/1/1/6/8/4/0/684754056a5c2731e89b3f65ec5586e3.mp3*~data=user_id=0,application_id=42~hmac=835f1f08b843a783c88f6858eb77ca762b1107196971c8badae6b03e2658626a",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Orion",
+            "length": "8:27",
+            "deezer": {
+              "id": 425695622,
+              "link": "https://www.deezer.com/track/425695622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/3/0/48311c48ced980dd8b9a4cb18f428d74.mp3?hdnea=exp=1795718378~acl=/api/1/1/4/8/3/0/48311c48ced980dd8b9a4cb18f428d74.mp3*~data=user_id=0,application_id=42~hmac=2b324b24f93a2615511a138a7b3af0789e3ae200e9cf67203af011d29aa7f15d",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Damage, Inc.",
+            "length": "5:32",
+            "deezer": {
+              "id": 425695632,
+              "link": "https://www.deezer.com/track/425695632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/6/0/ce607ab30faa40d5dfaec3c089698daf.mp3?hdnea=exp=1795718378~acl=/api/1/1/c/e/6/0/ce607ab30faa40d5dfaec3c089698daf.mp3*~data=user_id=0,application_id=42~hmac=9fa47cc6f20baef295c787ca48d6cf1505f066968dded77a947483b8be0abd71",
+              "preview_expires": "2026-11-26T18:39:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Metallica/Master Of Puppets.jpg"
+}

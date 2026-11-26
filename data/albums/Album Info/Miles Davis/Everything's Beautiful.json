@@ -1,0 +1,196 @@
+{
+  "title": "Everything’s Beautiful",
+  "artist": "Miles Davis & Robert Glasper",
+  "year": 2016,
+  "release_date": "2016-05-27",
+  "type": "Album + Remix",
+  "description": "Everything's Beautiful is an album by American musician Robert Glasper based on Miles Davis' samples. It was released on May 27, 2016, jointly through Blue Note and Legacy/Columbia Records.",
+  "genres": [
+    "acid jazz",
+    "alternative r&b",
+    "contemporary jazz",
+    "hip hop",
+    "jazz",
+    "jazz rap",
+    "neo soul",
+    "r&b"
+  ],
+  "tags": [
+    "acid jazz",
+    "alternative r&b",
+    "contemporary jazz",
+    "hip hop",
+    "jazz",
+    "jazz rap",
+    "neo soul",
+    "r&b"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2d8cb92b-4fbc-4e6b-9aec-8eb2ffbb2559",
+    "wikipedia": "https://en.wikipedia.org/wiki/Everything's_Beautiful",
+    "allmusic": "https://www.allmusic.com/album/mw0002928886",
+    "discogs": "https://www.discogs.com/master/1005872",
+    "wikidata": "https://www.wikidata.org/wiki/Q109875789",
+    "deezer": "https://www.deezer.com/album/13200580"
+  },
+  "musicbrainz_id": "2d8cb92b-4fbc-4e6b-9aec-8eb2ffbb2559",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/77fe4fe7-5897-4c79-b15b-a275e3e5943c",
+      "barcode": "886445484946",
+      "title": "Everything’s Beautiful",
+      "disambiguation": null,
+      "date": "2016-05-27",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "47:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Talking Shit",
+            "length": "3:09",
+            "deezer": {
+              "id": 125512030,
+              "link": "https://www.deezer.com/track/125512030",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/e/0/9be02db7b5523831fc0224388a7e2ecc.mp3?hdnea=exp=1795718472~acl=/api/1/1/9/b/e/0/9be02db7b5523831fc0224388a7e2ecc.mp3*~data=user_id=0,application_id=42~hmac=612b3407b44639e334331f364d986d89702ed3e6c267999729d0072d9b133255",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ghetto Walkin’",
+            "length": "3:39",
+            "artist": "Miles Davis, Robert Glasper & Bilal",
+            "deezer": {
+              "id": 125512032,
+              "link": "https://www.deezer.com/track/125512032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/b/0/6bb851e7560d6f9339366d7c2647d644.mp3?hdnea=exp=1795718472~acl=/api/1/1/6/b/b/0/6bb851e7560d6f9339366d7c2647d644.mp3*~data=user_id=0,application_id=42~hmac=4d2b56cabc2326e51143b358a8f8bc7865d9e2300b7489c357da2d8205e79bbe",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "They Can’t Hold Me Down",
+            "length": "2:18",
+            "artist": "Miles Davis & Robert Glasper feat. Illa J",
+            "deezer": {
+              "id": 125512034,
+              "link": "https://www.deezer.com/track/125512034",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/f/0/07f0e71b6eb178eb3e646c79454b02bb.mp3?hdnea=exp=1795718472~acl=/api/1/1/0/7/f/0/07f0e71b6eb178eb3e646c79454b02bb.mp3*~data=user_id=0,application_id=42~hmac=db81e3e079609ab32e54bdf494d733c92e30add284188f3e2e4d86dc6a9ab308",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Maiysha (So Long)",
+            "length": "7:30",
+            "artist": "Miles Davis & Robert Glasper feat. Erykah Badu",
+            "deezer": {
+              "id": 125512036,
+              "link": "https://www.deezer.com/track/125512036",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/8/0/6586bc3d469c2bbc12d45ffb554e820c.mp3?hdnea=exp=1795718472~acl=/api/1/1/6/5/8/0/6586bc3d469c2bbc12d45ffb554e820c.mp3*~data=user_id=0,application_id=42~hmac=c2259b9e2c3c645840ef3823320a4ae4cfb30ad8601cadcba4b86416930da9e7",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Violets",
+            "length": "3:24",
+            "artist": "Miles Davis & Robert Glasper feat. Phonte",
+            "deezer": {
+              "id": 125512038,
+              "link": "https://www.deezer.com/track/125512038",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/9/0/779070bf3f7f79e21784ad60f6937c17.mp3?hdnea=exp=1795718472~acl=/api/1/1/7/7/9/0/779070bf3f7f79e21784ad60f6937c17.mp3*~data=user_id=0,application_id=42~hmac=d5954a48f83dabf9b889ff14355073fc8b2b9bc313b51429b43367b49550d162",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Little Church (remix)",
+            "length": "6:35",
+            "artist": "Miles Davis & Robert Glasper feat. Hiatus Kaiyote",
+            "deezer": {
+              "id": 125512040,
+              "link": "https://www.deezer.com/track/125512040",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/8/0/89800dc0ce5c153e5734b9dcf8094512.mp3?hdnea=exp=1795718472~acl=/api/1/1/8/9/8/0/89800dc0ce5c153e5734b9dcf8094512.mp3*~data=user_id=0,application_id=42~hmac=281ab42dd917a0a26b5c423feed72b0a21b4abd1835fb5a0fd16a9232d4c051b",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Silence Is the Way",
+            "length": "5:18",
+            "artist": "Miles Davis & Robert Glasper feat. Laura Mvula",
+            "deezer": {
+              "id": 125512042,
+              "link": "https://www.deezer.com/track/125512042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/5/0/bd531c62fdabef753f90ea6641b56cb5.mp3?hdnea=exp=1795718472~acl=/api/1/1/b/d/5/0/bd531c62fdabef753f90ea6641b56cb5.mp3*~data=user_id=0,application_id=42~hmac=288e4d3bd04e3dc472e1460b66000e237e5332ccb3c0f87457cd8e7126752c9e",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Song for Selim",
+            "length": "2:40",
+            "artist": "Miles Davis & Robert Glasper feat. KING",
+            "deezer": {
+              "id": 125512044,
+              "link": "https://www.deezer.com/track/125512044",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/2/0/6b2e0c8163def031acdbc832c28aaba8.mp3?hdnea=exp=1795718472~acl=/api/1/1/6/b/2/0/6b2e0c8163def031acdbc832c28aaba8.mp3*~data=user_id=0,application_id=42~hmac=fc51a279976d5b551ccc39b9b6b199aa81a529d07801769a8ca4526837c5aa40",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Milestones (remix)",
+            "length": "4:17",
+            "artist": "Miles Davis & Robert Glasper feat. Georgia Anne Muldrow",
+            "deezer": {
+              "id": 125512046,
+              "link": "https://www.deezer.com/track/125512046",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/6/0/5665cb6d9b38dbe7fc2595dadc57afb5.mp3?hdnea=exp=1795718472~acl=/api/1/1/5/6/6/0/5665cb6d9b38dbe7fc2595dadc57afb5.mp3*~data=user_id=0,application_id=42~hmac=9dd10f502cafee389e5c24027a171a0d68b5c7f7259ea25df895857e8440541e",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I’m Leaving You",
+            "length": "3:14",
+            "artist": "Miles Davis & Robert Glasper feat. Ledisi & John Scofield",
+            "deezer": {
+              "id": 125512048,
+              "link": "https://www.deezer.com/track/125512048",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/b/0/f3b1953466deb57ee713929fefdfbb31.mp3?hdnea=exp=1795718472~acl=/api/1/1/f/3/b/0/f3b1953466deb57ee713929fefdfbb31.mp3*~data=user_id=0,application_id=42~hmac=6cafcfdb1c9d262d4f19b5cc9111daf2bd384a69461b6c0a99a9b0fea6a6f1ef",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Right On Brotha",
+            "length": "5:01",
+            "artist": "Miles Davis & Robert Glasper feat. Stevie Wonder",
+            "deezer": {
+              "id": 125512050,
+              "link": "https://www.deezer.com/track/125512050",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/c/0/d6cbe08923ef6df6f71f76d554e27796.mp3?hdnea=exp=1795718472~acl=/api/1/1/d/6/c/0/d6cbe08923ef6df6f71f76d554e27796.mp3*~data=user_id=0,application_id=42~hmac=f91878682de9f520e57e91573c536cea70da5318cff178fb8fa61d6d372fac11",
+              "preview_expires": "2026-11-26T18:41:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Miles Davis/Everything's Beautiful.jpg"
+}

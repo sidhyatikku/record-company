@@ -1,0 +1,216 @@
+{
+  "title": "X&Y",
+  "artist": "Coldplay",
+  "year": 2005,
+  "release_date": "2005-06-01",
+  "type": "Album",
+  "description": "X&Y is the third studio album by the British rock band Coldplay. It was released on 6 June 2005 by Parlophone in the United Kingdom, and a day later by Capitol in the United States. Produced by Coldplay and producer Danton Supple, the album was recorded during a turbulent period for the band, during which their manager and creative director, Phil Harvey, briefly departed. Producer Ken Nelson was originally tasked with producing the record; however, many songs written during his sessions were discarded due to the band's dissatisfaction with them. The album's cover art combines colours and blocks to represent the title in Baudot code.",
+  "genres": [
+    "pop rock",
+    "alternative rock",
+    "rock",
+    "post-britpop",
+    "piano rock",
+    "alternative punk",
+    "art rock",
+    "indie rock"
+  ],
+  "tags": [
+    "pop rock",
+    "alternative rock",
+    "rock",
+    "alternative and punk",
+    "post-britpop",
+    "brit pop",
+    "piano rock",
+    "pop/rock",
+    "unclassifiable",
+    "acoustic",
+    "alternative punk",
+    "alternative rock / pop",
+    "art rock",
+    "big music",
+    "indie rock",
+    "rock and indie"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 31
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c50b180a-12c9-3153-8ba5-eac6a6537d6f",
+    "wikipedia": "https://en.wikipedia.org/wiki/X%26Y",
+    "allmusic": "https://www.allmusic.com/album/mw0000633950",
+    "discogs": "https://www.discogs.com/master/26787",
+    "wikidata": "https://www.wikidata.org/wiki/Q158738",
+    "deezer": "https://www.deezer.com/album/300328"
+  },
+  "musicbrainz_id": "c50b180a-12c9-3153-8ba5-eac6a6537d6f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7ae165f2-83fe-4932-8964-76d6f9757a7d",
+      "barcode": "724347478659",
+      "title": "X&Y",
+      "disambiguation": null,
+      "date": "2005-06-06",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "1:02:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Square One",
+            "length": "4:47",
+            "deezer": {
+              "id": 3106502,
+              "link": "https://www.deezer.com/track/3106502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/0/0/f00db357eb4b4cf56dcfae3928d812ab.mp3?hdnea=exp=1795652912~acl=/api/1/1/f/0/0/0/f00db357eb4b4cf56dcfae3928d812ab.mp3*~data=user_id=0,application_id=42~hmac=b1f7f024f7c2903441a3fed838efd7c3a394041a446fca68e6d7d0ac3c2a6238",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "What If",
+            "length": "4:57",
+            "deezer": {
+              "id": 3106503,
+              "link": "https://www.deezer.com/track/3106503",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/7/0/f776745e55cf6d203dd31f6a0742cfa1.mp3?hdnea=exp=1795652912~acl=/api/1/1/f/7/7/0/f776745e55cf6d203dd31f6a0742cfa1.mp3*~data=user_id=0,application_id=42~hmac=d6640a4c0b9f6321eb6a01cd22339ea4e77eee5a7ab68e27745fddbab0f025d6",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "White Shadows",
+            "length": "5:28",
+            "deezer": {
+              "id": 3106504,
+              "link": "https://www.deezer.com/track/3106504",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/e/0/6aed81f37f83ccb85db9f66b5d58e654.mp3?hdnea=exp=1795652912~acl=/api/1/1/6/a/e/0/6aed81f37f83ccb85db9f66b5d58e654.mp3*~data=user_id=0,application_id=42~hmac=af419ee2517f224300ab7e3bea7f73dce1aa9fc2bfd479c8e551a5d7f6bd05f4",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Fix You",
+            "length": "4:55",
+            "deezer": {
+              "id": 3106505,
+              "link": "https://www.deezer.com/track/3106505",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/1/0/a81b6f3b4d941ab1e0beae57cba05960.mp3?hdnea=exp=1795652912~acl=/api/1/1/a/8/1/0/a81b6f3b4d941ab1e0beae57cba05960.mp3*~data=user_id=0,application_id=42~hmac=2b7aeb611d835cf7621712a0a17961cd419bc1d7fb922fb17b4d18ebc965d883",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Talk",
+            "length": "5:11",
+            "deezer": {
+              "id": 3106506,
+              "link": "https://www.deezer.com/track/3106506",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/3/0/f73e8614a8ffc1f01e6a4bf884fa3f22.mp3?hdnea=exp=1795652912~acl=/api/1/1/f/7/3/0/f73e8614a8ffc1f01e6a4bf884fa3f22.mp3*~data=user_id=0,application_id=42~hmac=e9681bbfe01ad9a8616d0c48a9ea4acb7e8067ff1aa3fb4381c7247d9854cbf1",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "X & Y",
+            "length": "4:34",
+            "deezer": {
+              "id": 3106507,
+              "link": "https://www.deezer.com/track/3106507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/2/0/a628a3f11fbd2996f0fc92f057041552.mp3?hdnea=exp=1795652912~acl=/api/1/1/a/6/2/0/a628a3f11fbd2996f0fc92f057041552.mp3*~data=user_id=0,application_id=42~hmac=9774d57097352d1e6fba76a16a7f647912432dbc72185371bd39e8d08496bd52",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Speed of Sound",
+            "length": "4:48",
+            "deezer": {
+              "id": 3106508,
+              "link": "https://www.deezer.com/track/3106508",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/7/0/c27210d2625fc4a46b39b9e3b679ef53.mp3?hdnea=exp=1795652912~acl=/api/1/1/c/2/7/0/c27210d2625fc4a46b39b9e3b679ef53.mp3*~data=user_id=0,application_id=42~hmac=19d903c45341fd8a70f44b3aa63e42beb59126fcb8968fe0d452992e2a8fc3fa",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "A Message",
+            "length": "4:45",
+            "deezer": {
+              "id": 3106509,
+              "link": "https://www.deezer.com/track/3106509",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/e/0/27eb68653a43cd48bf48d6eb54ebfdc0.mp3?hdnea=exp=1795652912~acl=/api/1/1/2/7/e/0/27eb68653a43cd48bf48d6eb54ebfdc0.mp3*~data=user_id=0,application_id=42~hmac=ede14324c12bf6f9c35b3512f384fe67b8aa5c06c9cd8b835f29b084c9081f18",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Low",
+            "length": "5:32",
+            "deezer": {
+              "id": 3106510,
+              "link": "https://www.deezer.com/track/3106510",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/0/0/3d03fa9668783ad50c37585747c448c5.mp3?hdnea=exp=1795652912~acl=/api/1/1/3/d/0/0/3d03fa9668783ad50c37585747c448c5.mp3*~data=user_id=0,application_id=42~hmac=0d6a3a527f71e14ece9e6a182ee0af6f7e0e2edfe8b007f6913bd6d007395ccc",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Hardest Part",
+            "length": "4:25",
+            "deezer": {
+              "id": 3106511,
+              "link": "https://www.deezer.com/track/3106511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/b/0/7ebba2c20965857bed17b60d4750ca7b.mp3?hdnea=exp=1795652912~acl=/api/1/1/7/e/b/0/7ebba2c20965857bed17b60d4750ca7b.mp3*~data=user_id=0,application_id=42~hmac=84abe63e084f8f05e6920502f05d66f85debe32b281239a9de92fe84dffa2a83",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Swallowed in the Sea",
+            "length": "3:59",
+            "deezer": {
+              "id": 3106512,
+              "link": "https://www.deezer.com/track/3106512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/3/0/1d3883662fb24272bd8b126dc4905f11.mp3?hdnea=exp=1795652912~acl=/api/1/1/1/d/3/0/1d3883662fb24272bd8b126dc4905f11.mp3*~data=user_id=0,application_id=42~hmac=086b56f910777a0722aba263966aff312b738b7c7e2d13e47e2562a295ae4921",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Twisted Logic",
+            "length": "4:31",
+            "deezer": {
+              "id": 3106513,
+              "link": "https://www.deezer.com/track/3106513",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/c/0/d3c9cf0d2882b1cb9b5b10db6a5c0a36.mp3?hdnea=exp=1795652912~acl=/api/1/1/d/3/c/0/d3c9cf0d2882b1cb9b5b10db6a5c0a36.mp3*~data=user_id=0,application_id=42~hmac=f2d6a9143cbcd591f8f1e760351330fc2ad7bf10051f67b21d9f3da03c616141",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Til Kingdom Come",
+            "length": "4:10",
+            "deezer": {
+              "id": 3106514,
+              "link": "https://www.deezer.com/track/3106514",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/9/0/a594f9a02a18179be1b0d1a3c5c225a6.mp3?hdnea=exp=1795652912~acl=/api/1/1/a/5/9/0/a594f9a02a18179be1b0d1a3c5c225a6.mp3*~data=user_id=0,application_id=42~hmac=f892706d3334e7dcb73f713f05a46a87b922138407cd0606c787122841bf05de",
+              "preview_expires": "2026-11-26T00:28:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Coldplay/X&Y.jpg"
+}

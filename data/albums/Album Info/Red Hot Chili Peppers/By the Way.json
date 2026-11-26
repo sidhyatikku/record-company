@@ -1,0 +1,260 @@
+{
+  "title": "By the Way",
+  "artist": "Red Hot Chili Peppers",
+  "year": 2002,
+  "release_date": "2002-07-09",
+  "type": "Album",
+  "description": "By the Way is the eighth studio album by the American rock band Red Hot Chili Peppers, released July 9, 2002, on Warner Bros. Records. It sold more than 286,000 copies in its first week, and peaked at number two on the Billboard 200. Singles included \"By the Way\", \"The Zephyr Song\", \"Can't Stop\" and \"Universally Speaking\". Additionally, \"Dosed\" was released as a promotional single in the US and Canada. The lyrical subject matter vocalist Anthony Kiedis addresses in By the Way is a divergence from previous Red Hot Chili Peppers albums, with Kiedis taking a more candid and reflective approach to his lyrics.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "pop rock",
+    "funk rock",
+    "funk metal"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "pop rock",
+    "funk rock",
+    "alt funk",
+    "alternative pop/rock",
+    "funk metal",
+    "general alternative rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.2,
+    "votes": 22
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bbf6eaa8-1340-35c8-9599-34056896ebab",
+    "wikipedia": "https://en.wikipedia.org/wiki/By_the_Way",
+    "allmusic": "https://www.allmusic.com/album/mw0000218945",
+    "discogs": "https://www.discogs.com/master/42557",
+    "wikidata": "https://www.wikidata.org/wiki/Q153475",
+    "deezer": "https://www.deezer.com/album/86560"
+  },
+  "musicbrainz_id": "bbf6eaa8-1340-35c8-9599-34056896ebab",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/96c01153-d46e-4535-bdf6-ddafaef56b01",
+      "barcode": "093624424468",
+      "title": "By the Way",
+      "disambiguation": "deluxe edition",
+      "date": "2006-03-21",
+      "country": null
+    },
+    "total_tracks": 18,
+    "total_length": "1:16:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "By the Way",
+            "length": "3:37",
+            "deezer": {
+              "id": 725929,
+              "link": "https://www.deezer.com/track/725929",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/5/0/af5f50e398ed52b65b2eab10c0cc9884.mp3?hdnea=exp=1795720040~acl=/api/1/1/a/f/5/0/af5f50e398ed52b65b2eab10c0cc9884.mp3*~data=user_id=0,application_id=42~hmac=15a30a507a596894daa87c7ed8d167706201bfc8829c86e8ae1b5b616810dd4d",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Universally Speaking",
+            "length": "4:17",
+            "deezer": {
+              "id": 725937,
+              "link": "https://www.deezer.com/track/725937",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/c/0/e0cdb811fa85288d1946f05e87199909.mp3?hdnea=exp=1795720040~acl=/api/1/1/e/0/c/0/e0cdb811fa85288d1946f05e87199909.mp3*~data=user_id=0,application_id=42~hmac=b6851ea948953101c7038590d4953c02dec8dc464b4194b2d688a49b86560586",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "This Is the Place",
+            "length": "4:18",
+            "deezer": {
+              "id": 725943,
+              "link": "https://www.deezer.com/track/725943",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/9/0/cc92c568c3147ea618dd37b6dea74907.mp3?hdnea=exp=1795720040~acl=/api/1/1/c/c/9/0/cc92c568c3147ea618dd37b6dea74907.mp3*~data=user_id=0,application_id=42~hmac=ca1af565b32c1b4a3c5650ceb950b231ab676c41ca76cefd4a6e77f1a0a1b2a4",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dosed",
+            "length": "5:12",
+            "deezer": {
+              "id": 725950,
+              "link": "https://www.deezer.com/track/725950",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/b/0/0dbb03ddf42674890a6c9d1a7cf0de1a.mp3?hdnea=exp=1795720040~acl=/api/1/1/0/d/b/0/0dbb03ddf42674890a6c9d1a7cf0de1a.mp3*~data=user_id=0,application_id=42~hmac=8bcde583504b1fbd0c710c524322e9c4d31e7059a299f27f253523fff80a1437",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Don’t Forget Me",
+            "length": "4:37",
+            "deezer": {
+              "id": 725959,
+              "link": "https://www.deezer.com/track/725959",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/b/0/d1b55bfca3be26c59f0b4c633bc841f1.mp3?hdnea=exp=1795720040~acl=/api/1/1/d/1/b/0/d1b55bfca3be26c59f0b4c633bc841f1.mp3*~data=user_id=0,application_id=42~hmac=cce5e830e47b21c47945782d806b952f932761d452a723465441eeeaf28f3895",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Zephyr Song",
+            "length": "3:52",
+            "deezer": {
+              "id": 725965,
+              "link": "https://www.deezer.com/track/725965",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/d/0/4edc45d7a59f443f56080a5c57c84fcc.mp3?hdnea=exp=1795720040~acl=/api/1/1/4/e/d/0/4edc45d7a59f443f56080a5c57c84fcc.mp3*~data=user_id=0,application_id=42~hmac=00162f1083110765cd5dfefde301440acd915fa0e603930cafc16c788e81f9e7",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Can’t Stop",
+            "length": "4:29",
+            "deezer": {
+              "id": 725971,
+              "link": "https://www.deezer.com/track/725971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/c/0/ffc7c5e75630f75d1b164d9ec37838e3.mp3?hdnea=exp=1795720040~acl=/api/1/1/f/f/c/0/ffc7c5e75630f75d1b164d9ec37838e3.mp3*~data=user_id=0,application_id=42~hmac=5e6e1be873c9e1196e177873b4d7d57a55021c5880551aca9636b73a6f701b65",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I Could Die for You",
+            "length": "3:13",
+            "deezer": {
+              "id": 725976,
+              "link": "https://www.deezer.com/track/725976",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/1/0/1114b86069166b30edcbcd053c613cc5.mp3?hdnea=exp=1795720040~acl=/api/1/1/1/1/1/0/1114b86069166b30edcbcd053c613cc5.mp3*~data=user_id=0,application_id=42~hmac=7caad1d8eb9fd08c0344eaccb262715c6ca9495cc344b785479eb4b32136d92b",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Midnight",
+            "length": "4:56",
+            "deezer": {
+              "id": 725984,
+              "link": "https://www.deezer.com/track/725984",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/b/0/fab8ba47150a48a4d3e2890a8f0c1187.mp3?hdnea=exp=1795720040~acl=/api/1/1/f/a/b/0/fab8ba47150a48a4d3e2890a8f0c1187.mp3*~data=user_id=0,application_id=42~hmac=ce83efb265ba06ea5175d51b6d06eefa42d58559349aad51d473b7bdc955c8b5",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Throw Away Your Television",
+            "length": "3:45",
+            "deezer": {
+              "id": 725989,
+              "link": "https://www.deezer.com/track/725989",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/8/0/fd8fcbb5382761169201b640a6cb0b90.mp3?hdnea=exp=1795720040~acl=/api/1/1/f/d/8/0/fd8fcbb5382761169201b640a6cb0b90.mp3*~data=user_id=0,application_id=42~hmac=d62eb11284139e0a073636d18a562db84a53a0aa73491173054d70748cf9f9c2",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Cabron",
+            "length": "3:38",
+            "deezer": {
+              "id": 725995,
+              "link": "https://www.deezer.com/track/725995",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/f/0/29f7bc915cffbbaf9d28fb4773785153.mp3?hdnea=exp=1795720040~acl=/api/1/1/2/9/f/0/29f7bc915cffbbaf9d28fb4773785153.mp3*~data=user_id=0,application_id=42~hmac=08cadf88dc55ae987053cf5ca1dbfe9d358161940f6022adf78559cace92caea",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Tear",
+            "length": "5:17",
+            "deezer": {
+              "id": 726003,
+              "link": "https://www.deezer.com/track/726003",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/1/0/bc14ce25a482010dc3105680e0914e34.mp3?hdnea=exp=1795720040~acl=/api/1/1/b/c/1/0/bc14ce25a482010dc3105680e0914e34.mp3*~data=user_id=0,application_id=42~hmac=f075ec11780fa8ffa03bebae49e5c8627f155d6175f05a46fd8f04fc32da08af",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "On Mercury",
+            "length": "3:28",
+            "deezer": {
+              "id": 726007,
+              "link": "https://www.deezer.com/track/726007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/3/0/1139ee63b3136d6427c6e6065d659001.mp3?hdnea=exp=1795720040~acl=/api/1/1/1/1/3/0/1139ee63b3136d6427c6e6065d659001.mp3*~data=user_id=0,application_id=42~hmac=108d8a8ddbba5a1e8dff9a8a38082e639801e04777ddd81bf69244327785783e",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Minor Thing",
+            "length": "3:37",
+            "deezer": {
+              "id": 726014,
+              "link": "https://www.deezer.com/track/726014",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/0/0/2c063fef2e6862caf00c774b06d3b71c.mp3?hdnea=exp=1795720040~acl=/api/1/1/2/c/0/0/2c063fef2e6862caf00c774b06d3b71c.mp3*~data=user_id=0,application_id=42~hmac=e4d9cd32599986a0e4392bc5d042c8f9ba551aa45a81aac72e9659c9efcd4129",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Warm Tape",
+            "length": "4:16",
+            "deezer": {
+              "id": 726021,
+              "link": "https://www.deezer.com/track/726021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/2/0/eb2219c2c430d11352030ffe25ab081f.mp3?hdnea=exp=1795720040~acl=/api/1/1/e/b/2/0/eb2219c2c430d11352030ffe25ab081f.mp3*~data=user_id=0,application_id=42~hmac=34154095183aa3cfa4728623e4c8c451b268743e094cf291e69f04b77636edf7",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Venice Queen",
+            "length": "6:07",
+            "deezer": {
+              "id": 726027,
+              "link": "https://www.deezer.com/track/726027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a5a8c970ae309778ec590254a9e14cc.mp3?hdnea=exp=1795720040~acl=/api/1/1/7/a/5/0/7a5a8c970ae309778ec590254a9e14cc.mp3*~data=user_id=0,application_id=42~hmac=ed287057066a14ea43113151cc145ae2fc3638b720f0e7cf039a9bea22ff78d1",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Runaway",
+            "length": "4:31",
+            "deezer": {
+              "id": 726034,
+              "link": "https://www.deezer.com/track/726034",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/1/0/011822ead607c4f7e6d83164e1cabcc6.mp3?hdnea=exp=1795720040~acl=/api/1/1/0/1/1/0/011822ead607c4f7e6d83164e1cabcc6.mp3*~data=user_id=0,application_id=42~hmac=1296048ff75bc7d37b6814b4846d17f47fdb8ae16e5e65fe3ca22dceb79cb521",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Bicycle Song",
+            "length": "3:24",
+            "deezer": {
+              "id": 726042,
+              "link": "https://www.deezer.com/track/726042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/f/0/5bfdc45ddd8db672876191ddfed83daf.mp3?hdnea=exp=1795720040~acl=/api/1/1/5/b/f/0/5bfdc45ddd8db672876191ddfed83daf.mp3*~data=user_id=0,application_id=42~hmac=5e3cc01f767236451f3538a6dd1c554c3fc58879c2528acf6fb92c972ff6a728",
+              "preview_expires": "2026-11-26T19:07:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Red Hot Chili Peppers/By the Way.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Untitled 01",
+  "artist": "Karma",
+  "year": 2024,
+  "release_date": "2024-12-03",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5256580e-a4da-42cb-a97b-e486b4f817b5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/673501611"
+  },
+  "musicbrainz_id": "5256580e-a4da-42cb-a97b-e486b4f817b5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/6333dbae-8d0f-4659-97c4-1b4e36011f58",
+      "barcode": "5021732577436",
+      "title": "Untitled 01",
+      "disambiguation": null,
+      "date": "2024-12-03",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "7:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mere Jaisa Nai",
+            "length": "2:07",
+            "artist": "Karma & Sez on the Beat",
+            "deezer": {
+              "id": 3104933661,
+              "link": "https://www.deezer.com/track/3104933661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/8/0/6d8fb254da23ac5a60aa262e2107829c.mp3?hdnea=exp=1795655987~acl=/api/1/1/6/d/8/0/6d8fb254da23ac5a60aa262e2107829c.mp3*~data=user_id=0,application_id=42~hmac=e8ddccac322b72c3b81368eb2b85bfd49b217602689d51f253456c4cd332d939",
+              "preview_expires": "2026-11-26T01:19:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "They Them",
+            "length": "3:27",
+            "artist": "Karma, Sikander Kahlon & Vision",
+            "deezer": {
+              "id": 3104933671,
+              "link": "https://www.deezer.com/track/3104933671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/8/0/e8891014714f54cf66ad9c60711da9a6.mp3?hdnea=exp=1795655987~acl=/api/1/1/e/8/8/0/e8891014714f54cf66ad9c60711da9a6.mp3*~data=user_id=0,application_id=42~hmac=67795f03d1cbadea95de529ecac2f9acfdc66a54f8ce4a55a73ab6600316b10c",
+              "preview_expires": "2026-11-26T01:19:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Cry Babies",
+            "length": "2:06",
+            "artist": "Karma & Sez on the Beat",
+            "deezer": {
+              "id": 3104933681,
+              "link": "https://www.deezer.com/track/3104933681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/2/0/872a855932cf48e2a67ae2b750056b46.mp3?hdnea=exp=1795655987~acl=/api/1/1/8/7/2/0/872a855932cf48e2a67ae2b750056b46.mp3*~data=user_id=0,application_id=42~hmac=60facc55d47052bd6e42d6ef600b4d5691d7aff0a2a8a786f43ca5efac2371e6",
+              "preview_expires": "2026-11-26T01:19:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karma/Untitled 01.jpg"
+}

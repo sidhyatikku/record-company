@@ -1,0 +1,60 @@
+{
+  "title": "True Love",
+  "artist": "Kanye West & XXXTENTACION",
+  "year": 2022,
+  "release_date": "2022-05-27",
+  "type": "Single",
+  "description": "\"True Love\" is a song by American rappers Kanye West and XXXTentacion. The song, which is a posthumous release for the latter, was originally included on West's eleventh studio album, Donda 2 (2022). For its single version, it was trimmed down by a minute and released by Columbia Records on May 23, 2022 in promotion for XXXTentacion's posthumous compilation album, Look at Me: The Album—serving as its second single. A slow track that features synths, it finds West discussing his estrangement from his children, while XXXTentacion croons the hook. The song was written by its performers, while production was handled by West alongside Ojivolta, Mike Dean, and John Cunningham, each of whom are also credited as co-writers.",
+  "genres": [
+    "contemporary r&b"
+  ],
+  "tags": [
+    "contemporary r&b"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/05835c60-4d3c-4f63-a5f7-1e8e7d85ee5c",
+    "wikipedia": "https://en.wikipedia.org/wiki/True_Love_(Kanye_West_and_XXXTentacion_song)",
+    "wikidata": "https://www.wikidata.org/wiki/Q112145012",
+    "deezer": "https://www.deezer.com/album/322038187"
+  },
+  "musicbrainz_id": "05835c60-4d3c-4f63-a5f7-1e8e7d85ee5c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f50ec9d8-6faf-4581-905d-d17b4dce1314",
+      "barcode": "196589180247",
+      "title": "True Love",
+      "disambiguation": null,
+      "date": "2022-05-27",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "True Love",
+            "length": "2:28",
+            "deezer": {
+              "id": 1766880137,
+              "link": "https://www.deezer.com/track/1766880137",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/625b760b7b794411338cc643784a2f53.mp3?hdnea=exp=1795655919~acl=/api/1/1/6/2/5/0/625b760b7b794411338cc643784a2f53.mp3*~data=user_id=0,application_id=42~hmac=44bfc4140086a70d962e91c5b5a1cab46bc25cece37f927271a78c5cb7705787",
+              "preview_expires": "2026-11-26T01:18:39Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kanye West/True Love.jpg"
+}

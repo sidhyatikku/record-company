@@ -1,0 +1,51 @@
+{
+  "title": "Can’t Get Over You",
+  "artist": "KVSH, The OtherZ & Gabriel Froede",
+  "year": 2019,
+  "release_date": "2019-07-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a6bea25a-5fbc-48bb-80fc-22ba4a2940d1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/102287812"
+  },
+  "musicbrainz_id": "a6bea25a-5fbc-48bb-80fc-22ba4a2940d1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/22f60f90-69fb-45e8-abfd-33e37d13a2f9",
+      "barcode": "886447840405",
+      "title": "Can’t Get Over You",
+      "disambiguation": null,
+      "date": "2019-07-12",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Can’t Get Over You",
+            "length": "2:22",
+            "deezer": {
+              "id": 706084282,
+              "link": "https://www.deezer.com/track/706084282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/e/0/93ea37e49039a2825b1f7ac98de41dfc.mp3?hdnea=exp=1795656371~acl=/api/1/1/9/3/e/0/93ea37e49039a2825b1f7ac98de41dfc.mp3*~data=user_id=0,application_id=42~hmac=e772f4ff2d76abc45bd977ee6ca159afa93cadc0ced84661cd8144f1488f2700",
+              "preview_expires": "2026-11-26T01:26:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/KVSH/Can't Get Over You.jpg"
+}

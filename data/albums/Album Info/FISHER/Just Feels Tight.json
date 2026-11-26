@@ -1,0 +1,51 @@
+{
+  "title": "Just Feels Tight",
+  "artist": "FISHER",
+  "year": 2021,
+  "release_date": "2021-07-30",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7b976e24-3aa7-4f28-a1e8-790f36ed97cd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/607359612"
+  },
+  "musicbrainz_id": "7b976e24-3aa7-4f28-a1e8-790f36ed97cd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bd90c87d-402c-493b-8a37-f06a7a6a8656",
+      "barcode": "735119986371",
+      "title": "Just Feels Tight",
+      "disambiguation": null,
+      "date": "2021-07-30",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "5:18",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Just Feels Tight (extended mix)",
+            "length": "5:18",
+            "deezer": {
+              "id": 2865645852,
+              "link": "https://www.deezer.com/track/2865645852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/e/0/04eafe2dd50cefb3e671f86199238387.mp3?hdnea=exp=1795654201~acl=/api/1/1/0/4/e/0/04eafe2dd50cefb3e671f86199238387.mp3*~data=user_id=0,application_id=42~hmac=618fc88d92758661ecc4273bbe806e4e2dd03586d6b7fbf97af34fc7d8aafdaa",
+              "preview_expires": "2026-11-26T00:50:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/FISHER/Just Feels Tight.jpg"
+}

@@ -1,0 +1,181 @@
+{
+  "title": "Gran Turismo",
+  "artist": "The Cardigans",
+  "year": 1998,
+  "release_date": "1998-10-19",
+  "type": "Album",
+  "description": "Gran Turismo is the fourth album by the Swedish rock band the Cardigans, released internationally on 19 October 1998 and in November 1998 in the United States. It features a darker and more moody type of music, mixed with more electronic sounds.",
+  "genres": [
+    "pop rock",
+    "rock",
+    "alternative rock",
+    "indie pop",
+    "downtempo"
+  ],
+  "tags": [
+    "pop rock",
+    "rock",
+    "alternative rock",
+    "indie pop",
+    "downtempo",
+    "not the playstation game"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/80f8c2b9-c92a-32bf-a267-6119bc80f513",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gran_Turismo_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000043830",
+    "discogs": "https://www.discogs.com/master/50926",
+    "wikidata": "https://www.wikidata.org/wiki/Q1953864",
+    "deezer": "https://www.deezer.com/album/103253"
+  },
+  "musicbrainz_id": "80f8c2b9-c92a-32bf-a267-6119bc80f513",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e9b71fe3-1fb0-4cbd-919a-630d2f7c65b6",
+      "barcode": null,
+      "title": "Gran Turismo",
+      "disambiguation": "Remastered",
+      "date": "2019",
+      "country": null
+    },
+    "total_tracks": 11,
+    "total_length": "42:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Paralyzed",
+            "length": "4:58",
+            "deezer": {
+              "id": 916480,
+              "link": "https://www.deezer.com/track/916480",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/c/0/75cf9b06e1e68f30dc08f7a553bed538.mp3?hdnea=exp=1795721419~acl=/api/1/1/7/5/c/0/75cf9b06e1e68f30dc08f7a553bed538.mp3*~data=user_id=0,application_id=42~hmac=6326ec992af12fab3a0f0e4027c9b0e698faf5a4813f979ca4bdc91beef7824a",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Erase/Rewind",
+            "length": "3:38",
+            "deezer": {
+              "id": 916487,
+              "link": "https://www.deezer.com/track/916487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/7/0/db7c3444ef4a42f37f8b83e9d5aa7011.mp3?hdnea=exp=1795721419~acl=/api/1/1/d/b/7/0/db7c3444ef4a42f37f8b83e9d5aa7011.mp3*~data=user_id=0,application_id=42~hmac=127e977f25d4e0a22d84a70382f9535f96bd5ee84db321ad9a0ed84a003954f1",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Explode",
+            "length": "4:05",
+            "deezer": {
+              "id": 916495,
+              "link": "https://www.deezer.com/track/916495",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/f/0/74f0e0460c79cc8bf354a27d31bb2a4d.mp3?hdnea=exp=1795721419~acl=/api/1/1/7/4/f/0/74f0e0460c79cc8bf354a27d31bb2a4d.mp3*~data=user_id=0,application_id=42~hmac=b496c5b18a05c555cd68ae239c0a95799d43419d25353b3447715b7f4fe04be9",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Starter",
+            "length": "3:54",
+            "deezer": {
+              "id": 916503,
+              "link": "https://www.deezer.com/track/916503",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/d/0/26deb2ae8a8fde64ba6e787c2def0796.mp3?hdnea=exp=1795721419~acl=/api/1/1/2/6/d/0/26deb2ae8a8fde64ba6e787c2def0796.mp3*~data=user_id=0,application_id=42~hmac=99fba0707e1996f958a5bd42395aafa1b4224d02673730d7afe1cd8ceb25e30e",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Hanging Around",
+            "length": "3:44",
+            "deezer": {
+              "id": 916508,
+              "link": "https://www.deezer.com/track/916508",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/3/0/cb38841c28275d7c2a85ccef6277d279.mp3?hdnea=exp=1795721419~acl=/api/1/1/c/b/3/0/cb38841c28275d7c2a85ccef6277d279.mp3*~data=user_id=0,application_id=42~hmac=8f02da324a300a590d56354e90c2b662fa3b78bb16951825abbc443c4dfd2fbd",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Higher",
+            "length": "4:32",
+            "deezer": {
+              "id": 916515,
+              "link": "https://www.deezer.com/track/916515",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/0/0/b90186bbfad6fd6c977ab0918b9319d3.mp3?hdnea=exp=1795721419~acl=/api/1/1/b/9/0/0/b90186bbfad6fd6c977ab0918b9319d3.mp3*~data=user_id=0,application_id=42~hmac=1b3171a7ca8d8d85c03602a1cee429d0e9ca17d1607ede9025cbeb7fc6b451ec",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Marvel Hill",
+            "length": "4:15",
+            "deezer": {
+              "id": 916521,
+              "link": "https://www.deezer.com/track/916521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/e/0/a5ec740c6baaf277651cf3a281abbc45.mp3?hdnea=exp=1795721419~acl=/api/1/1/a/5/e/0/a5ec740c6baaf277651cf3a281abbc45.mp3*~data=user_id=0,application_id=42~hmac=25952dfb9110c08d329121990fff0d498125625a5ddf37a85ddbb13e4be41f34",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "My Favourite Game",
+            "length": "3:40",
+            "deezer": {
+              "id": 916525,
+              "link": "https://www.deezer.com/track/916525",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/d/0/69de40b84328326594542020a1e4bf4d.mp3?hdnea=exp=1795721419~acl=/api/1/1/6/9/d/0/69de40b84328326594542020a1e4bf4d.mp3*~data=user_id=0,application_id=42~hmac=1eae09e8f40993a7f7ccb75e721a13d8e2ce70ba5ce01308ac12ef05751d47e8",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Do You Believe",
+            "length": "3:22",
+            "deezer": {
+              "id": 916529,
+              "link": "https://www.deezer.com/track/916529",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/8/0/678f813ed279b0a3cc1aa3e2f72dc6a8.mp3?hdnea=exp=1795721419~acl=/api/1/1/6/7/8/0/678f813ed279b0a3cc1aa3e2f72dc6a8.mp3*~data=user_id=0,application_id=42~hmac=b3bf079df807f166745cac821ecf35f26a6cb270504f95526139e393a3185635",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Junk of the Hearts",
+            "length": "4:08",
+            "deezer": {
+              "id": 916540,
+              "link": "https://www.deezer.com/track/916540",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/e/0/70e9db88cf9fe1ae08da1e5671c14fa2.mp3?hdnea=exp=1795721419~acl=/api/1/1/7/0/e/0/70e9db88cf9fe1ae08da1e5671c14fa2.mp3*~data=user_id=0,application_id=42~hmac=695eb35580118ef8651f9f1c8994e59b59603c201108c2248531c18d7bee4173",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Nil",
+            "length": "2:17",
+            "deezer": {
+              "id": 916544,
+              "link": "https://www.deezer.com/track/916544",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/2/0/562523a0297dc3b91f1bb9603ad5d626.mp3?hdnea=exp=1795721419~acl=/api/1/1/5/6/2/0/562523a0297dc3b91f1bb9603ad5d626.mp3*~data=user_id=0,application_id=42~hmac=83501b0b2d7d85e141d43dfcaf4e633e46d9096a5e2ba48810f41653a32a7fee",
+              "preview_expires": "2026-11-26T19:30:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Cardigans/Gran Turismo.jpg"
+}

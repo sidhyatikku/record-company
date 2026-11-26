@@ -1,0 +1,46 @@
+{
+  "title": "Come Alive",
+  "artist": "FMLYBND",
+  "year": 2015,
+  "release_date": "2015-10-20",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/6ju6GANi9RGSl1ThPMtQj4",
+    "deezer": "https://www.deezer.com/album/71972922"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/6ju6GANi9RGSl1ThPMtQj4",
+      "title": "Come Alive",
+      "date": "2015-10-20"
+    },
+    "total_tracks": 1,
+    "total_length": "3:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Come Alive",
+            "length": "3:12",
+            "deezer": {
+              "id": 548197352,
+              "link": "https://www.deezer.com/track/548197352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/d/0/aade5cc2a321357424181b2c4a365c39.mp3?hdnea=exp=1795654258~acl=/api/1/1/a/a/d/0/aade5cc2a321357424181b2c4a365c39.mp3*~data=user_id=0,application_id=42~hmac=99e4151f9f33ab503f77478722d210dadbad7fce7f8265fa9a4f3be1ef12fc0c",
+              "preview_expires": "2026-11-26T00:50:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/FMLYBND/Come Alive.jpg"
+}

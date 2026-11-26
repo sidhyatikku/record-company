@@ -1,0 +1,170 @@
+{
+  "title": "The Bilz",
+  "artist": "The Bilz",
+  "year": null,
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1bc457a8-24ce-4933-bc5d-cb2a9fb95ae3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/8451277"
+  },
+  "musicbrainz_id": "1bc457a8-24ce-4933-bc5d-cb2a9fb95ae3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ed0528ac-4b7b-4a16-a4ae-e01b35afad8f",
+      "barcode": "859713175150",
+      "title": "The Bilz",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "47:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "2step Bhangra (feat. so D & Kashif)",
+            "length": "4:02",
+            "deezer": {
+              "id": 83961709,
+              "link": "https://www.deezer.com/track/83961709",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/0/0/740fea26a4d1003f0e23ec258d0e02ac.mp3?hdnea=exp=1795721392~acl=/api/1/1/7/4/0/0/740fea26a4d1003f0e23ec258d0e02ac.mp3*~data=user_id=0,application_id=42~hmac=c09b8adc28ae31bb289aba0f52d1b81d72c7482e6a4209b5542b47e22b9ecd9a",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "O Meri Rani (Spanish Fly) [feat. Kashif & Drega]",
+            "length": "3:55",
+            "deezer": {
+              "id": 83961711,
+              "link": "https://www.deezer.com/track/83961711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/3/0/b938adfbad047bf19c20fab6770e9c2c.mp3?hdnea=exp=1795721392~acl=/api/1/1/b/9/3/0/b938adfbad047bf19c20fab6770e9c2c.mp3*~data=user_id=0,application_id=42~hmac=b9ed2228b30f441dc1c3daee7516231f6ec7e90a49c44c96e81b87a0a6dae3e4",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mehendi (feat. so D)",
+            "length": "4:17",
+            "deezer": {
+              "id": 83961713,
+              "link": "https://www.deezer.com/track/83961713",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/0/0/fe00cc6e905d9af48c974703c316a6ed.mp3?hdnea=exp=1795721392~acl=/api/1/1/f/e/0/0/fe00cc6e905d9af48c974703c316a6ed.mp3*~data=user_id=0,application_id=42~hmac=3258501e6690c50f19501bfacb403605cdeecd4d7625de3092a6e5f193f48014",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Truck Anthem (feat. Jasvir Dhanjal)",
+            "length": "3:20",
+            "deezer": {
+              "id": 83961715,
+              "link": "https://www.deezer.com/track/83961715",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/d/0/1edd90027d98ce0b6c656f161a065ced.mp3?hdnea=exp=1795721392~acl=/api/1/1/1/e/d/0/1edd90027d98ce0b6c656f161a065ced.mp3*~data=user_id=0,application_id=42~hmac=41a7e2693a9ae5f2e5cf05d3b89db5bfb5ef9869ead9ac5c315d75ade5b28504",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Holla (feat. Kashif & Dyce)",
+            "length": "3:23",
+            "deezer": {
+              "id": 83961717,
+              "link": "https://www.deezer.com/track/83961717",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/7/0/4e708a0b32916578ca6357294804c851.mp3?hdnea=exp=1795721392~acl=/api/1/1/4/e/7/0/4e708a0b32916578ca6357294804c851.mp3*~data=user_id=0,application_id=42~hmac=7077341caf8da1dcefb892bb535ac0103c9f18bbc5de4320065a76a1290a7ad7",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dil Lai Lai (feat. so D)",
+            "length": "4:10",
+            "deezer": {
+              "id": 83961719,
+              "link": "https://www.deezer.com/track/83961719",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/4/0/f949a06d7f79e24a82ae9a119efafc80.mp3?hdnea=exp=1795721392~acl=/api/1/1/f/9/4/0/f949a06d7f79e24a82ae9a119efafc80.mp3*~data=user_id=0,application_id=42~hmac=596d4c853926d8eab1e07b4ffe66573b157f6dd26ed367cc90cd3f51d4855c54",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Na Na Na (Stick That Thing Out) [feat. Kashif]",
+            "length": "3:18",
+            "deezer": {
+              "id": 83961721,
+              "link": "https://www.deezer.com/track/83961721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/d/0/e4d58b2f9326191a07b460c2a39c253f.mp3?hdnea=exp=1795721392~acl=/api/1/1/e/4/d/0/e4d58b2f9326191a07b460c2a39c253f.mp3*~data=user_id=0,application_id=42~hmac=4b6b83db4e11ebf287d4f0d650e4dfc2638dcfc5b3f62f59feadfd1882b39feb",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Balle Balle (feat. so D)",
+            "length": "3:52",
+            "deezer": {
+              "id": 83961723,
+              "link": "https://www.deezer.com/track/83961723",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/1/0/0a155776e90a17657f87a6301378eeed.mp3?hdnea=exp=1795721392~acl=/api/1/1/0/a/1/0/0a155776e90a17657f87a6301378eeed.mp3*~data=user_id=0,application_id=42~hmac=652974d618ef7c94daa462d157684b0dab8d40dc3d1b3081ae7dd235870b13b7",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Punjabi Whisper Pt.2 (feat. Mixsingh, Kashif & DJ Vicious)",
+            "length": "4:23",
+            "deezer": {
+              "id": 83961725,
+              "link": "https://www.deezer.com/track/83961725",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/b/0/8dbb2554e6a93c12d450197daeedc3ce.mp3?hdnea=exp=1795721392~acl=/api/1/1/8/d/b/0/8dbb2554e6a93c12d450197daeedc3ce.mp3*~data=user_id=0,application_id=42~hmac=77e3743c81dab1d1d17bb1366dd21976e446ac61715ce3456cae4d312ec31f79",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "O Meri Rani (Spanish Fly Reggaeton Remix) [feat. Kashif, Tigre & Anaya]",
+            "length": "4:13",
+            "deezer": {
+              "id": 83961727,
+              "link": "https://www.deezer.com/track/83961727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/8/0/f183cf3f4c8459953fbbde42cb29100b.mp3?hdnea=exp=1795721392~acl=/api/1/1/f/1/8/0/f183cf3f4c8459953fbbde42cb29100b.mp3*~data=user_id=0,application_id=42~hmac=82e6094edd839216bd20ad5cf654fc2baae5c4e4b4c2b71473769a62513753c2",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Mere Khyalon Mein (feat. Master D & Kashif)",
+            "length": "4:00",
+            "deezer": {
+              "id": 83961729,
+              "link": "https://www.deezer.com/track/83961729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/5/0/7c5fcff2d014549f14729f95d8326b1d.mp3?hdnea=exp=1795721392~acl=/api/1/1/7/c/5/0/7c5fcff2d014549f14729f95d8326b1d.mp3*~data=user_id=0,application_id=42~hmac=2c644bf2ac3e8f7c9e05c5830a3b21fdeb66661ee2ecaad496e12347e58e8105",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Ban Thanke (feat. so D)",
+            "length": "4:32",
+            "deezer": {
+              "id": 83961731,
+              "link": "https://www.deezer.com/track/83961731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/4/0/c741e78b8db531e21887fe9f6d4d60b9.mp3?hdnea=exp=1795721392~acl=/api/1/1/c/7/4/0/c741e78b8db531e21887fe9f6d4d60b9.mp3*~data=user_id=0,application_id=42~hmac=f40e545d5aa5d6d9f9a38c35578799ed5a2af0f0e8ec39772098220e8c96a806",
+              "preview_expires": "2026-11-26T19:29:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Bilz/The Bilz.jpg"
+}

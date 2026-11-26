@@ -1,0 +1,188 @@
+{
+  "title": "Modjo",
+  "artist": "Modjo",
+  "year": 2001,
+  "release_date": "2001-01-01",
+  "type": "Album",
+  "description": "Modjo is the only studio album by French house duo Modjo. It was released on 18 September 2001 by MCA Records.",
+  "genres": [
+    "house",
+    "disco",
+    "electronic"
+  ],
+  "tags": [
+    "house",
+    "dance club",
+    "disco",
+    "electronic"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7151886c-53d9-3075-9c58-3417f8d09510",
+    "wikipedia": "https://en.wikipedia.org/wiki/Modjo_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000014171",
+    "discogs": "https://www.discogs.com/master/101110",
+    "wikidata": "https://www.wikidata.org/wiki/Q1649320",
+    "deezer": "https://www.deezer.com/album/6883573"
+  },
+  "musicbrainz_id": "7151886c-53d9-3075-9c58-3417f8d09510",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/34cfe8c9-2761-456a-a293-906bdcfdfddf",
+      "barcode": "3610153617214",
+      "title": "Modjo",
+      "disambiguation": "remastered",
+      "date": "2013-08-19",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "51:42",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Acknowledgement",
+            "length": "3:07",
+            "deezer": {
+              "id": 70179718,
+              "link": "https://www.deezer.com/track/70179718",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/e/0/69e5ac6ac85fae1233bdb7106d718fde.mp3?hdnea=exp=1795718582~acl=/api/1/1/6/9/e/0/69e5ac6ac85fae1233bdb7106d718fde.mp3*~data=user_id=0,application_id=42~hmac=624f46d3d88b3b56681c8c2dad2771201a552fe4a122fa85f9bfa485267c6594",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Chillin’",
+            "length": "4:53",
+            "deezer": {
+              "id": 70179719,
+              "link": "https://www.deezer.com/track/70179719",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a6c214f631ad5f2fd570c2a87721965.mp3?hdnea=exp=1795718582~acl=/api/1/1/8/a/6/0/8a6c214f631ad5f2fd570c2a87721965.mp3*~data=user_id=0,application_id=42~hmac=7f960a063b474f549c07025178b68cfecf681832c972cb9f7b1ebb240747afe7",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lady (Hear Me Tonight)",
+            "length": "5:07",
+            "deezer": {
+              "id": 70179720,
+              "link": "https://www.deezer.com/track/70179720",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/1/0/051a8200796fd815cf84e7be93a83fc1.mp3?hdnea=exp=1795718582~acl=/api/1/1/0/5/1/0/051a8200796fd815cf84e7be93a83fc1.mp3*~data=user_id=0,application_id=42~hmac=5e8808026e44671bd29fc2cd952b09cac67d939685f746800216f081346f4726",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Too Good to Be True",
+            "length": "1:26",
+            "deezer": {
+              "id": 70179721,
+              "link": "https://www.deezer.com/track/70179721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/c/0/73c3e016557f42e87a13f7af424fa5cd.mp3?hdnea=exp=1795718582~acl=/api/1/1/7/3/c/0/73c3e016557f42e87a13f7af424fa5cd.mp3*~data=user_id=0,application_id=42~hmac=eb0bfa049955de97b036be5db416be814ac58ce74df57be73c334fd5d8e2f14a",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Peace of Mind",
+            "length": "3:16",
+            "deezer": {
+              "id": 70179722,
+              "link": "https://www.deezer.com/track/70179722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/b/0/11ba978bfbf0483b7bd11aac86b7d0bf.mp3?hdnea=exp=1795718582~acl=/api/1/1/1/1/b/0/11ba978bfbf0483b7bd11aac86b7d0bf.mp3*~data=user_id=0,application_id=42~hmac=a245d4a10c490464fb3c8474a7e7acee848a0a34822f00fe2c2f71a105abbbec",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "What I Mean",
+            "length": "4:11",
+            "deezer": {
+              "id": 70179723,
+              "link": "https://www.deezer.com/track/70179723",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/3/0/713f45af3e687757c6a72f2dbd755cc7.mp3?hdnea=exp=1795718582~acl=/api/1/1/7/1/3/0/713f45af3e687757c6a72f2dbd755cc7.mp3*~data=user_id=0,application_id=42~hmac=82b6610cf7357aeaacfb87dfba0c22a2ecc90101f2ddb0bc745f3a06aacc121c",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Music Takes You Back",
+            "length": "4:14",
+            "deezer": {
+              "id": 70179724,
+              "link": "https://www.deezer.com/track/70179724",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/c/0/4ccdcd2317fe70d6c6baa9dd9fd97361.mp3?hdnea=exp=1795718582~acl=/api/1/1/4/c/c/0/4ccdcd2317fe70d6c6baa9dd9fd97361.mp3*~data=user_id=0,application_id=42~hmac=e0a1da0af0517eb0b28f770eafe70f2fbcfc4f63c6bf3de162d4bc154a5d0e01",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "No More Tears",
+            "length": "6:17",
+            "deezer": {
+              "id": 70179725,
+              "link": "https://www.deezer.com/track/70179725",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/1/0/cb19bae97ee7f8214e18e87c56ec7c65.mp3?hdnea=exp=1795718582~acl=/api/1/1/c/b/1/0/cb19bae97ee7f8214e18e87c56ec7c65.mp3*~data=user_id=0,application_id=42~hmac=29aa8f420d82e70c4b8ea483fa358b20c4661de16eace1447e242a08c5102c0b",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Rollercoaster",
+            "length": "4:11",
+            "deezer": {
+              "id": 70179726,
+              "link": "https://www.deezer.com/track/70179726",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/7/0/44716245eeaf176311c9eaa00cbbee38.mp3?hdnea=exp=1795718582~acl=/api/1/1/4/4/7/0/44716245eeaf176311c9eaa00cbbee38.mp3*~data=user_id=0,application_id=42~hmac=e59776e91737077a39a30ae358ac6b509e9115ecb9753ea022c8b491d93c8fab",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "On Fire",
+            "length": "6:34",
+            "deezer": {
+              "id": 70179727,
+              "link": "https://www.deezer.com/track/70179727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/f/0/2bf90132e460807d622247583aba70d6.mp3?hdnea=exp=1795718582~acl=/api/1/1/2/b/f/0/2bf90132e460807d622247583aba70d6.mp3*~data=user_id=0,application_id=42~hmac=98efad163ff8940b85e79c475239c3b642a5a9adb56b0475e4f55598b4b7fe16",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Savior Eyes",
+            "length": "5:11",
+            "deezer": {
+              "id": 70179728,
+              "link": "https://www.deezer.com/track/70179728",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/c/0/d7c9e8a98c1d0b926be8eacd47a36375.mp3?hdnea=exp=1795718582~acl=/api/1/1/d/7/c/0/d7c9e8a98c1d0b926be8eacd47a36375.mp3*~data=user_id=0,application_id=42~hmac=c44997b1bd48804947393008bceb0d6c1f29b45c7798c72cc7f7aab2c3906a0f",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Lady (acoustic version)",
+            "length": "3:15",
+            "deezer": {
+              "id": 70179729,
+              "link": "https://www.deezer.com/track/70179729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/9/0/1696420d29d5950852bc4e0599628221.mp3?hdnea=exp=1795718582~acl=/api/1/1/1/6/9/0/1696420d29d5950852bc4e0599628221.mp3*~data=user_id=0,application_id=42~hmac=949c53fe77d23125e2a93c8e0684dedd7d2d90a7b75a3b74514ce81e84336d05",
+              "preview_expires": "2026-11-26T18:43:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Modjo/Modjo.jpg"
+}

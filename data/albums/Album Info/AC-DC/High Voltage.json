@@ -1,0 +1,160 @@
+{
+  "title": "High Voltage",
+  "artist": "AC/DC",
+  "year": 1976,
+  "release_date": "1976-05-14",
+  "type": "Album + Compilation",
+  "description": "High Voltage is the first internationally released album by Australian hard rock band AC/DC. It contains tracks compiled from their first two previous Australia-only issued albums: High Voltage and T.N.T..",
+  "genres": [
+    "hard rock",
+    "rock",
+    "blues rock",
+    "classic rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "1–4 wochen",
+    "blues rock",
+    "classic rock",
+    "english",
+    "offizielle charts"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 8
+  },
+  "musicbrainz_annotation": "This is a '''compilation''' made for international markets of AC/DC’s first 2 studio albums, '''[https://musicbrainz.org/release-group/2b81e645-4586-4456-843a-9bc19a217470|High Voltage]''' and '''[https://musicbrainz.org/release-group/e01e5b5c-5ca6-3876-b6ff-b9ad88dd71ee|T.N.T.]''', which were released only in Australia and New Zealand.\nSince they are meant to be different albums, please do not merge this with the former just because of the same name.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c7962404-3148-46ba-bf57-d96633079708",
+    "wikipedia": "https://en.wikipedia.org/wiki/High_Voltage_(1976_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000188976",
+    "discogs": "https://www.discogs.com/master/8437",
+    "wikidata": "https://www.wikidata.org/wiki/Q836320",
+    "deezer": "https://www.deezer.com/album/9410096"
+  },
+  "musicbrainz_id": "c7962404-3148-46ba-bf57-d96633079708",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/014161b7-e746-45c0-b721-22d539668c64",
+      "barcode": "886444889995",
+      "title": "High Voltage",
+      "disambiguation": null,
+      "date": "2014-10-07",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "44:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "It’s a Long Way to the Top (If You Wanna Rock ’n’ Roll)",
+            "length": "5:01",
+            "deezer": {
+              "id": 92719998,
+              "link": "https://www.deezer.com/track/92719998",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/6/0/486481b02cf4c0532225225054e67d45.mp3?hdnea=exp=1795648866~acl=/api/1/1/4/8/6/0/486481b02cf4c0532225225054e67d45.mp3*~data=user_id=0,application_id=42~hmac=ed326cdf192f97017ac4c5b987b41315fa0a55306d3a4a1335715d27bd3d6c80",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rock ’n’ Roll Singer",
+            "length": "5:03",
+            "deezer": {
+              "id": 92720000,
+              "link": "https://www.deezer.com/track/92720000",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/d/0/8ddaaf59e0b859940b70f0f3bfac6cfa.mp3?hdnea=exp=1795648866~acl=/api/1/1/8/d/d/0/8ddaaf59e0b859940b70f0f3bfac6cfa.mp3*~data=user_id=0,application_id=42~hmac=0974b2376f643040b68caf5b800cf5eae88af4f72c3b7780327943f15a457bdd",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Jack",
+            "length": "5:52",
+            "deezer": {
+              "id": 92720002,
+              "link": "https://www.deezer.com/track/92720002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/b/0/bfb18b41658a8f5119888a83b8fd81c8.mp3?hdnea=exp=1795648866~acl=/api/1/1/b/f/b/0/bfb18b41658a8f5119888a83b8fd81c8.mp3*~data=user_id=0,application_id=42~hmac=d11733c467a5fdac335659d20a556b17f57b41cb97576ce3980fcc5372ff0ce6",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Live Wire",
+            "length": "5:48",
+            "deezer": {
+              "id": 92720004,
+              "link": "https://www.deezer.com/track/92720004",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/e/0/0de60b2d554b95d0d579a88e6558a1c3.mp3?hdnea=exp=1795648866~acl=/api/1/1/0/d/e/0/0de60b2d554b95d0d579a88e6558a1c3.mp3*~data=user_id=0,application_id=42~hmac=fd617dc1194ada9c25cf1d3734ed70b04287a89e0ec75e0ff735fa379e2e664c",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "T.N.T.",
+            "length": "3:34",
+            "deezer": {
+              "id": 92720006,
+              "link": "https://www.deezer.com/track/92720006",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/f/0/f1f273789a64974474505f57394672cc.mp3?hdnea=exp=1795648866~acl=/api/1/1/f/1/f/0/f1f273789a64974474505f57394672cc.mp3*~data=user_id=0,application_id=42~hmac=b7343812a23dbd7da2e91d32a1339b6cc9555f87a14466e7e5307c0e1e0824de",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Can I Sit Next to You Girl",
+            "length": "4:11",
+            "deezer": {
+              "id": 92720008,
+              "link": "https://www.deezer.com/track/92720008",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/b/0/e8b8204cb344a7789e137127b5dc3cad.mp3?hdnea=exp=1795648866~acl=/api/1/1/e/8/b/0/e8b8204cb344a7789e137127b5dc3cad.mp3*~data=user_id=0,application_id=42~hmac=65b2758b30a6aa8ec268b5c0899dbbe0073ba9474696e968aee6547bd50c880d",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Little Lover",
+            "length": "5:38",
+            "deezer": {
+              "id": 92720010,
+              "link": "https://www.deezer.com/track/92720010",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/1/0/321e22ea02be9890f2b61e21e475b786.mp3?hdnea=exp=1795648866~acl=/api/1/1/3/2/1/0/321e22ea02be9890f2b61e21e475b786.mp3*~data=user_id=0,application_id=42~hmac=1e9024b53ec8febf1a63283a23eb94bbf1cfce5be1d6773f0a75a11f44a6be6c",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "She’s Got Balls",
+            "length": "4:51",
+            "deezer": {
+              "id": 92720012,
+              "link": "https://www.deezer.com/track/92720012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/7/0/4279b40ab89d8d53a020ab0779a63b69.mp3?hdnea=exp=1795648866~acl=/api/1/1/4/2/7/0/4279b40ab89d8d53a020ab0779a63b69.mp3*~data=user_id=0,application_id=42~hmac=bcab69b6874a1e9824e596c080229a1f9d9736084026f4539753e066a4ad59be",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "High Voltage",
+            "length": "4:14",
+            "deezer": {
+              "id": 92720014,
+              "link": "https://www.deezer.com/track/92720014",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/c/0/53cc6c6448678d6d65f512430857de2e.mp3?hdnea=exp=1795648866~acl=/api/1/1/5/3/c/0/53cc6c6448678d6d65f512430857de2e.mp3*~data=user_id=0,application_id=42~hmac=1709caa70d60577cd1de98f9ae9c58a08c1333af9244b93cf400dece6a60f485",
+              "preview_expires": "2026-11-25T23:21:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AC-DC/High Voltage.jpg"
+}

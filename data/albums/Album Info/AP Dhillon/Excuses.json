@@ -1,0 +1,52 @@
+{
+  "title": "Excuses",
+  "artist": "AP Dhillon, Gurinder Gill, Intense",
+  "year": 2021,
+  "release_date": "2021-05-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/db309423-e72d-4f1b-854d-37e0556f2354",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/262373942"
+  },
+  "musicbrainz_id": "db309423-e72d-4f1b-854d-37e0556f2354",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b6bb2693-5482-40e5-91e2-d87ac4cf896b",
+      "barcode": "859747478890",
+      "title": "Excuses",
+      "disambiguation": null,
+      "date": "2021-05-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Excuses",
+            "length": "2:56",
+            "artist": "AP Dhillon & Gurinder Gill",
+            "deezer": {
+              "id": 1508646682,
+              "link": "https://www.deezer.com/track/1508646682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/0/0/370c23f576ea4e757bdca78edfcf094c.mp3?hdnea=exp=1795649326~acl=/api/1/1/3/7/0/0/370c23f576ea4e757bdca78edfcf094c.mp3*~data=user_id=0,application_id=42~hmac=67d576188667a57c75b91f49c174283746d95b2714fe3e9ae6088a7ec4d89c61",
+              "preview_expires": "2026-11-25T23:28:46Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/AP Dhillon/Excuses.jpg"
+}

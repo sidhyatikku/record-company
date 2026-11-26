@@ -1,0 +1,51 @@
+{
+  "title": "over you",
+  "artist": "Oppidan & venbee",
+  "year": 2025,
+  "release_date": "2025-07-04",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/79833a89-1cd3-4eab-8006-c91d1c22aa82",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/760640331"
+  },
+  "musicbrainz_id": "79833a89-1cd3-4eab-8006-c91d1c22aa82",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b67ed837-d714-40e4-ab3e-74805b08d969",
+      "barcode": "198704524660",
+      "title": "over you",
+      "disambiguation": null,
+      "date": "2025-07-04",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "over you",
+            "length": "3:39",
+            "deezer": {
+              "id": 3378561751,
+              "link": "https://www.deezer.com/track/3378561751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/f/0/1afff93d061c7c8223fae2dc06755e40.mp3?hdnea=exp=1795719192~acl=/api/1/1/1/a/f/0/1afff93d061c7c8223fae2dc06755e40.mp3*~data=user_id=0,application_id=42~hmac=0c1c7b5e905c8cfa56140e47bee3160d4f87917c2c927b00828a1ec4e0215c89",
+              "preview_expires": "2026-11-26T18:53:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Oppidan/over you.jpg"
+}

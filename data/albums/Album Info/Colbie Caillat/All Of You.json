@@ -1,0 +1,188 @@
+{
+  "title": "All of You",
+  "artist": "Colbie Caillat",
+  "year": 2011,
+  "release_date": "2011-07-06",
+  "type": "Album",
+  "description": "All of You is the third studio album by American singer-songwriter Colbie Caillat. The album was scheduled to be released on May 3, 2011, but was pushed back by two months to a July 6, 2011, release in the United States through Universal Republic Records. Primarily produced by Greg Wells, the set features a guest appearance from rapper and actor Common on \"Favorite Song\" and includes songwriting contributions from Ryan Tedder, Toby Gad, Jason Reeves and Rick Nowels.",
+  "genres": [
+    "pop rock",
+    "pop",
+    "rock"
+  ],
+  "tags": [
+    "pop rock",
+    "pop",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/796e76c9-0bb7-458a-8a2c-9e2011cb9076",
+    "wikipedia": "https://en.wikipedia.org/wiki/All_of_You_(Colbie_Caillat_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002135667",
+    "discogs": "https://www.discogs.com/master/357577",
+    "wikidata": "https://www.wikidata.org/wiki/Q3284528",
+    "deezer": "https://www.deezer.com/album/1135120"
+  },
+  "musicbrainz_id": "796e76c9-0bb7-458a-8a2c-9e2011cb9076",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1e657368-1ffc-4271-a972-df9efed52df7",
+      "barcode": "602527680965",
+      "title": "All of You",
+      "disambiguation": null,
+      "date": "2011-07-12",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "43:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Brighter Than the Sun",
+            "length": "3:53",
+            "deezer": {
+              "id": 12351806,
+              "link": "https://www.deezer.com/track/12351806",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/d/0/1bdc47bb9c7ebf75f78bb876e48e62d2.mp3?hdnea=exp=1795652886~acl=/api/1/1/1/b/d/0/1bdc47bb9c7ebf75f78bb876e48e62d2.mp3*~data=user_id=0,application_id=42~hmac=976c2093356501815f0a68b1df611cda534359e8f198538643ba0a3e5142fe24",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Do",
+            "length": "2:54",
+            "deezer": {
+              "id": 12351807,
+              "link": "https://www.deezer.com/track/12351807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/7/0/067e2bca0b0c9b658c3851d05de56245.mp3?hdnea=exp=1795652886~acl=/api/1/1/0/6/7/0/067e2bca0b0c9b658c3851d05de56245.mp3*~data=user_id=0,application_id=42~hmac=c14e9648e4aa7ed41283a6ad28828d2f643bf64eea19e393382dfd5e911bc52f",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Before I Let You Go",
+            "length": "3:37",
+            "deezer": {
+              "id": 12351808,
+              "link": "https://www.deezer.com/track/12351808",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/0/0/050ac3d54d73b29008d45ad1103c5f4d.mp3?hdnea=exp=1795652886~acl=/api/1/1/0/5/0/0/050ac3d54d73b29008d45ad1103c5f4d.mp3*~data=user_id=0,application_id=42~hmac=fd6b84d2dcb27592daa307e9fe5d87f0f9316aa2113bf6ea2177acf1b0343293",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Favorite Song",
+            "length": "3:47",
+            "artist": "Colbie Caillat feat. Common",
+            "deezer": {
+              "id": 12351809,
+              "link": "https://www.deezer.com/track/12351809",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/1/0/d019b5db7e68aa3c354c0b6d1ebd8757.mp3?hdnea=exp=1795652886~acl=/api/1/1/d/0/1/0/d019b5db7e68aa3c354c0b6d1ebd8757.mp3*~data=user_id=0,application_id=42~hmac=59dae760709821877d5dd8ad3ee5116fcc9fa077055ce40309363a6feddf99fb",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "What If",
+            "length": "3:47",
+            "deezer": {
+              "id": 12351810,
+              "link": "https://www.deezer.com/track/12351810",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/a/0/f3a2ea2f158d5ccf50af3d989479f5b2.mp3?hdnea=exp=1795652886~acl=/api/1/1/f/3/a/0/f3a2ea2f158d5ccf50af3d989479f5b2.mp3*~data=user_id=0,application_id=42~hmac=ed9014902301aad707dd84f6e351b9d135274292ffcb84b61e2d06d8ab7bfed4",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Shadow",
+            "length": "3:22",
+            "deezer": {
+              "id": 12351811,
+              "link": "https://www.deezer.com/track/12351811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/a/0/69a05f57a76c64666250d007680427d4.mp3?hdnea=exp=1795652886~acl=/api/1/1/6/9/a/0/69a05f57a76c64666250d007680427d4.mp3*~data=user_id=0,application_id=42~hmac=ad3008165bf3b44ccaf875e77fa286575619df4068e23de782e95552f9d11807",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Think Good Thoughts",
+            "length": "4:02",
+            "deezer": {
+              "id": 12351812,
+              "link": "https://www.deezer.com/track/12351812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/1/0/b81e8261c1a9c7906c4781f9e72b9ba4.mp3?hdnea=exp=1795652886~acl=/api/1/1/b/8/1/0/b81e8261c1a9c7906c4781f9e72b9ba4.mp3*~data=user_id=0,application_id=42~hmac=c9107e3fe960531eb7ad1339a2cb3231404c6d2bfbd8baa39ff98c911fdc5efe",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Like Yesterday",
+            "length": "3:27",
+            "deezer": {
+              "id": 12351813,
+              "link": "https://www.deezer.com/track/12351813",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dc6bfcb87a64685ed94496fc5b314f2.mp3?hdnea=exp=1795652886~acl=/api/1/1/0/d/c/0/0dc6bfcb87a64685ed94496fc5b314f2.mp3*~data=user_id=0,application_id=42~hmac=4e860235a08e3e78963ada431daa6621d040be86a3b59f31b4cf0ac4313730cb",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "All of You",
+            "length": "3:49",
+            "deezer": {
+              "id": 12351814,
+              "link": "https://www.deezer.com/track/12351814",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/2/0/6d2b5286ad3926701b544b0bcf330e4f.mp3?hdnea=exp=1795652886~acl=/api/1/1/6/d/2/0/6d2b5286ad3926701b544b0bcf330e4f.mp3*~data=user_id=0,application_id=42~hmac=01c415366c24e36f43533a54e79e7192ad5241b2ff3a168f3e500ab6435c3f4e",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dream Life, Life",
+            "length": "3:26",
+            "deezer": {
+              "id": 12351815,
+              "link": "https://www.deezer.com/track/12351815",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/4/0/0b4c24a4e241f52941808f569cd6c61e.mp3?hdnea=exp=1795652886~acl=/api/1/1/0/b/4/0/0b4c24a4e241f52941808f569cd6c61e.mp3*~data=user_id=0,application_id=42~hmac=72f1054660e0c03e3439aebaa9dcaf8f7525da9b95406d99801b1a41141185d8",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "What Means the Most",
+            "length": "3:28",
+            "deezer": {
+              "id": 12351816,
+              "link": "https://www.deezer.com/track/12351816",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/6/0/f66a9eea8422ce522b2824b6d29d29e4.mp3?hdnea=exp=1795652886~acl=/api/1/1/f/6/6/0/f66a9eea8422ce522b2824b6d29d29e4.mp3*~data=user_id=0,application_id=42~hmac=22cfcb34c2d32a2172b013ee1e34d585149ada1fce1110e084f01cccdc09e6a5",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Make It Rain",
+            "length": "3:57",
+            "deezer": {
+              "id": 12351817,
+              "link": "https://www.deezer.com/track/12351817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/6622d53ec0bf558de4cf923e5df51f29.mp3?hdnea=exp=1795652886~acl=/api/1/1/6/6/2/0/6622d53ec0bf558de4cf923e5df51f29.mp3*~data=user_id=0,application_id=42~hmac=98d3ce28b753f8b9995b771bdda95c8b7cda1024e9afb74bf409e66fff1e14d2",
+              "preview_expires": "2026-11-26T00:28:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Colbie Caillat/All Of You.jpg"
+}

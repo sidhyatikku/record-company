@@ -1,0 +1,57 @@
+{
+  "title": "Heaven",
+  "artist": "The Walkmen",
+  "year": 2012,
+  "release_date": "2012-04-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indie rock",
+    "rock"
+  ],
+  "tags": [
+    "indie rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e4d7b7d6-f334-410a-8588-daa6ba13f72b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/2394221"
+  },
+  "musicbrainz_id": "e4d7b7d6-f334-410a-8588-daa6ba13f72b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a09d2682-c297-4c2b-9ed8-ef744ddf5e25",
+      "barcode": null,
+      "title": "Heaven",
+      "disambiguation": null,
+      "date": "2012-04-17",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": "4:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Heaven",
+            "length": "4:22",
+            "deezer": {
+              "id": 25176291,
+              "link": "https://www.deezer.com/track/25176291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/1/0/eb1db3d9112b320426e6d2f1acf95fc0.mp3?hdnea=exp=1795721829~acl=/api/1/1/e/b/1/0/eb1db3d9112b320426e6d2f1acf95fc0.mp3*~data=user_id=0,application_id=42~hmac=9d828ecceec2911b00eb807baf98beeedf6aa29e662d3abe9659a3465740958f",
+              "preview_expires": "2026-11-26T19:37:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Walkmen/Heaven.jpg"
+}

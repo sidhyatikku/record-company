@@ -1,0 +1,143 @@
+{
+  "title": "When We Were Friends",
+  "artist": "The Backseat Lovers",
+  "year": 2019,
+  "release_date": "2019-01-27",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "rock"
+  ],
+  "tags": [
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/de107e4f-e1ae-4908-b5c9-df5e30379de5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/153138162"
+  },
+  "musicbrainz_id": "de107e4f-e1ae-4908-b5c9-df5e30379de5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/553f2332-f27d-4627-9e7c-03ec74b79c0d",
+      "barcode": "193428577343",
+      "title": "When We Were Friends",
+      "disambiguation": null,
+      "date": "2019-01-27",
+      "country": null
+    },
+    "total_tracks": 9,
+    "total_length": "37:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Watch Your Mouth",
+            "length": "4:31",
+            "deezer": {
+              "id": 984695892,
+              "link": "https://www.deezer.com/track/984695892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/3/0/293a1663ffa7f9b46458fdaba0f28395.mp3?hdnea=exp=1795721335~acl=/api/1/1/2/9/3/0/293a1663ffa7f9b46458fdaba0f28395.mp3*~data=user_id=0,application_id=42~hmac=5c229d4b2b334eda172e52defe32e30d0a55a4858e7ff2aa009a58f216a882d9",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Pool House",
+            "length": "4:29",
+            "deezer": {
+              "id": 984695902,
+              "link": "https://www.deezer.com/track/984695902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/a/0/d6a1ad928a91cc9da422ed9023afcc80.mp3?hdnea=exp=1795721335~acl=/api/1/1/d/6/a/0/d6a1ad928a91cc9da422ed9023afcc80.mp3*~data=user_id=0,application_id=42~hmac=c09470982955e9ff1cc9ab12ee38ecdcf2ccf4d0147b3c3dee79e305be9378ba",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Intuition",
+            "length": "3:31",
+            "deezer": {
+              "id": 984695912,
+              "link": "https://www.deezer.com/track/984695912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/1/0/e21469f24369c5d8eac9b876a8b89278.mp3?hdnea=exp=1795721335~acl=/api/1/1/e/2/1/0/e21469f24369c5d8eac9b876a8b89278.mp3*~data=user_id=0,application_id=42~hmac=22fafb23de8b6d4179fcb897d1f360edf0426937649ac8926d059be521fa9d66",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kilby Girl",
+            "length": "4:42",
+            "deezer": {
+              "id": 984695922,
+              "link": "https://www.deezer.com/track/984695922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/a/0/aaac2050920ae06e5466a1e13eaaabe3.mp3?hdnea=exp=1795721335~acl=/api/1/1/a/a/a/0/aaac2050920ae06e5466a1e13eaaabe3.mp3*~data=user_id=0,application_id=42~hmac=ba4208a3eae4212dc68b7fc1f5e46fd993e4197141378815e5ce1323233c3c1d",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Dugout",
+            "length": "4:51",
+            "deezer": {
+              "id": 984695932,
+              "link": "https://www.deezer.com/track/984695932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/3/0/a930706d87d8cb64c1a58abf8bd2510c.mp3?hdnea=exp=1795721335~acl=/api/1/1/a/9/3/0/a930706d87d8cb64c1a58abf8bd2510c.mp3*~data=user_id=0,application_id=42~hmac=cf1b3e8496c640e4a5aff2c669b74cc5aaf5956edf559efa3cfffb7bcbbfb416",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Davy Crochet",
+            "length": "2:57",
+            "deezer": {
+              "id": 984695942,
+              "link": "https://www.deezer.com/track/984695942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/e/0/fbead11e00d71f2742c32009d1b92d1f.mp3?hdnea=exp=1795721335~acl=/api/1/1/f/b/e/0/fbead11e00d71f2742c32009d1b92d1f.mp3*~data=user_id=0,application_id=42~hmac=de968ec067da7952c0149ec6cf76bf47399b26a504c5ba7de7a03c09edf595c3",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Maple Syrup",
+            "length": "4:04",
+            "deezer": {
+              "id": 984695952,
+              "link": "https://www.deezer.com/track/984695952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/6/0/d06d6b405f683de6263ded7e2fd79a04.mp3?hdnea=exp=1795721335~acl=/api/1/1/d/0/6/0/d06d6b405f683de6263ded7e2fd79a04.mp3*~data=user_id=0,application_id=42~hmac=0d9aca23460229d2e2f46b3d1e5f897c8fafb1fc71f0297ec8435352f9a34348",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Olivia",
+            "length": "3:12",
+            "deezer": {
+              "id": 984695962,
+              "link": "https://www.deezer.com/track/984695962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/a/0/27ab0a22f006494e263769804167fa28.mp3?hdnea=exp=1795721335~acl=/api/1/1/2/7/a/0/27ab0a22f006494e263769804167fa28.mp3*~data=user_id=0,application_id=42~hmac=449812614d7384e1f886f35349ddeb4809996799f54d30291170fd4b1567220e",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sinking Ship",
+            "length": "5:08",
+            "deezer": {
+              "id": 984695972,
+              "link": "https://www.deezer.com/track/984695972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/d/0/4cd6fa3539dd7738516f08344c7f914f.mp3?hdnea=exp=1795721335~acl=/api/1/1/4/c/d/0/4cd6fa3539dd7738516f08344c7f914f.mp3*~data=user_id=0,application_id=42~hmac=96be9b92c122feb6483b890d1f17882a8e7c15fcebe1dfd7b437c9624991bbd7",
+              "preview_expires": "2026-11-26T19:28:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Backseat Lovers/When We Were Friends.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Silent Days EP",
+  "artist": "Anhad + Tanner",
+  "year": 2024,
+  "release_date": "2024-11-13",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cfd27bcd-1fb9-4c22-a562-3d442cc0f012",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/666143451"
+  },
+  "musicbrainz_id": "cfd27bcd-1fb9-4c22-a562-3d442cc0f012",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/64f6d86c-89a8-4567-a576-e1d6b65b30dd",
+      "barcode": "5039061050292",
+      "title": "Silent Days EP",
+      "disambiguation": null,
+      "date": "2024-11-13",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "14:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Silent Days (extended mix)",
+            "length": "4:35",
+            "artist": "Anhad + Tanner feat. Akanksha Grover",
+            "deezer": {
+              "id": 3076452151,
+              "link": "https://www.deezer.com/track/3076452151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/0/0/5e0ff99f44e49aad75437c1169371e22.mp3?hdnea=exp=1795649175~acl=/api/1/1/5/e/0/0/5e0ff99f44e49aad75437c1169371e22.mp3*~data=user_id=0,application_id=42~hmac=f3de72f13d28c22928df097fe54cbcb653c3031a5c74c1a941f311afe70fbd7d",
+              "preview_expires": "2026-11-25T23:26:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Clouds Above",
+            "length": "4:49",
+            "artist": "Anhad + Tanner feat. Tanishque",
+            "deezer": {
+              "id": 3076452161,
+              "link": "https://www.deezer.com/track/3076452161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/6/0/226bd266d852210761d22a7d8ca56c24.mp3?hdnea=exp=1795649175~acl=/api/1/1/2/2/6/0/226bd266d852210761d22a7d8ca56c24.mp3*~data=user_id=0,application_id=42~hmac=c83852b844786f4efe896e5e86faea5abe7dae6bd2d91711cdb2c94526dde8ae",
+              "preview_expires": "2026-11-25T23:26:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Moved Again",
+            "length": "4:52",
+            "artist": "Anhad + Tanner feat. Amira Gill & Vibhor Mathur",
+            "deezer": {
+              "id": 3076452171,
+              "link": "https://www.deezer.com/track/3076452171",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/8/0/468f4ac6e8aa458340e0125e941a23f2.mp3?hdnea=exp=1795649175~acl=/api/1/1/4/6/8/0/468f4ac6e8aa458340e0125e941a23f2.mp3*~data=user_id=0,application_id=42~hmac=4ecebdcc4611e5c7ff3585748099165e8ab96840588230143b5b7cfa41e5c868",
+              "preview_expires": "2026-11-25T23:26:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anhad + Tanner/Silent Days EP.jpg"
+}

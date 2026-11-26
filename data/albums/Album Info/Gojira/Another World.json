@@ -1,0 +1,63 @@
+{
+  "title": "Another World",
+  "artist": "Gojira",
+  "year": 2020,
+  "release_date": "2020-08-05",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "heavy metal",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "heavy metal",
+    "progressive metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/94cc052a-49ac-41db-99ac-e5e69a7f63ab",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/164668532"
+  },
+  "musicbrainz_id": "94cc052a-49ac-41db-99ac-e5e69a7f63ab",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/58197dc5-7da9-4818-877e-0c38c59b3910",
+      "barcode": "0075679811011",
+      "title": "Another World",
+      "disambiguation": null,
+      "date": "2020-08-05",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Another World",
+            "length": "4:25",
+            "deezer": {
+              "id": 1040589942,
+              "link": "https://www.deezer.com/track/1040589942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/b/0/d2be17f6516662d95e6cba0b0764fcdc.mp3?hdnea=exp=1795654650~acl=/api/1/1/d/2/b/0/d2be17f6516662d95e6cba0b0764fcdc.mp3*~data=user_id=0,application_id=42~hmac=793934ca5e029f522a79d3c25428ba175b869e1bdbb7f04665eb6491f64b20e4",
+              "preview_expires": "2026-11-26T00:57:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Gojira/Another World.jpg"
+}

@@ -1,0 +1,238 @@
+{
+  "title": "My Terrible Mind",
+  "artist": "Talha Anjum",
+  "year": 2024,
+  "release_date": "2024-11-29",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/55edacd8-31e1-41ec-acf8-4a455a775548",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/667236461"
+  },
+  "musicbrainz_id": "55edacd8-31e1-41ec-acf8-4a455a775548",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3d0ef1ce-1dd5-422a-8a00-f5e9be88b2d5",
+      "barcode": "198846875156",
+      "title": "My Terrible Mind",
+      "disambiguation": null,
+      "date": "2024-11-29",
+      "country": null
+    },
+    "total_tracks": 16,
+    "total_length": "57:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Back For More",
+            "length": "2:33",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246661,
+              "link": "https://www.deezer.com/track/3081246661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/9/0/a591d7d12d59eb999ef9dc619668a0e2.mp3?hdnea=exp=1795721172~acl=/api/1/1/a/5/9/0/a591d7d12d59eb999ef9dc619668a0e2.mp3*~data=user_id=0,application_id=42~hmac=281d9e7301bf8cf5a57140729103f1d0a6c7b2e09163b66f2fb260da799ec1e9",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Good Fellas",
+            "length": "3:52",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246671,
+              "link": "https://www.deezer.com/track/3081246671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/4/0/cd4c2a1fe5df02eb70c3e83b3b02df86.mp3?hdnea=exp=1795721172~acl=/api/1/1/c/d/4/0/cd4c2a1fe5df02eb70c3e83b3b02df86.mp3*~data=user_id=0,application_id=42~hmac=46fa18d8466d1e9e535fac1ede048a5669f8a6a339da0d19a75d3bfc0a25ab92",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Run It Back",
+            "length": "3:32",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246681,
+              "link": "https://www.deezer.com/track/3081246681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/5/0/6a53b02772d6febc468aed8f5170a8c8.mp3?hdnea=exp=1795721172~acl=/api/1/1/6/a/5/0/6a53b02772d6febc468aed8f5170a8c8.mp3*~data=user_id=0,application_id=42~hmac=3b2de9ea16332d7e00f69677d5e0297680bcda5d6525778279135697e33bde68",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Young OG",
+            "length": "3:23",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246691,
+              "link": "https://www.deezer.com/track/3081246691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/6/0/aa64847919496b28dd12b953b32276fc.mp3?hdnea=exp=1795721172~acl=/api/1/1/a/a/6/0/aa64847919496b28dd12b953b32276fc.mp3*~data=user_id=0,application_id=42~hmac=89c1fe5517d18ab03806d26dfe67b346d5bb7848cd12f3e5730eceb3ee0dc210",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Plug Shaart",
+            "length": "3:45",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246701,
+              "link": "https://www.deezer.com/track/3081246701",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/b/0/11be9b00d0a430ca6875df1d78621e8c.mp3?hdnea=exp=1795721172~acl=/api/1/1/1/1/b/0/11be9b00d0a430ca6875df1d78621e8c.mp3*~data=user_id=0,application_id=42~hmac=1b4a7e9f723bd90fd35d0e03a0c9371658d99d96649011742246245324631482",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "30 Shooter",
+            "length": "4:19",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246711,
+              "link": "https://www.deezer.com/track/3081246711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/b/0/fcb6ba540ee6e259dfd19a4eeb10825c.mp3?hdnea=exp=1795721172~acl=/api/1/1/f/c/b/0/fcb6ba540ee6e259dfd19a4eeb10825c.mp3*~data=user_id=0,application_id=42~hmac=b21294d4cb57cab38f293257d9391f4af85c1a234f46c0fef1567dc2655f6f36",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "5AM In Lahore",
+            "length": "3:45",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246721,
+              "link": "https://www.deezer.com/track/3081246721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/8/0/a580ffba094e022cf534ff59ee1a4af8.mp3?hdnea=exp=1795721172~acl=/api/1/1/a/5/8/0/a580ffba094e022cf534ff59ee1a4af8.mp3*~data=user_id=0,application_id=42~hmac=4975f9ee743b3e9f5313a8f7176a186daed1702ce8a656e6b4d20b1ac45d03ae",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Crazy, Maybe",
+            "length": "4:01",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246731,
+              "link": "https://www.deezer.com/track/3081246731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/0/0/ad08d2ba66d46e2ab20906f3773821a7.mp3?hdnea=exp=1795721172~acl=/api/1/1/a/d/0/0/ad08d2ba66d46e2ab20906f3773821a7.mp3*~data=user_id=0,application_id=42~hmac=46a3eec211a75c02160272f11a4999860fbf8c5d23531562863132b9c283d779",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Incurable Sadness",
+            "length": "3:55",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246741,
+              "link": "https://www.deezer.com/track/3081246741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/6/0/47602b00c919d0ed0771bbe94f93ac84.mp3?hdnea=exp=1795721172~acl=/api/1/1/4/7/6/0/47602b00c919d0ed0771bbe94f93ac84.mp3*~data=user_id=0,application_id=42~hmac=fe22174acfb4bbad167764822bcbc89d66f22d3de72c3fb17ed84617542dbf00",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Heartbreak Kid",
+            "length": "4:04",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246751,
+              "link": "https://www.deezer.com/track/3081246751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/9/0/50961ed7eb73bc795d63f99210c54e47.mp3?hdnea=exp=1795721172~acl=/api/1/1/5/0/9/0/50961ed7eb73bc795d63f99210c54e47.mp3*~data=user_id=0,application_id=42~hmac=c7116675f5fd3ce667a79ee25abde65cb2ccd9553d76eb31b3bfd71ad24305a2",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Loneliness",
+            "length": "4:00",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246761,
+              "link": "https://www.deezer.com/track/3081246761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/9/0/e19ede6703ef81c11fe143dd21cc8d14.mp3?hdnea=exp=1795721172~acl=/api/1/1/e/1/9/0/e19ede6703ef81c11fe143dd21cc8d14.mp3*~data=user_id=0,application_id=42~hmac=845bf173570b2ec0003aabdee6ebdcd5013127ba45b9d4fd125141940ba2335d",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Jasmine",
+            "length": "2:48",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246771,
+              "link": "https://www.deezer.com/track/3081246771",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fefcc0d78ca60b132bbbd95e2be3cbe0.mp3?hdnea=exp=1795721172~acl=/api/1/1/f/e/f/0/fefcc0d78ca60b132bbbd95e2be3cbe0.mp3*~data=user_id=0,application_id=42~hmac=49a6611240e314347bc1edd6f5306c6c0d205ce6c7da365a8ac5c1616688f01c",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sweet Talk",
+            "length": "3:35",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246781,
+              "link": "https://www.deezer.com/track/3081246781",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/4/0/a1437c0afa32767909e6d418aba565fb.mp3?hdnea=exp=1795721172~acl=/api/1/1/a/1/4/0/a1437c0afa32767909e6d418aba565fb.mp3*~data=user_id=0,application_id=42~hmac=54ebba580f123e4d07840a319e0eea618c9799479bfd0d1a9878ddb122cddd37",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Let Go",
+            "length": "3:09",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246791,
+              "link": "https://www.deezer.com/track/3081246791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/4/0/924933ed5e513045d01fdf5ded4a4127.mp3?hdnea=exp=1795721172~acl=/api/1/1/9/2/4/0/924933ed5e513045d01fdf5ded4a4127.mp3*~data=user_id=0,application_id=42~hmac=6c9838c89defe156327a7d4efd5f0c45f908b7e483edb2f2b1354aa915528104",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Departure Lane",
+            "length": "2:47",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246801,
+              "link": "https://www.deezer.com/track/3081246801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d0894b0d2ab09f55c80f59b1c3442eb.mp3?hdnea=exp=1795721172~acl=/api/1/1/0/d/0/0/0d0894b0d2ab09f55c80f59b1c3442eb.mp3*~data=user_id=0,application_id=42~hmac=10509fe4a6c643ad633ca325b2f59ed2f6086eda2e4bc993d3af67fa11c17894",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Rainy Days",
+            "length": "3:42",
+            "artist": "Talha Anjum & Umair",
+            "deezer": {
+              "id": 3081246811,
+              "link": "https://www.deezer.com/track/3081246811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/7/0/4774e7a101034e912c86ae901febfb09.mp3?hdnea=exp=1795721172~acl=/api/1/1/4/7/7/0/4774e7a101034e912c86ae901febfb09.mp3*~data=user_id=0,application_id=42~hmac=31f56fa627c610da63d13530aed0d2047aa65a7d81615cf0db6aea8a1f0d2540",
+              "preview_expires": "2026-11-26T19:26:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Talha Anjum/My Terrible Mind.jpg"
+}

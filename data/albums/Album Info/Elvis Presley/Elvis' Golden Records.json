@@ -1,0 +1,245 @@
+{
+  "title": "Elvis’ Golden Records",
+  "artist": "Elvis Presley",
+  "year": 1958,
+  "release_date": "1958-03-21",
+  "type": "Album + Compilation",
+  "description": "Elvis' Golden Records is a compilation album by American rock and roll singer Elvis Presley, issued by RCA Victor in March 1958. It compiled his hit singles released in 1956 and 1957, and is widely believed to be the first greatest hits album in rock and roll history. It is the first of five RCA Victor Elvis' Golden/Gold Records compilations, the first four of which were issued during Presley's lifetime. The album peaked at number three on the Billboard Top Pop Albums chart and was certified 6× platinum on August 17, 1999, by the Recording Industry Association of America.",
+  "genres": [
+    "rock",
+    "rock and roll",
+    "rockabilly",
+    "blue-eyed soul",
+    "pop"
+  ],
+  "tags": [
+    "rock & roll",
+    "rock",
+    "rock and roll",
+    "rockabilly",
+    "blue-eyed soul",
+    "pop",
+    "rhythm & blues"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/15e3760c-1163-359f-a6a9-a998dbb8ac81",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis'_Golden_Records",
+    "allmusic": "https://www.allmusic.com/album/mw0000195342",
+    "discogs": "https://www.discogs.com/master/107361",
+    "wikidata": "https://www.wikidata.org/wiki/Q1755507",
+    "deezer": "https://www.deezer.com/album/6776451"
+  },
+  "musicbrainz_id": "15e3760c-1163-359f-a6a9-a998dbb8ac81",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f69cc77a-ca33-4a2a-812e-1bf23834067e",
+      "barcode": "078636746227",
+      "title": "Elvis’ Golden Records",
+      "disambiguation": null,
+      "date": "1997-07-15",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "47:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hound Dog",
+            "length": "2:18",
+            "deezer": {
+              "id": 69149073,
+              "link": "https://www.deezer.com/track/69149073",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/1/0/251c2fe71110b5803c1ed1b066c15c4b.mp3?hdnea=exp=1795653849~acl=/api/1/1/2/5/1/0/251c2fe71110b5803c1ed1b066c15c4b.mp3*~data=user_id=0,application_id=42~hmac=02310347de32605bfa6c1ccd8e122105439e2dd41ddb378d74a2f6628992a5e0",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Loving You",
+            "length": "2:14",
+            "deezer": {
+              "id": 69149074,
+              "link": "https://www.deezer.com/track/69149074",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/0/0/ae0318793f7ee0a83aedd96ee8b90689.mp3?hdnea=exp=1795653849~acl=/api/1/1/a/e/0/0/ae0318793f7ee0a83aedd96ee8b90689.mp3*~data=user_id=0,application_id=42~hmac=cbbe98b58be8f839f7d85196d99e76b777ab4cdc65d63f6194212422f3d84244",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "All Shook Up",
+            "length": "1:59",
+            "deezer": {
+              "id": 69149072,
+              "link": "https://www.deezer.com/track/69149072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/2/0/062d3d2b3d230ebc9640e1a227a0fb4c.mp3?hdnea=exp=1795653849~acl=/api/1/1/0/6/2/0/062d3d2b3d230ebc9640e1a227a0fb4c.mp3*~data=user_id=0,application_id=42~hmac=134e9603a7416f069d4af3abb2474aa084814035007082f7256a00b5b69c7b57",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Heartbreak Hotel",
+            "length": "2:11",
+            "deezer": {
+              "id": 69149075,
+              "link": "https://www.deezer.com/track/69149075",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/0/0/7c0301cf4499e90811e20c6f0e89b206.mp3?hdnea=exp=1795653849~acl=/api/1/1/7/c/0/0/7c0301cf4499e90811e20c6f0e89b206.mp3*~data=user_id=0,application_id=42~hmac=9bf24f5f451e12bb25b84ff56892ee911b827cb39cd424ec11f6107a84e011f7",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Jailhouse Rock",
+            "length": "2:29",
+            "deezer": {
+              "id": 69149076,
+              "link": "https://www.deezer.com/track/69149076",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/b/0/b5ba02f2bbfb425f8ac4c6b901feaae1.mp3?hdnea=exp=1795653849~acl=/api/1/1/b/5/b/0/b5ba02f2bbfb425f8ac4c6b901feaae1.mp3*~data=user_id=0,application_id=42~hmac=16485929d449ace87d16df98f09af8054d378b6bf7b8bef1b7a8051cceedef2d",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Love Me",
+            "length": "2:45",
+            "deezer": {
+              "id": 69149070,
+              "link": "https://www.deezer.com/track/69149070",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/9/0/689d90f21da10febea6f1621ed593a22.mp3?hdnea=exp=1795653849~acl=/api/1/1/6/8/9/0/689d90f21da10febea6f1621ed593a22.mp3*~data=user_id=0,application_id=42~hmac=27ff9bed28fb511ab4370ff05da6f2ee7be0b460c6775d9c36bf6b6b6714d053",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Too Much",
+            "length": "2:33",
+            "deezer": {
+              "id": 69149077,
+              "link": "https://www.deezer.com/track/69149077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/7/0/86724290671a1ea97109b99522d52bba.mp3?hdnea=exp=1795653849~acl=/api/1/1/8/6/7/0/86724290671a1ea97109b99522d52bba.mp3*~data=user_id=0,application_id=42~hmac=b7c0492a7c6a7fff3ea2a542988eaf5cab6da263dc19039c744a6d076332a523",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Don’t Be Cruel",
+            "length": "2:04",
+            "deezer": {
+              "id": 69149082,
+              "link": "https://www.deezer.com/track/69149082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/4/0/6744a44ec1f565d2182f2ca09b8fc292.mp3?hdnea=exp=1795653849~acl=/api/1/1/6/7/4/0/6744a44ec1f565d2182f2ca09b8fc292.mp3*~data=user_id=0,application_id=42~hmac=88c47f207cb7db00b7f6e567d53ea22cb09ad6a75214b8ccb4009bd44a01ff90",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "That’s When Your Heartaches Begin",
+            "length": "3:23",
+            "deezer": {
+              "id": 69149078,
+              "link": "https://www.deezer.com/track/69149078",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/8/0/8d87d6a61aa91e4b4f41303b578a644b.mp3?hdnea=exp=1795653849~acl=/api/1/1/8/d/8/0/8d87d6a61aa91e4b4f41303b578a644b.mp3*~data=user_id=0,application_id=42~hmac=2cb24db79b592ecefed3c9999a7abab5dbba74fc0a7cba85d7fb94db035f0cb3",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "(Let Me Be Your) Teddy Bear",
+            "length": "1:47",
+            "deezer": {
+              "id": 69149079,
+              "link": "https://www.deezer.com/track/69149079",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/0/0/b8010abd3d8036d33e591a61b0375903.mp3?hdnea=exp=1795653849~acl=/api/1/1/b/8/0/0/b8010abd3d8036d33e591a61b0375903.mp3*~data=user_id=0,application_id=42~hmac=68fae03e71abb9aa4a87150b4bef8a7a6ab4f68f476d42839b6d68883105e2f8",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Love Me Tender",
+            "length": "2:43",
+            "deezer": {
+              "id": 69149071,
+              "link": "https://www.deezer.com/track/69149071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/8/0/e1873f49d3e8fc13470d7f644b3e9cb9.mp3?hdnea=exp=1795653849~acl=/api/1/1/e/1/8/0/e1873f49d3e8fc13470d7f644b3e9cb9.mp3*~data=user_id=0,application_id=42~hmac=7f8c0a1d66132471efd3a6e6c0955e5e92861f8e8b355c1fc758fee221e46632",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Treat Me Nice",
+            "length": "2:12",
+            "deezer": {
+              "id": 69149083,
+              "link": "https://www.deezer.com/track/69149083",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/b/0/4eb556806970b31f689655c6d57ce081.mp3?hdnea=exp=1795653849~acl=/api/1/1/4/e/b/0/4eb556806970b31f689655c6d57ce081.mp3*~data=user_id=0,application_id=42~hmac=cdc177f925f40fc20d474d210042437ec527f1d5c234b6b705ef74f284ad7c1d",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Anyway You Want Me (That’s How I Will Be)",
+            "length": "2:16",
+            "deezer": {
+              "id": 69149080,
+              "link": "https://www.deezer.com/track/69149080",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/f/0/f0f8c6ed2d6d4f0942a69081b35cc746.mp3?hdnea=exp=1795653849~acl=/api/1/1/f/0/f/0/f0f8c6ed2d6d4f0942a69081b35cc746.mp3*~data=user_id=0,application_id=42~hmac=63d9c227cdcbf466940046966888b3d78eac073f6415d181fffe8bfcbf8356fc",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "I Want You, I Need You, I Love You",
+            "length": "2:42",
+            "deezer": {
+              "id": 69149081,
+              "link": "https://www.deezer.com/track/69149081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/6/0/926277dd0906755d9ec2e7f3cef5a76e.mp3?hdnea=exp=1795653849~acl=/api/1/1/9/2/6/0/926277dd0906755d9ec2e7f3cef5a76e.mp3*~data=user_id=0,application_id=42~hmac=64407d80fa73e5f561572cacf9e92286c37307f3297cb43cec41e4c7f84af695",
+              "preview_expires": "2026-11-26T00:44:09Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "My Baby Left Me",
+            "length": "2:13"
+          },
+          {
+            "number": "16",
+            "title": "I Was the One",
+            "length": "2:36"
+          },
+          {
+            "number": "17",
+            "title": "That’s All Right",
+            "length": "1:57"
+          },
+          {
+            "number": "18",
+            "title": "Baby, Let’s Play House",
+            "length": "2:18"
+          },
+          {
+            "number": "19",
+            "title": "Mystery Train",
+            "length": "2:26"
+          },
+          {
+            "number": "20",
+            "title": "Blue Suede Shoes",
+            "length": "1:59"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Elvis Presley/Elvis' Golden Records.jpg"
+}

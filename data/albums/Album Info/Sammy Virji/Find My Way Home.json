@@ -1,0 +1,51 @@
+{
+  "title": "Find My Way Home",
+  "artist": "Sammy Virji",
+  "year": 2018,
+  "release_date": "2018-12-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/80610e8e-53fd-410b-bdc7-6879949e5e99",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/132715122"
+  },
+  "musicbrainz_id": "80610e8e-53fd-410b-bdc7-6879949e5e99",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/24bcef8e-e410-4724-8b7b-ba0cf573633c",
+      "barcode": "8719729335752",
+      "title": "Find My Way Home",
+      "disambiguation": null,
+      "date": "2018-12-12",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Find My Way Home",
+            "length": "4:19",
+            "deezer": {
+              "id": 883297722,
+              "link": "https://www.deezer.com/track/883297722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b792f7f201925b99970e65590ecad2ca.mp3?hdnea=exp=1795720309~acl=/api/1/1/b/7/9/0/b792f7f201925b99970e65590ecad2ca.mp3*~data=user_id=0,application_id=42~hmac=a687c626859314e25e592cdeb3a2d5c63c4f00d5ca5c676e3057b67333e00c4c",
+              "preview_expires": "2026-11-26T19:11:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sammy Virji/Find My Way Home.png"
+}

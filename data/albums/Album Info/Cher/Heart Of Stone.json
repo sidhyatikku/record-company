@@ -1,0 +1,192 @@
+{
+  "title": "Heart of Stone",
+  "artist": "Cher",
+  "year": 1989,
+  "release_date": "1989-06-19",
+  "type": "Album",
+  "description": "Heart of Stone is the nineteenth studio album by American singer-actress Cher, released on July 10, 1989, by Geffen Records. As of January 1991, the album had sold more than 4 million copies worldwide. The album was supported by Cher's 1989–1990 Heart of Stone Tour.",
+  "genres": [
+    "pop",
+    "pop rock",
+    "rock",
+    "soft rock",
+    "aor"
+  ],
+  "tags": [
+    "pop",
+    "adult contemporary",
+    "pop rock",
+    "rock",
+    "soft rock",
+    "aor"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c17f43a8-e934-3eac-a7fb-fb1ad5be9b5e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heart_of_Stone_(Cher_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000200201",
+    "discogs": "https://www.discogs.com/master/69206",
+    "wikidata": "https://www.wikidata.org/wiki/Q901459",
+    "deezer": "https://www.deezer.com/album/229915"
+  },
+  "musicbrainz_id": "c17f43a8-e934-3eac-a7fb-fb1ad5be9b5e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0667e0ad-dc1d-438e-8a29-0cdc1965a2ff",
+      "barcode": "720642423929",
+      "title": "Heart of Stone",
+      "disambiguation": null,
+      "date": "1989-08-27",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "48:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "If I Could Turn Back Time",
+            "length": "4:02",
+            "deezer": {
+              "id": 2307289,
+              "link": "https://www.deezer.com/track/2307289",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/6/0/b160a7db6f1780ff335b5ad47972ed9d.mp3?hdnea=exp=1795652735~acl=/api/1/1/b/1/6/0/b160a7db6f1780ff335b5ad47972ed9d.mp3*~data=user_id=0,application_id=42~hmac=0dc30a149531af0b601299f5413f2d307fe30e52cc1acdd45f048216f14a2f3c",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Just Like Jesse James",
+            "length": "4:08",
+            "deezer": {
+              "id": 2307290,
+              "link": "https://www.deezer.com/track/2307290",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/8/0/ad822219162bf5dc5e81fd769b0b980e.mp3?hdnea=exp=1795652735~acl=/api/1/1/a/d/8/0/ad822219162bf5dc5e81fd769b0b980e.mp3*~data=user_id=0,application_id=42~hmac=535c9425f2470df2b1e769542f71da8bd7f6e550d7d437547a28913f8fc48148",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "You Wouldn’t Know Love",
+            "length": "3:33",
+            "deezer": {
+              "id": 2307291,
+              "link": "https://www.deezer.com/track/2307291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/7/0/d8702cdd9b869424cc5101f4471badb9.mp3?hdnea=exp=1795652735~acl=/api/1/1/d/8/7/0/d8702cdd9b869424cc5101f4471badb9.mp3*~data=user_id=0,application_id=42~hmac=0f394e02db3e83ca09ba6bc4ab9acf4461f8470719484c9cd05f1a456c4ee948",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Heart of Stone",
+            "length": "4:19",
+            "deezer": {
+              "id": 2307292,
+              "link": "https://www.deezer.com/track/2307292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/6/0/80628edcf6544015088e8ad98661b6c0.mp3?hdnea=exp=1795652735~acl=/api/1/1/8/0/6/0/80628edcf6544015088e8ad98661b6c0.mp3*~data=user_id=0,application_id=42~hmac=bca6723515f825ad8a10e4366b668b2cf4f6abb5024302e24cf139e18e5db556",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Still in Love With You",
+            "length": "3:10",
+            "deezer": {
+              "id": 2307293,
+              "link": "https://www.deezer.com/track/2307293",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/b/0/a7b430e793d0e89e5c6b6c54983f127d.mp3?hdnea=exp=1795652735~acl=/api/1/1/a/7/b/0/a7b430e793d0e89e5c6b6c54983f127d.mp3*~data=user_id=0,application_id=42~hmac=f6ef9141bf3b09489cbee041ac98308746285a5fdc3445115998f5402205e6ab",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Love on a Rooftop",
+            "length": "4:27",
+            "deezer": {
+              "id": 2307294,
+              "link": "https://www.deezer.com/track/2307294",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/9/0/94923f40e0fb25c0128c042f46063f49.mp3?hdnea=exp=1795652735~acl=/api/1/1/9/4/9/0/94923f40e0fb25c0128c042f46063f49.mp3*~data=user_id=0,application_id=42~hmac=b83a6a3faba01e1adac649927143bd4eab52220583888bdc5a6e7939c88a3b13",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Emotional Fire",
+            "length": "3:57",
+            "deezer": {
+              "id": 2307295,
+              "link": "https://www.deezer.com/track/2307295",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/0/0/ca064ba276cd06d94b9cad0b4d02ac45.mp3?hdnea=exp=1795652735~acl=/api/1/1/c/a/0/0/ca064ba276cd06d94b9cad0b4d02ac45.mp3*~data=user_id=0,application_id=42~hmac=f9d29acd275c72608b56039c04d795b003bd8179141c7688e9ba7cae04ae5255",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "All Because of You",
+            "length": "3:31",
+            "deezer": {
+              "id": 2307296,
+              "link": "https://www.deezer.com/track/2307296",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/c/0/71c66a01a9395e03ece01c145beae843.mp3?hdnea=exp=1795652735~acl=/api/1/1/7/1/c/0/71c66a01a9395e03ece01c145beae843.mp3*~data=user_id=0,application_id=42~hmac=af0099c2744fbe03bceafe8536072e58336295c4aadea8d1be19ef87db97d769",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Does Anybody Really Fall in Love Anymore",
+            "length": "4:18",
+            "deezer": {
+              "id": 2307297,
+              "link": "https://www.deezer.com/track/2307297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/5/0/e75da9b44dfe50e66aa1a6568cd34044.mp3?hdnea=exp=1795652735~acl=/api/1/1/e/7/5/0/e75da9b44dfe50e66aa1a6568cd34044.mp3*~data=user_id=0,application_id=42~hmac=7ac3ec7651929da0942582e4cf4f78b08402d02e3818e5f144c95c95776e25dc",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Starting Over",
+            "length": "4:11",
+            "deezer": {
+              "id": 2307298,
+              "link": "https://www.deezer.com/track/2307298",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/e/0/f4effd336aa27292c71210f359405ed3.mp3?hdnea=exp=1795652735~acl=/api/1/1/f/4/e/0/f4effd336aa27292c71210f359405ed3.mp3*~data=user_id=0,application_id=42~hmac=647b9ed87786e3955f59941a22912dc960c9946e50b51010af0ac17b14703744",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Kiss to Kiss",
+            "length": "4:26",
+            "deezer": {
+              "id": 2307299,
+              "link": "https://www.deezer.com/track/2307299",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/e/0/7be838a15287d9e3bacb1968976e2f17.mp3?hdnea=exp=1795652735~acl=/api/1/1/7/b/e/0/7be838a15287d9e3bacb1968976e2f17.mp3*~data=user_id=0,application_id=42~hmac=c3fd88b0a8543c791fef2736d60b0be1f70371013c5f6710de88ced9379dd17d",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "After All (Love Theme From Chances Are)",
+            "length": "4:06",
+            "deezer": {
+              "id": 2307300,
+              "link": "https://www.deezer.com/track/2307300",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/2/0/8e21ab0779eb435ac8bab1f4aa540cc9.mp3?hdnea=exp=1795652735~acl=/api/1/1/8/e/2/0/8e21ab0779eb435ac8bab1f4aa540cc9.mp3*~data=user_id=0,application_id=42~hmac=0014b8eb8bef18096abad4b4011ba3cfa42a3e0597158eddec41c482099b34e4",
+              "preview_expires": "2026-11-26T00:25:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Cher/Heart Of Stone.jpg"
+}

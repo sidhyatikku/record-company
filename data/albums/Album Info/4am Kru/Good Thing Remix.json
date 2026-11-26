@@ -1,0 +1,52 @@
+{
+  "title": "Good Thing Remix",
+  "artist": "SHANTÉH & 4am Kru",
+  "year": 2022,
+  "release_date": "2022-01-28",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic",
+    "jungle"
+  ],
+  "tags": [
+    "electronic",
+    "jungle"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/255cce7e-1d2e-4c4c-ba8a-62c6555ae0b4",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "255cce7e-1d2e-4c4c-ba8a-62c6555ae0b4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d7d8d538-b510-4fdd-b53a-834c48df2676",
+      "barcode": null,
+      "title": "Good Thing Remix",
+      "disambiguation": null,
+      "date": "2022-01-28",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Good Thing Remix",
+            "length": "4:27",
+            "artist": "SHANTÉH & 4am Kru & 4am Kru"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/4am Kru/Good Thing Remix.jpg"
+}

@@ -1,0 +1,288 @@
+{
+  "title": "Greatest Hits",
+  "artist": "N.W.A",
+  "year": 1996,
+  "release_date": "1996-06",
+  "type": "Album + Compilation",
+  "description": "Greatest Hits is a greatest hits album by American hip-hop group N.W.A, released on July 2, 1996, via Priority Records. Composed of nineteen tracks, the compilation contains several popular singles and songs from the group's 1989 debut album Straight Outta Compton, 1990 extended play 100 Miles and Runnin' and their second and final studio album 1991 Niggaz4Life. It includes \"Gangsta Gangsta\", \"Fuck tha Police\", and remixes of \"Straight Outta Compton\", \"Alwayz into Somethin'\", \"Express Yourself\", and \"100 Miles and Runnin'\", as well as inserts and recordings from live concerts. Production was handled by Dr. Dre and DJ Yella with Eazy-E serving as executive producer.",
+  "genres": [
+    "gangsta rap",
+    "hip hop",
+    "west coast hip hop"
+  ],
+  "tags": [
+    "gangsta rap",
+    "hip hop",
+    "west coast hip hop",
+    "rap hip-hop r b"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/af542890-2cfb-3efe-847c-d06cbb4c5c8e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greatest_Hits_(N.W.A_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000418744",
+    "discogs": "https://www.discogs.com/master/26123",
+    "wikidata": "https://www.wikidata.org/wiki/Q931303",
+    "deezer": "https://www.deezer.com/album/299818"
+  },
+  "musicbrainz_id": "af542890-2cfb-3efe-847c-d06cbb4c5c8e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cd832974-772f-4f84-9278-6a070a37d7ab",
+      "barcode": "724354093258",
+      "title": "Greatest Hits",
+      "disambiguation": "explicit",
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 21,
+    "total_length": "1:10:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Live Intro (1989)",
+            "length": "2:21",
+            "deezer": {
+              "id": 3098787,
+              "link": "https://www.deezer.com/track/3098787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/0/0/e20e6b53d622a19257eb472bc873fe28.mp3?hdnea=exp=1795718652~acl=/api/1/1/e/2/0/0/e20e6b53d622a19257eb472bc873fe28.mp3*~data=user_id=0,application_id=42~hmac=8f36e9f20327403446039e86dbcdee57b2c88aa007eaa1ca5b2deedbf8d506af",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Arrested (insert)",
+            "length": "0:57",
+            "deezer": {
+              "id": 3098788,
+              "link": "https://www.deezer.com/track/3098788",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/4/0/de469a16fefefc04947e0365db7f52fd.mp3?hdnea=exp=1795718652~acl=/api/1/1/d/e/4/0/de469a16fefefc04947e0365db7f52fd.mp3*~data=user_id=0,application_id=42~hmac=7f81df8769202e4f629980bdbd75cf371f8fbcac597304f18641c2e249544de4",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gangsta Gangsta",
+            "length": "5:30",
+            "deezer": {
+              "id": 3098789,
+              "link": "https://www.deezer.com/track/3098789",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/c/0/04cd95aeb684b1f7e3c3a268e387b518.mp3?hdnea=exp=1795718652~acl=/api/1/1/0/4/c/0/04cd95aeb684b1f7e3c3a268e387b518.mp3*~data=user_id=0,application_id=42~hmac=b264b0fd3baf8d792026dd09c5707b61156a0805c8530ad77272d8c6bfcc502d",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Fuck tha Police (insert)",
+            "length": "0:33",
+            "deezer": {
+              "id": 3098790,
+              "link": "https://www.deezer.com/track/3098790",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/e/0/d3e8ec2a777d619a8cadfd7a5f35f41d.mp3?hdnea=exp=1795718652~acl=/api/1/1/d/3/e/0/d3e8ec2a777d619a8cadfd7a5f35f41d.mp3*~data=user_id=0,application_id=42~hmac=4ed20c978588f6cfb2dd6df22d373a209aec635ec53808c0e69497afb624f1c6",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Fuck tha Police",
+            "length": "5:43",
+            "deezer": {
+              "id": 3098791,
+              "link": "https://www.deezer.com/track/3098791",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/0/0/97074968021fa9d71bb9265cc2353026.mp3?hdnea=exp=1795718652~acl=/api/1/1/9/7/0/0/97074968021fa9d71bb9265cc2353026.mp3*~data=user_id=0,application_id=42~hmac=76934399c631cdee81b843218004be92d0bb072ce87701eabd6c2ec8dd422651",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Compton’s N the House / Ruthless Gangster (live/1988)",
+            "length": "2:09",
+            "deezer": {
+              "id": 3098792,
+              "link": "https://www.deezer.com/track/3098792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/f/0/17fba0c3963107884a92dd0cdcafc6cd.mp3?hdnea=exp=1795718652~acl=/api/1/1/1/7/f/0/17fba0c3963107884a92dd0cdcafc6cd.mp3*~data=user_id=0,application_id=42~hmac=a38044230a80088f5c2f9317c8a66b592bc0be1503b0b96b7cf30242b175dca0",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Break Out (insert)",
+            "length": "0:21",
+            "deezer": {
+              "id": 3098793,
+              "link": "https://www.deezer.com/track/3098793",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a7552c9e749b42dae14a25c2a682701f.mp3?hdnea=exp=1795718652~acl=/api/1/1/a/7/5/0/a7552c9e749b42dae14a25c2a682701f.mp3*~data=user_id=0,application_id=42~hmac=9c8185ef5dd4fecd1af483f0d8f06acccfe9a793928f03374f09f6d04eab5cb8",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Straight Outta Compton (extended mix / edit)",
+            "length": "4:26",
+            "deezer": {
+              "id": 3098794,
+              "link": "https://www.deezer.com/track/3098794",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/6/0/a265657d4ec74b2f408424f6662ebe5f.mp3?hdnea=exp=1795718652~acl=/api/1/1/a/2/6/0/a265657d4ec74b2f408424f6662ebe5f.mp3*~data=user_id=0,application_id=42~hmac=0aa39ff9217adcd69d735565d6f4ff4d0fd779b8229268577896cd04b771644a",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "If It Ain’t Ruff (remastered 2002)",
+            "length": "3:36",
+            "deezer": {
+              "id": 3098795,
+              "link": "https://www.deezer.com/track/3098795",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/9/0/c19bf2abb82773761174d6c5122bc6a8.mp3?hdnea=exp=1795718652~acl=/api/1/1/c/1/9/0/c19bf2abb82773761174d6c5122bc6a8.mp3*~data=user_id=0,application_id=42~hmac=ee2f167f38051469ed2556b96236ee3cc69d7e51a1f7dc14df8e421cf220e6c5",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Real Niggaz",
+            "length": "4:44",
+            "deezer": {
+              "id": 3098796,
+              "link": "https://www.deezer.com/track/3098796",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/0/0/810b47267ebdc19f739a947a91b1a220.mp3?hdnea=exp=1795718652~acl=/api/1/1/8/1/0/0/810b47267ebdc19f739a947a91b1a220.mp3*~data=user_id=0,application_id=42~hmac=acfbcc2fd4d673a1145c119e579b81c599bd1dbefe1a8e678d8d3487a6ca1d1b",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "I Ain’t tha 1",
+            "length": "5:04",
+            "deezer": {
+              "id": 3098797,
+              "link": "https://www.deezer.com/track/3098797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/0/0/6605f90469b618239bb5e84a9fd2d432.mp3?hdnea=exp=1795718652~acl=/api/1/1/6/6/0/0/6605f90469b618239bb5e84a9fd2d432.mp3*~data=user_id=0,application_id=42~hmac=591104d90ae76af297654b8d615ac7463235bbf124c710e31ac14105d525a986",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Alwayz Into Somethin’",
+            "length": "4:29",
+            "deezer": {
+              "id": 3098798,
+              "link": "https://www.deezer.com/track/3098798",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/2/0/9e2d9234d7198fa1a35217eb2d8b7b71.mp3?hdnea=exp=1795718652~acl=/api/1/1/9/e/2/0/9e2d9234d7198fa1a35217eb2d8b7b71.mp3*~data=user_id=0,application_id=42~hmac=e2d17893c00ab0f88ecf213e62a32834e3f2880a109bd52419544079b24babbe",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Don’t Drink That Wine (edit)",
+            "length": "0:27",
+            "deezer": {
+              "id": 3098799,
+              "link": "https://www.deezer.com/track/3098799",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/c/0/22ce5ab614a629d39d6a30f161f2a078.mp3?hdnea=exp=1795718652~acl=/api/1/1/2/2/c/0/22ce5ab614a629d39d6a30f161f2a078.mp3*~data=user_id=0,application_id=42~hmac=675fded3b8373e2fc1d0be75e8b4b40bdd4251f7894162bab1648fbdbcd6618f",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Just Don’t Bite It",
+            "length": "5:34",
+            "deezer": {
+              "id": 3098800,
+              "link": "https://www.deezer.com/track/3098800",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/f/0/cbf12ce3e6976865cd1145be23158229.mp3?hdnea=exp=1795718652~acl=/api/1/1/c/b/f/0/cbf12ce3e6976865cd1145be23158229.mp3*~data=user_id=0,application_id=42~hmac=60b057a39550aa9baf456a4cb8a9aef25171a0a97df470d193e4a328ffe2d008",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Cash Money (insert)",
+            "length": "0:21",
+            "deezer": {
+              "id": 3098801,
+              "link": "https://www.deezer.com/track/3098801",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/4/0/ae4e0c51a5b54110cc487e7eb1c81201.mp3?hdnea=exp=1795718652~acl=/api/1/1/a/e/4/0/ae4e0c51a5b54110cc487e7eb1c81201.mp3*~data=user_id=0,application_id=42~hmac=9ad78b890a2f73d61c78f488bda4710d9e7a8acbc4d210e7a9e44f390ddcd2d4",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Express Yourself (remix)",
+            "length": "4:21",
+            "deezer": {
+              "id": 3098802,
+              "link": "https://www.deezer.com/track/3098802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/5/0/14598a76b2b83315cd5bf717706c275c.mp3?hdnea=exp=1795718652~acl=/api/1/1/1/4/5/0/14598a76b2b83315cd5bf717706c275c.mp3*~data=user_id=0,application_id=42~hmac=3509ce807b91b4af9dff5801c5688876ffbd835872b4b8b1adf35f85791415af",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "100 Miles and Runnin’",
+            "length": "4:36",
+            "deezer": {
+              "id": 3098803,
+              "link": "https://www.deezer.com/track/3098803",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/2/0/202564cecfd6d098b64e4cc00117a5e1.mp3?hdnea=exp=1795718652~acl=/api/1/1/2/0/2/0/202564cecfd6d098b64e4cc00117a5e1.mp3*~data=user_id=0,application_id=42~hmac=a46d01e1dfb333028f3c2fc8971bba96ce099369eb1d4319ab2adf232bd54776",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "A Bitch Iz A Bitch (remastered 2002)",
+            "length": "3:16",
+            "deezer": {
+              "id": 3098804,
+              "link": "https://www.deezer.com/track/3098804",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/2/0/8a2f3d14e9429578c627aae0d889cf75.mp3?hdnea=exp=1795718652~acl=/api/1/1/8/a/2/0/8a2f3d14e9429578c627aae0d889cf75.mp3*~data=user_id=0,application_id=42~hmac=8bc91fc9b0f7f7d9a1953fbc4490829bf92a0b3e4e9e174ad6b5f40bbe7badb0",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Real Niggaz Don’t Die",
+            "length": "3:44",
+            "deezer": {
+              "id": 3098805,
+              "link": "https://www.deezer.com/track/3098805",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/a/0/55afffb5e775fbb5fc982b27dc885ec1.mp3?hdnea=exp=1795718652~acl=/api/1/1/5/5/a/0/55afffb5e775fbb5fc982b27dc885ec1.mp3*~data=user_id=0,application_id=42~hmac=8d0507761ac9af977b705d77f58d0e358c8309f8671a7df7ccd34a1ca4a7b005",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Chin Check",
+            "length": "4:23",
+            "deezer": {
+              "id": 3098807,
+              "link": "https://www.deezer.com/track/3098807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/b/0/0ab890d6d43a1cd21d1c0fa41b824a30.mp3?hdnea=exp=1795718652~acl=/api/1/1/0/a/b/0/0ab890d6d43a1cd21d1c0fa41b824a30.mp3*~data=user_id=0,application_id=42~hmac=78fcfe30205a70fc894751fd434acddba97ab1ccbebcc1ee2dea249808fd9710",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Hello",
+            "length": "3:53",
+            "artist": "Ice Cube featuring Dr. Dre & MC Ren",
+            "deezer": {
+              "id": 3098806,
+              "link": "https://www.deezer.com/track/3098806",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/c/0/88c75376c8bdbca4d9bcc3bfa9d793ed.mp3?hdnea=exp=1795718652~acl=/api/1/1/8/8/c/0/88c75376c8bdbca4d9bcc3bfa9d793ed.mp3*~data=user_id=0,application_id=42~hmac=2e5f9b8e042bf4142177490ce8f6d1ec97e617bfb574c91e08e1ab48fdf72c2c",
+              "preview_expires": "2026-11-26T18:44:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/N.W.A/Greatest Hits.jpg"
+}

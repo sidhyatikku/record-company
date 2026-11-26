@@ -1,0 +1,55 @@
+{
+  "title": "Tasty",
+  "artist": "Kelis",
+  "year": 2003,
+  "release_date": "2003",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/91ebebdc-dd3a-4732-a294-300dea3a0c38",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1421315"
+  },
+  "musicbrainz_id": "91ebebdc-dd3a-4732-a294-300dea3a0c38",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ea7e056d-d80e-45c9-8937-e8a1fef911de",
+      "barcode": null,
+      "title": "Tasty",
+      "disambiguation": null,
+      "date": "2003",
+      "country": "XE"
+    },
+    "total_tracks": 3,
+    "total_length": "12:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Untitled",
+            "length": "0:13"
+          },
+          {
+            "number": "2",
+            "title": "Untitled",
+            "length": "1:29"
+          },
+          {
+            "number": "3",
+            "title": "Untitled",
+            "length": "10:20"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kelis/Tasty.jpg"
+}

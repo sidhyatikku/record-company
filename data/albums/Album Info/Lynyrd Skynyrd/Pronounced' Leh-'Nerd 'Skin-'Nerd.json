@@ -1,0 +1,156 @@
+{
+  "title": "(pronounced ’lĕh-’nérd ’skin-’nérd)",
+  "artist": "Lynyrd Skynyrd",
+  "year": 1973,
+  "release_date": "1973-08-13",
+  "type": "Album",
+  "description": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd) is the debut studio album by American rock band Lynyrd Skynyrd, released on August 13, 1973, by MCA Records. Recording took place in Doraville, Georgia at Studio One, following a lengthy period of rehearsals. Prior to the album's conception, many of its songs were already featured in Lynyrd Skynyrd's live repertoire. To promote it, the band released \"Gimme Three Steps\" and \"Free Bird\" as singles; these, along with \"Simple Man\" and \"Tuesday's Gone\", are among the band's best-known songs.",
+  "genres": [
+    "southern rock",
+    "blues rock",
+    "hard rock",
+    "rock",
+    "classic rock",
+    "americana",
+    "arena rock",
+    "boogie rock",
+    "pop"
+  ],
+  "tags": [
+    "southern rock",
+    "blues rock",
+    "hard rock",
+    "rock",
+    "album rock",
+    "classic rock",
+    "americana",
+    "arena rock",
+    "boogie rock",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 14
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/33446893-8c9f-30b6-aa73-d719df371430",
+    "wikipedia": "https://en.wikipedia.org/wiki/(Pronounced_'L%C4%95h-'n%C3%A9rd_'Skin-'n%C3%A9rd)",
+    "allmusic": "https://www.allmusic.com/album/mw0000190876",
+    "discogs": "https://www.discogs.com/master/70569",
+    "wikidata": "https://www.wikidata.org/wiki/Q276827",
+    "deezer": "https://www.deezer.com/album/320928987"
+  },
+  "musicbrainz_id": "33446893-8c9f-30b6-aa73-d719df371430",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/78fb8fba-a287-499c-b864-8eded02b6fb4",
+      "barcode": "5016681761906",
+      "title": "(pronounced ’lĕh‐’nérd ’skin‐’nérd)",
+      "disambiguation": null,
+      "date": "1973-08-13",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "43:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Ain’t the One",
+            "length": "3:53",
+            "deezer": {
+              "id": 1761422797,
+              "link": "https://www.deezer.com/track/1761422797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/7/0/1a75e805381e9f494e2336d470bd60cc.mp3?hdnea=exp=1795718117~acl=/api/1/1/1/a/7/0/1a75e805381e9f494e2336d470bd60cc.mp3*~data=user_id=0,application_id=42~hmac=97277b465b33e8beddada44b5d4558e9fb15438affe137ebffa0e4a71523396a",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tuesday’s Gone",
+            "length": "7:32",
+            "deezer": {
+              "id": 1761422807,
+              "link": "https://www.deezer.com/track/1761422807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc3ed6935cd0f635336e5c9432ba3aef.mp3?hdnea=exp=1795718117~acl=/api/1/1/f/c/3/0/fc3ed6935cd0f635336e5c9432ba3aef.mp3*~data=user_id=0,application_id=42~hmac=b8f4bd11327f48a66fd7f5d7a79c3ab2f8ddaa4c0255b58a2d7a917a2a594c3d",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Gimme Three Steps",
+            "length": "4:30",
+            "deezer": {
+              "id": 1761422817,
+              "link": "https://www.deezer.com/track/1761422817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/8/0/948cf5a59682b7933a11d229322ccf98.mp3?hdnea=exp=1795718117~acl=/api/1/1/9/4/8/0/948cf5a59682b7933a11d229322ccf98.mp3*~data=user_id=0,application_id=42~hmac=722c7547e5c28c7b2b9193c0c5725f02c579797a78bd42cbd3caf5ac8016d397",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Simple Man",
+            "length": "5:58",
+            "deezer": {
+              "id": 1761422827,
+              "link": "https://www.deezer.com/track/1761422827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/e/0/fae820ceb9b240b090f2902445c25773.mp3?hdnea=exp=1795718117~acl=/api/1/1/f/a/e/0/fae820ceb9b240b090f2902445c25773.mp3*~data=user_id=0,application_id=42~hmac=802cb8bf72cd3a65e2b112ce5c5912bb0831c0318ffbfc5e48504fcf5c88bbe5",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Things Goin’ On",
+            "length": "5:00",
+            "deezer": {
+              "id": 1761422837,
+              "link": "https://www.deezer.com/track/1761422837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/8/0/688e7c5d07201524a7ab33488bbdca88.mp3?hdnea=exp=1795718117~acl=/api/1/1/6/8/8/0/688e7c5d07201524a7ab33488bbdca88.mp3*~data=user_id=0,application_id=42~hmac=cc3d5db9fe55806853190f5eb21cad010e2763fa8956abd85ea2e87fbbcef6e5",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mississippi Kid",
+            "length": "3:56",
+            "deezer": {
+              "id": 1761422847,
+              "link": "https://www.deezer.com/track/1761422847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/b/0/71b78cbf455213acd1a261a03a892f01.mp3?hdnea=exp=1795718117~acl=/api/1/1/7/1/b/0/71b78cbf455213acd1a261a03a892f01.mp3*~data=user_id=0,application_id=42~hmac=7633ca8f33dee9bb6a4992764c86ff6d52a7f5e1441f0c76178c934c7bf13679",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Poison Whiskey",
+            "length": "3:13",
+            "deezer": {
+              "id": 1761422857,
+              "link": "https://www.deezer.com/track/1761422857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/9/0/0292ed01e4a7a6bf9a87d312194c0ec0.mp3?hdnea=exp=1795718117~acl=/api/1/1/0/2/9/0/0292ed01e4a7a6bf9a87d312194c0ec0.mp3*~data=user_id=0,application_id=42~hmac=560bea03148df8075f20966877a1732ba53b3f725bea8e18d1b5a4dd00889812",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Free Bird",
+            "length": "9:19",
+            "deezer": {
+              "id": 1761422867,
+              "link": "https://www.deezer.com/track/1761422867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/2/0/e32ec12471ede30c540a1a3fd18fc982.mp3?hdnea=exp=1795718117~acl=/api/1/1/e/3/2/0/e32ec12471ede30c540a1a3fd18fc982.mp3*~data=user_id=0,application_id=42~hmac=2232ecaab3c163292365f2dae2f8267472e1013d162c64b5a7c2ec5c1e37758d",
+              "preview_expires": "2026-11-26T18:35:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lynyrd Skynyrd/Pronounced' Leh-'Nerd 'Skin-'Nerd.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "About You",
+  "artist": "Sonny Fodera, Biscits",
+  "year": 2022,
+  "release_date": "2022-03-04",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId",
+    "deezer": "https://www.deezer.com/album/296169952"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId",
+      "title": "About You",
+      "date": "2022-03-04"
+    },
+    "total_tracks": 1,
+    "total_length": "3:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "About You",
+            "length": "3:38",
+            "deezer": {
+              "id": 1657837142,
+              "link": "https://www.deezer.com/track/1657837142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/9/0/279a14074bc1171df7b36fcab2ff439b.mp3?hdnea=exp=1795720847~acl=/api/1/1/2/7/9/0/279a14074bc1171df7b36fcab2ff439b.mp3*~data=user_id=0,application_id=42~hmac=050f7dbf8be0a76051ad8b3fbac120264a8c6040f9f6ad3d522a3363ec460914",
+              "preview_expires": "2026-11-26T19:20:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Sonny Fodera/About You.jpg"
+}

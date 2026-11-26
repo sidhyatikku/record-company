@@ -1,0 +1,184 @@
+{
+  "title": "C’est si bon",
+  "artist": "Louis Armstrong",
+  "year": 1990,
+  "release_date": "1990",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "swing"
+  ],
+  "tags": [
+    "swing",
+    "pop/rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/49d998e7-0028-3951-a834-a0803f85d46b",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/209975"
+  },
+  "musicbrainz_id": "49d998e7-0028-3951-a834-a0803f85d46b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2f5f0d3f-a482-40bd-a5df-a783c58461b6",
+      "barcode": "008813039422",
+      "title": "C’est si bon",
+      "disambiguation": null,
+      "date": "1993",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "1:05:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "C’est si bon",
+            "length": "3:05",
+            "deezer": {
+              "id": 2089143,
+              "link": "https://www.deezer.com/track/2089143",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/5/0/5c51ec5cce71625527e3515ee414d011.mp3?hdnea=exp=1795656654~acl=/api/1/1/5/c/5/0/5c51ec5cce71625527e3515ee414d011.mp3*~data=user_id=0,application_id=42~hmac=04bfb956dacfce6408053ef94c7ddf72f6d195744fa203a1a6350ea42a157463",
+              "preview_expires": "2026-11-26T01:30:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Georgia on My Mind",
+            "length": "3:07"
+          },
+          {
+            "number": "3",
+            "title": "Hello Dolly",
+            "length": "2:27",
+            "deezer": {
+              "id": 2089112,
+              "link": "https://www.deezer.com/track/2089112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/4/0/5944f98bfa241849a1e687acb45d5227.mp3?hdnea=exp=1795656654~acl=/api/1/1/5/9/4/0/5944f98bfa241849a1e687acb45d5227.mp3*~data=user_id=0,application_id=42~hmac=8778282e695c25049d9fa9da5bf2b090c3a13fcfca8f06cab7475f834776e314",
+              "preview_expires": "2026-11-26T01:30:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "La Vie en rose",
+            "length": "3:25"
+          },
+          {
+            "number": "5",
+            "title": "Cabaret",
+            "length": "2:46"
+          },
+          {
+            "number": "6",
+            "title": "That Lucky Old Sun",
+            "length": "3:07"
+          },
+          {
+            "number": "7",
+            "title": "When the Saints Go Marching In",
+            "length": "3:40",
+            "deezer": {
+              "id": 2089170,
+              "link": "https://www.deezer.com/track/2089170",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/9/0/0a9188ca4bcb9ada6e7e4ebd74032d6a.mp3?hdnea=exp=1795656654~acl=/api/1/1/0/a/9/0/0a9188ca4bcb9ada6e7e4ebd74032d6a.mp3*~data=user_id=0,application_id=42~hmac=7a7ae57ffd143b09e0d9e531e328904e0eb6304088b1af25b39e17118cf34b9d",
+              "preview_expires": "2026-11-26T01:30:54Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dream a Little Dream of Me",
+            "length": "3:03",
+            "artist": "Ella Fitzgerald & Louis Armstrong",
+            "deezer": {
+              "id": 2089132,
+              "link": "https://www.deezer.com/track/2089132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/1/0/47123e81107c20e76cd6ea0ba9501935.mp3?hdnea=exp=1795656654~acl=/api/1/1/4/7/1/0/47123e81107c20e76cd6ea0ba9501935.mp3*~data=user_id=0,application_id=42~hmac=301c91799822c070511dc0f834c5f62c3bb93c3b80e7b49f2d1f37e87e5beddb",
+              "preview_expires": "2026-11-26T01:30:54Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "You Rascal You",
+            "length": "3:06",
+            "artist": "Louis Armstrong & Louis Jordan"
+          },
+          {
+            "number": "10",
+            "title": "My Sweet Hunk o’ Trash",
+            "length": "3:22",
+            "artist": "Billie Holiday & Louis Armstrong"
+          },
+          {
+            "number": "11",
+            "title": "Only You",
+            "length": "3:10"
+          },
+          {
+            "number": "12",
+            "title": "Jeepers Creepers",
+            "length": "4:39",
+            "deezer": {
+              "id": 2089121,
+              "link": "https://www.deezer.com/track/2089121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/5/0/db512da54c44d0fde473fc08ecc9aab3.mp3?hdnea=exp=1795656654~acl=/api/1/1/d/b/5/0/db512da54c44d0fde473fc08ecc9aab3.mp3*~data=user_id=0,application_id=42~hmac=5cc197047efd5e1c40f2c66420687a3ec9f1ad886ff09b93591d7c356388a370",
+              "preview_expires": "2026-11-26T01:30:54Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Nobody Knows the Trouble I’ve Seen",
+            "length": "3:03"
+          },
+          {
+            "number": "14",
+            "title": "(When We Are Dancing) I Get Ideas",
+            "length": "3:26"
+          },
+          {
+            "number": "15",
+            "title": "I Can’t Give You Anything but Love",
+            "length": "4:22"
+          },
+          {
+            "number": "16",
+            "title": "Go Down Moses",
+            "length": "3:40"
+          },
+          {
+            "number": "17",
+            "title": "Blueberry Hill",
+            "length": "2:54",
+            "deezer": {
+              "id": 2089152,
+              "link": "https://www.deezer.com/track/2089152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/2/0/432cc190617e0db7419dce5636faffb4.mp3?hdnea=exp=1795656654~acl=/api/1/1/4/3/2/0/432cc190617e0db7419dce5636faffb4.mp3*~data=user_id=0,application_id=42~hmac=3ff3bbf2995e2f3dbbebd1a555ee753b4fb10498822ef6e0ab79f0b1c4ce06a3",
+              "preview_expires": "2026-11-26T01:30:54Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Basin Street Blues",
+            "length": "3:51"
+          },
+          {
+            "number": "19",
+            "title": "Moon River",
+            "length": "2:59"
+          },
+          {
+            "number": "20",
+            "title": "What a Wonderful World",
+            "length": "2:17"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Louis Armstrong/C'est Si Bon.jpg"
+}

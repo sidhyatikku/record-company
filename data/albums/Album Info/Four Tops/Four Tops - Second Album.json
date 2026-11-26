@@ -1,0 +1,183 @@
+{
+  "title": "Second Album",
+  "artist": "Four Tops",
+  "year": 1965,
+  "release_date": "1965-11-13",
+  "type": "Album",
+  "description": "Four Tops Second Album is\nthe second studio album by American R&B vocal quartet the Four Tops. The album, released on the Motown record label, reached No. 3 on Billboard's Black Albums chart and No. 20 on the Billboard Top LPs chart. The album contains three hit singles. \"I Can't Help Myself \" reached No. 1 on both the Black Singles and Pop Singles charts, while \"It's the Same Old Song\" reached No. 2 and No. 5 respectively, and \"Something About You\" reached No. 9 and No. 19. In 1990, Motown bundled the Four Tops' first two albums together in a release titled Four Tops/Four Tops Second Album.",
+  "genres": [
+    "soul",
+    "pop soul"
+  ],
+  "tags": [
+    "soul",
+    "album rock",
+    "pop soul",
+    "rhythm & blues"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3725b4e6-2655-36fc-b055-71a234cbaa1e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Four_Tops_Second_Album",
+    "allmusic": "https://www.allmusic.com/album/mw0000206221",
+    "discogs": "https://www.discogs.com/master/36412",
+    "wikidata": "https://www.wikidata.org/wiki/Q5475585",
+    "deezer": "https://www.deezer.com/album/9577100"
+  },
+  "musicbrainz_id": "3725b4e6-2655-36fc-b055-71a234cbaa1e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1f2d0cb1-80a5-4d22-b7fc-a33db65325c3",
+      "barcode": "075021015395",
+      "title": "Second Album",
+      "disambiguation": null,
+      "date": "2004-04-27",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "31:20",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Can’t Help Myself (Sugar Pie, Honey Bunch)",
+            "length": "2:40",
+            "deezer": {
+              "id": 94207624,
+              "link": "https://www.deezer.com/track/94207624",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/e/0/20ef22db98ccb44bb6b583bfe9599f1e.mp3?hdnea=exp=1795654332~acl=/api/1/1/2/0/e/0/20ef22db98ccb44bb6b583bfe9599f1e.mp3*~data=user_id=0,application_id=42~hmac=ee53956c7b982b93c270483c013b11b6149b3a40fa8aa93444b36f97867061e3",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Love Feels Like Fire",
+            "length": "2:04",
+            "deezer": {
+              "id": 94207626,
+              "link": "https://www.deezer.com/track/94207626",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/0/0/8d06c2e5f15512b3d47885c749535dfd.mp3?hdnea=exp=1795654332~acl=/api/1/1/8/d/0/0/8d06c2e5f15512b3d47885c749535dfd.mp3*~data=user_id=0,application_id=42~hmac=b5eb3443339b4a1ab5cee981700d5c56b05e05339f51b6527b57b1dedc3355fb",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Is There Anything That I Can Do",
+            "length": "3:03",
+            "deezer": {
+              "id": 94207628,
+              "link": "https://www.deezer.com/track/94207628",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/e/0/d6e938042805831b55b851cae28598dd.mp3?hdnea=exp=1795654332~acl=/api/1/1/d/6/e/0/d6e938042805831b55b851cae28598dd.mp3*~data=user_id=0,application_id=42~hmac=f03fc5ccc733d8dbcb4df3293b37cea2349626e7d16ec2145c83fb8baab5e71d",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Something About You",
+            "length": "2:41",
+            "deezer": {
+              "id": 94207630,
+              "link": "https://www.deezer.com/track/94207630",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/7/0/ab790b96e73a8fcdd525e73b8a3199f7.mp3?hdnea=exp=1795654332~acl=/api/1/1/a/b/7/0/ab790b96e73a8fcdd525e73b8a3199f7.mp3*~data=user_id=0,application_id=42~hmac=dd83e1dd0eecca3309e1606a850cbe90fcbb20bad3bdb5ea5ed8ed6f9b1eebdf",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "It’s The Same Old Song",
+            "length": "2:46",
+            "deezer": {
+              "id": 94207632,
+              "link": "https://www.deezer.com/track/94207632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/186fc3afb1b08b16f405926d84376d4e.mp3?hdnea=exp=1795654332~acl=/api/1/1/1/8/6/0/186fc3afb1b08b16f405926d84376d4e.mp3*~data=user_id=0,application_id=42~hmac=5f5bb41c41bc274bb0fc936dc4b25deca1083af4b7b0960361f2a723d22dc97a",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Helpless",
+            "length": "2:42",
+            "deezer": {
+              "id": 94207634,
+              "link": "https://www.deezer.com/track/94207634",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/5/0/04594a04ba6af5e7ece8b60f4faa202c.mp3?hdnea=exp=1795654332~acl=/api/1/1/0/4/5/0/04594a04ba6af5e7ece8b60f4faa202c.mp3*~data=user_id=0,application_id=42~hmac=e0cfb1ddd68519bc3503b00e6dcc9d5541e1b28624c2cf799aee050699cbd024",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Just As Long As You Need Me",
+            "length": "3:08",
+            "deezer": {
+              "id": 94207636,
+              "link": "https://www.deezer.com/track/94207636",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/0/0/9d0b450120682075670d84b072fe11ce.mp3?hdnea=exp=1795654332~acl=/api/1/1/9/d/0/0/9d0b450120682075670d84b072fe11ce.mp3*~data=user_id=0,application_id=42~hmac=f2fab41dfecadfe3f1d61b9ba125194f2354df2cc90f6b4244429c733d989e41",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Darling, I Hum Our Song",
+            "length": "2:40",
+            "deezer": {
+              "id": 94207638,
+              "link": "https://www.deezer.com/track/94207638",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/5/0/ea5b690cde93cd80e49bd9693a6a4b52.mp3?hdnea=exp=1795654332~acl=/api/1/1/e/a/5/0/ea5b690cde93cd80e49bd9693a6a4b52.mp3*~data=user_id=0,application_id=42~hmac=c532d15ba31a55a0b9e46dbb67dd6b321581857394a3c4d7bd2785fe39b60eb9",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I Like Everything About You",
+            "length": "2:17",
+            "deezer": {
+              "id": 94207640,
+              "link": "https://www.deezer.com/track/94207640",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/6/0/986802f82766fdd88c655c44ba45f1e0.mp3?hdnea=exp=1795654332~acl=/api/1/1/9/8/6/0/986802f82766fdd88c655c44ba45f1e0.mp3*~data=user_id=0,application_id=42~hmac=4d9d2b7008ea50c063e44604b57d4e43296458667bcb89edde94ce29c08dbcf8",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Since You’ve Been Gone",
+            "length": "2:29",
+            "deezer": {
+              "id": 94207642,
+              "link": "https://www.deezer.com/track/94207642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/f/0/0cfa2733a254a04a23e9987710d320cf.mp3?hdnea=exp=1795654332~acl=/api/1/1/0/c/f/0/0cfa2733a254a04a23e9987710d320cf.mp3*~data=user_id=0,application_id=42~hmac=875a2578f50670b1d15c3dce37fd6a691f6dc5c805a4f0c8b6bedbdf97666eae",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Stay In My Lonely Arms",
+            "length": "2:17",
+            "deezer": {
+              "id": 94207644,
+              "link": "https://www.deezer.com/track/94207644",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/3/0/fe33127e544695dce1627fcd3bedf2b2.mp3?hdnea=exp=1795654332~acl=/api/1/1/f/e/3/0/fe33127e544695dce1627fcd3bedf2b2.mp3*~data=user_id=0,application_id=42~hmac=eb0c7acf9b4627dc0c52d2ff05718610deb26564eb97f5e984cc209898522025",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I’m Grateful",
+            "length": "2:33",
+            "deezer": {
+              "id": 94207646,
+              "link": "https://www.deezer.com/track/94207646",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/e/0/7bee0fb2690ffc5de85baf5619ce6359.mp3?hdnea=exp=1795654332~acl=/api/1/1/7/b/e/0/7bee0fb2690ffc5de85baf5619ce6359.mp3*~data=user_id=0,application_id=42~hmac=3387e524928f227cefeda943d0f97026501a37a027bb84610524a7ab6791c9cb",
+              "preview_expires": "2026-11-26T00:52:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Four Tops/Four Tops - Second Album.jpg"
+}

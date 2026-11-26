@@ -1,0 +1,81 @@
+{
+  "title": "Dhi",
+  "artist": "Naad",
+  "year": 2021,
+  "release_date": "2021-07-30",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5UOoqn03Hhpk5vIJgNYQnc",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5UOoqn03Hhpk5vIJgNYQnc",
+      "title": "Dhi",
+      "date": "2021-07-30"
+    },
+    "total_tracks": 9,
+    "total_length": "42:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tarana: The Rhythm Begins",
+            "length": "5:44"
+          },
+          {
+            "number": "2",
+            "title": "Spring Blossoms",
+            "length": "8:13"
+          },
+          {
+            "number": "3",
+            "title": "Rudraksh",
+            "length": "5:39"
+          },
+          {
+            "number": "4",
+            "title": "Saanjh",
+            "length": "4:02"
+          },
+          {
+            "number": "5",
+            "title": "Shades of Love (Piya Nahi Aaye)",
+            "length": "3:47"
+          },
+          {
+            "number": "6",
+            "title": "Hip Hop Thillana",
+            "length": "3:56",
+            "artist": "Naad, Shatabdi Das"
+          },
+          {
+            "number": "7",
+            "title": "Separation",
+            "length": "3:56"
+          },
+          {
+            "number": "8",
+            "title": "Sleepless",
+            "length": "4:21"
+          },
+          {
+            "number": "9",
+            "title": "Crows",
+            "length": "2:22"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Naad/Dhi.jpg"
+}

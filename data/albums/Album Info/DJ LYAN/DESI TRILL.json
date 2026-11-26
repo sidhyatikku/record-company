@@ -1,0 +1,52 @@
+{
+  "title": "DESI TRILL (Remix)",
+  "artist": "DJ LYAN",
+  "year": 2023,
+  "release_date": "2023-11-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "desi",
+    "punjabi pop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4",
+    "deezer": "https://www.deezer.com/album/507280921"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4",
+      "title": "DESI TRILL (Remix)",
+      "date": "2023-11-24"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "DESI TRILL - Remix",
+            "length": "2:41",
+            "artist": "DJ LYAN, Chip, Malkit Singh, YUNG SAMMY",
+            "deezer": {
+              "id": 2522791531,
+              "link": "https://www.deezer.com/track/2522791531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/0/0/550d19f0f911f182435cb6b0f452b591.mp3?hdnea=exp=1795653441~acl=/api/1/1/5/5/0/0/550d19f0f911f182435cb6b0f452b591.mp3*~data=user_id=0,application_id=42~hmac=b86025c340929878af21b44456531aa342ec144f085582745bde2948eac3d674",
+              "preview_expires": "2026-11-26T00:37:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/DJ LYAN/DESI TRILL.jpg"
+}

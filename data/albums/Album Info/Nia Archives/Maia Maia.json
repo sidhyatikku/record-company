@@ -1,0 +1,57 @@
+{
+  "title": "Maia Maia",
+  "artist": "Nia Archives & CLIPZ",
+  "year": 2025,
+  "release_date": "2025-09-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "electronic",
+    "jungle"
+  ],
+  "tags": [
+    "electronic",
+    "jungle"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/288260eb-aaef-43e9-8641-002684457768",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/798024301"
+  },
+  "musicbrainz_id": "288260eb-aaef-43e9-8641-002684457768",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f68626e4-164b-42dd-b81c-1bcfb8927887",
+      "barcode": "5063817004567",
+      "title": "Maia Maia",
+      "disambiguation": null,
+      "date": "2025-09-19",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:01",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Maia Maia",
+            "length": "3:01",
+            "deezer": {
+              "id": 3488482841,
+              "link": "https://www.deezer.com/track/3488482841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/e/0/b9ee99cca380ee3d9cdf7a2fd5310f89.mp3?hdnea=exp=1795718860~acl=/api/1/1/b/9/e/0/b9ee99cca380ee3d9cdf7a2fd5310f89.mp3*~data=user_id=0,application_id=42~hmac=4ee2184e8758b38818039e5c8565cada45c2bb9430589a7a4535f13ee3aabb1f",
+              "preview_expires": "2026-11-26T18:47:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nia Archives/Maia Maia.jpg"
+}

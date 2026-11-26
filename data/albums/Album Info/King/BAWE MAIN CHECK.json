@@ -1,0 +1,65 @@
+{
+  "title": "BAWE MAIN CHECK",
+  "artist": "King, Raga",
+  "year": 2024,
+  "release_date": "2024-06-21",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "desi pop",
+    "hindi pop",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/7HoPrzsCajDulJVJYFl1Jz",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/7HoPrzsCajDulJVJYFl1Jz",
+      "title": "BAWE MAIN CHECK",
+      "date": "2024-06-21"
+    },
+    "total_tracks": 4,
+    "total_length": "13:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "BAWE MAIN CHECK",
+            "length": "3:08"
+          },
+          {
+            "number": "2",
+            "title": "WAY BIGGER",
+            "length": "3:25",
+            "artist": "King"
+          },
+          {
+            "number": "3",
+            "title": "STILL THE SAME",
+            "length": "2:46",
+            "artist": "King, Abhijay Sharma"
+          },
+          {
+            "number": "4",
+            "title": "GOAT SHIT",
+            "length": "3:51",
+            "artist": "King, Karma"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/King/BAWE MAIN CHECK.jpg"
+}

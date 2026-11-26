@@ -1,0 +1,108 @@
+{
+  "title": "High and Low",
+  "artist": "Empire of the Sun",
+  "year": 2016,
+  "release_date": "2016-11-25",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8fbe6b4c-6770-400b-ac16-976ea614fd20",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/14713228"
+  },
+  "musicbrainz_id": "8fbe6b4c-6770-400b-ac16-976ea614fd20",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/48753e82-0a5b-405a-8e25-5d5f35bf2e15",
+      "barcode": null,
+      "title": "High and Low (Remixes)",
+      "disambiguation": "The Remixes",
+      "date": "2016-11-25",
+      "country": "US"
+    },
+    "total_tracks": 6,
+    "total_length": "25:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "High and Low (Slander Remix)",
+            "length": "2:58",
+            "artist": "Empire of the Sun feat. SLANDER",
+            "deezer": {
+              "id": 137199328,
+              "link": "https://www.deezer.com/track/137199328",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/e/0/c1e6026e4600f43a8f1f1a12fd00b67c.mp3?hdnea=exp=1795653936~acl=/api/1/1/c/1/e/0/c1e6026e4600f43a8f1f1a12fd00b67c.mp3*~data=user_id=0,application_id=42~hmac=82f93c3ba726fd2458db9a0400bd93e411000629140f38bd603c1d14dd91c028",
+              "preview_expires": "2026-11-26T00:45:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "High and Low (Hayden James Remix)",
+            "length": "4:38",
+            "deezer": {
+              "id": 137199330,
+              "link": "https://www.deezer.com/track/137199330",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/7/0/8e734276a6df27e50464333d1601a2a0.mp3?hdnea=exp=1795653936~acl=/api/1/1/8/e/7/0/8e734276a6df27e50464333d1601a2a0.mp3*~data=user_id=0,application_id=42~hmac=62350d144df02a6f4869a9a1be1fd050bc43837ab2af8ddcfc5f0649a9dc35e0",
+              "preview_expires": "2026-11-26T00:45:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "High and Low (Djemba Djemba Remix)",
+            "length": "4:11",
+            "artist": "Empire of the Sun feat. Djemba Djemba",
+            "deezer": {
+              "id": 137199332,
+              "link": "https://www.deezer.com/track/137199332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/0/0/980587dd9fa7ab372e081ac0eec5416e.mp3?hdnea=exp=1795653936~acl=/api/1/1/9/8/0/0/980587dd9fa7ab372e081ac0eec5416e.mp3*~data=user_id=0,application_id=42~hmac=10b561f18884c4c776f6d6531cb279578f38ededcfd8fa2fbd70526d2c2104fd",
+              "preview_expires": "2026-11-26T00:45:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "High and Low (Tommy Trash Remix)",
+            "length": "4:17",
+            "deezer": {
+              "id": 137199334,
+              "link": "https://www.deezer.com/track/137199334",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/4/0/224ce1a5b9a1e5379c399cc0d329f34a.mp3?hdnea=exp=1795653936~acl=/api/1/1/2/2/4/0/224ce1a5b9a1e5379c399cc0d329f34a.mp3*~data=user_id=0,application_id=42~hmac=34fcd4daa2bd21263e466dd3e00fdc4237cf9875d4fa91383e1b722b7ed7f98c",
+              "preview_expires": "2026-11-26T00:45:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "High and Low (Arthur Baker Remix)",
+            "length": "6:16",
+            "deezer": {
+              "id": 137199336,
+              "link": "https://www.deezer.com/track/137199336",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/8/0/4b876dc146955f826efdf668a3106287.mp3?hdnea=exp=1795653936~acl=/api/1/1/4/b/8/0/4b876dc146955f826efdf668a3106287.mp3*~data=user_id=0,application_id=42~hmac=799753b7164073180beeea96fe600a7396e8bbd81ad6af80a35b3b7895da5266",
+              "preview_expires": "2026-11-26T00:45:36Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "High and Low (Gramercy Remix)",
+            "length": "3:38",
+            "deezer": {
+              "id": 137199338,
+              "link": "https://www.deezer.com/track/137199338",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/c/0/38c6c9405a3349c05b60a433bd8f92da.mp3?hdnea=exp=1795653936~acl=/api/1/1/3/8/c/0/38c6c9405a3349c05b60a433bd8f92da.mp3*~data=user_id=0,application_id=42~hmac=840f3d5d4bde8de14a04bad55cf917b4dd41346d996b5ca70f5eaf073b2c4b70",
+              "preview_expires": "2026-11-26T00:45:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Empire Of The Sun/High And Low.jpg"
+}

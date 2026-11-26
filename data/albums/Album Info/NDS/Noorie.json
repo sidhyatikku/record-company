@@ -1,0 +1,50 @@
+{
+  "title": "Noorie",
+  "artist": "NDS",
+  "year": 2020,
+  "release_date": "2020-01-06",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "punjabi pop",
+    "punjabi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4C5YVoCrXAMAb3V1vwdqKq",
+    "deezer": "https://www.deezer.com/album/390921827"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4C5YVoCrXAMAb3V1vwdqKq",
+      "title": "Noorie",
+      "date": "2020-01-06"
+    },
+    "total_tracks": 1,
+    "total_length": "3:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Noorie",
+            "length": "3:29",
+            "deezer": {
+              "id": 2087266697,
+              "link": "https://www.deezer.com/track/2087266697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/7/0/1475a576898ac82cd257d2a795ac8176.mp3?hdnea=exp=1795718785~acl=/api/1/1/1/4/7/0/1475a576898ac82cd257d2a795ac8176.mp3*~data=user_id=0,application_id=42~hmac=59c31d2b203ac3c093f4e3c236162d257838f833d8d6efeb5a58719d7e15397a",
+              "preview_expires": "2026-11-26T18:46:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/NDS/Noorie.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Prada",
+  "artist": "Jass Manak",
+  "year": 2019,
+  "release_date": "2019-02-20",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/df3d1c3f-0588-4977-8e5c-38287507fe99",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/622608711"
+  },
+  "musicbrainz_id": "df3d1c3f-0588-4977-8e5c-38287507fe99",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8ffa4218-51a2-45b2-8409-627b75fa72c7",
+      "barcode": "3615937444574",
+      "title": "Prada",
+      "disambiguation": null,
+      "date": "2019-02-20",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Prada",
+            "length": "3:02",
+            "deezer": {
+              "id": 2925727571,
+              "link": "https://www.deezer.com/track/2925727571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/f/0/06f46cf3b58177d1dc0886f100bfaea3.mp3?hdnea=exp=1795655441~acl=/api/1/1/0/6/f/0/06f46cf3b58177d1dc0886f100bfaea3.mp3*~data=user_id=0,application_id=42~hmac=a24edfb1b0860d2ec66677dc9082b39b5411603bd7dd58330a70783a2ae835e9",
+              "preview_expires": "2026-11-26T01:10:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jass Manak/Prada.jpg"
+}

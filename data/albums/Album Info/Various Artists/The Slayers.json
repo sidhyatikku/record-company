@@ -1,0 +1,71 @@
+{
+  "title": "The Slayers",
+  "artist": "Various Artists",
+  "year": 2001,
+  "release_date": "2001-01-01",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1IsT1THKv6CMxE4NFknY2N",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1IsT1THKv6CMxE4NFknY2N",
+      "title": "The Slayers",
+      "date": "2001-01-01"
+    },
+    "total_tracks": 6,
+    "total_length": "21:45",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Charka Chanen Da",
+            "length": "3:13",
+            "artist": "Dr Zeus"
+          },
+          {
+            "number": "2",
+            "title": "Nach Sadenal",
+            "length": "3:27",
+            "artist": "Swami"
+          },
+          {
+            "number": "3",
+            "title": "Bhabiya",
+            "length": "4:27",
+            "artist": "DJ Stin"
+          },
+          {
+            "number": "4",
+            "title": "Patola",
+            "length": "3:29",
+            "artist": "Dr Zeus"
+          },
+          {
+            "number": "5",
+            "title": "Gidde Vich",
+            "length": "3:41",
+            "artist": "Swami"
+          },
+          {
+            "number": "6",
+            "title": "Udam Singh",
+            "length": "3:28",
+            "artist": "DJ Stin"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Various Artists/The Slayers.jpg"
+}

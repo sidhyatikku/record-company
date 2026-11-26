@@ -1,0 +1,52 @@
+{
+  "title": "Ahista Ahista",
+  "artist": "Kazinama",
+  "year": 2024,
+  "release_date": "2024-09-02",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/74e907b8-7424-4884-8045-08119ab2b9a2",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/701340691"
+  },
+  "musicbrainz_id": "74e907b8-7424-4884-8045-08119ab2b9a2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fc97ddaa-0b31-4650-b40f-1fa01b36823e",
+      "barcode": "00602475874492",
+      "title": "Ahista Ahista",
+      "disambiguation": null,
+      "date": "2024-09-02",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ahista Ahista (Kazinama remix)",
+            "length": "2:58",
+            "artist": "Musarrat Nazir",
+            "deezer": {
+              "id": 3197446011,
+              "link": "https://www.deezer.com/track/3197446011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/d/0/dfd6e5215a763086f7ce1894f8d702d9.mp3?hdnea=exp=1795656063~acl=/api/1/1/d/f/d/0/dfd6e5215a763086f7ce1894f8d702d9.mp3*~data=user_id=0,application_id=42~hmac=65c8dd81ca83e0643bd35a83e243964156d2cffb17718e80fb1e5c8cf0a26523",
+              "preview_expires": "2026-11-26T01:21:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kazinama/Ahista Ahista.jpg"
+}

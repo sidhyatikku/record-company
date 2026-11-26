@@ -1,0 +1,132 @@
+{
+  "title": "Movement",
+  "artist": "p-rallel",
+  "year": 2023,
+  "release_date": "2023-10-27",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8cfeb24d-ea80-4ba8-930a-a95f2b57171c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/561818592"
+  },
+  "musicbrainz_id": "8cfeb24d-ea80-4ba8-930a-a95f2b57171c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f9b85bbd-b0de-4a24-9f08-5cd1fee89b11",
+      "barcode": "196871960465",
+      "title": "Movement",
+      "disambiguation": null,
+      "date": "2023-10-27",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "29:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Evening Time",
+            "length": "3:16",
+            "artist": "p-rallel, KAM-BU & BXKS",
+            "deezer": {
+              "id": 2710096422,
+              "link": "https://www.deezer.com/track/2710096422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/3/0/78306286e296c4b3de99526888a8ba46.mp3?hdnea=exp=1795719249~acl=/api/1/1/7/8/3/0/78306286e296c4b3de99526888a8ba46.mp3*~data=user_id=0,application_id=42~hmac=ba39b1025c182bfc3694cebef075f046782aae1c37be1722d86741022a6a36e9",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "It's a Lundun Thing",
+            "length": "4:11",
+            "deezer": {
+              "id": 2710096432,
+              "link": "https://www.deezer.com/track/2710096432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/8/0/518cc67a618035af7ee2f8fd3a716d98.mp3?hdnea=exp=1795719249~acl=/api/1/1/5/1/8/0/518cc67a618035af7ee2f8fd3a716d98.mp3*~data=user_id=0,application_id=42~hmac=8f3826d977a0e99e1bb6e26b08558d8232f63d1fcf805d3c3ae89c2b04f1ef44",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "I'm So High",
+            "length": "3:39",
+            "artist": "p-rallel, Tamera & Toddla T",
+            "deezer": {
+              "id": 2710096442,
+              "link": "https://www.deezer.com/track/2710096442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/7/0/407c944320af7e93792de6f2b2916efd.mp3?hdnea=exp=1795719249~acl=/api/1/1/4/0/7/0/407c944320af7e93792de6f2b2916efd.mp3*~data=user_id=0,application_id=42~hmac=196cbe1c5424f3e1b40bbf0954dc8691db43b907c2bf376a551a069771c8f572",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Know",
+            "length": "3:31",
+            "deezer": {
+              "id": 2710096452,
+              "link": "https://www.deezer.com/track/2710096452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/c/0/c8c1a18598a9bcef4b7101ae2d114ad0.mp3?hdnea=exp=1795719249~acl=/api/1/1/c/8/c/0/c8c1a18598a9bcef4b7101ae2d114ad0.mp3*~data=user_id=0,application_id=42~hmac=e94c5a2bc6da088a874a53145a4770048926f3eb061d91a9c2ace9a6411b8a76",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Superstylin",
+            "length": "3:10",
+            "deezer": {
+              "id": 2710096462,
+              "link": "https://www.deezer.com/track/2710096462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/8/0/2484da2fa3b29ec16ff2a9132e3e5142.mp3?hdnea=exp=1795719249~acl=/api/1/1/2/4/8/0/2484da2fa3b29ec16ff2a9132e3e5142.mp3*~data=user_id=0,application_id=42~hmac=889e9a18b7c7d711ded9e948a850070542358e0aa73ac6ae20e1359602e49258",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Go",
+            "length": "3:03",
+            "artist": "p-rallel & DETO BLACK",
+            "deezer": {
+              "id": 2710096472,
+              "link": "https://www.deezer.com/track/2710096472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/f/0/e3f500df71d9175fd0861f19e9bf4dbc.mp3?hdnea=exp=1795719249~acl=/api/1/1/e/3/f/0/e3f500df71d9175fd0861f19e9bf4dbc.mp3*~data=user_id=0,application_id=42~hmac=c606082eb4373b9fc37b53ff43944d5358f84df6d3a5bbcee549b619e56b350d",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "By My Side",
+            "length": "4:52",
+            "deezer": {
+              "id": 2710096482,
+              "link": "https://www.deezer.com/track/2710096482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/d/0/2cdb9dba772814aedf9f8cda27b7cee6.mp3?hdnea=exp=1795719249~acl=/api/1/1/2/c/d/0/2cdb9dba772814aedf9f8cda27b7cee6.mp3*~data=user_id=0,application_id=42~hmac=55bf30703440d217a9be40e84fda976259af6a741a358105bb89ccdc4ba8d2cf",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Treat Me Right",
+            "length": "3:29",
+            "artist": "p-rallel & Dom Valentino",
+            "deezer": {
+              "id": 2710096492,
+              "link": "https://www.deezer.com/track/2710096492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/e/0/cee4eefbfeb7a4be276835bc32a8fd6e.mp3?hdnea=exp=1795719249~acl=/api/1/1/c/e/e/0/cee4eefbfeb7a4be276835bc32a8fd6e.mp3*~data=user_id=0,application_id=42~hmac=65e1dcee86633389621627a8f532b26f515d62fff256b38b4e3f6a80df4d60aa",
+              "preview_expires": "2026-11-26T18:54:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/p-rallel/Movement.jpg"
+}

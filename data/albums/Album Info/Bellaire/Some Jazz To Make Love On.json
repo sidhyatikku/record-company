@@ -1,0 +1,52 @@
+{
+  "title": "Some Jazz To Make Love On",
+  "artist": "Bellaire",
+  "year": 2018,
+  "release_date": "2018-01-28",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz house",
+    "disco house",
+    "funky house",
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4mnbilvTHXDR2mqtv7gBG5",
+    "deezer": "https://www.deezer.com/album/614225932"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4mnbilvTHXDR2mqtv7gBG5",
+      "title": "Some Jazz To Make Love On",
+      "date": "2018-01-28"
+    },
+    "total_tracks": 1,
+    "total_length": "5:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Some Jazz To Make Love On",
+            "length": "5:44",
+            "deezer": {
+              "id": 2886908832,
+              "link": "https://www.deezer.com/track/2886908832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/0/0/130a05f91320f9df21c46b694465b916.mp3?hdnea=exp=1795651934~acl=/api/1/1/1/3/0/0/130a05f91320f9df21c46b694465b916.mp3*~data=user_id=0,application_id=42~hmac=cd6428f618936c434df5c2df5bfe3c3f8a15576b9432f64b24c851df688461d1",
+              "preview_expires": "2026-11-26T00:12:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Bellaire/Some Jazz To Make Love On.jpg"
+}

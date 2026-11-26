@@ -1,0 +1,181 @@
+{
+  "title": "Disraeli Gears",
+  "artist": "Cream",
+  "year": 1967,
+  "release_date": "1967-11-02",
+  "type": "Album",
+  "description": "Disraeli Gears is the second studio album by the British rock band Cream. It was produced by Felix Pappalardi and released on Reaction Records in 1967. The album features the singles \"Strange Brew\" and \"Sunshine of Your Love\".",
+  "genres": [
+    "blues rock",
+    "psychedelic rock",
+    "rock",
+    "acid rock",
+    "hard rock"
+  ],
+  "tags": [
+    "blues rock",
+    "psychedelic rock",
+    "rock",
+    "blues-rock",
+    "acid rock",
+    "hard rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 14
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bbd66e31-ac27-3432-81a7-0d4b4b4c5de5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Disraeli_Gears",
+    "allmusic": "https://www.allmusic.com/album/mw0000650029",
+    "discogs": "https://www.discogs.com/master/35685",
+    "wikidata": "https://www.wikidata.org/wiki/Q269211",
+    "deezer": "https://www.deezer.com/album/226291"
+  },
+  "musicbrainz_id": "bbd66e31-ac27-3432-81a7-0d4b4b4c5de5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ac49a814-561c-34ab-b12a-01271850d67d",
+      "barcode": "731453181120",
+      "title": "Disraeli Gears",
+      "disambiguation": null,
+      "date": "1998-04-07",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "33:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Strange Brew",
+            "length": "2:50",
+            "deezer": {
+              "id": 2265588,
+              "link": "https://www.deezer.com/track/2265588",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/7/0/fb7696f2a81d7680c27842a9277127d9.mp3?hdnea=exp=1795652963~acl=/api/1/1/f/b/7/0/fb7696f2a81d7680c27842a9277127d9.mp3*~data=user_id=0,application_id=42~hmac=fdbd14241a0632cf895a44018478a02ca32edb147de889b837423b84bf48e887",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sunshine of Your Love",
+            "length": "4:13",
+            "deezer": {
+              "id": 2265589,
+              "link": "https://www.deezer.com/track/2265589",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/7/0/057a5b4dfdfea9fc08a4a456aed5f838.mp3?hdnea=exp=1795652963~acl=/api/1/1/0/5/7/0/057a5b4dfdfea9fc08a4a456aed5f838.mp3*~data=user_id=0,application_id=42~hmac=1b00a02b6b5d6e99c878efa18a1e5c28e9db93c87812511d8e6f6d248a09e3cb",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "World of Pain",
+            "length": "3:06",
+            "deezer": {
+              "id": 2265590,
+              "link": "https://www.deezer.com/track/2265590",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/7/0/ce71188407cc132f62edca672d964e1b.mp3?hdnea=exp=1795652963~acl=/api/1/1/c/e/7/0/ce71188407cc132f62edca672d964e1b.mp3*~data=user_id=0,application_id=42~hmac=329e011c14c75c4ca3e2a5265daad094f4c4f88abdc730ca6caaa9ab2f562c5c",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dance the Night Away",
+            "length": "3:37",
+            "deezer": {
+              "id": 2265591,
+              "link": "https://www.deezer.com/track/2265591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/3/0/223ca76678a1cf3a284d5bcad2ef8dda.mp3?hdnea=exp=1795652963~acl=/api/1/1/2/2/3/0/223ca76678a1cf3a284d5bcad2ef8dda.mp3*~data=user_id=0,application_id=42~hmac=c17b3fabebdb16b4715fc053e86cfa03f73a5be9baed4deba25d6b7b86497d48",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Blue Condition",
+            "length": "3:33",
+            "deezer": {
+              "id": 2265592,
+              "link": "https://www.deezer.com/track/2265592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/a/0/63af98730bc64621cdcffc12e62d4e02.mp3?hdnea=exp=1795652963~acl=/api/1/1/6/3/a/0/63af98730bc64621cdcffc12e62d4e02.mp3*~data=user_id=0,application_id=42~hmac=f04be41f64ec9eab86e076e65709fc540ab7a670cd8415c4b8db9bfcf5ad4ab5",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Tales of Brave Ulysses",
+            "length": "2:49",
+            "deezer": {
+              "id": 2265593,
+              "link": "https://www.deezer.com/track/2265593",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/1/0/a415a3ade1184f772d124c8cf7cd42c2.mp3?hdnea=exp=1795652963~acl=/api/1/1/a/4/1/0/a415a3ade1184f772d124c8cf7cd42c2.mp3*~data=user_id=0,application_id=42~hmac=37b450fa6a8760a28caa83275f647cc11c3553d321f902e8ab22cf3dd9b7808f",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "SWLABR",
+            "length": "2:34",
+            "deezer": {
+              "id": 2265594,
+              "link": "https://www.deezer.com/track/2265594",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/9/0/0a98676e58c6a7222457a9851e91e37c.mp3?hdnea=exp=1795652963~acl=/api/1/1/0/a/9/0/0a98676e58c6a7222457a9851e91e37c.mp3*~data=user_id=0,application_id=42~hmac=53ee41e188da1590e6e565a714f5101651efb279588795854b17e172bed1ce77",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "We’re Going Wrong",
+            "length": "3:30",
+            "deezer": {
+              "id": 2265595,
+              "link": "https://www.deezer.com/track/2265595",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/e/0/e9e3f43fb4bab7c475fc63103171dae4.mp3?hdnea=exp=1795652963~acl=/api/1/1/e/9/e/0/e9e3f43fb4bab7c475fc63103171dae4.mp3*~data=user_id=0,application_id=42~hmac=eb31caf37bae24ba2a3c71e531b154e4814e188373d171807dc61ee007b68053",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Outside Woman Blues",
+            "length": "2:27",
+            "deezer": {
+              "id": 2265596,
+              "link": "https://www.deezer.com/track/2265596",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/d/0/1bd6f51a4254822a77a53e8b14661da9.mp3?hdnea=exp=1795652963~acl=/api/1/1/1/b/d/0/1bd6f51a4254822a77a53e8b14661da9.mp3*~data=user_id=0,application_id=42~hmac=9d55fe256129032a1423c07865968c72068e87e57a69474af44b285b237b961b",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Take It Back",
+            "length": "3:08",
+            "deezer": {
+              "id": 2265597,
+              "link": "https://www.deezer.com/track/2265597",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/4/0/bb44b5b14495ffe4464f8b924cc59a72.mp3?hdnea=exp=1795652963~acl=/api/1/1/b/b/4/0/bb44b5b14495ffe4464f8b924cc59a72.mp3*~data=user_id=0,application_id=42~hmac=1c67ced51620f43da91985c2abbb7d1d147fecacd138ae17326a66fea51ee186",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Mother’s Lament",
+            "length": "1:48",
+            "deezer": {
+              "id": 2265598,
+              "link": "https://www.deezer.com/track/2265598",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/6/0/a56107d31b56cf0722bf3f242400b61c.mp3?hdnea=exp=1795652963~acl=/api/1/1/a/5/6/0/a56107d31b56cf0722bf3f242400b61c.mp3*~data=user_id=0,application_id=42~hmac=41f710817a60a8bfc872f2d1f71395cb1bc2c2b9ed589e1a8fffaa8ca8cc9f01",
+              "preview_expires": "2026-11-26T00:29:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Cream/Disraeli Gears.jpg"
+}

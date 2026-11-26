@@ -1,0 +1,76 @@
+{
+  "title": "Taadkefaad",
+  "artist": "Shreyas & The Siege",
+  "year": 2023,
+  "release_date": "2023-11-11",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/32a23095-14db-41f3-99e9-dcfda336bfe4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/508522581"
+  },
+  "musicbrainz_id": "32a23095-14db-41f3-99e9-dcfda336bfe4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/353eaf25-1200-4813-bcae-ec952c24589b",
+      "barcode": "197190321425",
+      "title": "Taadkefaad",
+      "disambiguation": null,
+      "date": "2023-11-11",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "7:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "RLT",
+            "length": "2:01",
+            "artist": "Shreyas, The Siege, Vedang & Devoniàn",
+            "deezer": {
+              "id": 2527325041,
+              "link": "https://www.deezer.com/track/2527325041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/2/0/922c30013848c8a8da810ebc70339417.mp3?hdnea=exp=1795720548~acl=/api/1/1/9/2/2/0/922c30013848c8a8da810ebc70339417.mp3*~data=user_id=0,application_id=42~hmac=c3f2ce78f8c47000fe415d658dab8afc7afdfb67e3456913d03b7c2a77f61328",
+              "preview_expires": "2026-11-26T19:15:48Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Gadbad",
+            "length": "2:16",
+            "artist": "Shreyas, The Siege, Rebel 7, Vedang & Devoniàn",
+            "deezer": {
+              "id": 2527325051,
+              "link": "https://www.deezer.com/track/2527325051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/d/0/31dc0af764d91eca81f4c1df235f130a.mp3?hdnea=exp=1795720548~acl=/api/1/1/3/1/d/0/31dc0af764d91eca81f4c1df235f130a.mp3*~data=user_id=0,application_id=42~hmac=d8b5f7b3d81f3ea21473643725b3a9290292eb5508d449751dfaa69d5412fdc9",
+              "preview_expires": "2026-11-26T19:15:48Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mujhko Jeene Do",
+            "length": "3:39",
+            "artist": "The Siege, Shreyas, Vedang & Devoniàn",
+            "deezer": {
+              "id": 2527325061,
+              "link": "https://www.deezer.com/track/2527325061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/d/0/14d74ed2ff03290c6e447319290d045a.mp3?hdnea=exp=1795720548~acl=/api/1/1/1/4/d/0/14d74ed2ff03290c6e447319290d045a.mp3*~data=user_id=0,application_id=42~hmac=2a6946d92fe04d3b0a2e21d7fcc40a8b346a1109a93e780df2a0e07120f9b610",
+              "preview_expires": "2026-11-26T19:15:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Shreyas/Taadkefaad.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Khoyo",
+  "artist": "Tech Panda, Kenzani",
+  "year": 2020,
+  "release_date": "2020-05-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie",
+    "desi"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4IPfNK6EZQRK9NvwFovS6Z",
+    "deezer": "https://www.deezer.com/album/146471402"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4IPfNK6EZQRK9NvwFovS6Z",
+      "title": "Khoyo",
+      "date": "2020-05-01"
+    },
+    "total_tracks": 1,
+    "total_length": "3:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Khoyo",
+            "length": "3:53",
+            "deezer": {
+              "id": 951825102,
+              "link": "https://www.deezer.com/track/951825102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/0/0/410dab6e1f7af4a88919b918a7b190b3.mp3?hdnea=exp=1795721264~acl=/api/1/1/4/1/0/0/410dab6e1f7af4a88919b918a7b190b3.mp3*~data=user_id=0,application_id=42~hmac=f92be5f90518a4d86211d2d563c38241ad6d027c8d67d1f2abf49e84272e2dce",
+              "preview_expires": "2026-11-26T19:27:44Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Tech Panda/Khoyo.jpg"
+}

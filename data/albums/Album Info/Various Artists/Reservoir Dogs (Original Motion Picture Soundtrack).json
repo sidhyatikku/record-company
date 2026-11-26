@@ -1,0 +1,253 @@
+{
+  "title": "Reservoir Dogs: Music From the Original Motion Picture Soundtrack",
+  "artist": "Various Artists",
+  "year": 1992,
+  "release_date": "1992-10-13",
+  "type": "Album + Soundtrack",
+  "description": "Reservoir Dogs: Original Motion Picture Soundtrack is the soundtrack to Quentin Tarantino's 1992 film Reservoir Dogs, released on October 13, 1992, by MCA Records. The film contains a mix of pop rock music from the 1970s, intercut with dialogue from the film and a radio-style voiceover by Steven Wright. In 2024, the soundtrack was included in Rolling Stone's list of the 101 Greatest Soundtracks of All Time.",
+  "genres": [
+    "pop rock",
+    "rock",
+    "soft rock",
+    "non-music"
+  ],
+  "tags": [
+    "soundtrack",
+    "pop rock",
+    "rock",
+    "soft rock",
+    "non-music",
+    "stage screen",
+    "radioplay",
+    "tarantino"
+  ],
+  "rating": {
+    "value_out_of_5": 3.6,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/914c63e9-ac09-39ca-b1bf-94008c664ded",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reservoir_Dogs_(soundtrack)",
+    "allmusic": "https://www.allmusic.com/album/mw0000088711",
+    "discogs": "https://www.discogs.com/master/96906",
+    "wikidata": "https://www.wikidata.org/wiki/Q72962",
+    "deezer": "https://www.deezer.com/album/12252090"
+  },
+  "musicbrainz_id": "914c63e9-ac09-39ca-b1bf-94008c664ded",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0607a501-5c50-45b3-bc68-87b68b5c4924",
+      "barcode": "008811054120",
+      "title": "Reservoir Dogs (original soundtrack)",
+      "disambiguation": null,
+      "date": "1992",
+      "country": "AU"
+    },
+    "total_tracks": 16,
+    "total_length": "30:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "And Now Little Green Bag...",
+            "length": "0:15",
+            "artist": "Steven Wright",
+            "deezer": {
+              "id": 117960224,
+              "link": "https://www.deezer.com/track/117960224",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/c/0/1bcabf5eeb70d46c75a108f19087eb23.mp3?hdnea=exp=1795724066~acl=/api/1/1/1/b/c/0/1bcabf5eeb70d46c75a108f19087eb23.mp3*~data=user_id=0,application_id=42~hmac=60d0acd3cc6af9390a2b2a8b4595919f9c8f937f588b7581c2f6666bd96f2d4e",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Little Green Bag",
+            "length": "3:16",
+            "artist": "George Baker Selection",
+            "deezer": {
+              "id": 117960226,
+              "link": "https://www.deezer.com/track/117960226",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "3",
+            "title": "Rock Flock of Five",
+            "length": "0:11",
+            "artist": "Steven Wright",
+            "deezer": {
+              "id": 117960228,
+              "link": "https://www.deezer.com/track/117960228",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/9/0/8d9b180163ba51cf5cf2b54cbad4b04f.mp3?hdnea=exp=1795724066~acl=/api/1/1/8/d/9/0/8d9b180163ba51cf5cf2b54cbad4b04f.mp3*~data=user_id=0,application_id=42~hmac=a791c12bd1dc854a257f8a3f7e1333c088947c20acd49b417cbe7c3dea823964",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hooked on a Feeling",
+            "length": "2:54",
+            "artist": "Blue Swede",
+            "deezer": {
+              "id": 117960230,
+              "link": "https://www.deezer.com/track/117960230",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bohemiath",
+            "length": "0:34",
+            "artist": "Steven Wright",
+            "deezer": {
+              "id": 117960232,
+              "link": "https://www.deezer.com/track/117960232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/5/0/f4532583c97dbc461e95aa1516bf907a.mp3?hdnea=exp=1795724066~acl=/api/1/1/f/4/5/0/f4532583c97dbc461e95aa1516bf907a.mp3*~data=user_id=0,application_id=42~hmac=df4ce889e11f1b89348a0a4579f75932149a1a06ee18f1ef7a1f240ba5ca7e05",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Gotcha",
+            "length": "2:28",
+            "artist": "Joe Tex",
+            "deezer": {
+              "id": 117960234,
+              "link": "https://www.deezer.com/track/117960234",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "7",
+            "title": "Magic Carpet Ride",
+            "length": "5:11",
+            "artist": "Bedlam",
+            "deezer": {
+              "id": 117960236,
+              "link": "https://www.deezer.com/track/117960236",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/1/0/3d1d2520e81c49a0bac9dbe26c40cf7a.mp3?hdnea=exp=1795724066~acl=/api/1/1/3/d/1/0/3d1d2520e81c49a0bac9dbe26c40cf7a.mp3*~data=user_id=0,application_id=42~hmac=02984632232b045c45298096a5b2678b30ff1b3172e513df04d0c84ae4d79098",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Madonna Speech",
+            "length": "0:59",
+            "artist": "Quentin Tarantino, Harvey Keitel, Steve Buscemi, Lawrence Tierney and Eddie Bunker",
+            "deezer": {
+              "id": 117960238,
+              "link": "https://www.deezer.com/track/117960238",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/c/0/dcc33281763d57f6e9bf8f3ad14750dd.mp3?hdnea=exp=1795724066~acl=/api/1/1/d/c/c/0/dcc33281763d57f6e9bf8f3ad14750dd.mp3*~data=user_id=0,application_id=42~hmac=775a540b1b6c5efea04acaef4fce548556c1ba86a4288c3a4e394a90ad141ded",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Fool for Love",
+            "length": "3:25",
+            "artist": "Sandy Rogers",
+            "deezer": {
+              "id": 117960240,
+              "link": "https://www.deezer.com/track/117960240",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "10",
+            "title": "Super Sounds",
+            "length": "0:19",
+            "artist": "Steven Wright",
+            "deezer": {
+              "id": 117960242,
+              "link": "https://www.deezer.com/track/117960242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/3/0/d2374a8b29892c56ee1e8e41ecc5dd24.mp3?hdnea=exp=1795724066~acl=/api/1/1/d/2/3/0/d2374a8b29892c56ee1e8e41ecc5dd24.mp3*~data=user_id=0,application_id=42~hmac=431c7233a0a70de5c96d36bfed7aa90b580cd140e052225eedac6a1d1b493bb6",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Stuck in the Middle With You",
+            "length": "3:24",
+            "artist": "Stealers Wheel",
+            "deezer": {
+              "id": 117960244,
+              "link": "https://www.deezer.com/track/117960244",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/2/0/4e26afdcb4f4f808eae3df01870884e9.mp3?hdnea=exp=1795724066~acl=/api/1/1/4/e/2/0/4e26afdcb4f4f808eae3df01870884e9.mp3*~data=user_id=0,application_id=42~hmac=e5611e26e08f3622c26b45fd5d28f5d08ba0a945f9ece5543b4eed3f9f159a3b",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Harvest Moon",
+            "length": "2:38",
+            "artist": "Bedlam",
+            "deezer": {
+              "id": 117960246,
+              "link": "https://www.deezer.com/track/117960246",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/8/0/298ea9ce60e41ed39fd22d37bf89e719.mp3?hdnea=exp=1795724066~acl=/api/1/1/2/9/8/0/298ea9ce60e41ed39fd22d37bf89e719.mp3*~data=user_id=0,application_id=42~hmac=8989a641c5a5fbdeb7b6d28a8a3ecce0c3c42fc845cee956509e7587580ceee7",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Let’s Get a Taco",
+            "length": "1:03",
+            "artist": "Harvey Keitel and Tim Roth",
+            "deezer": {
+              "id": 117960248,
+              "link": "https://www.deezer.com/track/117960248",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/d/0/6bd02dcd8837c021b3e13aaf3aa6c62d.mp3?hdnea=exp=1795724066~acl=/api/1/1/6/b/d/0/6bd02dcd8837c021b3e13aaf3aa6c62d.mp3*~data=user_id=0,application_id=42~hmac=59f8e10acbcb5e71198147041c7ff99677fb25f4eb253f141a1ff155f5e6fc9b",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Keep On Truckin’",
+            "length": "0:17",
+            "artist": "Steven Wright",
+            "deezer": {
+              "id": 117960250,
+              "link": "https://www.deezer.com/track/117960250",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/5/0/df5719f449ca3fe42ee9f1ffe6e5d570.mp3?hdnea=exp=1795724066~acl=/api/1/1/d/f/5/0/df5719f449ca3fe42ee9f1ffe6e5d570.mp3*~data=user_id=0,application_id=42~hmac=ecf86e2eef5520e8e5ab9d72ed2497d9ec04fdcf63812c8968353c3e32f6e96e",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Coconut",
+            "length": "3:51",
+            "artist": "Harry Nilsson",
+            "deezer": {
+              "id": 117960252,
+              "link": "https://www.deezer.com/track/117960252",
+              "preview": null,
+              "preview_expires": null
+            }
+          },
+          {
+            "number": "16",
+            "title": "Home of Rock",
+            "length": "0:05",
+            "artist": "Steven Wright",
+            "deezer": {
+              "id": 117960254,
+              "link": "https://www.deezer.com/track/117960254",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/a/0/afad1291386840ccc84119a03bf0f0fc.mp3?hdnea=exp=1795724066~acl=/api/1/1/a/f/a/0/afad1291386840ccc84119a03bf0f0fc.mp3*~data=user_id=0,application_id=42~hmac=47b9762217ac02bbc43d9f8c37b56944108d2d64b7b082bfddbf7ec3471e87b4",
+              "preview_expires": "2026-11-26T20:14:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Reservoir Dogs (Original Motion Picture Soundtrack).jpg"
+}

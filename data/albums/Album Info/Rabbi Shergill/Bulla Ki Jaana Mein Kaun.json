@@ -1,0 +1,51 @@
+{
+  "title": "Bulla Ki Jaana Mein Kaun",
+  "artist": "Rabbi Shergill",
+  "year": 2021,
+  "release_date": "2021-11-12",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi pop",
+    "sufi",
+    "indian indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1bLwSAdaBy3w7ddN6shiLA",
+    "deezer": "https://www.deezer.com/album/272253222"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1bLwSAdaBy3w7ddN6shiLA",
+      "title": "Bulla Ki Jaana Mein Kaun",
+      "date": "2021-11-12"
+    },
+    "total_tracks": 1,
+    "total_length": "5:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bulla Ki Jaana Mein Kaun",
+            "length": "5:17",
+            "deezer": {
+              "id": 1550992582,
+              "link": "https://www.deezer.com/track/1550992582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/8/0/84810627165c144c841a4388df49b85f.mp3?hdnea=exp=1795719811~acl=/api/1/1/8/4/8/0/84810627165c144c841a4388df49b85f.mp3*~data=user_id=0,application_id=42~hmac=74fcf6aff4ca2240a457428a089f6213ebc88ce7d237043acbfe49513660c905",
+              "preview_expires": "2026-11-26T19:03:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Rabbi Shergill/Bulla Ki Jaana Mein Kaun.jpg"
+}

@@ -1,0 +1,168 @@
+{
+  "title": "Portraits",
+  "artist": "Maribou State",
+  "year": 2015,
+  "release_date": "2015-06-01",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "tags": [
+    "electronic",
+    "house",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c7309453-712c-4963-9ef7-6cb75ea24a05",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0002830879",
+    "discogs": "https://www.discogs.com/master/843986",
+    "deezer": "https://www.deezer.com/album/9677282"
+  },
+  "musicbrainz_id": "c7309453-712c-4963-9ef7-6cb75ea24a05",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/90e55a78-c4d3-4c87-936f-f9478e0e9ef7",
+      "barcode": "5054429001099",
+      "title": "Portraits",
+      "disambiguation": null,
+      "date": "2015-06-01",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "40:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Home",
+            "length": "3:16",
+            "deezer": {
+              "id": 95112348,
+              "link": "https://www.deezer.com/track/95112348",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/1/0/d61cf8624734ddf8ba3e145b3676d0d0.mp3?hdnea=exp=1795718237~acl=/api/1/1/d/6/1/0/d61cf8624734ddf8ba3e145b3676d0d0.mp3*~data=user_id=0,application_id=42~hmac=991abc706f6a9b5b2874473fdf870b0e9395e1f74322c41fdeb1da5a342402b4",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Clown",
+            "length": "4:08",
+            "artist": "Maribou State feat. Pedestrian",
+            "deezer": {
+              "id": 95112350,
+              "link": "https://www.deezer.com/track/95112350",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/4/0/914aad1d5368ae5ada76184d46ebae63.mp3?hdnea=exp=1795718237~acl=/api/1/1/9/1/4/0/914aad1d5368ae5ada76184d46ebae63.mp3*~data=user_id=0,application_id=42~hmac=920bdff9bcfc0e1d672696a0e899029b1eee3f14c2bb9caede367e34301c2d3c",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Rituals",
+            "length": "4:27",
+            "deezer": {
+              "id": 95112352,
+              "link": "https://www.deezer.com/track/95112352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/8/0/228b3ca8b8affec391c24d58dbd480bb.mp3?hdnea=exp=1795718237~acl=/api/1/1/2/2/8/0/228b3ca8b8affec391c24d58dbd480bb.mp3*~data=user_id=0,application_id=42~hmac=3c479a5fc627f8611acb265e8b9c03c15d0c3e5f16073b3a46acf1a7640d8e44",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Steal",
+            "length": "3:40",
+            "artist": "Maribou State feat. Holly Walker",
+            "deezer": {
+              "id": 95112354,
+              "link": "https://www.deezer.com/track/95112354",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/2/0/f42d2e2187e0545ee7a08623a93eae5b.mp3?hdnea=exp=1795718237~acl=/api/1/1/f/4/2/0/f42d2e2187e0545ee7a08623a93eae5b.mp3*~data=user_id=0,application_id=42~hmac=ab5271cd435991d67039b2c36f3a1c1370d650602dde2f023afd2fc58cd63d69",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Wallflower",
+            "length": "3:43",
+            "deezer": {
+              "id": 95112356,
+              "link": "https://www.deezer.com/track/95112356",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/d/0/56d1a3ba0b0557e8a777882d4491ea83.mp3?hdnea=exp=1795718237~acl=/api/1/1/5/6/d/0/56d1a3ba0b0557e8a777882d4491ea83.mp3*~data=user_id=0,application_id=42~hmac=68ad7f6114aee06069191c6838216045b5b87bb8b5ac111b1705a9d2f8ef8cc0",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Say More",
+            "length": "4:24",
+            "artist": "Maribou State feat. Jono McCleery",
+            "deezer": {
+              "id": 95112358,
+              "link": "https://www.deezer.com/track/95112358",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/2/0/3325b31dc69509dd8881b84d4cb97964.mp3?hdnea=exp=1795718237~acl=/api/1/1/3/3/2/0/3325b31dc69509dd8881b84d4cb97964.mp3*~data=user_id=0,application_id=42~hmac=338e501a9c8313c456c7effd9960b189f506f20fc1972f54ecfd87bbf301849c",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Raincoats",
+            "length": "4:38",
+            "deezer": {
+              "id": 95112360,
+              "link": "https://www.deezer.com/track/95112360",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/d/0/b2d7b17edb8d70ecfbe889eadc7adbea.mp3?hdnea=exp=1795718237~acl=/api/1/1/b/2/d/0/b2d7b17edb8d70ecfbe889eadc7adbea.mp3*~data=user_id=0,application_id=42~hmac=1664bed8eb4103e3cf0c4fac1e8296ab1b19786c6df9ed4524f8855f2ab4a2d1",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Midas",
+            "length": "3:38",
+            "artist": "Maribou State feat. Holly Walker",
+            "deezer": {
+              "id": 95112362,
+              "link": "https://www.deezer.com/track/95112362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/5/0/6851fb79e9e179e5655e075d3bd1fe76.mp3?hdnea=exp=1795718237~acl=/api/1/1/6/8/5/0/6851fb79e9e179e5655e075d3bd1fe76.mp3*~data=user_id=0,application_id=42~hmac=c29de9800541f6f1a8f6708eb6290649a69cdf6816be129890453014b08fd852",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Natural Fools",
+            "length": "5:39",
+            "deezer": {
+              "id": 95112364,
+              "link": "https://www.deezer.com/track/95112364",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/2/0/222aafbb6a0581b95bea5dc78b05e0ea.mp3?hdnea=exp=1795718237~acl=/api/1/1/2/2/2/0/222aafbb6a0581b95bea5dc78b05e0ea.mp3*~data=user_id=0,application_id=42~hmac=8c97db1c6b7f765afc09df91401df9d82f52eb6d7a545d739d72112197bdd0e7",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Varkala",
+            "length": "3:24",
+            "deezer": {
+              "id": 95112366,
+              "link": "https://www.deezer.com/track/95112366",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/8/0/498e6903977860cacf47341078ca98a5.mp3?hdnea=exp=1795718237~acl=/api/1/1/4/9/8/0/498e6903977860cacf47341078ca98a5.mp3*~data=user_id=0,application_id=42~hmac=739b0b0e00c5f798d4477d6a1327d484c06c0197f8e3995610ed7f72234f04b2",
+              "preview_expires": "2026-11-26T18:37:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Maribou State/Portraits.png"
+}

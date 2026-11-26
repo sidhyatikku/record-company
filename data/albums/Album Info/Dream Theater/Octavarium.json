@@ -1,0 +1,150 @@
+{
+  "title": "Octavarium",
+  "artist": "Dream Theater",
+  "year": 2005,
+  "release_date": "2005-06-06",
+  "type": "Album",
+  "description": "Octavarium is the eighth studio album by American progressive metal band Dream Theater. Released on June 7, 2005, it was the band's final release with Atlantic Records. Recorded between September 2004 and February 2005, it was the last album recorded at The Hit Factory in New York City. With it, the band decided to create \"a classic Dream Theater album\", drawing upon their various stylistic influences while trying to make the music less complex. The album takes its creative concept from the musical octave.",
+  "genres": [
+    "progressive metal",
+    "heavy metal",
+    "progressive rock",
+    "rock",
+    "art rock"
+  ],
+  "tags": [
+    "progressive metal",
+    "heavy metal",
+    "progressive rock",
+    "prog rock",
+    "rock",
+    "00s",
+    "art rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 17
+  },
+  "musicbrainz_annotation": "Trivia: Octavarium was the last album to be recorded in The Hit Factory (New York) before this famous recording studio - which has seen artists like John Lennon, Michael Jackson, Bruce Springsteen, Stevie Wonder, Madonna, U2, The Rolling Stones and many more - finally closed its doors.\r\n\r\nAlso: the album should have been called Octave first, but [http://musicbrainz.org/artist/9e57e406-4fb1-40d0-bcd2-2aa1d6390c1d.html|Spock's Beard] released their album [http://musicbrainz.org/album/36f6b246-fd03-4d91-b5ad-db4388c95c57.html|Octane] earlier in 2005.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5a52d5f9-9173-3d88-bc27-569e333f9207",
+    "wikipedia": "https://en.wikipedia.org/wiki/Octavarium",
+    "allmusic": "https://www.allmusic.com/album/mw0000141762",
+    "discogs": "https://www.discogs.com/master/160122",
+    "wikidata": "https://www.wikidata.org/wiki/Q519249",
+    "deezer": "https://www.deezer.com/album/257950"
+  },
+  "musicbrainz_id": "5a52d5f9-9173-3d88-bc27-569e333f9207",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/581145f4-32fc-43bd-98d1-70e3de748ef8",
+      "barcode": "075678379369",
+      "title": "Octavarium",
+      "disambiguation": null,
+      "date": "2005-06-07",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "1:15:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Root of All Evil",
+            "length": "8:27",
+            "deezer": {
+              "id": 2659730,
+              "link": "https://www.deezer.com/track/2659730",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/8/0/ec84d16fe39b9e165a993c97c700376c.mp3?hdnea=exp=1795653677~acl=/api/1/1/e/c/8/0/ec84d16fe39b9e165a993c97c700376c.mp3*~data=user_id=0,application_id=42~hmac=69a77b2dd19600ec0efb097be73a2f9db1eb0213aad380ba8a293eb05a4f4f59",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Answer Lies Within",
+            "length": "5:32",
+            "deezer": {
+              "id": 2659731,
+              "link": "https://www.deezer.com/track/2659731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/4/0/e44386c170ddee64a6c72fd01454a291.mp3?hdnea=exp=1795653677~acl=/api/1/1/e/4/4/0/e44386c170ddee64a6c72fd01454a291.mp3*~data=user_id=0,application_id=42~hmac=a7ca856feda891b6207fd1e0d4a2f27ddcff5513fedc280f0c762dc5e2438c18",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "These Walls",
+            "length": "7:36",
+            "deezer": {
+              "id": 2659732,
+              "link": "https://www.deezer.com/track/2659732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/e/0/65e67fdb2a9da0334cc540caca824456.mp3?hdnea=exp=1795653677~acl=/api/1/1/6/5/e/0/65e67fdb2a9da0334cc540caca824456.mp3*~data=user_id=0,application_id=42~hmac=a49fdb2fb5edb0ba0596ea535d7d995d763ba8926e8e06159c1a614db90384ec",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Walk Beside You",
+            "length": "4:29",
+            "deezer": {
+              "id": 2659733,
+              "link": "https://www.deezer.com/track/2659733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/3/0/fa325e16a8cc29c633fafacfffce6f32.mp3?hdnea=exp=1795653677~acl=/api/1/1/f/a/3/0/fa325e16a8cc29c633fafacfffce6f32.mp3*~data=user_id=0,application_id=42~hmac=bc4de4ac3aa11981bb2c8a4af0c58a2a938cee25568dac8136b642c92c824f3d",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Panic Attack",
+            "length": "8:13",
+            "deezer": {
+              "id": 2659734,
+              "link": "https://www.deezer.com/track/2659734",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/1/0/5a164d7e4eff7ba2286bdba5c71e4f84.mp3?hdnea=exp=1795653677~acl=/api/1/1/5/a/1/0/5a164d7e4eff7ba2286bdba5c71e4f84.mp3*~data=user_id=0,application_id=42~hmac=2ab0b55da21291066341606bc5912de8c5ad2e6a69a3763fc43d0d5414f1dd03",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Never Enough",
+            "length": "6:46",
+            "deezer": {
+              "id": 2659735,
+              "link": "https://www.deezer.com/track/2659735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/a/0/86a32ce735033a31041ce94ced5e7718.mp3?hdnea=exp=1795653677~acl=/api/1/1/8/6/a/0/86a32ce735033a31041ce94ced5e7718.mp3*~data=user_id=0,application_id=42~hmac=92261948f2a4c62aa836ee4dbdd703e5f403c589c5dd0c4b784b2376aa7fcbda",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Sacrificed Sons",
+            "length": "10:45",
+            "deezer": {
+              "id": 2659736,
+              "link": "https://www.deezer.com/track/2659736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/f/0/00f68e8ac4dc44f3da52e5ffd85e1b44.mp3?hdnea=exp=1795653677~acl=/api/1/1/0/0/f/0/00f68e8ac4dc44f3da52e5ffd85e1b44.mp3*~data=user_id=0,application_id=42~hmac=b201c26be8482896408d6409eb1c7b10f4173570f8e582700467442946ec284f",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Octavarium",
+            "length": "23:59",
+            "deezer": {
+              "id": 2659737,
+              "link": "https://www.deezer.com/track/2659737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/9/0/679582c51fc8888fa33f865391c78c26.mp3?hdnea=exp=1795653677~acl=/api/1/1/6/7/9/0/679582c51fc8888fa33f865391c78c26.mp3*~data=user_id=0,application_id=42~hmac=f2fc75736e1b19ae3e720a710cf207a276c1b1cbfc9a5e73decd6823d691e1d7",
+              "preview_expires": "2026-11-26T00:41:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dream Theater/Octavarium.jpg"
+}

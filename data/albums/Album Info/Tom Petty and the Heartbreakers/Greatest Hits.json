@@ -1,0 +1,266 @@
+{
+  "title": "Greatest Hits",
+  "artist": "Tom Petty and the Heartbreakers",
+  "year": 1993,
+  "release_date": "1993-11-01",
+  "type": "Album + Compilation",
+  "description": "Greatest Hits is a compilation album by Tom Petty and the Heartbreakers, released on November 16, 1993. It is Petty's best-selling album to date and was certified 12× Platinum by the RIAA on April 28, 2015. The single \"Mary Jane's Last Dance\", one of two previously unreleased tracks on the album, became one of Petty's most popular songs, reaching No. 14 on the Billboard Hot 100 and No. 1 on the Billboard Mainstream Rock Tracks chart. The other new song on the album is a cover of the Thunderclap Newman hit \"Something in the Air\", which reached No. 19 on the Billboard Mainstream Rock Tracks chart. The album contains no songs from 1987's Let Me Up . However, three songs from Petty's 1989 solo album Full Moon Fever, along with four tracks from 1979's Damn the Torpedoes were included.",
+  "genres": [
+    "rock",
+    "heartland rock",
+    "pop rock",
+    "rock and roll",
+    "soft rock",
+    "southern rock"
+  ],
+  "tags": [
+    "rock",
+    "heartland rock",
+    "pop rock",
+    "rock & roll",
+    "rock and roll",
+    "soft rock",
+    "adult alternative pop/rock",
+    "album rock",
+    "contemporary pop/rock",
+    "southern rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/cb29784b-db64-3cce-b269-ce711862ca3a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greatest_Hits_(Tom_Petty_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000621735",
+    "discogs": "https://www.discogs.com/master/74337",
+    "wikidata": "https://www.wikidata.org/wiki/Q1754937",
+    "deezer": "https://www.deezer.com/album/79085832"
+  },
+  "musicbrainz_id": "cb29784b-db64-3cce-b269-ce711862ca3a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0bb1a39c-c181-42b2-ae88-93e4f183ef7f",
+      "barcode": "00602577174421",
+      "title": "Greatest Hits",
+      "disambiguation": null,
+      "date": "2018-11-23",
+      "country": "XW"
+    },
+    "total_tracks": 18,
+    "total_length": "1:05:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "American Girl",
+            "length": "3:30",
+            "deezer": {
+              "id": 588236252,
+              "link": "https://www.deezer.com/track/588236252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/8/0/0884cb5ee863802f84807213062a34e5.mp3?hdnea=exp=1795721948~acl=/api/1/1/0/8/8/0/0884cb5ee863802f84807213062a34e5.mp3*~data=user_id=0,application_id=42~hmac=4111ad1e664256050ed1ff71e7ca4dce1819c1237c4230ebb2021d15d7a80fd3",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Breakdown",
+            "length": "2:41",
+            "deezer": {
+              "id": 588236262,
+              "link": "https://www.deezer.com/track/588236262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/2/0/1c2e49615d9e2f7494fc1505448f7443.mp3?hdnea=exp=1795721948~acl=/api/1/1/1/c/2/0/1c2e49615d9e2f7494fc1505448f7443.mp3*~data=user_id=0,application_id=42~hmac=737e76fe47b89d4bf6e4252cab49b3ee499f3a91dc196cb2c0ea75fa1c50602f",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Listen to Her Heart",
+            "length": "3:03",
+            "deezer": {
+              "id": 588236272,
+              "link": "https://www.deezer.com/track/588236272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/b/0/0fb354c415bf739db4755c0731b0e126.mp3?hdnea=exp=1795721948~acl=/api/1/1/0/f/b/0/0fb354c415bf739db4755c0731b0e126.mp3*~data=user_id=0,application_id=42~hmac=bca9d77cfe211ca656152ceb5597aac5c13c2a8f2c6936d78365d94e29f298f4",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Need to Know",
+            "length": "2:22",
+            "deezer": {
+              "id": 588236282,
+              "link": "https://www.deezer.com/track/588236282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/e/0/f3e165ea3eb8d55fcec71082044588c6.mp3?hdnea=exp=1795721948~acl=/api/1/1/f/3/e/0/f3e165ea3eb8d55fcec71082044588c6.mp3*~data=user_id=0,application_id=42~hmac=32f36eb260a95f5ad35ed458d08140179671fcecd19af65c28675a9f0edee6f5",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Refugee",
+            "length": "3:22",
+            "deezer": {
+              "id": 588236292,
+              "link": "https://www.deezer.com/track/588236292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/8/0/ea830c3f8a5ede5d3f8b39a68f212aaf.mp3?hdnea=exp=1795721948~acl=/api/1/1/e/a/8/0/ea830c3f8a5ede5d3f8b39a68f212aaf.mp3*~data=user_id=0,application_id=42~hmac=bdf83db540b2f0a7d29909246484664ab411ec1987bbbb72e5ff3349f7330dac",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Don’t Do Me Like That",
+            "length": "2:42",
+            "deezer": {
+              "id": 588236302,
+              "link": "https://www.deezer.com/track/588236302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/f/0/1afdeac9777bf5ac6670edefb34f0392.mp3?hdnea=exp=1795721948~acl=/api/1/1/1/a/f/0/1afdeac9777bf5ac6670edefb34f0392.mp3*~data=user_id=0,application_id=42~hmac=b941b56b94d42e4432912b6294066f4447603f359a3a1b8e4babfc00a5f9be9b",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Even the Losers",
+            "length": "3:39",
+            "deezer": {
+              "id": 588236312,
+              "link": "https://www.deezer.com/track/588236312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/2/0/5123956374677b6c32ae18d0bab124f4.mp3?hdnea=exp=1795721948~acl=/api/1/1/5/1/2/0/5123956374677b6c32ae18d0bab124f4.mp3*~data=user_id=0,application_id=42~hmac=63ef27000f01f3ed316ecd7c82fd5fa32caba8b35ffee07c2d49598299da9784",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Here Comes My Girl",
+            "length": "4:24",
+            "deezer": {
+              "id": 588236322,
+              "link": "https://www.deezer.com/track/588236322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/2/0/c52c5483e23649c36df1128285b727d2.mp3?hdnea=exp=1795721948~acl=/api/1/1/c/5/2/0/c52c5483e23649c36df1128285b727d2.mp3*~data=user_id=0,application_id=42~hmac=9ba1589ad72b44de955d763e77bd56eb8b587e70a4832ea9d224c0e2a2d9fb5d",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Waiting",
+            "length": "3:59",
+            "deezer": {
+              "id": 588236332,
+              "link": "https://www.deezer.com/track/588236332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/2/0/9e2e5616078d19d6ef4afa83685b665e.mp3?hdnea=exp=1795721948~acl=/api/1/1/9/e/2/0/9e2e5616078d19d6ef4afa83685b665e.mp3*~data=user_id=0,application_id=42~hmac=beb70de49434a7e3780cda8ec551f84d36460252316b435a694ea188d46edc52",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "You Got Lucky",
+            "length": "3:35",
+            "deezer": {
+              "id": 588236342,
+              "link": "https://www.deezer.com/track/588236342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f178438bbd4cf16faf8f46d512f17c.mp3?hdnea=exp=1795721948~acl=/api/1/1/e/2/f/0/e2f178438bbd4cf16faf8f46d512f17c.mp3*~data=user_id=0,application_id=42~hmac=a8b160570e98f71d290608a86b3128d2e91c09f7b58332918a588098b59a8145",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Don’t Come Around Here No More",
+            "length": "5:04",
+            "deezer": {
+              "id": 588236352,
+              "link": "https://www.deezer.com/track/588236352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/b/0/46b8291b55390ab2c0221d2fccd86dcb.mp3?hdnea=exp=1795721948~acl=/api/1/1/4/6/b/0/46b8291b55390ab2c0221d2fccd86dcb.mp3*~data=user_id=0,application_id=42~hmac=22baaa7a7d0335daedc40579b718740d10661bb7503f7ca12a0f1a0bc3d8e8e0",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I Won’t Back Down",
+            "length": "2:55",
+            "artist": "Tom Petty",
+            "deezer": {
+              "id": 588236362,
+              "link": "https://www.deezer.com/track/588236362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/5/0/695cd8c77ed0cc1965aaee726ce91fe4.mp3?hdnea=exp=1795721948~acl=/api/1/1/6/9/5/0/695cd8c77ed0cc1965aaee726ce91fe4.mp3*~data=user_id=0,application_id=42~hmac=519628578171511da27dc0b926182b7746ab02e3d6e071c49d26d7656910cb5d",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Runnin’ Down a Dream",
+            "length": "4:23",
+            "artist": "Tom Petty",
+            "deezer": {
+              "id": 588236372,
+              "link": "https://www.deezer.com/track/588236372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/f/0/a0f01df7cee25358cb654928c4edf69d.mp3?hdnea=exp=1795721948~acl=/api/1/1/a/0/f/0/a0f01df7cee25358cb654928c4edf69d.mp3*~data=user_id=0,application_id=42~hmac=827eb7af1cf5b77a6c67c1b47147bba1964d6710cb121fb04c72f6c14f2bb11d",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Free Fallin’",
+            "length": "4:16",
+            "artist": "Tom Petty",
+            "deezer": {
+              "id": 588236382,
+              "link": "https://www.deezer.com/track/588236382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/4/0/b54c045fd70d614112ec2e97425d4338.mp3?hdnea=exp=1795721948~acl=/api/1/1/b/5/4/0/b54c045fd70d614112ec2e97425d4338.mp3*~data=user_id=0,application_id=42~hmac=b340ab8ac7a1adccb3b30944c4528f433e662f90ff1a4a9720e98c1e19a56fde",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Learning to Fly",
+            "length": "4:02",
+            "deezer": {
+              "id": 588236392,
+              "link": "https://www.deezer.com/track/588236392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/9/0/8a9b52dc1594cc283e101d341c1d94da.mp3?hdnea=exp=1795721948~acl=/api/1/1/8/a/9/0/8a9b52dc1594cc283e101d341c1d94da.mp3*~data=user_id=0,application_id=42~hmac=191e5d1817da0e9cdf96540097a5076c42e55b981798d3a388ed7483c6e1c837",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Into the Great Wide Open",
+            "length": "3:42",
+            "deezer": {
+              "id": 588236402,
+              "link": "https://www.deezer.com/track/588236402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/3/0/063c6b503bffaecbb34ffc2ba4a9386c.mp3?hdnea=exp=1795721948~acl=/api/1/1/0/6/3/0/063c6b503bffaecbb34ffc2ba4a9386c.mp3*~data=user_id=0,application_id=42~hmac=343334552f00750a03f293c0852030dcabe770b9ff3946ff3efafa30509a2edf",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Mary Jane’s Last Dance",
+            "length": "4:34",
+            "deezer": {
+              "id": 588236412,
+              "link": "https://www.deezer.com/track/588236412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/6/0/61610be60e48ccca2b292d219c9d2186.mp3?hdnea=exp=1795721948~acl=/api/1/1/6/1/6/0/61610be60e48ccca2b292d219c9d2186.mp3*~data=user_id=0,application_id=42~hmac=ff50324128f578bd7b90624475a407a03a16dd73057fb98cb931a22d457a2bfc",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Something in the Air",
+            "length": "3:17",
+            "deezer": {
+              "id": 588236422,
+              "link": "https://www.deezer.com/track/588236422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/5/0/de52c8ba290d3acef88af4899407685e.mp3?hdnea=exp=1795721948~acl=/api/1/1/d/e/5/0/de52c8ba290d3acef88af4899407685e.mp3*~data=user_id=0,application_id=42~hmac=ebc09eab651df4f0940d074fecbe99974c2de135a3854bbe9d32d121fbc5ce05",
+              "preview_expires": "2026-11-26T19:39:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Tom Petty and the Heartbreakers/Greatest Hits.jpg"
+}

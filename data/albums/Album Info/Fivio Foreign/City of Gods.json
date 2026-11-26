@@ -1,0 +1,61 @@
+{
+  "title": "City of Gods",
+  "artist": "Fivio Foreign, Kanye West & Alicia Keys",
+  "year": 2022,
+  "release_date": "2022-02-11",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "drill",
+    "hip hop"
+  ],
+  "tags": [
+    "drill",
+    "hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1aa0a4c5-f830-46c6-a8bf-e966cb2b1964",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/294824962"
+  },
+  "musicbrainz_id": "1aa0a4c5-f830-46c6-a8bf-e966cb2b1964",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dc629514-718c-47da-a1bc-4d552bf7dbb4",
+      "barcode": "886449898480",
+      "title": "City of Gods",
+      "disambiguation": null,
+      "date": "2022-02-11",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "4:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "City of Gods",
+            "length": "4:16",
+            "deezer": {
+              "id": 1652438572,
+              "link": "https://www.deezer.com/track/1652438572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/e/0/51e299d9ad931d1c6f29304aaac2f5fe.mp3?hdnea=exp=1795654230~acl=/api/1/1/5/1/e/0/51e299d9ad931d1c6f29304aaac2f5fe.mp3*~data=user_id=0,application_id=42~hmac=0e930ae549fd78231a1ce833890dab48be5a7c0918624f6944a58bb3ec74e551",
+              "preview_expires": "2026-11-26T00:50:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Fivio Foreign/City of Gods.jpg"
+}

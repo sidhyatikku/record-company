@@ -1,0 +1,306 @@
+{
+  "title": "The Eminem Show",
+  "artist": "Eminem",
+  "year": 2002,
+  "release_date": "2002-05-27",
+  "type": "Album",
+  "description": "The Eminem Show is the fourth studio album by the American rapper Eminem, released on May 26, 2002, through Shady Records, Goliath Artists, Aftermath Entertainment, WEB Entertainment, and Interscope Records. Eminem produced most of the album himself, with additional production by Dr. Dre, Jeff Bass, and Mr. Porter. While Eminem's previous two albums explored the frustration of life among America's underclass, The Eminem Show marked a drastic thematic shift. Guest appearances include Obie Trice, Paul Rosenberg, D12, Dr. Dre, Nate Dogg, Dina Rae and Eminem's daughter, Hailie Jade.",
+  "genres": [
+    "hip hop",
+    "hardcore hip hop",
+    "political hip hop",
+    "pop rap",
+    "conscious hip hop"
+  ],
+  "tags": [
+    "hip hop",
+    "hardcore hip hop",
+    "detroit hip-hop",
+    "political hip hop",
+    "pop rap",
+    "conscious hip hop",
+    "hardcore rap",
+    "hateful",
+    "hip-hop / rap",
+    "humorous",
+    "introspective",
+    "jahrescharts 2024",
+    "midwestern hip hop",
+    "midwestern rap",
+    "misanthropic",
+    "nocturnal",
+    "passionate",
+    "political",
+    "rap",
+    "rap/hip hop",
+    "rhythmic",
+    "sampling",
+    "sarcastic",
+    "sexual",
+    "violence",
+    "vulgar"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 28
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e9585ed4-d148-3711-bbee-55a97b58325a",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Eminem_Show",
+    "allmusic": "https://www.allmusic.com/album/mw0000140333",
+    "discogs": "https://www.discogs.com/master/12344",
+    "wikidata": "https://www.wikidata.org/wiki/Q155339",
+    "deezer": "https://www.deezer.com/album/103248"
+  },
+  "musicbrainz_id": "e9585ed4-d148-3711-bbee-55a97b58325a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5c3da192-e366-4b55-8174-85e20f900dbb",
+      "barcode": "606949329020",
+      "title": "The Eminem Show",
+      "disambiguation": "explicit",
+      "date": "2002-05-28",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "1:17:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Curtains Up (skit)",
+            "length": "0:30",
+            "deezer": {
+              "id": 916409,
+              "link": "https://www.deezer.com/track/916409",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/5/0/f956ce61701fce59710294cc492fc3ba.mp3?hdnea=exp=1795653912~acl=/api/1/1/f/9/5/0/f956ce61701fce59710294cc492fc3ba.mp3*~data=user_id=0,application_id=42~hmac=fb128b88d58b2e2d083a07053c2fdbf12a2fc3b603202ab067a1fb7f43e330a0",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "White America",
+            "length": "5:25",
+            "deezer": {
+              "id": 916412,
+              "link": "https://www.deezer.com/track/916412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/2/0/982f6f3564918d90bb383648acac3ea5.mp3?hdnea=exp=1795653912~acl=/api/1/1/9/8/2/0/982f6f3564918d90bb383648acac3ea5.mp3*~data=user_id=0,application_id=42~hmac=9defb8f02643501a5147acd3bb175534e7026a741b75fc35f7228dcb49a384ad",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Business",
+            "length": "4:12",
+            "deezer": {
+              "id": 916413,
+              "link": "https://www.deezer.com/track/916413",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/3/0/363483b1ecd728bc3871251ed215573d.mp3?hdnea=exp=1795653912~acl=/api/1/1/3/6/3/0/363483b1ecd728bc3871251ed215573d.mp3*~data=user_id=0,application_id=42~hmac=d0b267bf7e6c5e6455d12a34b8f79773374376b1f4e8d884f095499437eb49b4",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Cleanin’ Out My Closet",
+            "length": "4:58",
+            "deezer": {
+              "id": 916414,
+              "link": "https://www.deezer.com/track/916414",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/0/0/b206ffb6c0228197b7c348a3d1b23907.mp3?hdnea=exp=1795653912~acl=/api/1/1/b/2/0/0/b206ffb6c0228197b7c348a3d1b23907.mp3*~data=user_id=0,application_id=42~hmac=762544125c1ad8d1af6946f49c1326dc1163897a2c1ff23a559c7fd1bcec6bda",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Square Dance",
+            "length": "5:24",
+            "deezer": {
+              "id": 916416,
+              "link": "https://www.deezer.com/track/916416",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/4/0/ff4a0188efb150fb327d4514f79f8f05.mp3?hdnea=exp=1795653912~acl=/api/1/1/f/f/4/0/ff4a0188efb150fb327d4514f79f8f05.mp3*~data=user_id=0,application_id=42~hmac=bb91b98028555c3d626463c2295837b8be6f8011d3c729a0eb5b8b362bd0b7c5",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Kiss (skit)",
+            "length": "1:16",
+            "deezer": {
+              "id": 916418,
+              "link": "https://www.deezer.com/track/916418",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/8/0/d38fa7c1ad5ccf289f2a5017163b6d46.mp3?hdnea=exp=1795653912~acl=/api/1/1/d/3/8/0/d38fa7c1ad5ccf289f2a5017163b6d46.mp3*~data=user_id=0,application_id=42~hmac=f0e6b45c6d8ab68515c42229d5edf8ad479cb7906242377ac0c383a1187b2e30",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Soldier",
+            "length": "3:46",
+            "deezer": {
+              "id": 916419,
+              "link": "https://www.deezer.com/track/916419",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/d/0/a5da2b4e5fa628a1740a2434a1b05c24.mp3?hdnea=exp=1795653912~acl=/api/1/1/a/5/d/0/a5da2b4e5fa628a1740a2434a1b05c24.mp3*~data=user_id=0,application_id=42~hmac=24b81a13033a17f48c4991749b739bb181de244638d21fc2bc154249cb9aad11",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Say Goodbye Hollywood",
+            "length": "4:33",
+            "deezer": {
+              "id": 916420,
+              "link": "https://www.deezer.com/track/916420",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/8/0/28890692307c700c49df7b60087b69de.mp3?hdnea=exp=1795653912~acl=/api/1/1/2/8/8/0/28890692307c700c49df7b60087b69de.mp3*~data=user_id=0,application_id=42~hmac=ae7aa264d956f68624b3db84d50586723539ba070bd2c19269a88f2dd73c790a",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Drips",
+            "length": "4:46",
+            "artist": "Eminem feat. Obie Trice",
+            "deezer": {
+              "id": 916422,
+              "link": "https://www.deezer.com/track/916422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/b/0/0cba26803e59863bae0e8643713d4d91.mp3?hdnea=exp=1795653912~acl=/api/1/1/0/c/b/0/0cba26803e59863bae0e8643713d4d91.mp3*~data=user_id=0,application_id=42~hmac=cc9f02dfc3334315847bc5779833d6bdee663d059fa2c9966d9cafdf3a3bec36",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Without Me",
+            "length": "4:50",
+            "deezer": {
+              "id": 916424,
+              "link": "https://www.deezer.com/track/916424",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3?hdnea=exp=1795653912~acl=/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3*~data=user_id=0,application_id=42~hmac=ab55ac36fc10d087b27e9ba01627789f26703b7a67e484fc146445c0f86211fd",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Paul Rosenberg (skit)",
+            "length": "0:23",
+            "deezer": {
+              "id": 916425,
+              "link": "https://www.deezer.com/track/916425",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/3/0/bb33f95bff7ec6999e0f2a0bba32cf9d.mp3?hdnea=exp=1795653912~acl=/api/1/1/b/b/3/0/bb33f95bff7ec6999e0f2a0bba32cf9d.mp3*~data=user_id=0,application_id=42~hmac=f6fa34cde9ce51655cf8fe9088b77b7819c06a50989e7e9a7204d53b88e7028f",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Sing for the Moment",
+            "length": "5:40",
+            "deezer": {
+              "id": 916426,
+              "link": "https://www.deezer.com/track/916426",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/2/0/a225f296d9b919ddfa1f9e6fe2c1e90d.mp3?hdnea=exp=1795653912~acl=/api/1/1/a/2/2/0/a225f296d9b919ddfa1f9e6fe2c1e90d.mp3*~data=user_id=0,application_id=42~hmac=55cc4065a1478463e78c103d009a1e2b854c53f6bbf3fb503eca6bf42547ebfe",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Superman",
+            "length": "5:50",
+            "artist": "Eminem feat. Dina Rae",
+            "deezer": {
+              "id": 916427,
+              "link": "https://www.deezer.com/track/916427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/e/0/9ae7b301a2467f1d505c6382a8da1e29.mp3?hdnea=exp=1795653912~acl=/api/1/1/9/a/e/0/9ae7b301a2467f1d505c6382a8da1e29.mp3*~data=user_id=0,application_id=42~hmac=9ecbc97b9cc779a6ff88cd9db6dceab721f364f6583acb16a32e7cb25595de7a",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Hailie’s Song",
+            "length": "5:21",
+            "deezer": {
+              "id": 916436,
+              "link": "https://www.deezer.com/track/916436",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/2/0/bf2148af169036f90e37aba01346ed98.mp3?hdnea=exp=1795653912~acl=/api/1/1/b/f/2/0/bf2148af169036f90e37aba01346ed98.mp3*~data=user_id=0,application_id=42~hmac=347169477faaaf5acc7cb4887e6d60ededa122990f1421bb11eff1eafdb3ec74",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Steve Berman (skit)",
+            "length": "0:33",
+            "deezer": {
+              "id": 916437,
+              "link": "https://www.deezer.com/track/916437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/6/0/776c0b32ebc0a70904b94cd0e9c4b12d.mp3?hdnea=exp=1795653912~acl=/api/1/1/7/7/6/0/776c0b32ebc0a70904b94cd0e9c4b12d.mp3*~data=user_id=0,application_id=42~hmac=c9540bcda61fe96eaf4a8ff13f7d3359018925ff8f1a74f731474fde94fd63af",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "When the Music Stops",
+            "length": "4:29",
+            "artist": "Eminem feat. D12",
+            "deezer": {
+              "id": 916442,
+              "link": "https://www.deezer.com/track/916442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f3cb4b93fd755890aadd9a63b0f3d3c.mp3?hdnea=exp=1795653912~acl=/api/1/1/6/f/3/0/6f3cb4b93fd755890aadd9a63b0f3d3c.mp3*~data=user_id=0,application_id=42~hmac=5cfe9356f6dc2df1f708e330b244e099b8c4897da5121c6c7e1e20ca33048dda",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Say What You Say",
+            "length": "5:10",
+            "artist": "Eminem feat. Dr. Dre",
+            "deezer": {
+              "id": 916444,
+              "link": "https://www.deezer.com/track/916444",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/9/0/3f9ee00ce105750e368c68c524c53f78.mp3?hdnea=exp=1795653912~acl=/api/1/1/3/f/9/0/3f9ee00ce105750e368c68c524c53f78.mp3*~data=user_id=0,application_id=42~hmac=c9ee1fd2eafd88226d69de493f6bda577462e46be8f774164c461e4eb93b9ea8",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Till I Collapse",
+            "length": "4:58",
+            "artist": "Eminem feat. Nate Dogg",
+            "deezer": {
+              "id": 916445,
+              "link": "https://www.deezer.com/track/916445",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/6/0/846995adc7246b0d3a90d6c3281a298a.mp3?hdnea=exp=1795653912~acl=/api/1/1/8/4/6/0/846995adc7246b0d3a90d6c3281a298a.mp3*~data=user_id=0,application_id=42~hmac=5cae7dd07297a8b6fed14f3c1c1457844abc70ee5c69d6ceaa04cd7960896bef",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "My Dad’s Gone Crazy",
+            "length": "4:27",
+            "artist": "Eminem feat. Hailie Jade",
+            "deezer": {
+              "id": 916447,
+              "link": "https://www.deezer.com/track/916447",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/4/0/b343716966f2681503a9eb7f8d88abc8.mp3?hdnea=exp=1795653912~acl=/api/1/1/b/3/4/0/b343716966f2681503a9eb7f8d88abc8.mp3*~data=user_id=0,application_id=42~hmac=aa00bc2ce57d712c226e3f41cf51c7484aef562cabaf520bf920941c0c3dc7f0",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Curtains Close (skit)",
+            "length": "1:03",
+            "deezer": {
+              "id": 916448,
+              "link": "https://www.deezer.com/track/916448",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/f/0/d2f832396d6811dce8cd1a6db1ccf74b.mp3?hdnea=exp=1795653912~acl=/api/1/1/d/2/f/0/d2f832396d6811dce8cd1a6db1ccf74b.mp3*~data=user_id=0,application_id=42~hmac=015641dd050463f98799e24b19e9a145368cf6c72ee2cd908a5015e568f854c0",
+              "preview_expires": "2026-11-26T00:45:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eminem/The Eminem Show.jpg"
+}

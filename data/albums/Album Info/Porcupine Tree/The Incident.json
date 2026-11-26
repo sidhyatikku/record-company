@@ -1,0 +1,265 @@
+{
+  "title": "The Incident",
+  "artist": "Porcupine Tree",
+  "year": 2009,
+  "release_date": "2009-09-11",
+  "type": "Album",
+  "description": "The Incident is the tenth studio album by British progressive rock band Porcupine Tree. It was released as a double album on 14 September 2009 by Roadrunner Records. The record was nominated for a Grammy Award for Best Surround Sound Album and reached the top 25 on both the US and UK albums charts. It was Porcupine Tree's last album before their extended hiatus, which lasted until 2021, as well as the last to feature bassist Colin Edwin.",
+  "genres": [
+    "progressive rock",
+    "art rock",
+    "post-rock",
+    "rock"
+  ],
+  "tags": [
+    "progressive rock",
+    "art rock",
+    "post-rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6f6c4a2f-7675-4680-89cc-091fc42193e9",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Incident_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000822884",
+    "discogs": "https://www.discogs.com/master/169518",
+    "wikidata": "https://www.wikidata.org/wiki/Q1974157",
+    "deezer": "https://www.deezer.com/album/173839142"
+  },
+  "musicbrainz_id": "6f6c4a2f-7675-4680-89cc-091fc42193e9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/3e135e55-5a27-4a3a-9c1b-58fae381f683",
+      "barcode": null,
+      "title": "The Incident",
+      "disambiguation": null,
+      "date": "2009-09-11",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "1:31:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Occam’s Razor",
+            "length": "1:58",
+            "deezer": {
+              "id": 1082605432,
+              "link": "https://www.deezer.com/track/1082605432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/5/0/845b37921daf1b5d12ee9b971ccec56c.mp3?hdnea=exp=1795719647~acl=/api/1/1/8/4/5/0/845b37921daf1b5d12ee9b971ccec56c.mp3*~data=user_id=0,application_id=42~hmac=88611ed434a73b007c1ad74ee87d85b807bb55eeb3e5115f175b8604603afb83",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Blind House",
+            "length": "5:47",
+            "deezer": {
+              "id": 1082605452,
+              "link": "https://www.deezer.com/track/1082605452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/57152a03e3e9fe4d39eb26fd8e2bf878.mp3?hdnea=exp=1795719647~acl=/api/1/1/5/7/1/0/57152a03e3e9fe4d39eb26fd8e2bf878.mp3*~data=user_id=0,application_id=42~hmac=d782a07d2023a89a95c18321b0a7839af7b279461135f4ec98ca89e135635ed8",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Great Expectations",
+            "length": "1:26",
+            "deezer": {
+              "id": 1082605472,
+              "link": "https://www.deezer.com/track/1082605472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a980cf3f5929179d0cc5167f311465d.mp3?hdnea=exp=1795719647~acl=/api/1/1/4/a/9/0/4a980cf3f5929179d0cc5167f311465d.mp3*~data=user_id=0,application_id=42~hmac=3e0d7676a4fc0b74dba99ef1902752b0033b01af10c7174aefc53a91fa26b4c1",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Kneel and Disconnect",
+            "length": "2:03",
+            "deezer": {
+              "id": 1082605492,
+              "link": "https://www.deezer.com/track/1082605492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/1/0/4a1a365fcf22c9161db1ea57632f93bc.mp3?hdnea=exp=1795719647~acl=/api/1/1/4/a/1/0/4a1a365fcf22c9161db1ea57632f93bc.mp3*~data=user_id=0,application_id=42~hmac=c57d34c8ee4fd0c2c6d3fe3b3ac69c2a3f435ff30d02d582419b9848423a0e78",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Drawing the Line",
+            "length": "4:43",
+            "deezer": {
+              "id": 1082605512,
+              "link": "https://www.deezer.com/track/1082605512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/f/0/02f70c78bc6fb611fa746f37644204a9.mp3?hdnea=exp=1795719647~acl=/api/1/1/0/2/f/0/02f70c78bc6fb611fa746f37644204a9.mp3*~data=user_id=0,application_id=42~hmac=19bd868bcc6e57a13f76f13b8ba7b18caeb4cad54440f5ff284d30df1b40f88a",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Incident",
+            "length": "5:20",
+            "deezer": {
+              "id": 1082605532,
+              "link": "https://www.deezer.com/track/1082605532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/6/0/4d68031125b766cacdc48cdadc59f3e9.mp3?hdnea=exp=1795719647~acl=/api/1/1/4/d/6/0/4d68031125b766cacdc48cdadc59f3e9.mp3*~data=user_id=0,application_id=42~hmac=d5e46c8807d45f59898544b3805446ba7dc93aebb3730c0202824f8b68b1b126",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Your Unpleasant Family",
+            "length": "1:48",
+            "deezer": {
+              "id": 1082605542,
+              "link": "https://www.deezer.com/track/1082605542",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/2/0/772a23a2b51f08a6cbea19f0a9f3b4ea.mp3?hdnea=exp=1795719647~acl=/api/1/1/7/7/2/0/772a23a2b51f08a6cbea19f0a9f3b4ea.mp3*~data=user_id=0,application_id=42~hmac=a2ce048e26abe6ff50196d926c770d7606e5d2de842ab43b06afaa441a19035c",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Yellow Windows of the Evening Train",
+            "length": "2:00",
+            "deezer": {
+              "id": 1082605552,
+              "link": "https://www.deezer.com/track/1082605552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/7/0/68769c3429b319f1014d71c2d974c7f8.mp3?hdnea=exp=1795719647~acl=/api/1/1/6/8/7/0/68769c3429b319f1014d71c2d974c7f8.mp3*~data=user_id=0,application_id=42~hmac=7726441f618ab2ce81c88b5d1bdc06070ea97f900c50bb603632f3e56c4e7366",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Time Flies",
+            "length": "11:41",
+            "deezer": {
+              "id": 1082605562,
+              "link": "https://www.deezer.com/track/1082605562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/7/0/377f35bb9b053f375983699d89f83c18.mp3?hdnea=exp=1795719647~acl=/api/1/1/3/7/7/0/377f35bb9b053f375983699d89f83c18.mp3*~data=user_id=0,application_id=42~hmac=75fe6e363d1e580cfcc34b23457970819c9d83bf1da5843802c49ab21819fabc",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Degree Zero of Liberty",
+            "length": "1:45",
+            "deezer": {
+              "id": 1082605572,
+              "link": "https://www.deezer.com/track/1082605572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/6/0/3a60f6f5c96a4964309558854f190316.mp3?hdnea=exp=1795719647~acl=/api/1/1/3/a/6/0/3a60f6f5c96a4964309558854f190316.mp3*~data=user_id=0,application_id=42~hmac=5992e84863a4869310c9476b3e51973140fedefac0a597ab87f6369ed295e1a1",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Octane Twisted",
+            "length": "5:03",
+            "deezer": {
+              "id": 1082605582,
+              "link": "https://www.deezer.com/track/1082605582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/2/0/2320b40061196461fc75c66937064df0.mp3?hdnea=exp=1795719647~acl=/api/1/1/2/3/2/0/2320b40061196461fc75c66937064df0.mp3*~data=user_id=0,application_id=42~hmac=74a8910e5f3265148ff17af4c985eaee41339845189dad86a9964b28d8a8cbd3",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Séance",
+            "length": "2:39",
+            "deezer": {
+              "id": 1082605592,
+              "link": "https://www.deezer.com/track/1082605592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/0/0/000ef6782a3162fc5779dded2ef1f92a.mp3?hdnea=exp=1795719647~acl=/api/1/1/0/0/0/0/000ef6782a3162fc5779dded2ef1f92a.mp3*~data=user_id=0,application_id=42~hmac=9633b87fc805ab5d2d8d265b151fa0159de66aeebca205da51caad2b4bf95524",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Circle of Manias",
+            "length": "2:18",
+            "deezer": {
+              "id": 1082605602,
+              "link": "https://www.deezer.com/track/1082605602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/2/0/d02c401bd30e7b821b4774ef08efc586.mp3?hdnea=exp=1795719647~acl=/api/1/1/d/0/2/0/d02c401bd30e7b821b4774ef08efc586.mp3*~data=user_id=0,application_id=42~hmac=cb8226104fd7eac6ee8e90c297aa25b5e77ef627446d7b5e6dab2a677bb6288b",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "I Drive the Hearse",
+            "length": "6:45",
+            "deezer": {
+              "id": 1082605622,
+              "link": "https://www.deezer.com/track/1082605622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/6/0/f96400aa60086df0163d2a865c635199.mp3?hdnea=exp=1795719647~acl=/api/1/1/f/9/6/0/f96400aa60086df0163d2a865c635199.mp3*~data=user_id=0,application_id=42~hmac=7c1c6c3dfa9c0bdd4d8e17857fff79142c30b91d9162fba0e235182f21e33fca",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Flicker",
+            "length": "3:42",
+            "deezer": {
+              "id": 1082605632,
+              "link": "https://www.deezer.com/track/1082605632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/1/0/731d065b7639257f7c23e8700745af93.mp3?hdnea=exp=1795719647~acl=/api/1/1/7/3/1/0/731d065b7639257f7c23e8700745af93.mp3*~data=user_id=0,application_id=42~hmac=bd3d93c85317ea819e97d6eaa71516934c89f0b54b55e1412f487b3c74992794",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Bonnie the Cat",
+            "length": "5:45",
+            "deezer": {
+              "id": 1082605642,
+              "link": "https://www.deezer.com/track/1082605642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/f/0/73fb54eea00e8dad4273be5c04621897.mp3?hdnea=exp=1795719647~acl=/api/1/1/7/3/f/0/73fb54eea00e8dad4273be5c04621897.mp3*~data=user_id=0,application_id=42~hmac=69e6f7911b4be5f10b2d1f11915011490341a163e21d08663b2586c6bee26421",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Black Dahlia",
+            "length": "3:40",
+            "deezer": {
+              "id": 1082605652,
+              "link": "https://www.deezer.com/track/1082605652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/2/0/df2ab824f74559377873fa69f2b9f7f7.mp3?hdnea=exp=1795719647~acl=/api/1/1/d/f/2/0/df2ab824f74559377873fa69f2b9f7f7.mp3*~data=user_id=0,application_id=42~hmac=3351e06d474063693597e2ee0b35343220a80be5f80e7d68423e68095269595d",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Remember Me Lover",
+            "length": "7:34",
+            "deezer": {
+              "id": 1082605662,
+              "link": "https://www.deezer.com/track/1082605662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/0/0/9c07197b37ea4cf1d92282d6a9e2f748.mp3?hdnea=exp=1795719647~acl=/api/1/1/9/c/0/0/9c07197b37ea4cf1d92282d6a9e2f748.mp3*~data=user_id=0,application_id=42~hmac=9a004ff25a9aecef07468d4507fc780be9cd9fbc8d3e5d2c6b96eaf9aa9ca671",
+              "preview_expires": "2026-11-26T19:00:47Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Way Out of Here (live in Tilburg)",
+            "length": "7:49"
+          },
+          {
+            "number": "20",
+            "title": "What Happens Now? (live in Tilburg)",
+            "length": "8:07"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Porcupine Tree/The Incident.jpg"
+}

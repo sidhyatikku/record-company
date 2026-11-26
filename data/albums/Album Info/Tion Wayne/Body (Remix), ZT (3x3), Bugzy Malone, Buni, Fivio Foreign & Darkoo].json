@@ -1,0 +1,52 @@
+{
+  "title": "Body (Remix)",
+  "artist": "Tion Wayne & Russ Millions feat. ArrDeeE1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo",
+  "year": 2021,
+  "release_date": "2021-04-22",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/247a71c3-0fcf-4074-9837-879d36b2a3e6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/224346092"
+  },
+  "musicbrainz_id": "247a71c3-0fcf-4074-9837-879d36b2a3e6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/470f0641-7ee7-4f12-8c71-894d8db39bfb",
+      "barcode": "190296692116",
+      "title": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
+      "disambiguation": null,
+      "date": "2021-04-22",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Body (remix)",
+            "length": "4:38",
+            "artist": "Tion Wayne X Russ Millions",
+            "deezer": {
+              "id": 1349571172,
+              "link": "https://www.deezer.com/track/1349571172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/0/0/700d399126b54e5707a5947acd5e8190.mp3?hdnea=exp=1795721903~acl=/api/1/1/7/0/0/0/700d399126b54e5707a5947acd5e8190.mp3*~data=user_id=0,application_id=42~hmac=fd84b45d193d0dc26d31bafa6773794e5aa4933b1b0990b555659e1522bfd9cf",
+              "preview_expires": "2026-11-26T19:38:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Tion Wayne/Body (Remix), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo].png"
+}

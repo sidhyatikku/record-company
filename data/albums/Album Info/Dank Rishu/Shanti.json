@@ -1,0 +1,51 @@
+{
+  "title": "Shanti",
+  "artist": "Dank Rishu",
+  "year": 2020,
+  "release_date": "2020-10-22",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi hip hop",
+    "desi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4eW9auPrQOqPJOoIEN42mb",
+    "deezer": "https://www.deezer.com/album/181296142"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4eW9auPrQOqPJOoIEN42mb",
+      "title": "Shanti",
+      "date": "2020-10-22"
+    },
+    "total_tracks": 1,
+    "total_length": "3:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Shanti",
+            "length": "3:12",
+            "artist": "Dank Rishu, Sammad, Karun, Kuns, Tarun",
+            "deezer": {
+              "id": 1117584832,
+              "link": "https://www.deezer.com/track/1117584832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/b/0/72b255ab0c008932a1b6f736f9a408af.mp3?hdnea=exp=1795653096~acl=/api/1/1/7/2/b/0/72b255ab0c008932a1b6f736f9a408af.mp3*~data=user_id=0,application_id=42~hmac=83c3372ff9937210bc2807f2c0fe15aa6af53b347157aadb8b11faa13a00c786",
+              "preview_expires": "2026-11-26T00:31:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Dank Rishu/Shanti.jpg"
+}

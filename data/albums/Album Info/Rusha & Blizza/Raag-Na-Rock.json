@@ -1,0 +1,57 @@
+{
+  "title": "Raag-Na-Rock",
+  "artist": "Rusha & Blizza, Asha Bhosle, Parvati Khan",
+  "year": 2023,
+  "release_date": "2023-03-23",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4iKu2f49hNPkl3c3K0kjD3",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4iKu2f49hNPkl3c3K0kjD3",
+      "title": "Raag-Na-Rock",
+      "date": "2023-03-23"
+    },
+    "total_tracks": 3,
+    "total_length": "8:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dum Maro Dum (Reprise)",
+            "length": "4:02",
+            "artist": "Rusha & Blizza, Asha Bhosle"
+          },
+          {
+            "number": "2",
+            "title": "Hungama (VIP)",
+            "length": "2:19",
+            "artist": "Rusha & Blizza, Asha Bhosle"
+          },
+          {
+            "number": "3",
+            "title": "Jimmy Jimmy (Reprise)",
+            "length": "2:30",
+            "artist": "Rusha & Blizza, Parvati Khan"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Rusha & Blizza/Raag-Na-Rock.jpg"
+}

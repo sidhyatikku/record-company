@@ -1,0 +1,241 @@
+{
+  "title": "Dookie",
+  "artist": "Green Day",
+  "year": 1994,
+  "release_date": "1994-01-28",
+  "type": "Album",
+  "description": "Dookie is the third studio album by the American rock band Green Day, released on February 1, 1994, by Reprise Records. The band's first collaboration with producer Rob Cavallo, it was recorded in 1993 at Fantasy Studios in Berkeley, California and Music Grinder Studio in Hollywood, California. Written mostly by the singer and guitarist Billie Joe Armstrong, the album is largely based on his personal experiences and includes themes such as boredom, anxiety, relationships, and sexuality. It was promoted with four singles: \"Longview\", \"Basket Case\", a re-recorded version of \"Welcome to Paradise\", and \"When I Come Around\".",
+  "genres": [
+    "pop punk",
+    "punk rock",
+    "punk",
+    "alternative rock",
+    "rock",
+    "alternative punk",
+    "skate punk"
+  ],
+  "tags": [
+    "pop punk",
+    "punk rock",
+    "punk",
+    "alternative rock",
+    "rock",
+    "alternative and punk",
+    "energetic",
+    "alternative punk",
+    "bittersweet",
+    "breakup",
+    "humorous",
+    "introspective",
+    "lgbt",
+    "melodic",
+    "playful",
+    "rebellious",
+    "sarcastic",
+    "skate punk",
+    "summer"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 33
+  },
+  "musicbrainz_annotation": "Someone knowledgeable please fix this (verify photos actually BELONG to that release, add disambiguations for similar releases, etc.)! It's kind of a mess right now.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/314cffd4-daa5-3337-85e5-e54165a96113",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dookie",
+    "allmusic": "https://www.allmusic.com/album/mw0000107965",
+    "discogs": "https://www.discogs.com/master/33170",
+    "wikidata": "https://www.wikidata.org/wiki/Q211292",
+    "deezer": "https://www.deezer.com/album/81912"
+  },
+  "musicbrainz_id": "314cffd4-daa5-3337-85e5-e54165a96113",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e45e5ed2-dae9-44b0-ae87-ab4a6252de75",
+      "barcode": "093624552963",
+      "title": "Dookie",
+      "disambiguation": null,
+      "date": "2012-09-26",
+      "country": null
+    },
+    "total_tracks": 15,
+    "total_length": "38:16",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Burnout",
+            "length": "2:07",
+            "deezer": {
+              "id": 678031,
+              "link": "https://www.deezer.com/track/678031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f7dabc23d9a7bb6264bb07e0434bfb8.mp3?hdnea=exp=1795654757~acl=/api/1/1/4/f/7/0/4f7dabc23d9a7bb6264bb07e0434bfb8.mp3*~data=user_id=0,application_id=42~hmac=c14da5c69d452e6a021a2e02bc2ccc1268170c2810ed127d2bee429496db6a43",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Having a Blast",
+            "length": "2:45",
+            "deezer": {
+              "id": 678033,
+              "link": "https://www.deezer.com/track/678033",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/4/0/37462e3682a1f66edecaccafd4c3d1e6.mp3?hdnea=exp=1795654757~acl=/api/1/1/3/7/4/0/37462e3682a1f66edecaccafd4c3d1e6.mp3*~data=user_id=0,application_id=42~hmac=392661589209ece77b67ae3176d4e51c4366e33a3eb660275fcbfb99c317bb32",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Chump",
+            "length": "2:54",
+            "deezer": {
+              "id": 678036,
+              "link": "https://www.deezer.com/track/678036",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/7/0/d77053928aa03c39833035d5c2c497f4.mp3?hdnea=exp=1795654757~acl=/api/1/1/d/7/7/0/d77053928aa03c39833035d5c2c497f4.mp3*~data=user_id=0,application_id=42~hmac=7e34b6e3beb0175a1ac15477450a39da87e89ee16ffe74c7f3d4f69502e12554",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Longview",
+            "length": "3:53",
+            "deezer": {
+              "id": 678038,
+              "link": "https://www.deezer.com/track/678038",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/3/0/27339cc1b5c577315640e61c7226b567.mp3?hdnea=exp=1795654757~acl=/api/1/1/2/7/3/0/27339cc1b5c577315640e61c7226b567.mp3*~data=user_id=0,application_id=42~hmac=6f84bfc621f7a71b34ef4787f3227648096cc61d1bf5df65e3d6101de1f465f6",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Welcome to Paradise",
+            "length": "3:44",
+            "deezer": {
+              "id": 678040,
+              "link": "https://www.deezer.com/track/678040",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/8/0/4e88a37bfd3dad90a0ffba5a09cae3cc.mp3?hdnea=exp=1795654757~acl=/api/1/1/4/e/8/0/4e88a37bfd3dad90a0ffba5a09cae3cc.mp3*~data=user_id=0,application_id=42~hmac=420a70d1763f0c1e0476ed21dec80cf99f858ff31b96ca4f36194a5e600d8716",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Pulling Teeth",
+            "length": "2:30",
+            "deezer": {
+              "id": 678042,
+              "link": "https://www.deezer.com/track/678042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/6/0/7c644e027fae656e437551f0322ca54e.mp3?hdnea=exp=1795654757~acl=/api/1/1/7/c/6/0/7c644e027fae656e437551f0322ca54e.mp3*~data=user_id=0,application_id=42~hmac=35ad24e4be31952ebfb32a7a679b7ddfb11fbfb62075ee9a0a1962219d1e8296",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Basket Case",
+            "length": "3:01",
+            "deezer": {
+              "id": 678044,
+              "link": "https://www.deezer.com/track/678044",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/0/0/5c0a8d19bf8ff24dee12334b5a4a69b8.mp3?hdnea=exp=1795654757~acl=/api/1/1/5/c/0/0/5c0a8d19bf8ff24dee12334b5a4a69b8.mp3*~data=user_id=0,application_id=42~hmac=07f71ff85589f0354bfa7fb203de52d8c87e814e20e380efad5b23f4da81f4b0",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "She",
+            "length": "2:14",
+            "deezer": {
+              "id": 678045,
+              "link": "https://www.deezer.com/track/678045",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/5/0/9354caf53bb3735a5983077677f5ef25.mp3?hdnea=exp=1795654757~acl=/api/1/1/9/3/5/0/9354caf53bb3735a5983077677f5ef25.mp3*~data=user_id=0,application_id=42~hmac=c541970cc7633e4fbef5e603260769213a9cccd5f066238fc37de8d0922796fd",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sassafras Roots",
+            "length": "2:37",
+            "deezer": {
+              "id": 678050,
+              "link": "https://www.deezer.com/track/678050",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/d/0/e1dc57ab4d822140bcded9767d511fa7.mp3?hdnea=exp=1795654757~acl=/api/1/1/e/1/d/0/e1dc57ab4d822140bcded9767d511fa7.mp3*~data=user_id=0,application_id=42~hmac=53d3ea00d59b2ec5c81ef234df1df18a462caa19a58796e446e9e86a50a6ea0c",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "When I Come Around",
+            "length": "2:58",
+            "deezer": {
+              "id": 678053,
+              "link": "https://www.deezer.com/track/678053",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/1/0/5517d7a5d3ac0f7bad3aba9cc9e6bcf5.mp3?hdnea=exp=1795654757~acl=/api/1/1/5/5/1/0/5517d7a5d3ac0f7bad3aba9cc9e6bcf5.mp3*~data=user_id=0,application_id=42~hmac=aecf3f4061430df826efa096fdaf55e5f67816c4f58975ea0903a49feb90ec98",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Coming Clean",
+            "length": "1:34",
+            "deezer": {
+              "id": 678055,
+              "link": "https://www.deezer.com/track/678055",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/c/0/c0cf20e182d287481eae78c8f2fa44df.mp3?hdnea=exp=1795654757~acl=/api/1/1/c/0/c/0/c0cf20e182d287481eae78c8f2fa44df.mp3*~data=user_id=0,application_id=42~hmac=5f1a10db7c4c06828bc529ab2c0ba39a9d3aa863ed0697cb0f7ef2e93f732b91",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Emenius Sleepus",
+            "length": "1:43",
+            "deezer": {
+              "id": 678057,
+              "link": "https://www.deezer.com/track/678057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/5/0/8c52b34e26b051cdfc51a7d68c62868f.mp3?hdnea=exp=1795654757~acl=/api/1/1/8/c/5/0/8c52b34e26b051cdfc51a7d68c62868f.mp3*~data=user_id=0,application_id=42~hmac=e14a9cddb280d7a4d9a79c0ad5bda5f2259653bd07162cf1fa6275055a0ab6da",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "In the End",
+            "length": "1:46",
+            "deezer": {
+              "id": 678058,
+              "link": "https://www.deezer.com/track/678058",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/2/0/b927edd8d1a8b14771c9585a5e7ac47d.mp3?hdnea=exp=1795654757~acl=/api/1/1/b/9/2/0/b927edd8d1a8b14771c9585a5e7ac47d.mp3*~data=user_id=0,application_id=42~hmac=9059b7c23dd1a0c2da5131c918d8e9f1d5024e401dd12bb5b102a8e53f093b69",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "F.O.D.",
+            "length": "2:50",
+            "deezer": {
+              "id": 678060,
+              "link": "https://www.deezer.com/track/678060",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/e/0/bae4f459055dfbb6bb00886640daddd8.mp3?hdnea=exp=1795654757~acl=/api/1/1/b/a/e/0/bae4f459055dfbb6bb00886640daddd8.mp3*~data=user_id=0,application_id=42~hmac=eb2ff5d8d1aeb55d009d98f29b45a3f630a16f7f892807301afb3c58ec9f66b1",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "All by Myself",
+            "length": "1:40",
+            "deezer": {
+              "id": 678062,
+              "link": "https://www.deezer.com/track/678062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/6/0/dc648e577186ac7f62ad2425bb57c1ca.mp3?hdnea=exp=1795654757~acl=/api/1/1/d/c/6/0/dc648e577186ac7f62ad2425bb57c1ca.mp3*~data=user_id=0,application_id=42~hmac=df5450a07c8728f7275620f5f4df198fa6ab41db57c76eac5baad82f453c500b",
+              "preview_expires": "2026-11-26T00:59:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Green Day/Dookie.jpg"
+}

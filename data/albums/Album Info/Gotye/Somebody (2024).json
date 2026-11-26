@@ -1,0 +1,52 @@
+{
+  "title": "Somebody (2024)",
+  "artist": "Gotye, FISHER & Chris Lake",
+  "year": 2024,
+  "release_date": "2024-02-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/da7b9d60-ab57-4dcb-898f-7f0a4173f428",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/542701002"
+  },
+  "musicbrainz_id": "da7b9d60-ab57-4dcb-898f-7f0a4173f428",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/609bb18e-3062-41ec-b8cf-69a4b67186ea",
+      "barcode": "602465059281",
+      "title": "Somebody (2024)",
+      "disambiguation": null,
+      "date": "2024-02-09",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Somebody (2024)",
+            "length": "2:34",
+            "artist": "Gotye, FISHER, Chris Lake, Kimbra & Sante Sansone",
+            "deezer": {
+              "id": 2645821532,
+              "link": "https://www.deezer.com/track/2645821532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/3/0/8c30a82ae17f99d16b027041cb38a475.mp3?hdnea=exp=1795654698~acl=/api/1/1/8/c/3/0/8c30a82ae17f99d16b027041cb38a475.mp3*~data=user_id=0,application_id=42~hmac=04de485cd5a48c6c9eef37b1f6a05bf10e5380de6d62f164ed3bf2c02901af87",
+              "preview_expires": "2026-11-26T00:58:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Gotye/Somebody (2024).jpg"
+}

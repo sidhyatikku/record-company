@@ -1,0 +1,51 @@
+{
+  "title": "Big Dawgs",
+  "artist": "Hanumankind x Kalmi",
+  "year": 2024,
+  "release_date": "2024-07-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7295c5d7-2095-4df4-aa36-7e13f16b52f7",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/610332272"
+  },
+  "musicbrainz_id": "7295c5d7-2095-4df4-aa36-7e13f16b52f7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f85766c9-2f2b-462a-b09f-71345f35255c",
+      "barcode": "00602468023883",
+      "title": "Big Dawgs",
+      "disambiguation": "explicit",
+      "date": "2024-07-09",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Big Dawgs",
+            "length": "3:10",
+            "deezer": {
+              "id": 2874501642,
+              "link": "https://www.deezer.com/track/2874501642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/f/0/e8f8005892052219b5072286084e7161.mp3?hdnea=exp=1795654958~acl=/api/1/1/e/8/f/0/e8f8005892052219b5072286084e7161.mp3*~data=user_id=0,application_id=42~hmac=c5aa83453da7d99233d12768157af418ade359618ff06de226e3506802b2aeba",
+              "preview_expires": "2026-11-26T01:02:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Hanumankind/Big Dawgs.jpg"
+}

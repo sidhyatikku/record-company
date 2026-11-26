@@ -1,0 +1,274 @@
+{
+  "title": "The Essential Jerry Reed",
+  "artist": "Jerry Reed",
+  "year": 1995,
+  "release_date": "1995",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "country",
+    "rock",
+    "country rock",
+    "rock and roll"
+  ],
+  "tags": [
+    "country",
+    "rock",
+    "country rock",
+    "rock and roll"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b792f8ee-3e83-3995-b459-2559739c9d8e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/114076"
+  },
+  "musicbrainz_id": "b792f8ee-3e83-3995-b459-2559739c9d8e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9580683d-f3c5-4ae6-82af-20318040ef1c",
+      "barcode": "078636659220",
+      "title": "The Essential Jerry Reed",
+      "disambiguation": null,
+      "date": "1995",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "57:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Guitar Man",
+            "length": "2:30",
+            "deezer": {
+              "id": 1044824,
+              "link": "https://www.deezer.com/track/1044824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/6/0/b76f4a1c920ac9ebfaece24950e69066.mp3?hdnea=exp=1795655573~acl=/api/1/1/b/7/6/0/b76f4a1c920ac9ebfaece24950e69066.mp3*~data=user_id=0,application_id=42~hmac=83dce3376e870a99449f0324db43691e15525224f6b9c29f77ae702e38780be0",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Alabama Jubilee",
+            "length": "3:02",
+            "deezer": {
+              "id": 1044828,
+              "link": "https://www.deezer.com/track/1044828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/2/0/eb2859f71d6f933ba75e690fd904fc94.mp3?hdnea=exp=1795655573~acl=/api/1/1/e/b/2/0/eb2859f71d6f933ba75e690fd904fc94.mp3*~data=user_id=0,application_id=42~hmac=de681fff5c1b0a2db10e3c4618651612c36f9f8213da7755ca7775884e0b5bba",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Amos Moses",
+            "length": "2:22",
+            "deezer": {
+              "id": 1044832,
+              "link": "https://www.deezer.com/track/1044832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/8/0/01881b4e42b30cd7026c24c585af5cc6.mp3?hdnea=exp=1795655573~acl=/api/1/1/0/1/8/0/01881b4e42b30cd7026c24c585af5cc6.mp3*~data=user_id=0,application_id=42~hmac=5653100fe521506298c7ce0867852ca4b32ece1f0d3e08f98046cef77b077d77",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "A Thing Called Love",
+            "length": "2:23",
+            "deezer": {
+              "id": 1044835,
+              "link": "https://www.deezer.com/track/1044835",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/7/0/7e7e258f9ea5204ae2c9dc88b4fc0dd8.mp3?hdnea=exp=1795655573~acl=/api/1/1/7/e/7/0/7e7e258f9ea5204ae2c9dc88b4fc0dd8.mp3*~data=user_id=0,application_id=42~hmac=6c5e6471ccb76a69de5c9ca37feaf8fe379c703772107ef3bf1d7b67fbd35715",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "When You're Hot, You're Hot",
+            "length": "2:22",
+            "deezer": {
+              "id": 1044836,
+              "link": "https://www.deezer.com/track/1044836",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/c/0/afc1cd5aeb94c6abd65518465554d3c2.mp3?hdnea=exp=1795655573~acl=/api/1/1/a/f/c/0/afc1cd5aeb94c6abd65518465554d3c2.mp3*~data=user_id=0,application_id=42~hmac=b47eccc3df593675835554e6ce2307b21429b368f2740faf192974cc01f16381",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Smell the Flowers",
+            "length": "2:31",
+            "deezer": {
+              "id": 1044840,
+              "link": "https://www.deezer.com/track/1044840",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/8/0/2586c60fdbc0499e42244de30881bb60.mp3?hdnea=exp=1795655573~acl=/api/1/1/2/5/8/0/2586c60fdbc0499e42244de30881bb60.mp3*~data=user_id=0,application_id=42~hmac=90b2130daa9b063d54a57f1e5dcb12d7fe00e23a07f61a1b49d7fb95812425cf",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ko-Ko Joe",
+            "length": "2:35",
+            "deezer": {
+              "id": 1044841,
+              "link": "https://www.deezer.com/track/1044841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/a/0/f6a7f63076023c927c18d9d6c2ca66d2.mp3?hdnea=exp=1795655573~acl=/api/1/1/f/6/a/0/f6a7f63076023c927c18d9d6c2ca66d2.mp3*~data=user_id=0,application_id=42~hmac=824cf57e19fb12fd8ac765b6e1cd6ac98d5ab6c9860ac7883b8d55010a3ffe29",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "You Took All the Ramblin' Out of Me",
+            "length": "2:16",
+            "deezer": {
+              "id": 1047772,
+              "link": "https://www.deezer.com/track/1047772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/3/0/783d286dbb5dacd1738c011d729aaece.mp3?hdnea=exp=1795655573~acl=/api/1/1/7/8/3/0/783d286dbb5dacd1738c011d729aaece.mp3*~data=user_id=0,application_id=42~hmac=4731c8485ef9c6741c99fa6078083da08ec9274b5c4f5a1e65058694264a487f",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Uptown Poker Club",
+            "length": "3:32",
+            "deezer": {
+              "id": 1044845,
+              "link": "https://www.deezer.com/track/1044845",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/3/0/c337f83ba66438fddf80872a57f87a38.mp3?hdnea=exp=1795655573~acl=/api/1/1/c/3/3/0/c337f83ba66438fddf80872a57f87a38.mp3*~data=user_id=0,application_id=42~hmac=e54dc4020859213d22cc2eeaab426321b279d3f3ad8b845c7adbabc44dc74256",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Claw",
+            "length": "2:02",
+            "deezer": {
+              "id": 1044849,
+              "link": "https://www.deezer.com/track/1044849",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/d/0/30dfc58c9a9cc09fee5ff35739befbbc.mp3?hdnea=exp=1795655573~acl=/api/1/1/3/0/d/0/30dfc58c9a9cc09fee5ff35739befbbc.mp3*~data=user_id=0,application_id=42~hmac=ea11f6acf1d630885307880067e832f0e11ffe83e87f6b43a21fbb9648edbefe",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Lord' Mr. Ford",
+            "length": "3:20",
+            "deezer": {
+              "id": 1045955,
+              "link": "https://www.deezer.com/track/1045955",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/c/0/63cf8b6de1a4c7f291214b4de968f6ef.mp3?hdnea=exp=1795655573~acl=/api/1/1/6/3/c/0/63cf8b6de1a4c7f291214b4de968f6ef.mp3*~data=user_id=0,application_id=42~hmac=7c08b104b941fec678affd0447eb58e293d466f697a0f298be7bb517965091ca",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "A Good Woman's Love",
+            "length": "2:57",
+            "deezer": {
+              "id": 1044852,
+              "link": "https://www.deezer.com/track/1044852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/0/0/0108086339abbac3c5ff4e412750c9aa.mp3?hdnea=exp=1795655573~acl=/api/1/1/0/1/0/0/0108086339abbac3c5ff4e412750c9aa.mp3*~data=user_id=0,application_id=42~hmac=466a56194a0a024564ece0bfa8cfe4a7918a80299c68e5875e74fd182790b1d6",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "East Bound and Down",
+            "length": "2:49",
+            "deezer": {
+              "id": 1044855,
+              "link": "https://www.deezer.com/track/1044855",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/0/0/ee0eb9e57982662ac09af873c7756559.mp3?hdnea=exp=1795655573~acl=/api/1/1/e/e/0/0/ee0eb9e57982662ac09af873c7756559.mp3*~data=user_id=0,application_id=42~hmac=46428a965f2e15bc3ac7e20066777722145a711e23750e48db52bb74743f074a",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Let's Sing Our Song",
+            "length": "2:35",
+            "deezer": {
+              "id": 1044860,
+              "link": "https://www.deezer.com/track/1044860",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/a/0/1bacc314e7bb15cfc0b59d672c9d26c9.mp3?hdnea=exp=1795655573~acl=/api/1/1/1/b/a/0/1bacc314e7bb15cfc0b59d672c9d26c9.mp3*~data=user_id=0,application_id=42~hmac=646befa65ba80d348360a22bd46060c9c1814eac95deff964b9a0c38897f9f07",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "The Crude Oil Blues",
+            "length": "2:36",
+            "deezer": {
+              "id": 1044865,
+              "link": "https://www.deezer.com/track/1044865",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/c/0/96c99768204c378a025085bd08ca10f8.mp3?hdnea=exp=1795655573~acl=/api/1/1/9/6/c/0/96c99768204c378a025085bd08ca10f8.mp3*~data=user_id=0,application_id=42~hmac=f80448512c3766bcec6c4e9203a8f72d90485c78f5424170b274738dfacebf25",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I Love You, What Can I Say",
+            "length": "3:41",
+            "deezer": {
+              "id": 1044869,
+              "link": "https://www.deezer.com/track/1044869",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/4/0/e448d79317105a5de59f0afa3cd64dc1.mp3?hdnea=exp=1795655573~acl=/api/1/1/e/4/4/0/e448d79317105a5de59f0afa3cd64dc1.mp3*~data=user_id=0,application_id=42~hmac=46b1132f7e93fe6bfc616409ec6cc1000e7910162381ae8b803c7a04982661d2",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "The Bird",
+            "length": "3:19",
+            "deezer": {
+              "id": 1045960,
+              "link": "https://www.deezer.com/track/1045960",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/0/0/80020447f4b767b84f5e560ca0d9ab8b.mp3?hdnea=exp=1795655573~acl=/api/1/1/8/0/0/0/80020447f4b767b84f5e560ca0d9ab8b.mp3*~data=user_id=0,application_id=42~hmac=ffe0a75ccc5754d21527755b7092fa99d287c1409a300ead6b7cae58e8fe6c9f",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Texas Bound and Flyin'",
+            "length": "3:23",
+            "deezer": {
+              "id": 1044871,
+              "link": "https://www.deezer.com/track/1044871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f24aae26ae286d455c15dcf70abf12e1.mp3?hdnea=exp=1795655573~acl=/api/1/1/f/2/4/0/f24aae26ae286d455c15dcf70abf12e1.mp3*~data=user_id=0,application_id=42~hmac=5a7b4ef8bea3908c10a3812582e6d218d18edcca454c2e925c4158b244758b2f",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "She Got the Goldmine (I Got the Shaft)",
+            "length": "3:19",
+            "deezer": {
+              "id": 1047776,
+              "link": "https://www.deezer.com/track/1047776",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/6/0/dd6ebaa6e96b7b356774998eaea22dbf.mp3?hdnea=exp=1795655573~acl=/api/1/1/d/d/6/0/dd6ebaa6e96b7b356774998eaea22dbf.mp3*~data=user_id=0,application_id=42~hmac=ce64825b9507a6de4e5bacbe93ccd7ebfc1e6d12ed9a4489bbe80a0abc1a2b45",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Another Puff",
+            "length": "4:07",
+            "deezer": {
+              "id": 1044876,
+              "link": "https://www.deezer.com/track/1044876",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/b/0/d2bd0c2ca44aee7450e077c838696ff9.mp3?hdnea=exp=1795655573~acl=/api/1/1/d/2/b/0/d2bd0c2ca44aee7450e077c838696ff9.mp3*~data=user_id=0,application_id=42~hmac=865d8aceed86bd2e6be1de079a0004895be8ac2195529ec78ed917198fef02ed",
+              "preview_expires": "2026-11-26T01:12:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jerry Reed/The Essential Jerry Reed.jpg"
+}

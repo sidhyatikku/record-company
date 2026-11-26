@@ -1,0 +1,176 @@
+{
+  "title": "Undertow",
+  "artist": "Tool",
+  "year": 1993,
+  "release_date": "1993-04-06",
+  "type": "Album",
+  "description": "Undertow is the debut studio album by the American rock band Tool, released on April 6, 1993, by Zoo Entertainment. Produced by the band and Sylvia Massy and recorded at Grand Master Studios in Hollywood, the album includes some tracks omitted from the band's debut EP Opiate and is their only album to feature original bassist Paul D'Amour.",
+  "genres": [
+    "alternative metal",
+    "alternative rock",
+    "progressive metal",
+    "rock",
+    "grunge",
+    "metal"
+  ],
+  "tags": [
+    "alternative metal",
+    "alternative rock",
+    "progressive metal",
+    "heavy alternative",
+    "hardnheavy",
+    "rock",
+    "1993",
+    "acid",
+    "grunge",
+    "metal",
+    "prog rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 31
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b067cde8-f3a7-394a-b8e7-640ca744f2e4",
+    "wikipedia": "https://en.wikipedia.org/wiki/Undertow_(Tool_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000260386",
+    "discogs": "https://www.discogs.com/master/1181",
+    "wikidata": "https://www.wikidata.org/wiki/Q1139460",
+    "deezer": "https://www.deezer.com/album/105614472"
+  },
+  "musicbrainz_id": "b067cde8-f3a7-394a-b8e7-640ca744f2e4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5d6db5ed-50ad-4bad-a4b8-514b41736013",
+      "barcode": "886447824740",
+      "title": "Undertow",
+      "disambiguation": null,
+      "date": "2019-08-02",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "1:08:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intolerance",
+            "length": "4:54",
+            "deezer": {
+              "id": 722093112,
+              "link": "https://www.deezer.com/track/722093112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/f/0/d8f40ab54d220c14377cf786a115b665.mp3?hdnea=exp=1795721976~acl=/api/1/1/d/8/f/0/d8f40ab54d220c14377cf786a115b665.mp3*~data=user_id=0,application_id=42~hmac=fe9ec2d91b1c3d65531ebe5424268719d5d3b611c7b779c0aedbaa4f96186037",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Prison Sex",
+            "length": "4:56",
+            "deezer": {
+              "id": 722093122,
+              "link": "https://www.deezer.com/track/722093122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/e/0/45e2994523214e6e67652d3839b4077c.mp3?hdnea=exp=1795721976~acl=/api/1/1/4/5/e/0/45e2994523214e6e67652d3839b4077c.mp3*~data=user_id=0,application_id=42~hmac=828f0b889890c94991523712eda05274b4bae2ee066fb54bb6e51483017be7b7",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sober",
+            "length": "5:07",
+            "deezer": {
+              "id": 722093132,
+              "link": "https://www.deezer.com/track/722093132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/9/0/399f8f21e2ebb99503791f25d98ca489.mp3?hdnea=exp=1795721976~acl=/api/1/1/3/9/9/0/399f8f21e2ebb99503791f25d98ca489.mp3*~data=user_id=0,application_id=42~hmac=bbd4419e012f2b03848ff1f024178f88ed224f75f446125ec31256db470a77d1",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bottom",
+            "length": "7:14",
+            "deezer": {
+              "id": 722093142,
+              "link": "https://www.deezer.com/track/722093142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/8/0/a48bf20af1e1c0b7ce908caea09d8fd9.mp3?hdnea=exp=1795721976~acl=/api/1/1/a/4/8/0/a48bf20af1e1c0b7ce908caea09d8fd9.mp3*~data=user_id=0,application_id=42~hmac=6d0aa4bed8e632a079688a723f0282958be2c5014e59a1e883d189c3b0e7f6ee",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Crawl Away",
+            "length": "5:30",
+            "deezer": {
+              "id": 722093152,
+              "link": "https://www.deezer.com/track/722093152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/c/0/34cb1e42d80d084a2514912da501c90b.mp3?hdnea=exp=1795721976~acl=/api/1/1/3/4/c/0/34cb1e42d80d084a2514912da501c90b.mp3*~data=user_id=0,application_id=42~hmac=ca33807c546cfc7265efd933ed60369227dc451a02c7967911bba0c30a2ee545",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Swamp Song",
+            "length": "5:32",
+            "deezer": {
+              "id": 722093162,
+              "link": "https://www.deezer.com/track/722093162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/5/0/0e56989fd1f26da179af4b62abb79779.mp3?hdnea=exp=1795721976~acl=/api/1/1/0/e/5/0/0e56989fd1f26da179af4b62abb79779.mp3*~data=user_id=0,application_id=42~hmac=459791d5643f1bd976321ed5fe2ecf1ceac14504d4670d92c9db48670fbe92c8",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Undertow",
+            "length": "5:22",
+            "deezer": {
+              "id": 722093172,
+              "link": "https://www.deezer.com/track/722093172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/b/0/a7b11833055e567106a8828cc581616f.mp3?hdnea=exp=1795721976~acl=/api/1/1/a/7/b/0/a7b11833055e567106a8828cc581616f.mp3*~data=user_id=0,application_id=42~hmac=8607840483d9d7edb21f382e2ed5103f5a2a7b6ef096333ff9e3a328d7a6b491",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "4°",
+            "length": "6:03",
+            "deezer": {
+              "id": 722093182,
+              "link": "https://www.deezer.com/track/722093182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/9/0/139256f14f08adad175322dc14e53912.mp3?hdnea=exp=1795721976~acl=/api/1/1/1/3/9/0/139256f14f08adad175322dc14e53912.mp3*~data=user_id=0,application_id=42~hmac=73d05f12ba8c2f5cb55d83a4ba7251869eb1be6c803729a6b01eda91e4177b30",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Flood",
+            "length": "7:48",
+            "deezer": {
+              "id": 722093192,
+              "link": "https://www.deezer.com/track/722093192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/f/0/c5f03d9b0a6c6f62e45392185b992da0.mp3?hdnea=exp=1795721976~acl=/api/1/1/c/5/f/0/c5f03d9b0a6c6f62e45392185b992da0.mp3*~data=user_id=0,application_id=42~hmac=dc31ef63ea10ef122c36909cb9c6effdd5f6f72fce4ac994991592453186991a",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Disgustipated",
+            "length": "15:47",
+            "deezer": {
+              "id": 722093202,
+              "link": "https://www.deezer.com/track/722093202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/6/0/6f6c15e624c20a203e2e9db6b4eb9217.mp3?hdnea=exp=1795721976~acl=/api/1/1/6/f/6/0/6f6c15e624c20a203e2e9db6b4eb9217.mp3*~data=user_id=0,application_id=42~hmac=54b8086edbdfcfb2a0dc539c9e14d07f72352f6b968bfdea2b51ea8d9de422f1",
+              "preview_expires": "2026-11-26T19:39:36Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/TOOL/Undertow.jpg"
+}

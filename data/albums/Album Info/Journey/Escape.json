@@ -1,0 +1,172 @@
+{
+  "title": "Escape",
+  "artist": "Journey",
+  "year": 1981,
+  "release_date": "1981-07-17",
+  "type": "Album",
+  "description": "Escape is the seventh studio album by American rock band Journey, released on July 20, 1981, by Columbia Records. It topped the US Billboard 200 chart and featured four hit Billboard Hot 100 singles – \"Don't Stop Believin'\", \"Who's Crying Now\", \"Still They Ride\" and \"Open Arms\" – plus rock radio staple \"Stone in Love\". In July 2021, it was certified Diamond by the Recording Industry of America (RIAA) for at least ten million sales in the US, making it the band's most successful studio album and second most successful album overall behind Greatest Hits. Escape was the fifth-highest selling album of 1981, just behind Bella Donna from Stevie Nicks.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "pop rock",
+    "arena rock",
+    "classic rock"
+  ],
+  "tags": [
+    "rock",
+    "adult contemporary",
+    "hard rock",
+    "pop rock",
+    "arena rock",
+    "80s",
+    "classic rock",
+    "spaceship on cover"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/89ed7ed6-4292-3892-b0de-c9c27005c08d",
+    "wikipedia": "https://en.wikipedia.org/wiki/Escape_(Journey_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000190446",
+    "discogs": "https://www.discogs.com/master/80583",
+    "wikidata": "https://www.wikidata.org/wiki/Q1932577",
+    "deezer": "https://www.deezer.com/album/347056437"
+  },
+  "musicbrainz_id": "89ed7ed6-4292-3892-b0de-c9c27005c08d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/697ac8ce-32e2-403c-8150-77dbdced7710",
+      "barcode": "886449932795",
+      "title": "Escape",
+      "disambiguation": "2022 remaster",
+      "date": "2022-08-19",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "42:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don’t Stop Believin’",
+            "length": "4:11",
+            "deezer": {
+              "id": 1869378017,
+              "link": "https://www.deezer.com/track/1869378017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/3/0/cd3b502a9e0971c6cbd497e6209c4653.mp3?hdnea=exp=1795655747~acl=/api/1/1/c/d/3/0/cd3b502a9e0971c6cbd497e6209c4653.mp3*~data=user_id=0,application_id=42~hmac=7712c462ba625a2d00eaedd73bbb18e222d1e80bb3f6414bf13423b22eece815",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Stone in Love",
+            "length": "4:26",
+            "deezer": {
+              "id": 1869378027,
+              "link": "https://www.deezer.com/track/1869378027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/0/0/2707bf50cf14829641f7262dcdbd5bf4.mp3?hdnea=exp=1795655747~acl=/api/1/1/2/7/0/0/2707bf50cf14829641f7262dcdbd5bf4.mp3*~data=user_id=0,application_id=42~hmac=a6f9c2f293ff3caa725466924305a7c5999784119d2e3e3e768b2110afe0b071",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Who’s Crying Now",
+            "length": "5:02",
+            "deezer": {
+              "id": 1869378037,
+              "link": "https://www.deezer.com/track/1869378037",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/0/0/e70c0ab253db2fe2ca79931bcf0728b3.mp3?hdnea=exp=1795655747~acl=/api/1/1/e/7/0/0/e70c0ab253db2fe2ca79931bcf0728b3.mp3*~data=user_id=0,application_id=42~hmac=f155664f54664f6389c308507650cf195ce6b9b95157fc29f81cb1a4c3ad4596",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Keep On Runnin’",
+            "length": "3:40",
+            "deezer": {
+              "id": 1869378047,
+              "link": "https://www.deezer.com/track/1869378047",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/e/0/dae6d19f8fcec5fe4d3c1f3fafb2c5b8.mp3?hdnea=exp=1795655747~acl=/api/1/1/d/a/e/0/dae6d19f8fcec5fe4d3c1f3fafb2c5b8.mp3*~data=user_id=0,application_id=42~hmac=9ac337e3470228fb4686f67bf25db93a4ac168eba7a21673bce0bdfb60d7c6b1",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Still They Ride",
+            "length": "3:52",
+            "deezer": {
+              "id": 1869378057,
+              "link": "https://www.deezer.com/track/1869378057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/2/0/3729e4a3f3a5c86f09f7e442413d0d0d.mp3?hdnea=exp=1795655747~acl=/api/1/1/3/7/2/0/3729e4a3f3a5c86f09f7e442413d0d0d.mp3*~data=user_id=0,application_id=42~hmac=07125ff788277a347c4c783ab2890e356a2aee44d446bdd5134e2141ecb9fdea",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Escape",
+            "length": "5:17",
+            "deezer": {
+              "id": 1869378067,
+              "link": "https://www.deezer.com/track/1869378067",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/e/0/34e0a582f0a6f217026a03b32631b735.mp3?hdnea=exp=1795655747~acl=/api/1/1/3/4/e/0/34e0a582f0a6f217026a03b32631b735.mp3*~data=user_id=0,application_id=42~hmac=944d62200962ffaa11a09fd1853cd1fac955ac1a33f0e32f10e0419e8a81b28f",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Lay It Down",
+            "length": "4:13",
+            "deezer": {
+              "id": 1869378077,
+              "link": "https://www.deezer.com/track/1869378077",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/3/0/dc395a8a95c7aeb7cc2e216da58340e8.mp3?hdnea=exp=1795655747~acl=/api/1/1/d/c/3/0/dc395a8a95c7aeb7cc2e216da58340e8.mp3*~data=user_id=0,application_id=42~hmac=9bace4c2405dc3e40b4cc1fb7ca833093eefd86e8e9e4bc2cd948c31ac6bf3ce",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dead or Alive",
+            "length": "3:21",
+            "deezer": {
+              "id": 1869378087,
+              "link": "https://www.deezer.com/track/1869378087",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/2/0/4b2bb6f09d15691cb3b37af66487fd7c.mp3?hdnea=exp=1795655747~acl=/api/1/1/4/b/2/0/4b2bb6f09d15691cb3b37af66487fd7c.mp3*~data=user_id=0,application_id=42~hmac=d844b5b55bc78b5787a00df095e2b5a71b340e24e72d2b7dac643a2b11fdb9ab",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mother, Father",
+            "length": "5:29",
+            "deezer": {
+              "id": 1869378097,
+              "link": "https://www.deezer.com/track/1869378097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/f/0/77fe143e12061f764374cd5afb1a4bd7.mp3?hdnea=exp=1795655747~acl=/api/1/1/7/7/f/0/77fe143e12061f764374cd5afb1a4bd7.mp3*~data=user_id=0,application_id=42~hmac=e36ff2ba23d594061127382c819424d84c3fa68f4145c8a87a409a37a4aa29dd",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Open Arms",
+            "length": "3:18",
+            "deezer": {
+              "id": 1869378107,
+              "link": "https://www.deezer.com/track/1869378107",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/4/0/68473dc6bfc4e9f164642e4a72c9cb7c.mp3?hdnea=exp=1795655747~acl=/api/1/1/6/8/4/0/68473dc6bfc4e9f164642e4a72c9cb7c.mp3*~data=user_id=0,application_id=42~hmac=a781e74265f5b8ffccd8a12d97b0286121e0dd9f528b6fced0430b6ee051c94c",
+              "preview_expires": "2026-11-26T01:15:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Journey/Escape.jpg"
+}

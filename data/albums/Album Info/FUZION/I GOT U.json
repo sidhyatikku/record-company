@@ -1,0 +1,49 @@
+{
+  "title": "I GOT U",
+  "artist": "FUZION",
+  "year": 2025,
+  "release_date": "2025-08-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1HgN1iCqDpTlpRh7SHL9VK",
+    "deezer": "https://www.deezer.com/album/795323411"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1HgN1iCqDpTlpRh7SHL9VK",
+      "title": "I GOT U",
+      "date": "2025-08-01"
+    },
+    "total_tracks": 1,
+    "total_length": "2:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I GOT U",
+            "length": "2:55",
+            "deezer": {
+              "id": 3480739391,
+              "link": "https://www.deezer.com/track/3480739391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/9/0/f6932d34185bfb26e322ccbf964825c0.mp3?hdnea=exp=1795654549~acl=/api/1/1/f/6/9/0/f6932d34185bfb26e322ccbf964825c0.mp3*~data=user_id=0,application_id=42~hmac=cbf42b3ae90b4ba79dba9e6fef336f4818a13e1bbfe81d70bc56a5b1e5769eac",
+              "preview_expires": "2026-11-26T00:55:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/FUZION/I GOT U.jpg"
+}

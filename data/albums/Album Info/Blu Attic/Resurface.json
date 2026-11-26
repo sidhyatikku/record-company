@@ -1,0 +1,87 @@
+{
+  "title": "Resurface",
+  "artist": "Blu Attic",
+  "year": 2022,
+  "release_date": "2022-09-16",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "melodic house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5",
+    "deezer": "https://www.deezer.com/album/349408777"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5",
+      "title": "Resurface",
+      "date": "2022-09-16"
+    },
+    "total_tracks": 4,
+    "total_length": "16:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jhanak Jhanak",
+            "length": "4:24",
+            "artist": "Blu Attic, Gatha",
+            "deezer": {
+              "id": 1879522277,
+              "link": "https://www.deezer.com/track/1879522277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/5/0/d3579d45325ee6bde3a0ab21a704279a.mp3?hdnea=exp=1795652249~acl=/api/1/1/d/3/5/0/d3579d45325ee6bde3a0ab21a704279a.mp3*~data=user_id=0,application_id=42~hmac=c4d6af83c2e64ef49d44a8a7e59b36ba31575cedcf70dfcd2dbbe8a59cda985d",
+              "preview_expires": "2026-11-26T00:17:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Mil Jaa Na",
+            "length": "3:39",
+            "artist": "Blu Attic, Chayan Bhardwaj",
+            "deezer": {
+              "id": 1879522287,
+              "link": "https://www.deezer.com/track/1879522287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/5/0/9654d52fbb0e63afc65390b3bfb77b89.mp3?hdnea=exp=1795652249~acl=/api/1/1/9/6/5/0/9654d52fbb0e63afc65390b3bfb77b89.mp3*~data=user_id=0,application_id=42~hmac=bd2bec95543bdf433aae6c3500356ecb5b6669e5703811e9320f43056b173c58",
+              "preview_expires": "2026-11-26T00:17:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Jaane Bhi Do",
+            "length": "3:29",
+            "artist": "Blu Attic, Aaromal",
+            "deezer": {
+              "id": 1879522297,
+              "link": "https://www.deezer.com/track/1879522297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/0/0/4a0e4aca2cc463569dcd3e877f04762e.mp3?hdnea=exp=1795652249~acl=/api/1/1/4/a/0/0/4a0e4aca2cc463569dcd3e877f04762e.mp3*~data=user_id=0,application_id=42~hmac=1851e9acc2d9b20345e1323577c9493a18247b5cc25ab40b11d0b3d1fd1f3071",
+              "preview_expires": "2026-11-26T00:17:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Jhanak Jhanak (Extended Mix)",
+            "length": "5:27",
+            "artist": "Blu Attic, Gatha",
+            "deezer": {
+              "id": 1879522307,
+              "link": "https://www.deezer.com/track/1879522307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/e/0/a9e50606ec858975a8b1646cc38dc713.mp3?hdnea=exp=1795652249~acl=/api/1/1/a/9/e/0/a9e50606ec858975a8b1646cc38dc713.mp3*~data=user_id=0,application_id=42~hmac=cf5d3740195f3d2e069006e64f9754c276c9b50c6bf21a5be5fbc71b49a8ed2a",
+              "preview_expires": "2026-11-26T00:17:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Blu Attic/Resurface.jpg"
+}

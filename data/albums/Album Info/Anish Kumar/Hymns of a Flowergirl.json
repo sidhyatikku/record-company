@@ -1,0 +1,72 @@
+{
+  "title": "Hymns of a Flowergirl",
+  "artist": "Anish Kumar",
+  "year": 2024,
+  "release_date": "2024-09-16",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ecad0601-7731-467c-9aca-d9719b92dca1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/660095621"
+  },
+  "musicbrainz_id": "ecad0601-7731-467c-9aca-d9719b92dca1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7ce1bee6-5790-43c0-a04d-a7c52f16189e",
+      "barcode": null,
+      "title": "Hymns of a Flowergirl",
+      "disambiguation": null,
+      "date": "2024-09-16",
+      "country": "GB"
+    },
+    "total_tracks": 3,
+    "total_length": "8:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Everything Blooms Around Her",
+            "length": "3:50",
+            "deezer": {
+              "id": 3055789521,
+              "link": "https://www.deezer.com/track/3055789521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/1/0/cd124147b0c2235a991b1d28963db577.mp3?hdnea=exp=1795649234~acl=/api/1/1/c/d/1/0/cd124147b0c2235a991b1d28963db577.mp3*~data=user_id=0,application_id=42~hmac=a3c1481d4234801b5368de4ca6ceedcae1ce10efc19899699029a69aab9ef386",
+              "preview_expires": "2026-11-25T23:27:14Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "As the World Unravels",
+            "length": "2:33",
+            "deezer": {
+              "id": 3055789531,
+              "link": "https://www.deezer.com/track/3055789531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/6/0/f96c8d2bfc9ff621929390fe0de3373c.mp3?hdnea=exp=1795649234~acl=/api/1/1/f/9/6/0/f96c8d2bfc9ff621929390fe0de3373c.mp3*~data=user_id=0,application_id=42~hmac=2461949b6c7667136a4880be0585bef72aeb3dfda7e9b523dbeff066df06210c",
+              "preview_expires": "2026-11-25T23:27:14Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "She Dances",
+            "length": "2:32",
+            "deezer": {
+              "id": 3055789541,
+              "link": "https://www.deezer.com/track/3055789541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/d/0/70d423db1f904c8cb16332c866448b69.mp3?hdnea=exp=1795649234~acl=/api/1/1/7/0/d/0/70d423db1f904c8cb16332c866448b69.mp3*~data=user_id=0,application_id=42~hmac=d14ffa0d8813919ed22bbb7b8cc981ffa0472bcb6f5fdb79198e8161153cdd41",
+              "preview_expires": "2026-11-25T23:27:14Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/Hymns of a Flowergirl.jpg"
+}

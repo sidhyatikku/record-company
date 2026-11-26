@@ -1,0 +1,49 @@
+{
+  "title": "Talia",
+  "artist": "O'Flynn",
+  "year": 2021,
+  "release_date": "2021-04-16",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "disco house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1xVMXrTPlVE3lXxVMatbw0",
+    "deezer": "https://www.deezer.com/album/421284017"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1xVMXrTPlVE3lXxVMatbw0",
+      "title": "Talia",
+      "date": "2021-04-16"
+    },
+    "total_tracks": 1,
+    "total_length": "4:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Talia",
+            "length": "4:34",
+            "deezer": {
+              "id": 2206464797,
+              "link": "https://www.deezer.com/track/2206464797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/0/0/1f0e0d5f24d94951f9a6641991343c4c.mp3?hdnea=exp=1795719068~acl=/api/1/1/1/f/0/0/1f0e0d5f24d94951f9a6641991343c4c.mp3*~data=user_id=0,application_id=42~hmac=b70dc159edf002f44f9909fa74f04935737de465e79a9997294dac2da0a5d5c2",
+              "preview_expires": "2026-11-26T18:51:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/O'Flynn/Talia.jpg"
+}

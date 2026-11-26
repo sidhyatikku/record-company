@@ -1,0 +1,77 @@
+{
+  "title": "Some People Say",
+  "artist": "Semedo & Curtis Gabriel",
+  "year": 2016,
+  "release_date": "2016-03-04",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "deep house"
+  ],
+  "tags": [
+    "deep house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c8fb3b85-14e0-436a-95fc-27be6c661386",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/12440514"
+  },
+  "musicbrainz_id": "c8fb3b85-14e0-436a-95fc-27be6c661386",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/676cbf7d-bc78-4451-b5e8-51f1caaeb364",
+      "barcode": "4260066222440",
+      "title": "Some People Say",
+      "disambiguation": null,
+      "date": "2016-03-04",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "15:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Some People Say (radio edit)",
+            "length": "2:57",
+            "deezer": {
+              "id": 119419816,
+              "link": "https://www.deezer.com/track/119419816",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/d/0/ebdd6395fd92380f20c0a4dd5584fe01.mp3?hdnea=exp=1795720446~acl=/api/1/1/e/b/d/0/ebdd6395fd92380f20c0a4dd5584fe01.mp3*~data=user_id=0,application_id=42~hmac=60c6fdfe9fc33a49849e258bddd5176331ccbeaf1e4265b2e1f73353b7cec361",
+              "preview_expires": "2026-11-26T19:14:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Some People Say (dub mix)",
+            "length": "6:00",
+            "deezer": {
+              "id": 119419818,
+              "link": "https://www.deezer.com/track/119419818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/b/0/7bb6c399ae9eec9b3b482477a6ddcb29.mp3?hdnea=exp=1795720446~acl=/api/1/1/7/b/b/0/7bb6c399ae9eec9b3b482477a6ddcb29.mp3*~data=user_id=0,application_id=42~hmac=b692928c49f343ebd7d6485dd11d5b133c7b3fd19317c9d7ac6f32c5dc0282d7",
+              "preview_expires": "2026-11-26T19:14:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Some People Say (original mix)",
+            "length": "7:00",
+            "deezer": {
+              "id": 119419820,
+              "link": "https://www.deezer.com/track/119419820",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/2/0/cf25997fcea18d0a23273f19979781a0.mp3?hdnea=exp=1795720446~acl=/api/1/1/c/f/2/0/cf25997fcea18d0a23273f19979781a0.mp3*~data=user_id=0,application_id=42~hmac=1d042f3c5fd694864a5089940aca1330ab28f0ef53b53ff81b2811e810cedac0",
+              "preview_expires": "2026-11-26T19:14:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Semedo/Some People Say.jpg"
+}

@@ -1,0 +1,136 @@
+{
+  "title": "An der schönen blauen Donau",
+  "artist": "Johann Strauss",
+  "year": 1982,
+  "release_date": "1982",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fed2f027-9bbb-4cdf-b442-a9f3dd75d87c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/6520809"
+  },
+  "musicbrainz_id": "fed2f027-9bbb-4cdf-b442-a9f3dd75d87c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2b5ddcb5-8625-4909-8f9a-bf1c1262c17b",
+      "barcode": "028940002625",
+      "title": "An der schönen blauen Donau",
+      "disambiguation": null,
+      "date": "1982",
+      "country": "DE"
+    },
+    "total_tracks": 8,
+    "total_length": "50:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "An der schönen blauen Donau, op. 314",
+            "length": "11:50",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661420,
+              "link": "https://www.deezer.com/track/66661420",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672339e3c8e4ff247ed7c98cc5998f2.mp3?hdnea=exp=1795655657~acl=/api/1/1/1/6/7/0/1672339e3c8e4ff247ed7c98cc5998f2.mp3*~data=user_id=0,application_id=42~hmac=fa39a7202f6bbebe9a0b7096bbcd5395b5b8c7f078368abe84a31711a52bb4e9",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Éljen a Magyar!, op. 332",
+            "length": "2:40",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661421,
+              "link": "https://www.deezer.com/track/66661421",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/b/0/dab2ee97c457d5b517f6dcaee4d3be1a.mp3?hdnea=exp=1795655657~acl=/api/1/1/d/a/b/0/dab2ee97c457d5b517f6dcaee4d3be1a.mp3*~data=user_id=0,application_id=42~hmac=2794e88a809ea6c384c77b104b630025348513791a3a6de6f10f317515286cf6",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Accelerationen, op. 234",
+            "length": "9:17",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661422,
+              "link": "https://www.deezer.com/track/66661422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/2/0/4127c45b36dfd2b0aa14078ffedf5757.mp3?hdnea=exp=1795655657~acl=/api/1/1/4/1/2/0/4127c45b36dfd2b0aa14078ffedf5757.mp3*~data=user_id=0,application_id=42~hmac=daddffdb8eaeaa381b6b1f6adbe536eee6ec461eb7f4a4ed4ce3e8afa564382d",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Persischer Marsch, op. 289",
+            "length": "2:06",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661423,
+              "link": "https://www.deezer.com/track/66661423",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/c/0/1bcdfd144df5d140544a357870b2b869.mp3?hdnea=exp=1795655657~acl=/api/1/1/1/b/c/0/1bcdfd144df5d140544a357870b2b869.mp3*~data=user_id=0,application_id=42~hmac=3f79ac82c26cbd425d59e39ea5527ee9b11449f5826c374c39e0ace3f77e7dde",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Die Fledermaus: Ouvertüre",
+            "length": "8:43",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661424,
+              "link": "https://www.deezer.com/track/66661424",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/c/0/abc87c09aba152059f3f35e831061c57.mp3?hdnea=exp=1795655657~acl=/api/1/1/a/b/c/0/abc87c09aba152059f3f35e831061c57.mp3*~data=user_id=0,application_id=42~hmac=d09bc9647008de603a1bf04147fd5f4f8284501b542d0d36e866964205dd3a98",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Leichtes Blut, op. 319",
+            "length": "2:33",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661425,
+              "link": "https://www.deezer.com/track/66661425",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/4/0/2945937ef14838f5f4f3e50967977afe.mp3?hdnea=exp=1795655657~acl=/api/1/1/2/9/4/0/2945937ef14838f5f4f3e50967977afe.mp3*~data=user_id=0,application_id=42~hmac=fd3d738763fe1caa527eea563d6952e5b933e9c124b6b6819ebfa582d3710240",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Künstlerleben, op. 316",
+            "length": "10:12",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661426,
+              "link": "https://www.deezer.com/track/66661426",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/6/0/2f6dfe4f4e3bcad143f8cc3f2978a251.mp3?hdnea=exp=1795655657~acl=/api/1/1/2/f/6/0/2f6dfe4f4e3bcad143f8cc3f2978a251.mp3*~data=user_id=0,application_id=42~hmac=c431c0fe76cdfe44857882a156310f3568cf234cae0e6c570aef259803cd4840",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Unter Donner und Blitz, op. 324",
+            "length": "3:09",
+            "artist": "Johann Strauss (Sohn)",
+            "deezer": {
+              "id": 66661427,
+              "link": "https://www.deezer.com/track/66661427",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/1/0/dd13faccef19144fc65175bc8ca221da.mp3?hdnea=exp=1795655657~acl=/api/1/1/d/d/1/0/dd13faccef19144fc65175bc8ca221da.mp3*~data=user_id=0,application_id=42~hmac=af3f22d551e9e90370e6701027b12d0700a03d1007daff0e033f00637bb908e3",
+              "preview_expires": "2026-11-26T01:14:17Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Johann Strauss II/Strauss, J.- An der schönen blauen Donau (The Blue Danube).jpg"
+}

@@ -1,0 +1,373 @@
+{
+  "title": "Greatest",
+  "artist": "Bee Gees",
+  "year": 1979,
+  "release_date": "1979-10",
+  "type": "Album + Compilation",
+  "description": "Greatest is a greatest hits album by the Bee Gees. Released by RSO Records in October 1979, the album is a retrospective of the group's material from 1975 to 1979. The album topped Billboard's Top LP's & Tape chart for the week of 12 January 1980. A remastered and expanded version of the album was released by Reprise Records in 2007.",
+  "genres": [
+    "disco",
+    "pop",
+    "blue-eyed soul",
+    "rock",
+    "blues",
+    "easy listening",
+    "electronic",
+    "house"
+  ],
+  "tags": [
+    "disco",
+    "pop",
+    "blue-eyed soul",
+    "rock",
+    "fannybe tender with my love",
+    "blues",
+    "classic",
+    "dance pop",
+    "easy listening",
+    "electronic",
+    "house",
+    "vocal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.65,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d3d709c4-499e-3061-9bec-312a7f3ef444",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greatest_(Bee_Gees_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000649878",
+    "discogs": "https://www.discogs.com/master/15979",
+    "wikidata": "https://www.wikidata.org/wiki/Q638251",
+    "deezer": "https://www.deezer.com/album/14954513"
+  },
+  "musicbrainz_id": "d3d709c4-499e-3061-9bec-312a7f3ef444",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f21a0914-a47c-4648-b999-33d614ab0488",
+      "barcode": "602557368932",
+      "title": "Greatest",
+      "disambiguation": null,
+      "date": "2016",
+      "country": "US"
+    },
+    "total_tracks": 27,
+    "total_length": "1:55:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jive Talkin’",
+            "length": "3:45",
+            "deezer": {
+              "id": 139138617,
+              "link": "https://www.deezer.com/track/139138617",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/c/0/3fc058dd9d20bcbec59e9518dc2f0cd0.mp3?hdnea=exp=1795651909~acl=/api/1/1/3/f/c/0/3fc058dd9d20bcbec59e9518dc2f0cd0.mp3*~data=user_id=0,application_id=42~hmac=36dcf84fc302ed05aa7d63bd4d58e4e3b2fb2e035782321f5b449870c3781e64",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Night Fever",
+            "length": "3:32",
+            "deezer": {
+              "id": 139138619,
+              "link": "https://www.deezer.com/track/139138619",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/e/0/e2e8e2d801ed28526a1045d95e61d1eb.mp3?hdnea=exp=1795651909~acl=/api/1/1/e/2/e/0/e2e8e2d801ed28526a1045d95e61d1eb.mp3*~data=user_id=0,application_id=42~hmac=b7b242fc05ceddb6ea524f58d8650700a1284df500a749037e801a33f0ee2155",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Tragedy",
+            "length": "5:04",
+            "deezer": {
+              "id": 139138621,
+              "link": "https://www.deezer.com/track/139138621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/c/0/e9c72a4259fbbe86902c1d9c50b4551e.mp3?hdnea=exp=1795651909~acl=/api/1/1/e/9/c/0/e9c72a4259fbbe86902c1d9c50b4551e.mp3*~data=user_id=0,application_id=42~hmac=0cb6bf6d2808273c6bca40c9fb89dddb0fde05a02252778be9e89d188dc4afec",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "You Should Be Dancing",
+            "length": "4:17",
+            "deezer": {
+              "id": 139138623,
+              "link": "https://www.deezer.com/track/139138623",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/3/0/a834fe692a441b9ee90cee56b682e0aa.mp3?hdnea=exp=1795651909~acl=/api/1/1/a/8/3/0/a834fe692a441b9ee90cee56b682e0aa.mp3*~data=user_id=0,application_id=42~hmac=77dd3f174b742cd20995df4c270167b3ea6bb2278d67204cdb70faf6793d5246",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Stayin’ Alive",
+            "length": "4:45",
+            "deezer": {
+              "id": 139138625,
+              "link": "https://www.deezer.com/track/139138625",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/b/0/dbb1d7c471161e41d5795381850fdc09.mp3?hdnea=exp=1795651909~acl=/api/1/1/d/b/b/0/dbb1d7c471161e41d5795381850fdc09.mp3*~data=user_id=0,application_id=42~hmac=125578c3a6674474d5838a7606499f6b568d9c294315fa69ef887d1cb7d08916",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "How Deep Is Your Love",
+            "length": "4:05",
+            "deezer": {
+              "id": 139138627,
+              "link": "https://www.deezer.com/track/139138627",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/9/0/649a2e93800c265483b40e52af65b78a.mp3?hdnea=exp=1795651909~acl=/api/1/1/6/4/9/0/649a2e93800c265483b40e52af65b78a.mp3*~data=user_id=0,application_id=42~hmac=b3c50d7f7b81fc652e49f5cc2b7222c8738504ad358037527637ab9c016a6eef",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Love So Right",
+            "length": "3:38",
+            "deezer": {
+              "id": 139138629,
+              "link": "https://www.deezer.com/track/139138629",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/2/0/0023dd2efc3f2af3e47cf8a9b4c4ac4d.mp3?hdnea=exp=1795651909~acl=/api/1/1/0/0/2/0/0023dd2efc3f2af3e47cf8a9b4c4ac4d.mp3*~data=user_id=0,application_id=42~hmac=7789b43d28bf76537b4afc53da3568d283635bf45adca51f7ca96d0e171944ef",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Too Much Heaven",
+            "length": "4:58",
+            "deezer": {
+              "id": 139138631,
+              "link": "https://www.deezer.com/track/139138631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/8/0/8c874e0187bfd6e020ea5f4791a4926c.mp3?hdnea=exp=1795651909~acl=/api/1/1/8/c/8/0/8c874e0187bfd6e020ea5f4791a4926c.mp3*~data=user_id=0,application_id=42~hmac=c2764ef93eb6d84f0866824c92ac3b44fb28208507d39c9ac571f00018fe0903",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "(Our Love) Don’t Throw It All Away",
+            "length": "4:06",
+            "deezer": {
+              "id": 139138633,
+              "link": "https://www.deezer.com/track/139138633",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/2/0/c82fa502f86c18051f4ad1617bb68799.mp3?hdnea=exp=1795651909~acl=/api/1/1/c/8/2/0/c82fa502f86c18051f4ad1617bb68799.mp3*~data=user_id=0,application_id=42~hmac=4fa0753c887f371c4eab455d6acbf83d8acfcce6a874cfd656804a5819a769d8",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Fanny (Be Tender With My Love)",
+            "length": "4:06",
+            "deezer": {
+              "id": 139138635,
+              "link": "https://www.deezer.com/track/139138635",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/d/0/c6d04beb54b53ee26a2f7e43b59695f4.mp3?hdnea=exp=1795651909~acl=/api/1/1/c/6/d/0/c6d04beb54b53ee26a2f7e43b59695f4.mp3*~data=user_id=0,application_id=42~hmac=7b43be8612dfebdba2d5f68287d512be62b51eb44ff02b2603d30c06e21a6e2a",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Warm Ride",
+            "length": "3:16",
+            "deezer": {
+              "id": 139138637,
+              "link": "https://www.deezer.com/track/139138637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/d/0/05d8dcc33bc48839d9b5b2dc7ebfa30f.mp3?hdnea=exp=1795651909~acl=/api/1/1/0/5/d/0/05d8dcc33bc48839d9b5b2dc7ebfa30f.mp3*~data=user_id=0,application_id=42~hmac=107cadfa1747353b0fab323d500de1da9f78532377b60fea65088393ac5f1275",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Stayin’ Alive (promo 12″ version)",
+            "length": "6:59",
+            "deezer": {
+              "id": 139138639,
+              "link": "https://www.deezer.com/track/139138639",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/7/0/c5734b110e4b069fc3c7752dbb15d20a.mp3?hdnea=exp=1795651909~acl=/api/1/1/c/5/7/0/c5734b110e4b069fc3c7752dbb15d20a.mp3*~data=user_id=0,application_id=42~hmac=9917620f7400c716d6bfd1db4b89fece35339b0ac57d7afe5ee0bc7e36252bf2",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "If I Can’t Have You",
+            "length": "3:22",
+            "deezer": {
+              "id": 139138641,
+              "link": "https://www.deezer.com/track/139138641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/7/0/0a77d6ecad9d44b706cf52970d91744c.mp3?hdnea=exp=1795651909~acl=/api/1/1/0/a/7/0/0a77d6ecad9d44b706cf52970d91744c.mp3*~data=user_id=0,application_id=42~hmac=977c8f796c2e8bb61c2372e0f9b8e6f60233dfe30932f5245880423af435afb5",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "You Stepped Into My Life",
+            "length": "3:28",
+            "deezer": {
+              "id": 139138643,
+              "link": "https://www.deezer.com/track/139138643",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/5/0/9a593cb3e3cacad2a6f1665d7eb5dc6a.mp3?hdnea=exp=1795651909~acl=/api/1/1/9/a/5/0/9a593cb3e3cacad2a6f1665d7eb5dc6a.mp3*~data=user_id=0,application_id=42~hmac=0c14cb70d6bcb77f8b7f552f2395fc7b6280d052b030a0ec1d9488cdd79b8c7d",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Love Me",
+            "length": "4:02",
+            "deezer": {
+              "id": 139138645,
+              "link": "https://www.deezer.com/track/139138645",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/e/0/0ce0099af190a2d5417148299272323a.mp3?hdnea=exp=1795651909~acl=/api/1/1/0/c/e/0/0ce0099af190a2d5417148299272323a.mp3*~data=user_id=0,application_id=42~hmac=9da607e32504584c05337a4968b3606edefe41baa99c7b168bb219fd8b54d980",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "More Than a Woman",
+            "length": "3:17",
+            "deezer": {
+              "id": 139138647,
+              "link": "https://www.deezer.com/track/139138647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/9/0/7794e121d683dc06aafde17360f9d00d.mp3?hdnea=exp=1795651909~acl=/api/1/1/7/7/9/0/7794e121d683dc06aafde17360f9d00d.mp3*~data=user_id=0,application_id=42~hmac=11990b47b4a19cda48f3464b696da3c4f8bbb3d3bd70bacee9ece7ca57910c8c",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Rest Your Love on Me",
+            "length": "4:26",
+            "deezer": {
+              "id": 139138649,
+              "link": "https://www.deezer.com/track/139138649",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/f/0/27f74ee20fa8f32d067a7e181ee334c0.mp3?hdnea=exp=1795651909~acl=/api/1/1/2/7/f/0/27f74ee20fa8f32d067a7e181ee334c0.mp3*~data=user_id=0,application_id=42~hmac=3abe4920f7d64509a612a3098a1cc22874cdbcf06521c2fff8caeade7fb6e795",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Nights on Broadway",
+            "length": "4:35",
+            "deezer": {
+              "id": 139138651,
+              "link": "https://www.deezer.com/track/139138651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/8/0/2e8ec6dc1afa7da37f1b7cefb456d742.mp3?hdnea=exp=1795651909~acl=/api/1/1/2/e/8/0/2e8ec6dc1afa7da37f1b7cefb456d742.mp3*~data=user_id=0,application_id=42~hmac=5c6890b6bfd89c3a469c480453aeba893c1003bacbe6be8012f682665c6f938f",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Spirits (Having Flown)",
+            "length": "5:14",
+            "deezer": {
+              "id": 139138653,
+              "link": "https://www.deezer.com/track/139138653",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/e/0/5de5b9fbb8e4621c926e4836c422cfec.mp3?hdnea=exp=1795651909~acl=/api/1/1/5/d/e/0/5de5b9fbb8e4621c926e4836c422cfec.mp3*~data=user_id=0,application_id=42~hmac=7c7d9cec5923bd8b1c3cdb444be8d9f4987f3812fdfefeb66ccd1a4df981cfdc",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Love You Inside Out",
+            "length": "4:11",
+            "deezer": {
+              "id": 139138655,
+              "link": "https://www.deezer.com/track/139138655",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/9/0/ea954b68e1d35890975705208b3eebf6.mp3?hdnea=exp=1795651909~acl=/api/1/1/e/a/9/0/ea954b68e1d35890975705208b3eebf6.mp3*~data=user_id=0,application_id=42~hmac=0d7f9e94daca84ffa681c3db337bc3165db7b0bb61df1572c36ad7e2eb3a3425",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Wind of Change",
+            "length": "4:56",
+            "deezer": {
+              "id": 139138657,
+              "link": "https://www.deezer.com/track/139138657",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/8/0/088c4832f866f13ef3f8e7b1fce08906.mp3?hdnea=exp=1795651909~acl=/api/1/1/0/8/8/0/088c4832f866f13ef3f8e7b1fce08906.mp3*~data=user_id=0,application_id=42~hmac=667bb35d4d0b9604fb88e18caf565be864d90d17d2e4ee013379aa9f0c833d36",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Children of the World",
+            "length": "3:10",
+            "deezer": {
+              "id": 139138659,
+              "link": "https://www.deezer.com/track/139138659",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/b/0/eab43bfa7aa809887921775a47b2e5ab.mp3?hdnea=exp=1795651909~acl=/api/1/1/e/a/b/0/eab43bfa7aa809887921775a47b2e5ab.mp3*~data=user_id=0,application_id=42~hmac=4a519f2cacdc157e5fbdb1540feed4cef78df2bfd41c48a6ebe63d4f7d1eaf3b",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "You Should Be Dancing (Jason Bentley / Philip Steir remix)",
+            "length": "4:48",
+            "deezer": {
+              "id": 139138661,
+              "link": "https://www.deezer.com/track/139138661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd22263b2ca5e0c38fb525e3e7cff67d.mp3?hdnea=exp=1795651909~acl=/api/1/1/d/d/2/0/dd22263b2ca5e0c38fb525e3e7cff67d.mp3*~data=user_id=0,application_id=42~hmac=83ebb66b6cf3fe1fa2c16c80d85c8c4303d30fbefef097c6f3a15b0498bcd906",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "If I Can’t Have You (Count da Money remix)",
+            "length": "4:11",
+            "deezer": {
+              "id": 139138663,
+              "link": "https://www.deezer.com/track/139138663",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/d/0/e7d7ce7738c6e6da3525a2fccd1373c6.mp3?hdnea=exp=1795651909~acl=/api/1/1/e/7/d/0/e7d7ce7738c6e6da3525a2fccd1373c6.mp3*~data=user_id=0,application_id=42~hmac=87fb0b6d50107447865952c37d984481fe1612afbc23d2859a8c8d4071aff2a1",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Night Fever (GRN remix)",
+            "length": "4:44",
+            "deezer": {
+              "id": 139138665,
+              "link": "https://www.deezer.com/track/139138665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/6/0/506e3a892ded9f0f0e92a3432a41732c.mp3?hdnea=exp=1795651909~acl=/api/1/1/5/0/6/0/506e3a892ded9f0f0e92a3432a41732c.mp3*~data=user_id=0,application_id=42~hmac=5d30fa97b4d0e0a70bd128641f2c21a4a8e0c9691421932636438030f46a0338",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "How Deep Is Your Love (Supreme Beings of Leisure remix)",
+            "length": "4:42",
+            "deezer": {
+              "id": 139138667,
+              "link": "https://www.deezer.com/track/139138667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/0/0/dd080d8b4d447bb80065cc650cc87ada.mp3?hdnea=exp=1795651909~acl=/api/1/1/d/d/0/0/dd080d8b4d447bb80065cc650cc87ada.mp3*~data=user_id=0,application_id=42~hmac=4b365e825868c1e68b2c2049a68f8e3309e85db0280d34e2633f62921f5458ad",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Stayin’ Alive (Teddybears remix)",
+            "length": "3:23",
+            "deezer": {
+              "id": 139138669,
+              "link": "https://www.deezer.com/track/139138669",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/7/0/e77304a1c95a1dafe9ebb010ec57f120.mp3?hdnea=exp=1795651909~acl=/api/1/1/e/7/7/0/e77304a1c95a1dafe9ebb010ec57f120.mp3*~data=user_id=0,application_id=42~hmac=b871e53ea54880f72fb7df369836130481221c19e91116f09abd86cb1e82ae52",
+              "preview_expires": "2026-11-26T00:11:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bee Gees/Greatest.jpg"
+}

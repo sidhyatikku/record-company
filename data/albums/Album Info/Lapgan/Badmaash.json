@@ -1,0 +1,114 @@
+{
+  "title": "Badmaash",
+  "artist": "Lapgan",
+  "year": 2019,
+  "release_date": "2019-03-28",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "trip hop",
+    "indian indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5zFzJucclqEvtbbsfYAt1b",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5zFzJucclqEvtbbsfYAt1b",
+      "title": "Badmaash",
+      "date": "2019-03-28"
+    },
+    "total_tracks": 15,
+    "total_length": "32:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sea",
+            "length": "2:45"
+          },
+          {
+            "number": "2",
+            "title": "Hyperventilate",
+            "length": "1:57"
+          },
+          {
+            "number": "3",
+            "title": "Naoko",
+            "length": "2:42"
+          },
+          {
+            "number": "4",
+            "title": "Shawty",
+            "length": "1:43"
+          },
+          {
+            "number": "5",
+            "title": "yoga for three",
+            "length": "3:09"
+          },
+          {
+            "number": "6",
+            "title": "guzzleghazal",
+            "length": "2:03"
+          },
+          {
+            "number": "7",
+            "title": "Whack Uncles // Brown Republicans",
+            "length": "1:45"
+          },
+          {
+            "number": "8",
+            "title": "Rooh",
+            "length": "1:48"
+          },
+          {
+            "number": "9",
+            "title": "Kharaab Sharaab",
+            "length": "1:34"
+          },
+          {
+            "number": "10",
+            "title": "sabzi",
+            "length": "2:13"
+          },
+          {
+            "number": "11",
+            "title": "Don't Knock",
+            "length": "2:50"
+          },
+          {
+            "number": "12",
+            "title": "wild heart",
+            "length": "1:16"
+          },
+          {
+            "number": "13",
+            "title": "waltz 239",
+            "length": "1:40"
+          },
+          {
+            "number": "14",
+            "title": "Elephant Herd",
+            "length": "1:58"
+          },
+          {
+            "number": "15",
+            "title": "Khush",
+            "length": "2:37"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Lapgan/Badmaash.jpg"
+}

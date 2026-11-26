@@ -1,0 +1,528 @@
+{
+  "title": "Face to Face",
+  "artist": "The Kinks",
+  "year": 1966,
+  "release_date": "1966-10-28",
+  "type": "Album",
+  "description": "Face to Face is the fourth studio album by the English rock band the Kinks, released on 28 October 1966. The album marked a shift from the hard-driving style of beat music that had catapulted the group to international acclaim in 1964, instead drawing heavily from baroque pop and music hall. It is their first album consisting entirely of original material, and has also been regarded by critics as one of rock's first concept albums. Ray Davies' blossoming songwriting style became increasingly observational and satirical, commenting on English culture, social class and the music industry.",
+  "genres": [
+    "pop rock",
+    "rock",
+    "baroque pop",
+    "mod",
+    "psychedelic pop"
+  ],
+  "tags": [
+    "pop rock",
+    "rock",
+    "baroque pop",
+    "mod",
+    "psychedelic pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.3,
+    "votes": 6
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9e3bff06-c552-345b-a10b-aeb6061e1a8a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Face_to_Face_(The_Kinks_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000190542",
+    "discogs": "https://www.discogs.com/master/36937",
+    "wikidata": "https://www.wikidata.org/wiki/Q675825",
+    "deezer": "https://www.deezer.com/album/905339932"
+  },
+  "musicbrainz_id": "9e3bff06-c552-345b-a10b-aeb6061e1a8a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8fb22f89-ca39-4b50-a837-0ec4369b6262",
+      "barcode": "5414939497070",
+      "title": "Face to Face",
+      "disambiguation": "deluxe",
+      "date": "1966-10-28",
+      "country": "XW"
+    },
+    "total_tracks": 42,
+    "total_length": "2:01:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Party Line",
+            "length": "2:38",
+            "deezer": {
+              "id": 3803577712,
+              "link": "https://www.deezer.com/track/3803577712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/0/0/b400ab0aa7d5b0f5e58b28c2affb4a53.mp3?hdnea=exp=1795721550~acl=/api/1/1/b/4/0/0/b400ab0aa7d5b0f5e58b28c2affb4a53.mp3*~data=user_id=0,application_id=42~hmac=f5ec283931a564028c8a53fa1fc792b3f06a894089c2f8f7166f7ce3548a99ba",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rosie Won’t You Please Come Home",
+            "length": "2:36",
+            "deezer": {
+              "id": 3803577722,
+              "link": "https://www.deezer.com/track/3803577722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/4/0/c446b721dcba08999c292b053341bfd1.mp3?hdnea=exp=1795721550~acl=/api/1/1/c/4/4/0/c446b721dcba08999c292b053341bfd1.mp3*~data=user_id=0,application_id=42~hmac=161169ea6634da2b52aa03fa9f650d10b9e53a6e060530e48413c479c49d7cde",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dandy",
+            "length": "2:15",
+            "deezer": {
+              "id": 3803577732,
+              "link": "https://www.deezer.com/track/3803577732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/2/0/70285382052e27edc2e4d095b952099f.mp3?hdnea=exp=1795721550~acl=/api/1/1/7/0/2/0/70285382052e27edc2e4d095b952099f.mp3*~data=user_id=0,application_id=42~hmac=586b9b356deafd5c201f6e194ca10d6d99a4deea7b912d2e316699ea89baa007",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Too Much on My Mind",
+            "length": "2:33",
+            "deezer": {
+              "id": 3803577742,
+              "link": "https://www.deezer.com/track/3803577742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/8/0/948b68a1e1b5f6e6e7a9f91e3966f4e6.mp3?hdnea=exp=1795721550~acl=/api/1/1/9/4/8/0/948b68a1e1b5f6e6e7a9f91e3966f4e6.mp3*~data=user_id=0,application_id=42~hmac=00ee2201f53a37865e9a8b634101e7a801523637dc4fef185a4a6ee5fc8e3c7c",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Session Man",
+            "length": "2:23",
+            "deezer": {
+              "id": 3803577752,
+              "link": "https://www.deezer.com/track/3803577752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/8/0/bd86b5840a2b7381e0dcaa0fb20a8913.mp3?hdnea=exp=1795721550~acl=/api/1/1/b/d/8/0/bd86b5840a2b7381e0dcaa0fb20a8913.mp3*~data=user_id=0,application_id=42~hmac=4b98d6c1d0b53783a2b83e28c8ba6941c23d40a5f5a1d55861bb1f8f8aede3e8",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rainy Day in June",
+            "length": "3:20",
+            "deezer": {
+              "id": 3803577762,
+              "link": "https://www.deezer.com/track/3803577762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/38171d2afb8c92ee86cfd96187d9a45a.mp3?hdnea=exp=1795721550~acl=/api/1/1/3/8/1/0/38171d2afb8c92ee86cfd96187d9a45a.mp3*~data=user_id=0,application_id=42~hmac=388522dc65c6ceec00575389daf897c08ddc8b7098f3b8c39060404d43d29581",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "A House in the Country",
+            "length": "3:09",
+            "deezer": {
+              "id": 3803577772,
+              "link": "https://www.deezer.com/track/3803577772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/d/0/e4d2a4c3345133b0d7909ec683957de0.mp3?hdnea=exp=1795721550~acl=/api/1/1/e/4/d/0/e4d2a4c3345133b0d7909ec683957de0.mp3*~data=user_id=0,application_id=42~hmac=56ab015b939892d1b78d13dce08f119e31629b34186a06ed5f569bc8ca2d742e",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Holiday in Waikiki",
+            "length": "2:55",
+            "deezer": {
+              "id": 3803577782,
+              "link": "https://www.deezer.com/track/3803577782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/d/0/06dd37abf5c590d12c60818bcebdceb7.mp3?hdnea=exp=1795721550~acl=/api/1/1/0/6/d/0/06dd37abf5c590d12c60818bcebdceb7.mp3*~data=user_id=0,application_id=42~hmac=5b8c692061d8740af811a3db22d22a89d72d983dfe2f04be7df053cfc6956eb1",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Most Exclusive Residence for Sale",
+            "length": "2:51",
+            "deezer": {
+              "id": 3803577792,
+              "link": "https://www.deezer.com/track/3803577792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/6/0/2b66ed15239129f839b0d66e47d8a97a.mp3?hdnea=exp=1795721550~acl=/api/1/1/2/b/6/0/2b66ed15239129f839b0d66e47d8a97a.mp3*~data=user_id=0,application_id=42~hmac=8466bc280a388ee5dae111730627602f75dea44b766a07fefd522c7fb95e1a95",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Fancy",
+            "length": "2:32",
+            "deezer": {
+              "id": 3803577802,
+              "link": "https://www.deezer.com/track/3803577802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/f/0/08f9f2196aca301b35ad9253372f75e0.mp3?hdnea=exp=1795721550~acl=/api/1/1/0/8/f/0/08f9f2196aca301b35ad9253372f75e0.mp3*~data=user_id=0,application_id=42~hmac=dea4946c8aa64229854dcff06f649415d5cb5abc09049e59b512e69893b6fa26",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Little Miss Queen of Darkness",
+            "length": "3:21",
+            "deezer": {
+              "id": 3803577812,
+              "link": "https://www.deezer.com/track/3803577812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/4/0/b145d5ca12ff2ec18164cd0d24f10009.mp3?hdnea=exp=1795721550~acl=/api/1/1/b/1/4/0/b145d5ca12ff2ec18164cd0d24f10009.mp3*~data=user_id=0,application_id=42~hmac=4884a40e57ba6024d499b6b264dad238f328162cf5c3ef5229c3e9c7d29e9b9a",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "You’re Looking Fine",
+            "length": "2:53",
+            "deezer": {
+              "id": 3803577822,
+              "link": "https://www.deezer.com/track/3803577822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/9/0/9d94200c649c569b6b4933fa0969265f.mp3?hdnea=exp=1795721550~acl=/api/1/1/9/d/9/0/9d94200c649c569b6b4933fa0969265f.mp3*~data=user_id=0,application_id=42~hmac=e3a5f08d6c6a31434206b7e90a7498a2120bf1918429b5552ec9c4e6c344523d",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Sunny Afternoon",
+            "length": "3:41",
+            "deezer": {
+              "id": 3803577832,
+              "link": "https://www.deezer.com/track/3803577832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/f/0/c0f2088f04b435140b64d008797c61df.mp3?hdnea=exp=1795721550~acl=/api/1/1/c/0/f/0/c0f2088f04b435140b64d008797c61df.mp3*~data=user_id=0,application_id=42~hmac=7f0ed3ba07d377512e77016353ec1e1c8ad87e19f54c083ee0e36aed51313529",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "I’ll Remember (mono mix)",
+            "length": "2:33",
+            "deezer": {
+              "id": 3803577842,
+              "link": "https://www.deezer.com/track/3803577842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/1/0/24117f0ee06398a5daea8a93d694c505.mp3?hdnea=exp=1795721550~acl=/api/1/1/2/4/1/0/24117f0ee06398a5daea8a93d694c505.mp3*~data=user_id=0,application_id=42~hmac=362ebac2e3b745905cc2c1325e7abe981d1e5fe7880b2f7d9631a65670747d02",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Dead End Street (mono mix)",
+            "length": "3:24",
+            "deezer": {
+              "id": 3803577852,
+              "link": "https://www.deezer.com/track/3803577852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/0/0/3300a2c04587063c4e8bbecb58118b1a.mp3?hdnea=exp=1795721550~acl=/api/1/1/3/3/0/0/3300a2c04587063c4e8bbecb58118b1a.mp3*~data=user_id=0,application_id=42~hmac=47f2f0f25714e0591a38b24540c513ff8828cab4d652ca5d5e57fe610a48b679",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Big Black Smoke (mono mix)",
+            "length": "2:35",
+            "deezer": {
+              "id": 3803577862,
+              "link": "https://www.deezer.com/track/3803577862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/6/0/2164bd3d766b6fa167c8fa06ce76a49b.mp3?hdnea=exp=1795721550~acl=/api/1/1/2/1/6/0/2164bd3d766b6fa167c8fa06ce76a49b.mp3*~data=user_id=0,application_id=42~hmac=d35ad7f8e5fb78e488ac8e5f8eefe857c27de7f2706fdf1e854b2698ea025500",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "This Is Where I Belong (mono mix)",
+            "length": "2:27",
+            "deezer": {
+              "id": 3803577872,
+              "link": "https://www.deezer.com/track/3803577872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/f/0/c2f811452190db9b30166f0fbe7ea439.mp3?hdnea=exp=1795721550~acl=/api/1/1/c/2/f/0/c2f811452190db9b30166f0fbe7ea439.mp3*~data=user_id=0,application_id=42~hmac=da9c40e9d5e46412873a31daec4902a614e80e86d7a88dd39d454363d381c587",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "She’s Got Everything",
+            "length": "3:11",
+            "deezer": {
+              "id": 3803577882,
+              "link": "https://www.deezer.com/track/3803577882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/b/0/c8b9ce2abf160cf1cae4f39efb36e624.mp3?hdnea=exp=1795721550~acl=/api/1/1/c/8/b/0/c8b9ce2abf160cf1cae4f39efb36e624.mp3*~data=user_id=0,application_id=42~hmac=898fd821610197d198884378b68435289e82370ca4a9284b0b877be87201351b",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Little Miss Queen of Darkness (mono alternate take)",
+            "length": "3:22",
+            "deezer": {
+              "id": 3803577892,
+              "link": "https://www.deezer.com/track/3803577892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/a/0/0cae64201ef51e048f51f13bb36ed8b8.mp3?hdnea=exp=1795721550~acl=/api/1/1/0/c/a/0/0cae64201ef51e048f51f13bb36ed8b8.mp3*~data=user_id=0,application_id=42~hmac=4688a6bbd50301e08a444ce2588456ace2bc275e20abfb4713ac29aeacd57a95",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Dead End Street (alternate mono version)",
+            "length": "2:56",
+            "deezer": {
+              "id": 3803577902,
+              "link": "https://www.deezer.com/track/3803577902",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/2/0/e42faefeb07522dd6caef11a14499cfe.mp3?hdnea=exp=1795721550~acl=/api/1/1/e/4/2/0/e42faefeb07522dd6caef11a14499cfe.mp3*~data=user_id=0,application_id=42~hmac=5ec12496eb5a409c2b30eea75a7a92424556844d36c6fa0829270c6c48f3ac96",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Party Line (stereo mix)",
+            "length": "2:38",
+            "deezer": {
+              "id": 3803577912,
+              "link": "https://www.deezer.com/track/3803577912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/e/0/b5e5e5936f2b37207b548bc8242c55ef.mp3?hdnea=exp=1795721550~acl=/api/1/1/b/5/e/0/b5e5e5936f2b37207b548bc8242c55ef.mp3*~data=user_id=0,application_id=42~hmac=2046cce142e6d187795b9c57a9280c20a7257399419ec6a5e2718f89a8cb587f",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rosie Won’t You Please Come Home (stereo mix)",
+            "length": "2:36",
+            "deezer": {
+              "id": 3803577922,
+              "link": "https://www.deezer.com/track/3803577922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/d/0/3bd5e78ba7671b17e4690cc2704e9364.mp3?hdnea=exp=1795721550~acl=/api/1/1/3/b/d/0/3bd5e78ba7671b17e4690cc2704e9364.mp3*~data=user_id=0,application_id=42~hmac=dbf68a73caeac1431703ded4524e2b5b4eb2d616dc29b5d18a4af3fe1b64a9cf",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dandy (stereo mix)",
+            "length": "2:14",
+            "deezer": {
+              "id": 3803577932,
+              "link": "https://www.deezer.com/track/3803577932",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/8/0/6189b0714b2380ca484283d89aca7614.mp3?hdnea=exp=1795721550~acl=/api/1/1/6/1/8/0/6189b0714b2380ca484283d89aca7614.mp3*~data=user_id=0,application_id=42~hmac=db1d8010516af47254f5de7f932065b90e4196c7d8d582fd2a5194127576307c",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Too Much on My Mind (stereo mix)",
+            "length": "2:32",
+            "deezer": {
+              "id": 3803577942,
+              "link": "https://www.deezer.com/track/3803577942",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/1/0/c51834eb64c2e5b8789b14d415dba464.mp3?hdnea=exp=1795721550~acl=/api/1/1/c/5/1/0/c51834eb64c2e5b8789b14d415dba464.mp3*~data=user_id=0,application_id=42~hmac=494b3d2c5908d7de8d0a230984a4af72362da7053d56554125b8c17dcbb85fab",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Session Man (stereo mix)",
+            "length": "2:14",
+            "deezer": {
+              "id": 3803577952,
+              "link": "https://www.deezer.com/track/3803577952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/2/0/1e2f3213091aafc18870307263e801ef.mp3?hdnea=exp=1795721550~acl=/api/1/1/1/e/2/0/1e2f3213091aafc18870307263e801ef.mp3*~data=user_id=0,application_id=42~hmac=c09371570de367255da8397841228a35ac8caf4fc6dd79672f08f3f41100f183",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rainy Day in June (stereo mix)",
+            "length": "3:20",
+            "deezer": {
+              "id": 3803577962,
+              "link": "https://www.deezer.com/track/3803577962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/c/0/bacca4d0230fbd8b9dc01b9fdb7b031f.mp3?hdnea=exp=1795721550~acl=/api/1/1/b/a/c/0/bacca4d0230fbd8b9dc01b9fdb7b031f.mp3*~data=user_id=0,application_id=42~hmac=072c6d5c69ff30bb35fcb47de8b788c3d2cc2cf9611a57d52abd08bd648f6f6b",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "A House in the Country (stereo mix)",
+            "length": "3:08",
+            "deezer": {
+              "id": 3803577972,
+              "link": "https://www.deezer.com/track/3803577972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/4/0/39401427d59b6209bc088d64f12f8c67.mp3?hdnea=exp=1795721550~acl=/api/1/1/3/9/4/0/39401427d59b6209bc088d64f12f8c67.mp3*~data=user_id=0,application_id=42~hmac=94b048a21bd481dea013ec90848e543c522c195e31ccbe32e36e775a2faf01b4",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Holiday in Waikiki (stereo mix)",
+            "length": "2:50",
+            "deezer": {
+              "id": 3803577982,
+              "link": "https://www.deezer.com/track/3803577982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/6/0/376ed880c898387fb144cfe7528f18b8.mp3?hdnea=exp=1795721550~acl=/api/1/1/3/7/6/0/376ed880c898387fb144cfe7528f18b8.mp3*~data=user_id=0,application_id=42~hmac=9b698fb87e37ba49fa306827b688c0c9bb0b9ad805acf125acade17a6ffdff40",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Most Exclusive Residence for Sale (stereo mix)",
+            "length": "2:57",
+            "deezer": {
+              "id": 3803577992,
+              "link": "https://www.deezer.com/track/3803577992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/b/0/99b22b32395fe5827608fc7924ec4aec.mp3?hdnea=exp=1795721550~acl=/api/1/1/9/9/b/0/99b22b32395fe5827608fc7924ec4aec.mp3*~data=user_id=0,application_id=42~hmac=fca8f4bab029c74570cff0ab4a4457a8767809edea9e287847a70c7cdeac7e83",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Fancy (stereo mix)",
+            "length": "2:31",
+            "deezer": {
+              "id": 3803578002,
+              "link": "https://www.deezer.com/track/3803578002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/e/0/61ef943f2e93a6fb533438efb2c1d85d.mp3?hdnea=exp=1795721550~acl=/api/1/1/6/1/e/0/61ef943f2e93a6fb533438efb2c1d85d.mp3*~data=user_id=0,application_id=42~hmac=ef492e2118e29a391389fe3734e7ec47f9a4f2a46209cb46ea4ff0c779851c4a",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Little Miss Queen of Darkness (stereo mix)",
+            "length": "3:20",
+            "deezer": {
+              "id": 3803578012,
+              "link": "https://www.deezer.com/track/3803578012",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/5/0/7655e60dfeee05853efc0d37dc2200aa.mp3?hdnea=exp=1795721550~acl=/api/1/1/7/6/5/0/7655e60dfeee05853efc0d37dc2200aa.mp3*~data=user_id=0,application_id=42~hmac=666bd19ce51c6426cc1137e00282a877203eb8a42a72141e9dbb5551ce356b80",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "You’re Looking Fine (stereo mix)",
+            "length": "2:52",
+            "deezer": {
+              "id": 3803578022,
+              "link": "https://www.deezer.com/track/3803578022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/c/0/5ec5effd2952f15785fea144e755b214.mp3?hdnea=exp=1795721550~acl=/api/1/1/5/e/c/0/5ec5effd2952f15785fea144e755b214.mp3*~data=user_id=0,application_id=42~hmac=a92306be9717dc579f6ad08d8c2b208afa96c24d31fe3acf32d059e37761e41f",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Sunny Afternoon (stereo mix)",
+            "length": "3:40",
+            "deezer": {
+              "id": 3803578032,
+              "link": "https://www.deezer.com/track/3803578032",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/9/0/409ec9cd611d1a524a43e88127d32f27.mp3?hdnea=exp=1795721550~acl=/api/1/1/4/0/9/0/409ec9cd611d1a524a43e88127d32f27.mp3*~data=user_id=0,application_id=42~hmac=679b6857b085cbcdf47eee6804df45eb417089238d34cc198e7c26990c6afd8f",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "I’ll Remember (stereo mix)",
+            "length": "2:33",
+            "deezer": {
+              "id": 3803578042,
+              "link": "https://www.deezer.com/track/3803578042",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/1/0/411538314b426e28319f68a9401a26d7.mp3?hdnea=exp=1795721550~acl=/api/1/1/4/1/1/0/411538314b426e28319f68a9401a26d7.mp3*~data=user_id=0,application_id=42~hmac=cdde456906866edaa242d88a1b1d116804fbe85e1033f3cb1f4adf800ea2985f",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "This Is Where I Belong (stereo mix)",
+            "length": "2:46",
+            "deezer": {
+              "id": 3803578052,
+              "link": "https://www.deezer.com/track/3803578052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/0/0/590d246ee7e7087a63f2df1fb819e9be.mp3?hdnea=exp=1795721550~acl=/api/1/1/5/9/0/0/590d246ee7e7087a63f2df1fb819e9be.mp3*~data=user_id=0,application_id=42~hmac=b5521dc4124bb6e02cbe6279cf1b8d5bbf80f75915e9778247e02d93ec649f2b",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Big Black Smoke (stereo mix)",
+            "length": "2:51",
+            "deezer": {
+              "id": 3803578062,
+              "link": "https://www.deezer.com/track/3803578062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/3/0/313db98c943d0e54fbe8698969ffb8bb.mp3?hdnea=exp=1795721550~acl=/api/1/1/3/1/3/0/313db98c943d0e54fbe8698969ffb8bb.mp3*~data=user_id=0,application_id=42~hmac=a43a0cb7ced3315f572dcce7970583549e277e643784f42e1e076c4489f8be6f",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "She’s Got Everything (stereo mix)",
+            "length": "3:10",
+            "deezer": {
+              "id": 3803578072,
+              "link": "https://www.deezer.com/track/3803578072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/9/0/999992e13180557aae21fbd4473d9ac5.mp3?hdnea=exp=1795721550~acl=/api/1/1/9/9/9/0/999992e13180557aae21fbd4473d9ac5.mp3*~data=user_id=0,application_id=42~hmac=2ba27658c3301208f78982d0872f58edb68a539b272d0e243366cd4b365d6caf",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "You’re Looking Fine (alternate stereo mix)",
+            "length": "2:53",
+            "deezer": {
+              "id": 3803578082,
+              "link": "https://www.deezer.com/track/3803578082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/9/0/099d111d47791a2b9d0f2fdfde9bfa30.mp3?hdnea=exp=1795721550~acl=/api/1/1/0/9/9/0/099d111d47791a2b9d0f2fdfde9bfa30.mp3*~data=user_id=0,application_id=42~hmac=6faf27778a6d9d795d521156f4ef9a5530e406cf824f9577aad04a037c33e80e",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Sunny Afternoon (alternate stereo mix)",
+            "length": "3:49",
+            "deezer": {
+              "id": 3803578092,
+              "link": "https://www.deezer.com/track/3803578092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/e/0/00ecd3169562cf512dc0fc358083fab9.mp3?hdnea=exp=1795721550~acl=/api/1/1/0/0/e/0/00ecd3169562cf512dc0fc358083fab9.mp3*~data=user_id=0,application_id=42~hmac=7a84a97ec5a18c27a6b5472488560dc30f8d2247ebb2dc9954caa7d690b71001",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Fancy (alternate stereo mix)",
+            "length": "2:57",
+            "deezer": {
+              "id": 3803578102,
+              "link": "https://www.deezer.com/track/3803578102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/f/0/c1fac26a03238077b2777c78588c3af9.mp3?hdnea=exp=1795721550~acl=/api/1/1/c/1/f/0/c1fac26a03238077b2777c78588c3af9.mp3*~data=user_id=0,application_id=42~hmac=cbf3ea32c1aba73d4a44aba03e27e0c333649350a483411938bff385fbad0112",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Little Miss Queen of Darkness (alternate stereo mix)",
+            "length": "3:22",
+            "deezer": {
+              "id": 3803578112,
+              "link": "https://www.deezer.com/track/3803578112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/8/0/db8702247a8627f70cbe2de81b774184.mp3?hdnea=exp=1795721550~acl=/api/1/1/d/b/8/0/db8702247a8627f70cbe2de81b774184.mp3*~data=user_id=0,application_id=42~hmac=12bf1b250dc8f448bd322f9bcfcadad128437583a65a7392619f9397edaeff81",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Dandy (alternate stereo mix)",
+            "length": "2:15",
+            "deezer": {
+              "id": 3803578122,
+              "link": "https://www.deezer.com/track/3803578122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/0/0/d3096cf9bf7b86fdc39afd957f63e71a.mp3?hdnea=exp=1795721550~acl=/api/1/1/d/3/0/0/d3096cf9bf7b86fdc39afd957f63e71a.mp3*~data=user_id=0,application_id=42~hmac=6616da958ea8415dac3d066a4453b6af144b40f398e92ccc04adfee240876c4c",
+              "preview_expires": "2026-11-26T19:32:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Kinks/Face to Face.jpg"
+}

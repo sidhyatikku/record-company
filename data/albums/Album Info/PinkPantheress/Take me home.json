@@ -1,0 +1,94 @@
+{
+  "title": "Take me home",
+  "artist": "PinkPantheress",
+  "year": 2022,
+  "release_date": "2022-12-16",
+  "type": "EP",
+  "description": "Take Me Home is the debut extended play (EP) by British singer-songwriter and record producer PinkPantheress, released on 16 December 2022 through Warner Records. It follows her 2021 mixtape To Hell with It and precedes her debut studio album, Heaven Knows. Production was handled by the Future Cut, Phil, Kaytranada, Mura Masa, and Kearneyonline. The EP was promoted with the singles \"Do You Miss Me?\" and \"Boy's a Liar\".",
+  "genres": [
+    "dance-pop",
+    "edm",
+    "baltimore club",
+    "dancefloor drum and bass",
+    "jersey club",
+    "synth-pop",
+    "uk funky"
+  ],
+  "tags": [
+    "dance-pop",
+    "edm",
+    "baltimore club",
+    "dancefloor drum and bass",
+    "jersey club",
+    "synth-pop",
+    "uk funky"
+  ],
+  "rating": {
+    "value_out_of_5": 4.65,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1196127f-47b2-4213-bbbb-a3dfce524ff0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Take_Me_Home_(EP)",
+    "wikidata": "https://www.wikidata.org/wiki/Q134409411",
+    "deezer": "https://www.deezer.com/album/383672647"
+  },
+  "musicbrainz_id": "1196127f-47b2-4213-bbbb-a3dfce524ff0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9d275340-37fb-4741-9ca7-f2a0338411cf",
+      "barcode": "5054197481437",
+      "title": "Take me home",
+      "disambiguation": null,
+      "date": "2022-12-16",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "7:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Boy’s a liar",
+            "length": "2:11",
+            "deezer": {
+              "id": 2055079687,
+              "link": "https://www.deezer.com/track/2055079687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/0/0/f7093fce2faaa05f49bf00ef0ee0735d.mp3?hdnea=exp=1795719499~acl=/api/1/1/f/7/0/0/f7093fce2faaa05f49bf00ef0ee0735d.mp3*~data=user_id=0,application_id=42~hmac=0a6cd78fae7e28cbafbce02a3a4cf4b8211432e716d6b2317f261863102878a0",
+              "preview_expires": "2026-11-26T18:58:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Do you miss me?",
+            "length": "2:08",
+            "deezer": {
+              "id": 2055079697,
+              "link": "https://www.deezer.com/track/2055079697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/b/0/23ba90c39a695d69c07d34103ffdf8aa.mp3?hdnea=exp=1795719499~acl=/api/1/1/2/3/b/0/23ba90c39a695d69c07d34103ffdf8aa.mp3*~data=user_id=0,application_id=42~hmac=a942a5f28018ec19693e0cb2aaca0062fd0f37f62193dd81fd20ad90dede7b27",
+              "preview_expires": "2026-11-26T18:58:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take me home",
+            "length": "3:20",
+            "deezer": {
+              "id": 2055079707,
+              "link": "https://www.deezer.com/track/2055079707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/8/0/878974ce03552bea36de85bd99d3fce1.mp3?hdnea=exp=1795719499~acl=/api/1/1/8/7/8/0/878974ce03552bea36de85bd99d3fce1.mp3*~data=user_id=0,application_id=42~hmac=32fe6c437a82c30d3718c5750b2fff4d817b844aa00e37110f1083e6bf105379",
+              "preview_expires": "2026-11-26T18:58:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/PinkPantheress/Take me home.jpg"
+}

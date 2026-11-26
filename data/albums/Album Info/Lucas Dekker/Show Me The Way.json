@@ -1,0 +1,49 @@
+{
+  "title": "Show Me The Way",
+  "artist": "Lucas Dekker",
+  "year": 2025,
+  "release_date": "2025-09-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/471JKHYA6S5uo4XNygFm5M",
+    "deezer": "https://www.deezer.com/album/1015655701"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/471JKHYA6S5uo4XNygFm5M",
+      "title": "Show Me The Way",
+      "date": "2025-09-19"
+    },
+    "total_tracks": 1,
+    "total_length": "2:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Show Me The Way",
+            "length": "2:55",
+            "deezer": {
+              "id": 4117925901,
+              "link": "https://www.deezer.com/track/4117925901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/0/0/7e0e082869f14dd1827c991e02184266.mp3?hdnea=exp=1795656695~acl=/api/1/1/7/e/0/0/7e0e082869f14dd1827c991e02184266.mp3*~data=user_id=0,application_id=42~hmac=5b29dc6e1e02b5d26c5b301ce571062ed9635e28940a07ba79a08801fd3ab97a",
+              "preview_expires": "2026-11-26T01:31:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Lucas Dekker/Show Me The Way.jpg"
+}

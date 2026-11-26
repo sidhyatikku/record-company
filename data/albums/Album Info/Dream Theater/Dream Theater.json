@@ -1,0 +1,155 @@
+{
+  "title": "Dream Theater",
+  "artist": "Dream Theater",
+  "year": 2013,
+  "release_date": "2013-09-18",
+  "type": "Album",
+  "description": "Dream Theater is the twelfth studio album by American progressive metal band Dream Theater, released worldwide in September 2013, through Roadrunner Records. The album was written, recorded, mixed, and mastered between January and May 2013 at Cove City Sound Studios in Long Island, New York, the same studio as the band's previous album, A Dramatic Turn of Events (2011). It is the first Dream Theater album to include drummer Mike Mangini in the songwriting process.",
+  "genres": [
+    "progressive metal",
+    "rock",
+    "heavy metal"
+  ],
+  "tags": [
+    "progressive metal",
+    "rock",
+    "10s",
+    "heavy metal"
+  ],
+  "rating": {
+    "value_out_of_5": 3.65,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1b537b55-6543-436e-b569-91fc789eff43",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dream_Theater_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002559805",
+    "discogs": "https://www.discogs.com/master/599323",
+    "wikidata": "https://www.wikidata.org/wiki/Q13420662",
+    "deezer": "https://www.deezer.com/album/6924053"
+  },
+  "musicbrainz_id": "1b537b55-6543-436e-b569-91fc789eff43",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8dadec2a-ae15-4468-b553-c72ceeddef19",
+      "barcode": "016861760403",
+      "title": "Dream Theater",
+      "disambiguation": null,
+      "date": "2013-09-23",
+      "country": null
+    },
+    "total_tracks": 9,
+    "total_length": "1:08:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "False Awakening Suite",
+            "length": "2:42",
+            "deezer": {
+              "id": 70535429,
+              "link": "https://www.deezer.com/track/70535429",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/7/0/b274213650ae9670f8d406af94dea959.mp3?hdnea=exp=1795653653~acl=/api/1/1/b/2/7/0/b274213650ae9670f8d406af94dea959.mp3*~data=user_id=0,application_id=42~hmac=fb35ec614b648d5b5d7f99ba6480ec718f2afbc9eb7285a4146d965c580d48ae",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Enemy Inside",
+            "length": "6:17",
+            "deezer": {
+              "id": 70535430,
+              "link": "https://www.deezer.com/track/70535430",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/9/0/6e9647caebc4e497a869bafcff79b3d2.mp3?hdnea=exp=1795653653~acl=/api/1/1/6/e/9/0/6e9647caebc4e497a869bafcff79b3d2.mp3*~data=user_id=0,application_id=42~hmac=23ee875fc5d574333244eaa2297f5afe4d05e41c9cd1ee0caea17fee0e45c945",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Looking Glass",
+            "length": "4:53",
+            "deezer": {
+              "id": 70535431,
+              "link": "https://www.deezer.com/track/70535431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/0/0/440d76e46fa2ac8e95012ebe0f5e6ca0.mp3?hdnea=exp=1795653653~acl=/api/1/1/4/4/0/0/440d76e46fa2ac8e95012ebe0f5e6ca0.mp3*~data=user_id=0,application_id=42~hmac=f2c013e80b4133df1beeacdaea00a38b78eef56ef350a2fd850188cf83183281",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Enigma Machine",
+            "length": "6:02",
+            "deezer": {
+              "id": 70535432,
+              "link": "https://www.deezer.com/track/70535432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/d/0/79da11f4ff5f7bfd39d7bd73a7bae995.mp3?hdnea=exp=1795653653~acl=/api/1/1/7/9/d/0/79da11f4ff5f7bfd39d7bd73a7bae995.mp3*~data=user_id=0,application_id=42~hmac=1bc943e08bd10618ddb1aaac6b37d5a8f6b13b4943121ffb21940066735eff3e",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Bigger Picture",
+            "length": "7:41",
+            "deezer": {
+              "id": 70535433,
+              "link": "https://www.deezer.com/track/70535433",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/c/0/79cac4814de4c50926ceb7f0b87e246b.mp3?hdnea=exp=1795653653~acl=/api/1/1/7/9/c/0/79cac4814de4c50926ceb7f0b87e246b.mp3*~data=user_id=0,application_id=42~hmac=a08c800fed743d789d5edd28e825af448a82f878dff390328fff59bd8332e5c9",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Behind the Veil",
+            "length": "6:53",
+            "deezer": {
+              "id": 70535434,
+              "link": "https://www.deezer.com/track/70535434",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/7/0/137b9f57b1c09d8b8dca0b4ab36a6397.mp3?hdnea=exp=1795653653~acl=/api/1/1/1/3/7/0/137b9f57b1c09d8b8dca0b4ab36a6397.mp3*~data=user_id=0,application_id=42~hmac=c17fd7f246fbdc70ec7bedd4b87a17eb028d24ef7ef6953c8553d302357e9a8e",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Surrender to Reason",
+            "length": "6:35",
+            "deezer": {
+              "id": 70535435,
+              "link": "https://www.deezer.com/track/70535435",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/b/0/1cb2781dc0cd919da1b05b9c35a07c35.mp3?hdnea=exp=1795653653~acl=/api/1/1/1/c/b/0/1cb2781dc0cd919da1b05b9c35a07c35.mp3*~data=user_id=0,application_id=42~hmac=1639081ed275170bc038f02652f38f76be35a338f966372433461eee3b2cf34a",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Along for the Ride",
+            "length": "4:45",
+            "deezer": {
+              "id": 70535436,
+              "link": "https://www.deezer.com/track/70535436",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/e/0/26efd8c3e5b402dfa86006e3b97869cc.mp3?hdnea=exp=1795653653~acl=/api/1/1/2/6/e/0/26efd8c3e5b402dfa86006e3b97869cc.mp3*~data=user_id=0,application_id=42~hmac=4105a1cc92c7dd92f811f9da98100c5b7da838acf14b41df2691e4ae26aa6127",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Illumination Theory",
+            "length": "22:16",
+            "deezer": {
+              "id": 70535437,
+              "link": "https://www.deezer.com/track/70535437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/7/0/7876b2c687c12ae880c27a3a478a3feb.mp3?hdnea=exp=1795653653~acl=/api/1/1/7/8/7/0/7876b2c687c12ae880c27a3a478a3feb.mp3*~data=user_id=0,application_id=42~hmac=b85df523fe3692c59a8a56aa912b8bb860347123533d85e4683309c46f03ce1d",
+              "preview_expires": "2026-11-26T00:40:53Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dream Theater/Dream Theater.jpg"
+}

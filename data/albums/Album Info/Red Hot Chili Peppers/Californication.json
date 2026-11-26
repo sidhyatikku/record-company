@@ -1,0 +1,262 @@
+{
+  "title": "Californication",
+  "artist": "Red Hot Chili Peppers",
+  "year": 1999,
+  "release_date": "1999-04-30",
+  "type": "Album",
+  "description": "Californication is the seventh studio album by the American rock band Red Hot Chili Peppers, released on June 8, 1999, on Warner Bros. Records. It was produced by Rick Rubin. Along with Blood Sugar Sex Magik, Californication is one of the band's best-selling albums.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "funk rock",
+    "funk metal",
+    "pop rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "funk rock",
+    "00s",
+    "alt funk",
+    "alt-rock",
+    "alternative and punk",
+    "alternative pop/rock",
+    "funk metal",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 34
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ca5dfcc3-83fb-3eee-9061-c27296b77b2c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Californication_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000239791",
+    "discogs": "https://www.discogs.com/master/42546",
+    "wikidata": "https://www.wikidata.org/wiki/Q219425",
+    "deezer": "https://www.deezer.com/album/86511"
+  },
+  "musicbrainz_id": "ca5dfcc3-83fb-3eee-9061-c27296b77b2c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fbd7449a-04bd-4f93-bcf7-a6dfa92eeb91",
+      "barcode": "093624424161",
+      "title": "Californication",
+      "disambiguation": "deluxe edition",
+      "date": "2006-03-21",
+      "country": null
+    },
+    "total_tracks": 18,
+    "total_length": "1:07:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Around the World",
+            "length": "3:59",
+            "deezer": {
+              "id": 725241,
+              "link": "https://www.deezer.com/track/725241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/5/0/925e3aa4bd498c678073f6841cda8d72.mp3?hdnea=exp=1795720045~acl=/api/1/1/9/2/5/0/925e3aa4bd498c678073f6841cda8d72.mp3*~data=user_id=0,application_id=42~hmac=3a2870ef2dbc8139b74557cc015ba35d4433d7418b8a12ceabdd664efe1b390a",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Parallel Universe",
+            "length": "4:29",
+            "deezer": {
+              "id": 725249,
+              "link": "https://www.deezer.com/track/725249",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/f/0/f1fc5576979270dd4466b7d37318908e.mp3?hdnea=exp=1795720045~acl=/api/1/1/f/1/f/0/f1fc5576979270dd4466b7d37318908e.mp3*~data=user_id=0,application_id=42~hmac=86085b7989d11fafc1590302bce71c01d3ca298c034d5e1c97564cd0423208c3",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Scar Tissue",
+            "length": "3:36",
+            "deezer": {
+              "id": 725254,
+              "link": "https://www.deezer.com/track/725254",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/2/0/5827c9257a749eb955a7dd3ef3c2eb3c.mp3?hdnea=exp=1795720045~acl=/api/1/1/5/8/2/0/5827c9257a749eb955a7dd3ef3c2eb3c.mp3*~data=user_id=0,application_id=42~hmac=7891554f1e9ccb8783bf5ba97960a2b95718521cadaf5cca1ebeac9ac545a071",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Otherside",
+            "length": "4:15",
+            "deezer": {
+              "id": 725261,
+              "link": "https://www.deezer.com/track/725261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/1/0/751e3451f12359b6d125b8ad04133afa.mp3?hdnea=exp=1795720045~acl=/api/1/1/7/5/1/0/751e3451f12359b6d125b8ad04133afa.mp3*~data=user_id=0,application_id=42~hmac=6008e2a0c0c5779e7f97c72e7ffc41fbff1719e9b9f34d30a742d641b54c44f8",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Get on Top",
+            "length": "3:18",
+            "deezer": {
+              "id": 725266,
+              "link": "https://www.deezer.com/track/725266",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/9/0/7698c13d14889c0311d4ac7276426c20.mp3?hdnea=exp=1795720045~acl=/api/1/1/7/6/9/0/7698c13d14889c0311d4ac7276426c20.mp3*~data=user_id=0,application_id=42~hmac=d28b22b4d1ce85ed27c820d1bfa8afe4e32da959c0effc178bb2e5f477f4866e",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Californication",
+            "length": "5:30",
+            "deezer": {
+              "id": 725274,
+              "link": "https://www.deezer.com/track/725274",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/7/0/2c7c12953e487de2983fc0d361992604.mp3?hdnea=exp=1795720045~acl=/api/1/1/2/c/7/0/2c7c12953e487de2983fc0d361992604.mp3*~data=user_id=0,application_id=42~hmac=755b687cd0bcb7c637666145e63d4bf8b0069bfb055535e3e79a0dcf3d6a2d9e",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Easily",
+            "length": "3:51",
+            "deezer": {
+              "id": 725280,
+              "link": "https://www.deezer.com/track/725280",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/9/0/109d28d41ab3bb0a9264ee24531dcf83.mp3?hdnea=exp=1795720045~acl=/api/1/1/1/0/9/0/109d28d41ab3bb0a9264ee24531dcf83.mp3*~data=user_id=0,application_id=42~hmac=979188f1cb65ca3fd28ef680b95c8ec508b5c47a2bbab771ba46c0a56d246e74",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Porcelain",
+            "length": "2:44",
+            "deezer": {
+              "id": 725283,
+              "link": "https://www.deezer.com/track/725283",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/4/0/fd41ea3499e9c5fb081c6dd693abffd3.mp3?hdnea=exp=1795720045~acl=/api/1/1/f/d/4/0/fd41ea3499e9c5fb081c6dd693abffd3.mp3*~data=user_id=0,application_id=42~hmac=eb04fda606d8fe6ee55754a999d2e70a54ea98c56cabcc19f162e8334a0db0f5",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Emit Remmus",
+            "length": "4:00",
+            "deezer": {
+              "id": 725285,
+              "link": "https://www.deezer.com/track/725285",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/2/0/7523befb3db28f9ebe8e3002d39bb2af.mp3?hdnea=exp=1795720045~acl=/api/1/1/7/5/2/0/7523befb3db28f9ebe8e3002d39bb2af.mp3*~data=user_id=0,application_id=42~hmac=2c4736e13efb8fe18d1402ced984cd0a6ec92efd448b035e43623d64093dcdeb",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I Like Dirt",
+            "length": "2:38",
+            "deezer": {
+              "id": 725288,
+              "link": "https://www.deezer.com/track/725288",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/9/0/e19f5b4565a744656eaf54cc2c4d5216.mp3?hdnea=exp=1795720045~acl=/api/1/1/e/1/9/0/e19f5b4565a744656eaf54cc2c4d5216.mp3*~data=user_id=0,application_id=42~hmac=99962b228af8018a361275ac7fbb527420f03c0d954fdee3e83d1e9234296c56",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "This Velvet Glove",
+            "length": "3:45",
+            "deezer": {
+              "id": 725294,
+              "link": "https://www.deezer.com/track/725294",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/2/0/752fcab7a5ab276352f0830d027a3ee7.mp3?hdnea=exp=1795720045~acl=/api/1/1/7/5/2/0/752fcab7a5ab276352f0830d027a3ee7.mp3*~data=user_id=0,application_id=42~hmac=e9fa6abb434331825accd226cf6843a52b16bec45b5c8ea5d5dbbee874e2f78c",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Savior",
+            "length": "4:52",
+            "deezer": {
+              "id": 725299,
+              "link": "https://www.deezer.com/track/725299",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/a/0/7da92ebc984a778c9535addbd19fde03.mp3?hdnea=exp=1795720045~acl=/api/1/1/7/d/a/0/7da92ebc984a778c9535addbd19fde03.mp3*~data=user_id=0,application_id=42~hmac=7b789d2ffc837e1c4eced1b432297d41237c09f12c1ff2a60b92190dc2210241",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Purple Stain",
+            "length": "4:13",
+            "deezer": {
+              "id": 725309,
+              "link": "https://www.deezer.com/track/725309",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/8/0/6a8ba9d15278e4232da16330d636b5d2.mp3?hdnea=exp=1795720045~acl=/api/1/1/6/a/8/0/6a8ba9d15278e4232da16330d636b5d2.mp3*~data=user_id=0,application_id=42~hmac=b09d8804ff4a02483fdf502dd47dc4d622c55a2ba6d11609e00aa71f24550ef8",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Right on Time",
+            "length": "1:53",
+            "deezer": {
+              "id": 725315,
+              "link": "https://www.deezer.com/track/725315",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/2/0/0328acf0340c73cdfba4d1a0f98accec.mp3?hdnea=exp=1795720045~acl=/api/1/1/0/3/2/0/0328acf0340c73cdfba4d1a0f98accec.mp3*~data=user_id=0,application_id=42~hmac=5c82611d04a1065faae80faa9fca0ab133a1d9350d0d36ea1dd7716b5a1f0ddb",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Road Trippin’",
+            "length": "3:25",
+            "deezer": {
+              "id": 725320,
+              "link": "https://www.deezer.com/track/725320",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/b/0/36bcca3e896505920a8ab1415ffabeaf.mp3?hdnea=exp=1795720045~acl=/api/1/1/3/6/b/0/36bcca3e896505920a8ab1415ffabeaf.mp3*~data=user_id=0,application_id=42~hmac=caccb4ead60edcb1e134ab25b1bea0e9b61df09907940547671b6e377f7b70a9",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Fat Dance (2006 remaster)",
+            "length": "3:40",
+            "deezer": {
+              "id": 725325,
+              "link": "https://www.deezer.com/track/725325",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/5/0/2151860677cfaaf1b4468b638c8752c4.mp3?hdnea=exp=1795720045~acl=/api/1/1/2/1/5/0/2151860677cfaaf1b4468b638c8752c4.mp3*~data=user_id=0,application_id=42~hmac=a93e261f333b75e23422580bf112b9a6cb88c86e878b63e537a54f8deb12c385",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Over Funk (2006 remaster)",
+            "length": "2:58",
+            "deezer": {
+              "id": 725331,
+              "link": "https://www.deezer.com/track/725331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/4/0/ef4c39bca539ee0c58aa63dc3b6519fd.mp3?hdnea=exp=1795720045~acl=/api/1/1/e/f/4/0/ef4c39bca539ee0c58aa63dc3b6519fd.mp3*~data=user_id=0,application_id=42~hmac=daa09e5709b675523eaabaf8a73668b1e56918b7ce4d0fe41d5c5de4e92719e3",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Quixoticelixer (2006 remaster)",
+            "length": "4:48",
+            "deezer": {
+              "id": 725337,
+              "link": "https://www.deezer.com/track/725337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/0/0/9108ca9d9e014ffc4a8d1b5abf440aa2.mp3?hdnea=exp=1795720045~acl=/api/1/1/9/1/0/0/9108ca9d9e014ffc4a8d1b5abf440aa2.mp3*~data=user_id=0,application_id=42~hmac=9b7e65ab718b66ff5eed79c5ba98629be9c2e361863eac074cf761eca0e12c28",
+              "preview_expires": "2026-11-26T19:07:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Red Hot Chili Peppers/Californication.jpg"
+}

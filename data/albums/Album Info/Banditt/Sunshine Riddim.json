@@ -1,0 +1,52 @@
+{
+  "title": "Sunshine Riddim",
+  "artist": "Banditt, Disrupta",
+  "year": 2020,
+  "release_date": "2020-09-09",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "uk garage",
+    "liquid funk",
+    "drum and bass",
+    "jungle"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0ol0qDsMgPgmcrSApWM806",
+    "deezer": "https://www.deezer.com/album/164883122"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0ol0qDsMgPgmcrSApWM806",
+      "title": "Sunshine Riddim",
+      "date": "2020-09-09"
+    },
+    "total_tracks": 1,
+    "total_length": "3:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sunshine Riddim",
+            "length": "3:23",
+            "deezer": {
+              "id": 1041384792,
+              "link": "https://www.deezer.com/track/1041384792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/9/0/c39545f0d0fb201c23614ac3930b6bfd.mp3?hdnea=exp=1795651871~acl=/api/1/1/c/3/9/0/c39545f0d0fb201c23614ac3930b6bfd.mp3*~data=user_id=0,application_id=42~hmac=994b9947dac2816078fe19c24fb187a0af1f1c1080428bbacfdf94a92b5fe6be",
+              "preview_expires": "2026-11-26T00:11:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Banditt/Sunshine Riddim.jpg"
+}

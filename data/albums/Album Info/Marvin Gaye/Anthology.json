@@ -1,0 +1,578 @@
+{
+  "title": "The Best of Marvin Gaye",
+  "artist": "Marvin Gaye",
+  "year": 1995,
+  "release_date": "1995",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "soul"
+  ],
+  "tags": [
+    "r b",
+    "r&b/soul",
+    "soul"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/999f4e2d-16a5-3e7c-99f2-bd6e226862de",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/79086562"
+  },
+  "musicbrainz_id": "999f4e2d-16a5-3e7c-99f2-bd6e226862de",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/455eaab6-4778-4c91-8a9f-56dc6f9bdf40",
+      "barcode": "731453052925",
+      "title": "The Best of Marvin Gaye",
+      "disambiguation": null,
+      "date": "1995",
+      "country": "US"
+    },
+    "total_tracks": 47,
+    "total_length": "2:31:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Stubborn Kind of Fellow",
+            "length": "2:43",
+            "deezer": {
+              "id": 588243252,
+              "link": "https://www.deezer.com/track/588243252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/519699c4dedb0e49341f94c323e32721.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/1/9/0/519699c4dedb0e49341f94c323e32721.mp3*~data=user_id=0,application_id=42~hmac=4ae954c7b3df4a293d68ea3bccb287ef874249d159dce69b2aaa27f2600602a6",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Hitch Hike",
+            "length": "2:33",
+            "deezer": {
+              "id": 588243262,
+              "link": "https://www.deezer.com/track/588243262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/0/0/190d6860599b3497364b6b90b237aef0.mp3?hdnea=exp=1795718288~acl=/api/1/1/1/9/0/0/190d6860599b3497364b6b90b237aef0.mp3*~data=user_id=0,application_id=42~hmac=a62d380c29e6b902356c12e9792b01046d75a7d60501a2947c6b793906b76a89",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Pride and Joy",
+            "length": "2:07",
+            "deezer": {
+              "id": 588243272,
+              "link": "https://www.deezer.com/track/588243272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/8/0/bd88b676c811f4931b80c27a265cc489.mp3?hdnea=exp=1795718288~acl=/api/1/1/b/d/8/0/bd88b676c811f4931b80c27a265cc489.mp3*~data=user_id=0,application_id=42~hmac=76c7e054e4175642bc96257617eb107617532f92c38fb365487cc7e6c643852b",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Can I Get a Witness",
+            "length": "2:47",
+            "deezer": {
+              "id": 588243282,
+              "link": "https://www.deezer.com/track/588243282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/9/0/e69b0b8f10a7a84ba86f264697e2e2cb.mp3?hdnea=exp=1795718288~acl=/api/1/1/e/6/9/0/e69b0b8f10a7a84ba86f264697e2e2cb.mp3*~data=user_id=0,application_id=42~hmac=b1b1ea0f1a853a80f100220ef956296b90daa25051db62a542d6e07a02e628fc",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Try It Baby",
+            "length": "3:00",
+            "deezer": {
+              "id": 588243292,
+              "link": "https://www.deezer.com/track/588243292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/7/0/21747de6fd29ad6b4f2cbb2c5cf8682e.mp3?hdnea=exp=1795718288~acl=/api/1/1/2/1/7/0/21747de6fd29ad6b4f2cbb2c5cf8682e.mp3*~data=user_id=0,application_id=42~hmac=690b22fa7135cac8ceafbce2dd40e452b1e8eea9eeec5ab88ea4b89a646bf6ee",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "What's the Matter With You Baby",
+            "length": "2:23",
+            "artist": "Marvin Gaye feat. Mary Wells",
+            "deezer": {
+              "id": 588243302,
+              "link": "https://www.deezer.com/track/588243302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a18edd9576d63fc825f9238757ad884d.mp3?hdnea=exp=1795718288~acl=/api/1/1/a/1/8/0/a18edd9576d63fc825f9238757ad884d.mp3*~data=user_id=0,application_id=42~hmac=4bbba2db9d6332296dd535afbaaa20330e9473fd8f3e391b9570802d7a7b1421",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Baby Don't You Do It",
+            "length": "2:33",
+            "deezer": {
+              "id": 588243312,
+              "link": "https://www.deezer.com/track/588243312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/5/0/15533af4617128cc97264029dcb9ce33.mp3?hdnea=exp=1795718288~acl=/api/1/1/1/5/5/0/15533af4617128cc97264029dcb9ce33.mp3*~data=user_id=0,application_id=42~hmac=42701dc4fd69368a00c22e982e7022c792bf3f9687a628bc5197ac7a1fb43eac",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "How Sweet It Is (to Be Loved by You)",
+            "length": "2:59",
+            "deezer": {
+              "id": 588243322,
+              "link": "https://www.deezer.com/track/588243322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/c/0/b7c79bca76a4fbdafc202d73050d580a.mp3?hdnea=exp=1795718288~acl=/api/1/1/b/7/c/0/b7c79bca76a4fbdafc202d73050d580a.mp3*~data=user_id=0,application_id=42~hmac=4865b7d051f3ee4393a083329e0945dfb67f88558affb7fc97520f64124b2b11",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I'll Be Doggone",
+            "length": "2:50",
+            "deezer": {
+              "id": 588243332,
+              "link": "https://www.deezer.com/track/588243332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fef91ffc4909645e5e5fa1467495a91a.mp3?hdnea=exp=1795718288~acl=/api/1/1/f/e/f/0/fef91ffc4909645e5e5fa1467495a91a.mp3*~data=user_id=0,application_id=42~hmac=1b845ff1e2da0152d5f22e706f9522dc29c3a9f760685cc1a6fdfb34b6751a00",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ain't That Peculiar",
+            "length": "2:59",
+            "deezer": {
+              "id": 588243342,
+              "link": "https://www.deezer.com/track/588243342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/d/0/04d192d3ed57702363e040bd4ac3bc9c.mp3?hdnea=exp=1795718288~acl=/api/1/1/0/4/d/0/04d192d3ed57702363e040bd4ac3bc9c.mp3*~data=user_id=0,application_id=42~hmac=c45e2ef85c9e2a2171476cabaf6b92d05913083287029be98aedbc139c3c8d92",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "One More Heartache",
+            "length": "2:41",
+            "deezer": {
+              "id": 588243352,
+              "link": "https://www.deezer.com/track/588243352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/c/0/f7c70c2aa4db223bdc4469ec037f8b28.mp3?hdnea=exp=1795718288~acl=/api/1/1/f/7/c/0/f7c70c2aa4db223bdc4469ec037f8b28.mp3*~data=user_id=0,application_id=42~hmac=74756075b69e2ed716110453d090e95bed559815f1b15a241b6135b133512d80",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Take This Heart of Mine",
+            "length": "2:43",
+            "deezer": {
+              "id": 588243362,
+              "link": "https://www.deezer.com/track/588243362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/5/0/ae5256073484312323fd6b5d7fe896d2.mp3?hdnea=exp=1795718288~acl=/api/1/1/a/e/5/0/ae5256073484312323fd6b5d7fe896d2.mp3*~data=user_id=0,application_id=42~hmac=eb01287747c3ae10b4bd4b8ccf7f3cdb81f38f906c6361ce240fdc1e63c686fe",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Little Darling (I Need You)",
+            "length": "2:46",
+            "deezer": {
+              "id": 588243372,
+              "link": "https://www.deezer.com/track/588243372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/c/0/20cf58774f43e79dadc3a4b2f29dfd33.mp3?hdnea=exp=1795718288~acl=/api/1/1/2/0/c/0/20cf58774f43e79dadc3a4b2f29dfd33.mp3*~data=user_id=0,application_id=42~hmac=ca1e4e6874e032f182ef7afd87db1663852f1987b06d2beb5a3840219e78efe6",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Sweeter as the Days Go By",
+            "length": "2:48",
+            "deezer": {
+              "id": 588243382,
+              "link": "https://www.deezer.com/track/588243382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/5/0/af518049ffbb5033b6fddb51eaeb4711.mp3?hdnea=exp=1795718288~acl=/api/1/1/a/f/5/0/af518049ffbb5033b6fddb51eaeb4711.mp3*~data=user_id=0,application_id=42~hmac=8b5403bceeb27debfc940970bdf375c861bf1c81c618f7fe5279ab2279bfd5a7",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "It Takes Two",
+            "length": "2:56",
+            "artist": "Marvin Gaye feat. Kim Weston",
+            "deezer": {
+              "id": 588243392,
+              "link": "https://www.deezer.com/track/588243392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/6/0/7d6440db7d2eee058ad26ee618fd0e9a.mp3?hdnea=exp=1795718288~acl=/api/1/1/7/d/6/0/7d6440db7d2eee058ad26ee618fd0e9a.mp3*~data=user_id=0,application_id=42~hmac=722b2bb68018a4ed4183ed9b9cc3bd56561826582d9db11aace28bcaeaf055dc",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Ain't No Mountain High Enough",
+            "length": "2:28",
+            "artist": "Marvin Gaye feat. Tammi Terrell",
+            "deezer": {
+              "id": 588243402,
+              "link": "https://www.deezer.com/track/588243402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/e/0/59e092ec9490db0b0ea0e2f570929ac2.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/9/e/0/59e092ec9490db0b0ea0e2f570929ac2.mp3*~data=user_id=0,application_id=42~hmac=f748953d84b09f4a6aa500d330f46790a70f530b9afd0ba84d2f8ca4c49735b8",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Your Unchanging Love",
+            "length": "3:03",
+            "deezer": {
+              "id": 588243412,
+              "link": "https://www.deezer.com/track/588243412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/b/0/f7bf97b23eda39abc36afac45472fe0f.mp3?hdnea=exp=1795718288~acl=/api/1/1/f/7/b/0/f7bf97b23eda39abc36afac45472fe0f.mp3*~data=user_id=0,application_id=42~hmac=a487cac0ba0116ae9bfbb2ca40681677b7a46a73d2fec92859f4ba8fb3891b20",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Sweet Thing",
+            "length": "3:06",
+            "deezer": {
+              "id": 588243422,
+              "link": "https://www.deezer.com/track/588243422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/5/0/275642ce05a5e8bd31acfbf068c50fb8.mp3?hdnea=exp=1795718288~acl=/api/1/1/2/7/5/0/275642ce05a5e8bd31acfbf068c50fb8.mp3*~data=user_id=0,application_id=42~hmac=2c37850b071818ec068c2a08b865963bde437a3eccc310e77b4270c4e8333cc5",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Your Precious Love",
+            "length": "3:00",
+            "artist": "Marvin Gaye feat. Tammi Terrell",
+            "deezer": {
+              "id": 588243432,
+              "link": "https://www.deezer.com/track/588243432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/0/0/880a28b3f1842a56d0d25acef4997a68.mp3?hdnea=exp=1795718288~acl=/api/1/1/8/8/0/0/880a28b3f1842a56d0d25acef4997a68.mp3*~data=user_id=0,application_id=42~hmac=5e6eb0f520a2394af6aa6d3b7e7dae47cbc505d8bf496b6a7eef751fac03c05b",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "If I Could Build My Whole World Around You",
+            "length": "2:22",
+            "artist": "Marvin Gaye feat. Tammi Terrell",
+            "deezer": {
+              "id": 588243442,
+              "link": "https://www.deezer.com/track/588243442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/8/0/6d8b92810c76fa573bb1dc53aa25cbb4.mp3?hdnea=exp=1795718288~acl=/api/1/1/6/d/8/0/6d8b92810c76fa573bb1dc53aa25cbb4.mp3*~data=user_id=0,application_id=42~hmac=386a87607a0289a4686cccef24a308cae794d82be6939bb36b1543ca910b1bf3",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "You",
+            "length": "2:25",
+            "deezer": {
+              "id": 588243452,
+              "link": "https://www.deezer.com/track/588243452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/d/0/f1dd99aff5a7615d81773e65a0f0dec1.mp3?hdnea=exp=1795718288~acl=/api/1/1/f/1/d/0/f1dd99aff5a7615d81773e65a0f0dec1.mp3*~data=user_id=0,application_id=42~hmac=7660a14e7b7cfc0557a7322e7884f9e31a02213e698582e7ed50ca8292d47a84",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Ain't Nothing Like the Real Thing",
+            "length": "2:17",
+            "artist": "Marvin Gaye feat. Tammi Terrell",
+            "deezer": {
+              "id": 588243462,
+              "link": "https://www.deezer.com/track/588243462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/7/0/587c133ce99be95ff2d887d0383f88df.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/8/7/0/587c133ce99be95ff2d887d0383f88df.mp3*~data=user_id=0,application_id=42~hmac=99462b8972589f71b7a8fae9ce32a97042913a722be69ae951c3363967e2274b",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "You're All I Need to Get By",
+            "length": "2:40",
+            "artist": "Marvin Gaye feat. Tammi Terrell",
+            "deezer": {
+              "id": 588243472,
+              "link": "https://www.deezer.com/track/588243472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/8/0/7980638d6f1338c77e52a69709498f1b.mp3?hdnea=exp=1795718288~acl=/api/1/1/7/9/8/0/7980638d6f1338c77e52a69709498f1b.mp3*~data=user_id=0,application_id=42~hmac=dcb6839ff18348b0eb655f029e0360e828cda7d807f99f61009d77f8588a67f4",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Chained",
+            "length": "2:36",
+            "deezer": {
+              "id": 588243482,
+              "link": "https://www.deezer.com/track/588243482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/2/0/c1258dced86f0b930db04e4c83d4dd25.mp3?hdnea=exp=1795718288~acl=/api/1/1/c/1/2/0/c1258dced86f0b930db04e4c83d4dd25.mp3*~data=user_id=0,application_id=42~hmac=39726ae3c9f00e902e40e8eefc32aa7a679e86ecd0143f62cf98322430aefd77",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "I Heard It Through the Grapevine",
+            "length": "3:13",
+            "deezer": {
+              "id": 588243492,
+              "link": "https://www.deezer.com/track/588243492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/3/0/5f31f3363583428b1fc7b1ec0f094248.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/f/3/0/5f31f3363583428b1fc7b1ec0f094248.mp3*~data=user_id=0,application_id=42~hmac=74f9e734008e252f0c48cc5f2b67d51b8d36d6773d5453386fd4aecd74eabd51",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "Too Busy Thinking About My Baby",
+            "length": "2:57",
+            "deezer": {
+              "id": 588243502,
+              "link": "https://www.deezer.com/track/588243502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/e/0/8ae0fdd06dc8d6bce58b72f18b440a0a.mp3?hdnea=exp=1795718288~acl=/api/1/1/8/a/e/0/8ae0fdd06dc8d6bce58b72f18b440a0a.mp3*~data=user_id=0,application_id=42~hmac=2516af3fe87617f3dc0c6daa34f754d459b50903d9c3aa944fedd1def6ede32e",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "That's the Way Love Is",
+            "length": "3:36",
+            "deezer": {
+              "id": 588243512,
+              "link": "https://www.deezer.com/track/588243512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/3/0/5b3b522bd9f15fb3dd6cbdd42fb5e006.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/b/3/0/5b3b522bd9f15fb3dd6cbdd42fb5e006.mp3*~data=user_id=0,application_id=42~hmac=f1b3d23130e59a9be10caef2ee8d8ed981e5ff1762d9528b689a340c9145ff95",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "What's Going On",
+            "length": "3:58",
+            "deezer": {
+              "id": 588243522,
+              "link": "https://www.deezer.com/track/588243522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/9/0/cd93010b81de1ac49a96f18585d3f4e9.mp3?hdnea=exp=1795718288~acl=/api/1/1/c/d/9/0/cd93010b81de1ac49a96f18585d3f4e9.mp3*~data=user_id=0,application_id=42~hmac=6bf18f38e8f317e240a67256185527e45244c2f035c4f2b44d104b72038057a2",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "God Is Love",
+            "length": "2:52",
+            "deezer": {
+              "id": 588243532,
+              "link": "https://www.deezer.com/track/588243532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/5/0/ae5d55fc839bdf50df94594b97e1fe2c.mp3?hdnea=exp=1795718288~acl=/api/1/1/a/e/5/0/ae5d55fc839bdf50df94594b97e1fe2c.mp3*~data=user_id=0,application_id=42~hmac=ee8f81dd80b7af205e6f2564a1c4b6d8e7047baaa83587000611b4ccc796a6be",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Mercy Mercy Me (The Ecology)",
+            "length": "2:34",
+            "deezer": {
+              "id": 588243552,
+              "link": "https://www.deezer.com/track/588243552",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/3/0/54315429d062c941eae3b4fb2420c596.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/4/3/0/54315429d062c941eae3b4fb2420c596.mp3*~data=user_id=0,application_id=42~hmac=ded72964b0f09dab44466f1ec586e465766c07e4fd59a8b657e0feffc2c81d3c",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Inner City Blues (Make Me Wanna Holler)",
+            "length": "2:58",
+            "deezer": {
+              "id": 588243562,
+              "link": "https://www.deezer.com/track/588243562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/6/0/8368ddab2c9e0e6b1069bae8d8673a87.mp3?hdnea=exp=1795718288~acl=/api/1/1/8/3/6/0/8368ddab2c9e0e6b1069bae8d8673a87.mp3*~data=user_id=0,application_id=42~hmac=b282481e347bda621ab47b811cc24dc0a51a9cc78ea07d07e6b39579e79c6a10",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sad Tomorrows",
+            "length": "2:23",
+            "deezer": {
+              "id": 588243572,
+              "link": "https://www.deezer.com/track/588243572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/2/0/25286c82eeb43e612b2f303e0f4c52b4.mp3?hdnea=exp=1795718288~acl=/api/1/1/2/5/2/0/25286c82eeb43e612b2f303e0f4c52b4.mp3*~data=user_id=0,application_id=42~hmac=b8de5a5b1287741416b9372aee6fd5f5881d96918adf39d665bd0fc336299dc8",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "You're the Man, Parts I & II",
+            "length": "5:45",
+            "deezer": {
+              "id": 588243582,
+              "link": "https://www.deezer.com/track/588243582",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/c/0/4ac0c36cd61fab2380bc93100c71cd12.mp3?hdnea=exp=1795718288~acl=/api/1/1/4/a/c/0/4ac0c36cd61fab2380bc93100c71cd12.mp3*~data=user_id=0,application_id=42~hmac=a2eb887b651dc364f5ae8e903508b0ee89d490e55eb5a321053bbf7d62aeaa84",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The World Is Rated X",
+            "length": "3:50",
+            "deezer": {
+              "id": 588243592,
+              "link": "https://www.deezer.com/track/588243592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/f/0/eaf8dc7838fc6b0d8b459685656c0d72.mp3?hdnea=exp=1795718288~acl=/api/1/1/e/a/f/0/eaf8dc7838fc6b0d8b459685656c0d72.mp3*~data=user_id=0,application_id=42~hmac=851559b5abc310ddc078045d8c70c66a57f607e92db2aa44ba65b7abc0aa8bea",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Trouble Man",
+            "length": "3:58",
+            "deezer": {
+              "id": 588243602,
+              "link": "https://www.deezer.com/track/588243602",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/f/0/2ff012092b325e7edabfd44afe9723aa.mp3?hdnea=exp=1795718288~acl=/api/1/1/2/f/f/0/2ff012092b325e7edabfd44afe9723aa.mp3*~data=user_id=0,application_id=42~hmac=5121b68817a4e49ed02eb776e5ea60a5d00074730ac74d58d6ef7dcedaf80f27",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Let's Get It On",
+            "length": "4:02",
+            "deezer": {
+              "id": 588243612,
+              "link": "https://www.deezer.com/track/588243612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/2/0/1b2c316f37becbb30f2b1f5805770099.mp3?hdnea=exp=1795718288~acl=/api/1/1/1/b/2/0/1b2c316f37becbb30f2b1f5805770099.mp3*~data=user_id=0,application_id=42~hmac=a7a0127119be29da85da8e39c50f60997b6e08f4c52d9caf99ac6bf622e25948",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Come Get to This",
+            "length": "2:41",
+            "deezer": {
+              "id": 588243622,
+              "link": "https://www.deezer.com/track/588243622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/625781bdd5ab8e7bee7ab257ca8ae698.mp3?hdnea=exp=1795718288~acl=/api/1/1/6/2/5/0/625781bdd5ab8e7bee7ab257ca8ae698.mp3*~data=user_id=0,application_id=42~hmac=f0e0250abcf56b3b650bd7bb49ee3e9de95fde83f58a5fb43cc92a3c8f5b5460",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Just to Keep You Satisfied",
+            "length": "4:26",
+            "deezer": {
+              "id": 588243632,
+              "link": "https://www.deezer.com/track/588243632",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/3/0/57316d5de697cb3d29fe318025f15415.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/7/3/0/57316d5de697cb3d29fe318025f15415.mp3*~data=user_id=0,application_id=42~hmac=c8dc410fe0dfc5689423d717074023e4249bc7186d6b53c25c974af9b4f6ea84",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "My Mistake (Was to Love You)",
+            "length": "2:55",
+            "artist": "Marvin Gaye & Diana Ross",
+            "deezer": {
+              "id": 588243642,
+              "link": "https://www.deezer.com/track/588243642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/d/0/f0ddae4a87a4518036b182de31b82350.mp3?hdnea=exp=1795718288~acl=/api/1/1/f/0/d/0/f0ddae4a87a4518036b182de31b82350.mp3*~data=user_id=0,application_id=42~hmac=0f5609714377b26ed4856ad14363fdd9241fbca5447d3cfe98ea17ca47dc6c5e",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Distant Lover (live)",
+            "length": "3:56",
+            "deezer": {
+              "id": 588243652,
+              "link": "https://www.deezer.com/track/588243652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/5/0/525091ee80f9cfc82526fdb82fe11282.mp3?hdnea=exp=1795718288~acl=/api/1/1/5/2/5/0/525091ee80f9cfc82526fdb82fe11282.mp3*~data=user_id=0,application_id=42~hmac=314bd35cadc6a93581db09991bf98ee98df63d2e8592f20b04764c19fe993485",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "I Want You",
+            "length": "3:56",
+            "deezer": {
+              "id": 588243662,
+              "link": "https://www.deezer.com/track/588243662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/e/0/70ea4fae96a36d081bbe8c413a05f3cf.mp3?hdnea=exp=1795718288~acl=/api/1/1/7/0/e/0/70ea4fae96a36d081bbe8c413a05f3cf.mp3*~data=user_id=0,application_id=42~hmac=fd84d6998851fbcc2ae25166ffcb92e128cab84f193476a2ccc45e497569ac8a",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "After the Dance",
+            "length": "3:31",
+            "deezer": {
+              "id": 588243672,
+              "link": "https://www.deezer.com/track/588243672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/d/0/42d1ad0576827a180ab2f4c9e487da23.mp3?hdnea=exp=1795718288~acl=/api/1/1/4/2/d/0/42d1ad0576827a180ab2f4c9e487da23.mp3*~data=user_id=0,application_id=42~hmac=fedea1b444c23a678e6249b083bc36b1c6d2df614260569cad72504fe2f3ef97",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Got to Give It Up, Part I",
+            "length": "4:12",
+            "deezer": {
+              "id": 588243682,
+              "link": "https://www.deezer.com/track/588243682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/2/0/be2c07f8371ebce4d2e7c90e3c82dec7.mp3?hdnea=exp=1795718288~acl=/api/1/1/b/e/2/0/be2c07f8371ebce4d2e7c90e3c82dec7.mp3*~data=user_id=0,application_id=42~hmac=f6a597edb6d9c2c642d57958135f53239185abbed30724f4bab4a4554d0da47f",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "When Did You Stop Loving Me, When Did I Stop Loving You",
+            "length": "6:17",
+            "deezer": {
+              "id": 588243692,
+              "link": "https://www.deezer.com/track/588243692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/0/0/180b4b87cbc255483fe0c505a1eebcc6.mp3?hdnea=exp=1795718288~acl=/api/1/1/1/8/0/0/180b4b87cbc255483fe0c505a1eebcc6.mp3*~data=user_id=0,application_id=42~hmac=11bb22ebbed6a329478da4c01d1c3ddfd7f9e526fa43e3b0447ba73aac94e092",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Ego Tripping Out",
+            "length": "5:10",
+            "deezer": {
+              "id": 588243702,
+              "link": "https://www.deezer.com/track/588243702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/0/0/fb0d9c5892d30c3bc5f77502eb67ca5c.mp3?hdnea=exp=1795718288~acl=/api/1/1/f/b/0/0/fb0d9c5892d30c3bc5f77502eb67ca5c.mp3*~data=user_id=0,application_id=42~hmac=519ed676e10dd444e8b88bb3d0251abc70fff2492f13d09229d1fc48401a1d8d",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Praise",
+            "length": "3:52",
+            "deezer": {
+              "id": 588243712,
+              "link": "https://www.deezer.com/track/588243712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/3/0/dd3b2ddc0071caefd2d23dafb3cfecf6.mp3?hdnea=exp=1795718288~acl=/api/1/1/d/d/3/0/dd3b2ddc0071caefd2d23dafb3cfecf6.mp3*~data=user_id=0,application_id=42~hmac=b2179c6f54f25bfd0678bdd69867f31d87811342426399820e27098806cca337",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Heavy Love Affair",
+            "length": "3:45",
+            "deezer": {
+              "id": 588243722,
+              "link": "https://www.deezer.com/track/588243722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/7/0/8875f128f42cd4e82f1847e06bc5acbe.mp3?hdnea=exp=1795718288~acl=/api/1/1/8/8/7/0/8875f128f42cd4e82f1847e06bc5acbe.mp3*~data=user_id=0,application_id=42~hmac=1a4b58f0cf872c6a917e6ac05ce75860561c8f4a030733834ae9291abb7c1ca2",
+              "preview_expires": "2026-11-26T18:38:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Marvin Gaye/Anthology.jpg"
+}

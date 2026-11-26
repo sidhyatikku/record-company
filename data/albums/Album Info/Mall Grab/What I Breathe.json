@@ -1,0 +1,188 @@
+{
+  "title": "What I Breathe",
+  "artist": "Mall Grab",
+  "year": 2022,
+  "release_date": "2022-08-05",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/47d56be5-cde4-4d39-bdae-06bba82f829d",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003742285",
+    "discogs": "https://www.discogs.com/master/2740331",
+    "deezer": "https://www.deezer.com/album/992205641"
+  },
+  "musicbrainz_id": "47d56be5-cde4-4d39-bdae-06bba82f829d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1754bc06-77c5-4d46-9d22-3f9101a2ecca",
+      "barcode": "00602445764839",
+      "title": "What I Breathe",
+      "disambiguation": null,
+      "date": "2022-08-05",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "1:00:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hand in Hand Through Wonderland",
+            "length": "5:27",
+            "deezer": {
+              "id": 4047622251,
+              "link": "https://www.deezer.com/track/4047622251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/b/0/dab671b6f5f8a4409db57b4968dadbc9.mp3?hdnea=exp=1795718212~acl=/api/1/1/d/a/b/0/dab671b6f5f8a4409db57b4968dadbc9.mp3*~data=user_id=0,application_id=42~hmac=b57ed5c71b2a88689fb07449c1635ee8e087bf2c570e3ca613fedeb56c7946c3",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Can Remember It So Vividly",
+            "length": "4:28",
+            "deezer": {
+              "id": 4047622261,
+              "link": "https://www.deezer.com/track/4047622261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/4/0/8448dc8cbafcb194067c23574abe8204.mp3?hdnea=exp=1795718212~acl=/api/1/1/8/4/4/0/8448dc8cbafcb194067c23574abe8204.mp3*~data=user_id=0,application_id=42~hmac=2a2d3227f33cda281bfb0ad9745a0c970d8bae914723d2dbaf150028aa776ec4",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Love Reigns",
+            "length": "4:54",
+            "deezer": {
+              "id": 4047622271,
+              "link": "https://www.deezer.com/track/4047622271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/8/0/8d877924732a4e23e0a80651d96ddd0a.mp3?hdnea=exp=1795718212~acl=/api/1/1/8/d/8/0/8d877924732a4e23e0a80651d96ddd0a.mp3*~data=user_id=0,application_id=42~hmac=c0779966300c1787e9db98578112486733110e393bd78f3904beb79e5cf56541",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Understand",
+            "length": "3:44",
+            "artist": "Mall Grab feat. Brendan Yates",
+            "deezer": {
+              "id": 4047622281,
+              "link": "https://www.deezer.com/track/4047622281",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/3/0/043eb00154b46d5aca2db5ba49ce7be6.mp3?hdnea=exp=1795718212~acl=/api/1/1/0/4/3/0/043eb00154b46d5aca2db5ba49ce7be6.mp3*~data=user_id=0,application_id=42~hmac=ae15df09d711f88a8225d7164c8114611e317bcc3fbb68551633e2c2100dbd89",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Patience",
+            "length": "4:18",
+            "artist": "Mall Grab feat. Nia Archives",
+            "deezer": {
+              "id": 4047622291,
+              "link": "https://www.deezer.com/track/4047622291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/1/0/4913ca36acde43e9dcbb57884b4e0301.mp3?hdnea=exp=1795718212~acl=/api/1/1/4/9/1/0/4913ca36acde43e9dcbb57884b4e0301.mp3*~data=user_id=0,application_id=42~hmac=f33f61b7ec8de615a441e6e04764091f575a61778d4348cbdba8830bf5ae619a",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Without the Sun",
+            "length": "4:26",
+            "deezer": {
+              "id": 4047622301,
+              "link": "https://www.deezer.com/track/4047622301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dc45a8e142c8f0cb98e0f7423a541b6.mp3?hdnea=exp=1795718212~acl=/api/1/1/0/d/c/0/0dc45a8e142c8f0cb98e0f7423a541b6.mp3*~data=user_id=0,application_id=42~hmac=132a5651e3f9b120e7c0fa97291d4c5457136ba77f30d0ea5efb3650c133064c",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Spirit Wave",
+            "length": "5:16",
+            "deezer": {
+              "id": 4047622311,
+              "link": "https://www.deezer.com/track/4047622311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/1/0/ab12e9f1e9b9178ce0d4d948ca0fe9e4.mp3?hdnea=exp=1795718212~acl=/api/1/1/a/b/1/0/ab12e9f1e9b9178ce0d4d948ca0fe9e4.mp3*~data=user_id=0,application_id=42~hmac=e0ec0f459cdb533b4d77f5807a728dc3dfb35d1ed779d3573b1e0ff3ab34c704",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Breathing",
+            "length": "4:47",
+            "deezer": {
+              "id": 4047622321,
+              "link": "https://www.deezer.com/track/4047622321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/7/0/d27f5cd784c89b175fb0fbe3b995dbc7.mp3?hdnea=exp=1795718212~acl=/api/1/1/d/2/7/0/d27f5cd784c89b175fb0fbe3b995dbc7.mp3*~data=user_id=0,application_id=42~hmac=7919d59d30da4314ccc2cb5a53972d23003ca4be9da0df670ba857de693b31f6",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Intercity Relations",
+            "length": "4:46",
+            "deezer": {
+              "id": 4047622331,
+              "link": "https://www.deezer.com/track/4047622331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/e/0/12ebf633010a750703e3921d1a14740f.mp3?hdnea=exp=1795718212~acl=/api/1/1/1/2/e/0/12ebf633010a750703e3921d1a14740f.mp3*~data=user_id=0,application_id=42~hmac=2e62db0c69880a56e38c36254de2c0cc2513d1b9f7e8ea19180dbd110bdf4d89",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Times Change",
+            "length": "3:05",
+            "artist": "Mall Grab feat. D Double E & Novelist",
+            "deezer": {
+              "id": 4047622341,
+              "link": "https://www.deezer.com/track/4047622341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/8/0/6d882cf4eb2864fe758b3e221c9ab21f.mp3?hdnea=exp=1795718212~acl=/api/1/1/6/d/8/0/6d882cf4eb2864fe758b3e221c9ab21f.mp3*~data=user_id=0,application_id=42~hmac=fb9aba07207edd629cfbe6fbcb3e66951fcd2837e616186850aa1c2c04f1d704",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Distant Conversation",
+            "length": "5:17",
+            "deezer": {
+              "id": 4047622351,
+              "link": "https://www.deezer.com/track/4047622351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/d/0/5dd90bd479dd896919e26572a800ff0b.mp3?hdnea=exp=1795718212~acl=/api/1/1/5/d/d/0/5dd90bd479dd896919e26572a800ff0b.mp3*~data=user_id=0,application_id=42~hmac=d9d9f12ac6114eb2817e5735d7c8f224638ad3107ecba4a62a04441c3a73fa63",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Metaphysical",
+            "length": "5:04",
+            "deezer": {
+              "id": 4047622361,
+              "link": "https://www.deezer.com/track/4047622361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/f/0/c2f4f1d47b7c8a8ce0a7e805f84f80e3.mp3?hdnea=exp=1795718212~acl=/api/1/1/c/2/f/0/c2f4f1d47b7c8a8ce0a7e805f84f80e3.mp3*~data=user_id=0,application_id=42~hmac=e752171f1dd39f08bb56e5b03af547f31636f0896fc8d5ddab311e89a18df985",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Lost in Harajuku",
+            "length": "4:36",
+            "deezer": {
+              "id": 4047622371,
+              "link": "https://www.deezer.com/track/4047622371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/2/0/072993e9f5fd481d751080a064140034.mp3?hdnea=exp=1795718212~acl=/api/1/1/0/7/2/0/072993e9f5fd481d751080a064140034.mp3*~data=user_id=0,application_id=42~hmac=c4176e29d25a30a56121e3238f066fc4612d9bdd2644883b4f7842e77b54b51e",
+              "preview_expires": "2026-11-26T18:36:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mall Grab/What I Breathe.jpg"
+}

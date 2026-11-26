@@ -1,0 +1,133 @@
+{
+  "title": "Slambook",
+  "artist": "Frappe Ash",
+  "year": 2021,
+  "release_date": "2021-06-04",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/51fbf8e3-a812-4675-95a6-8f00b2dd8fa1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/232607942"
+  },
+  "musicbrainz_id": "51fbf8e3-a812-4675-95a6-8f00b2dd8fa1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/69eca16d-fbdb-454b-8658-1e3d17f4841f",
+      "barcode": "196006755768",
+      "title": "Slambook",
+      "disambiguation": null,
+      "date": "2021-06-04",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "9:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Come Alive",
+            "length": null,
+            "deezer": {
+              "id": 1382766822,
+              "link": "https://www.deezer.com/track/1382766822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/c/0/7cc7ba0ce0dc66476b1248321bd1bad9.mp3?hdnea=exp=1795654446~acl=/api/1/1/7/c/c/0/7cc7ba0ce0dc66476b1248321bd1bad9.mp3*~data=user_id=0,application_id=42~hmac=136ab190b6c7a00578625427c8cac38bddae6ac1895db03c4038a4d945047e24",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Dumb Ladke",
+            "length": "3:33",
+            "deezer": {
+              "id": 1382766832,
+              "link": "https://www.deezer.com/track/1382766832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a50f7fa7d1cd4a2af3cf840aa81e59f.mp3?hdnea=exp=1795654446~acl=/api/1/1/7/a/5/0/7a50f7fa7d1cd4a2af3cf840aa81e59f.mp3*~data=user_id=0,application_id=42~hmac=9d539171b885b72c5a8dce91c66f9a93b20c7e26ac82b50cf791a7bb44c1a210",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Apni Wali",
+            "length": "2:39",
+            "deezer": {
+              "id": 1382766842,
+              "link": "https://www.deezer.com/track/1382766842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/a/0/3aa2570e38ec234f0638f054124fd4d4.mp3?hdnea=exp=1795654446~acl=/api/1/1/3/a/a/0/3aa2570e38ec234f0638f054124fd4d4.mp3*~data=user_id=0,application_id=42~hmac=8ba88ea59076aa9baa1a5cb5cc71d6898c9b53fafb2c35043e1464fd8ffaae29",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Nashedi",
+            "length": "2:54",
+            "artist": "Frappe Ash & Harjas Harjaayi",
+            "deezer": {
+              "id": 1382766852,
+              "link": "https://www.deezer.com/track/1382766852",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/9/0/da9b3e58e4a24a2c49dc2c4ff45afdf5.mp3?hdnea=exp=1795654446~acl=/api/1/1/d/a/9/0/da9b3e58e4a24a2c49dc2c4ff45afdf5.mp3*~data=user_id=0,application_id=42~hmac=37d65e7772768beb2a87438fc94abd1013dcbe27e68b1f9785c34da1db953bd1",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Fallin",
+            "length": null,
+            "artist": "Frappe Ash & Rae",
+            "deezer": {
+              "id": 1382766862,
+              "link": "https://www.deezer.com/track/1382766862",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/8/0/0c865b8fe02c7fecb5d689c71cfb37e8.mp3?hdnea=exp=1795654446~acl=/api/1/1/0/c/8/0/0c865b8fe02c7fecb5d689c71cfb37e8.mp3*~data=user_id=0,application_id=42~hmac=00d662826f5ea8886d7f0441357acd4dd80d27ba99afb8d27357931332459943",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Thanda Garam",
+            "length": null,
+            "artist": "Frappe Ash & Yashraj",
+            "deezer": {
+              "id": 1382766872,
+              "link": "https://www.deezer.com/track/1382766872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/5/0/0559442532aae566bfb4f60a4a5377d6.mp3?hdnea=exp=1795654446~acl=/api/1/1/0/5/5/0/0559442532aae566bfb4f60a4a5377d6.mp3*~data=user_id=0,application_id=42~hmac=d05c5f47a6e6a03874126e64646474ab7fbe9188918432a0df6076f4b06d92e8",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Matha Pacchi",
+            "length": null,
+            "artist": "Frappe Ash, Sahir, Enkore & Instine",
+            "deezer": {
+              "id": 1382766882,
+              "link": "https://www.deezer.com/track/1382766882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/f/0/adf784568847d03e5b27ce5db8bef8f1.mp3?hdnea=exp=1795654446~acl=/api/1/1/a/d/f/0/adf784568847d03e5b27ce5db8bef8f1.mp3*~data=user_id=0,application_id=42~hmac=0187d45949c04a0ab22f6af5726934e5c0b6b67dcb420a5198605df92e3b4f0f",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Kali Benz",
+            "length": null,
+            "artist": "Frappe Ash & luck",
+            "deezer": {
+              "id": 1382766892,
+              "link": "https://www.deezer.com/track/1382766892",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/9/0/039c2dc237f22c1c72366cca7a46325d.mp3?hdnea=exp=1795654446~acl=/api/1/1/0/3/9/0/039c2dc237f22c1c72366cca7a46325d.mp3*~data=user_id=0,application_id=42~hmac=a521b3a1f9ea11c94eb4efe409372af0fb0fd90563da4950ec991f5f2942551b",
+              "preview_expires": "2026-11-26T00:54:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Frappe Ash/Slambook.jpg"
+}

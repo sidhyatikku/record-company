@@ -1,0 +1,57 @@
+{
+  "title": "Rapture",
+  "artist": "Kunal Merchant, Payal Jay, Indo Warehouse",
+  "year": 2024,
+  "release_date": "2024-08-09",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4Yxr0nkt6xVqQsW88KynT0",
+    "deezer": "https://www.deezer.com/album/728715401"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4Yxr0nkt6xVqQsW88KynT0",
+      "title": "Rapture",
+      "date": "2024-08-09"
+    },
+    "total_tracks": 2,
+    "total_length": "8:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rapture",
+            "length": "2:59",
+            "deezer": {
+              "id": 3282192491,
+              "link": "https://www.deezer.com/track/3282192491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/3/0/b53edac8a8011c9951bcc2d04c2db6c1.mp3?hdnea=exp=1795656359~acl=/api/1/1/b/5/3/0/b53edac8a8011c9951bcc2d04c2db6c1.mp3*~data=user_id=0,application_id=42~hmac=b6d92c02a5ab72658a86baff192663f09a4b766461402cc64300a3c929183466",
+              "preview_expires": "2026-11-26T01:25:59Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rapture - Club Mix",
+            "length": "5:29",
+            "deezer": {
+              "id": 3282192501,
+              "link": "https://www.deezer.com/track/3282192501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/5/0/835fd5c013d68f290fab260b4a8a5179.mp3?hdnea=exp=1795656359~acl=/api/1/1/8/3/5/0/835fd5c013d68f290fab260b4a8a5179.mp3*~data=user_id=0,application_id=42~hmac=c9448a19fdbc1bc37c877d6d9119884c9b98c084e3d18a29df48b7c5fd87bec5",
+              "preview_expires": "2026-11-26T01:25:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kunal Merchant/Rapture.jpg"
+}

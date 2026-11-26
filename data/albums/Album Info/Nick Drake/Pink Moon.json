@@ -1,0 +1,184 @@
+{
+  "title": "Pink Moon",
+  "artist": "Nick Drake",
+  "year": 1972,
+  "release_date": "1972-02-25",
+  "type": "Album",
+  "description": "Pink Moon is the third and final studio album by the English musician Nick Drake, released in the UK by Island Records on 25 February 1972. It was the only one of Drake's studio albums to be released in North America during his lifetime. Pink Moon differs from Drake's previous albums in that it was recorded without a backing band, featuring just Drake on vocals and acoustic guitar, the only other instrumentation being a single piano melody overdubbed onto the title track.",
+  "genres": [
+    "folk",
+    "contemporary folk",
+    "folk pop",
+    "singer-songwriter"
+  ],
+  "tags": [
+    "folk",
+    "contemporary folk",
+    "folk baroque",
+    "british",
+    "english",
+    "english folk",
+    "folk pop",
+    "singer-songwriter",
+    "uk",
+    "world"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 13
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/740ec10a-e887-38a6-a04d-fe2069c9e2a7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pink_Moon",
+    "allmusic": "https://www.allmusic.com/album/mw0000315191",
+    "discogs": "https://www.discogs.com/master/13933",
+    "wikidata": "https://www.wikidata.org/wiki/Q574910",
+    "deezer": "https://www.deezer.com/album/231727202"
+  },
+  "musicbrainz_id": "740ec10a-e887-38a6-a04d-fe2069c9e2a7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/88c5060e-4707-4156-9d7a-decc3857484c",
+      "barcode": "0042284292320",
+      "title": "Pink Moon",
+      "disambiguation": "Universal M & L, Germany pressing",
+      "date": "2000",
+      "country": "GB"
+    },
+    "total_tracks": 11,
+    "total_length": "28:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pink Moon",
+            "length": "2:07",
+            "deezer": {
+              "id": 1379123002,
+              "link": "https://www.deezer.com/track/1379123002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/6/0/7e68c28d6b27da99cfbe1d46de397d73.mp3?hdnea=exp=1795718887~acl=/api/1/1/7/e/6/0/7e68c28d6b27da99cfbe1d46de397d73.mp3*~data=user_id=0,application_id=42~hmac=34342438cf58bfc4b8e7e8032e3958ae5854999d7df6ad96444f624fa153cf76",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Place to Be",
+            "length": "2:43",
+            "deezer": {
+              "id": 1379123022,
+              "link": "https://www.deezer.com/track/1379123022",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/9/0/539143ee12f253a955c7ce9d4961d917.mp3?hdnea=exp=1795718887~acl=/api/1/1/5/3/9/0/539143ee12f253a955c7ce9d4961d917.mp3*~data=user_id=0,application_id=42~hmac=6207922cbef5b502078fba6aea8de3b0333f7dab6dcef919068460de89489120",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Road",
+            "length": "2:02",
+            "deezer": {
+              "id": 1379123052,
+              "link": "https://www.deezer.com/track/1379123052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/2/0/f32eb951599b98e7374990cab2a4d68d.mp3?hdnea=exp=1795718887~acl=/api/1/1/f/3/2/0/f32eb951599b98e7374990cab2a4d68d.mp3*~data=user_id=0,application_id=42~hmac=2c746c5a80715ea43bdd43f75a548d2fe6488444c29f326d6270a8a79af9e534",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Which Will",
+            "length": "2:58",
+            "deezer": {
+              "id": 1379123062,
+              "link": "https://www.deezer.com/track/1379123062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/4/0/6a44574e46fbbb094ac180daf72fb140.mp3?hdnea=exp=1795718887~acl=/api/1/1/6/a/4/0/6a44574e46fbbb094ac180daf72fb140.mp3*~data=user_id=0,application_id=42~hmac=33235855f4b01682eaa400d5810c68040839d60116d3e6be21c7eb306730d69a",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Horn",
+            "length": "1:24",
+            "deezer": {
+              "id": 1379123072,
+              "link": "https://www.deezer.com/track/1379123072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/a/0/59ab59b153d1c90165909f612412734d.mp3?hdnea=exp=1795718887~acl=/api/1/1/5/9/a/0/59ab59b153d1c90165909f612412734d.mp3*~data=user_id=0,application_id=42~hmac=eec45b891a9db3cc0bfb279e46b7f7cf6f656ef4f7005f6b4c412e6417c21acc",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Things Behind the Sun",
+            "length": "3:57",
+            "deezer": {
+              "id": 1379123092,
+              "link": "https://www.deezer.com/track/1379123092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/2/0/cb26065191b66c0afd52a05b1dc5bf52.mp3?hdnea=exp=1795718887~acl=/api/1/1/c/b/2/0/cb26065191b66c0afd52a05b1dc5bf52.mp3*~data=user_id=0,application_id=42~hmac=53e810668a069711f9deac938f7a24cb9ca08c26223865a6c4cf3e951ee1f50d",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Know",
+            "length": "2:26",
+            "deezer": {
+              "id": 1379123102,
+              "link": "https://www.deezer.com/track/1379123102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/b/0/b5b394b8957d8b13f8088b5c145b7856.mp3?hdnea=exp=1795718887~acl=/api/1/1/b/5/b/0/b5b394b8957d8b13f8088b5c145b7856.mp3*~data=user_id=0,application_id=42~hmac=1df3e4872aeeec472e1bf9239a9785b20ca513fb3bd09ad3e802fe0c4766f24f",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Parasite",
+            "length": "3:36",
+            "deezer": {
+              "id": 1379123112,
+              "link": "https://www.deezer.com/track/1379123112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/d/0/22d68afcd62ebc34250ef633b38afb55.mp3?hdnea=exp=1795718887~acl=/api/1/1/2/2/d/0/22d68afcd62ebc34250ef633b38afb55.mp3*~data=user_id=0,application_id=42~hmac=2970dd681697f6eed6cae863153c194cb84df9779944e77b3d026db273675371",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Free Ride",
+            "length": "3:07",
+            "deezer": {
+              "id": 1379123122,
+              "link": "https://www.deezer.com/track/1379123122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/5/0/1c50870e430ee0fa4cd925181f7e36dc.mp3?hdnea=exp=1795718887~acl=/api/1/1/1/c/5/0/1c50870e430ee0fa4cd925181f7e36dc.mp3*~data=user_id=0,application_id=42~hmac=1ac7fd9c4cc3f90619cbbf25b0f8e433a5e956a4b58d35059107a3b4386eb004",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Harvest Breed",
+            "length": "1:37",
+            "deezer": {
+              "id": 1379123142,
+              "link": "https://www.deezer.com/track/1379123142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/0/0/ac011ff28d4cca28362e562a20294b9d.mp3?hdnea=exp=1795718887~acl=/api/1/1/a/c/0/0/ac011ff28d4cca28362e562a20294b9d.mp3*~data=user_id=0,application_id=42~hmac=07af10da59c40e3c7c6539fc10b8aae8cbc3866d210d5364bb04dfcbd6a59465",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "From the Morning",
+            "length": "2:32",
+            "deezer": {
+              "id": 1379123152,
+              "link": "https://www.deezer.com/track/1379123152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/8/0/d18647b7440e9432779d340020c6f00e.mp3?hdnea=exp=1795718887~acl=/api/1/1/d/1/8/0/d18647b7440e9432779d340020c6f00e.mp3*~data=user_id=0,application_id=42~hmac=67d8e3007c3b0538464211b2a5bdf1c3c52ea3bc3394cd5b44d76d1b8f8f6a9d",
+              "preview_expires": "2026-11-26T18:48:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nick Drake/Pink Moon.jpg"
+}

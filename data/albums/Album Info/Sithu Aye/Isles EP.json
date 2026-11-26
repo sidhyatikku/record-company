@@ -1,0 +1,131 @@
+{
+  "title": "Isles EP",
+  "artist": "Sithu Aye",
+  "year": 2012,
+  "release_date": "2012-02-11",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "djent",
+    "instrumental",
+    "metal",
+    "progressive metal"
+  ],
+  "tags": [
+    "djent",
+    "instrumental",
+    "metal",
+    "progressive metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0b0ff04f-9201-4774-915a-87b7130f397e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/117791972"
+  },
+  "musicbrainz_id": "0b0ff04f-9201-4774-915a-87b7130f397e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ca8fee8b-9915-4287-997b-e308f9f105f4",
+      "barcode": null,
+      "title": "Isles EP",
+      "disambiguation": null,
+      "date": "2012-02-11",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "27:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Isles",
+            "length": "1:16",
+            "deezer": {
+              "id": 797716662,
+              "link": "https://www.deezer.com/track/797716662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/2/0/6721e77520ab5b94c1ce624d663d3600.mp3?hdnea=exp=1795720700~acl=/api/1/1/6/7/2/0/6721e77520ab5b94c1ce624d663d3600.mp3*~data=user_id=0,application_id=42~hmac=f5ecdc78846cc88a46eca020792c6134a741bbaf4ce7c08afefac5238c69c4bc",
+              "preview_expires": "2026-11-26T19:18:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Skye",
+            "length": "6:34",
+            "deezer": {
+              "id": 797716672,
+              "link": "https://www.deezer.com/track/797716672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/f/0/04fe320ec128e44a3203f13446afb815.mp3?hdnea=exp=1795720700~acl=/api/1/1/0/4/f/0/04fe320ec128e44a3203f13446afb815.mp3*~data=user_id=0,application_id=42~hmac=9fee2ab8fe88ffb86cab3baf68c9ed3444ab0ef8b9493592fb01c002268bbb73",
+              "preview_expires": "2026-11-26T19:18:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Islay",
+            "length": "3:40",
+            "deezer": {
+              "id": 797716682,
+              "link": "https://www.deezer.com/track/797716682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/9/0/a99bf774db5474a05e5e5d04adbea35d.mp3?hdnea=exp=1795720700~acl=/api/1/1/a/9/9/0/a99bf774db5474a05e5e5d04adbea35d.mp3*~data=user_id=0,application_id=42~hmac=f1abc1889605e3b449d83fb5c36b3f8a49abb873ec352395d49c8308eb62a034",
+              "preview_expires": "2026-11-26T19:18:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Cuillin (Interlude)",
+            "length": "1:29",
+            "deezer": {
+              "id": 797716692,
+              "link": "https://www.deezer.com/track/797716692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/5/0/12562a756df1ecde82db3baae260994c.mp3?hdnea=exp=1795720700~acl=/api/1/1/1/2/5/0/12562a756df1ecde82db3baae260994c.mp3*~data=user_id=0,application_id=42~hmac=1e403d6bbe08a73b60a428bb5f21c6eec4ec5ddf0d6395721db6fa951fb79541",
+              "preview_expires": "2026-11-26T19:18:20Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Mull",
+            "length": "4:44",
+            "deezer": {
+              "id": 797716702,
+              "link": "https://www.deezer.com/track/797716702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/9/0/a3986159a9b4f997d571606bb2c7f79e.mp3?hdnea=exp=1795720700~acl=/api/1/1/a/3/9/0/a3986159a9b4f997d571606bb2c7f79e.mp3*~data=user_id=0,application_id=42~hmac=b263bbd4c43c1bea96e7e0da2735b1e6723f7fc46abd101ab383245fb0386fea",
+              "preview_expires": "2026-11-26T19:18:20Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Jura",
+            "length": "5:04",
+            "deezer": {
+              "id": 797716712,
+              "link": "https://www.deezer.com/track/797716712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/6/0/046a58cd1b275cfc89a07ccbd6410441.mp3?hdnea=exp=1795720700~acl=/api/1/1/0/4/6/0/046a58cd1b275cfc89a07ccbd6410441.mp3*~data=user_id=0,application_id=42~hmac=9681a5e5cadd82539a2902dc61556da361adfc357022ed128c0abf27ff7d4dbd",
+              "preview_expires": "2026-11-26T19:18:20Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Arrow + Knee = Adventure Over",
+            "length": "4:40",
+            "deezer": {
+              "id": 797716722,
+              "link": "https://www.deezer.com/track/797716722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/9/0/2395dfab60aed8345cb9ef37177ba1f5.mp3?hdnea=exp=1795720700~acl=/api/1/1/2/3/9/0/2395dfab60aed8345cb9ef37177ba1f5.mp3*~data=user_id=0,application_id=42~hmac=8cf8d54194285ed53fb9b41b83a31e7641f886734e533a4ba4d1d05b86913bb5",
+              "preview_expires": "2026-11-26T19:18:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/Isles EP.jpg"
+}

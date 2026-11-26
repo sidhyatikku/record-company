@@ -1,0 +1,89 @@
+{
+  "title": "Scary Hours 2",
+  "artist": "Drake",
+  "year": 2021,
+  "release_date": "2021-03-05",
+  "type": "EP",
+  "description": "Scary Hours 2 is the fourth extended play by Canadian rapper Drake and a sequel to his second extended play Scary Hours (2018). It was released on March 5, 2021, and features guest appearances from American rappers Lil Baby and Rick Ross. The only single, \"What's Next\", was released alongside the EP with an accompanying music video. A sequel, For All the Dogs Scary Hours Edition, was released on November 17, 2023.",
+  "genres": [
+    "blues rock",
+    "hip hop"
+  ],
+  "tags": [
+    "alt hip hop",
+    "blues rock",
+    "canadian hip hop",
+    "hip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b63d31fa-3d82-4442-a666-fd10afc641fb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scary_Hours_2",
+    "allmusic": "https://www.allmusic.com/album/mw0003490745",
+    "wikidata": "https://www.wikidata.org/wiki/Q105758802",
+    "deezer": "https://www.deezer.com/album/212457792"
+  },
+  "musicbrainz_id": "b63d31fa-3d82-4442-a666-fd10afc641fb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a1b3e250-5c05-41df-b825-4a03fa6254fb",
+      "barcode": "00602435945651",
+      "title": "Scary Hours 2",
+      "disambiguation": "explicit",
+      "date": "2021-03-05",
+      "country": "XW"
+    },
+    "total_tracks": 3,
+    "total_length": "12:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "What’s Next",
+            "length": "2:58",
+            "deezer": {
+              "id": 1265229652,
+              "link": "https://www.deezer.com/track/1265229652",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/6/0/d66885865bfa08751c8b6ee51c1cffa9.mp3?hdnea=exp=1795653571~acl=/api/1/1/d/6/6/0/d66885865bfa08751c8b6ee51c1cffa9.mp3*~data=user_id=0,application_id=42~hmac=35d14c09c6c5d33b5a4f8003cd35558de98bd078eea52e1ea538ec9bf2783b0a",
+              "preview_expires": "2026-11-26T00:39:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Wants and Needs",
+            "length": "3:13",
+            "artist": "Drake feat. Lil Baby",
+            "deezer": {
+              "id": 1265229662,
+              "link": "https://www.deezer.com/track/1265229662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/2/0/972caac2111dc84ae9d4a7bd209aab32.mp3?hdnea=exp=1795653571~acl=/api/1/1/9/7/2/0/972caac2111dc84ae9d4a7bd209aab32.mp3*~data=user_id=0,application_id=42~hmac=c077fc06f7bf6d5f0467e556007c40fdf993a4172a4fe59b718bd0a097c307ba",
+              "preview_expires": "2026-11-26T00:39:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lemon Pepper Freestyle",
+            "length": "6:23",
+            "artist": "Drake feat. Rick Ross",
+            "deezer": {
+              "id": 1265229672,
+              "link": "https://www.deezer.com/track/1265229672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/3/0/ce3c21d9a7a3fc06825477c3f66807bf.mp3?hdnea=exp=1795653571~acl=/api/1/1/c/e/3/0/ce3c21d9a7a3fc06825477c3f66807bf.mp3*~data=user_id=0,application_id=42~hmac=886efd536cf45c8599007bb765347a55b864d5c90b6a415f5898a1cb1fcbef34",
+              "preview_expires": "2026-11-26T00:39:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/Scary Hours 2.jpg"
+}

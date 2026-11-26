@@ -1,0 +1,200 @@
+{
+  "title": "In Utero",
+  "artist": "Nirvana",
+  "year": 1993,
+  "release_date": "1993-09-21",
+  "type": "Album",
+  "description": "In Utero is the third and final studio album by American rock band Nirvana, first released on September 13, 1993 in the UK and Europe, and internationally on 21 September by DGC Records. Displeased with the polished production of their previous album Nevermind (1991), Nirvana hired Steve Albini to give In Utero a more abrasive tone.",
+  "genres": [
+    "grunge",
+    "alternative rock",
+    "rock",
+    "noise rock",
+    "post-hardcore",
+    "slacker rock",
+    "metal",
+    "pigfuck",
+    "punk"
+  ],
+  "tags": [
+    "grunge",
+    "alternative rock",
+    "rock",
+    "noise rock",
+    "post-hardcore",
+    "slacker rock",
+    "alternative/indie",
+    "metal",
+    "pigfuck",
+    "punk"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 37
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2a0981fb-9593-3019-864b-ce934d97a16e",
+    "wikipedia": "https://en.wikipedia.org/wiki/In_Utero",
+    "allmusic": "https://www.allmusic.com/album/mw0000097301",
+    "discogs": "https://www.discogs.com/master/13859",
+    "wikidata": "https://www.wikidata.org/wiki/Q222001",
+    "deezer": "https://www.deezer.com/album/6916355"
+  },
+  "musicbrainz_id": "2a0981fb-9593-3019-864b-ce934d97a16e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d8c1f8c6-c055-43de-b429-50c2312fe4cf",
+      "barcode": "602537502950",
+      "title": "In Utero",
+      "disambiguation": "manufactured by optimal media GmbH",
+      "date": "2013",
+      "country": "XE"
+    },
+    "total_tracks": 12,
+    "total_length": "41:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Serve the Servants",
+            "length": "3:37",
+            "deezer": {
+              "id": 70466225,
+              "link": "https://www.deezer.com/track/70466225",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/8/0/b084ded8c294cf6aa771a3fa39033dc7.mp3?hdnea=exp=1795718962~acl=/api/1/1/b/0/8/0/b084ded8c294cf6aa771a3fa39033dc7.mp3*~data=user_id=0,application_id=42~hmac=3aaba79f067fdf055092bb8827b5d6b2b098cedb6002496a1e3f3466c5d61bca",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Scentless Apprentice",
+            "length": "3:48",
+            "deezer": {
+              "id": 70466226,
+              "link": "https://www.deezer.com/track/70466226",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/a/0/66afa1b02ec5ec5d5b42a90a3fffa537.mp3?hdnea=exp=1795718962~acl=/api/1/1/6/6/a/0/66afa1b02ec5ec5d5b42a90a3fffa537.mp3*~data=user_id=0,application_id=42~hmac=f871a4153d31a7b2454dbe2512fbcf8b49873f56a0cd017921ce0eb4076c3a63",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Heart‐Shaped Box",
+            "length": "4:41",
+            "deezer": {
+              "id": 70466227,
+              "link": "https://www.deezer.com/track/70466227",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/9/0/c39f01809050b9080daec9ef63c20e9d.mp3?hdnea=exp=1795718962~acl=/api/1/1/c/3/9/0/c39f01809050b9080daec9ef63c20e9d.mp3*~data=user_id=0,application_id=42~hmac=77d21c111dc47a1c8e64c71737669fc0ea4f2365f17424d012d332e76aced7b7",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Rape Me",
+            "length": "2:50",
+            "deezer": {
+              "id": 70466228,
+              "link": "https://www.deezer.com/track/70466228",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/a/0/cca9d7fca838123fda6b6eb34a6f142f.mp3?hdnea=exp=1795718962~acl=/api/1/1/c/c/a/0/cca9d7fca838123fda6b6eb34a6f142f.mp3*~data=user_id=0,application_id=42~hmac=13a0adaf680767dc1c1e51ad0ad1d18aaf2aa109db4607ef38b22426baf2e387",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Frances Farmer Will Have Her Revenge on Seattle",
+            "length": "4:10",
+            "deezer": {
+              "id": 70466229,
+              "link": "https://www.deezer.com/track/70466229",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/b/0/7cbc8be9b2bfe1c39ea50118dc4bf9e1.mp3?hdnea=exp=1795718962~acl=/api/1/1/7/c/b/0/7cbc8be9b2bfe1c39ea50118dc4bf9e1.mp3*~data=user_id=0,application_id=42~hmac=8ff17252878063ad9621966baab41dedf9b8fa47d8cdf4f7c9d77c6e5090f3bb",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Dumb",
+            "length": "2:32",
+            "deezer": {
+              "id": 70466230,
+              "link": "https://www.deezer.com/track/70466230",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/f/0/3aff269193371c91189a7598f1287414.mp3?hdnea=exp=1795718962~acl=/api/1/1/3/a/f/0/3aff269193371c91189a7598f1287414.mp3*~data=user_id=0,application_id=42~hmac=7efadcd08e537d4bd2b27864aca5d5c6451348fa67bf457cd1a534a7e6b5a8ee",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Very Ape",
+            "length": "1:56",
+            "deezer": {
+              "id": 70466231,
+              "link": "https://www.deezer.com/track/70466231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/9/0/8e9a0d4b736bd8e54580c8b87489f321.mp3?hdnea=exp=1795718962~acl=/api/1/1/8/e/9/0/8e9a0d4b736bd8e54580c8b87489f321.mp3*~data=user_id=0,application_id=42~hmac=8ba6f2bfb0fc5185249e788d1592279afe7a3a2cd90ef0ba7fd1159ea491796a",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Milk It",
+            "length": "3:55",
+            "deezer": {
+              "id": 70466232,
+              "link": "https://www.deezer.com/track/70466232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/b/0/f8b2883831a56f4f08041459704a40b2.mp3?hdnea=exp=1795718962~acl=/api/1/1/f/8/b/0/f8b2883831a56f4f08041459704a40b2.mp3*~data=user_id=0,application_id=42~hmac=1f53c24a982d2f60e01169393d9c350d9db381f05d1ef0b59e32a4e52dbe3fce",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Pennyroyal Tea",
+            "length": "3:39",
+            "deezer": {
+              "id": 70466233,
+              "link": "https://www.deezer.com/track/70466233",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/2/0/c02afbea97596cc77e27b022f0976831.mp3?hdnea=exp=1795718962~acl=/api/1/1/c/0/2/0/c02afbea97596cc77e27b022f0976831.mp3*~data=user_id=0,application_id=42~hmac=e2b98f24d8b0e4849a902d2efaa80758cae07aa65cdddcd33859e8d30bd555d2",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Radio Friendly Unit Shifter",
+            "length": "4:52",
+            "deezer": {
+              "id": 70466234,
+              "link": "https://www.deezer.com/track/70466234",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/7/0/4c7481d8f5d2b5af06c67d3785e4dc89.mp3?hdnea=exp=1795718962~acl=/api/1/1/4/c/7/0/4c7481d8f5d2b5af06c67d3785e4dc89.mp3*~data=user_id=0,application_id=42~hmac=c4ad80c4230064338ab55b878cdd9bb2320ea93de5847f7970740cf98ede7165",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "tourette’s",
+            "length": "1:35",
+            "deezer": {
+              "id": 70466235,
+              "link": "https://www.deezer.com/track/70466235",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a6d116a12bbb61b3e337fa06f5f997a.mp3?hdnea=exp=1795718962~acl=/api/1/1/8/a/6/0/8a6d116a12bbb61b3e337fa06f5f997a.mp3*~data=user_id=0,application_id=42~hmac=68ee81a5b42d830f2b58c315622fd28d14936e1119886fc4f5ae95c16eaf6003",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "All Apologies",
+            "length": "3:53",
+            "deezer": {
+              "id": 70466236,
+              "link": "https://www.deezer.com/track/70466236",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/4/0/994ff8d73fcb296f821772f6124f79f9.mp3?hdnea=exp=1795718962~acl=/api/1/1/9/9/4/0/994ff8d73fcb296f821772f6124f79f9.mp3*~data=user_id=0,application_id=42~hmac=b667bab6c19f9c0e1cd0fb5fc331f614fddefeaf126037767e9cad36d0b2d5a1",
+              "preview_expires": "2026-11-26T18:49:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nirvana/In Utero.png"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Naray / Kaamukta",
+  "artist": "VIZANO",
+  "year": 2025,
+  "release_date": "2025-09-19",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "afro house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4UulPi5lij58jzaHfAHXlU",
+    "deezer": "https://www.deezer.com/album/816610261"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4UulPi5lij58jzaHfAHXlU",
+      "title": "Naray / Kaamukta",
+      "date": "2025-09-19"
+    },
+    "total_tracks": 2,
+    "total_length": "13:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Naray",
+            "length": "6:11",
+            "deezer": {
+              "id": 3542159061,
+              "link": "https://www.deezer.com/track/3542159061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/a/0/c5a89c3b874c5bb4369e4e6f8497db9a.mp3?hdnea=exp=1795724244~acl=/api/1/1/c/5/a/0/c5a89c3b874c5bb4369e4e6f8497db9a.mp3*~data=user_id=0,application_id=42~hmac=f485b810dd264fb341b121aeea29bc4dedda7299fddd73462d5e23b65c4b82aa",
+              "preview_expires": "2026-11-26T20:17:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Kaamukta",
+            "length": "6:51",
+            "deezer": {
+              "id": 3542159071,
+              "link": "https://www.deezer.com/track/3542159071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/c/0/d8caee7cd956357b604c16d1bb632ad6.mp3?hdnea=exp=1795724244~acl=/api/1/1/d/8/c/0/d8caee7cd956357b604c16d1bb632ad6.mp3*~data=user_id=0,application_id=42~hmac=b93d3485928274f10274d6a7e3b5a79deefcf115d56c0019f4928559df634140",
+              "preview_expires": "2026-11-26T20:17:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/VIZANO/Naray - Kaamukta.jpg"
+}

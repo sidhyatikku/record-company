@@ -1,0 +1,53 @@
+{
+  "title": "Miracle Maker",
+  "artist": "Dom Dolla & Clementine Douglas",
+  "year": 2022,
+  "release_date": "2022-07-14",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/81773cf5-a624-40d7-973c-5098839f052b",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0003756031",
+    "deezer": "https://www.deezer.com/album/328059397"
+  },
+  "musicbrainz_id": "81773cf5-a624-40d7-973c-5098839f052b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fa58d8a2-d1f2-478d-88a6-4acca76b5b4a",
+      "barcode": "196589083685",
+      "title": "Miracle Maker",
+      "disambiguation": null,
+      "date": "2022-07-14",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Miracle Maker",
+            "length": "3:09",
+            "artist": "Dom Dolla feat. Clementine Douglas",
+            "deezer": {
+              "id": 1793904837,
+              "link": "https://www.deezer.com/track/1793904837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/f/0/7bf9ed1afb00451316291d342b192ddc.mp3?hdnea=exp=1795653461~acl=/api/1/1/7/b/f/0/7bf9ed1afb00451316291d342b192ddc.mp3*~data=user_id=0,application_id=42~hmac=9ffdcdff074f005c4c9f85005499e8d9a0e1069190e8d9d6bf75443ae4018451",
+              "preview_expires": "2026-11-26T00:37:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dom Dolla/Miracle Maker.jpg"
+}

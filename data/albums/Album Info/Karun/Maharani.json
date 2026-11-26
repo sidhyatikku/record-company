@@ -1,0 +1,51 @@
+{
+  "title": "Maharani",
+  "artist": "Karun, Lambo Drive, Arpit Bala & GHILDIYAL",
+  "year": 2021,
+  "release_date": "2021-12-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8e446f86-6a4d-452b-947e-5068d346c77c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/295004882"
+  },
+  "musicbrainz_id": "8e446f86-6a4d-452b-947e-5068d346c77c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5a9b57c5-b01d-409d-989f-86644f8f13ee",
+      "barcode": "3616844479925",
+      "title": "Maharani",
+      "disambiguation": null,
+      "date": "2021-12-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "6:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Maharani",
+            "length": "6:30",
+            "deezer": {
+              "id": 1653196882,
+              "link": "https://www.deezer.com/track/1653196882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/b/0/27bb7b2ce1e4d1c8e4459dca1152e158.mp3?hdnea=exp=1795656008~acl=/api/1/1/2/7/b/0/27bb7b2ce1e4d1c8e4459dca1152e158.mp3*~data=user_id=0,application_id=42~hmac=fb213d3676134e57f2de024b2eb271398a434f13dc4e662341533b4077d86581",
+              "preview_expires": "2026-11-26T01:20:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Karun/Maharani.jpg"
+}

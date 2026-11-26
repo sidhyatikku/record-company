@@ -1,0 +1,52 @@
+{
+  "title": "Gal Kardi",
+  "artist": "Talwiinder, Tech Panda & Kenzani",
+  "year": 2024,
+  "release_date": "2024-05-15",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4d3801aa-4e21-44a9-b1c1-a79afbb999bd",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/584941992"
+  },
+  "musicbrainz_id": "4d3801aa-4e21-44a9-b1c1-a79afbb999bd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d44dab40-8df5-4a35-963c-a989996ca14e",
+      "barcode": "859788132805",
+      "title": "Gal Kardi",
+      "disambiguation": null,
+      "date": "2024-05-15",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Gal Kardi",
+            "length": "2:41",
+            "artist": "Talwiinder, Tech Panda, Kenzani & Mitika Kanwar",
+            "deezer": {
+              "id": 2794806922,
+              "link": "https://www.deezer.com/track/2794806922",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/4/0/7149011dc9da7bede596229915584276.mp3?hdnea=exp=1795721198~acl=/api/1/1/7/1/4/0/7149011dc9da7bede596229915584276.mp3*~data=user_id=0,application_id=42~hmac=1598c38327c17cfec89b6ec8fa7d85e480700a3923a2ea2c815f2ddf903ae98a",
+              "preview_expires": "2026-11-26T19:26:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Talwiinder/Gal Kardi.jpg"
+}

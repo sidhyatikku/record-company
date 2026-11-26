@@ -1,0 +1,86 @@
+{
+  "title": "Sweet Dreams",
+  "artist": "La Bouche",
+  "year": 1994,
+  "release_date": "1994-06",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "euro house",
+    "eurodance",
+    "pop",
+    "trance"
+  ],
+  "tags": [
+    "euro house",
+    "eurodance",
+    "pop",
+    "trance"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1cfe144c-7ac2-4d53-93e6-edf3cbb3c0de",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/96368",
+    "deezer": "https://www.deezer.com/album/9817008"
+  },
+  "musicbrainz_id": "1cfe144c-7ac2-4d53-93e6-edf3cbb3c0de",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/120a31d8-037b-4e36-8919-72658f46905a",
+      "barcode": "743211943529",
+      "title": "Sweet Dreams (Hola Hola Eh)",
+      "disambiguation": null,
+      "date": "1994",
+      "country": "DE"
+    },
+    "total_tracks": 5,
+    "total_length": "25:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sweet Dreams (radio version)",
+            "length": "3:27",
+            "deezer": {
+              "id": 96461656,
+              "link": "https://www.deezer.com/track/96461656",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/7/0/5d769ffa354e86fd8e0642bf65eaf076.mp3?hdnea=exp=1795656383~acl=/api/1/1/5/d/7/0/5d769ffa354e86fd8e0642bf65eaf076.mp3*~data=user_id=0,application_id=42~hmac=49d4c8399a3e0a6d3377d140910596bdd22b3dc28d9361910d1c2a1cf3236a07",
+              "preview_expires": "2026-11-26T01:26:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Sweet Dreams (club mix)",
+            "length": "4:50"
+          },
+          {
+            "number": "3",
+            "title": "Sweet Dreams (House mix)",
+            "length": "6:39"
+          },
+          {
+            "number": "4",
+            "title": "Sweet Dreams (Oriental mix)",
+            "length": "5:20"
+          },
+          {
+            "number": "5",
+            "title": "Sweet Dreams (Hola mix)",
+            "length": "5:13"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/La Bouche/Sweet Dreams.jpg"
+}

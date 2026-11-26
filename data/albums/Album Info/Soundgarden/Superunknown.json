@@ -1,0 +1,224 @@
+{
+  "title": "Superunknown",
+  "artist": "Soundgarden",
+  "year": 1994,
+  "release_date": "1994-03-07",
+  "type": "Album",
+  "description": "Superunknown is the fourth studio album by American rock band Soundgarden, released on March 8, 1994, through A&M Records. Produced by Michael Beinhorn and the band themselves, Soundgarden began work on the album after touring in support of their previous album, Badmotorfinger (1991). Superunknown retained the heaviness of the band's earlier releases while displaying a more diverse range of influences.",
+  "genres": [
+    "alternative rock",
+    "alternative metal",
+    "grunge",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "alternative metal",
+    "grunge",
+    "rock",
+    "90s",
+    "alternative"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 22
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8300fe9c-0022-3c55-8a3e-8dc61f282e8c",
+    "wikipedia": "https://en.wikipedia.org/wiki/Superunknown",
+    "allmusic": "https://www.allmusic.com/album/mw0000107152",
+    "discogs": "https://www.discogs.com/master/11547",
+    "wikidata": "https://www.wikidata.org/wiki/Q739924",
+    "deezer": "https://www.deezer.com/album/7816775"
+  },
+  "musicbrainz_id": "8300fe9c-0022-3c55-8a3e-8dc61f282e8c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/58cbe676-b476-4255-9110-077857ec3e88",
+      "barcode": "00602537875580",
+      "title": "Superunknown",
+      "disambiguation": "20th anniversary",
+      "date": "2014-06-03",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "1:10:23",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Let Me Drown",
+            "length": "3:53",
+            "deezer": {
+              "id": 78573952,
+              "link": "https://www.deezer.com/track/78573952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/6/0/cb6f8b9386d9c95532420ea3e83014a5.mp3?hdnea=exp=1795720883~acl=/api/1/1/c/b/6/0/cb6f8b9386d9c95532420ea3e83014a5.mp3*~data=user_id=0,application_id=42~hmac=461965607b8c9a1228b7dfc7e40865c5e66a5cd36a952d09daa8b5182d49a8a6",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "My Wave",
+            "length": "5:13",
+            "deezer": {
+              "id": 78573955,
+              "link": "https://www.deezer.com/track/78573955",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/6/0/f1600132f3869798796da143f60df952.mp3?hdnea=exp=1795720883~acl=/api/1/1/f/1/6/0/f1600132f3869798796da143f60df952.mp3*~data=user_id=0,application_id=42~hmac=2ff04cc5983444f7d43f8495c6e283ecbcfa2369e703c1bc021765da453dc389",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Fell on Black Days",
+            "length": "4:43",
+            "deezer": {
+              "id": 78573957,
+              "link": "https://www.deezer.com/track/78573957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/e/0/a8e55302181b02c158a1aa4488e1163a.mp3?hdnea=exp=1795720883~acl=/api/1/1/a/8/e/0/a8e55302181b02c158a1aa4488e1163a.mp3*~data=user_id=0,application_id=42~hmac=f2d1a32c3e7fcb7dae2183ba610cea52ffa1167f2e2caee08fe9e6bea2316357",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Mailman",
+            "length": "4:26",
+            "deezer": {
+              "id": 78573959,
+              "link": "https://www.deezer.com/track/78573959",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/f/0/5bfbe5c69d4a55ff16f1091701f8f817.mp3?hdnea=exp=1795720883~acl=/api/1/1/5/b/f/0/5bfbe5c69d4a55ff16f1091701f8f817.mp3*~data=user_id=0,application_id=42~hmac=a523868eee1b89774b665f92364a047408f05e7e98341d79b55dbcf8f053cbf9",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Superunknown",
+            "length": "5:07",
+            "deezer": {
+              "id": 78573962,
+              "link": "https://www.deezer.com/track/78573962",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/8/0/1e8bbbbb408fbf897cf772c77955e378.mp3?hdnea=exp=1795720883~acl=/api/1/1/1/e/8/0/1e8bbbbb408fbf897cf772c77955e378.mp3*~data=user_id=0,application_id=42~hmac=51aa1c49c832c0a1a3c2a1097cac8cb4bdb23c1054ecb76b997f6917ba30d100",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Head Down",
+            "length": "6:10",
+            "deezer": {
+              "id": 78573964,
+              "link": "https://www.deezer.com/track/78573964",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/1/0/b51e0037b2a2587d81bac30b1a0a320b.mp3?hdnea=exp=1795720883~acl=/api/1/1/b/5/1/0/b51e0037b2a2587d81bac30b1a0a320b.mp3*~data=user_id=0,application_id=42~hmac=eb7379594800799f5d4a41535c23d0031edc96c4d6fd7951fc1288c308617a03",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Black Hole Sun",
+            "length": "5:19",
+            "deezer": {
+              "id": 78573966,
+              "link": "https://www.deezer.com/track/78573966",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/c/0/31ca54530b4d6e47e6c184993b432274.mp3?hdnea=exp=1795720883~acl=/api/1/1/3/1/c/0/31ca54530b4d6e47e6c184993b432274.mp3*~data=user_id=0,application_id=42~hmac=dd275b149cddec12c053a52e2416df3b9204c6da493a4937bae8f49ceea77342",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Spoonman",
+            "length": "4:07",
+            "deezer": {
+              "id": 78573967,
+              "link": "https://www.deezer.com/track/78573967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/1/0/de1a7f9fa01a23dfdd684ae3bc863022.mp3?hdnea=exp=1795720883~acl=/api/1/1/d/e/1/0/de1a7f9fa01a23dfdd684ae3bc863022.mp3*~data=user_id=0,application_id=42~hmac=00869de1cbd964b8a54745972e3e8d3b23af3adbea1250bb62e0b99b89c44bc1",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Limo Wreck",
+            "length": "5:48",
+            "deezer": {
+              "id": 78573969,
+              "link": "https://www.deezer.com/track/78573969",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/d/0/90df89172895a92efb45b4c2050dbf17.mp3?hdnea=exp=1795720883~acl=/api/1/1/9/0/d/0/90df89172895a92efb45b4c2050dbf17.mp3*~data=user_id=0,application_id=42~hmac=28479e987bca4d7575509ecad3b0683ad2941de2a5532be20bad38ed1acc025a",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "The Day I Tried to Live",
+            "length": "5:20",
+            "deezer": {
+              "id": 78573972,
+              "link": "https://www.deezer.com/track/78573972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/2/0/1d2d3ab08ac0ddb6347e44f4805003fb.mp3?hdnea=exp=1795720883~acl=/api/1/1/1/d/2/0/1d2d3ab08ac0ddb6347e44f4805003fb.mp3*~data=user_id=0,application_id=42~hmac=0c9b97470270458c5128caad208672793b686820268697918426793e15b0e6bc",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Kickstand",
+            "length": "1:34",
+            "deezer": {
+              "id": 78573974,
+              "link": "https://www.deezer.com/track/78573974",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/9/0/06987e3dd8717a85b9e33676d932efab.mp3?hdnea=exp=1795720883~acl=/api/1/1/0/6/9/0/06987e3dd8717a85b9e33676d932efab.mp3*~data=user_id=0,application_id=42~hmac=40034036407e26034ddb25cc847e6e9ed81839b908149ae666aa52443db74e89",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Fresh Tendrils",
+            "length": "4:17",
+            "deezer": {
+              "id": 78573975,
+              "link": "https://www.deezer.com/track/78573975",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/b/0/2fb55ad6168e4eef819195d77a6c38df.mp3?hdnea=exp=1795720883~acl=/api/1/1/2/f/b/0/2fb55ad6168e4eef819195d77a6c38df.mp3*~data=user_id=0,application_id=42~hmac=7680477810ccef02d7624ec42932fd4f5ad0394c547ff40cf52feec2687ecdb1",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "4th of July",
+            "length": "5:09",
+            "deezer": {
+              "id": 78573979,
+              "link": "https://www.deezer.com/track/78573979",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/7/0/b67ec1ef83219d617082b976a128bf95.mp3?hdnea=exp=1795720883~acl=/api/1/1/b/6/7/0/b67ec1ef83219d617082b976a128bf95.mp3*~data=user_id=0,application_id=42~hmac=eca688b2cfc8602d1cfeaa85a92bbbc31443043eeb0b2737d27de116b2c8ad94",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Half",
+            "length": "2:15",
+            "deezer": {
+              "id": 78573980,
+              "link": "https://www.deezer.com/track/78573980",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/2/0/e02c17c726008809d8c7635f0deacb4d.mp3?hdnea=exp=1795720883~acl=/api/1/1/e/0/2/0/e02c17c726008809d8c7635f0deacb4d.mp3*~data=user_id=0,application_id=42~hmac=34a8b0cc9bf468186bb58d2b337232f3d4fadf3556f345f7e69c13187fde3a24",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Like Suicide",
+            "length": "7:04",
+            "deezer": {
+              "id": 78573983,
+              "link": "https://www.deezer.com/track/78573983",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/7/0/af7104f672499a0dcd551bfdfb8953b4.mp3?hdnea=exp=1795720883~acl=/api/1/1/a/f/7/0/af7104f672499a0dcd551bfdfb8953b4.mp3*~data=user_id=0,application_id=42~hmac=c63a9c31774b8825c09cc82af41352575c1dc9681d2b919079a5efb5ab74b18d",
+              "preview_expires": "2026-11-26T19:21:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Soundgarden/Superunknown.jpg"
+}

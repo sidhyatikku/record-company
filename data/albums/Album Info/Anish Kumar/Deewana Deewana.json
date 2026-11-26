@@ -1,0 +1,51 @@
+{
+  "title": "Deewana Deewana",
+  "artist": "Anish Kumar",
+  "year": 2023,
+  "release_date": "2023-11-12",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5ac871d3-f3b9-456e-8679-495485b327c5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/524174672"
+  },
+  "musicbrainz_id": "5ac871d3-f3b9-456e-8679-495485b327c5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f6d3b12f-ada3-4799-bc8e-6d8148afe557",
+      "barcode": null,
+      "title": "Deewana Deewana",
+      "disambiguation": null,
+      "date": "2023-11-12",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "5:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Deewana Deewana",
+            "length": "5:40",
+            "deezer": {
+              "id": 2586504502,
+              "link": "https://www.deezer.com/track/2586504502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/8/0/1e810db4a8f273f7b9b297dcad5c840e.mp3?hdnea=exp=1795649227~acl=/api/1/1/1/e/8/0/1e810db4a8f273f7b9b297dcad5c840e.mp3*~data=user_id=0,application_id=42~hmac=f7cabc914fe5714ba5cc21000461c1ffd2cfd4e68881e2ee63027953f607ebd2",
+              "preview_expires": "2026-11-25T23:27:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/Deewana Deewana.jpg"
+}

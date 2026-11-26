@@ -1,0 +1,44 @@
+{
+  "title": "Jab Se Piya",
+  "artist": "Hemang",
+  "year": 2024,
+  "release_date": "2024-04-05",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "hindi indie",
+    "indian indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0U9JqX4lmLZuV9TpXyAuzy",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0U9JqX4lmLZuV9TpXyAuzy",
+      "title": "Jab Se Piya",
+      "date": "2024-04-05"
+    },
+    "total_tracks": 1,
+    "total_length": "2:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jab Se Piya",
+            "length": "2:19"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Hemang/Jab Se Piya.jpg"
+}

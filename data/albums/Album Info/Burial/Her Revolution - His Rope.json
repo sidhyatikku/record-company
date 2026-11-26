@@ -1,0 +1,70 @@
+{
+  "title": "Her Revolution / His Rope",
+  "artist": "Burial + Four Tet + Thom Yorke",
+  "year": 2020,
+  "release_date": "2020-12-02",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "ambient pop",
+    "downtempo",
+    "post-dubstep"
+  ],
+  "tags": [
+    "ambient pop",
+    "downtempo",
+    "post-dubstep"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ed8430d7-7082-4976-bc7d-6d59123b44bf",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/190487692"
+  },
+  "musicbrainz_id": "ed8430d7-7082-4976-bc7d-6d59123b44bf",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5a2329a4-5c44-40b2-b967-b418f6bd285d",
+      "barcode": "191404110652",
+      "title": "Her Revolution / His Rope",
+      "disambiguation": null,
+      "date": "2020-12-11",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "11:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Her Revolution",
+            "length": "5:49",
+            "deezer": {
+              "id": 1163377422,
+              "link": "https://www.deezer.com/track/1163377422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd2d9156a4c4f6606cfaeee5d62ec33e.mp3?hdnea=exp=1795652606~acl=/api/1/1/d/d/2/0/dd2d9156a4c4f6606cfaeee5d62ec33e.mp3*~data=user_id=0,application_id=42~hmac=473ef68178a7a51ea6b94db505fed02a4f232ea268f9f7c91eb724c5f46ee855",
+              "preview_expires": "2026-11-26T00:23:26Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "His Rope",
+            "length": "5:32",
+            "deezer": {
+              "id": 1163377432,
+              "link": "https://www.deezer.com/track/1163377432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/f/0/39f5901e57673fffeb841053c6ca0d20.mp3?hdnea=exp=1795652606~acl=/api/1/1/3/9/f/0/39f5901e57673fffeb841053c6ca0d20.mp3*~data=user_id=0,application_id=42~hmac=c06a3e28975a4721a0616c56d22d7057c83d577033fa6f791fd515389bb4c0a0",
+              "preview_expires": "2026-11-26T00:23:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Burial/Her Revolution - His Rope.png"
+}

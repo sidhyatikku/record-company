@@ -1,0 +1,410 @@
+{
+  "title": "Who’s Next",
+  "artist": "The Who",
+  "year": 1971,
+  "release_date": "1971-08-14",
+  "type": "Album",
+  "description": "Who's Next is the fifth studio album by the English rock band the Who, released on 2 August 1971, by Track Records in the United Kingdom and by Decca Records in the United States. It developed from the aborted Lifehouse project, a multi-media rock opera conceived by the group's guitarist Pete Townshend as a follow-up to the band's 1969 album Tommy. The project was cancelled owing to its complexity and to conflicts with Kit Lambert, the band's manager, but the group salvaged some of the songs, without the connecting story elements, to release as their next album. Eight of the nine songs on Who's Next were from Lifehouse, with the lone exception being the John Entwistle–penned \"My Wife\". Ultimately, the remaining Lifehouse tracks would all be released on other albums or as standalone singles throughout the next decade.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "classic rock",
+    "art rock",
+    "arena rock",
+    "blues rock",
+    "mod",
+    "pop rock",
+    "progressive rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "classic rock",
+    "art rock",
+    "album rock",
+    "anthemic",
+    "arena rock",
+    "bittersweet",
+    "blues rock",
+    "eclectic",
+    "energetic",
+    "epic",
+    "hardrock",
+    "introspective",
+    "love",
+    "male vocalist",
+    "melodic",
+    "mod",
+    "passionate",
+    "pop rock",
+    "pop-rock",
+    "progressive rock",
+    "rebellious",
+    "rhythmic",
+    "triumphant",
+    "uplifting"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 21
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/9584e28b-66a7-3846-8d52-b3008a283539",
+    "wikipedia": "https://en.wikipedia.org/wiki/Who's_Next",
+    "allmusic": "https://www.allmusic.com/album/mw0000022790",
+    "discogs": "https://www.discogs.com/master/68469",
+    "wikidata": "https://www.wikidata.org/wiki/Q729387",
+    "deezer": "https://www.deezer.com/album/213021"
+  },
+  "musicbrainz_id": "9584e28b-66a7-3846-8d52-b3008a283539",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/8f0c939a-fd54-43c0-a3ed-7abba0a7a880",
+      "barcode": "00008811305628",
+      "title": "Who’s Next",
+      "disambiguation": null,
+      "date": "2019-10",
+      "country": "AL"
+    },
+    "total_tracks": 29,
+    "total_length": "2:33:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Baba O’Riley",
+            "length": "5:00",
+            "deezer": {
+              "id": 2121805,
+              "link": "https://www.deezer.com/track/2121805",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/4/0/1a4104cbd4b8fb263cfae79dbd21a00e.mp3?hdnea=exp=1795721850~acl=/api/1/1/1/a/4/0/1a4104cbd4b8fb263cfae79dbd21a00e.mp3*~data=user_id=0,application_id=42~hmac=ec0335b0f6a480cc14fa5759a21fc794a70fdb105fc06ffdf37bfe0c62a0639e",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bargain",
+            "length": "5:34",
+            "deezer": {
+              "id": 2121806,
+              "link": "https://www.deezer.com/track/2121806",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/3/0/34360058f4666f76a125e1efdc07d569.mp3?hdnea=exp=1795721850~acl=/api/1/1/3/4/3/0/34360058f4666f76a125e1efdc07d569.mp3*~data=user_id=0,application_id=42~hmac=1c058f9e858bcfcb16b305b4077031bbcfe7a660c5e51ca7179fba216649ee0e",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Love Ain’t for Keeping",
+            "length": "2:11",
+            "deezer": {
+              "id": 2121807,
+              "link": "https://www.deezer.com/track/2121807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/9/0/049c93db8c98463ff6d4514c11addbd4.mp3?hdnea=exp=1795721850~acl=/api/1/1/0/4/9/0/049c93db8c98463ff6d4514c11addbd4.mp3*~data=user_id=0,application_id=42~hmac=dbfc1832e81d731c12889e70fb2153409a7dc42727ec61582a96f2e53d832f53",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "My Wife",
+            "length": "3:34",
+            "deezer": {
+              "id": 2121808,
+              "link": "https://www.deezer.com/track/2121808",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/6/0/9a69368d1671e571fed3de0887508ebf.mp3?hdnea=exp=1795721850~acl=/api/1/1/9/a/6/0/9a69368d1671e571fed3de0887508ebf.mp3*~data=user_id=0,application_id=42~hmac=b97cb51ba193586e872e1a9de735cd3d12fdb4aac13b6c40bce97a52a35a67d4",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Song Is Over",
+            "length": "6:17",
+            "deezer": {
+              "id": 2121809,
+              "link": "https://www.deezer.com/track/2121809",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/a/0/07a335c6be80a4eb4dc2960170a6b138.mp3?hdnea=exp=1795721850~acl=/api/1/1/0/7/a/0/07a335c6be80a4eb4dc2960170a6b138.mp3*~data=user_id=0,application_id=42~hmac=d679175096ea685741888924a1fec343c0a49e3740889720f6027fb0383f1a85",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Getting in Tune",
+            "length": "4:48",
+            "deezer": {
+              "id": 2121810,
+              "link": "https://www.deezer.com/track/2121810",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/c/0/f5cb0144f42dec123cdc4019fdd846e3.mp3?hdnea=exp=1795721850~acl=/api/1/1/f/5/c/0/f5cb0144f42dec123cdc4019fdd846e3.mp3*~data=user_id=0,application_id=42~hmac=8ff166b3b34c3674d6a6c57c582cc6fc904034e6abdb4f713208ab6f6adbe51e",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Going Mobile",
+            "length": "3:42",
+            "deezer": {
+              "id": 2121811,
+              "link": "https://www.deezer.com/track/2121811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/f/0/eefb065d6c031b2f6e4564894ce767bf.mp3?hdnea=exp=1795721850~acl=/api/1/1/e/e/f/0/eefb065d6c031b2f6e4564894ce767bf.mp3*~data=user_id=0,application_id=42~hmac=48654b2e619ecff398c66ca2c03c52741dd0f660d6a116604087d872eb4020e1",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Behind Blue Eyes",
+            "length": "3:41",
+            "deezer": {
+              "id": 2121812,
+              "link": "https://www.deezer.com/track/2121812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/6/0/726ecb36d5b46cbc3d4e1d41a6b3be68.mp3?hdnea=exp=1795721850~acl=/api/1/1/7/2/6/0/726ecb36d5b46cbc3d4e1d41a6b3be68.mp3*~data=user_id=0,application_id=42~hmac=3252ebd1ea2bd903a350f35cae39eee48e8c7ae3dbda684cb0d594cc212ca233",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Won’t Get Fooled Again",
+            "length": "8:31",
+            "deezer": {
+              "id": 2121813,
+              "link": "https://www.deezer.com/track/2121813",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/9/0/f79e311b88a382995d8ff9e5ff05a1bb.mp3?hdnea=exp=1795721850~acl=/api/1/1/f/7/9/0/f79e311b88a382995d8ff9e5ff05a1bb.mp3*~data=user_id=0,application_id=42~hmac=940d94a3301a248f5006f845ed314dce74f1493c6e37f52e5ed7af00b68b3e51",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Baby Don’t You Do It (New York Record Plant session full version)",
+            "length": "8:20",
+            "deezer": {
+              "id": 2121814,
+              "link": "https://www.deezer.com/track/2121814",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/d/0/80d5074e613da7692f6ab3264fb93867.mp3?hdnea=exp=1795721850~acl=/api/1/1/8/0/d/0/80d5074e613da7692f6ab3264fb93867.mp3*~data=user_id=0,application_id=42~hmac=13dadba7707b88a95cf2474169a661aa14a2a1ad5c304f2f699b64ab61c6e4ea",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Getting in Tune (New York Record Plant session 2003 remix)",
+            "length": "6:34",
+            "deezer": {
+              "id": 2121815,
+              "link": "https://www.deezer.com/track/2121815",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/d/0/56d11a2842dbf87294075adaed3f1663.mp3?hdnea=exp=1795721850~acl=/api/1/1/5/6/d/0/56d11a2842dbf87294075adaed3f1663.mp3*~data=user_id=0,application_id=42~hmac=f5f65f52ae965579ab06368ad012d1442998f329d13f92ce21cfc31e32fb083c",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Pure and Easy (New York Record Plant session 2003 remix)",
+            "length": "4:32",
+            "deezer": {
+              "id": 2121816,
+              "link": "https://www.deezer.com/track/2121816",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/e/0/32e8a472fec2b0723fd62d968def3915.mp3?hdnea=exp=1795721850~acl=/api/1/1/3/2/e/0/32e8a472fec2b0723fd62d968def3915.mp3*~data=user_id=0,application_id=42~hmac=fd77c0752f8f861e78a08f1e52f5bb5efdf23d97047ea3a24c48610c0e44b46c",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Love Ain’t for Keeping (New York Record Plant session 2003 remix)",
+            "length": "4:04",
+            "deezer": {
+              "id": 2121817,
+              "link": "https://www.deezer.com/track/2121817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/b/0/3ab004dd9dd63892d3eba0bc739ef98e.mp3?hdnea=exp=1795721850~acl=/api/1/1/3/a/b/0/3ab004dd9dd63892d3eba0bc739ef98e.mp3*~data=user_id=0,application_id=42~hmac=37ada1a80a9572730e621caba25474e00757217f9d0f0b50b11e41f37c158fe2",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Behind Blue Eyes (New York Record Plant session 2003 remix)",
+            "length": "3:28",
+            "deezer": {
+              "id": 2121818,
+              "link": "https://www.deezer.com/track/2121818",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/6/0/6c6714c410456afb2feb14e906566d9e.mp3?hdnea=exp=1795721850~acl=/api/1/1/6/c/6/0/6c6714c410456afb2feb14e906566d9e.mp3*~data=user_id=0,application_id=42~hmac=3578257227d072d24b70e52a5ca20007193069b5b55030f7ef3ac7c9aba2eb43",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Won’t Get Fooled Again (New York Record Plant session 2003 remix)",
+            "length": "8:49",
+            "deezer": {
+              "id": 2121819,
+              "link": "https://www.deezer.com/track/2121819",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/e/0/cae53ba208e903ecfe2d1e5f3d634812.mp3?hdnea=exp=1795721850~acl=/api/1/1/c/a/e/0/cae53ba208e903ecfe2d1e5f3d634812.mp3*~data=user_id=0,application_id=42~hmac=c20ba712479629bce6cf63e79e025f775bba381e598241bc5a34b42c819601f5",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Love Ain’t for Keeping (live)",
+            "length": "2:58",
+            "deezer": {
+              "id": 2121820,
+              "link": "https://www.deezer.com/track/2121820",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/3/0/e73df0bb3cd88c9fc29fcb56750159b8.mp3?hdnea=exp=1795721850~acl=/api/1/1/e/7/3/0/e73df0bb3cd88c9fc29fcb56750159b8.mp3*~data=user_id=0,application_id=42~hmac=6f2a238f33275f1ed9fe0944692ff56470664ca7036a42360c96e67f19ec3a04",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Pure and Easy (live)",
+            "length": "6:01",
+            "deezer": {
+              "id": 2121821,
+              "link": "https://www.deezer.com/track/2121821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/1/0/791bcfcfed7d1c359afdcc6ab9096e60.mp3?hdnea=exp=1795721850~acl=/api/1/1/7/9/1/0/791bcfcfed7d1c359afdcc6ab9096e60.mp3*~data=user_id=0,application_id=42~hmac=5536bfb950e5945c672cd0018fda2514f4826b54c2dac56dedf015f1f0416dcf",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Young Man Blues (live)",
+            "length": "4:48",
+            "deezer": {
+              "id": 2121822,
+              "link": "https://www.deezer.com/track/2121822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/4/0/4147198feb00a7012bcc73ce19192be6.mp3?hdnea=exp=1795721850~acl=/api/1/1/4/1/4/0/4147198feb00a7012bcc73ce19192be6.mp3*~data=user_id=0,application_id=42~hmac=17cd9593f6cda902c2d9803993c09127861fb45d98f304aefd4c1777523c46e7",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Time Is Passing (live)",
+            "length": "3:59",
+            "deezer": {
+              "id": 2121823,
+              "link": "https://www.deezer.com/track/2121823",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/a/0/78a539625a51457b35187db9d52d0a63.mp3?hdnea=exp=1795721850~acl=/api/1/1/7/8/a/0/78a539625a51457b35187db9d52d0a63.mp3*~data=user_id=0,application_id=42~hmac=7ad939379989956928d1e7c0cf2a849492b5147e74944b923d25e0135885b28d",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Behind Blue Eyes (live)",
+            "length": "4:49",
+            "deezer": {
+              "id": 2121824,
+              "link": "https://www.deezer.com/track/2121824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/b/0/bab027a34cf73b069d5a749495ff332a.mp3?hdnea=exp=1795721850~acl=/api/1/1/b/a/b/0/bab027a34cf73b069d5a749495ff332a.mp3*~data=user_id=0,application_id=42~hmac=1c666fa3848c3b916185a38ee5e764396be71589b87709942e43264faf99c744",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Don’t Even Know Myself (live)",
+            "length": "5:43",
+            "deezer": {
+              "id": 2121825,
+              "link": "https://www.deezer.com/track/2121825",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/8/0/b183c1ef9108289e340cba8865c1a8f3.mp3?hdnea=exp=1795721850~acl=/api/1/1/b/1/8/0/b183c1ef9108289e340cba8865c1a8f3.mp3*~data=user_id=0,application_id=42~hmac=330e32a869823762b1d2758c0c2f92e3bd3dd793998121257744383459161e31",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Too Much of Anything (live)",
+            "length": "4:21",
+            "deezer": {
+              "id": 2121826,
+              "link": "https://www.deezer.com/track/2121826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/1/0/0c19b01ea9d53887e483cbe0098b841a.mp3?hdnea=exp=1795721850~acl=/api/1/1/0/c/1/0/0c19b01ea9d53887e483cbe0098b841a.mp3*~data=user_id=0,application_id=42~hmac=a8a6342b9e00bfe2c55fbc7f0a213285b41cf71572e60e3956c644ef27dfc9b3",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Getting in Tune (live)",
+            "length": "6:42",
+            "deezer": {
+              "id": 2121827,
+              "link": "https://www.deezer.com/track/2121827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/8/0/70822c297f73289ee4ae72eebeae05ab.mp3?hdnea=exp=1795721850~acl=/api/1/1/7/0/8/0/70822c297f73289ee4ae72eebeae05ab.mp3*~data=user_id=0,application_id=42~hmac=0e2596c34ebcfaa2e1d5a8360caa8381a19515b67054e781a9d9f48a52966db9",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bargain (live)",
+            "length": "5:46",
+            "deezer": {
+              "id": 2121828,
+              "link": "https://www.deezer.com/track/2121828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/a/0/67a7ef01f1308069681ca146312902aa.mp3?hdnea=exp=1795721850~acl=/api/1/1/6/7/a/0/67a7ef01f1308069681ca146312902aa.mp3*~data=user_id=0,application_id=42~hmac=5ff57f1261827c2d1a7d41778b66d70fe3fc755f9167f54cceffe04bdb14a91c",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Water (live)",
+            "length": "8:20",
+            "deezer": {
+              "id": 2121829,
+              "link": "https://www.deezer.com/track/2121829",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/d/0/84d3e72dd6a242354a5d8c8e8686ec95.mp3?hdnea=exp=1795721850~acl=/api/1/1/8/4/d/0/84d3e72dd6a242354a5d8c8e8686ec95.mp3*~data=user_id=0,application_id=42~hmac=88e46f9a57488640e4ddadcd843f13cc5e2d44f7dfdcab41e1877ea14f149067",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "My Generation (live)",
+            "length": "2:58",
+            "deezer": {
+              "id": 2121830,
+              "link": "https://www.deezer.com/track/2121830",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/9/0/df95004d2739e55cb4cced6ecbc860b0.mp3?hdnea=exp=1795721850~acl=/api/1/1/d/f/9/0/df95004d2739e55cb4cced6ecbc860b0.mp3*~data=user_id=0,application_id=42~hmac=5cbfce34dd3151d408672fe7db41d45ddbe2fa6edbde01ce0abd383edf0122a6",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "(I’m a) Road Runner (live)",
+            "length": "3:14",
+            "deezer": {
+              "id": 2121831,
+              "link": "https://www.deezer.com/track/2121831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/e/0/feeac52861d063fa6ce999437d61e635.mp3?hdnea=exp=1795721850~acl=/api/1/1/f/e/e/0/feeac52861d063fa6ce999437d61e635.mp3*~data=user_id=0,application_id=42~hmac=c545389509b247c17a3a010f4aa4c2d877d4e33d5926781217eeb00dabe1100f",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Naked Eye (live)",
+            "length": "6:22",
+            "deezer": {
+              "id": 2121832,
+              "link": "https://www.deezer.com/track/2121832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/4/0/704ec489a260b1f899bd13597f775b56.mp3?hdnea=exp=1795721850~acl=/api/1/1/7/0/4/0/704ec489a260b1f899bd13597f775b56.mp3*~data=user_id=0,application_id=42~hmac=16202157e4f5ef11a73670291af615064cf14398445b3287fc0c0f8e4866988a",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Won’t Get Fooled Again (Young Vic live mix)",
+            "length": "8:51",
+            "deezer": {
+              "id": 2121833,
+              "link": "https://www.deezer.com/track/2121833",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/c/0/13ceb2de1e51b1135ec58dc2345e5940.mp3?hdnea=exp=1795721850~acl=/api/1/1/1/3/c/0/13ceb2de1e51b1135ec58dc2345e5940.mp3*~data=user_id=0,application_id=42~hmac=f6a0a5b7ce11a062b8c4dc62d38fe2e5a0987c53e2227bb718910c961dda92be",
+              "preview_expires": "2026-11-26T19:37:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Who/Who's Next.jpg"
+}

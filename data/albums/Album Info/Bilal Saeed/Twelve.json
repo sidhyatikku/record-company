@@ -1,0 +1,177 @@
+{
+  "title": "Twelve",
+  "artist": "Bilal Saeed",
+  "year": 2012,
+  "release_date": "2012-12-20",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/87796293-6cb5-4002-bef8-a0000a5c5859",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/965320351"
+  },
+  "musicbrainz_id": "87796293-6cb5-4002-bef8-a0000a5c5859",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e9fa9c7a-ad24-4c9c-bfb2-69dfc17bbcb8",
+      "barcode": null,
+      "title": "Twelve",
+      "disambiguation": null,
+      "date": "2012-12-20",
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "43:02",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Adhi Adhi Raat",
+            "length": "3:54",
+            "deezer": {
+              "id": 3971843531,
+              "link": "https://www.deezer.com/track/3971843531",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/3/0/2739d2e1864a5bbc45b340d23601d49a.mp3?hdnea=exp=1795652002~acl=/api/1/1/2/7/3/0/2739d2e1864a5bbc45b340d23601d49a.mp3*~data=user_id=0,application_id=42~hmac=d5c6a67ca35db65cb368170c4fa20c6f78ab125666a2c92381b05d3102833a5c",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Ku Ku",
+            "length": "3:22",
+            "artist": "Bilal Saeed feat. Dr. Zeus & Young Fateh",
+            "deezer": {
+              "id": 3971843541,
+              "link": "https://www.deezer.com/track/3971843541",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/1/0/ea19961491fe3132aa68c7198c33c33f.mp3?hdnea=exp=1795652002~acl=/api/1/1/e/a/1/0/ea19961491fe3132aa68c7198c33c33f.mp3*~data=user_id=0,application_id=42~hmac=c219f421933adac253ef215185c79a797491da77db5b09857db9c946b40de56f",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "12 Saal (Baarah Saal)",
+            "length": "3:13",
+            "deezer": {
+              "id": 3971843551,
+              "link": "https://www.deezer.com/track/3971843551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/9/0/579f83e1ec79ebdae982ac3e0026767e.mp3?hdnea=exp=1795652002~acl=/api/1/1/5/7/9/0/579f83e1ec79ebdae982ac3e0026767e.mp3*~data=user_id=0,application_id=42~hmac=2fc8b4512c9b9933c83a29e4a714b084909ec16e3a1cceedea7707341e9ce39a",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "2 Number",
+            "length": "4:03",
+            "artist": "Bilal Saeed feat. Dr. Zeus, Amrinder Gill & Young Fateh",
+            "deezer": {
+              "id": 3971843561,
+              "link": "https://www.deezer.com/track/3971843561",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/3/0/383eac3a86e3e9b859ff9d4e28c1f156.mp3?hdnea=exp=1795652002~acl=/api/1/1/3/8/3/0/383eac3a86e3e9b859ff9d4e28c1f156.mp3*~data=user_id=0,application_id=42~hmac=f072b766738b8ebd23fde76225796542ea6794e86f582a76daf41ef6600073b0",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Heeriye",
+            "length": "3:14",
+            "deezer": {
+              "id": 3971843571,
+              "link": "https://www.deezer.com/track/3971843571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/0/0/e0048264b704512f6ba83b95bb26ba3c.mp3?hdnea=exp=1795652002~acl=/api/1/1/e/0/0/0/e0048264b704512f6ba83b95bb26ba3c.mp3*~data=user_id=0,application_id=42~hmac=defe87e66a410883dcced41977d8bcdbdd74910f42bd3ab77b1b2fc4503953e8",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Mahi Mahi",
+            "length": "3:46",
+            "deezer": {
+              "id": 3971843581,
+              "link": "https://www.deezer.com/track/3971843581",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/1/0/c417d668152ba71ee8edb033ac8c151f.mp3?hdnea=exp=1795652002~acl=/api/1/1/c/4/1/0/c417d668152ba71ee8edb033ac8c151f.mp3*~data=user_id=0,application_id=42~hmac=5eedf08fcdfce26934f7076ed604730d0cffd2953cd2ad58472fc1969591466c",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mahiya",
+            "length": "3:42",
+            "deezer": {
+              "id": 3971843591,
+              "link": "https://www.deezer.com/track/3971843591",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/e/0/59eacdd2ce8cbe07177b8e963dee2a3a.mp3?hdnea=exp=1795652002~acl=/api/1/1/5/9/e/0/59eacdd2ce8cbe07177b8e963dee2a3a.mp3*~data=user_id=0,application_id=42~hmac=78bfc09c62d6a525a788bf164d3c0e5994df63137332414ce1db7d9164c66ea2",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ja Jay Tu Jana",
+            "length": "3:28",
+            "deezer": {
+              "id": 3971843611,
+              "link": "https://www.deezer.com/track/3971843611",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/d/0/12d7bb4a787d560711331a4c58349e9e.mp3?hdnea=exp=1795652002~acl=/api/1/1/1/2/d/0/12d7bb4a787d560711331a4c58349e9e.mp3*~data=user_id=0,application_id=42~hmac=bd5b49adc1d98dc0955371a64cb05a4f6806ef5c573a157bde86743d9c26767a",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Khair Mangdi",
+            "length": "3:54",
+            "artist": "Bilal Saeed feat. Dr. Zeus & Young Fateh",
+            "deezer": {
+              "id": 3971843621,
+              "link": "https://www.deezer.com/track/3971843621",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/b/0/eab4f55b4a4120a61d3cc7d8c460c6b6.mp3?hdnea=exp=1795652002~acl=/api/1/1/e/a/b/0/eab4f55b4a4120a61d3cc7d8c460c6b6.mp3*~data=user_id=0,application_id=42~hmac=5b482f236fe9a6de0e2b576bf04a9a4a34ed1edb8bfa26ff21ab98feb38dcf8d",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dil",
+            "length": "3:12",
+            "deezer": {
+              "id": 3971843631,
+              "link": "https://www.deezer.com/track/3971843631",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/3/0/663dcc2f7559298ab4247d58c24be3cd.mp3?hdnea=exp=1795652002~acl=/api/1/1/6/6/3/0/663dcc2f7559298ab4247d58c24be3cd.mp3*~data=user_id=0,application_id=42~hmac=e9d6f1cfa190e8a21560e8795f3cd195d33212e2dadb5029c1612ebbde30a0fd",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Ijazat",
+            "length": "3:26",
+            "artist": "Bilal Saeed feat. Dr. Zeus, Shortie & Young Fateh",
+            "deezer": {
+              "id": 3971843641,
+              "link": "https://www.deezer.com/track/3971843641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/8/0/dd8e46ae7290e84e3d98d5a3c4960fdc.mp3?hdnea=exp=1795652002~acl=/api/1/1/d/d/8/0/dd8e46ae7290e84e3d98d5a3c4960fdc.mp3*~data=user_id=0,application_id=42~hmac=c1e103b7b24b82c7dc420ce76d25e0e10c3bc42f59b641635cadb60fd1acb926",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "12 Saal",
+            "length": "3:47",
+            "artist": "Bilal Saeed feat. Dr. Zeus, Shortie & Hannah Kumari",
+            "deezer": {
+              "id": 3971843651,
+              "link": "https://www.deezer.com/track/3971843651",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/d/0/5fdd71a954c420d0b4cb5a26fd19e44f.mp3?hdnea=exp=1795652002~acl=/api/1/1/5/f/d/0/5fdd71a954c420d0b4cb5a26fd19e44f.mp3*~data=user_id=0,application_id=42~hmac=b9203a5ea3b65bee29207a1a02b47939b00946ea2f9242858f639b58c73b067c",
+              "preview_expires": "2026-11-26T00:13:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bilal Saeed/Twelve.jpg"
+}

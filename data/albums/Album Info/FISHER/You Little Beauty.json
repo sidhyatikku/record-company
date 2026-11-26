@@ -1,0 +1,61 @@
+{
+  "title": "You Little Beauty",
+  "artist": "FISHER",
+  "year": 2019,
+  "release_date": "2019-05-10",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance",
+    "electronic",
+    "house",
+    "tech house"
+  ],
+  "tags": [
+    "dance",
+    "electronic",
+    "house",
+    "tech house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a9d143a3-8076-4f93-851d-3206f1fd2b46",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/99979252"
+  },
+  "musicbrainz_id": "a9d143a3-8076-4f93-851d-3206f1fd2b46",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5aa76d88-5838-4135-8e2a-800f1d8e3e3f",
+      "barcode": "00602577844874",
+      "title": "You Little Beauty",
+      "disambiguation": null,
+      "date": "2019-05-10",
+      "country": "AF"
+    },
+    "total_tracks": 1,
+    "total_length": "3:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "You Little Beauty",
+            "length": "3:27",
+            "deezer": {
+              "id": 694844122,
+              "link": "https://www.deezer.com/track/694844122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/e/0/a3e5e2557cdfe1f737aea0fb89e00115.mp3?hdnea=exp=1795654225~acl=/api/1/1/a/3/e/0/a3e5e2557cdfe1f737aea0fb89e00115.mp3*~data=user_id=0,application_id=42~hmac=4e31a0f60c02a6c6d2dc2b0140378a57b75c720dd8f8ee665a9aee54f4a86e43",
+              "preview_expires": "2026-11-26T00:50:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/FISHER/You Little Beauty.jpg"
+}

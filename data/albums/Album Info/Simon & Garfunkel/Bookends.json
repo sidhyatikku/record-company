@@ -1,0 +1,205 @@
+{
+  "title": "Bookends",
+  "artist": "Simon & Garfunkel",
+  "year": 1968,
+  "release_date": "1968-04-03",
+  "type": "Album",
+  "description": "Bookends is the fourth studio album by the American folk rock duo Simon & Garfunkel. Produced by Paul Simon, Art Garfunkel and Roy Halee, the album was released on April 3, 1968, in the United States by Columbia Records. The duo had risen to fame two years prior with the albums Sounds of Silence and Parsley, Sage, Rosemary and Thyme and the soundtrack album for the 1967 film The Graduate.",
+  "genres": [
+    "folk rock",
+    "folk",
+    "folk pop",
+    "pop",
+    "chamber folk",
+    "pop rock",
+    "rock",
+    "singer-songwriter",
+    "baroque pop",
+    "classic rock",
+    "psychedelic folk"
+  ],
+  "tags": [
+    "folk rock",
+    "folk",
+    "folk pop",
+    "pop",
+    "chamber folk",
+    "pop rock",
+    "rock",
+    "singer-songwriter",
+    "am pop",
+    "baroque pop",
+    "classic rock",
+    "psychedelic folk",
+    "singer/songwriter"
+  ],
+  "rating": {
+    "value_out_of_5": 3.4,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f4a26672-dcd8-342d-ad09-2b612d91c9fb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bookends_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000043634",
+    "discogs": "https://www.discogs.com/master/27757",
+    "wikidata": "https://www.wikidata.org/wiki/Q796762",
+    "deezer": "https://www.deezer.com/album/1408435"
+  },
+  "musicbrainz_id": "f4a26672-dcd8-342d-ad09-2b612d91c9fb",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a56ca17b-c2b9-469a-8fac-8cfe1ea5ee87",
+      "barcode": "074640952920",
+      "title": "Bookends",
+      "disambiguation": null,
+      "date": "1985",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "29:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bookends Theme",
+            "length": "0:32",
+            "deezer": {
+              "id": 15275144,
+              "link": "https://www.deezer.com/track/15275144",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/f/0/5fffe200a87d7f2212d0e7a51183cad8.mp3?hdnea=exp=1795720645~acl=/api/1/1/5/f/f/0/5fffe200a87d7f2212d0e7a51183cad8.mp3*~data=user_id=0,application_id=42~hmac=c86efec88049c9963637e838dbf28614ba362755e0a56f25d70eda39769ae4aa",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Save the Life of My Child",
+            "length": "2:49",
+            "deezer": {
+              "id": 15275057,
+              "link": "https://www.deezer.com/track/15275057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/8/0/0f84707ccb1f066c549984f211ca4c21.mp3?hdnea=exp=1795720645~acl=/api/1/1/0/f/8/0/0f84707ccb1f066c549984f211ca4c21.mp3*~data=user_id=0,application_id=42~hmac=2c68eaddfda7d25e3ef4ee0986bc287841d6353a9e5e3f4e479e875dcbbb10c8",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "America",
+            "length": "3:35",
+            "deezer": {
+              "id": 15275551,
+              "link": "https://www.deezer.com/track/15275551",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/0/0/6b09dec4173fb93fd7fcdfa1d16277aa.mp3?hdnea=exp=1795720645~acl=/api/1/1/6/b/0/0/6b09dec4173fb93fd7fcdfa1d16277aa.mp3*~data=user_id=0,application_id=42~hmac=befc11c2b51c1d2097e0ead9449d9af99964b47bae7e29773a302548e6573a05",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Overs",
+            "length": "2:19",
+            "deezer": {
+              "id": 15275524,
+              "link": "https://www.deezer.com/track/15275524",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/2/0/462770979d15f07c7a8657239f2922a9.mp3?hdnea=exp=1795720645~acl=/api/1/1/4/6/2/0/462770979d15f07c7a8657239f2922a9.mp3*~data=user_id=0,application_id=42~hmac=8b01778a83b8410304e79bb062f2aecc321b8d92a67b5260734cd8afb0d8d20b",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Voices of Old People",
+            "length": "2:07",
+            "deezer": {
+              "id": 15275011,
+              "link": "https://www.deezer.com/track/15275011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/5/0/db5190dc0666d37a1ac68f1ffb622efe.mp3?hdnea=exp=1795720645~acl=/api/1/1/d/b/5/0/db5190dc0666d37a1ac68f1ffb622efe.mp3*~data=user_id=0,application_id=42~hmac=448b0b84b61886af0260e34fdd52acd854ae87688179e205427dcc2e99ab8ba9",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Old Friends",
+            "length": "2:35",
+            "deezer": {
+              "id": 15275241,
+              "link": "https://www.deezer.com/track/15275241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/3/0/f23b1603e70ef617abfa068f12cc5a31.mp3?hdnea=exp=1795720645~acl=/api/1/1/f/2/3/0/f23b1603e70ef617abfa068f12cc5a31.mp3*~data=user_id=0,application_id=42~hmac=aeb4469df8cc7f83b60199a6d70166db8ebd7b15d088ac716442a4ac2ef5a3b6",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bookends Theme",
+            "length": "1:24",
+            "deezer": {
+              "id": 15275397,
+              "link": "https://www.deezer.com/track/15275397",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/4/0/4d4ba023662a2393582887ba2d324418.mp3?hdnea=exp=1795720645~acl=/api/1/1/4/d/4/0/4d4ba023662a2393582887ba2d324418.mp3*~data=user_id=0,application_id=42~hmac=69d1283c69551ed9e0aa7ce6f03038420aa89e7d00354bbe79cafd74e67dc250",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Fakin’ It",
+            "length": "3:19",
+            "deezer": {
+              "id": 15274868,
+              "link": "https://www.deezer.com/track/15274868",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/f/0/20f062ebaa0c17dc94fc9ae58e5e98a9.mp3?hdnea=exp=1795720645~acl=/api/1/1/2/0/f/0/20f062ebaa0c17dc94fc9ae58e5e98a9.mp3*~data=user_id=0,application_id=42~hmac=8ee442cfd7c3c6f788eb624a93f9c2195db6c7c173cee3d8fec01760387af5b0",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Punky’s Dilemma",
+            "length": "2:17",
+            "deezer": {
+              "id": 15275088,
+              "link": "https://www.deezer.com/track/15275088",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/b/0/89bd9422a9e06b989e0ff2d58f950aa0.mp3?hdnea=exp=1795720645~acl=/api/1/1/8/9/b/0/89bd9422a9e06b989e0ff2d58f950aa0.mp3*~data=user_id=0,application_id=42~hmac=3ebd3ff810dbf5edd73b5dcabe17758202991258c39298a54f9b38d6ebc7cb36",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Mrs. Robinson",
+            "length": "4:06",
+            "deezer": {
+              "id": 15275365,
+              "link": "https://www.deezer.com/track/15275365",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/3/0/6439b3f4581ebb54eca421261e6df0dc.mp3?hdnea=exp=1795720645~acl=/api/1/1/6/4/3/0/6439b3f4581ebb54eca421261e6df0dc.mp3*~data=user_id=0,application_id=42~hmac=8f3d045d86cfe50315dc6a73567462dff0eaa3fbafeb3326db97eba6c1b05737",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "A Hazy Shade of Winter",
+            "length": "2:17",
+            "deezer": {
+              "id": 15275280,
+              "link": "https://www.deezer.com/track/15275280",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/a/0/7ea228c43429d30be69f3c7b2a24d58e.mp3?hdnea=exp=1795720645~acl=/api/1/1/7/e/a/0/7ea228c43429d30be69f3c7b2a24d58e.mp3*~data=user_id=0,application_id=42~hmac=b0506fdbc9bf8969c847a9d4f21dad980bd854ecdf88f8c9d9ae3447d583b6e8",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "At the Zoo",
+            "length": "2:22",
+            "deezer": {
+              "id": 15275062,
+              "link": "https://www.deezer.com/track/15275062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/9/0/679db42254b5bf09eb68f907466be53a.mp3?hdnea=exp=1795720645~acl=/api/1/1/6/7/9/0/679db42254b5bf09eb68f907466be53a.mp3*~data=user_id=0,application_id=42~hmac=aa0c8aac1a6e01c02d3e90c5256aa504f16e426ff6c5bd9dcc3379f37263629f",
+              "preview_expires": "2026-11-26T19:17:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Simon & Garfunkel/Bookends.png"
+}

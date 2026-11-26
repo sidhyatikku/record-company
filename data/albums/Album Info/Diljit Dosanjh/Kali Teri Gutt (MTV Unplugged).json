@@ -1,0 +1,51 @@
+{
+  "title": "Kali Teri Gutt (MTV Unplugged)",
+  "artist": "Diljit Dosanjh",
+  "year": 2019,
+  "release_date": "2019-03-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/be23f54c-7bc0-40b8-8b42-93a29cf73077",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/90802152"
+  },
+  "musicbrainz_id": "be23f54c-7bc0-40b8-8b42-93a29cf73077",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c33b5cff-9d39-4424-90a2-59427a17111f",
+      "barcode": "3615937870137",
+      "title": "Kali Teri Gutt (MTV Unplugged)",
+      "disambiguation": null,
+      "date": "2019-03-18",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Kali Teri Gutt (MTV Unplugged)",
+            "length": "4:07",
+            "deezer": {
+              "id": 650788912,
+              "link": "https://www.deezer.com/track/650788912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/7/0/687ddadb4ad2c7daf6700199060f7eaf.mp3?hdnea=exp=1795653356~acl=/api/1/1/6/8/7/0/687ddadb4ad2c7daf6700199060f7eaf.mp3*~data=user_id=0,application_id=42~hmac=271be744114740d8a89ba468e22766f224d86f8580b3b31cb8666ec04694a9a7",
+              "preview_expires": "2026-11-26T00:35:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Diljit Dosanjh/Kali Teri Gutt (MTV Unplugged).jpg"
+}

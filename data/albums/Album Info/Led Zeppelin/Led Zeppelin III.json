@@ -1,0 +1,188 @@
+{
+  "title": "Led Zeppelin III",
+  "artist": "Led Zeppelin",
+  "year": 1970,
+  "release_date": "1970-10-05",
+  "type": "Album",
+  "description": "Led Zeppelin III is the third studio album by the English rock band Led Zeppelin, released on 5 October 1970. It was recorded in three locations. Much of the work was done at Headley Grange, a country house, using the Rolling Stones Mobile Studio. Additional sessions were held at Island Studios and Olympic Studios in London. As with the prior album, the band eschewed the use of guest musicians, with all music performed by band members Robert Plant (vocals), Jimmy Page (guitars), John Paul Jones, and John Bonham (drums). The range of instruments played by the band was greatly enhanced on this album, with Jones especially emerging as a multi-instrumentalist, playing a wide range of keyboard and stringed instruments, including various synthesizers, mandolin and double bass, in addition to his usual bass guitar. As with prior albums, Page served as producer on the album, with mixing done by Andy Johns and Terry Manning.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "blues rock",
+    "folk rock",
+    "arena rock",
+    "blues",
+    "british blues",
+    "classic rock",
+    "heavy metal",
+    "rock and roll",
+    "british folk rock"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "album rock",
+    "blues rock",
+    "folk rock",
+    "arena rock",
+    "blues",
+    "british blues",
+    "classic rock",
+    "heavy metal",
+    "rock and roll",
+    "1970",
+    "70s",
+    "britannique",
+    "british folk rock",
+    "british metal",
+    "discogs/the most popular album released every year from 1950 to 2020",
+    "regional blues"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 30
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/53f80f76-f8af-3558-bfd5-e7221e055c75",
+    "wikipedia": "https://en.wikipedia.org/wiki/Led_Zeppelin_III",
+    "allmusic": "https://www.allmusic.com/album/mw0000650405",
+    "discogs": "https://www.discogs.com/master/4199",
+    "wikidata": "https://www.wikidata.org/wiki/Q207438",
+    "deezer": "https://www.deezer.com/album/11590966"
+  },
+  "musicbrainz_id": "53f80f76-f8af-3558-bfd5-e7221e055c75",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9754ff0a-89bf-450b-91c3-052af74b76a4",
+      "barcode": "603497900817",
+      "title": "Led Zeppelin III",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "43:04",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Immigrant Song",
+            "length": "2:26",
+            "deezer": {
+              "id": 111624866,
+              "link": "https://www.deezer.com/track/111624866",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/6/0/da673b90d280a0e06f09d8ed5b755a19.mp3?hdnea=exp=1795656438~acl=/api/1/1/d/a/6/0/da673b90d280a0e06f09d8ed5b755a19.mp3*~data=user_id=0,application_id=42~hmac=59e6a239efd403609143734ae0fbe8682ec2d69e7e0f21cbf8f997588065457a",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Friends",
+            "length": "3:53",
+            "deezer": {
+              "id": 111624868,
+              "link": "https://www.deezer.com/track/111624868",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/e/0/34e5cceb907d6e9b05115299d5b9baf4.mp3?hdnea=exp=1795656438~acl=/api/1/1/3/4/e/0/34e5cceb907d6e9b05115299d5b9baf4.mp3*~data=user_id=0,application_id=42~hmac=07f3d792e2fba0642bf096dda367644c3ed1ef54085f5fce092ba624476efa9d",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Celebration Day",
+            "length": "3:30",
+            "deezer": {
+              "id": 111624870,
+              "link": "https://www.deezer.com/track/111624870",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/186aa36ab6332bb4b2676a2bacfd7ea0.mp3?hdnea=exp=1795656438~acl=/api/1/1/1/8/6/0/186aa36ab6332bb4b2676a2bacfd7ea0.mp3*~data=user_id=0,application_id=42~hmac=c5adf7f808a8322d807a4ab18223b378871ddfeb13cb38677b8e310eea844903",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Since I’ve Been Loving You",
+            "length": "7:24",
+            "deezer": {
+              "id": 111624872,
+              "link": "https://www.deezer.com/track/111624872",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/3/0/c037f639acc1bc92eb9d9f245cf91df5.mp3?hdnea=exp=1795656438~acl=/api/1/1/c/0/3/0/c037f639acc1bc92eb9d9f245cf91df5.mp3*~data=user_id=0,application_id=42~hmac=dffeeb72cc09e963af992e53209e5cf4ed4a0c3ad4bca3358835659d1ba3f2cb",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Out on the Tiles",
+            "length": "4:07",
+            "deezer": {
+              "id": 111624874,
+              "link": "https://www.deezer.com/track/111624874",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/3/0/7d3bd17cc77de52487c1a6b613495612.mp3?hdnea=exp=1795656438~acl=/api/1/1/7/d/3/0/7d3bd17cc77de52487c1a6b613495612.mp3*~data=user_id=0,application_id=42~hmac=f14cdc34530c6d578560195e8def330f35f1e4956e992ecdcc8fef7df2f3e741",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Gallows Pole",
+            "length": "4:57",
+            "deezer": {
+              "id": 111624876,
+              "link": "https://www.deezer.com/track/111624876",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/c/0/9dc0640f6df1b4fbeedccf43c7710fe1.mp3?hdnea=exp=1795656438~acl=/api/1/1/9/d/c/0/9dc0640f6df1b4fbeedccf43c7710fe1.mp3*~data=user_id=0,application_id=42~hmac=dc60893f36f45fe9ae4a80500e36c749351c6bdf685685aad3aae4640bc94cd1",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Tangerine",
+            "length": "3:11",
+            "deezer": {
+              "id": 111624878,
+              "link": "https://www.deezer.com/track/111624878",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/e/0/39e3dbf21de0304e0f83ff39968f9456.mp3?hdnea=exp=1795656438~acl=/api/1/1/3/9/e/0/39e3dbf21de0304e0f83ff39968f9456.mp3*~data=user_id=0,application_id=42~hmac=c62d31a73b16d6891c78be83a5befddb0849636d681c37d7ff80ca4b80712c4e",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "That’s the Way",
+            "length": "5:37",
+            "deezer": {
+              "id": 111624880,
+              "link": "https://www.deezer.com/track/111624880",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/f/0/33fc35870991f0bdb60d2dd66573e42a.mp3?hdnea=exp=1795656438~acl=/api/1/1/3/3/f/0/33fc35870991f0bdb60d2dd66573e42a.mp3*~data=user_id=0,application_id=42~hmac=5ce73eb5d453113da2c2a7064020780c0175c492aea3b5d9d02ed630d475e81d",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bron‐Y‐Aur Stomp",
+            "length": "4:17",
+            "deezer": {
+              "id": 111624882,
+              "link": "https://www.deezer.com/track/111624882",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/b/0/2abc44a33c528f02c5f7733bb44f1c9a.mp3?hdnea=exp=1795656438~acl=/api/1/1/2/a/b/0/2abc44a33c528f02c5f7733bb44f1c9a.mp3*~data=user_id=0,application_id=42~hmac=1f0f1efb0d511e5ba2875f5844e8b5254bd251078ab4a5a1d62786a02b6d6a8b",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Hats Off to (Roy) Harper",
+            "length": "3:42",
+            "deezer": {
+              "id": 111624884,
+              "link": "https://www.deezer.com/track/111624884",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/d/0/b9d2ac13a77ceae10dd703b274594774.mp3?hdnea=exp=1795656438~acl=/api/1/1/b/9/d/0/b9d2ac13a77ceae10dd703b274594774.mp3*~data=user_id=0,application_id=42~hmac=3a08503730f667e55061393edd07ffc3d9847b7477de47416278ca54f2794bce",
+              "preview_expires": "2026-11-26T01:27:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Led Zeppelin/Led Zeppelin III.jpg"
+}

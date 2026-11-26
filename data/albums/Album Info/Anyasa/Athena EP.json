@@ -1,0 +1,88 @@
+{
+  "title": "Athena EP",
+  "artist": "Anyasa",
+  "year": 2022,
+  "release_date": "2022-03-30",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/477cad14-4329-4feb-af4b-90288f1eef28",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/305097377"
+  },
+  "musicbrainz_id": "477cad14-4329-4feb-af4b-90288f1eef28",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1d1141c9-0559-4c41-b2ba-8c4ac6aab238",
+      "barcode": "5039060750193",
+      "title": "Athena EP",
+      "disambiguation": null,
+      "date": "2022-03-30",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "28:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Birha",
+            "length": "4:59",
+            "artist": "Anyasa feat. Barbie Rajput",
+            "deezer": {
+              "id": 1694686927,
+              "link": "https://www.deezer.com/track/1694686927",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/b/0/deb292acb7377fca1f250eec4de18a3e.mp3?hdnea=exp=1795649300~acl=/api/1/1/d/e/b/0/deb292acb7377fca1f250eec4de18a3e.mp3*~data=user_id=0,application_id=42~hmac=610c5f3f53da3bab7593d8566fb77643be3cf30834f414aff515222667506897",
+              "preview_expires": "2026-11-25T23:28:20Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Kaise (extended mix)",
+            "length": "6:04",
+            "artist": "Anyasa feat. Abhilasha Sinha",
+            "deezer": {
+              "id": 1694686937,
+              "link": "https://www.deezer.com/track/1694686937",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/a/0/59a73b2259d4d3b024e229696ee74257.mp3?hdnea=exp=1795649300~acl=/api/1/1/5/9/a/0/59a73b2259d4d3b024e229696ee74257.mp3*~data=user_id=0,application_id=42~hmac=d727181a0e7440b7ffd50e4b3f77214b5dc30f5345183457e0ae2bc46677d178",
+              "preview_expires": "2026-11-25T23:28:20Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Roshni (extended mix)",
+            "length": "7:38",
+            "artist": "Anyasa feat. Tanmaya Bhatnagar",
+            "deezer": {
+              "id": 1694686947,
+              "link": "https://www.deezer.com/track/1694686947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/f/0/f6f4a909219ef21f3d16226e7a4cb026.mp3?hdnea=exp=1795649300~acl=/api/1/1/f/6/f/0/f6f4a909219ef21f3d16226e7a4cb026.mp3*~data=user_id=0,application_id=42~hmac=ce8e5732a6030aaf4b350a1178f395e81cdcd00d66d070d784808bff62662ba6",
+              "preview_expires": "2026-11-25T23:28:20Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Raina (extended mix)",
+            "length": "9:43",
+            "artist": "Anyasa feat. Chitralekha Sen",
+            "deezer": {
+              "id": 1694686957,
+              "link": "https://www.deezer.com/track/1694686957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/d/0/cbd9c197eb8137aae92210e69e062900.mp3?hdnea=exp=1795649300~acl=/api/1/1/c/b/d/0/cbd9c197eb8137aae92210e69e062900.mp3*~data=user_id=0,application_id=42~hmac=8931a20abfc4d280bcd7488d1000d2dc83d8d83d86ff1f670a11258217a88a18",
+              "preview_expires": "2026-11-25T23:28:20Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anyasa/Athena EP.png"
+}

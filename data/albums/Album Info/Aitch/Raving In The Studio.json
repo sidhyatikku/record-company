@@ -1,0 +1,51 @@
+{
+  "title": "Raving In The Studio",
+  "artist": "Aitch & Bou",
+  "year": 2025,
+  "release_date": "2025-01-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f88d38f6-a6eb-40cc-b34b-e245a457b10a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/682982001"
+  },
+  "musicbrainz_id": "f88d38f6-a6eb-40cc-b34b-e245a457b10a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/de12a713-af90-42d9-823c-152c6983bde5",
+      "barcode": null,
+      "title": "Raving In The Studio",
+      "disambiguation": null,
+      "date": "2025-01-16",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:03",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Raving In The Studio",
+            "length": "3:03",
+            "deezer": {
+              "id": 3139545201,
+              "link": "https://www.deezer.com/track/3139545201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/e/0/5eec47b5264eed7dd3c9810bd5d1cf16.mp3?hdnea=exp=1795649014~acl=/api/1/1/5/e/e/0/5eec47b5264eed7dd3c9810bd5d1cf16.mp3*~data=user_id=0,application_id=42~hmac=6a88ff449d0e68054950ea58f01f42afe2f27aa3f5c542f53778655ca04781c0",
+              "preview_expires": "2026-11-25T23:23:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Aitch/Raving In The Studio.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Sector 28",
+  "artist": "SangeetKir, Foosie Gang",
+  "year": 2021,
+  "release_date": "2021-02-13",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/3gwQTxStATUEPMhWogdFW9",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/3gwQTxStATUEPMhWogdFW9",
+      "title": "Sector 28",
+      "date": "2021-02-13"
+    },
+    "total_tracks": 1,
+    "total_length": "3:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sector 28",
+            "length": "3:46"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/SangeetKir/Sector 28.jpg"
+}

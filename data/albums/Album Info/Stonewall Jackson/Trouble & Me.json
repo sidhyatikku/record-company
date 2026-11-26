@@ -1,0 +1,176 @@
+{
+  "title": "Trouble & Me",
+  "artist": "Stonewall Jackson",
+  "year": 1965,
+  "release_date": "1965",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "country"
+  ],
+  "tags": [
+    "country"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d2db829e-0f55-454c-8c9c-bcedb7ee80e6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/9264782"
+  },
+  "musicbrainz_id": "d2db829e-0f55-454c-8c9c-bcedb7ee80e6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f506e5fa-b75f-43b4-9ca3-330c4c6e477d",
+      "barcode": null,
+      "title": "Trouble & Me",
+      "disambiguation": null,
+      "date": "1965",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "29:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "12\" Vinyl",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A1",
+            "title": "Old Showboat",
+            "length": "2:49",
+            "deezer": {
+              "id": 91334158,
+              "link": "https://www.deezer.com/track/91334158",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/1/0/821c119caf42fe248c77ca93efe62311.mp3?hdnea=exp=1795721015~acl=/api/1/1/8/2/1/0/821c119caf42fe248c77ca93efe62311.mp3*~data=user_id=0,application_id=42~hmac=daa8d854ad936498e57ef03f717af63cbe4fdb667e31a6c61432f1c38840e8d1",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "A2",
+            "title": "It's Not Me",
+            "length": "2:23",
+            "deezer": {
+              "id": 91334160,
+              "link": "https://www.deezer.com/track/91334160",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/c/0/6bc69e0f8ca06afc14baa0c99882f4a3.mp3?hdnea=exp=1795721015~acl=/api/1/1/6/b/c/0/6bc69e0f8ca06afc14baa0c99882f4a3.mp3*~data=user_id=0,application_id=42~hmac=619cad75a249f741efa99c50d823334370d6c6ee27fcbd72dbb5b0c7f7b36938",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "A3",
+            "title": "Not My Kind of People",
+            "length": "2:14",
+            "deezer": {
+              "id": 91334162,
+              "link": "https://www.deezer.com/track/91334162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/c/0/16c7d2ba9e8486db8eddb20c980fd0a3.mp3?hdnea=exp=1795721015~acl=/api/1/1/1/6/c/0/16c7d2ba9e8486db8eddb20c980fd0a3.mp3*~data=user_id=0,application_id=42~hmac=c47f944f91eae5a718a71b6b278e970b6f764c779347095a1a4c1b96b864bd7e",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "A4",
+            "title": "Give It Back to the Indians",
+            "length": "2:28",
+            "deezer": {
+              "id": 91334164,
+              "link": "https://www.deezer.com/track/91334164",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/a/0/89a485b6c9c61080fb8daabb499149f8.mp3?hdnea=exp=1795721015~acl=/api/1/1/8/9/a/0/89a485b6c9c61080fb8daabb499149f8.mp3*~data=user_id=0,application_id=42~hmac=c4e3af855f847fe54fd311aa871ae4aceebe244cc9c5a5dbfd80ecddf5f98e8b",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "A5",
+            "title": "There’s a Limit",
+            "length": "2:30",
+            "deezer": {
+              "id": 91334166,
+              "link": "https://www.deezer.com/track/91334166",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/d/0/5cdffc28b44c824ee10169bd51735a06.mp3?hdnea=exp=1795721015~acl=/api/1/1/5/c/d/0/5cdffc28b44c824ee10169bd51735a06.mp3*~data=user_id=0,application_id=42~hmac=773fe0d904828f3767cbf0e7c825b5f3211b7ef30fd649ef77a68dcfc09ecc18",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "A6",
+            "title": "You Saw Me Off (But Will You See Me in)",
+            "length": "2:35",
+            "deezer": {
+              "id": 91334168,
+              "link": "https://www.deezer.com/track/91334168",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/2/0/ee22f8e7e41925d96575208451184d2d.mp3?hdnea=exp=1795721015~acl=/api/1/1/e/e/2/0/ee22f8e7e41925d96575208451184d2d.mp3*~data=user_id=0,application_id=42~hmac=01f084d233b5b26786b95de00eb68f63f8941abac8d48d311edfdb1a2951689a",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "B1",
+            "title": "I Washed My Hands in Muddy Water",
+            "length": "2:42",
+            "deezer": {
+              "id": 91334170,
+              "link": "https://www.deezer.com/track/91334170",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f282838c8a4c02b888374de01818c45d.mp3?hdnea=exp=1795721015~acl=/api/1/1/f/2/8/0/f282838c8a4c02b888374de01818c45d.mp3*~data=user_id=0,application_id=42~hmac=c8418f0c9d631a873f5af0483d6224195397808393fa3e3932caeb408174772b",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "B2",
+            "title": "I’ve Got to Change",
+            "length": "2:09",
+            "deezer": {
+              "id": 91334172,
+              "link": "https://www.deezer.com/track/91334172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/0/0/fa056983b22baa6fe6f9f5f10af36337.mp3?hdnea=exp=1795721015~acl=/api/1/1/f/a/0/0/fa056983b22baa6fe6f9f5f10af36337.mp3*~data=user_id=0,application_id=42~hmac=0cdd97a7a1062d036fc20c426bad463911553ff7932d32236998158e601baa78",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "B3",
+            "title": "Mama’s Bible",
+            "length": "2:33",
+            "deezer": {
+              "id": 91334174,
+              "link": "https://www.deezer.com/track/91334174",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e530cbdd3aa1720e671606114df27b1b.mp3?hdnea=exp=1795721015~acl=/api/1/1/e/5/3/0/e530cbdd3aa1720e671606114df27b1b.mp3*~data=user_id=0,application_id=42~hmac=da62ec378675fd469fb7014bc54d9252c00d29c1dcb391a86d0e86298c2f6d81",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "B4",
+            "title": "Stateside",
+            "length": "2:25",
+            "deezer": {
+              "id": 91334176,
+              "link": "https://www.deezer.com/track/91334176",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/2/0/5c207a5752b7575f67256ae9cc32f517.mp3?hdnea=exp=1795721015~acl=/api/1/1/5/c/2/0/5c207a5752b7575f67256ae9cc32f517.mp3*~data=user_id=0,application_id=42~hmac=cec551985bffafaa3066f8c9c6a86be50b349bd186fb54ec2964ad738654b209",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "B5",
+            "title": "Trouble & Me",
+            "length": "2:14",
+            "deezer": {
+              "id": 91334178,
+              "link": "https://www.deezer.com/track/91334178",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/0/0/e80be54f4d29e29a9ff4eaa6e610d814.mp3?hdnea=exp=1795721015~acl=/api/1/1/e/8/0/0/e80be54f4d29e29a9ff4eaa6e610d814.mp3*~data=user_id=0,application_id=42~hmac=6446a494297e4cf0948618727a36ce7ddeac7413ea2b0f20df824a10ad4356a7",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          },
+          {
+            "number": "B6",
+            "title": "I Could Have Gone Right (Just as Easy as I Went Wrong)",
+            "length": "2:20",
+            "deezer": {
+              "id": 91334180,
+              "link": "https://www.deezer.com/track/91334180",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/5/0/c45b00c9c5aa262fd09a60cfd7ef1b31.mp3?hdnea=exp=1795721015~acl=/api/1/1/c/4/5/0/c45b00c9c5aa262fd09a60cfd7ef1b31.mp3*~data=user_id=0,application_id=42~hmac=bd060d6502be79a28e5e9b36edda51a1fc9b4307ccf06d339c672b91ad224b38",
+              "preview_expires": "2026-11-26T19:23:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Stonewall Jackson/Trouble & Me.jpg"
+}

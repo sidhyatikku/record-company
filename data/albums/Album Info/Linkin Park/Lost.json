@@ -1,0 +1,66 @@
+{
+  "title": "Lost",
+  "artist": "Linkin Park",
+  "year": 2023,
+  "release_date": "2023-02-10",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "alternative rock",
+    "nu metal",
+    "pop",
+    "trip hop"
+  ],
+  "tags": [
+    "alternative rock",
+    "nu metal",
+    "pop",
+    "trip hop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d81eeeb3-3f08-43ca-aede-e59601417836",
+    "wikipedia": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q116737202",
+    "deezer": "https://www.deezer.com/album/401413077"
+  },
+  "musicbrainz_id": "d81eeeb3-3f08-43ca-aede-e59601417836",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/01ab57bb-c69b-4b5e-9107-2e7a6c026a84",
+      "barcode": "054391662019",
+      "title": "Lost",
+      "disambiguation": null,
+      "date": "2023-02-10",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lost",
+            "length": "3:19",
+            "deezer": {
+              "id": 2127426277,
+              "link": "https://www.deezer.com/track/2127426277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/2/0/db24b5cd1c00d2a439cbd91bebf8171d.mp3?hdnea=exp=1795656535~acl=/api/1/1/d/b/2/0/db24b5cd1c00d2a439cbd91bebf8171d.mp3*~data=user_id=0,application_id=42~hmac=eb9cc011a281577527e142ff19b1337136765ecf80766e7d274a8d4e186b579c",
+              "preview_expires": "2026-11-26T01:28:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Linkin Park/Lost.jpg"
+}

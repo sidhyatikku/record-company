@@ -1,0 +1,51 @@
+{
+  "title": "Sin",
+  "artist": "Sidhu Moose Wala",
+  "year": 2021,
+  "release_date": "2021-02-19",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0e99ae0b-0ed2-4888-a34a-2cb53a84de8c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/208927102"
+  },
+  "musicbrainz_id": "0e99ae0b-0ed2-4888-a34a-2cb53a84de8c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bf1abb18-07fd-431e-bb2e-6988abeab1e0",
+      "barcode": null,
+      "title": "Sin",
+      "disambiguation": null,
+      "date": "2021-02-19",
+      "country": "IN"
+    },
+    "total_tracks": 1,
+    "total_length": "3:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sin",
+            "length": "3:07",
+            "deezer": {
+              "id": 1249726222,
+              "link": "https://www.deezer.com/track/1249726222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/e/0/0bec5d8caefd52c9bcba2f149abf0fe5.mp3?hdnea=exp=1795720618~acl=/api/1/1/0/b/e/0/0bec5d8caefd52c9bcba2f149abf0fe5.mp3*~data=user_id=0,application_id=42~hmac=148d5d608adc2ececee185e33e7cbf98989af3d756daa88d7ccb40deef7591c4",
+              "preview_expires": "2026-11-26T19:16:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Sin.jpg"
+}

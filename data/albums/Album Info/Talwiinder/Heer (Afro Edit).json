@@ -1,0 +1,51 @@
+{
+  "title": "Heer",
+  "artist": "Talwiinder, Tech Panda & Kenzani",
+  "year": 2024,
+  "release_date": "2024-02-23",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fa48ec84-21f1-406f-b938-f941d1c8a6b5",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/548643012"
+  },
+  "musicbrainz_id": "fa48ec84-21f1-406f-b938-f941d1c8a6b5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a0d2bccc-89d2-4f05-8fb0-89cafa29b897",
+      "barcode": "859784292305",
+      "title": "Heer",
+      "disambiguation": null,
+      "date": "2024-02-23",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Heer",
+            "length": "3:36",
+            "deezer": {
+              "id": 2665227692,
+              "link": "https://www.deezer.com/track/2665227692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/b/0/e6b405ac619cd2a6a383e1a906fa2a7a.mp3?hdnea=exp=1795721205~acl=/api/1/1/e/6/b/0/e6b405ac619cd2a6a383e1a906fa2a7a.mp3*~data=user_id=0,application_id=42~hmac=8fa804216729c8b7c50510e7d6a730668cfc72af259fa1a077cc2e347fc7c1a4",
+              "preview_expires": "2026-11-26T19:26:45Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Talwiinder/Heer (Afro Edit).jpg"
+}

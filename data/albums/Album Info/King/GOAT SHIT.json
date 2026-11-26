@@ -1,0 +1,51 @@
+{
+  "title": "GOAT SHIT",
+  "artist": "King & Karma",
+  "year": 2024,
+  "release_date": "2024-05-31",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/69439924-6667-4362-86af-045beb4460b9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/591266712"
+  },
+  "musicbrainz_id": "69439924-6667-4362-86af-045beb4460b9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7d1729bf-c270-435e-8fd9-ed31600dc923",
+      "barcode": "5021732392183",
+      "title": "GOAT SHIT",
+      "disambiguation": null,
+      "date": "2024-05-31",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:51",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "GOAT SHIT",
+            "length": "3:51",
+            "deezer": {
+              "id": 2816080462,
+              "link": "https://www.deezer.com/track/2816080462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/b/0/deb71e60e0a3db1148d100f2d6d5f592.mp3?hdnea=exp=1795656214~acl=/api/1/1/d/e/b/0/deb71e60e0a3db1148d100f2d6d5f592.mp3*~data=user_id=0,application_id=42~hmac=d3fbe8dff6f02c986d499388c52415a773eb6fd4cd0d99c49a2b09257dd986e6",
+              "preview_expires": "2026-11-26T01:23:34Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/King/GOAT SHIT.jpg"
+}

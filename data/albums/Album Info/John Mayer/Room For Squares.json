@@ -1,0 +1,212 @@
+{
+  "title": "Room for Squares",
+  "artist": "John Mayer",
+  "year": 2001,
+  "release_date": "2001-06-05",
+  "type": "Album",
+  "description": "Room for Squares is the debut studio album by American singer-songwriter and guitarist John Mayer, originally released on June 5, 2001, and re-released on September 18, 2001, by both Aware and Columbia Records. Upon its release, it peaked at number 8 on the US Billboard 200 and received generally positive reviews from critics. It earned Mayer a Grammy Award for Best Male Pop Vocal Performance for the single \"Your Body Is a Wonderland\".",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "pop rock",
+    "soft rock",
+    "indie rock",
+    "blues rock",
+    "pop",
+    "acoustic rock"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "pop rock",
+    "soft rock",
+    "adult alternative pop/rock",
+    "alternative pop/rock",
+    "indie rock",
+    "alternative/indie rock",
+    "blues rock",
+    "pop",
+    "acoustic rock",
+    "general rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 10
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0e2e1f1d-57d7-377e-820c-f846bff80b24",
+    "wikipedia": "https://en.wikipedia.org/wiki/Room_for_Squares",
+    "allmusic": "https://www.allmusic.com/album/mw0000005077",
+    "discogs": "https://www.discogs.com/master/149466",
+    "wikidata": "https://www.wikidata.org/wiki/Q935797",
+    "deezer": "https://www.deezer.com/album/1206253"
+  },
+  "musicbrainz_id": "0e2e1f1d-57d7-377e-820c-f846bff80b24",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b181ec85-890a-43f8-a247-b6d79da71522",
+      "barcode": "888880639134",
+      "title": "Room for Squares",
+      "disambiguation": null,
+      "date": "2001-08-16",
+      "country": "US"
+    },
+    "total_tracks": 13,
+    "total_length": "54:07",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "No Such Thing",
+            "length": "3:51",
+            "deezer": {
+              "id": 13146256,
+              "link": "https://www.deezer.com/track/13146256",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/f/0/10f90f45b1587238913e11a0a89231e2.mp3?hdnea=exp=1795655704~acl=/api/1/1/1/0/f/0/10f90f45b1587238913e11a0a89231e2.mp3*~data=user_id=0,application_id=42~hmac=69114b55d5bc46fe670ae20b95a6d4fc63bfa10b2bd6c98a0c82dec7482565c8",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Why Georgia",
+            "length": "4:28",
+            "deezer": {
+              "id": 13146257,
+              "link": "https://www.deezer.com/track/13146257",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/6/0/076f0b0004dee2b37b186b68e9c902b8.mp3?hdnea=exp=1795655704~acl=/api/1/1/0/7/6/0/076f0b0004dee2b37b186b68e9c902b8.mp3*~data=user_id=0,application_id=42~hmac=ac29da68edf4d8a262c93ac98059b710cb58ae3a99b99bb15775e9aae8fcd4f1",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "My Stupid Mouth",
+            "length": "3:43",
+            "deezer": {
+              "id": 13146258,
+              "link": "https://www.deezer.com/track/13146258",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/b/0/59b502dbf6da000bdfe229d000d0a277.mp3?hdnea=exp=1795655704~acl=/api/1/1/5/9/b/0/59b502dbf6da000bdfe229d000d0a277.mp3*~data=user_id=0,application_id=42~hmac=b54b8cc79673906574a9ef5062c1b659e3de37ccf524d0c1ae10e87c10e57a1f",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Your Body Is a Wonderland",
+            "length": "4:09",
+            "deezer": {
+              "id": 13146259,
+              "link": "https://www.deezer.com/track/13146259",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/a/0/e8a4c05c957682ca58515022b7e53902.mp3?hdnea=exp=1795655704~acl=/api/1/1/e/8/a/0/e8a4c05c957682ca58515022b7e53902.mp3*~data=user_id=0,application_id=42~hmac=c1622f3426a2a2576a984395a302efabd806c5e06c752c305a6eda7c97dbd9d0",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Neon",
+            "length": "4:22",
+            "deezer": {
+              "id": 13146260,
+              "link": "https://www.deezer.com/track/13146260",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/c/0/4dc326f25fe533123ef2d79344a15eb6.mp3?hdnea=exp=1795655704~acl=/api/1/1/4/d/c/0/4dc326f25fe533123ef2d79344a15eb6.mp3*~data=user_id=0,application_id=42~hmac=93ebdea5d15afc121e7743f7decffff2a72d6f5d8e43e3c3ebb77a12714fdac1",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "City Love",
+            "length": "4:00",
+            "deezer": {
+              "id": 13146261,
+              "link": "https://www.deezer.com/track/13146261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/0/0/9e094930f6b179a84b9270ac75179a8f.mp3?hdnea=exp=1795655704~acl=/api/1/1/9/e/0/0/9e094930f6b179a84b9270ac75179a8f.mp3*~data=user_id=0,application_id=42~hmac=adc63e5c88557cb73c21a91fa457071ddb07c9c793cec0d86af3748caafd1fc3",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "83",
+            "length": "4:50",
+            "deezer": {
+              "id": 14876638,
+              "link": "https://www.deezer.com/track/14876638",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/2/0/2b29e894f0095fd77f7a89604d83789b.mp3?hdnea=exp=1795655704~acl=/api/1/1/2/b/2/0/2b29e894f0095fd77f7a89604d83789b.mp3*~data=user_id=0,application_id=42~hmac=d2946c81b7af66016784912c5d2130ba70de53f8702cef34a7d7142d17a27886",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "3x5",
+            "length": "4:49",
+            "deezer": {
+              "id": 13146262,
+              "link": "https://www.deezer.com/track/13146262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/1/0/1d18aa7702cfe7e6c160a60ec40bf7e0.mp3?hdnea=exp=1795655704~acl=/api/1/1/1/d/1/0/1d18aa7702cfe7e6c160a60ec40bf7e0.mp3*~data=user_id=0,application_id=42~hmac=bb65014d0c2466672ea07af27209bd19f11a6eb64fcdbaa7c51a223a19fbed7d",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Love Song for No One",
+            "length": "3:21",
+            "deezer": {
+              "id": 13146263,
+              "link": "https://www.deezer.com/track/13146263",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/7/0/937d3777a99ad85a04b21412c673fb8e.mp3?hdnea=exp=1795655704~acl=/api/1/1/9/3/7/0/937d3777a99ad85a04b21412c673fb8e.mp3*~data=user_id=0,application_id=42~hmac=c2847a2400ef13c5fdbdcba5b54c68e1162c959051c4255f7f157e57fa9389ba",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Back to You",
+            "length": "4:01",
+            "deezer": {
+              "id": 13146264,
+              "link": "https://www.deezer.com/track/13146264",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/d/0/9fd304e1880b1fa7f7400a4cdf1faf9d.mp3?hdnea=exp=1795655704~acl=/api/1/1/9/f/d/0/9fd304e1880b1fa7f7400a4cdf1faf9d.mp3*~data=user_id=0,application_id=42~hmac=034604b0afef897cb0e95ef7e9c2d25e79dc0471c4f7a5f1caf4690e7740daf6",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Great Indoors",
+            "length": "3:36",
+            "deezer": {
+              "id": 13146265,
+              "link": "https://www.deezer.com/track/13146265",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/0/0/8e096af0a5feece435ef040997037f2d.mp3?hdnea=exp=1795655704~acl=/api/1/1/8/e/0/0/8e096af0a5feece435ef040997037f2d.mp3*~data=user_id=0,application_id=42~hmac=058c3087a7db917ba240a33ded83698d69372c542f99f42493bade9cc85a9537",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Not Myself",
+            "length": "3:36",
+            "deezer": {
+              "id": 13146266,
+              "link": "https://www.deezer.com/track/13146266",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93af7803a8e2f9595e9de801d12de402.mp3?hdnea=exp=1795655704~acl=/api/1/1/9/3/a/0/93af7803a8e2f9595e9de801d12de402.mp3*~data=user_id=0,application_id=42~hmac=1b9b57ad71d033bd5f4074e151e10afb84fa51f115c5ba9f2d7c7b222a28caef",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "St. Patrick’s Day",
+            "length": "5:21",
+            "deezer": {
+              "id": 13146267,
+              "link": "https://www.deezer.com/track/13146267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/c/0/c8cfde1c3e97ae5b5d179362e800c01d.mp3?hdnea=exp=1795655704~acl=/api/1/1/c/8/c/0/c8cfde1c3e97ae5b5d179362e800c01d.mp3*~data=user_id=0,application_id=42~hmac=4c8447efc91e4154b5119a3f7127d4a616f7b99d4b8ec285fc6fcde934067f4e",
+              "preview_expires": "2026-11-26T01:15:04Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Mayer/Room For Squares.jpg"
+}

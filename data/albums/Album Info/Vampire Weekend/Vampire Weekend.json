@@ -1,0 +1,190 @@
+{
+  "title": "Vampire Weekend",
+  "artist": "Vampire Weekend",
+  "year": 2007,
+  "release_date": "2007-04",
+  "type": "Album",
+  "description": "Vampire Weekend is the debut studio album by American rock band Vampire Weekend, released on January 29, 2008, by XL Recordings. The album was produced by band member Rostam Batmanglij, with mixing assistance from Jeff Curtin and Shane Stoneback. Released after a year of building internet interest, the album showcased the band's unique hybrid of indie pop, chamber music, and Afropop influences.",
+  "genres": [
+    "indie rock",
+    "rock",
+    "afrobeat",
+    "chamber pop",
+    "indie pop",
+    "soukous"
+  ],
+  "tags": [
+    "indie rock",
+    "alternative",
+    "indie",
+    "rock",
+    "américain",
+    "2007",
+    "2008",
+    "afrobeat",
+    "american",
+    "chamber pop",
+    "indie pop",
+    "rock and indie",
+    "soukous",
+    "usa"
+  ],
+  "rating": {
+    "value_out_of_5": 3.35,
+    "votes": 14
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6719eb4c-42fb-3118-84a2-98c2fdbca79f",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vampire_Weekend_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000586147",
+    "discogs": "https://www.discogs.com/master/3211",
+    "wikidata": "https://www.wikidata.org/wiki/Q2071555",
+    "deezer": "https://www.deezer.com/album/6508872"
+  },
+  "musicbrainz_id": "6719eb4c-42fb-3118-84a2-98c2fdbca79f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cc284718-ac5b-3719-bf33-b7ea4288e0c1",
+      "barcode": "634904031862",
+      "title": "Vampire Weekend",
+      "disambiguation": null,
+      "date": "2008-01-28",
+      "country": "GB"
+    },
+    "total_tracks": 11,
+    "total_length": "34:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mansard Roof",
+            "length": "2:08",
+            "deezer": {
+              "id": 66537482,
+              "link": "https://www.deezer.com/track/66537482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/5/0/3a5ca1bb12370c529a429b0589c41cf3.mp3?hdnea=exp=1795722168~acl=/api/1/1/3/a/5/0/3a5ca1bb12370c529a429b0589c41cf3.mp3*~data=user_id=0,application_id=42~hmac=b98383a62289f33adb9a6f4601117de49767f9e172ba9cb165788ae969544753",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Oxford Comma",
+            "length": "3:16",
+            "deezer": {
+              "id": 66537483,
+              "link": "https://www.deezer.com/track/66537483",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fefc861e8b6ba02995cf60b7ba6689e8.mp3?hdnea=exp=1795722168~acl=/api/1/1/f/e/f/0/fefc861e8b6ba02995cf60b7ba6689e8.mp3*~data=user_id=0,application_id=42~hmac=f7ad5b519883cf1d1435a2c0adb2e3a9c23f7bf964099cf35382e8d42705dd07",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "A-Punk",
+            "length": "2:18",
+            "deezer": {
+              "id": 66537484,
+              "link": "https://www.deezer.com/track/66537484",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/c/0/0fcf43d840bf05f0786106fd4049b520.mp3?hdnea=exp=1795722168~acl=/api/1/1/0/f/c/0/0fcf43d840bf05f0786106fd4049b520.mp3*~data=user_id=0,application_id=42~hmac=4a046be12daa556f48a9817a7b04b29f261ca72683df0582a1d7ea249e99c60c",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Cape Cod Kwassa Kwassa",
+            "length": "3:35",
+            "deezer": {
+              "id": 66537485,
+              "link": "https://www.deezer.com/track/66537485",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/6/0/1c67ff60024aedf79c5fcd01e1f9fb16.mp3?hdnea=exp=1795722168~acl=/api/1/1/1/c/6/0/1c67ff60024aedf79c5fcd01e1f9fb16.mp3*~data=user_id=0,application_id=42~hmac=e1501010b41ef6091fc2588dfbb0fee2fcce133a78cbdf69472ff3f77e44c02f",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "M79",
+            "length": "4:16",
+            "deezer": {
+              "id": 66537486,
+              "link": "https://www.deezer.com/track/66537486",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/e/0/d6e5867133026f1c95f3e3557dea4744.mp3?hdnea=exp=1795722168~acl=/api/1/1/d/6/e/0/d6e5867133026f1c95f3e3557dea4744.mp3*~data=user_id=0,application_id=42~hmac=ef290b949e2b544ad11444d1e423f632466489d5bf0a6b4dbdab2c977a872d25",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Campus",
+            "length": "2:56",
+            "deezer": {
+              "id": 66537487,
+              "link": "https://www.deezer.com/track/66537487",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/f/0/4ef722faacff4e575e4e79f028dcff1d.mp3?hdnea=exp=1795722168~acl=/api/1/1/4/e/f/0/4ef722faacff4e575e4e79f028dcff1d.mp3*~data=user_id=0,application_id=42~hmac=9041adda23bea9498acda87e8ca23b950fefc2831798c4e36d05a9a9bd35d8f8",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bryn",
+            "length": "2:13",
+            "deezer": {
+              "id": 66537488,
+              "link": "https://www.deezer.com/track/66537488",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/f/0/62ff6e0c1bd65dbc30eb423ba44d2043.mp3?hdnea=exp=1795722168~acl=/api/1/1/6/2/f/0/62ff6e0c1bd65dbc30eb423ba44d2043.mp3*~data=user_id=0,application_id=42~hmac=9d888f17471a057b376ba022d8cb075e49a75cac2f742db7577acd82ce0e4bc7",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "One (Blake’s Got a New Face)",
+            "length": "3:13",
+            "deezer": {
+              "id": 66537489,
+              "link": "https://www.deezer.com/track/66537489",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/d/0/a3dd88ab50260ad57b71c6f50347c236.mp3?hdnea=exp=1795722168~acl=/api/1/1/a/3/d/0/a3dd88ab50260ad57b71c6f50347c236.mp3*~data=user_id=0,application_id=42~hmac=145f7c590da876cc6ea7254aa0b1ed5b8c0cdfdf798079bd9eb04c305189e7a1",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I Stand Corrected",
+            "length": "2:40",
+            "deezer": {
+              "id": 66537490,
+              "link": "https://www.deezer.com/track/66537490",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/2/0/f42bfba008a6c02a95d6fc245d152de4.mp3?hdnea=exp=1795722168~acl=/api/1/1/f/4/2/0/f42bfba008a6c02a95d6fc245d152de4.mp3*~data=user_id=0,application_id=42~hmac=653af27905f0dc442e6fee6f3c4b41155433eac0c179b072c0fd1918be4539f5",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Walcott",
+            "length": "3:42",
+            "deezer": {
+              "id": 66537491,
+              "link": "https://www.deezer.com/track/66537491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dced7a20a1ef265af052b807abc9721.mp3?hdnea=exp=1795722168~acl=/api/1/1/0/d/c/0/0dced7a20a1ef265af052b807abc9721.mp3*~data=user_id=0,application_id=42~hmac=059eaafdadf3f13609ace55ff09d9ade8613d5f1476716f13e515502bd349c8b",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "The Kids Don’t Stand a Chance",
+            "length": "4:03",
+            "deezer": {
+              "id": 66537492,
+              "link": "https://www.deezer.com/track/66537492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/a/0/abaf4bc23a42ed50aca4b4eba3ea8598.mp3?hdnea=exp=1795722168~acl=/api/1/1/a/b/a/0/abaf4bc23a42ed50aca4b4eba3ea8598.mp3*~data=user_id=0,application_id=42~hmac=55df20c7efe39a318cdb3e0b142fff1fbc94e972d130a20e14e1df8c2282eac2",
+              "preview_expires": "2026-11-26T19:42:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Vampire Weekend/Vampire Weekend.jpg"
+}

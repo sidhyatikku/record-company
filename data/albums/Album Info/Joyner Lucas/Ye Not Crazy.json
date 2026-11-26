@@ -1,0 +1,45 @@
+{
+  "title": "Ye Not Crazy",
+  "artist": "Joyner Lucas",
+  "year": 2022,
+  "release_date": "2022-04-01",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c2bcc3fd-87e1-45e7-920d-1190776cb3fd",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "c2bcc3fd-87e1-45e7-920d-1190776cb3fd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2e6476a6-f7b6-4f0d-b0cf-b7917dc0e9e9",
+      "barcode": null,
+      "title": "Ye Not Crazy",
+      "disambiguation": null,
+      "date": "2022-04-01",
+      "country": "US"
+    },
+    "total_tracks": 1,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ye Not Crazy",
+            "length": null
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Joyner Lucas/Ye Not Crazy.png"
+}

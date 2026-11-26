@@ -1,0 +1,147 @@
+{
+  "title": "Homebound",
+  "artist": "Sithu Aye",
+  "year": 2018,
+  "release_date": "2018-12-17",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "djent",
+    "metal",
+    "progressive metal"
+  ],
+  "tags": [
+    "djent",
+    "metal",
+    "progressive metal"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/047a5d11-8e2f-411e-b010-9356e6bad066",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/117413552"
+  },
+  "musicbrainz_id": "047a5d11-8e2f-411e-b010-9356e6bad066",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2f5d9603-275c-4c11-a526-076ad62f20f8",
+      "barcode": null,
+      "title": "Homebound",
+      "disambiguation": null,
+      "date": "2018-12-17",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "45:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Lost in the (Space) Sauce",
+            "length": "1:07",
+            "deezer": {
+              "id": 796075252,
+              "link": "https://www.deezer.com/track/796075252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/7/0/f079ede672ce9eca4e3e269c044ac9ea.mp3?hdnea=exp=1795720687~acl=/api/1/1/f/0/7/0/f079ede672ce9eca4e3e269c044ac9ea.mp3*~data=user_id=0,application_id=42~hmac=441785d82bf5f6116bb283a88ceceeb339010b5759eee515a77ef8c90542afb8",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Primary Ignition",
+            "length": "4:40",
+            "deezer": {
+              "id": 796075262,
+              "link": "https://www.deezer.com/track/796075262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/b/0/b0b5241578d07de47a803fa36ebd7938.mp3?hdnea=exp=1795720687~acl=/api/1/1/b/0/b/0/b0b5241578d07de47a803fa36ebd7938.mp3*~data=user_id=0,application_id=42~hmac=57bba8e8123c349bc8d0c6f85e4dd42db2142754103f9f004f676c827fd36438",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Grand Order",
+            "length": "5:19",
+            "deezer": {
+              "id": 796075272,
+              "link": "https://www.deezer.com/track/796075272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/2/0/8f276bd35871b8fc2786aeb3d0ed1330.mp3?hdnea=exp=1795720687~acl=/api/1/1/8/f/2/0/8f276bd35871b8fc2786aeb3d0ed1330.mp3*~data=user_id=0,application_id=42~hmac=a40953677d7cb39f242de041c3bfb02b8781b32ae665396cbdbae0cec732ec86",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Holograph",
+            "length": "5:41",
+            "deezer": {
+              "id": 796075282,
+              "link": "https://www.deezer.com/track/796075282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/4/0/0842ca5a95edf21689ed0034738ebd11.mp3?hdnea=exp=1795720687~acl=/api/1/1/0/8/4/0/0842ca5a95edf21689ed0034738ebd11.mp3*~data=user_id=0,application_id=42~hmac=fcea44ed02e0d1158cf321c4eb210b903170a0e960fdeb217e4576daef6c1a39",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Runaway Reaction",
+            "length": "4:24",
+            "deezer": {
+              "id": 796075292,
+              "link": "https://www.deezer.com/track/796075292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/e/0/6ee880038d4936ef68c75d949e6e7507.mp3?hdnea=exp=1795720687~acl=/api/1/1/6/e/e/0/6ee880038d4936ef68c75d949e6e7507.mp3*~data=user_id=0,application_id=42~hmac=90df01cf91c5e9869fe1debcd29e5ec3a380554db5d48c5e1cfa6abab6f44491",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Journey",
+            "length": "5:44",
+            "deezer": {
+              "id": 796075302,
+              "link": "https://www.deezer.com/track/796075302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/d/0/29d67edc67cd646639a01dd0852d3a67.mp3?hdnea=exp=1795720687~acl=/api/1/1/2/9/d/0/29d67edc67cd646639a01dd0852d3a67.mp3*~data=user_id=0,application_id=42~hmac=b32310276e84aa1ffca7e5dca97cee698873a7712a18fbf295d606533ccbea37",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Footsteps",
+            "length": "6:45",
+            "deezer": {
+              "id": 796075312,
+              "link": "https://www.deezer.com/track/796075312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/6/0/1b66a1da993483894e35161bc101855f.mp3?hdnea=exp=1795720687~acl=/api/1/1/1/b/6/0/1b66a1da993483894e35161bc101855f.mp3*~data=user_id=0,application_id=42~hmac=bb16667d6d8b9190a48b616855114c2abe8e6dd67be7b20bc8fa7a148367499c",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Homebound",
+            "length": "5:37",
+            "deezer": {
+              "id": 796075322,
+              "link": "https://www.deezer.com/track/796075322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/3/0/ba373375dfaf83a47a3d7b89b9b47f3f.mp3?hdnea=exp=1795720687~acl=/api/1/1/b/a/3/0/ba373375dfaf83a47a3d7b89b9b47f3f.mp3*~data=user_id=0,application_id=42~hmac=bd58628beffaceb5b17607a6f076bcb333debb05ebb7d7b79c477ef397f41d30",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Galaxies Collide",
+            "length": "6:11",
+            "deezer": {
+              "id": 796075332,
+              "link": "https://www.deezer.com/track/796075332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/2/0/cb2c3c51bdad52aa71a53a8968849e6c.mp3?hdnea=exp=1795720687~acl=/api/1/1/c/b/2/0/cb2c3c51bdad52aa71a53a8968849e6c.mp3*~data=user_id=0,application_id=42~hmac=cda79bbd4e410abdf274dc50fe20213f3ac58390bf0263f1769b25789dfcb1c1",
+              "preview_expires": "2026-11-26T19:18:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sithu Aye/Homebound.jpg"
+}

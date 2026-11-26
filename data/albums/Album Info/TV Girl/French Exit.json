@@ -1,0 +1,187 @@
+{
+  "title": "French Exit",
+  "artist": "TV Girl",
+  "year": 2014,
+  "release_date": "2014-06-05",
+  "type": "Album",
+  "description": "French Exit is the debut studio album by American indie pop band TV Girl. It was released on June 5, 2014 and follows the release of their first mixtape The Wild, The Innocent, The TV Shuffle and their third EP Lonely Women. The band describe the album's songs as \"about lost lust, too much love and not enough.\"",
+  "genres": [
+    "pop",
+    "electronic",
+    "indie pop"
+  ],
+  "tags": [
+    "pop",
+    "electronic",
+    "indie pop"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a7e457e6-4124-4cb5-9f2a-8c35a30835a3",
+    "wikipedia": "https://en.wikipedia.org/wiki/French_Exit_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002801682",
+    "discogs": "https://www.discogs.com/master/791254",
+    "wikidata": "https://www.wikidata.org/wiki/Q18713452",
+    "deezer": "https://www.deezer.com/album/318676647"
+  },
+  "musicbrainz_id": "a7e457e6-4124-4cb5-9f2a-8c35a30835a3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e461c1b4-4eb5-46c2-8eb1-1b29e1befdf4",
+      "barcode": "888174780955",
+      "title": "French Exit",
+      "disambiguation": null,
+      "date": "2014-06-05",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "40:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Pantyhose",
+            "length": "2:56",
+            "deezer": {
+              "id": 1751425947,
+              "link": "https://www.deezer.com/track/1751425947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/2/0/062c4d8d314a2301fe4d2bc3f6f892b9.mp3?hdnea=exp=1795722054~acl=/api/1/1/0/6/2/0/062c4d8d314a2301fe4d2bc3f6f892b9.mp3*~data=user_id=0,application_id=42~hmac=33696cdbbf2025500cc43b116016c06748f187470ef1c1620619c33c2b453f26",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Birds Don't Sing",
+            "length": "3:29",
+            "deezer": {
+              "id": 1751425957,
+              "link": "https://www.deezer.com/track/1751425957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/5/0/9c592a30e17bb6e6b0c9f23d1893ce86.mp3?hdnea=exp=1795722054~acl=/api/1/1/9/c/5/0/9c592a30e17bb6e6b0c9f23d1893ce86.mp3*~data=user_id=0,application_id=42~hmac=aa10837dc40ac4184126b98f2eb8798d5e807a3335ab3847df6b19d9e126dfa3",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Louise",
+            "length": "3:14",
+            "deezer": {
+              "id": 1751425967,
+              "link": "https://www.deezer.com/track/1751425967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/2/0/fd2534f9648ee349023d693165d978e2.mp3?hdnea=exp=1795722054~acl=/api/1/1/f/d/2/0/fd2534f9648ee349023d693165d978e2.mp3*~data=user_id=0,application_id=42~hmac=3670bc82d573e3b8ec2db9831ba8f95673445d41461869532a6ff1f37a21e949",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Hate Yourself",
+            "length": "3:34",
+            "deezer": {
+              "id": 1751425977,
+              "link": "https://www.deezer.com/track/1751425977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/b/0/b2b65a5751ded4c525ce8c41a938cabc.mp3?hdnea=exp=1795722054~acl=/api/1/1/b/2/b/0/b2b65a5751ded4c525ce8c41a938cabc.mp3*~data=user_id=0,application_id=42~hmac=b8524a3086de639de462616a86b3eaf0cb64241473072ee173e66e54ef49ec99",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Getaway",
+            "length": "3:43",
+            "deezer": {
+              "id": 1751425987,
+              "link": "https://www.deezer.com/track/1751425987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/4/0/844130e94534cde2170b02c880e0cd23.mp3?hdnea=exp=1795722054~acl=/api/1/1/8/4/4/0/844130e94534cde2170b02c880e0cd23.mp3*~data=user_id=0,application_id=42~hmac=f9abb5d222630502835cad4466660972f6ff65a057898197c29383ffbf106a35",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Talk to Strangers",
+            "length": "2:57",
+            "deezer": {
+              "id": 1751425997,
+              "link": "https://www.deezer.com/track/1751425997",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/d/0/1ed741b5d60b2825dac3ced41887794b.mp3?hdnea=exp=1795722054~acl=/api/1/1/1/e/d/0/1ed741b5d60b2825dac3ced41887794b.mp3*~data=user_id=0,application_id=42~hmac=2954308c1fb9ae1a024852266a14e1fa3b369f49a2f10980d4d54fe5be711f9d",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Blonde",
+            "length": "3:47",
+            "deezer": {
+              "id": 1751426007,
+              "link": "https://www.deezer.com/track/1751426007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/c/0/dfca825e97f9d6f214015de94a236f8d.mp3?hdnea=exp=1795722054~acl=/api/1/1/d/f/c/0/dfca825e97f9d6f214015de94a236f8d.mp3*~data=user_id=0,application_id=42~hmac=7df1a7bb0659b7c3c4c5a6bb5771a85b0c1256cf5fa8d4950182135a1dc1ac5c",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Daughter of a Cop",
+            "length": "2:33",
+            "deezer": {
+              "id": 1751426017,
+              "link": "https://www.deezer.com/track/1751426017",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/0/0/b30bd0ad0ecc8d7014fc94658d41019e.mp3?hdnea=exp=1795722054~acl=/api/1/1/b/3/0/0/b30bd0ad0ecc8d7014fc94658d41019e.mp3*~data=user_id=0,application_id=42~hmac=a067d74f4a3b11e5eff0cffe8cb4cd839479112da32c5544bf5676609b6930bf",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lovers Rock",
+            "length": "3:33",
+            "deezer": {
+              "id": 1751426027,
+              "link": "https://www.deezer.com/track/1751426027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/7/0/e6798f8a8096a28b09eeb470713ee088.mp3?hdnea=exp=1795722054~acl=/api/1/1/e/6/7/0/e6798f8a8096a28b09eeb470713ee088.mp3*~data=user_id=0,application_id=42~hmac=3190e17554ff1cdaa187304170b0cf121e11614f74bef83ee44b50a8c0146ce3",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Her and Her Friend",
+            "length": "3:29",
+            "deezer": {
+              "id": 1751426037,
+              "link": "https://www.deezer.com/track/1751426037",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/7/0/2a75e6b8b9c5dcc197c87fbf00936958.mp3?hdnea=exp=1795722054~acl=/api/1/1/2/a/7/0/2a75e6b8b9c5dcc197c87fbf00936958.mp3*~data=user_id=0,application_id=42~hmac=f06d66a222d1a54cfc71b32ddbf7ee88612fd76b75f8aee895f103bd5a5c70be",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Come When You Call",
+            "length": "3:38",
+            "deezer": {
+              "id": 1751426047,
+              "link": "https://www.deezer.com/track/1751426047",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/4/0/2545bff51e2f5193bfdb24624599e09b.mp3?hdnea=exp=1795722054~acl=/api/1/1/2/5/4/0/2545bff51e2f5193bfdb24624599e09b.mp3*~data=user_id=0,application_id=42~hmac=54a66acfbb449840d53cd26be745c235b301ea496edd40408f01a87de00d014c",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Anjela",
+            "length": "3:44",
+            "deezer": {
+              "id": 1751426057,
+              "link": "https://www.deezer.com/track/1751426057",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/5/0/055b3acb4f903e947d19f1e331851665.mp3?hdnea=exp=1795722054~acl=/api/1/1/0/5/5/0/055b3acb4f903e947d19f1e331851665.mp3*~data=user_id=0,application_id=42~hmac=666f93141260ec9802f01fdd85455666a8a0b49e7daf03d263f1a6b9a27c0013",
+              "preview_expires": "2026-11-26T19:40:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/TV Girl/French Exit.jpg"
+}

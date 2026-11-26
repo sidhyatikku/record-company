@@ -1,0 +1,213 @@
+{
+  "title": "Appetite for Destruction",
+  "artist": "Guns N' Roses",
+  "year": 1987,
+  "release_date": "1987-07-21",
+  "type": "Album",
+  "description": "Appetite for Destruction is the debut studio album by American hard rock band Guns N' Roses, released on July 21, 1987, by Geffen Records. The album was recorded from January 18 to June 23 in 1987, and was produced by Mike Clink. Most of the album's themes reflect the band's personal experiences and daily life, including their youth.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "glam metal",
+    "heavy metal",
+    "metal",
+    "sleaze rock",
+    "pop rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "glam metal",
+    "heavy metal",
+    "alcohol",
+    "anthemic",
+    "boastful",
+    "drugs",
+    "energetic",
+    "heavy",
+    "melodic",
+    "metal",
+    "party",
+    "passionate",
+    "rebellious",
+    "sexual",
+    "sleaze rock",
+    "urban",
+    "album rock",
+    "hedonism",
+    "male vocalist",
+    "pop rock",
+    "punchy",
+    "rhythmic",
+    "vulgar"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 39
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+    "wikipedia": "https://en.wikipedia.org/wiki/Appetite_for_Destruction",
+    "allmusic": "https://www.allmusic.com/album/mw0000192878",
+    "discogs": "https://www.discogs.com/master/9467",
+    "wikidata": "https://www.wikidata.org/wiki/Q270690",
+    "deezer": "https://www.deezer.com/album/66644212"
+  },
+  "musicbrainz_id": "a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/226fb89c-9c37-4e0b-bec2-381f5b6ee5d1",
+      "barcode": "00602567673743",
+      "title": "Appetite for Destruction",
+      "disambiguation": null,
+      "date": "2018-06-29",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "53:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Welcome to the Jungle",
+            "length": "4:33",
+            "deezer": {
+              "id": 518457252,
+              "link": "https://www.deezer.com/track/518457252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/b/0/e3bdd797ec36df3068f8288688889ef2.mp3?hdnea=exp=1795654819~acl=/api/1/1/e/3/b/0/e3bdd797ec36df3068f8288688889ef2.mp3*~data=user_id=0,application_id=42~hmac=92164aab6984c3a76868e89b321f3cd0fbb4bd749561e0dc567678d7889d72f5",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "It’s So Easy",
+            "length": "3:23",
+            "deezer": {
+              "id": 518457262,
+              "link": "https://www.deezer.com/track/518457262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/d/0/46df3705a17fa38a67b1f1769d8d3c9a.mp3?hdnea=exp=1795654819~acl=/api/1/1/4/6/d/0/46df3705a17fa38a67b1f1769d8d3c9a.mp3*~data=user_id=0,application_id=42~hmac=9d434d6f5acb324a5a52201712b3a1286b7c6ca35eb58d7e0e0f7079664662c1",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Nightrain",
+            "length": "4:28",
+            "deezer": {
+              "id": 518457272,
+              "link": "https://www.deezer.com/track/518457272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/a/0/65a07a2529f28fc0c965de17b8a20cca.mp3?hdnea=exp=1795654819~acl=/api/1/1/6/5/a/0/65a07a2529f28fc0c965de17b8a20cca.mp3*~data=user_id=0,application_id=42~hmac=de645243e48e7b5284bf88f741a5adf9b0d2364f0402d04433b598f725649078",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Out ta Get Me",
+            "length": "4:24",
+            "deezer": {
+              "id": 518457282,
+              "link": "https://www.deezer.com/track/518457282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/8/0/8e87607341390f862273644e214c6a15.mp3?hdnea=exp=1795654819~acl=/api/1/1/8/e/8/0/8e87607341390f862273644e214c6a15.mp3*~data=user_id=0,application_id=42~hmac=cd3617621e5a31bd8ed90c3071cefdd8efcf1bc8ba3667a0194c14a725456dc6",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Mr. Brownstone",
+            "length": "3:49",
+            "deezer": {
+              "id": 518457292,
+              "link": "https://www.deezer.com/track/518457292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/1/0/1d1df57fd59a1a7d5bcc340df939671e.mp3?hdnea=exp=1795654819~acl=/api/1/1/1/d/1/0/1d1df57fd59a1a7d5bcc340df939671e.mp3*~data=user_id=0,application_id=42~hmac=f79796f7b25b3b428eb6c3e810834fc8e4100a493e3ce724b42849688e9b7feb",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Paradise City",
+            "length": "6:46",
+            "deezer": {
+              "id": 518457302,
+              "link": "https://www.deezer.com/track/518457302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/8/0/9c8ef7fd15bb502b764c0551a3c9306f.mp3?hdnea=exp=1795654819~acl=/api/1/1/9/c/8/0/9c8ef7fd15bb502b764c0551a3c9306f.mp3*~data=user_id=0,application_id=42~hmac=52431654619dde4f7bba27611f0970d417fe95d616529f436643cec0bcb10ace",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "My Michelle",
+            "length": "3:40",
+            "deezer": {
+              "id": 518457312,
+              "link": "https://www.deezer.com/track/518457312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/0/0/f203dbf209cc287fcaccb77adc8c520a.mp3?hdnea=exp=1795654819~acl=/api/1/1/f/2/0/0/f203dbf209cc287fcaccb77adc8c520a.mp3*~data=user_id=0,application_id=42~hmac=80720a875718dfb278f39d3bb9c389ed296ec03a8eefb19b3c964da61061f82f",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Think About You",
+            "length": "3:52",
+            "deezer": {
+              "id": 518457322,
+              "link": "https://www.deezer.com/track/518457322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/1/0/cf1346b54340eb66c0c1c578f250ff54.mp3?hdnea=exp=1795654819~acl=/api/1/1/c/f/1/0/cf1346b54340eb66c0c1c578f250ff54.mp3*~data=user_id=0,application_id=42~hmac=eb62c5548b73de9206008b340036d0245743323e25416f9cd16e6e739557b195",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sweet Child o’ Mine",
+            "length": "5:56",
+            "deezer": {
+              "id": 518457332,
+              "link": "https://www.deezer.com/track/518457332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/1/0/59115eec88ea0bc7742eaba93facf49b.mp3?hdnea=exp=1795654819~acl=/api/1/1/5/9/1/0/59115eec88ea0bc7742eaba93facf49b.mp3*~data=user_id=0,application_id=42~hmac=c893c852ca2f449a8ba04dce954ade1ce3e270e6f0efd840874938b152992252",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "You’re Crazy",
+            "length": "3:17",
+            "deezer": {
+              "id": 518457342,
+              "link": "https://www.deezer.com/track/518457342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/f/0/5ff63eb32cfd635beffce64dfce803df.mp3?hdnea=exp=1795654819~acl=/api/1/1/5/f/f/0/5ff63eb32cfd635beffce64dfce803df.mp3*~data=user_id=0,application_id=42~hmac=004df0e303af37e4ac7ec4456ebae52891110bbab84261c8ebb061ce1b0ba54e",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Anything Goes",
+            "length": "3:26",
+            "deezer": {
+              "id": 518457352,
+              "link": "https://www.deezer.com/track/518457352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/f/0/2efb74c96bc0c584b99c3e704e307d66.mp3?hdnea=exp=1795654819~acl=/api/1/1/2/e/f/0/2efb74c96bc0c584b99c3e704e307d66.mp3*~data=user_id=0,application_id=42~hmac=a743dc8857aa7388e78cb538229fbd10b2bd4dd4068ec625b3bba1333bcda6de",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Rocket Queen",
+            "length": "6:13",
+            "deezer": {
+              "id": 518457362,
+              "link": "https://www.deezer.com/track/518457362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/0/0/ce044ffb6a2580291a01069fca291829.mp3?hdnea=exp=1795654819~acl=/api/1/1/c/e/0/0/ce044ffb6a2580291a01069fca291829.mp3*~data=user_id=0,application_id=42~hmac=1f4f4d6fc4a12a43fd95e2576255d97de1f90e52daefb231c99cab1ed651fa46",
+              "preview_expires": "2026-11-26T01:00:19Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Guns N' Roses/Appetite For Destruction.jpg"
+}

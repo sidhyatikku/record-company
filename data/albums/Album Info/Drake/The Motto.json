@@ -1,0 +1,62 @@
+{
+  "title": "The Motto / Make Me Proud",
+  "artist": "Drake",
+  "year": 2012,
+  "release_date": "2012-01-01",
+  "type": "Single",
+  "description": "\"The Motto\" is a song by Canadian rapper Drake featuring American rapper Lil Wayne. It is a digital iTunes Store bonus track from Drake's second studio album Take Care. It was written as a response to the Nickelback song If Today Was Your Last Day.\" The Motto\" premiered on Power 106 on October 31, 2011. Drake released the song on his OVO blog a day later. It was first played on rhythmic top 40 radio stations on November 29, 2011 as the album's fourth single.",
+  "genres": [
+    "hip hop"
+  ],
+  "tags": [
+    "hip hop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/11db804b-597c-4600-9088-d4aa8273fccd",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Motto_(Drake_song)",
+    "deezer": "https://www.deezer.com/album/1606856"
+  },
+  "musicbrainz_id": "11db804b-597c-4600-9088-d4aa8273fccd",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2bf6dfaa-88ab-4a3a-bd22-6d649a3135a5",
+      "barcode": "00602537019298",
+      "title": "The Motto",
+      "disambiguation": null,
+      "date": "2012-01-01",
+      "country": "IE"
+    },
+    "total_tracks": 2,
+    "total_length": "6:38",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Motto",
+            "length": "3:02",
+            "artist": "Drake & Lil Wayne",
+            "deezer": {
+              "id": 17167843,
+              "link": "https://www.deezer.com/track/17167843",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/f/0/a1fdd9fa82b387603cf4060d955e59fb.mp3?hdnea=exp=1795653600~acl=/api/1/1/a/1/f/0/a1fdd9fa82b387603cf4060d955e59fb.mp3*~data=user_id=0,application_id=42~hmac=6ae5d58e2386375eb90dce9b208e2f19537c8f7ef68507ed497a8bfefea7556b",
+              "preview_expires": "2026-11-26T00:40:00Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Make Me Proud - Album Version (explicit) NEW",
+            "length": "3:36",
+            "artist": "Drake & Nicki Minaj"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Drake/The Motto.jpg"
+}

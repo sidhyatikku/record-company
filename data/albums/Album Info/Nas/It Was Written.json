@@ -1,0 +1,216 @@
+{
+  "title": "It Was Written",
+  "artist": "Nas",
+  "year": 1996,
+  "release_date": "1996-07-01",
+  "type": "Album",
+  "description": "It Was Written is the second studio album by American rapper Nas, released on July 2, 1996, by Columbia Records. After the modest commercial success of his debut album Illmatic (1994), Nas pursued a more polished, mainstream sound for It Was Written. Produced largely by Trackmasters, it departed from the debut's raw, underground aesthetic and embraced mafioso and gangsta themes.",
+  "genres": [
+    "hip hop",
+    "boom bap",
+    "conscious hip hop",
+    "gangsta rap",
+    "jazz rap",
+    "mafioso rap"
+  ],
+  "tags": [
+    "hip hop",
+    "boom bap",
+    "conscious hip hop",
+    "gangsta rap",
+    "jazz rap",
+    "mafioso rap"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 5
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f4dde59b-9a1d-3e74-9dee-c734435d9ea0",
+    "wikipedia": "https://en.wikipedia.org/wiki/It_Was_Written",
+    "allmusic": "https://www.allmusic.com/album/mw0000188107",
+    "discogs": "https://www.discogs.com/master/20152",
+    "wikidata": "https://www.wikidata.org/wiki/Q769398",
+    "deezer": "https://www.deezer.com/album/111750"
+  },
+  "musicbrainz_id": "f4dde59b-9a1d-3e74-9dee-c734435d9ea0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0b11bb29-760b-493c-9b4f-26dcc470c36a",
+      "barcode": "074646701522",
+      "title": "It Was Written",
+      "disambiguation": null,
+      "date": "",
+      "country": "US"
+    },
+    "total_tracks": 14,
+    "total_length": "58:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Album Intro",
+            "length": "2:25",
+            "deezer": {
+              "id": 1015380,
+              "link": "https://www.deezer.com/track/1015380",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/a/0/05a06e39c6888eb54d4b29b89ce9435e.mp3?hdnea=exp=1795718724~acl=/api/1/1/0/5/a/0/05a06e39c6888eb54d4b29b89ce9435e.mp3*~data=user_id=0,application_id=42~hmac=608cdc8199f363bb7ccad82ade16b14f66d942d6b06a16ad84fddc537a2bdc84",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Message",
+            "length": "3:54",
+            "deezer": {
+              "id": 1015329,
+              "link": "https://www.deezer.com/track/1015329",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/0/0/4e04e06ff740928a2150355cbf933f7c.mp3?hdnea=exp=1795718724~acl=/api/1/1/4/e/0/0/4e04e06ff740928a2150355cbf933f7c.mp3*~data=user_id=0,application_id=42~hmac=704df0b3732bbce64616a07c2463545e6db8c66b35a8b6beba3f456ba26753ce",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Street Dreams",
+            "length": "4:40",
+            "deezer": {
+              "id": 1015321,
+              "link": "https://www.deezer.com/track/1015321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/5/0/3c55f7b0f0b04948bd85d4e848a70a75.mp3?hdnea=exp=1795718724~acl=/api/1/1/3/c/5/0/3c55f7b0f0b04948bd85d4e848a70a75.mp3*~data=user_id=0,application_id=42~hmac=b2d411c995d75feb1307dd392ebe4e7e86b7fa85147118f5276597c0dddf0ef6",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Gave You Power",
+            "length": "3:53",
+            "deezer": {
+              "id": 1015270,
+              "link": "https://www.deezer.com/track/1015270",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/3/0/633041a0e086cbe1e9eecca3dac10fa9.mp3?hdnea=exp=1795718724~acl=/api/1/1/6/3/3/0/633041a0e086cbe1e9eecca3dac10fa9.mp3*~data=user_id=0,application_id=42~hmac=ae6bf4652532ff3732aa0a5d9f6fc6036cf158cb6c62bda68920f499205a2d03",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Watch Dem Niggas",
+            "length": "4:05",
+            "deezer": {
+              "id": 1013100,
+              "link": "https://www.deezer.com/track/1013100",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/2/0/5e2c73e901c862d020a26536ba3f6dcc.mp3?hdnea=exp=1795718724~acl=/api/1/1/5/e/2/0/5e2c73e901c862d020a26536ba3f6dcc.mp3*~data=user_id=0,application_id=42~hmac=9230dc7bb4ca2d8879085b6f464a38d96a1febbc77790c015bb89a4327d98aa8",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Take It in Blood",
+            "length": "4:48",
+            "deezer": {
+              "id": 1013842,
+              "link": "https://www.deezer.com/track/1013842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/2/0/622665045acb7c27983dedb0aad21892.mp3?hdnea=exp=1795718724~acl=/api/1/1/6/2/2/0/622665045acb7c27983dedb0aad21892.mp3*~data=user_id=0,application_id=42~hmac=c58df71f74caf9da6a7021e00d8cdfe3e0b80b2843faf12601470fb4ac456671",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Nas Is Coming",
+            "length": "5:41",
+            "deezer": {
+              "id": 1015232,
+              "link": "https://www.deezer.com/track/1015232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/5/0/a05ddaaeb9e524ed2d153cdaf5422d21.mp3?hdnea=exp=1795718724~acl=/api/1/1/a/0/5/0/a05ddaaeb9e524ed2d153cdaf5422d21.mp3*~data=user_id=0,application_id=42~hmac=0694b945b18066f2e8d94da653291306ee9c37b758cb0514d1006f2f283e499f",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Affirmative Action",
+            "length": "4:20",
+            "deezer": {
+              "id": 1013931,
+              "link": "https://www.deezer.com/track/1013931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/9/0/cc9008fe66a2b726f550cc57eca6f66c.mp3?hdnea=exp=1795718724~acl=/api/1/1/c/c/9/0/cc9008fe66a2b726f550cc57eca6f66c.mp3*~data=user_id=0,application_id=42~hmac=2ba91e98b3725de69e0edfcf76961093575219e447054068215dc95ff6f03301",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Set Up",
+            "length": "4:02",
+            "deezer": {
+              "id": 1015353,
+              "link": "https://www.deezer.com/track/1015353",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/a/0/85af2cbd08fed1e1f052abbf3e0d1bda.mp3?hdnea=exp=1795718724~acl=/api/1/1/8/5/a/0/85af2cbd08fed1e1f052abbf3e0d1bda.mp3*~data=user_id=0,application_id=42~hmac=ed945bf476ebfc503d10227efa8ed10d044dd43d4ccfda31e25b44d83d0cb7a9",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Black Girl Lost",
+            "length": "4:23",
+            "deezer": {
+              "id": 1015384,
+              "link": "https://www.deezer.com/track/1015384",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/0/0/48076cfed9419c403d2b02ecf85511cc.mp3?hdnea=exp=1795718724~acl=/api/1/1/4/8/0/0/48076cfed9419c403d2b02ecf85511cc.mp3*~data=user_id=0,application_id=42~hmac=4b67d07edae3191f5b0be9cf4c8cad461e9c72dd305a52651ac559ecfb2f29aa",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Suspect",
+            "length": "4:12",
+            "deezer": {
+              "id": 1013933,
+              "link": "https://www.deezer.com/track/1013933",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/c/0/d6c664ab40601970287302d00a7d8fb3.mp3?hdnea=exp=1795718724~acl=/api/1/1/d/6/c/0/d6c664ab40601970287302d00a7d8fb3.mp3*~data=user_id=0,application_id=42~hmac=4f11c6265001dac90753381c1ee324a9c50651f541cc24515962fdeffb8928d6",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Shootouts",
+            "length": "3:46",
+            "deezer": {
+              "id": 1014267,
+              "link": "https://www.deezer.com/track/1014267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/5/0/395305e81931f15b66e02a3871a56c00.mp3?hdnea=exp=1795718724~acl=/api/1/1/3/9/5/0/395305e81931f15b66e02a3871a56c00.mp3*~data=user_id=0,application_id=42~hmac=01d28658d0c4c04069e0a40813a37561ea56398aab833d2e53045e62d8ac2422",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Live Nigga Rap",
+            "length": "3:45",
+            "deezer": {
+              "id": 1015710,
+              "link": "https://www.deezer.com/track/1015710",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/c/0/1ec995f7ade8063cd6f0203b0f2fde3e.mp3?hdnea=exp=1795718724~acl=/api/1/1/1/e/c/0/1ec995f7ade8063cd6f0203b0f2fde3e.mp3*~data=user_id=0,application_id=42~hmac=e199b15cfb5c749af85840648b8d938cb652e9819ef61ee56ae5044ffc1ec723",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "If I Ruled the World (Imagine That)",
+            "length": "4:42",
+            "artist": "Nas feat. Lauryn Hill",
+            "deezer": {
+              "id": 1015332,
+              "link": "https://www.deezer.com/track/1015332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/f/0/eafb752520c0f947eb4ffe7fe01c32ba.mp3?hdnea=exp=1795718724~acl=/api/1/1/e/a/f/0/eafb752520c0f947eb4ffe7fe01c32ba.mp3*~data=user_id=0,application_id=42~hmac=4bcb6d24a53f01d3f35a2d48d9f338e71c6fa7592af60c56da6ad8f1dcfcfb45",
+              "preview_expires": "2026-11-26T18:45:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nas/It Was Written.jpg"
+}

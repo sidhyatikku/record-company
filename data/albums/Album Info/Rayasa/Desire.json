@@ -1,0 +1,60 @@
+{
+  "title": "Desire",
+  "artist": "Rayasa, Jacala, ENLIV3N",
+  "year": 2021,
+  "release_date": "2021-09-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "deep house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1hULZ4KSqEUz9OguKtY0SV",
+    "deezer": "https://www.deezer.com/album/300243947"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1hULZ4KSqEUz9OguKtY0SV",
+      "title": "Desire",
+      "date": "2021-09-24"
+    },
+    "total_tracks": 2,
+    "total_length": "5:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Desire",
+            "length": "2:20",
+            "deezer": {
+              "id": 1674726287,
+              "link": "https://www.deezer.com/track/1674726287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/7/0/17769cbc7ff5cf6754333be424cf81eb.mp3?hdnea=exp=1795720009~acl=/api/1/1/1/7/7/0/17769cbc7ff5cf6754333be424cf81eb.mp3*~data=user_id=0,application_id=42~hmac=c24a9d276450f9a9def51ed6ec75df647046edd7a95250e4400b04423d0a9168",
+              "preview_expires": "2026-11-26T19:06:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Desire - Extended Mix",
+            "length": "3:25",
+            "deezer": {
+              "id": 1674726297,
+              "link": "https://www.deezer.com/track/1674726297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/1/0/651cbf20179ba3a3511957c6b98d3739.mp3?hdnea=exp=1795720009~acl=/api/1/1/6/5/1/0/651cbf20179ba3a3511957c6b98d3739.mp3*~data=user_id=0,application_id=42~hmac=4a22c81d161283380e1657d16518726dc15b46c790937a5af1d87dc5aa0b0f6c",
+              "preview_expires": "2026-11-26T19:06:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Rayasa/Desire.jpg"
+}

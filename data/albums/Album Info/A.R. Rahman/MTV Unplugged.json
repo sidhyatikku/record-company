@@ -1,0 +1,64 @@
+{
+  "title": "MTV Unplugged",
+  "artist": "A. R. Rahman, Salim-Sulaiman, R. Anandh & Amit Trivedi",
+  "year": 2017,
+  "release_date": "2017-06-07",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/60a9ebcf-adb9-4cee-9975-717f42f6caf9",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "60a9ebcf-adb9-4cee-9975-717f42f6caf9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2ca06685-e6d2-4402-93c6-50dea49af319",
+      "barcode": null,
+      "title": "MTV Unplugged",
+      "disambiguation": null,
+      "date": "2017-06-07",
+      "country": "IN"
+    },
+    "total_tracks": 4,
+    "total_length": "20:30",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nain Parindey (MTV Unplugged)",
+            "length": "5:19",
+            "artist": "Shilpa Rao, R. Anandh,Swanand Kirkire"
+          },
+          {
+            "number": "2",
+            "title": "Jiya Re (MTV Unplugged)",
+            "length": "5:30",
+            "artist": "Neeti Mohan, A. R. Rahman,Gulzar"
+          },
+          {
+            "number": "3",
+            "title": "Pareshaan (MTV Unplugged)",
+            "length": "5:11",
+            "artist": "Shalmali Kholgade, Amit Trivedi,Kausar Munir"
+          },
+          {
+            "number": "4",
+            "title": "Tarkeebein (MTV Unplugged)",
+            "length": "4:30",
+            "artist": "Benny Dayal, Salim-Sulaiman,Amitabh Bhattacharya"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/A.R. Rahman/MTV Unplugged.jpg"
+}

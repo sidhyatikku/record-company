@@ -1,0 +1,50 @@
+{
+  "title": "Baddadan",
+  "artist": "Chase & Status and Bou feat. IRah, Flowdan, Trigga & Takura",
+  "year": 2023,
+  "release_date": "2023-07-27",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "dance"
+  ],
+  "tags": [
+    "dance",
+    "drum n bass"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a5d25eb8-1b6b-49ed-a39a-cca8f940e399",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "a5d25eb8-1b6b-49ed-a39a-cca8f940e399",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1ed374d1-8578-44e8-b66a-29ed70b94851",
+      "barcode": "00602458296570",
+      "title": "Baddadan",
+      "disambiguation": "Spotify",
+      "date": "2023-07-27",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Baddadan",
+            "length": "2:57"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Chase & Status/Baddadan.jpg"
+}

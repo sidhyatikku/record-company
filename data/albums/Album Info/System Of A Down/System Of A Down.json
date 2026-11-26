@@ -1,0 +1,262 @@
+{
+  "title": "System of a Down",
+  "artist": "System of a Down",
+  "year": 1998,
+  "release_date": "1998-06-30",
+  "type": "Album",
+  "description": "System of a Down is the debut studio album by the American heavy metal band System of a Down, released on June 30, 1998, by American Recordings and Columbia Records. The album was certified Gold by the Recording Industry Association of America in February 2000. After the success of the band's following album, Toxicity (2001), System of a Down was certified platinum and has since gone double platinum.",
+  "genres": [
+    "alternative metal",
+    "nu metal",
+    "metal",
+    "avant-garde metal",
+    "rock",
+    "crossover thrash",
+    "heavy metal"
+  ],
+  "tags": [
+    "alternative metal",
+    "nu metal",
+    "metal",
+    "angry",
+    "avant-garde metal",
+    "heavy",
+    "manic",
+    "political",
+    "quirky",
+    "rock",
+    "crossover thrash",
+    "heavy metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 28
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/97f37409-b91a-3495-8e70-56fd9f7658c2",
+    "wikipedia": "https://en.wikipedia.org/wiki/System_of_a_Down_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000040168",
+    "discogs": "https://www.discogs.com/master/35599",
+    "wikidata": "https://www.wikidata.org/wiki/Q220348",
+    "deezer": "https://www.deezer.com/album/747917441"
+  },
+  "musicbrainz_id": "97f37409-b91a-3495-8e70-56fd9f7658c2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7721fe89-787b-31af-855c-033bf429cbe9",
+      "barcode": "074646366127",
+      "title": "System of a Down",
+      "disambiguation": null,
+      "date": "1999-06-29",
+      "country": "US"
+    },
+    "total_tracks": 17,
+    "total_length": "52:52",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Suite‐Pee",
+            "length": "2:36",
+            "deezer": {
+              "id": 3340663301,
+              "link": "https://www.deezer.com/track/3340663301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/6/0/5c60817c6c8258eca53befa6bbd93883.mp3?hdnea=exp=1795721154~acl=/api/1/1/5/c/6/0/5c60817c6c8258eca53befa6bbd93883.mp3*~data=user_id=0,application_id=42~hmac=ad8142709b36329761bfc3eed8b6445a11efca02a2fc16f839cbd0f9ad1c3a50",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Know",
+            "length": "3:01",
+            "deezer": {
+              "id": 3340663311,
+              "link": "https://www.deezer.com/track/3340663311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/c/0/abc7e3232121c34bba6785b68d327615.mp3?hdnea=exp=1795721154~acl=/api/1/1/a/b/c/0/abc7e3232121c34bba6785b68d327615.mp3*~data=user_id=0,application_id=42~hmac=bb568f1bf312bd830c28c16c3a97206e87765e1bd3a44b170551bd14a2051254",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sugar",
+            "length": "2:38",
+            "deezer": {
+              "id": 3340663321,
+              "link": "https://www.deezer.com/track/3340663321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/b/0/c0b19bdd584af3d8dbd77484e785acf4.mp3?hdnea=exp=1795721154~acl=/api/1/1/c/0/b/0/c0b19bdd584af3d8dbd77484e785acf4.mp3*~data=user_id=0,application_id=42~hmac=f1234410fafa695be240fead1600cef8adf37f2b770f24ad5a7ffe2e26f512a0",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Suggestions",
+            "length": "2:49",
+            "deezer": {
+              "id": 3340663331,
+              "link": "https://www.deezer.com/track/3340663331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/6/0/6e606aab09217db9ccc5de49a29e79c6.mp3?hdnea=exp=1795721154~acl=/api/1/1/6/e/6/0/6e606aab09217db9ccc5de49a29e79c6.mp3*~data=user_id=0,application_id=42~hmac=8c9f956e9eaf78aa20641e9bab2a8dc5f1c7a4939dc94bc19a4b5c8e9f872fc8",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Spiders",
+            "length": "3:40",
+            "deezer": {
+              "id": 3340663341,
+              "link": "https://www.deezer.com/track/3340663341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/f/0/65ffbcbcf482d7c6579a43cb4aecd172.mp3?hdnea=exp=1795721154~acl=/api/1/1/6/5/f/0/65ffbcbcf482d7c6579a43cb4aecd172.mp3*~data=user_id=0,application_id=42~hmac=588e5555bfbef841f1358e89249b6f902339b1f7bb02654db696faef3a0025e6",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "DDevil",
+            "length": "1:47",
+            "deezer": {
+              "id": 3340663351,
+              "link": "https://www.deezer.com/track/3340663351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f9880e1c4eab4f31fbd843ee14e66499.mp3?hdnea=exp=1795721154~acl=/api/1/1/f/9/8/0/f9880e1c4eab4f31fbd843ee14e66499.mp3*~data=user_id=0,application_id=42~hmac=08511ea33796809a2261b9782a7949b12782397d2a1a1e23b99b242392db95ab",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Soil",
+            "length": "3:30",
+            "deezer": {
+              "id": 3340663361,
+              "link": "https://www.deezer.com/track/3340663361",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/7/0/ed793ddd64def02ced70ff8634d21c53.mp3?hdnea=exp=1795721154~acl=/api/1/1/e/d/7/0/ed793ddd64def02ced70ff8634d21c53.mp3*~data=user_id=0,application_id=42~hmac=ad24f791d4528199377541313d386bc58d2b30efbc763fe69779ca0b16b1ba70",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "War?",
+            "length": "2:45",
+            "deezer": {
+              "id": 3340663371,
+              "link": "https://www.deezer.com/track/3340663371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/a/0/8cabaffb87571d5a5a6782975dbc97cc.mp3?hdnea=exp=1795721154~acl=/api/1/1/8/c/a/0/8cabaffb87571d5a5a6782975dbc97cc.mp3*~data=user_id=0,application_id=42~hmac=2ba7895633691df611ddd35790a31c5226ef04a533caa29a851b6564e847b679",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Mind",
+            "length": "6:20",
+            "deezer": {
+              "id": 3340663381,
+              "link": "https://www.deezer.com/track/3340663381",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/c/0/38c05a90fa94408c75cb34c763a2cd8a.mp3?hdnea=exp=1795721154~acl=/api/1/1/3/8/c/0/38c05a90fa94408c75cb34c763a2cd8a.mp3*~data=user_id=0,application_id=42~hmac=22e261f3ebd49cc86eb63509df1438b426d3fdb24fd7656581a1593fea5726f5",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Peephole",
+            "length": "4:08",
+            "deezer": {
+              "id": 3340663391,
+              "link": "https://www.deezer.com/track/3340663391",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/c/0/5cc939286678f6250a60fc7369932f0f.mp3?hdnea=exp=1795721154~acl=/api/1/1/5/c/c/0/5cc939286678f6250a60fc7369932f0f.mp3*~data=user_id=0,application_id=42~hmac=6aa8e1a0cfa103f659c5ac7595b833dffacd3e7eac53c19a71d975bf1ed5de6d",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "CUBErt",
+            "length": "1:53",
+            "deezer": {
+              "id": 3340663401,
+              "link": "https://www.deezer.com/track/3340663401",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/7/0/d27f608b77d3503ee1565f870b627a9e.mp3?hdnea=exp=1795721154~acl=/api/1/1/d/2/7/0/d27f608b77d3503ee1565f870b627a9e.mp3*~data=user_id=0,application_id=42~hmac=40ea52804db187c81208e18f7737839f51ad429b9422dbd556c7d37a5a51f5bc",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Darts",
+            "length": "2:47",
+            "deezer": {
+              "id": 3340663411,
+              "link": "https://www.deezer.com/track/3340663411",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/4/0/da4141ab85f2340a223faca255cb9721.mp3?hdnea=exp=1795721154~acl=/api/1/1/d/a/4/0/da4141ab85f2340a223faca255cb9721.mp3*~data=user_id=0,application_id=42~hmac=ab26abe7dd7db499ea82f2b1df40eb90a11c970a614be30d5a72e750945c72a3",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "P.L.U.C.K.",
+            "length": "3:38",
+            "deezer": {
+              "id": 3340663431,
+              "link": "https://www.deezer.com/track/3340663431",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/4/0/ab483f83321e44deb2b13a0950155dba.mp3?hdnea=exp=1795721154~acl=/api/1/1/a/b/4/0/ab483f83321e44deb2b13a0950155dba.mp3*~data=user_id=0,application_id=42~hmac=762234499dbc54fc36e48940f77b364697b1101df21deefd0e083b183d20ad21",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sugar (live)",
+            "length": "2:28",
+            "deezer": {
+              "id": 3340663441,
+              "link": "https://www.deezer.com/track/3340663441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/d/0/a2ded91d89a87f152ad22a1561d1c6cc.mp3?hdnea=exp=1795721154~acl=/api/1/1/a/2/d/0/a2ded91d89a87f152ad22a1561d1c6cc.mp3*~data=user_id=0,application_id=42~hmac=3a96a3b2a588af1249a179093153c958cfe2a332b1f0c9547a94ec1761c3f8d9",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "War? (live)",
+            "length": "2:48",
+            "deezer": {
+              "id": 3340663451,
+              "link": "https://www.deezer.com/track/3340663451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/9/0/5b9c1969862f138ef51da62470d83c4e.mp3?hdnea=exp=1795721154~acl=/api/1/1/5/b/9/0/5b9c1969862f138ef51da62470d83c4e.mp3*~data=user_id=0,application_id=42~hmac=2f4e03ce519a65d3c54823ec554be499faebbe60e6abd95b25bf18e28103faa8",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Suite‐Pee (live)",
+            "length": "2:59",
+            "deezer": {
+              "id": 3340663461,
+              "link": "https://www.deezer.com/track/3340663461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/0/0/6203192ebc4c7a4e143d0309a9375346.mp3?hdnea=exp=1795721154~acl=/api/1/1/6/2/0/0/6203192ebc4c7a4e143d0309a9375346.mp3*~data=user_id=0,application_id=42~hmac=08467fa26d605344a77e566786bd1214b2da44b43e3fda260522cda3c704608e",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Know (live)",
+            "length": "3:05",
+            "deezer": {
+              "id": 3340663471,
+              "link": "https://www.deezer.com/track/3340663471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/3/0/cb3400289b1693011f819ca1e818497d.mp3?hdnea=exp=1795721154~acl=/api/1/1/c/b/3/0/cb3400289b1693011f819ca1e818497d.mp3*~data=user_id=0,application_id=42~hmac=28e03bdb2d9f2041ad1950d747c5262f0a894ea2a3d15057901381bb4ed69347",
+              "preview_expires": "2026-11-26T19:25:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/System Of A Down/System Of A Down.jpg"
+}

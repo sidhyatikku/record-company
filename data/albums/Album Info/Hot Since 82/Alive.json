@@ -1,0 +1,76 @@
+{
+  "title": "Alive",
+  "artist": "Hot Since 82",
+  "year": 2025,
+  "release_date": "2025-07-03",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b4e69e38-923d-4bfc-9009-798c7a01b28d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/775115981"
+  },
+  "musicbrainz_id": "b4e69e38-923d-4bfc-9009-798c7a01b28d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/40bdfdd9-b83e-4d78-bb8f-b955f5d3606b",
+      "barcode": "3617397289719",
+      "title": "Alive",
+      "disambiguation": "original mixes",
+      "date": "2025-07-03",
+      "country": null
+    },
+    "total_tracks": 3,
+    "total_length": "20:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Alive (Avision remix)",
+            "length": "5:32",
+            "artist": "Hot Since 82 feat. Kuuda",
+            "deezer": {
+              "id": 3422153331,
+              "link": "https://www.deezer.com/track/3422153331",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/5/0/5e5a237a89d1a629ca451ab09cf2467f.mp3?hdnea=exp=1795655138~acl=/api/1/1/5/e/5/0/5e5a237a89d1a629ca451ab09cf2467f.mp3*~data=user_id=0,application_id=42~hmac=8e327cab081e2d0f1d55cbc6f1428ee7480fda0a060a61882dd24c4623fac322",
+              "preview_expires": "2026-11-26T01:05:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Alive (DJ Minx remix)",
+            "length": "8:04",
+            "artist": "Hot Since 82 feat. Kuuda",
+            "deezer": {
+              "id": 3422153341,
+              "link": "https://www.deezer.com/track/3422153341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/f/0/4bf8689e74779ae1c2e951093491e5e3.mp3?hdnea=exp=1795655138~acl=/api/1/1/4/b/f/0/4bf8689e74779ae1c2e951093491e5e3.mp3*~data=user_id=0,application_id=42~hmac=772102800958d6f0557e3eea4920f4f88a7e28cda25aa560812c64ebd0d58a1e",
+              "preview_expires": "2026-11-26T01:05:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Alive",
+            "length": "6:32",
+            "artist": "Hot Since 82 feat. Kuuda",
+            "deezer": {
+              "id": 3422153351,
+              "link": "https://www.deezer.com/track/3422153351",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/4/0/e54dcf94188c6386018c13553b8f4170.mp3?hdnea=exp=1795655138~acl=/api/1/1/e/5/4/0/e54dcf94188c6386018c13553b8f4170.mp3*~data=user_id=0,application_id=42~hmac=be376f5ee2576a211c48e6c077df8ea0c49893eb5770118afcf229a77f6ef884",
+              "preview_expires": "2026-11-26T01:05:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Hot Since 82/Alive.jpg"
+}

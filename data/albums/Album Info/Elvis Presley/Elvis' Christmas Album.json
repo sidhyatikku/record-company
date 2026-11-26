@@ -1,0 +1,215 @@
+{
+  "title": "Elvis’ Christmas Album",
+  "artist": "Elvis Presley",
+  "year": 1957,
+  "release_date": "1957-10-15",
+  "type": "Album",
+  "description": "Elvis' Christmas Album is the first Christmas album and third studio album by American singer and musician Elvis Presley on RCA Victor, LOC -1035, a deluxe limited edition, released October 15, 1957, and recorded at Radio Recorders in Hollywood. It has been reissued in numerous different formats since its first release. It spent four weeks at No. 1 on the Billboard Top Pop Albums chart, and was the first of two Christmas-themed albums Presley would record, the other being Elvis Sings the Wonderful World of Christmas, released in 1971. The publication Music Vendor listed Elvis' Christmas Album on their singles charts for two weeks in December 1957 – January 1958, with a peak position of No. 49.",
+  "genres": [
+    "christmas music",
+    "pop rock",
+    "ballad",
+    "blues rock",
+    "country gospel",
+    "southern gospel",
+    "blues",
+    "gospel",
+    "pop",
+    "rock",
+    "rock and roll"
+  ],
+  "tags": [
+    "christmas music",
+    "christmas",
+    "pop rock",
+    "ballad",
+    "blues rock",
+    "country gospel",
+    "southern gospel",
+    "blues",
+    "gospel",
+    "pop",
+    "rock",
+    "rock and roll",
+    "5+ wochen",
+    "early pop/rock",
+    "english",
+    "holidays",
+    "offizielle charts",
+    "ph_temp_checken",
+    "pop/rock",
+    "rhythm & blues",
+    "rock & roll",
+    "traditional gospel"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "musicbrainz_annotation": "Not to be confused with the 1970 version, [release-group:c9c32477-461d-30ed-bfc8-7b82fbb61e65|''Elvis’ Christmas Album''], which does not include ''Peace in the Valley''.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/626a3486-a3ef-3cf6-bdda-11c55b529509",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis'_Christmas_Album",
+    "allmusic": "https://www.allmusic.com/album/mw0000191441",
+    "discogs": "https://www.discogs.com/master/198519",
+    "wikidata": "https://www.wikidata.org/wiki/Q1753839",
+    "deezer": "https://www.deezer.com/album/6768975"
+  },
+  "musicbrainz_id": "626a3486-a3ef-3cf6-bdda-11c55b529509",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a6f3e115-7c08-4390-aab4-82e5c2aa6ae1",
+      "barcode": "886444095303",
+      "title": "Elvis’ Christmas Album",
+      "disambiguation": null,
+      "date": "2013-07-19",
+      "country": "US"
+    },
+    "total_tracks": 12,
+    "total_length": "30:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Santa Claus Is Back in Town",
+            "length": "2:26",
+            "deezer": {
+              "id": 69070910,
+              "link": "https://www.deezer.com/track/69070910",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/e/0/3ce2de1f07549f02529e42402d7fe67b.mp3?hdnea=exp=1795653843~acl=/api/1/1/3/c/e/0/3ce2de1f07549f02529e42402d7fe67b.mp3*~data=user_id=0,application_id=42~hmac=9ca862b157fb2dd7912e5ea7346f02b595a3a2465966ebcf5a8715831d7846ec",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "White Christmas",
+            "length": "2:26",
+            "deezer": {
+              "id": 69070911,
+              "link": "https://www.deezer.com/track/69070911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/5/0/d759a25f69267ed4415055676efd92e0.mp3?hdnea=exp=1795653843~acl=/api/1/1/d/7/5/0/d759a25f69267ed4415055676efd92e0.mp3*~data=user_id=0,application_id=42~hmac=e39f5f9d00df3765d33c227d301322dea6222257787e8b393e34feff0713d70b",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+            "length": "1:58",
+            "deezer": {
+              "id": 69070912,
+              "link": "https://www.deezer.com/track/69070912",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/f/0/48f5bd2cb5d1df31e6e26ced5b385fcb.mp3?hdnea=exp=1795653843~acl=/api/1/1/4/8/f/0/48f5bd2cb5d1df31e6e26ced5b385fcb.mp3*~data=user_id=0,application_id=42~hmac=26f63634b00e6c27facde879151aa77225f991d2d7abdebf5ab580222989da9b",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I’ll Be Home for Christmas",
+            "length": "1:56",
+            "deezer": {
+              "id": 69070913,
+              "link": "https://www.deezer.com/track/69070913",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/3/0/5532667d484567bb2e7385c2839467c4.mp3?hdnea=exp=1795653843~acl=/api/1/1/5/5/3/0/5532667d484567bb2e7385c2839467c4.mp3*~data=user_id=0,application_id=42~hmac=52104cc9161a88e4880a1c42eb394843c0d807ddcb7cb58e5904e3a09a74a54a",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Blue Christmas",
+            "length": "2:10",
+            "deezer": {
+              "id": 69070914,
+              "link": "https://www.deezer.com/track/69070914",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/5/0/1d543e532fc77d5abb9c601cc80b9889.mp3?hdnea=exp=1795653843~acl=/api/1/1/1/d/5/0/1d543e532fc77d5abb9c601cc80b9889.mp3*~data=user_id=0,application_id=42~hmac=cec0849b655972498d03dad307cfdd62bb587cf99979ae696add92cd75ba17a4",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Santa Bring My Baby Back (To Me)",
+            "length": "1:55",
+            "deezer": {
+              "id": 69070915,
+              "link": "https://www.deezer.com/track/69070915",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/0/0/a600fd9bb62458699c4f559e46fa4c8e.mp3?hdnea=exp=1795653843~acl=/api/1/1/a/6/0/0/a600fd9bb62458699c4f559e46fa4c8e.mp3*~data=user_id=0,application_id=42~hmac=d0f909d12aa78dfc1dcc0c477183d27cf365b1c744064c17c5407f2a0b266587",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "O Little Town of Bethlehem",
+            "length": "2:39",
+            "deezer": {
+              "id": 69070916,
+              "link": "https://www.deezer.com/track/69070916",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/8/0/8887babe5cd803af2fc8d862943192c7.mp3?hdnea=exp=1795653843~acl=/api/1/1/8/8/8/0/8887babe5cd803af2fc8d862943192c7.mp3*~data=user_id=0,application_id=42~hmac=cf395e68a7e49e5ed5097d32c61f509b834a27b4c8327cd15027d26fe9eda61c",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Silent Night",
+            "length": "2:27",
+            "deezer": {
+              "id": 69070917,
+              "link": "https://www.deezer.com/track/69070917",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/5/0/e052fff1d3c67c7ee970efaaf7f0b6ca.mp3?hdnea=exp=1795653843~acl=/api/1/1/e/0/5/0/e052fff1d3c67c7ee970efaaf7f0b6ca.mp3*~data=user_id=0,application_id=42~hmac=b4d47625b09ca43b882a1c1ed9ce835222bd118cf5f02d6a232695c4970dc981",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "(There’ll Be) Peace in the Valley (For Me)",
+            "length": "3:24",
+            "deezer": {
+              "id": 69070918,
+              "link": "https://www.deezer.com/track/69070918",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/7/0/6f7d6d0e96d130d1dd4d78568b752036.mp3?hdnea=exp=1795653843~acl=/api/1/1/6/f/7/0/6f7d6d0e96d130d1dd4d78568b752036.mp3*~data=user_id=0,application_id=42~hmac=3968a1d9599ea6af975e7bd917ca7f30092f54cfc523e4199d5772a7b087cb39",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "I Believe",
+            "length": "2:07",
+            "deezer": {
+              "id": 69070919,
+              "link": "https://www.deezer.com/track/69070919",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/6/0/586e482d37eb928293c1555318e501a2.mp3?hdnea=exp=1795653843~acl=/api/1/1/5/8/6/0/586e482d37eb928293c1555318e501a2.mp3*~data=user_id=0,application_id=42~hmac=2d89b79dfd0962a9a7a36b3733aeb1962858670b62111fd0e9033cb73f76c91b",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Take My Hand, Precious Lord",
+            "length": "3:20",
+            "deezer": {
+              "id": 69070920,
+              "link": "https://www.deezer.com/track/69070920",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/4/0/2a4ee5fee2c00d86e6c7a3bfd3cde1a7.mp3?hdnea=exp=1795653843~acl=/api/1/1/2/a/4/0/2a4ee5fee2c00d86e6c7a3bfd3cde1a7.mp3*~data=user_id=0,application_id=42~hmac=6e4cda0e0c887dc4797a333408ccb6ecc0a2d7639cbb9e9f3f0cbe22797e8d4c",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "It Is No Secret (What God Can Do)",
+            "length": "3:54",
+            "deezer": {
+              "id": 69070921,
+              "link": "https://www.deezer.com/track/69070921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/b/0/6abedcb29c566564f2efad64983ab07e.mp3?hdnea=exp=1795653843~acl=/api/1/1/6/a/b/0/6abedcb29c566564f2efad64983ab07e.mp3*~data=user_id=0,application_id=42~hmac=850399499cbe5fd3778e00da462c80d38b47cde4edd83d25d7a9d4d1842c293f",
+              "preview_expires": "2026-11-26T00:44:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Elvis Presley/Elvis' Christmas Album.jpg"
+}

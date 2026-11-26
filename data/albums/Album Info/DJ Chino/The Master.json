@@ -1,0 +1,146 @@
+{
+  "title": "The Master",
+  "artist": "DJ Chino",
+  "year": 2000,
+  "release_date": "2000-01-01",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "qawwali",
+    "bhangra",
+    "sufi",
+    "ghazal"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5pttuud1r5sOynEyb09E9C",
+    "deezer": "https://www.deezer.com/album/1644119"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5pttuud1r5sOynEyb09E9C",
+      "title": "The Master",
+      "date": "2000-01-01"
+    },
+    "total_tracks": 9,
+    "total_length": "31:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro",
+            "length": "0:44",
+            "deezer": {
+              "id": 17561963,
+              "link": "https://www.deezer.com/track/17561963",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/0/0/080f7117a9a510b4330c795dd8b799f8.mp3?hdnea=exp=1795653418~acl=/api/1/1/0/8/0/0/080f7117a9a510b4330c795dd8b799f8.mp3*~data=user_id=0,application_id=42~hmac=6d3fcd8031eb5eeb683510834196cbba5c2ac61f7197ed80207ff479c245b67d",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Tera Yaar Bolda",
+            "length": "4:55",
+            "artist": "DJ Chino, Dippa (Satrang)",
+            "deezer": {
+              "id": 17561964,
+              "link": "https://www.deezer.com/track/17561964",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/5/0/70533faed6f730f3b275991776310a6a.mp3?hdnea=exp=1795653418~acl=/api/1/1/7/0/5/0/70533faed6f730f3b275991776310a6a.mp3*~data=user_id=0,application_id=42~hmac=75580a03c68dfbf134d9a1cc3250eb1fde5558888b89f1ad0d40079ae9e06f59",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Boliyan",
+            "length": "5:09",
+            "artist": "DJ Chino, K.S. Bhamrah, Sardara Gill",
+            "deezer": {
+              "id": 17561965,
+              "link": "https://www.deezer.com/track/17561965",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/9/0/5a97fac7fe06688e89c1916f04a55d61.mp3?hdnea=exp=1795653418~acl=/api/1/1/5/a/9/0/5a97fac7fe06688e89c1916f04a55d61.mp3*~data=user_id=0,application_id=42~hmac=eee9c55c40e0796b336cb11144662e4ecb9606e74b63bf88aaafd07844fbec0d",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Yaaro Sab Dua Karo",
+            "length": "5:47",
+            "artist": "DJ Chino, Sanjay Sawant",
+            "deezer": {
+              "id": 17561966,
+              "link": "https://www.deezer.com/track/17561966",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/c/0/cfcea09967173960641220fef7e40f16.mp3?hdnea=exp=1795653418~acl=/api/1/1/c/f/c/0/cfcea09967173960641220fef7e40f16.mp3*~data=user_id=0,application_id=42~hmac=5ee7687530bf9afbe93829f5e630c3fadcc7e7e4e2af67cfc543716933ec2e3d",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sohna Sohna Mahi",
+            "length": "3:52",
+            "artist": "DJ Chino, Amar Arshi",
+            "deezer": {
+              "id": 17561967,
+              "link": "https://www.deezer.com/track/17561967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/c/0/bec79c9f30da159f269e5dc590582331.mp3?hdnea=exp=1795653418~acl=/api/1/1/b/e/c/0/bec79c9f30da159f269e5dc590582331.mp3*~data=user_id=0,application_id=42~hmac=20e4aff5a723a49b2fe6823e900a081ec45c044223f05eafc4641da0e2164466",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Message",
+            "length": "0:56",
+            "deezer": {
+              "id": 17561968,
+              "link": "https://www.deezer.com/track/17561968",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/8/0/c7884a79130a853d5be61df90eca9d12.mp3?hdnea=exp=1795653418~acl=/api/1/1/c/7/8/0/c7884a79130a853d5be61df90eca9d12.mp3*~data=user_id=0,application_id=42~hmac=d013aa7a787d4dec75ccbf0e66dc9c6b0290a2f903a4b274bf9bbff10fc34d21",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Aa Bi Jao Sajna",
+            "length": "4:24",
+            "artist": "DJ Chino, Shabnam Majid",
+            "deezer": {
+              "id": 17561969,
+              "link": "https://www.deezer.com/track/17561969",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/8/0/6a8e1711243e9ba2a9dfc448f7b03271.mp3?hdnea=exp=1795653418~acl=/api/1/1/6/a/8/0/6a8e1711243e9ba2a9dfc448f7b03271.mp3*~data=user_id=0,application_id=42~hmac=cb8cf5f2357b7cd31d2b6e04df5ceeb35c23e436048f2e351b4dacdf1a1f7b3f",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Challa",
+            "length": "4:52",
+            "artist": "DJ Chino, Shaukat Ali",
+            "deezer": {
+              "id": 17561970,
+              "link": "https://www.deezer.com/track/17561970",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/7/0/9377f15f93bd52ba24e19edd538ddcac.mp3?hdnea=exp=1795653418~acl=/api/1/1/9/3/7/0/9377f15f93bd52ba24e19edd538ddcac.mp3*~data=user_id=0,application_id=42~hmac=63db44ae0735432c111acd3bb9a0adbc665ff5a87c795c20a0555b45763466a3",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Outro",
+            "length": "1:16",
+            "deezer": {
+              "id": 17561971,
+              "link": "https://www.deezer.com/track/17561971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/7/0/3a72aa806e24827aa0721bcab85a7c6a.mp3?hdnea=exp=1795653418~acl=/api/1/1/3/a/7/0/3a72aa806e24827aa0721bcab85a7c6a.mp3*~data=user_id=0,application_id=42~hmac=d6579558fae717f2ff6e2307a4905d40de857a71745ea1f24163b99e672ea4e9",
+              "preview_expires": "2026-11-26T00:36:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/DJ Chino/The Master.jpg"
+}

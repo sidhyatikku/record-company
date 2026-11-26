@@ -1,0 +1,51 @@
+{
+  "title": "One Bottle Down",
+  "artist": "Yo Yo Honey Singh",
+  "year": 2015,
+  "release_date": "2015-03-20",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c7dc19e8-7c6f-487a-8cca-886688edd79e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/696063631"
+  },
+  "musicbrainz_id": "c7dc19e8-7c6f-487a-8cca-886688edd79e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d91234e7-df35-4622-81f0-742b7c50ea32",
+      "barcode": "8903431606457",
+      "title": "One Bottle Down",
+      "disambiguation": null,
+      "date": "2015-03-20",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "One Bottle Down",
+            "length": "3:17",
+            "deezer": {
+              "id": 3180388761,
+              "link": "https://www.deezer.com/track/3180388761",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/b/0/afb77973c3cfb9765cf3727f2413e8db.mp3?hdnea=exp=1795724512~acl=/api/1/1/a/f/b/0/afb77973c3cfb9765cf3727f2413e8db.mp3*~data=user_id=0,application_id=42~hmac=90fb1de8c350740754b466a41fbfed57447691d849d5dd55732b72ee5c6dc7e3",
+              "preview_expires": "2026-11-26T20:21:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yo Yo Honey Singh/One Bottle Down.jpg"
+}

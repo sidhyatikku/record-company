@@ -1,0 +1,50 @@
+{
+  "title": "Hugo Rodallega",
+  "artist": "Con Cook",
+  "year": 2024,
+  "release_date": "2024-08-23",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz house",
+    "uk garage"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5UQnVvQOAeYUOZKRNxTgn9",
+    "deezer": "https://www.deezer.com/album/621606081"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5UQnVvQOAeYUOZKRNxTgn9",
+      "title": "Hugo Rodallega",
+      "date": "2024-08-23"
+    },
+    "total_tracks": 1,
+    "total_length": "2:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hugo Rodallega",
+            "length": "2:34",
+            "deezer": {
+              "id": 2921092811,
+              "link": "https://www.deezer.com/track/2921092811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/2/0/092894ed6246a02ee6a187253ec2d101.mp3?hdnea=exp=1795652958~acl=/api/1/1/0/9/2/0/092894ed6246a02ee6a187253ec2d101.mp3*~data=user_id=0,application_id=42~hmac=752db7a59c1e8148951f836e39eb50163c46087bff03b4a2169fc5cbcd1196d1",
+              "preview_expires": "2026-11-26T00:29:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Con Cook/Hugo Rodallega.jpg"
+}

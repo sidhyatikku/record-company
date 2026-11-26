@@ -1,0 +1,51 @@
+{
+  "title": "90mph",
+  "artist": "JBEE & Sillage",
+  "year": 2025,
+  "release_date": "2025-01-23",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fd16061e-3f51-47e4-b696-b5ec534d040e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/700587801"
+  },
+  "musicbrainz_id": "fd16061e-3f51-47e4-b696-b5ec534d040e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/2ffe18d2-9e01-4656-aa64-5a8d7cdd859f",
+      "barcode": "663918043479",
+      "title": "90mph",
+      "disambiguation": null,
+      "date": "2025-01-23",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "90mph",
+            "length": "2:28",
+            "deezer": {
+              "id": 3194736441,
+              "link": "https://www.deezer.com/track/3194736441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/b/0/5abf0807a2e8db65e8ff11606011f809.mp3?hdnea=exp=1795655545~acl=/api/1/1/5/a/b/0/5abf0807a2e8db65e8ff11606011f809.mp3*~data=user_id=0,application_id=42~hmac=fd21bf986462a773ca17fa85967243a10bf70beeb59835b7a18c7091d3136733",
+              "preview_expires": "2026-11-26T01:12:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/JBEE/90mph.jpg"
+}

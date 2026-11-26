@@ -1,0 +1,74 @@
+{
+  "title": "One Kiss",
+  "artist": "Calvin Harris & Dua Lipa",
+  "year": 2018,
+  "release_date": "2018-04-06",
+  "type": "Single",
+  "description": "\"One Kiss\" is a song by Scottish DJ and record producer Calvin Harris and English singer Dua Lipa. The song was released for digital download and streaming as a standalone single, through Columbia Records and Sony Music on 6 April 2018. It was later included on Dua Lipa: Complete Edition (2018), the super deluxe reissue of Lipa's eponymous debut studio album, and on Harris' seventh studio album, 96 Months (2024). The song was written by Harris and Lipa alongside Canadian singer Jessie Reyez, with Harris solely handling the production. It is a dance-pop, diva house and tropical house song with 1990s, electro house, Eurodance, funky disco, funk house, psychedelic electropop and UK garage elements. Horns, organs, and a synth-line are featured within the song, as well as house beats. Lyrically, the song is about instantly falling in love with a romantic interest after a kiss.",
+  "genres": [
+    "house",
+    "dance",
+    "dance-pop",
+    "edm",
+    "electro",
+    "pop",
+    "tropical house"
+  ],
+  "tags": [
+    "house",
+    "dance",
+    "dance-pop",
+    "edm",
+    "electro",
+    "pop",
+    "tropical house"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/83a4bd1f-b5c3-4604-9132-38c1d1d75583",
+    "wikipedia": "https://en.wikipedia.org/wiki/One_Kiss",
+    "allmusic": "https://www.allmusic.com/album/mw0003171925",
+    "discogs": "https://www.discogs.com/master/1344397",
+    "wikidata": "https://www.wikidata.org/wiki/Q51546867",
+    "deezer": "https://www.deezer.com/album/60712222"
+  },
+  "musicbrainz_id": "83a4bd1f-b5c3-4604-9132-38c1d1d75583",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c80adc92-c63c-4f3e-8bb8-f9a3992631dc",
+      "barcode": "886447044360",
+      "title": "One Kiss",
+      "disambiguation": null,
+      "date": "2018-04-06",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "One Kiss",
+            "length": "3:35",
+            "deezer": {
+              "id": 482990352,
+              "link": "https://www.deezer.com/track/482990352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/8/0/7b84ba7a054ea9a49a23f0b3f49744e1.mp3?hdnea=exp=1795652646~acl=/api/1/1/7/b/8/0/7b84ba7a054ea9a49a23f0b3f49744e1.mp3*~data=user_id=0,application_id=42~hmac=5d451d90b757ca960ede0ba86f6543d9c6462de9495a845cebb4a18b12bd52d8",
+              "preview_expires": "2026-11-26T00:24:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Calvin Harris/One Kiss.jpg"
+}

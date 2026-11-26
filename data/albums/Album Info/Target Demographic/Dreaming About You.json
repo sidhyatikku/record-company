@@ -1,0 +1,51 @@
+{
+  "title": "Dreaming About You",
+  "artist": "Target Demographic",
+  "year": 2021,
+  "release_date": "2021-03-26",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/10898eb9-bf2e-45c0-a5eb-a537c9c093c9",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/428557787"
+  },
+  "musicbrainz_id": "10898eb9-bf2e-45c0-a5eb-a537c9c093c9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1d98ac72-af8b-4767-b714-c27189ab1291",
+      "barcode": null,
+      "title": "Dreaming About You",
+      "disambiguation": null,
+      "date": "2021-03-26",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:58",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dreaming About You",
+            "length": "3:58",
+            "deezer": {
+              "id": 2233622097,
+              "link": "https://www.deezer.com/track/2233622097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/3/0/bd38f33671636457ecabf82606a12cd5.mp3?hdnea=exp=1795721229~acl=/api/1/1/b/d/3/0/bd38f33671636457ecabf82606a12cd5.mp3*~data=user_id=0,application_id=42~hmac=5cb184f2ed06811f471e94af1d3720a0154f9c41b3b7dd35f34d2f83f6450693",
+              "preview_expires": "2026-11-26T19:27:09Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Target Demographic/Dreaming About You.jpg"
+}

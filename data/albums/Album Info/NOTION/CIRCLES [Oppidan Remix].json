@@ -1,0 +1,51 @@
+{
+  "title": "CIRCLES (Oppidan remix)",
+  "artist": "NOTION feat. Paige Eliza",
+  "year": 2023,
+  "release_date": "2023-10-27",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d790fc25-9c90-4ece-b745-7cfe07d8943f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/496404821"
+  },
+  "musicbrainz_id": "d790fc25-9c90-4ece-b745-7cfe07d8943f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fd6590c0-4768-446e-a451-0b0169d08437",
+      "barcode": "5060644135778",
+      "title": "CIRCLES (Oppidan remix)",
+      "disambiguation": null,
+      "date": "2023-10-27",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "CIRCLES (Oppidan remix)",
+            "length": "3:12",
+            "deezer": {
+              "id": 2484852711,
+              "link": "https://www.deezer.com/track/2484852711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/4/0/c24903d77f5878995652d0f358f7f596.mp3?hdnea=exp=1795719003~acl=/api/1/1/c/2/4/0/c24903d77f5878995652d0f358f7f596.mp3*~data=user_id=0,application_id=42~hmac=08f70f4117928e7eb18f9eff790a2f9b0e58a35f6c45576abddb95378a99f141",
+              "preview_expires": "2026-11-26T18:50:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/NOTION/CIRCLES [Oppidan Remix].jpg"
+}

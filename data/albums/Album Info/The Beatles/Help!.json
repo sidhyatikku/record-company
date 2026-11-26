@@ -1,0 +1,227 @@
+{
+  "title": "Help!",
+  "artist": "The Beatles",
+  "year": 1965,
+  "release_date": "1965-08-06",
+  "type": "Album + Soundtrack",
+  "description": "Help! is the fifth studio album by the English rock band the Beatles and the soundtrack to the film Help!. It was released on 6 August 1965 by Parlophone. Seven of the fourteen songs, including the singles \"Help!\" and \"Ticket to Ride\", appeared in the film and take up the first side of the vinyl album. The second side includes \"Yesterday\", the most-covered song ever written. The album was met with favourable critical reviews and topped the Australian, German, British and American charts.",
+  "genres": [
+    "rock",
+    "pop rock",
+    "folk rock",
+    "pop",
+    "beat music",
+    "classic rock",
+    "merseybeat",
+    "folk pop"
+  ],
+  "tags": [
+    "rock",
+    "pop rock",
+    "am pop",
+    "folk rock",
+    "pop",
+    "beat music",
+    "classic rock",
+    "merseybeat",
+    "pop/rock",
+    "artist on cover",
+    "beat",
+    "british invasion",
+    "folk pop",
+    "rock & roll",
+    "5.1",
+    "film soundtrack"
+  ],
+  "rating": {
+    "value_out_of_5": 4.05,
+    "votes": 33
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0d44e1cb-c6e0-3453-8b68-4d2082f05421",
+    "wikipedia": "https://en.wikipedia.org/wiki/Help!",
+    "allmusic": "https://www.allmusic.com/album/mw0000189173",
+    "discogs": "https://www.discogs.com/master/45895",
+    "wikidata": "https://www.wikidata.org/wiki/Q201816",
+    "deezer": "https://www.deezer.com/album/12047944"
+  },
+  "musicbrainz_id": "0d44e1cb-c6e0-3453-8b68-4d2082f05421",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/94acd741-5f84-4dd7-9355-b885996af0f1",
+      "barcode": "00602547670052",
+      "title": "Help!",
+      "disambiguation": "remastered",
+      "date": "2015-12-24",
+      "country": "AL"
+    },
+    "total_tracks": 14,
+    "total_length": "33:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Help!",
+            "length": "2:19",
+            "deezer": {
+              "id": 116348342,
+              "link": "https://www.deezer.com/track/116348342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/186ffad9ef3a502679a28127c5963380.mp3?hdnea=exp=1795721369~acl=/api/1/1/1/8/6/0/186ffad9ef3a502679a28127c5963380.mp3*~data=user_id=0,application_id=42~hmac=e0b1646118e33b5b8a9626d2489f0ef55c6f800103ed73333c4e124787989e66",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Night Before",
+            "length": "2:34",
+            "deezer": {
+              "id": 116348344,
+              "link": "https://www.deezer.com/track/116348344",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/e/0/18e7b7a5d479072d19b9e4a3f4e9cdb1.mp3?hdnea=exp=1795721369~acl=/api/1/1/1/8/e/0/18e7b7a5d479072d19b9e4a3f4e9cdb1.mp3*~data=user_id=0,application_id=42~hmac=c9d68617c9753d69fecfb3856c19bf4a8dd2113a9ecf0cf65c02639e4ba253b9",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "You’ve Got to Hide Your Love Away",
+            "length": "2:09",
+            "deezer": {
+              "id": 116348346,
+              "link": "https://www.deezer.com/track/116348346",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/4/0/4f482cac3b4534772f06bffe0d7ec97b.mp3?hdnea=exp=1795721369~acl=/api/1/1/4/f/4/0/4f482cac3b4534772f06bffe0d7ec97b.mp3*~data=user_id=0,application_id=42~hmac=b49aa7a8a296ce92fccc7190c7bec7d32dfc6a104d42a1a0dfbd500f52dc1c5f",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Need You",
+            "length": "2:28",
+            "deezer": {
+              "id": 116348348,
+              "link": "https://www.deezer.com/track/116348348",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/1/0/011380f7ef398f308fbacc1d8330cec0.mp3?hdnea=exp=1795721369~acl=/api/1/1/0/1/1/0/011380f7ef398f308fbacc1d8330cec0.mp3*~data=user_id=0,application_id=42~hmac=df8681db18edc9c1b8ca5a68a11a485cf7476f8e47e0fbec7d7710d11aab323d",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Another Girl",
+            "length": "2:05",
+            "deezer": {
+              "id": 116348350,
+              "link": "https://www.deezer.com/track/116348350",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/c/0/cacfb33fb21d92967405af75158b80ef.mp3?hdnea=exp=1795721369~acl=/api/1/1/c/a/c/0/cacfb33fb21d92967405af75158b80ef.mp3*~data=user_id=0,application_id=42~hmac=c2aab37d1db56b737bd95a767430b7e26e7da3d21adc7dfa8a3908f037067007",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "You’re Going to Lose That Girl",
+            "length": "2:18",
+            "deezer": {
+              "id": 116348352,
+              "link": "https://www.deezer.com/track/116348352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/c/0/96c4af5aa51dbf6bac7eade47d7049f9.mp3?hdnea=exp=1795721369~acl=/api/1/1/9/6/c/0/96c4af5aa51dbf6bac7eade47d7049f9.mp3*~data=user_id=0,application_id=42~hmac=f74e6d48b2ce107f46da980fedfcbfafc1aaa68165454a0c8c1a289a98104cd5",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ticket to Ride",
+            "length": "3:09",
+            "deezer": {
+              "id": 116348354,
+              "link": "https://www.deezer.com/track/116348354",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/7/0/187535a7e4e9e20a66995b4421372b9e.mp3?hdnea=exp=1795721369~acl=/api/1/1/1/8/7/0/187535a7e4e9e20a66995b4421372b9e.mp3*~data=user_id=0,application_id=42~hmac=fb71f171e9c849a9e345ae897de84dcc1dd6d7f01530f5f28e56d6179394fba8",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Act Naturally",
+            "length": "2:30",
+            "deezer": {
+              "id": 116348356,
+              "link": "https://www.deezer.com/track/116348356",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/6/0/db636523faa1703f29f99bca5229f599.mp3?hdnea=exp=1795721369~acl=/api/1/1/d/b/6/0/db636523faa1703f29f99bca5229f599.mp3*~data=user_id=0,application_id=42~hmac=08c58591d7cb487fd324c2db7ffcd6d1ec4b648cf91085dd490b5e3e636660d1",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "It’s Only Love",
+            "length": "1:56",
+            "deezer": {
+              "id": 116348358,
+              "link": "https://www.deezer.com/track/116348358",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/8/0/c68bb25cb2b42d4d1ec77e799d4f81c9.mp3?hdnea=exp=1795721369~acl=/api/1/1/c/6/8/0/c68bb25cb2b42d4d1ec77e799d4f81c9.mp3*~data=user_id=0,application_id=42~hmac=15f45d9859b3b6175e1fafc80e199e687dce776a6c69813b5aaa1a2d91579c3b",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "You Like Me Too Much",
+            "length": "2:36",
+            "deezer": {
+              "id": 116348360,
+              "link": "https://www.deezer.com/track/116348360",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/5/0/4f593a60021abfb2a9f5e9985ef3b2c4.mp3?hdnea=exp=1795721369~acl=/api/1/1/4/f/5/0/4f593a60021abfb2a9f5e9985ef3b2c4.mp3*~data=user_id=0,application_id=42~hmac=7f92d6d0fcdd864a180fa2a78db3b24aaea750538946cdc38fabd2f9d0e7def3",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Tell Me What You See",
+            "length": "2:37",
+            "deezer": {
+              "id": 116348362,
+              "link": "https://www.deezer.com/track/116348362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/d/0/b4dd4b0988cfbc85813f7fc227d9855c.mp3?hdnea=exp=1795721369~acl=/api/1/1/b/4/d/0/b4dd4b0988cfbc85813f7fc227d9855c.mp3*~data=user_id=0,application_id=42~hmac=9b855ac951ff8a685069c561df02891813006c2a75e7b1cf280a29d4bfa7c276",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "I’ve Just Seen a Face",
+            "length": "2:05",
+            "deezer": {
+              "id": 116348364,
+              "link": "https://www.deezer.com/track/116348364",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/c/0/98c904939ad18772f655f7ee350498d6.mp3?hdnea=exp=1795721369~acl=/api/1/1/9/8/c/0/98c904939ad18772f655f7ee350498d6.mp3*~data=user_id=0,application_id=42~hmac=8680df3e21f3c12ee07e826cb8f5ea10afe5f6f5610f954f5a8e7d75c5e2967c",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Yesterday",
+            "length": "2:05",
+            "deezer": {
+              "id": 116348366,
+              "link": "https://www.deezer.com/track/116348366",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fef9e3d032d67c4e7b692af93cd85086.mp3?hdnea=exp=1795721369~acl=/api/1/1/f/e/f/0/fef9e3d032d67c4e7b692af93cd85086.mp3*~data=user_id=0,application_id=42~hmac=f8437ce5db6fa29586e16bf9f369d1a8e1192e9762e8678a918dcc9a67d2f896",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Dizzy Miss Lizzy",
+            "length": "2:56",
+            "deezer": {
+              "id": 116348368,
+              "link": "https://www.deezer.com/track/116348368",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/9/0/a39f2cac37f42ec2c2ac7a9cc79e2a90.mp3?hdnea=exp=1795721369~acl=/api/1/1/a/3/9/0/a39f2cac37f42ec2c2ac7a9cc79e2a90.mp3*~data=user_id=0,application_id=42~hmac=c7186e81bae1debce315e266b31d6ff5f6bd1804c535837eb6177417630e7d7c",
+              "preview_expires": "2026-11-26T19:29:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Beatles/Help!.jpg"
+}

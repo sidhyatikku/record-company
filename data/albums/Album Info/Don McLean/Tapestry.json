@@ -1,0 +1,176 @@
+{
+  "title": "Tapestry",
+  "artist": "Don McLean",
+  "year": 1970,
+  "release_date": "1970-04",
+  "type": "Album",
+  "description": "Tapestry is the debut studio album by American folk singer Don McLean. The album was originally released in October 1970 by Mediarts Records but was re-issued in 1971 by United Artists after United Artists' purchase of Mediarts. The album was also reissued in 1981 on Liberty Records, but without including the song \"Three Flights Up\".",
+  "genres": [
+    "folk rock",
+    "rock",
+    "soft rock"
+  ],
+  "tags": [
+    "folk rock",
+    "rock",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.35,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c7094433-0f1b-30c5-9239-0822ad926ed5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tapestry_(Don_McLean_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000612891",
+    "discogs": "https://www.discogs.com/master/84638",
+    "wikidata": "https://www.wikidata.org/wiki/Q7684560",
+    "deezer": "https://www.deezer.com/album/302176"
+  },
+  "musicbrainz_id": "c7094433-0f1b-30c5-9239-0822ad926ed5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/26d2adbb-da40-471d-8e80-1ba6e6a3f651",
+      "barcode": null,
+      "title": "Tapestry",
+      "disambiguation": null,
+      "date": "2007-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "42:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Castles in the Air",
+            "length": "2:56",
+            "deezer": {
+              "id": 3136336,
+              "link": "https://www.deezer.com/track/3136336",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/2/0/e329b3b2dc27f2943c0b51e27c3a1cbe.mp3?hdnea=exp=1795653488~acl=/api/1/1/e/3/2/0/e329b3b2dc27f2943c0b51e27c3a1cbe.mp3*~data=user_id=0,application_id=42~hmac=7c39640f911af8abc3b88946e5bb5325c0cc5f064240dde5641728df04c6514b",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "General Store",
+            "length": "2:59",
+            "deezer": {
+              "id": 3136337,
+              "link": "https://www.deezer.com/track/3136337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/1/0/1816cf3dcafdc4539312c4430817f8e4.mp3?hdnea=exp=1795653488~acl=/api/1/1/1/8/1/0/1816cf3dcafdc4539312c4430817f8e4.mp3*~data=user_id=0,application_id=42~hmac=12f8b2549c6ac67db249ff50c11d903460e8f7708c9c1b73bea5f826efc8e9fd",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Magdalene Lane",
+            "length": "4:35",
+            "deezer": {
+              "id": 3136338,
+              "link": "https://www.deezer.com/track/3136338",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/b/0/2ebfa05f8cb3d6ed67d49aac1221a883.mp3?hdnea=exp=1795653488~acl=/api/1/1/2/e/b/0/2ebfa05f8cb3d6ed67d49aac1221a883.mp3*~data=user_id=0,application_id=42~hmac=f52a4b3ef80be0254a9561a0d23a0aeaaec5d6a69548fa01c06d9931da9efcfb",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tapestry",
+            "length": "3:44",
+            "deezer": {
+              "id": 3136339,
+              "link": "https://www.deezer.com/track/3136339",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/c/0/52c0f3c275d18864062f2b4a8faaa410.mp3?hdnea=exp=1795653488~acl=/api/1/1/5/2/c/0/52c0f3c275d18864062f2b4a8faaa410.mp3*~data=user_id=0,application_id=42~hmac=87ffe7bdf921f7b551c89f70cd94bc0c8cd92a4fd12692861ddf0e6912dbb785",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Respectable",
+            "length": "2:29",
+            "deezer": {
+              "id": 3136340,
+              "link": "https://www.deezer.com/track/3136340",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/8/0/a78a71b0a540144619f24bd093c3463c.mp3?hdnea=exp=1795653488~acl=/api/1/1/a/7/8/0/a78a71b0a540144619f24bd093c3463c.mp3*~data=user_id=0,application_id=42~hmac=d6d6c595122a22f1c2d890d931d8ac9a514ebe6de4ba60d32c899a7ae5f9fe8d",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Orphans of Wealth",
+            "length": "4:36",
+            "deezer": {
+              "id": 3136341,
+              "link": "https://www.deezer.com/track/3136341",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/0/0/da0fad8511b7bb7ae49952e5b80a0c33.mp3?hdnea=exp=1795653488~acl=/api/1/1/d/a/0/0/da0fad8511b7bb7ae49952e5b80a0c33.mp3*~data=user_id=0,application_id=42~hmac=4c0b06078e1d82b32da021a8261cea11f28b4f99e5f5612b918066c2dd3abc06",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Three Flights Up",
+            "length": "5:49",
+            "deezer": {
+              "id": 3136342,
+              "link": "https://www.deezer.com/track/3136342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/f/0/1bfacc5138086384ca82137293b8d36b.mp3?hdnea=exp=1795653488~acl=/api/1/1/1/b/f/0/1bfacc5138086384ca82137293b8d36b.mp3*~data=user_id=0,application_id=42~hmac=e2622f46f423dea090e17e169ddf9e81b6d538717fac75375b0d5738642b6ce6",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "And I Love You So",
+            "length": "4:16",
+            "deezer": {
+              "id": 6802834,
+              "link": "https://www.deezer.com/track/6802834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/7/0/67786d975ac739e289cdc622de62c30d.mp3?hdnea=exp=1795653488~acl=/api/1/1/6/7/7/0/67786d975ac739e289cdc622de62c30d.mp3*~data=user_id=0,application_id=42~hmac=fde02aeef7954ac755ad3a5cb37dc5c97e04d41b6b6053b13d3d7edf1b11d900",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bad Girl",
+            "length": "3:40",
+            "deezer": {
+              "id": 3136344,
+              "link": "https://www.deezer.com/track/3136344",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/f/0/b2f7c1bb7541fd21641ab9b299fdabc8.mp3?hdnea=exp=1795653488~acl=/api/1/1/b/2/f/0/b2f7c1bb7541fd21641ab9b299fdabc8.mp3*~data=user_id=0,application_id=42~hmac=ec48deac1a236e9824eebe7cc7647778105ffef040dc283a82d7d5c6739a5a30",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Circus Song",
+            "length": "4:50",
+            "deezer": {
+              "id": 3136345,
+              "link": "https://www.deezer.com/track/3136345",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/8/0/b28b4e676a21cba909c5e258fa4af2dc.mp3?hdnea=exp=1795653488~acl=/api/1/1/b/2/8/0/b28b4e676a21cba909c5e258fa4af2dc.mp3*~data=user_id=0,application_id=42~hmac=7b978336634c4cdf54f5e804d7c8076b5bf2d3d31e19c84789c87c8789cb3c74",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "No Reason For Your Dreams",
+            "length": "2:11",
+            "deezer": {
+              "id": 3136346,
+              "link": "https://www.deezer.com/track/3136346",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/7/0/5f78f1a5387162f6eeb95e672792e52a.mp3?hdnea=exp=1795653488~acl=/api/1/1/5/f/7/0/5f78f1a5387162f6eeb95e672792e52a.mp3*~data=user_id=0,application_id=42~hmac=63d2896d6c41b9624ce4399c7957dcc519c488754b7abe61e3966d63dc7d9caa",
+              "preview_expires": "2026-11-26T00:38:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Don McLean/Tapestry.jpg"
+}

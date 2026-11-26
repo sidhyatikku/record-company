@@ -1,0 +1,51 @@
+{
+  "title": "101",
+  "artist": "Seedhe Maut",
+  "year": 2019,
+  "release_date": "2019-10-11",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d2f1efe7-4574-4739-86c9-5ae08d912442",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/723686361"
+  },
+  "musicbrainz_id": "d2f1efe7-4574-4739-86c9-5ae08d912442",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d1690521-19fc-42d5-9193-67009be0596c",
+      "barcode": "193436181174",
+      "title": "101",
+      "disambiguation": null,
+      "date": "2019-10-11",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "101",
+            "length": "3:17",
+            "deezer": {
+              "id": 3267100601,
+              "link": "https://www.deezer.com/track/3267100601",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/f/0/4ff58c7d35174b9fab1875f9b57b7adc.mp3?hdnea=exp=1795720379~acl=/api/1/1/4/f/f/0/4ff58c7d35174b9fab1875f9b57b7adc.mp3*~data=user_id=0,application_id=42~hmac=7b703f3af91896e51bb514269dfabb9d99bcf3cef0c1cac64ac4e483d9cc2cb4",
+              "preview_expires": "2026-11-26T19:12:59Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Seedhe Maut/101.jpg"
+}

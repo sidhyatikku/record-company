@@ -1,0 +1,177 @@
+{
+  "title": "Dire Straits",
+  "artist": "Dire Straits",
+  "year": 1978,
+  "release_date": "1978-06-02",
+  "type": "Album",
+  "description": "Dire Straits is the debut studio album by the British rock band Dire Straits, released on 9 June 1978 by Vertigo Records internationally, Warner Bros. Records in the United States and Mercury Records in Canada. The album features the hit single \"Sultans of Swing\", which reached number 4 on the Billboard Hot 100 chart and number 8 on the UK Singles Chart. The album reached the top of the album charts in Germany, Australia and France, number 2 in the United States and number 5 in the United Kingdom. Dire Straits was later certified double platinum in both the United States and the United Kingdom by the Recording Industry Association of America (RIAA) and the British Phonographic Industry (BPI) respectively.",
+  "genres": [
+    "rock",
+    "roots rock",
+    "blues rock",
+    "pop rock",
+    "country rock",
+    "classic rock",
+    "pub rock"
+  ],
+  "tags": [
+    "rock",
+    "roots rock",
+    "blues rock",
+    "pop rock",
+    "country rock",
+    "atmospheric",
+    "bittersweet",
+    "calm",
+    "classic rock",
+    "introspective",
+    "lush",
+    "male vocalist",
+    "mellow",
+    "melodic",
+    "playful",
+    "poetic",
+    "pub rock",
+    "rhythmic",
+    "soft",
+    "technical",
+    "urban",
+    "warm"
+  ],
+  "rating": {
+    "value_out_of_5": 4.4,
+    "votes": 20
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0c9bc273-a9e9-3290-b423-c61b9f8d20bc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dire_Straits_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000193588",
+    "discogs": "https://www.discogs.com/master/23759",
+    "wikidata": "https://www.wikidata.org/wiki/Q731870",
+    "deezer": "https://www.deezer.com/album/8574186"
+  },
+  "musicbrainz_id": "0c9bc273-a9e9-3290-b423-c61b9f8d20bc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/067c4fc9-b8bb-4038-a684-53fba25a6a2e",
+      "barcode": "042280005122",
+      "title": "Dire Straits",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "41:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Down to the Waterline",
+            "length": "4:04",
+            "deezer": {
+              "id": 85047112,
+              "link": "https://www.deezer.com/track/85047112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/5/0/265eb711db8419eab6ee01f9103da898.mp3?hdnea=exp=1795653371~acl=/api/1/1/2/6/5/0/265eb711db8419eab6ee01f9103da898.mp3*~data=user_id=0,application_id=42~hmac=412b773d0cd1d96f548aa93aab89b36d48f2e3bbe4b89c23c2378562223995d4",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Water of Love",
+            "length": "5:25",
+            "deezer": {
+              "id": 85047114,
+              "link": "https://www.deezer.com/track/85047114",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/8/0/ae8aa70c423c20f6506202622cb16d98.mp3?hdnea=exp=1795653371~acl=/api/1/1/a/e/8/0/ae8aa70c423c20f6506202622cb16d98.mp3*~data=user_id=0,application_id=42~hmac=fe033da181598ff255f2594388feb9d0d3e8b79a6003ca478dede7e92ac04799",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Setting Me Up",
+            "length": "3:20",
+            "deezer": {
+              "id": 85047116,
+              "link": "https://www.deezer.com/track/85047116",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/5/0/965ffab3fcbfb6d9b6c9213579c5f2c0.mp3?hdnea=exp=1795653371~acl=/api/1/1/9/6/5/0/965ffab3fcbfb6d9b6c9213579c5f2c0.mp3*~data=user_id=0,application_id=42~hmac=146897e6547d8d46556682a3cda4eba2ead80aae72769c5348d74ef7b4f762a1",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Six Blade Knife",
+            "length": "4:12",
+            "deezer": {
+              "id": 85047118,
+              "link": "https://www.deezer.com/track/85047118",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/b/0/5aba02572656cb21a8ec6687c2d21183.mp3?hdnea=exp=1795653371~acl=/api/1/1/5/a/b/0/5aba02572656cb21a8ec6687c2d21183.mp3*~data=user_id=0,application_id=42~hmac=763c993021271ec604392835633c9d3c47adcf7cbb29fadbf7ac6db8e49a4ac1",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Southbound Again",
+            "length": "3:00",
+            "deezer": {
+              "id": 85047120,
+              "link": "https://www.deezer.com/track/85047120",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/6/0/076c1a588d0561c5ce49bfc095518b41.mp3?hdnea=exp=1795653371~acl=/api/1/1/0/7/6/0/076c1a588d0561c5ce49bfc095518b41.mp3*~data=user_id=0,application_id=42~hmac=b04e348cd0c9b3a66f3b449eaea94fea4b0f6d85fda1c3234c6e0961c5deeff2",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Sultans of Swing",
+            "length": "5:48",
+            "deezer": {
+              "id": 85047122,
+              "link": "https://www.deezer.com/track/85047122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/d/0/17d1a0900a76c56823bf5be394af7214.mp3?hdnea=exp=1795653371~acl=/api/1/1/1/7/d/0/17d1a0900a76c56823bf5be394af7214.mp3*~data=user_id=0,application_id=42~hmac=cec9a947e61127a75abf2fe71aa3724d40fdcd270f2750b1d4fcc253ef7fc47e",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "In the Gallery",
+            "length": "6:16",
+            "deezer": {
+              "id": 85047124,
+              "link": "https://www.deezer.com/track/85047124",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/a/0/5aa237b348fa5b3906950bb6954bc38a.mp3?hdnea=exp=1795653371~acl=/api/1/1/5/a/a/0/5aa237b348fa5b3906950bb6954bc38a.mp3*~data=user_id=0,application_id=42~hmac=e68a20001fb756a294b43b221b22308730ac9456dba1154bf1831b9624f14282",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Wild West End",
+            "length": "4:42",
+            "deezer": {
+              "id": 85047126,
+              "link": "https://www.deezer.com/track/85047126",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1cae81faf45305ad8102b81c600c8dd.mp3?hdnea=exp=1795653371~acl=/api/1/1/d/1/c/0/d1cae81faf45305ad8102b81c600c8dd.mp3*~data=user_id=0,application_id=42~hmac=6193bb8265d5eae284c1c3d56bae607b8ca8b939debe6f8cb6eabe95bfedea9e",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lions",
+            "length": "5:03",
+            "deezer": {
+              "id": 85047128,
+              "link": "https://www.deezer.com/track/85047128",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/5/0/9a5446833ab21f87ebee28cf21d9f93f.mp3?hdnea=exp=1795653371~acl=/api/1/1/9/a/5/0/9a5446833ab21f87ebee28cf21d9f93f.mp3*~data=user_id=0,application_id=42~hmac=26a2c90c8473b65ed75a82b97e8967b4cda1ba8730bfc9712b4b5cd8d0586a59",
+              "preview_expires": "2026-11-26T00:36:11Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dire Straits/Dire Straits.jpg"
+}

@@ -1,0 +1,182 @@
+{
+  "title": "Thriller",
+  "artist": "Michael Jackson",
+  "year": 1982,
+  "release_date": "1982-11-30",
+  "type": "Album",
+  "description": "Thriller 25 is the 25th-anniversary reissue of Thriller (1982), the sixth studio album by American singer and songwriter Michael Jackson. The original album has sold 70 million copies worldwide, making it the best-selling album of all time. Thriller 25 was released by Legacy Recordings, the reissue division of Sony BMG. In addition to the original material, the reissue includes remixes, new material, a DVD in some versions and collaborations with contemporary artists. Thriller 25 was one of the last recorded works released during Jackson's lifetime, and the last in which he was extensively involved; Jackson co-produced all of the newly remixed tracks.",
+  "genres": [
+    "pop",
+    "contemporary r&b",
+    "dance-pop",
+    "disco",
+    "funk",
+    "pop soul",
+    "r&b",
+    "rock",
+    "synth funk",
+    "ambient",
+    "boogie",
+    "house",
+    "jazz",
+    "quiet storm",
+    "trance"
+  ],
+  "tags": [
+    "pop",
+    "contemporary r&b",
+    "dance-pop",
+    "disco",
+    "funk",
+    "adult contemporary r&b",
+    "pop soul",
+    "r&b",
+    "rock",
+    "synth funk",
+    "ambient",
+    "boogie",
+    "funk / soul",
+    "house",
+    "jazz",
+    "quiet storm",
+    "r&b/soul",
+    "trance"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 50
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f32fab67-77dd-3937-addc-9062e28e4c37",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thriller_25",
+    "allmusic": "https://www.allmusic.com/album/mw0000056882",
+    "discogs": "https://www.discogs.com/master/8883",
+    "wikidata": "https://www.wikidata.org/wiki/Q44320",
+    "deezer": "https://www.deezer.com/album/96126"
+  },
+  "musicbrainz_id": "f32fab67-77dd-3937-addc-9062e28e4c37",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dc1fbc25-ff1d-4548-a0a2-6bd719582a0d",
+      "barcode": "074643811224",
+      "title": "Thriller",
+      "disambiguation": null,
+      "date": "",
+      "country": "US"
+    },
+    "total_tracks": 9,
+    "total_length": "42:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wanna Be Startin’ Somethin’",
+            "length": "6:04",
+            "deezer": {
+              "id": 831216,
+              "link": "https://www.deezer.com/track/831216",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/c/0/aec6d05ce65f000833c666e5033bfb8a.mp3?hdnea=exp=1795718440~acl=/api/1/1/a/e/c/0/aec6d05ce65f000833c666e5033bfb8a.mp3*~data=user_id=0,application_id=42~hmac=1ff03091eb5ed93cd178d16f05873461dab4d0a29fb81117014ef763980ca1f8",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Baby Be Mine",
+            "length": "4:21",
+            "deezer": {
+              "id": 831289,
+              "link": "https://www.deezer.com/track/831289",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/6/0/d26bca375da659c75780319501e02b30.mp3?hdnea=exp=1795718440~acl=/api/1/1/d/2/6/0/d26bca375da659c75780319501e02b30.mp3*~data=user_id=0,application_id=42~hmac=efe571cbdc42e90d1874401256796b74470fa8dabb2fc09c5251ddda911367bf",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Girl Is Mine",
+            "length": "3:42",
+            "artist": "Michael Jackson with Paul McCartney",
+            "deezer": {
+              "id": 831298,
+              "link": "https://www.deezer.com/track/831298",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/8/0/1c8a9546b4470e2dd9b46adfba5cfbfb.mp3?hdnea=exp=1795718440~acl=/api/1/1/1/c/8/0/1c8a9546b4470e2dd9b46adfba5cfbfb.mp3*~data=user_id=0,application_id=42~hmac=c0cc386dcb9b101921374b7d2c83a7a21801341934eea04cb079e7a395157674",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Thriller",
+            "length": "5:59",
+            "deezer": {
+              "id": 831319,
+              "link": "https://www.deezer.com/track/831319",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/8/0/ce885422ef0a3fa79181a69d15e92db7.mp3?hdnea=exp=1795718440~acl=/api/1/1/c/e/8/0/ce885422ef0a3fa79181a69d15e92db7.mp3*~data=user_id=0,application_id=42~hmac=7dd4a4660df4e2f58fbacf3e7e368f2cbafd115d6b57725096523e192f3f8def",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Beat It",
+            "length": "4:19",
+            "deezer": {
+              "id": 831272,
+              "link": "https://www.deezer.com/track/831272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/8/0/17808d74ccd5f5fc398175643bf2e62d.mp3?hdnea=exp=1795718440~acl=/api/1/1/1/7/8/0/17808d74ccd5f5fc398175643bf2e62d.mp3*~data=user_id=0,application_id=42~hmac=cecc753e9c2df194384d1bc11d0a04264d25e71bd9d74bb0b1c4ab9fbeb9dac2",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Billie Jean",
+            "length": "4:54",
+            "deezer": {
+              "id": 831313,
+              "link": "https://www.deezer.com/track/831313",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/b/0/c9b93a103830008485da46c923d1a670.mp3?hdnea=exp=1795718440~acl=/api/1/1/c/9/b/0/c9b93a103830008485da46c923d1a670.mp3*~data=user_id=0,application_id=42~hmac=bc921c333ee4fb82643b1c9c31b17f31b8a67a2e13ea98ec1e8ffd4d74fe1158",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Human Nature",
+            "length": "4:06",
+            "deezer": {
+              "id": 831196,
+              "link": "https://www.deezer.com/track/831196",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/a/0/59afa566e401aa91c5bff1ca0a812fd2.mp3?hdnea=exp=1795718440~acl=/api/1/1/5/9/a/0/59afa566e401aa91c5bff1ca0a812fd2.mp3*~data=user_id=0,application_id=42~hmac=c5d3828d092a4eadedad671d2e31662b04182e926874700c6ded5f0dc6e3fab1",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "P.Y.T. (Pretty Young Thing)",
+            "length": "3:59",
+            "deezer": {
+              "id": 831206,
+              "link": "https://www.deezer.com/track/831206",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/e/0/2bee29d4cf9940dd30a2f1ba832b6c90.mp3?hdnea=exp=1795718440~acl=/api/1/1/2/b/e/0/2bee29d4cf9940dd30a2f1ba832b6c90.mp3*~data=user_id=0,application_id=42~hmac=b9fb261495a72e1cae7f091c371beca4576d81a35090e7a5a7b47a2c689d4ffe",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Lady in My Life",
+            "length": "5:00",
+            "deezer": {
+              "id": 831190,
+              "link": "https://www.deezer.com/track/831190",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/6/0/b76255844f9ae765f85e218477e7f637.mp3?hdnea=exp=1795718440~acl=/api/1/1/b/7/6/0/b76255844f9ae765f85e218477e7f637.mp3*~data=user_id=0,application_id=42~hmac=330b3689ca03167455aaaf48a2e77d2c0759691b099282997c6c75e25b7f47eb",
+              "preview_expires": "2026-11-26T18:40:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Michael Jackson/Thriller.jpg"
+}

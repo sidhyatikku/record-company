@@ -1,0 +1,52 @@
+{
+  "title": "You Don't Know",
+  "artist": "Loyle Carner",
+  "year": 2019,
+  "release_date": "2019-01-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/abae0dde-a707-4464-b363-4e513faf76f0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/84103992"
+  },
+  "musicbrainz_id": "abae0dde-a707-4464-b363-4e513faf76f0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9e997ce9-6e5c-474c-a995-e3f5ff01c555",
+      "barcode": null,
+      "title": "You Don't Know",
+      "disambiguation": null,
+      "date": "2019-01-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "You Don't Know",
+            "length": "4:10",
+            "artist": "Loyle Carner feat. Rebel Kleff & Kiko Bun",
+            "deezer": {
+              "id": 616410462,
+              "link": "https://www.deezer.com/track/616410462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/2/0/f92c44211229bf3793322e137c5cb3da.mp3?hdnea=exp=1795656663~acl=/api/1/1/f/9/2/0/f92c44211229bf3793322e137c5cb3da.mp3*~data=user_id=0,application_id=42~hmac=9604fe9858544237e8a1f403c73c174b110b04c9fab78a24ab9a76d08bb63a03",
+              "preview_expires": "2026-11-26T01:31:03Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Loyle Carner/You Don’t Know.jpg"
+}

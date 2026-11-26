@@ -1,0 +1,62 @@
+{
+  "title": "Rebellion",
+  "artist": "Heyson",
+  "year": 2020,
+  "release_date": "2020-12-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/164931e5-4971-482b-ac89-f78e9913f8c0",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/187763522"
+  },
+  "musicbrainz_id": "164931e5-4971-482b-ac89-f78e9913f8c0",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4b09dc54-6ad6-4a56-815d-25af4bda3eac",
+      "barcode": "7330178054295",
+      "title": "Rebellion",
+      "disambiguation": null,
+      "date": "2020-12-18",
+      "country": null
+    },
+    "total_tracks": 2,
+    "total_length": "6:35",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rebellion",
+            "length": "3:17",
+            "deezer": {
+              "id": 1148554982,
+              "link": "https://www.deezer.com/track/1148554982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/5/0/195cccac29e6296b245ae6b6c56d104f.mp3?hdnea=exp=1795655065~acl=/api/1/1/1/9/5/0/195cccac29e6296b245ae6b6c56d104f.mp3*~data=user_id=0,application_id=42~hmac=af93cd622e78c7c93df6e8a82bca98c4c9e09794be3f5919c7c6ae6a6d80ceee",
+              "preview_expires": "2026-11-26T01:04:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Warlord",
+            "length": "3:18",
+            "deezer": {
+              "id": 1148554992,
+              "link": "https://www.deezer.com/track/1148554992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/8/0/888d1ebf8e94d85d5385e94af8942dd6.mp3?hdnea=exp=1795655065~acl=/api/1/1/8/8/8/0/888d1ebf8e94d85d5385e94af8942dd6.mp3*~data=user_id=0,application_id=42~hmac=1dd650dde83dac354bb5c9136d42cccf2721c25a22403181b4e6838bd222b6f2",
+              "preview_expires": "2026-11-26T01:04:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Heyson/Rebellion.png"
+}

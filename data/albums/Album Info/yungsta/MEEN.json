@@ -1,0 +1,167 @@
+{
+  "title": "MEEN",
+  "artist": "yungsta & Sez on the Beat",
+  "year": 2023,
+  "release_date": "2023-05-11",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/67f970cd-0261-4e27-a1f2-82ddf055f90a",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/434311197"
+  },
+  "musicbrainz_id": "67f970cd-0261-4e27-a1f2-82ddf055f90a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/52534188-a813-441d-a40d-440fbbf1890d",
+      "barcode": "197188776039",
+      "title": "MEEN",
+      "disambiguation": null,
+      "date": "2023-05-11",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "37:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ruhbaru",
+            "length": "3:48",
+            "deezer": {
+              "id": 2255764637,
+              "link": "https://www.deezer.com/track/2255764637",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/f/0/07f39f1965d3f957c454fc5358b9a9ee.mp3?hdnea=exp=1795724570~acl=/api/1/1/0/7/f/0/07f39f1965d3f957c454fc5358b9a9ee.mp3*~data=user_id=0,application_id=42~hmac=33e71fd3ac52f14310a6f9cc1bead0027662254eeeef9a2e7140d0a4f4359abc",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dilli",
+            "length": "2:54",
+            "artist": "yungsta, Sez on the Beat, Frappe Ash & Calm",
+            "deezer": {
+              "id": 2255764647,
+              "link": "https://www.deezer.com/track/2255764647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/2/0/26232e138261768ee940fa1cd981dbe6.mp3?hdnea=exp=1795724570~acl=/api/1/1/2/6/2/0/26232e138261768ee940fa1cd981dbe6.mp3*~data=user_id=0,application_id=42~hmac=8c061d935922506b30fc9a90c3fe2f5e261d1c741a0dfb9faff551a9a79ac18a",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sansani",
+            "length": "2:43",
+            "deezer": {
+              "id": 2255764657,
+              "link": "https://www.deezer.com/track/2255764657",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/9/0/f990b08e503b6044e551e3ad6eb659f7.mp3?hdnea=exp=1795724570~acl=/api/1/1/f/9/9/0/f990b08e503b6044e551e3ad6eb659f7.mp3*~data=user_id=0,application_id=42~hmac=e5c446d257981bf2a80f3f24bbd538595370d8951f607de292967b12748d0565",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sukoon",
+            "length": "2:56",
+            "deezer": {
+              "id": 2255764667,
+              "link": "https://www.deezer.com/track/2255764667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/4/0/4f4047978588eb19da93370e880254e8.mp3?hdnea=exp=1795724570~acl=/api/1/1/4/f/4/0/4f4047978588eb19da93370e880254e8.mp3*~data=user_id=0,application_id=42~hmac=506feb36a03105412ecfc870c613e86eff5a62eb2f52723ec99e2dc1f47ba4a8",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Nascar/Needs",
+            "length": "4:19",
+            "deezer": {
+              "id": 2255764687,
+              "link": "https://www.deezer.com/track/2255764687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/e/0/5cec1b473baa96e6aec1965d649b196f.mp3?hdnea=exp=1795724570~acl=/api/1/1/5/c/e/0/5cec1b473baa96e6aec1965d649b196f.mp3*~data=user_id=0,application_id=42~hmac=36e7bbabc6ddd7de5f3989bc3e5ea8fef168c847406859d15aa9a1561e60fa24",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Homecoming (interlude)",
+            "length": "2:07",
+            "artist": "yungsta, Sez on the Beat & Eyepatch",
+            "deezer": {
+              "id": 2255764697,
+              "link": "https://www.deezer.com/track/2255764697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/3/0/3337d763455d689793b453a7ee08f041.mp3?hdnea=exp=1795724570~acl=/api/1/1/3/3/3/0/3337d763455d689793b453a7ee08f041.mp3*~data=user_id=0,application_id=42~hmac=9f43e7ce1f9b6a704f634dc7b54392a9b803a8bf6a9cb734a9680f01ebd65b69",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Jeena Isi Ka Naam",
+            "length": "3:26",
+            "artist": "yungsta, Sez on the Beat & Ak",
+            "deezer": {
+              "id": 2255764707,
+              "link": "https://www.deezer.com/track/2255764707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/3/0/793190fe6b5fd6780541264ca72ae374.mp3?hdnea=exp=1795724570~acl=/api/1/1/7/9/3/0/793190fe6b5fd6780541264ca72ae374.mp3*~data=user_id=0,application_id=42~hmac=649fe9324422b7fa204bc114acc51b85a3a71129149d8616655116e5abefcc22",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Savera",
+            "length": "4:02",
+            "artist": "yungsta, Sez on the Beat & Yashraj",
+            "deezer": {
+              "id": 2255764717,
+              "link": "https://www.deezer.com/track/2255764717",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/6/0/d46adecdacaaaed36188a3ab01ad2435.mp3?hdnea=exp=1795724570~acl=/api/1/1/d/4/6/0/d46adecdacaaaed36188a3ab01ad2435.mp3*~data=user_id=0,application_id=42~hmac=eed7cde5d0c274f4b861f90ae68467e3bf6a4776a4f6eb52c07c8cf6576e0c91",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "NLITI",
+            "length": "3:09",
+            "deezer": {
+              "id": 2255764727,
+              "link": "https://www.deezer.com/track/2255764727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/f/0/e8f7a8cf9fec3884d82fe325e5fa5a0d.mp3?hdnea=exp=1795724570~acl=/api/1/1/e/8/f/0/e8f7a8cf9fec3884d82fe325e5fa5a0d.mp3*~data=user_id=0,application_id=42~hmac=c5614d9213a65e89e747104336b04d15d3dba2ce5bc0c30ff49fb3fd0212a9d5",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Totka",
+            "length": "3:27",
+            "artist": "yungsta, Sez on the Beat & Ikka",
+            "deezer": {
+              "id": 2255764737,
+              "link": "https://www.deezer.com/track/2255764737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/9/0/1091a6da166ab49717589afe3601e24d.mp3?hdnea=exp=1795724570~acl=/api/1/1/1/0/9/0/1091a6da166ab49717589afe3601e24d.mp3*~data=user_id=0,application_id=42~hmac=f47a7b0b48ea733313ae9523d65875f088679b2e9ba182cfbd654be8792865fa",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hona Hi Tha",
+            "length": "4:23",
+            "artist": "yungsta, Sez on the Beat, Raga, Encore ABJ & dilliboy",
+            "deezer": {
+              "id": 2255764747,
+              "link": "https://www.deezer.com/track/2255764747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/5/0/48574fb0b9fcfdf29d7966d26fe40d1d.mp3?hdnea=exp=1795724570~acl=/api/1/1/4/8/5/0/48574fb0b9fcfdf29d7966d26fe40d1d.mp3*~data=user_id=0,application_id=42~hmac=3fc462db68e32bcb87247b9aced95219a300dcea98e5c92883734ef865612be2",
+              "preview_expires": "2026-11-26T20:22:50Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/yungsta/MEEN.jpg"
+}

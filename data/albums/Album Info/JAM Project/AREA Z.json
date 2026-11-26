@@ -1,0 +1,203 @@
+{
+  "title": "AREA Z",
+  "artist": "JAM Project",
+  "year": 2016,
+  "release_date": "2016-06-29",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/ceb93e62-f862-490a-9f14-66a34d9aca09",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1081320172"
+  },
+  "musicbrainz_id": "ceb93e62-f862-490a-9f14-66a34d9aca09",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/73045f80-5b33-41f3-b820-aafb568e1dfe",
+      "barcode": "4540774155552",
+      "title": "AREA Z",
+      "disambiguation": null,
+      "date": "2016-06-29",
+      "country": "JP"
+    },
+    "total_tracks": 15,
+    "total_length": "1:10:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Gate of Territory",
+            "length": "1:48",
+            "deezer": {
+              "id": 4293131522,
+              "link": "https://www.deezer.com/track/4293131522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/8/0/f387d7e49e5ef6a6a723f8362618a83f.mp3?hdnea=exp=1795655422~acl=/api/1/1/f/3/8/0/f387d7e49e5ef6a6a723f8362618a83f.mp3*~data=user_id=0,application_id=42~hmac=569d2ff1f669d96aec46e5bdc8245352a15f3e3142ce52e02e2e0782de00e5b8",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "NAWABARI~背徳のシナリオ~",
+            "length": "5:24",
+            "deezer": {
+              "id": 4293131532,
+              "link": "https://www.deezer.com/track/4293131532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd2aea486139b9b0565cff517f9c0eca.mp3?hdnea=exp=1795655422~acl=/api/1/1/d/d/2/0/dd2aea486139b9b0565cff517f9c0eca.mp3*~data=user_id=0,application_id=42~hmac=94898174e61d43d6e06be14cac4b9ec4ee5d189914fbd729f77d12a67e6badd1",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "AREA Z~Song for J-Riders~",
+            "length": "4:40",
+            "deezer": {
+              "id": 4293131562,
+              "link": "https://www.deezer.com/track/4293131562",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/1/0/831989381b0c325024c3d97d225211f3.mp3?hdnea=exp=1795655422~acl=/api/1/1/8/3/1/0/831989381b0c325024c3d97d225211f3.mp3*~data=user_id=0,application_id=42~hmac=b4b98855c8932355c12e9e67deb4efd88c25c1d9bce0208bfc4308814cd51059",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "刃~the divine blade~",
+            "length": "4:08",
+            "deezer": {
+              "id": 4293131572,
+              "link": "https://www.deezer.com/track/4293131572",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/8/0/c383e2bd1c32fc5ee5b79807df8529c7.mp3?hdnea=exp=1795655422~acl=/api/1/1/c/3/8/0/c383e2bd1c32fc5ee5b79807df8529c7.mp3*~data=user_id=0,application_id=42~hmac=9ee6d9b1ce4454323788ae2046d3aaacd7f3e0538192f2692db0a196d671622c",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "ASESINA",
+            "length": "4:41",
+            "deezer": {
+              "id": 4293131592,
+              "link": "https://www.deezer.com/track/4293131592",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/9/0/54936c6f4adf1d4636e9ad67bff18067.mp3?hdnea=exp=1795655422~acl=/api/1/1/5/4/9/0/54936c6f4adf1d4636e9ad67bff18067.mp3*~data=user_id=0,application_id=42~hmac=b46b422088450e87f7cd987cb0e79c7da25cbc6dd7b420fb871136d299d68288",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "WE ARE ONE",
+            "length": "6:01",
+            "deezer": {
+              "id": 4293131612,
+              "link": "https://www.deezer.com/track/4293131612",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf7876f603c0a5fb18b0ed7685e78be6.mp3?hdnea=exp=1795655422~acl=/api/1/1/b/f/7/0/bf7876f603c0a5fb18b0ed7685e78be6.mp3*~data=user_id=0,application_id=42~hmac=ee1e478c78e7894e723faa945364710366ab3e8c9a27d4cd40fd667d79d36efe",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Survive",
+            "length": "4:17",
+            "deezer": {
+              "id": 4293131622,
+              "link": "https://www.deezer.com/track/4293131622",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/5/0/e85ca05c19c55018f876f664546a7ce5.mp3?hdnea=exp=1795655422~acl=/api/1/1/e/8/5/0/e85ca05c19c55018f876f664546a7ce5.mp3*~data=user_id=0,application_id=42~hmac=a73950742a887dcd72db76f28f2ce2324bf7d18f173fe811f1b92a1cd651bc9f",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Treasure in the sky",
+            "length": "5:05",
+            "deezer": {
+              "id": 4293131642,
+              "link": "https://www.deezer.com/track/4293131642",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/2/0/9b241cdab2c7011abc7b1bf5223f4dc4.mp3?hdnea=exp=1795655422~acl=/api/1/1/9/b/2/0/9b241cdab2c7011abc7b1bf5223f4dc4.mp3*~data=user_id=0,application_id=42~hmac=2032d66759c0f3c79394f2e738bcc40ec005ac943f513a45806ec5e194be1338",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Magical Mystery Spice~マジスパのテーマ~",
+            "length": "5:02",
+            "deezer": {
+              "id": 4293131662,
+              "link": "https://www.deezer.com/track/4293131662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/f/0/27fa70007fc592d32bc348feed7e031b.mp3?hdnea=exp=1795655422~acl=/api/1/1/2/7/f/0/27fa70007fc592d32bc348feed7e031b.mp3*~data=user_id=0,application_id=42~hmac=7d6a8ee94401d84e6e4affb87d409105ee9df12bafc1f2d5d81aef2ad42aa6ef",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "THE HERO !!~怒れる拳に火をつけろ~",
+            "length": "3:49",
+            "deezer": {
+              "id": 4293131672,
+              "link": "https://www.deezer.com/track/4293131672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/6/0/ef66ee5ea5cfa8620a2ee8c147ce961a.mp3?hdnea=exp=1795655422~acl=/api/1/1/e/f/6/0/ef66ee5ea5cfa8620a2ee8c147ce961a.mp3*~data=user_id=0,application_id=42~hmac=c2d681067c2a541fbcecf243a9ad7eeb3faaed7fbb9881119d8bcfe907588ef9",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "ギアナ高地",
+            "length": "5:46"
+          },
+          {
+            "number": "12",
+            "title": "Fragile",
+            "length": "4:42",
+            "deezer": {
+              "id": 4293131712,
+              "link": "https://www.deezer.com/track/4293131712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9fd49c7e5f7841ac3dcd0fd1003eaf8.mp3?hdnea=exp=1795655422~acl=/api/1/1/f/9/f/0/f9fd49c7e5f7841ac3dcd0fd1003eaf8.mp3*~data=user_id=0,application_id=42~hmac=861522949cb9ce2d7103f8defa3c816bf2c204f2e2bcde7fd22f7ca3336bfed3",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "J-RIOT",
+            "length": "3:40",
+            "deezer": {
+              "id": 4293131732,
+              "link": "https://www.deezer.com/track/4293131732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/b/0/94b67967fd52e33ac63c9591de3cb551.mp3?hdnea=exp=1795655422~acl=/api/1/1/9/4/b/0/94b67967fd52e33ac63c9591de3cb551.mp3*~data=user_id=0,application_id=42~hmac=0e1e279b3ca016b4fa68e5fd0c684689d9ddc8a1905668752f59472156c6f2f8",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Growing up",
+            "length": "4:28",
+            "deezer": {
+              "id": 4293131752,
+              "link": "https://www.deezer.com/track/4293131752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/a/0/2aa06065d4e006d7904aa6e1b1d44816.mp3?hdnea=exp=1795655422~acl=/api/1/1/2/a/a/0/2aa06065d4e006d7904aa6e1b1d44816.mp3*~data=user_id=0,application_id=42~hmac=4bcd81984bc905ca5fd59878d9291b4a7651c27ec00e7e7612a6a38b7c200869",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "SHORT STORY-life is beautiful-",
+            "length": "6:29",
+            "deezer": {
+              "id": 4293131762,
+              "link": "https://www.deezer.com/track/4293131762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f07c8d5da512b4e8250bdbdfc8d8a1.mp3?hdnea=exp=1795655422~acl=/api/1/1/2/3/f/0/23f07c8d5da512b4e8250bdbdfc8d8a1.mp3*~data=user_id=0,application_id=42~hmac=41069ce34011170e05908c3e73c0df8ac667ea9cd25c531ae6f3004c89fe9c00",
+              "preview_expires": "2026-11-26T01:10:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/JAM Project/AREA Z.jpg"
+}

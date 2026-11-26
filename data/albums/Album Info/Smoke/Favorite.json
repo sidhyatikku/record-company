@@ -1,0 +1,51 @@
+{
+  "title": "Favorite",
+  "artist": "Smoke & Rebel 7",
+  "year": 2023,
+  "release_date": "2023-01-01",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0ec8d43c-128d-4aa1-93f5-2ece358aaeab",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/391369997"
+  },
+  "musicbrainz_id": "0ec8d43c-128d-4aa1-93f5-2ece358aaeab",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c108a16e-40fd-47bc-a27c-298660cc15e1",
+      "barcode": "197368044361",
+      "title": "Favorite",
+      "disambiguation": null,
+      "date": "2023-01-01",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "1:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Favorite",
+            "length": "1:41",
+            "deezer": {
+              "id": 2088943217,
+              "link": "https://www.deezer.com/track/2088943217",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/c/0/9cc03d94e66111d3d840bcca0f77a98a.mp3?hdnea=exp=1795720798~acl=/api/1/1/9/c/c/0/9cc03d94e66111d3d840bcca0f77a98a.mp3*~data=user_id=0,application_id=42~hmac=805eb0af53bb0852325876742156177bc702f33c0681f4b5e38bf35f250050a1",
+              "preview_expires": "2026-11-26T19:19:58Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Smoke/Favorite.jpg"
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Miles Smiles",
+  "artist": "Miles Davis Quintet",
+  "year": 1967,
+  "release_date": "1967-01",
+  "type": "Album",
+  "description": "Miles Smiles is an album by American jazz musician Miles Davis, released on February 16, 1967, by Columbia Records. It was recorded by Davis and his second quintet at Columbia 30th Street Studio in New York City on October 24 and October 25, 1966. It is the second of six albums recorded by Davis' second great quintet, which featured tenor saxophonist Wayne Shorter, pianist Herbie Hancock, bassist Ron Carter, and drummer Tony Williams.",
+  "genres": [
+    "hard bop",
+    "jazz",
+    "post-bop"
+  ],
+  "tags": [
+    "hard bop",
+    "jazz",
+    "modal",
+    "post bop",
+    "post-bop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/60fa4ab0-bf92-3184-80ca-6dcadbb5c748",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_Smiles",
+    "allmusic": "https://www.allmusic.com/album/mw0000197655",
+    "discogs": "https://www.discogs.com/master/65601",
+    "wikidata": "https://www.wikidata.org/wiki/Q1754539",
+    "deezer": "https://www.deezer.com/album/107396"
+  },
+  "musicbrainz_id": "60fa4ab0-bf92-3184-80ca-6dcadbb5c748",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a1a41b58-182a-4e1c-ba26-e4e77dee7eaa",
+      "barcode": "5099706568223",
+      "title": "Miles Smiles",
+      "disambiguation": null,
+      "date": "2014",
+      "country": "US"
+    },
+    "total_tracks": 6,
+    "total_length": "41:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Orbits",
+            "length": "4:39",
+            "deezer": {
+              "id": 955662,
+              "link": "https://www.deezer.com/track/955662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/7/0/6d7e94a4da65be4ef573ffcff8f7e487.mp3?hdnea=exp=1795718493~acl=/api/1/1/6/d/7/0/6d7e94a4da65be4ef573ffcff8f7e487.mp3*~data=user_id=0,application_id=42~hmac=d63e0b30bef6ea51f90d3314ef0932232aeca27dcfa4a0a619227ead1ce85385",
+              "preview_expires": "2026-11-26T18:41:33Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Circle",
+            "length": "5:54",
+            "deezer": {
+              "id": 955707,
+              "link": "https://www.deezer.com/track/955707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/f/0/dafea4085a0e4e7ea839cc4f31b1e7b6.mp3?hdnea=exp=1795718493~acl=/api/1/1/d/a/f/0/dafea4085a0e4e7ea839cc4f31b1e7b6.mp3*~data=user_id=0,application_id=42~hmac=97b2c17d332e51585a41e56803d00fba11ba0457bead4807d8807a632788bc70",
+              "preview_expires": "2026-11-26T18:41:33Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Footprints",
+            "length": "9:49",
+            "deezer": {
+              "id": 955648,
+              "link": "https://www.deezer.com/track/955648",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92f01edf445f3c450342ffa8d99910e9.mp3?hdnea=exp=1795718493~acl=/api/1/1/9/2/f/0/92f01edf445f3c450342ffa8d99910e9.mp3*~data=user_id=0,application_id=42~hmac=9e0f4a6a83c4cb4c460582a932454500fc525cb17537c50aa825551be4a7965b",
+              "preview_expires": "2026-11-26T18:41:33Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dolores",
+            "length": "6:23",
+            "deezer": {
+              "id": 955721,
+              "link": "https://www.deezer.com/track/955721",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/3/0/1e3c5866ce2fef22189f55eff8700286.mp3?hdnea=exp=1795718493~acl=/api/1/1/1/e/3/0/1e3c5866ce2fef22189f55eff8700286.mp3*~data=user_id=0,application_id=42~hmac=5f70ffbc292495b57fca71a28f865c3bea2d8ace9d1556432c8be369c02b8fec",
+              "preview_expires": "2026-11-26T18:41:33Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Freedom Jazz Dance",
+            "length": "7:13",
+            "deezer": {
+              "id": 955634,
+              "link": "https://www.deezer.com/track/955634",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/2/0/ba27935cfb9c8df2567c985cb77e41ca.mp3?hdnea=exp=1795718493~acl=/api/1/1/b/a/2/0/ba27935cfb9c8df2567c985cb77e41ca.mp3*~data=user_id=0,application_id=42~hmac=57c57e4881ef5886fd77b979ca634a35b2876d62e5e7a52aa32cb80217008b31",
+              "preview_expires": "2026-11-26T18:41:33Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Gingerbread Boy",
+            "length": "7:48",
+            "deezer": {
+              "id": 955729,
+              "link": "https://www.deezer.com/track/955729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/a/0/88af5a5026235e516ba01054ddabd14e.mp3?hdnea=exp=1795718493~acl=/api/1/1/8/8/a/0/88af5a5026235e516ba01054ddabd14e.mp3*~data=user_id=0,application_id=42~hmac=5276816c103b716091ce1be92f63712d4f329d044839c910c41bb2fc50ec3d48",
+              "preview_expires": "2026-11-26T18:41:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Miles Davis/Miles Smiles.jpg"
+}

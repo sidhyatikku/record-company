@@ -1,0 +1,75 @@
+{
+  "title": "Nishani Pyar Di",
+  "artist": "Jasbir Jassi",
+  "year": 2001,
+  "release_date": "2001",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/249dacf3-04dd-4e3e-999c-c9d7eb15cca8",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "249dacf3-04dd-4e3e-999c-c9d7eb15cca8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/46af474b-0e0d-40cc-a4ba-f355c78500e2",
+      "barcode": null,
+      "title": "Nishani Pyar Di",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "IN"
+    },
+    "total_tracks": 7,
+    "total_length": "34:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Channo",
+            "length": "4:58"
+          },
+          {
+            "number": "2",
+            "title": "Nishani Pyaar Di",
+            "length": "4:53"
+          },
+          {
+            "number": "3",
+            "title": "Pardesi Dhola",
+            "length": "5:26"
+          },
+          {
+            "number": "4",
+            "title": "Makhani Malai",
+            "length": "4:57"
+          },
+          {
+            "number": "5",
+            "title": "Ao Ni Saiyon",
+            "length": "5:19"
+          },
+          {
+            "number": "6",
+            "title": "Piran Da Paranda",
+            "length": "4:37"
+          },
+          {
+            "number": "7",
+            "title": "Dil Da Mehram",
+            "length": "4:43"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jassi/Nishani Pyar Di.jpg"
+}

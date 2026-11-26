@@ -1,0 +1,179 @@
+{
+  "title": "Nightmare",
+  "artist": "Avenged Sevenfold",
+  "year": 2010,
+  "release_date": "2010-07-23",
+  "type": "Album",
+  "description": "Nightmare is the fifth studio album by American heavy metal band Avenged Sevenfold, released on July 23, 2010, through Warner Bros. Records. It was produced by Mike Elizondo, mixed in New York City by audio engineer Andy Wallace, and mastered by Ted Jensen.",
+  "genres": [
+    "heavy metal",
+    "alternative metal",
+    "hard rock",
+    "progressive metal"
+  ],
+  "tags": [
+    "heavy metal",
+    "alternative metal",
+    "hard rock",
+    "alternative/indie rock",
+    "progressive metal"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 13
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/fe4373ed-5e89-46b3-b4c0-31433ce217df",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nightmare_(Avenged_Sevenfold_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002008469",
+    "discogs": "https://www.discogs.com/master/274270",
+    "wikidata": "https://www.wikidata.org/wiki/Q168377",
+    "deezer": "https://www.deezer.com/album/620594"
+  },
+  "musicbrainz_id": "fe4373ed-5e89-46b3-b4c0-31433ce217df",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d325c65b-e154-4897-9675-edfe4c3b8b8d",
+      "barcode": "093624966548",
+      "title": "Nightmare",
+      "disambiguation": null,
+      "date": "2010-07-23",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "1:06:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nightmare",
+            "length": "6:14",
+            "deezer": {
+              "id": 6715839,
+              "link": "https://www.deezer.com/track/6715839",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/0/0/1600842200bd13798b61a915d27f338a.mp3?hdnea=exp=1795651742~acl=/api/1/1/1/6/0/0/1600842200bd13798b61a915d27f338a.mp3*~data=user_id=0,application_id=42~hmac=ed9d8ca8c24841e038c081c3e2e2aec94e7cc10811bdaad9ed60fe2c59fdf53b",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Welcome to the Family",
+            "length": "4:05",
+            "deezer": {
+              "id": 6715840,
+              "link": "https://www.deezer.com/track/6715840",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/d/0/e9d1c7511d914e5b885fe6e68fcf640f.mp3?hdnea=exp=1795651742~acl=/api/1/1/e/9/d/0/e9d1c7511d914e5b885fe6e68fcf640f.mp3*~data=user_id=0,application_id=42~hmac=f7eef0c557251ec517ca922e6ac4a498cac518c9731521f089b6ed2af9d15039",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Danger Line",
+            "length": "5:28",
+            "deezer": {
+              "id": 6715841,
+              "link": "https://www.deezer.com/track/6715841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/9/0/6093574b3ca10de0c22337699c232f66.mp3?hdnea=exp=1795651742~acl=/api/1/1/6/0/9/0/6093574b3ca10de0c22337699c232f66.mp3*~data=user_id=0,application_id=42~hmac=ff32672818769ec5600433dd80170dcc5386b00232a70e2b2ce064baac13c550",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Buried Alive",
+            "length": "6:44",
+            "deezer": {
+              "id": 6715842,
+              "link": "https://www.deezer.com/track/6715842",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/f/0/52ffaed82d8ece0760a5c8e77e4f3b2b.mp3?hdnea=exp=1795651742~acl=/api/1/1/5/2/f/0/52ffaed82d8ece0760a5c8e77e4f3b2b.mp3*~data=user_id=0,application_id=42~hmac=69a65c5fa08f7ad8521eaf3b82b6f13a4b48598e485b925e0c6e62875b901d3f",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Natural Born Killer",
+            "length": "5:15",
+            "deezer": {
+              "id": 6715843,
+              "link": "https://www.deezer.com/track/6715843",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/4/0/a24c8cb14580a4cb735a51217cc82db6.mp3?hdnea=exp=1795651742~acl=/api/1/1/a/2/4/0/a24c8cb14580a4cb735a51217cc82db6.mp3*~data=user_id=0,application_id=42~hmac=efd76e59a7e4be820df6070822d4c94cd16c457d5db38192cfb3bf0469f8b566",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "So Far Away",
+            "length": "5:26",
+            "deezer": {
+              "id": 6715844,
+              "link": "https://www.deezer.com/track/6715844",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/2/0/b52ea395ceb35530b34bb8c286e72b0b.mp3?hdnea=exp=1795651742~acl=/api/1/1/b/5/2/0/b52ea395ceb35530b34bb8c286e72b0b.mp3*~data=user_id=0,application_id=42~hmac=12c57a4061f10d25c6c672120ded34168983fdf48078ea9460ef408a795c634f",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "God Hates Us",
+            "length": "5:19",
+            "deezer": {
+              "id": 6715845,
+              "link": "https://www.deezer.com/track/6715845",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/1/0/e417046e5a53c3a25d18564c72bf6cde.mp3?hdnea=exp=1795651742~acl=/api/1/1/e/4/1/0/e417046e5a53c3a25d18564c72bf6cde.mp3*~data=user_id=0,application_id=42~hmac=827eaab06a633541bf09eab3a0c2201c2dbc3c644638d45a53e16f98210a5ddc",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Victim",
+            "length": "7:29",
+            "deezer": {
+              "id": 6715846,
+              "link": "https://www.deezer.com/track/6715846",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9f4a0b48930f00ed73a87c5a9b92dfb.mp3?hdnea=exp=1795651742~acl=/api/1/1/f/9/f/0/f9f4a0b48930f00ed73a87c5a9b92dfb.mp3*~data=user_id=0,application_id=42~hmac=e34109cddaf7b5491e785f9f5539490dc30a3f96649d78a3b557659f85c23a01",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Tonight the World Dies",
+            "length": "4:41",
+            "deezer": {
+              "id": 6715847,
+              "link": "https://www.deezer.com/track/6715847",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/d/0/fcd84419a3fab336fe847f2471929633.mp3?hdnea=exp=1795651742~acl=/api/1/1/f/c/d/0/fcd84419a3fab336fe847f2471929633.mp3*~data=user_id=0,application_id=42~hmac=6c2791e6e594433bd937e7e40e7a62d505a98bce2e83d6c967826149dfc77fab",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Fiction",
+            "length": "5:07",
+            "deezer": {
+              "id": 6715848,
+              "link": "https://www.deezer.com/track/6715848",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/b/0/e3b30d702a4832ca55c41260c5967ab6.mp3?hdnea=exp=1795651742~acl=/api/1/1/e/3/b/0/e3b30d702a4832ca55c41260c5967ab6.mp3*~data=user_id=0,application_id=42~hmac=334f83d2dc7d72cc68a6e108975cb882d875b893df73f144e6867ca0cab0c0be",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Save Me",
+            "length": "10:56",
+            "deezer": {
+              "id": 6715849,
+              "link": "https://www.deezer.com/track/6715849",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/c/0/ebcb56d4c830a118c725db1a7b5789d4.mp3?hdnea=exp=1795651742~acl=/api/1/1/e/b/c/0/ebcb56d4c830a118c725db1a7b5789d4.mp3*~data=user_id=0,application_id=42~hmac=401651ea5242e521ac392de5a14e9201e82960f7747f1f5820a6746298c7b8f7",
+              "preview_expires": "2026-11-26T00:09:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Avenged Sevenfold/Nightmare.jpg"
+}

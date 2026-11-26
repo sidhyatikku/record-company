@@ -1,0 +1,183 @@
+{
+  "title": "PBX 1",
+  "artist": "Sidhu Moose Wala",
+  "year": 2018,
+  "release_date": "2018-10-18",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/2f25d61c-2efd-4c6b-b2d1-167f77129578",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/694265561"
+  },
+  "musicbrainz_id": "2f25d61c-2efd-4c6b-b2d1-167f77129578",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/89a1792c-fe65-43f9-b326-6952ee05c860",
+      "barcode": null,
+      "title": "PBX 1",
+      "disambiguation": null,
+      "date": "2018-10-18",
+      "country": "XW"
+    },
+    "total_tracks": 13,
+    "total_length": "33:48",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro",
+            "length": "0:31",
+            "deezer": {
+              "id": 3174508911,
+              "link": "https://www.deezer.com/track/3174508911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/2/0/4021483ef904d4bb7c03f43124b6f5a2.mp3?hdnea=exp=1795720609~acl=/api/1/1/4/0/2/0/4021483ef904d4bb7c03f43124b6f5a2.mp3*~data=user_id=0,application_id=42~hmac=04a25ebd486be8b325593723da9a5ffad1749bc6092afe8ca46fc2ccc4a201ef",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jatt Da Muqabla",
+            "length": "3:32",
+            "deezer": {
+              "id": 3174508921,
+              "link": "https://www.deezer.com/track/3174508921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/3/0/383ae06cae825ebd6151f4609411ec89.mp3?hdnea=exp=1795720609~acl=/api/1/1/3/8/3/0/383ae06cae825ebd6151f4609411ec89.mp3*~data=user_id=0,application_id=42~hmac=ac7b8833809b3a504a0bc8338ae7b3d9a921a8a2e490858f5536674e43ef9bc3",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Death Route",
+            "length": "3:39",
+            "deezer": {
+              "id": 3174508931,
+              "link": "https://www.deezer.com/track/3174508931",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/9/0/d593979d11a5a178ac3b91bad124b296.mp3?hdnea=exp=1795720609~acl=/api/1/1/d/5/9/0/d593979d11a5a178ac3b91bad124b296.mp3*~data=user_id=0,application_id=42~hmac=9fb875f31f8fef01fba9d395ac037f118bcbf8790d536e099203c68314f31aa1",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Dawood",
+            "length": "3:21",
+            "deezer": {
+              "id": 3174508941,
+              "link": "https://www.deezer.com/track/3174508941",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/8/0/bf801c32f1eb03aafb3426fba77d9688.mp3?hdnea=exp=1795720609~acl=/api/1/1/b/f/8/0/bf801c32f1eb03aafb3426fba77d9688.mp3*~data=user_id=0,application_id=42~hmac=18df557b376c690c9d2a4203336c373d40465ea80df58a2d0eff3bda7983395f",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Badfella",
+            "length": "3:38",
+            "deezer": {
+              "id": 3174508951,
+              "link": "https://www.deezer.com/track/3174508951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/e/0/52ec75bd0c921182aae94838609b3b74.mp3?hdnea=exp=1795720609~acl=/api/1/1/5/2/e/0/52ec75bd0c921182aae94838609b3b74.mp3*~data=user_id=0,application_id=42~hmac=e1864aa6b47715a81c6fb000298b8f18a0f21bca427ec8d155980859241efaea",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Kala Chasma Skit",
+            "length": "0:25",
+            "deezer": {
+              "id": 3174508961,
+              "link": "https://www.deezer.com/track/3174508961",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/c/0/7dccfba9edd8a22a72c6be3f8386aad8.mp3?hdnea=exp=1795720609~acl=/api/1/1/7/d/c/0/7dccfba9edd8a22a72c6be3f8386aad8.mp3*~data=user_id=0,application_id=42~hmac=449e803a536cc77284035bfb032ef487c6bf7c72d4357f255ca71e86434e446c",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Selfmade",
+            "length": "3:04",
+            "deezer": {
+              "id": 3174508971,
+              "link": "https://www.deezer.com/track/3174508971",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/1/0/eb1d61e7610bc1125d3f958e8d248f04.mp3?hdnea=exp=1795720609~acl=/api/1/1/e/b/1/0/eb1d61e7610bc1125d3f958e8d248f04.mp3*~data=user_id=0,application_id=42~hmac=db7da93b76f34c25587a6bd318816c42753fff05b01c09df3e2ce136882747e0",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I'm Better Now Skit",
+            "length": "1:29",
+            "deezer": {
+              "id": 3174508981,
+              "link": "https://www.deezer.com/track/3174508981",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/b/0/42b3ff26fa8f4178eb1835f086da0a64.mp3?hdnea=exp=1795720609~acl=/api/1/1/4/2/b/0/42b3ff26fa8f4178eb1835f086da0a64.mp3*~data=user_id=0,application_id=42~hmac=10a7e89a31f0d1766f6b709aa8b55f9360af068481c3ea4160c444a858ba5dff",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "I'm Better Now",
+            "length": "4:28",
+            "deezer": {
+              "id": 3174508991,
+              "link": "https://www.deezer.com/track/3174508991",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/7/0/ed72a8e6ab9d8a32ae30a848523d4847.mp3?hdnea=exp=1795720609~acl=/api/1/1/e/d/7/0/ed72a8e6ab9d8a32ae30a848523d4847.mp3*~data=user_id=0,application_id=42~hmac=7e54426b37742cf803ae80cbf5c3ccfacd005a56539fff294af220afeca793d3",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Devil Skit",
+            "length": "1:18",
+            "deezer": {
+              "id": 3174509001,
+              "link": "https://www.deezer.com/track/3174509001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/f/0/c9f96e004832e4e16f23f420d3381c4b.mp3?hdnea=exp=1795720609~acl=/api/1/1/c/9/f/0/c9f96e004832e4e16f23f420d3381c4b.mp3*~data=user_id=0,application_id=42~hmac=ab9a653008db0c68aaac7724022fad79044e24c83f2ac879a5eafdb7fddeb938",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Devil",
+            "length": "4:07",
+            "deezer": {
+              "id": 3174509011,
+              "link": "https://www.deezer.com/track/3174509011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/1/0/c013e6b7c39bddee9fe5acd15d969264.mp3?hdnea=exp=1795720609~acl=/api/1/1/c/0/1/0/c013e6b7c39bddee9fe5acd15d969264.mp3*~data=user_id=0,application_id=42~hmac=abda3867e1b734b0ee69fd64a8fb2173490b242d0b17d5792dbbdacad53e16fa",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Trend",
+            "length": "3:44",
+            "deezer": {
+              "id": 3174509021,
+              "link": "https://www.deezer.com/track/3174509021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a1807b97e6ad7312b9b622bce7bfdd15.mp3?hdnea=exp=1795720609~acl=/api/1/1/a/1/8/0/a1807b97e6ad7312b9b622bce7bfdd15.mp3*~data=user_id=0,application_id=42~hmac=1c342033fe498cab3e6dafa0189ed393a455058404e54cff412de5c2b65ce6bb",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Outro",
+            "length": "0:32",
+            "deezer": {
+              "id": 3174509031,
+              "link": "https://www.deezer.com/track/3174509031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/e/0/6fec46046ea4f7a8819bc65511257fb9.mp3?hdnea=exp=1795720609~acl=/api/1/1/6/f/e/0/6fec46046ea4f7a8819bc65511257fb9.mp3*~data=user_id=0,application_id=42~hmac=75d033f54ba33f6af28384b2a63e7465ad2b0fa894746c583bf939d3502d3862",
+              "preview_expires": "2026-11-26T19:16:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Pbx 1.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Srekye",
+  "artist": "O'Flynn",
+  "year": 2025,
+  "release_date": "2025-07-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d60ef964-6ff3-4791-b829-284f831e02de",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/776948481"
+  },
+  "musicbrainz_id": "d60ef964-6ff3-4791-b829-284f831e02de",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/43a5d142-d180-484c-9714-dd97e115d341",
+      "barcode": "5055199578781",
+      "title": "Srekye",
+      "disambiguation": null,
+      "date": "2025-07-18",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:36",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Srekye",
+            "length": "3:36",
+            "deezer": {
+              "id": 3426975751,
+              "link": "https://www.deezer.com/track/3426975751",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/d/0/4ddce009f6a39422292efcbbfbb33cf1.mp3?hdnea=exp=1795719061~acl=/api/1/1/4/d/d/0/4ddce009f6a39422292efcbbfbb33cf1.mp3*~data=user_id=0,application_id=42~hmac=a3685421be433c6680ab7142f234901e835a104ad3bda6e2ac3adb98ad96da71",
+              "preview_expires": "2026-11-26T18:51:01Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/O'Flynn/Srekye.jpg"
+}

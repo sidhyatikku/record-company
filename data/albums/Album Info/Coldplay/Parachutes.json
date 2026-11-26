@@ -1,0 +1,181 @@
+{
+  "title": "Parachutes",
+  "artist": "Coldplay",
+  "year": 2000,
+  "release_date": "2000-07-10",
+  "type": "Album",
+  "description": "Parachutes is the debut studio album by the British rock band Coldplay. It was released on 10 July 2000 by Parlophone in the United Kingdom and on 7 November 2000 by Nettwerk in the United States. Ken Nelson and the band co-produced all songs except \"High Speed\", which was produced by Chris Allison alone. Parachutes spawned four singles: \"Shiver\", \"Yellow\", \"Trouble\" and \"Don't Panic\", the latter being limited to Europe. \"Sparks\" gained additional notability in the 2020s after going viral on video platform TikTok. In support of the album, Coldplay embarked on the Parachutes Tour (2000–2001).",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "pop rock",
+    "post-britpop",
+    "dream pop",
+    "piano rock",
+    "ambient",
+    "indie rock",
+    "jazz"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "pop rock",
+    "alternative",
+    "post-britpop",
+    "dream pop",
+    "piano rock",
+    "ambient",
+    "indie rock",
+    "jazz",
+    "nocturnal",
+    "offizielle charts",
+    "uplifting"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 41
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1dc4c347-a1db-32aa-b14f-bc9cc507b843",
+    "wikipedia": "https://en.wikipedia.org/wiki/Parachutes_(Coldplay_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000101998",
+    "discogs": "https://www.discogs.com/master/3334",
+    "wikidata": "https://www.wikidata.org/wiki/Q131977",
+    "deezer": "https://www.deezer.com/album/301663"
+  },
+  "musicbrainz_id": "1dc4c347-a1db-32aa-b14f-bc9cc507b843",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c1c48ede-5a55-419e-b193-886e96563da5",
+      "barcode": "0067003016254",
+      "title": "Parachutes",
+      "disambiguation": null,
+      "date": "2006-08-14",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "41:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don’t Panic",
+            "length": "2:16",
+            "deezer": {
+              "id": 3128092,
+              "link": "https://www.deezer.com/track/3128092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/7/0/ab7fb5b8e79b39a169225a38c497b4cf.mp3?hdnea=exp=1795652903~acl=/api/1/1/a/b/7/0/ab7fb5b8e79b39a169225a38c497b4cf.mp3*~data=user_id=0,application_id=42~hmac=c6f258563fda7e3362476c246e3f3ff9771bec223aaeca7fc618434a4559a4ec",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shiver",
+            "length": "4:59",
+            "deezer": {
+              "id": 3128093,
+              "link": "https://www.deezer.com/track/3128093",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/3/0/063b2f15259e5345e06e784d4d8b9c74.mp3?hdnea=exp=1795652903~acl=/api/1/1/0/6/3/0/063b2f15259e5345e06e784d4d8b9c74.mp3*~data=user_id=0,application_id=42~hmac=0bea4ee6f41d1adad67e194eae6325c6162357794e9caa342c0e8ea90e9593c1",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Spies",
+            "length": "5:18",
+            "deezer": {
+              "id": 3128094,
+              "link": "https://www.deezer.com/track/3128094",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/1/0/951efdfc1b7797bd08e027f085fd0830.mp3?hdnea=exp=1795652903~acl=/api/1/1/9/5/1/0/951efdfc1b7797bd08e027f085fd0830.mp3*~data=user_id=0,application_id=42~hmac=7feba6ed9cbbc40d7ed633842ebbc10422741d24d687f2becc1a12d740d5b62f",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Sparks",
+            "length": "3:47",
+            "deezer": {
+              "id": 3128095,
+              "link": "https://www.deezer.com/track/3128095",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/2/0/d428f6833b4a16caf0bebc675f2bcdf6.mp3?hdnea=exp=1795652903~acl=/api/1/1/d/4/2/0/d428f6833b4a16caf0bebc675f2bcdf6.mp3*~data=user_id=0,application_id=42~hmac=35295c9e7564f4ec780d898bb66bbb92ab336ccd0c598cfb858ac5c14cc98f0c",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Yellow",
+            "length": "4:29",
+            "deezer": {
+              "id": 3128096,
+              "link": "https://www.deezer.com/track/3128096",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/f/0/64f36083ad5a11e6803ef7ddbcdaf898.mp3?hdnea=exp=1795652903~acl=/api/1/1/6/4/f/0/64f36083ad5a11e6803ef7ddbcdaf898.mp3*~data=user_id=0,application_id=42~hmac=a835859487d966348b7344f6be12e7b852e0ded31a14edb521742191f7f69c0f",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Trouble",
+            "length": "4:30",
+            "deezer": {
+              "id": 3128097,
+              "link": "https://www.deezer.com/track/3128097",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/c/0/a6c4483640be63293a1cc588151a739b.mp3?hdnea=exp=1795652903~acl=/api/1/1/a/6/c/0/a6c4483640be63293a1cc588151a739b.mp3*~data=user_id=0,application_id=42~hmac=77c04fea8441f4cf292b405fa3a5610406f4e251ddd548e6f7dcd473d28ef763",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Parachutes",
+            "length": "0:46",
+            "deezer": {
+              "id": 3128098,
+              "link": "https://www.deezer.com/track/3128098",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/d/0/c6d97afd63cf5307cb7dd5c7252a24b3.mp3?hdnea=exp=1795652903~acl=/api/1/1/c/6/d/0/c6d97afd63cf5307cb7dd5c7252a24b3.mp3*~data=user_id=0,application_id=42~hmac=21d560c1b778737e485360b744ddee5bda3a5c004749b12fd28882307e276128",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "High Speed",
+            "length": "4:14",
+            "deezer": {
+              "id": 3128099,
+              "link": "https://www.deezer.com/track/3128099",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93aa692fd479b98a2064cc88a892edd4.mp3?hdnea=exp=1795652903~acl=/api/1/1/9/3/a/0/93aa692fd479b98a2064cc88a892edd4.mp3*~data=user_id=0,application_id=42~hmac=135d1b898d1bfc4fbc95a91065f53a0c60c3999931ecdf47fa2f52bf26aeaae5",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "We Never Change",
+            "length": "4:09",
+            "deezer": {
+              "id": 3128100,
+              "link": "https://www.deezer.com/track/3128100",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/9/0/9f9d92ce479ccaaab52493c63ca1d11f.mp3?hdnea=exp=1795652903~acl=/api/1/1/9/f/9/0/9f9d92ce479ccaaab52493c63ca1d11f.mp3*~data=user_id=0,application_id=42~hmac=5f7e965ec8f9cf38bcdce149316ae9f80ae5a67501fe2a5e5086dfc3196af2d6",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Everything’s Not Lost / Life Is for Living",
+            "length": "7:16",
+            "deezer": {
+              "id": 3128101,
+              "link": "https://www.deezer.com/track/3128101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/1/0/fd11f742f5bfd6db1b08535875ecdd64.mp3?hdnea=exp=1795652903~acl=/api/1/1/f/d/1/0/fd11f742f5bfd6db1b08535875ecdd64.mp3*~data=user_id=0,application_id=42~hmac=4931d54d418ffe6054295feb6a4cdbf5e85b130ef3a14fc81228c7fd93c7818d",
+              "preview_expires": "2026-11-26T00:28:23Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Coldplay/Parachutes.jpg"
+}

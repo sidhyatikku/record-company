@@ -1,0 +1,51 @@
+{
+  "title": "Famous",
+  "artist": "Sidhu Moose Wala",
+  "year": 2018,
+  "release_date": "2018-06-16",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/677b959b-6424-4c11-9b59-8992dca5a6c4",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/66217292"
+  },
+  "musicbrainz_id": "677b959b-6424-4c11-9b59-8992dca5a6c4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/57abb683-39eb-4ccd-b314-5b1cc08660b8",
+      "barcode": "859727282448",
+      "title": "Famous",
+      "disambiguation": null,
+      "date": "2018-06-16",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "4:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Famous",
+            "length": "4:09",
+            "deezer": {
+              "id": 515883412,
+              "link": "https://www.deezer.com/track/515883412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/d/0/c6d2f299d7922b4b8305ead6e9d0c2ca.mp3?hdnea=exp=1795720584~acl=/api/1/1/c/6/d/0/c6d2f299d7922b4b8305ead6e9d0c2ca.mp3*~data=user_id=0,application_id=42~hmac=d47059534beb910c6cd8c7b58fd794b7de7340db2675d10e3398b320ab367ad1",
+              "preview_expires": "2026-11-26T19:16:24Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Famous.jpg"
+}

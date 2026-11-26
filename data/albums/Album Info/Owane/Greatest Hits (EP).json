@@ -1,0 +1,79 @@
+{
+  "title": "Greatest Hits",
+  "artist": "Owane",
+  "year": 2015,
+  "release_date": "2015-06-30",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "pop",
+    "progressive rock"
+  ],
+  "tags": [
+    "pop",
+    "progressive rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c3dd8d96-c051-4217-8f2a-8afe8b88c1f2",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "c3dd8d96-c051-4217-8f2a-8afe8b88c1f2",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/66b400d6-ebd2-44af-8f92-2f959970e3c3",
+      "barcode": null,
+      "title": "Greatest Hits",
+      "disambiguation": null,
+      "date": "2015-06-30",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "20:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bitches n' Hoes",
+            "length": "0:55"
+          },
+          {
+            "number": "2",
+            "title": "\"k\"",
+            "length": "4:39"
+          },
+          {
+            "number": "3",
+            "title": "Gym Membership",
+            "length": "4:27",
+            "artist": "Owane feat. Sean Ashe"
+          },
+          {
+            "number": "4",
+            "title": "Saturday Begins",
+            "length": "3:59"
+          },
+          {
+            "number": "5",
+            "title": "Come Pasta Blitz",
+            "length": "4:04",
+            "artist": "Owane feat. Anund Vikingstad"
+          },
+          {
+            "number": "6",
+            "title": "Skyr",
+            "length": "2:29",
+            "artist": "Owane feat. Jakub Żytecki"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Owane/Greatest Hits (EP).jpg"
+}

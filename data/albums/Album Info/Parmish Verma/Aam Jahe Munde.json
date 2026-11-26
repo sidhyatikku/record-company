@@ -1,0 +1,51 @@
+{
+  "title": "Aam Jahe Munde",
+  "artist": "Parmish Verma & PARDHAAN",
+  "year": 2020,
+  "release_date": "2020-05-02",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e562150b-05aa-4a98-a4ff-db2a08f68d78",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/145694562"
+  },
+  "musicbrainz_id": "e562150b-05aa-4a98-a4ff-db2a08f68d78",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4740ee5a-e4fc-4dca-8e84-27a1e6e1d3b4",
+      "barcode": "6016414199135",
+      "title": "Aam Jahe Munde",
+      "disambiguation": null,
+      "date": "2020-05-02",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:28",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Aam Jahe Munde",
+            "length": "3:28",
+            "deezer": {
+              "id": 948336762,
+              "link": "https://www.deezer.com/track/948336762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/b/0/6bb0763a5ea6cab9d06b71201244364b.mp3?hdnea=exp=1795719360~acl=/api/1/1/6/b/b/0/6bb0763a5ea6cab9d06b71201244364b.mp3*~data=user_id=0,application_id=42~hmac=f732b61a94a3b3c8685e5d5410800e36cacfbbb1b71cb0793f33ac4edb1d9712",
+              "preview_expires": "2026-11-26T18:56:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Parmish Verma/Aam Jahe Munde.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Mercy",
+  "artist": "Big Sean, Pusha T, 2 Chainz & Kanye West",
+  "year": 2012,
+  "release_date": "2012-04-06",
+  "type": "Single",
+  "description": "\"Mercy\" is a song by American rapper Kanye West featuring fellow American rappers Big Sean, Pusha T, and 2 Chainz. The song was released on April 6, 2012, through GOOD Music and Def Jam Recordings, as the lead single from the compilation album, Cruel Summer (2012). The song's production was handled by Lifted, with additional production from West, Mike Dean, Mike Will Made It, Anthony Kilhoffer, and Hudson Mohawke. The song heavily samples the spoken intro for the dancehall song, \"Dust a Sound Boy\" by Super Beagle.",
+  "genres": [
+    "gangsta rap",
+    "hip hop",
+    "memphis rap",
+    "pop rap",
+    "trap"
+  ],
+  "tags": [
+    "gangsta rap",
+    "hip hop",
+    "memphis rap",
+    "mercy kanye",
+    "pop rap",
+    "trap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0e91bd53-fd89-4e90-a18e-36053fba2a59",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercy_(Kanye_West_song)",
+    "discogs": "https://www.discogs.com/master/1186892",
+    "wikidata": "https://www.wikidata.org/wiki/Q3019510",
+    "deezer": "https://www.deezer.com/album/1682605"
+  },
+  "musicbrainz_id": "0e91bd53-fd89-4e90-a18e-36053fba2a59",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fc65216b-6ee3-4e1a-8149-234c4aeac784",
+      "barcode": "00602537032761",
+      "title": "Mercy",
+      "disambiguation": null,
+      "date": "2012-04-06",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "5:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mercy",
+            "length": "5:32",
+            "deezer": {
+              "id": 17919329,
+              "link": "https://www.deezer.com/track/17919329",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/0/0/d70552a8bf50900e2752cfe792ea239d.mp3?hdnea=exp=1795655906~acl=/api/1/1/d/7/0/0/d70552a8bf50900e2752cfe792ea239d.mp3*~data=user_id=0,application_id=42~hmac=9b85d26f64c4613f4d8e2b14d40b5cdc7b7b7627278096c1548c0cc73f1488a2",
+              "preview_expires": "2026-11-26T01:18:26Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kanye West/Mercy.jpg"
+}

@@ -1,0 +1,175 @@
+{
+  "title": "One More Light",
+  "artist": "Linkin Park",
+  "year": 2017,
+  "release_date": "2017-05-19",
+  "type": "Album",
+  "description": "One More Light is the seventh studio album by American rock band Linkin Park. It was released on May 19, 2017, through Warner Bros. Records and Machine Shop. It is the band's first album to have a title track, as they felt that the song \"One More Light\" was the heart of the album. It is also the band's final album to feature two of their longtime members: co-lead vocalist Chester Bennington, who died by suicide two months after the album's release, and drummer and co-founder Rob Bourdon, who opted not to return for the band's reformation in 2024.",
+  "genres": [
+    "electropop",
+    "pop rock",
+    "alternative pop",
+    "pop",
+    "electronic",
+    "rock"
+  ],
+  "tags": [
+    "electropop",
+    "pop rock",
+    "alternative pop",
+    "pop",
+    "electronic",
+    "mellow",
+    "melodic",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 22
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b976c959-d13e-487c-85d7-cab70ed7c842",
+    "wikipedia": "https://en.wikipedia.org/wiki/One_More_Light",
+    "allmusic": "https://www.allmusic.com/album/mw0003023781",
+    "discogs": "https://www.discogs.com/master/1181348",
+    "wikidata": "https://www.wikidata.org/wiki/Q28790391",
+    "deezer": "https://www.deezer.com/album/41645391"
+  },
+  "musicbrainz_id": "b976c959-d13e-487c-85d7-cab70ed7c842",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0bba6a37-4087-49c9-bf9e-f68363d343b6",
+      "barcode": "093624913221",
+      "title": "One More Light",
+      "disambiguation": "16-Bit/44.1 kHz",
+      "date": "2017-05-19",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "35:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nobody Can Save Me",
+            "length": "3:45",
+            "deezer": {
+              "id": 362297831,
+              "link": "https://www.deezer.com/track/362297831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/b/0/6db56e3776c4f3afe10c45b49ad5052e.mp3?hdnea=exp=1795656548~acl=/api/1/1/6/d/b/0/6db56e3776c4f3afe10c45b49ad5052e.mp3*~data=user_id=0,application_id=42~hmac=9793513567a0632254bb9942a02035d1fb48bcc4a9ec25f07f7c7f5f07fa417b",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Good Goodbye",
+            "length": "3:31",
+            "artist": "Linkin Park feat. Pusha T and Stormzy",
+            "deezer": {
+              "id": 362297841,
+              "link": "https://www.deezer.com/track/362297841",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/a/0/1aa7d234cfb93dff4eec732aad082ed0.mp3?hdnea=exp=1795656548~acl=/api/1/1/1/a/a/0/1aa7d234cfb93dff4eec732aad082ed0.mp3*~data=user_id=0,application_id=42~hmac=d0f9b37318799f63d778200f409ce2b33d35e4755f46cd3dded4cf2c3508d02f",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Talking to Myself",
+            "length": "3:51",
+            "deezer": {
+              "id": 362297851,
+              "link": "https://www.deezer.com/track/362297851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/1/0/a6159a51e81c13922b05aec12385b997.mp3?hdnea=exp=1795656548~acl=/api/1/1/a/6/1/0/a6159a51e81c13922b05aec12385b997.mp3*~data=user_id=0,application_id=42~hmac=120665f481be6f2005295182003dbc6239b4c8a7e4f4e2a86f741b88cb72cfe5",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Battle Symphony",
+            "length": "3:36",
+            "deezer": {
+              "id": 362297861,
+              "link": "https://www.deezer.com/track/362297861",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/2/0/04298a2eaf700604b25963b42f9b86ab.mp3?hdnea=exp=1795656548~acl=/api/1/1/0/4/2/0/04298a2eaf700604b25963b42f9b86ab.mp3*~data=user_id=0,application_id=42~hmac=7e8bc8924b215397e7e4f40ea9207489ff2ecb305dec82037dc92fcbe47f7a40",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Invisible",
+            "length": "3:34",
+            "deezer": {
+              "id": 362297871,
+              "link": "https://www.deezer.com/track/362297871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f98174e94b4589c360ded4a3a6f736d6.mp3?hdnea=exp=1795656548~acl=/api/1/1/f/9/8/0/f98174e94b4589c360ded4a3a6f736d6.mp3*~data=user_id=0,application_id=42~hmac=cbb563151834f88605eb2662260d46aae4f92869b8f2a1bed0811e1c27f439b6",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Heavy",
+            "length": "2:49",
+            "artist": "Linkin Park feat. Kiiara",
+            "deezer": {
+              "id": 362297881,
+              "link": "https://www.deezer.com/track/362297881",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/c/0/00c5d970fb6fd77b6dd3f542388a00b1.mp3?hdnea=exp=1795656548~acl=/api/1/1/0/0/c/0/00c5d970fb6fd77b6dd3f542388a00b1.mp3*~data=user_id=0,application_id=42~hmac=2a84aaf635f5cd631f1f6bac99dd8dcd722af276e4c67d088e1ec98e65888145",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Sorry for Now",
+            "length": "3:23",
+            "deezer": {
+              "id": 362297891,
+              "link": "https://www.deezer.com/track/362297891",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/9/0/ca940a99fd16743aa697c6352ffadbe5.mp3?hdnea=exp=1795656548~acl=/api/1/1/c/a/9/0/ca940a99fd16743aa697c6352ffadbe5.mp3*~data=user_id=0,application_id=42~hmac=774e6f9f951224440586dcc3875906349f45f357f81ff0d0e4ad85b6a245b564",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Halfway Right",
+            "length": "3:37",
+            "deezer": {
+              "id": 362297901,
+              "link": "https://www.deezer.com/track/362297901",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f7cbff85f0110b8a292d4c0d9f2e61b.mp3?hdnea=exp=1795656548~acl=/api/1/1/8/f/7/0/8f7cbff85f0110b8a292d4c0d9f2e61b.mp3*~data=user_id=0,application_id=42~hmac=f6a3362286ddb81b414c7e18c6cbca6b4906d67d418d69f17d29bddfd090545e",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "One More Light",
+            "length": "4:15",
+            "deezer": {
+              "id": 362297911,
+              "link": "https://www.deezer.com/track/362297911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/7/0/8c77d978b3c6332ee2a8442535498356.mp3?hdnea=exp=1795656548~acl=/api/1/1/8/c/7/0/8c77d978b3c6332ee2a8442535498356.mp3*~data=user_id=0,application_id=42~hmac=c34def895e617659efa8af45a5f0f92fd35bcde64c4315e1f6b28a13af402517",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Sharp Edges",
+            "length": "2:58",
+            "deezer": {
+              "id": 362297921,
+              "link": "https://www.deezer.com/track/362297921",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/8/0/c189af9a8f70b4d9b0d0799b4599277b.mp3?hdnea=exp=1795656548~acl=/api/1/1/c/1/8/0/c189af9a8f70b4d9b0d0799b4599277b.mp3*~data=user_id=0,application_id=42~hmac=f53858188a4e099c82fe149a6bae74d88c1ca5f789ddced1b4fee6cd54c83d08",
+              "preview_expires": "2026-11-26T01:29:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Linkin Park/One More Light.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "We Are the People (southstar remix)",
+  "artist": "Empire of the Sun & southstar",
+  "year": 2009,
+  "release_date": "2009-06-02",
+  "type": "Single + Remix",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/45656678-22f2-4ed5-a2be-52eb65220e19",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/404207837"
+  },
+  "musicbrainz_id": "45656678-22f2-4ed5-a2be-52eb65220e19",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/24ea87a6-95a8-404a-9858-7119dbcc5a25",
+      "barcode": "196589885852",
+      "title": "We Are the People (southstar remix)",
+      "disambiguation": null,
+      "date": "2023-02-17",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "3:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "We Are the People (southstar remix)",
+            "length": "3:56",
+            "deezer": {
+              "id": 2137676987,
+              "link": "https://www.deezer.com/track/2137676987",
+              "preview": null,
+              "preview_expires": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Empire Of The Sun/We Are The People (southstar Remix).jpg"
+}

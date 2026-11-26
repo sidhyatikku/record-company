@@ -1,0 +1,51 @@
+{
+  "title": "Tibeyan Da Putt",
+  "artist": "Sidhu Moose Wala",
+  "year": 2020,
+  "release_date": "2020",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/699a806a-d406-43a0-a3ba-7c3bb0834f66",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/788440161"
+  },
+  "musicbrainz_id": "699a806a-d406-43a0-a3ba-7c3bb0834f66",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c62ba4c6-649d-4e13-b0d8-019508bb7862",
+      "barcode": null,
+      "title": "Tibeyan Da Putt",
+      "disambiguation": null,
+      "date": "2020",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": null,
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tibeyan Da Putt",
+            "length": null,
+            "deezer": {
+              "id": 3461073711,
+              "link": "https://www.deezer.com/track/3461073711",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/7/0/1d774215eef7270aaf77b15b00945067.mp3?hdnea=exp=1795720626~acl=/api/1/1/1/d/7/0/1d774215eef7270aaf77b15b00945067.mp3*~data=user_id=0,application_id=42~hmac=8cb8298d052f85868bccc61f576d2de84f4680766c30b19c1a288b1c42df52c2",
+              "preview_expires": "2026-11-26T19:17:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sidhu Moose Wala/Tibeyan da Putt.jpg"
+}

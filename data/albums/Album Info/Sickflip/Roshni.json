@@ -1,0 +1,51 @@
+{
+  "title": "Roshni",
+  "artist": "Sickflip, Ritviz & Seedhe Maut",
+  "year": 2021,
+  "release_date": "2021-10-06",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bc170bc3-9bee-457a-92fa-e6c2180e6eb1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/260483912"
+  },
+  "musicbrainz_id": "bc170bc3-9bee-457a-92fa-e6c2180e6eb1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/00e68ebb-b1c7-460d-b3e6-0bbceb626c2a",
+      "barcode": "8903245897638",
+      "title": "Roshni",
+      "disambiguation": null,
+      "date": "2021-10-06",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Roshni",
+            "length": "2:54",
+            "deezer": {
+              "id": 1500782982,
+              "link": "https://www.deezer.com/track/1500782982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/c/0/eac8e464577b84b70bff6ba7f38133bf.mp3?hdnea=exp=1795720560~acl=/api/1/1/e/a/c/0/eac8e464577b84b70bff6ba7f38133bf.mp3*~data=user_id=0,application_id=42~hmac=c32a6f190d60bd86f2b7299d0e280519b07bdb5a8a0b85215bd977b3765b3c4f",
+              "preview_expires": "2026-11-26T19:16:00Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sickflip/Roshni.jpg"
+}

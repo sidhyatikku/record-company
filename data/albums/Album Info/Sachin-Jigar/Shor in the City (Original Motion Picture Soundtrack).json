@@ -1,0 +1,96 @@
+{
+  "title": "Shor In the City",
+  "artist": "Sachin-Jigar",
+  "year": 2011,
+  "release_date": "2011-03-25",
+  "type": "Album + Soundtrack",
+  "description": null,
+  "genres": [
+    "filmi"
+  ],
+  "tags": [
+    "2010s",
+    "bollywood",
+    "filmi",
+    "hindi film music",
+    "soundtrack"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/462250b7-a279-4c1e-9922-b5635a13e34e",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "462250b7-a279-4c1e-9922-b5635a13e34e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0a54568b-fe9b-4333-b3ee-a652f8ba12c3",
+      "barcode": "884977990614",
+      "title": "Shor In the City",
+      "disambiguation": null,
+      "date": "2011-03-25",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "30:39",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Saibo",
+            "length": "3:15",
+            "artist": "Shreya Ghoshal, Tochi Raina"
+          },
+          {
+            "number": "2",
+            "title": "Karma Is a Bitch",
+            "length": "3:18",
+            "artist": "Suraj Jagan, Priya Panchal, Swati Mukund"
+          },
+          {
+            "number": "3",
+            "title": "Shor",
+            "length": "4:08",
+            "artist": "Mohan"
+          },
+          {
+            "number": "4",
+            "title": "Deem Deem Tana",
+            "length": "2:42",
+            "artist": "Shriram Iyer"
+          },
+          {
+            "number": "5",
+            "title": "Saibo Remix",
+            "length": "3:21",
+            "artist": "Shreya Ghoshal, Tochi Raina"
+          },
+          {
+            "number": "6",
+            "title": "Teri Justajoo (Saaware)",
+            "length": "4:35",
+            "artist": "Roop Kumar Rathod"
+          },
+          {
+            "number": "7",
+            "title": "Ujale Baaz",
+            "length": "4:03",
+            "artist": "Agnee"
+          },
+          {
+            "number": "8",
+            "title": "Babam bam",
+            "length": "5:17",
+            "artist": "Kailash Kher"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Sachin-Jigar/Shor in the City (Original Motion Picture Soundtrack).jpg"
+}

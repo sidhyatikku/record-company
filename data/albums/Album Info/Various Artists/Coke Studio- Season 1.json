@@ -1,0 +1,201 @@
+{
+  "title": "Coke Studio, Season 1",
+  "artist": "Various Artists",
+  "year": 2008,
+  "release_date": "2008",
+  "type": "Album + Compilation",
+  "description": "The first season of the Pakistani music television series Coke Studio Pakistan commenced airing on 6 February 2008 and ended on 18 April 2008.",
+  "genres": [],
+  "tags": [
+    "coke studio pakistan",
+    "pakistani"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/23257db3-3bee-4ee5-aff6-f494c48123d4",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coke_Studio_Pakistan_season_1",
+    "wikidata": "https://www.wikidata.org/wiki/Q16829850",
+    "deezer": "https://www.deezer.com/album/46443172"
+  },
+  "musicbrainz_id": "23257db3-3bee-4ee5-aff6-f494c48123d4",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/9aa5c141-c260-4719-82bf-52c6edb2636b",
+      "barcode": null,
+      "title": "Coke Studio: Season 1",
+      "disambiguation": null,
+      "date": "2008",
+      "country": "PK"
+    },
+    "total_tracks": 22,
+    "total_length": "2:12:54",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": "Episode 1",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dewaana (Live)",
+            "length": "6:12",
+            "artist": "Ali Azmat"
+          },
+          {
+            "number": "2",
+            "title": "Garaj Baras (Live)",
+            "length": "7:45",
+            "artist": "Ali Azmat & Rahat Fateh Ali Khan"
+          },
+          {
+            "number": "3",
+            "title": "Gallan (Live)",
+            "length": "4:26",
+            "artist": "Ali Azmat"
+          },
+          {
+            "number": "4",
+            "title": "Shaman Payian (Live)",
+            "length": "6:02",
+            "artist": "Rahat Fateh Ali Khan"
+          },
+          {
+            "number": "5",
+            "title": "Ballaman (Live)",
+            "length": "7:39",
+            "artist": "Ali Azmat & Rahat Fateh Ali Khan"
+          },
+          {
+            "number": "6",
+            "title": "Pahelian (Live)",
+            "length": "4:14",
+            "artist": "Mauj"
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": "Episode 2",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I'm in Love (Live)",
+            "length": "3:09",
+            "artist": "House Band"
+          },
+          {
+            "number": "2",
+            "title": "Sar Kiyae (Live)",
+            "length": "5:39",
+            "artist": "Strings"
+          },
+          {
+            "number": "3",
+            "title": "Anjane (Live)",
+            "length": "5:18",
+            "artist": "Strings"
+          },
+          {
+            "number": "4",
+            "title": "Durr (Live)",
+            "length": "8:29",
+            "artist": "Strings & Ustaad Hussain Bakhsh"
+          },
+          {
+            "number": "5",
+            "title": "Zinda (Live)",
+            "length": "6:54",
+            "artist": "Strings"
+          },
+          {
+            "number": "6",
+            "title": "Jam Session (Live)",
+            "length": "5:32",
+            "artist": "House Band"
+          }
+        ]
+      },
+      {
+        "disc": 3,
+        "format": "Digital Media",
+        "title": "Episode 3",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Janay Na Koi (Live)",
+            "length": "4:51",
+            "artist": "Ali Zafar"
+          },
+          {
+            "number": "2",
+            "title": "Chal Dil Meray (Live)",
+            "length": "5:52",
+            "artist": "Ali Zafar"
+          },
+          {
+            "number": "3",
+            "title": "Channo (Live)",
+            "length": "5:28",
+            "artist": "Ali Zafar"
+          },
+          {
+            "number": "4",
+            "title": "Rangeen (Live)",
+            "length": "6:04",
+            "artist": "Ali Zafar"
+          },
+          {
+            "number": "5",
+            "title": "My Happiness (Live)",
+            "length": "5:50",
+            "artist": "Sajjid & Zeeshan"
+          },
+          {
+            "number": "6",
+            "title": "Alif Allah (Live)",
+            "length": "7:43",
+            "artist": "Ali Zafar & Saeen Tufail"
+          }
+        ]
+      },
+      {
+        "disc": 4,
+        "format": "Digital Media",
+        "title": "Episode 4",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Jam Session 2 (Live)",
+            "length": "5:25",
+            "artist": "House Band"
+          },
+          {
+            "number": "2",
+            "title": "Dildara (Live)",
+            "length": "7:45",
+            "artist": "Rahat Fateh Ali Khan"
+          },
+          {
+            "number": "3",
+            "title": "Main Challa (Live)",
+            "length": "5:32",
+            "artist": "Ali Azmat"
+          },
+          {
+            "number": "4",
+            "title": "Dhaani (Live)",
+            "length": "7:05",
+            "artist": "Strings"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/Coke Studio- Season 1.jpg"
+}

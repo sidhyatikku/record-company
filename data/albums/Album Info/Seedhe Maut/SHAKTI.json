@@ -1,0 +1,84 @@
+{
+  "title": "Shakti",
+  "artist": "Seedhe Maut",
+  "year": 2024,
+  "release_date": "2024-08-15",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/642fa233-965b-4d70-8cf7-55862cc98ea6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/627589591"
+  },
+  "musicbrainz_id": "642fa233-965b-4d70-8cf7-55862cc98ea6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/044294c7-7e0d-4451-b5e6-cd796bc939f8",
+      "barcode": "3617662015531",
+      "title": "Shakti",
+      "disambiguation": null,
+      "date": "2024-08-15",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "14:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Soi Nahi",
+            "length": "4:11",
+            "deezer": {
+              "id": 2941952181,
+              "link": "https://www.deezer.com/track/2941952181",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/9/0/7490d37ec364c919309d960aedf5c6f9.mp3?hdnea=exp=1795720422~acl=/api/1/1/7/4/9/0/7490d37ec364c919309d960aedf5c6f9.mp3*~data=user_id=0,application_id=42~hmac=db6749e98d2279ae36a575f802e1b9491228e77adc23c0e5bd6837fee559345a",
+              "preview_expires": "2026-11-26T19:13:42Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Raat Ki Raani",
+            "length": "3:31",
+            "deezer": {
+              "id": 2941952191,
+              "link": "https://www.deezer.com/track/2941952191",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/c/0/b9c79fe68e8d1efae83ace7039fbaa01.mp3?hdnea=exp=1795720422~acl=/api/1/1/b/9/c/0/b9c79fe68e8d1efae83ace7039fbaa01.mp3*~data=user_id=0,application_id=42~hmac=9bd948b335edb874e47dbe5f886290a7fa99585952b034eff2817a459554b521",
+              "preview_expires": "2026-11-26T19:13:42Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Naksha",
+            "length": "3:26",
+            "deezer": {
+              "id": 2941952201,
+              "link": "https://www.deezer.com/track/2941952201",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/f/0/a5fd20d30c16104b21cb97e603d15d0b.mp3?hdnea=exp=1795720422~acl=/api/1/1/a/5/f/0/a5fd20d30c16104b21cb97e603d15d0b.mp3*~data=user_id=0,application_id=42~hmac=700c89ae4439eff392c34d7931cfc1d9fd1b9a197c9f9824b05a358a1d3f0e88",
+              "preview_expires": "2026-11-26T19:13:42Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Khush Nahi",
+            "length": "3:14",
+            "deezer": {
+              "id": 2941952211,
+              "link": "https://www.deezer.com/track/2941952211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/9/0/239981fbbf9837ede4541ea45d278c0d.mp3?hdnea=exp=1795720422~acl=/api/1/1/2/3/9/0/239981fbbf9837ede4541ea45d278c0d.mp3*~data=user_id=0,application_id=42~hmac=98f3eaf78c224ec50ae1cb6fe9be083234addfdccfbbb130038f70c159bdd8a3",
+              "preview_expires": "2026-11-26T19:13:42Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Seedhe Maut/SHAKTI.jpg"
+}

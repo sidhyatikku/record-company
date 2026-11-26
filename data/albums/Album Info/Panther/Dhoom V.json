@@ -1,0 +1,99 @@
+{
+  "title": "Dhoom V",
+  "artist": "Panther",
+  "year": 2025,
+  "release_date": "2025-05-08",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3ed75065-b211-402e-bb95-c5a1a206692c",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/752089361"
+  },
+  "musicbrainz_id": "3ed75065-b211-402e-bb95-c5a1a206692c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/45f8e4e5-52f8-43e8-8a47-d6f7bfec8bc7",
+      "barcode": "196873130699",
+      "title": "Dhoom V",
+      "disambiguation": null,
+      "date": "2025-05-08",
+      "country": "XW"
+    },
+    "total_tracks": 5,
+    "total_length": "15:50",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dharna",
+            "length": "3:49",
+            "artist": "Panther & Spectra Music",
+            "deezer": {
+              "id": 3352797011,
+              "link": "https://www.deezer.com/track/3352797011",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/3/0/b53b50d781c4a0f19453462ae33b3559.mp3?hdnea=exp=1795719325~acl=/api/1/1/b/5/3/0/b53b50d781c4a0f19453462ae33b3559.mp3*~data=user_id=0,application_id=42~hmac=9e521062db8a18c10b011227d94ad9d1936895ddb4e5d3d99c7034bc60938844",
+              "preview_expires": "2026-11-26T18:55:25Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Vyapaari",
+            "length": "1:48",
+            "artist": "Panther & Nikhil - Swapnil",
+            "deezer": {
+              "id": 3352797021,
+              "link": "https://www.deezer.com/track/3352797021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/1/0/3313cd5713b6d44a7b1a095444cbfb59.mp3?hdnea=exp=1795719325~acl=/api/1/1/3/3/1/0/3313cd5713b6d44a7b1a095444cbfb59.mp3*~data=user_id=0,application_id=42~hmac=4232f4e45c5c9e01d936313086fd4013b847c03a92245973852074fe4b429b9e",
+              "preview_expires": "2026-11-26T18:55:25Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Fikar",
+            "length": "3:47",
+            "artist": "Panther, Bella & J Trix",
+            "deezer": {
+              "id": 3352797031,
+              "link": "https://www.deezer.com/track/3352797031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/6/0/dc65fdf6eab12095ee24d4b250650f0d.mp3?hdnea=exp=1795719325~acl=/api/1/1/d/c/6/0/dc65fdf6eab12095ee24d4b250650f0d.mp3*~data=user_id=0,application_id=42~hmac=bc41a170d93992b59253909dee40263ffe91064efb934d2bce1c85867cdfb594",
+              "preview_expires": "2026-11-26T18:55:25Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Milkha Singh",
+            "length": "3:01",
+            "artist": "Panther, Fotty Seven & Retro Blxxd",
+            "deezer": {
+              "id": 3352797041,
+              "link": "https://www.deezer.com/track/3352797041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/c/0/f8ca9fe5c07574b80524586f110ed7bb.mp3?hdnea=exp=1795719325~acl=/api/1/1/f/8/c/0/f8ca9fe5c07574b80524586f110ed7bb.mp3*~data=user_id=0,application_id=42~hmac=d2883cda62ae7f80bcb04b4b03d6645d4f393df1945b454240bddfa420082f41",
+              "preview_expires": "2026-11-26T18:55:25Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Pahiye",
+            "length": "3:26",
+            "deezer": {
+              "id": 3352797051,
+              "link": "https://www.deezer.com/track/3352797051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/c/0/13ca753b661cd7494c59ec445f288b12.mp3?hdnea=exp=1795719325~acl=/api/1/1/1/3/c/0/13ca753b661cd7494c59ec445f288b12.mp3*~data=user_id=0,application_id=42~hmac=e9fc4600f512ce9ff2f74f8ef1914411325272524f055aaba81fb7500855c960",
+              "preview_expires": "2026-11-26T18:55:25Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Panther/Dhoom V.jpg"
+}

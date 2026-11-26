@@ -1,0 +1,95 @@
+{
+  "title": "Rumble In the Disco",
+  "artist": "Kaleena Zanders",
+  "year": 2023,
+  "release_date": "2023-12-08",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "bass house",
+    "dance",
+    "house"
+  ],
+  "tags": [
+    "bass house",
+    "dance",
+    "house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/0ad57029-a18a-45c7-8881-bcc4960ad951",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/521203052"
+  },
+  "musicbrainz_id": "0ad57029-a18a-45c7-8881-bcc4960ad951",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/07173fd1-6b89-4954-8baa-68955b235f05",
+      "barcode": "723277259048",
+      "title": "Rumble In the Disco",
+      "disambiguation": null,
+      "date": "2023-12-08",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "13:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hammer (Fire Again)",
+            "length": "4:04",
+            "artist": "Kaleena Zanders & Qlank",
+            "deezer": {
+              "id": 2576559672,
+              "link": "https://www.deezer.com/track/2576559672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/1/0/051ab14d21ef0c621bc2de8509df56b1.mp3?hdnea=exp=1795655832~acl=/api/1/1/0/5/1/0/051ab14d21ef0c621bc2de8509df56b1.mp3*~data=user_id=0,application_id=42~hmac=855396cc01b87c453d7d18f53b29bd1eb778e14ed6f3838633dee84613e96085",
+              "preview_expires": "2026-11-26T01:17:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rumble In the Disco",
+            "length": "3:39",
+            "artist": "Kaleena Zanders & Neon Steve",
+            "deezer": {
+              "id": 2576559682,
+              "link": "https://www.deezer.com/track/2576559682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/e/0/f1ea198cb5c1b6f7ce2028b1632e5d72.mp3?hdnea=exp=1795655832~acl=/api/1/1/f/1/e/0/f1ea198cb5c1b6f7ce2028b1632e5d72.mp3*~data=user_id=0,application_id=42~hmac=9d4ac6d4e39d9f09a43608f99a310749dc9a2608f04fbc77f559ea0aad23485b",
+              "preview_expires": "2026-11-26T01:17:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Nightmares",
+            "length": "2:42",
+            "deezer": {
+              "id": 2576559692,
+              "link": "https://www.deezer.com/track/2576559692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/f/0/28ffc39c2438a8eeec774a816c9ce299.mp3?hdnea=exp=1795655832~acl=/api/1/1/2/8/f/0/28ffc39c2438a8eeec774a816c9ce299.mp3*~data=user_id=0,application_id=42~hmac=9bfe3ebd4945d4667ecd230abbb8b41bdf916c9d94c6c6659fb376ecb8709df5",
+              "preview_expires": "2026-11-26T01:17:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "High Again",
+            "length": "3:06",
+            "artist": "Kaleena Zanders & AC Slater",
+            "deezer": {
+              "id": 2576559702,
+              "link": "https://www.deezer.com/track/2576559702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/d/0/c8d09d5e436a7d968ef6a9f3949244c6.mp3?hdnea=exp=1795655832~acl=/api/1/1/c/8/d/0/c8d09d5e436a7d968ef6a9f3949244c6.mp3*~data=user_id=0,application_id=42~hmac=688b0473a2da07e981caa92ed563c437bd94f0616dda148ce4a522c5955ce180",
+              "preview_expires": "2026-11-26T01:17:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kaleena Zanders/RUMBLE IN THE DISCO.jpg"
+}

@@ -1,0 +1,194 @@
+{
+  "title": "That's All",
+  "artist": "Bobby Darin",
+  "year": 1959,
+  "release_date": "1959-03",
+  "type": "Album",
+  "description": "That's All is the second album by American singer Bobby Darin, released in March 1959, and arranged by Richard Wess.",
+  "genres": [
+    "jazz",
+    "brill building",
+    "traditional pop",
+    "easy listening",
+    "pop",
+    "vocal jazz"
+  ],
+  "tags": [
+    "jazz",
+    "brill building",
+    "traditional pop",
+    "early pop",
+    "easy listening",
+    "pop",
+    "vocal jazz"
+  ],
+  "rating": {
+    "value_out_of_5": 2.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b647afe5-5bcd-3ba0-bcb0-793ebcb87dae",
+    "wikipedia": "https://en.wikipedia.org/wiki/That's_All_(Bobby_Darin_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000114946",
+    "discogs": "https://www.discogs.com/master/184302",
+    "wikidata": "https://www.wikidata.org/wiki/Q19897943",
+    "deezer": "https://www.deezer.com/album/341027"
+  },
+  "musicbrainz_id": "b647afe5-5bcd-3ba0-bcb0-793ebcb87dae",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/1c249c71-0e53-4421-9011-59014ec1ce8a",
+      "barcode": "081227951160",
+      "title": "That's All",
+      "disambiguation": null,
+      "date": "2014-11-23",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "34:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mack the Knife",
+            "length": "3:04",
+            "deezer": {
+              "id": 3616152,
+              "link": "https://www.deezer.com/track/3616152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/f/0/6ffd09c6793a10b2e8f826da77b196f4.mp3?hdnea=exp=1795652406~acl=/api/1/1/6/f/f/0/6ffd09c6793a10b2e8f826da77b196f4.mp3*~data=user_id=0,application_id=42~hmac=2ac5d6572616873471d72fb5612e0771e94e86b2e0ec391ef87fd4b1a68a4819",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Beyond the Sea",
+            "length": "2:52",
+            "deezer": {
+              "id": 3616153,
+              "link": "https://www.deezer.com/track/3616153",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/0/0/d1020ca17ae4d5aa9f8621024bc1a794.mp3?hdnea=exp=1795652406~acl=/api/1/1/d/1/0/0/d1020ca17ae4d5aa9f8621024bc1a794.mp3*~data=user_id=0,application_id=42~hmac=9ae7b6ed5b73ad154cf5e3c7b446aa5066c6cde376bf46c82a3edb04a1bbf9ed",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Through a Long and Sleepless Night",
+            "length": "2:36",
+            "deezer": {
+              "id": 3616154,
+              "link": "https://www.deezer.com/track/3616154",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/a/0/15a09d84ce8a75577052ec29bbaa601b.mp3?hdnea=exp=1795652406~acl=/api/1/1/1/5/a/0/15a09d84ce8a75577052ec29bbaa601b.mp3*~data=user_id=0,application_id=42~hmac=1dcfeeaa626c4553f7402eb39c840fa1bd085a432ecec8634a658ef34148dc86",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Softly as in a Morning Sunrise",
+            "length": "2:31",
+            "deezer": {
+              "id": 3616155,
+              "link": "https://www.deezer.com/track/3616155",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/8/0/a6869672720fdd0471d0fc7fe67bea0d.mp3?hdnea=exp=1795652406~acl=/api/1/1/a/6/8/0/a6869672720fdd0471d0fc7fe67bea0d.mp3*~data=user_id=0,application_id=42~hmac=8eb9d5b260ad6690dc05b63526055a00cd8faee053e057335a4a365e982d97e4",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "She Needs Me",
+            "length": "3:28",
+            "deezer": {
+              "id": 3616156,
+              "link": "https://www.deezer.com/track/3616156",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/b/0/28b4135f18f976a4b50e23109ca94e3f.mp3?hdnea=exp=1795652406~acl=/api/1/1/2/8/b/0/28b4135f18f976a4b50e23109ca94e3f.mp3*~data=user_id=0,application_id=42~hmac=06ccb33c1021b435199e6bec9079392bc9f40a1077f932bb31f3f8b3fa4e689f",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "It Ain’t Necessarily So",
+            "length": "3:22",
+            "deezer": {
+              "id": 3616157,
+              "link": "https://www.deezer.com/track/3616157",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/4/0/23448e13717cd3527bf05e6433cb18d2.mp3?hdnea=exp=1795652406~acl=/api/1/1/2/3/4/0/23448e13717cd3527bf05e6433cb18d2.mp3*~data=user_id=0,application_id=42~hmac=04ffc6af88f326410cca6027316c169ae922df42ea81b9dfd4e753fb18dcf532",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I’ll Remember April",
+            "length": "2:20",
+            "deezer": {
+              "id": 3616158,
+              "link": "https://www.deezer.com/track/3616158",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12e0fd5d35fdd37c48eb90d722835bc.mp3?hdnea=exp=1795652406~acl=/api/1/1/a/1/2/0/a12e0fd5d35fdd37c48eb90d722835bc.mp3*~data=user_id=0,application_id=42~hmac=2bbac218deb858c5931a473b40662497bb21b4a0b8c5edc7d1a9c0f7c1546002",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "That's the Way Love Is",
+            "length": "3:00",
+            "deezer": {
+              "id": 3616159,
+              "link": "https://www.deezer.com/track/3616159",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/b/0/7cb8bfb78ffe92ef4bf34657ac3bb729.mp3?hdnea=exp=1795652406~acl=/api/1/1/7/c/b/0/7cb8bfb78ffe92ef4bf34657ac3bb729.mp3*~data=user_id=0,application_id=42~hmac=da25a276002fde8e4c0d89d494c677772d85948a1d743e52cdb815f9d53ddcfa",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Was There a Call for Me",
+            "length": "3:06",
+            "deezer": {
+              "id": 3616160,
+              "link": "https://www.deezer.com/track/3616160",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/c/0/4dc6fc7b4d612ad2d548fb92fc83e658.mp3?hdnea=exp=1795652406~acl=/api/1/1/4/d/c/0/4dc6fc7b4d612ad2d548fb92fc83e658.mp3*~data=user_id=0,application_id=42~hmac=62969e120a96ea49ff17166673971a263c460a98eda44eeac5ef32de7997424e",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Some of These Days",
+            "length": "2:40",
+            "deezer": {
+              "id": 3616161,
+              "link": "https://www.deezer.com/track/3616161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/8/0/65880c7d7f7b2dc825e8c1cabb7b6c40.mp3?hdnea=exp=1795652406~acl=/api/1/1/6/5/8/0/65880c7d7f7b2dc825e8c1cabb7b6c40.mp3*~data=user_id=0,application_id=42~hmac=3934543ec6ac67b579b1b15ce14449b7cb514ef9636eecfd77a4b2f0f712d18c",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Where Is the One",
+            "length": "3:26",
+            "deezer": {
+              "id": 3616162,
+              "link": "https://www.deezer.com/track/3616162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/6/0/6561f4187cbf5bdd0cf81501610bcf3c.mp3?hdnea=exp=1795652406~acl=/api/1/1/6/5/6/0/6561f4187cbf5bdd0cf81501610bcf3c.mp3*~data=user_id=0,application_id=42~hmac=b8c9c907d277e21d23c94233698fffe7112d39f6d61eda36975ac775190dbbae",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "That’s All",
+            "length": "2:01",
+            "deezer": {
+              "id": 3616163,
+              "link": "https://www.deezer.com/track/3616163",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/4/0/fe448b959c33d71394d7b70d0c98cc08.mp3?hdnea=exp=1795652406~acl=/api/1/1/f/e/4/0/fe448b959c33d71394d7b70d0c98cc08.mp3*~data=user_id=0,application_id=42~hmac=9dfd858a8138dddcd1f47554491d4e59a87ce85573bc0d397958316653f5fe17",
+              "preview_expires": "2026-11-26T00:20:06Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Bobby Darin/That's All.jpg"
+}

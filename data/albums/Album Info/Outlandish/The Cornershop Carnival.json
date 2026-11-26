@@ -1,0 +1,142 @@
+{
+  "title": "The Cornershop Carnival",
+  "artist": "Outlandish",
+  "year": 2023,
+  "release_date": "2023-10-27",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4cd7a5ec-78ea-417a-8c1a-ea82c606e626",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/493608201"
+  },
+  "musicbrainz_id": "4cd7a5ec-78ea-417a-8c1a-ea82c606e626",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/408c46ca-7f52-4761-8d22-8fdf49480528",
+      "barcode": null,
+      "title": "The Cornershop Carnival",
+      "disambiguation": null,
+      "date": "2023-10-27",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "28:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Soy Yo",
+            "length": "3:31",
+            "deezer": {
+              "id": 2474867441,
+              "link": "https://www.deezer.com/track/2474867441",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/3/0/813fb23e65fd5cab4fc640317c8dcd26.mp3?hdnea=exp=1795719234~acl=/api/1/1/8/1/3/0/813fb23e65fd5cab4fc640317c8dcd26.mp3*~data=user_id=0,application_id=42~hmac=365dec58093b61765b2d902bf7ddf4a032a46742ddcbec736cb11212973d116e",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Paperchase",
+            "length": "3:02",
+            "deezer": {
+              "id": 2474867451,
+              "link": "https://www.deezer.com/track/2474867451",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/2/0/2f242e8fd1df3eb827439191659aa7f9.mp3?hdnea=exp=1795719234~acl=/api/1/1/2/f/2/0/2f242e8fd1df3eb827439191659aa7f9.mp3*~data=user_id=0,application_id=42~hmac=14d1a5c566a7fb667717cff81344084b22045d69e6b1adef30fcdb66d21bb488",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Alabas",
+            "length": "3:01",
+            "artist": "Outlandish feat. Dany Rai",
+            "deezer": {
+              "id": 2474867461,
+              "link": "https://www.deezer.com/track/2474867461",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/f/0/2ff2fab05129ad8305d47079e0d43090.mp3?hdnea=exp=1795719234~acl=/api/1/1/2/f/f/0/2ff2fab05129ad8305d47079e0d43090.mp3*~data=user_id=0,application_id=42~hmac=7743606d2c9c07dcd846293a703bedd16c58622d23f7e2a2420f9a2f0a2a4c5a",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Leyla",
+            "length": "2:53",
+            "deezer": {
+              "id": 2474867471,
+              "link": "https://www.deezer.com/track/2474867471",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/f/0/def7de7019e11245e089ed95f97f316d.mp3?hdnea=exp=1795719234~acl=/api/1/1/d/e/f/0/def7de7019e11245e089ed95f97f316d.mp3*~data=user_id=0,application_id=42~hmac=8de5a8e14e2b36610ff1feaf6284ce7f54b9fa89ee1824cee7336d92880cc631",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Keep It Together",
+            "length": "3:26",
+            "deezer": {
+              "id": 2474867481,
+              "link": "https://www.deezer.com/track/2474867481",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/8/0/d28d2f1066a7dc7a09a28144b83fb0a3.mp3?hdnea=exp=1795719234~acl=/api/1/1/d/2/8/0/d28d2f1066a7dc7a09a28144b83fb0a3.mp3*~data=user_id=0,application_id=42~hmac=59567f062e5005856c6c33d98ddc1cb55ecef71faf4fe02ac76133f831c1fd22",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Amor De Amores",
+            "length": "3:57",
+            "artist": "Outlandish feat. Majid",
+            "deezer": {
+              "id": 2474867491,
+              "link": "https://www.deezer.com/track/2474867491",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/2/0/63207bca0e01d87447dd02e27d7e46bd.mp3?hdnea=exp=1795719234~acl=/api/1/1/6/3/2/0/63207bca0e01d87447dd02e27d7e46bd.mp3*~data=user_id=0,application_id=42~hmac=8d35ff583e4c9f8299f57477963e7f37539c609eb313a84ed07a0e77b87e2e13",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Locura",
+            "length": "2:28",
+            "deezer": {
+              "id": 2474867501,
+              "link": "https://www.deezer.com/track/2474867501",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/e/0/beeb165bd042462ac3a96545e75527e5.mp3?hdnea=exp=1795719234~acl=/api/1/1/b/e/e/0/beeb165bd042462ac3a96545e75527e5.mp3*~data=user_id=0,application_id=42~hmac=bce8db3544e19c4d1bc70dbca75167a18ff95b6c17551e8a0ba84033f59ab204",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Les Enfant",
+            "length": "3:20",
+            "deezer": {
+              "id": 2474867511,
+              "link": "https://www.deezer.com/track/2474867511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/2/0/eb23845c91a625cadb65e82d1e4cea1a.mp3?hdnea=exp=1795719234~acl=/api/1/1/e/b/2/0/eb23845c91a625cadb65e82d1e4cea1a.mp3*~data=user_id=0,application_id=42~hmac=bfcba59d12a99c3b0490ed050aa069af1679ba0fcf8d2201d25ade7501b7ebe2",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Live Your Truth",
+            "length": "2:54",
+            "artist": "Outlandish feat. MC Livinit",
+            "deezer": {
+              "id": 2474867521,
+              "link": "https://www.deezer.com/track/2474867521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/0/0/bb084220390aa1656f6f9838b250cc8c.mp3?hdnea=exp=1795719234~acl=/api/1/1/b/b/0/0/bb084220390aa1656f6f9838b250cc8c.mp3*~data=user_id=0,application_id=42~hmac=35ecf8f6d684218a239190f47a9cda6a8adf93cca0d6875d5210f3733edc1ef6",
+              "preview_expires": "2026-11-26T18:53:54Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Outlandish/The Cornershop Carnival.jpg"
+}

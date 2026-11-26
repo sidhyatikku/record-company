@@ -1,0 +1,51 @@
+{
+  "title": "Escape",
+  "artist": "Nemzzz",
+  "year": 2024,
+  "release_date": "2024-07-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4818cec0-816c-4ac4-b998-12771973516f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/616233312"
+  },
+  "musicbrainz_id": "4818cec0-816c-4ac4-b998-12771973516f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/dd9282ae-2c88-4ed3-8110-69b0bc4c3e24",
+      "barcode": "085365065826",
+      "title": "Escape",
+      "disambiguation": null,
+      "date": "2024-07-18",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Escape",
+            "length": "2:08",
+            "deezer": {
+              "id": 2892621412,
+              "link": "https://www.deezer.com/track/2892621412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/d/0/0bdc2adef3a52b89f41562e3927d0ee8.mp3?hdnea=exp=1795718827~acl=/api/1/1/0/b/d/0/0bdc2adef3a52b89f41562e3927d0ee8.mp3*~data=user_id=0,application_id=42~hmac=c1fadb6070681d3798e1ea8217de3b9902e1859e05b5f07d61be5a6c9bc85b37",
+              "preview_expires": "2026-11-26T18:47:07Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Nemzzz/Escape.jpg"
+}

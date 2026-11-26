@@ -1,0 +1,84 @@
+{
+  "title": "Stunt Doubles (Pt. 2)",
+  "artist": "Anish Kumar, Baalti & Stunt Doubles",
+  "year": 2025,
+  "release_date": "2025-08-29",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/6d63eb9b-8197-4675-a4d6-3e59bc2b8220",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1103776692"
+  },
+  "musicbrainz_id": "6d63eb9b-8197-4675-a4d6-3e59bc2b8220",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/09ee8802-8428-4550-997d-18ef101b0ad9",
+      "barcode": "764656480929",
+      "title": "Stunt Doubles (Pt. 2)",
+      "disambiguation": null,
+      "date": "2025-08-29",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "17:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "The Fastest Boxer in the East",
+            "length": "5:22",
+            "deezer": {
+              "id": 4304440202,
+              "link": "https://www.deezer.com/track/4304440202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/3/0/4a3873c1e314a0f8d84b2f0b8ae4a9a1.mp3?hdnea=exp=1795649255~acl=/api/1/1/4/a/3/0/4a3873c1e314a0f8d84b2f0b8ae4a9a1.mp3*~data=user_id=0,application_id=42~hmac=493ec1bfa3ec148f6d12c62a65cb6aae1598cb3befebdfd10e30f790434f849a",
+              "preview_expires": "2026-11-25T23:27:35Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Speak Softly",
+            "length": "3:43",
+            "deezer": {
+              "id": 4304440212,
+              "link": "https://www.deezer.com/track/4304440212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/a/0/66a3d4aab22c21dcc8ab1e83e2c3bab1.mp3?hdnea=exp=1795649255~acl=/api/1/1/6/6/a/0/66a3d4aab22c21dcc8ab1e83e2c3bab1.mp3*~data=user_id=0,application_id=42~hmac=c190f506a71ab534d9b8507caa43554e2b6c48ba24600e641ee903b2fe50eeaa",
+              "preview_expires": "2026-11-25T23:27:35Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Title Theme",
+            "length": "4:47",
+            "deezer": {
+              "id": 4304440172,
+              "link": "https://www.deezer.com/track/4304440172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/4/0/a34531355851c0a4bea1c7cf15b55531.mp3?hdnea=exp=1795649255~acl=/api/1/1/a/3/4/0/a34531355851c0a4bea1c7cf15b55531.mp3*~data=user_id=0,application_id=42~hmac=7e61c9b4e8aa933957b39558792e5b83eef0993e376464468469d7e9526c65c3",
+              "preview_expires": "2026-11-25T23:27:35Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Chalo Chalo",
+            "length": "4:01",
+            "deezer": {
+              "id": 4304440192,
+              "link": "https://www.deezer.com/track/4304440192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/d/0/aed02ee5d1acb82b0f67031c1792f9d3.mp3?hdnea=exp=1795649255~acl=/api/1/1/a/e/d/0/aed02ee5d1acb82b0f67031c1792f9d3.mp3*~data=user_id=0,application_id=42~hmac=0b7328b48ef8facf222bf2f0e3e3785764d635bd2915674aa937f839661468b1",
+              "preview_expires": "2026-11-25T23:27:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/Stunt Doubles (Pt. 1).jpg"
+}

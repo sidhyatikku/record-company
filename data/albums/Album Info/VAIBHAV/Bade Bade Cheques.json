@@ -1,0 +1,50 @@
+{
+  "title": "Bade Bade Cheques",
+  "artist": "VAIBHAV",
+  "year": 2025,
+  "release_date": "2025-08-17",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "desi hip hop",
+    "hindi hip hop"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/1En4OI8FLHTeH3kPUFFDpv",
+    "deezer": "https://www.deezer.com/album/802801641"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/1En4OI8FLHTeH3kPUFFDpv",
+      "title": "Bade Bade Cheques",
+      "date": "2025-08-17"
+    },
+    "total_tracks": 1,
+    "total_length": "2:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bade Bade Cheques",
+            "length": "2:19",
+            "deezer": {
+              "id": 3502100211,
+              "link": "https://www.deezer.com/track/3502100211",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/1/0/f918b22fb92eb88adfcbb63b41ec469e.mp3?hdnea=exp=1795722150~acl=/api/1/1/f/9/1/0/f918b22fb92eb88adfcbb63b41ec469e.mp3*~data=user_id=0,application_id=42~hmac=107dc03937cc4f3d16c51d9c501f870dce75f75d0554e8c3f1e2eacb029e375e",
+              "preview_expires": "2026-11-26T19:42:30Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/VAIBHAV/Bade Bade Cheques.jpg"
+}

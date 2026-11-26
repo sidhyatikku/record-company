@@ -1,0 +1,166 @@
+{
+  "title": "Dave Brubeck’s Greatest Hits",
+  "artist": "Dave Brubeck",
+  "year": 1966,
+  "release_date": "1966",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "tags": [
+    "jazz"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/12acbae9-0d31-3243-9a33-095c86fe45e3",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/110088",
+    "deezer": "https://www.deezer.com/album/112876"
+  },
+  "musicbrainz_id": "12acbae9-0d31-3243-9a33-095c86fe45e3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/13a4d2ee-6464-4421-921c-4a0b7d8cd02e",
+      "barcode": "074646541722",
+      "title": "Dave Brubeck’s Greatest Hits",
+      "disambiguation": null,
+      "date": "1991-09-15",
+      "country": null
+    },
+    "total_tracks": 11,
+    "total_length": "44:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Take Five",
+            "length": "5:27",
+            "deezer": {
+              "id": 1031007,
+              "link": "https://www.deezer.com/track/1031007",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/a/0/0aa314f8a172d447114219dbe5385f53.mp3?hdnea=exp=1795653142~acl=/api/1/1/0/a/a/0/0aa314f8a172d447114219dbe5385f53.mp3*~data=user_id=0,application_id=42~hmac=e089f6dc1653d8c33f0fe53fbd828d5a41687b3c95b0eb639ad24cad63d69ca7",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I'm in a Dancing Mood",
+            "length": "3:02",
+            "deezer": {
+              "id": 1031102,
+              "link": "https://www.deezer.com/track/1031102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/f/0/59fa158503a3f1fd7cbcad5768586485.mp3?hdnea=exp=1795653142~acl=/api/1/1/5/9/f/0/59fa158503a3f1fd7cbcad5768586485.mp3*~data=user_id=0,application_id=42~hmac=f9f4ce154b590a4420b09ce3485eb8eb7dd03dd89cd13045fcad9513e3c61920",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "In Your Own Sweet Way",
+            "length": "5:01",
+            "deezer": {
+              "id": 1028030,
+              "link": "https://www.deezer.com/track/1028030",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a94802ffcd8ee7f7e9c6b0bfccb56a1.mp3?hdnea=exp=1795653142~acl=/api/1/1/4/a/9/0/4a94802ffcd8ee7f7e9c6b0bfccb56a1.mp3*~data=user_id=0,application_id=42~hmac=b1a8704fe25d29145c3d38eb79fc00944d98568dab4367d22a4f9c9be624e4cd",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Camptown Races",
+            "length": "2:00",
+            "deezer": {
+              "id": 1029571,
+              "link": "https://www.deezer.com/track/1029571",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/b/0/8bb75effcb7d4a05ab2ec83ca6032b8a.mp3?hdnea=exp=1795653142~acl=/api/1/1/8/b/b/0/8bb75effcb7d4a05ab2ec83ca6032b8a.mp3*~data=user_id=0,application_id=42~hmac=dd4344ca1ed2e1c42dce461fbe194b298091e50bb297996365c404358424ec04",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Duke",
+            "length": "6:24",
+            "deezer": {
+              "id": 1026521,
+              "link": "https://www.deezer.com/track/1026521",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/7/0/397166d06b690b46956ed4ae1b2ea56e.mp3?hdnea=exp=1795653142~acl=/api/1/1/3/9/7/0/397166d06b690b46956ed4ae1b2ea56e.mp3*~data=user_id=0,application_id=42~hmac=fa19dd8a69a5b263e62a033ea2e67dfedaef94de500df5482283b9207288c223",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "It's a Raggy Waltz",
+            "length": "5:15",
+            "deezer": {
+              "id": 1028414,
+              "link": "https://www.deezer.com/track/1028414",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/4/0/484b7decdfa9fc51aadc2b2a70ce4474.mp3?hdnea=exp=1795653142~acl=/api/1/1/4/8/4/0/484b7decdfa9fc51aadc2b2a70ce4474.mp3*~data=user_id=0,application_id=42~hmac=3dd804602f2f1439ef8adf4e95bbcf98bb24fe9050c7229483abf09f962f3a1c",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bossa Nova U.S.A.",
+            "length": "2:31",
+            "deezer": {
+              "id": 1026980,
+              "link": "https://www.deezer.com/track/1026980",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/f/0/d8fa2d6fff1c096d932d45a14d54b195.mp3?hdnea=exp=1795653142~acl=/api/1/1/d/8/f/0/d8fa2d6fff1c096d932d45a14d54b195.mp3*~data=user_id=0,application_id=42~hmac=540dcb88fe96e98d69ac0e25e4662b1e08b692045bfb3e8856170e7ae02d7418",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Trolley Song",
+            "length": "3:05",
+            "deezer": {
+              "id": 1030696,
+              "link": "https://www.deezer.com/track/1030696",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/c/0/bcc106d4770dfb3709d0c9b9b6b04dcd.mp3?hdnea=exp=1795653142~acl=/api/1/1/b/c/c/0/bcc106d4770dfb3709d0c9b9b6b04dcd.mp3*~data=user_id=0,application_id=42~hmac=c7cbb994c63dba1998547377f9742883fd68d3c488ebef4c8a6df33f066759dd",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Unsquare Dance",
+            "length": "2:03",
+            "deezer": {
+              "id": 1028027,
+              "link": "https://www.deezer.com/track/1028027",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/e/0/3def76f007a2cfb94229c7a35b23ceaf.mp3?hdnea=exp=1795653142~acl=/api/1/1/3/d/e/0/3def76f007a2cfb94229c7a35b23ceaf.mp3*~data=user_id=0,application_id=42~hmac=a9cd451199a9caa9a72474ca1f2fd2c06616f63e1373113f8dbb96b61827a7fd",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Blue Rondo a la Turk",
+            "length": "6:46",
+            "deezer": {
+              "id": 1034849,
+              "link": "https://www.deezer.com/track/1034849",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9f23169e2f2b8e69cc2a802f33ac1f0.mp3?hdnea=exp=1795653142~acl=/api/1/1/f/9/f/0/f9f23169e2f2b8e69cc2a802f33ac1f0.mp3*~data=user_id=0,application_id=42~hmac=9ea38feddae3af5db82c08ed52cbba925335ff6e7082f7a1233d51166770601e",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Theme From Mr. Broadway",
+            "length": "2:27",
+            "deezer": {
+              "id": 1030886,
+              "link": "https://www.deezer.com/track/1030886",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/8/0/cd8f1330fe1efd5bb4309c890dc3ba5c.mp3?hdnea=exp=1795653142~acl=/api/1/1/c/d/8/0/cd8f1330fe1efd5bb4309c890dc3ba5c.mp3*~data=user_id=0,application_id=42~hmac=c8843674e296ec5e188b9e0b4bf466680986d4abaf2263f57f1b17f0f1c9cdfb",
+              "preview_expires": "2026-11-26T00:32:22Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dave Brubeck/Dave Brubeck's Greatest Hits.jpg"
+}

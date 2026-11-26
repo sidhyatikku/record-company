@@ -1,0 +1,49 @@
+{
+  "title": "We're Getting Older",
+  "artist": "Lucas Dekker",
+  "year": 2024,
+  "release_date": "2024-10-01",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/29OlpyzMU4gGG0pmQr6Lok",
+    "deezer": "https://www.deezer.com/album/1015652191"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/29OlpyzMU4gGG0pmQr6Lok",
+      "title": "We're Getting Older",
+      "date": "2024-10-01"
+    },
+    "total_tracks": 1,
+    "total_length": "2:41",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "We're Getting Older",
+            "length": "2:41",
+            "deezer": {
+              "id": 4117917001,
+              "link": "https://www.deezer.com/track/4117917001",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/2/0/b6213613b0f86c20bddcd14c364ed3bd.mp3?hdnea=exp=1795656712~acl=/api/1/1/b/6/2/0/b6213613b0f86c20bddcd14c364ed3bd.mp3*~data=user_id=0,application_id=42~hmac=07bcc3f4b81bb0317c77d5c25ca695ffd551bf07cf08d88176a12f837c6540b9",
+              "preview_expires": "2026-11-26T01:31:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Lucas Dekker/We're Getting Older.jpg"
+}

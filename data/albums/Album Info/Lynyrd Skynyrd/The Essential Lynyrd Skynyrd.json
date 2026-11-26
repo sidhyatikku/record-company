@@ -1,0 +1,339 @@
+{
+  "title": "The Essential Lynyrd Skynyrd",
+  "artist": "Lynyrd Skynyrd",
+  "year": 1998,
+  "release_date": "1998-08-25",
+  "type": "Album + Compilation",
+  "description": "The Essential Lynyrd Skynyrd, is a two-disc compilation of Lynyrd Skynyrd in the peak years of its classic lineup (1971–1977). The double album was remastered and re-released in 2006 as part of Universal's Gold series.",
+  "genres": [
+    "rock",
+    "southern rock",
+    "blues rock",
+    "arena rock",
+    "country",
+    "pop"
+  ],
+  "tags": [
+    "rock",
+    "southern rock",
+    "blues rock",
+    "arena rock",
+    "country",
+    "pop"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/16426b66-335c-3caf-b75b-1e9b0c832742",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Essential_Lynyrd_Skynyrd",
+    "allmusic": "https://www.allmusic.com/album/mw0000600599",
+    "discogs": "https://www.discogs.com/master/295202",
+    "wikidata": "https://www.wikidata.org/wiki/Q7732492",
+    "deezer": "https://www.deezer.com/album/70295482"
+  },
+  "musicbrainz_id": "16426b66-335c-3caf-b75b-1e9b0c832742",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/5d998987-ab6d-4ffc-a5db-255436bb415a",
+      "barcode": "008811180720",
+      "title": "The Essential Lynyrd Skynyrd",
+      "disambiguation": null,
+      "date": "1998-08-25",
+      "country": "US"
+    },
+    "total_tracks": 25,
+    "total_length": "2:11:00",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sweet Home Alabama",
+            "length": "4:45",
+            "deezer": {
+              "id": 539190122,
+              "link": "https://www.deezer.com/track/539190122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/8/0/cd8360565b76a01ba5aa25d5c2b534c4.mp3?hdnea=exp=1795718131~acl=/api/1/1/c/d/8/0/cd8360565b76a01ba5aa25d5c2b534c4.mp3*~data=user_id=0,application_id=42~hmac=aee907062d504684bc9de5c46279cc1d3503e7ce41c8721dd746b7a045f8f3d2",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I Ain't the One",
+            "length": "3:55",
+            "deezer": {
+              "id": 539190132,
+              "link": "https://www.deezer.com/track/539190132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/4/0/e842c3392c7f68f937af5c5df76758ba.mp3?hdnea=exp=1795718131~acl=/api/1/1/e/8/4/0/e842c3392c7f68f937af5c5df76758ba.mp3*~data=user_id=0,application_id=42~hmac=62a8306aad1ee342d4d7ba8421bcbbd5bfd9123d18c81977ce73af567005cffa",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Was I Right or Wrong",
+            "length": "5:25",
+            "deezer": {
+              "id": 539190142,
+              "link": "https://www.deezer.com/track/539190142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/a/0/e7a2d65a4cb2a48d38317c8dc1707ece.mp3?hdnea=exp=1795718131~acl=/api/1/1/e/7/a/0/e7a2d65a4cb2a48d38317c8dc1707ece.mp3*~data=user_id=0,application_id=42~hmac=0e1242350ea31d6352b3e8b7345939c13593c7c7e07522308279c2fb14fadf27",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Gimme Three Steps",
+            "length": "4:32",
+            "deezer": {
+              "id": 539190152,
+              "link": "https://www.deezer.com/track/539190152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/b/0/36bc4fc49ca67aff7f8a0507be3cd191.mp3?hdnea=exp=1795718131~acl=/api/1/1/3/6/b/0/36bc4fc49ca67aff7f8a0507be3cd191.mp3*~data=user_id=0,application_id=42~hmac=bdd28f60692540e0188084dfa0eb07cd6ce6f4ce2117f0e01eb21cf05db3c617",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Workin' for MCA",
+            "length": "4:49",
+            "deezer": {
+              "id": 539190162,
+              "link": "https://www.deezer.com/track/539190162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/3/0/c83242a1803b2a1a85ad51b0fb8200d9.mp3?hdnea=exp=1795718131~acl=/api/1/1/c/8/3/0/c83242a1803b2a1a85ad51b0fb8200d9.mp3*~data=user_id=0,application_id=42~hmac=d99a408b6820ce8c5460ab30c66234305c28f479ab8d918c234a91c066cd4aad",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Simple Man",
+            "length": "5:59",
+            "deezer": {
+              "id": 539190172,
+              "link": "https://www.deezer.com/track/539190172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/5/0/395ce862764a90624fb4415cb74cdb28.mp3?hdnea=exp=1795718131~acl=/api/1/1/3/9/5/0/395ce862764a90624fb4415cb74cdb28.mp3*~data=user_id=0,application_id=42~hmac=ceba0196f22e66bedab77702ea8f3aa265315495faef9e78fee7bf5532f8d182",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Swamp Music",
+            "length": "3:33",
+            "deezer": {
+              "id": 539190182,
+              "link": "https://www.deezer.com/track/539190182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/e/0/d2e241c6c9250a65d0df33471ef0851a.mp3?hdnea=exp=1795718131~acl=/api/1/1/d/2/e/0/d2e241c6c9250a65d0df33471ef0851a.mp3*~data=user_id=0,application_id=42~hmac=10d00c5b14636f75a3351cf3678eafb4b18dfbff8e117b60d4f0daf1c420e220",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The Ballad of Curtis Loew",
+            "length": "4:53",
+            "deezer": {
+              "id": 539190192,
+              "link": "https://www.deezer.com/track/539190192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/a/0/c0ac4dec07b162423c2fb7bcaae58b48.mp3?hdnea=exp=1795718131~acl=/api/1/1/c/0/a/0/c0ac4dec07b162423c2fb7bcaae58b48.mp3*~data=user_id=0,application_id=42~hmac=3de350932a5a57aba60cd47dc664b6b884606f6bb502f00de73c2865315ffbc1",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Saturday Night Special",
+            "length": "5:12",
+            "deezer": {
+              "id": 539190202,
+              "link": "https://www.deezer.com/track/539190202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/d/0/aedb71ed555eca4268732a72665f3195.mp3?hdnea=exp=1795718131~acl=/api/1/1/a/e/d/0/aedb71ed555eca4268732a72665f3195.mp3*~data=user_id=0,application_id=42~hmac=e885046990bba8f42f8efecb831d5543eb383739a654ee1605fac31c58150a82",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Mr. Banker",
+            "length": "5:22",
+            "deezer": {
+              "id": 539190212,
+              "link": "https://www.deezer.com/track/539190212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/8/0/098bbd163a700843f7105e47e847e332.mp3?hdnea=exp=1795718131~acl=/api/1/1/0/9/8/0/098bbd163a700843f7105e47e847e332.mp3*~data=user_id=0,application_id=42~hmac=cd3e54f2e86e6a04a48867c0330a0983911b7be8c2ad0f31ede32bef1358942e",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Comin' Home",
+            "length": "5:30",
+            "deezer": {
+              "id": 539190222,
+              "link": "https://www.deezer.com/track/539190222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/d/0/f5d541d2e7bd90076a69f275179ef454.mp3?hdnea=exp=1795718131~acl=/api/1/1/f/5/d/0/f5d541d2e7bd90076a69f275179ef454.mp3*~data=user_id=0,application_id=42~hmac=a66b955f84ed0413688bbae2bc3c547fbc638e795f31ed475539e593508dd0e2",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Call Me the Breeze",
+            "length": "5:10",
+            "deezer": {
+              "id": 539190232,
+              "link": "https://www.deezer.com/track/539190232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/b/0/acbae8613617c4537b7e5a62d11716cd.mp3?hdnea=exp=1795718131~acl=/api/1/1/a/c/b/0/acbae8613617c4537b7e5a62d11716cd.mp3*~data=user_id=0,application_id=42~hmac=63f3f54da97db4edab01e7a02bcc1e3e2b49a0abb0f8e3d3ec6de52547079f36",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Free Bird",
+            "length": "9:10",
+            "deezer": {
+              "id": 539190242,
+              "link": "https://www.deezer.com/track/539190242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/2/0/c621a7464fe9b7eb47388d65b246a82c.mp3?hdnea=exp=1795718131~acl=/api/1/1/c/6/2/0/c621a7464fe9b7eb47388d65b246a82c.mp3*~data=user_id=0,application_id=42~hmac=f8782419011400186d866b7e1367393843732f305e5bc9d4132080f74efa778d",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "What's Your Name",
+            "length": "3:33",
+            "deezer": {
+              "id": 539190252,
+              "link": "https://www.deezer.com/track/539190252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/c/0/36c3f1305d35cd675710008fa98b98ad.mp3?hdnea=exp=1795718131~acl=/api/1/1/3/6/c/0/36c3f1305d35cd675710008fa98b98ad.mp3*~data=user_id=0,application_id=42~hmac=bfd439737c6cdfe5046e2a03366646041f66197ff724bcae33c843c6504e5a5a",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Whiskey Rock-A-Roller (live)",
+            "length": "4:17",
+            "deezer": {
+              "id": 539190262,
+              "link": "https://www.deezer.com/track/539190262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/e/0/7de5d19bbbba1570428419f5a4f54a6a.mp3?hdnea=exp=1795718131~acl=/api/1/1/7/d/e/0/7de5d19bbbba1570428419f5a4f54a6a.mp3*~data=user_id=0,application_id=42~hmac=d05be9b89a7b7c44114fbb199127444ef2c750a40b2131b53a91fc0f66b8ba88",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Tuesday's Gone",
+            "length": "7:34",
+            "deezer": {
+              "id": 539190272,
+              "link": "https://www.deezer.com/track/539190272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/0/0/a80d757f563c559da6662f934185d9df.mp3?hdnea=exp=1795718131~acl=/api/1/1/a/8/0/0/a80d757f563c559da6662f934185d9df.mp3*~data=user_id=0,application_id=42~hmac=c787a30eaf076677703c5d6342d591923c35a88bac9545d3cd233a858ddbc93c",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Double Trouble",
+            "length": "2:51",
+            "deezer": {
+              "id": 539190282,
+              "link": "https://www.deezer.com/track/539190282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/6/0/da6f6e485d0c120c461d3d080eda45ff.mp3?hdnea=exp=1795718131~acl=/api/1/1/d/a/6/0/da6f6e485d0c120c461d3d080eda45ff.mp3*~data=user_id=0,application_id=42~hmac=f0154d43152a5ea9f1fcf11e7142224d9675c1ed4f6c079fe012145589b79345",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "I Know a Little",
+            "length": "3:29",
+            "deezer": {
+              "id": 539190292,
+              "link": "https://www.deezer.com/track/539190292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/e/0/cae81fc2ccaae3734a97d363f9da1874.mp3?hdnea=exp=1795718131~acl=/api/1/1/c/a/e/0/cae81fc2ccaae3734a97d363f9da1874.mp3*~data=user_id=0,application_id=42~hmac=dba55c623e873439e495e7eb5ae74e03f0c48ceb67a0b9a803a4eb35a71899ab",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Four Walls of Raiford",
+            "length": "4:14",
+            "deezer": {
+              "id": 539190302,
+              "link": "https://www.deezer.com/track/539190302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/4/0/764758ea5d74e98d9ce25890c861daa3.mp3?hdnea=exp=1795718131~acl=/api/1/1/7/6/4/0/764758ea5d74e98d9ce25890c861daa3.mp3*~data=user_id=0,application_id=42~hmac=fd111e73c592b23bbd67ac57af3b16329ac729f15de6fc5ee878e23dd19e0fde",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "I Never Dreamed",
+            "length": "5:22",
+            "deezer": {
+              "id": 539190312,
+              "link": "https://www.deezer.com/track/539190312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/2/0/6b277cf1eee76ebe6440c4ab523072c8.mp3?hdnea=exp=1795718131~acl=/api/1/1/6/b/2/0/6b277cf1eee76ebe6440c4ab523072c8.mp3*~data=user_id=0,application_id=42~hmac=6b98f6e7de18c8d05dfe66790cfc527910fae3e83a725cf01ddb92044da2f245",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Gimme Back My Bullets (live)",
+            "length": "3:43",
+            "deezer": {
+              "id": 539190322,
+              "link": "https://www.deezer.com/track/539190322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/e/0/f5e3251321ab8838868c9ec01f48ba2a.mp3?hdnea=exp=1795718131~acl=/api/1/1/f/5/e/0/f5e3251321ab8838868c9ec01f48ba2a.mp3*~data=user_id=0,application_id=42~hmac=078ed3fbe6accf99e574bc480c14b4eb02d15683311e479318dcd44c24a8cd02",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "You Got That Right",
+            "length": "3:48",
+            "deezer": {
+              "id": 539190332,
+              "link": "https://www.deezer.com/track/539190332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/9/0/db957d1e6a6ba0bb90ab2491a9b3916d.mp3?hdnea=exp=1795718131~acl=/api/1/1/d/b/9/0/db957d1e6a6ba0bb90ab2491a9b3916d.mp3*~data=user_id=0,application_id=42~hmac=abfd215a0e6e4eedf617e799daf9d26852683b3c2eabdd254bd219bd54b15730",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "All I Can Do Is Write About It (acoustic version)",
+            "length": "4:24",
+            "deezer": {
+              "id": 539190342,
+              "link": "https://www.deezer.com/track/539190342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/2/0/c929059ffde9ac5aad38feaff173617a.mp3?hdnea=exp=1795718131~acl=/api/1/1/c/9/2/0/c929059ffde9ac5aad38feaff173617a.mp3*~data=user_id=0,application_id=42~hmac=59d6ad07de532d9302a2133e1953a95eb093ef6e0ebd0b0e4d735e6cc1190152",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "That Smell",
+            "length": "5:51",
+            "deezer": {
+              "id": 539190352,
+              "link": "https://www.deezer.com/track/539190352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/5/0/03524089841a9e02fab320431bf6384c.mp3?hdnea=exp=1795718131~acl=/api/1/1/0/3/5/0/03524089841a9e02fab320431bf6384c.mp3*~data=user_id=0,application_id=42~hmac=11ea0e7b9f4c39c1d036503efc691353bb9112ef54f314136dde33826834132e",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Free Bird (live)",
+            "length": "13:41",
+            "deezer": {
+              "id": 539190362,
+              "link": "https://www.deezer.com/track/539190362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/9/0/1199ace7fdbf58d055a2696dd39da62e.mp3?hdnea=exp=1795718131~acl=/api/1/1/1/1/9/0/1199ace7fdbf58d055a2696dd39da62e.mp3*~data=user_id=0,application_id=42~hmac=8eff6eadc34702f09cc33f429420712a876ad9c700a394ef7e659ccba6a16be7",
+              "preview_expires": "2026-11-26T18:35:31Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Lynyrd Skynyrd/The Essential Lynyrd Skynyrd.jpg"
+}

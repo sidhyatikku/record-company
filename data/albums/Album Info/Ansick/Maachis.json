@@ -1,0 +1,49 @@
+{
+  "title": "Maachis",
+  "artist": "Ansick",
+  "year": 2023,
+  "release_date": "2023-09-07",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "afro house"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5K0h8r21qbKZr9GA3INkPm",
+    "deezer": "https://www.deezer.com/album/485978965"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5K0h8r21qbKZr9GA3INkPm",
+      "title": "Maachis",
+      "date": "2023-09-07"
+    },
+    "total_tracks": 1,
+    "total_length": "3:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Maachis",
+            "length": "3:26",
+            "deezer": {
+              "id": 2446885855,
+              "link": "https://www.deezer.com/track/2446885855",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/1/0/a617e0f87ad2cc6f20b1fa751426cddb.mp3?hdnea=exp=1795649276~acl=/api/1/1/a/6/1/0/a617e0f87ad2cc6f20b1fa751426cddb.mp3*~data=user_id=0,application_id=42~hmac=8b6080072dc0f16b6f1fc93b99931888ad4afeba91fa0ba4bd4814e411683e41",
+              "preview_expires": "2026-11-25T23:27:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Ansick/Maachis.jpg"
+}

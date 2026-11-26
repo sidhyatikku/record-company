@@ -1,0 +1,62 @@
+{
+  "title": "Rasiya",
+  "artist": "Anyasa & Isheeta Chakrvarty",
+  "year": 2021,
+  "release_date": "2021-07-28",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/841b74b8-1340-41c5-bcfb-0d2ad727bd89",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/245984772"
+  },
+  "musicbrainz_id": "841b74b8-1340-41c5-bcfb-0d2ad727bd89",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/149c7427-53f2-4f8e-9f0f-ca2280dd32df",
+      "barcode": "5039060670491",
+      "title": "Rasiya",
+      "disambiguation": null,
+      "date": "2021-07-28",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "11:08",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Rasiya",
+            "length": "3:48",
+            "deezer": {
+              "id": 1440060102,
+              "link": "https://www.deezer.com/track/1440060102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/3/0/a93c6d9d873250ba56b012c7d41cffee.mp3?hdnea=exp=1795649309~acl=/api/1/1/a/9/3/0/a93c6d9d873250ba56b012c7d41cffee.mp3*~data=user_id=0,application_id=42~hmac=647cf842d52beb0894d667fc763a8093f35f05ecfe1e792b4db87eccb7bddeba",
+              "preview_expires": "2026-11-25T23:28:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Rasiya (extended mix)",
+            "length": "7:20",
+            "deezer": {
+              "id": 1440060112,
+              "link": "https://www.deezer.com/track/1440060112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/a/0/4fa3a54bfa8a50182896cbf051a6f258.mp3?hdnea=exp=1795649309~acl=/api/1/1/4/f/a/0/4fa3a54bfa8a50182896cbf051a6f258.mp3*~data=user_id=0,application_id=42~hmac=791de711952cc72fa46725a36041f486d1becdd7b0942906b07fd9602f751d1c",
+              "preview_expires": "2026-11-25T23:28:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anyasa/Rasiya.png"
+}

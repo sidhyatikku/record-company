@@ -1,0 +1,52 @@
+{
+  "title": "Psychosocial",
+  "artist": "Rob Scallon",
+  "year": 2017,
+  "release_date": "2017-08-27",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/5955a8cd-bf36-4169-84bb-2cf0e968720d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/47011792"
+  },
+  "musicbrainz_id": "5955a8cd-bf36-4169-84bb-2cf0e968720d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e2f52179-1eb5-4783-9074-ffae285423d0",
+      "barcode": "840094166790",
+      "title": "Psychosocial",
+      "disambiguation": null,
+      "date": "2017-08-27",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "4:13",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Psychosocial",
+            "length": "4:13",
+            "artist": "Rob Scallon & Leo",
+            "deezer": {
+              "id": 399503322,
+              "link": "https://www.deezer.com/track/399503322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/0/0/650e5c3b03e023995a3d5cb7ca471a00.mp3?hdnea=exp=1795720136~acl=/api/1/1/6/5/0/0/650e5c3b03e023995a3d5cb7ca471a00.mp3*~data=user_id=0,application_id=42~hmac=51d45baaf3794b6f1b109fa2ec12bfc778247bdf3124b6d206f4a28930a00921",
+              "preview_expires": "2026-11-26T19:08:56Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Rob Scallon/Psychosocial.jpg"
+}

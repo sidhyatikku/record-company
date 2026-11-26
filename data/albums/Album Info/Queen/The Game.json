@@ -1,0 +1,185 @@
+{
+  "title": "The Game",
+  "artist": "Queen",
+  "year": 1980,
+  "release_date": "1980-06-24",
+  "type": "Album",
+  "description": "The Game is the eighth studio album by the British rock band Queen. It was released on 30 June 1980 by EMI Records in the UK and by Elektra Records in the United States. The album is the first by Queen to feature a synthesizer, specifically the Oberheim OB-X.",
+  "genres": [
+    "rock",
+    "pop",
+    "pop rock",
+    "hard rock",
+    "classic rock",
+    "funk rock",
+    "glam rock",
+    "piano rock",
+    "rockabilly",
+    "disco"
+  ],
+  "tags": [
+    "rock",
+    "pop",
+    "pop rock",
+    "british psychedelia",
+    "hard rock",
+    "album rock",
+    "aor classic rock",
+    "classic rock",
+    "funk rock",
+    "glam rock",
+    "piano rock",
+    "rock & roll",
+    "rockabilly",
+    "disco",
+    "nouveau",
+    "à faire"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 20
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/75702ddf-a46c-3cac-bace-0a466eb3c37c",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Game_(Queen_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000650663",
+    "discogs": "https://www.discogs.com/master/13248",
+    "wikidata": "https://www.wikidata.org/wiki/Q211405",
+    "deezer": "https://www.deezer.com/album/1007453881"
+  },
+  "musicbrainz_id": "75702ddf-a46c-3cac-bace-0a466eb3c37c",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/11886730-7d7a-4280-99c6-e1e9ff908598",
+      "barcode": "602527717517",
+      "title": "The Game",
+      "disambiguation": "2011 remaster",
+      "date": "2011-06-27",
+      "country": "GB"
+    },
+    "total_tracks": 10,
+    "total_length": "35:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Play the Game",
+            "length": "3:33",
+            "deezer": {
+              "id": 4092324021,
+              "link": "https://www.deezer.com/track/4092324021",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/6/0/d8620e56d53d9d8ac375e056335b6aac.mp3?hdnea=exp=1795719793~acl=/api/1/1/d/8/6/0/d8620e56d53d9d8ac375e056335b6aac.mp3*~data=user_id=0,application_id=42~hmac=db3459a8c3a72d2e9ee67289d25121b0d0460f55e4763ae122ca96c781eeb538",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Dragon Attack",
+            "length": "4:19",
+            "deezer": {
+              "id": 4092324031,
+              "link": "https://www.deezer.com/track/4092324031",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/7/0/357a545a98546c93675475cf74d6f557.mp3?hdnea=exp=1795719793~acl=/api/1/1/3/5/7/0/357a545a98546c93675475cf74d6f557.mp3*~data=user_id=0,application_id=42~hmac=d4a84b8499dae4b8cdc334d40a57df7dd2fbff793ebd4b4e4410186478073ab4",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Another One Bites the Dust",
+            "length": "3:35",
+            "deezer": {
+              "id": 4092324041,
+              "link": "https://www.deezer.com/track/4092324041",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/d/0/70dfc1ad79bdd6e1d69d16e1a37c06eb.mp3?hdnea=exp=1795719793~acl=/api/1/1/7/0/d/0/70dfc1ad79bdd6e1d69d16e1a37c06eb.mp3*~data=user_id=0,application_id=42~hmac=79d5a92e54bc949c3e305c37e99ed3e29f58ef8ffed9fd846c2261fd1502993d",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Need Your Loving Tonight",
+            "length": "2:49",
+            "deezer": {
+              "id": 4092324051,
+              "link": "https://www.deezer.com/track/4092324051",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/2/0/962c5d62774c48c3daaad916c0710a76.mp3?hdnea=exp=1795719793~acl=/api/1/1/9/6/2/0/962c5d62774c48c3daaad916c0710a76.mp3*~data=user_id=0,application_id=42~hmac=fd3c391d0497d8a3a7355ef5053afdcb196653966705a76975371ce2228bf90d",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Crazy Little Thing Called Love",
+            "length": "2:48",
+            "deezer": {
+              "id": 4092324061,
+              "link": "https://www.deezer.com/track/4092324061",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/5/0/9e5aff6b8857569c99338ce09a776b06.mp3?hdnea=exp=1795719793~acl=/api/1/1/9/e/5/0/9e5aff6b8857569c99338ce09a776b06.mp3*~data=user_id=0,application_id=42~hmac=518f079db5daac7fb4aa27d0bc5f4c093643f306fc6885401b0bb03e4f774309",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rock It (Prime Jive)",
+            "length": "4:33",
+            "deezer": {
+              "id": 4092324071,
+              "link": "https://www.deezer.com/track/4092324071",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/2/0/ca236d81bd27ad1a9dbe78285271ae31.mp3?hdnea=exp=1795719793~acl=/api/1/1/c/a/2/0/ca236d81bd27ad1a9dbe78285271ae31.mp3*~data=user_id=0,application_id=42~hmac=bb6ad788c92f2a3b2effe4c21110c56597b36e1d567268afe3a6d91885df490f",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Don’t Try Suicide",
+            "length": "3:53",
+            "deezer": {
+              "id": 4092324081,
+              "link": "https://www.deezer.com/track/4092324081",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/b/0/a8b4bd714d8683285df4e1c148a19741.mp3?hdnea=exp=1795719793~acl=/api/1/1/a/8/b/0/a8b4bd714d8683285df4e1c148a19741.mp3*~data=user_id=0,application_id=42~hmac=3cbb7931480efaf988d20bcf9c89378486fead3be05b738a506e00aada6a00de",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sail Away Sweet Sister",
+            "length": "3:33",
+            "deezer": {
+              "id": 4092324091,
+              "link": "https://www.deezer.com/track/4092324091",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/9/0/549884bc60ad8c20b08797f1d2971aa2.mp3?hdnea=exp=1795719793~acl=/api/1/1/5/4/9/0/549884bc60ad8c20b08797f1d2971aa2.mp3*~data=user_id=0,application_id=42~hmac=57d6408d68d23a2d541047d4c99c1b05927d0ccdf755c8c45f8d1c1682100125",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Coming Soon",
+            "length": "2:51",
+            "deezer": {
+              "id": 4092324101,
+              "link": "https://www.deezer.com/track/4092324101",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/9/0/45956bc357d7475d160bb71599bd870f.mp3?hdnea=exp=1795719793~acl=/api/1/1/4/5/9/0/45956bc357d7475d160bb71599bd870f.mp3*~data=user_id=0,application_id=42~hmac=20b1c9561e5621b10a499842d479278f04a2e671728b7fd64074452db2c565ef",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Save Me",
+            "length": "3:50",
+            "deezer": {
+              "id": 4092324111,
+              "link": "https://www.deezer.com/track/4092324111",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/f/0/bcfaaa78e2157d7f010c6b0aca11fc43.mp3?hdnea=exp=1795719793~acl=/api/1/1/b/c/f/0/bcfaaa78e2157d7f010c6b0aca11fc43.mp3*~data=user_id=0,application_id=42~hmac=598b5084f42e65b5b2a2aea3135830a148eaaff251668c81e879450fc12f3a67",
+              "preview_expires": "2026-11-26T19:03:13Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Queen/The Game.jpg"
+}

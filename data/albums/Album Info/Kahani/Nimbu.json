@@ -1,0 +1,40 @@
+{
+  "title": "Nimbu",
+  "artist": "Kahani, Indo Warehouse",
+  "year": 2024,
+  "release_date": "2024-01-15",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/5hVXfnAYPFj8pThmchHURm",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/5hVXfnAYPFj8pThmchHURm",
+      "title": "Nimbu",
+      "date": "2024-01-15"
+    },
+    "total_tracks": 1,
+    "total_length": "4:19",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nimbu",
+            "length": "4:19"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Kahani/Nimbu.jpg"
+}

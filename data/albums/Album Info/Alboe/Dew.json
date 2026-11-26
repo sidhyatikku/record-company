@@ -1,0 +1,51 @@
+{
+  "title": "Dew",
+  "artist": "Alboe",
+  "year": 2023,
+  "release_date": "2023-09-13",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "indian indie",
+    "hindi indie"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/2EnjGdPy8MZnSR4Ic9pakp",
+    "deezer": "https://www.deezer.com/album/481101615"
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/2EnjGdPy8MZnSR4Ic9pakp",
+      "title": "Dew",
+      "date": "2023-09-13"
+    },
+    "total_tracks": 1,
+    "total_length": "3:55",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dew",
+            "length": "3:55",
+            "artist": "Alboe, Sidharth Bharadwaj",
+            "deezer": {
+              "id": 2428768445,
+              "link": "https://www.deezer.com/track/2428768445",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc8b1e4555314e9322dcd1535e78f380.mp3?hdnea=exp=1795649058~acl=/api/1/1/d/c/8/0/dc8b1e4555314e9322dcd1535e78f380.mp3*~data=user_id=0,application_id=42~hmac=4d19f23f87f6cb45902bc8cc79630b11df04151849829eff3bd209ec6aa68dd2",
+              "preview_expires": "2026-11-25T23:24:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Alboe/Dew.jpg"
+}

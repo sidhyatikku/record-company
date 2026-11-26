@@ -1,0 +1,142 @@
+{
+  "title": "This Is… 1997",
+  "artist": "Various Artists",
+  "year": 2008,
+  "release_date": "2008-07-08",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/b6dcdfe6-8ce7-4306-8bef-c338d4d27713",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "b6dcdfe6-8ce7-4306-8bef-c338d4d27713",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/fdc3f4f5-c13c-476c-b5e3-2103c13ab943",
+      "barcode": null,
+      "title": "This Is… 1997",
+      "disambiguation": null,
+      "date": "2008-08-08",
+      "country": "DE"
+    },
+    "total_tracks": 17,
+    "total_length": "1:03:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Wanna Be the Only One (feat. BeBe Winans)",
+            "length": "3:35",
+            "artist": "Eternal"
+          },
+          {
+            "number": "2",
+            "title": "Your Woman",
+            "length": "4:17",
+            "artist": "White Town"
+          },
+          {
+            "number": "3",
+            "title": "Scooby Snacks",
+            "length": "3:02",
+            "artist": "Fun Lovin’ Criminals"
+          },
+          {
+            "number": "4",
+            "title": "Richard III",
+            "length": "3:10",
+            "artist": "Supergrass"
+          },
+          {
+            "number": "5",
+            "title": "Wide Open Space",
+            "length": "4:32",
+            "artist": "Mansun"
+          },
+          {
+            "number": "6",
+            "title": "All You Good Good People",
+            "length": "4:38",
+            "artist": "Embrace"
+          },
+          {
+            "number": "7",
+            "title": "Bitch",
+            "length": "4:01",
+            "artist": "Meredith Brooks"
+          },
+          {
+            "number": "8",
+            "title": "Easy",
+            "length": "3:04",
+            "artist": "Terrorvision"
+          },
+          {
+            "number": "9",
+            "title": "Piece of My Heart",
+            "length": "4:14",
+            "artist": "Shaggy"
+          },
+          {
+            "number": "10",
+            "title": "Arms Around the World",
+            "length": "3:47",
+            "artist": "Louise"
+          },
+          {
+            "number": "11",
+            "title": "Bodyshakin' (radio mix)",
+            "length": "3:35",
+            "artist": "911"
+          },
+          {
+            "number": "12",
+            "title": "Don't You Love Me",
+            "length": "3:48",
+            "artist": "Eternal"
+          },
+          {
+            "number": "13",
+            "title": "You Got the Love",
+            "length": "3:11",
+            "artist": "The Source"
+          },
+          {
+            "number": "14",
+            "title": "I Can Make You Feel Good",
+            "length": "3:29",
+            "artist": "Kavana"
+          },
+          {
+            "number": "15",
+            "title": "The Day We Find Love",
+            "length": "4:09",
+            "artist": "911"
+          },
+          {
+            "number": "16",
+            "title": "Give Me Love (radio edit)",
+            "length": "2:39",
+            "artist": "Diddy"
+          },
+          {
+            "number": "17",
+            "title": "Strings for Yasmin (radio edit)",
+            "length": "4:06",
+            "artist": "Tin Tin Out"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Various Artists/This Is... 1997.jpg"
+}

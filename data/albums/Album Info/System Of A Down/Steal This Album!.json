@@ -1,0 +1,241 @@
+{
+  "title": "Steal This Album!",
+  "artist": "System of a Down",
+  "year": 2002,
+  "release_date": "2002-10-26",
+  "type": "Album",
+  "description": "Steal This Album! is the third studio album by the American heavy metal band System of a Down, released on November 26, 2002, by American Recordings and Columbia Records. Produced by Rick Rubin and Daron Malakian, it peaked at number 15 on the US Billboard 200.",
+  "genres": [
+    "alternative metal",
+    "metal",
+    "alternative rock",
+    "avant-garde metal",
+    "heavy metal",
+    "nu metal",
+    "punk"
+  ],
+  "tags": [
+    "alternative metal",
+    "metal",
+    "alternative rock",
+    "avant-garde metal",
+    "hardnheavy",
+    "heavy metal",
+    "nu metal",
+    "punk"
+  ],
+  "rating": {
+    "value_out_of_5": 4.25,
+    "votes": 25
+  },
+  "musicbrainz_annotation": "This release was initially released as four limited editions, each featuring different disc label art designed by each band member.\r\n    * Barcode 5099751024897: [http://en.wikipedia.org/wiki/File:Stajohn.jpg|Black and grey depicting a skull] by [http://musicbrainz.org/show/artist/?artistid=236963|Dolmayan]\r\n    * Barcode 696998706224: [http://en.wikipedia.org/wiki/File:Stashavo.jpg|Red drawing of crude stylized flames] by [http://musicbrainz.org/show/artist/?artistid=236961|Odadjian]\r\n    * Barcode ???: [http://en.wikipedia.org/wiki/File:Staserj.jpg|Blue background with text swirling into the centre] by [http://musicbrainz.org/show/artist/?artistid=196086|Tankian]\r\n    * Barcode ???: [http://en.wikipedia.org/wiki/File:Stadaroncd.jpg|Two 'V' shapes, crossing over in the center to create a diamond] by [http://musicbrainz.org/show/artist/?artistid=236962|Malakian]\r\n\r\nThe non-limited edition features a white CD-R style disc label with release and band name written with a black felt-tip.",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3351730c-7853-38f3-8d56-1bf627de4523",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steal_This_Album!",
+    "allmusic": "https://www.allmusic.com/album/mw0000663468",
+    "discogs": "https://www.discogs.com/master/35646",
+    "wikidata": "https://www.wikidata.org/wiki/Q332526",
+    "deezer": "https://www.deezer.com/album/6883271"
+  },
+  "musicbrainz_id": "3351730c-7853-38f3-8d56-1bf627de4523",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c74c7c8d-64c8-3505-bb02-d1f941605525",
+      "barcode": "5099751024897",
+      "title": "Steal This Album!",
+      "disambiguation": null,
+      "date": "2002-11",
+      "country": "NL"
+    },
+    "total_tracks": 16,
+    "total_length": "43:31",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Chic ’n’ Stu",
+            "length": "2:24",
+            "deezer": {
+              "id": 70177130,
+              "link": "https://www.deezer.com/track/70177130",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/7/0/b4708dac4db387980a8a2f80b1d3610b.mp3?hdnea=exp=1795721151~acl=/api/1/1/b/4/7/0/b4708dac4db387980a8a2f80b1d3610b.mp3*~data=user_id=0,application_id=42~hmac=181aa263b76f9ba5dae73bd5834a9a93763f78e6f4e9d35105ceb04f12f66eee",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Innervision",
+            "length": "2:34",
+            "deezer": {
+              "id": 70177131,
+              "link": "https://www.deezer.com/track/70177131",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/4/0/d0479f6d085cdea540aa2301229dcc38.mp3?hdnea=exp=1795721151~acl=/api/1/1/d/0/4/0/d0479f6d085cdea540aa2301229dcc38.mp3*~data=user_id=0,application_id=42~hmac=326cfb946d868659b382d8cba6985b82ce88738aa22475cecb2d7f7da10f7045",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Bubbles",
+            "length": "1:57",
+            "deezer": {
+              "id": 70177132,
+              "link": "https://www.deezer.com/track/70177132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/e/0/4ae22b0589d1aa4f744bbdf20ec5346c.mp3?hdnea=exp=1795721151~acl=/api/1/1/4/a/e/0/4ae22b0589d1aa4f744bbdf20ec5346c.mp3*~data=user_id=0,application_id=42~hmac=0ba38b1993646bb5629caf833b2ab9e3445c3bf42da5c58e8440e07e70432904",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Boom!",
+            "length": "2:15",
+            "deezer": {
+              "id": 70177133,
+              "link": "https://www.deezer.com/track/70177133",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/d/0/a5d34ee661d9c5b61dbfe5c95e9f3dbe.mp3?hdnea=exp=1795721151~acl=/api/1/1/a/5/d/0/a5d34ee661d9c5b61dbfe5c95e9f3dbe.mp3*~data=user_id=0,application_id=42~hmac=be5ca595a765682407c1567e8c8d937275d086750e6f7cc80d523e9b079a0fd9",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Nüguns",
+            "length": "2:30",
+            "deezer": {
+              "id": 70177134,
+              "link": "https://www.deezer.com/track/70177134",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/3/0/8b37ebca2028a99653551a9bd65fcec1.mp3?hdnea=exp=1795721151~acl=/api/1/1/8/b/3/0/8b37ebca2028a99653551a9bd65fcec1.mp3*~data=user_id=0,application_id=42~hmac=e69e6b75564fd69f649d9fc970f506d506a59379a3d580743244bc2ebabad97c",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "A.D.D. (American Dream Denial)",
+            "length": "3:17",
+            "deezer": {
+              "id": 70177135,
+              "link": "https://www.deezer.com/track/70177135",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/b/0/edbbfde946e0a44ca37c869944348134.mp3?hdnea=exp=1795721151~acl=/api/1/1/e/d/b/0/edbbfde946e0a44ca37c869944348134.mp3*~data=user_id=0,application_id=42~hmac=da8e71858310b16ca3f3685f47297e2b8b659a9a7f3f611dd8b5222bc120b0fc",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Mr. Jack",
+            "length": "4:10",
+            "deezer": {
+              "id": 70177136,
+              "link": "https://www.deezer.com/track/70177136",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/1/0/63136baddd0ac56e110a909f35c1e997.mp3?hdnea=exp=1795721151~acl=/api/1/1/6/3/1/0/63136baddd0ac56e110a909f35c1e997.mp3*~data=user_id=0,application_id=42~hmac=ab74963f3026aa7e77bc68d24b65920e0a42bcab898b62fea9b211c4ccbad7af",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "I‐E‐A‐I‐A‐I‐O",
+            "length": "3:09",
+            "deezer": {
+              "id": 70177137,
+              "link": "https://www.deezer.com/track/70177137",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/5/0/fe575b825c35dec4d7cb56779ab1f2e2.mp3?hdnea=exp=1795721151~acl=/api/1/1/f/e/5/0/fe575b825c35dec4d7cb56779ab1f2e2.mp3*~data=user_id=0,application_id=42~hmac=b700553a7da48a0912acd795d11750517e22fb10b8dd37d520d85493b786f2e1",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "36",
+            "length": "0:46",
+            "deezer": {
+              "id": 70177138,
+              "link": "https://www.deezer.com/track/70177138",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/d/0/90dace5d3505b24d57f09a1408454f34.mp3?hdnea=exp=1795721151~acl=/api/1/1/9/0/d/0/90dace5d3505b24d57f09a1408454f34.mp3*~data=user_id=0,application_id=42~hmac=d9521807a322b640709dc7559c5a32b2443c93eb2763b410510901ae5cb0fdd9",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Pictures",
+            "length": "2:06",
+            "deezer": {
+              "id": 70177139,
+              "link": "https://www.deezer.com/track/70177139",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/e/0/6ce76c690eb3f50e9de7e89a07ca3416.mp3?hdnea=exp=1795721151~acl=/api/1/1/6/c/e/0/6ce76c690eb3f50e9de7e89a07ca3416.mp3*~data=user_id=0,application_id=42~hmac=b7a5dbc2c1bb0c4ca1bf27ba9e74fc943697781221aef95cf5b7d888ca9ba767",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Highway Song",
+            "length": "3:14",
+            "deezer": {
+              "id": 70177140,
+              "link": "https://www.deezer.com/track/70177140",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/e/0/80e63ba269ce87133d1941e5afdad04c.mp3?hdnea=exp=1795721151~acl=/api/1/1/8/0/e/0/80e63ba269ce87133d1941e5afdad04c.mp3*~data=user_id=0,application_id=42~hmac=47cab9ad805d253703252edba8892face4b78f38e8d9b5b25dfd1bfb28c5a12e",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Fuck the System",
+            "length": "2:13",
+            "deezer": {
+              "id": 70177141,
+              "link": "https://www.deezer.com/track/70177141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/3/0/c73f01e6e7a7f5cc0b1b6cb1a674750f.mp3?hdnea=exp=1795721151~acl=/api/1/1/c/7/3/0/c73f01e6e7a7f5cc0b1b6cb1a674750f.mp3*~data=user_id=0,application_id=42~hmac=8ce3f0a04d197267dfc3a54f83223a272056512e06c0b71381a3045d09b3565e",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Ego Brain",
+            "length": "3:22",
+            "deezer": {
+              "id": 70177142,
+              "link": "https://www.deezer.com/track/70177142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/8/0/bb8376a9cf924e29396c178f2c278363.mp3?hdnea=exp=1795721151~acl=/api/1/1/b/b/8/0/bb8376a9cf924e29396c178f2c278363.mp3*~data=user_id=0,application_id=42~hmac=9ba06272851701df64a6618ad15771ff6181302ce177bc6c005a2a404544ba6a",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Thetawaves",
+            "length": "2:37",
+            "deezer": {
+              "id": 70177143,
+              "link": "https://www.deezer.com/track/70177143",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/5/0/135171670f3e5046840e7b5a4cc4b804.mp3?hdnea=exp=1795721151~acl=/api/1/1/1/3/5/0/135171670f3e5046840e7b5a4cc4b804.mp3*~data=user_id=0,application_id=42~hmac=290396587be9a1822c0bc9d92ff928d53b45af60dd786d80376f72937178ed2a",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Roulette",
+            "length": "3:21",
+            "deezer": {
+              "id": 70177144,
+              "link": "https://www.deezer.com/track/70177144",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/5/0/fe5e641e85c3310357cf16cb77326aa0.mp3?hdnea=exp=1795721151~acl=/api/1/1/f/e/5/0/fe5e641e85c3310357cf16cb77326aa0.mp3*~data=user_id=0,application_id=42~hmac=b960673cc1edab1437e56ed449a451171effa80106ae345ac4c8a7aadec0d7a7",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Streamline",
+            "length": "3:38",
+            "deezer": {
+              "id": 70177146,
+              "link": "https://www.deezer.com/track/70177146",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/5/0/4a5498e65649f52482c2ebffcf55bd0e.mp3?hdnea=exp=1795721151~acl=/api/1/1/4/a/5/0/4a5498e65649f52482c2ebffcf55bd0e.mp3*~data=user_id=0,application_id=42~hmac=e509f3762b1779620fa2d032d9cd72baf9015da581778122188fbcd216a25334",
+              "preview_expires": "2026-11-26T19:25:51Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/System Of A Down/Steal This Album!.jpg"
+}

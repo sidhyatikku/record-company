@@ -1,0 +1,75 @@
+{
+  "title": "I’m Good (Blue)",
+  "artist": "David Guetta & Bebe Rexha",
+  "year": 2022,
+  "release_date": "2022-08-26",
+  "type": "Single",
+  "description": "\"I'm Good (Blue)\" is a song by French DJ and record producer David Guetta and American singer-songwriter Bebe Rexha. Produced by the former alongside Timofey Reznikov, it was written by the artists along with Kamille and Plested, with additional writing credits going to Jeffrey Jey, Massimo Gabutti, and Maurizio Lobina, as the song is a reworking of the Italian group Eiffel 65's \"Blue (Da Ba Dee)\" (1998). Marking the artists' fourth collaboration, the song was released for digital download and streaming by What a DJ and Warner on 26 August 2022. The song is included on Rexha's third studio album, Bebe (2023). A Latin version, featuring Lit Killah and Ludmilla, was released on 28 September 2023 and unveiled.",
+  "genres": [
+    "dance",
+    "electronic",
+    "pop"
+  ],
+  "tags": [
+    "dance",
+    "electronic",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a6d4ae2c-99d1-4ff4-872e-adf2cd3fb20a",
+    "wikipedia": "https://en.wikipedia.org/wiki/I'm_Good_(Blue)",
+    "wikidata": "https://www.wikidata.org/wiki/Q113680812",
+    "deezer": "https://www.deezer.com/album/348202627"
+  },
+  "musicbrainz_id": "a6d4ae2c-99d1-4ff4-872e-adf2cd3fb20a",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7bd6c1eb-0f60-4176-bd4b-afe82b0ca2f2",
+      "barcode": "5054197324338",
+      "title": "I’m Good (Blue)",
+      "disambiguation": "explicit",
+      "date": "2022-08-26",
+      "country": "XW"
+    },
+    "total_tracks": 2,
+    "total_length": "6:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I’m Good (Blue)",
+            "length": "2:55",
+            "deezer": {
+              "id": 1874467717,
+              "link": "https://www.deezer.com/track/1874467717",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/c/0/0bc3b3dce7e62bec0454a8d8a025a828.mp3?hdnea=exp=1795653175~acl=/api/1/1/0/b/c/0/0bc3b3dce7e62bec0454a8d8a025a828.mp3*~data=user_id=0,application_id=42~hmac=1f244be051b4a642339f506b022db7aa8af36a762a04517c8fe2a1e8b64aef47",
+              "preview_expires": "2026-11-26T00:32:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "I’m Good (Blue) (extended)",
+            "length": "3:39",
+            "deezer": {
+              "id": 1874467727,
+              "link": "https://www.deezer.com/track/1874467727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/a/0/a6a886564f25505718b4bd2f8fed00da.mp3?hdnea=exp=1795653175~acl=/api/1/1/a/6/a/0/a6a886564f25505718b4bd2f8fed00da.mp3*~data=user_id=0,application_id=42~hmac=434861e7ed93481b215c66bd92ddc98a8fbdad0c31a5d2fbe47dae87d72cdb26",
+              "preview_expires": "2026-11-26T00:32:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/David Guetta/I'm Good (Blue).jpg"
+}

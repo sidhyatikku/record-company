@@ -1,0 +1,148 @@
+{
+  "title": "Celebrate!",
+  "artist": "Kool & the Gang",
+  "year": 1980,
+  "release_date": "1980-09-20",
+  "type": "Album",
+  "description": "Celebrate! is the twelfth studio album by American band Kool & the Gang. Released on September 29, 1980, the album reached No. 1 on the US R&B chart and #10 on the Billboard 200. The album produced perhaps Kool & the Gang's most recognizable hit song, the No. 1 chart-topper, \"Celebration\", which still receives heavy play today over four decades later.",
+  "genres": [
+    "disco",
+    "funk",
+    "electronic",
+    "pop",
+    "soul"
+  ],
+  "tags": [
+    "disco",
+    "funk",
+    "funk soul",
+    "electronic",
+    "pop",
+    "soul"
+  ],
+  "rating": {
+    "value_out_of_5": 4.5,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e4774353-e22f-368a-848a-1e50aa08a0ae",
+    "wikipedia": "https://en.wikipedia.org/wiki/Celebrate!",
+    "allmusic": "https://www.allmusic.com/album/mw0000190557",
+    "discogs": "https://www.discogs.com/master/113391",
+    "wikidata": "https://www.wikidata.org/wiki/Q5057573",
+    "deezer": "https://www.deezer.com/album/9751930"
+  },
+  "musicbrainz_id": "e4774353-e22f-368a-848a-1e50aa08a0ae",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0edd0e80-6817-456c-805d-38179ba672a7",
+      "barcode": "042282253828",
+      "title": "Celebrate!",
+      "disambiguation": null,
+      "date": "",
+      "country": "XW"
+    },
+    "total_tracks": 8,
+    "total_length": "35:05",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Celebration",
+            "length": "4:59",
+            "deezer": {
+              "id": 95873824,
+              "link": "https://www.deezer.com/track/95873824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/7/0/c57461b9c73e665145f093881eca75e5.mp3?hdnea=exp=1795656278~acl=/api/1/1/c/5/7/0/c57461b9c73e665145f093881eca75e5.mp3*~data=user_id=0,application_id=42~hmac=267892ce343ad16954151f9b654f72ccd1f689aebc5ea0029f98b792a26323ce",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Jones vs. Jones",
+            "length": "4:17",
+            "deezer": {
+              "id": 95873826,
+              "link": "https://www.deezer.com/track/95873826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/e/0/8eea0272fdc8432b04afed99eb68b717.mp3?hdnea=exp=1795656278~acl=/api/1/1/8/e/e/0/8eea0272fdc8432b04afed99eb68b717.mp3*~data=user_id=0,application_id=42~hmac=a159fa2ce27d2491f49115af39df8380e8dada6d46344ec17151a1de44427a33",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Take It to the Top",
+            "length": "4:19",
+            "deezer": {
+              "id": 95873828,
+              "link": "https://www.deezer.com/track/95873828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad40eadd561b89693a46b191df874403.mp3?hdnea=exp=1795656278~acl=/api/1/1/a/d/4/0/ad40eadd561b89693a46b191df874403.mp3*~data=user_id=0,application_id=42~hmac=c23355d82dd13b63b60634bab90b9e8d8c403569853b533f5250e5c1d66df983",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Morning Star",
+            "length": "3:49",
+            "deezer": {
+              "id": 95873830,
+              "link": "https://www.deezer.com/track/95873830",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/7/0/0f7e502db945206f09619b072e0ff696.mp3?hdnea=exp=1795656278~acl=/api/1/1/0/f/7/0/0f7e502db945206f09619b072e0ff696.mp3*~data=user_id=0,application_id=42~hmac=7dafa3bfd9d12681e7aa9595afc7eb52514e971de5758a75d100c15a3b9c2d90",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Love Festival",
+            "length": "5:14",
+            "deezer": {
+              "id": 95873832,
+              "link": "https://www.deezer.com/track/95873832",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/e/0/45ed1e629263cdabff243ad8bfde6d72.mp3?hdnea=exp=1795656278~acl=/api/1/1/4/5/e/0/45ed1e629263cdabff243ad8bfde6d72.mp3*~data=user_id=0,application_id=42~hmac=a1d19520b513df293adb58b7aef299325e8534546501afcf476526ae88009767",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Just Friends",
+            "length": "4:20",
+            "deezer": {
+              "id": 95873834,
+              "link": "https://www.deezer.com/track/95873834",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/1/0/081b2954567514bed68291f6408f9a5f.mp3?hdnea=exp=1795656278~acl=/api/1/1/0/8/1/0/081b2954567514bed68291f6408f9a5f.mp3*~data=user_id=0,application_id=42~hmac=3d6140aefd052ac4671d89aa94f29775cd92d098f15f384a72936b34633fd8ba",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Night People",
+            "length": "3:47",
+            "deezer": {
+              "id": 95873836,
+              "link": "https://www.deezer.com/track/95873836",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/3/0/373f3ef2be02685fd5c764a71dfd0eb5.mp3?hdnea=exp=1795656278~acl=/api/1/1/3/7/3/0/373f3ef2be02685fd5c764a71dfd0eb5.mp3*~data=user_id=0,application_id=42~hmac=34bac87d357be17d652f1469a808e0aecb623267aa249d4d0b89fd4469c5f3a1",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Love Affair",
+            "length": "4:21",
+            "deezer": {
+              "id": 95873838,
+              "link": "https://www.deezer.com/track/95873838",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/2/0/9329529d6aa2f5e04f35b3a04568ccc1.mp3?hdnea=exp=1795656278~acl=/api/1/1/9/3/2/0/9329529d6aa2f5e04f35b3a04568ccc1.mp3*~data=user_id=0,application_id=42~hmac=8224eac5ac09c89c26e79f92102798bb02fa32561748cc53854b080264d2304f",
+              "preview_expires": "2026-11-26T01:24:38Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kool & The Gang/Celebrate!.jpg"
+}

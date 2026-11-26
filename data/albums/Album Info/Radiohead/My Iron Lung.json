@@ -1,0 +1,130 @@
+{
+  "title": "My Iron Lung",
+  "artist": "Radiohead",
+  "year": 1994,
+  "release_date": "1994-09-24",
+  "type": "EP",
+  "description": "My Iron Lung is the third EP by the English rock band Radiohead, released on 26 September 1994 by Parlophone Records in the UK and by Capitol Records in the US. It was produced by Radiohead, John Leckie and Nigel Godrich. It comprises the single \"My Iron Lung\" and various B-sides, recorded while Radiohead were working on their second album, The Bends, released the following year.",
+  "genres": [
+    "alternative rock",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.45,
+    "votes": 17
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/99445a2b-578a-321e-851e-c6539bfbbd7f",
+    "wikipedia": "https://en.wikipedia.org/wiki/My_Iron_Lung",
+    "allmusic": "https://www.allmusic.com/album/mw0000550268",
+    "discogs": "https://www.discogs.com/master/21541",
+    "wikidata": "https://www.wikidata.org/wiki/Q976184",
+    "deezer": "https://www.deezer.com/album/14880813"
+  },
+  "musicbrainz_id": "99445a2b-578a-321e-851e-c6539bfbbd7f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/bc9ceb91-2af5-4659-a7e2-7cf61b3ecd8b",
+      "barcode": "634904079864",
+      "title": "My Iron Lung",
+      "disambiguation": null,
+      "date": "2016-05-13",
+      "country": "XW"
+    },
+    "total_tracks": 7,
+    "total_length": "24:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "My Iron Lung",
+            "length": "4:37",
+            "deezer": {
+              "id": 138548309,
+              "link": "https://www.deezer.com/track/138548309",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/b/0/85b15dea3f665fba76574b4b1d7522ee.mp3?hdnea=exp=1795719881~acl=/api/1/1/8/5/b/0/85b15dea3f665fba76574b4b1d7522ee.mp3*~data=user_id=0,application_id=42~hmac=31faeb4c7bd76bb4612f0fc2cdd971ddb25fe17d8d75e683c88d2279856924f6",
+              "preview_expires": "2026-11-26T19:04:41Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Trickster",
+            "length": "4:40",
+            "deezer": {
+              "id": 138548311,
+              "link": "https://www.deezer.com/track/138548311",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/1/0/ea1d7f7ee5f45a896dae1fb62cbeaf12.mp3?hdnea=exp=1795719881~acl=/api/1/1/e/a/1/0/ea1d7f7ee5f45a896dae1fb62cbeaf12.mp3*~data=user_id=0,application_id=42~hmac=595c12cc5334139aca54dcd1fa502b92ee5a90bd7e17b02e7c85fe4c52a5405c",
+              "preview_expires": "2026-11-26T19:04:41Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Lewis (Mistreated)",
+            "length": "3:19",
+            "deezer": {
+              "id": 138548313,
+              "link": "https://www.deezer.com/track/138548313",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/7/0/19799cb295b7ffa6f69e4bcd997c9706.mp3?hdnea=exp=1795719881~acl=/api/1/1/1/9/7/0/19799cb295b7ffa6f69e4bcd997c9706.mp3*~data=user_id=0,application_id=42~hmac=11a59b91296985ec2d98abee29136ac089b29ac958b1650e68dc61b74813ab90",
+              "preview_expires": "2026-11-26T19:04:41Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Punchdrunk Lovesick Singalong",
+            "length": "4:40",
+            "deezer": {
+              "id": 138548315,
+              "link": "https://www.deezer.com/track/138548315",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/a/0/b8a47c4c5f894585a9b668672e25587d.mp3?hdnea=exp=1795719881~acl=/api/1/1/b/8/a/0/b8a47c4c5f894585a9b668672e25587d.mp3*~data=user_id=0,application_id=42~hmac=cd70ecf65cfc68760976227bbf8809f4626b99cd581041603e3dce3117be8fbe",
+              "preview_expires": "2026-11-26T19:04:41Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Permanent Daylight",
+            "length": "2:48",
+            "deezer": {
+              "id": 138548317,
+              "link": "https://www.deezer.com/track/138548317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/0/0/f8093e3644852233d3afada54c83d9fe.mp3?hdnea=exp=1795719881~acl=/api/1/1/f/8/0/0/f8093e3644852233d3afada54c83d9fe.mp3*~data=user_id=0,application_id=42~hmac=86e53beac014f05ff3af1a17523b21e883210a93fd93874f5e8bdad700f84aa2",
+              "preview_expires": "2026-11-26T19:04:41Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Lozenge of Love",
+            "length": "2:16",
+            "deezer": {
+              "id": 138548319,
+              "link": "https://www.deezer.com/track/138548319",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/1/0/4e1d35446b2f344bbc61b7ac66ecfa95.mp3?hdnea=exp=1795719881~acl=/api/1/1/4/e/1/0/4e1d35446b2f344bbc61b7ac66ecfa95.mp3*~data=user_id=0,application_id=42~hmac=5fbf39b8b8d93615d6d6dc18c2c0f76fc747adeab27df54237f2d19713e7cfd2",
+              "preview_expires": "2026-11-26T19:04:41Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "You Never Wash Up After Yourself",
+            "length": "1:44",
+            "deezer": {
+              "id": 138548321,
+              "link": "https://www.deezer.com/track/138548321",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/2/0/93212a8c324ae2da89d02510c8ed5b0d.mp3?hdnea=exp=1795719881~acl=/api/1/1/9/3/2/0/93212a8c324ae2da89d02510c8ed5b0d.mp3*~data=user_id=0,application_id=42~hmac=e001fb6091aa01dad2226d4e31a0836e237e9c1f6ebfa8a88bef30e67a53d84e",
+              "preview_expires": "2026-11-26T19:04:41Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Radiohead/My Iron Lung.jpg"
+}

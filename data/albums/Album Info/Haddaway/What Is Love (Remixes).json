@@ -1,0 +1,84 @@
+{
+  "title": "What Is Love (Remixes)",
+  "artist": "Haddaway",
+  "year": 1993,
+  "release_date": "1993",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f2ab07a5-5799-4e22-9c9f-22f0ce812db6",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/904925762"
+  },
+  "musicbrainz_id": "f2ab07a5-5799-4e22-9c9f-22f0ce812db6",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/670d115b-1b3e-4123-b86d-16dead289c45",
+      "barcode": "743211479622",
+      "title": "What Is Love (Remixes)",
+      "disambiguation": null,
+      "date": "1993",
+      "country": "XE"
+    },
+    "total_tracks": 4,
+    "total_length": "23:26",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "What Is Love (Eat-This-Mix)",
+            "length": "6:54",
+            "deezer": {
+              "id": 3801648972,
+              "link": "https://www.deezer.com/track/3801648972",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/a/0/2daf2262615ffbdd089eecf4083f07a5.mp3?hdnea=exp=1795654872~acl=/api/1/1/2/d/a/0/2daf2262615ffbdd089eecf4083f07a5.mp3*~data=user_id=0,application_id=42~hmac=274289fa51b7a3ad905261908b777072b5fa6f180a59afdb21705607b9a145c4",
+              "preview_expires": "2026-11-26T01:01:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "What Is Love (Tour De Trance Mix)",
+            "length": "6:00",
+            "deezer": {
+              "id": 3801648982,
+              "link": "https://www.deezer.com/track/3801648982",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/7/0/c07acf8773c95fe686333c2e01fece59.mp3?hdnea=exp=1795654872~acl=/api/1/1/c/0/7/0/c07acf8773c95fe686333c2e01fece59.mp3*~data=user_id=0,application_id=42~hmac=7e9030ecf8da327aaaf93d971f51436e49d7da52716a0af6743bb5b08eebd4bc",
+              "preview_expires": "2026-11-26T01:01:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "What Is Love (Club Mix)",
+            "length": "5:00",
+            "deezer": {
+              "id": 3801648992,
+              "link": "https://www.deezer.com/track/3801648992",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/a/0/b4a8434b92b40265dd45e188768ef066.mp3?hdnea=exp=1795654872~acl=/api/1/1/b/4/a/0/b4a8434b92b40265dd45e188768ef066.mp3*~data=user_id=0,application_id=42~hmac=6d17cc53424b2e37cf4f8c143ac5d852fbbea465d547f8ab236f66a69937c9c2",
+              "preview_expires": "2026-11-26T01:01:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "What Is Love (The Refreshmento Extro Mix)",
+            "length": "5:32",
+            "deezer": {
+              "id": 3801649002,
+              "link": "https://www.deezer.com/track/3801649002",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/e/0/b9e5c203703e01af40f8d88829d96031.mp3?hdnea=exp=1795654872~acl=/api/1/1/b/9/e/0/b9e5c203703e01af40f8d88829d96031.mp3*~data=user_id=0,application_id=42~hmac=c1b2d0e20b758e5de4824743e0b7d9a5badd4862b84e194cf7c602d29375b0f1",
+              "preview_expires": "2026-11-26T01:01:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Haddaway/What Is Love (Remixes).jpg"
+}

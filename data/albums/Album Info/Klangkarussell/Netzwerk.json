@@ -1,0 +1,182 @@
+{
+  "title": "Netzwerk",
+  "artist": "Klangkarussell",
+  "year": 2014,
+  "release_date": "2014-07-25",
+  "type": "Album",
+  "description": "Netzwerk is the first studio album by the electronic band Klangkarussell. It was released in 2014 through Vertigo Records.",
+  "genres": [
+    "deep house",
+    "electronic",
+    "minimal techno",
+    "nu jazz",
+    "tech house",
+    "tropical house"
+  ],
+  "tags": [
+    "deep house",
+    "electronic",
+    "electronic dance music",
+    "minimal techno",
+    "nu jazz",
+    "tech house",
+    "tropical house"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/baf29927-cc6b-49d0-b59c-ce2338b1a0ed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Netzwerk_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0002696027",
+    "discogs": "https://www.discogs.com/master/714844",
+    "wikidata": "https://www.wikidata.org/wiki/Q18152872",
+    "deezer": "https://www.deezer.com/album/320948927"
+  },
+  "musicbrainz_id": "baf29927-cc6b-49d0-b59c-ce2338b1a0ed",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/943f4c7f-7b79-43a1-90da-1a75de418933",
+      "barcode": "0602537808748",
+      "title": "Netzwerk",
+      "disambiguation": null,
+      "date": "2014-07-25",
+      "country": "XW"
+    },
+    "total_tracks": 11,
+    "total_length": "1:06:33",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Eistee aus der Dose",
+            "length": "5:38",
+            "deezer": {
+              "id": 1761588737,
+              "link": "https://www.deezer.com/track/1761588737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/d/0/dad26a96d3bad96dc3e5ca47e1326a41.mp3?hdnea=exp=1795656248~acl=/api/1/1/d/a/d/0/dad26a96d3bad96dc3e5ca47e1326a41.mp3*~data=user_id=0,application_id=42~hmac=aea6a7f0fad164bc5d679e164a2c84fd4c04c68164cd108d5cceb869e73a02bf",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Netzwerk (Falls Like Rain)",
+            "length": "3:49",
+            "deezer": {
+              "id": 1761588747,
+              "link": "https://www.deezer.com/track/1761588747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/3/0/873d4e9bfe611109a62bbcd14a7c2a6f.mp3?hdnea=exp=1795656248~acl=/api/1/1/8/7/3/0/873d4e9bfe611109a62bbcd14a7c2a6f.mp3*~data=user_id=0,application_id=42~hmac=1522a491d2978a28693903998703e34591cb8cd414a45c8f16f2f7e51abd7ab5",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Berlin",
+            "length": "6:20",
+            "deezer": {
+              "id": 1761588757,
+              "link": "https://www.deezer.com/track/1761588757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/b/0/70bddc1b6257e0bf76b7a1546ec14f15.mp3?hdnea=exp=1795656248~acl=/api/1/1/7/0/b/0/70bddc1b6257e0bf76b7a1546ec14f15.mp3*~data=user_id=0,application_id=42~hmac=b5a8b5dddb33c8d1446a22d92fa4e497a9ead45ecc465bb5d22904fd0aa82ecf",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "We Want Your Soul",
+            "length": "8:26",
+            "artist": "Klangkarussell feat. Adam Freeland",
+            "deezer": {
+              "id": 1761588767,
+              "link": "https://www.deezer.com/track/1761588767",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/a/0/e9a9eb872cd8c02f136ac5d89a2a19f2.mp3?hdnea=exp=1795656248~acl=/api/1/1/e/9/a/0/e9a9eb872cd8c02f136ac5d89a2a19f2.mp3*~data=user_id=0,application_id=42~hmac=3a1ebf642274028082a82add0f756984265524ccca9cfac8b9fa906973013cad",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Sonnentanz",
+            "length": "6:00",
+            "deezer": {
+              "id": 1761588777,
+              "link": "https://www.deezer.com/track/1761588777",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/e/0/b0e24d47052e917feb029a3b94f7402d.mp3?hdnea=exp=1795656248~acl=/api/1/1/b/0/e/0/b0e24d47052e917feb029a3b94f7402d.mp3*~data=user_id=0,application_id=42~hmac=4daaf9e7161f9b97efecb70d4d7b08c8fd0cefffb9180dd0b604c39bb5182908",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Symmetry",
+            "length": "5:02",
+            "deezer": {
+              "id": 1761588787,
+              "link": "https://www.deezer.com/track/1761588787",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/2/0/bf2879af4655705933beb2c5ce74056a.mp3?hdnea=exp=1795656248~acl=/api/1/1/b/f/2/0/bf2879af4655705933beb2c5ce74056a.mp3*~data=user_id=0,application_id=42~hmac=e26ded8f23faf5432eeeb1b5f17fd26c3aaeb02b9a6f8b2e2d15bdead2e749a0",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Celebrate",
+            "length": "6:25",
+            "deezer": {
+              "id": 1761588797,
+              "link": "https://www.deezer.com/track/1761588797",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/e/0/60e41872974bf401e62f403162eb304e.mp3?hdnea=exp=1795656248~acl=/api/1/1/6/0/e/0/60e41872974bf401e62f403162eb304e.mp3*~data=user_id=0,application_id=42~hmac=ee6e1066f1c8d531f169a232ed39b7ae5fd657e4b9ec90bb234bf5bb5aec7530",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Sternenkinder",
+            "length": "7:31",
+            "deezer": {
+              "id": 1761588807,
+              "link": "https://www.deezer.com/track/1761588807",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/1/0/ce13f92eb93f4693552ed547cce79e92.mp3?hdnea=exp=1795656248~acl=/api/1/1/c/e/1/0/ce13f92eb93f4693552ed547cce79e92.mp3*~data=user_id=0,application_id=42~hmac=47d15e15b75ac95a8aac80dae650eb3f66bdda560dc45d46ebbbf7c49bd85e02",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Moments",
+            "length": "5:02",
+            "artist": "Klangkarussell feat. Will Heard",
+            "deezer": {
+              "id": 1761588817,
+              "link": "https://www.deezer.com/track/1761588817",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/2/0/252337e6643e3aefd3b81fa9d04741c8.mp3?hdnea=exp=1795656248~acl=/api/1/1/2/5/2/0/252337e6643e3aefd3b81fa9d04741c8.mp3*~data=user_id=0,application_id=42~hmac=e4036c538cd62af77c70467f70f279742ef39b5c8b78dc0b7ad95bf387e1ea8f",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "All Eyes on You",
+            "length": "8:22",
+            "deezer": {
+              "id": 1761588827,
+              "link": "https://www.deezer.com/track/1761588827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc301274dc79e42e76226328473de9b7.mp3?hdnea=exp=1795656248~acl=/api/1/1/f/c/3/0/fc301274dc79e42e76226328473de9b7.mp3*~data=user_id=0,application_id=42~hmac=adcf8b068ecbc3531f6f110d47b7faa66905efe53486ba802e2114a41dcd14f2",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Sonnentanz (Sun Don't Shine)",
+            "length": "3:58",
+            "artist": "Klangkarussell feat. Will Heard",
+            "deezer": {
+              "id": 1761588837,
+              "link": "https://www.deezer.com/track/1761588837",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/b/0/70b4fd6470931472b12ec9aeed40824d.mp3?hdnea=exp=1795656248~acl=/api/1/1/7/0/b/0/70b4fd6470931472b12ec9aeed40824d.mp3*~data=user_id=0,application_id=42~hmac=1a25aec3fbef578dde8803bd9dfec6f60eef881e98c1649b29ad855ab2ef25d5",
+              "preview_expires": "2026-11-26T01:24:08Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Klangkarussell/Netzwerk.jpg"
+}

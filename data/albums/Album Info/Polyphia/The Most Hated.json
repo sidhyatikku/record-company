@@ -1,0 +1,121 @@
+{
+  "title": "The Most Hated",
+  "artist": "Polyphia",
+  "year": 2017,
+  "release_date": "2017-07-12",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "future bass",
+    "math rock",
+    "progressive metal",
+    "rock"
+  ],
+  "tags": [
+    "future bass",
+    "math rock",
+    "progressive metal",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/14f6a808-d7ab-4012-831c-32c6d3501df1",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/1212576",
+    "deezer": "https://www.deezer.com/album/44373731"
+  },
+  "musicbrainz_id": "14f6a808-d7ab-4012-831c-32c6d3501df1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/62d4a31c-b3dd-4d6e-9173-69de01602a68",
+      "barcode": "859721867894",
+      "title": "The Most Hated",
+      "disambiguation": null,
+      "date": "2017-07-14",
+      "country": null
+    },
+    "total_tracks": 6,
+    "total_length": "23:06",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Loud",
+            "length": "3:57",
+            "deezer": {
+              "id": 381776221,
+              "link": "https://www.deezer.com/track/381776221",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/6/0/c4696bad035e4cf557daf831300a9c01.mp3?hdnea=exp=1795719618~acl=/api/1/1/c/4/6/0/c4696bad035e4cf557daf831300a9c01.mp3*~data=user_id=0,application_id=42~hmac=568d03bce4c84cd9616dcc2e46013209cb7176e6f612f115ec1b8103f0cef451",
+              "preview_expires": "2026-11-26T19:00:18Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Icronic",
+            "length": "3:51",
+            "deezer": {
+              "id": 381776231,
+              "link": "https://www.deezer.com/track/381776231",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/0/0/8a08565ba26bba56bf0bee1cdeaa5495.mp3?hdnea=exp=1795719618~acl=/api/1/1/8/a/0/0/8a08565ba26bba56bf0bee1cdeaa5495.mp3*~data=user_id=0,application_id=42~hmac=29bb68e98f5d27a30d7cdb7421b225c0b56809ed56218d0f5eca46c894fcc6f8",
+              "preview_expires": "2026-11-26T19:00:18Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Goose",
+            "length": "4:15",
+            "deezer": {
+              "id": 381776241,
+              "link": "https://www.deezer.com/track/381776241",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/e/0/dbeb83eba0b77e61faa1b6c8ff7b402c.mp3?hdnea=exp=1795719618~acl=/api/1/1/d/b/e/0/dbeb83eba0b77e61faa1b6c8ff7b402c.mp3*~data=user_id=0,application_id=42~hmac=91ab2b8e951ad2e6b925f06d31023715027bbb5820ee7ebe6f8e3082d1814dbd",
+              "preview_expires": "2026-11-26T19:00:18Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "40oz",
+            "length": "3:53",
+            "deezer": {
+              "id": 381776251,
+              "link": "https://www.deezer.com/track/381776251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/5/0/fd5c0851dbe022a2499dce924c89887d.mp3?hdnea=exp=1795719618~acl=/api/1/1/f/d/5/0/fd5c0851dbe022a2499dce924c89887d.mp3*~data=user_id=0,application_id=42~hmac=0276705826ce9966663d9c8f5ee0f53c6b3bc4170845b60e4e7c102cc5a68ad6",
+              "preview_expires": "2026-11-26T19:00:18Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Crosty",
+            "length": "3:05",
+            "deezer": {
+              "id": 381776261,
+              "link": "https://www.deezer.com/track/381776261",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/d/0/7cd49aa79eecf810de38a38bbe5f70f5.mp3?hdnea=exp=1795719618~acl=/api/1/1/7/c/d/0/7cd49aa79eecf810de38a38bbe5f70f5.mp3*~data=user_id=0,application_id=42~hmac=d128442ce4e27327f70eebd6b7a3e057daf2d903130e38b1b5e7f157a50712a6",
+              "preview_expires": "2026-11-26T19:00:18Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Worst",
+            "length": "4:05",
+            "deezer": {
+              "id": 381776271,
+              "link": "https://www.deezer.com/track/381776271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/0/0/1d0c0cd0cff115e4c283da427da9869d.mp3?hdnea=exp=1795719618~acl=/api/1/1/1/d/0/0/1d0c0cd0cff115e4c283da427da9869d.mp3*~data=user_id=0,application_id=42~hmac=d95a98138b765f25123f1ffb6a3628b19789111eda536e1b433d8256bf22806b",
+              "preview_expires": "2026-11-26T19:00:18Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Polyphia/The Most Hated.jpg"
+}

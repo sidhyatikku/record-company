@@ -1,0 +1,45 @@
+{
+  "title": "Ripples In The Timeline",
+  "artist": "Mall Grab & Real Lies",
+  "year": 2024,
+  "release_date": "2024-08-08",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a9c7cc68-2202-4291-a619-a20155ebd151",
+    "wikipedia": null,
+    "deezer": null
+  },
+  "musicbrainz_id": "a9c7cc68-2202-4291-a619-a20155ebd151",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/aadd34b9-da8d-49db-b91e-bc462cd5d407",
+      "barcode": "00044003422995",
+      "title": "Ripples In The Timeline",
+      "disambiguation": null,
+      "date": "2024-08-08",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "3:37",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Ripples in the Timeline",
+            "length": "3:37"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Mall Grab/Ripples In The Timeline.jpg"
+}

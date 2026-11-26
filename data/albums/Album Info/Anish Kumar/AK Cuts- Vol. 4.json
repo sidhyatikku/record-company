@@ -1,0 +1,84 @@
+{
+  "title": "AK Cuts: Vol. 4",
+  "artist": "Anish Kumar",
+  "year": 2026,
+  "release_date": "2026-07-03",
+  "type": "EP",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c987a504-c245-41df-8422-5728455cdea3",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/972280601"
+  },
+  "musicbrainz_id": "c987a504-c245-41df-8422-5728455cdea3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a805f776-dd88-4f79-8cd3-e8271ef92170",
+      "barcode": "8721466853512",
+      "title": "AK Cuts: Vol. 4",
+      "disambiguation": null,
+      "date": "2026-07-03",
+      "country": "XW"
+    },
+    "total_tracks": 4,
+    "total_length": "14:17",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Time is Running Out",
+            "length": "3:56",
+            "deezer": {
+              "id": 3992745121,
+              "link": "https://www.deezer.com/track/3992745121",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/2/0/cf26a8eb721bb1475e8d3fb1147f6eac.mp3?hdnea=exp=1795649212~acl=/api/1/1/c/f/2/0/cf26a8eb721bb1475e8d3fb1147f6eac.mp3*~data=user_id=0,application_id=42~hmac=9d97bdc43865efe55393b60a57f9d7cca575cfbd87ebac04ac5a6478fa32c0ac",
+              "preview_expires": "2026-11-25T23:26:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Freestyle Battle Weapon",
+            "length": "2:29",
+            "deezer": {
+              "id": 3992745141,
+              "link": "https://www.deezer.com/track/3992745141",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/e/0/84e6d8228ec3c15307b5d167bca37b92.mp3?hdnea=exp=1795649212~acl=/api/1/1/8/4/e/0/84e6d8228ec3c15307b5d167bca37b92.mp3*~data=user_id=0,application_id=42~hmac=d724626aa8477fbf47ac2ea05931f3cc635ca2fa72b11cb3908e05f7c16ea2fe",
+              "preview_expires": "2026-11-25T23:26:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hustle and Opulence in America",
+            "length": "3:08",
+            "deezer": {
+              "id": 3992745151,
+              "link": "https://www.deezer.com/track/3992745151",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/9/0/8493455bf7241d612051d013b271bcef.mp3?hdnea=exp=1795649212~acl=/api/1/1/8/4/9/0/8493455bf7241d612051d013b271bcef.mp3*~data=user_id=0,application_id=42~hmac=8715005adb5f23d871cd08a42149bafe6e903f293cb8a39161063de9187cc66a",
+              "preview_expires": "2026-11-25T23:26:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Bounty Hunter",
+            "length": "4:45",
+            "deezer": {
+              "id": 3992745161,
+              "link": "https://www.deezer.com/track/3992745161",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/4/0/0b45c3bc8e8585519a501f11b423dbe3.mp3?hdnea=exp=1795649212~acl=/api/1/1/0/b/4/0/0b45c3bc8e8585519a501f11b423dbe3.mp3*~data=user_id=0,application_id=42~hmac=dd5800e29d151b6beae6a43708232ce979c9659a9789fa2f16daa58728a3850f",
+              "preview_expires": "2026-11-25T23:26:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Anish Kumar/AK Cuts- Vol. 4.png"
+}

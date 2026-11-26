@@ -1,0 +1,43 @@
+{
+  "title": "Feathers",
+  "artist": "Novo Stella",
+  "year": 2020,
+  "release_date": "2020-05-15",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "jazz"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o",
+      "title": "Feathers",
+      "date": "2020-05-15"
+    },
+    "total_tracks": 1,
+    "total_length": "3:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Feathers",
+            "length": "3:21"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Novo Stella/Feathers.jpg"
+}

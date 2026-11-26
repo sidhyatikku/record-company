@@ -1,0 +1,128 @@
+{
+  "title": "ECO",
+  "artist": "David Maxim Micic",
+  "year": 2015,
+  "release_date": "2015-08-16",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "ambient",
+    "electronic",
+    "metal",
+    "pop",
+    "progressive",
+    "rock"
+  ],
+  "tags": [
+    "ambient",
+    "electronic",
+    "fusion",
+    "metal",
+    "pop",
+    "progressive",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/49445934-fa70-4fc0-994b-e2885d3a478d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/193412112"
+  },
+  "musicbrainz_id": "49445934-fa70-4fc0-994b-e2885d3a478d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/17c218d4-b016-46f6-8592-3311d936a3f4",
+      "barcode": "7316210250320",
+      "title": "ECO",
+      "disambiguation": null,
+      "date": "2015-08-16",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "37:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Universe in a Crayon",
+            "length": "3:21",
+            "deezer": {
+              "id": 1178173482,
+              "link": "https://www.deezer.com/track/1178173482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/8/0/c884c61b33c37501fb75197a3cbd00ae.mp3?hdnea=exp=1795653192~acl=/api/1/1/c/8/8/0/c884c61b33c37501fb75197a3cbd00ae.mp3*~data=user_id=0,application_id=42~hmac=0dc1ac7dd70d068b6d289c983f3796bd05a5dbba99e41eca4f8d0ce6ebfa824b",
+              "preview_expires": "2026-11-26T00:33:12Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Satellite",
+            "length": "8:36",
+            "artist": "David Maxim Micic feat. Dan Wieten",
+            "deezer": {
+              "id": 1178173492,
+              "link": "https://www.deezer.com/track/1178173492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/8/0/c2828dd117241272f0ee4203d2e0c8c0.mp3?hdnea=exp=1795653192~acl=/api/1/1/c/2/8/0/c2828dd117241272f0ee4203d2e0c8c0.mp3*~data=user_id=0,application_id=42~hmac=35a6302d4ae81712057c6a378dcee3e4a07f220701292a6b684bfed00d25de1e",
+              "preview_expires": "2026-11-26T00:33:12Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "500 Seconds Before Sunset",
+            "length": "8:20",
+            "deezer": {
+              "id": 1178173502,
+              "link": "https://www.deezer.com/track/1178173502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/9/0/8b9c2e510ab679d6f7839d4c448a5f8a.mp3?hdnea=exp=1795653192~acl=/api/1/1/8/b/9/0/8b9c2e510ab679d6f7839d4c448a5f8a.mp3*~data=user_id=0,application_id=42~hmac=3e7aabcb46158b8e10fd0a46b7e13561470916593a2bd1494c0a725397fca89b",
+              "preview_expires": "2026-11-26T00:33:12Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "The Flock",
+            "length": "6:50",
+            "artist": "David Maxim Micic feat. Scampi",
+            "deezer": {
+              "id": 1178173512,
+              "link": "https://www.deezer.com/track/1178173512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/a/0/e3a6bc18fdeed12b33c3c8830dcb52ae.mp3?hdnea=exp=1795653192~acl=/api/1/1/e/3/a/0/e3a6bc18fdeed12b33c3c8830dcb52ae.mp3*~data=user_id=0,application_id=42~hmac=14a446da1646299c60969e725fd0eceeecfd20723a8b7c50ffbbdfeaa06800bd",
+              "preview_expires": "2026-11-26T00:33:12Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Voda",
+            "length": "2:39",
+            "deezer": {
+              "id": 1178173522,
+              "link": "https://www.deezer.com/track/1178173522",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/4/0/e64fb3e762601a37cc2cc97381af7e9f.mp3?hdnea=exp=1795653192~acl=/api/1/1/e/6/4/0/e64fb3e762601a37cc2cc97381af7e9f.mp3*~data=user_id=0,application_id=42~hmac=922a96f2f1662cce31d5c002f759b9e0a270a2db7c52577f053c336533aa0fed",
+              "preview_expires": "2026-11-26T00:33:12Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Stardust",
+            "length": "7:46",
+            "artist": "David Maxim Micic feat. Miyoki",
+            "deezer": {
+              "id": 1178173532,
+              "link": "https://www.deezer.com/track/1178173532",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/1/0/1b1d3f5800beff4e53a601dd68bf4938.mp3?hdnea=exp=1795653192~acl=/api/1/1/1/b/1/0/1b1d3f5800beff4e53a601dd68bf4938.mp3*~data=user_id=0,application_id=42~hmac=36ac441894d8a6831c5a2f6f5fa65ba457f08c13243038675732dc1393915274",
+              "preview_expires": "2026-11-26T00:33:12Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/David Maxim Micic/Eco.jpg"
+}

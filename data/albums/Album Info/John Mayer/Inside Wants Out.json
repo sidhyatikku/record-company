@@ -1,0 +1,105 @@
+{
+  "title": "Inside Wants Out",
+  "artist": "John Mayer",
+  "year": 1999,
+  "release_date": "1999-09-24",
+  "type": "EP",
+  "description": "Inside Wants Out is the debut EP by American singer-songwriter John Mayer. Released by Mayer Music in 1999, the album was later re-released by Columbia Records on August 2, 2002, with the omission of \"Neon 12:47 AM\". Basic tracks were to be recorded at Full Moon Studio in Athens, Georgia. The songs \"Back to You\", \"No Such Thing\", \"My Stupid Mouth\", and \"Neon\" were later re-recorded for Mayer's 2001 full-length debut album Room for Squares.",
+  "genres": [
+    "alternative rock",
+    "indie rock",
+    "rock",
+    "acoustic rock",
+    "folk pop",
+    "folk rock",
+    "pop"
+  ],
+  "tags": [
+    "alternative rock",
+    "indie rock",
+    "rock",
+    "acoustic rock",
+    "adult alternative pop/rock",
+    "folk pop",
+    "folk rock",
+    "pop",
+    "singer/songwriter"
+  ],
+  "rating": {
+    "value_out_of_5": 3,
+    "votes": 3
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3986e2cc-edac-3148-b92d-55660a448203",
+    "wikipedia": "https://en.wikipedia.org/wiki/Inside_Wants_Out",
+    "allmusic": "https://www.allmusic.com/album/mw0000227943",
+    "discogs": "https://www.discogs.com/master/638076",
+    "wikidata": "https://www.wikidata.org/wiki/Q3047066",
+    "deezer": null
+  },
+  "musicbrainz_id": "3986e2cc-edac-3148-b92d-55660a448203",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/a1fc8d4f-ae62-4f23-84fd-3d7eb242f569",
+      "barcode": "696998686120",
+      "title": "Inside Wants Out",
+      "disambiguation": null,
+      "date": "2002-09-17",
+      "country": "US"
+    },
+    "total_tracks": 8,
+    "total_length": "31:56",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Back to You",
+            "length": "4:01"
+          },
+          {
+            "number": "2",
+            "title": "No Such Thing",
+            "length": "3:51"
+          },
+          {
+            "number": "3",
+            "title": "My Stupid Mouth",
+            "length": "4:17"
+          },
+          {
+            "number": "4",
+            "title": "Neon",
+            "length": "3:57"
+          },
+          {
+            "number": "5",
+            "title": "Victoria",
+            "length": "3:49"
+          },
+          {
+            "number": "6",
+            "title": "Love Soon",
+            "length": "3:39"
+          },
+          {
+            "number": "7",
+            "title": "Comfortable",
+            "length": "5:01"
+          },
+          {
+            "number": "8",
+            "title": "Quiet",
+            "length": "3:21"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/John Mayer/Inside Wants Out.jpg"
+}

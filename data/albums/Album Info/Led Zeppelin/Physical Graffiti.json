@@ -1,0 +1,239 @@
+{
+  "title": "Physical Graffiti",
+  "artist": "Led Zeppelin",
+  "year": 1975,
+  "release_date": "1975-02-24",
+  "type": "Album",
+  "description": "Physical Graffiti is the sixth studio album by the English rock band Led Zeppelin. Released as a double album on 24 February 1975 in the United States and on 28 February 1975 in the United Kingdom, it was the group's first album to be released under their new label, Swan Song Records. The band wrote and recorded eight new songs for the album in early 1974 at Headley Grange, a country house in Hampshire, which gave them ample time to improvise arrangements and experiment with recording. The total playing time covered just under three sides of an LP, so they decided to expand it into a double album by including seven previously unreleased tracks from the sessions for the band's earlier albums Led Zeppelin III (1970), Led Zeppelin IV (1971) and Houses of the Holy (1973). The album covered a range of styles including hard rock, progressive rock, rock 'n' roll and folk. The album was then mixed over summer 1974 and planned for an end-of-year release; however, its release was delayed because the Peter Corriston–designed die-cut album cover proved difficult to manufacture.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "blues rock",
+    "classic rock",
+    "folk rock",
+    "blues",
+    "heavy metal",
+    "arena rock",
+    "british blues"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "blues rock",
+    "album rock",
+    "classic rock",
+    "folk rock",
+    "blues",
+    "heavy metal",
+    "70s",
+    "arena rock",
+    "british blues",
+    "british metal",
+    "double album",
+    "kashmir",
+    "pop/rock",
+    "regional blues"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 27
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/116c9490-6af4-3827-8261-2d5b1f508fe7",
+    "wikipedia": "https://en.wikipedia.org/wiki/Physical_Graffiti",
+    "allmusic": "https://www.allmusic.com/album/mw0000190771",
+    "discogs": "https://www.discogs.com/master/4392",
+    "wikidata": "https://www.wikidata.org/wiki/Q210809",
+    "deezer": "https://www.deezer.com/album/9698192"
+  },
+  "musicbrainz_id": "116c9490-6af4-3827-8261-2d5b1f508fe7",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/7b28d280-2dbe-41f8-b537-f9a662c43086",
+      "barcode": "603497906123",
+      "title": "Physical Graffiti",
+      "disambiguation": null,
+      "date": "2010-06-10",
+      "country": "US"
+    },
+    "total_tracks": 15,
+    "total_length": "1:22:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Custard Pie",
+            "length": "4:14",
+            "deezer": {
+              "id": 95319204,
+              "link": "https://www.deezer.com/track/95319204",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/2/0/052ecff49f698f96362ced2aa9d5e997.mp3?hdnea=exp=1795656453~acl=/api/1/1/0/5/2/0/052ecff49f698f96362ced2aa9d5e997.mp3*~data=user_id=0,application_id=42~hmac=8116e6d022951a1b9cfc031978e2a56b9370825e5a8ad1f478d4553766f6da1e",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Rover",
+            "length": "5:37",
+            "deezer": {
+              "id": 95319206,
+              "link": "https://www.deezer.com/track/95319206",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/2/0/1227f7928d566d5a2bcab0ad8edc0f38.mp3?hdnea=exp=1795656453~acl=/api/1/1/1/2/2/0/1227f7928d566d5a2bcab0ad8edc0f38.mp3*~data=user_id=0,application_id=42~hmac=009ab00b39252f6ee2823b479f3df1885624f841a1ce2dbc91016cd34c1a0a6c",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "In My Time of Dying",
+            "length": "11:06",
+            "deezer": {
+              "id": 95319208,
+              "link": "https://www.deezer.com/track/95319208",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/e/0/77e1c7e0bdc38b11f45493674ff1751b.mp3?hdnea=exp=1795656453~acl=/api/1/1/7/7/e/0/77e1c7e0bdc38b11f45493674ff1751b.mp3*~data=user_id=0,application_id=42~hmac=8aabc1c25d537cb103b518b4a7cfdd689e6b9340175fea64ee5b05954e776e8a",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Houses of the Holy",
+            "length": "4:02",
+            "deezer": {
+              "id": 95319210,
+              "link": "https://www.deezer.com/track/95319210",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/1/0/0d105f162f6c0a4e235ff49f663a7506.mp3?hdnea=exp=1795656453~acl=/api/1/1/0/d/1/0/0d105f162f6c0a4e235ff49f663a7506.mp3*~data=user_id=0,application_id=42~hmac=522886d0237d2dac84a182db71d94354e44b6d4fc603667af723a76822f7f15a",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Trampled Under Foot",
+            "length": "5:37",
+            "deezer": {
+              "id": 95319212,
+              "link": "https://www.deezer.com/track/95319212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/1/0/b61ee4c1f1d62250f971516ab7ae97a3.mp3?hdnea=exp=1795656453~acl=/api/1/1/b/6/1/0/b61ee4c1f1d62250f971516ab7ae97a3.mp3*~data=user_id=0,application_id=42~hmac=71b54860c0a7086954e8310028f24ceec98cf2537dba5efe247ec26a47dd3871",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Kashmir",
+            "length": "8:28",
+            "deezer": {
+              "id": 95319214,
+              "link": "https://www.deezer.com/track/95319214",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/0/0/8d03f9a22b39f3801189ca58b476f0ca.mp3?hdnea=exp=1795656453~acl=/api/1/1/8/d/0/0/8d03f9a22b39f3801189ca58b476f0ca.mp3*~data=user_id=0,application_id=42~hmac=5832996c709d0b8174a7af09a7f18533da755809554a450180e85bf3a97f355d",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "In the Light",
+            "length": "8:47",
+            "deezer": {
+              "id": 95319216,
+              "link": "https://www.deezer.com/track/95319216",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/9/0/c392f08e60217800487ebea53b31f555.mp3?hdnea=exp=1795656453~acl=/api/1/1/c/3/9/0/c392f08e60217800487ebea53b31f555.mp3*~data=user_id=0,application_id=42~hmac=5a70f88daf95bf29466d8d937e0ac20387d3df4ae5275a498d5285df7e400a90",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Bron‐Yr‐Aur",
+            "length": "2:06",
+            "deezer": {
+              "id": 95319218,
+              "link": "https://www.deezer.com/track/95319218",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/3/0/4d37db5fd29ae7449db67a1f861044e2.mp3?hdnea=exp=1795656453~acl=/api/1/1/4/d/3/0/4d37db5fd29ae7449db67a1f861044e2.mp3*~data=user_id=0,application_id=42~hmac=e0d5405de73d763c5b65d174f1dc7a69e3604c6b7aba70674736f8b1c3e6a2b3",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Down by the Seaside",
+            "length": "5:16",
+            "deezer": {
+              "id": 95319220,
+              "link": "https://www.deezer.com/track/95319220",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/f/0/4cf77cae9b08c91164bb1b2eb8801434.mp3?hdnea=exp=1795656453~acl=/api/1/1/4/c/f/0/4cf77cae9b08c91164bb1b2eb8801434.mp3*~data=user_id=0,application_id=42~hmac=a0961bca86146ef526ac091a1b553eaec8e879039f25a6a24ef61310f95207ae",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Ten Years Gone",
+            "length": "6:33",
+            "deezer": {
+              "id": 95319222,
+              "link": "https://www.deezer.com/track/95319222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/4/0/264ee27decbe8c5f2d90d595acf58e34.mp3?hdnea=exp=1795656453~acl=/api/1/1/2/6/4/0/264ee27decbe8c5f2d90d595acf58e34.mp3*~data=user_id=0,application_id=42~hmac=a3339cf5c79eb82decb095e98cb208f88e6286af5f063203608acd0aaa7a13d8",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Night Flight",
+            "length": "3:38",
+            "deezer": {
+              "id": 95319224,
+              "link": "https://www.deezer.com/track/95319224",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/6/0/7469bfa0bd4965cb3c954fc4f158ee43.mp3?hdnea=exp=1795656453~acl=/api/1/1/7/4/6/0/7469bfa0bd4965cb3c954fc4f158ee43.mp3*~data=user_id=0,application_id=42~hmac=0d390361fa74b312376a506a2c6336fcee02872cd81494aed456e69944063d21",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Wanton Song",
+            "length": "4:10",
+            "deezer": {
+              "id": 95319226,
+              "link": "https://www.deezer.com/track/95319226",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/4/0/d04c4a429ee83e1b7e69b1223021f268.mp3?hdnea=exp=1795656453~acl=/api/1/1/d/0/4/0/d04c4a429ee83e1b7e69b1223021f268.mp3*~data=user_id=0,application_id=42~hmac=49756434bfcb922ecb53503443050f85d6d62d41f80d0e2195009145f32af367",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Boogie With Stu",
+            "length": "3:53",
+            "deezer": {
+              "id": 95319228,
+              "link": "https://www.deezer.com/track/95319228",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3811509257b6edd06a908c9c890c7d35.mp3?hdnea=exp=1795656453~acl=/api/1/1/3/8/1/0/3811509257b6edd06a908c9c890c7d35.mp3*~data=user_id=0,application_id=42~hmac=2bbbeadc9702a38967dc7ce87a5f9cde19f01ebd606658a078fc836102e9d376",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Black Country Woman",
+            "length": "4:33",
+            "deezer": {
+              "id": 95319230,
+              "link": "https://www.deezer.com/track/95319230",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/1/0/541aead20b890c1511e55f3c9cc9df1b.mp3?hdnea=exp=1795656453~acl=/api/1/1/5/4/1/0/541aead20b890c1511e55f3c9cc9df1b.mp3*~data=user_id=0,application_id=42~hmac=798c0764de8d54c307ef1febade5bcf3c25982a076482bd0cb705a6d615dc67f",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Sick Again",
+            "length": "4:43",
+            "deezer": {
+              "id": 95319232,
+              "link": "https://www.deezer.com/track/95319232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/c/0/b5ced6712302a608550290422b377000.mp3?hdnea=exp=1795656453~acl=/api/1/1/b/5/c/0/b5ced6712302a608550290422b377000.mp3*~data=user_id=0,application_id=42~hmac=b08e51057996ee63fa71caeb3215f4c85e311cddbf745c60888426f6ed434b9a",
+              "preview_expires": "2026-11-26T01:27:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Led Zeppelin/Physical Graffiti.jpg"
+}

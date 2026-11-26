@@ -1,0 +1,418 @@
+{
+  "title": "The Essential Journey",
+  "artist": "Journey",
+  "year": 2001,
+  "release_date": "2001-10-16",
+  "type": "Album + Compilation",
+  "description": "The Essential Journey is a compilation of songs from the rock band Journey. Released on October 16, 2001, it is part of Sony BMG's \"Essential\" series of compilation albums. The album includes most of Journey's major and minor hits that have charted on Billboard Hot 100. It covers material recorded while Steve Perry was lead singer of the band, from 1978's Infinity to 1996's Trial by Fire, neglecting Journey albums recorded before and after his membership. The first disc is Greatest Hits with some minor changes: tracks are in a slightly different order, \"After the Fall\" replaces \"Be Good to Yourself\", and \"When You Love a Woman\" is included.",
+  "genres": [
+    "rock",
+    "hard rock",
+    "soft rock",
+    "arena rock",
+    "classic rock"
+  ],
+  "tags": [
+    "rock",
+    "hard rock",
+    "album rock",
+    "soft rock",
+    "adult contemporary",
+    "arena rock",
+    "classic rock",
+    "contemporary pop/rock",
+    "pop/rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e74950c4-21a2-3ac5-bc11-59f031e567ed",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Essential_Journey",
+    "allmusic": "https://www.allmusic.com/album/mw0000591467",
+    "discogs": "https://www.discogs.com/master/92804",
+    "wikidata": "https://www.wikidata.org/wiki/Q7732486",
+    "deezer": "https://www.deezer.com/album/78200"
+  },
+  "musicbrainz_id": "e74950c4-21a2-3ac5-bc11-59f031e567ed",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/ed737bcd-7c03-4010-bf9b-75427d601a56",
+      "barcode": "696998608023",
+      "title": "The Essential Journey",
+      "disambiguation": null,
+      "date": "2001",
+      "country": "US"
+    },
+    "total_tracks": 32,
+    "total_length": "2:09:29",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Only the Young",
+            "length": "4:05",
+            "deezer": {
+              "id": 625952,
+              "link": "https://www.deezer.com/track/625952",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/3/0/ef380de92c57d2bf19f027f088db57bd.mp3?hdnea=exp=1795655752~acl=/api/1/1/e/f/3/0/ef380de92c57d2bf19f027f088db57bd.mp3*~data=user_id=0,application_id=42~hmac=7514d11b4f944fc44f3683c74eb414b4ac1bf41f40fd59be7a9ae71ec8eeb98b",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Don’t Stop Believin’",
+            "length": "4:11",
+            "deezer": {
+              "id": 625643,
+              "link": "https://www.deezer.com/track/625643",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/0/0/d2075fdf5e55ef0a8f8383cefd6fc51b.mp3?hdnea=exp=1795655752~acl=/api/1/1/d/2/0/0/d2075fdf5e55ef0a8f8383cefd6fc51b.mp3*~data=user_id=0,application_id=42~hmac=1f12a24716ed059464c82c20488d48bdfb3b9547986cafb8f6ef8e4606cf4f8f",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Wheel in the Sky",
+            "length": "4:13",
+            "deezer": {
+              "id": 626291,
+              "link": "https://www.deezer.com/track/626291",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/7/0/9a75de5e779767f43736e637b88cdbaa.mp3?hdnea=exp=1795655752~acl=/api/1/1/9/a/7/0/9a75de5e779767f43736e637b88cdbaa.mp3*~data=user_id=0,application_id=42~hmac=6fe8609ac66976a9673ddefbed7bbc23a9495055e08797ff2d6709121ba9bb78",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Faithfully",
+            "length": "4:27",
+            "deezer": {
+              "id": 626293,
+              "link": "https://www.deezer.com/track/626293",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/0/0/fc05082967eb501bb993cacf8f04361c.mp3?hdnea=exp=1795655752~acl=/api/1/1/f/c/0/0/fc05082967eb501bb993cacf8f04361c.mp3*~data=user_id=0,application_id=42~hmac=2d29433f4f064e827ecb63910d26c5429e76fc8f2d4c70799a5ce5990bf147b6",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Any Way You Want It",
+            "length": "3:24",
+            "deezer": {
+              "id": 625716,
+              "link": "https://www.deezer.com/track/625716",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/d/0/73dc4fb0aea647eab89d0b56b536d681.mp3?hdnea=exp=1795655752~acl=/api/1/1/7/3/d/0/73dc4fb0aea647eab89d0b56b536d681.mp3*~data=user_id=0,application_id=42~hmac=daa28ab97a4f712e2c6c1cb3b24251402ff94580e4bbbe1ebd50de38fa6dfc0e",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Ask the Lonely",
+            "length": "3:55",
+            "deezer": {
+              "id": 626268,
+              "link": "https://www.deezer.com/track/626268",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/2/0/20244d0e3f39d4bb2d4558c8b8d691ef.mp3?hdnea=exp=1795655752~acl=/api/1/1/2/0/2/0/20244d0e3f39d4bb2d4558c8b8d691ef.mp3*~data=user_id=0,application_id=42~hmac=32b4e40debb7f5d7204ee4cf0f6e55ab1c5571d590a8cc9e3ac1a42de5a72511",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Who’s Crying Now",
+            "length": "5:02",
+            "deezer": {
+              "id": 625685,
+              "link": "https://www.deezer.com/track/625685",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/7/0/f37c9c1bd15e406f2384417fe33fbee3.mp3?hdnea=exp=1795655752~acl=/api/1/1/f/3/7/0/f37c9c1bd15e406f2384417fe33fbee3.mp3*~data=user_id=0,application_id=42~hmac=45f4b86aa8c4128c783c9019e6f4c401a28eea92fd309c0d81b04a2345b5ba23",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Separate Ways (Worlds Apart)",
+            "length": "5:26",
+            "deezer": {
+              "id": 625904,
+              "link": "https://www.deezer.com/track/625904",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/a/0/1aa4047f4831d993eb29383977eb90c5.mp3?hdnea=exp=1795655752~acl=/api/1/1/1/a/a/0/1aa4047f4831d993eb29383977eb90c5.mp3*~data=user_id=0,application_id=42~hmac=781d59e18c66c274bc14237e324c889ba2c17934fff6cfa3710e3a547a288e6d",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Lights",
+            "length": "3:12",
+            "deezer": {
+              "id": 625681,
+              "link": "https://www.deezer.com/track/625681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/f/0/b9f68de6d604bbea94894f586db7ef56.mp3?hdnea=exp=1795655752~acl=/api/1/1/b/9/f/0/b9f68de6d604bbea94894f586db7ef56.mp3*~data=user_id=0,application_id=42~hmac=e58f0490adb46bd6906351d81b72443c2882f733240df39fc457a90027f11abc",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Lovin’, Touchin’, Squeezin’",
+            "length": "3:55",
+            "deezer": {
+              "id": 626226,
+              "link": "https://www.deezer.com/track/626226",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/2/0/2722bbe120cbe6381dd52241ccc280c5.mp3?hdnea=exp=1795655752~acl=/api/1/1/2/7/2/0/2722bbe120cbe6381dd52241ccc280c5.mp3*~data=user_id=0,application_id=42~hmac=db12fdf8529603e88bface6c1b44d53a87c7d2fe1a196161c02164579115b623",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Open Arms",
+            "length": "3:19",
+            "deezer": {
+              "id": 625672,
+              "link": "https://www.deezer.com/track/625672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/186c99377efc08fcf102a840020bf17c.mp3?hdnea=exp=1795655752~acl=/api/1/1/1/8/6/0/186c99377efc08fcf102a840020bf17c.mp3*~data=user_id=0,application_id=42~hmac=62c9eb59f72b018156d97cfa299622bc1237c0a92b948f2f74f8ecce7ed26816",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Girl Can’t Help It",
+            "length": "3:51",
+            "deezer": {
+              "id": 626251,
+              "link": "https://www.deezer.com/track/626251",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/c/0/c8cf98e0d73ab8403bbda359ab07a15a.mp3?hdnea=exp=1795655752~acl=/api/1/1/c/8/c/0/c8cf98e0d73ab8403bbda359ab07a15a.mp3*~data=user_id=0,application_id=42~hmac=263554cc832bee5d135bd7117a75a6a6a183482e7369affe814cd38ea07d4f66",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Send Her My Love",
+            "length": "3:55",
+            "deezer": {
+              "id": 626318,
+              "link": "https://www.deezer.com/track/626318",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/b/0/8cb97c82de746d713b0625510632a4e4.mp3?hdnea=exp=1795655752~acl=/api/1/1/8/c/b/0/8cb97c82de746d713b0625510632a4e4.mp3*~data=user_id=0,application_id=42~hmac=421eb54380877dc7f90bb463d243bac90a6b02abdb55a9cef9089f5467edf57d",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "When You Love a Woman",
+            "length": "4:10",
+            "deezer": {
+              "id": 625647,
+              "link": "https://www.deezer.com/track/625647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/d/0/5cd336fec3788de43abeff77ced2ef9d.mp3?hdnea=exp=1795655752~acl=/api/1/1/5/c/d/0/5cd336fec3788de43abeff77ced2ef9d.mp3*~data=user_id=0,application_id=42~hmac=c9c09b0f62a55cd219a0618cec93b7e14e93d105fd1fadc264b4b797f43afcd6",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "I’ll Be Alright Without You",
+            "length": "4:36",
+            "deezer": {
+              "id": 623848,
+              "link": "https://www.deezer.com/track/623848",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/9/0/c39f3c32b1ac5ac1535f8a84a4376b79.mp3?hdnea=exp=1795655752~acl=/api/1/1/c/3/9/0/c39f3c32b1ac5ac1535f8a84a4376b79.mp3*~data=user_id=0,application_id=42~hmac=d5a5e5e1e306062bc33f190d82612ec0fdb04c49dc1b7400bef63f9c20d75559",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "After the Fall",
+            "length": "5:01",
+            "deezer": {
+              "id": 625749,
+              "link": "https://www.deezer.com/track/625749",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/9/0/2891fd9cdbd92767b49d5de9c31f46ab.mp3?hdnea=exp=1795655752~acl=/api/1/1/2/8/9/0/2891fd9cdbd92767b49d5de9c31f46ab.mp3*~data=user_id=0,application_id=42~hmac=4252437ba637ad79189fcc480bffa5fd0d73eb4429dfeee23a1155e7af81ae33",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Chain Reaction",
+            "length": "4:21",
+            "deezer": {
+              "id": 625673,
+              "link": "https://www.deezer.com/track/625673",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/b/0/b6b7fca6138ce7565d129781bc158421.mp3?hdnea=exp=1795655752~acl=/api/1/1/b/6/b/0/b6b7fca6138ce7565d129781bc158421.mp3*~data=user_id=0,application_id=42~hmac=8d1574135bb67e89a7f9b55ebccb79ee782a3e1212877bebb519191ca1280584",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Message of Love",
+            "length": "5:35",
+            "deezer": {
+              "id": 625864,
+              "link": "https://www.deezer.com/track/625864",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/4/0/78428105c77b05e54434bdd9a2f8562c.mp3?hdnea=exp=1795655752~acl=/api/1/1/7/8/4/0/78428105c77b05e54434bdd9a2f8562c.mp3*~data=user_id=0,application_id=42~hmac=e1eec8dd6d81970d695616bb1be39e8642fc97862b4510f0ee34385460bbaf6d",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Somethin’ to Hide",
+            "length": "3:30",
+            "deezer": {
+              "id": 626325,
+              "link": "https://www.deezer.com/track/626325",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/c/0/7bc9c7bb4d3dcc116e5a6a49f2a925a9.mp3?hdnea=exp=1795655752~acl=/api/1/1/7/b/c/0/7bc9c7bb4d3dcc116e5a6a49f2a925a9.mp3*~data=user_id=0,application_id=42~hmac=a55e1c7354a13e64ecf0de06b9b766ec3b6b91b8373b31e876055986128587a2",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Line of Fire (live)",
+            "length": "3:20",
+            "deezer": {
+              "id": 622437,
+              "link": "https://www.deezer.com/track/622437",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/3/0/2234c725e32d8215da67ac2437841d54.mp3?hdnea=exp=1795655752~acl=/api/1/1/2/2/3/0/2234c725e32d8215da67ac2437841d54.mp3*~data=user_id=0,application_id=42~hmac=c51cca50107b0ae520097a9d79fe192714eeeadd627f92ba7fb66e02acb593b6",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Anytime",
+            "length": "3:29",
+            "deezer": {
+              "id": 625951,
+              "link": "https://www.deezer.com/track/625951",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/8/0/f68e4bdea4c8984923ab472297e09c85.mp3?hdnea=exp=1795655752~acl=/api/1/1/f/6/8/0/f68e4bdea4c8984923ab472297e09c85.mp3*~data=user_id=0,application_id=42~hmac=238149566aa5fd3dcd983293cd92ae568053e2937436a70d2c5ee2be36d29626",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Stone in Love",
+            "length": "4:27",
+            "deezer": {
+              "id": 625780,
+              "link": "https://www.deezer.com/track/625780",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/7/0/b07bf58c53887e6b52845db95faa1858.mp3?hdnea=exp=1795655752~acl=/api/1/1/b/0/7/0/b07bf58c53887e6b52845db95faa1858.mp3*~data=user_id=0,application_id=42~hmac=d285a12500d6d54f050b67a558740c375ea65d4ebbb843edc9e889d45f7f989f",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Patiently",
+            "length": "3:23",
+            "deezer": {
+              "id": 626270,
+              "link": "https://www.deezer.com/track/626270",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/6/0/c06eb2f7234906c090240686b1b3c8b5.mp3?hdnea=exp=1795655752~acl=/api/1/1/c/0/6/0/c06eb2f7234906c090240686b1b3c8b5.mp3*~data=user_id=0,application_id=42~hmac=cadc28a3c1a8496163621ee7651b0d5b2c72d47c5775a2ec6e4c7e7d463cd810",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Good Morning Girl",
+            "length": "1:45",
+            "deezer": {
+              "id": 626028,
+              "link": "https://www.deezer.com/track/626028",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/0/0/9c0414be8e976da99d5ad8fa89f9d69a.mp3?hdnea=exp=1795655752~acl=/api/1/1/9/c/0/0/9c0414be8e976da99d5ad8fa89f9d69a.mp3*~data=user_id=0,application_id=42~hmac=82d834bf76f2700610a1da505aa0c6e476d7d64b91d9fed5f05148ae0676a899",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Eyes of a Woman",
+            "length": "4:34",
+            "deezer": {
+              "id": 626110,
+              "link": "https://www.deezer.com/track/626110",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/7/0/c77653a784e9df178f3877cc0dad39fd.mp3?hdnea=exp=1795655752~acl=/api/1/1/c/7/7/0/c77653a784e9df178f3877cc0dad39fd.mp3*~data=user_id=0,application_id=42~hmac=0f91d9b4fb44ff51b1bb046f22a8704f869b56c2ed231ddc179eec825a9640b9",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Be Good to Yourself",
+            "length": "3:53",
+            "deezer": {
+              "id": 625911,
+              "link": "https://www.deezer.com/track/625911",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/1/0/5416221f603dd928d8d07d5e14124475.mp3?hdnea=exp=1795655752~acl=/api/1/1/5/4/1/0/5416221f603dd928d8d07d5e14124475.mp3*~data=user_id=0,application_id=42~hmac=bf8d9c3e91494f850b1fa93c546f96b5e6e1ec203f5a54dd71ac5a3cf2893d17",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Still They Ride",
+            "length": "3:51",
+            "deezer": {
+              "id": 625692,
+              "link": "https://www.deezer.com/track/625692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/c/0/34cfc6b0456a06730bb9e6bcd9b3aec4.mp3?hdnea=exp=1795655752~acl=/api/1/1/3/4/c/0/34cfc6b0456a06730bb9e6bcd9b3aec4.mp3*~data=user_id=0,application_id=42~hmac=6c830414f3d991b39af742e2fd81ca537dac8402396a1bbea6b31c16651edeb6",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Baby I’m a Leavin’ You",
+            "length": "2:48",
+            "deezer": {
+              "id": 625794,
+              "link": "https://www.deezer.com/track/625794",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/6/0/8763bcd01a0ef3d6fe40bf6c13637961.mp3?hdnea=exp=1795655752~acl=/api/1/1/8/7/6/0/8763bcd01a0ef3d6fe40bf6c13637961.mp3*~data=user_id=0,application_id=42~hmac=addcee0914e974e4dd6b5e43bcb75dd1af210ac8405cf7e85acd9c4d9234ce4b",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Mother, Father",
+            "length": "5:29",
+            "deezer": {
+              "id": 625789,
+              "link": "https://www.deezer.com/track/625789",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/0/0/8206dee3dee2bf1d6b2e8edbdf6295c6.mp3?hdnea=exp=1795655752~acl=/api/1/1/8/2/0/0/8206dee3dee2bf1d6b2e8edbdf6295c6.mp3*~data=user_id=0,application_id=42~hmac=b10c8917e4172a889b1e8e68b654e401908f7aa54ec8928c9cdd50b99e9417e6",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Just the Same Way",
+            "length": "3:19",
+            "deezer": {
+              "id": 626036,
+              "link": "https://www.deezer.com/track/626036",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/8/0/7280dcf48260d008221b222bcf1de3ef.mp3?hdnea=exp=1795655752~acl=/api/1/1/7/2/8/0/7280dcf48260d008221b222bcf1de3ef.mp3*~data=user_id=0,application_id=42~hmac=78eaced9e92cf24534f1b0efc4aa4d0d91f24dadbc03752816cbf78a73cab2ec",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Escape",
+            "length": "5:19",
+            "deezer": {
+              "id": 625763,
+              "link": "https://www.deezer.com/track/625763",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/d/0/25d1bd9e3bb6b237ebfc6b9564bb4f21.mp3?hdnea=exp=1795655752~acl=/api/1/1/2/5/d/0/25d1bd9e3bb6b237ebfc6b9564bb4f21.mp3*~data=user_id=0,application_id=42~hmac=6b12f612415b8cfb607ea7a85009d505b8d47dc2f007ba363ac17b11602cc717",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "The Party’s Over (Hopelessly in Love)",
+            "length": "3:42",
+            "deezer": {
+              "id": 625729,
+              "link": "https://www.deezer.com/track/625729",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/c/0/27ca25dcca3650de743a9ca5c2eb47be.mp3?hdnea=exp=1795655752~acl=/api/1/1/2/7/c/0/27ca25dcca3650de743a9ca5c2eb47be.mp3*~data=user_id=0,application_id=42~hmac=f44a292c57e80efeb826e1a030656a06a208fcd36f9408b26da21a554a4cfd26",
+              "preview_expires": "2026-11-26T01:15:52Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Journey/The Essential Journey.jpg"
+}

@@ -1,0 +1,292 @@
+{
+  "title": "Unplugged",
+  "artist": "Eric Clapton",
+  "year": 1992,
+  "release_date": "1992-08-21",
+  "type": "Album + Live",
+  "description": "Unplugged is a 1992 live album by the English guitarist Eric Clapton, recorded at Bray Studios in Windsor, England, in front of an audience for the MTV Unplugged TV series. It includes performances of the songs \"Tears in Heaven\" (1992) and \"Layla\" (1970). The album won three Grammy Awards at the 35th Annual Grammy Awards in 1993. It became the best-selling live album of all time, and Clapton's best-selling album, selling 26 million copies worldwide.",
+  "genres": [
+    "rock",
+    "blues rock",
+    "blues",
+    "classic rock",
+    "acoustic blues",
+    "pop"
+  ],
+  "tags": [
+    "rock",
+    "blues rock",
+    "blues",
+    "classic rock",
+    "5+ wochen",
+    "acoustic",
+    "acoustic blues",
+    "english",
+    "offizielle charts",
+    "pop"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 12
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/61c4a210-6e90-3d41-b6c1-fd2c7e4fb6ac",
+    "wikipedia": "https://en.wikipedia.org/wiki/Unplugged_(Eric_Clapton_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000081583",
+    "discogs": "https://www.discogs.com/master/85294",
+    "wikidata": "https://www.wikidata.org/wiki/Q671547",
+    "deezer": "https://www.deezer.com/album/360638327"
+  },
+  "musicbrainz_id": "61c4a210-6e90-3d41-b6c1-fd2c7e4fb6ac",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d43ef200-0079-4037-a868-501201af9ac2",
+      "barcode": "603497909032",
+      "title": "Unplugged (deluxe edition)",
+      "disambiguation": null,
+      "date": "2013-10-11",
+      "country": "US"
+    },
+    "total_tracks": 20,
+    "total_length": "1:36:15",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Signe",
+            "length": "3:29",
+            "deezer": {
+              "id": 1933843207,
+              "link": "https://www.deezer.com/track/1933843207",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/e/0/39eda2c32ad0f736dbf7644f6670e00b.mp3?hdnea=exp=1795654030~acl=/api/1/1/3/9/e/0/39eda2c32ad0f736dbf7644f6670e00b.mp3*~data=user_id=0,application_id=42~hmac=f648aa2f0a7b243c9cb3c807025199354fe96abdb4f97e62f3fd4008872abfd9",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Before You Accuse Me",
+            "length": "3:59",
+            "deezer": {
+              "id": 1933843217,
+              "link": "https://www.deezer.com/track/1933843217",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/e/0/f6e7690de5c60b075f0200be1b34954a.mp3?hdnea=exp=1795654030~acl=/api/1/1/f/6/e/0/f6e7690de5c60b075f0200be1b34954a.mp3*~data=user_id=0,application_id=42~hmac=5f02dbe86e45f0c6906451f0a557aeeb98c662f1ab79bdda496cd55614e4fe7b",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Hey Hey",
+            "length": "3:46",
+            "deezer": {
+              "id": 1933843227,
+              "link": "https://www.deezer.com/track/1933843227",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/c/0/45c38ad561568c1fb68b3cd3aed772be.mp3?hdnea=exp=1795654030~acl=/api/1/1/4/5/c/0/45c38ad561568c1fb68b3cd3aed772be.mp3*~data=user_id=0,application_id=42~hmac=c5ebb31f8066660e775fde717e981001ac4a7fce26dd107b6fd5fdb91f2440bb",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Tears in Heaven",
+            "length": "4:40",
+            "deezer": {
+              "id": 1933843237,
+              "link": "https://www.deezer.com/track/1933843237",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/7/0/557de587e0d01c8da7a2b695d71d8ea0.mp3?hdnea=exp=1795654030~acl=/api/1/1/5/5/7/0/557de587e0d01c8da7a2b695d71d8ea0.mp3*~data=user_id=0,application_id=42~hmac=7952a0139b99d030e0ec510f4aa7cb5ab1ec702c1a0e9eb1f6dcb1833cb1e5be",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Lonely Stranger",
+            "length": "5:27",
+            "deezer": {
+              "id": 1933843247,
+              "link": "https://www.deezer.com/track/1933843247",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/d/0/2ed49e52090381049d7eb362c99ab760.mp3?hdnea=exp=1795654030~acl=/api/1/1/2/e/d/0/2ed49e52090381049d7eb362c99ab760.mp3*~data=user_id=0,application_id=42~hmac=d58579fd427cef18773b32825665e98bdf2e1385fdf2fc03dd17e621731ec633",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Nobody Knows You When You’re Down and Out",
+            "length": "3:55",
+            "deezer": {
+              "id": 1933843257,
+              "link": "https://www.deezer.com/track/1933843257",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/5/0/775e32bc913ab83b2c76118343385af2.mp3?hdnea=exp=1795654030~acl=/api/1/1/7/7/5/0/775e32bc913ab83b2c76118343385af2.mp3*~data=user_id=0,application_id=42~hmac=e957bc8986bbf13933e6db3c4588a8d4e05947f682ed211d68993d5980de4d46",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Layla",
+            "length": "4:49",
+            "deezer": {
+              "id": 1933843267,
+              "link": "https://www.deezer.com/track/1933843267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/3/0/2439e464aa92792ef3f4ee82485bed6f.mp3?hdnea=exp=1795654030~acl=/api/1/1/2/4/3/0/2439e464aa92792ef3f4ee82485bed6f.mp3*~data=user_id=0,application_id=42~hmac=e231d7c0bed674779e63af8c3a5d02c6f27790f637955f53e8e8be357056df40",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Running on Faith",
+            "length": "6:30",
+            "deezer": {
+              "id": 1933843277,
+              "link": "https://www.deezer.com/track/1933843277",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/2/0/aa21e429872634cfe64ad94321c44eef.mp3?hdnea=exp=1795654030~acl=/api/1/1/a/a/2/0/aa21e429872634cfe64ad94321c44eef.mp3*~data=user_id=0,application_id=42~hmac=aa0f7c1e3c7a4d92248f1788acbab51e25bab758a7808d71394694d02f60a051",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Walkin’ Blues",
+            "length": "3:36",
+            "deezer": {
+              "id": 1933843287,
+              "link": "https://www.deezer.com/track/1933843287",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/b/0/f0bcbd57e5c34ebb1e55a221a4927bd8.mp3?hdnea=exp=1795654030~acl=/api/1/1/f/0/b/0/f0bcbd57e5c34ebb1e55a221a4927bd8.mp3*~data=user_id=0,application_id=42~hmac=4d46eb51543d6e9c29738a7bddd358f89166f3db60212e244b337b269d95e0ec",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Alberta",
+            "length": "3:38",
+            "deezer": {
+              "id": 1933843297,
+              "link": "https://www.deezer.com/track/1933843297",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/3/0/da3f00de7dd835f92e4dbf1ac356360e.mp3?hdnea=exp=1795654030~acl=/api/1/1/d/a/3/0/da3f00de7dd835f92e4dbf1ac356360e.mp3*~data=user_id=0,application_id=42~hmac=61bc344721b4580874f26ccdd5d8d9abc7220c7979be4abcb9e89b2dcb85fd55",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "San Francisco Bay Blues",
+            "length": "3:28",
+            "deezer": {
+              "id": 1933843307,
+              "link": "https://www.deezer.com/track/1933843307",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/6/0/a768ff55419871e3b50222b2a26dc6bf.mp3?hdnea=exp=1795654030~acl=/api/1/1/a/7/6/0/a768ff55419871e3b50222b2a26dc6bf.mp3*~data=user_id=0,application_id=42~hmac=603dfcf72e6809c88faf1f40926ba375b76a0b988e9e24e4dd75616691973fcd",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Malted Milk",
+            "length": "3:37",
+            "deezer": {
+              "id": 1933843317,
+              "link": "https://www.deezer.com/track/1933843317",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/f/0/d5f5e2f4a4be76555d87c7227cb6c16d.mp3?hdnea=exp=1795654030~acl=/api/1/1/d/5/f/0/d5f5e2f4a4be76555d87c7227cb6c16d.mp3*~data=user_id=0,application_id=42~hmac=0597054b2210f2cbb096cfeb96ef1ecc8c8f778ac6553124b44c4dd477c38ced",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Old Love",
+            "length": "7:51",
+            "deezer": {
+              "id": 1933843327,
+              "link": "https://www.deezer.com/track/1933843327",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/0/0/96095cf025cc56301084a1be4671d5b9.mp3?hdnea=exp=1795654030~acl=/api/1/1/9/6/0/0/96095cf025cc56301084a1be4671d5b9.mp3*~data=user_id=0,application_id=42~hmac=a05e9df5cbc899f60a958bda40b4b3fd2356d2086170672f03945169c4fba952",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Rollin’ & Tumblin’",
+            "length": "4:08",
+            "deezer": {
+              "id": 1933843337,
+              "link": "https://www.deezer.com/track/1933843337",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a597d384d692b9114deb0d636d06604.mp3?hdnea=exp=1795654030~acl=/api/1/1/7/a/5/0/7a597d384d692b9114deb0d636d06604.mp3*~data=user_id=0,application_id=42~hmac=9abe10bcf4662f35e9615a4937734e331caf6dcba95a512b34a3df3e49cda6a3",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Circus",
+            "length": "4:28",
+            "deezer": {
+              "id": 1933843347,
+              "link": "https://www.deezer.com/track/1933843347",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/1/0/9918858fed2d10b55a52341c67367e59.mp3?hdnea=exp=1795654030~acl=/api/1/1/9/9/1/0/9918858fed2d10b55a52341c67367e59.mp3*~data=user_id=0,application_id=42~hmac=bf43656734f805508fc3c900656b7b43631944986fc4e6ec93881ed38540f143",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "My Father’s Eyes (take 1)",
+            "length": "6:22",
+            "deezer": {
+              "id": 1933843357,
+              "link": "https://www.deezer.com/track/1933843357",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/2/0/962700c96ea0074045a946d8200b45d6.mp3?hdnea=exp=1795654030~acl=/api/1/1/9/6/2/0/962700c96ea0074045a946d8200b45d6.mp3*~data=user_id=0,application_id=42~hmac=c8a6f498409cc7ff75ec0bf8c4e5a18bd7edc04de97a2ca456863163958bccb8",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Running on Faith (take 1)",
+            "length": "6:31",
+            "deezer": {
+              "id": 1933843367,
+              "link": "https://www.deezer.com/track/1933843367",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/e/0/a7e4687796a850068ddb9123092e2080.mp3?hdnea=exp=1795654030~acl=/api/1/1/a/7/e/0/a7e4687796a850068ddb9123092e2080.mp3*~data=user_id=0,application_id=42~hmac=9cc1f65a9bd0569180c8632be7ced328bcf3c7ebe349ca3a5793ce419774df2c",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Walkin’ Blues (take 1)",
+            "length": "3:48",
+            "deezer": {
+              "id": 1933843377,
+              "link": "https://www.deezer.com/track/1933843377",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/1/0/2111c96cc04e097e9ce7aa884e70e8d1.mp3?hdnea=exp=1795654030~acl=/api/1/1/2/1/1/0/2111c96cc04e097e9ce7aa884e70e8d1.mp3*~data=user_id=0,application_id=42~hmac=eafc61317677eb2075ce9a14caf64098141a2e386e6b5beaac762cc20898245d",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "My Father’s Eyes (take 2)",
+            "length": "6:42",
+            "deezer": {
+              "id": 1933843387,
+              "link": "https://www.deezer.com/track/1933843387",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71aed7e6877764363fb1662b3749292.mp3?hdnea=exp=1795654030~acl=/api/1/1/a/7/1/0/a71aed7e6877764363fb1662b3749292.mp3*~data=user_id=0,application_id=42~hmac=942290abb86e65d33cd05f3ba8e6a1d758c830c8bd2cd2b3d4be0cb59cad987c",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Worried Life Blues",
+            "length": "5:31",
+            "deezer": {
+              "id": 1933843397,
+              "link": "https://www.deezer.com/track/1933843397",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/6/0/3f66b2341cb87a94c01609c40490f60f.mp3?hdnea=exp=1795654030~acl=/api/1/1/3/f/6/0/3f66b2341cb87a94c01609c40490f60f.mp3*~data=user_id=0,application_id=42~hmac=e934913aa985dbffa8f0e248a612e579b961da142f27a57614c3ed736a23f4d6",
+              "preview_expires": "2026-11-26T00:47:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Eric Clapton/Unplugged.jpg"
+}

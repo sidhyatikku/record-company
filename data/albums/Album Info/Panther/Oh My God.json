@@ -1,0 +1,51 @@
+{
+  "title": "Oh My God",
+  "artist": "Panther",
+  "year": 2023,
+  "release_date": "2023-01-20",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d73f9d36-f6d8-4b77-b4c7-e7d2e4693731",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/1129056661"
+  },
+  "musicbrainz_id": "d73f9d36-f6d8-4b77-b4c7-e7d2e4693731",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/84d84049-bd8b-4e51-a152-c010add53627",
+      "barcode": "840336420642",
+      "title": "Oh My God",
+      "disambiguation": null,
+      "date": "2023-01-20",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:46",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Oh My God",
+            "length": "2:46",
+            "deezer": {
+              "id": 4367444371,
+              "link": "https://www.deezer.com/track/4367444371",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/f/0/26fe6a1a850a4f03cad4e9e3f649117c.mp3?hdnea=exp=1795719335~acl=/api/1/1/2/6/f/0/26fe6a1a850a4f03cad4e9e3f649117c.mp3*~data=user_id=0,application_id=42~hmac=b22dc47dd748f828ad3af2fcaabd4b6d09c69e7440519ff3443d4eb57fb6402f",
+              "preview_expires": "2026-11-26T18:55:35Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Panther/Oh My God.jpg"
+}

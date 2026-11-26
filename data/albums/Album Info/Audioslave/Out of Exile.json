@@ -1,0 +1,190 @@
+{
+  "title": "Out of Exile",
+  "artist": "Audioslave",
+  "year": 2005,
+  "release_date": "2005-05-23",
+  "type": "Album",
+  "description": "Out of Exile is the second studio album by American rock supergroup Audioslave, released on May 23, 2005, internationally, and a day later in the United States, through Epic Records and Interscope Records. It is the band's only album to chart at number one on the Billboard 200 chart. The album spawned the singles \"Be Yourself\", \"Your Time Has Come\" and \"Doesn't Remind Me\" which was nominated for Best Hard Rock Performance at the 48th Grammy Awards.",
+  "genres": [
+    "hard rock",
+    "alternative rock",
+    "post-grunge",
+    "rock"
+  ],
+  "tags": [
+    "hard rock",
+    "alternative rock",
+    "post-grunge",
+    "rock",
+    "alternative and punk"
+  ],
+  "rating": {
+    "value_out_of_5": 4.1,
+    "votes": 13
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/156f5e11-10db-34f4-b874-f8b6c59b7c43",
+    "wikipedia": "https://en.wikipedia.org/wiki/Out_of_Exile",
+    "allmusic": "https://www.allmusic.com/album/mw0000453313",
+    "discogs": "https://www.discogs.com/master/34065",
+    "wikidata": "https://www.wikidata.org/wiki/Q431644",
+    "deezer": "https://www.deezer.com/album/108923"
+  },
+  "musicbrainz_id": "156f5e11-10db-34f4-b874-f8b6c59b7c43",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/15cf2e1a-dcd4-4ad2-9522-5b99ab4f4d41",
+      "barcode": "602498815632",
+      "title": "Out of Exile",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 12,
+    "total_length": "53:43",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Your Time Has Come",
+            "length": "4:15",
+            "deezer": {
+              "id": 978820,
+              "link": "https://www.deezer.com/track/978820",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/d/0/5ada111cb2aac9c78f6cc93c6245941d.mp3?hdnea=exp=1795651727~acl=/api/1/1/5/a/d/0/5ada111cb2aac9c78f6cc93c6245941d.mp3*~data=user_id=0,application_id=42~hmac=6ba22753c8da40e89521a043de5998a1c7cea7ffdbafdb5170ac9929ec392732",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Out of Exile",
+            "length": "4:51",
+            "deezer": {
+              "id": 978821,
+              "link": "https://www.deezer.com/track/978821",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/9/0/ac9d3090b19cddc3b03c827485e39dfb.mp3?hdnea=exp=1795651727~acl=/api/1/1/a/c/9/0/ac9d3090b19cddc3b03c827485e39dfb.mp3*~data=user_id=0,application_id=42~hmac=97508b932dfb5016efe2498784164b4bce5b62cf4883e0afa74250c1827ff792",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Be Yourself",
+            "length": "4:39",
+            "deezer": {
+              "id": 978822,
+              "link": "https://www.deezer.com/track/978822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/d/0/d2d9603f61a7aeb1242a6e4bff204773.mp3?hdnea=exp=1795651727~acl=/api/1/1/d/2/d/0/d2d9603f61a7aeb1242a6e4bff204773.mp3*~data=user_id=0,application_id=42~hmac=8457e68b7b6e7c0732d96390c4dc8d71b3051d4af7b2fd914487868f3fd85723",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Doesn’t Remind Me",
+            "length": "4:16",
+            "deezer": {
+              "id": 978823,
+              "link": "https://www.deezer.com/track/978823",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/c/0/4eca1a22ba0c45a774d27ec8682f74f5.mp3?hdnea=exp=1795651727~acl=/api/1/1/4/e/c/0/4eca1a22ba0c45a774d27ec8682f74f5.mp3*~data=user_id=0,application_id=42~hmac=2735854cce90db89e8c306c592ef5f39c8dbddbddbf13f7508855425fa5ffed3",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Drown Me Slowly",
+            "length": "3:54",
+            "deezer": {
+              "id": 978824,
+              "link": "https://www.deezer.com/track/978824",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/f/0/a0f2e86f80136c956a107cfde15eb052.mp3?hdnea=exp=1795651727~acl=/api/1/1/a/0/f/0/a0f2e86f80136c956a107cfde15eb052.mp3*~data=user_id=0,application_id=42~hmac=365ef154ea53c9ca0c95f16b8047fc2649011363bbef939cf54fb9913831983b",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Heaven’s Dead",
+            "length": "4:37",
+            "deezer": {
+              "id": 978825,
+              "link": "https://www.deezer.com/track/978825",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/b/0/32be8d82328300e42399e4cc3de023fb.mp3?hdnea=exp=1795651727~acl=/api/1/1/3/2/b/0/32be8d82328300e42399e4cc3de023fb.mp3*~data=user_id=0,application_id=42~hmac=7ca26972f9d3cab7573a6cc2398634dce377891abe895ec0c30b28128d4496e2",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Worm",
+            "length": "3:58",
+            "deezer": {
+              "id": 978826,
+              "link": "https://www.deezer.com/track/978826",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/0/0/7505695fec2f01d5efe6e051ab3fcc18.mp3?hdnea=exp=1795651727~acl=/api/1/1/7/5/0/0/7505695fec2f01d5efe6e051ab3fcc18.mp3*~data=user_id=0,application_id=42~hmac=e1a89f19da61254c9d457e065d0b69a59c2fe65b01c58c9b89abfdbdc39529eb",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Man or Animal",
+            "length": "3:53",
+            "deezer": {
+              "id": 978827,
+              "link": "https://www.deezer.com/track/978827",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/f/0/3ff8c92e908df710ad3cb988e282ca6c.mp3?hdnea=exp=1795651727~acl=/api/1/1/3/f/f/0/3ff8c92e908df710ad3cb988e282ca6c.mp3*~data=user_id=0,application_id=42~hmac=23f43f8f110df888978ca9d1a8d0e6909b7fed6e0c6feceab847aa2c25f935fa",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Yesterday to Tomorrow",
+            "length": "4:34",
+            "deezer": {
+              "id": 978828,
+              "link": "https://www.deezer.com/track/978828",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/0/0/170019162fe040d6a9ae7324eeb19b39.mp3?hdnea=exp=1795651727~acl=/api/1/1/1/7/0/0/170019162fe040d6a9ae7324eeb19b39.mp3*~data=user_id=0,application_id=42~hmac=c0e2f6f588a920cf844d72e0c29c9dba37ba9dad3f2ba0f115295b986edb1943",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Dandelion",
+            "length": "4:38",
+            "deezer": {
+              "id": 978829,
+              "link": "https://www.deezer.com/track/978829",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/9/0/ce98e42a040ee1ac1d05ff0f652dce84.mp3?hdnea=exp=1795651727~acl=/api/1/1/c/e/9/0/ce98e42a040ee1ac1d05ff0f652dce84.mp3*~data=user_id=0,application_id=42~hmac=7e8d932297dfc1733c13ac1e5d5a550dfd93dcbbb7c0b88566c71218f9d5450a",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "#1 Zero",
+            "length": "4:59",
+            "deezer": {
+              "id": 978830,
+              "link": "https://www.deezer.com/track/978830",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/3/0/e937c89a7455f10b12625a304d4de1ac.mp3?hdnea=exp=1795651727~acl=/api/1/1/e/9/3/0/e937c89a7455f10b12625a304d4de1ac.mp3*~data=user_id=0,application_id=42~hmac=a48389bd301c01e2fae1d3323b2bf751a9b7d556ba594edb23d4de1094f80da2",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Curse",
+            "length": "5:10",
+            "deezer": {
+              "id": 978831,
+              "link": "https://www.deezer.com/track/978831",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/4/0/104954e8537d55325ad29a0472978851.mp3?hdnea=exp=1795651727~acl=/api/1/1/1/0/4/0/104954e8537d55325ad29a0472978851.mp3*~data=user_id=0,application_id=42~hmac=21e20f39b159074d0867fc94682efe3131223ff7272f3560c8f136f1f97d0f54",
+              "preview_expires": "2026-11-26T00:08:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Audioslave/Out of Exile.jpg"
+}

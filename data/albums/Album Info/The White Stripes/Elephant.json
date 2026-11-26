@@ -1,0 +1,231 @@
+{
+  "title": "Elephant",
+  "artist": "The White Stripes",
+  "year": 2003,
+  "release_date": "2003-03-19",
+  "type": "Album",
+  "description": "Elephant is the fourth studio album by American rock duo the White Stripes. It was released on April 1, 2003 in the United States by V2 Records and in the United Kingdom by XL Recordings. It was produced by vocalist and guitarist Jack White, and was mostly recorded across two weeks at Toe Rag Studios in April and May 2002. Continuing the \"back-to-basics\" approach from the band's previous album, White Blood Cells (2001), it features lyrics about the \"death of the sweetheart\" in American popular culture.",
+  "genres": [
+    "alternative rock",
+    "rock",
+    "blues rock",
+    "garage rock revival",
+    "punk blues",
+    "indie rock",
+    "garage rock",
+    "alternative pop",
+    "pop"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock",
+    "blues rock",
+    "garage rock revival",
+    "punk blues",
+    "indie rock",
+    "alternative and punk",
+    "garage rock",
+    "alt rock",
+    "alternative pop",
+    "alternative pop/rock",
+    "alternative/indie",
+    "alternative/indie rock",
+    "blues-rock",
+    "contemporary rock",
+    "discogs/the most popular album released every year from 1950 to 2020",
+    "indie sleaze",
+    "pop",
+    "raw"
+  ],
+  "rating": {
+    "value_out_of_5": 3.85,
+    "votes": 23
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d85b9684-4277-3565-b89b-115c8b4b7fd3",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elephant_(album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000022228",
+    "discogs": "https://www.discogs.com/master/10341",
+    "wikidata": "https://www.wikidata.org/wiki/Q580496",
+    "deezer": "https://www.deezer.com/album/175927162"
+  },
+  "musicbrainz_id": "d85b9684-4277-3565-b89b-115c8b4b7fd3",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/d893539f-e3d9-44e5-92ec-0a45a58dde52",
+      "barcode": "886448799009",
+      "title": "Elephant",
+      "disambiguation": "2021 remaster, 24bit/192kHz",
+      "date": "2021-06-25",
+      "country": "XW"
+    },
+    "total_tracks": 14,
+    "total_length": "50:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Seven Nation Army",
+            "length": "3:52",
+            "deezer": {
+              "id": 1092293262,
+              "link": "https://www.deezer.com/track/1092293262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/4/0/da4a91930856b5ccf3307792cbb31fc2.mp3?hdnea=exp=1795721835~acl=/api/1/1/d/a/4/0/da4a91930856b5ccf3307792cbb31fc2.mp3*~data=user_id=0,application_id=42~hmac=fb8ad85ebc7b155189e2d681141a2577bff5ff0bfa61fa9dc43af4aff08c065e",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Black Math",
+            "length": "3:04",
+            "deezer": {
+              "id": 1092293272,
+              "link": "https://www.deezer.com/track/1092293272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/4/0/e446eaeb6947260e0b4ffd639cac2c0e.mp3?hdnea=exp=1795721835~acl=/api/1/1/e/4/4/0/e446eaeb6947260e0b4ffd639cac2c0e.mp3*~data=user_id=0,application_id=42~hmac=5a8fefdfee21e9cbe3e467cbd27493b46efd3b079baf2257d09e4b457f87712b",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "There’s No Home for You Here",
+            "length": "3:44",
+            "deezer": {
+              "id": 1092293282,
+              "link": "https://www.deezer.com/track/1092293282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/7/0/e3791c81b49d6cf793fa6b9bc4e09028.mp3?hdnea=exp=1795721835~acl=/api/1/1/e/3/7/0/e3791c81b49d6cf793fa6b9bc4e09028.mp3*~data=user_id=0,application_id=42~hmac=62449d04982c0d078eb36374e6c43d3e813afcdd95d5b52848f007509a2a68cd",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "I Just Don’t Know What to Do With Myself",
+            "length": "2:46",
+            "deezer": {
+              "id": 1092293302,
+              "link": "https://www.deezer.com/track/1092293302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/2/0/5d28b9d1f36d38bdc9857b6048d15cce.mp3?hdnea=exp=1795721835~acl=/api/1/1/5/d/2/0/5d28b9d1f36d38bdc9857b6048d15cce.mp3*~data=user_id=0,application_id=42~hmac=0c96b05e743c5ec6abf2be0303eb450ddebe759a8f68ab6baeb66f75f4841359",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "In the Cold, Cold Night",
+            "length": "2:58",
+            "deezer": {
+              "id": 1092293362,
+              "link": "https://www.deezer.com/track/1092293362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/b/0/74b8efef509b4a676b17aad37976ae36.mp3?hdnea=exp=1795721835~acl=/api/1/1/7/4/b/0/74b8efef509b4a676b17aad37976ae36.mp3*~data=user_id=0,application_id=42~hmac=62098ab0b6ccf67743667aff95c2d310f11176353ba4bec1d880b682d9d9cf85",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "I Want to Be the Boy to Warm Your Mother’s Heart",
+            "length": "3:21",
+            "deezer": {
+              "id": 1092293382,
+              "link": "https://www.deezer.com/track/1092293382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/7/0/f37d07b6cf8087781730a19826a81eb8.mp3?hdnea=exp=1795721835~acl=/api/1/1/f/3/7/0/f37d07b6cf8087781730a19826a81eb8.mp3*~data=user_id=0,application_id=42~hmac=7bcb883829714fcf44704e80e3c4da8d8115bc12ed0be9373735391955a9fa96",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "You’ve Got Her in Your Pocket",
+            "length": "3:41",
+            "deezer": {
+              "id": 1092293392,
+              "link": "https://www.deezer.com/track/1092293392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/9/0/4896086c239603ea58cded4ef1c85515.mp3?hdnea=exp=1795721835~acl=/api/1/1/4/8/9/0/4896086c239603ea58cded4ef1c85515.mp3*~data=user_id=0,application_id=42~hmac=cea292036242bf82a320c91690ffb3fc9d4fbe8cc667e2702288fb9e1244ebd8",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Ball and Biscuit",
+            "length": "7:19",
+            "deezer": {
+              "id": 1092293402,
+              "link": "https://www.deezer.com/track/1092293402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/e/0/ddea353a9e018fcbab456d8da19ffe7f.mp3?hdnea=exp=1795721835~acl=/api/1/1/d/d/e/0/ddea353a9e018fcbab456d8da19ffe7f.mp3*~data=user_id=0,application_id=42~hmac=5ae6c8338a4b8ed0dc2eaaabff3ac97cce65d4214fb5a83627243489d781144c",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "The Hardest Button to Button",
+            "length": "3:33",
+            "deezer": {
+              "id": 1092293412,
+              "link": "https://www.deezer.com/track/1092293412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/1/0/661e24aa1d650410cbc2bf925d1ae57d.mp3?hdnea=exp=1795721835~acl=/api/1/1/6/6/1/0/661e24aa1d650410cbc2bf925d1ae57d.mp3*~data=user_id=0,application_id=42~hmac=f628b9bb3ac8b0223a70962d92ed2cbb73da69b5adf6f9ae99b20b3dcfe56463",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Little Acorns",
+            "length": "4:10",
+            "deezer": {
+              "id": 1092293422,
+              "link": "https://www.deezer.com/track/1092293422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/9/0/9c92d4d5e1a29cee72f73b1577bcc76a.mp3?hdnea=exp=1795721835~acl=/api/1/1/9/c/9/0/9c92d4d5e1a29cee72f73b1577bcc76a.mp3*~data=user_id=0,application_id=42~hmac=acd03841d5efaa1ce37737c93c4f4d5be4ee3debef7b5417c1077103c20edb30",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Hypnotize",
+            "length": "1:48",
+            "deezer": {
+              "id": 1092293432,
+              "link": "https://www.deezer.com/track/1092293432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/7/0/d17762fa8ab5fe2c36e1a096bbe29401.mp3?hdnea=exp=1795721835~acl=/api/1/1/d/1/7/0/d17762fa8ab5fe2c36e1a096bbe29401.mp3*~data=user_id=0,application_id=42~hmac=668a28bf461029c516824b0177d9e62c60b991351e724e861be9daaaf39dc3a1",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "The Air Near My Fingers",
+            "length": "3:40",
+            "deezer": {
+              "id": 1092293442,
+              "link": "https://www.deezer.com/track/1092293442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/a/0/e1a298dea8ba59d93f3ab64c8b7a2c3b.mp3?hdnea=exp=1795721835~acl=/api/1/1/e/1/a/0/e1a298dea8ba59d93f3ab64c8b7a2c3b.mp3*~data=user_id=0,application_id=42~hmac=db9ddacb64fd25716b445a23690ea9e81f6bdddde4792db1ac32cb93b2e1e1fb",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Girl, You Have No Faith in Medicine",
+            "length": "3:18",
+            "deezer": {
+              "id": 1092293452,
+              "link": "https://www.deezer.com/track/1092293452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/7/0/967feb0ed6a2aa482d0304baba8a3fdb.mp3?hdnea=exp=1795721835~acl=/api/1/1/9/6/7/0/967feb0ed6a2aa482d0304baba8a3fdb.mp3*~data=user_id=0,application_id=42~hmac=cccef5f1292cff2cc88bd878678c4ef95f6c6fa41c73b0c165833ed9bb868dfb",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Well It’s True That We Love One Another",
+            "length": "3:40",
+            "deezer": {
+              "id": 1092293462,
+              "link": "https://www.deezer.com/track/1092293462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/b/0/60b1e9f75dd9d8334711218d130822f4.mp3?hdnea=exp=1795721835~acl=/api/1/1/6/0/b/0/60b1e9f75dd9d8334711218d130822f4.mp3*~data=user_id=0,application_id=42~hmac=10be3c82d4d4f680b830446daca0b94b4204734f3ab573474aff4ee9e855fb08",
+              "preview_expires": "2026-11-26T19:37:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The White Stripes/Elephant.jpg"
+}

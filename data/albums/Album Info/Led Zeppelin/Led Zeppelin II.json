@@ -1,0 +1,164 @@
+{
+  "title": "Led Zeppelin II",
+  "artist": "Led Zeppelin",
+  "year": 1969,
+  "release_date": "1969-10-22",
+  "type": "Album",
+  "description": "Led Zeppelin II is the second studio album by the English rock band Led Zeppelin, released on 22 October 1969 in the United States and on 31 October 1969 in the United Kingdom by Atlantic Records. Recording sessions for the album took place at several locations in both the United Kingdom and North America from January to August 1969. The album's production was credited to the band's lead guitarist and songwriter Jimmy Page, and it was also Led Zeppelin's first album on which Eddie Kramer served as engineer.",
+  "genres": [
+    "hard rock",
+    "rock",
+    "blues rock",
+    "blues",
+    "classic rock",
+    "heavy metal",
+    "arena rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock",
+    "blues rock",
+    "album rock",
+    "blues",
+    "classic rock",
+    "heavy metal",
+    "60s",
+    "arena rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4.45,
+    "votes": 45
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/33b4653d-006e-3cc1-8afb-386b15a6cd6e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Led_Zeppelin_II",
+    "allmusic": "https://www.allmusic.com/album/mw0000190649",
+    "discogs": "https://www.discogs.com/master/4170",
+    "wikidata": "https://www.wikidata.org/wiki/Q209539",
+    "deezer": "https://www.deezer.com/album/1031379282"
+  },
+  "musicbrainz_id": "33b4653d-006e-3cc1-8afb-386b15a6cd6e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/164f9f2e-5d0e-48c9-ad32-3853375cd9fa",
+      "barcode": "603497906178",
+      "title": "Led Zeppelin II",
+      "disambiguation": "\"1994 remaster\"",
+      "date": "2012",
+      "country": "XW"
+    },
+    "total_tracks": 9,
+    "total_length": "41:34",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Whole Lotta Love",
+            "length": "5:34",
+            "deezer": {
+              "id": 4159768742,
+              "link": "https://www.deezer.com/track/4159768742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd23df0f86f086c25c38defe367417f9.mp3?hdnea=exp=1795656435~acl=/api/1/1/d/d/2/0/dd23df0f86f086c25c38defe367417f9.mp3*~data=user_id=0,application_id=42~hmac=46a543dd55ae7d8fe4513851a33b255ed76940dee908110049a7b555e99f5886",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "What Is and What Should Never Be",
+            "length": "4:46",
+            "deezer": {
+              "id": 4159768752,
+              "link": "https://www.deezer.com/track/4159768752",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/e/0/4ee48cb81af6429c07644bb02c6d9a1c.mp3?hdnea=exp=1795656435~acl=/api/1/1/4/e/e/0/4ee48cb81af6429c07644bb02c6d9a1c.mp3*~data=user_id=0,application_id=42~hmac=9f159719e189fef1ab5a5a98282def634fb63794918e23235d83e9e63c24c08f",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Lemon Song",
+            "length": "6:19",
+            "deezer": {
+              "id": 4159768762,
+              "link": "https://www.deezer.com/track/4159768762",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/1/0/3a1356cc23da3fa0976cc0af4c8bc3bd.mp3?hdnea=exp=1795656435~acl=/api/1/1/3/a/1/0/3a1356cc23da3fa0976cc0af4c8bc3bd.mp3*~data=user_id=0,application_id=42~hmac=5ab16fef74eaec0255e351710545f2f0d9860a9d634e051981947aa0e4f8884c",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Thank You",
+            "length": "4:49",
+            "deezer": {
+              "id": 4159768772,
+              "link": "https://www.deezer.com/track/4159768772",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/6/0/e06382cdeed9acb6e71ec3190c40d53b.mp3?hdnea=exp=1795656435~acl=/api/1/1/e/0/6/0/e06382cdeed9acb6e71ec3190c40d53b.mp3*~data=user_id=0,application_id=42~hmac=b09b48e60867fb7d8c7b8f17056c5d46ee1c8344c508de570d4db2c51eead194",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Heartbreaker",
+            "length": "4:14",
+            "deezer": {
+              "id": 4159768782,
+              "link": "https://www.deezer.com/track/4159768782",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/9/0/6a95c04dfcd8bbef15f86fbc31a4354b.mp3?hdnea=exp=1795656435~acl=/api/1/1/6/a/9/0/6a95c04dfcd8bbef15f86fbc31a4354b.mp3*~data=user_id=0,application_id=42~hmac=c1724b1f2f163910c93112cf69828eedeab64e6febfca458ac4755a534b3b73b",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Living Loving Maid (She’s Just a Woman)",
+            "length": "2:39",
+            "deezer": {
+              "id": 4159768792,
+              "link": "https://www.deezer.com/track/4159768792",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/a/0/62a5ccc4f11080361d93eea828ef1b76.mp3?hdnea=exp=1795656435~acl=/api/1/1/6/2/a/0/62a5ccc4f11080361d93eea828ef1b76.mp3*~data=user_id=0,application_id=42~hmac=398ab32429b6e0216de5688edf10bc0a70c0f44389903eb3e249c13e4643896b",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Ramble On",
+            "length": "4:34",
+            "deezer": {
+              "id": 4159768802,
+              "link": "https://www.deezer.com/track/4159768802",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/0/0/d10adf5b02fecafa1a1e82c5b8123925.mp3?hdnea=exp=1795656435~acl=/api/1/1/d/1/0/0/d10adf5b02fecafa1a1e82c5b8123925.mp3*~data=user_id=0,application_id=42~hmac=ef1d8dd9a6de07e05c25b5717134f933a0bcf231f64cac3c4b743333755986e5",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Moby Dick",
+            "length": "4:20",
+            "deezer": {
+              "id": 4159768812,
+              "link": "https://www.deezer.com/track/4159768812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/0/0/c109eb7a442c09dc11e2d17e46d3113e.mp3?hdnea=exp=1795656435~acl=/api/1/1/c/1/0/0/c109eb7a442c09dc11e2d17e46d3113e.mp3*~data=user_id=0,application_id=42~hmac=1b30c731b7729fadb50a312848ef2a917c5f94c8e50752b8a910e94c925eb378",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Bring It On Home",
+            "length": "4:19",
+            "deezer": {
+              "id": 4159768822,
+              "link": "https://www.deezer.com/track/4159768822",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/9/0/5c95e27e4f53d0f3ab56b28032fc2de4.mp3?hdnea=exp=1795656435~acl=/api/1/1/5/c/9/0/5c95e27e4f53d0f3ab56b28032fc2de4.mp3*~data=user_id=0,application_id=42~hmac=9ae2c640b13d019dadafecfd69d561ce18d433dd29572c9e3f9117f9567c93a1",
+              "preview_expires": "2026-11-26T01:27:15Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Led Zeppelin/Led Zeppelin II.jpg"
+}

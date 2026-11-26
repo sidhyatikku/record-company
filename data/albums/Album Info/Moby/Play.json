@@ -1,0 +1,470 @@
+{
+  "title": "Play",
+  "artist": "Moby",
+  "year": 1999,
+  "release_date": "1999-05-17",
+  "type": "Album",
+  "description": "Play is the fifth studio album by American electronic musician Moby. It was released on May 17, 1999, through Mute Records internationally and V2 Records in North America. Recording of the album began in mid-1997, following the release of Moby's fourth album, Animal Rights (1996), which deviated from his electronica style; Moby's goal for Play was to return to electronica, blending downtempo with blues and roots music samples. Originally intended to be his final record, the album was recorded at Moby's home studio in Manhattan.",
+  "genres": [
+    "electronic",
+    "breakbeat",
+    "downtempo",
+    "ambient",
+    "electronica",
+    "house",
+    "leftfield",
+    "ambient pop",
+    "ambient techno",
+    "electropop",
+    "techno"
+  ],
+  "tags": [
+    "electronic",
+    "breakbeat",
+    "downtempo",
+    "ambient",
+    "electronica",
+    "alternative pop/rock",
+    "electronica dance",
+    "house",
+    "leftfield",
+    "ambient pop",
+    "ambient techno",
+    "atmospheric",
+    "bittersweet",
+    "eclectic",
+    "electropop",
+    "energetic",
+    "female vocalist",
+    "hypnotic",
+    "introspective",
+    "lush",
+    "male vocalist",
+    "meditative",
+    "melancholic",
+    "mellow",
+    "melodic",
+    "mysterious",
+    "nocturnal",
+    "party",
+    "repetitive",
+    "rhythmic",
+    "roots",
+    "sampling",
+    "soothing",
+    "spiritual",
+    "techno",
+    "warm"
+  ],
+  "rating": {
+    "value_out_of_5": 4.3,
+    "votes": 25
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7f6a4e72-9fee-39db-8817-63425f97a0f5",
+    "wikipedia": "https://en.wikipedia.org/wiki/Play_(Moby_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000243891",
+    "discogs": "https://www.discogs.com/master/82202",
+    "wikidata": "https://www.wikidata.org/wiki/Q1064897",
+    "deezer": "https://www.deezer.com/album/591264042"
+  },
+  "musicbrainz_id": "7f6a4e72-9fee-39db-8817-63425f97a0f5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e563534a-696e-40e6-a85d-783cd45a27b5",
+      "barcode": "5061041450198",
+      "title": "Play: The Complete Recordings",
+      "disambiguation": null,
+      "date": "1999-06-01",
+      "country": null
+    },
+    "total_tracks": 34,
+    "total_length": "2:28:27",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Honey",
+            "length": "3:29",
+            "deezer": {
+              "id": 2816067172,
+              "link": "https://www.deezer.com/track/2816067172",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/d/0/19d2de1b6b6401198dbca942c7e5be23.mp3?hdnea=exp=1795718560~acl=/api/1/1/1/9/d/0/19d2de1b6b6401198dbca942c7e5be23.mp3*~data=user_id=0,application_id=42~hmac=a40b0e4dd73abb7ce58b56393628fc37adae58b3efdf4ad07a3d034ca7df89e2",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Find My Baby",
+            "length": "3:59",
+            "deezer": {
+              "id": 2816067182,
+              "link": "https://www.deezer.com/track/2816067182",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/6/0/2b6134d82bc93bef511e56ce9abf013d.mp3?hdnea=exp=1795718560~acl=/api/1/1/2/b/6/0/2b6134d82bc93bef511e56ce9abf013d.mp3*~data=user_id=0,application_id=42~hmac=2536c16c7293a35b66da7d4d3226aa1f2f7de8126c30a9f27156559be33ca496",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Porcelain",
+            "length": "4:01",
+            "deezer": {
+              "id": 2816067192,
+              "link": "https://www.deezer.com/track/2816067192",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/a/0/35a44e5af48917a7c9fb82ec8133db36.mp3?hdnea=exp=1795718560~acl=/api/1/1/3/5/a/0/35a44e5af48917a7c9fb82ec8133db36.mp3*~data=user_id=0,application_id=42~hmac=7480b53ec32570f3f166644e58db8aaa60a9b7cbc3d1bfb092a782f02375ecd2",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Why Does My Heart Feel So Bad?",
+            "length": "4:25",
+            "deezer": {
+              "id": 2816067202,
+              "link": "https://www.deezer.com/track/2816067202",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/0/0/ee08f8c42cd608f1fd853f4bc726c3c3.mp3?hdnea=exp=1795718560~acl=/api/1/1/e/e/0/0/ee08f8c42cd608f1fd853f4bc726c3c3.mp3*~data=user_id=0,application_id=42~hmac=52fe60ba755ad67f010fd01b446912c3aa0812ec3419d5e23314f1691b471a58",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "South Side",
+            "length": "3:50",
+            "deezer": {
+              "id": 2816067212,
+              "link": "https://www.deezer.com/track/2816067212",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/e/0/2eead3aee59f2fbd2ac6f576a9a4e9e0.mp3?hdnea=exp=1795718560~acl=/api/1/1/2/e/e/0/2eead3aee59f2fbd2ac6f576a9a4e9e0.mp3*~data=user_id=0,application_id=42~hmac=ef548066da2b8ddacc87f4052b1e4d68ed5098af747c5723c43ca5bef606c202",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rushing",
+            "length": "3:00",
+            "deezer": {
+              "id": 2816067222,
+              "link": "https://www.deezer.com/track/2816067222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/d/0/5cd4f1c8866fa0ffe19f07f0f383f3f7.mp3?hdnea=exp=1795718560~acl=/api/1/1/5/c/d/0/5cd4f1c8866fa0ffe19f07f0f383f3f7.mp3*~data=user_id=0,application_id=42~hmac=a746df13357e8267856270b6b193ff1525a501a4b46b85fd517e29d7e593d61d",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Bodyrock",
+            "length": "3:36",
+            "deezer": {
+              "id": 2816067232,
+              "link": "https://www.deezer.com/track/2816067232",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/f/0/8bf9bd0b87b865f185ae3c59265908f5.mp3?hdnea=exp=1795718560~acl=/api/1/1/8/b/f/0/8bf9bd0b87b865f185ae3c59265908f5.mp3*~data=user_id=0,application_id=42~hmac=507398a2b30601e05b9456db96775280a625ce1badc1659ff8d2b86236c252ce",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Natural Blues",
+            "length": "4:14",
+            "deezer": {
+              "id": 2816067242,
+              "link": "https://www.deezer.com/track/2816067242",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f28b33f48b0592d43ca54e42ab0449a5.mp3?hdnea=exp=1795718560~acl=/api/1/1/f/2/8/0/f28b33f48b0592d43ca54e42ab0449a5.mp3*~data=user_id=0,application_id=42~hmac=2e036f4d391d34eaf8644f5dde28985c9aed99c4ed9e31db9d150c84a9af42ff",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Machete",
+            "length": "3:38",
+            "deezer": {
+              "id": 2816067252,
+              "link": "https://www.deezer.com/track/2816067252",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/f/0/eaf68f163609fd27df6e3a4d6e87497d.mp3?hdnea=exp=1795718560~acl=/api/1/1/e/a/f/0/eaf68f163609fd27df6e3a4d6e87497d.mp3*~data=user_id=0,application_id=42~hmac=bbd33c2faf8982771bb7b203c108afae8fc7d7f3487a57c5f99e6cb29c0b8df1",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "7",
+            "length": "1:02",
+            "deezer": {
+              "id": 2816067262,
+              "link": "https://www.deezer.com/track/2816067262",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/e/0/a4e7a973ee083b252a4b79dc44c5051d.mp3?hdnea=exp=1795718560~acl=/api/1/1/a/4/e/0/a4e7a973ee083b252a4b79dc44c5051d.mp3*~data=user_id=0,application_id=42~hmac=f97b9a6a7a506e27adb92aad34f1a9dbc4a89134edf0e295e740a0591c7f1fff",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Run On",
+            "length": "3:45",
+            "deezer": {
+              "id": 2816067272,
+              "link": "https://www.deezer.com/track/2816067272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/0/0/ec0a463957e097a708f0d63fadbdd36c.mp3?hdnea=exp=1795718560~acl=/api/1/1/e/c/0/0/ec0a463957e097a708f0d63fadbdd36c.mp3*~data=user_id=0,application_id=42~hmac=f182267577ebd7c62ceff927ca38a442e5c50ee387571843e078fc17ca265b5e",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Down Slow",
+            "length": "1:35",
+            "deezer": {
+              "id": 2816067282,
+              "link": "https://www.deezer.com/track/2816067282",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/c/0/a8ca9af9ae63ce990e20aa1c4bbe4f1e.mp3?hdnea=exp=1795718560~acl=/api/1/1/a/8/c/0/a8ca9af9ae63ce990e20aa1c4bbe4f1e.mp3*~data=user_id=0,application_id=42~hmac=db5f9f9a812c3689ec5f0bdd7dda4d9da27049ce284ffc990daa2855b9fe69ab",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "If Things Were Perfect",
+            "length": "4:19",
+            "deezer": {
+              "id": 2816067292,
+              "link": "https://www.deezer.com/track/2816067292",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/4/0/0a41e13837ebbb55e3ca495dd1aec006.mp3?hdnea=exp=1795718560~acl=/api/1/1/0/a/4/0/0a41e13837ebbb55e3ca495dd1aec006.mp3*~data=user_id=0,application_id=42~hmac=0e636ae08931e478608f41a260f7e0b9f1087c9bad80a05cdb0b6e28ba9b86a3",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Everloving",
+            "length": "3:26",
+            "deezer": {
+              "id": 2816067302,
+              "link": "https://www.deezer.com/track/2816067302",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/7/0/bc77c7d4cb50295aa57a785b123486cd.mp3?hdnea=exp=1795718560~acl=/api/1/1/b/c/7/0/bc77c7d4cb50295aa57a785b123486cd.mp3*~data=user_id=0,application_id=42~hmac=5ea5a2bfb986e7560c105a54d9b8088d7f929ce2d6eb7e33f6eb4e4fea6db8bd",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Inside",
+            "length": "4:49",
+            "deezer": {
+              "id": 2816067312,
+              "link": "https://www.deezer.com/track/2816067312",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/9/0/909d88210be07a313efea5207c6a8c9f.mp3?hdnea=exp=1795718560~acl=/api/1/1/9/0/9/0/909d88210be07a313efea5207c6a8c9f.mp3*~data=user_id=0,application_id=42~hmac=03e412411966b641b68dcb34699490b98a0da53268967f74af179535edce4ce3",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Guitar Flute & String",
+            "length": "2:09",
+            "deezer": {
+              "id": 2816067322,
+              "link": "https://www.deezer.com/track/2816067322",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/4/0/c345084dca759b6d427fa38bfb81b9c6.mp3?hdnea=exp=1795718560~acl=/api/1/1/c/3/4/0/c345084dca759b6d427fa38bfb81b9c6.mp3*~data=user_id=0,application_id=42~hmac=c115bb144a364d203f67395d49e14620e697b742820a02ee613ae96653de32a1",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "The Sky Is Broken",
+            "length": "4:19",
+            "deezer": {
+              "id": 2816067332,
+              "link": "https://www.deezer.com/track/2816067332",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/9/0/f39bb3f754c8027856990f8775ff6cff.mp3?hdnea=exp=1795718560~acl=/api/1/1/f/3/9/0/f39bb3f754c8027856990f8775ff6cff.mp3*~data=user_id=0,application_id=42~hmac=9331304ebc16e8b830daab3ee80e9ca60eb25cc11fa373026d640df0502db1c6",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "My Weakness",
+            "length": "3:39",
+            "deezer": {
+              "id": 2816067342,
+              "link": "https://www.deezer.com/track/2816067342",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/6/0/566c57be4ba696f9e7a0f0f8ae51399c.mp3?hdnea=exp=1795718560~acl=/api/1/1/5/6/6/0/566c57be4ba696f9e7a0f0f8ae51399c.mp3*~data=user_id=0,application_id=42~hmac=6f576ce0dacf02d9273688f5326190a66a7ec1c5e32c5ae86b09932ea2316c8d",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Flower",
+            "length": "3:26",
+            "deezer": {
+              "id": 2816067352,
+              "link": "https://www.deezer.com/track/2816067352",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/7/0/9d75ab8064dc62ce908c0f039d90b87e.mp3?hdnea=exp=1795718560~acl=/api/1/1/9/d/7/0/9d75ab8064dc62ce908c0f039d90b87e.mp3*~data=user_id=0,application_id=42~hmac=6c26d0b3aaecc810fc8cee508917795240b47edc13162992070693140273d373",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Sunday",
+            "length": "5:03",
+            "deezer": {
+              "id": 2816067362,
+              "link": "https://www.deezer.com/track/2816067362",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/2/0/eb244eb853bc9b04a436567928c011ac.mp3?hdnea=exp=1795718560~acl=/api/1/1/e/b/2/0/eb244eb853bc9b04a436567928c011ac.mp3*~data=user_id=0,application_id=42~hmac=71b5d26c1cd2d51966a6cc9d02cdc1c0ac458748ce587f86cff42e81c50bb471",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "21",
+            "title": "Memory Gospel",
+            "length": "6:42",
+            "deezer": {
+              "id": 2816067372,
+              "link": "https://www.deezer.com/track/2816067372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/f/0/dbf23cdce1ef1cf0e304dfcf9452fdb4.mp3?hdnea=exp=1795718560~acl=/api/1/1/d/b/f/0/dbf23cdce1ef1cf0e304dfcf9452fdb4.mp3*~data=user_id=0,application_id=42~hmac=ca4f6c74ded33211c56e2b47293ac429e49c9bd478eee1aee221883588eba53f",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "22",
+            "title": "Whispering Wind",
+            "length": "6:03",
+            "deezer": {
+              "id": 2816067382,
+              "link": "https://www.deezer.com/track/2816067382",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/4/0/5647fbff2c42e3df46d84c28b69d0935.mp3?hdnea=exp=1795718560~acl=/api/1/1/5/6/4/0/5647fbff2c42e3df46d84c28b69d0935.mp3*~data=user_id=0,application_id=42~hmac=05a052d5c82ed21a734b7da9059f974d3895ecb342d29730d13fd55042c1945b",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "23",
+            "title": "Summer",
+            "length": "5:58",
+            "deezer": {
+              "id": 2816067392,
+              "link": "https://www.deezer.com/track/2816067392",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/8/0/8a8641b330efbcf0fba9e521e9b1d7ef.mp3?hdnea=exp=1795718560~acl=/api/1/1/8/a/8/0/8a8641b330efbcf0fba9e521e9b1d7ef.mp3*~data=user_id=0,application_id=42~hmac=57ddfe65882978eaf8eb7d60bd7e6f04b09145bab286baf5043af9e19947f521",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "24",
+            "title": "Spirit",
+            "length": "4:09",
+            "deezer": {
+              "id": 2816067402,
+              "link": "https://www.deezer.com/track/2816067402",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/b/0/67b24b05310e9f1d1ef51810d03f0de8.mp3?hdnea=exp=1795718560~acl=/api/1/1/6/7/b/0/67b24b05310e9f1d1ef51810d03f0de8.mp3*~data=user_id=0,application_id=42~hmac=d0012b68fc2ae907a629ca4c2d7546bc842992ca29f7dcc56e79ff25308ad0ac",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "25",
+            "title": "Flying Foxes",
+            "length": "6:16",
+            "deezer": {
+              "id": 2816067412,
+              "link": "https://www.deezer.com/track/2816067412",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/4/0/3146cbd482f5e6f108fb98c23ee859ed.mp3?hdnea=exp=1795718560~acl=/api/1/1/3/1/4/0/3146cbd482f5e6f108fb98c23ee859ed.mp3*~data=user_id=0,application_id=42~hmac=41a0747e210f1b807f098745347dfabf53254af956bd4ad8baafd0affae725fe",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "26",
+            "title": "Sunspot",
+            "length": "6:49",
+            "deezer": {
+              "id": 2816067422,
+              "link": "https://www.deezer.com/track/2816067422",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/9/0/29924e5d1b727ea1ea33f96abd9a9cce.mp3?hdnea=exp=1795718560~acl=/api/1/1/2/9/9/0/29924e5d1b727ea1ea33f96abd9a9cce.mp3*~data=user_id=0,application_id=42~hmac=21751c5078f2f856a5970ab3e7d2e5a76be399f3893a30ffd46008ab564ac084",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "27",
+            "title": "Flying Over the Dateline",
+            "length": "4:47",
+            "deezer": {
+              "id": 2816067432,
+              "link": "https://www.deezer.com/track/2816067432",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/4/0/9c404f6ae5a70d7290467a920de35e8a.mp3?hdnea=exp=1795718560~acl=/api/1/1/9/c/4/0/9c404f6ae5a70d7290467a920de35e8a.mp3*~data=user_id=0,application_id=42~hmac=ddb26b5d45fdece07efef52bb20f3f99bad5f34e68bf11fe9a933ae8b7445f92",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "28",
+            "title": "Running",
+            "length": "7:06",
+            "deezer": {
+              "id": 2816067442,
+              "link": "https://www.deezer.com/track/2816067442",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/0/0/460ce8ff28f1dbe69e30c76644dc83d1.mp3?hdnea=exp=1795718560~acl=/api/1/1/4/6/0/0/460ce8ff28f1dbe69e30c76644dc83d1.mp3*~data=user_id=0,application_id=42~hmac=15428b750d5c761444bc84888606385d8d89d22bd21227a290b01d5b2ceab7cc",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "29",
+            "title": "The Sun Never Stops Setting",
+            "length": "4:21",
+            "deezer": {
+              "id": 2816067452,
+              "link": "https://www.deezer.com/track/2816067452",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/2/0/2a2861b2075d8d4d16d7d6e23b1f37f4.mp3?hdnea=exp=1795718560~acl=/api/1/1/2/a/2/0/2a2861b2075d8d4d16d7d6e23b1f37f4.mp3*~data=user_id=0,application_id=42~hmac=65c43849bfee73d06ef32e309bd593dd5cb5c272d14f98b3dec8cff0ec7282fc",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "30",
+            "title": "Micronesia",
+            "length": "4:19",
+            "deezer": {
+              "id": 2816067462,
+              "link": "https://www.deezer.com/track/2816067462",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/3/0/493a4d4120780bdd17d30db15cede4bf.mp3?hdnea=exp=1795718560~acl=/api/1/1/4/9/3/0/493a4d4120780bdd17d30db15cede4bf.mp3*~data=user_id=0,application_id=42~hmac=f4a83750405a0442e69cf691123e275d94c2a5011e88f3b4b0957f46d1f0cd1e",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "31",
+            "title": "Arp",
+            "length": "3:49",
+            "deezer": {
+              "id": 2816067472,
+              "link": "https://www.deezer.com/track/2816067472",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/2/0/a22050f14034878fffba2f450b5a5028.mp3?hdnea=exp=1795718560~acl=/api/1/1/a/2/2/0/a22050f14034878fffba2f450b5a5028.mp3*~data=user_id=0,application_id=42~hmac=66b93ff2e33c31046c5f178e32da0f363b1cd1b87058fed3d5978b9e0b01aac5",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "32",
+            "title": "Ain't Never Learned",
+            "length": "3:49",
+            "deezer": {
+              "id": 2816067482,
+              "link": "https://www.deezer.com/track/2816067482",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/e/0/7fe076df12f97c49d1c248f4c3ece2d1.mp3?hdnea=exp=1795718560~acl=/api/1/1/7/f/e/0/7fe076df12f97c49d1c248f4c3ece2d1.mp3*~data=user_id=0,application_id=42~hmac=c126d270dc58829a65e6b19b704b20db00c99d215684c082bf09fdef6448f033",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "33",
+            "title": "Sick in the System",
+            "length": "4:17",
+            "deezer": {
+              "id": 2816067492,
+              "link": "https://www.deezer.com/track/2816067492",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/8/0/be85504c072bfff731933461c5a5b04d.mp3?hdnea=exp=1795718560~acl=/api/1/1/b/e/8/0/be85504c072bfff731933461c5a5b04d.mp3*~data=user_id=0,application_id=42~hmac=abc296b9fd2c5fcc07150bdf4c4a75f161ea3a5f7272662c3f2dbfac2838f9f5",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          },
+          {
+            "number": "34",
+            "title": "Princess",
+            "length": "8:18",
+            "deezer": {
+              "id": 2816067502,
+              "link": "https://www.deezer.com/track/2816067502",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/6/0/a36dd629c11d3bf28b4e5d76e3e023c1.mp3?hdnea=exp=1795718560~acl=/api/1/1/a/3/6/0/a36dd629c11d3bf28b4e5d76e3e023c1.mp3*~data=user_id=0,application_id=42~hmac=073bfbd3aa61ea9003792cf5fbab4f5f4625c4d414bcdfafe931718118f0b00e",
+              "preview_expires": "2026-11-26T18:42:40Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Moby/Play.jpg"
+}

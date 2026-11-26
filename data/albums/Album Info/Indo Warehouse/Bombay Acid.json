@@ -1,0 +1,56 @@
+{
+  "title": "Bombay Acid",
+  "artist": "Indo Warehouse, Kunal Merchant, SYREETA, Raja Kumari",
+  "year": 2025,
+  "release_date": "2025-10-24",
+  "type": "Single",
+  "description": null,
+  "genres": [
+    "gujarati garba"
+  ],
+  "genres_note": "Spotify artist genres (Spotify has no album genres)",
+  "tags": [],
+  "links": {
+    "spotify": "https://open.spotify.com/album/4V920KjSGo0PCU9UebEuGC",
+    "deezer": null
+  },
+  "tracklist": {
+    "source": "spotify",
+    "edition": {
+      "spotify_album": "https://open.spotify.com/album/4V920KjSGo0PCU9UebEuGC",
+      "title": "Bombay Acid",
+      "date": "2025-10-24"
+    },
+    "total_tracks": 3,
+    "total_length": "15:14",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Bombay Acid",
+            "length": "3:10",
+            "artist": "Indo Warehouse, Kunal Merchant, Raja Kumari"
+          },
+          {
+            "number": "2",
+            "title": "Bombay Acid - Extended",
+            "length": "6:16",
+            "artist": "Indo Warehouse, Kunal Merchant, Raja Kumari"
+          },
+          {
+            "number": "3",
+            "title": "Bombay Acid - SYREETA Remix",
+            "length": "5:49",
+            "artist": "Indo Warehouse, Kunal Merchant, Raja Kumari, SYREETA"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "spotify",
+  "cover_file": "Album Art/Indo Warehouse/Bombay Acid.jpg"
+}

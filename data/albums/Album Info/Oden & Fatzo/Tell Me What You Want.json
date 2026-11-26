@@ -1,0 +1,51 @@
+{
+  "title": "Tell Me What You Want",
+  "artist": "Oden & Fatzo x Poppy Baskcomb",
+  "year": 2024,
+  "release_date": "2024-06-14",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/e4152957-db70-4155-acbf-22b64986f69e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/687835441"
+  },
+  "musicbrainz_id": "e4152957-db70-4155-acbf-22b64986f69e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/06a43ea0-4401-4107-aa48-1be2ee7f4662",
+      "barcode": "0826194667191",
+      "title": "Tell Me What You Want",
+      "disambiguation": null,
+      "date": "2024-06-14",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "2:40",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tell Me What You Want",
+            "length": "2:40",
+            "deezer": {
+              "id": 3156228301,
+              "link": "https://www.deezer.com/track/3156228301",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/c/0/43c30bc3bf4b36b667a6eedc629db760.mp3?hdnea=exp=1795719130~acl=/api/1/1/4/3/c/0/43c30bc3bf4b36b667a6eedc629db760.mp3*~data=user_id=0,application_id=42~hmac=eb40b8592cfa11a7c84dddd38a1ac4d77558c749c3b0fa01154ea64e1dbfde53",
+              "preview_expires": "2026-11-26T18:52:10Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Oden & Fatzo/Tell Me What You Want.jpg"
+}

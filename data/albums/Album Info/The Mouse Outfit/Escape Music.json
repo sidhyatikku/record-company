@@ -1,0 +1,267 @@
+{
+  "title": "Escape Music",
+  "artist": "The Mouse Outfit",
+  "year": 2013,
+  "release_date": "2013-05-20",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "hip hop",
+    "jazz",
+    "funk",
+    "reggae",
+    "soul"
+  ],
+  "tags": [
+    "hip hop",
+    "jazz",
+    "funk",
+    "manchester",
+    "rap",
+    "reggae",
+    "soul"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8ec90e69-cd6d-4b11-8f8e-51663ff78261",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/6573819"
+  },
+  "musicbrainz_id": "8ec90e69-cd6d-4b11-8f8e-51663ff78261",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/e83ae5dc-2241-4f83-aa44-ff4d0abc4d48",
+      "barcode": null,
+      "title": "Escape Music",
+      "disambiguation": null,
+      "date": "2013-05-20",
+      "country": "XW"
+    },
+    "total_tracks": 19,
+    "total_length": "1:00:49",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Every Single Time",
+            "length": "3:03",
+            "deezer": {
+              "id": 67214731,
+              "link": "https://www.deezer.com/track/67214731",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/2/0/b92f2a799a97ed71992aec3238581440.mp3?hdnea=exp=1795721601~acl=/api/1/1/b/9/2/0/b92f2a799a97ed71992aec3238581440.mp3*~data=user_id=0,application_id=42~hmac=6671b20acbca04664cf5eac85cb9f7d890b4594cc36e50b58785f20fbb49c31d",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Shak Out",
+            "length": "3:17",
+            "deezer": {
+              "id": 67214732,
+              "link": "https://www.deezer.com/track/67214732",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/5/0/455e0a159dbddcef8b6c37aff1f5bf85.mp3?hdnea=exp=1795721601~acl=/api/1/1/4/5/5/0/455e0a159dbddcef8b6c37aff1f5bf85.mp3*~data=user_id=0,application_id=42~hmac=970554c43b61e01f5a00abf695f9f073bd68f2500045ea11ea0ede684d570457",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Sit Back",
+            "length": "3:33",
+            "deezer": {
+              "id": 67214733,
+              "link": "https://www.deezer.com/track/67214733",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/5/0/1d5f3fad536df37becb41177f2547807.mp3?hdnea=exp=1795721601~acl=/api/1/1/1/d/5/0/1d5f3fad536df37becb41177f2547807.mp3*~data=user_id=0,application_id=42~hmac=867e52687493ea7ef6e9ee4fb639370cfc26d59fee1ad3ba22b283f6b34a32b9",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Escape Music",
+            "length": "3:12",
+            "deezer": {
+              "id": 67214734,
+              "link": "https://www.deezer.com/track/67214734",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/1/0/7c11408391fbbcbab17f89b5b61c2a3e.mp3?hdnea=exp=1795721601~acl=/api/1/1/7/c/1/0/7c11408391fbbcbab17f89b5b61c2a3e.mp3*~data=user_id=0,application_id=42~hmac=d1ab19736014acca708abfa9bd9c78a211ce801ccefdd0cfbb27ff6e074bf303",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Who Gwan Test",
+            "length": "4:39",
+            "deezer": {
+              "id": 67214735,
+              "link": "https://www.deezer.com/track/67214735",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/1/0/ca1dc5de7a67a2485c453e1ee124f347.mp3?hdnea=exp=1795721601~acl=/api/1/1/c/a/1/0/ca1dc5de7a67a2485c453e1ee124f347.mp3*~data=user_id=0,application_id=42~hmac=21aee9ef11f61c82ab9d99ea79fae6582d862890494ddb425038f059b51efa6c",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "We Ain't Goin' Nowhere",
+            "length": "2:30",
+            "deezer": {
+              "id": 67214736,
+              "link": "https://www.deezer.com/track/67214736",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/9/0/eb9bd4e66360173603f8048e2f2288ed.mp3?hdnea=exp=1795721601~acl=/api/1/1/e/b/9/0/eb9bd4e66360173603f8048e2f2288ed.mp3*~data=user_id=0,application_id=42~hmac=6643ae65e2cabf6ceaabea6cb0ab167adc48a22baa0156d2ac2efb848995d222",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Got Me Thinkin'",
+            "length": "3:43",
+            "deezer": {
+              "id": 67214737,
+              "link": "https://www.deezer.com/track/67214737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/3/0/54312fa46f21dc37307e198b50517ba7.mp3?hdnea=exp=1795721601~acl=/api/1/1/5/4/3/0/54312fa46f21dc37307e198b50517ba7.mp3*~data=user_id=0,application_id=42~hmac=2ccc8bcb044e1430ccf7fc50e6cde7ecf748c76234ac1e3416ba5e6b31d6c25b",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Air Max",
+            "length": "3:02",
+            "deezer": {
+              "id": 67214738,
+              "link": "https://www.deezer.com/track/67214738",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/7/0/ef7d24520c1191c1a7f1e37c6fab11a7.mp3?hdnea=exp=1795721601~acl=/api/1/1/e/f/7/0/ef7d24520c1191c1a7f1e37c6fab11a7.mp3*~data=user_id=0,application_id=42~hmac=87a115f5012613b3b9a1e799fe4b0c5315b316d267c7889022e57b86b6c29c10",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Stay With Me",
+            "length": "2:47",
+            "deezer": {
+              "id": 67214739,
+              "link": "https://www.deezer.com/track/67214739",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/e/0/fae70d26d97a60f12e3b4cb437e61957.mp3?hdnea=exp=1795721601~acl=/api/1/1/f/a/e/0/fae70d26d97a60f12e3b4cb437e61957.mp3*~data=user_id=0,application_id=42~hmac=b398fd6b8d0cf7b1c6547fd6ec19d9a3e2d89eb8ecbe00ef4d45731fae00b338",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Blaze It Up",
+            "length": "3:09",
+            "deezer": {
+              "id": 67214740,
+              "link": "https://www.deezer.com/track/67214740",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/8/0/0987d95f9d9498f8ad11f9438fa00a15.mp3?hdnea=exp=1795721601~acl=/api/1/1/0/9/8/0/0987d95f9d9498f8ad11f9438fa00a15.mp3*~data=user_id=0,application_id=42~hmac=6114299447a9a16ba882c4bcf1b209c9ac332af8a62e234f4701ca773c0d3497",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Over the Rocks",
+            "length": "2:44",
+            "deezer": {
+              "id": 67214741,
+              "link": "https://www.deezer.com/track/67214741",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/d/0/01dbef2bd845a198a77b6b1acb83c2f6.mp3?hdnea=exp=1795721601~acl=/api/1/1/0/1/d/0/01dbef2bd845a198a77b6b1acb83c2f6.mp3*~data=user_id=0,application_id=42~hmac=906ebf200a4b44945591d35d0d66f9093c0f642fae174f62aa1a5f9df86ff02e",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Know My Face",
+            "length": "2:03",
+            "deezer": {
+              "id": 67214742,
+              "link": "https://www.deezer.com/track/67214742",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/9/0/5f9bab3dd0bff12c8b68ff2267822592.mp3?hdnea=exp=1795721601~acl=/api/1/1/5/f/9/0/5f9bab3dd0bff12c8b68ff2267822592.mp3*~data=user_id=0,application_id=42~hmac=9f38c4d0fea495a97ae8fab4d15aa0f2760c0c710f59f2c5569feb92af52d08b",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Kickstart",
+            "length": "3:49",
+            "deezer": {
+              "id": 67214743,
+              "link": "https://www.deezer.com/track/67214743",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/c/0/b8c09340411d1141924b057dfbff656c.mp3?hdnea=exp=1795721601~acl=/api/1/1/b/8/c/0/b8c09340411d1141924b057dfbff656c.mp3*~data=user_id=0,application_id=42~hmac=e7ba48d8bde3eef75556915692dd4dca5303048d02b492419de303fb15ca38da",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "It's Gonna Be On",
+            "length": "2:57",
+            "deezer": {
+              "id": 67214744,
+              "link": "https://www.deezer.com/track/67214744",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/a/0/53af88abec66634e2b880d96e76398a8.mp3?hdnea=exp=1795721601~acl=/api/1/1/5/3/a/0/53af88abec66634e2b880d96e76398a8.mp3*~data=user_id=0,application_id=42~hmac=1af207db9996956254a6fcf9255a78e0da8635cea7eaff70836408f005a3bebe",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "The Shaman",
+            "length": "3:02",
+            "deezer": {
+              "id": 67214745,
+              "link": "https://www.deezer.com/track/67214745",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/5/0/035b24d02906063c94bb2c6c3c6f7917.mp3?hdnea=exp=1795721601~acl=/api/1/1/0/3/5/0/035b24d02906063c94bb2c6c3c6f7917.mp3*~data=user_id=0,application_id=42~hmac=bdbd093f816e1de99443dbd834d805cbde2f9bad6086e897d75df1c04ca056f4",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Children of the Stars",
+            "length": "3:20",
+            "deezer": {
+              "id": 67214746,
+              "link": "https://www.deezer.com/track/67214746",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/9/0/1095ce5fe1a87123fc0435115ce32bd5.mp3?hdnea=exp=1795721601~acl=/api/1/1/1/0/9/0/1095ce5fe1a87123fc0435115ce32bd5.mp3*~data=user_id=0,application_id=42~hmac=17e401aa415fd71f3a591ffbd6bbb4da885ccc1d40d946a5272610dbe0b3fd3f",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Raise Your Hands",
+            "length": "3:21",
+            "deezer": {
+              "id": 67214747,
+              "link": "https://www.deezer.com/track/67214747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/c/0/0ec95294d534ff2098e2630e76eb8b5b.mp3?hdnea=exp=1795721601~acl=/api/1/1/0/e/c/0/0ec95294d534ff2098e2630e76eb8b5b.mp3*~data=user_id=0,application_id=42~hmac=32e33f45f5fd51ae496031383bce4d2f9373de65bb3963441768f4c9f0fe4d37",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Built in a Day",
+            "length": "2:42",
+            "deezer": {
+              "id": 67214748,
+              "link": "https://www.deezer.com/track/67214748",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/a/0/21a79e3dcd5071b2bac196f641ef2d9e.mp3?hdnea=exp=1795721601~acl=/api/1/1/2/1/a/0/21a79e3dcd5071b2bac196f641ef2d9e.mp3*~data=user_id=0,application_id=42~hmac=8f1b4119e4169811e4b786c4bf2b430fe815feeca8f398cb4adc9d8737e77ed4",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Never Get Enough",
+            "length": "3:56",
+            "deezer": {
+              "id": 67214749,
+              "link": "https://www.deezer.com/track/67214749",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/4/0/6d420a1282e6262fdea32c9cdd3ee181.mp3?hdnea=exp=1795721601~acl=/api/1/1/6/d/4/0/6d420a1282e6262fdea32c9cdd3ee181.mp3*~data=user_id=0,application_id=42~hmac=e5ac52c95a1a794dec565514ef59ef30eafe9cd1d4ac5848e17a74fa3e2f0f89",
+              "preview_expires": "2026-11-26T19:33:21Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/The Mouse Outfit/Escape Music.jpg"
+}

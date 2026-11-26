@@ -1,0 +1,177 @@
+{
+  "title": "Leftoverture",
+  "artist": "Kansas",
+  "year": 1976,
+  "release_date": "1976-10-21",
+  "type": "Album",
+  "description": "Leftoverture is the fourth studio album by American rock band Kansas, released in 1976. The album was reissued in remastered format on CD in 2001. It was the band's first album to be certified by the Recording Industry Association of America (RIAA), and remains their highest selling album, having been certified 4× platinum in the United States.",
+  "genres": [
+    "progressive rock",
+    "rock",
+    "hard rock",
+    "symphonic prog",
+    "classic rock",
+    "aor",
+    "pop rock",
+    "progressive",
+    "soft rock"
+  ],
+  "tags": [
+    "progressive rock",
+    "rock",
+    "hard rock",
+    "symphonic prog",
+    "classic rock",
+    "aor",
+    "pop rock",
+    "progressive",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.9,
+    "votes": 9
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/bfdf9b55-597b-3270-81c2-3e0f18606d0e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leftoverture",
+    "allmusic": "https://www.allmusic.com/album/mw0000190455",
+    "discogs": "https://www.discogs.com/master/56508",
+    "wikidata": "https://www.wikidata.org/wiki/Q565487",
+    "deezer": "https://www.deezer.com/album/78167"
+  },
+  "musicbrainz_id": "bfdf9b55-597b-3270-81c2-3e0f18606d0e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/f73b0647-4b65-48be-afe4-630613e62d13",
+      "barcode": "696998538627",
+      "title": "Leftoverture",
+      "disambiguation": null,
+      "date": "2001-05-22",
+      "country": "US"
+    },
+    "total_tracks": 10,
+    "total_length": "55:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Carry On Wayward Son",
+            "length": "5:25",
+            "deezer": {
+              "id": 625851,
+              "link": "https://www.deezer.com/track/625851",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/5/0/ab57afdc18f9f449c268868bcbbfd45e.mp3?hdnea=exp=1795655868~acl=/api/1/1/a/b/5/0/ab57afdc18f9f449c268868bcbbfd45e.mp3*~data=user_id=0,application_id=42~hmac=cbe3201d255bdbc74c437b6089befd9ef4d602c21ee9424b44c19340014c2471",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "The Wall",
+            "length": "4:51",
+            "deezer": {
+              "id": 622373,
+              "link": "https://www.deezer.com/track/622373",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/9/0/f89e99d109ac98488859584f9489636f.mp3?hdnea=exp=1795655868~acl=/api/1/1/f/8/9/0/f89e99d109ac98488859584f9489636f.mp3*~data=user_id=0,application_id=42~hmac=50818a66de48819487dde01ae79424b6b5022add242857ccbcb047444ffbc732",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "What's on My Mind",
+            "length": "3:29",
+            "deezer": {
+              "id": 623640,
+              "link": "https://www.deezer.com/track/623640",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/2/0/c6202a349fe22ed82a3e8e31b8376a77.mp3?hdnea=exp=1795655868~acl=/api/1/1/c/6/2/0/c6202a349fe22ed82a3e8e31b8376a77.mp3*~data=user_id=0,application_id=42~hmac=ce5db9c87b38e124aec15b321a59d0937d3534e85a7ba09304a1095b45ad473c",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Miracles Out of Nowhere",
+            "length": "6:29",
+            "deezer": {
+              "id": 623812,
+              "link": "https://www.deezer.com/track/623812",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/2/0/a221f342985ca876a1e21cda52d148f8.mp3?hdnea=exp=1795655868~acl=/api/1/1/a/2/2/0/a221f342985ca876a1e21cda52d148f8.mp3*~data=user_id=0,application_id=42~hmac=f41fdc4c4d861627722c35fbeb99849bae92cd718419e788f42b543d61b20764",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Opus Insert",
+            "length": "4:29",
+            "deezer": {
+              "id": 623641,
+              "link": "https://www.deezer.com/track/623641",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/e/0/68ea20c2285dfc7823d04696c7187bdb.mp3?hdnea=exp=1795655868~acl=/api/1/1/6/8/e/0/68ea20c2285dfc7823d04696c7187bdb.mp3*~data=user_id=0,application_id=42~hmac=dc6f4c34c40179f8b911dba9311d0a36134975ee2ef3f1043a8121ff3feae272",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Questions of My Childhood",
+            "length": "3:41",
+            "deezer": {
+              "id": 623811,
+              "link": "https://www.deezer.com/track/623811",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/5/0/1e590efddbf284e2ed4ca38bab96407a.mp3?hdnea=exp=1795655868~acl=/api/1/1/1/e/5/0/1e590efddbf284e2ed4ca38bab96407a.mp3*~data=user_id=0,application_id=42~hmac=8aa206462c815f79e67ce362eac4de07067c8d6674ac2fe68818ea4d848ac1c7",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Cheyenne Anthem",
+            "length": "6:55",
+            "deezer": {
+              "id": 622372,
+              "link": "https://www.deezer.com/track/622372",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/c/0/5ac9d9ab233523c69b99ddb611b0bb12.mp3?hdnea=exp=1795655868~acl=/api/1/1/5/a/c/0/5ac9d9ab233523c69b99ddb611b0bb12.mp3*~data=user_id=0,application_id=42~hmac=34f450ac7b5a6ec595647fc4c0dc4b455b677d7e61257855f906b7d4c0b3997c",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Magnum Opus",
+            "length": "8:36",
+            "deezer": {
+              "id": 623988,
+              "link": "https://www.deezer.com/track/623988",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/4/0/b24b145646548d5325af22d6aef9d485.mp3?hdnea=exp=1795655868~acl=/api/1/1/b/2/4/0/b24b145646548d5325af22d6aef9d485.mp3*~data=user_id=0,application_id=42~hmac=a78c8e40811baad8f5381e4fac2a2e973f2e4f696a9d4571cf8466a8e32c7048",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Carry On Wayward Son (live)",
+            "length": "4:45",
+            "deezer": {
+              "id": 624194,
+              "link": "https://www.deezer.com/track/624194",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/b/0/4ab0196798fa6a25a0879ba50673b1d9.mp3?hdnea=exp=1795655868~acl=/api/1/1/4/a/b/0/4ab0196798fa6a25a0879ba50673b1d9.mp3*~data=user_id=0,application_id=42~hmac=474575783c5336d0d97b7768994f4fd7efac7f8a632950e6beb244a39bbf74a6",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Cheyenne Anthem (live)",
+            "length": "6:42",
+            "deezer": {
+              "id": 623108,
+              "link": "https://www.deezer.com/track/623108",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/b/0/21b73055a8f71e1c9bafdbd0099f04c2.mp3?hdnea=exp=1795655868~acl=/api/1/1/2/1/b/0/21b73055a8f71e1c9bafdbd0099f04c2.mp3*~data=user_id=0,application_id=42~hmac=a38d08aa13da3a1cd659aaf3d7eb660a06ae16842e66f98814416705dbfa3822",
+              "preview_expires": "2026-11-26T01:17:48Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Kansas/Leftoverture.jpg"
+}

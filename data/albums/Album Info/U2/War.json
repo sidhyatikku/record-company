@@ -1,0 +1,170 @@
+{
+  "title": "War",
+  "artist": "U2",
+  "year": 1983,
+  "release_date": "1983-02-28",
+  "type": "Album",
+  "description": "War is the third studio album by Irish rock band U2. It was produced by Steve Lillywhite, and was released on 28 February 1983 on Island Records. The album is regarded as U2's first overtly political album, in part because of songs like \"Sunday Bloody Sunday\" and \"New Year's Day\", as well as the title, which stems from the band's perception of the world at the time; lead vocalist Bono stated that \"war seemed to be the motif for 1982.\"",
+  "genres": [
+    "rock",
+    "alternative rock",
+    "post-punk",
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "rock",
+    "alternative rock",
+    "post-punk",
+    "album rock",
+    "pop",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 31
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/c6b36664-7e60-3b3e-a24d-d096c67a11e9",
+    "wikipedia": "https://en.wikipedia.org/wiki/War_(U2_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000650916",
+    "discogs": "https://www.discogs.com/master/48830",
+    "wikidata": "https://www.wikidata.org/wiki/Q331811",
+    "deezer": "https://www.deezer.com/album/161962"
+  },
+  "musicbrainz_id": "c6b36664-7e60-3b3e-a24d-d096c67a11e9",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/4a447b1a-6dc5-4cc2-8c13-a333a6c9d19f",
+      "barcode": "602517812246",
+      "title": "War",
+      "disambiguation": null,
+      "date": "2008-07-21",
+      "country": "XW"
+    },
+    "total_tracks": 10,
+    "total_length": "42:10",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Sunday Bloody Sunday",
+            "length": "4:39",
+            "deezer": {
+              "id": 1579265,
+              "link": "https://www.deezer.com/track/1579265",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/0/0/3303557666f2cbbedf30a1d6d9be18b1.mp3?hdnea=exp=1795722115~acl=/api/1/1/3/3/0/0/3303557666f2cbbedf30a1d6d9be18b1.mp3*~data=user_id=0,application_id=42~hmac=d366d81dc0d763f6f221109a5aa866e214355fbf42082557c1b726764425e6a7",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Seconds",
+            "length": "3:11",
+            "deezer": {
+              "id": 1579266,
+              "link": "https://www.deezer.com/track/1579266",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/5/0/405e3e324b0b0e15e81e8bafe936ebfe.mp3?hdnea=exp=1795722115~acl=/api/1/1/4/0/5/0/405e3e324b0b0e15e81e8bafe936ebfe.mp3*~data=user_id=0,application_id=42~hmac=c238b7c0f6ea331a1d90cfea07301a812b0c86de0040bad50c788d11d46a69cd",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "New Year’s Day",
+            "length": "5:36",
+            "deezer": {
+              "id": 1579267,
+              "link": "https://www.deezer.com/track/1579267",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/8/0/53856ed07edc94a7e57e7b63709e7c4a.mp3?hdnea=exp=1795722115~acl=/api/1/1/5/3/8/0/53856ed07edc94a7e57e7b63709e7c4a.mp3*~data=user_id=0,application_id=42~hmac=5a3e7d8024d388411d20d09dd17eca8d4f110c438e66f76461cff0f6069e6ba0",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Like a Song…",
+            "length": "4:47",
+            "deezer": {
+              "id": 1579268,
+              "link": "https://www.deezer.com/track/1579268",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/a/0/3ca6f2a88d8ee94dea44598e4decb13c.mp3?hdnea=exp=1795722115~acl=/api/1/1/3/c/a/0/3ca6f2a88d8ee94dea44598e4decb13c.mp3*~data=user_id=0,application_id=42~hmac=35bf924cde24f7cfe7df537fca4fe740753e944ba7901d8538e66c434e16ef2f",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Drowning Man",
+            "length": "4:15",
+            "deezer": {
+              "id": 1579269,
+              "link": "https://www.deezer.com/track/1579269",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f5854f2aaec19e0e6d8444ba1f8e841.mp3?hdnea=exp=1795722115~acl=/api/1/1/0/f/5/0/0f5854f2aaec19e0e6d8444ba1f8e841.mp3*~data=user_id=0,application_id=42~hmac=69f9700257cdbb5e46bac4e954541d92a6e457274a00d90afef3c26aec5b8340",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The Refugee",
+            "length": "3:41",
+            "deezer": {
+              "id": 1579270,
+              "link": "https://www.deezer.com/track/1579270",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/e/0/1de523f5cd6d3ee414db7b773f1c0730.mp3?hdnea=exp=1795722115~acl=/api/1/1/1/d/e/0/1de523f5cd6d3ee414db7b773f1c0730.mp3*~data=user_id=0,application_id=42~hmac=261c96e653db2438e7ba26ca6f17762c70887772f92a2036c009d1f83747b23f",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Two Hearts Beat as One",
+            "length": "4:03",
+            "deezer": {
+              "id": 1579271,
+              "link": "https://www.deezer.com/track/1579271",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/e/0/1ee6daa20040456ffd88cfcd3395a246.mp3?hdnea=exp=1795722115~acl=/api/1/1/1/e/e/0/1ee6daa20040456ffd88cfcd3395a246.mp3*~data=user_id=0,application_id=42~hmac=efc1438cb512d235b44223c52fc34f164c8047dbb34ac55828b2bd011796cf53",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Red Light",
+            "length": "3:46",
+            "deezer": {
+              "id": 1579272,
+              "link": "https://www.deezer.com/track/1579272",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/5/0/ba583c51419f99ec97eb90a8559bf41d.mp3?hdnea=exp=1795722115~acl=/api/1/1/b/a/5/0/ba583c51419f99ec97eb90a8559bf41d.mp3*~data=user_id=0,application_id=42~hmac=da10b9da5072007fac52cfa1aa54626a17d454759d38ebda8558eeaa03c720d2",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Surrender",
+            "length": "5:34",
+            "deezer": {
+              "id": 1579273,
+              "link": "https://www.deezer.com/track/1579273",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/e/0/e8e70cde47b1724c414f4f38c522db83.mp3?hdnea=exp=1795722115~acl=/api/1/1/e/8/e/0/e8e70cde47b1724c414f4f38c522db83.mp3*~data=user_id=0,application_id=42~hmac=950b33e43d365941a904ba80dcea24208060401e4e5d68cc80f1e4d8cf4d68a2",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "“40”",
+            "length": "2:38",
+            "deezer": {
+              "id": 1579274,
+              "link": "https://www.deezer.com/track/1579274",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/a/0/5aaa3d60a8fb8cbaf76e6ade903eaea1.mp3?hdnea=exp=1795722115~acl=/api/1/1/5/a/a/0/5aaa3d60a8fb8cbaf76e6ade903eaea1.mp3*~data=user_id=0,application_id=42~hmac=c2f2e4630fef57d3e8d4f2c341f1eaf847a32780669ea09a6f36e3384020018d",
+              "preview_expires": "2026-11-26T19:41:55Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/U2/War.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Another Way to Die",
+  "artist": "Jack White & Alicia Keys",
+  "year": 2008,
+  "release_date": "2008-09-29",
+  "type": "Single + Soundtrack",
+  "description": "\"Another Way to Die\" is the theme song to the 2008 James Bond film Quantum of Solace, recorded by American musicians Jack White and Alicia Keys. The song was written and produced by White and features White on vocals, guitar, piano and drums and Keys on vocals. It is the first, and to date the only, duet in the Bond film series. It was released as a single from the film's soundtrack in the United States on September 30, 2008 and in Europe on October 20, 2008. A limited edition 7-inch single of 6,000 copies was released in the U.S. through White's label Third Man Records, and in the United Kingdom through XL Recordings.",
+  "genres": [
+    "alternative rock",
+    "rock"
+  ],
+  "tags": [
+    "alternative rock",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 4,
+    "votes": 2
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/277fb264-5557-3557-aa66-afdebcc094fc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Another_Way_to_Die",
+    "discogs": "https://www.discogs.com/master/124174",
+    "wikidata": "https://www.wikidata.org/wiki/Q568105",
+    "deezer": null
+  },
+  "musicbrainz_id": "277fb264-5557-3557-aa66-afdebcc094fc",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/c2b50641-587e-4496-b8c1-ca61755a7b5b",
+      "barcode": null,
+      "title": "Another Way to Die",
+      "disambiguation": null,
+      "date": "2008-09-29",
+      "country": "GB"
+    },
+    "total_tracks": 1,
+    "total_length": "4:22",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Another Way to Die",
+            "length": "4:22"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Jack White/Another Way to Die.jpg"
+}

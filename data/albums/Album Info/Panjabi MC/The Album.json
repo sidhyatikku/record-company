@@ -1,0 +1,211 @@
+{
+  "title": "The Album",
+  "artist": "Panjabi MC",
+  "year": 2003,
+  "release_date": "2003-05-05",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "bhangra",
+    "hip hop",
+    "electronic",
+    "folk",
+    "pop rap"
+  ],
+  "tags": [
+    "bhangra",
+    "hip hop",
+    "hip hop rap",
+    "electronic",
+    "folk",
+    "hindi - bhangra",
+    "hindi bhangra",
+    "pop rap",
+    "punjabi",
+    "rap"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/7093f7a7-b792-3321-885c-c299fa35a6b5",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0000040450",
+    "discogs": "https://www.discogs.com/master/84648",
+    "deezer": "https://www.deezer.com/album/404889867"
+  },
+  "musicbrainz_id": "7093f7a7-b792-3321-885c-c299fa35a6b5",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0ee0fc74-a350-4d71-8a8a-b3bea43eb678",
+      "barcode": "8718274959628",
+      "title": "The Album",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 14,
+    "total_length": "58:12",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Mundian to Bach Ke",
+            "length": "4:06",
+            "deezer": {
+              "id": 2139840647,
+              "link": "https://www.deezer.com/track/2139840647",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/c/0/bac58af20a1e237825938476e6a31522.mp3?hdnea=exp=1795719294~acl=/api/1/1/b/a/c/0/bac58af20a1e237825938476e6a31522.mp3*~data=user_id=0,application_id=42~hmac=1730a2277184d37fc6af57966b23b2bf48b1ca03165da5ae7b62fe0914f3f169",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Mirza, Part 2",
+            "length": "4:34",
+            "deezer": {
+              "id": 2139840657,
+              "link": "https://www.deezer.com/track/2139840657",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/d/0/b5d69cb39b65327a3b42ca51300d82b8.mp3?hdnea=exp=1795719294~acl=/api/1/1/b/5/d/0/b5d69cb39b65327a3b42ca51300d82b8.mp3*~data=user_id=0,application_id=42~hmac=fe7fbd67cdcfc6fc5c2ad0d9fb25485c72b37e63cafe5c465567d7b96fd8a548",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Jatt Ho Giya Sharabee",
+            "length": "3:32",
+            "deezer": {
+              "id": 2139840667,
+              "link": "https://www.deezer.com/track/2139840667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/4/0/0946b0f85c73c78fc724a411bb27731f.mp3?hdnea=exp=1795719294~acl=/api/1/1/0/9/4/0/0946b0f85c73c78fc724a411bb27731f.mp3*~data=user_id=0,application_id=42~hmac=5d854ddff7d7cdf33cbcfb02a07b2cfc6fb1454b55dbc1f1790e34682f28322c",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Ghalla Gurian",
+            "length": "5:14",
+            "deezer": {
+              "id": 2139840677,
+              "link": "https://www.deezer.com/track/2139840677",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/7/0/03793d39303e156b903f12cdaa441ba6.mp3?hdnea=exp=1795719294~acl=/api/1/1/0/3/7/0/03793d39303e156b903f12cdaa441ba6.mp3*~data=user_id=0,application_id=42~hmac=f24f1a55abec3cf3dab8632a040ba17527e1538a35a57621b376c8fbd73906e9",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Jindi Mahi",
+            "length": "4:55",
+            "deezer": {
+              "id": 2139840687,
+              "link": "https://www.deezer.com/track/2139840687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/5/0/995c83ed4395bc2389d88abb53352633.mp3?hdnea=exp=1795719294~acl=/api/1/1/9/9/5/0/995c83ed4395bc2389d88abb53352633.mp3*~data=user_id=0,application_id=42~hmac=d4f0c644950b40a617fcfb8e0783261f014647d210dadf15c5d27904a16f691a",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Jogi",
+            "length": "3:11",
+            "deezer": {
+              "id": 2139840697,
+              "link": "https://www.deezer.com/track/2139840697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/8/0/ad8117325cf477f018dc9cb2457d9ee3.mp3?hdnea=exp=1795719294~acl=/api/1/1/a/d/8/0/ad8117325cf477f018dc9cb2457d9ee3.mp3*~data=user_id=0,application_id=42~hmac=14f64bbf3be9349442efdeedd320b6c4c71bd4b1efcf736f68bba7091c26621e",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Soundz of the Des",
+            "length": "3:22",
+            "deezer": {
+              "id": 2139840707,
+              "link": "https://www.deezer.com/track/2139840707",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/c/0/f6cdde9d932b9a2b8c37d362e500e295.mp3?hdnea=exp=1795719294~acl=/api/1/1/f/6/c/0/f6cdde9d932b9a2b8c37d362e500e295.mp3*~data=user_id=0,application_id=42~hmac=6b4de2a1460370309e09af6de8a97abb7c0755fbf257695a2f83ffc322878435",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Challa",
+            "length": "6:39",
+            "deezer": {
+              "id": 2139840717,
+              "link": "https://www.deezer.com/track/2139840717",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/4/0/7b40c2ecfb914ef6412e9999c0e965f3.mp3?hdnea=exp=1795719294~acl=/api/1/1/7/b/4/0/7b40c2ecfb914ef6412e9999c0e965f3.mp3*~data=user_id=0,application_id=42~hmac=90d85d6a7b218c0d4bb05d6e5ef8725b0e6d366515460f11eaa8e31552ec30c6",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Sweeter",
+            "length": "3:41",
+            "deezer": {
+              "id": 2139840727,
+              "link": "https://www.deezer.com/track/2139840727",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/0/0/1c050abb5f24926f304c8ae3d6fcdb78.mp3?hdnea=exp=1795719294~acl=/api/1/1/1/c/0/0/1c050abb5f24926f304c8ae3d6fcdb78.mp3*~data=user_id=0,application_id=42~hmac=60e3c53786f1e417a3dcdf6ed18a3b4f942037a41f5c67f9a8b149088fa10832",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Yaaran Kollon Sikh Kuriye",
+            "length": "3:14",
+            "deezer": {
+              "id": 2139840737,
+              "link": "https://www.deezer.com/track/2139840737",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/6/0/d463ddfd111de81d28fc3e92a8c9327c.mp3?hdnea=exp=1795719294~acl=/api/1/1/d/4/6/0/d463ddfd111de81d28fc3e92a8c9327c.mp3*~data=user_id=0,application_id=42~hmac=2dc5dfb0ec67283996de6e0cf6dc8510fee678a20ea6c44c427ba1ec1264c0f7",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "True MC’s",
+            "length": "3:19",
+            "deezer": {
+              "id": 2139840747,
+              "link": "https://www.deezer.com/track/2139840747",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/9/0/a69b79f0a31e0c16e73cf75cf177b5a6.mp3?hdnea=exp=1795719294~acl=/api/1/1/a/6/9/0/a69b79f0a31e0c16e73cf75cf177b5a6.mp3*~data=user_id=0,application_id=42~hmac=e5da77f1677f71b5d6fe036ffd13a49854c70680eea9bfab980b546338feaccd",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Jugni",
+            "length": "4:49",
+            "deezer": {
+              "id": 2139840757,
+              "link": "https://www.deezer.com/track/2139840757",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/f/0/4afe98788d1522bad5f476345298eba1.mp3?hdnea=exp=1795719294~acl=/api/1/1/4/a/f/0/4afe98788d1522bad5f476345298eba1.mp3*~data=user_id=0,application_id=42~hmac=0c266af64b25be501c3b5948bf3ff588557d13ee3cdd980d2cde7a8707ce7668",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Buzzin",
+            "length": "3:37",
+            "deezer": {
+              "id": 2139840767,
+              "link": "https://www.deezer.com/track/2139840767",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/b/0/6cba83024a91e0f36ab1fdb937f974fd.mp3?hdnea=exp=1795719294~acl=/api/1/1/6/c/b/0/6cba83024a91e0f36ab1fdb937f974fd.mp3*~data=user_id=0,application_id=42~hmac=e298f0d0f5275a6068b52736beec0e364f97cba3cb14b0aaca60defeb8e783da",
+              "preview_expires": "2026-11-26T18:54:54Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Mundian to Bach Ke (Beware of the Boys) (Jay Z remix)",
+            "length": "3:59"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Panjabi MC/The Album.jpg"
+}

@@ -1,0 +1,199 @@
+{
+  "title": "Parsley, Sage, Rosemary and Thyme",
+  "artist": "Simon and Garfunkel",
+  "year": 1966,
+  "release_date": "1966-10-10",
+  "type": "Album",
+  "description": "Parsley, Sage, Rosemary and Thyme is the third studio album by the American folk rock duo Simon & Garfunkel. Produced by Bob Johnston, the album was released on October 10, 1966, in the United States by Columbia Records. Following the success of the re-release of their debut single \"The Sound of Silence\", Simon & Garfunkel regrouped after a time apart while Columbia issued their second album, a rushed collection titled Sounds of Silence. For their third album, the duo spent almost three months in the studio working on instrumentation and production.",
+  "genres": [
+    "folk",
+    "folk rock",
+    "rock",
+    "classic rock",
+    "folk pop",
+    "chamber folk",
+    "pop",
+    "pop rock"
+  ],
+  "tags": [
+    "folk",
+    "folk rock",
+    "rock",
+    "classic rock",
+    "folk pop",
+    "chamber folk",
+    "folk-pop",
+    "folk-rock",
+    "pop",
+    "pop rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.4,
+    "votes": 8
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1e9428ef-9c74-3bb8-8b14-e53defab3b48",
+    "wikipedia": "https://en.wikipedia.org/wiki/Parsley%2C_Sage%2C_Rosemary_and_Thyme",
+    "allmusic": "https://www.allmusic.com/album/mw0000191849",
+    "discogs": "https://www.discogs.com/master/27785",
+    "wikidata": "https://www.wikidata.org/wiki/Q747405",
+    "deezer": "https://www.deezer.com/album/99603212"
+  },
+  "musicbrainz_id": "1e9428ef-9c74-3bb8-8b14-e53defab3b48",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/48e870ba-5db4-4a64-933d-ea3cd96d3c6f",
+      "barcode": "886447797075",
+      "title": "Parsley, Sage, Rosemary and Thyme",
+      "disambiguation": null,
+      "date": "2025-01-18",
+      "country": "XW"
+    },
+    "total_tracks": 12,
+    "total_length": "28:47",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Scarborough Fair / Canticle",
+            "length": "3:14",
+            "deezer": {
+              "id": 692896052,
+              "link": "https://www.deezer.com/track/692896052",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/e/0/68e80f9fec5ca191e9594546ee8a5c30.mp3?hdnea=exp=1795720652~acl=/api/1/1/6/8/e/0/68e80f9fec5ca191e9594546ee8a5c30.mp3*~data=user_id=0,application_id=42~hmac=c8e3c36e05b265d46bba2f9f9113d65e42d114ee05c8e59512a55d0d0510d919",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Patterns",
+            "length": "2:46",
+            "deezer": {
+              "id": 692896062,
+              "link": "https://www.deezer.com/track/692896062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/d/0/47de235536c6cd83c337f8928597fa57.mp3?hdnea=exp=1795720652~acl=/api/1/1/4/7/d/0/47de235536c6cd83c337f8928597fa57.mp3*~data=user_id=0,application_id=42~hmac=2214174d042c7b7d20216e9b01a6bb75c3fd861289b0e8fb5e150cc9e61eac2d",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Cloudy",
+            "length": "2:18",
+            "deezer": {
+              "id": 692896072,
+              "link": "https://www.deezer.com/track/692896072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/c/0/e9cdb6ca01d4ac00ae3f9ab23ed85fb8.mp3?hdnea=exp=1795720652~acl=/api/1/1/e/9/c/0/e9cdb6ca01d4ac00ae3f9ab23ed85fb8.mp3*~data=user_id=0,application_id=42~hmac=6ead3c2aad4ac850f9132acba5981f10602e5a87520dce20879820859be513bc",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Homeward Bound",
+            "length": "2:33",
+            "deezer": {
+              "id": 692896082,
+              "link": "https://www.deezer.com/track/692896082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/5/0/ef52947bb7f1bdd2af4c14b8552a590d.mp3?hdnea=exp=1795720652~acl=/api/1/1/e/f/5/0/ef52947bb7f1bdd2af4c14b8552a590d.mp3*~data=user_id=0,application_id=42~hmac=e18eaf07d6485df733c477f998fe30485ee56f9b41b8f2d4fa24c5c631328815",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "The Big Bright Green Pleasure Machine",
+            "length": "2:46",
+            "deezer": {
+              "id": 692896092,
+              "link": "https://www.deezer.com/track/692896092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/2/0/202b8fd449c1c96fadca3d5abd10467c.mp3?hdnea=exp=1795720652~acl=/api/1/1/2/0/2/0/202b8fd449c1c96fadca3d5abd10467c.mp3*~data=user_id=0,application_id=42~hmac=5c65e9692ae8d0e8c2a1c9b9d5f6bca7e11c5a15732f93611733fd3b8ff8121b",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "The 59th Street Bridge Song (Feelin’ Groovy)",
+            "length": "1:47",
+            "deezer": {
+              "id": 692896102,
+              "link": "https://www.deezer.com/track/692896102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/6/0/db691b45d88af9f6bb20e90f856a37af.mp3?hdnea=exp=1795720652~acl=/api/1/1/d/b/6/0/db691b45d88af9f6bb20e90f856a37af.mp3*~data=user_id=0,application_id=42~hmac=b5a0a8c2d07f6351325b50e5a6c456944fd03dd037fc84b69e7cd57a72096402",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "The Dangling Conversation",
+            "length": "2:42",
+            "deezer": {
+              "id": 692896112,
+              "link": "https://www.deezer.com/track/692896112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/c/0/f9c5746449ab70fd7ce31e0d7ca3fb81.mp3?hdnea=exp=1795720652~acl=/api/1/1/f/9/c/0/f9c5746449ab70fd7ce31e0d7ca3fb81.mp3*~data=user_id=0,application_id=42~hmac=ee673dec765c506b38f31809a46c5f0807a9715b7d1754bf988dfd13eb8f2742",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Flowers Never Bend With the Rainfall",
+            "length": "2:15",
+            "deezer": {
+              "id": 692896122,
+              "link": "https://www.deezer.com/track/692896122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/4/0/ae46c47a662dc8d6e39c1a34528ac3a8.mp3?hdnea=exp=1795720652~acl=/api/1/1/a/e/4/0/ae46c47a662dc8d6e39c1a34528ac3a8.mp3*~data=user_id=0,application_id=42~hmac=893838a6fa7f73d6b4ee154bf8294697ca3af7a0c9cd9844df6d1f4f40dbc86b",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "A Simple Desultory Philippic",
+            "length": "2:18",
+            "deezer": {
+              "id": 692896132,
+              "link": "https://www.deezer.com/track/692896132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/7/0/5075d17d89272faa6a88aed6a404cf8b.mp3?hdnea=exp=1795720652~acl=/api/1/1/5/0/7/0/5075d17d89272faa6a88aed6a404cf8b.mp3*~data=user_id=0,application_id=42~hmac=a4ad20df021b61411fadf372b2d70ae7a8cb9b0a060bb24f0d1cc41d0f22f40d",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "For Emily, Whenever I May Find Her",
+            "length": "2:11",
+            "deezer": {
+              "id": 692896142,
+              "link": "https://www.deezer.com/track/692896142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/e/0/fdef5411d8943c70fa1114f1d9c92124.mp3?hdnea=exp=1795720652~acl=/api/1/1/f/d/e/0/fdef5411d8943c70fa1114f1d9c92124.mp3*~data=user_id=0,application_id=42~hmac=24e117d68575bbe5e3907667fbc21d4f605d3f353c6c9942b0ad4ea561a7f95f",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "A Poem on the Underground Wall",
+            "length": "1:57",
+            "deezer": {
+              "id": 692896152,
+              "link": "https://www.deezer.com/track/692896152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/b/0/0db5fd2bb27b6cae071714778a35ec66.mp3?hdnea=exp=1795720652~acl=/api/1/1/0/d/b/0/0db5fd2bb27b6cae071714778a35ec66.mp3*~data=user_id=0,application_id=42~hmac=9244c8324ba6c74576392d82427caff4d6db9deb31b745d98a70417dbc51051b",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "7 O’Clock News / Silent Night",
+            "length": "2:01",
+            "deezer": {
+              "id": 692896162,
+              "link": "https://www.deezer.com/track/692896162",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/d/0/e1d79a4f9a87ebee54abedc6e4bdf60b.mp3?hdnea=exp=1795720652~acl=/api/1/1/e/1/d/0/e1d79a4f9a87ebee54abedc6e4bdf60b.mp3*~data=user_id=0,application_id=42~hmac=a176cb789882500f77a6630878d7df9bd78ffa3f7a9ec3f05682460823f8e019",
+              "preview_expires": "2026-11-26T19:17:32Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Simon & Garfunkel/Parsley, Sage, Rosemary And Thyme.jpg"
+}

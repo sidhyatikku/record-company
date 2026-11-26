@@ -1,0 +1,51 @@
+{
+  "title": "Tension",
+  "artist": "Dhanda Nyoliwala",
+  "year": 2025,
+  "release_date": "2025-08-18",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/3c20b922-9cb6-4340-8a95-9023716d4f8e",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/803557091"
+  },
+  "musicbrainz_id": "3c20b922-9cb6-4340-8a95-9023716d4f8e",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/88fc096c-db83-4c73-8669-d6598ea8c9ab",
+      "barcode": "00602478907050",
+      "title": "Tension",
+      "disambiguation": null,
+      "date": "2025-08-18",
+      "country": "XW"
+    },
+    "total_tracks": 1,
+    "total_length": "2:24",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Tension",
+            "length": "2:24",
+            "deezer": {
+              "id": 3504882511,
+              "link": "https://www.deezer.com/track/3504882511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/4/0/2b40b62faa78d9dee82a4d5064e238b3.mp3?hdnea=exp=1795653302~acl=/api/1/1/2/b/4/0/2b40b62faa78d9dee82a4d5064e238b3.mp3*~data=user_id=0,application_id=42~hmac=fad82792c0b5bbc8defe49916152572f26fb3d478c02311143525672440e27e2",
+              "preview_expires": "2026-11-26T00:35:02Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Dhanda Nyoliwala/Tension.jpg"
+}

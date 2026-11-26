@@ -1,0 +1,223 @@
+{
+  "title": "It’s Blitz!",
+  "artist": "Yeah Yeah Yeahs",
+  "year": 2009,
+  "release_date": "2009-03-06",
+  "type": "Album",
+  "description": "It's Blitz! is the third studio album by American indie rock band Yeah Yeah Yeahs, released on March 6, 2009 on Interscope Records. \nThe album was produced by Nick Launay, who had worked with the band on their previous EP, Is Is (2007), and TV on the Radio's David Andrew Sitek, who had produced the band's debut album, Fever to Tell (2003). The album was supported by three singles, \"Zero\", \"Heads Will Roll\", and \"Skeletons\".",
+  "genres": [
+    "indie rock",
+    "rock",
+    "alternative rock",
+    "alternative dance",
+    "dance-punk",
+    "electronic",
+    "electropop"
+  ],
+  "tags": [
+    "indie rock",
+    "rock",
+    "alternative rock",
+    "alternative dance",
+    "dance-punk",
+    "electronic",
+    "electropop",
+    "synthpop"
+  ],
+  "rating": {
+    "value_out_of_5": 4.15,
+    "votes": 12
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/08e1a593-cbce-3943-8a90-79c4d8c2b693",
+    "wikipedia": "https://en.wikipedia.org/wiki/It's_Blitz!",
+    "allmusic": "https://www.allmusic.com/album/mw0000813137",
+    "discogs": "https://www.discogs.com/master/33496",
+    "wikidata": "https://www.wikidata.org/wiki/Q1675416",
+    "deezer": "https://www.deezer.com/album/320938207"
+  },
+  "musicbrainz_id": "08e1a593-cbce-3943-8a90-79c4d8c2b693",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/eaef6a86-1e6b-4794-853b-b05b2af87b9f",
+      "barcode": "00602527021713",
+      "title": "It's Blitz!",
+      "disambiguation": "Deluxe digital album",
+      "date": "2009",
+      "country": "XW"
+    },
+    "total_tracks": 15,
+    "total_length": "58:57",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Zero",
+            "length": "4:26",
+            "deezer": {
+              "id": 1761505857,
+              "link": "https://www.deezer.com/track/1761505857",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/6/0/1d6952f9a0df9f797a36f7a0e73b69ba.mp3?hdnea=exp=1795724473~acl=/api/1/1/1/d/6/0/1d6952f9a0df9f797a36f7a0e73b69ba.mp3*~data=user_id=0,application_id=42~hmac=7b832aa73f897e1dd55dadc9749fbcbe08ce5969de3a061ee7138db8eeddf147",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Heads Will Roll",
+            "length": "3:41",
+            "deezer": {
+              "id": 1761505867,
+              "link": "https://www.deezer.com/track/1761505867",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/f/0/46f541f330670eea31648b0cefc746bd.mp3?hdnea=exp=1795724473~acl=/api/1/1/4/6/f/0/46f541f330670eea31648b0cefc746bd.mp3*~data=user_id=0,application_id=42~hmac=3593cca446c91bf91581a370ad92a30b151a7480e55da1cbbcd448bfa1ad68aa",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Soft Shock",
+            "length": "3:53",
+            "deezer": {
+              "id": 1761505877,
+              "link": "https://www.deezer.com/track/1761505877",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/4/0/cf4fcf7324b847987310cf7698a71d4d.mp3?hdnea=exp=1795724473~acl=/api/1/1/c/f/4/0/cf4fcf7324b847987310cf7698a71d4d.mp3*~data=user_id=0,application_id=42~hmac=a7fd9a91a446c10d25c6e8cffdeca5eb77b09164a728c8f7ff3751c26033268e",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Skeletons",
+            "length": "5:02",
+            "deezer": {
+              "id": 1761505887,
+              "link": "https://www.deezer.com/track/1761505887",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/2/0/7622c6e0c1b0d4a57d0e1ee0e95098dd.mp3?hdnea=exp=1795724473~acl=/api/1/1/7/6/2/0/7622c6e0c1b0d4a57d0e1ee0e95098dd.mp3*~data=user_id=0,application_id=42~hmac=e7080411723916cd4aa93881196abb36ad0d185aeb304070287f43619b77aa49",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Dull Life",
+            "length": "4:08",
+            "deezer": {
+              "id": 1761505897,
+              "link": "https://www.deezer.com/track/1761505897",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/c/0/dbcb50cb513eef9d8d23c98e9ffb556e.mp3?hdnea=exp=1795724473~acl=/api/1/1/d/b/c/0/dbcb50cb513eef9d8d23c98e9ffb556e.mp3*~data=user_id=0,application_id=42~hmac=677620ff7baa6baa918373460803a80a80c3c3ff53b8c0f0061110a4fb49dcc1",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Shame and Fortune",
+            "length": "3:31",
+            "deezer": {
+              "id": 1761505907,
+              "link": "https://www.deezer.com/track/1761505907",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/d/0/25dc187a662207a264b481e793a6277f.mp3?hdnea=exp=1795724473~acl=/api/1/1/2/5/d/0/25dc187a662207a264b481e793a6277f.mp3*~data=user_id=0,application_id=42~hmac=349bb5d065316cb1cd9323ea9d7ced535635c0573ed65bb8125a4d1c27ece8bb",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Runaway",
+            "length": "5:13",
+            "deezer": {
+              "id": 1761505917,
+              "link": "https://www.deezer.com/track/1761505917",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/f/0/09ff0f792db08dec2d1abc359807a877.mp3?hdnea=exp=1795724473~acl=/api/1/1/0/9/f/0/09ff0f792db08dec2d1abc359807a877.mp3*~data=user_id=0,application_id=42~hmac=c47ab206630e5c11c8f4965c0ffb69617f714503098943b49c6e1375082e2088",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Dragon Queen",
+            "length": "4:02",
+            "deezer": {
+              "id": 1761505927,
+              "link": "https://www.deezer.com/track/1761505927",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/c/0/fbc4774095a50725321fd44a4189cac3.mp3?hdnea=exp=1795724473~acl=/api/1/1/f/b/c/0/fbc4774095a50725321fd44a4189cac3.mp3*~data=user_id=0,application_id=42~hmac=8a78d8c38e36bc4127a0da715f5c0547e4c1b4d57e8b02efc2403634a072ab66",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Hysteric",
+            "length": "3:50",
+            "deezer": {
+              "id": 1761505937,
+              "link": "https://www.deezer.com/track/1761505937",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/b/0/d1b6cbe6c41193a008b6941be3216a48.mp3?hdnea=exp=1795724473~acl=/api/1/1/d/1/b/0/d1b6cbe6c41193a008b6941be3216a48.mp3*~data=user_id=0,application_id=42~hmac=78c00764c5cb2c5db3412a6bacf1d19c57f2b4782e72717f6f5f355aa1f595e7",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Little Shadow",
+            "length": "3:56",
+            "deezer": {
+              "id": 1761505947,
+              "link": "https://www.deezer.com/track/1761505947",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/b/0/68bce41f3d7a0d74e7d4c4b810eeb5b4.mp3?hdnea=exp=1795724473~acl=/api/1/1/6/8/b/0/68bce41f3d7a0d74e7d4c4b810eeb5b4.mp3*~data=user_id=0,application_id=42~hmac=688d78e4eeb180721b431f9fdf1daccf1dba4749e97b4c272f603336afdb0330",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Soft Shock (acoustic)",
+            "length": "3:25",
+            "deezer": {
+              "id": 1761505957,
+              "link": "https://www.deezer.com/track/1761505957",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/b/0/cfb96eb2e211edaa2c4592063ab47188.mp3?hdnea=exp=1795724473~acl=/api/1/1/c/f/b/0/cfb96eb2e211edaa2c4592063ab47188.mp3*~data=user_id=0,application_id=42~hmac=38c229cbc1259605a8435dd0246fef6603742ea743d642ef9358c42e602695fc",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Skeletons (acoustic)",
+            "length": "3:30",
+            "deezer": {
+              "id": 1761505967,
+              "link": "https://www.deezer.com/track/1761505967",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/d/0/31d0740c352baa9dc32f7d7470a400e3.mp3?hdnea=exp=1795724473~acl=/api/1/1/3/1/d/0/31d0740c352baa9dc32f7d7470a400e3.mp3*~data=user_id=0,application_id=42~hmac=ac253529c8e176a36034b5d3889111956524e79115dfc5c6d3b90ab03028ba7e",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Hysteric (acoustic)",
+            "length": "3:52",
+            "deezer": {
+              "id": 1761505977,
+              "link": "https://www.deezer.com/track/1761505977",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/5/0/5058782c206f5c989233ea6864fe6ffe.mp3?hdnea=exp=1795724473~acl=/api/1/1/5/0/5/0/5058782c206f5c989233ea6864fe6ffe.mp3*~data=user_id=0,application_id=42~hmac=8cd9bda5c384f73cbc83cf0e4c3b12c012f39a42d57309811fda9a32ab967479",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Little Shadow (acoustic)",
+            "length": "2:53",
+            "deezer": {
+              "id": 1761505987,
+              "link": "https://www.deezer.com/track/1761505987",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/0/0/7f0bdbf6eb687722c070aa8710331a27.mp3?hdnea=exp=1795724473~acl=/api/1/1/7/f/0/0/7f0bdbf6eb687722c070aa8710331a27.mp3*~data=user_id=0,application_id=42~hmac=16aae92c9cf92521a755f74e3fc29b81e88ff8057bef8096799d56e39e3e3c6d",
+              "preview_expires": "2026-11-26T20:21:13Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Faces",
+            "length": "3:33"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Yeah Yeah Yeahs/It's Blitz!.jpg"
+}

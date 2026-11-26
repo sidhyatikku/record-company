@@ -1,0 +1,117 @@
+{
+  "title": "I Can’t Handle Change",
+  "artist": "ROAR",
+  "year": 2010,
+  "release_date": "2010-03-14",
+  "type": "EP",
+  "description": null,
+  "genres": [
+    "pop",
+    "rock"
+  ],
+  "tags": [
+    "pop",
+    "rock"
+  ],
+  "rating": {
+    "value_out_of_5": 5,
+    "votes": 1
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/f23a5d34-7b97-4cb7-aa9e-958ba56da188",
+    "wikipedia": null,
+    "discogs": "https://www.discogs.com/master/628043",
+    "deezer": "https://www.deezer.com/album/565245862"
+  },
+  "musicbrainz_id": "f23a5d34-7b97-4cb7-aa9e-958ba56da188",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/82a57f2e-95a6-4c9d-9149-11fd2a839a77",
+      "barcode": "884502739244",
+      "title": "I Can’t Handle Change",
+      "disambiguation": null,
+      "date": "2010-03-14",
+      "country": "XW"
+    },
+    "total_tracks": 6,
+    "total_length": "14:53",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "I Can’t Handle Change",
+            "length": "3:18",
+            "deezer": {
+              "id": 2723422672,
+              "link": "https://www.deezer.com/track/2723422672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/a/0/f3a14fc544592f16863d45266c59792e.mp3?hdnea=exp=1795720127~acl=/api/1/1/f/3/a/0/f3a14fc544592f16863d45266c59792e.mp3*~data=user_id=0,application_id=42~hmac=1c64e5223c1ac65a0232d56f983304aeb430e52e17357c477737e7cb161cf030",
+              "preview_expires": "2026-11-26T19:08:47Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Duck or Ape",
+            "length": "1:39",
+            "deezer": {
+              "id": 2723422682,
+              "link": "https://www.deezer.com/track/2723422682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/5/0/be5ec595ed1fd18b16db24013b57e373.mp3?hdnea=exp=1795720127~acl=/api/1/1/b/e/5/0/be5ec595ed1fd18b16db24013b57e373.mp3*~data=user_id=0,application_id=42~hmac=27fad25f2752a68f4cfa787a1fca355d283187c9048f52b835df26c8b0f52db5",
+              "preview_expires": "2026-11-26T19:08:47Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Heart for Brains",
+            "length": "2:50",
+            "deezer": {
+              "id": 2723422692,
+              "link": "https://www.deezer.com/track/2723422692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/9/0/1b906a200aaa3d3dc0b41053e5ea3491.mp3?hdnea=exp=1795720127~acl=/api/1/1/1/b/9/0/1b906a200aaa3d3dc0b41053e5ea3491.mp3*~data=user_id=0,application_id=42~hmac=95de7fa5e0f2220e45c5f4d82857105ac3a8d828989a509d7cdec12d0bb9409e",
+              "preview_expires": "2026-11-26T19:08:47Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Baby Bride Rag",
+            "length": "0:55",
+            "deezer": {
+              "id": 2723422702,
+              "link": "https://www.deezer.com/track/2723422702",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/5/0/7756cce712007bfd36a8ceb66f1db0b8.mp3?hdnea=exp=1795720127~acl=/api/1/1/7/7/5/0/7756cce712007bfd36a8ceb66f1db0b8.mp3*~data=user_id=0,application_id=42~hmac=90d0b62a95c94ccbd1fd8a3f06be0627c42076d8fe5c48c43d578c5604b3ce6f",
+              "preview_expires": "2026-11-26T19:08:47Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Christmas Kids",
+            "length": "2:16",
+            "deezer": {
+              "id": 2723422712,
+              "link": "https://www.deezer.com/track/2723422712",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/4/0/3041cce7accce6357a2a10832210920c.mp3?hdnea=exp=1795720127~acl=/api/1/1/3/0/4/0/3041cce7accce6357a2a10832210920c.mp3*~data=user_id=0,application_id=42~hmac=957009cd2f387d0b07ba9755280196417257e75e452459d576e4f229d278c6da",
+              "preview_expires": "2026-11-26T19:08:47Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Just a Fan",
+            "length": "3:55",
+            "deezer": {
+              "id": 2723422722,
+              "link": "https://www.deezer.com/track/2723422722",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/8/0/3388942ccd837307f5a885aa85d4f31a.mp3?hdnea=exp=1795720127~acl=/api/1/1/3/3/8/0/3388942ccd837307f5a885aa85d4f31a.mp3*~data=user_id=0,application_id=42~hmac=62064036c7cf6ca41d2130d3d952c5fb3617c5d3cd6b815ba9d49d8cf68f4211",
+              "preview_expires": "2026-11-26T19:08:47Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Roar/I Can't Handle Change.jpg"
+}

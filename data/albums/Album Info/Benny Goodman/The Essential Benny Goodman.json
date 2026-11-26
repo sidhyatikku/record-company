@@ -1,0 +1,497 @@
+{
+  "title": "The Essential Benny Goodman",
+  "artist": "Benny Goodman",
+  "year": 2007,
+  "release_date": "2007-05-22",
+  "type": "Album + Compilation",
+  "description": null,
+  "genres": [
+    "jazz",
+    "swing",
+    "big band"
+  ],
+  "tags": [
+    "jazz",
+    "swing",
+    "big band"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/8250ac84-2119-31bf-8e67-fbe91fa5534b",
+    "wikipedia": null,
+    "allmusic": "https://www.allmusic.com/album/mw0000778851",
+    "discogs": "https://www.discogs.com/master/2429908",
+    "deezer": "https://www.deezer.com/album/1207746"
+  },
+  "musicbrainz_id": "8250ac84-2119-31bf-8e67-fbe91fa5534b",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0067366e-f852-4eaa-be81-5f5bb87ff994",
+      "barcode": "886970949125",
+      "title": "The Essential Benny Goodman",
+      "disambiguation": null,
+      "date": "2007-05-22",
+      "country": null
+    },
+    "total_tracks": 40,
+    "total_length": "2:14:44",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": "1–10. Benny’s Big Band Arrangers / 11–20. Benny Visits Tin Pan Alley",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Let’s Dance (album version)",
+            "length": "2:33",
+            "deezer": {
+              "id": 13166660,
+              "link": "https://www.deezer.com/track/13166660",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/c/0/c0cacc24028f0c25dd0769509b940414.mp3?hdnea=exp=1795651949~acl=/api/1/1/c/0/c/0/c0cacc24028f0c25dd0769509b940414.mp3*~data=user_id=0,application_id=42~hmac=37a7467050c3e1e49f0e591ff9d6b477b0d621d3376fc0283d96e1c11c09f67c",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Bugle Call Rag (album version)",
+            "length": "2:57",
+            "deezer": {
+              "id": 13166661,
+              "link": "https://www.deezer.com/track/13166661",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/3/0/073b1772b8ce92176d5f07d770808135.mp3?hdnea=exp=1795651949~acl=/api/1/1/0/7/3/0/073b1772b8ce92176d5f07d770808135.mp3*~data=user_id=0,application_id=42~hmac=717673257722f0c1ce0a852c8cac2e6580b8a0c7def6a45eda3f412b71aec82f",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "King Porter Stomp (1992 remastered)",
+            "length": "3:08",
+            "deezer": {
+              "id": 13166662,
+              "link": "https://www.deezer.com/track/13166662",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/1/0/5b1a34fd15dd8da862ed3a2284986e7c.mp3?hdnea=exp=1795651949~acl=/api/1/1/5/b/1/0/5b1a34fd15dd8da862ed3a2284986e7c.mp3*~data=user_id=0,application_id=42~hmac=7f1e398df1e5397fefb9a543361635acedde8c849a0f91973118ab6d7d774b9a",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Don’t Be That Way (1987 remastered)",
+            "length": "3:22",
+            "deezer": {
+              "id": 13166663,
+              "link": "https://www.deezer.com/track/13166663",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/3/0/3e3a482460511839203d8f914d75e37f.mp3?hdnea=exp=1795651949~acl=/api/1/1/3/e/3/0/3e3a482460511839203d8f914d75e37f.mp3*~data=user_id=0,application_id=42~hmac=b08085b6ea1490097926e5430ef2e6e9d07777e4acfe66e54853da9bb541c741",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "When Buddha Smiles",
+            "length": "3:10",
+            "deezer": {
+              "id": 13166664,
+              "link": "https://www.deezer.com/track/13166664",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/b/0/32bfaed1bc77eee4ff4734bedac570f4.mp3?hdnea=exp=1795651949~acl=/api/1/1/3/2/b/0/32bfaed1bc77eee4ff4734bedac570f4.mp3*~data=user_id=0,application_id=42~hmac=274615e202a8391a7d2901d29c9410982e65d741c77c3f16740250556bb9e147",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Sing, Sing, Sing (1987 remastered)",
+            "length": "8:40",
+            "deezer": {
+              "id": 13166665,
+              "link": "https://www.deezer.com/track/13166665",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/1/0/321ae68afad463eac574919d3a61b578.mp3?hdnea=exp=1795651949~acl=/api/1/1/3/2/1/0/321ae68afad463eac574919d3a61b578.mp3*~data=user_id=0,application_id=42~hmac=b0347b3e9843778c0569fe5b3caca8a7d68d738289ba4577908375f47c77e74c",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Big John’s Special",
+            "length": "3:06",
+            "deezer": {
+              "id": 13166666,
+              "link": "https://www.deezer.com/track/13166666",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/9/0/da95e6cc498138fa1cf0e07c2ef70700.mp3?hdnea=exp=1795651949~acl=/api/1/1/d/a/9/0/da95e6cc498138fa1cf0e07c2ef70700.mp3*~data=user_id=0,application_id=42~hmac=cba80a73e2bfe797a87d60d99f3c33d1353f97d41492cf75dd8ac8b2b52e996c",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Get Happy (1991 remastered)",
+            "length": "3:06",
+            "deezer": {
+              "id": 13166667,
+              "link": "https://www.deezer.com/track/13166667",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/5/0/105b126ee009a4785fb06aa3f96b6029.mp3?hdnea=exp=1795651949~acl=/api/1/1/1/0/5/0/105b126ee009a4785fb06aa3f96b6029.mp3*~data=user_id=0,application_id=42~hmac=f2c6385e59cce0495f49e2ebbe762a08835787abd860556b5a82dc3ade18bae9",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Superman",
+            "length": "4:32",
+            "deezer": {
+              "id": 13166668,
+              "link": "https://www.deezer.com/track/13166668",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/6/0/0161ccef04107b5f751453d47aad1db0.mp3?hdnea=exp=1795651949~acl=/api/1/1/0/1/6/0/0161ccef04107b5f751453d47aad1db0.mp3*~data=user_id=0,application_id=42~hmac=aa299eb928eaffeebd8226e5a3f4da4455c8afafd1b81b39a0dad3e31c26a6ec",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Oh! Baby (album version)",
+            "length": "8:44",
+            "deezer": {
+              "id": 13166669,
+              "link": "https://www.deezer.com/track/13166669",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/2/0/052a65ce2237e6a7839f616c3ba47483.mp3?hdnea=exp=1795651949~acl=/api/1/1/0/5/2/0/052a65ce2237e6a7839f616c3ba47483.mp3*~data=user_id=0,application_id=42~hmac=a8b524915bfbf27a8edd39b807660adadb3f915e4c3df006ec51f940477a4ee1",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Goody Goody (1987 remastered)",
+            "length": "2:30",
+            "deezer": {
+              "id": 13166670,
+              "link": "https://www.deezer.com/track/13166670",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/6/0/a464127503102a892562dd2eec24a6af.mp3?hdnea=exp=1795651949~acl=/api/1/1/a/4/6/0/a464127503102a892562dd2eec24a6af.mp3*~data=user_id=0,application_id=42~hmac=4361ca1a6eddd9b2df6d52cb839f6e5dd431f28eec31cb6064d8976256e9afe3",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "There’s a Small Hotel",
+            "length": "2:29",
+            "deezer": {
+              "id": 13166671,
+              "link": "https://www.deezer.com/track/13166671",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/c/0/3fce382263f6dae3f386f38031e71630.mp3?hdnea=exp=1795651949~acl=/api/1/1/3/f/c/0/3fce382263f6dae3f386f38031e71630.mp3*~data=user_id=0,application_id=42~hmac=d392ffca5193eb9c520628f7d0e79fcb1fd11ab47c09a8d1f4aab7233f4a12d8",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "You Turned the Tables on Me (1991 remastered)",
+            "length": "2:48",
+            "deezer": {
+              "id": 13166672,
+              "link": "https://www.deezer.com/track/13166672",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/6/0/24602af16417856ccc950c95d063acba.mp3?hdnea=exp=1795651949~acl=/api/1/1/2/4/6/0/24602af16417856ccc950c95d063acba.mp3*~data=user_id=0,application_id=42~hmac=02cd1c1313edf234dd4eb02f363f72bbe448935138e52b020295bff6e7d66a0f",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Can’t Teach My Old Heart New Tricks",
+            "length": "3:03",
+            "deezer": {
+              "id": 13166673,
+              "link": "https://www.deezer.com/track/13166673",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/6/0/7e62c3d9540dc72b0a98d588fc40243a.mp3?hdnea=exp=1795651949~acl=/api/1/1/7/e/6/0/7e62c3d9540dc72b0a98d588fc40243a.mp3*~data=user_id=0,application_id=42~hmac=d1c9c5324defeeb112fe16c235776602b0619e8062e3e61e66557fb1a5beea5a",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "This Can’t Be Love",
+            "length": "2:46",
+            "deezer": {
+              "id": 13166674,
+              "link": "https://www.deezer.com/track/13166674",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/4/0/bd49c4f24c9bb8a8d0ef41cc069bfadc.mp3?hdnea=exp=1795651949~acl=/api/1/1/b/d/4/0/bd49c4f24c9bb8a8d0ef41cc069bfadc.mp3*~data=user_id=0,application_id=42~hmac=63b71d664d8f9b5e1550297d5bd603c7e5bd503d7577837d9cd03085c6d533f8",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "I Thought About You",
+            "length": "2:32",
+            "deezer": {
+              "id": 13166675,
+              "link": "https://www.deezer.com/track/13166675",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/5/0/fb522bb728ae6cd9bee56439e7c541e0.mp3?hdnea=exp=1795651949~acl=/api/1/1/f/b/5/0/fb522bb728ae6cd9bee56439e7c541e0.mp3*~data=user_id=0,application_id=42~hmac=a30fa5fde62fa8a10402267f2ec29ec3e997b5872761fe2e81c63bfef6e6365f",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "It Never Entered My Mind",
+            "length": "2:58",
+            "deezer": {
+              "id": 13166676,
+              "link": "https://www.deezer.com/track/13166676",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/8/0/2383249598c7f4330625f78600e20da0.mp3?hdnea=exp=1795651949~acl=/api/1/1/2/3/8/0/2383249598c7f4330625f78600e20da0.mp3*~data=user_id=0,application_id=42~hmac=bdde6f97ea344a7b02d1d2f131fb1910d124c81cf76ee082e65b7b41f4a326e4",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Taking a Chance on Love (rechanneled stereo version)",
+            "length": "3:08",
+            "deezer": {
+              "id": 13166677,
+              "link": "https://www.deezer.com/track/13166677",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/c/0/c6cc54a6f699fd5d6043136834b6295d.mp3?hdnea=exp=1795651949~acl=/api/1/1/c/6/c/0/c6cc54a6f699fd5d6043136834b6295d.mp3*~data=user_id=0,application_id=42~hmac=9ae55769c10ab7dd2fc924722d279c109909ea6fe5b3b1918f5fc8df8447d627",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "Let’s Do It (album version)",
+            "length": "2:01",
+            "deezer": {
+              "id": 13166678,
+              "link": "https://www.deezer.com/track/13166678",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/6/0/566c94d63b239224904a7abb5080f0ae.mp3?hdnea=exp=1795651949~acl=/api/1/1/5/6/6/0/566c94d63b239224904a7abb5080f0ae.mp3*~data=user_id=0,application_id=42~hmac=69d66622b1a4068305fa47f2f4969001132493e6c9b14fa60365a3bd674c7242",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "How Long Has This Been Going On? (album version)",
+            "length": "3:14",
+            "deezer": {
+              "id": 13166679,
+              "link": "https://www.deezer.com/track/13166679",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/3/0/4e373fd55a36a99245c84c4786becac7.mp3?hdnea=exp=1795651949~acl=/api/1/1/4/e/3/0/4e373fd55a36a99245c84c4786becac7.mp3*~data=user_id=0,application_id=42~hmac=dd25c65f32c9c0ad68f45ec5e0f37b8bb5079447e980a00a8214cffdec56bddf",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          }
+        ]
+      },
+      {
+        "disc": 2,
+        "format": "Digital Media",
+        "title": "1–10. Benny’s Small Groups / 11–20. Benny Live",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "After You’ve Gone (1996 remastered – take 1)",
+            "length": "2:47",
+            "deezer": {
+              "id": 13166680,
+              "link": "https://www.deezer.com/track/13166680",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/3/0/cc37f6e19e3a2f4bc9e51114ffd65947.mp3?hdnea=exp=1795651949~acl=/api/1/1/c/c/3/0/cc37f6e19e3a2f4bc9e51114ffd65947.mp3*~data=user_id=0,application_id=42~hmac=2b9759f18a452ebc9a6eb4664912530717e349e25377f77f97fecfeccf728c39",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Runnin’ Wild (1996 remastered)",
+            "length": "2:37",
+            "deezer": {
+              "id": 13166681,
+              "link": "https://www.deezer.com/track/13166681",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/7/0/3b7bfbdd8730a981142f4589f770bcf6.mp3?hdnea=exp=1795651949~acl=/api/1/1/3/b/7/0/3b7bfbdd8730a981142f4589f770bcf6.mp3*~data=user_id=0,application_id=42~hmac=4a0d5c8c2b377e3b7ce13e0d3fce531656f98ce5c2d7d8b16c25a1507cc84173",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "The Man I Love (1996 remastered)",
+            "length": "3:26",
+            "deezer": {
+              "id": 13166682,
+              "link": "https://www.deezer.com/track/13166682",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/f/0/12f60a30d3e5ee6f586576fd9b51a196.mp3?hdnea=exp=1795651949~acl=/api/1/1/1/2/f/0/12f60a30d3e5ee6f586576fd9b51a196.mp3*~data=user_id=0,application_id=42~hmac=ca76f767f62d78acd503c8a6220795d984644a8b836d47e6ae7eaaa100339269",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Moonglow (previously unissued)",
+            "length": "3:11",
+            "deezer": {
+              "id": 13166683,
+              "link": "https://www.deezer.com/track/13166683",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/d/0/b6d03291a14630c27edd2f31ccc1a8b9.mp3?hdnea=exp=1795651949~acl=/api/1/1/b/6/d/0/b6d03291a14630c27edd2f31ccc1a8b9.mp3*~data=user_id=0,application_id=42~hmac=337e79585d00686cd9b6198d2903fd796ef198402370e30f9ed7dfedf968d6db",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Flying Home (instrumental)",
+            "length": "3:12",
+            "deezer": {
+              "id": 13166684,
+              "link": "https://www.deezer.com/track/13166684",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/0/0/f4046069c252d101f8cf5b0d45a715f9.mp3?hdnea=exp=1795651949~acl=/api/1/1/f/4/0/0/f4046069c252d101f8cf5b0d45a715f9.mp3*~data=user_id=0,application_id=42~hmac=e0e6016cb65c4cdf553e17c9912843fbcedcaeeb25ba8f0978286b8ecc82d584",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Rose Room (album version)",
+            "length": "2:48",
+            "deezer": {
+              "id": 13166685,
+              "link": "https://www.deezer.com/track/13166685",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/4/0/a544e5fe32d5f8c1cd066301c5f5c05b.mp3?hdnea=exp=1795651949~acl=/api/1/1/a/5/4/0/a544e5fe32d5f8c1cd066301c5f5c05b.mp3*~data=user_id=0,application_id=42~hmac=f914a236390b50e95efacc0feb3f99fa9040716fb100898613544e18f92100a1",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Air Mail Special (album version)",
+            "length": "2:53",
+            "deezer": {
+              "id": 13166686,
+              "link": "https://www.deezer.com/track/13166686",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/9/0/3a910929f49584d31158e9dc1e1b7792.mp3?hdnea=exp=1795651949~acl=/api/1/1/3/a/9/0/3a910929f49584d31158e9dc1e1b7792.mp3*~data=user_id=0,application_id=42~hmac=16bba9edb5775583e3fc3ec91dc90e74f6c2ebafab2977055e7796776b4689db",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "The World Is Waiting for the Sunrise (album version)",
+            "length": "2:42",
+            "deezer": {
+              "id": 13166687,
+              "link": "https://www.deezer.com/track/13166687",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/c/0/edc3b97a10a342f083fb3d3c7dfb45a8.mp3?hdnea=exp=1795651949~acl=/api/1/1/e/d/c/0/edc3b97a10a342f083fb3d3c7dfb45a8.mp3*~data=user_id=0,application_id=42~hmac=295747ab7b85df1181fec736fe9e09be60252c0a3b11ed631f2d11745ad1564d",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Wholly Cats (album version)",
+            "length": "3:03",
+            "deezer": {
+              "id": 13166688,
+              "link": "https://www.deezer.com/track/13166688",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/1/0/94113eff6243cbb87cedcc220e2f4445.mp3?hdnea=exp=1795651949~acl=/api/1/1/9/4/1/0/94113eff6243cbb87cedcc220e2f4445.mp3*~data=user_id=0,application_id=42~hmac=445caefb1ef15e07fd38c44f0f7ae973215b37dcd2e190b1814dc6a154330d28",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Rachel’s Dream (album version)",
+            "length": "2:53",
+            "deezer": {
+              "id": 13166689,
+              "link": "https://www.deezer.com/track/13166689",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/e/0/e4ebf02718f77932004074217deb727f.mp3?hdnea=exp=1795651949~acl=/api/1/1/e/4/e/0/e4ebf02718f77932004074217deb727f.mp3*~data=user_id=0,application_id=42~hmac=7f5040ee28e6adeb87ad8ed48aee56e4524afa12bb7588f95ba35f096b48b4e2",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "11",
+            "title": "Ridin’ High",
+            "length": "2:37",
+            "deezer": {
+              "id": 13166690,
+              "link": "https://www.deezer.com/track/13166690",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/8/0/558019c9eae1a89396daa36cc22bf634.mp3?hdnea=exp=1795651949~acl=/api/1/1/5/5/8/0/558019c9eae1a89396daa36cc22bf634.mp3*~data=user_id=0,application_id=42~hmac=ae413a26eb34da407364ef086ccb4d49a3e54f274678b25436c9997cfb497ee0",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "12",
+            "title": "Sunny Disposish (album version)",
+            "length": "2:09",
+            "deezer": {
+              "id": 13166691,
+              "link": "https://www.deezer.com/track/13166691",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/6/0/e0685593409928d717e981c8cd27c02d.mp3?hdnea=exp=1795651949~acl=/api/1/1/e/0/6/0/e0685593409928d717e981c8cd27c02d.mp3*~data=user_id=0,application_id=42~hmac=a8db495cd4f3a68580047c970911be07fd638a4d65aafb20a1a6bcdcd351d832",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "13",
+            "title": "Body and Soul",
+            "length": "3:24",
+            "deezer": {
+              "id": 13166692,
+              "link": "https://www.deezer.com/track/13166692",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/c/0/e2cf86daa4933ca227e721087e49c746.mp3?hdnea=exp=1795651949~acl=/api/1/1/e/2/c/0/e2cf86daa4933ca227e721087e49c746.mp3*~data=user_id=0,application_id=42~hmac=d85fef05abca5f44c6859aaea24cd2f40dd124763c7aaee615a016e1fe21d22f",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "14",
+            "title": "Sweet Leilani (album version)",
+            "length": "2:13",
+            "deezer": {
+              "id": 13166693,
+              "link": "https://www.deezer.com/track/13166693",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/7/0/3a71ed0ad721052a9a9c6894a41dd6ad.mp3?hdnea=exp=1795651949~acl=/api/1/1/3/a/7/0/3a71ed0ad721052a9a9c6894a41dd6ad.mp3*~data=user_id=0,application_id=42~hmac=aa26ab4b151791d2990dbacb307c4c6a7068db716719a442629acec3d78a04a1",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "15",
+            "title": "Roll ’em (album version)",
+            "length": "4:15",
+            "deezer": {
+              "id": 13166694,
+              "link": "https://www.deezer.com/track/13166694",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/6/0/f862dae2d2abddf73ecddfff2519a6ac.mp3?hdnea=exp=1795651949~acl=/api/1/1/f/8/6/0/f862dae2d2abddf73ecddfff2519a6ac.mp3*~data=user_id=0,application_id=42~hmac=8fa69105e3d9928365e26da88d42525075394191f6e722cdc360c3382641258d",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "16",
+            "title": "Life Goes to a Party (album version)",
+            "length": "3:42",
+            "deezer": {
+              "id": 13166695,
+              "link": "https://www.deezer.com/track/13166695",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/9/0/6a9c1adfc61907492ce4473be7b02b1d.mp3?hdnea=exp=1795651949~acl=/api/1/1/6/a/9/0/6a9c1adfc61907492ce4473be7b02b1d.mp3*~data=user_id=0,application_id=42~hmac=09e00616c21b28524366a33b9a33f313f53b05aeeabe2435049913036efc6b5f",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "17",
+            "title": "Avalon (live)",
+            "length": "4:12",
+            "deezer": {
+              "id": 13166696,
+              "link": "https://www.deezer.com/track/13166696",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/6/0/2065e30829ccd1f2161634fcfb0e7b0e.mp3?hdnea=exp=1795651949~acl=/api/1/1/2/0/6/0/2065e30829ccd1f2161634fcfb0e7b0e.mp3*~data=user_id=0,application_id=42~hmac=c673d33074d043e94792912b20ebd6d5123c89c17e4ee761312fcdb966338a82",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "18",
+            "title": "Swingtime in the Rockies (album version)",
+            "length": "2:30",
+            "deezer": {
+              "id": 13166697,
+              "link": "https://www.deezer.com/track/13166697",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/4/0/6b497ee6a30d1d3850cca09dd4c98ff2.mp3?hdnea=exp=1795651949~acl=/api/1/1/6/b/4/0/6b497ee6a30d1d3850cca09dd4c98ff2.mp3*~data=user_id=0,application_id=42~hmac=87cb8d94dd21f256baccca21e70c0300d157ad4c0949a45f3c1052f1d6f04a4d",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "19",
+            "title": "My Gal Sal (instrumental)",
+            "length": "3:54",
+            "deezer": {
+              "id": 13166698,
+              "link": "https://www.deezer.com/track/13166698",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/c/0/78c19dd3e6cac9254e82b263222e33c4.mp3?hdnea=exp=1795651949~acl=/api/1/1/7/8/c/0/78c19dd3e6cac9254e82b263222e33c4.mp3*~data=user_id=0,application_id=42~hmac=4ad4766b17261f619b5e742630b138f151a98bf96f042a2850f8a8448bbf4713",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          },
+          {
+            "number": "20",
+            "title": "Stealin’ Apples (album version)",
+            "length": "5:31",
+            "deezer": {
+              "id": 13166699,
+              "link": "https://www.deezer.com/track/13166699",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/9/0/db9c65498a0f48e89f26272ace43e63d.mp3?hdnea=exp=1795651949~acl=/api/1/1/d/b/9/0/db9c65498a0f48e89f26272ace43e63d.mp3*~data=user_id=0,application_id=42~hmac=b8dd0a28c02d66a3fa77c55f18a0d2085b148fd5faa512347d2491dda66a587d",
+              "preview_expires": "2026-11-26T00:12:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Benny Goodman/The Essential Benny Goodman.jpg"
+}

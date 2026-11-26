@@ -1,0 +1,152 @@
+{
+  "title": "NRG 105",
+  "artist": "Knucks",
+  "year": 2019,
+  "release_date": "2019-06-10",
+  "type": "Album",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/a6fbaf4a-83f9-4dc6-bec2-12f5e67b613d",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/99221402"
+  },
+  "musicbrainz_id": "a6fbaf4a-83f9-4dc6-bec2-12f5e67b613d",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/51522791-49aa-46ab-b29a-8b473bd89d3e",
+      "barcode": "00602577967887",
+      "title": "NRG 105",
+      "disambiguation": null,
+      "date": "2019-06-10",
+      "country": "AF"
+    },
+    "total_tracks": 10,
+    "total_length": "26:25",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Intro",
+            "length": "2:25",
+            "deezer": {
+              "id": 690945062,
+              "link": "https://www.deezer.com/track/690945062",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/9/0/ac983e490ae8b3f30478d12c0936fed3.mp3?hdnea=exp=1795656269~acl=/api/1/1/a/c/9/0/ac983e490ae8b3f30478d12c0936fed3.mp3*~data=user_id=0,application_id=42~hmac=dbd940cb8c37b5056cbb8dcdd4abbd9708def1eab5df24c3365a428292b7ec43",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Blessings",
+            "length": "3:29",
+            "artist": "Knucks feat. Oscar #Worldpeace",
+            "deezer": {
+              "id": 690945072,
+              "link": "https://www.deezer.com/track/690945072",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/a/0/aba51a9080851eea2dec716eee27716d.mp3?hdnea=exp=1795656269~acl=/api/1/1/a/b/a/0/aba51a9080851eea2dec716eee27716d.mp3*~data=user_id=0,application_id=42~hmac=1021c023331e55c87f1e866f31cbc70088c022b77bdd5c403034cec75b166675",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Big Kahuna Burger",
+            "length": "0:46",
+            "deezer": {
+              "id": 690945082,
+              "link": "https://www.deezer.com/track/690945082",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/6/0/7763463f9504ae3feb640ed2b2dd1619.mp3?hdnea=exp=1795656269~acl=/api/1/1/7/7/6/0/7763463f9504ae3feb640ed2b2dd1619.mp3*~data=user_id=0,application_id=42~hmac=6173bad46d6a50b5911f330468f3dbea9b5bcebdc69c089dabebbe9bc9f9f3ed",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Rice & Stew",
+            "length": "3:33",
+            "deezer": {
+              "id": 690945092,
+              "link": "https://www.deezer.com/track/690945092",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/5/0/8754b6df7f694a0c518a336affd905fa.mp3?hdnea=exp=1795656269~acl=/api/1/1/8/7/5/0/8754b6df7f694a0c518a336affd905fa.mp3*~data=user_id=0,application_id=42~hmac=bcbb4b73fdebc48d349981b32e637f7bc90537d944a2d3de524b54f37613cd5f",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "5",
+            "title": "Bayteze Marriage Counselling",
+            "length": "1:21",
+            "deezer": {
+              "id": 690945102,
+              "link": "https://www.deezer.com/track/690945102",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/5/0/c954855f15a6a6df0b784800d1fae269.mp3?hdnea=exp=1795656269~acl=/api/1/1/c/9/5/0/c954855f15a6a6df0b784800d1fae269.mp3*~data=user_id=0,application_id=42~hmac=657cd9674ecbcc334311a26c8ae1b91fa96dd412dc8ca98b74b08347290b28e9",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Wedding Rings",
+            "length": "3:46",
+            "deezer": {
+              "id": 690945112,
+              "link": "https://www.deezer.com/track/690945112",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/a/0/66a4ad3bb7bc46cb1b45bbe7a98f4597.mp3?hdnea=exp=1795656269~acl=/api/1/1/6/6/a/0/66a4ad3bb7bc46cb1b45bbe7a98f4597.mp3*~data=user_id=0,application_id=42~hmac=b89147ef0863afe1b25a453b97ab2cbb0ead042807e56f1df4554ff19040ac5a",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Gwen Stefani",
+            "length": "3:03",
+            "deezer": {
+              "id": 690945122,
+              "link": "https://www.deezer.com/track/690945122",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/7/0/157830332501d63a08024f57fbdda6cd.mp3?hdnea=exp=1795656269~acl=/api/1/1/1/5/7/0/157830332501d63a08024f57fbdda6cd.mp3*~data=user_id=0,application_id=42~hmac=88ac7f2e758b2d5e1ea11660065779df35a54fe7150f61ecd3e2407a67bbe3dc",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "8",
+            "title": "Diddy",
+            "length": "3:53",
+            "artist": "Knucks feat. Wretch 32",
+            "deezer": {
+              "id": 690945132,
+              "link": "https://www.deezer.com/track/690945132",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/b/0/27b12faec8a1d1bf899f41b887f6fe98.mp3?hdnea=exp=1795656269~acl=/api/1/1/2/7/b/0/27b12faec8a1d1bf899f41b887f6fe98.mp3*~data=user_id=0,application_id=42~hmac=b10a148d94062061c56114d3a469ff3e868fd3ba15eb353d51961b7ff4c85943",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "9",
+            "title": "Breaking News",
+            "length": "0:17",
+            "deezer": {
+              "id": 690945142,
+              "link": "https://www.deezer.com/track/690945142",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/b/0/a0b30495fe5455ccdcd417ca395bbd9c.mp3?hdnea=exp=1795656269~acl=/api/1/1/a/0/b/0/a0b30495fe5455ccdcd417ca395bbd9c.mp3*~data=user_id=0,application_id=42~hmac=de40aeeae17ca2b7b6970d08713f085de576168a14c1c302235a9973a3ca4101",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Home",
+            "length": "3:52",
+            "deezer": {
+              "id": 690945152,
+              "link": "https://www.deezer.com/track/690945152",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/9/0/2a921b35da790b5c2ec06e752f7f7d2a.mp3?hdnea=exp=1795656269~acl=/api/1/1/2/a/9/0/2a921b35da790b5c2ec06e752f7f7d2a.mp3*~data=user_id=0,application_id=42~hmac=d1543f9ed5662c85e9ae7704efae84841bb3f981d66baf2f4f1809eb96090ff6",
+              "preview_expires": "2026-11-26T01:24:29Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Knucks/NRG 105.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Dope Boy",
+  "artist": "Young Thug",
+  "year": 2024,
+  "release_date": "2024-09-27",
+  "type": "Single",
+  "description": null,
+  "genres": [],
+  "tags": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/d97c65d5-0742-480c-8600-ff293ee8d7f1",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/812643741"
+  },
+  "musicbrainz_id": "d97c65d5-0742-480c-8600-ff293ee8d7f1",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/cfb12c4e-d1bc-4577-bbf5-bf614351f7da",
+      "barcode": null,
+      "title": "Dope Boy",
+      "disambiguation": null,
+      "date": "2024-09-27",
+      "country": null
+    },
+    "total_tracks": 1,
+    "total_length": "1:32",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dope Boy (with Nigo)",
+            "length": "1:32",
+            "deezer": {
+              "id": 3531561871,
+              "link": "https://www.deezer.com/track/3531561871",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/0/0/e20e91ab29456cdb75025a80845f91bb.mp3?hdnea=exp=1795724553~acl=/api/1/1/e/2/0/0/e20e91ab29456cdb75025a80845f91bb.mp3*~data=user_id=0,application_id=42~hmac=a6e8dc3cf2b3d7c9cc53c3cc5e45b684ba109d03dcabfeebc5ef9a85a59858db",
+              "preview_expires": "2026-11-26T20:22:33Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Young Thug/Dope Boy.jpg"
+}

@@ -1,0 +1,175 @@
+{
+  "title": "American Pie",
+  "artist": "Don McLean",
+  "year": 1971,
+  "release_date": "1971-10",
+  "type": "Album",
+  "description": "American Pie is the second studio album by American singer-songwriter Don McLean, released by United Artists Records on October 24, 1971. The folk rock album reached number one on the Billboard 200, containing the chart-topping singles \"American Pie\" and \"Vincent\". Recorded in May and June 1971 at The Record Plant in New York City, the LP is dedicated to Buddy Holly, and was reissued in 1980 minus the track \"Sister Fatima\". The album was released to much acclaim, later being included in the book 1001 Albums You Must Hear Before You Die.",
+  "genres": [
+    "rock",
+    "folk rock",
+    "contemporary folk",
+    "folk",
+    "piano rock",
+    "soft rock"
+  ],
+  "tags": [
+    "rock",
+    "folk rock",
+    "contemporary folk",
+    "contemporary pop/rock",
+    "folk",
+    "male vocal",
+    "piano rock",
+    "pop/rock",
+    "singer/songwriter",
+    "soft rock"
+  ],
+  "rating": {
+    "value_out_of_5": 3.45,
+    "votes": 11
+  },
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/1189a8bc-f356-3c0a-a689-d8e0d1b5e4b8",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Pie_(Don_McLean_album)",
+    "allmusic": "https://www.allmusic.com/album/mw0000040803",
+    "discogs": "https://www.discogs.com/master/84646",
+    "wikidata": "https://www.wikidata.org/wiki/Q689947",
+    "deezer": "https://www.deezer.com/album/304126"
+  },
+  "musicbrainz_id": "1189a8bc-f356-3c0a-a689-d8e0d1b5e4b8",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/b33e5713-19db-4a0c-861f-d26eeb9b6c35",
+      "barcode": "077774655552",
+      "title": "American Pie",
+      "disambiguation": null,
+      "date": null,
+      "country": null
+    },
+    "total_tracks": 10,
+    "total_length": "36:21",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "Digital Media",
+        "title": null,
+        "tracks": [
+          {
+            "number": "A1",
+            "title": "American Pie",
+            "length": "8:36",
+            "deezer": {
+              "id": 3166505,
+              "link": "https://www.deezer.com/track/3166505",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/0/0/96034482581652c6322f6f0dce12c838.mp3?hdnea=exp=1795653469~acl=/api/1/1/9/6/0/0/96034482581652c6322f6f0dce12c838.mp3*~data=user_id=0,application_id=42~hmac=3661799fc3e7edf9dab37a84467d3445d422bbff2a6c80e61bac8f6535675038",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "A2",
+            "title": "Till Tomorrow",
+            "length": "2:15",
+            "deezer": {
+              "id": 3166506,
+              "link": "https://www.deezer.com/track/3166506",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/0/0/cf04506d1e2c8904085d3c3c6d4aacd2.mp3?hdnea=exp=1795653469~acl=/api/1/1/c/f/0/0/cf04506d1e2c8904085d3c3c6d4aacd2.mp3*~data=user_id=0,application_id=42~hmac=02e06a773aea938ce21fb510e7a0bd952fb014fda2ba4302882057c6d9784b64",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "A3",
+            "title": "Vincent",
+            "length": "4:04",
+            "deezer": {
+              "id": 3166507,
+              "link": "https://www.deezer.com/track/3166507",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/0/0/3a0405f78b6f4fcc69fa96be1865aff1.mp3?hdnea=exp=1795653469~acl=/api/1/1/3/a/0/0/3a0405f78b6f4fcc69fa96be1865aff1.mp3*~data=user_id=0,application_id=42~hmac=a394b273a9a6c5922f0b1e7e2f0d714bf91230ed3d9125613f8b2ec205c76a3d",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "A4",
+            "title": "Crossroads",
+            "length": "3:40",
+            "deezer": {
+              "id": 3166508,
+              "link": "https://www.deezer.com/track/3166508",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/f/0/bafff45e1c143fab7a8a14a7f0fe9533.mp3?hdnea=exp=1795653469~acl=/api/1/1/b/a/f/0/bafff45e1c143fab7a8a14a7f0fe9533.mp3*~data=user_id=0,application_id=42~hmac=49665eb9507d62e5e64ccf8cbbc561c8ecebef20a062d7d7d0e128675651cd5e",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "B1",
+            "title": "Winterwood",
+            "length": "3:11",
+            "deezer": {
+              "id": 3166509,
+              "link": "https://www.deezer.com/track/3166509",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/c/0/b3c92e2988779d577369286bbf4f5d50.mp3?hdnea=exp=1795653469~acl=/api/1/1/b/3/c/0/b3c92e2988779d577369286bbf4f5d50.mp3*~data=user_id=0,application_id=42~hmac=92d099014062223ab2c8bbf6b80d29f1198c5d1f8ec161fa22f40dd47a47e116",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "B2",
+            "title": "Empty Chairs",
+            "length": "3:28",
+            "deezer": {
+              "id": 3166510,
+              "link": "https://www.deezer.com/track/3166510",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/f/0/fdf2813684798f64cfc301b3f7d25305.mp3?hdnea=exp=1795653469~acl=/api/1/1/f/d/f/0/fdf2813684798f64cfc301b3f7d25305.mp3*~data=user_id=0,application_id=42~hmac=55cec9bea4ebc77dabc454b1b105a61f81b0300d7f5cf450ed19031bd827ee53",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "B3",
+            "title": "Everybody Loves Me, Baby",
+            "length": "3:36",
+            "deezer": {
+              "id": 3166511,
+              "link": "https://www.deezer.com/track/3166511",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/e/0/b7e0960287cf33592ea2997161c40103.mp3?hdnea=exp=1795653469~acl=/api/1/1/b/7/e/0/b7e0960287cf33592ea2997161c40103.mp3*~data=user_id=0,application_id=42~hmac=8f64eb33208633a36b0ac1790fb3c82bcb69fe70b662e4d62cb986a8e753fe14",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "B4",
+            "title": "Sister Fatima",
+            "length": "2:36",
+            "deezer": {
+              "id": 3166512,
+              "link": "https://www.deezer.com/track/3166512",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/d/0/9ad4876fde4ad9b770c26528a8009423.mp3?hdnea=exp=1795653469~acl=/api/1/1/9/a/d/0/9ad4876fde4ad9b770c26528a8009423.mp3*~data=user_id=0,application_id=42~hmac=499891e3217024eb4647cf31df4ae7b5f9b3651fde649b2215f6d464e79dce60",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "B5",
+            "title": "The Grave",
+            "length": "3:14",
+            "deezer": {
+              "id": 3166513,
+              "link": "https://www.deezer.com/track/3166513",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/f/0/2afa058143fefbf1745fd07fe4fc8ddc.mp3?hdnea=exp=1795653469~acl=/api/1/1/2/a/f/0/2afa058143fefbf1745fd07fe4fc8ddc.mp3*~data=user_id=0,application_id=42~hmac=d916a25102823d8a9ed91ae29cf58217de0792ccf5907e0927c17e8ca9aa3f31",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          },
+          {
+            "number": "B6",
+            "title": "Babylon",
+            "length": "1:41",
+            "deezer": {
+              "id": 3166514,
+              "link": "https://www.deezer.com/track/3166514",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/8/0/1d84cb4251d2e2a4877e322a5a8c0a2a.mp3?hdnea=exp=1795653469~acl=/api/1/1/1/d/8/0/1d84cb4251d2e2a4877e322a5a8c0a2a.mp3*~data=user_id=0,application_id=42~hmac=6fa444e0dfde5f01f1a615ac05faa9aacda9622da848640a5d1b8a9aa0ab705d",
+              "preview_expires": "2026-11-26T00:37:49Z"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Don McLean/American Pie.jpg"
+}

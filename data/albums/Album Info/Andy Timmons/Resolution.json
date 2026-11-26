@@ -1,0 +1,107 @@
+{
+  "title": "Resolution",
+  "artist": "Andy Timmons Band",
+  "year": 2006,
+  "release_date": "2006",
+  "type": "Album",
+  "description": null,
+  "genres": [
+    "hard rock",
+    "rock"
+  ],
+  "tags": [
+    "hard rock",
+    "rock"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/release-group/4438e53c-bd6c-336b-80c5-842fc9aca35f",
+    "wikipedia": null,
+    "deezer": "https://www.deezer.com/album/279620802"
+  },
+  "musicbrainz_id": "4438e53c-bd6c-336b-80c5-842fc9aca35f",
+  "tracklist": {
+    "source": "musicbrainz",
+    "edition": {
+      "musicbrainz_release": "https://musicbrainz.org/release/0c21b960-6fd4-4d2a-b7d3-942a87105c93",
+      "barcode": "690897255029",
+      "title": "Resolution",
+      "disambiguation": null,
+      "date": "2006",
+      "country": "US"
+    },
+    "total_tracks": 11,
+    "total_length": "48:09",
+    "discs": [
+      {
+        "disc": 1,
+        "format": "CD",
+        "title": null,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Deliver Us",
+            "length": "4:03"
+          },
+          {
+            "number": "2",
+            "title": "Helipad",
+            "length": "4:47"
+          },
+          {
+            "number": "3",
+            "title": "Ghost of You",
+            "length": "5:08",
+            "deezer": {
+              "id": 1587076222,
+              "link": "https://www.deezer.com/track/1587076222",
+              "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/c/0/55c1ed84f0070e539c4e9a9f39aa9ef2.mp3?hdnea=exp=1795651639~acl=/api/1/1/5/5/c/0/55c1ed84f0070e539c4e9a9f39aa9ef2.mp3*~data=user_id=0,application_id=42~hmac=733568c5ca7da61c903820e714780365d8d1e5524671558efe9afaadcebb030d",
+              "preview_expires": "2026-11-26T00:07:19Z"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Resolution",
+            "length": "5:39"
+          },
+          {
+            "number": "5",
+            "title": "Redemption",
+            "length": "3:42"
+          },
+          {
+            "number": "6",
+            "title": "Lydia",
+            "length": "3:43"
+          },
+          {
+            "number": "7",
+            "title": "Gone (9/11/01)",
+            "length": "3:49"
+          },
+          {
+            "number": "8",
+            "title": "Move On",
+            "length": "2:59"
+          },
+          {
+            "number": "9",
+            "title": "Beware Dark Days",
+            "length": "6:07"
+          },
+          {
+            "number": "10",
+            "title": "The Prayer, the Answer",
+            "length": "4:53"
+          },
+          {
+            "number": "11",
+            "title": "Headed for the Ditch",
+            "length": "3:19"
+          }
+        ]
+      }
+    ]
+  },
+  "details_source": "musicbrainz",
+  "cover_file": "Album Art/Andy Timmons/Resolution.jpg"
+}
