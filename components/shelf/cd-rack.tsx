@@ -81,9 +81,13 @@ const CdSpine = memo(function CdSpine({ album, onSelect }: { album: AlbumSummary
       type="button"
       className="cd-slot"
       data-side={side}
+      data-primed={primed || undefined}
       style={paletteVars(album)}
       aria-label={`${album.artist} — ${album.title}${album.year ? ` (${album.year})` : ''}`}
       onPointerEnter={(e) => grab(e.currentTarget)}
+      // Hover can pass to this slot without a pointerenter when a neighbour's
+      // hover bridge disappears under a still cursor, so any movement primes it.
+      onPointerMove={primed ? undefined : (e) => grab(e.currentTarget)}
       onFocus={(e) => grab(e.currentTarget)}
       onClick={() => onSelect(album.id)}
     >
