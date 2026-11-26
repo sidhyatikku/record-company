@@ -1,6 +1,8 @@
 'use client'
 
 import { useCallback, useDeferredValue, useMemo, useState } from 'react'
+import useSWR from 'swr'
+import type { SongMatch } from '@/lib/albums'
 import type { AlbumSummary } from '@/lib/types'
 import { AlbumDialog } from './album-dialog'
 import { Bookcase } from './bookcase'
@@ -10,17 +12,29 @@ import { DigitalGallery } from './digital-gallery'
 import { ShelfHeader } from './shelf-header'
 import type { ShelfView } from './views'
 
+const fetcher = (url: string) => fetch(url).then((r) => r.json())
+
 export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
   const [query, setQuery] = useState('')
   const [view, setView] = useState<ShelfView>('vinyl')
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const deferredQuery = useDeferredValue(query)
 
+  const songQuery = deferredQuery.trim().toLowerCase()
+  const { data: songResults, isLoading: searchingSongs } = useSWR<{ matches: SongMatch[] }>(
+    songQuery.length >= 2 ? `/api/search?q=${encodeURIComponent(songQuery)}` : null,
+    fetcher,
+    { keepPreviousData: true, revalidateOnFocus: false },
+  )
+
   const filtered = useMemo(() => {
-    const q = deferredQuery.trim().toLowerCase()
+    const q = songQuery
     if (!q) return albums
-    return albums.filter((a) => a.artist.toLowerCase().includes(q) || a.title.toLowerCase().includes(q))
-  }, [albums, deferredQuery])
+    const songIds = new Set(q.length >= 2 ? (songResults?.matches ?? []).map((m) => m.id) : [])
+    return albums.filter(
+      (a) => a.artist.toLowerCase().includes(q) || a.title.toLowerCase().includes(q) || songIds.has(a.id),
+    )
+  }, [albums, songQuery, songResults])
 
   const selected = useMemo(() => albums.find((a) => a.id === selectedId) ?? null, [albums, selectedId])
 
@@ -40,6 +54,7 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
       <ShelfHeader
         query={query}
         onQueryChange={setQuery}
+        searching={searchingSongs}
         shown={filtered.length}
         total={albums.length}
         onShuffle={handleShuffle}

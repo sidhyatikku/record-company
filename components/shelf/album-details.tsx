@@ -1,4 +1,4 @@
-import { ChevronRight, Star } from 'lucide-react'
+import { ChevronRight, Loader2, Star } from 'lucide-react'
 import type { ReactNode } from 'react'
 import type { Album, AlbumSummary } from '@/lib/types'
 import type { AlbumPlayer } from './use-album-player'
@@ -81,6 +81,7 @@ type AlbumDetailsProps = {
   isLoading: boolean
   error: unknown
   player?: AlbumPlayer
+  previewsLoading?: boolean
 }
 
 function NowPlayingIndicator({ playing }: { playing: boolean }) {
@@ -93,7 +94,7 @@ function NowPlayingIndicator({ playing }: { playing: boolean }) {
   )
 }
 
-export function AlbumDetails({ summary, album, isLoading, error, player }: AlbumDetailsProps) {
+export function AlbumDetails({ summary, album, isLoading, error, player, previewsLoading = false }: AlbumDetailsProps) {
   const tracklist = album?.tracklist
   const discOffsets = (tracklist?.discs ?? []).reduce<number[]>(
     (offsets, disc, i) => [...offsets, i === 0 ? 0 : offsets[i - 1] + (tracklist?.discs[i - 1].tracks.length ?? 0)],
@@ -152,6 +153,15 @@ export function AlbumDetails({ summary, album, isLoading, error, player }: Album
 
           {tracklist && (
             <Group title="Tracklist">
+              {previewsLoading && (
+                <p
+                  role="status"
+                  className="flex items-center gap-2 border-b border-[#d4d7db] bg-[linear-gradient(#f7f8fa,#eceef1)] px-4 py-2 text-xs font-semibold text-[#4c566c] [text-shadow:0_1px_0_#fff]"
+                >
+                  <Loader2 className="size-3.5 shrink-0 animate-spin" strokeWidth={2.5} aria-hidden />
+                  Fetching song previews from Deezer…
+                </p>
+              )}
               {tracklist.discs.map((disc, d) => (
                 <div key={disc.disc}>
                   {(multiDisc || disc.format) && (

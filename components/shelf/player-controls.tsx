@@ -1,6 +1,6 @@
 'use client'
 
-import { MicOff, Pause, Play, Shuffle, SkipBack, SkipForward, Volume1, Volume2, VolumeX } from 'lucide-react'
+import { Loader2, MicOff, Pause, Play, Shuffle, SkipBack, SkipForward, Volume1, Volume2, VolumeX } from 'lucide-react'
 import type { CSSProperties } from 'react'
 import type { AlbumPlayer } from './use-album-player'
 
@@ -13,19 +13,33 @@ type PlayerControlsProps = {
   player: AlbumPlayer
   artist: string
   isLoading: boolean
+  previewsLoading?: boolean
 }
 
-export function PlayerControls({ player, artist, isLoading }: PlayerControlsProps) {
+function LoadingLine({ children }: { children: string }) {
+  return (
+    <span className="player-engraved inline-flex items-center gap-1.5">
+      <Loader2 className="size-3.5 shrink-0 animate-spin" strokeWidth={2.5} aria-hidden />
+      {children}
+    </span>
+  )
+}
+
+export function PlayerControls({ player, artist, isLoading, previewsLoading = false }: PlayerControlsProps) {
   const { currentTrack, isPlaying, isBuffering, currentTime, shuffle, volume, muted } = player
-  const disabled = isLoading || !player.hasPlayable
+  const fetching = isLoading || previewsLoading
+  const disabled = fetching || !player.hasPlayable
+  const buffering = isBuffering && isPlaying
   const duration = player.duration || (currentTrack && !player.currentUnavailable ? 30 : 0)
   const progress = duration ? Math.min(100, (currentTime / duration) * 100) : 0
   const effectiveVolume = muted ? 0 : volume
   const VolumeIcon = effectiveVolume === 0 ? VolumeX : effectiveVolume < 0.5 ? Volume1 : Volume2
 
-  const status = isLoading
-    ? 'Loading tracks…'
-    : !player.hasPlayable
+  const status = isLoading ? (
+    <LoadingLine>Loading tracks…</LoadingLine>
+  ) : previewsLoading ? (
+    <LoadingLine>Finding 30-second previews on Deezer…</LoadingLine>
+  ) : !player.hasPlayable
       ? 'Previews aren’t available for this record yet'
       : currentTrack
         ? null
@@ -46,7 +60,7 @@ export function PlayerControls({ player, artist, isLoading }: PlayerControlsProp
               </p>
             ) : (
               <p className="player-engraved line-clamp-1 text-xs font-medium opacity-80">
-                {isBuffering && isPlaying ? 'Loading preview…' : `${artist} · Preview`}
+                {buffering ? <LoadingLine>Loading preview…</LoadingLine> : `${artist} · Preview`}
               </p>
             )}
           </>
@@ -99,11 +113,14 @@ export function PlayerControls({ player, artist, isLoading }: PlayerControlsProp
           <button
             type="button"
             className="player-btn player-btn-main grid size-14 place-items-center"
-            aria-label={isPlaying ? 'Pause' : 'Play'}
+            aria-label={buffering ? 'Loading preview, pause' : isPlaying ? 'Pause' : 'Play'}
+            aria-busy={fetching || buffering || undefined}
             disabled={disabled}
             onClick={player.toggle}
           >
-            {isPlaying ? (
+            {fetching || buffering ? (
+              <Loader2 className="size-7 animate-spin" strokeWidth={2.5} aria-hidden />
+            ) : isPlaying ? (
               <Pause className="size-7" fill="currentColor" aria-hidden />
             ) : (
               <Play className="ml-1 size-7" fill="currentColor" aria-hidden />

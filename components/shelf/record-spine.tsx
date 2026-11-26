@@ -13,6 +13,17 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
   // Mount the cover face lazily on first hover/focus so 1,973 sleeves don't all render artwork up front.
   const [primed, setPrimed] = useState(false)
 
+  const grab = (el: HTMLElement) => {
+    setPrimed(true)
+    const bounds = el.closest('.bookcase')?.getBoundingClientRect()
+    const sleeve = el.querySelector<HTMLElement>('.record-lift')
+    if (!bounds || !sleeve) return
+    const { right } = el.getBoundingClientRect()
+    // The turned sleeve shows ~its full height in width to the right of the spine (plus perspective growth).
+    const reach = right + sleeve.offsetHeight * 1.02 + 14
+    el.style.setProperty('--nudge', `${Math.max(0, Math.round(reach - bounds.right))}px`)
+  }
+
   const style = {
     '--w': `${album.spineWidth}px`,
     '--hr': album.heightRatio,
@@ -29,8 +40,8 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
       data-cover={album.cover ? '' : undefined}
       aria-label={`${album.artist} — ${album.title}${album.year ? ` (${album.year})` : ''}`}
       title={`${album.artist} — ${album.title}`}
-      onPointerEnter={() => setPrimed(true)}
-      onFocus={() => setPrimed(true)}
+      onPointerEnter={(e) => grab(e.currentTarget)}
+      onFocus={(e) => grab(e.currentTarget)}
       onClick={() => onSelect(album.id)}
     >
       <span className="record-lift" aria-hidden>

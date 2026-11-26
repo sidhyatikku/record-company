@@ -33,7 +33,7 @@ function CdStage({ album, playing }: StageProps) {
   return (
     <div className={`relative aspect-[1.4/1] w-full max-w-[520px] ${playing ? 'is-playing' : ''}`}>
       <div
-        className="vinyl-slide absolute top-[5%] left-[4%] aspect-square w-[58%] drop-shadow-[0_14px_22px_rgba(0,0,0,0.6)]"
+        className="vinyl-slide absolute top-[5%] left-[9%] aspect-square w-[58%] drop-shadow-[0_14px_22px_rgba(0,0,0,0.6)]"
         style={{ '--vinyl-out': '50%' } as CSSProperties}
         aria-hidden
       >
@@ -50,7 +50,7 @@ function CdStage({ album, playing }: StageProps) {
           <div className="cd-hub absolute inset-[38%] rounded-full" />
         </div>
       </div>
-      <div className="absolute top-0 left-0 w-[68%]">
+      <div className="absolute top-0 left-[5%] w-[68%]">
         <JewelCase album={album} eager />
       </div>
     </div>

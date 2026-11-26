@@ -103,10 +103,19 @@ function AlbumDialogBody({
       <div className="grid min-h-0 flex-1 overflow-y-auto md:grid-cols-[1.1fr_1fr] md:overflow-hidden">
         <div className="linen flex flex-col items-center justify-center gap-8 p-6 sm:p-10 md:overflow-y-auto">
           <FormatStage view={view} album={summary} playing={player.isPlaying} />
-          <PlayerControls player={player} artist={summary.artist} isLoading={isLoading || previewsLoading || (!data && !error)} />
+          <PlayerControls
+            player={player}
+            artist={summary.artist}
+            isLoading={isLoading || (!data && !error)}
+            previewsLoading={previewsLoading}
+          />
         </div>
         <div className="pinstripe border-t border-[#8d949c] p-5 sm:p-7 md:overflow-y-auto md:border-t-0 md:border-l md:shadow-[inset_4px_0_8px_-4px_rgba(0,0,0,0.35)]">
-          <AlbumDetails summary={summary} album={data} isLoading={isLoading} error={error} player={player} />
+          <AlbumDetails summary={summary} album={data} isLoading={isLoading}
+            error={error}
+            player={player}
+            previewsLoading={previewsLoading}
+          />
         </div>
       </div>
     </div>

@@ -1,12 +1,13 @@
 'use client'
 
-import { Search, Shuffle } from 'lucide-react'
+import { Loader2, Search, Shuffle } from 'lucide-react'
 import { useLayoutEffect, useRef } from 'react'
 import { ViewToggle } from './view-toggle'
 import { SHELF_VIEWS, type ShelfView } from './views'
 
 type ShelfHeaderProps = {
   query: string
+  searching?: boolean
   onQueryChange: (value: string) => void
   shown: number
   total: number
@@ -15,7 +16,7 @@ type ShelfHeaderProps = {
   onViewChange: (view: ShelfView) => void
 }
 
-export function ShelfHeader({ query, onQueryChange, shown, total, onShuffle, view, onViewChange }: ShelfHeaderProps) {
+export function ShelfHeader({ query, onQueryChange, searching, shown, total, onShuffle, view, onViewChange }: ShelfHeaderProps) {
   const fmt = new Intl.NumberFormat('en-US')
   const noun = SHELF_VIEWS.find((v) => v.id === view)?.noun ?? 'records'
   const headerRef = useRef<HTMLElement>(null)
@@ -51,9 +52,10 @@ export function ShelfHeader({ query, onQueryChange, shown, total, onShuffle, vie
               type="search"
               value={query}
               onChange={(e) => onQueryChange(e.target.value)}
-              placeholder="Search artist or album"
+              placeholder="Search artist, album or song"
               autoComplete="off"
             />
+            {searching && <Loader2 className="size-4 shrink-0 animate-spin text-[#8a8a8a]" aria-label="Searching songs" />}
           </label>
           <button type="button" className="ios-btn-wood" onClick={onShuffle}>
             <Shuffle className="size-3.5" aria-hidden />

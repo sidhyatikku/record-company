@@ -623,7 +623,7 @@
 }
 .cd-slot:hover .cd-turn,
 .cd-slot:focus-visible .cd-turn {
-  transform: translateX(-64px) rotateY(-78deg);
+  transform: translateX(24px) rotateY(-78deg);
   transition: transform 440ms cubic-bezier(0.25, 0.9, 0.3, 1.04) 180ms;
 }
 .cd-slot[data-side='left'] .cd-turn {
@@ -631,7 +631,31 @@
 }
 .cd-slot[data-side='left']:hover .cd-turn,
 .cd-slot[data-side='left']:focus-visible .cd-turn {
-  transform: translateX(64px) rotateY(78deg);
+  transform: translateX(-24px) rotateY(78deg);
+}
+
+/* Lifted items ignore the pointer at rest so neighbours stay hoverable, but
+   become hit targets while held so the cursor can move onto them and click. */
+.record:hover .record-lift,
+.tape:hover .tape-grab,
+.tape:hover .tape-tilt,
+.cd-slot:hover .cd-lift {
+  pointer-events: auto;
+}
+/* The held case's cover swings ~200px past its 13px spine, over neighbouring
+   spines. This invisible bridge keeps the hover alive along that path so the
+   cursor can reach the cover without a neighbour stealing the grab. */
+.cd-slot:hover::after {
+  content: '';
+  position: absolute;
+  top: -40px;
+  bottom: 0;
+  left: 0;
+  width: 222px;
+}
+.cd-slot[data-side='left']:hover::after {
+  left: auto;
+  right: 0;
 }
 .cd-front {
   position: absolute;

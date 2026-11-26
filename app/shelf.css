@@ -200,7 +200,7 @@
 
 .record:hover .record-lift,
 .record:focus-visible .record-lift {
-  transform: translateY(-44px) translateZ(70px);
+  transform: translate3d(calc(-1 * var(--nudge, 0px)), -44px, 70px);
   transition-delay: 70ms;
   transition-duration: 620ms;
 }

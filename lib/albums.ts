@@ -254,6 +254,25 @@ export function getAlbumSummaries(): AlbumSummary[] {
   })
 }
 
+export type SongMatch = { id: string; song: string }
+
+/** Albums containing a track whose title includes the query; one match (the first song) per album. */
+export function searchSongs(query: string, limit = 300): SongMatch[] {
+  const q = query.trim().toLowerCase()
+  if (q.length < 2) return []
+  const matches: SongMatch[] = []
+  for (const album of load().albums) {
+    const song = album.tracklist?.discs
+      .flatMap((disc) => disc.tracks)
+      .find((track) => track.title.toLowerCase().includes(q))
+    if (song) {
+      matches.push({ id: album.id, song: song.title })
+      if (matches.length >= limit) break
+    }
+  }
+  return matches
+}
+
 export function getAlbumById(id: string) {
   return load().byId.get(id) ?? null
 }
