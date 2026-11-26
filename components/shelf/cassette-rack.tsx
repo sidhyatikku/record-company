@@ -2,7 +2,7 @@
 
 import { memo, useMemo, useState, type CSSProperties } from 'react'
 import type { AlbumSummary } from '@/lib/types'
-import { JCardCase } from './cases'
+import { AlbumCover } from './album-cover'
 import { groupBySection } from './views'
 
 const TAPES_PER_COLUMN = 24
@@ -75,17 +75,40 @@ const CassetteTape = memo(function CassetteTape({
       onFocus={() => setPrimed(true)}
       onClick={() => onSelect(album.id)}
     >
-      <span className="tape-card" aria-hidden>
-        <span className="tape-stripe" />
-        <span className="tape-artist">{album.artist}</span>
-        <span className="tape-title">{album.title}</span>
-        {album.year && <span className="tape-year">{album.year}</span>}
-      </span>
-      {primed && (
-        <span className="tape-peek" aria-hidden>
-          <JCardCase album={album} eager />
+      <span className="tape-grab" aria-hidden>
+        <span className="tape-tilt">
+          <span className="tape-spine">
+            <span className="tape-card">
+              <span className="tape-stripe" />
+              <span className="tape-artist">{album.artist}</span>
+              <span className="tape-title">{album.title}</span>
+              {album.year && <span className="tape-year">{album.year}</span>}
+            </span>
+          </span>
+          {primed && (
+            <span className="tape-face">
+              <span className="tape-face-card">
+                <span className="tape-face-art">
+                  <AlbumCover
+                    title={album.title}
+                    artist={album.artist}
+                    cover={album.cover}
+                    palette={album.palette}
+                    className="size-full"
+                    eager
+                  />
+                </span>
+                <span className="tape-face-text">
+                  <span className="tape-face-artist">{album.artist}</span>
+                  <span className="tape-face-title">{album.title}</span>
+                  <span className="tape-face-meta">Stereo · Type II{album.year ? ` · ${album.year}` : ''}</span>
+                </span>
+              </span>
+              <span className="case-glare" />
+            </span>
+          )}
         </span>
-      )}
+      </span>
     </button>
   )
 })

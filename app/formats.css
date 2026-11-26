@@ -286,8 +286,8 @@
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   align-items: start;
   gap: 12px;
-  /* Headroom so the top tapes' J-card peek clears the sticky header. */
-  padding: 64px 14px 14px;
+  /* Headroom for a top tape being pulled up out of its slot. */
+  padding: 28px 14px 14px;
   overflow-x: clip;
   border-radius: 4px;
   background:
@@ -326,40 +326,140 @@
     0 1px 0 rgba(255, 255, 255, 0.25);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
 }
+/*
+ * Grab choreography: the button is a fixed hit area; the tape inside is pulled
+ * out of the slot (.tape-grab), then tipped toward the viewer (.tape-tilt) so
+ * the case face that was lying flat comes up to face them. Leaving runs the
+ * stages in reverse: tip back first, then slide home.
+ */
 .tape {
   position: relative;
   display: block;
   width: 100%;
   height: 28px;
-  padding: 3px;
+  padding: 0;
   border: 0;
+  border-radius: 2px;
+  background: none;
+  cursor: pointer;
+  perspective: 900px;
+  transition: z-index 0s linear 560ms;
+}
+.tape:hover,
+.tape:focus-visible {
+  z-index: 20;
+  transition-delay: 0s;
+}
+.tape:focus-visible {
+  outline: 2px solid #fff3dc;
+  outline-offset: 1px;
+}
+.tape-grab,
+.tape-tilt {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  pointer-events: none;
+}
+.tape-grab {
+  transition: transform 240ms cubic-bezier(0.4, 0, 0.2, 1) 260ms;
+}
+.tape:hover .tape-grab,
+.tape:focus-visible .tape-grab {
+  transform: translate3d(0, -10px, 70px);
+  transition: transform 220ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+.tape-tilt {
+  transform-origin: 50% 0;
+  transition: transform 280ms cubic-bezier(0.5, 0, 0.6, 1);
+}
+.tape:hover .tape-tilt,
+.tape:focus-visible .tape-tilt {
+  transform: rotateX(78deg);
+  transition: transform 420ms cubic-bezier(0.25, 0.9, 0.3, 1.04) 170ms;
+}
+.tape-spine {
+  position: absolute;
+  inset: 0;
+  padding: 3px;
   border-radius: 2px;
   background: linear-gradient(#f4f6f8, #b9bfc5 45%, #d7dce0);
   box-shadow:
     0 2px 2px rgba(0, 0, 0, 0.45),
     inset 0 1px 0 rgba(255, 255, 255, 0.9);
-  cursor: pointer;
-  transition:
-    transform 180ms ease,
-    box-shadow 180ms ease;
+  backface-visibility: hidden;
 }
-.tape::after {
+.tape-spine::after {
   content: '';
   position: absolute;
   inset: 0;
   border-radius: 2px;
   background: linear-gradient(rgba(255, 255, 255, 0.35), transparent 45%);
-  pointer-events: none;
 }
-.tape:hover,
-.tape:focus-visible {
-  z-index: 5;
-  transform: translateY(-1px) scale(1.035);
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.55);
+/* The case's broad face, lying flat on top of the tape until it's tipped up. */
+.tape-face {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  right: -3px;
+  aspect-ratio: 100 / 63;
+  padding: 5px;
+  border-radius: 4px;
+  background: linear-gradient(160deg, rgba(238, 242, 246, 0.96), rgba(160, 170, 180, 0.85));
+  box-shadow:
+    0 14px 26px rgba(0, 0, 0, 0.55),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.7);
+  transform-origin: 50% 0;
+  transform: rotateX(-90deg);
+  backface-visibility: hidden;
 }
-.tape:focus-visible {
-  outline: 2px solid #fff3dc;
-  outline-offset: 1px;
+.tape-face-card {
+  display: flex;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 2px;
+  background: var(--bg);
+  color: var(--fg);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+.tape-face-art {
+  flex: none;
+  height: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+.tape-face-text {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  padding: 6px 8px;
+  border-left: 3px solid var(--accent);
+  line-height: 1.1;
+}
+.tape-face-artist {
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.tape-face-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  font-size: 11px;
+}
+.tape-face-meta {
+  font-size: 8px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.7;
 }
 .tape-card {
   display: flex;
@@ -405,31 +505,6 @@
   font-size: 9px;
   font-variant-numeric: tabular-nums;
   opacity: 0.65;
-}
-.tape-peek {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 10;
-  width: 128px;
-  opacity: 0;
-  pointer-events: none;
-  transform: translate(-50%, -50%) scale(0.85);
-  transition:
-    opacity 180ms ease 120ms,
-    transform 250ms cubic-bezier(0.2, 0.8, 0.2, 1) 120ms;
-}
-.tape:hover .tape-peek,
-.tape:focus-visible .tape-peek {
-  opacity: 1;
-  transform: translate(-50%, -50%) scale(1);
-}
-@starting-style {
-  .tape:hover .tape-peek,
-  .tape:focus-visible .tape-peek {
-    opacity: 0;
-    transform: translate(-50%, -50%) scale(0.85);
-  }
 }
 
 /* ---------- CD rack (oak tower, slanted shelves) ---------- */
@@ -504,26 +579,77 @@
   border: 0;
   background: none;
   cursor: pointer;
+  perspective: 800px;
+  transition: z-index 0s linear 580ms;
+}
+.cd-slot:hover,
+.cd-slot:focus-visible {
+  z-index: 20;
+  transition-delay: 0s;
 }
 .cd-slot:focus-visible {
   outline: 2px solid #fff3dc;
   outline-offset: 2px;
 }
+/*
+ * Grab choreography: the case slides up out of the slanted shelf toward the
+ * viewer (.cd-lift), then swings on its spine (.cd-turn) so the front cover,
+ * which faced the neighbouring case, turns to face them. It swings toward the
+ * middle of the screen (data-side) so it never leaves the rack. Leaving
+ * reverses the order.
+ */
 .cd-lift {
   position: relative;
   display: block;
   width: 100%;
   height: 158px;
   transform-origin: bottom;
-  transform: perspective(500px) rotateX(10deg);
-  transition: transform 200ms ease;
+  transform: rotateX(10deg);
+  transform-style: preserve-3d;
+  pointer-events: none;
+  transition: transform 260ms cubic-bezier(0.4, 0, 0.2, 1) 280ms;
 }
 .cd-slot:hover .cd-lift,
 .cd-slot:focus-visible .cd-lift {
-  z-index: 5;
-  transform: perspective(500px) rotateX(0) translateY(-14px);
+  transform: translate3d(0, -34px, 60px) rotateX(0);
+  transition: transform 230ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+.cd-turn {
+  position: absolute;
+  inset: 0;
+  transform-origin: 100% 50%;
+  transform-style: preserve-3d;
+  transition: transform 300ms cubic-bezier(0.5, 0, 0.6, 1);
+}
+.cd-slot:hover .cd-turn,
+.cd-slot:focus-visible .cd-turn {
+  transform: translateX(-64px) rotateY(-78deg);
+  transition: transform 440ms cubic-bezier(0.25, 0.9, 0.3, 1.04) 180ms;
+}
+.cd-slot[data-side='left'] .cd-turn {
+  transform-origin: 0 50%;
+}
+.cd-slot[data-side='left']:hover .cd-turn,
+.cd-slot[data-side='left']:focus-visible .cd-turn {
+  transform: translateX(64px) rotateY(78deg);
+}
+.cd-front {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: calc(158px * 142 / 125);
+  transform-origin: 0 50%;
+  transform: rotateY(90deg);
+  backface-visibility: hidden;
+}
+.cd-slot[data-side='left'] .cd-front {
+  left: auto;
+  right: 100%;
+  transform-origin: 100% 50%;
+  transform: rotateY(-90deg);
 }
 .cd-spine {
+  backface-visibility: hidden;
   display: block;
   width: 100%;
   height: 100%;
@@ -544,46 +670,24 @@
   writing-mode: vertical-rl;
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
 }
-.cd-peek {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 10;
-  width: 150px;
-  opacity: 0;
-  pointer-events: none;
-  transform: translate(-50%, -50%) scale(0.85);
-  transition:
-    opacity 180ms ease 120ms,
-    transform 250ms cubic-bezier(0.2, 0.8, 0.2, 1) 120ms;
-}
-.cd-slot:hover .cd-peek,
-.cd-slot:focus-visible .cd-peek {
-  opacity: 1;
-  transform: translate(-50%, -50%) scale(1);
-}
-@starting-style {
-  .cd-slot:hover .cd-peek,
-  .cd-slot:focus-visible .cd-peek {
-    opacity: 0;
-    transform: translate(-50%, -50%) scale(0.85);
-  }
-}
 .cd-face-slot {
   width: 168px;
   margin-inline: 6px 8px;
   padding: 0 4px 4px;
 }
+/* Face-out case: lifted off its lean, then tipped upright toward the viewer. */
 .cd-face {
   display: block;
   width: 100%;
   transform-origin: bottom;
-  transform: perspective(700px) rotateX(12deg);
-  transition: transform 220ms ease;
+  transform: rotateX(12deg);
+  pointer-events: none;
+  transition: transform 300ms cubic-bezier(0.5, 0, 0.6, 1);
 }
 .cd-face-slot:hover .cd-face,
 .cd-face-slot:focus-visible .cd-face {
-  transform: perspective(700px) rotateX(0) translateY(-8px);
+  transform: translate3d(0, -14px, 70px) rotateX(-6deg);
+  transition: transform 460ms cubic-bezier(0.25, 0.9, 0.3, 1.04);
 }
 .cd-plate {
   position: absolute;
@@ -777,9 +881,11 @@
 
 @media (prefers-reduced-motion: reduce) {
   .tape,
-  .tape-peek,
+  .tape-grab,
+  .tape-tilt,
+  .cd-slot,
   .cd-lift,
-  .cd-peek,
+  .cd-turn,
   .cd-face,
   .digital-art,
   .digital-stage-art {

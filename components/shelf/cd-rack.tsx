@@ -68,25 +68,36 @@ const CdFaceOut = memo(function CdFaceOut({
 
 const CdSpine = memo(function CdSpine({ album, onSelect }: { album: AlbumSummary; onSelect: (id: string) => void }) {
   const [primed, setPrimed] = useState(false)
+  const [side, setSide] = useState<'left' | 'right'>('right')
+
+  const grab = (el: HTMLElement) => {
+    const { left, width } = el.getBoundingClientRect()
+    setSide(left + width / 2 > window.innerWidth / 2 ? 'left' : 'right')
+    setPrimed(true)
+  }
+
   return (
     <button
       type="button"
       className="cd-slot"
+      data-side={side}
       style={paletteVars(album)}
       aria-label={`${album.artist} — ${album.title}${album.year ? ` (${album.year})` : ''}`}
-      onPointerEnter={() => setPrimed(true)}
-      onFocus={() => setPrimed(true)}
+      onPointerEnter={(e) => grab(e.currentTarget)}
+      onFocus={(e) => grab(e.currentTarget)}
       onClick={() => onSelect(album.id)}
     >
       <span className="cd-lift" aria-hidden>
-        <span className="cd-spine">
-          {album.artist} · {album.title}
-        </span>
-        {primed && (
-          <span className="cd-peek">
-            <JewelCase album={album} eager />
+        <span className="cd-turn">
+          <span className="cd-spine">
+            {album.artist} · {album.title}
           </span>
-        )}
+          {primed && (
+            <span className="cd-front">
+              <JewelCase album={album} eager />
+            </span>
+          )}
+        </span>
       </span>
     </button>
   )
