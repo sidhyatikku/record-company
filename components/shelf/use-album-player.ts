@@ -1,7 +1,28 @@
 'use client'
 
-import { useMemo, useRef, useState } from 'react'
+import { useEffect, useEffectEvent, useLayoutEffect, useMemo, useRef, useState, type RefObject } from 'react'
 import type { Album } from '@/lib/types'
+
+export type AudioHandlers = Pick<
+  React.AudioHTMLAttributes<HTMLAudioElement>,
+  'onPlay' | 'onPause' | 'onPlaying' | 'onWaiting' | 'onTimeUpdate' | 'onDurationChange' | 'onEnded' | 'onError'
+>
+
+/**
+ * One <audio> element is shared by every album the dialog shows. Safari only lets an element play
+ * without a fresh click once the user has started it, so reusing it is what lets autoplay continue
+ * into the next album.
+ */
+export type SharedAudio = {
+  ref: RefObject<HTMLAudioElement | null>
+  handlers: RefObject<AudioHandlers>
+}
+
+type PlayerOptions = {
+  refreshSrc?: (index: number) => Promise<string | null>
+  autoStart?: boolean
+  onQueueEnd?: () => void
+}
 
 export type PlayableTrack = {
   number: string
@@ -64,8 +85,13 @@ function shuffled<T>(items: T[]) {
   return out
 }
 
-export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: number) => Promise<string | null>) {
-  const audioRef = useRef<HTMLAudioElement>(null)
+export function useAlbumPlayer(
+  tracks: PlayableTrack[],
+  audio: SharedAudio,
+  { refreshSrc, autoStart = false, onQueueEnd }: PlayerOptions = {},
+) {
+  const audioRef = audio.ref
+  const autoStarted = useRef(false)
   const usedFallback = useRef(false)
   const usedRefresh = useRef(false)
   const userPicked = useRef(false)
@@ -74,8 +100,8 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
   const [isBuffering, setIsBuffering] = useState(false)
   const [currentTime, setCurrentTime] = useState(0)
   const [duration, setDuration] = useState(0)
-  const [volume, setVolume] = useState(0.8)
-  const [muted, setMuted] = useState(false)
+  const [volume, setVolume] = useState(() => audioRef.current?.volume ?? 0.8)
+  const [muted, setMuted] = useState(() => audioRef.current?.muted ?? false)
   const [shuffle, setShuffle] = useState(false)
   const [shuffleOrder, setShuffleOrder] = useState<number[]>([])
   const [failed, setFailed] = useState<ReadonlySet<number>>(() => new Set())
@@ -127,6 +153,8 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
     }
     if (target != null) {
       playAt(target)
+    } else if (direction === 1 && onQueueEnd) {
+      onQueueEnd()
     } else {
       audio.pause()
       audio.currentTime = 0
@@ -193,9 +221,15 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
     setShuffle(!shuffle)
   }
 
-  const audioProps = {
-    ref: audioRef,
-    preload: 'none' as const,
+  const firstQueued = queue[0]
+  const startQueue = useEffectEvent((index: number) => playAt(index))
+  useEffect(() => {
+    if (!autoStart || autoStarted.current || firstQueued == null) return
+    autoStarted.current = true
+    startQueue(firstQueued)
+  }, [autoStart, firstQueued])
+
+  const handlers: AudioHandlers = {
     onPlay: () => setIsPlaying(true),
     onPause: () => setIsPlaying(false),
     onPlaying: () => setIsBuffering(false),
@@ -236,10 +270,26 @@ export function useAlbumPlayer(tracks: PlayableTrack[], refreshSrc?: (index: num
     },
   }
 
+  useLayoutEffect(() => {
+    audio.handlers.current = handlers
+  })
+
+  useLayoutEffect(() => {
+    const { ref, handlers: shared } = audio
+    return () => {
+      shared.current = {}
+      const el = ref.current
+      if (el) {
+        el.pause()
+        el.removeAttribute('src')
+        el.load()
+      }
+    }
+  }, [audio])
+
   const currentUnavailable = currentIndex != null && !canPlay(currentIndex)
 
   return {
-    audioProps,
     tracks,
     currentIndex,
     currentTrack: currentIndex == null ? null : tracks[currentIndex],
