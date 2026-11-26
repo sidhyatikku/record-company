@@ -118,6 +118,7 @@ function AlbumDialogBody({
     },
     autoStart: autoStart && previewsReady,
     onQueueEnd: autoplay ? () => onAlbumEnd(played.current) : undefined,
+    analytics: { album_id: summary.id, album_title: summary.title, artist: summary.artist, view },
   })
 
   useEffect(() => {
