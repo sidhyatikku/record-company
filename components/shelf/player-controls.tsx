@@ -1,7 +1,20 @@
 'use client'
 
-import { Loader2, MicOff, Pause, Play, Shuffle, SkipBack, SkipForward, Volume1, Volume2, VolumeX } from 'lucide-react'
+import {
+  ListEnd,
+  Loader2,
+  MicOff,
+  Pause,
+  Play,
+  Shuffle,
+  SkipBack,
+  SkipForward,
+  Volume1,
+  Volume2,
+  VolumeX,
+} from 'lucide-react'
 import type { CSSProperties } from 'react'
+import type { AlbumSummary } from '@/lib/types'
 import type { AlbumPlayer } from './use-album-player'
 
 function formatTime(seconds: number) {
@@ -14,6 +27,9 @@ type PlayerControlsProps = {
   artist: string
   isLoading: boolean
   previewsLoading?: boolean
+  autoplay: boolean
+  onToggleAutoplay: () => void
+  upNext: AlbumSummary | null
 }
 
 function LoadingLine({ children }: { children: string }) {
@@ -25,7 +41,15 @@ function LoadingLine({ children }: { children: string }) {
   )
 }
 
-export function PlayerControls({ player, artist, isLoading, previewsLoading = false }: PlayerControlsProps) {
+export function PlayerControls({
+  player,
+  artist,
+  isLoading,
+  previewsLoading = false,
+  autoplay,
+  onToggleAutoplay,
+  upNext,
+}: PlayerControlsProps) {
   const { currentTrack, isPlaying, isBuffering, currentTime, shuffle, volume, muted } = player
   const fetching = isLoading || previewsLoading
   const disabled = fetching || !player.hasPlayable
@@ -104,6 +128,17 @@ export function PlayerControls({ player, artist, isLoading, previewsLoading = fa
           >
             <Shuffle className="size-[18px]" strokeWidth={2.5} aria-hidden />
           </button>
+          <button
+            type="button"
+            className="player-btn p-2"
+            data-active={autoplay || undefined}
+            aria-pressed={autoplay}
+            aria-label="Autoplay next album"
+            title="Autoplay next album"
+            onClick={onToggleAutoplay}
+          >
+            <ListEnd className="size-[18px]" strokeWidth={2.5} aria-hidden />
+          </button>
         </div>
 
         <div className="flex items-center gap-1">
@@ -154,6 +189,12 @@ export function PlayerControls({ player, artist, isLoading, previewsLoading = fa
           />
         </div>
       </div>
+
+      {upNext && (
+        <p className="player-engraved -mt-1 truncate px-4 pb-3 text-center text-[11px] font-medium opacity-80">
+          <span className="font-bold">Up next:</span> {upNext.title} — {upNext.artist}
+        </p>
+      )}
     </section>
   )
 }
