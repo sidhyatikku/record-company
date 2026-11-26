@@ -2,9 +2,9 @@ import type { CSSProperties } from 'react'
 import type { AlbumSummary } from '@/lib/types'
 import { AlbumCover } from './album-cover'
 
-export function VinylStage({ album }: { album: AlbumSummary }) {
+export function VinylStage({ album, playing = false }: { album: AlbumSummary; playing?: boolean }) {
   return (
-    <div className="relative aspect-[1.4/1] w-full max-w-[560px]">
+    <div className={`relative aspect-[1.4/1] w-full max-w-[520px] ${playing ? 'is-playing' : ''}`}>
       <div
         className="vinyl-slide absolute top-[3%] left-[1.5%] aspect-square w-[67%]"
         style={{ '--vinyl-out': '44%' } as CSSProperties}

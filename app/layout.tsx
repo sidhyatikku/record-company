@@ -2,9 +2,10 @@ import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import './globals.css'
 import './shelf.css'
+import './formats.css'
 
 export const metadata: Metadata = {
-  title: 'Record Shelf — 1,973 Vinyls',
+  title: "Sid's Record Shelf — 1,973 Vinyls",
   description: 'A skeuomorphic, iOS 6–inspired wooden shelf for browsing a collection of 1,973 vinyl records.',
   generator: 'v0.app',
   icons: {

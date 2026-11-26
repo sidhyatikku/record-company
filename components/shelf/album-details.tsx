@@ -1,6 +1,7 @@
-import { ChevronRight, Star } from 'lucide-react'
+import { ChevronRight, Loader2, Star } from 'lucide-react'
 import type { ReactNode } from 'react'
 import type { Album, AlbumSummary } from '@/lib/types'
+import type { AlbumPlayer } from './use-album-player'
 
 const LINK_LABELS: Record<string, string> = {
   musicbrainz: 'MusicBrainz',
@@ -79,10 +80,26 @@ type AlbumDetailsProps = {
   album: Album | undefined
   isLoading: boolean
   error: unknown
+  player?: AlbumPlayer
+  previewsLoading?: boolean
 }
 
-export function AlbumDetails({ summary, album, isLoading, error }: AlbumDetailsProps) {
+function NowPlayingIndicator({ playing }: { playing: boolean }) {
+  return (
+    <span className={`eq ${playing ? '' : 'is-paused'}`} aria-hidden>
+      <span />
+      <span />
+      <span />
+    </span>
+  )
+}
+
+export function AlbumDetails({ summary, album, isLoading, error, player, previewsLoading = false }: AlbumDetailsProps) {
   const tracklist = album?.tracklist
+  const discOffsets = (tracklist?.discs ?? []).reduce<number[]>(
+    (offsets, disc, i) => [...offsets, i === 0 ? 0 : offsets[i - 1] + (tracklist?.discs[i - 1].tracks.length ?? 0)],
+    [],
+  )
   const multiDisc = (tracklist?.discs.length ?? 0) > 1
   const meta = [
     album?.type,
@@ -136,7 +153,16 @@ export function AlbumDetails({ summary, album, isLoading, error }: AlbumDetailsP
 
           {tracklist && (
             <Group title="Tracklist">
-              {tracklist.discs.map((disc) => (
+              {previewsLoading && (
+                <p
+                  role="status"
+                  className="flex items-center gap-2 border-b border-[#d4d7db] bg-[linear-gradient(#f7f8fa,#eceef1)] px-4 py-2 text-xs font-semibold text-[#4c566c] [text-shadow:0_1px_0_#fff]"
+                >
+                  <Loader2 className="size-3.5 shrink-0 animate-spin" strokeWidth={2.5} aria-hidden />
+                  Fetching song previews from Deezer…
+                </p>
+              )}
+              {tracklist.discs.map((disc, d) => (
                 <div key={disc.disc}>
                   {(multiDisc || disc.format) && (
                     <p className="border-b border-[#d4d7db] bg-[linear-gradient(#f2f3f5,#e4e7eb)] px-4 py-1.5 text-xs font-bold tracking-wide text-[#6a7383] uppercase [text-shadow:0_1px_0_#fff]">
@@ -156,23 +182,68 @@ export function AlbumDetails({ summary, album, isLoading, error }: AlbumDetailsP
                       </tr>
                     </thead>
                     <tbody>
-                      {disc.tracks.map((track) => (
-                        <tr key={`${disc.disc}-${track.number}`} className="border-t border-[#e3e3e3] first:border-t-0">
-                          <td className="w-10 py-2.5 pl-4 text-right text-sm text-[#8a8f98] tabular-nums">
-                            {track.number}
-                          </td>
-                          <td className="px-3 py-2.5 font-medium text-[#222]">{track.title}</td>
-                          <td className="w-16 py-2.5 pr-4 text-right text-[#385487] tabular-nums">
-                            {track.length ?? '—'}
-                          </td>
-                        </tr>
-                      ))}
+                      {disc.tracks.map((track, i) => {
+                        const index = (discOffsets[d] ?? 0) + i
+                        const isCurrent = player?.currentIndex === index
+                        const canPlay = player?.canPlay(index) ?? false
+                        const isPlayingThis = isCurrent && Boolean(player?.isPlaying)
+                        const unavailable = Boolean(player?.hasPlayable) && !canPlay
+                        return (
+                          <tr
+                            key={`${disc.disc}-${i}`}
+                            aria-current={isCurrent ? 'true' : undefined}
+                            className={`track-row border-t border-[#e3e3e3] first:border-t-0 ${isCurrent ? 'is-current' : ''} ${canPlay ? 'is-playable' : ''} ${unavailable ? 'is-unavailable' : ''}`}
+                            onClick={canPlay || unavailable ? () => player?.select(index) : undefined}
+                          >
+                            <td className="w-10 py-2.5 pl-4 text-right text-sm text-[#8a8f98] tabular-nums">
+                              {isCurrent && canPlay ? <NowPlayingIndicator playing={isPlayingThis} /> : track.number}
+                            </td>
+                            <td className="px-3 py-2.5">
+                              {unavailable ? (
+                                <button
+                                  type="button"
+                                  className="flex w-full items-center gap-2 text-left focus-visible:outline-none"
+                                  aria-disabled="true"
+                                  aria-label={`${track.title}, preview not available`}
+                                  onClick={(e) => {
+                                    e.stopPropagation()
+                                    player?.select(index)
+                                  }}
+                                >
+                                  <span className="track-title min-w-0 truncate font-medium">{track.title}</span>
+                                  <span className="no-preview-pill shrink-0">No preview</span>
+                                </button>
+                              ) : canPlay ? (
+                                <button
+                                  type="button"
+                                  className="track-title w-full text-left font-medium text-[#222] focus-visible:outline-none"
+                                  aria-label={`${isPlayingThis ? 'Pause' : 'Play'} ${track.title}`}
+                                  onClick={(e) => {
+                                    e.stopPropagation()
+                                    player?.select(index)
+                                  }}
+                                >
+                                  {track.title}
+                                </button>
+                              ) : (
+                                <span className="track-title font-medium text-[#222]">{track.title}</span>
+                              )}
+                            </td>
+                            <td className="w-16 py-2.5 pr-4 text-right text-[#385487] tabular-nums">
+                              {track.length ?? '—'}
+                            </td>
+                          </tr>
+                        )
+                      })}
                     </tbody>
                   </table>
                 </div>
               ))}
               <div className="flex justify-between border-t border-[#d4d7db] bg-[linear-gradient(#f2f3f5,#e8ebee)] px-4 py-2 text-sm font-bold text-[#4c566c] [text-shadow:0_1px_0_#fff]">
-                <span>{tracklist.total_tracks} tracks</span>
+                <span>
+                  {tracklist.total_tracks} tracks
+                  {player?.hasPlayable && <span className="font-medium opacity-75"> · 30s previews via Deezer</span>}
+                </span>
                 <span className="tabular-nums">{tracklist.total_length ?? '—'}</span>
               </div>
             </Group>

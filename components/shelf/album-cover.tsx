@@ -1,4 +1,6 @@
-import type { CSSProperties } from 'react'
+'use client'
+
+import { useCallback, useState, type CSSProperties } from 'react'
 import { cn } from '@/lib/utils'
 import type { SpinePalette } from '@/lib/types'
 
@@ -11,36 +13,66 @@ type AlbumCoverProps = {
   eager?: boolean
 }
 
-function patternFor(seed: string) {
-  let h = 0
-  for (let i = 0; i < seed.length; i++) h = (h * 31 + seed.charCodeAt(i)) >>> 0
-  return h % 4
+const PATTERN_COUNT = 8
+
+function hashSeed(seed: string) {
+  let h = 2166136261
+  for (let i = 0; i < seed.length; i++) h = Math.imul(h ^ seed.charCodeAt(i), 16777619) >>> 0
+  return h
 }
 
 export function AlbumCover({ title, artist, cover, palette, className, eager }: AlbumCoverProps) {
-  if (cover) {
+  const [failedSrc, setFailedSrc] = useState<string | null>(null)
+  const markFailed = useCallback(() => setFailedSrc(cover), [cover])
+
+  // An image can fail before hydration attaches onError, so also check on mount.
+  const imgRef = useCallback(
+    (img: HTMLImageElement | null) => {
+      if (img && img.complete && img.naturalWidth === 0) markFailed()
+    },
+    [markFailed],
+  )
+
+  if (cover && failedSrc !== cover) {
     return (
       <div className={cn('sleeve-gloss bg-black', className)}>
         <img
-          src={cover || '/placeholder.svg'}
+          ref={imgRef}
+          src={cover}
           alt={`${title} by ${artist} album cover`}
           className="size-full object-cover"
           loading={eager ? 'eager' : 'lazy'}
           decoding="async"
           draggable={false}
+          onError={markFailed}
         />
       </div>
     )
   }
 
+  return <GeneratedCover title={title} artist={artist} palette={palette} className={className} />
+}
+
+function GeneratedCover({
+  title,
+  artist,
+  palette,
+  className,
+}: Pick<AlbumCoverProps, 'title' | 'artist' | 'palette' | 'className'>) {
+  const seed = hashSeed(`${artist}\u0000${title}`)
+  const pattern = seed % PATTERN_COUNT
+  const hueShift = ((seed >>> 8) % 50) - 25
+  const angle = 15 + ((seed >>> 4) % 150)
+  const titleAtTop = ((seed >>> 12) & 1) === 1 && pattern !== 2
+
   const style = {
     '--bg': palette.background,
     '--fg': palette.foreground,
+    filter: `hue-rotate(${hueShift}deg)`,
   } as CSSProperties
-  const pattern = patternFor(`${artist}${title}`)
 
   return (
-    <div className={cn('sleeve-gloss', className)} role="img" aria-label={`${title} by ${artist}, artwork pending`}>
+    <div className={cn('sleeve-gloss', className)} role="img" aria-label={`${title} by ${artist}, generated artwork`}>
       <div className="gen-cover" style={style}>
         {pattern === 0 && (
           <div
@@ -57,7 +89,7 @@ export function AlbumCover({ title, artist, cover, palette, className, eager }: 
             aria-hidden
             className="absolute inset-0"
             style={{
-              background: `repeating-linear-gradient(135deg, transparent 0 9%, ${palette.accent} 9% 13%)`,
+              background: `repeating-linear-gradient(${angle}deg, transparent 0 9%, ${palette.accent} 9% 13%)`,
               opacity: 0.55,
             }}
           />
@@ -76,7 +108,35 @@ export function AlbumCover({ title, artist, cover, palette, className, eager }: 
             }}
           />
         )}
-        <div className="relative flex h-full flex-col justify-between p-[8%]">
+        {pattern === 4 && (
+          <div
+            aria-hidden
+            className="absolute inset-0"
+            style={{ background: `conic-gradient(from ${angle}deg at 30% 70%, ${palette.accent}, transparent 25%, ${palette.accent} 50%, transparent 75%)`, opacity: 0.45 }}
+          />
+        )}
+        {pattern === 5 && (
+          <div
+            aria-hidden
+            className="absolute top-1/2 left-1/2 size-[62%] -translate-x-1/2 -translate-y-1/2 rounded-full"
+            style={{ background: palette.accent, boxShadow: `0 0 0 6px var(--bg), 0 0 0 9px ${palette.accent}` }}
+          />
+        )}
+        {pattern === 6 && (
+          <div
+            aria-hidden
+            className="absolute inset-0"
+            style={{ background: `linear-gradient(${angle}deg, ${palette.accent} 0 33%, transparent 33% 66%, ${palette.accent} 66%)`, opacity: 0.4 }}
+          />
+        )}
+        {pattern === 7 && (
+          <div
+            aria-hidden
+            className="absolute inset-[14%] border-[3px]"
+            style={{ borderColor: palette.accent, transform: `rotate(${angle % 45}deg)`, opacity: 0.8 }}
+          />
+        )}
+        <div className={cn('relative flex h-full flex-col justify-between p-[8%]', titleAtTop && 'flex-col-reverse')}>
           <p className="gen-cover-artist">{artist}</p>
           <p className="gen-cover-title text-balance">{title}</p>
         </div>

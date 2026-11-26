@@ -141,6 +141,57 @@ function makePlaceholder(index: number): Omit<Album, 'id'> {
   }
 }
 
+function artistSortKey(artist: string) {
+  return artist.trim().replace(/^the\s+/i, '')
+}
+
+function releaseSortKey(album: Pick<Album, 'releaseDate' | 'year'>) {
+  // Undated records sort after dated ones within the same artist.
+  return album.releaseDate ?? (album.year ? String(album.year) : '9999')
+}
+
+function sectionFor(artist: string) {
+  const first = artistSortKey(artist)
+    .normalize('NFD')
+    .charAt(0)
+    .toUpperCase()
+  return /[A-Z]/.test(first) ? first : '#'
+}
+
+type RawTrack = {
+  number?: string | number
+  title?: string
+  length?: string | null
+  preview?: string | null
+  preview_url?: string | null
+  deezer_preview?: string | null
+  deezer_id?: string | number | null
+  deezer?: { id?: string | number | null; preview?: string | null } | null
+}
+
+/** Accepts the common Deezer preview field shapes so new JSON exports drop straight in. */
+function normalizeTracklist(raw: unknown): Tracklist | null {
+  if (!raw || typeof raw !== 'object') return null
+  const list = raw as Tracklist
+  return {
+    ...list,
+    discs: (list.discs ?? []).map((disc) => ({
+      ...disc,
+      tracks: ((disc.tracks ?? []) as RawTrack[]).map((t, i) => {
+        const preview = t.preview ?? t.preview_url ?? t.deezer_preview ?? t.deezer?.preview ?? null
+        const id = t.deezer_id ?? t.deezer?.id ?? null
+        return {
+          number: String(t.number ?? i + 1),
+          title: t.title ?? `Track ${i + 1}`,
+          length: t.length ?? null,
+          preview: typeof preview === 'string' && preview.startsWith('https://') ? preview : null,
+          deezer_id: id != null && /^\d+$/.test(String(id)) ? String(id) : null,
+        }
+      }),
+    })),
+  }
+}
+
 let cache: { albums: Album[]; byId: Map<string, Album> } | null = null
 
 function load() {
@@ -156,7 +207,7 @@ function load() {
     genres: data.genres ?? [],
     rating: data.rating ?? null,
     links: data.links ?? {},
-    tracklist: (data.tracklist as Tracklist | undefined) ?? null,
+    tracklist: normalizeTracklist(data.tracklist),
     cover,
     placeholder: false,
   }))
@@ -166,7 +217,10 @@ function load() {
 
   const collator = new Intl.Collator('en', { numeric: true, sensitivity: 'base' })
   const sorted = [...real, ...placeholders].sort(
-    (a, b) => collator.compare(a.artist, b.artist) || (a.year ?? 0) - (b.year ?? 0),
+    (a, b) =>
+      collator.compare(artistSortKey(a.artist), artistSortKey(b.artist)) ||
+      collator.compare(a.artist, b.artist) ||
+      releaseSortKey(a).localeCompare(releaseSortKey(b)),
   )
 
   const used = new Set<string>()
@@ -193,10 +247,30 @@ export function getAlbumSummaries(): AlbumSummary[] {
       year: album.year,
       cover: album.cover,
       palette: PALETTES[h % PALETTES.length],
-      spineWidth: 11 + ((h >>> 5) % 9),
-      heightRatio: 0.9 + ((h >>> 9) % 11) / 100,
+      section: sectionFor(album.artist),
+      spineWidth: 3 + ((h >>> 5) % 3),
+      heightRatio: 0.985 + ((h >>> 9) % 4) / 200,
     }
   })
+}
+
+export type SongMatch = { id: string; song: string }
+
+/** Albums containing a track whose title includes the query; one match (the first song) per album. */
+export function searchSongs(query: string, limit = 300): SongMatch[] {
+  const q = query.trim().toLowerCase()
+  if (q.length < 2) return []
+  const matches: SongMatch[] = []
+  for (const album of load().albums) {
+    const song = album.tracklist?.discs
+      .flatMap((disc) => disc.tracks)
+      .find((track) => track.title.toLowerCase().includes(q))
+    if (song) {
+      matches.push({ id: album.id, song: song.title })
+      if (matches.length >= limit) break
+    }
+  }
+  return matches
 }
 
 export function getAlbumById(id: string) {

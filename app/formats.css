@@ -1,0 +1,922 @@
+/* ---------- View toggle (iOS 6 segmented control, Shuffle-button brown when selected) ---------- */
+.segmented {
+  display: inline-flex;
+  height: 30px;
+  border-radius: 7px;
+  border: 1px solid #5a3412;
+  overflow: hidden;
+  box-shadow: 0 1px 0 rgba(255, 238, 205, 0.6);
+}
+.segmented button {
+  min-width: 64px;
+  padding: 0 14px;
+  border: 0;
+  border-left: 1px solid #a48466;
+  background: linear-gradient(to bottom, #ffffff, #f0ece6 50%, #e2dcd3 51%, #d8d1c6);
+  color: #6b5a4a;
+  font-size: 13px;
+  font-weight: 700;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.segmented button:first-child {
+  border-left: 0;
+}
+.segmented button:active {
+  background: linear-gradient(to bottom, #d8d1c6, #e9e3da);
+}
+.segmented button[aria-pressed='true'] {
+  border-left-color: #5a3412;
+  background: linear-gradient(to bottom, #c08d5a, #9a6634 50%, #8a5627 51%, #7d4c20);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
+  box-shadow:
+    inset 0 1px 3px rgba(0, 0, 0, 0.45),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.12);
+}
+.segmented button[aria-pressed='true'] + button {
+  border-left-color: #5a3412;
+}
+.segmented button:focus-visible {
+  position: relative;
+  z-index: 1;
+  outline: 2px solid #3d7fd6;
+  outline-offset: -2px;
+}
+@media (max-width: 640px) {
+  .segmented button {
+    min-width: 0;
+    padding: 0 9px;
+    font-size: 12px;
+  }
+}
+
+/* ---------- Shared case parts ---------- */
+.cq {
+  position: relative;
+  container-type: inline-size;
+}
+.case-glare {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(
+    118deg,
+    rgba(255, 255, 255, 0.4) 0,
+    rgba(255, 255, 255, 0.08) 28%,
+    transparent 42%,
+    transparent 72%,
+    rgba(255, 255, 255, 0.12) 86%,
+    transparent
+  );
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
+}
+
+/* CD jewel case */
+.jewel-case {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 142 / 125;
+  border-radius: 3px;
+  overflow: hidden;
+  background: linear-gradient(135deg, #eef2f5, #9aa3ab);
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.45),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.6);
+}
+.jewel-hinge {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 9%;
+  background: repeating-linear-gradient(to bottom, #1c1c1c 0 2px, #3a3a3a 2px 4px);
+  box-shadow:
+    inset -2px 0 3px rgba(0, 0, 0, 0.6),
+    inset 1px 0 0 rgba(255, 255, 255, 0.25);
+}
+.jewel-art {
+  position: absolute;
+  inset: 3% 2.5% 3% 11%;
+  overflow: hidden;
+  background: #000;
+}
+
+/* Cassette J-card inside a Norelco case */
+.jcard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  aspect-ratio: 66 / 104;
+  padding: 3.5cqw;
+  border-radius: 3cqw;
+  background: linear-gradient(160deg, rgba(238, 242, 246, 0.95), rgba(160, 170, 180, 0.8));
+  box-shadow:
+    0 10px 20px rgba(0, 0, 0, 0.5),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.7);
+}
+.jcard-art {
+  flex: none;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+.jcard-band {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1.2cqw;
+  padding: 3cqw 5cqw;
+  overflow: hidden;
+}
+.jcard-artist,
+.jcard-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.08;
+}
+.jcard-artist {
+  -webkit-line-clamp: 1;
+  font-size: 8cqw;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.jcard-title {
+  -webkit-line-clamp: 2;
+  font-size: 7cqw;
+}
+.jcard-meta {
+  font-size: 4.5cqw;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+/* Cassette shell */
+.cassette-shell {
+  position: relative;
+  aspect-ratio: 100 / 63;
+  padding: 5cqw 6cqw 0;
+  border-radius: 4cqw;
+  background:
+    radial-gradient(circle at 3.5cqw 3.5cqw, #8d8d90 0 1cqw, transparent 1.3cqw),
+    radial-gradient(circle at calc(100% - 3.5cqw) 3.5cqw, #8d8d90 0 1cqw, transparent 1.3cqw),
+    radial-gradient(circle at 3.5cqw calc(100% - 3.5cqw), #8d8d90 0 1cqw, transparent 1.3cqw),
+    radial-gradient(circle at calc(100% - 3.5cqw) calc(100% - 3.5cqw), #8d8d90 0 1cqw, transparent 1.3cqw),
+    linear-gradient(#3a3a3c, #1d1d1f);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.25),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.6),
+    0 2px 0 #000;
+}
+.cassette-label {
+  position: relative;
+  display: block;
+  height: 36cqw;
+  padding: 3cqw 4cqw;
+  overflow: hidden;
+  border-radius: 2cqw;
+  background: var(--bg);
+  color: var(--fg);
+  box-shadow: inset 0 0 0 0.5cqw rgba(0, 0, 0, 0.15);
+}
+.cassette-side {
+  position: absolute;
+  top: 2.4cqw;
+  left: 4cqw;
+  font-size: 7cqw;
+  font-weight: 900;
+  line-height: 1;
+}
+.cassette-text {
+  display: block;
+  margin-left: 9cqw;
+  overflow: hidden;
+  font-size: 4.2cqw;
+  line-height: 1.3;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.cassette-stripe {
+  position: absolute;
+  inset: 12cqw 0 auto;
+  height: 2.5cqw;
+  background: var(--accent);
+}
+.cassette-window {
+  position: absolute;
+  top: 25cqw;
+  left: 24%;
+  right: 24%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 13cqw;
+  padding: 0 1.5cqw;
+  border-radius: 6.5cqw;
+  background: linear-gradient(rgba(30, 25, 20, 0.9), rgba(70, 58, 46, 0.9));
+  box-shadow:
+    inset 0 1px 3px rgba(0, 0, 0, 0.8),
+    0 0 0 0.6cqw rgba(255, 255, 255, 0.55);
+}
+.reel {
+  width: 10cqw;
+  height: 10cqw;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle closest-side, #1a1a1a 0 34%, #eee 36% 54%, transparent 56%),
+    repeating-conic-gradient(#e0e0e0 0 18deg, #4a4a4a 18deg 60deg);
+  animation: spin 2.4s linear infinite paused;
+}
+.reel-left {
+  box-shadow: 0 0 0 1.4cqw #3b2a1e;
+}
+.is-playing .reel {
+  animation-play-state: running;
+}
+.cassette-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 18%;
+  right: 18%;
+  height: 12cqw;
+  clip-path: polygon(8% 0, 92% 0, 100% 100%, 0 100%);
+  background:
+    radial-gradient(circle at 30% 55%, #050505 0 1.4cqw, transparent 1.6cqw),
+    radial-gradient(circle at 70% 55%, #050505 0 1.4cqw, transparent 1.6cqw),
+    linear-gradient(#2c2c2e, #161618);
+}
+
+/* CD disc for the detail stage */
+.cd-disc {
+  border-radius: 50%;
+  background: conic-gradient(
+    from 10deg,
+    #d9dde2,
+    #f6f2ea,
+    #b9c6d6,
+    #e8e0f0,
+    #c9e3e6,
+    #f4efe2,
+    #c0c8d4,
+    #e6eef3,
+    #d9dde2
+  );
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.3),
+    inset 0 0 0 2px rgba(255, 255, 255, 0.6);
+  mask: radial-gradient(circle closest-side, transparent 0 12.5%, #000 13%);
+}
+.cd-hub {
+  background: radial-gradient(circle closest-side, rgba(230, 235, 240, 0.35) 0 60%, rgba(255, 255, 255, 0.8) 62% 66%, rgba(220, 226, 232, 0.6) 68%);
+}
+
+/* ---------- Cassette rack (pine wall cabinet) ---------- */
+.cassette-wall {
+  padding: clamp(12px, 2.5vw, 32px);
+  background:
+    radial-gradient(ellipse at top, rgba(255, 240, 220, 0.08), transparent 60%),
+    linear-gradient(#3b3631, #26221e);
+}
+.cassette-cabinet {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  align-items: start;
+  gap: 12px;
+  /* Headroom for a top tape being pulled up out of its slot. */
+  padding: 28px 14px 14px;
+  overflow-x: clip;
+  border-radius: 4px;
+  background:
+    linear-gradient(rgba(255, 236, 200, 0.42), rgba(255, 236, 200, 0.42)),
+    var(--wood);
+  background-size: auto, var(--wood-size);
+  box-shadow:
+    0 22px 44px rgba(0, 0, 0, 0.55),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.45),
+    inset 0 -6px 10px rgba(90, 50, 15, 0.25);
+}
+.cassette-cubby {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 8px 8px 10px;
+  border-radius: 2px;
+  background: linear-gradient(rgba(40, 22, 8, 0.6), rgba(40, 22, 8, 0.38));
+  box-shadow:
+    inset 0 6px 10px rgba(0, 0, 0, 0.6),
+    inset 4px 0 6px -2px rgba(0, 0, 0, 0.5),
+    inset -4px 0 6px -2px rgba(0, 0, 0, 0.5),
+    0 1px 0 rgba(255, 255, 255, 0.55);
+}
+.dymo {
+  align-self: flex-start;
+  margin-bottom: 5px;
+  padding: 2px 8px;
+  border-radius: 2px;
+  background: linear-gradient(#2a2a2a, #111);
+  color: #f4f4f4;
+  font: 700 12px/1.2 ui-monospace, SFMono-Regular, Menlo, monospace;
+  letter-spacing: 0.18em;
+  text-shadow:
+    0 -1px 0 rgba(0, 0, 0, 0.8),
+    0 1px 0 rgba(255, 255, 255, 0.25);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+/*
+ * Grab choreography: the button is a fixed hit area; the tape inside is pulled
+ * out of the slot (.tape-grab), then tipped toward the viewer (.tape-tilt) so
+ * the case face that was lying flat comes up to face them. Leaving runs the
+ * stages in reverse: tip back first, then slide home.
+ */
+.tape {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: 2px;
+  background: none;
+  cursor: pointer;
+  perspective: 900px;
+  transition: z-index 0s linear 560ms;
+}
+.tape:hover,
+.tape:focus-visible {
+  z-index: 20;
+  transition-delay: 0s;
+}
+.tape:focus-visible {
+  outline: 2px solid #fff3dc;
+  outline-offset: 1px;
+}
+.tape-grab,
+.tape-tilt {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  pointer-events: none;
+}
+.tape-grab {
+  transition: transform 240ms cubic-bezier(0.4, 0, 0.2, 1) 260ms;
+}
+.tape:hover .tape-grab,
+.tape:focus-visible .tape-grab {
+  transform: translate3d(0, -10px, 70px);
+  transition: transform 220ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+.tape-tilt {
+  transform-origin: 50% 0;
+  transition: transform 280ms cubic-bezier(0.5, 0, 0.6, 1);
+}
+.tape:hover .tape-tilt,
+.tape:focus-visible .tape-tilt {
+  transform: rotateX(78deg);
+  transition: transform 420ms cubic-bezier(0.25, 0.9, 0.3, 1.04) 170ms;
+}
+.tape-spine {
+  position: absolute;
+  inset: 0;
+  padding: 3px;
+  border-radius: 2px;
+  background: linear-gradient(#f4f6f8, #b9bfc5 45%, #d7dce0);
+  box-shadow:
+    0 2px 2px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  backface-visibility: hidden;
+}
+.tape-spine::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 2px;
+  background: linear-gradient(rgba(255, 255, 255, 0.35), transparent 45%);
+}
+/* The case's broad face, lying flat on top of the tape until it's tipped up. */
+.tape-face {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  right: -3px;
+  aspect-ratio: 100 / 63;
+  padding: 5px;
+  border-radius: 4px;
+  background: linear-gradient(160deg, rgba(238, 242, 246, 0.96), rgba(160, 170, 180, 0.85));
+  box-shadow:
+    0 14px 26px rgba(0, 0, 0, 0.55),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.7);
+  transform-origin: 50% 0;
+  transform: rotateX(-90deg);
+  backface-visibility: hidden;
+}
+.tape-face-card {
+  display: flex;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 2px;
+  background: var(--bg);
+  color: var(--fg);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+.tape-face-art {
+  flex: none;
+  height: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+.tape-face-text {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  padding: 6px 8px;
+  border-left: 3px solid var(--accent);
+  line-height: 1.1;
+}
+.tape-face-artist {
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.tape-face-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  font-size: 11px;
+}
+.tape-face-meta {
+  font-size: 8px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+.tape-card {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  height: 100%;
+  padding-right: 6px;
+  overflow: hidden;
+  border-radius: 1px;
+  background: var(--bg);
+  color: var(--fg);
+  font-size: 10.5px;
+  line-height: 1;
+  text-align: left;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.15);
+}
+.tape-stripe {
+  flex: none;
+  align-self: stretch;
+  width: 6px;
+  background: var(--accent);
+}
+.tape-artist,
+.tape-title {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.tape-artist {
+  flex: none;
+  max-width: 48%;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+.tape-title {
+  flex: 1;
+  min-width: 0;
+  opacity: 0.85;
+}
+.tape-year {
+  flex: none;
+  font-size: 9px;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.65;
+}
+
+/* ---------- CD rack (oak tower, slanted shelves) ---------- */
+.cd-tower {
+  padding: 0 clamp(14px, 3vw, 34px) 22px;
+  background:
+    linear-gradient(to right, rgba(40, 18, 0, 0.35), transparent 3%, transparent 97%, rgba(40, 18, 0, 0.35)),
+    linear-gradient(rgba(214, 140, 60, 0.28), rgba(214, 140, 60, 0.28)),
+    var(--wood);
+  background-size: auto, auto, var(--wood-size);
+}
+.cd-rack {
+  --row: 236px;
+  --board: 22px;
+  --slot: calc(var(--row) - var(--board));
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  min-height: calc(var(--row) * 3);
+  padding: 18px clamp(8px, 1.6vw, 20px) 0;
+  overflow-x: clip;
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent var(--slot),
+      #f0c387 var(--slot),
+      #d39a57 calc(var(--slot) + 3px),
+      #b0712f calc(var(--row) - 5px),
+      #5a3210 calc(var(--row) - 1px),
+      transparent var(--row)
+    ),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 44px,
+      #c58a4b 44px,
+      #e2b07a 47px,
+      #a86d32 51px,
+      rgba(0, 0, 0, 0.4) 52px,
+      transparent 56px,
+      transparent 132px,
+      #c58a4b 132px,
+      #e2b07a 135px,
+      #a86d32 139px,
+      rgba(0, 0, 0, 0.4) 140px,
+      transparent 144px,
+      transparent var(--row)
+    ),
+    linear-gradient(#2a190c, #160c05);
+  background-origin: content-box, content-box, padding-box;
+  background-clip: content-box, content-box, padding-box;
+  box-shadow:
+    inset 0 10px 16px -6px rgba(0, 0, 0, 0.8),
+    inset 10px 0 14px -8px rgba(0, 0, 0, 0.7),
+    inset -10px 0 14px -8px rgba(0, 0, 0, 0.7);
+}
+@media (max-width: 640px) {
+  .cd-rack {
+    --row: 214px;
+  }
+}
+.cd-slot {
+  position: relative;
+  display: flex;
+  flex: none;
+  align-items: flex-end;
+  width: 13px;
+  height: var(--slot);
+  margin-right: 1px;
+  padding: 0 0 2px;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  perspective: 800px;
+  transition: z-index 0s linear 580ms;
+}
+.cd-slot:hover,
+.cd-slot:focus-visible {
+  z-index: 20;
+  transition-delay: 0s;
+}
+.cd-slot:focus-visible {
+  outline: 2px solid #fff3dc;
+  outline-offset: 2px;
+}
+/*
+ * Grab choreography: the case slides up out of the slanted shelf toward the
+ * viewer (.cd-lift), then swings on its spine (.cd-turn) so the front cover,
+ * which faced the neighbouring case, turns to face them. It swings toward the
+ * middle of the screen (data-side) so it never leaves the rack. Leaving
+ * reverses the order.
+ */
+.cd-lift {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 158px;
+  transform-origin: bottom;
+  transform: rotateX(10deg);
+  transform-style: preserve-3d;
+  pointer-events: none;
+  transition: transform 260ms cubic-bezier(0.4, 0, 0.2, 1) 280ms;
+}
+.cd-slot:hover .cd-lift,
+.cd-slot:focus-visible .cd-lift {
+  transform: translate3d(0, -34px, 60px) rotateX(0);
+  transition: transform 230ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+.cd-turn {
+  position: absolute;
+  inset: 0;
+  transform-origin: 100% 50%;
+  transform-style: preserve-3d;
+  transition: transform 300ms cubic-bezier(0.5, 0, 0.6, 1);
+}
+.cd-slot:hover .cd-turn,
+.cd-slot:focus-visible .cd-turn {
+  transform: translateX(24px) rotateY(-78deg);
+  transition: transform 440ms cubic-bezier(0.25, 0.9, 0.3, 1.04) 180ms;
+}
+.cd-slot[data-side='left'] .cd-turn {
+  transform-origin: 0 50%;
+}
+.cd-slot[data-side='left']:hover .cd-turn,
+.cd-slot[data-side='left']:focus-visible .cd-turn {
+  transform: translateX(-24px) rotateY(78deg);
+}
+
+/* Lifted items ignore the pointer at rest so neighbours stay hoverable, but
+   become hit targets while held so the cursor can move onto them and click. */
+.record:hover .record-lift,
+.tape:hover .tape-grab,
+.tape:hover .tape-tilt,
+.cd-slot:hover .cd-lift {
+  pointer-events: auto;
+}
+/* The held case's cover swings ~200px past its 13px spine, over neighbouring
+   spines. This invisible bridge keeps the hover alive along that path so the
+   cursor can reach the cover without a neighbour stealing the grab. */
+.cd-slot:hover::after {
+  content: '';
+  position: absolute;
+  top: -40px;
+  bottom: 0;
+  left: 0;
+  width: 222px;
+}
+.cd-slot[data-side='left']:hover::after {
+  left: auto;
+  right: 0;
+}
+.cd-front {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: calc(158px * 142 / 125);
+  transform-origin: 0 50%;
+  transform: rotateY(90deg);
+  backface-visibility: hidden;
+}
+.cd-slot[data-side='left'] .cd-front {
+  left: auto;
+  right: 100%;
+  transform-origin: 100% 50%;
+  transform: rotateY(-90deg);
+}
+.cd-spine {
+  backface-visibility: hidden;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 7px 0;
+  overflow: hidden;
+  border-inline: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 1px;
+  background:
+    linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.08) 25%, transparent 70%, rgba(0, 0, 0, 0.35)),
+    var(--bg);
+  color: var(--fg);
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 11px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  writing-mode: vertical-rl;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+}
+.cd-face-slot {
+  width: 168px;
+  margin-inline: 6px 8px;
+  padding: 0 4px 4px;
+}
+/* Face-out case: lifted off its lean, then tipped upright toward the viewer. */
+.cd-face {
+  display: block;
+  width: 100%;
+  transform-origin: bottom;
+  transform: rotateX(12deg);
+  pointer-events: none;
+  transition: transform 300ms cubic-bezier(0.5, 0, 0.6, 1);
+}
+.cd-face-slot:hover .cd-face,
+.cd-face-slot:focus-visible .cd-face {
+  transform: translate3d(0, -14px, 70px) rotateX(-6deg);
+  transition: transform 460ms cubic-bezier(0.25, 0.9, 0.3, 1.04);
+}
+.cd-plate {
+  position: absolute;
+  bottom: calc(-1 * var(--board) + 3px);
+  left: 50%;
+  padding: 1px 12px;
+  border-radius: 3px;
+  background: linear-gradient(#f6e3a8, #c99b3e 55%, #e8c677);
+  color: #4a3208;
+  font-size: 11px;
+  font-weight: 800;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  transform: translateX(-50%);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+/* ---------- Digital gallery ---------- */
+.digital-shell {
+  position: relative;
+  min-height: 100dvh;
+  padding: 8px clamp(36px, 5vw, 64px) 48px clamp(16px, 4vw, 48px);
+  background:
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.015) 0 1px, transparent 1px 3px),
+    radial-gradient(ellipse at top, #3a3d44, transparent 60%),
+    linear-gradient(#26282d, #141518);
+  color: #eee;
+}
+.digital-section {
+  padding-top: 14px;
+  scroll-margin-top: var(--header-h, 0px);
+  content-visibility: auto;
+  contain-intrinsic-size: auto 640px;
+}
+.ios-section-header {
+  position: sticky;
+  top: var(--header-h, 0px);
+  z-index: 20;
+  padding: 2px 14px;
+  border-top: 1px solid #a8afb6;
+  border-bottom: 1px solid #50575f;
+  border-radius: 4px;
+  background: linear-gradient(#8d949c, #6d757e);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+}
+.digital-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 28px 22px;
+  padding: 18px 4px 30px;
+  list-style: none;
+}
+@media (max-width: 640px) {
+  .digital-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px 14px;
+  }
+}
+.digital-tile {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.digital-tile:focus-visible {
+  outline: none;
+}
+.digital-tile:focus-visible .digital-art {
+  outline: 3px solid #6fb0ff;
+  outline-offset: 3px;
+}
+.digital-art {
+  position: relative;
+  display: block;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow:
+    0 10px 18px rgba(0, 0, 0, 0.55),
+    0 0 0 1px rgba(255, 255, 255, 0.08);
+  transition:
+    transform 200ms ease,
+    box-shadow 200ms ease;
+}
+.digital-art::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0) 45%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  pointer-events: none;
+}
+.digital-tile:hover .digital-art,
+.digital-tile:focus-visible .digital-art {
+  transform: translateY(-3px);
+  box-shadow:
+    0 16px 26px rgba(0, 0, 0, 0.65),
+    0 0 0 1px rgba(255, 255, 255, 0.14);
+}
+.digital-play {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: linear-gradient(#fdfdfd, #c9ccd1);
+  color: #333;
+  opacity: 0;
+  transform: scale(0.8);
+  transition:
+    opacity 160ms ease,
+    transform 160ms ease;
+  box-shadow:
+    0 2px 6px rgba(0, 0, 0, 0.6),
+    inset 0 1px 0 #fff;
+}
+.digital-tile:hover .digital-play,
+.digital-tile:focus-visible .digital-play {
+  opacity: 1;
+  transform: scale(1);
+}
+.digital-title,
+.digital-artist {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.digital-title {
+  margin-top: 10px;
+  -webkit-line-clamp: 2;
+  color: #f2f2f2;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.25;
+  text-shadow: 0 1px 0 #000;
+}
+.digital-artist {
+  margin-top: 2px;
+  -webkit-line-clamp: 1;
+  color: #9aa0a8;
+  font-size: 13px;
+}
+.az-index {
+  position: fixed;
+  top: calc(var(--header-h, 0px) + 12px);
+  bottom: 12px;
+  right: 6px;
+  z-index: 30;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1px;
+}
+.az-index a {
+  padding: 1px 6px;
+  border-radius: 8px;
+  color: #c8ccd2;
+  font-size: 11px;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+}
+.az-index a:hover,
+.az-index a:focus-visible {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+}
+.digital-stage-art {
+  filter: drop-shadow(0 18px 30px rgba(0, 0, 0, 0.6));
+  -webkit-box-reflect: below 8px linear-gradient(transparent 62%, rgba(255, 255, 255, 0.28));
+  transition: transform 400ms ease;
+}
+.digital-stage-art.is-playing {
+  transform: scale(1.03);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tape,
+  .tape-grab,
+  .tape-tilt,
+  .cd-slot,
+  .cd-lift,
+  .cd-turn,
+  .cd-face,
+  .digital-art,
+  .digital-stage-art {
+    transition-duration: 1ms !important;
+    transition-delay: 0ms !important;
+  }
+  .reel {
+    animation: none;
+  }
+}
