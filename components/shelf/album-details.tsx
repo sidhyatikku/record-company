@@ -164,7 +164,7 @@ export function AlbumDetails({ summary, album, isLoading, error, player, preview
                       {disc.format ? ` · ${disc.format}` : ''}
                     </p>
                   )}
-                  <table className="w-full text-[15px]">
+                  <table className="relative w-full text-[15px]">
                     <caption className="sr-only">
                       {multiDisc ? `Disc ${disc.disc} tracks` : 'Tracks'}
                     </caption>

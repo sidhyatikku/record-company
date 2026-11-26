@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useEffectEvent, useLayoutEffect, useMemo, useRef, useState, type RefObject } from 'react'
+import { track, type AnalyticsParams } from '@/lib/analytics'
 import type { Album } from '@/lib/types'
 
 export type AudioHandlers = Pick<
@@ -22,7 +23,14 @@ type PlayerOptions = {
   refreshSrc?: (index: number) => Promise<string | null>
   autoStart?: boolean
   onQueueEnd?: () => void
+  /** Album details attached to every analytics event this player sends. */
+  analytics?: AnalyticsParams
 }
+
+type PlayTrigger = 'tracklist' | 'play_button' | 'next' | 'previous' | 'autoplay' | 'auto_start' | 'error_skip'
+
+/** Sliders fire on every pixel of a drag; report one event once the gesture settles. */
+const GESTURE_SETTLE_MS = 600
 
 export type PlayableTrack = {
   number: string
@@ -88,9 +96,11 @@ function shuffled<T>(items: T[]) {
 export function useAlbumPlayer(
   tracks: PlayableTrack[],
   audio: SharedAudio,
-  { refreshSrc, autoStart = false, onQueueEnd }: PlayerOptions = {},
+  { refreshSrc, autoStart = false, onQueueEnd, analytics }: PlayerOptions = {},
 ) {
   const audioRef = audio.ref
+  const volumeGesture = useRef<{ from: number; timer: ReturnType<typeof setTimeout> } | null>(null)
+  const seekGesture = useRef<{ from: number; timer: ReturnType<typeof setTimeout> } | null>(null)
   const autoStarted = useRef(false)
   const usedFallback = useRef(false)
   const usedRefresh = useRef(false)
@@ -111,6 +121,16 @@ export function useAlbumPlayer(
 
   const canPlay = (index: number) => Boolean(tracks[index]?.src) && !failed.has(index)
 
+  function emit(event: string, index: number | null = currentIndex, params: AnalyticsParams = {}) {
+    const t = index == null ? undefined : tracks[index]
+    track(event, {
+      ...analytics,
+      track_number: t?.number,
+      track_title: t?.title,
+      ...params,
+    })
+  }
+
   function showUnavailable(index: number) {
     const audio = audioRef.current
     if (audio) {
@@ -125,14 +145,15 @@ export function useAlbumPlayer(
     setIsPlaying(false)
   }
 
-  function playAt(index: number, fromUser = false) {
+  function playAt(index: number, trigger: PlayTrigger) {
     const audio = audioRef.current
-    const track = tracks[index]
-    if (!audio || !track?.src) return
-    userPicked.current = fromUser
+    const target = tracks[index]
+    if (!audio || !target?.src) return
+    emit('song_play', index, { trigger, shuffle })
+    userPicked.current = trigger === 'tracklist'
     usedFallback.current = false
     usedRefresh.current = false
-    audio.src = track.src
+    audio.src = target.src
     audio.volume = volume
     audio.muted = muted
     setCurrentIndex(index)
@@ -142,7 +163,7 @@ export function useAlbumPlayer(
     audio.play().catch(() => {})
   }
 
-  function step(direction: 1 | -1) {
+  function step(direction: 1 | -1, trigger: PlayTrigger) {
     const audio = audioRef.current
     if (!audio) return
     const position = currentIndex == null ? -1 : queue.indexOf(currentIndex)
@@ -152,8 +173,9 @@ export function useAlbumPlayer(
         direction === 1 ? queue.find((i) => i > currentIndex) : [...queue].reverse().find((i) => i < currentIndex)
     }
     if (target != null) {
-      playAt(target)
+      playAt(target, trigger)
     } else if (direction === 1 && onQueueEnd) {
+      emit('album_complete', null, { trigger })
       onQueueEnd()
     } else {
       audio.pause()
@@ -165,39 +187,83 @@ export function useAlbumPlayer(
     const audio = audioRef.current
     if (!audio) return
     if (currentIndex == null) {
-      if (queue[0] != null) playAt(queue[0])
+      if (queue[0] != null) playAt(queue[0], 'play_button')
       return
     }
     if (!canPlay(currentIndex)) {
-      step(1)
+      step(1, 'next')
       return
     }
-    if (audio.paused) audio.play().catch(() => {})
-    else audio.pause()
+    if (audio.paused) {
+      emit('song_resume', currentIndex, { position_seconds: Math.round(audio.currentTime) })
+      audio.play().catch(() => {})
+    } else {
+      emit('song_pause', currentIndex, { position_seconds: Math.round(audio.currentTime) })
+      audio.pause()
+    }
   }
 
   function select(index: number) {
-    if (!canPlay(index)) showUnavailable(index)
-    else if (index === currentIndex) toggle()
-    else playAt(index, true)
+    if (!canPlay(index)) {
+      emit('song_unavailable', index)
+      showUnavailable(index)
+    } else if (index === currentIndex) toggle()
+    else playAt(index, 'tracklist')
+  }
+
+  function next() {
+    emit('next_track')
+    step(1, 'next')
   }
 
   function prev() {
     const audio = audioRef.current
     if (!audio) return
-    if (audio.currentTime > 3 || currentIndex == null) audio.currentTime = 0
-    else step(-1)
+    const restart = audio.currentTime > 3 || currentIndex == null
+    emit('previous_track', currentIndex, { action: restart ? 'restart' : 'previous' })
+    if (restart) audio.currentTime = 0
+    else step(-1, 'previous')
   }
 
   function seek(time: number) {
     const audio = audioRef.current
     if (!audio || currentIndex == null) return
+    const index = currentIndex
+    const gesture = seekGesture.current
+    if (gesture) clearTimeout(gesture.timer)
+    const from = gesture?.from ?? audio.currentTime
+    seekGesture.current = {
+      from,
+      timer: setTimeout(() => {
+        seekGesture.current = null
+        emit('seek', index, {
+          direction: time >= from ? 'forward' : 'backward',
+          from_seconds: Math.round(from),
+          to_seconds: Math.round(time),
+        })
+      }, GESTURE_SETTLE_MS),
+    }
     audio.currentTime = time
     setCurrentTime(time)
   }
 
   function changeVolume(value: number) {
     const audio = audioRef.current
+    const gesture = volumeGesture.current
+    if (gesture) clearTimeout(gesture.timer)
+    const from = gesture?.from ?? volume
+    volumeGesture.current = {
+      from,
+      timer: setTimeout(() => {
+        volumeGesture.current = null
+        if (value === from) return
+        emit('volume_change', null, {
+          direction: value > from ? 'up' : 'down',
+          from_volume: Math.round(from * 100),
+          to_volume: Math.round(value * 100),
+        })
+      }, GESTURE_SETTLE_MS),
+    }
     setVolume(value)
     if (audio) audio.volume = value
     if (muted && value > 0) {
@@ -208,12 +274,14 @@ export function useAlbumPlayer(
 
   function toggleMute() {
     const audio = audioRef.current
-    const next = !muted
-    setMuted(next)
-    if (audio) audio.muted = next
+    const nextMuted = !muted
+    emit(nextMuted ? 'volume_mute' : 'volume_unmute', null, { volume: Math.round(volume * 100) })
+    setMuted(nextMuted)
+    if (audio) audio.muted = nextMuted
   }
 
   function toggleShuffle() {
+    emit('shuffle_toggle', null, { enabled: !shuffle })
     if (!shuffle) {
       const rest = shuffled(playable.filter((i) => i !== currentIndex))
       setShuffleOrder(currentIndex == null ? rest : [currentIndex, ...rest])
@@ -222,7 +290,7 @@ export function useAlbumPlayer(
   }
 
   const firstQueued = queue[0]
-  const startQueue = useEffectEvent((index: number) => playAt(index))
+  const startQueue = useEffectEvent((index: number) => playAt(index, 'auto_start'))
   useEffect(() => {
     if (!autoStart || autoStarted.current || firstQueued == null) return
     autoStarted.current = true
@@ -239,7 +307,10 @@ export function useAlbumPlayer(
       const d = e.currentTarget.duration
       if (Number.isFinite(d)) setDuration(d)
     },
-    onEnded: () => step(1),
+    onEnded: () => {
+      emit('song_complete')
+      step(1, 'autoplay')
+    },
     onError: () => {
       const audio = audioRef.current
       if (!audio || currentIndex == null) return
@@ -263,10 +334,11 @@ export function useAlbumPlayer(
         audio.play().catch(() => {})
         return
       }
+      emit('preview_error', index)
       setIsBuffering(false)
       setFailed((prev) => new Set(prev).add(index))
       if (userPicked.current) showUnavailable(index)
-      else step(1)
+      else step(1, 'error_skip')
     },
   }
 
@@ -305,7 +377,7 @@ export function useAlbumPlayer(
     canPlay,
     select,
     toggle,
-    next: () => step(1),
+    next,
     prev,
     seek,
     changeVolume,

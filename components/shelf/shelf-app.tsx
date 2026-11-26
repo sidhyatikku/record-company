@@ -1,8 +1,9 @@
 'use client'
 
-import { useCallback, useDeferredValue, useMemo, useRef, useState } from 'react'
+import { useCallback, useDeferredValue, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import useSWR from 'swr'
 import type { SongMatch } from '@/lib/albums'
+import { track } from '@/lib/analytics'
 import type { AlbumSummary } from '@/lib/types'
 import { AlbumDialog } from './album-dialog'
 import { Bookcase } from './bookcase'
@@ -16,6 +17,8 @@ const fetcher = (url: string) => fetch(url).then((r) => r.json())
 
 /** Autoplay stops after this many albums in a row with no playable preview, so it never spins through the shelf silently. */
 const MAX_SILENT_SKIPS = 10
+/** Report a search once typing pauses, not on every keystroke. */
+const SEARCH_SETTLE_MS = 1000
 
 export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
   const [query, setQuery] = useState('')
@@ -51,33 +54,90 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
     return pool[(index + 1) % pool.length]
   }, [pool, selectedId])
 
-  const openAlbum = useCallback((id: string | null) => {
+  useEffect(() => {
+    if (!songQuery) return
+    const timer = setTimeout(() => {
+      track('search', { search_term: songQuery, results: filtered.length, view })
+    }, SEARCH_SETTLE_MS)
+    return () => clearTimeout(timer)
+  }, [songQuery, filtered.length, view])
+
+  // Read by the stable select handler, so the 1,970 memoized spines don't re-render on every keystroke.
+  const eventContext = useRef({ view, songQuery })
+  useLayoutEffect(() => {
+    eventContext.current = { view, songQuery }
+  })
+
+  const albumParams = useCallback(
+    (album: AlbumSummary) => ({
+      album_id: album.id,
+      album_title: album.title,
+      artist: album.artist,
+      view: eventContext.current.view,
+    }),
+    [],
+  )
+
+  const openAlbum = useCallback(
+    (album: AlbumSummary, source: 'shelf' | 'search_result' | 'shuffle') => {
+      const search = eventContext.current.songQuery
+      track('album_open', { ...albumParams(album), source, search_term: search || undefined })
+      skipStreak.current = 0
+      setAutoStartId(null)
+      setSelectedId(album.id)
+    },
+    [albumParams],
+  )
+  const handleSelect = useCallback(
+    (id: string) => {
+      const album = albums.find((a) => a.id === id)
+      if (album) openAlbum(album, eventContext.current.songQuery ? 'search_result' : 'shelf')
+    },
+    [albums, openAlbum],
+  )
+  const handleClose = useCallback(() => {
+    if (selected) track('album_close', albumParams(selected))
     skipStreak.current = 0
     setAutoStartId(null)
-    setSelectedId(id)
-  }, [])
-  const handleSelect = useCallback((id: string) => openAlbum(id), [openAlbum])
-  const handleClose = useCallback(() => openAlbum(null), [openAlbum])
+    setSelectedId(null)
+  }, [selected, albumParams])
   const handleShuffle = useCallback(() => {
-    openAlbum(pool[Math.floor(Math.random() * pool.length)].id)
+    openAlbum(pool[Math.floor(Math.random() * pool.length)], 'shuffle')
   }, [pool, openAlbum])
-  const handleToggleAutoplay = useCallback(() => setAutoplay((on) => !on), [])
+  const handleToggleAutoplay = useCallback(() => {
+    track('autoplay_toggle', { enabled: !autoplay, ...(selected ? albumParams(selected) : {}) })
+    setAutoplay(!autoplay)
+  }, [autoplay, selected, albumParams])
   const handleAlbumEnd = useCallback(
     (played: boolean) => {
       skipStreak.current = played ? 0 : skipStreak.current + 1
       if (!upNext || skipStreak.current > MAX_SILENT_SKIPS) {
+        track('autoplay_stopped', {
+          reason: upNext ? 'too_many_unplayable_albums' : 'end_of_shelf',
+          last_album_id: selectedId,
+        })
         setAutoStartId(null)
         return
       }
+      track('autoplay_next_album', {
+        ...albumParams(upNext),
+        from_album_id: selectedId,
+        previous_album_played: played,
+      })
+      track('album_open', { ...albumParams(upNext), source: 'autoplay' })
       setSelectedId(upNext.id)
       setAutoStartId(upNext.id)
     },
-    [upNext],
+    [upNext, selectedId, albumParams],
   )
-  const handleViewChange = useCallback((next: ShelfView) => {
-    setView(next)
-    window.scrollTo({ top: 0 })
-  }, [])
+  const handleViewChange = useCallback(
+    (next: ShelfView) => {
+      if (next !== view) track('view_change', { view: next, previous_view: view })
+      setView(next)
+      window.scrollTo({ top: 0 })
+    },
+    [view],
+  )
 
   return (
     <div className="min-h-dvh">

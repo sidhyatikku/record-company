@@ -347,6 +347,8 @@
   border: 1px solid #1a0e04;
   border-radius: 10px;
   overflow: hidden;
+  /* clip also blocks focus/scrollIntoView from scrolling the frame itself */
+  overflow: clip;
   background: #34363b;
   box-shadow:
     0 30px 80px rgba(0, 0, 0, 0.7),
