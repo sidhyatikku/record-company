@@ -4,6 +4,7 @@ import { memo, useMemo, useState, type CSSProperties } from 'react'
 import type { AlbumSummary } from '@/lib/types'
 import { AlbumCover } from './album-cover'
 import { groupBySection } from './views'
+import { useTouchArm } from './use-touch-arm'
 
 const TAPES_PER_COLUMN = 24
 
@@ -59,6 +60,7 @@ const CassetteTape = memo(function CassetteTape({
   onSelect: (id: string) => void
 }) {
   const [primed, setPrimed] = useState(false)
+  const { armed, onPointerDown, shouldOpen } = useTouchArm(album.id, () => setPrimed(true))
   const style = {
     '--bg': album.palette.background,
     '--fg': album.palette.foreground,
@@ -73,7 +75,9 @@ const CassetteTape = memo(function CassetteTape({
       aria-label={`${album.artist} — ${album.title}${album.year ? ` (${album.year})` : ''}`}
       onPointerEnter={(e) => e.pointerType === 'mouse' && setPrimed(true)}
       onFocus={() => setPrimed(true)}
-      onClick={() => onSelect(album.id)}
+      data-armed={armed ? '' : undefined}
+      onPointerDown={onPointerDown}
+      onClick={(e) => shouldOpen(e) && onSelect(album.id)}
     >
       <span className="tape-grab" aria-hidden>
         <span className="tape-tilt">

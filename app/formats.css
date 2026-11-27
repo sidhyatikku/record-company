@@ -922,3 +922,79 @@
     animation: none;
   }
 }
+
+/* Touch screens: the first tap "arms" an item (data-armed) and plays the hover
+   preview; a second tap opens it. Sticky :hover after a tap is neutralised so
+   only the armed item is lifted. */
+@media (hover: none), (pointer: coarse) {
+  .record:hover .record-spine::after {
+    opacity: 1;
+  }
+  .cd-slot[data-primed]:hover .cd-turn,
+  .cd-slot[data-primed][data-side='left']:hover .cd-turn {
+    transform: none;
+  }
+  .cd-face-slot:hover .cd-face {
+    transform: rotateX(12deg);
+  }
+  .record:hover .record-lift,
+  .tape:hover .tape-grab,
+  .tape:hover .tape-tilt,
+  .cd-slot:hover .cd-lift {
+    pointer-events: none;
+  }
+
+  .record[data-armed] {
+    z-index: 40;
+  }
+  .record[data-armed] .record-lift {
+    transform: translate3d(calc(-1 * var(--nudge, 0px)), -44px, 70px);
+    transition-delay: 70ms;
+    transition-duration: 620ms;
+    pointer-events: auto;
+  }
+  .record[data-armed] .record-body {
+    transform: rotateY(-60deg);
+    transition-delay: 380ms;
+    transition-duration: 760ms;
+  }
+  .record[data-armed] .record-spine::after {
+    opacity: 0.55;
+  }
+
+  .tape[data-armed] {
+    z-index: 20;
+    transition-delay: 0s;
+  }
+  .tape[data-armed] .tape-grab {
+    transform: translate3d(0, -10px, 70px);
+    transition: transform 220ms cubic-bezier(0.2, 0.7, 0.3, 1);
+    pointer-events: auto;
+  }
+  .tape[data-armed] .tape-tilt {
+    transform: rotateX(78deg);
+    transition: transform 420ms cubic-bezier(0.25, 0.9, 0.3, 1.04) 170ms;
+    pointer-events: auto;
+  }
+
+  .cd-slot[data-armed] {
+    z-index: 20;
+    transition-delay: 0s;
+  }
+  .cd-slot[data-armed] .cd-lift {
+    transform: translate3d(0, -34px, 60px) rotateX(0);
+    transition: transform 230ms cubic-bezier(0.2, 0.7, 0.3, 1);
+    pointer-events: auto;
+  }
+  .cd-slot[data-armed][data-primed] .cd-turn {
+    transform: translateX(24px) rotateY(-78deg);
+    transition: transform 440ms cubic-bezier(0.25, 0.9, 0.3, 1.04) 180ms;
+  }
+  .cd-slot[data-armed][data-primed][data-side='left'] .cd-turn {
+    transform: translateX(-24px) rotateY(78deg);
+  }
+  .cd-face-slot[data-armed] .cd-face {
+    transform: translate3d(0, -14px, 70px) rotateX(-6deg);
+    transition: transform 460ms cubic-bezier(0.25, 0.9, 0.3, 1.04);
+  }
+}
