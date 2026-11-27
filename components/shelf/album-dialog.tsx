@@ -2,6 +2,7 @@
 
 import { createRef, useEffect, useEffectEvent, useMemo, useRef, useState } from 'react'
 import useSWR from 'swr'
+import { ChevronLeft, ChevronRight } from 'lucide-react'
 import type { Album, AlbumSummary } from '@/lib/types'
 import { AlbumDetails } from './album-details'
 import { PlayerControls } from './player-controls'
@@ -36,13 +37,27 @@ type AutoplayProps = {
   onAlbumEnd: (played: boolean) => void
 }
 
-type AlbumDialogProps = AutoplayProps & {
-  summary: AlbumSummary | null
-  view: ShelfView
-  onClose: () => void
+type NavProps = {
+  previous: AlbumSummary | null
+  next: AlbumSummary | null
+  onPrevious: () => void
+  onNext: () => void
 }
 
-export function AlbumDialog({ summary, view, onClose, ...autoplay }: AlbumDialogProps) {
+type AlbumDialogProps = AutoplayProps &
+  NavProps & {
+    summary: AlbumSummary | null
+    view: ShelfView
+    onClose: () => void
+  }
+
+function isTypingTarget(target: EventTarget | null) {
+  if (!(target instanceof HTMLElement)) return false
+  if (target.isContentEditable || target.tagName === 'TEXTAREA' || target.tagName === 'SELECT') return true
+  return target.tagName === 'INPUT' || target.getAttribute('role') === 'slider'
+}
+
+export function AlbumDialog({ summary, view, onClose, previous, next, onPrevious, onNext, ...autoplay }: AlbumDialogProps) {
   const dialogRef = useRef<HTMLDialogElement>(null)
   const [audio] = useState<SharedAudio>(() => ({ ref: createRef<HTMLAudioElement>(), handlers: { current: {} } }))
   const on = audio.handlers
@@ -63,6 +78,16 @@ export function AlbumDialog({ summary, view, onClose, ...autoplay }: AlbumDialog
       onClick={(e) => {
         if (e.target === dialogRef.current) onClose()
       }}
+      onKeyDown={(e) => {
+        if (e.altKey || e.ctrlKey || e.metaKey || isTypingTarget(e.target)) return
+        if (e.key === 'ArrowLeft' && previous) {
+          e.preventDefault()
+          onPrevious()
+        } else if (e.key === 'ArrowRight' && next) {
+          e.preventDefault()
+          onNext()
+        }
+      }}
     >
       <audio
         ref={audio.ref}
@@ -77,7 +102,15 @@ export function AlbumDialog({ summary, view, onClose, ...autoplay }: AlbumDialog
         onError={(e) => on.current.onError?.(e)}
       />
       {summary && (
-        <AlbumDialogBody key={summary.id} summary={summary} view={view} onClose={onClose} audio={audio} {...autoplay} />
+        <AlbumDialogBody
+          key={summary.id}
+          summary={summary}
+          view={view}
+          onClose={onClose}
+          audio={audio}
+          nav={{ previous, next, onPrevious, onNext }}
+          {...autoplay}
+        />
       )}
     </dialog>
   )
@@ -88,6 +121,7 @@ function AlbumDialogBody({
   view,
   onClose,
   audio,
+  nav,
   autoplay,
   autoStart,
   upNext,
@@ -98,6 +132,7 @@ function AlbumDialogBody({
   view: ShelfView
   onClose: () => void
   audio: SharedAudio
+  nav: NavProps
 }) {
   const { data, error, isLoading } = useSWR<Album>(`/api/albums/${summary.id}`, fetcher, {
     revalidateOnFocus: false,
@@ -134,6 +169,28 @@ function AlbumDialogBody({
   return (
     <div className="flex min-h-0 flex-1 flex-col">
       <div className="wood-bar relative flex h-12 shrink-0 items-center justify-center px-24">
+        <div className="absolute top-1/2 left-3 flex -translate-y-1/2 items-center gap-1.5">
+          <button
+            type="button"
+            className="ios-btn-wood flex items-center justify-center px-2!"
+            onClick={nav.onPrevious}
+            disabled={!nav.previous}
+            aria-label={nav.previous ? `Previous album: ${nav.previous.title} by ${nav.previous.artist}` : 'Previous album'}
+            title={nav.previous ? `${nav.previous.artist} — ${nav.previous.title}` : undefined}
+          >
+            <ChevronLeft className="size-4" aria-hidden="true" strokeWidth={3} />
+          </button>
+          <button
+            type="button"
+            className="ios-btn-wood flex items-center justify-center px-2!"
+            onClick={nav.onNext}
+            disabled={!nav.next}
+            aria-label={nav.next ? `Next album: ${nav.next.title} by ${nav.next.artist}` : 'Next album'}
+            title={nav.next ? `${nav.next.artist} — ${nav.next.title}` : undefined}
+          >
+            <ChevronRight className="size-4" aria-hidden="true" strokeWidth={3} />
+          </button>
+        </div>
         <p id="album-dialog-title" className="engraved truncate text-lg font-bold">
           {summary.artist} — {summary.title}
         </p>
