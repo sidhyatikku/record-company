@@ -4,6 +4,7 @@ import { memo, useState, type CSSProperties } from 'react'
 import type { AlbumSummary } from '@/lib/types'
 import { AlbumCover } from './album-cover'
 import { useNearViewport } from './use-near-viewport'
+import { useTouchArm } from './use-touch-arm'
 
 type RecordSpineProps = {
   album: AlbumSummary
@@ -26,6 +27,7 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
     const reach = right + sleeve.offsetHeight * 1.02 + 14
     el.style.setProperty('--nudge', `${Math.max(0, Math.round(reach - bounds.right))}px`)
   }
+  const { armed, onPointerDown, shouldOpen } = useTouchArm(album.id, grab)
 
   const style = {
     '--w': `${album.spineWidth}px`,
@@ -48,7 +50,9 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
       // Touch taps must not mutate the DOM on enter: iOS Safari then treats the tap as a hover and drops the click.
       onPointerEnter={(e) => e.pointerType === 'mouse' && grab(e.currentTarget)}
       onFocus={(e) => grab(e.currentTarget)}
-      onClick={() => onSelect(album.id)}
+      data-armed={armed ? '' : undefined}
+      onPointerDown={onPointerDown}
+      onClick={(e) => shouldOpen(e) && onSelect(album.id)}
     >
       <span className="record-lift" aria-hidden>
         <span className="record-body">
