@@ -53,6 +53,11 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
     const index = pool.findIndex((a) => a.id === selectedId)
     return pool[(index + 1) % pool.length]
   }, [pool, selectedId])
+  const previous = useMemo(() => {
+    if (!selectedId || pool.length < 2) return null
+    const index = pool.findIndex((a) => a.id === selectedId)
+    return pool[(index - 1 + pool.length) % pool.length]
+  }, [pool, selectedId])
 
   useEffect(() => {
     if (!songQuery) return
@@ -79,7 +84,7 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
   )
 
   const openAlbum = useCallback(
-    (album: AlbumSummary, source: 'shelf' | 'search_result' | 'shuffle') => {
+    (album: AlbumSummary, source: 'shelf' | 'search_result' | 'shuffle' | 'previous_arrow' | 'next_arrow') => {
       const search = eventContext.current.songQuery
       track('album_open', { ...albumParams(album), source, search_term: search || undefined })
       skipStreak.current = 0
@@ -104,6 +109,12 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
   const handleShuffle = useCallback(() => {
     openAlbum(pool[Math.floor(Math.random() * pool.length)], 'shuffle')
   }, [pool, openAlbum])
+  const handlePrevious = useCallback(() => {
+    if (previous) openAlbum(previous, 'previous_arrow')
+  }, [previous, openAlbum])
+  const handleNext = useCallback(() => {
+    if (upNext) openAlbum(upNext, 'next_arrow')
+  }, [upNext, openAlbum])
   const handleToggleAutoplay = useCallback(() => {
     track('autoplay_toggle', { enabled: !autoplay, ...(selected ? albumParams(selected) : {}) })
     setAutoplay(!autoplay)
@@ -161,6 +172,10 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
         summary={selected}
         view={view}
         onClose={handleClose}
+        previous={previous}
+        next={upNext}
+        onPrevious={handlePrevious}
+        onNext={handleNext}
         autoplay={autoplay}
         autoStart={selected != null && selected.id === autoStartId}
         upNext={autoplay ? upNext : null}

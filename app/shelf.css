@@ -363,6 +363,7 @@
 .album-dialog {
   width: min(1120px, calc(100vw - 24px));
   max-width: none;
+  height: min(860px, calc(100dvh - 24px));
   max-height: calc(100dvh - 24px);
   margin: auto;
   padding: 0;
