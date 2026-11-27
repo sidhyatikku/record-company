@@ -1022,6 +1022,96 @@
     transition-delay: 100ms;
   }
 
+  /* Racks hold ~2,000 items. Resting 3D contexts (perspective, preserve-3d, a
+     tilted lean) turn each one into its own compositor layer, so phones only
+     build the 3D stage for items that have been tapped (primed/armed), and
+     off-screen cubbies and slots skip layout and paint entirely. */
+  .tape,
+  .cd-slot {
+    perspective: none;
+  }
+  .tape-grab,
+  .tape-tilt,
+  .cd-turn {
+    transform-style: flat;
+  }
+  .cd-lift {
+    transform: none;
+    transform-style: flat;
+  }
+  .tape:is([data-armed], [data-primed]),
+  .cd-slot:is([data-armed], [data-primed]) {
+    perspective: 800px;
+  }
+  .tape:is([data-armed], [data-primed]) :is(.tape-grab, .tape-tilt),
+  .cd-slot:is([data-armed], [data-primed]) :is(.cd-lift, .cd-turn) {
+    transform-style: preserve-3d;
+  }
+
+  .cassette-cubby {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 780px;
+    box-shadow:
+      inset 0 5px 8px rgba(0, 0, 0, 0.55),
+      0 1px 0 rgba(255, 255, 255, 0.55);
+  }
+  .cassette-cubby:has([data-armed]) {
+    content-visibility: visible;
+  }
+  .cassette-cabinet {
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.45);
+  }
+  .tape-spine {
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  }
+  .tape-spine::after {
+    content: none;
+  }
+
+  .cd-slot:not(.cd-face-slot) {
+    content-visibility: auto;
+  }
+  .cd-slot:is([data-armed], [data-primed]) {
+    content-visibility: visible;
+  }
+  .cd-spine {
+    box-shadow: none;
+  }
+  /* Same shelf boards as desktop, drawn as one row-high tile repeated down the
+     rack instead of repeating gradients rastered across its full height. */
+  .cd-rack {
+    background:
+      linear-gradient(
+        to bottom,
+        transparent 0 var(--slot),
+        #f0c387 var(--slot),
+        #d39a57 calc(var(--slot) + 3px),
+        #b0712f calc(var(--row) - 5px),
+        #5a3210 calc(var(--row) - 1px),
+        transparent var(--row)
+      ),
+      linear-gradient(
+        to bottom,
+        transparent 0 44px,
+        #c58a4b 44px,
+        #e2b07a 47px,
+        #a86d32 51px,
+        rgba(0, 0, 0, 0.4) 52px,
+        transparent 56px 132px,
+        #c58a4b 132px,
+        #e2b07a 135px,
+        #a86d32 139px,
+        rgba(0, 0, 0, 0.4) 140px,
+        transparent 144px
+      ),
+      #1f1208;
+    background-size: 100% var(--row), 100% var(--row), auto;
+    background-repeat: repeat-y, repeat-y, no-repeat;
+    background-origin: content-box, content-box, padding-box;
+    background-clip: content-box, content-box, padding-box;
+    box-shadow: inset 0 8px 10px -6px rgba(0, 0, 0, 0.8);
+  }
+
   .album-dialog[open] {
     animation: fade-in 180ms ease-out;
   }
