@@ -168,8 +168,22 @@
   cursor: pointer;
   outline: none;
 }
-/* 3D contexts are only created once a spine is touched: iOS Safari turns each one into a
+/* Mouse devices keep 3D contexts on every spine so the hover pull-out starts already in 3D.
+   Touch devices only create them once a spine is tapped: iOS Safari turns each one into a
    GPU layer and kills the tab when ~2,000 spines all have one at rest. */
+@media (hover: hover) and (pointer: fine) {
+  .record {
+    perspective: 1000px;
+    perspective-origin: 50% 30%;
+  }
+  .record .record-lift,
+  .record .record-body {
+    transform-style: preserve-3d;
+  }
+  .record .record-spine {
+    backface-visibility: hidden;
+  }
+}
 .record[data-primed] {
   perspective: 1000px;
   perspective-origin: 50% 30%;
