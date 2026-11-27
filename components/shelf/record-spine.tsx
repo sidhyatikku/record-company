@@ -3,6 +3,7 @@
 import { memo, useState, type CSSProperties } from 'react'
 import type { AlbumSummary } from '@/lib/types'
 import { AlbumCover } from './album-cover'
+import { useNearViewport } from './use-near-viewport'
 
 type RecordSpineProps = {
   album: AlbumSummary
@@ -12,6 +13,8 @@ type RecordSpineProps = {
 export const RecordSpine = memo(function RecordSpine({ album, onSelect }: RecordSpineProps) {
   // Mount the cover face lazily on first hover/focus so 1,973 sleeves don't all render artwork up front.
   const [primed, setPrimed] = useState(false)
+  // Spine artwork is a full cover image; only fetch it once the spine nears the viewport.
+  const [spineRef, near] = useNearViewport<HTMLButtonElement>()
 
   const grab = (el: HTMLElement) => {
     setPrimed(true)
@@ -34,6 +37,7 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
 
   return (
     <button
+      ref={spineRef}
       type="button"
       className="record"
       style={style}
@@ -49,7 +53,7 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
           <span
             className="record-spine"
             style={
-              album.cover
+              album.cover && near
                 ? { backgroundImage: `url("${album.cover}")`, backgroundPosition: '8% center', backgroundSize: 'auto 100%' }
                 : undefined
             }
