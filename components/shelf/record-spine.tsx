@@ -42,6 +42,7 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
       className="record"
       style={style}
       data-cover={album.cover ? '' : undefined}
+      data-primed={primed ? '' : undefined}
       aria-label={`${album.artist} — ${album.title}${album.year ? ` (${album.year})` : ''}`}
       title={`${album.artist} — ${album.title}`}
       onPointerEnter={(e) => grab(e.currentTarget)}
@@ -59,8 +60,8 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
             }
           />
 
-          <span className="record-cover">
-            {primed && (
+          {primed && (
+            <span className="record-cover">
               <AlbumCover
                 title={album.title}
                 artist={album.artist}
@@ -69,8 +70,8 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
                 className="size-full"
                 eager
               />
-            )}
-          </span>
+            </span>
+          )}
         </span>
       </span>
     </button>
