@@ -76,6 +76,7 @@ const CassetteTape = memo(function CassetteTape({
       onPointerEnter={(e) => e.pointerType === 'mouse' && setPrimed(true)}
       onFocus={() => setPrimed(true)}
       data-armed={armed ? '' : undefined}
+      data-primed={primed || undefined}
       onPointerDown={onPointerDown}
       onClick={(e) => shouldOpen(e) && onSelect(album.id)}
     >
