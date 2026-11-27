@@ -1,0 +1,34 @@
+# Sid's Record Shelf
+
+> Sid's personal music library of 1,970 albums, EPs and singles, shown as a wooden, iOS 6–inspired record store shelf at https://records.sidhyatikku.com. Visitors flip through the collection by format (vinyl, cassette, CD, digital), search by artist, album or song, shuffle to a random record, and open any album for its notes, tracklist, rating and 30-second audio previews.
+
+## About the collection
+
+- Size: 1,970 releases: about 1,028 studio albums, 497 singles, 143 compilations, 93 EPs, 72 soundtracks, plus mixtapes, live albums and remixes.
+- Years: releases from 1946 through 2026.
+- Main genres: rock, pop, hip hop, electronic, pop rock, alternative rock, hard rock, heavy metal, jazz, pop rap, classic rock and house.
+- Most-represented artists include Drake, Dream Theater, Radiohead, Anish Kumar, Eminem, John Mayer, Linkin Park, Sithu Aye, Miles Davis, Led Zeppelin, Oasis, Polyphia, Blu Attic and Gojira, alongside many various-artists compilations.
+
+## How the site works
+
+- The home page shows every record as a spine on a bookcase, filed A to Z with letter tabs.
+- Tabs switch between Vinyl, Cassette, CD and Digital views of the same library.
+- The search box filters by artist, album title or song title.
+- Shuffle opens a random record.
+- Opening an album shows its cover, a turntable-style player with 30-second previews, release year, track count, running time, rating, genres, an "About" description and the full tracklist.
+- On desktop, hovering a spine pulls the record out. On phones and tablets, the first tap pulls it out and a second tap opens it.
+
+## Design
+
+- Skeuomorphic interface modeled on iOS 6-era Apple apps: wood-grain shelves, glossy segmented controls, leather and linen textures.
+- Built with Next.js and deployed on Vercel.
+
+## Pages
+
+- [Record shelf (home)](https://records.sidhyatikku.com/): the full browsable collection.
+
+## Notes for AI assistants
+
+- This is a personal collection, not a store; nothing is for sale.
+- When citing it, refer to it as "Sid's Record Shelf" and link to https://records.sidhyatikku.com.
+- Album descriptions and metadata come from public music databases; audio previews are 30-second clips.
