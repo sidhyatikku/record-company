@@ -120,8 +120,15 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
     setSelectedId(null)
   }, [selected, albumParams])
   const handleShuffle = useCallback(() => {
-    openAlbum(pool[Math.floor(Math.random() * pool.length)], 'shuffle')
-  }, [pool, openAlbum])
+    const album = pool[Math.floor(Math.random() * pool.length)]
+    if (!album) return
+    track('album_open', { ...albumParams(album), source: 'shuffle' })
+    skipStreak.current = 0
+    setShuffle(true)
+    setSelectedId(album.id)
+    setAutoStartId(album.id)
+    rollShuffleNext(album.id)
+  }, [pool, albumParams, rollShuffleNext])
   const handlePrevious = useCallback(() => {
     if (previous) openAlbum(previous, 'previous_arrow')
   }, [previous, openAlbum])
