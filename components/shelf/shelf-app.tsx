@@ -59,6 +59,18 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
     return pool[(index - 1 + pool.length) % pool.length]
   }, [pool, selectedId])
 
+  const [shuffle, setShuffle] = useState(false)
+  const [shuffleNextId, setShuffleNextId] = useState<string | null>(null)
+  const shuffleNext = useMemo(() => albums.find((a) => a.id === shuffleNextId) ?? null, [albums, shuffleNextId])
+  const rollShuffleNext = useCallback(
+    (excludeId: string | null) => {
+      const candidates = pool.length > 1 ? pool.filter((a) => a.id !== excludeId) : pool
+      setShuffleNextId(candidates[Math.floor(Math.random() * candidates.length)]?.id ?? null)
+    },
+    [pool],
+  )
+  const queuedNext = shuffle ? shuffleNext : upNext
+
   useEffect(() => {
     if (!songQuery) return
     const timer = setTimeout(() => {
@@ -90,8 +102,9 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
       skipStreak.current = 0
       setAutoStartId(null)
       setSelectedId(album.id)
+      if (shuffle) rollShuffleNext(album.id)
     },
-    [albumParams],
+    [albumParams, shuffle, rollShuffleNext],
   )
   const handleSelect = useCallback(
     (id: string) => {
@@ -119,27 +132,33 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
     track('autoplay_toggle', { enabled: !autoplay, ...(selected ? albumParams(selected) : {}) })
     setAutoplay(!autoplay)
   }, [autoplay, selected, albumParams])
+  const handleToggleShuffle = useCallback(() => {
+    if (!shuffle) rollShuffleNext(selectedId)
+    setShuffle(!shuffle)
+  }, [shuffle, selectedId, rollShuffleNext])
   const handleAlbumEnd = useCallback(
     (played: boolean) => {
       skipStreak.current = played ? 0 : skipStreak.current + 1
-      if (!upNext || skipStreak.current > MAX_SILENT_SKIPS) {
+      if (!queuedNext || skipStreak.current > MAX_SILENT_SKIPS) {
         track('autoplay_stopped', {
-          reason: upNext ? 'too_many_unplayable_albums' : 'end_of_shelf',
+          reason: queuedNext ? 'too_many_unplayable_albums' : 'end_of_shelf',
           last_album_id: selectedId,
         })
         setAutoStartId(null)
         return
       }
       track('autoplay_next_album', {
-        ...albumParams(upNext),
+        ...albumParams(queuedNext),
         from_album_id: selectedId,
         previous_album_played: played,
+        shuffle,
       })
-      track('album_open', { ...albumParams(upNext), source: 'autoplay' })
-      setSelectedId(upNext.id)
-      setAutoStartId(upNext.id)
+      track('album_open', { ...albumParams(queuedNext), source: shuffle ? 'shuffle_play' : 'autoplay' })
+      setSelectedId(queuedNext.id)
+      setAutoStartId(queuedNext.id)
+      if (shuffle) rollShuffleNext(queuedNext.id)
     },
-    [upNext, selectedId, albumParams],
+    [queuedNext, shuffle, selectedId, albumParams, rollShuffleNext],
   )
   const handleViewChange = useCallback(
     (next: ShelfView) => {
@@ -178,7 +197,9 @@ export function ShelfApp({ albums }: { albums: AlbumSummary[] }) {
         onNext={handleNext}
         autoplay={autoplay}
         autoStart={selected != null && selected.id === autoStartId}
-        upNext={autoplay ? upNext : null}
+        upNext={shuffle ? shuffleNext : autoplay ? upNext : null}
+        shuffle={shuffle}
+        onToggleShuffle={handleToggleShuffle}
         onToggleAutoplay={handleToggleAutoplay}
         onAlbumEnd={handleAlbumEnd}
       />

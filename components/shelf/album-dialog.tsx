@@ -33,6 +33,8 @@ type AutoplayProps = {
   autoplay: boolean
   autoStart: boolean
   upNext: AlbumSummary | null
+  shuffle: boolean
+  onToggleShuffle: () => void
   onToggleAutoplay: () => void
   onAlbumEnd: (played: boolean) => void
 }
@@ -125,6 +127,8 @@ function AlbumDialogBody({
   autoplay,
   autoStart,
   upNext,
+  shuffle,
+  onToggleShuffle,
   onToggleAutoplay,
   onAlbumEnd,
 }: AutoplayProps & {
@@ -153,6 +157,9 @@ function AlbumDialogBody({
     },
     autoStart: autoStart && previewsReady,
     onQueueEnd: autoplay ? () => onAlbumEnd(played.current) : undefined,
+    shuffle,
+    onToggleShuffle,
+    onShuffleNext: () => onAlbumEnd(played.current),
     analytics: { album_id: summary.id, album_title: summary.title, artist: summary.artist, view },
   })
 
@@ -163,8 +170,8 @@ function AlbumDialogBody({
   const nothingToPlay = Boolean(error) || (previewsReady && !player.hasPlayable)
   const skipAlbum = useEffectEvent(() => onAlbumEnd(false))
   useEffect(() => {
-    if (autoStart && autoplay && nothingToPlay) skipAlbum()
-  }, [autoStart, autoplay, nothingToPlay])
+    if (autoStart && (autoplay || shuffle) && nothingToPlay) skipAlbum()
+  }, [autoStart, autoplay, shuffle, nothingToPlay])
 
   return (
     <div className="flex min-h-0 flex-1 flex-col">
