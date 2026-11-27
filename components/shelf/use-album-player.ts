@@ -23,6 +23,10 @@ type PlayerOptions = {
   refreshSrc?: (index: number) => Promise<string | null>
   autoStart?: boolean
   onQueueEnd?: () => void
+  /** Library-wide shuffle: every advance jumps to a random song on a random album instead of the next track. */
+  shuffle?: boolean
+  onToggleShuffle?: () => void
+  onShuffleNext?: () => void
   /** Album details attached to every analytics event this player sends. */
   analytics?: AnalyticsParams
 }
@@ -84,19 +88,14 @@ export function buildPlayableTracks(album: Album | undefined, deezer: DeezerAlbu
   })
 }
 
-function shuffled<T>(items: T[]) {
-  const out = [...items]
-  for (let i = out.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1))
-    ;[out[i], out[j]] = [out[j], out[i]]
-  }
-  return out
+function pickRandom<T>(items: T[]): T | undefined {
+  return items[Math.floor(Math.random() * items.length)]
 }
 
 export function useAlbumPlayer(
   tracks: PlayableTrack[],
   audio: SharedAudio,
-  { refreshSrc, autoStart = false, onQueueEnd, analytics }: PlayerOptions = {},
+  { refreshSrc, autoStart = false, onQueueEnd, shuffle = false, onToggleShuffle, onShuffleNext, analytics }: PlayerOptions = {},
 ) {
   const audioRef = audio.ref
   const volumeGesture = useRef<{ from: number; timer: ReturnType<typeof setTimeout> } | null>(null)
@@ -112,12 +111,11 @@ export function useAlbumPlayer(
   const [duration, setDuration] = useState(0)
   const [volume, setVolume] = useState(() => audioRef.current?.volume ?? 0.8)
   const [muted, setMuted] = useState(() => audioRef.current?.muted ?? false)
-  const [shuffle, setShuffle] = useState(false)
-  const [shuffleOrder, setShuffleOrder] = useState<number[]>([])
   const [failed, setFailed] = useState<ReadonlySet<number>>(() => new Set())
 
   const playable = useMemo(() => tracks.flatMap((t, i) => (t.src ? [i] : [])), [tracks])
-  const queue = (shuffle ? shuffleOrder : playable).filter((i) => !failed.has(i))
+  const queue = playable.filter((i) => !failed.has(i))
+  const firstPick = () => (shuffle ? pickRandom(queue) : queue[0])
 
   const canPlay = (index: number) => Boolean(tracks[index]?.src) && !failed.has(index)
 
@@ -166,9 +164,14 @@ export function useAlbumPlayer(
   function step(direction: 1 | -1, trigger: PlayTrigger) {
     const audio = audioRef.current
     if (!audio) return
+    if (direction === 1 && shuffle && onShuffleNext) {
+      emit('shuffle_next', null, { trigger })
+      onShuffleNext()
+      return
+    }
     const position = currentIndex == null ? -1 : queue.indexOf(currentIndex)
     let target: number | undefined = queue[position + direction]
-    if (position === -1 && currentIndex != null && !shuffle) {
+    if (position === -1 && currentIndex != null) {
       target =
         direction === 1 ? queue.find((i) => i > currentIndex) : [...queue].reverse().find((i) => i < currentIndex)
     }
@@ -187,7 +190,8 @@ export function useAlbumPlayer(
     const audio = audioRef.current
     if (!audio) return
     if (currentIndex == null) {
-      if (queue[0] != null) playAt(queue[0], 'play_button')
+      const first = firstPick()
+      if (first != null) playAt(first, 'play_button')
       return
     }
     if (!canPlay(currentIndex)) {
@@ -282,20 +286,19 @@ export function useAlbumPlayer(
 
   function toggleShuffle() {
     emit('shuffle_toggle', null, { enabled: !shuffle })
-    if (!shuffle) {
-      const rest = shuffled(playable.filter((i) => i !== currentIndex))
-      setShuffleOrder(currentIndex == null ? rest : [currentIndex, ...rest])
-    }
-    setShuffle(!shuffle)
+    onToggleShuffle?.()
   }
 
-  const firstQueued = queue[0]
-  const startQueue = useEffectEvent((index: number) => playAt(index, 'auto_start'))
+  const hasQueued = queue.length > 0
+  const startQueue = useEffectEvent(() => {
+    const first = firstPick()
+    if (first != null) playAt(first, 'auto_start')
+  })
   useEffect(() => {
-    if (!autoStart || autoStarted.current || firstQueued == null) return
+    if (!autoStart || autoStarted.current || !hasQueued) return
     autoStarted.current = true
-    startQueue(firstQueued)
-  }, [autoStart, firstQueued])
+    startQueue()
+  }, [autoStart, hasQueued])
 
   const handlers: AudioHandlers = {
     onPlay: () => setIsPlaying(true),
