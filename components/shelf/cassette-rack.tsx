@@ -71,7 +71,7 @@ const CassetteTape = memo(function CassetteTape({
       className="tape"
       style={style}
       aria-label={`${album.artist} — ${album.title}${album.year ? ` (${album.year})` : ''}`}
-      onPointerEnter={() => setPrimed(true)}
+      onPointerEnter={(e) => e.pointerType === 'mouse' && setPrimed(true)}
       onFocus={() => setPrimed(true)}
       onClick={() => onSelect(album.id)}
     >

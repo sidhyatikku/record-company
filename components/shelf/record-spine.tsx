@@ -45,7 +45,8 @@ export const RecordSpine = memo(function RecordSpine({ album, onSelect }: Record
       data-primed={primed ? '' : undefined}
       aria-label={`${album.artist} — ${album.title}${album.year ? ` (${album.year})` : ''}`}
       title={`${album.artist} — ${album.title}`}
-      onPointerEnter={(e) => grab(e.currentTarget)}
+      // Touch taps must not mutate the DOM on enter: iOS Safari then treats the tap as a hover and drops the click.
+      onPointerEnter={(e) => e.pointerType === 'mouse' && grab(e.currentTarget)}
       onFocus={(e) => grab(e.currentTarget)}
       onClick={() => onSelect(album.id)}
     >
