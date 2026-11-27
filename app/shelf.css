@@ -373,6 +373,50 @@
   animation: fade-in 320ms ease;
 }
 
+/* Touch screens: no hover lift (iOS keeps :hover stuck after a tap and the 3D
+   transforms cost GPU memory), a full-screen dialog, and the shelf behind it
+   stops painting while the dialog is open. */
+@media (hover: none), (pointer: coarse) {
+  .record:hover .record-lift {
+    transform: translateY(3px);
+  }
+  .record:hover .record-body,
+  .tape:hover .tape-grab,
+  .tape:hover .tape-tilt {
+    transform: none;
+  }
+  .cd-slot:hover .cd-lift {
+    transform: rotateX(10deg);
+  }
+  .cd-slot:hover::after {
+    content: none;
+  }
+  .record,
+  .tape,
+  .cd-slot {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+  .album-dialog {
+    width: 100vw;
+    height: 100dvh;
+    max-height: none;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+  }
+  .album-dialog::backdrop {
+    backdrop-filter: none;
+    background: #1a0e04;
+  }
+  :root:has(.album-dialog[open]) main {
+    visibility: hidden;
+  }
+  :root:has(.album-dialog[open]) .album-dialog {
+    visibility: visible;
+  }
+}
+
 @keyframes dialog-in {
   from {
     opacity: 0;

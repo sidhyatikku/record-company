@@ -4,6 +4,8 @@ import { useEffect, useRef, useState } from 'react'
 
 type Listener = () => void
 
+const EAGER_QUERY = '(min-width: 768px)'
+
 const listeners = new WeakMap<Element, Listener>()
 let observer: IntersectionObserver | null = null
 
@@ -24,7 +26,7 @@ function getObserver() {
   return observer
 }
 
-/** Becomes true (and stays true) once the element comes within ~300px of the viewport. */
+/** On phones, becomes true (and stays true) once the element comes within ~300px of the viewport; immediately true at 768px and wider. */
 export function useNearViewport<T extends Element>() {
   const ref = useRef<T>(null)
   const [near, setNear] = useState(false)
@@ -32,7 +34,8 @@ export function useNearViewport<T extends Element>() {
   useEffect(() => {
     const el = ref.current
     if (!el || near) return
-    if (typeof IntersectionObserver === 'undefined') {
+    // Phones lazy-load to stay inside iOS Safari's image memory budget; tablets and desktops load everything up front.
+    if (typeof IntersectionObserver === 'undefined' || window.matchMedia(EAGER_QUERY).matches) {
       setNear(true)
       return
     }
